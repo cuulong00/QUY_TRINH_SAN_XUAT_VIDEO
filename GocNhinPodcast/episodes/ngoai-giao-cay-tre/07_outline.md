@@ -1,0 +1,194 @@
+# 07_outline.md
+
+episode_slug: ngoai-giao-cay-tre
+total_chapters: 10
+
+chapter_01:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_02:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_03:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_04:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_05:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_06:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_07:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_08:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_09:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_10:
+  title:
+  analytical_function:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:

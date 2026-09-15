@@ -1,0 +1,15 @@
+Trở lại với câu hỏi ở những phút đầu tiên: Rốt cuộc, một sân vận động mang tên tư nhân có thực sự là tài sản của quốc gia?
+
+Để trả lời câu hỏi này, chúng ta cần thay đổi góc nhìn từ tư duy sở hữu tĩnh sang tư duy giá trị động. Sở hữu một khối tài sản trên giấy tờ nhưng phải cõng hàng trăm tỷ đồng thua lỗ như bài học Mỹ Đình, thực chất chỉ là một gánh nặng ngân sách.
+
+Ngược lại, khi một tổ hợp thể thao tư nhân vận hành hiệu quả ba trăm sáu mươi lăm ngày, nó trở thành một cỗ máy tạo dòng tiền không ngừng nghỉ. Từ thuế giá trị gia tăng trên từng tấm vé xem ca nhạc, thuế thu nhập doanh nghiệp, cho đến thuế thu nhập cá nhân từ hàng vạn việc làm mới.
+
+Cùng với đó là dòng thuế gián tiếp khổng lồ lan tỏa sang ngành du lịch, lưu trú và mạng lưới giao thông đô thị.
+
+Đây chính là mô hình cộng sinh công tư của một nền kinh tế trưởng thành. Nhà nước không tốn một đồng vốn đầu tư ban đầu, không gánh rủi ro vận hành, nhưng vẫn thu về dòng ngân sách bền vững.
+
+Chúng ta không cần đứng tên trên sổ đỏ của một công trình. Chúng ta chỉ cần công trình đó nộp thuế sòng phẳng, để tạo thêm nguồn lực xây dựng trường học, bệnh viện và các phúc lợi công cộng.
+
+Một biểu tượng quốc gia đích thực không được đo bằng việc bên nào đứng tên sở hữu. Nó được định nghĩa bằng giá trị thặng dư thực tế mà nó đóng góp cho sự phát triển của đất nước.
+
+Cảm ơn quý vị đã đồng hành cùng Góc Nhìn Podcast. Xin chào và hẹn gặp lại trong những góc nhìn kinh tế tiếp theo.

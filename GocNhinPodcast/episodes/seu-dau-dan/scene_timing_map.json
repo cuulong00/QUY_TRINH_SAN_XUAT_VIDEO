@@ -1,0 +1,3038 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "text_overlay": "",
+    "visual_summary": "Năm 2010, Vinashin sụp đổ.",
+    "sentences": [
+      "Năm 2010, Vinashin sụp đổ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Từng là niềm kiêu hãnh của ngành đóng tàu Việt Nam, tập đoàn này bành trướng ra hơn 200 công ty con.",
+    "sentences": [
+      "Từng là niềm kiêu hãnh của ngành đóng tàu Việt Nam, tập đoàn này bành trướng ra hơn 200 công ty con."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Tập đoàn nhảy từ đóng tàu sang kinh doanh taxi, khách sạn, thậm chí cả sản xuất bia rượu.",
+    "sentences": [
+      "Tập đoàn nhảy từ đóng tàu sang kinh doanh taxi, khách sạn, thậm chí cả sản xuất bia rượu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "BÀI HỌC VINASHIN 2010: NỢ XẤU 86.000 TỶ VNĐ",
+    "visual_summary": "Kết cục để lại 86 nghìn tỷ đồng nợ xấu, bằng cả ngân sách y tế quốc gia trong một năm.",
+    "sentences": [
+      "Kết cục để lại 86 nghìn tỷ đồng nợ xấu, bằng cả ngân sách y tế quốc gia trong một năm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Lãnh đạo vướng vòng lao lý, hàng vạn công nhân mất việc làm.",
+    "sentences": [
+      "Lãnh đạo vướng vòng lao lý, hàng vạn công nhân mất việc làm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Vết sẹo in hằn lên niềm tin vào doanh nghiệp nhà nước suốt cả một thập kỷ.",
+    "sentences": [
+      "Vết sẹo in hằn lên niềm tin vào doanh nghiệp nhà nước suốt cả một thập kỷ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Đó là cái giá khi phát triển doanh nghiệp lớn mà không có kỷ luật.",
+    "sentences": [
+      "Đó là cái giá khi phát triển doanh nghiệp lớn mà không có kỷ luật."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Mười sáu năm sau, Việt Nam lại đặt cược lớn.",
+    "sentences": [
+      "Mười sáu năm sau, Việt Nam lại đặt cược lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "NGHỊ QUYẾT 79: TẬP TRUNG 20 SẾU ĐẦU ĐÀN",
+    "visual_summary": "Lần này, Nghị quyết 79 tuyên bố dồn nguồn lực thể chế cho khoảng 20 tập đoàn lớn.",
+    "sentences": [
+      "Lần này, Nghị quyết 79 tuyên bố dồn nguồn lực thể chế cho khoảng 20 tập đoàn lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Trong đó gồm 7 tập đoàn Nhà nước giữ hạ tầng chiến lược.",
+    "sentences": [
+      "Trong đó gồm 7 tập đoàn Nhà nước giữ hạ tầng chiến lược."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Và hơn chục tập đoàn Tư nhân dấn thân vào siêu dự án tỷ đô la.",
+    "sentences": [
+      "Và hơn chục tập đoàn Tư nhân dấn thân vào siêu dự án tỷ đô la."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "ĐẦU TÀU QUỐC GIA HAY CON TIN TÀI CHÍNH?",
+    "visual_summary": "Khi một doanh nghiệp trở nên quá lớn để sụp đổ, liệu nó sẽ kéo hàng nghìn doanh nghiệp nhỏ cùng phát triển?",
+    "sentences": [
+      "Khi một doanh nghiệp trở nên quá lớn để sụp đổ, liệu nó sẽ kéo hàng nghìn doanh nghiệp nhỏ cùng phát triển?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Hay nó sẽ hút sạch tài nguyên và bắt cóc cả nền tài chính làm con tin?",
+    "sentences": [
+      "Hay nó sẽ hút sạch tài nguyên và bắt cóc cả nền tài chính làm con tin?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "text_overlay": "",
+    "visual_summary": "Đây là Góc Nhìn Podcast.",
+    "sentences": [
+      "Đây là Góc Nhìn Podcast."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Hôm nay, chúng ta giải mã chiến lược phát triển đại doanh nghiệp.",
+    "sentences": [
+      "Hôm nay, chúng ta giải mã chiến lược phát triển đại doanh nghiệp."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Đây là cuộc đại phẫu cấu trúc kinh tế định hình vận mệnh Việt Nam đến năm 2045.",
+    "sentences": [
+      "Đây là cuộc đại phẫu cấu trúc kinh tế định hình vận mệnh Việt Nam đến năm 2045."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Nhiều người thắc mắc: tại sao sau bài học từ quá khứ, chúng ta không chia nhỏ rủi ro?",
+    "sentences": [
+      "Nhiều người thắc mắc: tại sao sau bài học từ quá khứ, chúng ta không chia nhỏ rủi ro?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Tại sao đất nước lại tiếp tục dồn lực?",
+    "sentences": [
+      "Tại sao đất nước lại tiếp tục dồn lực?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Hãy nhìn vào quy luật khách quan của kinh tế học phát triển.",
+    "sentences": [
+      "Hãy nhìn vào quy luật khách quan của kinh tế học phát triển."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Nếu chia nhỏ 1 tỷ đô la cho 1.000 xưởng cơ khí, nền kinh tế chỉ thu về 1.000 xưởng cơ khí nhỏ lẻ.",
+    "sentences": [
+      "Nếu chia nhỏ 1 tỷ đô la cho 1.000 xưởng cơ khí, nền kinh tế chỉ thu về 1.000 xưởng cơ khí nhỏ lẻ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Các xưởng nhỏ không đủ sức chen chân vào bất kỳ chuỗi cung ứng toàn cầu nào.",
+    "sentences": [
+      "Các xưởng nhỏ không đủ sức chen chân vào bất kỳ chuỗi cung ứng toàn cầu nào."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "PHÉP THỬ 1 TỶ USD: DỒN LỰC HAY CHIA NHỎ?",
+    "visual_summary": "Nếu dồn 1 tỷ đô la cho một tập đoàn có năng lực.",
+    "sentences": [
+      "Nếu dồn 1 tỷ đô la cho một tập đoàn có năng lực."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Quốc gia sẽ có nhà máy luyện thép ray cao tốc đạt chuẩn quốc tế.",
+    "sentences": [
+      "Quốc gia sẽ có nhà máy luyện thép ray cao tốc đạt chuẩn quốc tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Nhà máy đủ sức cung ứng cho siêu dự án đường sắt 67 tỷ đô la.",
+    "sentences": [
+      "Nhà máy đủ sức cung ứng cho siêu dự án đường sắt 67 tỷ đô la."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Đất nước không phải chuyển một đồng ngoại tệ ra nước ngoài.",
+    "sentences": [
+      "Đất nước không phải chuyển một đồng ngoại tệ ra nước ngoài."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Khi nhà máy vận hành, nó không đứng một mình.",
+    "sentences": [
+      "Khi nhà máy vận hành, nó không đứng một mình."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Nó kéo theo hàng trăm doanh nghiệp phụ trợ về quặng, than, vận tải và cơ khí chính xác cùng lớn lên.",
+    "sentences": [
+      "Nó kéo theo hàng trăm doanh nghiệp phụ trợ về quặng, than, vận tải và cơ khí chính xác cùng lớn lên."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC028",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "text_overlay": "",
+    "visual_summary": "Quy luật này không mới trên thế giới.",
+    "sentences": [
+      "Quy luật này không mới trên thế giới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Nhật Bản đã đi qua với các tập đoàn Keiretsu, Hàn Quốc đã đi qua với Chaebol.",
+    "sentences": [
+      "Nhật Bản đã đi qua với các tập đoàn Keiretsu, Hàn Quốc đã đi qua với Chaebol."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "CỖ XE SONG MÃ: PHÂN CÔNG QUỐC DOANH & TƯ NHÂN",
+    "visual_summary": "Bây giờ, Việt Nam đang thiết lập phiên bản của riêng mình: một cỗ xe song mã với sự phân công rõ ràng.",
+    "sentences": [
+      "Bây giờ, Việt Nam đang thiết lập phiên bản của riêng mình: một cỗ xe song mã với sự phân công rõ ràng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC031",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, khoảng cách giữa thiết kế thể chế và thực thi sẽ quyết định sự thành bại.",
+    "sentences": [
+      "Thế nhưng, khoảng cách giữa thiết kế thể chế và thực thi sẽ quyết định sự thành bại."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC032",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Nó quyết định các tập đoàn sẽ trở thành đầu tàu quốc gia hay lặp lại vết xe đổ quá khứ.",
+    "sentences": [
+      "Nó quyết định các tập đoàn sẽ trở thành đầu tàu quốc gia hay lặp lại vết xe đổ quá khứ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC033",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Cỗ xe song mã ấy bắt đầu từ tuyến phòng thủ: 7 tập đoàn Nhà nước được giao nhiệm vụ giữ nền móng quốc gia.",
+    "sentences": [
+      "Cỗ xe song mã ấy bắt đầu từ tuyến phòng thủ: 7 tập đoàn Nhà nước được giao nhiệm vụ giữ nền móng quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC034",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Họ là ai, và tại sao họ phải tồn tại ngay cả khi thua lỗ?",
+    "sentences": [
+      "Họ là ai, và tại sao họ phải tồn tại ngay cả khi thua lỗ?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 0.79,
+    "text_overlay": "7 TRỤ CỘT HẠ TẦNG QUỐC GIA",
+    "visual_summary": "Bảy tập đoàn.",
+    "sentences": [
+      "Bảy tập đoàn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Không phải bảy doanh nghiệp kinh doanh thông thường, mà là bảy trụ cột được giao nhiệm vụ giữ nền móng quốc gia.",
+    "sentences": [
+      "Không phải bảy doanh nghiệp kinh doanh thông thường, mà là bảy trụ cột được giao nhiệm vụ giữ nền móng quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Viettel, VNPT, MobiFone nắm huyết mạch viễn thông và an ninh mạng.",
+    "sentences": [
+      "Viettel, VNPT, MobiFone nắm huyết mạch viễn thông và an ninh mạng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "EVN và PVN gánh toàn bộ hệ thống năng lượng.",
+    "sentences": [
+      "EVN và PVN gánh toàn bộ hệ thống năng lượng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Tân Cảng Sài Gòn giữ cửa ngõ xuất nhập khẩu.",
+    "sentences": [
+      "Tân Cảng Sài Gòn giữ cửa ngõ xuất nhập khẩu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Và Vietcombank điều tiết dòng chảy tín dụng vĩ mô.",
+    "sentences": [
+      "Và Vietcombank điều tiết dòng chảy tín dụng vĩ mô."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Đây không phải danh sách được chọn ngẫu hứng.",
+    "sentences": [
+      "Đây không phải danh sách được chọn ngẫu hứng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Bộ Kế hoạch và Đầu tư đã sàng lọc qua hệ tiêu chí khắt khe.",
+    "sentences": [
+      "Bộ Kế hoạch và Đầu tư đã sàng lọc qua hệ tiêu chí khắt khe."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "TIÊU CHÍ: TÀI SẢN TỶ USD & THỊ PHẦN >30%",
+    "visual_summary": "Tổng tài sản phải đạt tầm tỷ đô la, thị phần chi phối từ 30% trở lên, và năng lực quản trị vượt trội.",
+    "sentences": [
+      "Tổng tài sản phải đạt tầm tỷ đô la, thị phần chi phối từ 30% trở lên, và năng lực quản trị vượt trội."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Từ hơn 670 doanh nghiệp nhà nước trên cả nước, chỉ 7 cái tên vượt qua vòng lọc cuối cùng.",
+    "sentences": [
+      "Từ hơn 670 doanh nghiệp nhà nước trên cả nước, chỉ 7 cái tên vượt qua vòng lọc cuối cùng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Điều khiến chiến lược này khác biệt hoàn toàn so với quá khứ nằm ở nguyên tắc Nghị quyết 79.",
+    "sentences": [
+      "Điều khiến chiến lược này khác biệt hoàn toàn so với quá khứ nằm ở nguyên tắc Nghị quyết 79."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Bảy tập đoàn này chỉ được phép hoạt động trong các lĩnh vực nền tảng mà tư nhân không thể hoặc không muốn làm.",
+    "sentences": [
+      "Bảy tập đoàn này chỉ được phép hoạt động trong các lĩnh vực nền tảng mà tư nhân không thể hoặc không muốn làm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Năng lượng, viễn thông chiến lược, an ninh tài chính, cảng biển trọng yếu.",
+    "sentences": [
+      "Năng lượng, viễn thông chiến lược, an ninh tài chính, cảng biển trọng yếu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Không được lấn sân sang thương mại, không tranh giành thị phần ở những mảng tư nhân làm tốt.",
+    "sentences": [
+      "Không được lấn sân sang thương mại, không tranh giành thị phần ở những mảng tư nhân làm tốt."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC049",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Đây là bài học xương máu rút ra từ thời Vinashin.",
+    "sentences": [
+      "Đây là bài học xương máu rút ra từ thời Vinashin."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC050",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Khi doanh nghiệp nhà nước nhảy tràn lan sang taxi, khách sạn, bia rượu, hệ thống sụp đổ là tất yếu.",
+    "sentences": [
+      "Khi doanh nghiệp nhà nước nhảy tràn lan sang taxi, khách sạn, bia rượu, hệ thống sụp đổ là tất yếu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC051",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Vậy nếu họ không được tối đa hóa lợi nhuận, thì họ tồn tại để làm gì?",
+    "sentences": [
+      "Vậy nếu họ không được tối đa hóa lợi nhuận, thì họ tồn tại để làm gì?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC052",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Hãy nhìn vào điều xảy ra mỗi khi giá xăng dầu và giá khí đốt thế giới tăng phi mã.",
+    "sentences": [
+      "Hãy nhìn vào điều xảy ra mỗi khi giá xăng dầu và giá khí đốt thế giới tăng phi mã."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC053",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Doanh nghiệp tư nhân có quyền lập tức tăng giá bán hoặc đóng cửa để cắt lỗ.",
+    "sentences": [
+      "Doanh nghiệp tư nhân có quyền lập tức tăng giá bán hoặc đóng cửa để cắt lỗ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC054",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Đó là bản năng sinh tồn của tư bản.",
+    "sentences": [
+      "Đó là bản năng sinh tồn của tư bản."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC055",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Nhưng EVN và Petrolimex thì không được phép làm điều đó.",
+    "sentences": [
+      "Nhưng EVN và Petrolimex thì không được phép làm điều đó."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC056",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Họ buộc phải nhập nguyên liệu giá cao nhưng vẫn neo giữ giá bán ở mức thấp.",
+    "sentences": [
+      "Họ buộc phải nhập nguyên liệu giá cao nhưng vẫn neo giữ giá bán ở mức thấp."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC057",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Họ chấp nhận thua lỗ hàng nghìn tỷ đồng mỗi năm.",
+    "sentences": [
+      "Họ chấp nhận thua lỗ hàng nghìn tỷ đồng mỗi năm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC058",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Quyết định này không phải do yếu kém, đó là mệnh lệnh.",
+    "sentences": [
+      "Quyết định này không phải do yếu kém, đó là mệnh lệnh."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC059",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Mục đích: kiểm soát lạm phát, giữ ổn định đời sống nhân dân.",
+    "sentences": [
+      "Mục đích: kiểm soát lạm phát, giữ ổn định đời sống nhân dân."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC060",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Quan trọng nhất, duy trì chi phí sản xuất đủ thấp cho hàng chục nghìn nhà máy tư nhân và FDI.",
+    "sentences": [
+      "Quan trọng nhất, duy trì chi phí sản xuất đủ thấp cho hàng chục nghìn nhà máy tư nhân và FDI."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC061",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "TRỢ CẤP NGẦM: EVN GÁNH LỖ CHO NỀN KINH TẾ",
+    "visual_summary": "Khoản lỗ trên sổ sách của EVN thực chất là một khoản trợ cấp ngầm khổng lồ dành cho nền kinh tế.",
+    "sentences": [
+      "Khoản lỗ trên sổ sách của EVN thực chất là một khoản trợ cấp ngầm khổng lồ dành cho nền kinh tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC062",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Tư nhân được hưởng giá điện rẻ để cạnh tranh xuất khẩu.",
+    "sentences": [
+      "Tư nhân được hưởng giá điện rẻ để cạnh tranh xuất khẩu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC063",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Người dân được hưởng giá xăng ổn định để không rơi vào khủng hoảng sinh hoạt.",
+    "sentences": [
+      "Người dân được hưởng giá xăng ổn định để không rơi vào khủng hoảng sinh hoạt."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC064",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Còn doanh nghiệp nhà nước gánh chịu sắc đỏ trên bảng cân đối kế toán.",
+    "sentences": [
+      "Còn doanh nghiệp nhà nước gánh chịu sắc đỏ trên bảng cân đối kế toán."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC065",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Đây chính là điểm mù mà dư luận thường bỏ qua.",
+    "sentences": [
+      "Đây chính là điểm mù mà dư luận thường bỏ qua."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC066",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Khi báo chí đưa tin EVN thua lỗ, công chúng phản ứng ngay: quản trị kém, lãng phí, kém hiệu quả.",
+    "sentences": [
+      "Khi báo chí đưa tin EVN thua lỗ, công chúng phản ứng ngay: quản trị kém, lãng phí, kém hiệu quả."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC067",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Nhưng dùng chỉ số lợi nhuận trên vốn chủ sở hữu đánh giá tổ chức buộc bán dưới giá thành là sai từ gốc.",
+    "sentences": [
+      "Nhưng dùng chỉ số lợi nhuận trên vốn chủ sở hữu đánh giá tổ chức buộc bán dưới giá thành là sai từ gốc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC068",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Không thể trói một vận động viên vào tảng đá rồi phàn nàn rằng anh ta chạy chậm.",
+    "sentences": [
+      "Không thể trói một vận động viên vào tảng đá rồi phàn nàn rằng anh ta chạy chậm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC069",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Nhưng sẽ là thiếu trung thực nếu chỉ dừng ở đó.",
+    "sentences": [
+      "Nhưng sẽ là thiếu trung thực nếu chỉ dừng ở đó."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC070",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Nghịch lý đa mục tiêu không miễn trừ cho sự quan liêu và thất thoát thực sự bên trong doanh nghiệp nhà nước.",
+    "sentences": [
+      "Nghịch lý đa mục tiêu không miễn trừ cho sự quan liêu và thất thoát thực sự bên trong doanh nghiệp nhà nước."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC071",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "ĐIỂM NGHẼN THỂ CHẾ: CƠ CHẾ BẢO TOÀN VỐN",
+    "visual_summary": "Cơ chế bảo toàn vốn hiện hành khiến nhiều lãnh đạo sợ sai, không dám ký quyết định đầu tư rủi ro.",
+    "sentences": [
+      "Cơ chế bảo toàn vốn hiện hành khiến nhiều lãnh đạo sợ sai, không dám ký quyết định đầu tư rủi ro."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC072",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Dù đó là rủi ro cần thiết cho đổi mới công nghệ.",
+    "sentences": [
+      "Dù đó là rủi ro cần thiết cho đổi mới công nghệ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC073",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Ranh giới giữa dám nghĩ dám làm và vi phạm quy định bảo toàn vốn mỏng như lưỡi dao.",
+    "sentences": [
+      "Ranh giới giữa dám nghĩ dám làm và vi phạm quy định bảo toàn vốn mỏng như lưỡi dao."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC074",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Sự mơ hồ này trói buộc năng lực sáng tạo của cả hệ thống.",
+    "sentences": [
+      "Sự mơ hồ này trói buộc năng lực sáng tạo của cả hệ thống."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC075",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Nghị quyết 79 đã nhìn thấy điểm nghẽn đó.",
+    "sentences": [
+      "Nghị quyết 79 đã nhìn thấy điểm nghẽn đó."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC076",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Toàn bộ doanh thu từ cổ phần hóa và thoái vốn được phép giữ lại để tăng vốn cho các tập đoàn chiến lược.",
+    "sentences": [
+      "Toàn bộ doanh thu từ cổ phần hóa và thoái vốn được phép giữ lại để tăng vốn cho các tập đoàn chiến lược."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC077",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Cơ chế thử nghiệm cho phép doanh nghiệp nhà nước thí điểm công nghệ mới mà không bị ràng buộc bởi luật cũ.",
+    "sentences": [
+      "Cơ chế thử nghiệm cho phép doanh nghiệp nhà nước thí điểm công nghệ mới mà không bị ràng buộc bởi luật cũ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC078",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Mục tiêu quản trị OECD được đặt ra rõ ràng: 100% doanh nghiệp nhà nước chiến lược phải áp dụng chuẩn OECD trước năm 2030.",
+    "sentences": [
+      "Mục tiêu quản trị OECD được đặt ra rõ ràng: 100% doanh nghiệp nhà nước chiến lược phải áp dụng chuẩn OECD trước năm 2030."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC079",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Trong bảy cái tên, có một ngoại lệ phá vỡ mọi định kiến.",
+    "sentences": [
+      "Trong bảy cái tên, có một ngoại lệ phá vỡ mọi định kiến."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC080",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Viettel — 100% vốn nhà nước, chịu kỷ luật quân đội nghiêm ngặt — lẽ ra phải là biểu tượng của sự trì trệ.",
+    "sentences": [
+      "Viettel — 100% vốn nhà nước, chịu kỷ luật quân đội nghiêm ngặt — lẽ ra phải là biểu tượng của sự trì trệ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC081",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Nhưng Viettel là nghịch lý hiếm hoi trong đội hình.",
+    "sentences": [
+      "Nhưng Viettel là nghịch lý hiếm hoi trong đội hình."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC082",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Viettel nắm giữ xương sống viễn thông lẫn lá chắn quốc phòng quốc gia.",
+    "sentences": [
+      "Viettel nắm giữ xương sống viễn thông lẫn lá chắn quốc phòng quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC083",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Đồng thời Viettel tự mình xông lên tuyến đầu: chế tạo thiết bị 5G, mở thị trường tại hơn 10 quốc gia.",
+    "sentences": [
+      "Đồng thời Viettel tự mình xông lên tuyến đầu: chế tạo thiết bị 5G, mở thị trường tại hơn 10 quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC084",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "VIETTEL: NHÀ MÁY CHIP BÁN DẪN 32NM HÒA LẠC",
+    "visual_summary": "Viettel khởi công nhà máy chip bán dẫn đầu tiên của Việt Nam tại Hòa Lạc.",
+    "sentences": [
+      "Viettel khởi công nhà máy chip bán dẫn đầu tiên của Việt Nam tại Hòa Lạc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC085",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Viettel chứng minh doanh nghiệp nhà nước hoàn toàn có thể mang năng lực đổi mới của công ty công nghệ.",
+    "sentences": [
+      "Viettel chứng minh doanh nghiệp nhà nước hoàn toàn có thể mang năng lực đổi mới của công ty công nghệ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC086",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Nếu được đặt trong môi trường kỷ luật đủ sắc bén và tầm nhìn vượt ra khỏi biên giới.",
+    "sentences": [
+      "Nếu được đặt trong môi trường kỷ luật đủ sắc bén và tầm nhìn vượt ra khỏi biên giới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC087",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Nhưng Viettel là ngoại lệ duy nhất, không phải quy luật.",
+    "sentences": [
+      "Nhưng Viettel là ngoại lệ duy nhất, không phải quy luật."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC088",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Sáu trụ cột còn lại — EVN, PVN, VNPT, MobiFone, Tân Cảng Sài Gòn, Vietcombank — thuần túy là tuyến phòng thủ.",
+    "sentences": [
+      "Sáu trụ cột còn lại — EVN, PVN, VNPT, MobiFone, Tân Cảng Sài Gòn, Vietcombank — thuần túy là tuyến phòng thủ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC089",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Họ giữ sạch lưới, không ghi bàn.",
+    "sentences": [
+      "Họ giữ sạch lưới, không ghi bàn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC090",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Muốn ghi bàn trên sân chơi toàn cầu, cỗ xe song mã cần một lực lượng hoàn toàn khác.",
+    "sentences": [
+      "Muốn ghi bàn trên sân chơi toàn cầu, cỗ xe song mã cần một lực lượng hoàn toàn khác."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC091",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Những tập đoàn tư nhân sẵn sàng tự bỏ hàng tỷ đô la, tự chịu rủi ro sinh tử, và khẳng định năng lực quốc tế.",
+    "sentences": [
+      "Những tập đoàn tư nhân sẵn sàng tự bỏ hàng tỷ đô la, tự chịu rủi ro sinh tử, và khẳng định năng lực quốc tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC092",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Họ là ai, và họ đang dấn thân vào những siêu dự án nào?",
+    "sentences": [
+      "Họ là ai, và họ đang dấn thân vào những siêu dự án nào?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC093",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Tuyến phòng thủ đã được dàn quân.",
+    "sentences": [
+      "Tuyến phòng thủ đã được dàn quân."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC094",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Bảy tập đoàn nhà nước giữ vững nền móng năng lượng, viễn thông, cảng biển và tài chính.",
+    "sentences": [
+      "Bảy tập đoàn nhà nước giữ vững nền móng năng lượng, viễn thông, cảng biển và tài chính."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC095",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Nhưng giữ sạch lưới chưa bao giờ là đủ.",
+    "sentences": [
+      "Nhưng giữ sạch lưới chưa bao giờ là đủ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC096",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Muốn ghi bàn trên sân chơi toàn cầu, Việt Nam cần những tiền đạo sẵn sàng tự bỏ tiền túi và tự chịu rủi ro.",
+    "sentences": [
+      "Muốn ghi bàn trên sân chơi toàn cầu, Việt Nam cần những tiền đạo sẵn sàng tự bỏ tiền túi và tự chịu rủi ro."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC097",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Họ tự chứng minh năng lực mà không cần Nhà nước cầm tay chỉ việc.",
+    "sentences": [
+      "Họ tự chứng minh năng lực mà không cần Nhà nước cầm tay chỉ việc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC098",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Nhưng Nhà nước không đứng ngoài cuộc.",
+    "sentences": [
+      "Nhưng Nhà nước không đứng ngoài cuộc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC099",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Thay vì trực tiếp rót ngân sách hay ký hợp đồng bao tiêu, cỗ máy chính sách vận hành tinh vi hơn.",
+    "sentences": [
+      "Thay vì trực tiếp rót ngân sách hay ký hợp đồng bao tiêu, cỗ máy chính sách vận hành tinh vi hơn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC100",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "CƠ CHẾ: NHÀ NƯỚC MỞ ĐƯỜNG, TƯ NHÂN CHỨNG MINH",
+    "visual_summary": "Khi Quốc hội phê duyệt siêu dự án đường sắt tốc độ cao 67 tỷ đô la, đó là tín hiệu cầu vĩ mô.",
+    "sentences": [
+      "Khi Quốc hội phê duyệt siêu dự án đường sắt tốc độ cao 67 tỷ đô la, đó là tín hiệu cầu vĩ mô."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC101",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Tín hiệu đủ lớn để tập đoàn tư nhân dám đặt cược hàng chục nghìn tỷ vào lĩnh vực mới.",
+    "sentences": [
+      "Tín hiệu đủ lớn để tập đoàn tư nhân dám đặt cược hàng chục nghìn tỷ vào lĩnh vực mới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC102",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Khi Bộ Công Thương dựng hàng rào phòng vệ thương mại, sân nhà được bảo vệ để hàng nội địa không bị đè bẹp.",
+    "sentences": [
+      "Khi Bộ Công Thương dựng hàng rào phòng vệ thương mại, sân nhà được bảo vệ để hàng nội địa không bị đè bẹp."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC103",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Các khu kinh tế trọng điểm với cảng nước sâu, đường kết nối liên vùng đã được quy hoạch từ trước.",
+    "sentences": [
+      "Các khu kinh tế trọng điểm với cảng nước sâu, đường kết nối liên vùng đã được quy hoạch từ trước."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC104",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Doanh nghiệp tư nhân không phải xây hạ tầng từ con số không.",
+    "sentences": [
+      "Doanh nghiệp tư nhân không phải xây hạ tầng từ con số không."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC105",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Khi Chính phủ miễn 100% lệ phí trước bạ, giảm thuế tiêu thụ đặc biệt cho xe điện xuống 1 đến 3%.",
+    "sentences": [
+      "Khi Chính phủ miễn 100% lệ phí trước bạ, giảm thuế tiêu thụ đặc biệt cho xe điện xuống 1 đến 3%."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC106",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "So với mức 40 đến 150% mà xe xăng cùng phân khúc phải chịu.",
+    "sentences": [
+      "So với mức 40 đến 150% mà xe xăng cùng phân khúc phải chịu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC107",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Đó là tuyên bố Nhà nước sẵn sàng hy sinh nguồn thu ngắn hạn mở đường cho công nghiệp dài hạn.",
+    "sentences": [
+      "Đó là tuyên bố Nhà nước sẵn sàng hy sinh nguồn thu ngắn hạn mở đường cho công nghiệp dài hạn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC108",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Nhà nước không làm thay, không cho tiền — Nhà nước mở đường.",
+    "sentences": [
+      "Nhà nước không làm thay, không cho tiền — Nhà nước mở đường."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC109",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Còn ai dám bước lên con đường đó, phải tự chứng minh.",
+    "sentences": [
+      "Còn ai dám bước lên con đường đó, phải tự chứng minh."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC110",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Và những người dám bước lên đó, mỗi người chọn cho mình một mũi nhọn khác nhau.",
+    "sentences": [
+      "Và những người dám bước lên đó, mỗi người chọn cho mình một mũi nhọn khác nhau."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC111",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Hòa Phát chiếm lĩnh vị trí xương sống vật liệu công nghiệp nặng.",
+    "sentences": [
+      "Hòa Phát chiếm lĩnh vị trí xương sống vật liệu công nghiệp nặng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC112",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "HÒA PHÁT DUNG QUẤT: NHÀ MÁY THÉP RAY 350 KM/H",
+    "visual_summary": "Tập đoàn của ông Trần Đình Long tự bỏ vốn xây dựng nhà máy thép ray cao tốc tại Dung Quất.",
+    "sentences": [
+      "Tập đoàn của ông Trần Đình Long tự bỏ vốn xây dựng nhà máy thép ray cao tốc tại Dung Quất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC113",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Nhà máy nhắm thẳng vào tiêu chuẩn khắt khe nhất của Châu Âu và Nhật Bản.",
+    "sentences": [
+      "Nhà máy nhắm thẳng vào tiêu chuẩn khắt khe nhất của Châu Âu và Nhật Bản."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC114",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Phục vụ trực tiếp cho siêu dự án đường sắt quốc gia.",
+    "sentences": [
+      "Phục vụ trực tiếp cho siêu dự án đường sắt quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC115",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Tổng công suất dự kiến nâng lên 16 triệu tấn thép thô mỗi năm.",
+    "sentences": [
+      "Tổng công suất dự kiến nâng lên 16 triệu tấn thép thô mỗi năm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC116",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Đưa Hòa Phát vào nhóm 30 nhà sản xuất thép lớn nhất thế giới.",
+    "sentences": [
+      "Đưa Hòa Phát vào nhóm 30 nhà sản xuất thép lớn nhất thế giới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC117",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Không có một đồng vốn ngân sách, không có hợp đồng bao tiêu.",
+    "sentences": [
+      "Không có một đồng vốn ngân sách, không có hợp đồng bao tiêu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC118",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Chủ tịch Trần Đình Long phát biểu khẳng định quyết tâm làm nhà máy thép ray nội địa.",
+    "sentences": [
+      "Chủ tịch Trần Đình Long phát biểu khẳng định quyết tâm làm nhà máy thép ray nội địa."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC119",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Mỗi kilôgam ray nội địa là một lần đất nước không phải chuyển ngoại tệ ra nước ngoài.",
+    "sentences": [
+      "Mỗi kilôgam ray nội địa là một lần đất nước không phải chuyển ngoại tệ ra nước ngoài."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC120",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Thaco đứng ở vị trí chế tạo cơ khí và hệ sinh thái chuỗi cung ứng.",
+    "sentences": [
+      "Thaco đứng ở vị trí chế tạo cơ khí và hệ sinh thái chuỗi cung ứng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC121",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "THACO CHU LAI: 1.200 HA & 35 CÔNG TY VỆ TINH",
+    "visual_summary": "Ông Trần Bá Dương ký hợp đồng chuyển giao công nghệ với Hyundai Rotem để lắp ráp toa tàu metro.",
+    "sentences": [
+      "Ông Trần Bá Dương ký hợp đồng chuyển giao công nghệ với Hyundai Rotem để lắp ráp toa tàu metro."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC122",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Ông xây dựng hệ sinh thái công nghiệp rộng hơn 1.200 héc-ta tại Chu Lai gồm 35 công ty vệ tinh.",
+    "sentences": [
+      "Ông xây dựng hệ sinh thái công nghiệp rộng hơn 1.200 héc-ta tại Chu Lai gồm 35 công ty vệ tinh."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC123",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Khi tập đoàn lớn phát triển, hàng nghìn linh kiện phụ trợ từ Chu Lai giúp doanh nghiệp SME tham gia chuỗi giá trị.",
+    "sentences": [
+      "Khi tập đoàn lớn phát triển, hàng nghìn linh kiện phụ trợ từ Chu Lai giúp doanh nghiệp SME tham gia chuỗi giá trị."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC124",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Vingroup đồng thời mở chiến tuyến trên nhiều mặt trận mang tầm quốc gia.",
+    "sentences": [
+      "Vingroup đồng thời mở chiến tuyến trên nhiều mặt trận mang tầm quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC125",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Ở mặt trận giao thông, VinSpeed dấn thân vào tuyến đường sắt Hà Nội — Hải Phòng — Quảng Ninh 5,6 tỷ đô la.",
+    "sentences": [
+      "Ở mặt trận giao thông, VinSpeed dấn thân vào tuyến đường sắt Hà Nội — Hải Phòng — Quảng Ninh 5,6 tỷ đô la."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC126",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Tuyến đường sắt nối liền các cực tăng trưởng kinh tế miền Bắc.",
+    "sentences": [
+      "Tuyến đường sắt nối liền các cực tăng trưởng kinh tế miền Bắc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC127",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Ở mặt trận chuyển đổi xanh, VinBus và taxi điện phủ sóng giao thông công cộng khắp đại đô thị.",
+    "sentences": [
+      "Ở mặt trận chuyển đổi xanh, VinBus và taxi điện phủ sóng giao thông công cộng khắp đại đô thị."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC128",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Ở mặt trận thiết chế, Vingroup biến 90 héc-ta Cổ Loa thành Trung tâm Triển lãm Quốc gia Thần Kim Quy.",
+    "sentences": [
+      "Ở mặt trận thiết chế, Vingroup biến 90 héc-ta Cổ Loa thành Trung tâm Triển lãm Quốc gia Thần Kim Quy."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC129",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Trung tâm triển lãm lớn hàng đầu thế giới phục vụ các sự kiện đối ngoại trọng đại.",
+    "sentences": [
+      "Trung tâm triển lãm lớn hàng đầu thế giới phục vụ các sự kiện đối ngoại trọng đại."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC130",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Trên trục đại lộ Sông Hồng và Khu đô thị Olympic, Vingroup tiếp tục đồng hành mở rộng không gian Hà Nội.",
+    "sentences": [
+      "Trên trục đại lộ Sông Hồng và Khu đô thị Olympic, Vingroup tiếp tục đồng hành mở rộng không gian Hà Nội."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC131",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "VINFAST: XUẤT KHẨU THƯƠNG HIỆU CÔNG NGHIỆP TẠI CHÂU Á",
+    "visual_summary": "Đích đến thực sự của Vingroup nằm ở cuộc đặt cược toàn cầu: VinFast.",
+    "sentences": [
+      "Đích đến thực sự của Vingroup nằm ở cuộc đặt cược toàn cầu: VinFast."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC132",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Từ nhà máy ô tô điện tại Ấn Độ, Indonesia đến mở rộng thị phần tại Philippines và Đông Nam Á.",
+    "sentences": [
+      "Từ nhà máy ô tô điện tại Ấn Độ, Indonesia đến mở rộng thị phần tại Philippines và Đông Nam Á."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC133",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "VinFast đưa thương hiệu công nghiệp Việt Nam thâm nhập trực diện vào các thị trường Châu Á.",
+    "sentences": [
+      "VinFast đưa thương hiệu công nghiệp Việt Nam thâm nhập trực diện vào các thị trường Châu Á."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC134",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "VinFast là tuyên ngôn Việt Nam có thể xuất khẩu thương hiệu công nghiệp và công nghệ.",
+    "sentences": [
+      "VinFast là tuyên ngôn Việt Nam có thể xuất khẩu thương hiệu công nghiệp và công nghệ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC135",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Ở mặt trận công nghệ, FPT đưa trí tuệ Việt ra thế giới.",
+    "sentences": [
+      "Ở mặt trận công nghệ, FPT đưa trí tuệ Việt ra thế giới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC136",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Từ 25 năm xuất khẩu phần mềm sang 30 quốc gia, tập đoàn của ông Trương Gia Bình nâng cấp sang AI và bán dẫn.",
+    "sentences": [
+      "Từ 25 năm xuất khẩu phần mềm sang 30 quốc gia, tập đoàn của ông Trương Gia Bình nâng cấp sang AI và bán dẫn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC137",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Khi Chính phủ đặt mục tiêu đào tạo 50.000 kỹ sư bán dẫn, FPT tiên phong mở viện đào tạo vi mạch.",
+    "sentences": [
+      "Khi Chính phủ đặt mục tiêu đào tạo 50.000 kỹ sư bán dẫn, FPT tiên phong mở viện đào tạo vi mạch."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC138",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "text_overlay": "",
+    "visual_summary": "Bốn tập đoàn đó không đứng cô đơn.",
+    "sentences": [
+      "Bốn tập đoàn đó không đứng cô đơn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC139",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Phía sau là cả một thế hệ tập đoàn tư nhân dàn quân ở mọi ngách chiến lược.",
+    "sentences": [
+      "Phía sau là cả một thế hệ tập đoàn tư nhân dàn quân ở mọi ngách chiến lược."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC140",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Masan và TH Group nắm giữ an ninh lương thực và nông nghiệp đại điền.",
+    "sentences": [
+      "Masan và TH Group nắm giữ an ninh lương thực và nông nghiệp đại điền."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC141",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Sun Group và Sovico mở rộng hạ tầng du lịch và hàng không.",
+    "sentences": [
+      "Sun Group và Sovico mở rộng hạ tầng du lịch và hàng không."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC142",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "T&T, REE và KN Holdings dấn thân vào năng lượng sạch.",
+    "sentences": [
+      "T&T, REE và KN Holdings dấn thân vào năng lượng sạch."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC143",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "KHỐI TƯ NHÂN: ĐÓNG GÓP 51% GDP & 85% VIỆC LÀM",
+    "visual_summary": "Tại Hội nghị Thường trực Chính phủ tháng 9 năm 2024, 12 tập đoàn tư nhân ngồi cùng Thủ tướng.",
+    "sentences": [
+      "Tại Hội nghị Thường trực Chính phủ tháng 9 năm 2024, 12 tập đoàn tư nhân ngồi cùng Thủ tướng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC144",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Khối tài sản của họ vượt mốc 70 tỷ đô la.",
+    "sentences": [
+      "Khối tài sản của họ vượt mốc 70 tỷ đô la."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC145",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Tất cả vận hành cùng logic: Nhà nước kiến tạo thể chế, tư nhân tự cất cánh.",
+    "sentences": [
+      "Tất cả vận hành cùng logic: Nhà nước kiến tạo thể chế, tư nhân tự cất cánh."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC146",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Khu vực tư nhân đóng góp 51% GDP, huy động 75% vốn đầu tư xã hội, tạo 85% việc làm.",
+    "sentences": [
+      "Khu vực tư nhân đóng góp 51% GDP, huy động 75% vốn đầu tư xã hội, tạo 85% việc làm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC147",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Đây là xương sống thương mại của nền kinh tế.",
+    "sentences": [
+      "Đây là xương sống thương mại của nền kinh tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC148",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Nhưng lớn chưa có nghĩa là đủ.",
+    "sentences": [
+      "Nhưng lớn chưa có nghĩa là đủ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC149",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Việt Nam vẫn đang đứng bên bờ bẫy thu nhập trung bình.",
+    "sentences": [
+      "Việt Nam vẫn đang đứng bên bờ bẫy thu nhập trung bình."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC150",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Điều gì tạo ra khác biệt giữa nền kinh tế mãi giậm chân và nền kinh tế thực sự bứt phá?",
+    "sentences": [
+      "Điều gì tạo ra khác biệt giữa nền kinh tế mãi giậm chân và nền kinh tế thực sự bứt phá?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC151",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Câu trả lời không nằm ở quy mô — mà nằm ở cơ chế.",
+    "sentences": [
+      "Câu trả lời không nằm ở quy mô — mà nằm ở cơ chế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC152",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Một nền kinh tế sở hữu hàng chục tập đoàn tỷ đô vẫn mắc kẹt ở thu nhập trung bình.",
+    "sentences": [
+      "Một nền kinh tế sở hữu hàng chục tập đoàn tỷ đô vẫn mắc kẹt ở thu nhập trung bình."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC153",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Nếu tăng trưởng của các ông lớn chỉ quay vòng trong chính họ mà không lan tỏa ra ngoài.",
+    "sentences": [
+      "Nếu tăng trưởng của các ông lớn chỉ quay vòng trong chính họ mà không lan tỏa ra ngoài."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC154",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Ngược lại, khi tập đoàn lớn cất cánh đúng cách, nó tạo ra luồng gió lan tỏa nâng cả nền kinh tế.",
+    "sentences": [
+      "Ngược lại, khi tập đoàn lớn cất cánh đúng cách, nó tạo ra luồng gió lan tỏa nâng cả nền kinh tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC155",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Trước khi nói về luồng gió, cần hiểu tại sao nền kinh tế cần nó.",
+    "sentences": [
+      "Trước khi nói về luồng gió, cần hiểu tại sao nền kinh tế cần nó."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC156",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Việt Nam vượt qua nghèo nhờ bán sức lao động giá rẻ và khai thác tài nguyên thô.",
+    "sentences": [
+      "Việt Nam vượt qua nghèo nhờ bán sức lao động giá rẻ và khai thác tài nguyên thô."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC157",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Nhưng khi lương công nhân tăng lên, lợi thế đó biến mất.",
+    "sentences": [
+      "Nhưng khi lương công nhân tăng lên, lợi thế đó biến mất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC158",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Bangladesh và Campuchia sẵn sàng thay thế bất cứ lúc nào.",
+    "sentences": [
+      "Bangladesh và Campuchia sẵn sàng thay thế bất cứ lúc nào."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC159",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Muốn tiếp tục tăng trưởng, nền kinh tế phải bán sản phẩm giá trị cao: công nghệ, thiết kế, thương hiệu.",
+    "sentences": [
+      "Muốn tiếp tục tăng trưởng, nền kinh tế phải bán sản phẩm giá trị cao: công nghệ, thiết kế, thương hiệu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC160",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "BẪY THU NHẬP TRUNG BÌNH: QUÁ ĐẮT GIA CÔNG, QUÁ YẾU SÁNG TẠO",
+    "visual_summary": "Bước nhảy đó đòi hỏi vốn khổng lồ, công nghệ phức tạp và nhân lực trình độ cao.",
+    "sentences": [
+      "Bước nhảy đó đòi hỏi vốn khổng lồ, công nghệ phức tạp và nhân lực trình độ cao."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC161",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Những thứ mà 98% doanh nghiệp nhỏ và vừa không thể tự mình tạo ra.",
+    "sentences": [
+      "Những thứ mà 98% doanh nghiệp nhỏ và vừa không thể tự mình tạo ra."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC162",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Kết quả nền kinh tế mắc kẹt: quá đắt để gia công, quá yếu để sáng tạo.",
+    "sentences": [
+      "Kết quả nền kinh tế mắc kẹt: quá đắt để gia công, quá yếu để sáng tạo."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC163",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Báo cáo Ngân hàng Thế giới năm 2024 ghi nhận thực tế thu nhập trung bình gần như giậm chân.",
+    "sentences": [
+      "Báo cáo Ngân hàng Thế giới năm 2024 ghi nhận thực tế thu nhập trung bình gần như giậm chân."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC164",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Mức thu nhập mãi loanh quanh chưa đầy một phần mười so với các nước phát triển.",
+    "sentences": [
+      "Mức thu nhập mãi loanh quanh chưa đầy một phần mười so với các nước phát triển."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC165",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Đại doanh nghiệp tồn tại để phá vỡ thế bế tắc đó bằng ba cỗ máy lan tỏa.",
+    "sentences": [
+      "Đại doanh nghiệp tồn tại để phá vỡ thế bế tắc đó bằng ba cỗ máy lan tỏa."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC166",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "text_overlay": "CỖ MÁY 1: MỎ NEO ĐƠN HÀNG KÉO 700 DOANH NGHIỆP SME",
+    "visual_summary": "Cỗ máy thứ nhất: mỏ neo đơn hàng.",
+    "sentences": [
+      "Cỗ máy thứ nhất: mỏ neo đơn hàng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC167",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Khi tập đoàn lớn xây nhà máy, họ cần hàng trăm nhà cung cấp linh kiện và dịch vụ phụ trợ.",
+    "sentences": [
+      "Khi tập đoàn lớn xây nhà máy, họ cần hàng trăm nhà cung cấp linh kiện và dịch vụ phụ trợ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC168",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "VinFast hợp tác với gần 700 doanh nghiệp nội địa cung ứng chuỗi sản xuất xe điện.",
+    "sentences": [
+      "VinFast hợp tác với gần 700 doanh nghiệp nội địa cung ứng chuỗi sản xuất xe điện."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC169",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Cung ứng từ ghế xe, dây điện, đèn chiếu sáng đến hệ thống phanh.",
+    "sentences": [
+      "Cung ứng từ ghế xe, dây điện, đèn chiếu sáng đến hệ thống phanh."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC170",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Mục tiêu nội địa hóa đạt 84% vào năm 2026.",
+    "sentences": [
+      "Mục tiêu nội địa hóa đạt 84% vào năm 2026."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC171",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Hơn 30% diện tích nhà máy Hải Phòng dành riêng cho khu công nghiệp phụ trợ.",
+    "sentences": [
+      "Hơn 30% diện tích nhà máy Hải Phòng dành riêng cho khu công nghiệp phụ trợ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC172",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Doanh nghiệp vệ tinh đặt xưởng ngay cạnh dây chuyền lắp ráp ô tô.",
+    "sentences": [
+      "Doanh nghiệp vệ tinh đặt xưởng ngay cạnh dây chuyền lắp ráp ô tô."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC173",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Tại Quảng Nam, Thaco vận hành tổ hợp 1.200 héc-ta với 35 công ty vệ tinh sản xuất từ khung gầm đến nội thất.",
+    "sentences": [
+      "Tại Quảng Nam, Thaco vận hành tổ hợp 1.200 héc-ta với 35 công ty vệ tinh sản xuất từ khung gầm đến nội thất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC174",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Tại Quảng Ngãi, Hòa Phát Dung Quất kéo theo hơn 250 nhà thầu phụ trợ trong hệ sinh thái thép.",
+    "sentences": [
+      "Tại Quảng Ngãi, Hòa Phát Dung Quất kéo theo hơn 250 nhà thầu phụ trợ trong hệ sinh thái thép."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC175",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Mỗi tập đoàn lớn khi phát triển kéo theo hàng trăm doanh nghiệp nhỏ bám vào chuỗi cung ứng.",
+    "sentences": [
+      "Mỗi tập đoàn lớn khi phát triển kéo theo hàng trăm doanh nghiệp nhỏ bám vào chuỗi cung ứng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC176",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Khi doanh nghiệp nhỏ có đơn hàng dài hạn ổn định từ tập đoàn lớn, họ dám vay ngân hàng mua máy CNC.",
+    "sentences": [
+      "Khi doanh nghiệp nhỏ có đơn hàng dài hạn ổn định từ tập đoàn lớn, họ dám vay ngân hàng mua máy CNC."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC177",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Họ nâng cấp dây chuyền, tuyển kỹ sư — điều trước đây quá rủi ro khi sống bằng đơn hàng lẻ.",
+    "sentences": [
+      "Họ nâng cấp dây chuyền, tuyển kỹ sư — điều trước đây quá rủi ro khi sống bằng đơn hàng lẻ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC178",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "CỖ MÁY 2: CHUYỂN GIAO CÔNG NGHỆ & CHIP 32NM HÒA LẠC",
+    "visual_summary": "Cỗ máy thứ hai tạo ra bước nhảy chất lượng: hấp thụ và chuyển giao công nghệ.",
+    "sentences": [
+      "Cỗ máy thứ hai tạo ra bước nhảy chất lượng: hấp thụ và chuyển giao công nghệ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC179",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "98% doanh nghiệp nhỏ Việt Nam không có ngân sách cho nghiên cứu phát triển.",
+    "sentences": [
+      "98% doanh nghiệp nhỏ Việt Nam không có ngân sách cho nghiên cứu phát triển."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC180",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Chi phí thử nghiệm thiết kế mới nếu thất bại đủ xóa sổ xưởng cơ khí gia đình.",
+    "sentences": [
+      "Chi phí thử nghiệm thiết kế mới nếu thất bại đủ xóa sổ xưởng cơ khí gia đình."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC181",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Tập đoàn lớn giải bài toán này bằng cách đứng ra gánh rủi ro ban đầu.",
+    "sentences": [
+      "Tập đoàn lớn giải bài toán này bằng cách đứng ra gánh rủi ro ban đầu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC182",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Họ bỏ tiền mua công nghệ nguồn từ thế giới, giải mã, chuẩn hóa quy trình, rồi chuyển giao cho vệ tinh.",
+    "sentences": [
+      "Họ bỏ tiền mua công nghệ nguồn từ thế giới, giải mã, chuẩn hóa quy trình, rồi chuyển giao cho vệ tinh."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC183",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "VinFast không chỉ ký hợp đồng với doanh nghiệp Việt đủ năng lực.",
+    "sentences": [
+      "VinFast không chỉ ký hợp đồng với doanh nghiệp Việt đủ năng lực."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC184",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Với doanh nghiệp chưa đạt chuẩn, VinFast làm cầu nối kết nối đối tác nước ngoài lập liên danh chuyển giao.",
+    "sentences": [
+      "Với doanh nghiệp chưa đạt chuẩn, VinFast làm cầu nối kết nối đối tác nước ngoài lập liên danh chuyển giao."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC185",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Doanh nghiệp nhỏ học trực tiếp từ bộ quy chuẩn mà tập đoàn lớn đã kiểm chứng.",
+    "sentences": [
+      "Doanh nghiệp nhỏ học trực tiếp từ bộ quy chuẩn mà tập đoàn lớn đã kiểm chứng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC186",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "FPT mở học viện đào tạo kỹ sư vi mạch bán dẫn chuẩn bị nhân lực cho hệ sinh thái chip quốc gia.",
+    "sentences": [
+      "FPT mở học viện đào tạo kỹ sư vi mạch bán dẫn chuẩn bị nhân lực cho hệ sinh thái chip quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC187",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Viettel đầu tư 1,3 tỷ đô la xây nhà máy chế tạo chip bán dẫn 32 nanomet tại Hòa Lạc.",
+    "sentences": [
+      "Viettel đầu tư 1,3 tỷ đô la xây nhà máy chế tạo chip bán dẫn 32 nanomet tại Hòa Lạc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC188",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Nhà máy chế tạo chip công nghiệp phục vụ viễn thông, IoT, quốc phòng và ô tô.",
+    "sentences": [
+      "Nhà máy chế tạo chip công nghiệp phục vụ viễn thông, IoT, quốc phòng và ô tô."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC189",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Đây là bước đi tỉnh táo: làm chủ khâu chế tạo ở phân khúc có nhu cầu khổng lồ và ổn định.",
+    "sentences": [
+      "Đây là bước đi tỉnh táo: làm chủ khâu chế tạo ở phân khúc có nhu cầu khổng lồ và ổn định."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC190",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Khi nhà máy này vận hành, nó trở thành hạ tầng quốc gia cho các doanh nghiệp Việt đặt sản xuất chip.",
+    "sentences": [
+      "Khi nhà máy này vận hành, nó trở thành hạ tầng quốc gia cho các doanh nghiệp Việt đặt sản xuất chip."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC191",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "CỖ MÁY 3: KIẾN TẠO THỊ TRƯỜNG XE ĐIỆN & PIN VINES",
+    "visual_summary": "Cỗ máy thứ ba: kiến tạo thị trường mới.",
+    "sentences": [
+      "Cỗ máy thứ ba: kiến tạo thị trường mới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC192",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Khi Quốc hội phê duyệt siêu dự án đường sắt 67 tỷ đô la, tín hiệu cầu vĩ mô xuất hiện.",
+    "sentences": [
+      "Khi Quốc hội phê duyệt siêu dự án đường sắt 67 tỷ đô la, tín hiệu cầu vĩ mô xuất hiện."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC193",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Hòa Phát dám bỏ hàng nghìn tỷ xây nhà máy thép ray, Thaco dám ký hợp đồng lắp ráp toa tàu.",
+    "sentences": [
+      "Hòa Phát dám bỏ hàng nghìn tỷ xây nhà máy thép ray, Thaco dám ký hợp đồng lắp ráp toa tàu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC194",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Các nhà kinh tế gọi đây là mồi dẫn vốn: khi tập đoàn lớn đầu tư, rủi ro giảm, dòng vốn tư nhân chảy theo.",
+    "sentences": [
+      "Các nhà kinh tế gọi đây là mồi dẫn vốn: khi tập đoàn lớn đầu tư, rủi ro giảm, dòng vốn tư nhân chảy theo."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC195",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Dòng vốn tư nhân bắt đầu chảy vào chế tạo công nghiệp thay vì đầu cơ bất động sản.",
+    "sentences": [
+      "Dòng vốn tư nhân bắt đầu chảy vào chế tạo công nghiệp thay vì đầu cơ bất động sản."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC196",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "VinFast tạo hiệu ứng tương tự: sản xuất hàng triệu xe điện kéo theo nhà máy pin VinES tại Vũng Áng.",
+    "sentences": [
+      "VinFast tạo hiệu ứng tương tự: sản xuất hàng triệu xe điện kéo theo nhà máy pin VinES tại Vũng Áng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC197",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Mạng lưới trạm sạc V-Green trải khắp cả nước cùng hàng trăm xưởng phụ kiện mới xuất hiện.",
+    "sentences": [
+      "Mạng lưới trạm sạc V-Green trải khắp cả nước cùng hàng trăm xưởng phụ kiện mới xuất hiện."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC198",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Ba cỗ máy này không vận hành riêng lẻ mà cộng hưởng mạnh mẽ.",
+    "sentences": [
+      "Ba cỗ máy này không vận hành riêng lẻ mà cộng hưởng mạnh mẽ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC199",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Mỏ neo đơn hàng kéo doanh nghiệp nhỏ vào chuỗi, chuyển giao công nghệ nâng cấp năng lực.",
+    "sentences": [
+      "Mỏ neo đơn hàng kéo doanh nghiệp nhỏ vào chuỗi, chuyển giao công nghệ nâng cấp năng lực."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC200",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Kiến tạo thị trường mới mở ra không gian phát triển hoàn toàn mới.",
+    "sentences": [
+      "Kiến tạo thị trường mới mở ra không gian phát triển hoàn toàn mới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC201",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "TÁC ĐỘNG XÃ HỘI: CHUYỂN DỊCH LAO ĐỘNG SANG CÔNG NGHIỆP HIỆN ĐẠI",
+    "visual_summary": "Hàng triệu người lao động chuyển từ khu vực phi chính thức sang vị trí sản xuất công nghiệp hiện đại.",
+    "sentences": [
+      "Hàng triệu người lao động chuyển từ khu vực phi chính thức sang vị trí sản xuất công nghiệp hiện đại."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC202",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Mức lương cao hơn, bảo hiểm xã hội đầy đủ và cơ hội thăng tiến nghề nghiệp thực sự.",
+    "sentences": [
+      "Mức lương cao hơn, bảo hiểm xã hội đầy đủ và cơ hội thăng tiến nghề nghiệp thực sự."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC203",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Hàng trăm nghìn doanh nghiệp nhỏ có hợp đồng dài hạn, dòng tiền ổn định và tích lũy tài sản.",
+    "sentences": [
+      "Hàng trăm nghìn doanh nghiệp nhỏ có hợp đồng dài hạn, dòng tiền ổn định và tích lũy tài sản."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC204",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Đó là cơ chế khi mọi thứ vận hành đúng.",
+    "sentences": [
+      "Đó là cơ chế khi mọi thứ vận hành đúng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC205",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Nhưng cỗ máy lan tỏa chỉ hoạt động khi tập đoàn lớn thực sự cất cánh bằng năng lực thực.",
+    "sentences": [
+      "Nhưng cỗ máy lan tỏa chỉ hoạt động khi tập đoàn lớn thực sự cất cánh bằng năng lực thực."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC206",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Nếu tập đoàn phình to bằng nợ vay, tín dụng bị hút cạn, 930.000 doanh nghiệp nhỏ bị bóp nghẹt room vay.",
+    "sentences": [
+      "Nếu tập đoàn phình to bằng nợ vay, tín dụng bị hút cạn, 930.000 doanh nghiệp nhỏ bị bóp nghẹt room vay."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC207",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Người lao động và doanh nghiệp vệ tinh sẽ là những người chịu thiệt đầu tiên.",
+    "sentences": [
+      "Người lao động và doanh nghiệp vệ tinh sẽ là những người chịu thiệt đầu tiên."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC208",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Câu hỏi lúc này là cái giá phải trả nếu tập đoàn lớn vấp ngã là bao nhiêu?",
+    "sentences": [
+      "Câu hỏi lúc này là cái giá phải trả nếu tập đoàn lớn vấp ngã là bao nhiêu?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC209",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "RỦI RO HỆ THỐNG: CẠM BẪY TOO BIG TO FAIL",
+    "visual_summary": "Cái giá đó có tên gọi giới tài chính đặt sẵn: Too Big To Fail — quá lớn để sụp đổ.",
+    "sentences": [
+      "Cái giá đó có tên gọi giới tài chính đặt sẵn: Too Big To Fail — quá lớn để sụp đổ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC210",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Nghe có vẻ an toàn, nhưng thực tế nó là nguy cơ rủi ro nhất cho nền kinh tế.",
+    "sentences": [
+      "Nghe có vẻ an toàn, nhưng thực tế nó là nguy cơ rủi ro nhất cho nền kinh tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC211",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Khi tập đoàn phình to đến mức sụp đổ của nó đe dọa cả hệ thống tài chính quốc gia.",
+    "sentences": [
+      "Khi tập đoàn phình to đến mức sụp đổ của nó đe dọa cả hệ thống tài chính quốc gia."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC212",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Sinh mệnh kinh tế của hàng triệu người bị trói vào quyết định của hội đồng quản trị tư nhân.",
+    "sentences": [
+      "Sinh mệnh kinh tế của hàng triệu người bị trói vào quyết định của hội đồng quản trị tư nhân."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC213",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Để hiểu cơ chế này, hãy nhìn vào cơ học dòng tiền thuần túy bằng con số.",
+    "sentences": [
+      "Để hiểu cơ chế này, hãy nhìn vào cơ học dòng tiền thuần túy bằng con số."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC214",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "TỔNG NỢ VINGROUP: 925.000 TỶ VNĐ & LÃI VAY 100 TỶ/NGÀY",
+    "visual_summary": "Theo dữ liệu tài chính, tổng nợ phải trả của hệ thống Vingroup có thời điểm ước khoảng 925 nghìn tỷ đồng.",
+    "sentences": [
+      "Theo dữ liệu tài chính, tổng nợ phải trả của hệ thống Vingroup có thời điểm ước khoảng 925 nghìn tỷ đồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC215",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Con số tương đương gần 35 tỷ đô la, bằng ngân sách nhà nước chi cho giáo dục gần 4 năm.",
+    "sentences": [
+      "Con số tương đương gần 35 tỷ đô la, bằng ngân sách nhà nước chi cho giáo dục gần 4 năm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC216",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Cấu phần nợ vay chiếm khoảng 321 nghìn tỷ đồng, chi phí lãi vay hơn 35 nghìn tỷ đồng mỗi năm.",
+    "sentences": [
+      "Cấu phần nợ vay chiếm khoảng 321 nghìn tỷ đồng, chi phí lãi vay hơn 35 nghìn tỷ đồng mỗi năm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC217",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Đây là tiền lãi phải trả chỉ để duy trì khoản nợ, mỗi ngày gần 100 tỷ đồng.",
+    "sentences": [
+      "Đây là tiền lãi phải trả chỉ để duy trì khoản nợ, mỗi ngày gần 100 tỷ đồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC218",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "ÁP LỰC THANH KHOẢN: NỢ ĐẾN HẠN 117.000 TỶ VNĐ",
+    "visual_summary": "Áp lực thanh khoản bộc lộ rõ khi nhìn vào cán cân ngắn hạn.",
+    "sentences": [
+      "Áp lực thanh khoản bộc lộ rõ khi nhìn vào cán cân ngắn hạn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC219",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Lượng nợ gốc đến hạn trong 12 tháng khoảng 117 nghìn tỷ đồng.",
+    "sentences": [
+      "Lượng nợ gốc đến hạn trong 12 tháng khoảng 117 nghìn tỷ đồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC220",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Tiền mặt và tiền gửi khả dụng chỉ khoảng 80 nghìn tỷ đồng.",
+    "sentences": [
+      "Tiền mặt và tiền gửi khả dụng chỉ khoảng 80 nghìn tỷ đồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC221",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Chênh lệch gần 40 nghìn tỷ buộc doanh nghiệp liên tục bán tài sản hoặc phát hành trái phiếu đảo nợ.",
+    "sentences": [
+      "Chênh lệch gần 40 nghìn tỷ buộc doanh nghiệp liên tục bán tài sản hoặc phát hành trái phiếu đảo nợ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC222",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Chỉ 9 tháng đầu năm 2025, khoảng 24 nghìn tỷ đồng trái phiếu đã được phát hành.",
+    "sentences": [
+      "Chỉ 9 tháng đầu năm 2025, khoảng 24 nghìn tỷ đồng trái phiếu đã được phát hành."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC223",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Cỗ máy tài chính phải chạy không ngừng, bởi nếu dừng lại, thanh khoản sẽ đóng băng.",
+    "sentences": [
+      "Cỗ máy tài chính phải chạy không ngừng, bởi nếu dừng lại, thanh khoản sẽ đóng băng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC224",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Những con số này là bức tranh cơ học của doanh nghiệp vận hành bằng đòn bẩy tài chính lớn.",
+    "sentences": [
+      "Những con số này là bức tranh cơ học của doanh nghiệp vận hành bằng đòn bẩy tài chính lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC225",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Samsung, Hyundai, Tata — không ai lớn mạnh mà không vay nợ.",
+    "sentences": [
+      "Samsung, Hyundai, Tata — không ai lớn mạnh mà không vay nợ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC226",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Vấn đề nằm ở chỗ: khi cỗ máy này vấp ngã, ai sẽ là người trả giá?",
+    "sentences": [
+      "Vấn đề nằm ở chỗ: khi cỗ máy này vấp ngã, ai sẽ là người trả giá?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC227",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Câu trả lời nằm trong hiệu ứng domino toàn hệ thống.",
+    "sentences": [
+      "Câu trả lời nằm trong hiệu ứng domino toàn hệ thống."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC228",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Nếu tập đoàn hàng chục tỷ đô gặp khủng hoảng thanh khoản, ngân hàng thương mại đối mặt nợ xấu lớn.",
+    "sentences": [
+      "Nếu tập đoàn hàng chục tỷ đô gặp khủng hoảng thanh khoản, ngân hàng thương mại đối mặt nợ xấu lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC229",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Thị trường trái phiếu doanh nghiệp có nguy cơ sụp đổ do niềm tin vỡ vụn.",
+    "sentences": [
+      "Thị trường trái phiếu doanh nghiệp có nguy cơ sụp đổ do niềm tin vỡ vụn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC230",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Hàng trăm doanh nghiệp vệ tinh sẽ bị giam tiền, mất đơn hàng và phá sản dây chuyền.",
+    "sentences": [
+      "Hàng trăm doanh nghiệp vệ tinh sẽ bị giam tiền, mất đơn hàng và phá sản dây chuyền."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC231",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Nguồn thu ngân sách địa phương từ đất đai đình trệ.",
+    "sentences": [
+      "Nguồn thu ngân sách địa phương từ đất đai đình trệ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC232",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Câu chuyện của một tập đoàn trở thành nguy cơ của cả nền kinh tế.",
+    "sentences": [
+      "Câu chuyện của một tập đoàn trở thành nguy cơ của cả nền kinh tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC233",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Khủng hoảng tài chính toàn cầu năm 2008 đã chứng minh bài học tàn khốc.",
+    "sentences": [
+      "Khủng hoảng tài chính toàn cầu năm 2008 đã chứng minh bài học tàn khốc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC234",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Chính phủ Hoa Kỳ buộc bơm 443 tỷ đô la tiền thuế giải cứu ngân hàng để tránh sụp đổ.",
+    "sentences": [
+      "Chính phủ Hoa Kỳ buộc bơm 443 tỷ đô la tiền thuế giải cứu ngân hàng để tránh sụp đổ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC235",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Việt Nam với GDP bình quân đầu người chưa đầy 5.000 đô la không có bộ đệm tài chính như vậy.",
+    "sentences": [
+      "Việt Nam với GDP bình quân đầu người chưa đầy 5.000 đô la không có bộ đệm tài chính như vậy."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC236",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Tập đoàn quá lớn để sụp đổ, nhưng quy mô tài chính nền kinh tế quá nhỏ để giải cứu.",
+    "sentences": [
+      "Tập đoàn quá lớn để sụp đổ, nhưng quy mô tài chính nền kinh tế quá nhỏ để giải cứu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC237",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "HIỆU ỨNG CHÈN LẮN TÍN DỤNG: 930.000 SME BỊ BÓP NGHẸT",
+    "visual_summary": "Bên dưới còn cơ chế chèn lấn tín dụng âm thầm.",
+    "sentences": [
+      "Bên dưới còn cơ chế chèn lấn tín dụng âm thầm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC238",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Khi tập đoàn lớn cần vay vốn khổng lồ, họ hút cạn hạn mức tín dụng ngân hàng.",
+    "sentences": [
+      "Khi tập đoàn lớn cần vay vốn khổng lồ, họ hút cạn hạn mức tín dụng ngân hàng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC239",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Họ có tài sản đất đai thế chấp, có dòng tiền lớn đàm phán lãi suất ưu đãi.",
+    "sentences": [
+      "Họ có tài sản đất đai thế chấp, có dòng tiền lớn đàm phán lãi suất ưu đãi."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC240",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Tín dụng chảy về nơi có tài sản thế chấp lớn nhất, không phải nơi cần vốn nhất.",
+    "sentences": [
+      "Tín dụng chảy về nơi có tài sản thế chấp lớn nhất, không phải nơi cần vốn nhất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC241",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "930 nghìn doanh nghiệp nhỏ và vừa tạo 85% việc làm bị bóp nghẹt room vay.",
+    "sentences": [
+      "930 nghìn doanh nghiệp nhỏ và vừa tạo 85% việc làm bị bóp nghẹt room vay."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC242",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Họ không tiếp cận được vốn hợp lý, buộc thu hẹp sản xuất hoặc giải thể.",
+    "sentences": [
+      "Họ không tiếp cận được vốn hợp lý, buộc thu hẹp sản xuất hoặc giải thể."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC243",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Đây là nghịch lý của nền kinh tế kép.",
+    "sentences": [
+      "Đây là nghịch lý của nền kinh tế kép."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC244",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Nếu tập đoàn lớn hút sạch nguồn vốn của doanh nghiệp nhỏ, cỗ máy lan tỏa bị ngắt mạch.",
+    "sentences": [
+      "Nếu tập đoàn lớn hút sạch nguồn vốn của doanh nghiệp nhỏ, cỗ máy lan tỏa bị ngắt mạch."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC245",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Nền kinh tế chia đôi: một thiểu số siêu dự án ở trên, bên dưới là 930 nghìn doanh nghiệp nhỏ vật lộn.",
+    "sentences": [
+      "Nền kinh tế chia đôi: một thiểu số siêu dự án ở trên, bên dưới là 930 nghìn doanh nghiệp nhỏ vật lộn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC246",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "NỀN KINH TẾ KÉP & NGUY CƠ BẺ CONG CHÍNH SÁCH",
+    "visual_summary": "Nguy hiểm hơn, siêu tập đoàn phát sinh sức mạnh chính trị Policy Capture.",
+    "sentences": [
+      "Nguy hiểm hơn, siêu tập đoàn phát sinh sức mạnh chính trị Policy Capture."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC247",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Siêu doanh nghiệp dùng vị thế mặc cả để tác động chính sách vĩ mô có lợi cho mình.",
+    "sentences": [
+      "Siêu doanh nghiệp dùng vị thế mặc cả để tác động chính sách vĩ mô có lợi cho mình."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC248",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Khi tập đoàn dùng hàng trăm nghìn lao động, bất kỳ siết chặt chính sách nào cũng gây ảnh hưởng xã hội lớn.",
+    "sentences": [
+      "Khi tập đoàn dùng hàng trăm nghìn lao động, bất kỳ siết chặt chính sách nào cũng gây ảnh hưởng xã hội lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC249",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Ngân hàng Thế giới cảnh báo các tập đoàn lớn thường dựng rào cản ngăn đối thủ mới gia nhập.",
+    "sentences": [
+      "Ngân hàng Thế giới cảnh báo các tập đoàn lớn thường dựng rào cản ngăn đối thủ mới gia nhập."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC250",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Lịch sử Việt Nam từng chứng kiến Vinashin và Vinalines phình to bằng nợ vay rồi sụp đổ.",
+    "sentences": [
+      "Lịch sử Việt Nam từng chứng kiến Vinashin và Vinalines phình to bằng nợ vay rồi sụp đổ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC251",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Dồn nguồn lực cho đại doanh nghiệp thiếu kỷ luật tài chính là gieo rủi ro nổ chậm vào ngân hàng.",
+    "sentences": [
+      "Dồn nguồn lực cho đại doanh nghiệp thiếu kỷ luật tài chính là gieo rủi ro nổ chậm vào ngân hàng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC252",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Nếu hàng chục nghìn tỷ đồng tín dụng không chảy vào nhà máy hay phòng thí nghiệm mà chôn vào đất đai.",
+    "sentences": [
+      "Nếu hàng chục nghìn tỷ đồng tín dụng không chảy vào nhà máy hay phòng thí nghiệm mà chôn vào đất đai."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC253",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Nền kinh tế vẫn sẽ mắc kẹt dưới mặt đất.",
+    "sentences": [
+      "Nền kinh tế vẫn sẽ mắc kẹt dưới mặt đất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  }
+]

@@ -1,0 +1,914 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cổ phiếu VIC tăng 7 lần trong vòng một năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cùng lúc đó, mảng xe điện của tập đoàn này vẫn đang lỗ 77 ngàn tỷ đồng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Trên mọi diễn đàn, nhà đầu tư nhỏ lẻ không ngừng kêu gào: bong bóng, ảo, rồi sẽ sập — Evergrande thứ hai.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng có một điều mà đám đông bỏ qua.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vingroup là tập đoàn vốn hóa tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Một cổ phiếu ở quy mô đó tăng 7 lần trong 1 năm — là chuyện chưa từng có tiền lệ trên thị trường chứng khoán Việt Nam.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và dòng tiền đủ sức đẩy một gã khổng lồ bay cao như vậy — chắc chắn không phải tiền của đám đông nhỏ lẻ.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là dòng tiền của giới tinh anh.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Của những quỹ tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Của những tay chơi đọc được bàn cờ trước khi nước đi được công bố.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vậy câu hỏi thực sự không phải \"VIC có phải bong bóng không.\" Câu hỏi là: giới tinh anh đã nhìn thấy điều gì trong bức tranh kinh tế vĩ mô Việt Nam lúc này — mà hàng triệu nhà đầu tư nhỏ lẻ hoàn toàn bỏ sót?",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Trong các tập trước, chúng ta đã phân tích từng mảnh ghép một.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chúng ta đã hiểu tham vọng hóa rồng — tại sao Việt Nam phải đạt tăng trưởng 10% và cái giá nếu thất bại.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chúng ta đã thấy cách Nhà nước lựa chọn Vingroup làm quán quân quốc gia — giống y cách Park Chung-hee chọn Samsung nửa thế kỷ trước.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và chúng ta đã biết 38 triệu tỷ đồng sẽ được huy động — trong đó 79% buộc phải đến từ khu vực tư nhân và xã hội.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mỗi tập là một mảnh ghép.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng có một câu hỏi mà chưa tập nào trả lời: Nhà nước đã setup cụ thể cho Vingroup bằng công cụ gì — nghị định nào, quy hoạch nào, lệnh cấm nào — để biến tập đoàn này từ một doanh nghiệp bất động sản thành cỗ máy kéo GDP?",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đây là Dòng Chảy.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và hôm nay, chúng ta sẽ lắp mảnh ghép còn thiếu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chúng ta sẽ xếp từng văn bản quyền lực theo trình tự thời gian — để bạn tự mình nhìn thấy bản thiết kế mà giới tinh anh đã đọc được, và hiểu vì sao cùng một bức tranh — nhỏ lẻ thấy rủi ro, còn tài phiệt thấy cơ hội.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Video này cung cấp thêm cho bạn một góc nhìn — cả cơ hội lẫn rủi ro — để bạn tự quyết định mình đứng ở đâu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu bạn thấy hành trình phân tích này giúp bạn đọc rõ hơn những gì đang xảy ra xung quanh mình, hãy ấn đăng ký để không bỏ lỡ các tập tiếp theo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Lưu ý: đây là nội dung phân tích kinh tế mang tính giáo dục, không phải lời khuyên đầu tư.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC024",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Giới tinh anh không đặt cược vào Vingroup vì họ yêu thích xe điện. Họ đặt cược vì họ nhìn thấy một cỗ máy chính sách đang chạy ngay dưới chân mình — và cỗ máy đó ảnh hưởng trực tiếp đến ví tiền của bạn, dù bạn có mua cổ phiếu VIC hay không.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC025",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bắt đầu từ chuyện nhỏ nhất: thuế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Một chiếc xe xăng giá 1 tỷ, bạn đóng lệ phí trước bạ khoảng 100 đến 120 triệu đồng. Một chiếc xe điện cùng giá — bạn đóng 0 đồng. Chính phủ miễn hoàn toàn.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nghe thì có vẻ tốt cho người mua xe. Nhưng hãy nhân con số đó lên: năm 2025, VinFast bàn giao hơn 175 ngàn xe nội địa. Tính trung bình, Nhà nước đã chấp nhận không thu gần mười ngàn tỷ đồng tiền thuế chỉ trong một năm, chỉ từ một dòng nghị định duy nhất.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Mười ngàn tỷ. Đó là tiền thuế CỦA BẠN — tiền đáng ra chảy vào ngân sách để làm đường, xây trường, trả lương công chức. Thay vào đó, nó được chuyển hóa thành lực cầu cho xe điện.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC029",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và thuế tiêu thụ đặc biệt cũng tương tự: xe điện chỉ chịu 3%, trong khi xe xăng cùng phân khúc chịu từ 35% đến 150%.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC030",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn đi xe máy? Từ giữa năm nay, Hà Nội bắt đầu triển khai lộ trình cấm xe máy động cơ hóa thạch vào nội đô. Bạn không được chọn.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC031",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Bạn buộc phải chuyển đổi. Và ai bán xe điện hai bánh lẫn bốn bánh?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn đang trả góp căn nhà gần cửa ngõ phía Nam thành phố Hồ Chí Minh? Một siêu đô thị lấn biển 2.870 héc-ta vừa được phê duyệt ở Cần Giờ — quỹ đất của Vinhomes. Sổ đỏ của bạn sẽ biến động.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Giá đất xung quanh sẽ bị xáo trộn. Không phải vì thị trường tự vận hành, mà vì một quyết định quy hoạch đã thay đổi bản đồ giá trị.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn là nhà đầu tư đang cầm cổ phiếu VIC ở vùng giá 180.000 đồng? Hãy tự hỏi: bạn mua vì bạn hiểu bàn cờ — hay vì bạn thấy nó tăng và sợ bỏ lỡ? Vì nếu là lý do thứ hai, bạn đang đứng cùng phe với đám đông đã từng bán tháo ở 30.000 đồng.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Nói gọn: dù bạn đi xe máy, mua nhà hay đầu tư cổ phiếu — cuộc tái chia bàn cờ này đã bắt đầu ảnh hưởng đến quyết định tài chính của bạn. Và phần đáng sợ hơn chưa nằm ở tiền thuế.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Nó nằm ở quyền vẽ bản đồ. Trong 2 năm qua, Nhà nước đã phê duyệt hai siêu dự án — và cả hai đều nằm chính xác trên quỹ đất của Vingroup.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC037",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Đám đông đang tìm \"tiền bơm.\" Họ lục tung báo cáo kiểm toán, soi từng dòng ngân sách xem Nhà nước đã rút tiền ở đâu để cứu Vingroup. Họ sẽ không bao giờ tìm thấy. Vì Nhà nước không bơm tiền.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC038",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhà nước bơm thứ mạnh hơn tiền: luật chơi.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC039",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Và khi xếp 4 công cụ quyền lực theo đúng trình tự ngày ký, bạn sẽ thấy không phải sự trùng hợp. Đây là bản thiết kế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC040",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "**Công cụ thứ nhất: Thuế tiêu dùng xanh.**",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC041",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Tháng 3 năm 2025, Nghị định 51 được ký. Lệ phí trước bạ cho ô tô điện — miễn 100%, gia hạn đến hết 2027. Và đây không phải ưu đãi nhỏ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC042",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Bộ Tài chính đang lấy ý kiến kéo dài đến hết 2030. Thuế tiêu thụ đặc biệt xe điện chỉ 3% — trong khi xe xăng cùng phân khúc chịu 35 đến 150%.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC043",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Kết quả: chi phí sở hữu một chiếc xe điện rẻ hơn xe xăng 15 đến 20%. Đó không phải khuyến mãi. Đó là Nhà nước dùng thuế để nghiêng sân.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC044",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Ngoài đường, kết quả đã rõ. Năm 2025, VinFast bán 175 ngàn xe — gấp đôi Toyota, gấp ba Hyundai. Cứ 3 chiếc xe mới lăn bánh, 1 chiếc mang logo VinFast.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC045",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Doanh số của một hãng xe mới 7 năm tuổi gần bằng tổng 3 ông lớn Toyota, Hyundai và Ford cộng lại.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC046",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và đây mới chỉ là công cụ dễ thấy nhất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC047",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "**Công cụ thứ hai: Lệnh cấm.**",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC048",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Hà Nội đã công bố lộ trình cấm xe máy động cơ hóa thạch vào nội đô. Khi lệnh này có hiệu lực, toàn bộ 50 triệu xe máy xăng trên cả nước sẽ dần bị siết khỏi trung tâm thành phố lớn nhất miền Bắc. Ai cung cấp giải pháp thay thế?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC049",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast — với xe máy điện và xe ô tô điện giá rẻ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC050",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Đây không phải thị trường tự do. Đây là Nhà nước dùng lệnh cấm để triệt tiêu đối thủ cũ bằng luật.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC051",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "**Công cụ thứ ba: Quy hoạch đô thị.**",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC052",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Tháng 1 năm 2025, Quy hoạch 1/500 Siêu Đô Thị lấn biển Cần Giờ được phê duyệt. 2.870 héc-ta. Kèm cảng trung chuyển quốc tế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC053",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đây là quỹ đất của Vinhomes — chính thức được mở khóa pháp lý hoàn toàn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC054",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Một quyết định quy hoạch không phát tiền cho ai. Nhưng nó tạo ra giá trị bất động sản hàng trăm ngàn tỷ đồng cho đúng một chủ đất.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC055",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "**Công cụ thứ tư: Hạ tầng mỏ neo.**",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC056",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Tháng 8 năm 2024, khởi công Trung tâm Triển lãm Quốc gia 90 héc-ta tại Đông Anh. Hạ tầng giao thông, metro, đường vành đai — tất cả được xây bao quanh khu đô thị mà Vingroup đã sở hữu quỹ đất từ trước. Nhà nước dùng tiền ngân sách xây hạ tầng, và hạ tầng đó nâng giá trị đất cho tư nhân.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC057",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Bốn công cụ. Không công cụ nào là \"phát tiền mặt.\" Nhưng mỗi công cụ đều tạo ra lực cầu, triệt tiêu đối thủ, hoặc nâng giá trị tài sản cho đúng một tập đoàn.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC058",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Cách đây 50 năm, tổng thống Hàn Quốc Park Chung-hee cũng không phát tiền cho Samsung hay Hyundai. Ông dùng tín dụng chỉ đạo với lãi suất thực âm, bảo hộ thuế quan, và đặt hàng xuất khẩu. Cùng một kiến trúc — khác nhau ở công cụ.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC059",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Park Chung-hee dùng ngân hàng. Việt Nam dùng quy hoạch đô thị và thuế tiêu dùng xanh. Nhưng logic vẫn là một: Nhà nước chọn người thắng, rồi vẽ lại sân chơi để người đó thắng.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC060",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Bơm tiền thì để lại dấu vết trên kiểm toán. Bơm luật chơi thì chỉ xuất hiện trên thị phần.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC061",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và khi cộng tất cả lại — thuế 0%, quy hoạch mở khóa, hạ tầng giao thông bao quanh — tổng giá trị thương mại mà Vingroup nhận được không qua ngân sách có thể lên đến hàng chục ngàn tỷ đồng mỗi năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC062",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng ở đây mới nảy ra câu hỏi mà ít ai dám hỏi thẳng: ai đang gánh rủi ro cho canh bạc này?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC063",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Mô hình mà chúng ta vừa phân tích nghe rất đẹp trên giấy. Nhà nước vẽ sân chơi. Vingroup chạy trên sân.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC064",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Doanh thu tăng. Thị phần tăng. Cổ phiếu tăng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC065",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nhưng có một sự thật mà cả phe ủng hộ lẫn phe phản đối đều không muốn nhìn thẳng: VinFast — mảnh ghép quan trọng nhất trong toàn bộ cỗ máy này — vẫn đang lỗ ròng 77 ngàn tỷ đồng trong năm 2024. Biên lợi nhuận gộp âm hơn 57%. Tổng tài sản đạt hơn 181 ngàn tỷ, nhưng phần lớn được tài trợ bằng nợ — trái phiếu quốc tế, thỏa thuận Yorkville trị giá khoảng 1 tỷ đô-la, và các khoản vay bằng đồng tiền mạnh.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC066",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Vingroup tự gánh nợ. Nhà nước không bảo lãnh. Không có bailout trực tiếp.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC067",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là sự thật, và đó cũng chính là rủi ro.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC068",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Vì khi một tập đoàn lớn đến mức trở thành trụ cột của chiến lược tăng trưởng quốc gia — thì nó cũng lớn đến mức không được phép sụp. Too Big To Fail. Và cái giá của \"không được phép sụp\" — không phải Vingroup trả.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC069",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Mà là hệ thống trả. Và hệ thống — đó là bạn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC070",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Hãy nhìn vào chuỗi dây chuyền. VinFast vay bằng đô-la. Nếu tỷ giá biến động mạnh, chi phí trả nợ tăng vọt.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC071",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nếu VinFast không hòa vốn hoạt động đúng lộ trình, áp lực tài chính sẽ dội ngược lên Vingroup — và từ Vingroup, nó lan ra hệ thống ngân hàng. Khi đó, lãi suất tín dụng tăng. Bất động sản xung quanh các siêu dự án đóng băng.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC072",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Giá trị sổ đỏ của bạn giảm. Khoản vay trả góp của bạn nặng hơn mỗi tháng.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC073",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Đừng nghĩ đây chỉ là chuyện của Vingroup. Khi quán quân quốc gia gục — cả nền kinh tế rung chuyển.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC074",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "50 năm trước, Hàn Quốc cũng viết luật chơi cho một tập đoàn tên là Daewoo. Daewoo cũng được chọn làm quán quân. Daewoo cũng vay bằng đô-la.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC075",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Daewoo cũng bành trướng sang ô tô, đóng tàu, xây dựng. Và Daewoo phá sản với 80 tỷ đô-la tiền nợ — vụ vỡ nợ doanh nghiệp lớn nhất lịch sử châu Á thời điểm đó.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC076",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Mô hình developmental state không miễn phí. Nó hoạt động tuyệt vời khi nền kinh tế bơm ga. Nhưng mỗi lần nó thất bại — cái giá đều mang tầm quốc gia.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC077",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Samsung sống sót vì kỷ luật nợ và khả năng tạo lợi nhuận thực từ bán dẫn. Daewoo sụp vì mở rộng nhanh hơn dòng tiền cho phép. Vingroup đang ở giữa hai kịch bản đó.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC078",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Doanh thu VinFast năm 2025 tăng mạnh, vượt 90 ngàn tỷ. Lỗ ròng đang thu hẹp dần. Nhưng câu hỏi vẫn treo lơ lửng: bao lâu nữa mới hòa vốn hoạt động?",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC079",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và trong khoảng thời gian chờ đợi đó, ai đang trả chi phí cơ hội?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC080",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn — người đóng thuế, người gửi tiết kiệm, người đang trả lãi vay ngân hàng — đang gánh một phần rủi ro đó. Không phải vì bạn chọn. Mà vì bàn cờ đã được xếp sẵn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC081",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vậy trong cuộc tái chia bàn cờ này, bạn nên theo dõi tín hiệu nào để biết mình đang đứng ở phía nào?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC082",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn không cần phải chọn phe ủng hộ hay phản đối Vingroup. Bạn cần một cách đọc bàn cờ. Và cách đọc đó không phức tạp — chỉ cần theo dõi 3 tín hiệu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC083",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "**Tín hiệu thứ nhất: Nghị định và quy hoạch mới.**",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC084",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Mỗi lần một văn bản liên quan đến xe điện, đô thị, hoặc hạ tầng giao thông được ký — bạn cần dừng lại và hỏi ba câu: Ai hưởng lợi cấu trúc từ văn bản này? Quỹ đất nào được mở khóa? Ngành nào bị siết?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC085",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Giới tinh anh không phân tích cổ phiếu bằng P/E. Họ phân tích chính sách. Mỗi nghị định mới là một lần sân chơi được vẽ lại — và nếu bạn đọc được trước khi đám đông kịp phản ứng, bạn đang đứng ở đúng phía.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC086",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Cổng thông tin Chính phủ — công khai, miễn phí. Mục \"Văn bản mới ban hành.\" Đó là nơi mà dòng tiền thông minh nhìn vào mỗi sáng. Không phải Facebook.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC087",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Không phải group Zalo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC088",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "**Tín hiệu thứ hai: Biên nợ Vingroup.**",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC089",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "VinFast vẫn đang lỗ. Câu hỏi không phải \"có lỗ không\" — ai cũng biết. Câu hỏi là: tốc độ thu hẹp lỗ có nhanh hơn tốc độ đốt tiền không?",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC090",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Theo dõi ba chỉ số: tỷ lệ nợ trên vốn chủ sở hữu của VIC, lỗ ròng quý của VinFast, và các thỏa thuận tài trợ quốc tế mới. Khi biên lỗ bắt đầu thu hẹp nhanh — đó là tín hiệu tích cực. Khi Vingroup phải phát hành thêm trái phiếu hoặc pha loãng cổ phần với tốc độ tăng — đó là tín hiệu cần cẩn trọng.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC091",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Dữ liệu này nằm trên trang quan hệ nhà đầu tư của VinFast — cũng công khai, cũng miễn phí. Nhưng hầu hết nhà đầu tư nhỏ lẻ chưa bao giờ mở.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC092",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "**Tín hiệu thứ ba: Dòng tiền khối ngoại.**",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC093",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Quỹ ngoại mua ròng hay bán ròng VIC và VHM? Dòng FDI vào ngành chế biến-chế tạo — vốn chiếm hơn 70% tổng FDI quý I năm 2026 — có tiếp tục tăng không?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC094",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Khi quỹ ngoại gom ròng trong các nhịp điều chỉnh — đó là tín hiệu họ vẫn đang đặt cược vào mô hình quán quân quốc gia. Khi ngoại bán ròng liên tục — đó có thể là cảnh báo sớm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC095",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn không cần theo dõi hàng ngày. Không cần ngồi nhìn bảng điện 8 tiếng. Chỉ cần mỗi khi có nghị định mới được ký, hoặc VinFast công bố kết quả quý — bạn mở ra, tự kiểm tra 3 tín hiệu này, và tự hỏi: mình đang đứng ở phía nào?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC096",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Đây không phải lời khuyên mua hay bán. Đây là khung phân tích. Và sự khác biệt giữa nhà đầu tư sống sót với nhà đầu tư bị cuốn trôi — nằm ở chỗ: một người có framework, một người có cảm xúc.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC097",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu bạn thấy phân tích này giúp bạn nhìn rõ hơn bức tranh đang diễn ra — nhấn thích và chia sẻ cho người thân, những người cũng cần hiểu trước khi nó ảnh hưởng đến túi tiền của họ.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC098",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Chúng ta đã đi qua một bức tranh lớn. Từ cổ phiếu tăng 7 lần mà đám đông không hiểu vì sao. Đến 4 công cụ quyền lực mà Nhà nước dùng để kiến tạo đường băng cho quán quân quốc gia.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC099",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đến rủi ro mang tầm hệ thống nếu cỗ máy đó vấp ngã.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC100",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bây giờ, phần còn lại phụ thuộc vào bạn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC101",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn không cần tin Vingroup. Cũng không cần ghét Vingroup. Bạn cần đọc được bàn cờ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC102",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Vì mỗi lần một nghị định mới được ký — tiền đã chảy xong trước khi mực ráo. Mỗi lần một quy hoạch mới được phê duyệt — giá trị tài sản đã dịch chuyển trước khi báo chí kịp đưa tin.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC103",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Đây không chỉ là chuyện Vingroup. Đây là cách một Nhà nước kiến tạo phát triển viết lại luật chơi kinh tế. Hàn Quốc đã làm điều này 50 năm trước.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC104",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Nhật Bản 70 năm trước. Và Việt Nam đang đi trên con đường tương tự — với tất cả cơ hội lẫn rủi ro mà con đường đó mang lại.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC105",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Sự khác biệt duy nhất giữa người đứng đúng phía và người đứng sai phía của dòng tiền — không phải là may mắn. Mà là khả năng đọc kiến trúc chính sách trước đám đông.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC106",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Lần tới, khi bạn thấy một quyết định quy hoạch trên bản tin — đừng lướt qua. Mở công báo ra. Đọc kỹ xem ai hưởng lợi, quỹ đất nào bị ảnh hưởng, ngành nào bị siết.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC107",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vì rất có thể, đó chính là tín hiệu mà dòng tiền thông minh đang chờ.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC108",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Đọc nghị định. Không đọc báo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC109",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Và nói thẳng: video này không phải để khuyến khích bạn chạy theo cổ phiếu VIC. Sẽ không có ai tỉnh táo khuyến nghị bạn mua một cổ phiếu đã tăng 7 lần. Chuyến tàu đó đã rời ga.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC110",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nhưng bàn cờ thì vẫn đang được xếp. Và nếu bạn đã hiểu cách Nhà nước kiến tạo đường băng cho Vingroup — thì câu hỏi tiếp theo phải là: với thế cờ hiện tại của kinh tế vĩ mô, ngành nào sẽ là quán quân tiếp theo? Ai sẽ đứng ở cuối đường băng kế tiếp?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC111",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó mới là điều đáng để bạn dành thời gian tìm hiểu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC112",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Còn bạn — bạn nhìn thấy gì từ bức tranh kinh tế vĩ mô hiện tại? Bạn thấy cơ hội hay rủi ro? Comment chia sẻ góc nhìn của bạn — vì mỗi người đứng ở một vị trí khác nhau, và đôi khi góc nhìn của bạn chính là mảnh ghép mà người khác đang thiếu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC113",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nếu bạn muốn tiếp tục hành trình giải mã bức tranh vĩ mô Việt Nam cùng chúng tôi — nhấn đăng ký và bật thông báo. Mỗi tập là một mảnh ghép mới. Và bức tranh lớn nhất vẫn đang được vẽ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC114",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Đây là nội dung phân tích kinh tế mang tính giáo dục. Dòng Chảy không đưa ra lời khuyên đầu tư hay khuyến nghị mua bán bất kỳ tài sản nào.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  }
+]

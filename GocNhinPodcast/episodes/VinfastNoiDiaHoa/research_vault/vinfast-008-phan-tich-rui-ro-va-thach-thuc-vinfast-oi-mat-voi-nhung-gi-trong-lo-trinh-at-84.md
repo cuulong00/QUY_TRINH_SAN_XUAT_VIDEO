@@ -1,0 +1,348 @@
+---
+title: "Phân tích rủi ro và thách thức: VinFast đối mặt với những gì trong lộ trình đạt 84%? Chuỗi cung ứng Lithium, cạnh tranh BYD/CATL, rào cản công nghệ, và vấn đề tài chính."
+type: nblm-answer
+asked_at: 2026-07-22T03:23:31.985Z
+notebook_url: "https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1"
+session_id: "4f59a68f"
+citations_count: 47
+sources:
+  - "Noidiahoa-gocnhinpodcast.md"
+  - "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026"
+  - "Developments & price dynamics in USA's Lithium Carbonate market - GTAIC"
+  - "Why Are Chinese EVs So Cheap? - Rhodium Group"
+  - "Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov"
+  - "Vietnam: VinFast posts record EV sales in H1 2026 : r/electricvehicles - Reddit"
+  - "Gotion High-tech and VinES Vietnam base break ground at joint venture battery factory"
+  - "VinFast Auto Q4 2025 Earnings Report - MarketBeat"
+  - "LFP vs NMC Batteries: 2026 Cost, Safety & Lifespan Comparison - Evlithium"
+  - "LFP vs NMC Battery: Which Is Better for Your EV in 2026? - MotorWatt"
+---
+
+# Phân tích rủi ro và thách thức: VinFast đối mặt với những gì trong lộ trình đạt 84%? Chuỗi cung ứng Lithium, cạnh tranh BYD/CATL, rào cản công nghệ, và vấn đề tài chính.
+
+> Asked on 2026-07-22T03:23:31.985Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1)
+
+## Answer
+
+Thoughts
+Lộ trình nâng tỷ lệ nội địa hóa từ 60% - 64% (cuối năm 2024) lên 84% vào năm 2026 của VinFast là một chiến lược bứt phá mạnh mẽ nhằm tự chủ chuỗi cung ứng và tối ưu hóa giá thành sản phẩm
+1
+2
+. Tuy nhiên, trên hành trình dịch chuyển từ mô hình lắp ráp hệ thống sang tự chủ công nghệ, VinFast đang phải đối mặt với những rủi ro và thách thức mang tính cấu trúc dưới đây:
+1. Thách thức từ chuỗi cung ứng Lithium và nguyên liệu pin toàn cầu
+Việc đưa nhà máy liên doanh pin LFP VinES-Gotion tại Vũng Áng (Hà Tĩnh) vào vận hành thương mại từ Quý 3/2024 là chìa khóa để nâng tỷ lệ nội địa hóa
+1
+3
+. Tuy nhiên, hoạt động của nhà máy này bị ảnh hưởng trực tiếp bởi sự biến động dữ dội của thị trường nguyên liệu thô đầu vào:
+Sự biến động cực đoan của giá Lithium Carbonate: Thị trường Lithium toàn cầu đã trải qua chu kỳ biến động rất mạnh
+4
+. Từ đỉnh giá gần 15.670 USD/tấn vào năm 2023, giá đã rơi sâu xuống đáy khoảng 10.200 USD/tấn vào cuối năm 2025 do dư thừa nguồn cung toàn cầu
+5
+, nhưng sau đó đột ngột tăng vọt trở lại vượt ngưỡng 24.000 USD/tấn vào tháng 1/2026 và đạt mức 25.156 USD/tấn vào tháng 4/2026 do nguồn cung bị siết chặt cục bộ
+6
+. Sự bất ổn định này gây khó khăn lớn cho việc dự toán chi phí sản xuất cell pin dài hạn và quản lý định giá tồn kho của hãng
+7
+8
+.
+Rủi ro tập trung nguồn cung địa chính trị: Chuỗi cung ứng Lithium Carbonate toàn cầu có mức độ tập trung rủi ro cực kỳ cao khi hai quốc gia Nam Mỹ (Argentina và Chile) kiểm soát đến hơn 98% nguồn cung
+9
+. Trong khi đó, vai trò xuất khẩu của Trung Quốc ngày càng thu hẹp do họ tăng cường tiêu thụ nội địa cho hệ sinh thái xe điện khổng lồ trong nước
+10
+, làm gia tăng rủi ro tranh chấp tài nguyên đối với các nhà sản xuất xe điện ngoài Trung Quốc như VinFast
+10
+11
+.
+2. Áp lực cạnh tranh khốc liệt từ BYD và CATL (Gotion)
+VinFast đang phải đối đầu với những "gã khổng lồ" có thâm niên hàng thập kỷ và sở hữu lợi thế tuyệt đối về quy mô:
+Mô hình tích hợp dọc cực đoan của BYD: BYD tự sản xuất 70% - 75% linh kiện của xe ngay trong nội bộ tập đoàn (bao gồm cả pin Blade tự chủ và chip bán dẫn)
+. Khả năng tự chủ này giúp BYD loại bỏ biên lợi nhuận của các nhà cung cấp trung gian, giảm giá thành sản xuất mỗi xe xuống mức cực thấp (chỉ còn khoảng 159.000 Nhân dân tệ vào năm 2023)
+12
+15
+và sẵn sàng thực hiện cuộc chiến dìm giá tàn khốc để triệt tiêu các đối thủ mới nổi
+16
+17
+.
+Sự bành trướng mạng lưới nhà máy ngoài Trung Quốc của BYD: BYD đang xây dựng thần tốc các tổ hợp sản xuất quy mô lớn tại Thái Lan (150.000 xe/năm)
+18
+19
+, Brazil (Camaçari, mở rộng lên 300.000 xe/năm)
+18
+20
+và Hungary (Szeged, 300.000 xe/năm)
+18
+21
+. Sự hiện diện này đe dọa trực tiếp đến kế hoạch xuất khẩu và mở rộng thị trường quốc tế của VinFast
+18
+22
+.
+Thách thức cạnh tranh trạm sạc tại Việt Nam: Hiện tại, VinFast đang duy trì thế độc quyền mạng lưới trạm sạc trong nước, khiến người tiêu dùng Việt Nam ưu tiên chọn xe VinFast thay vì xe nhập khẩu Trung Quốc (như BYD)
+23
+24
+. Tuy nhiên, nếu các đối thủ lớn liên kết mở rộng các mạng lưới trạm sạc dùng chung (như dự án trạm sạc diện rộng của Grab)
+24
+25
+, VinFast sẽ mất đi "bệ đỡ" độc quyền này và phải đối mặt với làn sóng cạnh tranh trực diện ngay trên sân nhà
+25
+.
+Sự phụ thuộc công nghệ liên doanh: Mặc dù tự chủ sản xuất cell pin trực tiếp tại Hà Tĩnh, dự án này thực chất là một liên doanh mà Gotion High-Tech (Trung Quốc) nắm giữ cổ phần chi phối 51% (VinES chỉ nắm 49%)
+26
+27
+. Điều này có nghĩa VinFast vẫn phải phụ thuộc vào công nghệ chuyển giao và quyền quyết định của đối tác Trung Quốc
+26
+27
+, chưa đạt đến trạng thái tự chủ công nghệ pin độc lập hoàn toàn như BYD
+12
+28
+.
+3. Rào cản công nghệ và tối ưu hóa giá thành (BOM)
+Nội địa hóa không chỉ là lắp ráp chi tiết tại chỗ mà đòi hỏi khả năng làm chủ các công nghệ lõi có chi phí cao:
+Áp lực tối ưu hóa chi phí hóa đơn vật liệu (BOM): Để cải thiện biên lợi nhuận gộp đang âm nặng, VinFast bắt buộc phải giảm chi phí BOM từ 30% - 40% thông qua việc chuyển dịch sang nền tảng xe thế hệ mới và kiến trúc điện - điện tử EE 2.0 (tích hợp các hộp điều khiển ECU và tinh giản dây dẫn)
+. Đây là một thách thức kỹ thuật phức tạp đòi hỏi năng lực tự chủ phần mềm rất cao
+29
+32
+.
+Giới hạn vật lý của công nghệ pin LFP trong thời tiết lạnh: Pin LFP sản xuất tại Hà Tĩnh tuy có ưu thế tuyệt đối về chi phí (rẻ hơn 20% - 30% so với NMC)
+33
+34
+và độ an toàn cháy nổ cao
+33
+35
+, nhưng lại chịu lạnh cực kỳ kém
+36
+. Khi nhiệt độ giảm xuống dưới 0°C, hiệu suất pin LFP giảm 10% - 20%, và ở mức -20°C pin chỉ hoạt động được khoảng 60% dung lượng
+36
+. Đây là rào cản kỹ thuật rất lớn cho xe VinFast khi xuất khẩu sang các thị trường có mùa đông khắc nghiệt như Bắc Mỹ, Canada hay Bắc Âu
+37
+38
+.
+Chi phí phát triển công nghệ tự hành ADAS: Lộ trình phát triển ADAS từ L2+ lên L4 đòi hỏi nguồn lực công nghệ khổng lồ
+39
+40
+. Để tiết kiệm vốn, VinFast phải chọn giải pháp "thuê ngoài" và hợp tác với Tensor (Mỹ)
+41
+42
+hay Autobrains (Israel)
+40
+, điều này tiếp tục tạo ra các rủi ro về mặt làm chủ công nghệ phần mềm tự lái độc quyền dài hạn
+39
+40
+.
+4. Gánh nặng tài chính và rủi ro dòng tiền hoạt động
+Thách thức lớn nhất đè nặng lên lộ trình đạt 84% nội địa hóa của VinFast là sức khỏe tài chính của doanh nghiệp:
+Tình trạng thua lỗ kéo dài: Mặc dù doanh thu năm 2025 tăng trưởng vượt bậc 105,4% đạt 90.427,6 tỷ đồng, hãng vẫn ghi nhận khoản lỗ ròng kỷ lục lên tới 97.245,7 tỷ đồng (khoảng 3.871,1 triệu USD) do chi phí vốn bán hàng quá cao và biên lợi nhuận gộp vẫn ở mức âm 42,5%
+43
+44
+.
+Thâm hụt vốn chủ sở hữu và nợ vay lớn: Tính đến cuối năm 2025, tổng nợ phải trả của VinFast vượt xa tổng tài sản (10,82 tỷ USD nợ phải trả so với 7,24 tỷ USD tài sản), dẫn đến thâm hụt vốn chủ sở hữu 3,59 tỷ USD
+45
+. Dư nợ vay ngắn và dài hạn duy trì ở mức cao đạt 3,27 tỷ USD
+45
+.
+Dòng tiền hoạt động âm sâu: Dòng tiền từ hoạt động kinh doanh của hãng trong năm 2025 ghi nhận thâm hụt âm 44.566,2 tỷ đồng (khoảng 1,77 tỷ USD)
+21
+45
+.
+Áp lực chi tiêu CapEx và R&D khổng lồ trong năm 2026: Để tiếp tục lộ trình mở rộng nhà máy quốc tế (Ấn Độ, Indonesia, Mỹ)
+46
+và phát triển công nghệ xe mới, VinFast dự kiến chi tiêu tới 1,6 tỷ USD cho CapEx và 1,4 tỷ USD cho R&D chỉ riêng trong năm 2026
+47
+. Điều này tạo áp lực thanh khoản cực kỳ khốc liệt
+48
+.
+Sự phụ thuộc sinh tồn vào công ty mẹ: Nguồn thanh khoản khả dụng 3,1 tỷ USD của hãng tính đến cuối năm 2025 thực chất dựa hoàn toàn vào cam kết tài trợ không hoàn lại và các hạn mức cho vay chưa giải ngân từ Tập đoàn Vingroup và Chủ tịch Phạm Nhật Vương (gồm 875,8 triệu USD tiền mặt tài trợ và 980,2 triệu USD hạn mức vay)
+49
+50
+. Bất kỳ biến động nào về sức khỏe tài chính của tập đoàn mẹ Vingroup đều sẽ đe dọa trực tiếp đến dòng tiền duy trì sản xuất của VinFast
+51
+.
+📊 Bạn có muốn tôi thực hiện một phân tích so sánh sâu hơn về cấu trúc chi phí linh kiện (BOM) giữa mẫu xe điện quốc dân VinFast VF 3 và đối thủ trực tiếp BYD Seagull (Dolphin Mini) dựa trên tài liệu không?
+
+## Sources
+
+### [1] Noidiahoa-gocnhinpodcast.md
+
+> Bản Chất Tỷ Lệ Nội Địa Hóa 60% - 64% Và Lộ Trình Đạt 84% Đến Năm 2026 Để hiểu đúng về tỷ lệ nội địa hóa, cần làm rõ công thức tính toán trong ngành ô tô. Tỷ lệ nội địa hóa không tính bằng số lượng chi tiết đơn lẻ mà được cấu thành từ giá trị gia tăng, hàm lượng công nghệ và chi phí sản xuất thực hiện tại nội địa. Đến cuối năm 2024, VinFast công bố đã đạt tỷ lệ nội địa hóa từ hơn 60% đến 64% trên các dòng xe điện, tạo ra sự thay đổi lớn so với mức trung bình chỉ khoảng 20% của ngành công nghiệp phụ trợ Việt Nam trước đây7. Con số 60% - 64% hiện tại có nghĩa là VinFast đã làm chủ và trực tiếp sản xuất các cấu phần có khối lượng, kích thước và chi phí sản xuất lớn nhất ngay tại Tổ hợp nhà máy Hải Phòng7. Xưởng dập công nghệ Schuler (Đức) và Xưởng hàn thân vỏ với 1.200 robot ABB tự động hóa 100% đảm nhiệm việc tự sản xuất toàn bộ kết cấu khung gầm và mảng dập thân vỏ12. Quá trình cơ khí hóa, quấn dây và lắp ráp động cơ điện (e-Motor) được thực hiện tại xưởng sản xuất động cơ riêng biệt trong tổ hợp10. Các bộ phận như ghế ngồi, trần xe, bảng điều khiển, vành xe, hệ thống phanh, giảm xóc, các chi tiết nhựa, hệ thống đèn xe và công đoạn đóng gói khối pin (Battery Pack) cũng đều được hoàn thiện trong nước7. Lộ trình nâng tỷ lệ nội địa hóa từ mức 60% - 64% hiện tại lên 84% vào năm 2026 đòi hỏi VinFast phải nội địa hóa các linh kiện có giá trị kinh tế và giá trị công nghệ cao nhất – nơi tập trung cấu thành chi phí của một chiếc xe điện7. Pin chiếm từ 30% đến 40% tổng giá trị chiếc xe điện. Để nâng tỷ lệ nội địa hóa thêm khoảng 20%, nhân tố quyết định là việc đưa các nhà máy sản xuất cell pin (như nhà máy sản xuất cell pin LFP hợp tác với Gotion tại Hà Tĩnh) đi vào vận hành thương mại quy mô lớn10. Việc tự sản xuất cell pin tại Việt Nam thay vì nhập khẩu cell từ các đối tác CATL hay LG Chem sẽ đóng góp mức tăng trưởng tỷ lệ nội địa hóa cao nhất15. Song song đó, VinFast mở rộng quy mô Xưởng Thiết bị điện tử tại Hải Phòng để tự sản xuất các bo mạch điều khiển động cơ, hệ thống quản lý pin (BMS) và các cụm điều khiển thông minh nội địa12. Hãng cũng tiến tới sản xuất nội địa hóa toàn bộ các chi tiết phanh lái, kính gương, các cụm cơ cấu treo cao cấp và tối ưu hóa chuỗi cung ứng vật liệu đầu vào trong nước7.
+
+### [2] Noidiahoa-gocnhinpodcast.md
+
+> So Sánh Đa Chiều: VinFast, Tesla Và BYD Về Tuổi Đời, Xuất Thân Và Chuỗi Cung Ứng Sự khác biệt về tỷ lệ nội địa hóa và mô hình sản xuất giữa VinFast, Tesla và BYD bắt nguồn từ lịch sử thành lập, nền tảng khởi đầu và hệ sinh thái công nghiệp phụ trợ của từng quốc gia. Thành lập năm 1995 với xuất thân là một nhà sản xuất pin điện thoại di động và năng lượng, BYD tham gia vào ngành sản xuất ô tô từ năm 200319. Với gần 30 năm kinh nghiệm trong lĩnh vực hóa học pin và hơn 20 năm làm ô tô, BYD lựa chọn mô hình tích hợp dọc tuyệt đối (Vertical Integration)19. BYD tự sản xuất khoảng 75% linh kiện cấu thành chiếc xe ngay trong nội bộ tập đoàn, từ việc khai thác mỏ Lithium, sản xuất Pin Blade, tự thiết kế bán dẫn/chip IGBT (BYD Semiconductor), đến sản xuất động cơ và hệ thống truyền động 8-trong-119. BYD hầu như không phụ thuộc vào các nhà cung ứng Tier-1 bên ngoài, giúp hãng kiểm soát tối đa chi phí và chủ động nguồn cung21. Tesla được thành lập năm 2003 tại Thung lũng Silicon với bản chất là một công ty công nghệ và phần mềm23. Mặc dù nhà máy Fremont tại Mỹ có tỷ lệ tự làm linh kiện nhất định, điểm sáng về tỷ lệ nội địa hóa của Tesla lại nằm ở nhà máy Gigafactory Thượng Hải, nơi đạt tỷ lệ nội địa hóa linh kiện vượt quá 95%23. Tesla đạt được con số 95% này không phải nhờ tự sản xuất toàn bộ linh kiện trong nhà máy, mà nhờ đặt đại bản doanh vào giữa hệ sinh thái công nghiệp phụ trợ ô tô phát triển của vùng Đồng bằng sông Dương Tử27. Hơn 400 nhà cung cấp Trung Quốc đã cung ứng trực tiếp linh kiện cho Tesla, trong đó hơn 60 nhà cung ứng đã tham gia vào chuỗi cung ứng toàn cầu của hãng23. Tesla tập trung nguồn lực nội bộ vào thiết kế kiến trúc xe, phần mềm tự lái (FSD), chip AI và công nghệ đúc nguyên khối (Megacasting). VinFast được thành lập năm 2017 với xuất thân từ Vingroup – một tập đoàn đa ngành khởi đầu từ bất động sản và dịch vụ29. VinFast chính thức chuyển hướng hoàn toàn sang sản xuất xe thuần điện từ năm 2022, nghĩa là tuổi đời thực sự trong ngành xe điện chỉ mới đạt khoảng vài năm29. Khởi đầu tại một quốc gia chưa có nền công nghiệp phụ trợ ô tô phát triển (tỷ lệ nội địa hóa chung của Việt Nam trước đó chỉ khoảng 20%), VinFast áp dụng mô hình tích hợp hệ thống toàn cầu kết hợp tự sản xuất nội địa8. Mức 60% - 64% hiện tại và hướng tới 84% năm 2026 thể hiện tốc độ dịch chuyển từ việc phụ thuộc vào chuỗi cung ứng quốc tế sang tự chủ sản xuất trong nước7.
+
+### [3] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Về mặt tiến độ triển khai thực tế, dự án đã bắt đầu giai đoạn sản xuất thử nghiệm thiết bị và lắp đặt hệ thống phòng sạch trong năm 2024, chính thức đi vào sản xuất thương mại hàng loạt từ quý 3 năm 2024 [cite: 29, 33, 36]. Đến nửa đầu năm 2025, nhà máy đã vận hành ổn định và đạt hiệu suất cao [cite: 30]. Trong 6 tháng đầu năm 2025, tổ hợp pin tại Hà Tĩnh đã chế tạo thành công hơn 14.000 bộ pack pin hoàn chỉnh (tăng gấp 7 lần so với cùng kỳ năm 2024) và sản xuất hơn 9,4 triệu cell pin LFP thành phẩm, trực tiếp giải quyết vấn đề tự chủ cung ứng cho VinFast [cite: 30].
+
+### [4] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> -------------------------------------------------------------------------------- Phân tích chuỗi cung ứng vật liệu pin lithium và sự phân tách công nghệ LFP vs NMC Diễn biến giá Lithium Carbonate toàn cầu giai đoạn 2024-2026 Thị trường nguyên liệu thô đầu vào cho sản xuất cực dương pin lithium-ion, đặc biệt là Lithium Carbonate, đã trải qua một chu kỳ biến động dữ dội trong giai đoạn 2024-2026 [cite: 73, 74]. Sự mất cân đối nghiêm trọng giữa tốc độ mở rộng công suất khai thác mỏ và tốc độ hấp thụ thực tế của thị trường xe điện đã tạo ra các đợt điều chỉnh giá sâu sắc [cite: 73, 74].
+
+### [5] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Trong năm 2024 và năm 2025, thị trường chịu áp lực dư thừa nguồn cung lớn sau làn sóng đầu tư ồ ạt từ các năm trước đó [cite: 74]. Giá Lithium Carbonate nhập khẩu trung bình vào thị trường Mỹ đã sụt giảm mạnh từ mức đỉnh gần 15.670 USD/tấn năm 2023 xuống còn 13.220 USD/tấn trong năm 2024, và tiếp tục giảm sâu xuống đáy ở mức khoảng 10.200 USD/tấn vào cuối năm 2025 [cite: 75]. Sự sụt giảm nghiêm trọng này đã đẩy nhiều doanh nghiệp khai thác mỏ và chế biến spodumene rơi vào trạng thái thua lỗ, buộc họ phải đóng cửa mỏ hoặc cắt giảm sản lượng [cite: 73, 74].
+
+### [6] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Tuy nhiên, sự suy giảm nguồn cung trong giai đoạn chạm đáy đã nhanh chóng tạo ra hiện tượng thắt chặt nguồn cung cục bộ khi bước sang năm 2026 [cite: 73, 74]. Nhu cầu từ các nhà sản xuất pin tăng mạnh trở lại để phục vụ làn sóng xe điện mới [cite: 73]. Ngay trong tháng 1 năm 2026, giá Lithium Carbonate giao ngay đã tăng vọt trở lại vượt ngưỡng 24.000 USD/tấn [cite: 74]. Đến tháng 4 năm 2026, giá giao ngay đạt đỉnh ở mức 25.156 USD/tấn , ghi nhận mức giá trung bình lũy kế từ đầu năm đạt 21.892 USD/tấn [cite: 74].
+
+### [7] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> So sánh phân tích kỹ thuật và kinh tế: Công nghệ cell pin LFP và NMC Sự phân tách thị phần giữa hai công nghệ hóa học pin phổ biến nhất là Lithium Sắt Phosphat (LFP) và Nickel-Manganese-Cobalt (NMC) đã đạt tới trạng thái định hình rõ ràng trong năm 2026 [cite: 34, 41]. Cấu trúc tinh thể olivine siêu bền vững của LFP mang lại tính ổn định nhiệt học tuyệt đối khi nhiệt độ bắt đầu xảy ra hiện tượng thoát nhiệt (thermal runaway) lên tới 270°C, trong khi NMC bị giới hạn ở 210°C và dễ giải phóng oxy tự do gây cháy nổ khi xảy ra va chạm mạnh [cite: 34]. Mặc dù NMC có ưu thế tuyệt đối về mật độ năng lượng ở cấp độ cell pin (150-250 Wh/kg so với 90-160 Wh/kg của LFP) giúp xe du lịch đạt được cự ly di chuyển xa hơn [cite: 34], LFP lại vượt trội hoàn toàn về hiệu quả kinh tế và tuổi thọ vận hành [cite: 34, 35].
+
+### [8] Developments & price dynamics in USA's Lithium Carbonate market - GTAIC
+
+> Sharp price correction drives market contraction despite stable industrial demand. LTM proxy prices fell 24.07% to US$10,407 per ton compared to the previous year. Nov-2024 – Oct-2025 Why it matters: The rapid decline in proxy prices from the 2023 peak of US$15,670 per ton suggests a shift toward a low-margin environment. For manufacturers, this reduces raw material costs but signals potential inventory valuation risks and tightening margins for high-cost extractors. Short-term price dynamics Prices in the latest 6 months (May-2025 – Oct-2025) underperformed the previous year, falling by 23.54%.
+
+### [9] Developments & price dynamics in USA's Lithium Carbonate market - GTAIC
+
+> Leader change Argentina displaced Chile as the #1 supplier by value in the latest partial year 2025. Extreme concentration risk persists with two nations controlling nearly 99% of supply. The top two suppliers, Argentina and Chile, account for 98.9% of total US import value. Jan-2025 – Oct-2025 Why it matters: The US remains almost entirely dependent on South American brine production. This extreme concentration exposes the battery and automotive sectors to significant geopolitical and climate-related risks in the 'Lithium Triangle', with virtually no meaningful secondary supply from other regions.
+
+### [10] Developments & price dynamics in USA's Lithium Carbonate market - GTAIC
+
+> Concentration risk Top-2 suppliers exceed 98% of total imports, indicating a highly vulnerable supply chain. China's role as a supplier continues to diminish amid domestic competition. Imports from China fell by 72.5% in value during the first ten months of 2025. Jan-2025 – Oct-2025 Why it matters: China, once a significant supplier (11.2% share in 2019), has seen its share dwindle to just 0.1%. This reflects both the US pivot toward FTA partners like Chile and Argentina and the increasing domestic consumption of lithium within China's own EV battery ecosystem.
+
+### [11] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Các báo cáo giá khu vực trong năm 2026 ghi nhận mức độ chênh lệch lớn giữa các thị trường tiêu thụ chính do chi phí vận tải tăng cao và xu hướng kiểm soát tài nguyên của các quốc gia Nam Mỹ [cite: 73]. Tuy nhiên, Benchmark Mineral Intelligence dự báo giá Lithium Carbonate sẽ hạ nhiệt dần trong nửa cuối năm 2026 khi nguồn cung từ các dự án tái chế và khai thác mới tại Trung Quốc đi vào hoạt động ổn định, đưa giá trung bình cả năm 2026 về quanh mức 17.000 USD/tấn [cite: 74]. Khu vực địa lý báo giá Giá trung bình Quý 1/2026 (USD/kg) Giá trung bình Tháng 6/2026 (USD/kg) Quy đổi giá Tháng 6/2026 (USD/tấn) Thị trường Đông Bắc Á (Northeast Asia) 18,05 [cite: 73] 21,38 [cite: 73] 21.380 [cite: 73] Thị trường Châu Âu (Europe) 11,95 [cite: 73] 12,66 [cite: 73] 12.660 [cite: 73] Thị trường Bắc Mỹ (North America) 9,42 [cite: 73] 10,50 [cite: 73] 10.500 [cite: 73] Thị trường Nam Mỹ (South America) 7,97 [cite: 73] 8,31 [cite: 73] 8.310 [cite: 73]
+
+### [12] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Phân tích chiến lược tích hợp dọc và tỷ lệ tự chủ linh kiện Yếu tố cốt lõi giúp BYD duy trì biên lợi nhuận rộp cực kỳ lành mạnh ở mức khoảng 22% bất chấp bối cảnh cạnh tranh khốc liệt chính là mô hình tích hợp dọc (vertical integration) toàn diện [cite: 8, 41]. BYD hiện tự sản xuất từ 70% đến 75% tổng lượng linh kiện cấu thành nên một chiếc xe điện ngay trong nội bộ tập đoàn [cite: 7, 41, 52], tạo ra mức tự chủ linh kiện (self-sufficiency) tổng thể trong chuỗi cung ứng đạt trên 50% [cite: 8]. Phân tích hóa đơn vật liệu chi tiết (BOM analysis) chỉ ra rằng BYD tự chủ sản xuất lên đến 80% các linh kiện cấp độ 1 (Tier 1) và khoảng 36% linh kiện cấp độ 2 (Tier 2) [cite: 53]. Hãng tự chế tạo từ các bộ phận cốt lõi nhất như pin Blade, động cơ điện, hệ thống biến tần, hệ truyền động cho đến các chi tiết nhựa nhỏ, dây điện và chip bán dẫn chuyên dụng thông qua công ty con BYD Semiconductor [cite: 7, 41]. Nhờ khả năng tích hợp ngược mạnh mẽ này, BYD đã giảm được chi phí sản xuất trung bình cho mỗi xe từ mức 257.500 Nhân dân tệ năm 2021 xuống chỉ còn 159.000 Nhân dân tệ vào năm 2023 [cite: 8]. Sự tối ưu này giúp một chiếc xe điện của BYD có giá thành sản xuất thấp hơn khoảng 15% so với một chiếc xe tương đương được lắp ráp tại nhà máy siêu tối ưu của Tesla tại Thượng Hải [cite: 7].
+
+### [15] Why Are Chinese EVs So Cheap? - Rhodium Group
+
+> For BYD, vertical integration is the single most important factor behind the company's price advantage. That said, even among Chinese OEMs, BYD and Leapmotor are outliers. This helps explain why BYD has been among the companies most consistently leading price decreases over 2024 and 2025. Vertical integration requires higher upfront capex and R&D, but it eliminates supplier markups across a much larger share of the vehicle. To estimate these savings, we use detailed bill-of-materials (BOM) data for BYD's Seal and Tesla's Model 3—both produced in China and, with the exception of some chips, largely sourced from Chinese suppliers. We identify the share of externally purchased Tier 1 components and assume an average gross margin of 22% for China-based auto suppliers, based on reported margins at firms such as CATL, Bosch, Desay SV, Valeo, and Ningbo Joyson. On this basis, we estimate that BYD avoids roughly $2,369 per vehicle in supplier markups relative to Tesla in the Seal–Model 3 comparison.
+
+### [16] Why Are Chinese EVs So Cheap? - Rhodium Group
+
+> Gregor Williams We're often asked: Why are Chinese EVs so cheap? Comparing costs between Western and Chinese automakers in China shows that subsidies matter, but they're only part of the story. Chinese carmakers benefit from fundamentally lower cost structures, driven by tighter control over their supply chains and a stronger focus on the China market—both of which significantly reduce operating costs. They also make more aggressive use of supplier-backed financing, a practice Beijing is now cracking down on.
+
+### [17] Why Are Chinese EVs So Cheap? - Rhodium Group
+
+> This cost gap is a crucial issue as Western OEMs continue to lose ground in China, with market share down roughly 40 percentage points since 2020 and profits quickly eroding. As brand loyalty fades, price and available features have become the key currency for consumers. For Western carmakers hoping to catch up, closing the cost gap is essential. Take BYD and Tesla, the largest Chinese and Western EV producers. Both offer similarly positioned sedans—the BYD Seal and the Tesla Model 3. The Model 3 outsells the Seal, partly reflecting Tesla's focused two-model strategy compared with BYD's lineup of several dozen models. Still, the two vehicles are broadly comparable: similar size, similar LFP batteries, the Seal equipped with a Qualcomm chip and the Model 3 with Tesla's in-house chip. Yet between late 2022 and late 2025, BYD reduced the Seal's sticker price from $30,198 to $24,190, while the Model 3's price barely moved—from $32,909 to $32,688. How was BYD able to cut prices so sharply while maintaining a higher profit margin than Tesla?
+
+### [18] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Để hiện thực hóa mục tiêu chiếm lĩnh thị trường toàn cầu và né tránh các rào cản thuế quan phòng vệ từ Liên minh Châu Âu hay Mỹ, BYD đã đẩy nhanh tiến độ thiết lập các cơ sở lắp ráp ô tô nguyên chiếc tại các khu vực trọng điểm ngoài Trung Quốc [cite: 41, 42, 43]: Tổ hợp sản xuất Rayong (Thái Lan): Là nhà máy sản xuất xe du lịch sở hữu hoàn toàn đầu tiên của hãng tại khu vực Đông Nam Á, có công suất thiết kế 150.000 xe mỗi năm [cite: 43, 44, 45]. Nhà máy khánh thành vào tháng 7 năm 2024 và đã nhanh chóng đạt mốc sản xuất chiếc xe thứ 70.000 vào tháng 11 năm 2025 [cite: 44, 45]. Nhà máy sản xuất các mẫu xe tay lái nghịch phục vụ thị trường nội địa Thái Lan và xuất khẩu sang các quốc gia Đông Nam Á và Châu Âu [cite: 44, 45, 46]. Tổ hợp sản xuất Camaçari (Bahia, Brazil): Được xây dựng trên nền nhà máy cũ của Ford với tổng công suất thiết kế giai đoạn đầu đạt 150.000 xe/năm và đang khẩn trương mở rộng lên 300.000 xe mỗi năm vào cuối năm 2026 [cite: 47, 48, 49]. Xe đầu tiên (Dolphin Mini) xuất xưởng dưới dạng lắp ráp SKD từ tháng 7 năm 2025 [cite: 50], và toàn bộ nhà máy sẽ chuyển sang chế độ nội địa hóa toàn phần từ tháng 12 năm 2026 [cite: 48, 49]. Nhà máy Szeged (Hungary): Cơ sở sản xuất xe du lịch đầu tiên của BYD tại châu Âu với tổng vốn đầu tư lên đến 4 tỷ Euro, công suất thiết kế định mức lên đến 300.000 xe mỗi năm [cite: 42]. Nhà máy đã bắt đầu giai đoạn sản xuất thử nghiệm (pilot production) từ quý 1 năm 2026 và dự kiến đi vào sản xuất hàng loạt từ quý 2 năm 2026 để lắp ráp mẫu xe Dolphin Surf phục vụ thị trường EU [cite: 42]. Nhà máy liên doanh tại Uzbekistan: Cơ sở phục vụ thị trường Trung Á đã đi vào vận hành ổn định từ năm 2024 [cite: 51]. Hãng cũng đang lên kế hoạch xây dựng nhà máy công suất 100.000 xe/năm tại Thổ Nhĩ Kỳ để bắt đầu hoạt động từ năm 2027 [cite: 5] và xem xét đặt nhà máy thứ ba tại Tây Ban Nha [cite: 42].
+
+### [19] Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov
+
+> 13 Industry and Market Data This press release contains market and industry data obtained from third-party sources and industry reports, publications, websites, and other publicly available information, including but not limited to information regarding the Company's market position and its performance compared to historical performance of other industry players. VinFast has not independently verified such third-party information and makes no representation as to the accuracy of such third-party information. While the Company believes that the market and industry data and related statements presented in this press release are accurate, there can be no assurance as to the accuracy or completeness of such data or statements. The Company does not undertake to update or revise such data or statements. Industry and market data are subject to variations and cannot be verified due to limitations on the availability and reliability of data inputs, the nature of third-party data-gathering processes and other inherent limitations and uncertainties.
+
+### [20] Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov
+
+> 14 All forward-looking statements attributable to VinFast's or people acting on VinFast's behalf are expressly qualified in their entirety by the cautionary statements set forth above. You are cautioned not to place undue reliance on any forward-looking statements, which are made only as of the date hereof. VinFast does not undertake or assume any obligation to update publicly any of these forward-looking statements to reflect actual results, new information or future events, changes in assumptions, or changes in other factors affecting forward-looking statements, except to the extent required by applicable law. If VinFast updates one or more forward-looking statements, no inference should be drawn that it will make additional updates with respect to those or other forward-looking statements. The inclusion of any statement herein does not constitute an admission by VinFast or any other person that the events or circumstances described in such statement are material. Undue reliance should not be placed upon the forward-looking statements.
+
+### [21] Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov
+
+> 11 VinFast Auto Ltd. Unaudited Condensed Consolidated Statements of Cash Flows For the year ended December 31, 2024 2025 2025 VND million VND million USD (Unaudited) (Unaudited) (Unaudited) OPERATING ACTIVITIES Net loss for the period (77,354,949 ) (97,245,734 ) (3,871,093,269 ) Adjustments: Depreciation of property, plant and equipment 9,493,586 11,031,875 439,149,516 Amortization of intangible assets 382,891 462,820 18,423,630 Impairment of assets and changes in fair value of held for sale assets 3,932,677 8,802,861 350,418,415 Changes in operating lease right-of-use assets 1,258,911 471,984 18,788,424 Provision related to compensation expenses, assurance-type warranties, net realizable value of inventories and others 15,243,479 26,974,429 1,073,780,064 Deferred tax expenses/(income) (86,621 ) 373,421 14,864,894 Unrealized foreign exchange losses/ (gain) 1,024,887 (380,311 ) (15,139,166 ) Net losses on financial instruments at fair value through profit or loss 3,183,030 3,149,050 125,355,280 Change in amortized costs of financial instruments measured at amortized cost other than nominal interest 2,893,999 3,250,258 129,384,101 Share-based compensation expenses 81,693 55,354 2,203,495 Losses on disposal and write-off of fixed assets 570,050 626,132 24,924,645 Deemed contribution from owners through donation 5,900,755 - - Share of losses from equity investees 48,836 106,093 4,223,279 Change in working capital: Trade receivables and advance to suppliers, net investment in sales-type lease (7,931,433 ) (3,941,306 ) (156,892,878 ) Inventories (6,749,753 ) (14,064,204 ) (559,858,445 ) Trade payables, deferred revenue and other payables 19,539,512 18,352,933 730,581,306 Operating lease liabilities (832,313 ) (661,085 ) (26,316,030 ) Prepayments, other receivables and other assets (1,067,698 ) (1,930,756 ) (76,858,246 ) Net cash flows used in operating activities (30,468,461 ) (44,566,186 ) (1,774,060,985 )
+
+### [22] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Đối với ngành công nghiệp ô tô Việt Nam và các thương hiệu mới nổi như VinFast, thách thức lớn nhất không chỉ nằm ở việc mở rộng quy mô doanh số bàn giao, mà còn nằm ở việc tối ưu hóa cấu trúc tài chính và kiểm soát hiệu quả dòng tiền hoạt động trước áp lực nợ nợ vay lớn. Việc đưa vào vận hành hiệu quả nhà máy liên doanh sản xuất pin LFP VinES-Gotion tại Hà Tĩnh đóng vai trò then chốt trong việc khép kín chuỗi cung ứng năng lượng tại chỗ. Đây chính là bệ đỡ giúp hãng đáp ứng được các tiêu chuẩn kỹ thuật nghiêm ngặt của quy tắc xuất xứ RVC 40% trong Hiệp định ATIGA để thâm nhập thị trường ASEAN với mức thuế suất ưu đãi 0%, đồng thời vượt qua các tiêu chuẩn an toàn kỹ thuật khắt khe như Euro NCAP để định vị thương hiệu thành công tại thị trường quốc tế.
+
+### [23] Vietnam: VinFast posts record EV sales in H1 2026 : r/electricvehicles - Reddit
+
+> 5 MiClaw1389 â€¢ 1d ago What I think is interesting here is that VF is doing well even with the increase of Chinese imports. Obviously Hormuz is a large driver here for the region, and there's a little bit of national identity thing going on here too, but local production & ownership is a good thing for both VF and Vietnam from a countrywide aspect. Good to see they're increasing sales. 7 i_marketing â€¢ 1d ago even with the increase of Chinese imports. Because of the monopoly of the Vinfast charger network. The chargers available to other EV makers, such as BYD, is not nearly as good as the charging availability for people who own Vinfast EVs. The Vinfast charging network has locked out non Vinfast cars.
+
+### [24] Vietnam: VinFast posts record EV sales in H1 2026 : r/electricvehicles - Reddit
+
+> 12 2 more replies Continue this thread Continue this thread Continue this thread i_marketing â€¢ 1d ago Interesting. Almost all EV makers saw record sales in the few months following the start of the Iran war. I think even Tesla has had very good sales since the Iran war started. I had read anecdotally in various news reports that Vinfast showrooms were also packed across Southeast Asia, but this particular report confirms the actual numbers. What I am primarily interested in is the news that Grab is going to have a large deployment of chargers across Vietnam. Vinfast has a monopoly on their chargers across Vietnam and other car brands aren't allowed to use their chargers. For example, if you own a BYD car in Vietnam, you don't have access to Vinfast chargers, which makes is way more inconvenient to own a BYD in Vietnam. For this reason, for your typical Vietnamese EV buyer, buying a Vinfast EV makes so much more sense than a BYD, because of the Vinfast charging network that you have access to.
+
+### [25] Vietnam: VinFast posts record EV sales in H1 2026 : r/electricvehicles - Reddit
+
+> What would be interesting to see is once Grab chargers, and other chargers open to all EV brands, becomes widespread across Vietnam, how that will affect Vinfast. Because then EVs like BYD, will become more viable to use in Vietnam. Having said that, EV penetration is continually growing in Vietnam, and based on an increasing EV penetration there, even if the competition in Vietnam increases for Vinfast with these new charger networks popping up that they don't control, I still think Vinfast can benefit from the increasing EV penetration alone, despite the increasing competition.
+
+### [26] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Dự án liên doanh sản xuất pin VinES-Gotion tại Vũng Áng và lộ trình tự chủ nguồn cung Để hiện thực hóa chiến lược tự chủ chuỗi cung ứng năng lượng và tối ưu hóa cơ cấu giá thành sản phẩm xe điện, Tập đoàn Vingroup đã triển khai dự án xây dựng tổ hợp sản xuất cell pin xe điện quy mô lớn tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh [cite: 28, 29, 30]. Dự án này được vận hành dưới hình thức liên doanh giữa VinES Energy Solutions (thành viên Vingroup, nắm giữ 49% cổ phần) và Gotion High-Tech (nhà sản xuất pin hàng đầu thế giới của Trung Quốc, nắm giữ 51% cổ phần) [cite: 28, 31]. Dự án chính thức được khởi công xây dựng vào ngày 18 tháng 11 năm 2022 trên khu đất quy hoạch CN4-5 thuộc Khu công nghiệp trung tâm Vũng Áng với diện tích 14 ha [cite: 29, 32, 33]. Tổng mức vốn đầu tư của dự án đạt hơn 6.329 tỷ đồng (tương đương khoảng 275 triệu USD) [cite: 29, 32, 33].
+
+### [27] Gotion High-tech and VinES Vietnam base break ground at joint venture battery factory
+
+> The factory was jointly invested by Gotion High-tech, and VinES (a member of VinGroup). Gotion High-tech holds 51% of the shares and VinES holds 49%. According to the plan, The project has a scale of 14 hectares with a design capacity of 5GWh/year, and is expected to be completed and put into operation by the end of 2023. To meet the demand of LFP batteries for VinFast new energy vehicle batteries. At the Groundbreaking ceremony, Li Zhen, Chairman of Gotion High-Tech, said: VinGroup is the most respectable enterprise in Vietnam. The battery factory jointly built by Gotion High-tech and VinGroup will support the battery needs of VinFast's electric vehicles. It will not only contribute to the energy revolution, climate friendly and economic development of Vietnam, but also contribute to the energy civilization of human society.
+
+### [28] Noidiahoa-gocnhinpodcast.md
+
+> Tiêu chí so sánh BYD (Trung Quốc) Tesla (Mỹ / Toàn cầu) VinFast (Việt Nam) Năm thành lập (Mảng EV) 2003 (Nền tảng Pin từ 1995)19 2003 2017 (Chuyển thuần EV từ 2022)29 Xuất thân doanh nghiệp Sản xuất Pin & Hóa chất19 Công nghệ & Phần mềm Silicon Valley Tập đoàn Đa ngành (Vingroup)29 Tỷ lệ nội địa hóa / Tự chủ ~75% Tự sản xuất nội bộ (In-house)21 >95% tại Thượng Hải (Nhờ chuỗi cung ứng TQ)23 60% - 64% Hiện tại -> 84% vào năm 20267 Trọng tâm làm chủ công nghệ Pin Blade, Chip IGBT, Powertrain 8-in-119 Phần mềm FSD, Chip AI, Kiến trúc xe, Megacasting Thiết kế khung vỏ, Đóng gói Pin, Phần mềm/AI (VinAI)11 Chiến lược Chuỗi cung ứng Tự lực cánh sinh tuyệt đối (Vertical Integration)20 Hợp tác chuỗi cung ứng mở + Tự làm phần mềm cốt lõi21 Hợp tác Tier-1 toàn cầu -> Nhận chuyển giao -> Nội địa hóa17
+
+### [29] VinFast Auto Q4 2025 Earnings Report - MarketBeat
+
+> Anne Pham Deputy CEO of Investments at VinFast Auto 00:16:50 Internally, we continue to make steady progress in owning more of our core technology stack and expanding our in-house software capabilities. Earlier this year, we introduced a suite of subscription packages in Vietnam that include proprietary remote control functions and smart features developed internally at VinFast and across the broader Vingroup ecosystem. At the same time, we are advancing our transition to EE 2.0 as part of a structural cost initiative this year. This shift is expected to drive meaningful reductions in our BOM cost structure through ECU consolidation, simplified wiring harness design, and greater component commonality across models. Our new EE 2.0 demonstrates how our in-house software capabilities are doing more than enhancing the next generation of VinFast vehicles.
+
+### [32] VinFast Auto Q4 2025 Earnings Report - MarketBeat
+
+> Lan Anh Nguyen CFO at VinFast Auto 00:24:58 On a full-year basis, gross margin would have been -24% as compared to -32% in 2024. Moving to the operating expenses. R&D expenses were $114 million, increasing 7% quarter-over-quarter and 7% year-over-year. R&D spending in the quarter was primarily driven by continued investment in our next-generation vehicle platforms and core technology stack, particularly in ADAS L2+ development and our EE 2.0 architecture, as well as ongoing model refreshing programs across vehicles. R&D as a percentage of revenue was 7%, the lowest in the past 5 quarters, reflecting the benefits of scale. As revenue growth outpaced R&D spend, fixed R&D investment will leverage more efficiency across larger volumes, improving operating leverage while we continue to advance our core technology roadmap.
+
+### [33] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Hơn nữa, nhờ công nghệ tích hợp trực tiếp cell pin vào bộ khung xe (Cell-to-Pack), các nhà sản xuất xe điện đã khắc phục được phần lớn nhược điểm về thể tích của LFP, đưa dòng pin này trở thành lựa chọn ưu tiên tuyệt đối cho phân khúc xe phổ thông và xe dịch vụ vận tải công cộng [cite: 34]. Tiêu chuẩn so sánh kỹ thuật Công nghệ Lithium Sắt Phosphat (LFP) Công nghệ Nickel-Manganese-Cobalt (NMC) Chi phí sản xuất cell pin (USD/kWh) $80 - $100/kWh (Tối ưu hóa chi phí tốt) [cite: 34] $100 - $150/kWh (Đắt hơn từ 20-30%) [cite: 34, 35] Mật độ năng lượng ở cấp cell pin 90 - 160 Wh/kg [cite: 34] 150 - 250 Wh/kg (Hệ NMC 811 đạt tới 300 Wh/kg) [cite: 34] Nhiệt độ giới hạn thoát nhiệt Khoảng 270°C (Cực kỳ an toàn) [cite: 34] Khoảng 210°C (Nguy cơ cháy nổ cao hơn) [cite: 34, 35] Tuổi thọ chu kỳ sạc xả (80% DoD) 3.000 - 6.000 chu kỳ sạc xả [cite: 34, 35] 1.000 - 2.500 chu kỳ sạc xả [cite: 34] Hiệu suất hoạt động thời tiết lạnh Giảm mạnh từ 10-20% dưới 0°C; chỉ đạt 60% ở -20°C [cite: 35] Kháng lạnh tốt; chỉ mất khoảng 20-25% dung lượng ở -20°C [cite: 34] Quy trình sạc khuyến nghị Khuyến khích sạc đầy 100% dung lượng hàng ngày [cite: 34] Khuyến cáo chỉ sạc đến mức 80% để tránh chai pin [cite: 34]
+
+### [34] LFP vs NMC Batteries: 2026 Cost, Safety & Lifespan Comparison - Evlithium
+
+> Contact Us info@evlithium.com evlithium8@gmail.com Contact Form Home > Blog >LFP vs NMC Batteries: 2026 Cost, Safety & Lifespan Comparison LFP vs. NMC Batteries: Who's the Real Winner? When it comes to lithium-ion batteries, two names tend to dominate the conversation: Lithium Iron Phosphate (LFP) and Nickel Manganese Cobalt (NMC) . Both have carved out substantial followings in various industries, but the big question remains—who comes out on top? Feature LFP Battery (LiFePO4) NMC Battery Cycle Life (Longevity) 3,000 - 6,000+ Cycles Lasts 10+ Years 800 - 2,000 Cycles Lasts 3-5 Years Safety (Thermal Runaway) Extremely Safe High flashpoint (500°C) Moderate Risk Lower flashpoint (210°C) Cost (2026 Trend) Most Affordable Best ROI for Storage Higher Cost Contains Cobalt/Nickel Energy Density Lower (Heavier) ~160 Wh/kg High (Lighter) ~250 Wh/kg Nominal Voltage 3.2V 3.6V / 3.7V Best Application Home Solar, RV, Marine, Golf Carts High-Performance EVs, Portable Electronics
+
+### [35] LFP vs NMC Batteries: 2026 Cost, Safety & Lifespan Comparison - Evlithium
+
+> 4. Safety When it comes to safety, LFP batteries take the crown. Their chemical and structural stability makes them highly resistant to overheating, even under extreme conditions like punctures or high impacts. The worst you might get is some smoke. NMC batteries, while generally safe, are more prone to catching fire or exploding under similar circumstances, particularly at high temperatures. 5. Cycle Life In terms of durability, LFP batteries are the clear winners. NMC batteries typically last for about 800 cycles, which is sufficient for most high-power applications. However, LFP batteries can easily surpass 3,000 cycles, and with proper care, some can even reach up to 6,000 cycles. This makes them particularly appealing for long-term energy storage solutions.
+
+### [36] LFP vs NMC Batteries: 2026 Cost, Safety & Lifespan Comparison - Evlithium
+
+> 2. Energy Density Energy density is where NMC batteries shine. They pack more energy per unit of weight, which translates to better performance, especially in applications like EVs where acceleration and range are critical. However, for energy storage applications, LFP batteries often make more sense. They may have lower energy density, but they excel in endurance. 3. Temperature Tolerance Temperature tolerance varies between the two. NMC batteries are relatively well-balanced, functioning well in both low and high temperatures. LFP batteries, however, handle heat better but struggle in cold conditions. Below 0°C, their performance drops by 10-20%, and at -20°C, they're only operating at about 60% capacity. This is a significant consideration for those in colder climates.
+
+### [37] LFP vs NMC Battery: Which Is Better for Your EV in 2026? - MotorWatt
+
+> Cold Weather Performance: LFP's Achilles Heel Here is where NMC genuinely earns its premium in certain markets. Cold temperatures slow the electrochemical reactions in all lithium batteries, but LFP is disproportionately affected. Below 0C (32F) , LFP charging speed and effective range drop measurably. At -20C (-4F) , LFP batteries operate at roughly 60-70% of their room-temperature capacity. At the same temperature, NMC retains around 70-80%. The difference in range loss at -20C: LFP loses about 25-30% of range; NMC loses about 20-25%. That gap sounds small in percentage terms, but on a car with 220 miles of rated range, it means LFP might deliver 154-165 miles in deep winter versus NMC's 165-176 miles. For someone driving in Minnesota, Wisconsin, or northern Europe, that difference matters on a cold February morning.
+
+### [38] LFP vs NMC Battery: Which Is Better for Your EV in 2026? - MotorWatt
+
+> How to Choose: 5-Phase Battery Selection Guide Walk through these five decision points in order. Your answer pattern will point you clearly to the right chemistry - no engineering degree required. Assess Your Daily Range Need. If your typical round-trip is under 150 miles (241 km) - which covers 95% of US and European drivers - an LFP EV with 220-280 miles of EPA range will handle it easily. If you regularly drive 200+ miles (322 km) in a single day without charging access, NMC's higher energy density becomes genuinely important. Check Your Winter Climate. If you regularly see temperatures below -10C (14F) and park outdoors, NMC's better cold-weather performance (roughly 5-8% better range retention at -20C / -4F) gives it a meaningful edge. If you have indoor parking or live in a mild climate, LFP's cold-weather limitation is largely irrelevant. Calculate Total Cost of Ownership. LFP vehicles typically cost $2,000-$5,000 (EUR1,840-EUR4,600) less upfront for comparable range and are projected to retain battery health longer (8-12 years vs. 5-8 years for NMC at daily full cycling). Factor in the potential battery replacement cost when comparing total ownership cost over a 10-year period. Consider Your Charging Habits. If you can charge at home overnight: LFP is ideal - charge to 100% every night, no worries. If you rely primarily on DC fast charging on long trips: NMC charges slightly faster at high temperatures and handles irregular charging patterns more gracefully in most conditions. Align with Your Values. If environmental sustainability and supply chain ethics matter to you, LFP's cobalt-free chemistry is the cleaner choice - simpler to recycle, less environmental damage upstream. If maximum performance and premium range are what you value, NMC delivers it, and the industry is actively reducing cobalt content toward zero.
+
+### [39] Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov
+
+> Advanced Driver Assistance Systems (“ADAS”) progress ● Following VinFast's roadmap from ADAS Level 2+ (“L2+”) and Level 2++(“L2++”) toward Level 4 (“L4”), the Company plans to expand robocar trials to major cities and selected international markets. VinFast views L4 as strategic optionality, while remaining disciplined on capital deployment in the near term. VinFast is pursuing a capital-efficient approach through an in-house ADAS research institute while working with select external partners for L4.
+
+### [40] VinFast Auto Q4 2025 Earnings Report - MarketBeat
+
+> Le Thi Thu Thuy Chairwoman of the Board of Directors at VinFast Auto 00:14:01 For Europe, we plan to introduce the next generation of B SUV, the VF six model. For North America markets, we plan to bring the VF 7, a C-segment electric SUV, and to also launch our e-bus business later this year. Now I will turn it over to Anne, who will take you through the latest on VinFast technology platform. Anne Pham Deputy CEO of Investments at VinFast Auto 00:14:29 Thank you, Madam Thuy. VinFast is more than an EV manufacturer. Our mission is to make electric mobility accessible to everyone, which directly shapes how we allocate capital and make strategic investments. We are deliberately investing in owning more of our technology stack so that we can deliver more compelling features at a lower cost over time. At Mobility Day last November, we shared our autonomy roadmap for level 2+ and level 2++ towards level four, with a demonstration of a self-driving Robo-Car in partnership with Autobrains at Vinhomes Ocean Park, a project in Vietnam. A leading AI mobility company based in Israel, Autobrains has been working with us for a number of years. VinFast have taken a capital efficient approach with an in-house ADAS research institute while working with strategic technology partners for level four.
+
+### [41] Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov
+
+> 3 Based on data from the Vietnam Automobile Manufacturers' Association, TC Group and Company internal data (for VinFast only) 4 Based on Company research 5 Based on Vahan registrations among battery EV (“BEV”) brands. 6 According to the Association of Indonesia Automotive Industries (GAIKINDO). 7 According to the Chamber of Automotive Manufacturers of the Philippines (CAMPI). 3 ● VinFast is collaborating with Tensor, a pioneering AI company developing personally owned L4 autonomous robocars, as the manufacturing and industrialization partner for Tensor's robocar program. Fully functional prototypes for the program have already been tested by Tensor in multiple regions. The program is currently in the pre-production phase and is being advanced toward commercialization. VinFast is also engaged in discussions with various technology and mobility companies on robotaxi development.
+
+### [42] VinFast Auto Q4 2025 Earnings Report - MarketBeat
+
+> Anne Pham Deputy CEO of Investments at VinFast Auto 00:15:32 We also plan to expand our trials of Robocar to larger cities and international markets. We are also pleased to share that we've entered into a collaboration with Tensor, a pioneering AI company developing personally owned level four autonomous Robocars company based in California. Under this partnership, VinFast will serve as the manufacturing and industrialization partner for Tensor's Robocar program. Fully functional prototypes of the program have already been tested by Tensor across multiple regions, and the program is currently in the pre-production phase and is being advanced towards commercialization. This collaboration is compelling for both a commercial and financial standpoint, while reinforcing VinFast's strategic role in the next generation of mobility solutions. In parallel, we are also in active discussions with a number of technology and mobility companies exploring robotaxi development. We look forward to sharing further updates as these discussions progress in the coming quarters.
+
+### [43] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> -------------------------------------------------------------------------------- Hoạt động tài chính, năng lực phân phối và thị phần của VinFast (2025-2026) Kết quả kinh doanh và cấu trúc tài chính quý gần nhất Báo cáo tài chính năm 2025 và quý 1 năm 2026 của VinFast phản ánh một bức tranh tương phản mạnh mẽ giữa tốc độ tăng trưởng doanh thu vượt trội ở tầm quy mô và áp lực thâm hụt tài chính kéo dài do chi phí đầu tư lớn [cite: 17, 18, 19]. Theo báo cáo tài chính cả năm 2025 công bố chính thức vào ngày 16 tháng 3 năm 2026, VinFast đạt tổng doanh thu 90.427,6 tỷ đồng (khoảng 3.599,7 triệu USD) , ghi nhận mức tăng trưởng vượt bậc 105,4% so với năm 2024 [cite: 19, 20]. Doanh thu chủ yếu được thúc đẩy từ mảng bán xe điện, đạt 84.810,1 tỷ đồng (3.376,1 triệu USD), tăng 111,3% so với năm 2024 [cite: 19]. Riêng trong quý 4 năm 2025, tổng doanh thu của doanh nghiệp đạt mức kỷ lục là 39.411,7 tỷ đồng (1.568,9 triệu USD), tăng 138,9% so với cùng kỳ năm ngoái [cite: 19, 20]. Bước sang quý 1 năm 2026, VinFast công bố doanh thu đạt 23.111,1 tỷ đồng (tương đương 920,7 triệu USD) , tăng 41,7% so với quý 1 năm 2025 [cite: 21, 22].
+
+### [44] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Mặc dù doanh thu tăng trưởng ấn tượng, VinFast vẫn chưa thể thoát khỏi trạng thái thua lỗ nặng nề [cite: 17, 18]. Lỗ ròng cả năm 2025 của hãng lên tới 97.245,7 tỷ đồng (khoảng 3.871,1 triệu USD) , mở rộng 25,7% so với mức lỗ của năm 2024 [cite: 18, 19]. Riêng trong quý 4 năm 2025, lỗ ròng của doanh nghiệp được ghi nhận ở mức 1,40 tỷ USD [cite: 17, 18]. Biên lợi nhuận gộp cả năm 2025 cải thiện đáng kể lên mức âm 42,5% (so với mức âm 57,4% của năm 2024), phản ánh hiệu suất sử dụng năng lực sản xuất tốt hơn tại tổ hợp Hải Phòng [cite: 19, 20]. Gánh nặng lỗ ròng chủ yếu đến từ chi phí vốn bán hàng tăng 86,0% lên mức 5.130,7 triệu USD do trích trước chi phí bảo hành lớn [cite: 19], chi phí quản lý doanh nghiệp chịu ảnh hưởng bởi khoản suy giảm giá trị tài sản một lần trị giá 235,6 triệu USD của dự án xây dựng nhà máy tại bang Bắc Carolina (Mỹ) [cite: 17, 18, 19], cùng các khoản chi phí R&D duy trì ở mức 394,1 triệu USD để phục vụ phát triển nền tảng xe mới [cite: 19].
+
+### [45] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Bảng cân đối kế toán của VinFast tại thời điểm ngày 31 tháng 12 năm 2025 bộc lộ rủi ro thanh khoản lớn [cite: 18]. Tổng tài sản của hãng đạt 7,24 tỷ USD, trong khi tổng nợ phải trả lên đến 10,82 tỷ USD, dẫn đến mức thâm hụt vốn chủ sở hữu (total deficit) đạt 3,59 tỷ USD [cite: 18]. Tổng nợ vay ngắn hạn và dài hạn của doanh nghiệp đã tăng lên mức 3,27 tỷ USD [cite: 18]. Báo cáo lưu chuyển tiền tệ cho thấy dòng tiền từ hoạt động kinh doanh âm 1,77 tỷ USD và dòng tiền hoạt động đầu tư âm 1,08 tỷ USD, được bù đắp hoàn toàn bởi dòng tiền từ hoạt động tài chính dương 3,10 tỷ USD thông qua phát hành cổ phần và các khoản tài trợ [cite: 18].
+
+### [46] VinFast Auto Q4 2025 Earnings Report - MarketBeat
+
+> Le Thi Thu Thuy Chairwoman of the Board of Directors at VinFast Auto 00:42:49 I hope that answers the question. Amandae Baey VP of Investor Relations at VinFast Auto 00:43:01 Thank you, Ann. The next question is regarding the company's CapEx plans. Can you please share what the company's CapEx plans are for 2026? Lan Lan, would you like to take this? Lan Anh Nguyen CFO at VinFast Auto 00:43:15 In 2026, most of our CapEx is still going into building out the core manufacturing footprint. Roughly $400 million for domestic and around $600 million for international factories. Additional CapEx like for machinery and equipment. In 2026, 2027, our CapEx needs a continuation of our intention to scale our manufacturing globally as we position the overseas factory as export hubs. We expect to incur CapEx for phase II of Indonesia and India factories and CapEx for phase I of U.S. factory, as Madam Thuy just mentioned.
+
+### [47] VinFast Auto Q4 2025 Earnings Report - MarketBeat
+
+> Amandae Baey VP of Investor Relations at VinFast Auto 00:51:00 Thanks, Lanan. Operator, are there any more live questions? Or Jim, do you have a follow-up question? James McIlree Senior Research Analyst and Managing Director at Chardan Capital 00:51:09 Yes, I was curious if you could share with us what your expected cash usage will be this year? Lan Anh Nguyen CFO at VinFast Auto 00:51:45 Yes. For the CapEx for this year, we expect that around $1.6 billion for cash spending CapEx and for R&D with the next generation models. We expect that we spend around $1.4 billion for R&D. Yeah.
+
+### [48] VinFast Auto Q4 2025 Earnings Report - MarketBeat
+
+> Negative Sentiment: Revenue grew to $3.6 billion (FY2025) and gross margins improved, but the company remains deeply unprofitable (Q4 net loss $1.4 billion , adjusted EBITDA still negative) and took a one‑time $236 million impairment on the North Carolina project while flagging large 2026 CapEx and R&D needs that imply continued cash burn despite reported liquidity of $3.1 billion . Positive Sentiment: Management is pushing a vertically integrated, software‑defined EV strategy — including EE 2.0, in‑house ADAS/battery R&D and partnerships with Tensor and Autobrains — which it says will lower BOM costs, enable subscription features, and open potential tech revenue streams. Positive Sentiment: VinFast has expanded its global manufacturing footprint to four facilities with combined annual capacity of about 600,000 EVs, plans to resume North Carolina construction for a 2028 SOP, and expects scale and localization to drive further unit‑cost improvements.
+
+### [49] Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov
+
+> ● In August 2025, VinFast Trading and Production JSC, a subsidiary of VinFast, spun off certain assets related to investment costs of completed research and development projects into a new entity, Novatech, which Mr. Pham subsequently acquired from the Company for approximately VND39.8 trillion (US$1.6 billion) in cash. As of December 31, 2025, the consideration had been paid to VinFast in full. ● As of December 31, 2025, VinFast had total available liquidity of up to VND78,299.8 billion (US$3.1 billion), which consisted of cash and cash equivalents of VND7,352.0 billion (US$292.7 million), an undrawn credit line from Vingroup of up to VND24,623.1 billion (US$980.2 million), remaining grants from Mr. Pham of up to VND22,000.0 billion (US$875.8 million), and an available commitment of VND24,324.7 billion (US$968.3 million) under a standby equity subscription agreement with YA II PN, Ltd. entered into in October 2023.
+
+### [50] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Để đảm bảo tính liên tục trong hoạt động, VinFast duy trì nguồn thanh khoản khả dụng tổng cộng 3,1 tỷ USD tính đến cuối năm 2025 [cite: 18, 19]. Nguồn thanh khoản này bao gồm 292,7 triệu USD tiền mặt [cite: 19], hạn mức vay còn lại từ Vingroup trị giá 980,2 triệu USD [cite: 19], cam kết tài trợ không hoàn lại của Chủ tịch Phạm Nhật Vương trị giá 875,8 triệu USD [cite: 19], và hạn mức đăng ký mua cổ phần từ quỹ Yorkville (YA II PN, Ltd) trị giá 968,3 triệu USD [cite: 19]. Khoản dư nợ thực tế của VinFast đối với Tập đoàn Vingroup đạt 10.376,9 tỷ đồng (413 triệu USD) tính đến ngày 31 tháng 12 năm 2025 [cite: 19].
+
+### [51] Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov
+
+> Forward Looking Statements Forward-looking statements contained herein, which are not historical facts, are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1955. These statements include statements regarding VinFast's future results of operations and financial position, planned products and services, business strategy and plans, objectives of management for future operations of VinFast, market size and growth opportunities, competitive position and technological and market trends and involve known and unknown risks that are difficult to predict. As a result, VinFast's actual results, performance or achievements may differ materially from those expressed or implied by these forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as “may,” “will,” “shall,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential,” “goal,” “objective,” “seeks,” or “continue” or the negative of these words or other similar terms or expressions that concern VinFast's expectations, strategy, plans, or intentions. Such forward-looking statements are necessarily based upon estimates and assumptions that, while considered reasonable by VinFast's and VinFast's management, are inherently uncertain. Factors that may cause actual results to differ materially from current expectations include, but are not limited to: (i) the risk associated with being a growth-stage company in the EV industry; (ii) the unavailability, reduction or elimination of government and economic incentives or government policies that are favorable for EV manufacturers and buyers; (iii) Significant changes or developments in U.S. laws or policies, including changes in U.S. trade policies and tariffs and the reaction of other countries; (iv) the Company's ability to adequately control the costs associated with its operations; (v) the risks of the Company's brand, reputation, public credibility, and consumer confidence in its business being harmed by negative publicity; (vi) competition in the automotive industry; (vii) the ability of the Company to obtain components and raw materials according to schedule at acceptable prices, quality, and volumes from its suppliers; (viii) the demand for, and consumers' willingness to adopt, EVs; (ix) the availability and accessibility of EV charging stations or related infrastructure; (x) failure to remediate the Company's material weaknesses and produce timely and accurate financial statements; (xi) the ability of the Company to achieve profitability, positive cash flows from operating activities, and a net working capital surplus; (xii) the Company's ability to obtain commercially reasonable capital to support its business growth; (xiii) the risk of future restatements to the Company's Financial Statements; (xiv) the Company's reliance on financial and other support from Vingroup and its affiliates and the close association between the Company and Vingroup and its affiliates; (xv) the Company's reliance on its affiliates for its EV deliveries; (xvi) the ability of the Company's controlling shareholder to control and exert significant influence on the Company; and (xvii) other risks discussed in VinFast's reports filed or furnished to the SEC.

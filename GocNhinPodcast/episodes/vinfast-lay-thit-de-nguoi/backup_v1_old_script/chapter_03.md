@@ -1,0 +1,33 @@
+Mỏ vàng đã nhìn thấy. Nhưng mỏ vàng không chờ một người nào. VinFast hiểu rằng khoảng lặng trên bàn cờ cạnh tranh toàn cầu, nơi mà các ông lớn truyền thống chưa kịp chuyển mình sang xe thuần điện, chỉ tồn tại trong một khoảng thời gian hữu hạn.
+
+Rất nhiều người lầm tưởng rằng khoảng lặng đó được tạo ra bởi sự bảo thủ, chậm chạp của những gã khổng lồ Nhật Bản như Toyota. Họ cho rằng, khi các ông lớn thức giấc và tung ra siêu vũ khí Pin thể rắn, những tay chơi mới như VinFast sẽ tự động bị nghiền nát. Nhưng đó là một tư duy nhị nguyên ngây thơ.
+
+Cuộc đua Pin thể rắn không phải là sân chơi độc quyền của Toyota. Đó là một cuộc chiến đa cực toàn cầu với sự tham gia của Bi Oai Đi, Cê A Tê Lờ, và các gã khổng lồ Âu Mỹ. Hơn thế nữa, VinFast không hề khoanh tay đứng nhìn. Họ đã âm thầm rót hàng chục triệu u-ét-đê đầu tư chiến lược vào ProLogium, hãng chuyên Pin thể rắn của Đài Loan, và StoreDot, hãng chuyên Pin sạc siêu nhanh của Israel.
+
+Vậy nếu công nghệ pin không phải là rào cản độc quyền, thì khoảng lặng mà VinFast đang khai thác thực chất là gì?
+
+Đó chính là khe hở trước khi các ông lớn truyền thống kịp chuyển mình sang xe thuần điện.
+
+Toyota không hề chậm vì họ yếu. Họ chậm vì họ đang mắc kẹt. Ngành công nghiệp ô tô Nhật Bản nuôi sống năm phẩy năm triệu lao động, chiếm tám phần trăm tổng lực lượng lao động cả nước. Bất kỳ sự chuyển đổi nào quá nhanh sang xe thuần điện đều có nguy cơ xóa sổ hàng triệu việc làm liên quan đến động cơ đốt trong, hộp số, hệ thống xả — những thứ mà xe điện không cần. Đó là lý do Toyota chọn cách đi chậm, vắt kiệt lợi nhuận từ xe hybrid trước. Chỉ riêng nửa đầu năm hai ngàn không trăm hai mươi sáu, doanh số xe hybrid của Toyota tại Việt Nam đã tăng bốn mươi tám phần trăm. Với họ, xe hybrid vẫn đang in tiền, và họ không có lý do gì để vội vàng.
+
+Nếu Toyota chậm chạp một cách chủ động để vắt kiệt lợi nhuận, thì Honda lại đang thực sự rơi vào khủng hoảng. Doanh số tại thị trường Trung Quốc giảm sạch sáu mươi phần trăm so với đỉnh năm hai ngàn không trăm hai mươi. Hãng buộc phải hủy bỏ hai mẫu xe thuần điện chiến lược tại Bắc Mỹ là Honda 0 và Acura RSX, gánh chịu khoản lỗ giảm giá trị lên tới hai phẩy năm nghìn tỷ Yên. Honda đang phải vất vả thu mình lại để phòng thủ, chứ hoàn toàn không có tâm trí hay nguồn lực để mở cuộc tấn công xe điện giá rẻ vào Đông Nam Á.
+
+Còn Hyundai, hãng xe Hàn Quốc từng rót ba tỷ u-ét-đê vào Indonesia để xây nhà máy pin và lắp ráp xe điện, giờ đây đang chứng kiến doanh số xe thuần điện tại chính thị trường đó giảm tới bảy mươi lăm phẩy chín phần trăm, từ bảy ngàn năm trăm chín mươi xe năm hai ngàn không trăm hai mươi ba xuống còn vỏn vẹn một ngàn tám trăm hai mươi tám xe năm hai ngàn không trăm hai mươi lăm.
+
+Một thế lực thì mắc kẹt trong cấu trúc lao động khổng lồ không thể xoay chuyển một sớm một chiều, một thế lực thì vừa bại trận trên chính sân nhà mình đặt cược. Trong khi đó, các gã khổng lồ Trung Quốc như Bi Oai Đi lại đang vấp phải bức tường thuế quan và định kiến địa chính trị gay gắt từ phương Tây. Sự giằng co này tạo ra một khe hở khổng lồ về nguồn cung xe điện đại chúng.
+
+VinFast hiểu rằng, khe hở này chỉ tồn tại trong một khoảng thời gian hữu hạn, có thể kéo dài từ nay cho đến đầu thập niên hai ngàn không trăm ba mươi. Khi những cỗ máy khổng lồ như Toyota hay Hyundai chính thức thức giấc, mang theo vũ khí công nghệ mới và dồn toàn lực vào Đông Nam Á, luật chơi sẽ thay đổi. Lúc đó, thị trường sẽ bước vào kỷ nguyên cá mập nuốt cá mập, nơi lợi thế về quy mô tư bản của các tập đoàn trăm tỷ đô la sẽ đè bẹp những kẻ đến sau.
+
+Để sống sót qua điểm nghẽn đó, VinFast bắt buộc phải khóa chặt người dùng vào hệ sinh thái ngay từ bây giờ, trước khi mặt bằng công nghệ bị san phẳng.
+
+Và chu kỳ sở hữu ô tô ở Đông Nam Á cho thấy cuộc chạy đua này khốc liệt hơn nhiều người tưởng. Trung bình, một người giữ chiếc xe của mình từ năm đến bảy năm. Bên nào bắt được khách hàng hôm nay, người đó khóa được họ trong gần một thập kỷ. Và dữ liệu toàn cầu cho thấy, sáu mươi ba phần trăm người tiêu dùng sẵn sàng đổi hãng xe khi lần đầu chuyển sang xe điện. Nhưng một khi đã sở hữu xe điện, bảy mươi mốt phần trăm trong số họ khẳng định sẽ tiếp tục chọn xe điện ở lần mua sau. Đây chính là vòng lặp khóa chặt. Bên nào giành được lần mua đầu tiên, người đó giữ được khách hàng cho cả thập kỷ tiếp theo.
+
+VinFast đã chớp lấy thời khắc đó. Chỉ trong nửa đầu năm hai ngàn không trăm hai mươi sáu, riêng Vê Ép ba đã bán được hai mươi ba ngàn bảy trăm tám mươi mốt chiếc, Vê Ép năm bán hai mươi ngàn một trăm sáu mươi bảy chiếc. Mẫu Vê Ép hai mới ra mắt tháng bảy với giá sàn chỉ một trăm tám mươi tám triệu đồng đã nhận về hai mươi chín ngàn đơn đặt hàng chỉ sau ba ngày. VinFast đang hút trọn tệp khách hàng mua xe lần đầu, ngay tại thời điểm Việt Nam bước vào kỷ nguyên ô tô hóa đại chúng.
+
+Khi bạn mua một chiếc Vê Ép năm, bạn không chỉ mua một cỗ máy, bạn đang bước vào một hệ sinh thái khép kín. VinFast hiểu rằng dải sản phẩm rộng chỉ là bề nổi, rào cản thực sự chặn đứng đối thủ ngoại chính là hạ tầng sạc. Tính đến năm hai ngàn không trăm hai mươi sáu, mạng lưới V-Green đã đạt quy mô hơn hai trăm ngàn cổng sạc phủ khắp sáu mươi ba tỉnh thành, kèm theo khoản đầu tư mười ngàn tỷ đồng xây dựng chín mươi chín siêu trạm sạc nhanh trên các quốc lộ. 
+
+Và đây là điểm mấu chốt mang tính sinh tử: V-Green là một mạng lưới độc quyền chỉ dành riêng cho xe VinFast. Ngay cả khi những gã khổng lồ như Bi Oai Đi hay Wuling mang xe vào Việt Nam với giá rẻ hơn, họ cũng đứng ngoài lề hệ sinh thái này. Bi Oai Đi phải chật vật ký kết với các đối tác nhỏ lẻ để xây một ngàn trạm sạc, con số quá sức nhỏ bé trước hai trăm ngàn cổng sạc của VinFast. Khi bạn đã quen với ứng dụng VinFast, quen với sự phủ sóng trạm sạc ở mọi nẻo đường, và được miễn phí sạc trong suốt nhiều năm liền, hành vi tiêu dùng của bạn đã bị khóa chặt bởi sự tiện lợi tuyệt đối.
+
+Hãy hình dung viễn cảnh này. Năm hai ngàn không trăm ba mươi mốt, khi Toyota chính thức tung xe thuần điện đại chúng vào Đông Nam Á, họ có thể sẽ nhận ra hàng triệu khách hàng tiềm năng của mình đã gắn chặt với hệ sinh thái V-Green. Chi phí để thuyết phục những người này từ bỏ một hạ tầng tiện lợi để chuyển sang một hệ sinh thái mới là vô cùng đắt đỏ. Khi đó, bài toán của các ông lớn không chỉ là làm sao để bán được xe, mà là làm sao để bẻ gãy được thói quen của người dùng — một rào cản phòng thủ vững chắc mà VinFast đang đánh cược để xây dựng.
+
+Tuy nhiên, trong kinh doanh, không có gì là miễn phí. Bày binh bố trận dày đặc để vây bắt khách hàng thì dễ, nhưng khi các mẫu xe đứng quá gần nhau trong showroom, một hệ lụy tất yếu bắt đầu xuất hiện: Chúng quay ra cấu xé lẫn nhau.

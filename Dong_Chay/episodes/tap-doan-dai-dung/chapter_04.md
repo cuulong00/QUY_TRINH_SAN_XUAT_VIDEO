@@ -1,0 +1,13 @@
+Năm hai nghìn không trăm hai mươi mốt, khi cả thế giới đang chao đảo vì đại dịch và chuỗi cung ứng toàn cầu bị tê liệt, ban tổ chức World Cup tại Qatar phải đối mặt với một cuộc khủng hoảng tiến độ nghiêm trọng. Một nhà thầu cơ khí quốc tế từ Thổ Nhĩ Kỳ đã thất bại trong việc gia công hệ thống kết cấu thép mô đun cho các sân vận động do sai lệch khớp nối thực địa. Đứng trước nguy cơ vỡ trận, các tổng thầu thế giới buộc phải tìm kiếm một đối tác thay thế khẩn cấp.
+
+Đó là thời điểm Tập đoàn Đại Dũng bước vào và tạo nên một bước ngoặt lịch sử. Doanh nghiệp Việt Nam đã nhận gói thầu trị giá tám mươi triệu đô la để chế tạo và cung ứng ba mươi tư nghìn tấn kết cấu thép cho hai sân vận động biểu tượng của giải đấu.
+
+Tại thánh đường Lusail Iconic, nơi diễn ra trận chung kết lịch sử, các kỹ sư Việt Nam đã chế tạo gần sáu nghìn tấn kết cấu thép cho hệ mái vòm cong phức tạp. Còn tại sân vận động chín bảy bốn, công trình tháo lắp đầu tiên trong lịch sử World Cup, Đại Dũng chịu trách nhiệm sản xuất toàn bộ hai mươi tám nghìn tấn khung thép chịu lực. Để ghép nối hoàn hảo chín trăm bảy mươi tư thùng container mà không cần hàn thực địa, toàn bộ các chi tiết cơ khí buộc phải đạt độ chính xác cực hạn với sai số khống chế dưới hai milimét.
+
+Nhiều người từng hoài nghi rằng các doanh nghiệp Việt Nam chỉ có thể làm gia công theo bản vẽ có sẵn của nước ngoài. Nhưng thực tế, bản vẽ chỉ là những đường nét hình học trên giấy. Để biến hàng vạn tấn thép thành những mái vòm không gian ba chiều uốn lượn, đội ngũ kỹ sư Đại Dũng đã áp dụng giải pháp lắp ráp thử nghiệm toàn phần tại bãi xưởng Việt Nam trước khi vận chuyển đường biển hàng chục nghìn hải lý.
+
+Thành công tại World Cup đã mở toang cánh cửa đưa thương hiệu cơ khí Việt Nam vào câu lạc bộ các siêu dự án tinh hoa toàn cầu. Từ gói thầu năm mươi hai triệu đô la cho Bảo tàng Khoa học Misk tại Ả Rập Xê Út, hệ sàn nâng tàu chiến cho tập đoàn BAE Systems tại Mỹ, cho đến hệ thống sáu mươi tư cầu ống lồng cho Cảng hàng không Quốc tế Long Thành.
+
+Tại thị trường trong nước, năng lực vượt nhịp cực hạn tiếp tục được khẳng định qua hệ mái vòm Kim Quy hai mươi tư nghìn tấn tại Trung tâm Triển lãm Cổ Loa, và siêu dự án Sân vận động VinFast Trống Đồng với bốn mươi nghìn tấn thép vượt nhịp hơn ba trăm năm mươi mét ở độ cao một trăm hai mươi mét.
+
+Thế nhưng, khi quy mô công trình ngày càng phình to và các hợp đồng quốc tế chạm mốc hàng trăm triệu đô la, một thách thức tài chính nghẹt thở bắt đầu xuất hiện. Làm thế nào để một doanh nghiệp tư nhân có thể xoay xở hàng trăm triệu đô la vốn lưu động cho các đại dự án này mà không bị bóp nghẹt bởi nợ vay ngân hàng? Câu trả lời nằm ở một cấu trúc tài chính thông minh cùng Ngân hàng Thế giới.

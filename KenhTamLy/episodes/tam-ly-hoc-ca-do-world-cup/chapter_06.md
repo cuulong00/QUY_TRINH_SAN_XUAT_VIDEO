@@ -1,0 +1,21 @@
+Khoảng hai nghìn năm trước, một người từng bị bán làm nô lệ ở Rome đã viết ra một nguyên lý đơn giản đến không ngờ: "Có những thứ phụ thuộc vào chúng ta, và những thứ không. Sự khôn ngoan nằm ở việc phân biệt rõ ràng giữa hai nhóm đó."
+
+Tên ông là Epictetus. Và nguyên lý đó gọi là Phân đôi Kiểm soát.
+
+Bây giờ hãy đặt nguyên lý này lên bàn mổ cùng với mọi thứ chúng ta vừa mổ xẻ. Quả bóng. Tỷ số. Trọng tài. Thời tiết. Chấn thương. Tất cả nằm ngoài tầm kiểm soát. Nhận thức của bạn. Kỳ vọng của bạn. Phản ứng cảm xúc của bạn. Tất cả nằm trong tầm kiểm soát.
+
+Ảo tưởng kiểm soát mà Langer phát hiện, cỗ máy tìm quy luật mà não bộ vận hành, toàn bộ cơ chế sinh học đẩy bạn đặt cược lúc hai giờ sáng, tất cả bắt nguồn từ một lỗi duy nhất: bạn đang cố kiểm soát những thứ không thuộc về bạn.
+
+Khi một người xem bóng đá với ảo tưởng rằng mình có thể dự đoán kết quả, kỳ vọng trong não bộ được đặt rất cao. Dopamine ramping đạt đỉnh. Entropy ở mức cực đại. Và khi bàn thua phút bù giờ xảy ra, kỳ vọng sụp đổ đột ngột. Sai số dự báo phần thưởng sụt xuống dưới mức nền. Cortisol tràn vào. Hạch hạnh nhân kích hoạt. Và xung năng gỡ gạc bùng lên.
+
+Nhưng khi một người xem bóng đá với nhận thức rõ ràng rằng kết quả nằm ngoài tầm kiểm soát, kỳ vọng được hiệu chỉnh về gần mức zero. Dopamine duy trì ổn định. Khi kết quả bất lợi xảy ra, sai số dự báo ở mức tối thiểu. Không có cú sập dopamine. Không có dòng thác cortisol. Vỏ não trước trán vẫn giữ được năng lực kiểm soát xung động.
+
+Và khoa học thần kinh xác nhận chính xác điều đó.
+
+Trong Phật giáo, nguyên lý này có một tên gọi khác: Vô thường. Anicca. Mọi trận đấu bóng đá là một biểu hiện hoàn hảo của vô thường. Mỗi đường chuyền, mỗi cú sút, mỗi quyết định của trọng tài là một biến số không thể dự đoán. Entropy ở mức cực đại. Và Phật giáo đã nhìn thấy điều này hai nghìn năm trăm năm trước khoa học thần kinh.
+
+Nhưng Phật giáo đi xa hơn. Họ chỉ ra rằng nỗi khổ không đến từ sự kiện bên ngoài. Nó đến từ sự bám chấp vào kỳ vọng. Tâm lý học gọi đó là Wanting. Phật giáo gọi đó là Tham ái. Tanha. Cơn thèm khát mà không có sự thỏa mãn. Hệ thống dopamine mesolimbic mà Berridge phát hiện chính là cơ chế sinh học của Tanha. Sự nhạy cảm hóa Wanting mà chúng ta mổ xẻ ở chương ba chính là cái mà Phật giáo gọi là vòng lặp luân hồi của tham ái.
+
+Khoa học thần kinh và triết học cổ đại đồng thuận ở một điểm: cơn đau của bạn không đến từ trận thua. Nó đến từ khoảng cách giữa kỳ vọng và thực tại. Thu hẹp khoảng cách đó, và bạn thu hẹp nỗi đau.
+
+Nhưng hiểu là một chuyện. Làm được là chuyện khác. Não bộ bạn đã bị nhạy cảm hóa. Wanting đang ở mức cực đại. Vậy cụ thể, bạn làm gì khi ngón tay đang lướt trên app kiểm tra kèo lúc hai giờ sáng?

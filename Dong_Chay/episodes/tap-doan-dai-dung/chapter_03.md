@@ -1,0 +1,13 @@
+Trong ngành cơ khí công nghiệp nặng toàn cầu, chế tạo ra một cấu kiện khổng lồ mới chỉ là một nửa chặng đường. Nửa chặng đường còn lại chính là bài toán trọng lực và logistics. Một khối kết cấu thép nặng ba trăm năm mươi tấn hay những dầm thép siêu trường dài hàng chục mét không thể vận chuyển bằng đường bộ thông thường. Không một cây cầu hay cung đường dân sinh nào có thể chịu tải nổi những cỗ máy cơ khí siêu trọng ấy.
+
+Nếu nhà máy nằm sâu trong nội địa, chi phí chia nhỏ cấu kiện, vận chuyển đường bộ và lắp ráp lại tại cảng sẽ ngay lập tức nghiền nát biên lợi nhuận của doanh nghiệp. Trong cuộc chơi này, khoảng cách từ xưởng gia công ra đến mép cầu cảng nước sâu chính là lằn ranh sinh tử giữa một bản hợp đồng trăm triệu đô và sự phá sản logistics.
+
+Đó là lý do Đại Dũng đã kiên định xây dựng một hệ sinh thái hạ tầng gồm sáu cụm nhà máy, trải rộng trên tổng diện tích một trăm hai mươi hecta. Trong đó, các tổ hợp sản xuất chủ lực được bố trí theo thế kiềng ba chân chiến lược gắn liền với các luồng hàng hải nước sâu: từ siêu nhà máy Nghi Sơn bốn mươi lăm hecta ở phía Bắc, tổ hợp Dung Quất ở miền Trung, cho đến cụm cơ khí biển Đông Xuyên tại Vũng Tàu ở phía Nam. Kết hợp cùng các trung tâm công nghệ cao tại An Hạ và Long An, cỗ máy này tạo nên một chuỗi sản xuất khép kín hoàn hảo.
+
+Tại các tổ hợp ven biển như Vũng Tàu hay Nghi Sơn, những chiếc cổng trục khổng lồ có sức nâng hàng trăm tấn có thể bốc dỡ trực tiếp các khối kết cấu siêu trường siêu trọng từ xưởng sản xuất thẳng lên sà lan và tàu viễn dương để vươn ra đại dương mà không vướng bất kỳ rào cản đường bộ nào.
+
+Đi cùng với mặt bằng hạ tầng khổng lồ là một dây chuyền công nghệ số hóa toàn diện. Toàn bộ các công trình đều được mô phỏng không gian ba chiều bằng phần mềm BIM Tekla Structures trước khi đưa vào máy cắt laser và robot hàn tự động. Đặc biệt, các cấu kiện phức tạp đều phải trải qua quy trình lắp ráp thử nghiệm tại bãi bằng công nghệ quét laser ba chiều để triệt tiêu hoàn toàn các sai số tích lũy trước khi xuất khẩu.
+
+Với công suất thiết kế hiện tại đạt năm trăm nghìn tấn thép mỗi năm, và mục tiêu bứt phá lên tám trăm sáu mươi nghìn tấn vào năm hai nghìn không trăm ba mươi, Đại Dũng đã tự tay dựng nên một pháo đài hạ tầng mà rất ít đối thủ trong khu vực có thể sao chép.
+
+Thế nhưng, hạ tầng đồ sộ và lợi thế cận cảng mới chỉ là bệ phóng. Khi bước ra đấu trường đỉnh cao toàn cầu, bàn tay của những kỹ sư Việt Nam đã biến khối óc công nghệ thành những kỳ tích chấn động thế giới như thế nào? Từ chảo lửa chung kết World Cup ở Qatar cho đến đáy biển sâu châu Á, những kỷ lục ấy được tạo nên bằng cơ chế gì?

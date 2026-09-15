@@ -1,0 +1,15 @@
+Mười lăm đến mười tám triệu chiếc xe. Đó là lượng công suất dư thừa mỗi năm của ô tô Trung Quốc. Khi thị trường nội địa bão hòa, áp lực tồn kho lập tức biến thành một cuộc xâm thực kinh tế lên các thị trường xuất khẩu.
+
+B Y D tiến ra toàn cầu với mô hình kinh doanh mang đậm tính thu hoạch: đẩy mạnh doanh số phần cứng, thu dòng tiền nhanh, và hạn chế tối đa việc chôn vốn làm trạm sạc. 
+
+Chiến lược này khoét sâu vào một đứt gãy cấu trúc. Thời xe xăng, các hãng xe chỉ việc bán phần cứng vì trạm bơm đã có các tập đoàn dầu mỏ lo. B Y D mang nguyên thói quen "bán đứt rồi rời đi" đó sang xe điện. Nhưng xe điện không giống xe xăng. Mỗi chiếc xe là một khối pin khổng lồ. Hàng trăm ngàn chiếc xe cùng hòa mạng lập tức tạo ra áp lực quá tải lên lưới điện quốc gia.
+
+Bằng cách khước từ xây dựng hạ tầng, B Y D đã thực hiện một phép dịch chuyển chi phí ngoại tác hoàn hảo. Lợi nhuận bán xe được thu tiền tươi mang về đại bản doanh. Còn gánh nặng hạ tầng dội ngược lên thị trường sở tại. Tại Châu Âu, lưới điện già cỗi lập tức hứng chịu sự quá tải trầm trọng. Để chống sập nguồn, các quốc gia buộc phải đào đường, kéo cáp, nâng cấp trạm biến áp. Hóa đơn khổng lồ này bị đẩy sang cho chính phủ và người nộp thuế địa phương.
+
+Không chỉ dừng lại ở hạ tầng, làn sóng này còn giáng đòn chí mạng vào tận lõi ngành công nghiệp ô tô sở tại. Tại Châu Âu, sự đổ bộ ồ ạt của xe điện nguyên chiếc đang tạo ra một quá trình "phi công nghiệp hóa" khốc liệt. Khi những chiếc xe giá rẻ tràn ngập thị trường, chúng bóp nghẹt không gian sống của toàn bộ chuỗi cung ứng phụ trợ địa phương. Hàng loạt nhà máy sản xuất linh kiện phải đối mặt với nguy cơ phá sản vì không thể cạnh tranh về giá. Ngay cả những tượng đài công nghiệp cũng bị đẩy vào khủng hoảng sinh tồn. Lần đầu tiên sau tám mươi tám năm lịch sử, Volkswagen phải tính đến kịch bản đóng cửa nhà máy nội địa tại Đức, đe dọa trực tiếp sinh kế của hàng chục ngàn công nhân.
+
+Sự hoảng loạn của phương Tây càng đẩy nhanh tốc độ tàn phá ở mặt trận Châu Á. Việc Mỹ và Châu Âu vội vã dựng lên các hàng rào thuế quan để tự vệ đã vô tình tạo ra một con đập vĩ mô. Áp lực tồn kho không thể xả sang phương Tây lập tức bị nén lại và dội thẳng xuống vùng trũng Đông Nam Á với một cường độ khốc liệt chưa từng có. 
+
+Tại Thái Lan — nơi vốn được mệnh danh là "công xưởng ô tô của Châu Á", cuộc xâm thực của xe điện giá rẻ đã đánh sập thị phần của các hãng xe Nhật Bản từ chín mươi phần trăm xuống dưới sáu mươi chín phần trăm. Hệ lụy nhãn tiền là sự đổ vỡ của các dây chuyền truyền thống: Suzuki và Subaru phải thông báo đóng cửa nhà máy, trong khi Honda buộc phải thu hẹp quy mô sản xuất. Không dừng lại ở đó, để xả tồn kho, B Y D sẵn sàng đập giá xe xuống hơn mười ngàn đô la. Dòng tiền của hãng được khơi thông, nhưng khối tài sản của người tiêu dùng mua trước đó lập tức bốc hơi thảm hại, thổi bùng làn sóng phẫn nộ buộc Thủ tướng Thái Lan phải yêu cầu điều tra khẩn cấp.
+
+Tư nhân hóa lợi nhuận bán hàng, xã hội hóa gánh nặng hạ tầng. Đó là chân dung điển hình của một kẻ xâm lăng. Vậy, đứng trước làn sóng đó, VinFast đã chọn con đường của người kiến thiết như thế nào để xây dựng pháo đài phòng ngự ngay tại sân nhà?

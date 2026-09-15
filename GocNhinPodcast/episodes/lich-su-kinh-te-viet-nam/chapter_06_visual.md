@@ -1,0 +1,36 @@
+# Ma trận Storyboard: Chương 6
+
+| Scene ID | [THOẠI] | [BỐI CẢNH] | [TEXT OVERLAY] |
+|---|---|---|---|
+| CH06_SC001 | Đòn bẩy đó chính là cuộc Chuyển đổi xanh. | A massive, modern offshore wind turbine farm operating gracefully off the coast of Vietnam under a clear sky. | Không |
+| CH06_SC002 | Vậy vì sao Diễn đàn Kinh tế Thế giới lại tin tưởng nó sẽ mang về hai nghìn tỷ đô la? | A high-tech digital projection showing a glowing graph that rapidly rises, displaying massive numbers in a modern boardroom. | **$2000 TỶ** |
+| CH06_SC003 | Câu trả lời nằm ở khái niệm kinh tế học mang tên Đi tắt đón đầu. | A sleek, futuristic high-speed electric train in Vietnam swiftly bypassing an old, slow, polluting diesel train on parallel tracks. | Không |
+| CH06_SC004 | Lợi thế nhân công giá rẻ của Việt Nam đang dần cạn kiệt. | A close-up of a "Hiring Now - High Salary Required" sign outside a modern, automated Vietnamese factory. | Không |
+| CH06_SC005 | Để thoát Bẫy thu nhập trung bình, nền kinh tế phải dựa vào đổi mới sáng tạo. | A team of young Vietnamese engineers passionately brainstorming around a glowing 3D holographic model of a smart city. | Không |
+| CH06_SC006 | Đó là lúc cuộc Chuyển đổi xanh mang lại cánh cửa cơ hội ngàn năm có một. | A massive, heavy blast door of a dark industrial tunnel opening to reveal a bright, glowing green landscape. | Không |
+| CH06_SC007 | Quỹ đạo truyền thống thường đi từ nông nghiệp, sang công nghiệp bẩn, rồi mới đến công nghệ sạch. | A split-screen showing a muddy rice field, then a heavily polluting smokestack, and finally a clean solar panel array. | Không |
+| CH06_SC008 | Việt Nam có thể bỏ qua bước trung gian, nhảy vọt thẳng lên hạ tầng năng lượng sạch. | A vast, shining solar power plant seamlessly integrated into a lush Vietnamese valley, glowing under the sun. | Không |
+| CH06_SC009 | Điều này giúp tránh được vết xe đổ mang tên Khóa chết Carbon. | An abandoned, rusted coal train permanently derailed and covered in creeping green vines in a Vietnamese jungle. | Không |
+| CH06_SC010 | Tức là không bị chôn vốn hàng tỷ đô la vào các nhà máy điện than lỗi thời. | A massive, dark, heavily polluting coal power plant being dismantled by heavy machinery, with dust falling down. | Không |
+| CH06_SC011 | Sức mạnh thực sự của chiến lược này nằm ở việc tái định vị dòng vốn Ép Đê I. | International executives shaking hands with Vietnamese officials in front of a sleek, carbon-neutral manufacturing facility. | Không |
+| CH06_SC012 | Trong kỷ nguyên mới, các siêu tập đoàn công nghệ không đi tìm nhân công rẻ nhất. | A state-of-the-art robotic assembly line in Vietnam operating autonomously without manual labor, cleanly assembling electronics. | Không |
+| CH06_SC013 | Họ đi tìm những quốc gia có khả năng cung cấp hạ tầng năng lượng sạch. | A massive power grid station where high-voltage transmission lines are directly connected to towering wind turbines. | Không |
+| CH06_SC014 | Đây là điều kiện tiên quyết để họ hoàn thành cam kết trung hòa carbon toàn cầu. | A global map on a digital screen, with a bright green glowing line connecting Silicon Valley directly to Vietnam. | **NET ZERO** |
+| CH06_SC015 | Đồng thời, Châu Âu và Mỹ đang dựng lên hàng rào thuế carbon vô cùng khắt khe. | A massive iron shipping container being aggressively stamped with a heavy, red "CARBON TAX" seal by customs officers. | **CARBON TAX** |
+| CH06_SC016 | Bất kỳ sản phẩm nào dùng điện than để sản xuất sẽ bị đánh thuế trừng phạt. | A cargo ship loaded with goods emitting thick black smoke being turned away by a massive steel border gate. | Không |
+| CH06_SC017 | Khi Việt Nam tuân thủ tiêu chuẩn E ét Di, chúng ta trở thành ốc đảo an toàn về thuế. | A cargo ship with a bright green "ESG Certified" logo easily passing through a modern, automated customs gate. | **ESG CERTIFIED** |
+| CH06_SC018 | Đó là lý do Lê-gô đổ một tỷ đô la xây nhà máy trung hòa carbon tại Bình Dương. | A vibrant, hyper-modern, completely green Lego factory in Binh Duong, surrounded by trees and solar panels. | **$1 TỶ TẠI BÌNH DƯƠNG** |
+| CH06_SC019 | Các gã khổng lồ bán dẫn cũng buộc phải mang công nghệ lõi đến đây. | A pristine silicon wafer glowing brightly in a high-tech cleanroom at a newly built Vietnamese semiconductor plant. | Không |
+| CH06_SC020 | Chuyển đổi xanh còn kích hoạt một luồng sinh khí khổng lồ gọi là Chuyển đổi kép. | A complex visual showing green energy cables wrapping around high-speed fiber-optic data cables in a server room. | Không |
+| CH06_SC021 | Để quản lý năng lượng tái tạo, chúng ta bắt buộc phải nâng cấp hạ tầng số. | A massive data center in Vietnam filled with servers, powered entirely by a visible, adjacent solar farm. | Không |
+| CH06_SC022 | Việc bơm hàng trăm tỷ đô la vào hạ tầng xanh sẽ khai sinh các ngành công nghiệp mới. | A massive new industrial park dedicated entirely to manufacturing electric vehicle batteries, glowing with activity at night. | Không |
+| CH06_SC023 | Đồng thời đào tạo ra một tầng lớp kỹ sư trí thức bậc cao cho đất nước. | A large group of young, confident Vietnamese engineers in cleanroom suits standing proudly in front of a high-tech lab. | Không |
+| CH06_SC024 | Tuy nhiên, sân chơi toàn cầu chưa bao giờ là một nơi nhân từ. | A dark, intense shot of a competitive global stock trading floor, with aggressive traders shouting at screens. | Không |
+| CH06_SC025 | Luật chơi E ét Di vô cùng tàn khốc với các doanh nghiệp nội địa vừa và nhỏ. | A small, traditional Vietnamese factory owner looking stressed and exhausted while reviewing a massive, complicated ESG compliance manual. | Không |
+| CH06_SC026 | Áp lực tuân thủ tiêu chuẩn xanh với chi phí khổng lồ có thể bóp nghẹt họ. | A small factory's smokestack being forcefully shut down by inspectors, while workers stand outside looking worried. | Không |
+| CH06_SC027 | Những doanh nghiệp không đủ vốn để xanh hóa sẽ bị loại khỏi chuỗi cung ứng. | A small delivery truck being rejected at the loading dock of a massive, glowing green multinational corporation facility. | Không |
+| CH06_SC028 | Đây là một cuộc thanh lọc sinh tử. | A harsh, intense light illuminating a long row of closed, bankrupt small factories, while a large modern one thrives. | Không |
+| CH06_SC029 | Chỉ những ai đủ bản lĩnh mới có thể cùng quốc gia chạm tới mốc hai nghìn tỷ đô la. | A highly modern, successful Vietnamese green-tech CEO standing confidently on a balcony overlooking a thriving, sustainable mega-city. | Không |
+| CH06_SC030 | Gần bốn mươi năm kể từ Đổi Mới, con tàu kinh tế Việt Nam đã đi qua muôn vàn giông bão. | A massive, heavily weathered but extremely powerful ocean freighter flying the Vietnamese flag, breaking through high storm waves. | Không |
+| CH06_SC031 | Không còn là một nền kinh tế sinh tồn, chúng ta đang bước vào cuộc đua của những cường quốc. | The Vietnamese freighter sailing smoothly alongside other massive, hyper-modern global cargo ships in a bright, calm sea. | Không |
+| CH06_SC032 | Khát vọng hóa rồng không chỉ là một giấc mơ, mà là một mệnh lệnh của lịch sử. | A breathtaking aerial view of a futuristic, glowing Vietnamese metropolis seamlessly blending high-tech skyscrapers with lush green nature. | Không |

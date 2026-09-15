@@ -1,0 +1,13 @@
+Tại khu đô thị Bonifacio Global City lúc hai giờ sáng, bạn sẽ thấy một nhịp sống hoàn toàn tách biệt. Hàng chục tòa nhà kính chọc trời vẫn sáng rực ánh đèn. Hàng trăm nghìn người trẻ Philippines bắt đầu ca làm việc xuyên đêm. Họ đeo tai nghe, trò chuyện với khách hàng bên kia bán cầu bằng chất giọng Mỹ chuẩn xác.
+
+Suốt hai thập kỷ qua, ngành dịch vụ tổng đài Bi Pi Ô là niềm kiêu hãnh của quốc gia này. Lợi thế tiếng Anh thuộc địa từng được xem như một tấm thẻ bài bất khả xâm phạm. Đến năm hai nghìn không trăm hai mươi lăm, doanh thu của ngành này đã chạm mốc kỷ lục hơn bốn mươi tỷ đô la. Con số này chính thức vượt qua lượng kiều hối gửi về của người lao động viễn xứ. Toàn bộ tầng lớp trung lưu thành thị tại Manila được nuôi dưỡng từ nguồn thu nhập này.
+
+Thế nhưng, ngồi trực tổng đài không phải là sản xuất cơ khí. Công việc này không dạy cho một dân tộc sự chính xác về kỹ thuật hay năng lực chế tạo chip. Nó tạo ra một thế hệ lao động trí thức nhưng hoàn toàn thiếu vắng các kỹ năng sản xuất vật chất. Nền kinh tế dịch vụ chỉ như một lớp sơn hào nhoáng phủ lên bộ khung sản xuất rỗng tuếch.
+
+Và rồi, cơn địa chấn trí tuệ nhân tạo tạo sinh ập đến. Các trợ lý giọng nói A I giờ đây có thể đàm thoại tự nhiên với chi phí rẻ hơn nhiều lần so với con người. Chúng có thể xử lý đồng thời hàng nghìn cuộc gọi mà không cần nghỉ ngơi. Thuật toán tự động giải quyết tới tám mươi phần trăm các thắc mắc thông thường của khách hàng. Những công việc trực tổng đài lặp đi lặp lại đang bị thu hẹp từng ngày.
+
+Quỹ Tiền tệ Quốc tế vừa đưa ra một báo cáo rất đáng lo ngại. Gần chín mươi phần trăm vị trí văn phòng trong ngành Bi Pi Ô của Philippines nằm trong diện tổn thương cao. Đây không còn là dự báo xa vời. Ngay trong năm hai nghìn không trăm hai mươi sáu, Hiệp hội Bi Pi Ô nước này đã phải âm thầm hạ chỉ tiêu tăng trưởng. Từ ba trăm sáu mươi nghìn đến hơn sáu trăm nghìn việc làm dự kiến cho người trẻ bỗng chốc bốc hơi.
+
+Điều nghiệt ngã là khi các tổng đài tắt đèn, người lao động không thể quay về làm việc tại các nhà máy. Bởi vì đất nước này làm gì có đại công xưởng nào để tiếp nhận họ. Họ cũng không thể quay về làm nông nghiệp khi đồng ruộng đã bị xé vụn và kiệt quệ. Lợi thế tiếng Anh từng nuôi sống hàng triệu gia đình giờ đây đang tan biến trước thuật toán.
+
+Khi chiếc phao cứu sinh dịch vụ bắt đầu chìm, chiếc bánh kinh tế của quốc gia không thể mở rộng. Để duy trì bộ máy chi tiêu và che đậy những vết nứt, chính quyền Manila phải tìm đến đòn bẩy cuối cùng. Đó là lao vào vòng xoáy nợ nần. Khoản nợ công quốc gia tăng vọt lên mức kỷ lục hơn mười chín nghìn tỷ Peso. Mở ra một bước đi mạo hiểm mang tên Quỹ Đầu tư Maharlika.

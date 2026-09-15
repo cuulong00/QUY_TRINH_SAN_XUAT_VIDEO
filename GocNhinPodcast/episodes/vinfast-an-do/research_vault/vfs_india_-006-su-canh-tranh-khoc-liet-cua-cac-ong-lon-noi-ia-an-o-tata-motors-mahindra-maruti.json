@@ -1,0 +1,117 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-13T06:45:38.996Z",
+  "session_id": "0cde505d",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/9891a2f0-8e48-445a-a2c4-4b25ee3c3800"
+  },
+  "question": "Sự cạnh tranh khốc liệt của các ông lớn nội địa Ấn Độ (Tata Motors, Mahindra, Maruti Suzuki): Chi tiết về dải sản phẩm EV giá rẻ mới ra mắt (như Tata Curvv EV, Mahindra BE 6e/XEV 9e, và sự gia nhập của Maruti Suzuki), thị phần áp đảo của họ, và rủi ro từ hạ tầng sạc điện cực yếu của Ấn Độ (tỷ lệ xe:trạm sạc là 1:235). Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO: SỨC ÉP CẠNH TRANH TỪ CÁC ĐỐI THỦ NỘI ĐỊA VÀ RỦI RO HẠ TẦNG TẠI THỊ TRƯỜNG XE ĐIỆN ẤN ĐỘ (2025-2026)\nCăn cứ dữ liệu:\nBáo cáo: The Geopolitical and Competitive Realignment of India's Electric Vehicle Market (2025-2026)\nCổng thông tin Vahan & Báo cáo doanh số từ CarLelo, Auto Punditz, GaadiWaadi (Phát hành: Năm 2026)\nDữ liệu thông số kỹ thuật xe từ CarWale, Cars24, ZigWheels (Phát hành: Năm 2026)\n1. Chi tiết dải sản phẩm EV mới và sự gia nhập của các ông lớn nội địa Thị trường xe điện Ấn Độ đang chứng kiến cuộc đua khốc liệt về sản phẩm và giá bán từ các nhà sản xuất nội địa nhằm củng cố vị thế:\nTata Motors: Tiếp tục mở rộng dải sản phẩm với mẫu SUV lai Coupe Tata Curvv EV có giá khởi điểm từ 16,99 lakh INR\n2\n10\n. Bên cạnh đó, hãng duy trì thế mạnh ở phân khúc giá rẻ với Tiago EV (từ 6,99 lakh INR) và Punch EV\n1\n13\n. Sắp tới, hãng dự kiến tung ra Sierra EV (tầm hoạt động 550km) vào tháng 6/2026 và Safari EV vào dịp Diwali 2026 để củng cố phân khúc cao cấp\n2\n.\nMahindra & Mahindra: Hãng dồn lực vào nền tảng xe điện chuyên dụng INGLO với hai mẫu SUV chiến lược: BE 6 (giá 18,90 - 26,90 lakh INR) và XEV 9e (giá 21,90 - 31,25 lakh INR)\n3\n9\n. Các mẫu xe này sử dụng bộ pin dung lượng lớn (59 - 79 kWh), trang bị động cơ dẫn động cầu sau mạnh 282 mã lực và cung cấp tầm hoạt động lên tới 656 km (đối với bản XEV 9e)\n3\n11\n.\nMaruti Suzuki: Chấm dứt sự vắng bóng trên thị trường EV bằng mẫu xe thuần điện đầu tiên eVitara ra mắt vào tháng 11/2025\n4\n12\n. Để cạnh tranh, hãng đưa ra mức giá niêm yết từ 15,99 lakh INR hoặc mức giá đột phá 10,99 lakh INR thông qua mô hình thuê pin BaaS (cộng thêm 3,99 INR/km)\n4\n12\n.\n2. Thị phần áp đảo của các thương hiệu nội địa (Cập nhật T5/2026) Chỉ riêng 3 ông lớn nội địa đã chiếm tới 70% tổng lượng xe điện bán ra toàn thị trường Ấn Độ, tạo ra rào cản cực lớn cho các hãng xe ngoại nhập:\nTata Motors (Top 1): Tiếp tục thống trị tuyệt đối. Trong tháng 5/2026, Tata lập kỷ lục là hãng đầu tiên bán được trên 5 con số với 10.339 xe, chiếm 39,9% thị phần toàn ngành\n. Tuy nhiên, mẫu Curvv EV lại đang gặp khó khăn trong việc thu hút khách hàng khi chỉ ghi nhận 882 xe bán ra trong tháng 4/2026\n2\n.\nMahindra (Top 2): Thu hẹp nhanh chóng khoảng cách với Tata nhờ định vị SUV cao cấp. Trong tháng 5/2026, hãng bán được 6.210 xe, nắm giữ 24,0% thị phần\nMaruti Suzuki (Top 4): Bất chấp việc gia nhập muộn, nhờ mạng lưới showroom NEXA phủ rộng, Maruti Suzuki nhanh chóng chiếm vị trí top 4 với 1.591 xe đăng ký mới trong tháng 5/2026 (đạt 6,1% thị phần)\n. Trước đó vào tháng 4/2026, mẫu eVitara đã ghi nhận mức tiêu thụ lên đến 2.006 xe\n4\n8\n.\n3. Rủi ro từ hạ tầng sạc điện cực yếu của Ấn Độ\nDữ liệu từ tài liệu nguồn: Các báo cáo ghi nhận rõ tình trạng \"cơ sở hạ tầng sạc còn hạn chế\" tại Ấn Độ, điều này gây ra hiện tượng \"range anxiety\" (nỗi lo hết pin) cản trở việc phổ cập xe thuần điện (BEV) và vô tình tạo lợi thế cho các dòng xe Plug-in Hybrid (PHEV) lách luật của các hãng Trung Quốc\n14\n15\n. Để tự giải quyết rủi ro này, VinFast đã phải triển khai công ty V-Green hợp tác với tập đoàn dầu khí quốc gia HPCL nhằm thiết lập trạm sạc ngay tại các cây xăng\n14\n16\n.\nLưu ý về tỷ lệ 1:235: (Xin lưu ý: Tỷ lệ xe trên trạm sạc là 1:235 mà bạn đề cập trong câu hỏi không xuất hiện trong các tài liệu nguồn hiện tại. Đây là thông tin từ bên ngoài nguồn dữ liệu được cung cấp và bạn có thể cần kiểm chứng độc lập tính chính xác của con số này). Tỷ lệ này, nếu đúng, tái khẳng định áp lực hạ tầng vô cùng khắc nghiệt đối với VinFast khi phải cạnh tranh với các đối thủ nội địa có lợi thế thấu hiểu thị trường và mạng lưới sạc gia đình sẵn có.",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "The Geopolitical and Competitive Realignment of India's Electric Vehicle Market: An Analytical Study of VinFast's Strategic Footprint, Competitor Dynamics, and Policy Shifts (2025-2026)",
+      "source_text": "The Competitive Ecosystem: Homegrown Legacy Leaders and Import-Bound Competitors The Indian electric passenger vehicle market has witnessed a surge in volume, with total EV registrations in May 2026 growing 80.7% year-on-year to 25,880 units.[15, 17] This rapid growth is characterized by a strong concentration of sales among domestic manufacturing giants, alongside unique challenges faced by import-reliant foreign brands.[15, 17] Tata Motors Tata Motors continues to lead the electric vehicle segment, achieving a historic milestone in May 2026 as the first OEM in India to record five-figure EV sales in a single month with 10,339 registrations (a 39.9% market share).[15, 17] Tata’s dominant market position is supported by a wide, multi-tier product portfolio, including the affordable Tiago EV (starting at INR 6.99 lakh), the Punch EV, and the Nexon EV.[14, 19]"
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "The Geopolitical and Competitive Realignment of India's Electric Vehicle Market: An Analytical Study of VinFast's Strategic Footprint, Competitor Dynamics, and Policy Shifts (2025-2026)",
+      "source_text": "However, Tata’s premium coupe-SUV, the Curvv EV (priced from INR 16.99 lakh for the Accomplished X 55.0 kWh variant), has struggled to secure immediate market traction, registering 882 units in April 2026.[19, 20] To defend its market share, Tata is preparing a premium electric product offensive, including the debut of the 550-km-range Sierra EV on June 30, 2026, the three-row Safari EV by Diwali 2026, and the premium Avinya X in 2027 (built on a Chery-JLR-derived platform).[17] Mahindra & Mahindra"
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "The Geopolitical and Competitive Realignment of India's Electric Vehicle Market: An Analytical Study of VinFast's Strategic Footprint, Competitor Dynamics, and Policy Shifts (2025-2026)",
+      "source_text": "Mahindra & Mahindra has secured a strong second place, registering 6,210 units in May 2026 to capture a 24.0% market share.[15, 17] Mahindra’s electric vehicle growth is driven by its dedicated INGLO-platform SUV lineup, specifically the BE 6 (priced from INR 18.90 lakh to INR 26.90 lakh) and the larger XEV 9e (priced from INR 21.90 lakh to INR 31.25 lakh).[20, 21, 22] These models offer high-capacity 59 kWh to 79 kWh lithium-ion battery packs, rear-wheel-drive motors producing up to 282 bhp and 380 Nm of torque, and competitive ranges of up to 656 km on a single charge.[20, 21, 23] This premium, technology-focused SUV strategy has allowed Mahindra to narrow the competitive gap with Tata Motors.[17, 19]"
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "The Geopolitical and Competitive Realignment of India's Electric Vehicle Market: An Analytical Study of VinFast's Strategic Footprint, Competitor Dynamics, and Policy Shifts (2025-2026)",
+      "source_text": "However, high-end models like the Sealion 7 must be imported as fully built units (CBUs), subjecting them to a steep 70% import duty.[28] This high tariff elevates retail pricing and restricts BYD's growth.[28] Despite its advanced Blade Battery and Cell-to-Body technologies, BYD registered only 686 units in May 2026 (a 2.7% market share), illustrating how regulatory barriers can limit even highly competitive global manufacturers.[15, 16, 24] Emerging Competitors The competitive landscape is further diversified by other new entrants.[13] Maruti Suzuki entered the EV segment with the eVitara in November 2025, offering a unique Battery-as-a-Service (BaaS) pricing model starting at INR 10.99 lakh (plus a battery lease of INR 3.99/km).[13] The eVitara has shown promising early demand, registering 2,006 units in April 2026 and 1,591 units in May 2026.[16, 19]"
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "EV Sales May 2026 - Mahindra Closes the Gap on Tata, VinFast and Maruti - CarLelo",
+      "source_text": "While the entire industry witnessed positive expansion, the headline belongs to Mahindra's relentless chase of market leader Tata Motors, and a stunning increase in sales of Vietnamese EV maker, VinFast. The new comer has managed to beat legacy giants, including Kia and Hyundai. Mahindra Closes the Gap on Tata Motors Tata Motors has recorded a historic milestone in May 2026. The company becomes the first OEM in India to hit five-figure mark in a single month by registering 10,339 electric cars. Tata Motors EV sales reported a YoY growth of 103.4 per cent."
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "Electric Car Sales in India – April 2026 - Auto Punditz",
+      "source_text": "OEM-Wise Electric Car Sales – April 2026 Rank OEM Apr'26 Sales MoM Growth Market Share 1 Tata 9,041 -2.7% 39.5% 2 M&M 6,386 -6.5% 27.9% 3 MG 4,614 -17.9% 20.2% 4 Maruti Suzuki 2,006 -11.0% 8.8% 5 Hyundai 539 -10.2% 2.4% 6 Kia 279 244.4% 1.2% 7 Citroen 13 -65.8% 0.1% Tata Motors retained its dominance in April 2026 with sales of 9,041 electric cars, capturing a commanding 39.5% market share. Although sales declined 2.7% compared to March, Tata's wide EV portfolio including Punch EV, Nexon EV, Harrier EV, Tiago EV, and Curvv EV helped the company stay firmly ahead of rivals. Mahindra & Mahindra secured the second position with 6,386 units and a strong 27.9% market share. The brand's premium electric SUV strategy driven by the XEV 9e and BE6 continues to gain traction despite a 6.5% monthly decline. MG Motor India ranked third with 4,614 units. The company witnessed a sharper 17.9% MoM decline mainly due to lower volumes of the Windsor EV, though it still maintained a healthy 20.2% market share. Meanwhile, Maruti Suzuki registered 2,006 units with the newly launched eVitara, giving the brand an 8.8% share in just its early months. Hyundai Motor India and Kia India remained relatively niche players in the EV segment during April."
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "Mahindra BE 6 vs Mahindra XEV 9E Comparison of Price, Mileage, Specs & Colours",
+      "source_text": "Car finance Used car loan Used car loan eligibility Used car loan interest rates Used car EMI calculator Car services View and pay challan Car service history Car scrap Check vehicle details Pre delivery inspection Login Login New Delhi Auto news Personal loan Mahindra BE 6 vs Mahindra XEV 9E The Mahindra BE 6 price starts at an ex-showroom price of ₹18.90 lakh for the lowest Pack One variant and goes up to ₹26.90 lakh for the top-spec Pack Three 79kWh variant. The Mahindra XEV 9E on the other hand, starts at ₹21.90 lakh for the Pack One and goes up to ₹30.50 lakh for the Pack Three 79kWh variant."
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "Mahindra BE 6 vs Mahindra XEV 9e vs Tata Curvv EV - CarWale",
+      "source_text": "Mahindra BE 6 vs Mahindra XEV 9e vs Tata Curvv EV - CarWale NEW CARS USED CARS REVIEWS & NEWS [x] en Continue in English [-] hi हिंदी में पढ़ें Mahindra BE 6 vs Mahindra XEV 9e vs Tata Curvv EV CarWale brings you comparison of Mahindra BE 6, Mahindra XEV 9e and Tata Curvv EV. The Mahindra BE 6 price is Rs. 18.90 Lakh, Mahindra XEV 9e price is Rs. 21.90 Lakh and Tata Curvv EV price is Rs. 16.99 Lakh. BE 6 Pack One 59.0 kWh No Charger vs XEV 9e Pack One 59.0 kWh No Charger vs Curvv EV Accomplished X 55.0 kWh Comparison Overview"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "Mahindra XEV 9e vs Tata Curvv EV Compare Prices, Specs, Features @ ZigWheels",
+      "source_text": "Mahindra XEV 9e vs Tata Curvv EV Mahindra XEV 9e Price starts at Rs. 21.90 Lakh which is Rs. 4.91 Lakh costlier than base model of Tata Curvv EV priced at Rs. 16.99 Lakh. In technical specifications, . The Comparison Mahindra XEV 9e Pack Three 11.2kw Charger vs Tata Curvv EV Empowered X 55 Dark can be described on the basis of price and specifications. XEV 9e vs Curvv EV Key Highlights XEV 9e Pack Three 11.2kw Charger Curvv EV Empowered X 55 Dark Range 656 km/charge 502 km/charge Charging Time 20Min with 180 kW DC 40Min-70kW-(10-80%) Top Speed ... 160 Km/h"
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "New entrants in India's electric car market I Sales in FY 2025-26 | Apr 2025 - Jan 2026",
+      "source_text": "Source: EVreporter Intelligence, Vahan Dashboard, Telangana Regional Transport portal. Maruti Suzuki Registrations for Maruti Suzuki's first BEV, the e-VITARA, began in Nov 2025. The company has entered into collboration with 13 CPOs and aggregators to enable EV charging access through a single platform. The starting ex-showroom price is ₹15,99,000, while the introductory BaaS price starts at ₹10.99 lakh + Battery EMI @ ₹3.99/km. Vehicle bookings are underway, and it will be sold through premium NEXA showrooms across India . By the end of Jan 2026, 240 EV units had been registered. The listed cities — including Kolkata, Jaipur, Lucknow, Bhubaneswar, Hyderabad, Mumbai, Pimpri-Chinchwad, and Pune — together account for 92 units, which is 38.3% of the total India sales. Gurugram recorded the highest sales at 27 units, followed by Bengaluru (14) and Delhi (13)."
+    },
+    {
+      "marker": "[13]",
+      "number": 13,
+      "source_name": "EV Sales May 2026 - Mahindra Closes the Gap on Tata, VinFast and Maruti - CarLelo",
+      "source_text": "arrow-right View All View All Tata News in India Latest Tata Tiago Ev News and Updates New Tata Tiago EV – Price, New Features and Faster Charging New Tata Tiago EV – Price, New Features and Faster Charging 2026 Tata Tiago EV launched at Rs 6.99 lakh with updated design, new features, faster charging and improved safety features. Konica Singh 2026-05-28 Read More New Tata Tiago and Tiago.ev Launch Next Week New Tata Tiago and Tiago.ev Launch Next Week Tata Motors to launch new Tiago and Tiago.ev in India on May 28. Updated design, modern interiors, and petrol, CNG, and electric options expected. Konica Singh 2026-05-21 Read More Tata Tiago & Tiago EV Facelift Coming Soon - Updates Inside and Out Tata Tiago & Tiago EV Facelift Coming Soon - Updates Inside and Out Tata Tiago and Tiago EV get refreshed headlamps, bumpers, interior updates, rear AC vents, and a bigger battery for the EV variant. Konica Singh 2026-04-17 Read More 2026 Tata Tiago EV Facelift - 5 Notable Updates 2026 Tata Tiago EV Facelift - 5 Notable Updates Tata Tiago EV Facelift 2026 spotted testing with updated lights, new design tweaks and possible battery upgrade. Here are 5 notable changes expected in the New Tiago EV. Konica Singh 2026-03-06 Read More Affordable Electric Cars Under Rs 10 Lakh: Are They Worth Buying? Affordable Electric Cars Under Rs 10 Lakh: Are They Worth Buying? Currently, we have three electric cars in India that cost under Rs 10 lakh, including the MG Comet EV, Tata Tiago EV and Tata Punch EV. Chhavi 2025-03-10 Read More"
+    },
+    {
+      "marker": "[14]",
+      "number": 14,
+      "source_name": "The Geopolitical and Competitive Realignment of India's Electric Vehicle Market: An Analytical Study of VinFast's Strategic Footprint, Competitor Dynamics, and Policy Shifts (2025-2026)",
+      "source_text": "Month in 2026 National Retail Registrations (Units) Month-on-Month Growth Rate (%) National EV PV Market Share (%) Cumulative Registrations (2026 YTD) January 2026 432 N/A 2.4% 432 March 2026 739 N/A 3.0% 1,171 (Excl. Feb) April 2026 1,231 +67.0% 4.7% 2,402 May 2026 1,238 +0.6% 4.8% 3,640 (Note: Registration data is compiled from the Vahan database and regional transport portals. February 2026 specific registration figures are omitted from the primary source materials.[11, 13, 14, 15, 16]) This steady retail growth is supported by a localized ecosystem strategy.[12] To address range anxiety, VinFast's strategic charging partner, V-Green (founded by Vingroup Chairman Pham Nhat Vuong), entered into a partnership with state-run oil major HPCL in December 2025 to deploy fast-charging infrastructure across HPCL's extensive retail fuel station network.[12, 13]"
+    },
+    {
+      "marker": "[15]",
+      "number": 15,
+      "source_name": "The Geopolitical and Competitive Realignment of India's Electric Vehicle Market: An Analytical Study of VinFast's Strategic Footprint, Competitor Dynamics, and Policy Shifts (2025-2026)",
+      "source_text": "Furthermore, to build consumer trust in a new brand, VinFast offers an industry-leading warranty of up to 10 years or 200,000 km on both vehicles and batteries, along with three years of free scheduled maintenance.[12] Looking ahead, VinFast plans to introduce the Limo Green—a seven-seat electric MPV that achieved monthly sales of 9,642 units in Vietnam in November 2025—alongside the newly unveiled VF MPV 7 to target India's fleet and family segments.[12, 18] --------------------------------------------------------------------------------"
+    },
+    {
+      "marker": "[16]",
+      "number": 16,
+      "source_name": "New entrants in India's electric car market I Sales in FY 2025-26 | Apr 2025 - Jan 2026",
+      "source_text": "VinFast sells two electric SUVs, the VF 6 and VF 7, in India. Both were launched in Sep 2025. Ex-showroom prices start at ₹17,29,000 and ₹21,89,000, respectively. The company has 36 dealer stores in India. VinFast EVs are locally assembled at their Thoothukudi plant in Tamil Nadu. VinFast's pan-India sales till Jan 2026 total 1,482 units , of which 10 cities account for 51.6% (764) of the units registered. VinFast cars recorded the highest sales in Delhi (141 units), followed by Jaipur (110) and Bengaluru (98). V-GREEN , the charging infrastructure company founded by VinFast's Pham Nhat Vuong, has entered a partnership with oil major HPCL to develop charging infrastructure at the latter's retail fuel network."
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 14,
+    "source_names": [
+      "The Geopolitical and Competitive Realignment of India's Electric Vehicle Market: An Analytical Study of VinFast's Strategic Footprint, Competitor Dynamics, and Policy Shifts (2025-2026)",
+      "EV Sales May 2026 - Mahindra Closes the Gap on Tata, VinFast and Maruti - CarLelo",
+      "Electric Car Sales in India – April 2026 - Auto Punditz",
+      "Mahindra BE 6 vs Mahindra XEV 9E Comparison of Price, Mileage, Specs & Colours",
+      "Mahindra BE 6 vs Mahindra XEV 9e vs Tata Curvv EV - CarWale",
+      "Mahindra XEV 9e vs Tata Curvv EV Compare Prices, Specs, Features @ ZigWheels",
+      "New entrants in India's electric car market I Sales in FY 2025-26 | Apr 2025 - Jan 2026"
+    ]
+  }
+}

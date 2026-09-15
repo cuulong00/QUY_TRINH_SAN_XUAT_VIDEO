@@ -1,0 +1,751 @@
+[
+  {
+    "id": "SC01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A faceless person hugging their knees in the dark. Neon street lights cast cold light strips through the blinds.",
+    "script_ref": "Bạn đã bao giờ tự kết án mình là một kẻ \"overthinking\" vì luôn để tâm đến những tiểu tiết vụn vặt hay chưa?"
+  },
+  {
+    "id": "SC02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Extreme close-up of a mouth slightly smirking and clicking the tongue, half submerged in dark shadows.",
+    "script_ref": "Một cái chắt lưỡi vô thưởng vô phạt."
+  },
+  {
+    "id": "SC03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Macro shot of cold eyes peering through a slightly open door. Pupils reflecting dim light.",
+    "script_ref": "Một ánh mắt dò xét của người xa lạ."
+  },
+  {
+    "id": "SC04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Light emitting from a phone screen in a dark room, displaying the vague shadow of an emotionless message on shattered glass.",
+    "script_ref": "Một tin nhắn chỉ vỏn vẹn chữ \"Ok\" từ đồng nghiệp."
+  },
+  {
+    "id": "SC05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Wide shot of a person lying on their back staring blankly at the ceiling on an empty bed, feeling lonely in a wide grey room.",
+    "script_ref": "Dù 99% thời gian trong ngày diễn ra suôn sẻ và an toàn, nhưng đến khi chìm vào bóng tối, tâm trí bạn tuyệt nhiên không chiếu lại những cảnh bình yên đó."
+  },
+  {
+    "id": "SC06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Old CRT TV static glitch images overlapping endlessly in space, casting heavy shadows.",
+    "script_ref": "Cuộn băng ký ức chỉ ráo riết tua đi tua lại cái ánh mắt lạnh nhạt kia."
+  },
+  {
+    "id": "SC07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Calloused hands gripping and twisting crumpled bedsheets in agony. Sweat and moonlight shining through the fingers. Low angle.",
+    "script_ref": "Bạn trằn trọc, cắn rứt, tự trừng phạt bản thân vì tin rằng mình thật hẹp hòi và có một tâm lý mong manh, độc hại."
+  },
+  {
+    "id": "SC08",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A half-open self-help book forgotten under a dim yellow desk lamp, fading into darkness.",
+    "script_ref": "Thực tế, không có cuốn sách rèn luyện tư duy tích cực nào nói cho bạn biết điều này: Sự dằn vặt đó không hề liên quan đến lòng bao dung hay tính cách yếu đuối của bạn. Điều đang xảy ra là bộ não bạn đang chạy cực kỳ xuất sắc theo đúng tệp lệnh gốc. Bạn đang bị điều hành bởi một hệ thần kinh nguyên thủy — nơi được lập trình sinh học để luôn ghim chặt sự đe dọa, và sẵn sàng phớt lờ đi sự tử tế."
+  },
+  {
+    "id": "SC09",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Macro shot of tangled nerve fibers mapping like a circuit board focusing on a central black pin. A medical needle threateningly near.",
+    "script_ref": "Đó là quy luật thần kinh học. Nó lý giải vì sao những mũi kim \"vi-tiêu-cực\" nhỏ bé nhất lại luôn có sức tàn phá mọi mối quan hệ xã hội nhanh hơn hàng tấn sự vỗ về."
+  },
+  {
+    "id": "SC10",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A gray, shriveled half-cut lemon in an abandoned kitchen corner, fruit flies buzzing around.",
+    "script_ref": "Hãy bước vào một trong những nguyên lý tâm lý học lạnh lùng nhất: Khái niệm \"Sự lây nhiễm tiêu cực\", nơi nửa quả chanh thối có thể phơi bày sự tàn khốc của hệ thần kinh."
+  },
+  {
+    "id": "SC11",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A pristine white buttercream cake on a cold marble table. A dead cockroach in the very center. Sharp shadows.",
+    "script_ref": "Sự trớ trêu của não bộ con người có thể được tóm gọn qua một thí nghiệm nổi tiếng của giáo sư tâm lý học Paul Rozin. Tưởng tượng bạn đang có một đĩa bánh kem bơ ngon tuyệt hảo vừa ra lò, được trang trí bằng một con gián chết dán ngay chính giữa. Xin hỏi, phải thêm vào đĩa bao nhiêu chiếc bánh kem tuyệt hảo nữa, thì bạn mới cảm thấy đĩa bánh đó không còn gớm ghiếc và có thể ăn được?"
+  },
+  {
+    "id": "SC12",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Multiple cakes sliding into the frame. Focus on the cockroach's leg. A drop of black tar falling into a jar of honey.",
+    "script_ref": "Câu trả lời là: Trừ khi con gián biến mất, còn lại, không có bất kì lượng bánh kem bổ sung nào trên đời có khả năng xóa bỏ được cảm giác buồn nôn đối với đĩa bánh đó. Ngược lại: Hãy tưởng tượng đĩa thức ăn tuyệt hảo của bạn là một con gián, được rải lên đó vài mẩu bánh ngon. Đĩa thức ăn đó vẫn làm bạn buồn nôn."
+  },
+  {
+    "id": "SC13",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A pale lightning strike splitting the sky. Abandoned luggage left in the dimly lit porch.",
+    "script_ref": "Một thìa dầu hắc có thể làm hỏng cả thùng mật ong, nhưng một thìa mật ong chẳng thay đổi được gì trong một thùng dầu hắc. Hiện tượng này được lý thuyết hóa thành \"Thiên kiến tiêu cực\" (Negativity Bias). Sự tích cực hiếm khi lây nhiễm lan tỏa, nhưng sự tiêu cực thì phát tán giống như tia chớp."
+  },
+  {
+    "id": "SC14",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Car headlights casting sharp light in a dark dead-end alley. A silhouette of a hunched person over a steering wheel in despair.",
+    "script_ref": "Đó là lý do một chuyến du lịch cuối tuần cùng gia đình hoặc bạn bè có thể bị tàn phá dễ dàng. Mọi người ăn ngon, ngắm biển cả ngày vui vẻ. Nhưng rồi buổi tối dằn vặt nhau mất 15 phút chỉ vì có người chạy xe lạc đường."
+  },
+  {
+    "id": "SC15",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Macro shot of an MRI brain scan. A 3D model of the Amygdala glowing in a dangerous crimson red.",
+    "script_ref": "Lời qua tiếng lại. Thở dài. Trách móc."
+  },
+  {
+    "id": "SC16",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A glowing red dot expanding to fill 2/3 of an antique disaster radar screen in a dark room.",
+    "script_ref": "Chỉ 15 phút lạc nhịp đó, giống hệt con gián trên đĩa bánh ngon. Khi về nhà, thứ bật lên đầu tiên trong đầu bạn không phải hoàng hôn trên biển, mà là cơn tức nghẹn trong con hẻm cụt."
+  },
+  {
+    "id": "SC17",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Savanna grass bathed in twilight. The terrified eyes of a primal human hiding behind a tree, pupils dilated in horror.",
+    "script_ref": "Sự kiện tiêu cực không bao giờ nằm yên một chỗ — nó bôi đen mọi trải nghiệm tốt đẹp lân cận. Nhưng Paul Rozin mới chỉ quan sát các hành vi bên ngoài bề mặt. Sự tàn khốc thực sự của thiên kiến tiêu cực không chỉ nằm ở tính lây nhiễm vô hình."
+  },
+  {
+    "id": "SC18",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A torn ancient biological evolutionary poster hanging on a concrete wall next to a quiet modern sofa.",
+    "script_ref": "Nếu bạn muốn biết tại sao mình lại liên tục bị giam cầm trong sự tủi thân dằn vặt đó mãi không thoát ra được, bạn phải lấy con dao giải phẫu, mổ lớp vỏ não ra, và nhìn xuống tít sâu lớp cấu tạo dưới bóng tối của hộp sọ. Nơi có một hạt đậu đỏ đang cật lực chiếm đoạt tình yêu và sự bình yên của bạn làm chất đốt sinh tồn. Chào mừng bạn đối mặt với căn cước sinh mạng đích thực của loài người: Hạch hạnh nhân."
+  },
+  {
+    "id": "SC19",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A tense Adam's apple swallowing hard, chin illuminated by dim phone light. A glowing red speedometer and flashing warning lights.",
+    "script_ref": "Nằm sâu dưới vỏ não của bạn, bé bằng hạt hạnh nhân lớn nguyên bản, có cấu trúc trung tâm của hệ thống cảm xúc: Amygdala. Gọi nó là hạch hạnh nhân cũng được, gọi nó là radar dò tìm thảm họa cũng không sai."
+  },
+  {
+    "id": "SC20",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Hallucinating a wild lion shadow instead of a tired face. A stressed hand crumpling a piece of paper in the dark.",
+    "script_ref": "Điều quan trọng nhất mà thần kinh học tiến hóa phát hiện ra là gì? Gần hai phần ba diện tích của cái hạch nhỏ bé này được tạo hóa vung tay gán độc quyền để dò tìm và phát tín hiệu \"đe dọa\"."
+  },
+  {
+    "id": "SC21",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A glowing door slightly open, but the person inside remains huddled with their back turned, rejecting the light.",
+    "script_ref": "Tổ tiên chúng ta ngày xưa sống sót trên thảo nguyên châu Phi không phải vì họ tìm được nhiều quả mọng nhất. Họ sống sót vì họ luôn chú ý đến tiếng sột soạt nhỏ nhất trong bụi cây — thứ có thể là một con báo đang rình mồi. Kẻ lạc quan ngắm hoàng hôn thì bị báo ăn thịt."
+  },
+  {
+    "id": "SC22",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A rusted rectangular steel sign wrapped in barbed wire like a cage. A disconnected electrical lever hovering over a spark-emitting floor grid.",
+    "script_ref": "Kẻ hoang tưởng, nghi ngờ mọi âm thanh xào xạc và bỏ chạy, là kẻ sống sót và truyền lại bộ gen cho chúng ta. Cái cơ chế thiên vị tiêu cực khốc liệt này, thứ màng lọc thần thánh đã cứu mạng tổ tiên bạn chạy thoát khỏi hàm sư tử hoang dã, nay đã được di truyền trọn vẹn và cắm thẳng vào vỏ não của bạn — giữa một phòng khách hiện đại yên bình."
+  },
+  {
+    "id": "SC23",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Sleek metallic floor reflecting a crumpled, defeated human figure lying flat inside an inescapable wire cage partition.",
+    "script_ref": "Hãy thử nhớ lại. Dạ dày bạn quặn thắt khi lướt qua một bình luận trái chiều. Tim đập mạnh khi nghe người thân càu nhàu."
+  },
+  {
+    "id": "SC24",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A watch with a shattered glass face abandoned on the edge of a grey wooden table, hands frozen still.",
+    "script_ref": "Lồng ngực nghẹn lại khi sếp nhắn tin cụt lủn: \"Ok.\""
+  },
+  {
+    "id": "SC25",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Empty, cynical eyes reflecting a cold neon light slicing across the cheek. Scattered criminal dossiers on a damp moldy floor.",
+    "script_ref": "Lý trí biết rất rõ: Họ chỉ đang mệt. Nhưng hạch hạnh nhân không có lý trí. Giây phút tiếng thở dài vang lên, hệ thần kinh của bạn bật tung."
+  },
+  {
+    "id": "SC26",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Two figures walking away in opposite directions on a wet smoggy road. A grey gift box waits outside a tightly curtained dark bedroom.",
+    "script_ref": "Máu dồn lên não. Cortisol đổ ào ạt vào máu y hệt lúc bạn suýt đâm xe trên cao tốc."
+  },
+  {
+    "id": "SC27",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A massive concrete wall blocking the entire view, completely covering a forced, artificial cynical smile.",
+    "script_ref": "Ngay khoảnh khắc đó, não bộ của bạn bị mù lòa. Nó không nhìn thấy lờn nhăn nhó vì mệt mỏi của đồng nghiệp hay người thân. Nó đang nhìn thấy một con sư tử rình mò sau lùm cây."
+  },
+  {
+    "id": "SC28",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Medical files labeled 'Negative Sentiment Override' stacked chaotically under a dying flickering light. A warm coffee cup near a red deadline clock.",
+    "script_ref": "Hệ thống phòng vệ đã kích hoạt nhầm mục tiêu."
+  },
+  {
+    "id": "SC29",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "An expensive gift box half-torn, radiating a sense of fake bribery. A heavily gripped steering wheel ready to swerve.",
+    "script_ref": "Nó túm lấy tiếng thở dài đó, quăng thẳng vào bộ nhớ dài hạn, đóng đinh lại, và xóa trắng mọi kỷ niệm dịu dàng để bắt cơ thể bạn dồn lực chiến đấu nhằm \"bảo toàn mạng sống\". Đó là lý do bạn cảm thấy tình yêu của đối phương vừa dành cho mình lúc trưa nay như thể hoàn toàn biến mất chỉ sau một câu cáu gắt phũ phàng lúc chiều muộn. Không phải họ hết yêu bạn."
+  },
+  {
+    "id": "SC30",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A grotesque, twisted shadow cast by a person asking a friendly question. An expensive luxury handbag left untouched next to a 'seen' phone message.",
+    "script_ref": "Mà là não bạn vừa tự động kích hoạt bức màn che tên là \"đe dọa sinh tồn\", giấu đi mọi thứ tốt đẹp, và ép bạn phải xử lý mối nguy hiểm trước mắt bằng cách nổi đóa hoặc bỏ trốn. Nó khiến bạn kiệt quệ đến mức, sẽ có lúc người kia đã mở tung cửa lồng yêu thương, bạn vẫn chọn nằm im lìm trong đó để chịu trận."
+  },
+  {
+    "id": "SC31",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A distorted forced smile reflected in a shattered mirror at twilight. A giant golden bandage covering thousands of bleeding thorn wounds.",
+    "script_ref": "Đó là lúc thiên kiến tiêu cực dìm ta xuống trạng thái tâm lý đen tối nhất: Sự bất lực tập nhiễm. Trong tâm lý học hành vi, \"sự bất lực tập nhiễm\" (Learned helplessness) là một thuật ngữ lạnh sống lưng, ra đời từ thí nghiệm tàn nhẫn của giáo sư Martin Seligman."
+  },
+  {
+    "id": "SC32",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A blaring red security alarm illuminating a massive gift box resembling a bomb. Useless accounting ledgers flying everywhere.",
+    "script_ref": "Ông nhốt những chú chó vào lồng có sàn lưới điện. Nhóm 1 có thể tự tắt điện bằng cách chạm vào cần gạt. Nhóm 2 thì không."
+  },
+  {
+    "id": "SC33",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A faded math notebook stamped heavily with '5 to 1' in red ink. A laboratory security camera zooming into a blinking eye.",
+    "script_ref": "Cần gạt bị ngắt kết nối. Mọi nỗ lực vùng vẫy, cào cấu của bầy chó nhóm 2 đều vô vọng. Điện vẫn giật tàn nhẫn."
+  },
+  {
+    "id": "SC34",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A heart monitor spiking 94% in green light. A heavy metal engraving showing 5 plus signs and 1 minus sign.",
+    "script_ref": "Điều đáng sợ nằm ở giai đoạn kế tiếp. Khi Seligman chuyển cả hai về một chiếc lồng mới với vách ngăn cực thấp, chỉ cần nhảy nhẹ là thoát khỏi dòng điện. Nhóm 1 lập tức nhảy vọt qua để tự cứu mình."
+  },
+  {
+    "id": "SC35",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A clumsy hand trying to comforting a hunched person's shoulder under a streetlight. A 33% pie chart crumbling into dust.",
+    "script_ref": "Nhưng nhóm 2 thì sao?"
+  },
+  {
+    "id": "SC36",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Tough Velcro gripping tightly while a rusty Teflon pan lets a sweet honey drop slide away. Clock hands moving agonizingly slow from 1 to 12.",
+    "script_ref": "Dù rào chắn đã hạ tối thiểu, chúng vẫn nằm rạp xuống sàn, rên rỉ và mặc cho điện chạy qua người. Chúng từ bỏ sinh tồn bởi một niềm tin tuyệt đối: Mọi nỗ lực đều vô ích. Cơn đau đã dạy chúng một \"sự bất lực tập nhiễm\"."
+  },
+  {
+    "id": "SC37",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "POV through a closing elevator door, a warm tea cup being drunken hastily while a giant glaring blue excel spreadsheet dominates the view.",
+    "script_ref": "Đó chính xác là những gì đang diễn ra trong những cuộc chiến tranh lạnh. Mỗi lần bạn cố định mở lời mà nhận lại cái bĩu môi. Mỗi lần bạn muốn làm hòa nhưng chạm phải ánh mắt lạnh như bê tông."
+  },
+  {
+    "id": "SC38",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Two hands tightly holding a steaming mug. A glowing pebble dropping into a dark mental well, creating bright soothing ripples.",
+    "script_ref": "Mỗi lời giải thích bị dập tắt bằng câu: \"Tùy, muốn nghĩ sao thì nghĩ.\""
+  },
+  {
+    "id": "SC39",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Glowing nerve roots pulling open a plastic box of joy. A fractured dark skull pierced by a warm beam of forgiving light breaking the shadow.",
+    "script_ref": "Tất cả chi tiết đó là những cú giật điện vô hình. Khi \"vi-tiêu-cực\" rỉ rả ngày qua ngày, não bộ thiết lập một bản cáo trạng: \"Mọi nỗ lực cứu vãn quan hệ đều phải trả giá bằng tổn thương. Rút lui đi."
+  },
+  {
+    "id": "SC40",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A broken, faded radar and shattered sunglasses lying on the floor. Soft moonlight glowing through the honest broken glass shards.",
+    "script_ref": "Nằm im mà chịu trận.\""
+  },
+  {
+    "id": "SC41",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A faceless person hugging their knees in the dark. Neon street lights cast cold light strips through the blinds.",
+    "script_ref": "Xin đừng lầm tưởng chiến tranh lạnh là chiến thuật trừng phạt kiêu ngạo của những người hết yêu. Nó là phiên bản con người của bầy chó nằm rạp trên sàn lưới điện. Hai con người sống chung nhà, nhưng không ai buồn cãi vã."
+  },
+  {
+    "id": "SC42",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Extreme close-up of a mouth slightly smirking and clicking the tongue, half submerged in dark shadows.",
+    "script_ref": "Im lặng đặc quánh đó không phải là sự nhẫn nhịn trưởng thành. Đó là khoảnh khắc não bộ họ tự kích hoạt trạng thái \"bất lực để sinh tồn\". Hệ thần kinh từ chối cố gắng để né tránh thêm bất kì một cú xẹt điện tiêu cực nào."
+  },
+  {
+    "id": "SC43",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Macro shot of cold eyes peering through a slightly open door. Pupils reflecting dim light.",
+    "script_ref": "Hệ lụy tồi tệ nhất của sự bất lực tập nhiễm không dừng lại ở đó. Sẽ có ngày đối phương sửa sai. Cửa lồng thực sự mở."
+  },
+  {
+    "id": "SC44",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Light emitting from a phone screen in a dark room, displaying the vague shadow of an emotionless message on shattered glass.",
+    "script_ref": "Hôm nay họ về sớm dọn nhà, hoặc chủ động mua món quà bạn thích. Rào điện chê bai đã được gỡ bỏ."
+  },
+  {
+    "id": "SC45",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Wide shot of a person lying on their back staring blankly at the ceiling on an empty bed, feeling lonely in a wide grey room.",
+    "script_ref": "Nhưng bạn vẫn nằm rạp im lìm. Bạn từ chối đón nhận thiện ý. Phản xạ phòng vệ đã tàn phá góc nhìn của bạn, khiến não bộ tự động bóp méo mọi sự ngọt ngào thành một cái bẫy chực chờ giật sập."
+  },
+  {
+    "id": "SC46",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Old CRT TV static glitch images overlapping endlessly in space, casting heavy shadows.",
+    "script_ref": "Thử thách lớn nhất của sự bất lực tập nhiễm không phải là việc ta mang tâm thế cam chịu. Điều kinh hoàng thực sự là bức tường thành sinh học mà nó dựng lên — khiến cho dù gõ cửa bằng chân thành, não bộ vẫn chế biến nụ cười đó thành một mũi dao độc. Đó là căn bệnh mù lòa có chọn lọc của tình yêu: Bức tường lọc đen."
+  },
+  {
+    "id": "SC47",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Calloused hands gripping and twisting crumpled bedsheets in agony. Sweat and moonlight shining through the fingers. Low angle.",
+    "script_ref": "Nhà tâm lý học lâm sàng John Gottman gọi hiện tượng mù lòa này là \"Bức tường lọc đen\" — Negative Sentiment Override. Đây là giai đoạn mà thiên kiến tiêu cực đã tích tụ đủ dày để trở thành một hệ điều hành mặc định. Một khi bộ lọc đen được kéo xuống, toàn bộ dữ liệu đầu vào — dù có tốt đẹp và chân thành đến mức nào — cũng sẽ bị bóp méo thành một thứ độc hại."
+  },
+  {
+    "id": "SC48",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A half-open self-help book forgotten under a dim yellow desk lamp, fading into darkness.",
+    "script_ref": "Hãy tưởng tượng một người đồng nghiệp từng nhiều lần phớt lờ bạn trong các cuộc họp. Rồi một ngày, họ chủ động mua cho bạn một ly cà phê. Nếu chưa có bức tường lọc đen, bạn sẽ vui vẻ nhận lấy, hoặc đơn giản nghĩ rằng họ đang tiện tay mua giùm."
+  },
+  {
+    "id": "SC49",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Macro shot of tangled nerve fibers mapping like a circuit board focusing on a central black pin. A medical needle threateningly near.",
+    "script_ref": "Nhưng một khi hệ thần kinh của bạn đã kích hoạt chế độ bất lực tập nhiễm, phản ứng đầu tiên nảy lên trong đầu bạn sẽ là: \"Lại có âm mưu gì đây? Chuẩn bị đùn đẩy deadline cho mình chắc?\" hay \"Cốc cà phê này là để nịnh nọt lấy lòng vì hôm qua lỡ nói hớ.\""
+  },
+  {
+    "id": "SC50",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A gray, shriveled half-cut lemon in an abandoned kitchen corner, fruit flies buzzing around.",
+    "script_ref": "Hoặc một người bạn thân từng lỡ lời chê bai bạn. Vài tháng sau, họ tặng bạn một món quà đắt tiền nhân dịp sinh nhật. Thay vì cảm động, lòng bạn lại trào lên sự cảnh giác: \"Chắc lại có chuyện gì cắn rứt lương tâm nên mới làm thế này để bù đắp.\" Xin nhắc lại, những ý nghĩ xéo xắt này không phải bằng chứng cho thấy bạn là một con người thâm hiểm tồi tệ."
+  },
+  {
+    "id": "SC51",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A pristine white buttercream cake on a cold marble table. A dead cockroach in the very center. Sharp shadows.",
+    "script_ref": "Bạn không hề muốn nghĩ xấu cho người khác. Nhưng bạn bị tước đoạt quyền lựa chọn. Khối Amygdala trên não đã giành lấy vô lăng."
+  },
+  {
+    "id": "SC52",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Multiple cakes sliding into the frame. Focus on the cockroach's leg. A drop of black tar falling into a jar of honey.",
+    "script_ref": "Cỗ máy sinh tồn 2 triệu năm tuổi đó sẽ kiểm duyệt gắt gao mọi cử chỉ yêu thương, vì nó thà kết án sai một ly cà phê vô hại, còn hơn lỡ mất một tín hiệu rủi ro."
+  },
+  {
+    "id": "SC53",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A pale lightning strike splitting the sky. Abandoned luggage left in the dimly lit porch.",
+    "script_ref": "Khi bạn nhìn thế giới qua bức tường lọc đen, bạn đang biến những người thân cận nhất thành kẻ thù trong nhà. Một nụ cười hòa giải bị dịch thành cái nhếch mép mỉa mai. Một câu hỏi thăm: \"Hôm nay làm mệt không?\" bị phân tích thành: \"Hỏi để chuẩn bị chê mình lười chứ gì.\" Mối quan hệ chết dần không phải vì người ta ngừng yêu thương nhau."
+  },
+  {
+    "id": "SC54",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Car headlights casting sharp light in a dark dead-end alley. A silhouette of a hunched person over a steering wheel in despair.",
+    "script_ref": "Nó chết vì thiện ý không thể chọc thủng một bộ lọc đã bị nhiễu loạn hóa chất tiêu cực."
+  },
+  {
+    "id": "SC55",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Macro shot of an MRI brain scan. A 3D model of the Amygdala glowing in a dangerous crimson red.",
+    "script_ref": "Nhưng nếu vấn đề thuộc về thần kinh sinh học tiến hóa, liệu mọi cố gắng bù đắp có mang ý nghĩa gì không? Liệu một tiếng \"Xin lỗi\" hay một món quà đắt tiền có đủ sức đập vỡ bức tường đen đó? Sự thật sẽ khiến nhiều người tuyệt vọng."
+  },
+  {
+    "id": "SC56",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A glowing red dot expanding to fill 2/3 of an antique disaster radar screen in a dark room.",
+    "script_ref": "Chúng ta thường hay tự lừa mình bằng cách cố chữa một căn bệnh ung thư mãn tính bằng một liều sâm rừng đắt tiền."
+  },
+  {
+    "id": "SC57",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Savanna grass bathed in twilight. The terrified eyes of a primal human hiding behind a tree, pupils dilated in horror.",
+    "script_ref": "Đó là lúc nảy sinh ra nghịch lý đau đớn nhất trong các mối quan hệ: Nỗ lực bù đắp khổng lồ. Nhiều người tin rằng, sau sáu tháng liên tục càu nhàu, lạnh lùng, thả biểu tượng \"seen\" tin nhắn và bỏ mặc sự hiện diện của một người, họ chỉ cần đùng một cái mua tặng một chiếc túi hiệu dăm bảy chục triệu, hay bao trọn một chuyến nghỉ dưỡng năm sao sang trọng, là bộ não của người kia sẽ có phím F5 để tự động reset và xóa sạch hận thù."
+  },
+  {
+    "id": "SC58",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A torn ancient biological evolutionary poster hanging on a concrete wall next to a quiet modern sofa.",
+    "script_ref": "Họ háo hức mang món quà khổng lồ đó đến, hồi hộp chờ đợi sự vỡ òa. Và rồi họ chết sững tủi thân khi nhận lại chỉ là một nụ cười gượng gạo và ánh mắt vẫn hoang hoải xa xăm. Họ đâm ra tức giận: \"Tôi đã cất công tốn kém làm đến vậy rồi mà còn chưa vừa lòng sao?"
+  },
+  {
+    "id": "SC59",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A tense Adam's apple swallowing hard, chin illuminated by dim phone light. A glowing red speedometer and flashing warning lights.",
+    "script_ref": "Rốt cuộc là đòi hỏi gì nữa?\""
+  },
+  {
+    "id": "SC60",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Hallucinating a wild lion shadow instead of a tired face. A stressed hand crumpling a piece of paper in the dark.",
+    "script_ref": "Họ vĩnh viễn không hiểu rằng: Những \"vi-tiêu-cực\" rỉ rả qua ngày tháng không bao giờ có thể bị xóa bỏ bởi một hành động \"vĩ-tích-cực\" hoành tráng. Một trăm mũi kim nhỏ đâm rỉ máu mỗi ngày không thể được chữa lành bằng cách đắp lên đó một miếng băng gạc khổng lồ dệt bằng vàng nguyên khối. Vàng thì rất đắt, băng gạc thì rất to, nhưng nó hoàn toàn vô dụng trước sự rách nát của các tế bào thần kinh đã chịu tổn thương sâu sắc."
+  },
+  {
+    "id": "SC61",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A glowing door slightly open, but the person inside remains huddled with their back turned, rejecting the light.",
+    "script_ref": "Sự thật phũ phàng của phòng thí nghiệm là gì? Những nỗ lực xin lỗi làm lành theo kiểu \"địa chấn\" đột ngột không những vô hiệu mà đôi khi sát thương còn dội ngược lại. Vì sao?"
+  },
+  {
+    "id": "SC62",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A rusted rectangular steel sign wrapped in barbed wire like a cage. A disconnected electrical lever hovering over a spark-emitting floor grid.",
+    "script_ref": "Vì khi não bộ của người ta đã kéo sầm bức tường lọc đen xuống, một món quà quá đắt đỏ, một sự quan tâm đột ngột quá mức bình thường sẽ không tạo ra hạnh phúc."
+  },
+  {
+    "id": "SC63",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Sleek metallic floor reflecting a crumpled, defeated human figure lying flat inside an inescapable wire cage partition.",
+    "script_ref": "Nó lập tức tạo ra sự bất an. Nó đánh thức 2/3 cấu trúc của hạch hạnh nhân bật loa báo động: \"Tại sao hôm nay đột nhiên người này lại tự dưng cất công đối xử tốt với mình thế này? Có lỗi lầm tày đình gì đang được giấu giếm ở phía sau đây?\""
+  },
+  {
+    "id": "SC64",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A watch with a shattered glass face abandoned on the edge of a grey wooden table, hands frozen still.",
+    "script_ref": "Bạn không thể dùng một chuyến du lịch hoành tráng 3 ngày để cấn trừ lại cho một trăm rưỡi ngày cằn nhằn thở dài trước đó. Hệ thần kinh của một sinh vật sống không hoạt động bằng phép tĩnh tiến cộng trừ nhân chia như phòng kế toán. Não bộ không bao giờ lấy một chiếc túi xách, hay một buổi lễ kỉ niệm đắt tiền trừ đi năm mươi lần bạn đảo mắt khinh thầm để ra được một thứ kết quả gọi là \"hòa vốn\"."
+  },
+  {
+    "id": "SC65",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Empty, cynical eyes reflecting a cold neon light slicing across the cheek. Scattered criminal dossiers on a damp moldy floor.",
+    "script_ref": "Sinh học tiến hóa không vận hành theo bảng xuất nhập tồn của dân buôn."
+  },
+  {
+    "id": "SC66",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Two figures walking away in opposite directions on a wet smoggy road. A grey gift box waits outside a tightly curtained dark bedroom.",
+    "script_ref": "Vậy nếu món quà đắt tiền không mua được sự lãng quên, nếu những lời xin lỗi rùm beng khổng lồ nhất rồi cũng trở nên vô dụng bốc hơi, thì điều gì mới thực sự có quyền năng vớt vát chúng ta khỏi hố đen của não bộ? Để chọc thủng một lỗ trên bức tường của hạch hạnh nhân hoang tưởng, ta cần một lực tác động chính xác là bao nhiêu? Tuyệt vọng không phải là điểm kết."
+  },
+  {
+    "id": "SC67",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A massive concrete wall blocking the entire view, completely covering a forced, artificial cynical smile.",
+    "script_ref": "Điểm kết nằm ở một quy tắc toán học lạnh lùng của cảm xúc. Một tỷ lệ sống còn mỏng manh được giáo sư John Gottman trích xuất ra từ 40 năm quan sát hàng ngàn con người sụp đổ và hồi sinh."
+  },
+  {
+    "id": "SC68",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Medical files labeled 'Negative Sentiment Override' stacked chaotically under a dying flickering light. A warm coffee cup near a red deadline clock.",
+    "script_ref": "Năm mươi năm qua, Giáo sư tâm lý học John Gottman đã lập nên một \"Phòng thí nghiệm Tình yêu\" khét tiếng tại Đại học Washington. Ông mời các cặp đôi vào một căn hộ được gắn đầy camera theo dõi, ghim điện cực sinh lý lên người họ, rồi yêu cầu họ cố gắng thảo luận lại một vấn đề từng gây mâu thuẫn. Ông không xem xét việc họ có mua quà cáp đắt tiền hay đi du lịch hoành tráng không."
+  },
+  {
+    "id": "SC69",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "An expensive gift box half-torn, radiating a sense of fake bribery. A heavily gripped steering wheel ready to swerve.",
+    "script_ref": "Qua hàng ngàn dải băng ghi hình, ông đo đạc từng nhịp đập tim, soi từng cái chớp mắt, đếm từng lần giãn cơ mặt, sự đảo mắt mỉa mai, hay một nụ cười mỉm. Kết quả ông công bố đã vĩnh viễn định hình lại cách chúng ta hiểu về sự rạn nứt: John Gottman có thể dự đoán một mối quan hệ sẽ vỡ vụn hay đi tiếp — với độ chính xác ghim cứng ở mức 94% — chỉ bằng cách ngồi quan sát họ nói chuyện với nhau trong đúng 15 phút."
+  },
+  {
+    "id": "SC70",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A grotesque, twisted shadow cast by a person asking a friendly question. An expensive luxury handbag left untouched next to a 'seen' phone message.",
+    "script_ref": "Ông không làm pháp thuật. Ông đơn giản tìm ra công thức toán học của sự tiêu cực. Đó là tỷ lệ: 5 đổi 1."
+  },
+  {
+    "id": "SC71",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A distorted forced smile reflected in a shattered mirror at twilight. A giant golden bandage covering thousands of bleeding thorn wounds.",
+    "script_ref": "Một mối quan hệ khỏe mạnh không phải là mối quan hệ vô khuẩn không bao giờ xảy ra cãi vã. Điểm mấu chốt nằm ở chỗ: Để bộ não của chúng ta không kích hoạt \"bức tường lọc đen\" hạch hạnh nhân sau khi diễn ra 1 tương tác tiêu cực, hai người bắt buộc phải có ít nhất 5 tương tác tích cực để đắp vào."
+  },
+  {
+    "id": "SC72",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A blaring red security alarm illuminating a massive gift box resembling a bomb. Useless accounting ledgers flying everywhere.",
+    "script_ref": "Điều này có nghĩa là gì trong thực tế? Nếu trong bữa họp mặt, bạn lỡ trót buông một câu mỉa mai (1 tiêu cực). Hệ thần kinh của người nghe ngay lập tức yêu cầu bạn phải thực hiện đúng 5 hành động tích cực: có thể là 1 cái xoa lưng, 1 câu khen ngợi dỗ dành, 1 nụ cười chân thành, 1 cái gật đầu thấu cảm, và 1 hành động giúp đỡ."
+  },
+  {
+    "id": "SC73",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A faded math notebook stamped heavily with '5 to 1' in red ink. A laboratory security camera zooming into a blinking eye.",
+    "script_ref": "Đủ 5 lần giải độc như thế, thì tổn thương của 1 câu mỉa mai kia mới có cơ hội được \"thu dọn\" để đưa trạng thái tinh thần về mức hòa vốn."
+  },
+  {
+    "id": "SC74",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A heart monitor spiking 94% in green light. A heavy metal engraving showing 5 plus signs and 1 minus sign.",
+    "script_ref": "Nhưng nếu tỷ lệ này tụt xuống mức 1 đổi 1? Tức là một câu chê bai, đi kèm ngay với một nụ cười vỗ về? Bạn nghĩ thế là công bằng sòng phẳng?"
+  },
+  {
+    "id": "SC75",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A clumsy hand trying to comforting a hunched person's shoulder under a streetlight. A 33% pie chart crumbling into dust.",
+    "script_ref": "Thật đáng tiếc. Trong phòng Love Lab của Gottman, những mối quan hệ có bộ đếm tỷ lệ 1 điểm tốt bù 1 điểm xấu — kết thúc bằng sự sụp đổ nhanh chóng. Vì như chúng ta đã bóc trần ở đầu video: Một lượng dầu hắc nhỏ li ti sẽ luôn luôn nuốt chửng một lượng mật ong có cùng dung tích."
+  },
+  {
+    "id": "SC76",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Tough Velcro gripping tightly while a rusty Teflon pan lets a sweet honey drop slide away. Clock hands moving agonizingly slow from 1 to 12.",
+    "script_ref": "Sự tàn khốc của tỷ lệ 5:1 này giải phóng chúng ta khỏi một ảo tưởng cay đắng của nhân loại: Việc hàn gắn một mối quan hệ không bao giờ nằm ở việc thỉnh thoảng tổ chức những sự kiện sửa sai chấn động. Nó là việc mỗi ngày phải rải ra những mẩu bánh vụn nhỏ xíu của sự thấu cảm, liên tục rỉ rả, lặp đi lặp lại không ngừng nghỉ, chỉ để kiềm hãm lại một ánh mắt lạnh nhạt duy nhất lỡ sinh ra."
+  },
+  {
+    "id": "SC77",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "POV through a closing elevator door, a warm tea cup being drunken hastily while a giant glaring blue excel spreadsheet dominates the view.",
+    "script_ref": "Gottman gọi năng lực nhặt nhạnh những mẩu vụn kết nối này là khái niệm \"bids\" (nỗ lực kết nối). Khi đối phương đang nấu ăn và quay sang nói: \"Anh/em xem hôm nay tin tức có báo bão kìa.\" Đó không phải là một câu nói bâng quơ trao đổi thông tin. Sinh lý học gọi đó là một \"bid\" — một nỗ lực chìa tay ra tìm kiếm một phản hồi ấm áp."
+  },
+  {
+    "id": "SC78",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Two hands tightly holding a steaming mug. A glowing pebble dropping into a dark mental well, creating bright soothing ripples.",
+    "script_ref": "Nếu bạn chỉ ậm ừ dán mắt bấm điện thoại và không ngẩng lên, bạn đã chối bỏ một bid. Khước từ kết nối là bạn đã gieo xuống một vi-tiêu-cực. Con số thống kê đo được từ Love Lab làm người ta phải câm nín lần nữa: Những mối quan hệ sớm tàn lụi dắt nhau ra tòa chỉ màng đáp lại trung bình 33% những cái chìa tay nhỏ xíu đó lúc bình thường."
+  },
+  {
+    "id": "SC79",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Glowing nerve roots pulling open a plastic box of joy. A fractured dark skull pierced by a warm beam of forgiving light breaking the shadow.",
+    "script_ref": "Nghĩa là họ bỏ mặc đối phương 70% thời gian trên cõi đời này."
+  },
+  {
+    "id": "SC80",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A broken, faded radar and shattered sunglasses lying on the floor. Soft moonlight glowing through the honest broken glass shards.",
+    "script_ref": "Trong khi đó, ở những cặp đôi còn bền chặt, não bộ của họ liên tục chớp lấy cơ hội để đáp lại lời đối phương tới tận 86% số lần. Khoa học tiến hóa chứng minh thẳng thừng: Tình yêu hay sự gắn kết đồng loại không phải là một sự kiện lãng mạn vô luân mông lung kì bí. Nó là một bài toán sinh tồn khắc nghiệt bằng số liệu thực tế."
+  },
+  {
+    "id": "SC81",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A faceless person hugging their knees in the dark. Neon street lights cast cold light strips through the blinds.",
+    "script_ref": "Và nếu não bạn đã buộc phải ép vào cái phom hoang tưởng chết dẫm phải nhớ nỗi buồn trong 1 giây nhưng chối bỏ niềm vui nếu không ép giữ nó đủ 12 giây — vậy bạn buộc phải làm gì để hack lại hệ thống não bộ này?"
+  },
+  {
+    "id": "SC82",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Extreme close-up of a mouth slightly smirking and clicking the tongue, half submerged in dark shadows.",
+    "script_ref": "Thiên nhiên đã ban tặng cho con người một bộ não hoạt động theo cơ chế của khóa dán Velcro đối với tiêu cực, nhưng lại trơn tuột như chảo chống dính Teflon đối với tích cực. Nỗi buồn dính chặt, niềm vui trôi tuột. Nhưng rất may, bản án tiến hóa này không phải một ngõ cụt bất dịch."
+  },
+  {
+    "id": "SC83",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Macro shot of cold eyes peering through a slightly open door. Pupils reflecting dim light.",
+    "script_ref": "Ở thập niên gần đây, các nhà thần kinh học lâm sàng, tiêu biểu là tiến sĩ Rick Hanson, đã tìm ra cách bẻ khóa được hệ điều hành này thông qua một cơ chế gọi là \"Savoring\" — quá trình ngâm mình trong khoái cảm."
+  },
+  {
+    "id": "SC84",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Light emitting from a phone screen in a dark room, displaying the vague shadow of an emotionless message on shattered glass.",
+    "script_ref": "Nhớ lại tỷ lệ tàn khốc ở nửa đầu video: Bạn chỉ cần một phần tư giây để ghim chặt một câu chê bai. Nhưng để mã hóa một sự tử tế vào bộ nhớ dài hạn, hạch hạnh nhân ép bạn phải duy trì sự chú ý liên tục không dứt vào nó từ 12 đến 20 giây. Mười hai giây."
+  },
+  {
+    "id": "SC85",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Wide shot of a person lying on their back staring blankly at the ceiling on an empty bed, feeling lonely in a wide grey room.",
+    "script_ref": "Nghe có vẻ ngắn ngủi như một cái chớp mắt, nhưng cứ thử phân tích sự thật phũ phàng này xem. Lỗ hổng chết người của chúng ta là gì? Là thói quen vô tâm với những điều tốt đẹp quen thuộc."
+  },
+  {
+    "id": "SC86",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Old CRT TV static glitch images overlapping endlessly in space, casting heavy shadows.",
+    "script_ref": "Khi buổi sáng đến công ty, một người đồng nghiệp mở cửa giữ thang máy cho bạn. Bạn gật đầu cảm ơn. Hệ thần kinh của bạn ghi nhận việc đó trong vỏn vẹn..."
+  },
+  {
+    "id": "SC87",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Calloused hands gripping and twisting crumpled bedsheets in agony. Sweat and moonlight shining through the fingers. Low angle.",
+    "script_ref": "đúng hai giây. Rồi bạn lập tức rút điện thoại ra lướt tin tức, não bạn ném việc \"giữ cửa thang máy\" vào sọt rác quên lãng. Hay tối qua, người thân rót cho bạn một cốc nước lọc ấm đặt lên bàn làm việc."
+  },
+  {
+    "id": "SC88",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A half-open self-help book forgotten under a dim yellow desk lamp, fading into darkness.",
+    "script_ref": "Bạn bưng lên, tu ực một ngụm, rồi tiếp tục dán mắt vào bảng Excel lỗi. Việc rót nước đó chỉ đọng lại trong não bộ của bạn đúng một giây mỏng manh. Nó chưa kịp chạm vào cửa ngõ của bộ nhớ dài hạn thì đã bị quét văng đi."
+  },
+  {
+    "id": "SC89",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Macro shot of tangled nerve fibers mapping like a circuit board focusing on a central black pin. A medical needle threateningly near.",
+    "script_ref": "Cái chảo chống dính Teflon đã hoạt động quá hoàn hảo. Hàng chục sự tử tế li ti rớt xuống đời bạn mỗi ngày, nhưng bạn vứt bỏ tất cả vì bạn chưa bao giờ cho hệ thần kinh đủ 12 giây để lưu trữ chúng."
+  },
+  {
+    "id": "SC90",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A gray, shriveled half-cut lemon in an abandoned kitchen corner, fruit flies buzzing around.",
+    "script_ref": "Thứ duy nhất có thể ngăn chặn sự mù lòa của Bức tường lọc đen chính là thói quen ép mình nhấm nháp thiện ý. Lần tới, khi ai đó pha giùm bạn một tách trà, hãy dừng lại. Đừng gật đầu cầm lấy rồi uống tu ực vô hồn."
+  },
+  {
+    "id": "SC91",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A pristine white buttercream cake on a cold marble table. A dead cockroach in the very center. Sharp shadows.",
+    "script_ref": "Hãy ôm lấy cái cốc. Cảm nhận hơi ấm truyền qua vân tay. Nhắm mắt lại và để ý mùi thơm bốc lên."
+  },
+  {
+    "id": "SC92",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Multiple cakes sliding into the frame. Focus on the cockroach's leg. A drop of black tar falling into a jar of honey.",
+    "script_ref": "Im lặng hít thở, và chủ động tập trung toàn bộ tế bào thần kinh để ý thức rằng: \"Ngay lúc này, người ta đang rất tử tế với mình.\""
+  },
+  {
+    "id": "SC93",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A pale lightning strike splitting the sky. Abandoned luggage left in the dimly lit porch.",
+    "script_ref": "Mười. Mười một. Mười hai."
+  },
+  {
+    "id": "SC94",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Car headlights casting sharp light in a dark dead-end alley. A silhouette of a hunched person over a steering wheel in despair.",
+    "script_ref": "Chỉ đủ mười hai giây thôi, bạn đã ép thành công một viên sỏi tích cực rơi tõm vào lớp đáy của vỏ nội."
+  },
+  {
+    "id": "SC95",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Macro shot of an MRI brain scan. A 3D model of the Amygdala glowing in a dangerous crimson red.",
+    "script_ref": "Bạn đang dùng một kỹ thuật thần kinh nhân tạo để hô biến mặt chảo Teflon trơn tuột thành lớp khóa dán Velcro chắc chắn. Chúng ta vẫn luôn ngây thơ tin rằng một mối quan hệ hạnh phúc, một cuộc sống ít tủi thân tổn thương sẽ tự động đến nếu ta tìm được đúng người, đúng công ty hoàn hảo. Nhưng sự thật là, niềm vui không tự nhiên bền vững nếu không có sự nỗ lực bằng cơ bắp của não bộ."
+  },
+  {
+    "id": "SC96",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A glowing red dot expanding to fill 2/3 of an antique disaster radar screen in a dark room.",
+    "script_ref": "Bạn phải dùng \"lực\" để giữ nó lại. Bất lực tập nhiễm là cái hố sâu tăm tối có sẵn. Nhưng khả năng bẻ khóa hạch hạnh nhân cũng nằm ngay trong tay bạn."
+  },
+  {
+    "id": "SC97",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Savanna grass bathed in twilight. The terrified eyes of a primal human hiding behind a tree, pupils dilated in horror.",
+    "script_ref": "Giữa cái nhung nhăng của một bộ phận tiến hóa lỗi, tình yêu không tồn tại nhờ vào việc loại trừ hoàn toàn những giọt dầu hắc. Nó tồn tại ở cách bạn có đủ kiên nhẫn để nhặt lại từng muỗng mật ong hay không."
+  },
+  {
+    "id": "SC98",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A torn ancient biological evolutionary poster hanging on a concrete wall next to a quiet modern sofa.",
+    "script_ref": "Cuối cùng thì, chúng ta đi đến tận cùng của hệ thống sinh học này không phải để viện cớ bào chữa cho thói quen vô tâm của loài người. Không phải để dung túng cho cái ác, hay khuyên bạn chịu đựng một mối quan hệ độc hại thực sự. Chúng ta nhìn sâu vào bóng tối của hộp sọ để học cách tha thứ."
+  },
+  {
+    "id": "SC99",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A tense Adam's apple swallowing hard, chin illuminated by dim phone light. A glowing red speedometer and flashing warning lights.",
+    "script_ref": "Tha thứ cho nửa kia đang chật vật, tha thứ cho người đồng nghiệp cộc cằn, và trên hết, tha thứ cho chính sự yếu mềm đầy hoang tưởng của bản thân mình."
+  },
+  {
+    "id": "SC100",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Hallucinating a wild lion shadow instead of a tired face. A stressed hand crumpling a piece of paper in the dark.",
+    "script_ref": "Không có cá thể nào trên đời này được lắp ráp hoàn hảo. Bạn không thể yêu nhau, hay làm việc cạnh nhau hàng thập kỷ mà không có lần vô tình thả xuống một giọt dầu hắc của sự tức tối. Cuộc sống tàn khốc ở chỗ, hệ thần kinh luôn hối thúc bạn cất lên lời phán xét nhanh nhất, bôi đen vạn vật bằng sự lây nhiễm tiêu cực nhanh nhất."
+  },
+  {
+    "id": "SC101",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "A glowing door slightly open, but the person inside remains huddled with their back turned, rejecting the light.",
+    "script_ref": "Tình yêu, sự bao dung và sự gắn kết bền vững, vì thế, chưa bao giờ là bản năng. Nó cấu thành từ những hành động đi ngược lại bản năng. Nó tồn tại ở khoảnh khắc bạn vạch trần được \"Bức tường lọc đen\" của chính mình."
+  },
+  {
+    "id": "SC102",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A rusted rectangular steel sign wrapped in barbed wire like a cage. A disconnected electrical lever hovering over a spark-emitting floor grid.",
+    "script_ref": "Ở thời khắc bạn biết hệ thống đang báo lỗi âm ỉ, nhưng bạn vẫn chủ động gạt cái radar dò tìm đe dọa sang một bên, hít sâu 12 giây, và gom gắp từ tốn lại một mảnh vỡ ngọt ngào."
+  },
+  {
+    "id": "SC103",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Sleek metallic floor reflecting a crumpled, defeated human figure lying flat inside an inescapable wire cage partition.",
+    "script_ref": "Tối nay, có thể bạn sẽ lại nằm mở mắt trân trân nhìn trần nhà trong bóng tối. Nhưng khi người nhạy cảm ở bên trong bạn chực chờ tua lại một câu nói hớ hênh của ai đó vào ban sáng. Hãy dừng nó lại."
+  },
+  {
+    "id": "SC104",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "A watch with a shattered glass face abandoned on the edge of a grey wooden table, hands frozen still.",
+    "script_ref": "Hãy đảo ngược lăng kính. Hãy ép hạch hạnh nhân nhớ lại cái khoảnh khắc người ta đẩy giùm bạn cánh cửa thang máy, hay lúc họ gắp cho bạn thức ăn, và ngâm mình trong cảm giác đó thật đủ lâu."
+  },
+  {
+    "id": "SC105",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Empty, cynical eyes reflecting a cold neon light slicing across the cheek. Scattered criminal dossiers on a damp moldy floor.",
+    "script_ref": "Bởi vì cuộc đấu tranh lớn nhất để giành lấy bình yên không nằm ở việc trừng phạt những kẻ làm tổn thương bạn ngoài kia. Cuộc chiến thực sự nằm ở chính lăng kính mà bạn đang đeo trên mắt. Lột bỏ cái kính râm hoang tưởng của tổ tiên xuống, và để 12 giây cho ánh sáng ùa vào."
+  },
+  {
+    "id": "SC106",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Two figures walking away in opposite directions on a wet smoggy road. A grey gift box waits outside a tightly curtained dark bedroom.",
+    "script_ref": "Cảm ơn bạn đã đồng hành đến giây phút cuối cùng trong căn hầm giải phẫu tâm lý này. Nếu video này đủ sức tháo gỡ một hòn đá đè nặng trong bạn, hãy để lại một nút Đăng ký, và chia sẻ nó."
+  },
+  {
+    "id": "SC107",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "A massive concrete wall blocking the entire view, completely covering a forced, artificial cynical smile.",
+    "script_ref": "Còn bây giờ, xin chào và hẹn gặp lại ở Kênh Tâm Lý."
+  }
+]

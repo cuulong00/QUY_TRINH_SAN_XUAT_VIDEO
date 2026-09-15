@@ -1,0 +1,35 @@
+{
+  "id": "keyword_highlight_gold",
+  "name": "Bloomberg / Financial Times Keyword Highlight",
+  "category": "documentary_video_essay",
+  "description": "Phụ đề trắng viền đen, tự động làm nổi bật từ khóa số liệu, năm tháng, danh từ riêng bằng màu Vàng Hổ Phách (#FFD700) hoặc Terracotta (#FF7043).",
+  "source_reference": "cutcli-cookbook/03-tiktok-keyword-highlight",
+  "pacing": {
+    "max_words_per_cue": 5,
+    "max_chars_per_cue": 24,
+    "min_duration_s": 0.8,
+    "max_duration_s": 2.0,
+    "ideal_duration_s": 1.4
+  },
+  "typography": {
+    "font_size": 12.0,
+    "color": "#FFFFFF",
+    "keyword_color": "#FFD700",
+    "bold": true,
+    "alignment": 1,
+    "x": 0.0,
+    "y": -0.68
+  },
+  "styling": {
+    "has_border": true,
+    "border_width": 0.1,
+    "border_color": "#000000",
+    "border_alpha": 1.0,
+    "has_shadow": true,
+    "shadow_alpha": 0.7,
+    "shadow_angle": -45.0,
+    "shadow_distance": 4.5,
+    "shadow_color": "#000000",
+    "has_background": false
+  }
+}

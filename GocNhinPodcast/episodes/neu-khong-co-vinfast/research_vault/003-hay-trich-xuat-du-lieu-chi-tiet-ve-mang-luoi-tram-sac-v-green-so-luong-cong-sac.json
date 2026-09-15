@@ -1,0 +1,70 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-07-10T09:10:29.947Z",
+  "session_id": "4db567e9",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63"
+  },
+  "question": "Hãy trích xuất dữ liệu chi tiết về mạng lưới trạm sạc V-Green (số lượng cổng sạc, độ phủ tỉnh thành) và so sánh với kế hoạch hạ tầng sạc của các đối thủ ngoại như BYD hay Wuling tại Việt Nam.",
+  "answer": {
+    "text": "Thoughts\nDữ liệu từ các tài liệu trong sổ tay của bạn cung cấp các thông tin cụ thể về hạ tầng sạc của VinFast và thực trạng của các đối thủ ngoại như sau:\n1. Mạng lưới hạ tầng sạc của VinFast\nMặc dù các tài liệu trong sổ tay không nhắc trực tiếp đến tên thương hiệu \"V-Green\", họ ghi nhận chi tiết các số liệu hạ tầng sạc gắn liền với thương hiệu VinFast:\nSố lượng trạm sạc ô tô: VinFast sở hữu lợi thế hạ tầng vượt trội khi đã phủ kín hơn 150.000 trạm sạc trên quy mô toàn quốc\n1\n. Đây được xem là yếu tố hạ tầng then chốt quyết định trực tiếp đến hành vi mua xe điện tại Việt Nam\n1\n.\nHạ tầng đổi pin xe máy điện: Bên cạnh trạm sạc ô tô, VinFast đã và đang triển khai kế hoạch lắp đặt 150.000 trạm đổi pin dành cho xe máy điện trên quy mô toàn quốc với mức phí chỉ 9.000 đồng cho một lần đổi pin\n2\n3\n. Hệ thống khổng lồ này đang tạo ra áp lực cạnh tranh cực kỳ lớn đối với các hãng xe máy điện nhỏ hơn trên thị trường\n4\n.\nĐộ phủ tỉnh thành: Tài liệu ghi nhận mạng lưới trạm sạc này đã \"phủ kín trên toàn quốc\"\n1\n, tuy nhiên không cung cấp số liệu phân bổ hay danh sách chi tiết theo từng tỉnh thành cụ thể.\n2. So sánh với kế hoạch hạ tầng sạc của đối thủ ngoại (BYD, Wuling,...)\nĐối với các thương hiệu ô tô và xe máy điện ngoại quốc, các tài liệu trong sổ tay không cung cấp bất kỳ số liệu cụ thể hay lộ trình xây dựng trạm sạc chi tiết nào của họ tại Việt Nam. Thay vào đó, tài liệu chỉ ra thực trạng bế tắc về hạ tầng sạc của khối ngoại:\nTrạm sạc là \"tử huyệt\" của xe ngoại: Các thương hiệu quốc tế như BYD (với mẫu Dolphin), Wuling (với mẫu Bingo), GAC Aion, Haima dù rất tích cực thâm nhập thị trường bằng các sản phẩm có thiết kế bắt mắt và giá cả cạnh tranh\n1\n5\n, nhưng bài toán trạm sạc vẫn là rào cản lớn nhất khiến các hãng xe nước ngoài này chưa thể \"cắm rễ\" sâu tại thị trường Việt Nam\n1\n.\nThực trạng sạc của người dùng xe máy điện ngoại: Đối với mảng xe hai bánh, ngoại trừ các hãng xe nội địa tích cực phát triển giải pháp sạc nhanh và đổi pin (như Selex Motors, Dat Bike)\n6\n, phần lớn người dùng các thương hiệu xe máy điện khác (bao gồm cả các hãng xe Trung Quốc như Yadea) vẫn phải sạc tại nhà\n7\n. Đây chỉ là giải pháp tạm thời và thiếu tính bền vững do tiềm ẩn nhiều rủi ro về an toàn cháy nổ tại các khu nhà cũ hay chung cư\n7\n.\n🔍 Do tài liệu trong sổ tay chưa cập nhật các kế hoạch đầu tư hạ tầng sạc mới công bố của BYD hay Wuling tại Việt Nam, tôi có thể thực hiện nghiên cứu trên web để tìm kiếm các thông tin này cho bạn không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions",
+      "source_text": "Không chỉ vậy, VinFast còn sở hữu lợi thế hạ tầng vượt trội khi đã phủ kín hơn 150.000 trạm sạc trên toàn quốc – một yếu tố then chốt quyết định hành vi mua xe điện tại Việt Nam. Việc mở rộng sản xuất tại Hà Tĩnh với các mẫu phổ thông VF 3, VF 5 và chiến lược cho thuê xe dài hạn càng củng cố vị thế “đầu tàu” trong công cuộc điện hoá giao thông của thị trường xe điện Việt. Thế nhưng, thị trường xe điện không chỉ dành riêng cho người tiên phong. Làn sóng xe điện Trung Quốc đang âm thầm bành trướng và được dự báo sẽ bùng nổ mạnh mẽ trong năm 2025. Những thương hiệu như BYD, Haima, GAC Aion… liên tục tung ra nhiều mẫu xe mới có giá thành cạnh tranh và thiết kế bắt mắt. Tuy nhiên, bài toán trạm sạc vẫn là rào cản lớn khiến các hãng xe nước ngoài chưa thể “cắm rễ” sâu tại thị trường Việt."
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Sôi động thị trường xe máy điện",
+      "source_text": "Thị phần xe máy điện trong tổng doanh số tiêu thụ xe máy toàn thị trường đã tăng từ 5,4% năm 2019 lên khoảng 12% năm 2022, dự kiến tiếp tục tăng nhanh trong thời gian tới. Nhiều chuyên gia dự báo đến năm 2035, xe điện có thể chiếm 75% thị phần xe 2 bánh nhờ chính sách ưu đãi và phát triển hạ tầng. Tin liên quan VinFast lắp 50.000 trạm đổi pin xe máy điện, chỉ 9.000 đồng 1 lần đổi (NLĐO) - VinFast triển khai 150.000 trạm đổi pin xe máy điện và ra mắt các dòng xe máy điện đổi pin trên quy mô toàn quốc."
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "Sôi động thị trường xe máy điện",
+      "source_text": "Thị phần xe máy điện trong tổng doanh số tiêu thụ xe máy toàn thị trường đã tăng từ 5,4% năm 2019 lên khoảng 12% năm 2022, dự kiến tiếp tục tăng nhanh trong thời gian tới. Nhiều chuyên gia dự báo đến năm 2035, xe điện có thể chiếm 75% thị phần xe 2 bánh nhờ chính sách ưu đãi và phát triển hạ tầng. Tin liên quan VinFast lắp 50.000 trạm đổi pin xe máy điện, chỉ 9.000 đồng 1 lần đổi (NLĐO) - VinFast triển khai 150.000 trạm đổi pin xe máy điện và ra mắt các dòng xe máy điện đổi pin trên quy mô toàn quốc."
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Sôi động thị trường xe máy điện",
+      "source_text": "Trong khi đó, kế hoạch xây dựng 150.000 trạm đổi pin cho xe máy điện của VinFast sẽ tạo áp lực lớn với những hãng xe nhỏ. Nếu không có giải pháp đột phá, các hãng xe không những không thể tăng thị phần mà còn khó tránh mất đi thị phần đang có. Tăng cường hỗ trợ đại lý, khách hàng Chủ trương hạn chế xe máy xăng tại Hà Nội và TP HCM đang thúc đẩy nhu cầu thị trường xe điện tăng vọt. Tuy nhiên, để tận dụng thời cơ, nhà sản xuất phải có chiến lược rõ ràng, đủ tầm và lâu dài. Ông Hoàng Mạnh Tân, Phó Tổng Giám đốc Tập đoàn Sơn Hà, cho hay để cạnh tranh, công ty đang tiếp tục duy trì tốt hoạt động của các đại lý, hỗ trợ giá để giữ hoạt động kinh doanh ổn định, thay vì vội vàng mở rộng thị phần bởi phải chờ chính sách cụ thể từ phía nhà nước."
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions",
+      "source_text": "Trong giai đoạn 2022–2024, hàng loạt mẫu xe điện (BEV) từ châu Âu, Trung Quốc và nội địa đã ồ ạt gia nhập thị trường. Các mẫu xe như BMW iX3, i4, Mercedes-Benz EQS, EQB, Audi e-tron hay BYD Dolphin, Wuling Bingo, Aion Y Plus… đã cho thấy mức độ quan tâm ngày càng lớn từ các hãng xe quốc tế đối với thị trường Việt. Tuy nhiên, phần lớn doanh số của các mẫu xe này vẫn là ẩn số khi không được công bố rõ ràng, tạo ra khoảng trống thông tin trong cuộc chiến thị phần. Ở thị trường xe điện nội địa, VinFast vẫn đang giữ vị thế dẫn đầu. Tính đến cuối tháng 11/2024, hãng đã bàn giao hơn 67.000 chiếc ô tô điện, con số đủ để vượt xa các đối thủ cả trong và ngoài nước."
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions",
+      "source_text": "Cú huých mang tính bước ngoặt diễn ra vào năm 2018, khi VinFast ra mắt mẫu Klara , chính thức đưa thị trường xe máy điện Việt Nam bước vào giai đoạn tăng trưởng quy mô lớn. Đồng thời, làn sóng đầu tư nội địa được tiếp nối bởi các công ty khởi nghiệp như Selex Motors (2018) , Dat Bike (2019) – tập trung vào tối ưu pin, tối ưu hiệu suất động cơ và đặc biệt là tích hợp giải pháp sạc pin nhanh và đổi pin . Tới 2024, những ông lớn quốc tế như Yadea và Tailg lần lượt xây dựng nhà máy tại Bắc Giang và Hưng Yên, cho thấy Việt Nam đang trở thành cứ điểm sản xuất xe máy điện chiến lược của khu vực."
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions",
+      "source_text": "Vấn đề hạ tầng trạm sạc xe điện tiếp tục là điểm nghẽn then chốt. Hiện tại, VinFast là hãng duy nhất có mạng lưới trạm sạc trải dài toàn quốc. Một số tên tuổi khác như Dat Bike chỉ mới bắt đầu triển khai thí điểm tại TP.HCM. Phần lớn người dùng xe máy điện vẫn sạc tại nhà – giải pháp tạm thời nhưng thiếu tính bền vững, đặc biệt tại các khu nhà cũ, nơi hệ thống điện và an toàn cháy nổ còn nhiều rủi ro. Trong khi đó, chính sách hỗ trợ xe máy điện của Nhà nước vẫn đang ở mức khởi điểm. Khác với ôtô điện được miễn lệ phí trước bạ đến năm 2027, xe máy điện chưa có ưu đãi cụ thể. Tuy nhiên, theo thông tin mới nhất từ Hà Nội, thành phố đang đề xuất cơ chế thu đổi 450.000 xe máy xăng trong khu vực vành đai 1. Dự thảo bao gồm việc miễn toàn bộ chi phí chuyển đổi như lệ phí trước bạ, phí đăng ký xe mới, đồng thời tích hợp quy hoạch các khu vực sạc xe điện vào hạ tầng đô thị."
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 7,
+    "source_names": [
+      "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions",
+      "Sôi động thị trường xe máy điện"
+    ]
+  }
+}

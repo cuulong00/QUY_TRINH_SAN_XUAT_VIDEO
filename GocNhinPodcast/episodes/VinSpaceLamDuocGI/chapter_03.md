@@ -1,0 +1,23 @@
+Nhưng vệ tinh bay trên không gian để làm gì? Câu trả lời nằm ở những kết nối ngay dưới mặt đất. Nhưng trước hết, hãy gạt bỏ hình ảnh của những vệ tinh truyền thống.
+
+Hãy tưởng tượng Vi-na-sat-một như một chiếc xe buýt khổng lồ. Nó nặng tới sáu tấn và tiêu tốn ba trăm năm mươi triệu đô la. Trong khi đó, vệ tinh của VinSpace chỉ nhỏ bằng một chiếc hộp giày.
+
+Với cấu trúc vốn ba trăm tỷ đồng, họ giải bài toán vận tải như thế nào? Họ không mua đứt một quả tên lửa đắt đỏ. Thay vào đó, họ chọn cách đi nhờ một chiếc xe tải lớn.
+
+Đó chính là chương trình Transporter Rideshare của SpaceX. Nhờ đi chung bệ phóng, giá vé rơi xuống chỉ còn ba trăm năm mươi ngàn đô la. Nhưng đi nhờ SpaceX không có nghĩa là họ cạnh tranh với hãng này.
+
+Nói một cách dễ hiểu, Starlink bán internet cho người dùng cuối. Còn VinSpace nhắm đến kết nối vạn vật cho các doanh nghiệp. Sức mạnh của chiến lược này nằm ở các chuẩn viễn thông mới nhất.
+
+Điển hình là giao thức mạng phi mặt đất Ba Gờ Tê Bê. Giao thức này cho phép thiết bị giao tiếp trực tiếp với vệ tinh. Nó sẽ tự động xử lý hiện tượng độ trễ tín hiệu. Thậm chí, vệ tinh có thể hóa thành trạm thu phát Năm Gờ trên không gian.
+
+Các mẫu xe điện VinFast đã sẵn sàng cho hạ tầng này. Tất cả nhờ vào sức mạnh của vi xử lý Snapdragon thế hệ mới. Nhưng tại sao xe điện lại cần kết nối từ vũ trụ?
+
+Thực tế, bảy mươi sáu phần trăm người lái xe thường xuyên đi qua vùng lõm sóng. Và chín mươi lăm phần trăm sẵn sàng chi trả để duy trì tín hiệu liên tục. Khi chiếc xe đi vào khu vực mất sóng, điều gì sẽ xảy ra?
+
+Hệ thống sẽ lập tức chuyển mạch dữ liệu lên quỹ đạo. Mọi thông số đo từ xa và tính năng hỗ trợ lái vẫn hoạt động xuyên suốt.
+
+Nhưng quan trọng hơn, dữ liệu này không chạy qua máy chủ quốc tế. Chúng được dội thẳng về trung tâm dữ liệu nội địa của chính họ.
+
+Đó là bài toán cốt lõi về chủ quyền dữ liệu. Băng thông có thể nhỏ, nhưng giá trị bảo vệ chiến lược lại vô cùng lớn.
+
+Nhưng để duy trì đường truyền đó, chiếc hộp giày này phải sống sót. Nó phải đối mặt với những sát thủ vô hình trên quỹ đạo.

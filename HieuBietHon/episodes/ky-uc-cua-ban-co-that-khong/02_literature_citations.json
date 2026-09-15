@@ -1,0 +1,147 @@
+{
+  "AUTH:\"Nader K\" reconsolidation": [
+    {
+      "title": "Network-level changes in the brain underlie fear memory strength.",
+      "authorString": "Haubrich J, Nader K.",
+      "pubYear": "2023",
+      "journalTitle": "Elife",
+      "doi": "10.7554/elife.88172",
+      "pmid": "38047914",
+      "citedByCount": 13
+    },
+    {
+      "title": "A novel stress-based intervention reduces cigarette use in non-treatment seeking smokers.",
+      "authorString": "Barnabe A, Gamache K, de Camargo JVP, Allen-Flanagan E, Rioux M, Pruessner J, Leyton M, Nader K.",
+      "pubYear": "2023",
+      "journalTitle": "Neuropsychopharmacology",
+      "doi": "10.1038/s41386-022-01455-6",
+      "pmid": "36175551",
+      "citedByCount": 3
+    },
+    {
+      "title": "Memory Destabilization and Reconsolidation Dynamically Regulate the PKMζ Maintenance Mechanism.",
+      "authorString": "Bernabo M, Haubrich J, Gamache K, Nader K.",
+      "pubYear": "2021",
+      "journalTitle": "J Neurosci",
+      "doi": "10.1523/jneurosci.2093-20.2021",
+      "pmid": "33888608",
+      "citedByCount": 13
+    }
+  ],
+  "AUTH:\"Tonegawa S\" engram optogenetics": [
+    {
+      "title": "Amygdala Reward Neurons Form and Store Fear Extinction Memory.",
+      "authorString": "Zhang X, Kim J, Tonegawa S.",
+      "pubYear": "2020",
+      "journalTitle": "Neuron",
+      "doi": "10.1016/j.neuron.2019.12.025",
+      "pmid": "31952856",
+      "citedByCount": 204
+    },
+    {
+      "title": "Memory engrams: Recalling the past and imagining the future.",
+      "authorString": "Josselyn SA, Tonegawa S.",
+      "pubYear": "2020",
+      "journalTitle": "Science",
+      "doi": "10.1126/science.aaw4325",
+      "pmid": "31896692",
+      "citedByCount": 821
+    },
+    {
+      "title": "Silent memory engrams as the basis for retrograde amnesia.",
+      "authorString": "Roy DS, Muralidhar S, Smith LM, Tonegawa S.",
+      "pubYear": "2017",
+      "journalTitle": "Proc Natl Acad Sci U S A",
+      "doi": "10.1073/pnas.1714248114",
+      "pmid": "29078397",
+      "citedByCount": 91
+    }
+  ],
+  "AUTH:\"Loftus EF\" \"false memories\"": [
+    {
+      "title": "Shared memories of event details in the human brain are altered by misinformation and test expectations.",
+      "authorString": "Shao X, Chen C, Loftus EF, Zhu B.",
+      "pubYear": "2026",
+      "journalTitle": "PLoS Biol",
+      "doi": "10.1371/journal.pbio.3003886",
+      "pmid": "42406796",
+      "citedByCount": 0
+    },
+    {
+      "title": "Cross-stage neural pattern similarity in the hippocampus predicts false memory derived from post-event inaccurate information.",
+      "authorString": "Shao X, Li A, Chen C, Loftus EF, Zhu B.",
+      "pubYear": "2023",
+      "journalTitle": "Nat Commun",
+      "doi": "10.1038/s41467-023-38046-y",
+      "pmid": "37085518",
+      "citedByCount": 14
+    },
+    {
+      "title": "The messy landscape of eye movements and false memories.",
+      "authorString": "Kenchel JM, Domagalski K, Butler BJ, Loftus EF.",
+      "pubYear": "2022",
+      "journalTitle": "Memory",
+      "doi": "10.1080/09658211.2020.1862234",
+      "pmid": "33356911",
+      "citedByCount": 3
+    }
+  ],
+  "\"sharp wave ripples\" memory consolidation hippocampus": [
+    {
+      "title": "Hippocampal-Cortical Circuits and Memory.",
+      "authorString": "Liu C, Harvey RE, Fernandez-Ruiz A.",
+      "pubYear": "2026",
+      "journalTitle": "Neuroscientist",
+      "doi": "10.1177/10738584261469147",
+      "pmid": "42552872",
+      "citedByCount": 0
+    },
+    {
+      "title": "Exposure to broadband noise during non-REM sleep impairs hippocampal sharp-wave ripples and memory consolidation.",
+      "authorString": "Salgado-Puga K, Kaya U, Rothschild G.",
+      "pubYear": "2026",
+      "journalTitle": "Curr Biol",
+      "doi": "10.1016/j.cub.2026.06.039",
+      "pmid": "42419296",
+      "citedByCount": 0
+    },
+    {
+      "title": "Psilocybin lengthens hippocampal sharp wave ripples",
+      "authorString": "Bozkir IK, Lashin R, Liu T, Pal D, Diba K, Kinsky NR.",
+      "pubYear": "2026",
+      "journalTitle": null,
+      "doi": "10.64898/2026.08.17.745042",
+      "pmid": null,
+      "citedByCount": 0
+    }
+  ],
+  "\"Herculano-Houzel\" \"86 billion\" neurons": [
+    {
+      "title": "Eighty-six billion and counting: do we know the number of neurons in the human brain?",
+      "authorString": "Goriely A.",
+      "pubYear": "2025",
+      "journalTitle": "Brain",
+      "doi": "10.1093/brain/awae390",
+      "pmid": "39602822",
+      "citedByCount": 15
+    },
+    {
+      "title": "Decoding Alzheimer's Disease One Cell Class at a Time.",
+      "authorString": "Darvas M, Cook DG, Scimemi A.",
+      "pubYear": "2026",
+      "journalTitle": "Cell Mol Neurobiol",
+      "doi": "10.1007/s10571-026-01685-y",
+      "pmid": "41667797",
+      "citedByCount": 0
+    },
+    {
+      "title": "RNA-binding protein family diversification correlates with neural complexity across metazoan evolution.",
+      "authorString": "Yasuda K.",
+      "pubYear": "2026",
+      "journalTitle": "iScience",
+      "doi": "10.1016/j.isci.2026.115766",
+      "pmid": "42111166",
+      "citedByCount": 1
+    }
+  ]
+}

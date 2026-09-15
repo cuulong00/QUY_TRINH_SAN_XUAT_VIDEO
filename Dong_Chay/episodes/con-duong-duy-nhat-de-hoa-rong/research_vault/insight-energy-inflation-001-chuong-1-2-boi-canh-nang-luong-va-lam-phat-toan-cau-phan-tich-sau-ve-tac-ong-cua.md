@@ -1,0 +1,318 @@
+---
+title: "[Chương 1-2] Bối cảnh năng lượng và lạm phát toàn cầu: Phân tích sâu về tác động của chiến tranh Trung Đông, đặc biệt là xung đột liên quan đến Iran, tới tắc nghẽn chuỗi cung ứng năng lượng và biến động giá dầu mỏ toàn cầu. Bối cảnh lạm phát và khủng hoảng năng lượng này đe dọa các nền kinh tế đang phát triển như thế nào, và nó củng cố thêm tính cấp bách của việc phải thiết lập một bộ máy quản trị tập trung, phản ứng nhanh (nhất thể hóa quyền lực) để chèo lái quốc gia qua khủng hoảng ra sao?"
+type: nblm-answer
+asked_at: 2026-07-20T06:01:24.040Z
+notebook_url: "https://notebooklm.google.com/notebook/0d83acca-ab53-42cc-b575-beed516fad13"
+session_id: "68471d70"
+citations_count: 41
+sources:
+  - "2025–2026 United States trade war with Canada and Mexico - Wikipedia"
+  - "Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam"
+  - "Vietnam: Refinancing rate to hold firm to support growth amid receding inflation risks"
+  - "IMF's World Economic Outlook: Global Economy in the Shadow of War - Hinrich Foundation"
+  - "The costs of the Trump administration's tariffs diverge for countries and industries so far in 2026 - Equitable Growth"
+  - "To achieve 10% growth in 2026, GDP in the last 6 months of the year must increase by 11.7%"
+  - "World Economic Outlook, April 2026: Global Economy in the Shadow of War"
+  - "Global Economic Prospects - World Bank"
+  - "Chiến Lược Việt Nam Hóa Rồng.md"
+  - "Vietnam's economy forecast to stay upbeat - VnEconomy"
+  - "Vietnam Economic Performance in 2025: GDP, FDI, and Trade"
+  - "Vietnam 2026 Outlook - A Defining Moment for Growth - KPMG agentic corporate services"
+  - "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026"
+  - "Từ 01/07/2026: Chính phủ đang chuyển mạnh từ tiền kiểm sang hậu kiểm và số hóa quy trình đầu tư xây dựng - DATA Energy"
+  - "2026 GRDP Growth Targets for Provinces and Municipalities - Vietnam+ (VietnamPlus)"
+  - "Quốc hội chính thức thông qua chủ trương đầu tư Dự án đường sắt tốc độ cao trên trục Bắc - Nam"
+---
+
+# [Chương 1-2] Bối cảnh năng lượng và lạm phát toàn cầu: Phân tích sâu về tác động của chiến tranh Trung Đông, đặc biệt là xung đột liên quan đến Iran, tới tắc nghẽn chuỗi cung ứng năng lượng và biến động giá dầu mỏ toàn cầu. Bối cảnh lạm phát và khủng hoảng năng lượng này đe dọa các nền kinh tế đang phát triển như thế nào, và nó củng cố thêm tính cấp bách của việc phải thiết lập một bộ máy quản trị tập trung, phản ứng nhanh (nhất thể hóa quyền lực) để chèo lái quốc gia qua khủng hoảng ra sao?
+
+> Asked on 2026-07-20T06:01:24.040Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0d83acca-ab53-42cc-b575-beed516fad13)
+
+## Answer
+
+Thoughts
+I. Tác động của xung đột Trung Đông (Iran) đến nguồn cung năng lượng và giá dầu toàn cầu (2025–2026)
+Giai đoạn 2025–2026 chứng kiến những biến động địa chính trị cực đoan, đặc biệt là cuộc xung đột quân sự tại khu vực Trung Đông bùng phát vào đầu năm 2026 liên quan trực tiếp đến Iran
+1
+2
+. Cú sốc này đã phá vỡ các dự báo kinh tế trước đó và đẩy hệ thống năng lượng toàn cầu vào trạng thái bất ổn nghiêm trọng:
+Tắc nghẽn các huyết mạch hàng hải chiến lược: Sự leo thang chiến sự dẫn đến cuộc khủng hoảng tại các eo biển huyết mạch, đặc biệt là sự đóng cửa của Eo biển Hormuz và các thiệt hại trực tiếp đối với hạ tầng năng lượng cốt lõi trong khu vực
+3
+4
+. Điều này làm tê liệt dòng chảy dầu mỏ và khí hóa lỏng (LNG) từ Vịnh Ba Tư ra thị trường thế giới, đẩy chi phí vận tải biển và bảo hiểm logistics tăng phi mã
+5
+.
+Biến động cực đoan của giá dầu mỏ và khí đốt: Chỉ số giá các mặt hàng năng lượng được IMF dự báo tăng vọt 19% trong năm 2026
+6
+. Giá dầu thô Brent trung bình thực tế đã bị điều chỉnh tăng tới 21,4%, dao động quanh ngưỡng 82 USD/thùng (trái ngược hoàn toàn với dự báo giảm về mức 61 USD/thùng trước khi chiến tranh xảy ra)
+2
+6
+. Ở những thời điểm căng thẳng leo thang đỉnh điểm, giá dầu thô WTI đã vượt 83 USD/thùng và dầu Brent vượt ngưỡng 90 USD/thùng
+7
+8
+. Đáng chú ý, thị trường khí tự nhiên còn chịu tổn thương nặng nề hơn cả dầu mỏ
+6
+.
+Đóng băng tiến trình giảm lạm phát: Sự gia tăng đột biến của giá năng lượng lập tức chuyển hóa thành chi phí đầu vào của toàn bộ nền kinh tế vĩ mô toàn cầu
+9
+10
+. Lạm phát toàn cầu (Headline Inflation) bị kéo ngược lên mức 4,7% trong năm 2026, làm chững lại hoàn toàn tiến trình giảm lạm phát (disinflation) vốn đã được duy trì ổn định từ đầu năm 2024
+. GDP toàn cầu dưới tác động của cuộc chiến được dự báo sẽ suy yếu chỉ còn 2,5% - 3,1% cho năm 2026
+11
+14
+.
+II. Khủng hoảng năng lượng và bão lạm phát đe dọa các quốc gia đang phát triển
+Các thị trường mới nổi và nền kinh tế đang phát triển (EMDEs) là nhóm đối tượng dễ bị tổn thương nhất trước cú sốc đa tầng này do thiếu các bộ đệm chính sách vững chắc
+9
+14
+:
+Hiệu ứng rủi ro kép (Lạm phát nhập khẩu & Mất giá tiền tệ): Đối với các quốc gia EMDEs nhập khẩu ròng năng lượng, việc giá dầu mỏ và khí đốt tăng cao đi kèm với xu hướng thắt chặt tiền tệ toàn cầu đã kích hoạt làn sóng mất giá của đồng nội tệ so với đồng USD
+. Đồng nội tệ suy yếu lại tiếp tục khuếch đại chi phí nhập khẩu năng lượng, tạo ra vòng xoáy lạm phát chi phí đẩy trong nước không thể kiểm soát
+16
+.
+Bào mòn dư địa tài khóa và gia tăng chi phí vay: Để hạ nhiệt bão giá, nhiều chính phủ phải gồng mình gánh các khoản trợ cấp năng lượng và lương thực khổng lồ, trực tiếp làm trầm trọng thêm tình trạng thâm hụt tài khóa
+17
+18
+. Sự suy giảm bền vững tài khóa, kết hợp với rủi ro "nợ ẩn" bị phanh phui, đẩy chi phí vay của các nước EMDEs lên mức cao kỷ lục, làm hạn chế khả năng tiếp cận vốn quốc tế
+14
+19
+.
+Bất ổn xã hội và sẹo kinh tế kéo dài: IMF cảnh báo các EMDEs đối mặt với rủi ro gia tăng đói nghèo, mất an ninh lương thực, đảo chiều dòng vốn đầu tư (capital flow reversals) và nguy cơ bất ổn xã hội (social unrest) khi chi tiêu an sinh bị cắt giảm để nhường chỗ cho ngân sách quốc phòng hoặc chi phí xử lý nợ
+17
+20
+.
+III. Thách thức nội tại của Việt Nam và tính cấp bách của việc tập trung quyền lực
+1. Lỗ hổng cấu trúc của nền kinh tế Việt Nam trước cú sốc ngoại sinh
+Việt Nam là một trong những nền kinh tế có độ mở lớn nhất thế giới (tổng kim ngạch thương mại tương đương 200% GDP)
+21
+. Sự phụ thuộc sâu sắc vào chuỗi cung ứng toàn cầu khiến quốc gia lập tức đón nhận toàn bộ tác động của bão lạm phát năng lượng:
+Áp lực tỷ giá và lạm phát trong nước: Dưới sức ép của lãi suất toàn cầu neo cao và regional biến động, đồng VND đã mất giá hơn 3% so với USD vào đầu năm 2026
+15
+22
+. Lạm phát CPI trong nước tăng mạnh từ mức 3,31% (năm 2025) lên 4,38% - 4,7% vào giữa năm 2026, tiệm cận trần mục tiêu 4,5% của Quốc hội
+Xuất hiện thâm hụt thương mại: Do các doanh nghiệp phải nhập khẩu lượng lớn nguyên liệu trung gian, linh kiện và năng lượng với giá đắt đỏ từ nước ngoài (đặc biệt là thâm hụt với Trung Quốc lên tới 115,6 tỷ USD năm 2025)
+26
+, Việt Nam đã ghi nhận thâm hụt thương mại 3,7 tỷ USD ngay trong quý I năm 2026 sau nhiều năm thặng dư liên tục
+22
+27
+.
+Điểm nghẽn vật lý về an ninh năng lượng: Sự bùng nổ của làn sóng FDI công nghệ cao (như bán dẫn, AI, trung tâm dữ liệu) đòi hỏi nguồn điện liên tục và chất lượng cao
+28
+. Trong khi đó, hệ thống điện truyền thống thâm dụng than đá đang quá tải
+29
+; bài học từ đợt thiếu điện năm 2023 gây thiệt hại 1,44 tỷ USD (0,3% GDP) vẫn là một lời cảnh báo nhãn tiền về sự lạc hậu của hạ tầng năng lượng nếu không được cải cách khẩn cấp
+28
+.
+2. "Nhất thể hóa quyền lực" là con đường sống còn để phản ứng nhanh và vượt khủng hoảng
+Trong cơn bão vĩ mô toàn cầu, việc duy trì một bộ máy quản trị phân tán, cồng kềnh với cơ chế "tiền kiểm" rườm rà sẽ là một án tử kìm hãm tốc độ phản ứng của quốc gia
+30
+31
+. Mô hình phân bổ nguồn lực phân tán cũ – nơi các địa phương nhỏ nắm giữ thẩm quyền can thiệp lớn tạo ra tình trạng "trống đánh xuôi, kèn thổi ngược" (nhận định của TS. Jonathan Pincus) – bắt buộc phải nhường chỗ cho mô hình Nhà nước kiến tạo tập quyền và kỹ trị thông qua chiến lược "Nhất thể hóa"
+32
+33
+.
+Sự thống nhất chỉ huy cao độ từ thượng tầng (giai đoạn 2024–2026) mang lại khả năng ra quyết sách thần tốc và đồng bộ nhằm bảo vệ nền kinh tế
+30
+:
+Cách mạng thể chế "Hậu kiểm" để giải phóng chi phí cho doanh nghiệp: Chính phủ chuyển dịch triệt để phương thức quản lý từ "tiền kiểm" sang "hậu kiểm" gắn liền với số hóa quy trình công vụ từ ngày 01/07/2026 (qua Nghị quyết 66.18, 66.19, Nghị định 217...)
+34
+35
+. Quyết sách này cắt giảm trực tiếp 50% thời gian và chi phí hành chính cho doanh nghiệp
+32
+, giúp nâng cao năng lực cạnh tranh và bù đắp biên lợi nhuận bị bào mòn bởi giá năng lượng tăng cao.
+Bứt tốc hạ tầng và năng lượng thế hệ mới: Quyền lực tập trung giúp Nhà nước thông qua các cơ chế đặc thù chưa từng có tiền lệ cho siêu dự án Đường sắt tốc độ cao Bắc - Nam trị giá 67 tỷ USD
+36
+37
+. Đồng thời, khẩn trương thực thi cơ chế Mua bán điện trực tiếp (DPPA)
+38
+và dọn đường cho các mô hình năng lượng tái tạo tích hợp hạ tầng công nghiệp (như điện gió áp mái kết hợp lưu trữ năng lượng BESS của FECON)
+39
+, giải quyết dứt điểm rủi ro an ninh năng lượng cho các nhà máy
+28
+.
+Chiến lược "Phân vai" doanh nghiệp đầu tàu (National Champions): Nhà nước không còn bao cấp dàn trải mà chủ động giao trọng trách chiến lược cho các tập đoàn mạnh nhất: Viettel, VNPT, FPT tự chủ hạ tầng số, chip bán dẫn và AI
+39
+; Hòa Phát tự chủ công nghiệp thượng nguồn (sản xuất hơn 6 triệu tấn thép đặc chủng)
+39
+40
+; THACO, Vingroup (VinSpeed) làm chủ cơ khí chế tạo nặng và phương tiện giao thông thông minh
+39
+. Ngân sách quốc gia đóng vai trò làm "vốn mồi" sạch, nhường sân chơi chủ động cho khối tư nhân tham gia đầu tư PPP để giảm tối đa gánh nặng nợ công
+41
+42
+.
+Hóa giải lằn ranh "Sợ sai" của cán bộ thực thi: Sử dụng hành lang pháp lý vững chắc của Nghị định 73/2023/NĐ-CP để khuyến khích, bảo vệ cán bộ năng động, dám nghĩ, dám làm vì lợi ích chung, đồng thời quyết liệt sàng lọc, điều chuyển những cán bộ trì trệ, né tránh trách nhiệm
+43
+44
+.
+Tựu trung, trong kỷ nguyên biến động toàn cầu 2024–2026, nhất thể hóa quyền lực không chỉ là giải pháp tối ưu hóa bộ máy, mà là công cụ duy nhất để Việt Nam kiến tạo tốc độ phản ứng chính sách vượt trội, biến các thách thức địa chính trị thành cơ hội tái cấu trúc nền kinh tế, tiến tới hiện thực hóa khát vọng "hóa rồng"
+30
+45
+.
+📊 Bạn có muốn tôi thiết lập một bảng so sánh chi tiết, hệ thống hóa toàn bộ các chính sách ưu đãi, quyền lợi, và trách nhiệm tự tuân thủ của doanh nghiệp khi cơ chế "hậu kiểm" chính thức vận hành từ ngày 01/07/2026 không?
+
+## Sources
+
+### [1] 2025–2026 United States trade war with Canada and Mexico - Wikipedia
+
+> Foreign Argentina currency swap Armenia–Azerbaijan agreement ASEAN summit Kuala Lumpur accord APEC summit Busan Summit 2025–2026 Brazil diplomatic dispute 2026 Cuban crisis Boat incident Donroe Doctrine 2025 DRC–Rwanda peace agreement Expansionism Canada Gaza Greenland Dear Jonas Iran Panama Venezuela Gaza war Gaza Strip takeover proposal Peace plan Peace summit Board of Peace Golden Dome 2025 Honduran general election alleged interference ICC sanctions 2025 India diplomatic and trade crisis May 2025 Middle East visit 61st Munich Security Conference JD Vance speech 2026 NDAA 2025 NATO summit United States intervention in Nigeria Operation Southern Spear Caribbean military buildup 2026 Venezuela intervention Death of Yohana Rodríguez International reactions Strikes on alleged drug trafficking boats Oil blockade United States v. Maduro Relations with Iran Iranian attack on US military base in Qatar US strikes on Iranian nuclear sites Iran negotiations Twelve-Day War ceasefire 2025–2026 Iranian protests massacres 2026 Middle East military buildup 2026 Iran war rationale ceasefire 2026 Strait of Hormuz crisis military campaign fuel crisis Disestablishment of Spirit Airlines naval blockade Operation Project Freedom Islamabad Talks Islamabad Memorandum Ramaphosa Oval Office meeting Russo-Ukrainian war Peace talks First Putin call Saudi Arabia meeting Minerals agreement Zelenskyy Oval Office meeting 2025 Alaska summit White House multilateral meeting 2025 Budapest summit 2026 Abu Dhabi trilateral meetings 2026 Geneva trilateral meetings 2025–2026 Syria airstrikes 2025 Palmyra ambush Trump-class battleship Trump whisperer 2025 state visit to the United Kingdom 2026 state visit to China USAID closure 2025 foreign aid pause Department of State v. AIDS Vaccine Advocacy Coalition Withdrawal from WHO Yemen attacks Houthis FTO designation Operation Rough Rider Signal group chat leaks Ras Isa oil terminal airstrikes Saada prison airstrike Ceasefire Shield of the Americas Summit State visit by Charles III to the United States
+
+### [2] Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam
+
+> Tuy nhiên, bước sang đầu năm 2026, cục diện toàn cầu tiếp tục bị thử thách bởi sự bùng phát của xung đột quân sự quy mô lớn tại khu vực Trung Đông, làm đảo lộn các dự báo trước đó [cite: 1, 4]. Quỹ Tiền tệ Quốc tế (IMF) trong báo cáo Triển vọng Kinh tế Toàn cầu tháng 4 năm 2026 đã điều chỉnh hạ dự báo tăng trưởng thế giới xuống còn 3,1% cho năm 2026 và 3,2% cho năm 2027 trong kịch bản xung đột giới hạn về thời gian và phạm vi [cite: 1]. Xung đột này đã đẩy giá năng lượng toàn cầu tăng đột biến, với giá dầu thô Brent trung bình được điều chỉnh tăng 21,4%, dao động quanh ngưỡng 82 USD/thùng trong năm 2026, trái ngược hoàn toàn với dự báo giảm về mức 61 USD/thùng trước khi chiến tranh xảy ra [cite: 3, 4].
+
+### [3] Vietnam: Refinancing rate to hold firm to support growth amid receding inflation risks
+
+> Economic growth has been a regional standout, although falling short of the government's ambitious target of above 10% this year. Real GDP growth accelerated to 8.4% yoy in 2Q26, building on an upwardly revised 7.9% yoy in 1Q26, as the economy weathered the Strait of Hormuz disruptions. Export-oriented manufacturing underpinned by electronics momentum remained the primary growth driver in 2Q26, complemented by robust FDI and resilient domestic demand. We expect these growth drivers to sustain over the coming months, and therefore raise our 2026 GDP growth forecast to 8.0% from 6.5%. A managed de-escalation of US-Iran tensions and resumption of flows through Hormuz reduces the risks of escalating input cost pressures, severe supply chain disruptions, and significantly weakened external demand. The SBV can afford to keep monetary policy supportive to sustain growth, as upside inflation risks recede, although with vigilance over the currency.
+
+### [4] IMF's World Economic Outlook: Global Economy in the Shadow of War - Hinrich Foundation
+
+> Conclusion The war in the Middle East has forced a downward revision to global growth prospects, driven by the closure of the Strait of Hormuz and damage to critical energy infrastructure. Prolonged hostilities risk a severe energy shock. Policy responses should focus on targeted, temporary fiscal support, rebuilding buffers, and correcting domestic imbalances. Such adjustment is best achieved through fiscal, structural, and industrial reforms rather than trade restrictions, which risk undermining growth. Countries should therefore cooperate to restore stability by deepening trade integration within predictable, transparent, and durable trade policy frameworks.
+
+### [5] The costs of the Trump administration's tariffs diverge for countries and industries so far in 2026 - Equitable Growth
+
+> Overview The first 4 months of 2026 saw continued seismic changes in U.S. trade policy. In late February, the U.S. Supreme Court struck down the Trump administration's use of the International Emergency Economic Powers Act to impose broad, country-specific tariffs under the guise of a national economic emergency, triggering a process requiring the federal government to refund to U.S. importers as much as $175 billion . The administration responded by declaring a blanket 10 percent tariff under a different legal authority, Section 232 of the Trade Expansion Act of 1962, and by launching dozens of new investigations into alleged unfair trading practices by U.S. trading partners under Section 301 of the Trade Act of 1974, with promises of new sectoral tariffs. Also beginning in late February, the war with Iran has added to general economic uncertainty and compounded tariff costs as shipping and energy costs have risen.
+
+### [6] IMF's World Economic Outlook: Global Economy in the Shadow of War - Hinrich Foundation
+
+> Growth and disinflation, interrupted: The reference forecast assumes the war lasts a few more weeks , disruptions fade, and production and exports from the region normalize by mid-2026 . It also assumes uncertainty around trade, economic policy, and geopolitics stays elevated through 2027 . Energy commodity prices are projected to rise 19% in 2026 (versus a small decline in the October 2025 WEO ), with oil up 21.4% , consistent with an average petroleum spot price index of about US$82 per barrel . Natural gas is expected to be hit harder than oil , and food prices are also projected to rise on higher energy, fertilizer, and transportation costs. Monetary policy remains divergent across major economies, with the US federal funds rate projected to decline gradually to a terminal rate of about 3.1% by end of 2027 ; the euro area policy rate expected to increase by 50 basis points during 2026 ; and Japan's policy rate projected to rise toward a neutral setting of about 1.5% . Advanced-economy fiscal policy is projected to be broadly neutral in 2026 and tighten later, even as deficits widen. The US fiscal-balance-to-GDP (gross domestic product) ratio deteriorates by 0.7 percentage point to 7.5% in 2026 ; Germany's deficit widens by more than one percentage point to 3.8% ; and Japan's deficit widens by one percentage point of GDP. US public debt rises from 124% of GDP ( 2025 ) to 142% ( 2031 ), euro area debt from 87% to 90% , and emerging market and developing economy public debt from 74% to 86% . Projections treat trade policies as they stood at the end of March as permanent . The US effective tariff rate used in the forecast is 13.5% (down from 18.7% in the October 2025 forecast); the rest-of-world effective tariff rate on imports from the US is unchanged at 3.5% . Before the conflict, the “pre-conflict” bottom-up path implied global growth of 3.4% in 2026 and 3.2% in 2027 ; under the reference (short-lived war) forecast , global growth slows to 3.1% in 2026 and 3.2% in 2027 , and the report supplements this baseline with model-based downside scenarios in case the conflict becomes more prolonged or intense.
+
+### [7] To achieve 10% growth in 2026, GDP in the last 6 months of the year must increase by 11.7%
+
+> Gasoline and oil prices today, July 20: World gasoline and oil prices continue to increase sharply. WTI oil exceeds 83 USD/barrel; Brent oil exceeds 90 USD/barrel. [ Lam Dong to launch the first aluminum ingot product in Vietnam ](https://news.laodong.vn/kinh-doanh/lam-dong-sap-ra-mat-san-pham-nhom-thoi-dau-tien-tai-viet-nam-1737726.ldo) Lam Dong - A series of large-scale industrial projects put into operation, expanding capacity, are expected to create growth momentum for the industry... [ Bank interest rates today July 20: 6-month term up to 9% ](https://news.laodong.vn/kinh-doanh/lai-suat-ngan-hang-hom-nay-207-ky-han-6-thang-len-den-9-1737686.ldo)
+
+### [8] To achieve 10% growth in 2026, GDP in the last 6 months of the year must increase by 11.7%
+
+> Gasoline and oil prices today, July 19: World gasoline and oil prices simultaneously increased sharply. WTI oil and Brent oil increased by 15.5% and 15.9% respectively last week. [ Bank interest rates today July 19: 12-month term highest 10% ](https://news.laodong.vn/kinh-doanh/lai-suat-ngan-hang-hom-nay-197-ky-han-12-thang-cao-nhat-10-1737268.ldo) Bank interest rates today July 19: Special interest rates for 12-month terms are high. Summary of savings interest rates from more than 30 banks most recently.
+
+### [9] World Economic Outlook, April 2026: Global Economy in the Shadow of War
+
+> The estimates and projections in the April 2026 World Economic Outlook Chapter 1 and Statistical Appendix are based on statistical information available through April 1, 2026, but may not reflect the latest published data in all cases. Full Report Executive Summary Foreword Blog Press Briefing April 2026 Database * * ✕ Projections Table Download Table * * Chapters in the Report CHAPTER 1: GLOBAL PROSPECTS AND POLICIES The global economy is again disrupted, this time with the outbreak of war in the Middle East. Rising commodity prices, firmer inflation expectations, and tighter financial conditions are testing the recent resilience. Under the assumption of a limited conflict, global growth is projected at 3.1 percent in 2026 and 3.2 percent in 2027, below recent outcomes and well under prepandemic averages. Global inflation is expected to tick up in 2026 and resume its decline in 2027. Pressures are concentrated in emerging market and developing economies, especially commodity importers with preexisting vulnerabilities. Risks are decisively on the downside. A prolonged conflict, deeper geopolitical fragmentation, disappointment over AI-driven productivity, or renewed trade tensions could weaken growth and unsettle markets. High public debt and eroded policy buffers add vulnerability. Policies should foster adaptability, enhance credibility, and reinforce international cooperation.
+
+### [10] IMF's World Economic Outlook: Global Economy in the Shadow of War - Hinrich Foundation
+
+> ACCESS REPORT SAMPLE HEADER TEXT The International Monetary Fund's April 2026 publication World Economic Outlook: Global Economy in the Shadow of War assesses global growth against the backdrop of the war in the Middle East and its spillover effects on inflation, commodity markets, and financial conditions. The report projects that activity will slow to 3.1% in 2026 and 3.2% in 2027, below recent outcomes and well under pre-pandemic averages. Inflation will rise modestly before easing, as downside risks dominate despite potential offsets from faster productivity gains driven by artificial intelligence (AI) or easing trade tensions.
+
+### [11] Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam
+
+> Chỉ tiêu vĩ mô toàn cầu Năm 2024 Năm 2025 (Ước tính) Năm 2026 (Dự báo điều chỉnh) Tăng trưởng GDP toàn cầu 3,3% [cite: 5] 3,2% [cite: 5] 2,5% - 3,1% [cite: 1, 6] Tăng trưởng GDP các nước phát triển 1,8% [cite: 1] 1,5% [cite: 5] 1,8% [cite: 1] Tăng trưởng GDP các nước EMDEs 4,0% [cite: 5] 3,8% [cite: 3] 3,9% [cite: 1] Lạm phát Headline toàn cầu 4,1% [cite: 7] 4,1% - 4,7% [cite: 7, 8] 3,8% - 4,7% [cite: 7, 8] Giá dầu thô Brent (USD/thùng) ~80 [cite: 4] 66 - 82 [cite: 3, 4] 61 - 82 [cite: 3, 4] Mặc dù nền kinh tế thế giới thể hiện sức chống chịu tốt hơn dự báo nhờ sự gia tăng của tỷ trọng năng lượng tái tạo và giảm cường độ tiêu thụ năng lượng trên mỗi đơn vị GDP, tiến trình giảm lạm phát toàn cầu (disinflation) bắt đầu có xu hướng chững lại [cite: 8]. Lạm phát toàn cầu được dự báo duy trì ở mức 4,7% trong năm 2026, buộc các ngân hàng trung ương lớn phải duy trì chính sách tiền tệ thắt chặt trong thời gian dài hơn kỳ vọng [cite: 6, 8]. Sự bất ổn này được củng cố bởi cuộc khảo sát rủi ro toàn cầu của Diễn đàn Kinh tế Thế giới năm 2026, nơi 50% số người được hỏi dự báo một triển vọng u ám và hỗn loạn trong ngắn hạn, tăng 14 điểm phần trăm so với cuộc khảo sát trước đó, với "đối đầu địa kinh tế" và "xung đột vũ trang" là các rủi ro hàng đầu [cite: 2, 9].
+
+### [14] Global Economic Prospects - World Bank
+
+> Global Economic Prospects Global Economic Prospects This page in: English Español Русский 中文 Português العربية 日本語 Français This page in: English Español Русский 中文 Português العربية 日本語 Français Global Economic Prospects Overview Foreword Outlook Current Issues Selected Topics Downloads on selection, highlighted content ABOUT Overview Foreword Outlook Current Issues Selected Topics Downloads Navigating a Cloudy Outlook As the Middle East conflict drives sharp energy price increases, global growth is projected to slow to 2.5 percent in 2026, with emerging market and developing economies (EMDEs) facing the weakest per capita income growth since the pandemic. Risks remain skewed to the downside and include escalating hostilities, further commodity market disruptions, and additional geopolitical strains, while broader AI adoption offers some upside. Policy action is critical: globally to safeguard energy and food security and advance the energy transition, and domestically to control inflation, strengthen fiscal sustainability, and support job creation. Rising debt is driving up EMDE borrowing costs, particularly for those most indebted, underscoring the need for stronger revenue mobilization and improved debt management. For commodity exporters, building fiscal resilience will also require strong institutional frameworks and revenue diversification.
+
+### [15] Vietnam: Refinancing rate to hold firm to support growth amid receding inflation risks
+
+> SBV held rates at 4.50%. Group Research - Econs, Chua Han Teng 7 Jul 2026 Have a question? Yes, contact me Created with Sketch. Print Related Insights ASEAN-6 markets: Bonds have been more compelling than equities 17 Jul 2026 South Korea markets: Twin tightening – rate hike and ETF regulation 17 Jul 2026 North Asia rates: The diverging monetary policy trades 17 Jul 2026 Photo credit: Unsplash/Adobe Stock Photo Read More The State Bank of Vietnam (SBV) kept its refinancing rate unchanged at 4.50% in 1H26, and we expect this steady stance to extend until the end of 2026. Although the Vietnamese dong has been hovering on the weaker end of its trading band against the US dollar in 2Q26, it has remained broadly stable with a slight appreciation bias, despite bouts of regional FX volatility driven by Middle East tensions and hawkish re-pricing of US Fed interest rate expectations. At the same time, headline inflation eased and moved closer to its 2026 target of 4.5% at 4.7% yoy in June 2026 from above 5% yoy in April and May. Transport inflation moderated, as global crude oil prices corrected to their pre-US-Iran war lows following the US-Iran interim peace deal. These factors have reduced the urgency for defensive monetary policy tightening as policymakers balance their economic growth objective.
+
+### [16] IMF's World Economic Outlook: Global Economy in the Shadow of War - Hinrich Foundation
+
+> Higher energy and food prices are feeding directly into global costs and indirectly into inflation expectations. Commodity-importing emerging market and developing economies face disproportionate risks , as currency depreciation amplifies higher commodity prices. The shock comes less than one year after major shifts in US trade policy . Countries are accelerating new trade partnerships . Yet global uncertainty remains historically high , with key decision points looming in July 2026, including the US-Mexico-Canada Agreement review and potential tariff extensions. Activity in ** China and the US** has exceeded expectations, but growth is imbalanced — China's exports are strong while domestic demand lags; the US shows solid output but weak employment growth, raising downside risks alongside geopolitical strains.
+
+### [17] Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam
+
+> Sự gia tăng căng thẳng địa chính trị đã thúc đẩy các quốc gia bước vào một làn sóng chạy đua ngân sách quốc phòng [cite: 1]. Phân tích lịch sử của IMF chỉ ra rằng, trong một chu kỳ bùng nổ chi tiêu quốc phòng điển hình, ngân sách dành cho quân sự thường tăng trung bình khoảng 2,7 điểm phần trăm GDP trong vòng hai năm rưỡi, với gần hai phần ba được tài trợ thông qua thâm hụt tài khóa [cite: 1]. Hệ quả của quá trình này là sự suy giảm nghiêm trọng về bền vững tài khóa toàn cầu, thâm hụt ngân sách tăng trung bình 2,6 điểm phần trăm GDP, nợ công tăng thêm 7 điểm phần trăm trong vòng ba năm và cán cân đối ngoại bị tổn hại nặng nề [cite: 1]. Đối với các quốc gia trực tiếp xảy ra chiến sự, nợ công có thể nhảy vọt tới 14 điểm phần trăm GDP trong khi các chi tiêu an sinh xã hội bị cắt giảm mạnh mẽ, để lại những vết sẹo kinh tế kéo dài và làm suy yếu năng lực phục hồi của khu vực tư nhân [cite: 1].
+
+### [18] IMF's World Economic Outlook: Global Economy in the Shadow of War - Hinrich Foundation
+
+> How to apply the insights Governments must manage a renewed energy‑driven supply shock while preserving macroeconomic credibility in an environment of elevated uncertainty. With energy prices projected to rise sharply in 2026 and global growth revised down to 3.1%, policy priorities should focus on anchoring inflation expectations, avoiding procyclical fiscal expansion, and targeting support to the most vulnerable households and commodity‑importing economies rather than broad‑based subsidies. Monetary policy divergence will likely persist, requiring clear communication to prevent financial market stress, while fiscal policy must balance near‑term stabilization against worsening debt dynamics, particularly as public debt ratios continue to climb in advanced and emerging economies alike. Trade policy assumptions that treat current tariffs as permanent underscore the need for greater predictability and restraint to avoid compounding supply shocks. Finally, the wide dispersion of growth outcomes across scenarios highlights the urgency of rebuilding buffers, strengthening energy and supply chain resilience, and advancing structural reforms to lift medium‑term growth potential amid sustained geopolitical fragmentation.
+
+### [19] Global Economic Prospects - World Bank
+
+> Navigating Volatility: Fiscal Policy and Commodity Price Swings Recent commodity market disruptions have brought renewed attention to the persistent fiscal challenges faced by commodity-exporting emerging market and developing economies (EMDEs). Fiscal positions in these economies tend to be weaker than those in other EMDEs, reflecting lower and more volatile revenues, commodity price swings, and limited buffer accumulation in good times. Fiscal responses to commodity price shocks suggest that revenue windfalls are gradually spent rather than saved. Although sovereign wealth funds and fiscal rules have helped smooth spending over longer-lasting commodity cycles, they offer limited protection when spending pressures intensify after commodity shocks. The policy agenda calls for credible fiscal rules, well-governed sovereign wealth funds, independent fiscal councils, strengthened debt management, revenue diversification, and robust institutions. Report Highlights Charts The Costs of Hidden Debt Hidden government debt—liabilities that governments have already incurred but have not been fully disclosed—can undermine fiscal sustainability and is associated with significantly higher costs of borrowing. This box explores how emerging market and developing economy (EMDE) borrowing costs respond when hidden debts are revealed and assesses the associated policy implications. Hidden debt revelations are associated with large and significant increases in sovereign spreads. These hidden debt episodes also underscore the critical need to fill existing gaps in EMDE debt transparency practices. Box Charts Selected Topics, 2015-26 Explore a comprehensive archive of hundreds of analytical pieces from the biannual Global Economic Prospects report, organized by economic subject matter. Spanning reports from 2015 to the present, this feature provides direct access to in-depth analyses on growth and business cycles, monetary and exchange rate policies, fiscal policies, and more—offering a valuable resource for researchers, policymakers, and analysts. Growth and Business Cycles
+
+### [20] IMF's World Economic Outlook: Global Economy in the Shadow of War - Hinrich Foundation
+
+> Risks to the outlook: Downside dominates: The balance of risks has shifted further to the downside , driven primarily by the risk of a more protracted Middle East conflict, with upside tailwinds from AI-driven activity or accommodative financial conditions likely to be outweighed by conflict-related shocks. A one-standard-deviation increase in geopolitical risk is associated with a 0.8% decline in real GDP after one year, a 2.5% higher price level after three years, and a 1.8% nominal exchange rate depreciation after one year; only about 10% of the GDP impact comes directly from higher oil prices. Commodity-importing economies, especially those with limited reserves and weaker policy frameworks, risk rising poverty, food insecurity, balance-of-payments stress, capital flow reversals, and social unrest . Sub-Saharan Africa is particularly exposed, compounded by declining official development assistance and weakening net Chinese lending. Elevated public debt raises the risk of sharp repricing of borrowing costs. Rising protectionism , new tariffs, or non-tariff measures on inputs such as rare earths could disrupt supply chains and further depress global growth through retaliation and bottlenecks. Faster-than-expected AI adoption could lift global growth by up to 0.3 percentage point in the near term and 0.1%–0.8% in the medium term, while coordinated structural reforms or a broad reduction in US tariffs could raise near-term global growth by more than 0.5 percentage point and up to 0.6 percentage point , respectively, provided complementary energy, labor, and trade policies are in place.
+
+### [21] Chiến Lược Việt Nam Hóa Rồng.md
+
+> 3. Bối Cảnh Toàn Cầu, Địa Chính Trị Và Cú Sốc Thuế Quan Việt Nam đang nỗ lực bứt tốc trong một môi trường quốc tế đầy biến động, nơi xu hướng toàn cầu hóa đang bị thách thức bởi sự phân mảnh địa chính trị và chủ nghĩa bảo hộ thương mại cực đoan. 3.1. Độ Mở Kinh Tế Và Những Lỗ Hổng Chiến Lược Việt Nam sở hữu một nền kinh tế có độ mở cực kỳ lớn, với tổng kim ngạch thương mại tương đương 200% GDP và nguồn vốn FDI giải ngân năm 2025 đạt mức kỷ lục 27,62 tỷ USD. Sự phụ thuộc sâu rộng vào thương mại toàn cầu đồng nghĩa với việc nền kinh tế vô cùng nhạy cảm trước mọi cú sốc ngoại sinh. Các cuộc xung đột tại Trung Đông, sự gián đoạn chuỗi cung ứng hàng hải, và áp lực lạm phát thế giới đã làm gia tăng đáng kể chi phí nhập khẩu năng lượng và nguyên vật liệu của Việt Nam, kéo theo rủi ro bào mòn biên độ lợi nhuận của khối doanh nghiệp.
+
+### [22] Vietnam's economy forecast to stay upbeat - VnEconomy
+
+> Inflationary pressures have intensified as fuel prices rise. Vietnam's inflation increased to 4.7 per cent in March 2026 and climbed further to 5.5 per cent in April after fuel subsidies were partially withdrawn. The report projected inflation would average slightly above 4 per cent for the full year. External balances have also come under pressure. Vietnam recorded its first quarterly trade deficit in five years in the first quarter of 2026, at $3.7 billion, as imports rose faster than exports. Meanwhile, the VND has weakened by just over 3 per cent against the USD since the beginning of the year, while foreign exchange reserves remained at around two months of import cover. Structural challenges Beyond the short-term risks, the WB emphasized the importance of addressing longer-term structural challenges. The report pointed to persistent imbalances between foreign-invested enterprises (FIEs) and domestic enterprises, describing Vietnam's economy as increasingly characterized by a “dual economy.” While globally-integrated FIEs continue to drive exports, manufacturing, and productivity growth, the domestic private sector remains fragmented and less integrated into supply chains.
+
+### [23] Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam
+
+> Chỉ tiêu kinh tế vĩ mô Việt Nam Năm 2024 Năm 2025 (Thực tế) Năm 2026 (Kế hoạch / Dự báo) Tăng trưởng GDP thực tế 7,1% [cite: 34] 8,02% [cite: 31] 5,6% - 10,0% [cite: 36, 37, 38] GDP bình quân đầu người (USD) 4.700 [cite: 39] 5.026 [cite: 31] Tiếp tục tăng [cite: 31] Lạm phát trung bình (CPI) 3,63% [cite: 39] 3,31% [cite: 31] 4,38% - 4,9% [cite: 40, 41] Vốn FDI giải ngân (tỷ USD) 25,35 [cite: 42] 27,62 [cite: 42] Dự kiến duy trì mức cao [cite: 31] Cán cân thương mại hàng hóa Thặng dư [cite: 30] Thặng dư [cite: 34] Thâm hụt cục bộ trong ngắn hạn [cite: 33, 43]
+
+### [26] Vietnam Economic Performance in 2025: GDP, FDI, and Trade
+
+> Transform Information into Strategy with Tailored Intelligence United States: Vietnam's largest export market, with export turnover of US$153.2 billion and a trade surplus of US$134 billion. European Union: A key surplus market, with Vietnam recording a trade surplus of US$38.6 billion. China: Vietnam's largest source of imports, with import turnover of US$186 billion and a widening trade deficit of US$115.6 billion. South Korea: Trade deficit expanded to US$31.6 billion, reflecting continued reliance on Korean inputs and components. ASEAN: Trade deficit widened to US$14.2 billion, highlighting persistent intra-regional import dependence.
+
+### [27] Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam
+
+> Điểm đáng chú ý trong nửa đầu năm 2026 là sự xuất hiện trở lại của tình trạng thâm hụt thương mại sau nhiều năm thặng dư liên tục [cite: 33, 43]. Trong quý I năm 2026, Việt Nam ghi nhận mức thâm hụt thương mại 3,7 tỷ USD do các doanh nghiệp tăng cường nhập khẩu nguyên liệu trung gian để chuẩn bị cho các đơn hàng cuối năm [cite: 33]. Mặc dù vậy, dòng vốn FDI vẫn duy trì vị thế là điểm sáng nâng đỡ nền kinh tế [cite: 45, 46]. Trong quý I năm 2026, tổng vốn FDI đăng ký đạt hơn 15,2 tỷ USD, tăng 42,9% so với cùng kỳ năm trước, trong khi vốn giải ngân đạt mức cao nhất trong 5 năm qua với 5,41 tỷ USD [cite: 45, 46]. Sự phân bố dòng vốn FDI cho thấy sự tập trung rõ rệt:
+
+### [28] Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam
+
+> Bên cạnh đó, an ninh năng lượng đã nổi lên như một điểm nghẽn vật lý trực tiếp kìm hãm dòng vốn đầu tư công nghệ cao [cite: 47, 50]. Sự bùng nổ của các khu công nghiệp chế biến chế tạo tại miền Bắc, đặc biệt là các dự án sản xuất chất bán dẫn và linh kiện điện tử vốn đòi hỏi nguồn điện chất lượng cao và liên tục, đã đẩy nhu cầu phụ tải tăng vượt quá khả năng cung ứng của hệ thống điện quốc gia [cite: 47]. Thiệt hại kinh tế từ đợt khủng hoảng thiếu điện năm 2023 lên tới 1,44 tỷ USD (tương đương 0,3% GDP) là một minh chứng rõ ràng cho thấy sự lạc hậu của hạ tầng năng lượng [cite: 47]. Nhiều dự án nguồn điện và lưới điện truyền tải liên tục bị chậm tiến độ do các vướng mắc về thủ tục pháp lý, cơ chế tài chính và sự kiểm soát giá điện cứng nhắc của nhà nước, khiến cho việc thu hút các nhà đầu tư tư nhân vào hạ tầng năng lượng gặp nhiều trở ngại [cite: 47].
+
+### [29] Vietnam 2026 Outlook - A Defining Moment for Growth - KPMG agentic corporate services
+
+> Total emissions (MtCO2e) 431.2 388.1 364.4 234.8 231.6 69.2 38.6 % of global emissions 0.9% 0.8% 0.8% 0.5% 0.5% 0.1% 0.1% The country’s rapid economic growth, urbanization, and industrialization have been powered by a coal-dependent energy supply that creates significant greenhouse gas (GHG) emissions. At the COP26 climate conference, Vietnam joined the pledge to reduce global GHG emissions by 2030, and committed to bring net emissions to zero by the middle of the century. Number of establishments subject to GHG inventory(1)
+
+### [30] Chiến Lược Việt Nam Hóa Rồng.md
+
+> Nhất Thể Hóa Và Kỷ Nguyên Vươn Mình Của Dân Tộc: Lộ Trình "Hóa Rồng" Của Việt Nam Trong Kỷ Nguyên Biến Động Toàn Cầu Việt Nam đang đứng trước một ngã rẽ mang tính lịch sử, một thời khắc được giới hoạch định chính sách và giới lãnh đạo cấp cao định danh là "kỷ nguyên vươn mình của dân tộc". Sau chặng đường gần bốn thập kỷ Đổi mới, nền kinh tế đã đạt được những thành tựu to lớn, chuyển mình từ một quốc gia bị tàn phá bởi chiến tranh thành một trung tâm sản xuất năng động của khu vực. Tuy nhiên, mô hình tăng trưởng dựa dẫm vào lao động giá rẻ, tài nguyên thiên nhiên và thâm dụng vốn đang tiến sát đến giới hạn biên của nó. Để bước qua bẫy thu nhập trung bình và hiện thực hóa khát vọng trở thành quốc gia phát triển, thu nhập cao vào năm 2045, Việt Nam không thể tiếp tục vận hành trên một cỗ máy hành chính cũ kỹ, phân tán và thiếu tính quyết đoán. Trong bối cảnh đó, sự kiện định hình lại cấu trúc thượng tầng mang tên "nhất thể hóa" trong giai đoạn 2024-2026 không đơn thuần là một phép cộng về nhân sự, mà là một cuộc cách mạng về phương thức quản trị, nhằm tập trung hóa quyền lực để kiến tạo một Nhà nước hành động có năng lực thực thi sắc bén. Báo cáo nghiên cứu này sẽ đi sâu phân tích bối cảnh lịch sử, cấu trúc thể chế, động lực tăng trưởng kinh tế, áp lực địa chính trị, cũng như nghịch lý nhân khẩu học, nhằm làm rõ con đường mà Việt Nam đang lựa chọn để thực hiện cú nhảy vọt "hóa rồng" so với quỹ đạo của các quốc gia Đông Á.
+
+### [31] Chiến Lược Việt Nam Hóa Rồng.md
+
+> Những điểm khác biệt mang tính thời đại: Bối cảnh và Sứ mệnh: Dưới thời Chủ tịch Hồ Chí Minh, đất nước chìm trong khói lửa chiến tranh. Sứ mệnh của nhất thể hóa lúc bấy giờ là đánh đuổi thực dân, đế quốc, giành và bảo vệ nền độc lập dân tộc, kiến thiết một nhà nước non trẻ1. Ngược lại, giai đoạn hiện tại là thời bình. Sứ mệnh của việc tập trung quyền lực là để bứt phá kinh tế, vượt qua "bẫy thu nhập trung bình" và đưa đất nước bước vào "kỷ nguyên vươn mình của dân tộc"7. Kẻ thù và Thách thức: Trong quá khứ, kẻ thù trực tiếp là ngoại xâm, giặc đói và giặc dốt. Ngày nay, kẻ thù lớn nhất lại nằm ở chính lực cản nội tại: bộ máy hành chính cồng kềnh, những "điểm nghẽn" thể chế cản trở sự phát triển, áp lực khủng khiếp từ tình trạng già hóa dân số ("chưa giàu đã già"), và những cú sốc địa chính trị, thuế quan từ bên ngoài9. Công cụ và Phương thức: Thời chiến đòi hỏi việc huy động tối đa sức mạnh đại đoàn kết toàn dân tộc cho mặt trận quân sự và hậu phương. Còn hiện tại, công cụ để "hóa rồng" là cải cách thể chế quyết liệt (chuyển mạnh từ "tiền kiểm" sang "hậu kiểm"), ứng dụng khoa học công nghệ (chuyển đổi số, công nghiệp bán dẫn, AI), và hội nhập sâu rộng vào chuỗi cung ứng toàn cầu12.
+
+### [32] Chiến Lược Việt Nam Hóa Rồng.md
+
+> 1.3. Kỷ Nguyên Vươn Mình Và Giải Phẫu "Điểm Nghẽn Của Điểm Nghẽn" Bước vào giai đoạn 2024-2026, Việt Nam đối mặt với sự cấp thiết phải chuyển đổi mô hình quản trị. Các nhà hoạch định chính sách cấp cao đã thẳng thắn chỉ ra ba điểm nghẽn lớn nhất kìm hãm sự bứt phá của đất nước: hạ tầng, nhân lực và thể chế. Trong đó, thể chế được định danh là "điểm nghẽn của điểm nghẽn". Đặc trưng của điểm nghẽn này bao gồm cấu trúc bộ máy hành chính cồng kềnh, hệ thống pháp luật chồng chéo, tư duy quản lý nặng về "tiền kiểm" dẫn đến cơ chế xin-cho, và tình trạng đùn đẩy trách nhiệm của cán bộ thực thi. Hậu quả là nhiều nguồn lực quốc gia bị ách tắc, các siêu dự án hạ tầng chậm tiến độ, và môi trường kinh doanh chưa đủ sức cạnh tranh toàn cầu. Tiến sĩ Jonathan Pincus, một chuyên gia kinh tế kỳ cựu từng là Kinh tế gia trưởng của Chương trình Phát triển Liên Hợp Quốc (UNDP) tại Việt Nam, đã chỉ ra một nguyên nhân sâu xa: hệ thống phân bổ nguồn lực của Việt Nam, đặc biệt là trong đầu tư công, đang ở mức độ phân tán và phi tập trung bậc nhất thế giới. Các địa phương có quy mô nhỏ nhưng lại nắm giữ quyền lực quá lớn trong việc can thiệp vào các dự án trọng điểm, tạo ra hiện tượng "trống đánh xuôi, kèn thổi ngược" giữa Trung ương và địa phương, khiến Việt Nam khó lòng dồn lực để hoàn thành dứt điểm các ưu tiên chiến lược tầm cỡ quốc gia như cách mà Trung Quốc hoặc Hàn Quốc đã làm được. Việc chuyển đổi từ cấu trúc lãnh đạo phân mảnh sang mô hình bộ máy quản trị hợp nhất (nhất thể hóa) giúp triệt tiêu các nút thắt về độ trễ hành chính, loại bỏ sự cản trở của lợi ích cục bộ địa phương, từ đó tạo ra một luồng thực thi chính sách xuyên suốt, trực tiếp thúc đẩy các siêu dự án kinh tế và hạ tầng. Quyết định bầu đồng chí Tô Lâm giữ chức vụ Tổng Bí thư và Chủ tịch nước vào năm 2024, và tái đắc cử chức vụ Chủ tịch nước nhiệm kỳ 2026-2031 tại Kỳ họp thứ nhất Quốc hội khóa XVI, cùng với việc kiện toàn bộ máy Chính phủ dưới sự điều hành của Thủ tướng kỹ trị Lê Minh Hưng, thể hiện quyết tâm chính trị mạnh mẽ nhằm hợp nhất quyền lực. Mô hình lãnh đạo này không nhằm mục đích thâu tóm quyền lực cá nhân, mà hướng tới việc cá nhân hóa trách nhiệm của người đứng đầu, tạo ra một cỗ máy nhà nước kiến tạo (developmental state) đủ năng lực tháo gỡ rào cản thể chế, chuyển mạnh phương thức quản lý từ "tiền kiểm" sang "hậu kiểm" và cắt giảm ít nhất 50% chi phí và thời gian thực hiện thủ tục hành chính.
+
+### [33] Chiến Lược Việt Nam Hóa Rồng.md
+
+> 5.2. Sự Lựa Chọn Của Việt Nam: Hội Tụ Về Mô Hình Kỹ Trị Và Tập Trung Quyền Lực Có thể thấy, quá trình "nhất thể hóa" lãnh đạo cấp cao và đợt tái cấu trúc bộ máy nhà nước của Việt Nam trong giai đoạn 2024-2026 đang phản chiếu mạnh mẽ những đặc tính cốt lõi của mô hình Nhà nước kiến tạo Đông Á15. Nhận thức được rằng hệ thống phi tập trung cũ đã tạo ra vô số "điểm nghẽn" đe dọa sự sống còn của nền kinh tế, ban lãnh đạo Việt Nam đã quyết định chấm dứt sự phân mảnh quyền lực. Việc hợp nhất vai trò của Tổng Bí thư và Chủ tịch nước, đi kèm với việc siết chặt kỷ luật nội bộ thông qua chiến dịch phòng chống tham nhũng, là cách thức Việt Nam xây dựng một cấu trúc chỉ huy thống nhất, từ đó áp đặt ý chí phát triển lên toàn bộ hệ thống. Thay vì sao chép một cách máy móc, con đường hóa rồng của Việt Nam hiện nay là sự kết hợp giữa tư duy kỹ trị, điều hành tập trung của bộ máy nhà nước (tương tự Singapore) và chiến lược ép buộc chuyển giao công nghệ, đổi mới sáng tạo (học hỏi từ Đài Loan, Hàn Quốc). Bằng việc tinh gọn bộ máy, phân cấp phân quyền triệt để trong thực thi nhưng tập trung tuyệt đối trong định hướng, Việt Nam đang đánh đổi sự cồng kềnh, phân tán của bộ máy cũ để lấy tốc độ và sức mạnh dồn lực cho các siêu dự án (như đường sắt tốc độ cao, công nghiệp bán dẫn).
+
+### [34] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Song song với việc sắp xếp lại bộ máy, những chỉ đạo mang tính đột phá của Tổng Bí thư Tô Lâm đã định hình một triết lý quản lý nhà nước mới: đẩy nhanh tốc độ thực thi pháp luật bằng cách chuyển dịch mạnh mẽ từ cơ chế "tiền kiểm" sang "hậu kiểm" gắn liền với số hóa quy trình công vụ [cite: 2]. Tư duy này phản ánh nỗ lực gỡ bỏ những rào cản hành chính rườm rà vốn làm kéo dài thời gian chuẩn bị đầu tư và tăng chi phí tuân thủ của doanh nghiệp [cite: 2]. Sự chuyển dịch này được thể chế hóa rõ nét thông qua một gói chính sách quan trọng có hiệu lực đồng loạt, bao gồm Nghị quyết số 66.18/2026/NQ-CP, Nghị quyết số 66.19/2026/NQ-CP, Nghị định 217/2026/NĐ-CP, Nghị định 212/2026/NĐ-CP và Quyết định 1165/QĐ-BTC [cite: 2].
+
+### [35] Từ 01/07/2026: Chính phủ đang chuyển mạnh từ tiền kiểm sang hậu kiểm và số hóa quy trình đầu tư xây dựng - DATA Energy
+
+> Từ 01/07/2026: Chính phủ đang chuyển mạnh từ tiền kiểm sang hậu kiểm và số hóa quy trình đầu tư xây dựng Menu Close menu Menu Trang chủ Về chúng tôi Sản phẩm - Dịch vụ Open submenu GIÁ KHÍ MỚI NHẤT DỰ ÁN Tin Tức Liên hệ Open submenu Close submenu Sản phẩm - Dịch vụ Sản phẩm Dịch vụ Close submenu Liên hệ Liên hệ Tuyển dụng Trang chủ Về chúng tôi Sản phẩm - Dịch vụ Sản phẩm Dịch vụ GIÁ KHÍ MỚI NHẤT DỰ ÁN
+
+### [36] 2026 GRDP Growth Targets for Provinces and Municipalities - Vietnam+ (VietnamPlus)
+
+> 2026 state budget: Strengthening fiscal policy to fuel long-term growth 24/12/2025 19:06 A key priority in 2026 is ensuring sustainable budget revenue by broadening collection sources and minimising losses. Illustrative image (Photo: VNA)Illustrative image (Photo: VNA) Vietnam sets rules for local firms to join 67 bln USD rail project 18/12/2025 00:46 With a total investment exceeding 67 billion USD, the North-South high-speed railway is not only an unprecedented infrastructure project in Vietnam, but also a test of the private sector's capacity to engage in large-scale public works.
+
+### [37] Quốc hội chính thức thông qua chủ trương đầu tư Dự án đường sắt tốc độ cao trên trục Bắc - Nam
+
+> Cho phép áp dụng một số cơ chế, chính sách đặc thù Về các cơ chế, chính sách đặc thù, đặc biệt triển khai đầu tư Dự án, nhiều ý kiến cho rằng, Dự án có vai trò quan trọng, mang tính chiến lược dài hạn, tác động sâu, rộng tới mọi mặt của nền kinh tế - xã hội nước ta và có quy mô rất lớn, yêu cầu về công nghệ kỹ thuật phức tạp, lần đầu tiên được triển khai thực hiện ở Việt Nam. Do đó, để bảo đảm tính khả thi, hiệu quả cho Dự án thì việc cho phép áp dụng một số cơ chế, chính sách đặc thù, đặc biệt là rất cần thiết.
+
+### [38] Báo Cáo Chiến Lược: Biến Động Vĩ Mô Toàn Cầu Giai Đoạn 2024-2026 Và Khả Năng Thích Ứng Của Nền Kinh Tế Việt Nam
+
+> Để giải quyết triệt để nút thắt về điện năng và đáp ứng các tiêu chuẩn xanh khắt khe của chuỗi cung ứng toàn cầu, Việt Nam cần khẩn trương thực thi đầy đủ và đồng bộ cơ chế Hợp đồng mua bán điện trực tiếp (DPPA) [cite: 50]. Cơ chế này cần được đơn giản hóa về quy trình thủ tục để khuyến khích các doanh nghiệp FDI chủ động tự chuẩn bị nguồn năng lượng tái tạo cho sản xuất [cite: 50]. Đồng thời, cần ưu tiên ngân sách và thu hút vốn tư nhân dưới hình thức đối tác công tư (PPP) để nâng cấp hệ thống lưới điện truyền tải trục Bắc - Nam, giải tỏa công suất cho các dự án năng lượng tái tạo tại miền Trung và miền Nam [cite: 36, 47]. Cần nghiên cứu điều chỉnh giá điện theo cơ chế thị trường có sự điều tiết của nhà nước để đảm bảo tính hấp dẫn về mặt tài chính cho các nhà đầu tư vào nguồn điện mới, đồng thời đẩy nhanh việc vận hành thị trường tín chỉ carbon nội địa để tạo thêm nguồn tài chính xanh cho nền kinh tế [cite: 41, 47, 55].
+
+### [39] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Cấu trúc phân vai chiến lược được định hình rõ nét qua các trụ cột phát triển kinh tế vĩ mô: Hạ tầng số, Bán dẫn và Trí tuệ nhân tạo (AI): Viettel và VNPT được định hướng tập trung xây dựng hạ tầng viễn thông thế hệ mới (5G/6G), thiết lập các trung tâm dữ liệu (Data Center) quy mô lớn đạt tiêu chuẩn quốc tế và nghiên cứu sản xuất thiết bị mạng công nghệ cao [cite: 5]. Trong khi đó, FPT được phân vai tập trung vào thiết kế vi mạch bán dẫn, nghiên cứu các thuật toán trí tuệ nhân tạo và đào tạo nguồn nhân lực chất lượng cao để cung ứng cho chuỗi giá trị toàn cầu. Năng lực tích lũy tài chính của các tập đoàn này là bệ đỡ vững chắc, tiêu biểu là Viettel Global đạt doanh thu thuần 44.271 tỷ đồng và lợi nhuận sau thuế hợp nhất 11.251 tỷ đồng (tăng 57% so với năm trước) vào năm 2025, với sự tăng trưởng vượt bậc tại các thị trường quốc tế như Burundi (tăng 35%), Haiti (tăng 27%), Tanzania (tăng 26%) và Mozambique (tăng 19%) [cite: 5]. Chế tạo cơ khí nặng, Giao thông vận tải và Đô thị thông minh: Vingroup và THACO đóng vai trò cốt lõi trong chuỗi công nghiệp cơ khí chế tạo, tự chủ sản xuất phương tiện giao thông thông minh và công nghệ vận tải đường sắt cao tốc [cite: 4, 5]. Hòa Phát giữ vai trò tự chủ công nghiệp thượng nguồn thông qua sản xuất thép chất lượng cao và HRC [cite: 5]. Đèo Cả đóng vai trò tiên phong trong công nghệ đào hầm xuyên núi và thi công cầu đường bộ, đường sắt phức tạp [cite: 10, 11]. Năng lượng chiến lược và Hạ tầng xanh: Bên cạnh vai trò bảo đảm an ninh năng lượng truyền thống của PVN và EVN, khối tư nhân năng động như FECON đang đi đầu trong việc thử nghiệm các mô hình năng lượng tái tạo tích hợp hạ tầng công nghiệp đột phá [cite: 5]. FECON sở hữu Nhà máy Điện gió An Thành Gia Lai (Giai đoạn 1) có tổng vốn đầu tư 1.586 tỷ đồng (công suất 40MW, vốn tự có 20%) được phê duyệt chủ trương đầu tư vào tháng 4/2026, dự kiến khởi công tháng 11/2026 và vận hành thương mại vào tháng 2/2028 [cite: 5]. Mô hình tích hợp: Dự án năng lượng này nằm trong định hướng chiến lược tích hợp năng lượng - hạ tầng của FECON: không chỉ bán điện lên lưới quốc gia mà hướng tới kết nối trực tiếp nguồn điện sạch này tới nhu cầu tiêu thụ thực tế tại các khu công nghiệp do chính doanh nghiệp phát triển nhằm gia tăng giá trị hạ tầng [cite: 5]. Mô hình này hiện được thử nghiệm tại khu công nghiệp FECON IP Hòa Yên (Bắc Ninh) quy mô 256ha, kết hợp nguồn điện mặt trời áp mái và điện gió thông qua cơ chế mua bán điện trực tiếp (DPPA) cùng hệ thống lưu trữ năng lượng (BESS) [cite: 5]. Động thái này diễn ra trong bối cảnh Việt Nam chiếm tới 73% tổng công suất điện gió đang hoạt động trên toàn Đông Nam Á tính đến năm 2025, khẳng định vị thế dẫn đầu khu vực về chuyển đổi năng lượng sạch [cite: 5].
+
+### [40] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Sự cởi trói về mặt thể chế đã kích hoạt sự nhập cuộc mạnh mẽ của các tập đoàn kinh tế lớn trong nước với những đề xuất phương án tài chính và kỹ thuật quy mô: Tập đoàn Vingroup (VinSpeed): Gửi đề xuất ngày 06/05/2025 về việc đầu tư trực tiếp vào dự án [cite: 4]. VinSpeed cam kết tự thu xếp 20% tổng vốn đầu tư (khoảng 12,27 tỷ USD); đối với 80% còn lại (khoảng 49 tỷ USD), doanh nghiệp đề xuất Nhà nước cho vay không tính lãi suất trong thời hạn 35 năm và cam kết hoàn trả đầy đủ [cite: 4]. Đổi lại, VinSpeed kiến nghị được giao làm chủ đầu tư các dự án khu đô thị và bất động sản theo mô hình phát triển đô thị định hướng giao thông công cộng (TOD) xung quanh các nhà ga, miễn thuế thiết bị nhập khẩu phục vụ dự án, thời hạn khai thác 99 năm và cam kết giá vé chỉ bằng 60-70% giá trần vé máy bay [cite: 4]. Tập đoàn Trường Hải (THACO): Đề xuất đầu tư tuyến đường sắt với tổng kinh phí hơn 1,5 triệu tỷ đồng (khoảng 61,35 tỷ USD), không bao gồm chi phí đền bù giải phóng mặt bằng (đề xuất tách riêng do Nhà nước thực hiện) [cite: 4]. THACO cam kết tự góp 20% vốn (gần 12,3 tỷ USD), huy động 80% còn lại (khoảng 49 tỷ USD) từ các nguồn tài chính trong và ngoài nước với đề nghị Chính phủ bảo lãnh và hỗ trợ toàn bộ lãi vay cho khoản huy động này trong 30 năm [cite: 4]. THACO sẽ thành lập công ty dự án nắm quyền chi phối, cam kết không chuyển nhượng cổ phần cho nhà đầu tư nước ngoài [cite: 4]. Bên cạnh đó, THACO tích cực nghiên cứu nhận chuyển giao công nghệ để sản xuất toa xe phục vụ dự án theo gợi ý của Thủ tướng Chính phủ [cite: 4, 5]. Tập đoàn Hòa Phát: Đề xuất tham gia nghiên cứu và sản xuất các vật tư, thiết bị phần cứng cốt lõi gồm ray đường sắt tốc độ cao, cấu kiện thép khẩu độ lớn và các vật tư cơ khí phục vụ thi công [cite: 5]. Với năng lực sản xuất đóng góp gần một nửa sản lượng thép của cả nước và việc đưa Việt Nam lọt vào top 10 quốc gia sản xuất thép thô lớn nhất thế giới, Hòa Phát có lợi thế lớn về thép chất lượng cao và thép cuộn cán nóng (HRC) tại Khu liên hợp Dung Quất [cite: 5]. Để chuẩn bị nguồn lực tài chính dài hạn, Hòa Phát đã hoàn thành tăng vốn điều lệ lên mức hơn 84.429 tỷ đồng vào tháng 07/2026 thông qua hình thức trả cổ tức bằng cổ phiếu, bảo toàn dòng tiền phục vụ sản xuất kinh doanh công nghiệp quy mô lớn [cite: 5]. Tập đoàn Viettel: Đề xuất nghiên cứu và phát triển các hạng mục công nghệ cao bao gồm hệ thống điều hành tập trung (OCC), hệ thống thông tin tín hiệu, điều khiển tàu tự động và nền tảng quản lý thông minh phục vụ vận hành dự án [cite: 5].
+
+### [41] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Sự phân vai này đi đôi với thay đổi căn bản trong cấu trúc đầu tư công. Ngân sách nhà nước từ vai trò bao cấp toàn diện chuyển sang vai trò "vốn mồi", chỉ tập trung bồi thường, hỗ trợ tái định cư và giải phóng mặt bằng sạch để bàn giao cho doanh nghiệp [cite: 4]. Cơ chế này vừa tối ưu hóa hiệu quả sử dụng vốn công, vừa kích hoạt tính linh hoạt, khả năng quản trị tiên tiến và tiềm lực tài chính của khối tư nhân, giảm thiểu gánh nặng nợ công quốc gia [cite: 4]. Giải quyết nghịch lý "Cán bộ sợ sai" và cơ chế bảo vệ thực thi
+
+### [42] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Sự phân vai này đi đôi với thay đổi căn bản trong cấu trúc đầu tư công. Ngân sách nhà nước từ vai trò bao cấp toàn diện chuyển sang vai trò "vốn mồi", chỉ tập trung bồi thường, hỗ trợ tái định cư và giải phóng mặt bằng sạch để bàn giao cho doanh nghiệp [cite: 4]. Cơ chế này vừa tối ưu hóa hiệu quả sử dụng vốn công, vừa kích hoạt tính linh hoạt, khả năng quản trị tiên tiến và tiềm lực tài chính của khối tư nhân, giảm thiểu gánh nặng nợ công quốc gia [cite: 4]. Giải quyết nghịch lý "Cán bộ sợ sai" và cơ chế bảo vệ thực thi
+
+### [43] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Một trong những nút thắt nội tại lớn nhất kìm hãm tốc độ thực thi các dự án đầu tư công và cải cách hành chính tại Việt Nam trong những năm qua là tâm lý "sợ sai, sợ trách nhiệm" của một bộ phận cán bộ, công chức. Nhằm hóa giải rào cản tâm lý này, Chính phủ đã ban hành Nghị định số 73/2023/NĐ-CP quy định về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung [cite: 12, 13, 14]. Hành lang pháp lý của Nghị định 73/2023/NĐ-CP được thiết lập dựa trên các nguyên tắc và cơ chế bảo vệ rất cụ thể nhằm hóa giải lằn ranh mong manh giữa đúng và sai trong thực thi công vụ khi pháp luật chưa dự liệu hết thực tế [cite: 15, 16]:
+
+### [44] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Hiệu quả thực tế của cơ chế bảo vệ cán bộ tại đây không chỉ dừng lại ở việc khuyến khích sáng kiến, mà còn ở khâu quản trị nguồn nhân lực [cite: 20]. Người đứng đầu địa phương đã cụ thể hóa trách nhiệm cá nhân trong từng khâu xử lý công việc và tăng cường kiểm tra công vụ đột xuất [cite: 20]. Đối với những cán bộ năng lực yếu, có tư duy né tránh, đùn đẩy hoặc làm việc cầm chừng vì sợ trách nhiệm, chính quyền thực hiện rà soát và quyết liệt điều chuyển sang vị trí công việc khác phù hợp hơn [cite: 20]. Sự kết hợp giữa cơ chế bảo vệ người dám làm và sàng lọc người né tránh đã tạo ra sự chuyển biến thực chất trong tư duy hành động của đội ngũ cán bộ cơ sở [cite: 20].
+
+### [45] Chiến Lược Việt Nam Hóa Rồng.md
+
+> 6. Kết Luận Kỷ nguyên vươn mình của dân tộc Việt Nam không phải là một khẩu hiệu chính trị thuần túy, mà là một mệnh lệnh sinh tồn trước những áp lực bủa vây từ mọi phía. Cửa sổ nhân khẩu học "vàng" chỉ còn mở ra vỏn vẹn chưa đầy 15 năm trước khi gánh nặng người cao tuổi kéo sập động lực tăng trưởng; trong khi đó, chủ nghĩa bảo hộ toàn cầu với những đạo luật thuế quan hà khắc từ Mỹ đang đe dọa trực tiếp mô hình xuất khẩu truyền thống. Trong bối cảnh đó, "nhất thể hóa" lãnh đạo và tái cấu trúc thể chế không phải là sự thụt lùi về quản trị, mà là sự trở về với triết lý của mô hình Nhà nước kiến tạo phát triển đã được minh chứng tính hiệu quả tại Đông Á. Bằng cách tháo gỡ sự manh mún trong đầu tư công, triệt tiêu độ trễ của các quyết sách và thiết lập một bộ máy kỹ trị mang tính hành động cao, Việt Nam đang tập trung mọi nguồn lực cuối cùng cho cú nhảy vọt 10% tăng trưởng mỗi năm. Chặng đường từ nay đến mốc lịch sử 2045 sẽ là chặng đường khắc nghiệt nhất. Việc vượt qua bẫy thu nhập trung bình và tránh thảm kịch "chưa giàu đã già" sẽ phụ thuộc hoàn toàn vào khả năng của cỗ máy quyền lực tập trung này trong việc nuôi dưỡng được một hệ sinh thái đổi mới sáng tạo, làm chủ công nghệ bán dẫn, và giải phóng được năng lực cạnh tranh của khối kinh tế tư nhân. Con đường đã chọn không có chỗ cho sự chần chừ; tốc độ và sự quyết liệt sẽ là thước đo cuối cùng để định đoạt xem Việt Nam có thể thực sự "hóa rồng" trong thế kỷ 21 hay không.

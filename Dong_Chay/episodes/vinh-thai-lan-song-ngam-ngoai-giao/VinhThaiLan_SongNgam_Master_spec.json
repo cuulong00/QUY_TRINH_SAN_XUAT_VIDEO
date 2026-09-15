@@ -1,0 +1,3853 @@
+{
+  "name": "VinhThaiLan_SongNgam_Master",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "ratio": "16:9",
+  "tracks": [
+    {
+      "type": "video",
+      "name": "video",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC001A1.mp4",
+          "start": 0.0,
+          "duration": 5.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC001a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC001A2.mp4",
+          "start": 5.92,
+          "duration": 4.32,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC001a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC001A3.mp4",
+          "start": 10.24,
+          "duration": 8.24,
+          "sourceStart": 0.0,
+          "speed": 0.9648,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC001a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC002A1.mp4",
+          "start": 18.48,
+          "duration": 7.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC002a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC002A2.mp4",
+          "start": 26.08,
+          "duration": 4.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC002a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC002A3.mp4",
+          "start": 30.88,
+          "duration": 8.2,
+          "sourceStart": 0.0,
+          "speed": 0.9695,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC002a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A1.mp4",
+          "start": 39.08,
+          "duration": 6.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A2.mp4",
+          "start": 45.28,
+          "duration": 5.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A3.mp4",
+          "start": 50.78,
+          "duration": 7.38,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A4.mp4",
+          "start": 58.16,
+          "duration": 5.34,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A5.mp4",
+          "start": 63.5,
+          "duration": 4.572,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A6.mp4",
+          "start": 68.072,
+          "duration": 5.948,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A7.mp4",
+          "start": 74.02,
+          "duration": 7.4,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC003A8.mp4",
+          "start": 81.42,
+          "duration": 5.4,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC004A1.mp4",
+          "start": 86.82,
+          "duration": 4.4,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC004A2.mp4",
+          "start": 91.22,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC004A3.mp4",
+          "start": 98.22,
+          "duration": 8.16,
+          "sourceStart": 0.0,
+          "speed": 0.9743,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC004A4.mp4",
+          "start": 106.38,
+          "duration": 7.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC005A1.mp4",
+          "start": 113.66,
+          "duration": 5.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC005a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC005A2.mp4",
+          "start": 119.18,
+          "duration": 6.17,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC005a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC005A3.mp4",
+          "start": 125.35,
+          "duration": 5.9453,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC005a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC006A1.mp4",
+          "start": 131.2953,
+          "duration": 10.6447,
+          "sourceStart": 0.0,
+          "speed": 0.7469,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC006a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH01_SC006A2.mp4",
+          "start": 141.94,
+          "duration": 21.6,
+          "sourceStart": 0.0,
+          "speed": 0.3681,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC006a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A1.mp4",
+          "start": 163.54,
+          "duration": 8.5228,
+          "sourceStart": 0.0,
+          "speed": 0.9328,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A2.mp4",
+          "start": 172.0628,
+          "duration": 3.3889,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A3.mp4",
+          "start": 175.4517,
+          "duration": 4.8083,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A4.mp4",
+          "start": 180.26,
+          "duration": 4.73,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A5.mp4",
+          "start": 184.99,
+          "duration": 4.3192,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A6.mp4",
+          "start": 189.3092,
+          "duration": 3.4532,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A7.mp4",
+          "start": 192.7624,
+          "duration": 6.5343,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A8.mp4",
+          "start": 199.2967,
+          "duration": 3.2589,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC007A9.mp4",
+          "start": 202.5556,
+          "duration": 5.2928,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a9"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC008A1.mp4",
+          "start": 207.8484,
+          "duration": 5.5531,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC008A2.mp4",
+          "start": 213.4015,
+          "duration": 5.9318,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC008A3.mp4",
+          "start": 219.3333,
+          "duration": 4.4767,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC008A4.mp4",
+          "start": 223.81,
+          "duration": 4.9614,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC008A5.mp4",
+          "start": 228.7714,
+          "duration": 6.3768,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC008A6.mp4",
+          "start": 235.1482,
+          "duration": 5.9609,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC008A7.mp4",
+          "start": 241.1091,
+          "duration": 7.5709,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC009A1.mp4",
+          "start": 248.68,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC009A2.mp4",
+          "start": 255.68,
+          "duration": 6.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC009A3.mp4",
+          "start": 261.88,
+          "duration": 3.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC009A4.mp4",
+          "start": 265.08,
+          "duration": 6.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC009A5.mp4",
+          "start": 271.68,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC009A6.mp4",
+          "start": 277.68,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC009A7.mp4",
+          "start": 285.68,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC010A1.mp4",
+          "start": 291.68,
+          "duration": 6.75,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC010a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC010A2.mp4",
+          "start": 298.43,
+          "duration": 8.09,
+          "sourceStart": 0.0,
+          "speed": 0.9827,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC010a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC011.mp4",
+          "start": 306.52,
+          "duration": 9.36,
+          "sourceStart": 0.0,
+          "speed": 0.8494,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC012A1.mp4",
+          "start": 315.88,
+          "duration": 6.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC012a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC012A2.mp4",
+          "start": 322.24,
+          "duration": 7.2615,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC012a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH02_SC012A3.mp4",
+          "start": 329.5015,
+          "duration": 7.5185,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC012a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC013A1.mp4",
+          "start": 337.02,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC013A2.mp4",
+          "start": 345.02,
+          "duration": 8.5,
+          "sourceStart": 0.0,
+          "speed": 0.9353,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC013A3.mp4",
+          "start": 353.52,
+          "duration": 6.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC013A4.mp4",
+          "start": 360.02,
+          "duration": 6.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A1.mp4",
+          "start": 366.52,
+          "duration": 7.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A2.mp4",
+          "start": 374.16,
+          "duration": 6.22,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A3.mp4",
+          "start": 380.38,
+          "duration": 6.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A4.mp4",
+          "start": 387.26,
+          "duration": 7.54,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A5.mp4",
+          "start": 394.8,
+          "duration": 5.8286,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A6.mp4",
+          "start": 400.6286,
+          "duration": 3.7714,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A7.mp4",
+          "start": 404.4,
+          "duration": 5.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A8.mp4",
+          "start": 409.44,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC014A9.mp4",
+          "start": 414.44,
+          "duration": 4.4,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a9"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC015A1.mp4",
+          "start": 418.84,
+          "duration": 5.44,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC015A2.mp4",
+          "start": 424.28,
+          "duration": 5.94,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC015A3.mp4",
+          "start": 430.22,
+          "duration": 6.44,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC015A4.mp4",
+          "start": 436.66,
+          "duration": 5.38,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC015A5.mp4",
+          "start": 442.04,
+          "duration": 5.82,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A1.mp4",
+          "start": 447.86,
+          "duration": 6.38,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A2.mp4",
+          "start": 454.24,
+          "duration": 5.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A3.mp4",
+          "start": 460.12,
+          "duration": 8.12,
+          "sourceStart": 0.0,
+          "speed": 0.9791,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A4.mp4",
+          "start": 468.24,
+          "duration": 6.7876,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A5.mp4",
+          "start": 475.0276,
+          "duration": 4.0981,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A6.mp4",
+          "start": 479.1257,
+          "duration": 4.9943,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A7.mp4",
+          "start": 484.12,
+          "duration": 5.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A8.mp4",
+          "start": 490.04,
+          "duration": 5.752,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC016A9.mp4",
+          "start": 495.792,
+          "duration": 5.808,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a9"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC017A1.mp4",
+          "start": 501.6,
+          "duration": 5.44,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC017A2.mp4",
+          "start": 507.04,
+          "duration": 7.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC017A3.mp4",
+          "start": 514.32,
+          "duration": 7.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC017A4.mp4",
+          "start": 521.36,
+          "duration": 5.4,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC017A5.mp4",
+          "start": 526.76,
+          "duration": 4.5187,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC017A6.mp4",
+          "start": 531.2787,
+          "duration": 3.9813,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC017A7.mp4",
+          "start": 535.26,
+          "duration": 7.5757,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC018A1.mp4",
+          "start": 542.8357,
+          "duration": 6.5043,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC018A2.mp4",
+          "start": 549.34,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC018A3.mp4",
+          "start": 555.34,
+          "duration": 7.98,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH03_SC018A4.mp4",
+          "start": 563.32,
+          "duration": 8.4,
+          "sourceStart": 0.0,
+          "speed": 0.9464,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC019A1.mp4",
+          "start": 571.72,
+          "duration": 6.4,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC019A2.mp4",
+          "start": 578.12,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC019A3.mp4",
+          "start": 583.12,
+          "duration": 2.76,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC019A4.mp4",
+          "start": 585.88,
+          "duration": 5.72,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC019A5.mp4",
+          "start": 591.6,
+          "duration": 6.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC019A6.mp4",
+          "start": 597.8,
+          "duration": 5.12,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC019A7.mp4",
+          "start": 602.92,
+          "duration": 6.1,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC020A1.mp4",
+          "start": 609.02,
+          "duration": 4.9741,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC020A2.mp4",
+          "start": 613.9941,
+          "duration": 4.0259,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC020A3.mp4",
+          "start": 618.02,
+          "duration": 7.052,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC020A4.mp4",
+          "start": 625.072,
+          "duration": 4.352,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC020A5.mp4",
+          "start": 629.424,
+          "duration": 2.176,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC020A6.mp4",
+          "start": 631.6,
+          "duration": 7.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC020A7.mp4",
+          "start": 639.2,
+          "duration": 6.4512,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC021A1.mp4",
+          "start": 645.6512,
+          "duration": 6.3847,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC021A2.mp4",
+          "start": 652.0359,
+          "duration": 3.3103,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC021A3.mp4",
+          "start": 655.3462,
+          "duration": 4.7274,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC021A4.mp4",
+          "start": 660.0736,
+          "duration": 6.8992,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC021A5.mp4",
+          "start": 666.9728,
+          "duration": 3.6672,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC021A6.mp4",
+          "start": 670.64,
+          "duration": 5.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC021A7.mp4",
+          "start": 676.52,
+          "duration": 7.48,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC022A1.mp4",
+          "start": 684.0,
+          "duration": 6.3067,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC022A2.mp4",
+          "start": 690.3067,
+          "duration": 6.6933,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC022A3.mp4",
+          "start": 697.0,
+          "duration": 5.68,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC022A4.mp4",
+          "start": 702.68,
+          "duration": 5.8062,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC022A5.mp4",
+          "start": 708.4862,
+          "duration": 9.9938,
+          "sourceStart": 0.0,
+          "speed": 0.7955,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC022A6.mp4",
+          "start": 718.48,
+          "duration": 5.0182,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC022A7.mp4",
+          "start": 723.4982,
+          "duration": 4.1818,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A1.mp4",
+          "start": 727.68,
+          "duration": 5.0667,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A2.mp4",
+          "start": 732.7467,
+          "duration": 2.5333,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A3.mp4",
+          "start": 735.28,
+          "duration": 2.724,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A4.mp4",
+          "start": 738.004,
+          "duration": 6.356,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A5.mp4",
+          "start": 744.36,
+          "duration": 5.02,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A6.mp4",
+          "start": 749.38,
+          "duration": 5.02,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A7.mp4",
+          "start": 754.4,
+          "duration": 4.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A8.mp4",
+          "start": 759.0,
+          "duration": 1.8874,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC023A9.mp4",
+          "start": 760.8874,
+          "duration": 5.6646,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023a9"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC024A1.mp4",
+          "start": 766.552,
+          "duration": 6.528,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC024a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC024A2.mp4",
+          "start": 773.08,
+          "duration": 3.7333,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC024a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC024A3.mp4",
+          "start": 776.8133,
+          "duration": 4.2667,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC024a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC024A4.mp4",
+          "start": 781.08,
+          "duration": 6.96,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC024a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC025A1.mp4",
+          "start": 788.04,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC025a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC025A2.mp4",
+          "start": 795.04,
+          "duration": 5.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC025a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH04_SC025A3.mp4",
+          "start": 800.56,
+          "duration": 7.62,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC025a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC026A1.mp4",
+          "start": 808.18,
+          "duration": 8.72,
+          "sourceStart": 0.0,
+          "speed": 0.9117,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC026a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC026A2.mp4",
+          "start": 816.9,
+          "duration": 5.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC026a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC026A3.mp4",
+          "start": 822.7,
+          "duration": 6.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC026a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC026A4.mp4",
+          "start": 829.06,
+          "duration": 5.7774,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC026a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC026A5.mp4",
+          "start": 834.8374,
+          "duration": 5.5226,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC026a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC027A1.mp4",
+          "start": 840.36,
+          "duration": 3.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC027A2.mp4",
+          "start": 844.2,
+          "duration": 3.0588,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC027A3.mp4",
+          "start": 847.2588,
+          "duration": 7.6412,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC027A4.mp4",
+          "start": 854.9,
+          "duration": 4.6364,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC027A5.mp4",
+          "start": 859.5364,
+          "duration": 4.8836,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC027A6.mp4",
+          "start": 864.42,
+          "duration": 2.86,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A1.mp4",
+          "start": 867.28,
+          "duration": 5.76,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A2.mp4",
+          "start": 873.04,
+          "duration": 4.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A3.mp4",
+          "start": 877.4,
+          "duration": 5.219,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A4.mp4",
+          "start": 882.619,
+          "duration": 4.421,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A5.mp4",
+          "start": 887.04,
+          "duration": 3.0769,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A6.mp4",
+          "start": 890.1169,
+          "duration": 6.4103,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A7.mp4",
+          "start": 896.5272,
+          "duration": 6.5128,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC028A8.mp4",
+          "start": 903.04,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC029A1.mp4",
+          "start": 908.04,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC029A2.mp4",
+          "start": 914.04,
+          "duration": 5.8608,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC029A3.mp4",
+          "start": 919.9008,
+          "duration": 2.6942,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC029A4.mp4",
+          "start": 922.595,
+          "duration": 4.8729,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC029A5.mp4",
+          "start": 927.4679,
+          "duration": 6.4121,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC029A6.mp4",
+          "start": 933.88,
+          "duration": 6.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC030A1.mp4",
+          "start": 940.72,
+          "duration": 6.38,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC030A2.mp4",
+          "start": 947.1,
+          "duration": 5.8148,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC030A3.mp4",
+          "start": 952.9148,
+          "duration": 5.526,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC030A4.mp4",
+          "start": 958.4408,
+          "duration": 2.6792,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC030A5.mp4",
+          "start": 961.12,
+          "duration": 8.2965,
+          "sourceStart": 0.0,
+          "speed": 0.9582,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC030A6.mp4",
+          "start": 969.4165,
+          "duration": 5.8435,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC031A1.mp4",
+          "start": 975.26,
+          "duration": 7.032,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC031a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC031A2.mp4",
+          "start": 982.292,
+          "duration": 5.568,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC031a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH05_SC031A3.mp4",
+          "start": 987.86,
+          "duration": 8.9,
+          "sourceStart": 0.0,
+          "speed": 0.8933,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC031a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC032A1.mp4",
+          "start": 996.76,
+          "duration": 9.04,
+          "sourceStart": 0.0,
+          "speed": 0.8794,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC032A2.mp4",
+          "start": 1005.8,
+          "duration": 6.8937,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC032A3.mp4",
+          "start": 1012.6937,
+          "duration": 2.3863,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC032A4.mp4",
+          "start": 1015.08,
+          "duration": 4.7354,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC032A5.mp4",
+          "start": 1019.8154,
+          "duration": 2.6929,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC032A6.mp4",
+          "start": 1022.5083,
+          "duration": 6.4717,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC032A7.mp4",
+          "start": 1028.98,
+          "duration": 4.4673,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC033A1.mp4",
+          "start": 1033.4473,
+          "duration": 2.8214,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC033A2.mp4",
+          "start": 1036.2687,
+          "duration": 7.2313,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC033A3.mp4",
+          "start": 1043.5,
+          "duration": 4.1192,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC033A4.mp4",
+          "start": 1047.6192,
+          "duration": 4.1248,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC033A5.mp4",
+          "start": 1051.744,
+          "duration": 8.376,
+          "sourceStart": 0.0,
+          "speed": 0.9491,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC033A6.mp4",
+          "start": 1060.12,
+          "duration": 5.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC033A7.mp4",
+          "start": 1065.92,
+          "duration": 2.48,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A1.mp4",
+          "start": 1068.4,
+          "duration": 7.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A2.mp4",
+          "start": 1075.92,
+          "duration": 3.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A3.mp4",
+          "start": 1079.84,
+          "duration": 4.788,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A4.mp4",
+          "start": 1084.628,
+          "duration": 7.152,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A5.mp4",
+          "start": 1091.78,
+          "duration": 6.9088,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A6.mp4",
+          "start": 1098.6888,
+          "duration": 1.7912,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A7.mp4",
+          "start": 1100.48,
+          "duration": 7.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC034A8.mp4",
+          "start": 1108.0,
+          "duration": 7.3547,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC035A1.mp4",
+          "start": 1115.3547,
+          "duration": 6.7053,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC035a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC035A2.mp4",
+          "start": 1122.06,
+          "duration": 6.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC035a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC035A3.mp4",
+          "start": 1128.7,
+          "duration": 6.1104,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC035a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC035A4.mp4",
+          "start": 1134.8104,
+          "duration": 6.8696,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC035a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC035A5.mp4",
+          "start": 1141.68,
+          "duration": 7.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC035a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC036A1.mp4",
+          "start": 1149.56,
+          "duration": 6.972,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC036A2.mp4",
+          "start": 1156.532,
+          "duration": 5.948,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC036A3.mp4",
+          "start": 1162.48,
+          "duration": 5.44,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC036A4.mp4",
+          "start": 1167.92,
+          "duration": 5.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC036A5.mp4",
+          "start": 1173.16,
+          "duration": 6.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC036A6.mp4",
+          "start": 1179.44,
+          "duration": 4.4748,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC036A7.mp4",
+          "start": 1183.9148,
+          "duration": 3.6852,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC037A1.mp4",
+          "start": 1187.6,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC037A2.mp4",
+          "start": 1195.6,
+          "duration": 6.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC037A3.mp4",
+          "start": 1202.24,
+          "duration": 6.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC037A4.mp4",
+          "start": 1208.48,
+          "duration": 6.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC037A5.mp4",
+          "start": 1215.28,
+          "duration": 4.0114,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC037A6.mp4",
+          "start": 1219.2914,
+          "duration": 6.1886,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC037A7.mp4",
+          "start": 1225.48,
+          "duration": 4.7686,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC038A1.mp4",
+          "start": 1230.2486,
+          "duration": 3.1271,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC038A2.mp4",
+          "start": 1233.3757,
+          "duration": 2.5586,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC038A3.mp4",
+          "start": 1235.9343,
+          "duration": 7.5363,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC038A4.mp4",
+          "start": 1243.4706,
+          "duration": 3.6094,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC038A5.mp4",
+          "start": 1247.08,
+          "duration": 5.16,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC038A6.mp4",
+          "start": 1252.24,
+          "duration": 3.2052,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC038A7.mp4",
+          "start": 1255.4452,
+          "duration": 5.0748,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC039A1.mp4",
+          "start": 1260.52,
+          "duration": 6.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC039a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC039A2.mp4",
+          "start": 1266.76,
+          "duration": 2.6522,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC039a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC039A3.mp4",
+          "start": 1269.4122,
+          "duration": 4.2049,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC039a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC039A4.mp4",
+          "start": 1273.6171,
+          "duration": 4.5429,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC039a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC039A5.mp4",
+          "start": 1278.16,
+          "duration": 3.1872,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC039a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH06_SC039A6.mp4",
+          "start": 1281.3472,
+          "duration": 8.8328,
+          "sourceStart": 0.0,
+          "speed": 0.9001,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC039a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC040A1.mp4",
+          "start": 1290.18,
+          "duration": 7.26,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC040a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC040A2.mp4",
+          "start": 1297.44,
+          "duration": 6.26,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC040a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC040A3.mp4",
+          "start": 1303.7,
+          "duration": 2.311,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC040a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC040A4.mp4",
+          "start": 1306.011,
+          "duration": 5.649,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC040a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC041A1.mp4",
+          "start": 1311.66,
+          "duration": 4.088,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC041a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC041A2.mp4",
+          "start": 1315.748,
+          "duration": 5.792,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC041a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC041A3.mp4",
+          "start": 1321.54,
+          "duration": 5.8286,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC041a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC041A4.mp4",
+          "start": 1327.3686,
+          "duration": 8.5314,
+          "sourceStart": 0.0,
+          "speed": 0.9319,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC041a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC041A5.mp4",
+          "start": 1335.9,
+          "duration": 4.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC041a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC041A6.mp4",
+          "start": 1339.9,
+          "duration": 4.0125,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC041a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC041A7.mp4",
+          "start": 1343.9125,
+          "duration": 4.5475,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC041a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC042A1.mp4",
+          "start": 1348.46,
+          "duration": 5.5222,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC042a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC042A2.mp4",
+          "start": 1353.9822,
+          "duration": 6.9178,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC042a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC042A3.mp4",
+          "start": 1360.9,
+          "duration": 6.9913,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC042a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC042A4.mp4",
+          "start": 1367.8913,
+          "duration": 5.4087,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC042a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC042A5.mp4",
+          "start": 1373.3,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC042a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC042A6.mp4",
+          "start": 1378.3,
+          "duration": 1.75,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC042a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A1.mp4",
+          "start": 1380.05,
+          "duration": 2.3833,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A2.mp4",
+          "start": 1382.4333,
+          "duration": 8.9917,
+          "sourceStart": 0.0,
+          "speed": 0.8841,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A3.mp4",
+          "start": 1391.425,
+          "duration": 4.6888,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A4.mp4",
+          "start": 1396.1138,
+          "duration": 2.5793,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A5.mp4",
+          "start": 1398.6931,
+          "duration": 5.0017,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A6.mp4",
+          "start": 1403.6948,
+          "duration": 4.8575,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A7.mp4",
+          "start": 1408.5523,
+          "duration": 3.4837,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A8.mp4",
+          "start": 1412.036,
+          "duration": 5.929,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC043A9.mp4",
+          "start": 1417.965,
+          "duration": 5.3434,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC043a9"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A1.mp4",
+          "start": 1423.3084,
+          "duration": 4.9059,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A2.mp4",
+          "start": 1428.2143,
+          "duration": 5.2257,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A3.mp4",
+          "start": 1433.44,
+          "duration": 1.75,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A4.mp4",
+          "start": 1435.19,
+          "duration": 5.1438,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A5.mp4",
+          "start": 1440.3338,
+          "duration": 2.9262,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A6.mp4",
+          "start": 1443.26,
+          "duration": 3.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A7.mp4",
+          "start": 1446.86,
+          "duration": 4.95,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A8.mp4",
+          "start": 1451.81,
+          "duration": 5.0429,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC044A9.mp4",
+          "start": 1456.8529,
+          "duration": 3.4259,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC044a9"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC045A1.mp4",
+          "start": 1460.2788,
+          "duration": 7.1012,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC045a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC045A2.mp4",
+          "start": 1467.38,
+          "duration": 7.1262,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC045a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC045A3.mp4",
+          "start": 1474.5062,
+          "duration": 6.3409,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC045a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC045A4.mp4",
+          "start": 1480.8471,
+          "duration": 2.7647,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC045a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC045A5.mp4",
+          "start": 1483.6118,
+          "duration": 7.1047,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC045a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC045A6.mp4",
+          "start": 1490.7165,
+          "duration": 7.5657,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC045a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC046A1.mp4",
+          "start": 1498.2822,
+          "duration": 5.1709,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC046a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC046A2.mp4",
+          "start": 1503.4531,
+          "duration": 4.8069,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC046a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC046A3.mp4",
+          "start": 1508.26,
+          "duration": 3.2348,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC046a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC046A4.mp4",
+          "start": 1511.4948,
+          "duration": 5.867,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC046a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC046A5.mp4",
+          "start": 1517.3618,
+          "duration": 5.214,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC046a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC046A6.mp4",
+          "start": 1522.5758,
+          "duration": 6.3442,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC046a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC047A1.mp4",
+          "start": 1528.92,
+          "duration": 5.9275,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC047a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC047A2.mp4",
+          "start": 1534.8475,
+          "duration": 6.2725,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC047a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC047A3.mp4",
+          "start": 1541.12,
+          "duration": 4.984,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC047a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC047A4.mp4",
+          "start": 1546.104,
+          "duration": 4.752,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC047a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC047A5.mp4",
+          "start": 1550.856,
+          "duration": 3.4173,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC047a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC047A6.mp4",
+          "start": 1554.2733,
+          "duration": 7.2467,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC047a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC048A1.mp4",
+          "start": 1561.52,
+          "duration": 6.8813,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC048a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC048A2.mp4",
+          "start": 1568.4013,
+          "duration": 1.6734,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC048a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC048A3.mp4",
+          "start": 1570.0747,
+          "duration": 8.2586,
+          "sourceStart": 0.0,
+          "speed": 0.9626,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC048a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC048A4.mp4",
+          "start": 1578.3333,
+          "duration": 7.2534,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC048a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC048A5.mp4",
+          "start": 1585.5867,
+          "duration": 2.0266,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC048a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC048A6.mp4",
+          "start": 1587.6133,
+          "duration": 5.8588,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC048a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC049A1.mp4",
+          "start": 1593.4721,
+          "duration": 1.6758,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC049a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC049A2.mp4",
+          "start": 1595.1479,
+          "duration": 5.9926,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC049a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC049A3.mp4",
+          "start": 1601.1405,
+          "duration": 3.4515,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC049a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC049A4.mp4",
+          "start": 1604.592,
+          "duration": 4.712,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC049a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC049A5.mp4",
+          "start": 1609.304,
+          "duration": 5.336,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC049a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH07_SC049A6.mp4",
+          "start": 1614.64,
+          "duration": 9.14,
+          "sourceStart": 0.0,
+          "speed": 0.8698,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC049a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC048A1.mp4",
+          "start": 1623.78,
+          "duration": 8.1,
+          "sourceStart": 0.0,
+          "speed": 0.9815,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC048a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC048A2.mp4",
+          "start": 1631.88,
+          "duration": 7.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC048a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC048A3.mp4",
+          "start": 1639.16,
+          "duration": 7.9,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC048a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC048A4.mp4",
+          "start": 1647.06,
+          "duration": 5.9143,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC048a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC048A5.mp4",
+          "start": 1652.9743,
+          "duration": 3.0857,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC048a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC049A1.mp4",
+          "start": 1656.06,
+          "duration": 5.3684,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC049a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC049A2.mp4",
+          "start": 1661.4284,
+          "duration": 5.7996,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC049a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC049A3.mp4",
+          "start": 1667.228,
+          "duration": 6.052,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC049a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC049A4.mp4",
+          "start": 1673.28,
+          "duration": 6.4038,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC049a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC049A5.mp4",
+          "start": 1679.6838,
+          "duration": 2.9229,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC049a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC049A6.mp4",
+          "start": 1682.6067,
+          "duration": 6.1333,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC049a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC050A1.mp4",
+          "start": 1688.74,
+          "duration": 6.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC050a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC050A2.mp4",
+          "start": 1695.34,
+          "duration": 4.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC050a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC050A3.mp4",
+          "start": 1699.34,
+          "duration": 4.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC050a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC050A4.mp4",
+          "start": 1704.14,
+          "duration": 6.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC050a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC050A5.mp4",
+          "start": 1710.5,
+          "duration": 7.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC050a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC051A1.mp4",
+          "start": 1717.78,
+          "duration": 6.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC051A2.mp4",
+          "start": 1723.98,
+          "duration": 4.56,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC051A3.mp4",
+          "start": 1728.54,
+          "duration": 7.5695,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC051A4.mp4",
+          "start": 1736.1095,
+          "duration": 3.5905,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC051A5.mp4",
+          "start": 1739.7,
+          "duration": 6.16,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC051A6.mp4",
+          "start": 1745.86,
+          "duration": 5.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC051A7.mp4",
+          "start": 1751.7,
+          "duration": 2.8089,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC052A1.mp4",
+          "start": 1754.5089,
+          "duration": 8.8495,
+          "sourceStart": 0.0,
+          "speed": 0.8984,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC052a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC052A2.mp4",
+          "start": 1763.3584,
+          "duration": 7.9216,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC052a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC052A3.mp4",
+          "start": 1771.28,
+          "duration": 6.72,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC052a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC052A4.mp4",
+          "start": 1778.0,
+          "duration": 4.1143,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC052a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC052A5.mp4",
+          "start": 1782.1143,
+          "duration": 4.8857,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC052a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC053A1.mp4",
+          "start": 1787.0,
+          "duration": 5.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC053a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC053A2.mp4",
+          "start": 1792.5,
+          "duration": 3.1304,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC053a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC053A3.mp4",
+          "start": 1795.6304,
+          "duration": 8.8696,
+          "sourceStart": 0.0,
+          "speed": 0.8963,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC053a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC053A4.mp4",
+          "start": 1804.5,
+          "duration": 6.48,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC053a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC053A5.mp4",
+          "start": 1810.98,
+          "duration": 5.68,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC053a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC053A6.mp4",
+          "start": 1816.66,
+          "duration": 6.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC053a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC054A1.mp4",
+          "start": 1822.7,
+          "duration": 6.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC054a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC054A2.mp4",
+          "start": 1828.94,
+          "duration": 6.1,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC054a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC054A3.mp4",
+          "start": 1835.04,
+          "duration": 7.34,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC054a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC054A4.mp4",
+          "start": 1842.38,
+          "duration": 5.54,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC054a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC054A5.mp4",
+          "start": 1847.92,
+          "duration": 4.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC054a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC055A1.mp4",
+          "start": 1852.72,
+          "duration": 5.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC055A2.mp4",
+          "start": 1857.8,
+          "duration": 4.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC055A3.mp4",
+          "start": 1861.84,
+          "duration": 6.0021,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC055A4.mp4",
+          "start": 1867.8421,
+          "duration": 4.3579,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC055A5.mp4",
+          "start": 1872.2,
+          "duration": 5.472,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC055A6.mp4",
+          "start": 1877.672,
+          "duration": 4.2251,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC055A7.mp4",
+          "start": 1881.8971,
+          "duration": 6.6629,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC056A1.mp4",
+          "start": 1888.56,
+          "duration": 6.76,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC056A2.mp4",
+          "start": 1895.32,
+          "duration": 5.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC056A3.mp4",
+          "start": 1901.2,
+          "duration": 6.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC056A4.mp4",
+          "start": 1907.24,
+          "duration": 4.1891,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC056A5.mp4",
+          "start": 1911.4291,
+          "duration": 4.4509,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC056A6.mp4",
+          "start": 1915.88,
+          "duration": 4.1412,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC056A7.mp4",
+          "start": 1920.0212,
+          "duration": 4.6588,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC057A1.mp4",
+          "start": 1924.68,
+          "duration": 9.2,
+          "sourceStart": 0.0,
+          "speed": 0.8641,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC057a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC057A2.mp4",
+          "start": 1933.88,
+          "duration": 7.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC057a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC057A3.mp4",
+          "start": 1941.76,
+          "duration": 3.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC057a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC057A4.mp4",
+          "start": 1944.8,
+          "duration": 5.9714,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC057a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH08_SC057A5.mp4",
+          "start": 1950.7714,
+          "duration": 7.1486,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC057a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A1.mp4",
+          "start": 1957.92,
+          "duration": 7.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A2.mp4",
+          "start": 1965.56,
+          "duration": 6.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A3.mp4",
+          "start": 1971.84,
+          "duration": 3.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A4.mp4",
+          "start": 1975.48,
+          "duration": 4.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A5.mp4",
+          "start": 1979.76,
+          "duration": 2.6957,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A6.mp4",
+          "start": 1982.4557,
+          "duration": 3.5043,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A7.mp4",
+          "start": 1985.96,
+          "duration": 4.0444,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC058A8.mp4",
+          "start": 1990.0044,
+          "duration": 3.2356,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC059A1.mp4",
+          "start": 1993.24,
+          "duration": 5.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC059a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC059A2.mp4",
+          "start": 1999.12,
+          "duration": 5.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC059a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC059A3.mp4",
+          "start": 2004.32,
+          "duration": 3.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC059a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC059A4.mp4",
+          "start": 2007.6,
+          "duration": 4.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC059a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC059A5.mp4",
+          "start": 2012.52,
+          "duration": 3.3,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC059a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC059A6.mp4",
+          "start": 2015.82,
+          "duration": 5.7,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC059a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC060A1.mp4",
+          "start": 2021.52,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC060a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC060A2.mp4",
+          "start": 2027.52,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC060a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC060A3.mp4",
+          "start": 2033.52,
+          "duration": 3.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC060a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC060A4.mp4",
+          "start": 2037.36,
+          "duration": 2.16,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC060a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC060A5.mp4",
+          "start": 2039.52,
+          "duration": 3.8892,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC060a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC060A6.mp4",
+          "start": 2043.4092,
+          "duration": 2.4308,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC060a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC061A1.mp4",
+          "start": 2045.84,
+          "duration": 4.12,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC061a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC061A2.mp4",
+          "start": 2049.96,
+          "duration": 3.66,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC061a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC061A3.mp4",
+          "start": 2053.62,
+          "duration": 4.1,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC061a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC061A4.mp4",
+          "start": 2057.72,
+          "duration": 6.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC061a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC061A5.mp4",
+          "start": 2063.76,
+          "duration": 9.9762,
+          "sourceStart": 0.0,
+          "speed": 0.7969,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC061a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC061A6.mp4",
+          "start": 2073.7362,
+          "duration": 2.3374,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC061a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC062A1.mp4",
+          "start": 2076.0736,
+          "duration": 2.9749,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC062A2.mp4",
+          "start": 2079.0485,
+          "duration": 6.7115,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC062A3.mp4",
+          "start": 2085.76,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC062A4.mp4",
+          "start": 2090.76,
+          "duration": 4.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC062A5.mp4",
+          "start": 2095.26,
+          "duration": 3.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC062A6.mp4",
+          "start": 2098.76,
+          "duration": 2.9167,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC062A7.mp4",
+          "start": 2101.6767,
+          "duration": 4.0833,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A1.mp4",
+          "start": 2105.76,
+          "duration": 5.2609,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A2.mp4",
+          "start": 2111.0209,
+          "duration": 5.7391,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A3.mp4",
+          "start": 2116.76,
+          "duration": 5.2657,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A4.mp4",
+          "start": 2122.0257,
+          "duration": 2.4943,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A5.mp4",
+          "start": 2124.52,
+          "duration": 5.4495,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A6.mp4",
+          "start": 2129.9695,
+          "duration": 5.7905,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A7.mp4",
+          "start": 2135.76,
+          "duration": 3.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC063A8.mp4",
+          "start": 2139.4,
+          "duration": 3.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC064A1.mp4",
+          "start": 2143.04,
+          "duration": 5.38,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC064a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC064A2.mp4",
+          "start": 2148.42,
+          "duration": 6.5664,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC064a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC064A3.mp4",
+          "start": 2154.9864,
+          "duration": 6.3342,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC064a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC064A4.mp4",
+          "start": 2161.3206,
+          "duration": 7.9131,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC064a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC064A5.mp4",
+          "start": 2169.2337,
+          "duration": 2.8463,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC064a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC064A6.mp4",
+          "start": 2172.08,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC064a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A1.mp4",
+          "start": 2178.08,
+          "duration": 2.6471,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A2.mp4",
+          "start": 2180.7271,
+          "duration": 6.3529,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A3.mp4",
+          "start": 2187.08,
+          "duration": 3.7917,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A4.mp4",
+          "start": 2190.8717,
+          "duration": 3.2083,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A5.mp4",
+          "start": 2194.08,
+          "duration": 4.4444,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A6.mp4",
+          "start": 2198.5244,
+          "duration": 1.5556,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A7.mp4",
+          "start": 2200.08,
+          "duration": 3.75,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC065A8.mp4",
+          "start": 2203.83,
+          "duration": 4.25,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065a8"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC066A1.mp4",
+          "start": 2208.08,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066a1"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC066A2.mp4",
+          "start": 2214.08,
+          "duration": 3.7692,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066a2"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC066A3.mp4",
+          "start": 2217.8492,
+          "duration": 3.2308,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066a3"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC066A4.mp4",
+          "start": 2221.08,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066a4"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC066A5.mp4",
+          "start": 2226.08,
+          "duration": 2.265,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066a5"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC066A6.mp4",
+          "start": 2228.345,
+          "duration": 3.775,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066a6"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/video_stripped/videos/CH09_SC066A7.mp4",
+          "start": 2232.12,
+          "duration": 6.9,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066a7"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/00_core/disclaimer/tuyenbo_trachnhiem_dongchay_clean_audio.mp4",
+          "start": 2239.02,
+          "duration": 25.2667,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 1.0,
+          "ref": "disclaimer_outro"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "voiceover",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_01.wav",
+          "start": 0.0,
+          "duration": 161.54,
+          "volume": 1.0,
+          "ref": "vo_ch01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_02.wav",
+          "start": 165.54,
+          "duration": 169.48,
+          "volume": 1.0,
+          "ref": "vo_ch02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_03.wav",
+          "start": 339.02,
+          "duration": 230.7,
+          "volume": 1.0,
+          "ref": "vo_ch03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_04.wav",
+          "start": 573.72,
+          "duration": 232.46,
+          "volume": 1.0,
+          "ref": "vo_ch04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_05.wav",
+          "start": 810.18,
+          "duration": 184.58,
+          "volume": 1.0,
+          "ref": "vo_ch05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_06.wav",
+          "start": 998.76,
+          "duration": 289.42,
+          "volume": 1.0,
+          "ref": "vo_ch06"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_07.wav",
+          "start": 1292.18,
+          "duration": 329.6,
+          "volume": 1.0,
+          "ref": "vo_ch07"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_08.wav",
+          "start": 1625.78,
+          "duration": 330.14,
+          "volume": 1.0,
+          "ref": "vo_ch08"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Dong_Chay/episodes/vinh-thai-lan-song-ngam-ngoai-giao/audio/chapter_09.wav",
+          "start": 1959.92,
+          "duration": 277.1,
+          "volume": 1.0,
+          "ref": "vo_ch09"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "bgm",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 0.0,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 180.0097,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 360.0195,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 540.0293,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 720.039,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 900.0487,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_06"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 1080.0585,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_07"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 1260.0682,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_08"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 1440.078,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_09"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 1620.0877,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_10"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 1800.0975,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_11"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 1980.1072,
+          "duration": 180.0097,
+          "volume": 0.031,
+          "ref": "bgm_12"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-dong-chay.mp3",
+          "start": 2160.117,
+          "duration": 104.1697,
+          "volume": 0.031,
+          "ref": "bgm_13"
+        }
+      ]
+    }
+  ]
+}

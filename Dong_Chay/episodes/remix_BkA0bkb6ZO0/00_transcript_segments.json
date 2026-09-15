@@ -1,0 +1,5827 @@
+{
+  "status": "success",
+  "sourceBackend": "youtubei-player",
+  "videoId": "BkA0bkb6ZO0",
+  "url": "https://www.youtube.com/watch?v=BkA0bkb6ZO0",
+  "language": "en",
+  "fetchedAt": "2026-07-20T05:41:18.071Z",
+  "segments": [
+    {
+      "index": 0,
+      "text": "- So you remember at the start of the Iran war,",
+      "start": 107,
+      "duration": 2053,
+      "lang": "en"
+    },
+    {
+      "index": 1,
+      "text": "everyone said there was this oil shock coming",
+      "start": 2160,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 2,
+      "text": "that was going to basically blow up the whole world.",
+      "start": 4530,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 3,
+      "text": "- World fears an oil shock.",
+      "start": 6660,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 4,
+      "text": "- Oil shock. - Oil shock.",
+      "start": 8430,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 5,
+      "text": "- Global oil shock is raising alarm.",
+      "start": 9570,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 6,
+      "text": "- This has the potential",
+      "start": 11400,
+      "duration": 1207,
+      "lang": "en"
+    },
+    {
+      "index": 7,
+      "text": "to be the biggest oil shock in history.",
+      "start": 12607,
+      "duration": 3053,
+      "lang": "en"
+    },
+    {
+      "index": 8,
+      "text": "- All the flights were going to get grounded.",
+      "start": 15660,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 9,
+      "text": "- Airlines are saying expect flight cancellation.",
+      "start": 17130,
+      "duration": 3030,
+      "lang": "en"
+    },
+    {
+      "index": 10,
+      "text": "- They are canceling flights.",
+      "start": 20160,
+      "duration": 1190,
+      "lang": "en"
+    },
+    {
+      "index": 11,
+      "text": "- 13,000 flights have been canceled.",
+      "start": 21350,
+      "duration": 2710,
+      "lang": "en"
+    },
+    {
+      "index": 12,
+      "text": "- Cities were going to go dark.",
+      "start": 24060,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 13,
+      "text": "- The final vessel carrying jet fuel",
+      "start": 25230,
+      "duration": 3000,
+      "lang": "en"
+    },
+    {
+      "index": 14,
+      "text": "into the United Kingdom's going to get here in 48 hours",
+      "start": 28230,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 15,
+      "text": "and there's no more after that.",
+      "start": 30960,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 16,
+      "text": "- Gas was going to triple in price",
+      "start": 32250,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 17,
+      "text": "if you could get any at all.",
+      "start": 33600,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 18,
+      "text": "- Situation's looking pretty dire.",
+      "start": 34740,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 19,
+      "text": "- Gas prices are expected to go up again.",
+      "start": 36150,
+      "duration": 1777,
+      "lang": "en"
+    },
+    {
+      "index": 20,
+      "text": "- It would take months to recover it.",
+      "start": 37927,
+      "duration": 2573,
+      "lang": "en"
+    },
+    {
+      "index": 21,
+      "text": "- This is just hard math.",
+      "start": 40500,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 22,
+      "text": "The world's oil was going to dry up and that would be that.",
+      "start": 41670,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 23,
+      "text": "- How we emerge from this crisis",
+      "start": 43950,
+      "duration": 2490,
+      "lang": "en"
+    },
+    {
+      "index": 24,
+      "text": "will define us for a generation.",
+      "start": 46440,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 25,
+      "text": "- And then it just kind of never happened.",
+      "start": 48960,
+      "duration": 2580,
+      "lang": "en"
+    },
+    {
+      "index": 26,
+      "text": "- Oil futures, they're telling you in August",
+      "start": 51540,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 27,
+      "text": "actually prices are coming down.",
+      "start": 53730,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 28,
+      "text": "- Markets seem to be showing far less alarm than they did",
+      "start": 55110,
+      "duration": 3300,
+      "lang": "en"
+    },
+    {
+      "index": 29,
+      "text": "at the start of the conflict.",
+      "start": 58410,
+      "duration": 1050,
+      "lang": "en"
+    },
+    {
+      "index": 30,
+      "text": "- And it's not like the predictions turned out",
+      "start": 59460,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 31,
+      "text": "to be based on some mistake.",
+      "start": 60600,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 32,
+      "text": "You can go back and check their math.",
+      "start": 61800,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 33,
+      "text": "It's right.",
+      "start": 63000,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 34,
+      "text": "The world should have ended like four weeks ago.",
+      "start": 63833,
+      "duration": 2557,
+      "lang": "en"
+    },
+    {
+      "index": 35,
+      "text": "No, something happened that no one expected,",
+      "start": 66390,
+      "duration": 2850,
+      "lang": "en"
+    },
+    {
+      "index": 36,
+      "text": "that no one though was even possible.",
+      "start": 69240,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 37,
+      "text": "The world got a savior",
+      "start": 71490,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 38,
+      "text": "and it was the last person that you would guess.",
+      "start": 73170,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 39,
+      "text": "Yes, it was the general secretary himself,",
+      "start": 75960,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 40,
+      "text": "the party chairman, Chinese President Xi Jinping.",
+      "start": 78690,
+      "duration": 2913,
+      "lang": "en"
+    },
+    {
+      "index": 41,
+      "text": "And if you're thinking,",
+      "start": 83970,
+      "duration": 967,
+      "lang": "en"
+    },
+    {
+      "index": 42,
+      "text": "\"Okay, why didn't I hear about this?\"",
+      "start": 84937,
+      "duration": 2033,
+      "lang": "en"
+    },
+    {
+      "index": 43,
+      "text": "It's because China pulled it off basically in secret,",
+      "start": 86970,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 44,
+      "text": "which is kind of a weird way",
+      "start": 89910,
+      "duration": 1456,
+      "lang": "en"
+    },
+    {
+      "index": 45,
+      "text": "for an aspiring superpower to save the world.",
+      "start": 91366,
+      "duration": 2234,
+      "lang": "en"
+    },
+    {
+      "index": 46,
+      "text": "And it gets even weirder",
+      "start": 93600,
+      "duration": 1020,
+      "lang": "en"
+    },
+    {
+      "index": 47,
+      "text": "because the country they saved most of all",
+      "start": 94620,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 48,
+      "text": "is their chief rival, the United States.",
+      "start": 96480,
+      "duration": 2463,
+      "lang": "en"
+    },
+    {
+      "index": 49,
+      "text": "Well, today we are going to pull back the curtain",
+      "start": 99840,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 50,
+      "text": "on how China saved the world from the Iran oil shock.",
+      "start": 102210,
+      "duration": 3930,
+      "lang": "en"
+    },
+    {
+      "index": 51,
+      "text": "We're going to start by piecing together what China did",
+      "start": 106140,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 52,
+      "text": "that saved the world since it happened in secret.",
+      "start": 108870,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 53,
+      "text": "We're going to unravel how China did it",
+      "start": 111060,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 54,
+      "text": "because this should simply",
+      "start": 112980,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 55,
+      "text": "not have been possible to pull off,",
+      "start": 114150,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 56,
+      "text": "which will help us to answer why China did it,",
+      "start": 115710,
+      "duration": 2580,
+      "lang": "en"
+    },
+    {
+      "index": 57,
+      "text": "the theories for what was behind all this.",
+      "start": 118290,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 58,
+      "text": "And finally, we are going to look",
+      "start": 120330,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 59,
+      "text": "at what this changes in our global economic order.",
+      "start": 122040,
+      "duration": 3900,
+      "lang": "en"
+    },
+    {
+      "index": 60,
+      "text": "This is a crazy one, guys.",
+      "start": 125940,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 61,
+      "text": "This story is crazy.",
+      "start": 127470,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 62,
+      "text": "So let's get into it.",
+      "start": 129300,
+      "duration": 1053,
+      "lang": "en"
+    },
+    {
+      "index": 63,
+      "text": "Okay, so to understand what China did,",
+      "start": 135330,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 64,
+      "text": "we're going to use the board to map out",
+      "start": 137790,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 65,
+      "text": "the global oil economy,",
+      "start": 139710,
+      "duration": 1950,
+      "lang": "en"
+    },
+    {
+      "index": 66,
+      "text": "what happened to it from the Iran War,",
+      "start": 141660,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 67,
+      "text": "and then what China did",
+      "start": 143190,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 68,
+      "text": "to save it from completely imploding.",
+      "start": 144570,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 69,
+      "text": "Good?",
+      "start": 146670,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 70,
+      "text": "So the main thing about oil",
+      "start": 147503,
+      "duration": 1027,
+      "lang": "en"
+    },
+    {
+      "index": 71,
+      "text": "is it's traded in one unified global market.",
+      "start": 148530,
+      "duration": 3870,
+      "lang": "en"
+    },
+    {
+      "index": 72,
+      "text": "That means all the world's producers",
+      "start": 152400,
+      "duration": 1800,
+      "lang": "en"
+    },
+    {
+      "index": 73,
+      "text": "sell into the same big supply of oil",
+      "start": 154200,
+      "duration": 2700,
+      "lang": "en"
+    },
+    {
+      "index": 74,
+      "text": "which the world's consumers all buy from.",
+      "start": 156900,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 75,
+      "text": "And this is why when something happens",
+      "start": 159420,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 76,
+      "text": "in any part of the oil world,",
+      "start": 161010,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 77,
+      "text": "like say a war in the Middle East, it affects everyone.",
+      "start": 162510,
+      "duration": 3270,
+      "lang": "en"
+    },
+    {
+      "index": 78,
+      "text": "And on any given day,",
+      "start": 165780,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 79,
+      "text": "there are about a hundred million barrels",
+      "start": 167220,
+      "duration": 3000,
+      "lang": "en"
+    },
+    {
+      "index": 80,
+      "text": "moving through this system.",
+      "start": 170220,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 81,
+      "text": "100 million barrels produced every day,",
+      "start": 172290,
+      "duration": 3690,
+      "lang": "en"
+    },
+    {
+      "index": 82,
+      "text": "and that is also 100 million barrels",
+      "start": 175980,
+      "duration": 3300,
+      "lang": "en"
+    },
+    {
+      "index": 83,
+      "text": "that gets consumed every day.",
+      "start": 179280,
+      "duration": 2973,
+      "lang": "en"
+    },
+    {
+      "index": 84,
+      "text": "And it's really important that these two numbers",
+      "start": 184410,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 85,
+      "text": "are the same.",
+      "start": 186780,
+      "duration": 900,
+      "lang": "en"
+    },
+    {
+      "index": 86,
+      "text": "Every drop of oil that gets produced every day",
+      "start": 187680,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 87,
+      "text": "gets sold and consumed every day.",
+      "start": 189960,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 88,
+      "text": "There is zero slack in the system",
+      "start": 191940,
+      "duration": 2340,
+      "lang": "en"
+    },
+    {
+      "index": 89,
+      "text": "and that is why it is such a big deal",
+      "start": 194280,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 90,
+      "text": "when the Iran war starts",
+      "start": 195810,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 91,
+      "text": "and Iran shuts down the Strait of Hormuz.",
+      "start": 197010,
+      "duration": 2913,
+      "lang": "en"
+    },
+    {
+      "index": 92,
+      "text": "And doing this, shutting down the Strait of Hormuz",
+      "start": 202200,
+      "duration": 2550,
+      "lang": "en"
+    },
+    {
+      "index": 93,
+      "text": "blocks 20 million barrels of oil per day",
+      "start": 204750,
+      "duration": 3510,
+      "lang": "en"
+    },
+    {
+      "index": 94,
+      "text": "from reaching the world.",
+      "start": 208260,
+      "duration": 1293,
+      "lang": "en"
+    },
+    {
+      "index": 95,
+      "text": "So now we've only got 80 million barrels a day in output",
+      "start": 212670,
+      "duration": 3450,
+      "lang": "en"
+    },
+    {
+      "index": 96,
+      "text": "to meet 100 million barrels a day in demand, right?",
+      "start": 216120,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 97,
+      "text": "This equation no longer balances.",
+      "start": 219480,
+      "duration": 2610,
+      "lang": "en"
+    },
+    {
+      "index": 98,
+      "text": "We now have a 20 million barrel a day deficit.",
+      "start": 222090,
+      "duration": 4053,
+      "lang": "en"
+    },
+    {
+      "index": 99,
+      "text": "And this deficit means that pretty soon",
+      "start": 228810,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 100,
+      "text": "20% of the oil consuming world was going to power down.",
+      "start": 231690,
+      "duration": 3750,
+      "lang": "en"
+    },
+    {
+      "index": 101,
+      "text": "That's one in five flights,",
+      "start": 235440,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 102,
+      "text": "one in five factories, power plants.",
+      "start": 236700,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 103,
+      "text": "It's a global calamity.",
+      "start": 238710,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 104,
+      "text": "Still the world is ready with a couple of defenses,",
+      "start": 240090,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 105,
+      "text": "including this.",
+      "start": 242550,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 106,
+      "text": "Oil pipelines that go around Hormuz.",
+      "start": 244020,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 107,
+      "text": "- This is the East West pipeline known as Petroline.",
+      "start": 246270,
+      "duration": 3720,
+      "lang": "en"
+    },
+    {
+      "index": 108,
+      "text": "- [Max] That big one is controlled by Saudi Arabia",
+      "start": 249990,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 109,
+      "text": "and then the United Arab Emirates",
+      "start": 252240,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 110,
+      "text": "controls the other main one.",
+      "start": 253560,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 111,
+      "text": "- This is the Abu Dhabi crude oil pipeline.",
+      "start": 254790,
+      "duration": 2973,
+      "lang": "en"
+    },
+    {
+      "index": 112,
+      "text": "- And these pipelines add about",
+      "start": 258990,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 113,
+      "text": "seven million barrels of oil back into the system.",
+      "start": 260160,
+      "duration": 2910,
+      "lang": "en"
+    },
+    {
+      "index": 114,
+      "text": "It's a lot.",
+      "start": 263070,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 115,
+      "text": "Okay, so now just to make sure we're keeping score,",
+      "start": 265380,
+      "duration": 2610,
+      "lang": "en"
+    },
+    {
+      "index": 116,
+      "text": "we're at a negative 13 million barrel a day deficit.",
+      "start": 267990,
+      "duration": 3483,
+      "lang": "en"
+    },
+    {
+      "index": 117,
+      "text": "Right, we removed 20 million barrels from the system,",
+      "start": 273060,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 118,
+      "text": "we add seven million back in, 13 million deficit.",
+      "start": 275280,
+      "duration": 2760,
+      "lang": "en"
+    },
+    {
+      "index": 119,
+      "text": "It's better, but it's still really bad.",
+      "start": 278040,
+      "duration": 2490,
+      "lang": "en"
+    },
+    {
+      "index": 120,
+      "text": "Okay, so you guys are still with me?",
+      "start": 280530,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 121,
+      "text": "The other big defense that the world has",
+      "start": 282120,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 122,
+      "text": "is strategic petroleum reserves,",
+      "start": 284220,
+      "duration": 2550,
+      "lang": "en"
+    },
+    {
+      "index": 123,
+      "text": "emergency stockpiles of oil.",
+      "start": 286770,
+      "duration": 1623,
+      "lang": "en"
+    },
+    {
+      "index": 124,
+      "text": "These tanks are all full of oil.",
+      "start": 290280,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 125,
+      "text": "America and other countries",
+      "start": 292110,
+      "duration": 990,
+      "lang": "en"
+    },
+    {
+      "index": 126,
+      "text": "keep huge stockpiles like this for emergencies.",
+      "start": 293100,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 127,
+      "text": "And they're even bigger US stocks.",
+      "start": 295350,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 128,
+      "text": "I can't show you because they're kept in huge salt caves",
+      "start": 296760,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 129,
+      "text": "thousands of feet underground.",
+      "start": 299070,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 130,
+      "text": "Tons of countries have these reserves.",
+      "start": 300240,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 131,
+      "text": "Here's Japan's, one of the world's largest.",
+      "start": 301920,
+      "duration": 1950,
+      "lang": "en"
+    },
+    {
+      "index": 132,
+      "text": "A week into the war, 32 of these countries got together",
+      "start": 303870,
+      "duration": 2970,
+      "lang": "en"
+    },
+    {
+      "index": 133,
+      "text": "and all opened up their reserves to the world.",
+      "start": 306840,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 134,
+      "text": "This was the largest release of reserve oil in history.",
+      "start": 308970,
+      "duration": 3600,
+      "lang": "en"
+    },
+    {
+      "index": 135,
+      "text": "Hundreds of millions of barrels from dozens of countries.",
+      "start": 312570,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 136,
+      "text": "It was a huge deal,",
+      "start": 314190,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 137,
+      "text": "but the war dragged on and on",
+      "start": 315570,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 138,
+      "text": "and it was stretching out these releases.",
+      "start": 317730,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 139,
+      "text": "So in the end, they added up to an average",
+      "start": 319860,
+      "duration": 2850,
+      "lang": "en"
+    },
+    {
+      "index": 140,
+      "text": "two and a half million barrels per day.",
+      "start": 322710,
+      "duration": 2073,
+      "lang": "en"
+    },
+    {
+      "index": 141,
+      "text": "So these were the world's big defenses for a mass oil shock",
+      "start": 326430,
+      "duration": 4740,
+      "lang": "en"
+    },
+    {
+      "index": 142,
+      "text": "like what happened in the Iran War.",
+      "start": 331170,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 143,
+      "text": "And together, these bring our deficit down",
+      "start": 332700,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 144,
+      "text": "to 10 and a half million barrels a day.",
+      "start": 335490,
+      "duration": 2733,
+      "lang": "en"
+    },
+    {
+      "index": 145,
+      "text": "This is still a calamity,",
+      "start": 339810,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 146,
+      "text": "more than a 10th of global energy usage,",
+      "start": 341580,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 147,
+      "text": "and it gets worse.",
+      "start": 343710,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 148,
+      "text": "Those 32 emergency stockpiles from all over the world,",
+      "start": 344850,
+      "duration": 3390,
+      "lang": "en"
+    },
+    {
+      "index": 149,
+      "text": "they are running out.",
+      "start": 348240,
+      "duration": 1050,
+      "lang": "en"
+    },
+    {
+      "index": 150,
+      "text": "Here's America's reserve.",
+      "start": 350880,
+      "duration": 1383,
+      "lang": "en"
+    },
+    {
+      "index": 151,
+      "text": "It's dropping hard and fast towards zero.",
+      "start": 353400,
+      "duration": 2133,
+      "lang": "en"
+    },
+    {
+      "index": 152,
+      "text": "But here's Japan.",
+      "start": 356970,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 153,
+      "text": "It's same thing, absolutely plunging.",
+      "start": 358530,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 154,
+      "text": "So not only are these reserves",
+      "start": 360390,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 155,
+      "text": "tiny relative to the hole they have to fill,",
+      "start": 361920,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 156,
+      "text": "but they're only good for a few months",
+      "start": 364110,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 157,
+      "text": "and then they are gone, man.",
+      "start": 365730,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 158,
+      "text": "Which is exactly why everyone looked at all this and said,",
+      "start": 367620,
+      "duration": 3487,
+      "lang": "en"
+    },
+    {
+      "index": 159,
+      "text": "\"Yeah, the world is ending.\"",
+      "start": 371107,
+      "duration": 1793,
+      "lang": "en"
+    },
+    {
+      "index": 160,
+      "text": "Until a few weeks in,",
+      "start": 372900,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 161,
+      "text": "people started to notice something weird happening.",
+      "start": 374970,
+      "duration": 2610,
+      "lang": "en"
+    },
+    {
+      "index": 162,
+      "text": "- Good afternoon everyone or good morning",
+      "start": 377580,
+      "duration": 1855,
+      "lang": "en"
+    },
+    {
+      "index": 163,
+      "text": "or good evening or wherever you are.",
+      "start": 379435,
+      "duration": 2615,
+      "lang": "en"
+    },
+    {
+      "index": 164,
+      "text": "- [Max] This is from a conference call,",
+      "start": 382050,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 165,
+      "text": "a business intelligence firm called Kpler",
+      "start": 383190,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 166,
+      "text": "held back in April,",
+      "start": 385170,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 167,
+      "text": "walking its clients through",
+      "start": 386370,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 168,
+      "text": "what was going on in the oil market.",
+      "start": 387570,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 169,
+      "text": "And they focused on one thing in particular.",
+      "start": 389130,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 170,
+      "text": "- What's happening with China, right?",
+      "start": 391050,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 171,
+      "text": "So I just want to look at China monthly imports right now.",
+      "start": 392670,
+      "duration": 3060,
+      "lang": "en"
+    },
+    {
+      "index": 172,
+      "text": "- [Max] China's oil imports, that's those bars in the chart,",
+      "start": 395730,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 173,
+      "text": "had suddenly dropped to half.",
+      "start": 398370,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 174,
+      "text": "Half.",
+      "start": 400650,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 175,
+      "text": "- See, and how much longer, how long could that carry on?",
+      "start": 401483,
+      "duration": 1717,
+      "lang": "en"
+    },
+    {
+      "index": 176,
+      "text": "- I know those guys did not seem super emotive about this,",
+      "start": 403200,
+      "duration": 2820,
+      "lang": "en"
+    },
+    {
+      "index": 177,
+      "text": "you know, market analysts.",
+      "start": 406020,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 178,
+      "text": "But trust me when I say this discovery",
+      "start": 407460,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 179,
+      "text": "made people lose their minds.",
+      "start": 409830,
+      "duration": 3090,
+      "lang": "en"
+    },
+    {
+      "index": 180,
+      "text": "And let me give you some context for why.",
+      "start": 412920,
+      "duration": 2163,
+      "lang": "en"
+    },
+    {
+      "index": 181,
+      "text": "This shows China's oil imports since 1980,",
+      "start": 418110,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 182,
+      "text": "and that rise is one of the biggest stories",
+      "start": 420990,
+      "duration": 2340,
+      "lang": "en"
+    },
+    {
+      "index": 183,
+      "text": "in the history of oil.",
+      "start": 423330,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 184,
+      "text": "This is where China surpassed the US",
+      "start": 424590,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 185,
+      "text": "as the world's biggest oil importer and just kept going.",
+      "start": 426480,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 186,
+      "text": "Oil has powered China's rise from the start.",
+      "start": 429120,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 187,
+      "text": "Fuels their factories, latest their cities.",
+      "start": 431190,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 188,
+      "text": "It's the engine of their economy.",
+      "start": 433500,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 189,
+      "text": "Yes, China has been building lots of solar and wind,",
+      "start": 435210,
+      "duration": 2430,
+      "lang": "en"
+    },
+    {
+      "index": 190,
+      "text": "but renewables like that still produce",
+      "start": 437640,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 191,
+      "text": "just a fraction of the power that they get",
+      "start": 439140,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 192,
+      "text": "from coal, gas, and especially oil,",
+      "start": 441420,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 193,
+      "text": "which is why it seemed impossible",
+      "start": 444300,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 194,
+      "text": "that right after the Iran War started,",
+      "start": 446370,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 195,
+      "text": "China's imports that have been rising for decades",
+      "start": 448290,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 196,
+      "text": "dropped overnight by half.",
+      "start": 450540,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 197,
+      "text": "This decline here, five and a half million barrels a day",
+      "start": 452640,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 198,
+      "text": "is equivalent to more than all of India's oil imports.",
+      "start": 455580,
+      "duration": 3033,
+      "lang": "en"
+    },
+    {
+      "index": 199,
+      "text": "More than Europe's five biggest economies combined.",
+      "start": 460110,
+      "duration": 2703,
+      "lang": "en"
+    },
+    {
+      "index": 200,
+      "text": "This was the thing that saved the world, China.",
+      "start": 463710,
+      "duration": 3060,
+      "lang": "en"
+    },
+    {
+      "index": 201,
+      "text": "China took its imports",
+      "start": 466770,
+      "duration": 1810,
+      "lang": "en"
+    },
+    {
+      "index": 202,
+      "text": "and magically cut it",
+      "start": 470490,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 203,
+      "text": "by five and a half million barrels a day.",
+      "start": 471930,
+      "duration": 3033,
+      "lang": "en"
+    },
+    {
+      "index": 204,
+      "text": "Which means that what started",
+      "start": 476820,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 205,
+      "text": "as a 20 million barrel a day deficit from Hormuz closing",
+      "start": 478140,
+      "duration": 3210,
+      "lang": "en"
+    },
+    {
+      "index": 206,
+      "text": "is now after all those alternate pipelines,",
+      "start": 481350,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 207,
+      "text": "plus emergency stockpiles,",
+      "start": 483870,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 208,
+      "text": "plus China doing whatever it's doing,",
+      "start": 485250,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 209,
+      "text": "means that deficit is now down",
+      "start": 487290,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 210,
+      "text": "to just five million barrels a day.",
+      "start": 489510,
+      "duration": 2793,
+      "lang": "en"
+    },
+    {
+      "index": 211,
+      "text": "And look, that's not great.",
+      "start": 493500,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 212,
+      "text": "That's still pretty serious,",
+      "start": 494670,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 213,
+      "text": "but everybody shaving 5% off of their oil usage",
+      "start": 496080,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 214,
+      "text": "instead of 20%",
+      "start": 499200,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 215,
+      "text": "is the difference between mass blackouts",
+      "start": 500550,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 216,
+      "text": "and economic collapse,",
+      "start": 502470,
+      "duration": 1050,
+      "lang": "en"
+    },
+    {
+      "index": 217,
+      "text": "which is what we though we'd get,",
+      "start": 503520,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 218,
+      "text": "and a few months of higher gas prices,",
+      "start": 504690,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 219,
+      "text": "localized flight cancellations,",
+      "start": 506970,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 220,
+      "text": "and some gas lines in Southeast Asia,",
+      "start": 508530,
+      "duration": 1800,
+      "lang": "en"
+    },
+    {
+      "index": 221,
+      "text": "which is what we got instead.",
+      "start": 510330,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 222,
+      "text": "So yeah, I would call that basically saving the world",
+      "start": 511590,
+      "duration": 2970,
+      "lang": "en"
+    },
+    {
+      "index": 223,
+      "text": "really thanks to this guy.",
+      "start": 514560,
+      "duration": 1593,
+      "lang": "en"
+    },
+    {
+      "index": 224,
+      "text": "And before we go further, I want to thank our sponsor",
+      "start": 517620,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 225,
+      "text": "for enabling us to bring you this video.",
+      "start": 520560,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 226,
+      "text": "Sponsors are how we're able to do what we do.",
+      "start": 522660,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 227,
+      "text": "So thank you to Outskill.",
+      "start": 524550,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 228,
+      "text": "And if you don't know Outskill,",
+      "start": 526140,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 229,
+      "text": "helping you get smarter is actually what they do too.",
+      "start": 527700,
+      "duration": 2580,
+      "lang": "en"
+    },
+    {
+      "index": 230,
+      "text": "If you feel like you need to know,",
+      "start": 530280,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 231,
+      "text": "want to know how to use the latest AI tools",
+      "start": 532380,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 232,
+      "text": "to get ahead and what viewers of this channel know",
+      "start": 534270,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 233,
+      "text": "is an increasingly competitive job market or some,",
+      "start": 536550,
+      "duration": 3150,
+      "lang": "en"
+    },
+    {
+      "index": 234,
+      "text": "but you want to know more,",
+      "start": 539700,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 235,
+      "text": "Outskill is offering its mastermind course",
+      "start": 541050,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 236,
+      "text": "this and every weekend, 10:00am to 7:00pm two days,",
+      "start": 543420,
+      "duration": 3720,
+      "lang": "en"
+    },
+    {
+      "index": 237,
+      "text": "lots of practical knowledge,",
+      "start": 547140,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 238,
+      "text": "expert mentoring, and real world tools.",
+      "start": 548520,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 239,
+      "text": "Outskill actually believes so much in this course",
+      "start": 550620,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 240,
+      "text": "that they are making it free to our viewers.",
+      "start": 552720,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 241,
+      "text": "Just use the link in the description to register.",
+      "start": 554940,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 242,
+      "text": "You'll learn deep research with Claude,",
+      "start": 557130,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 243,
+      "text": "build artifacts and dashboards, create presentations,",
+      "start": 559050,
+      "duration": 3210,
+      "lang": "en"
+    },
+    {
+      "index": 244,
+      "text": "use Claude connectors to automate tasks,",
+      "start": 562260,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 245,
+      "text": "build custom agents",
+      "start": 564720,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 246,
+      "text": "and generate videos and visuals.",
+      "start": 566070,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 247,
+      "text": "Look, I know AI, it's a sensitive topic.",
+      "start": 567900,
+      "duration": 3480,
+      "lang": "en"
+    },
+    {
+      "index": 248,
+      "text": "I get it, we talk about it on the channel",
+      "start": 571380,
+      "duration": 2670,
+      "lang": "en"
+    },
+    {
+      "index": 249,
+      "text": "and there are a lot of companies in this field",
+      "start": 574050,
+      "duration": 2400,
+      "lang": "en"
+    },
+    {
+      "index": 250,
+      "text": "I would not partner with.",
+      "start": 576450,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 251,
+      "text": "I partner with Outskill because it's a service",
+      "start": 578070,
+      "duration": 3150,
+      "lang": "en"
+    },
+    {
+      "index": 252,
+      "text": "by and for human beings who,",
+      "start": 581220,
+      "duration": 2670,
+      "lang": "en"
+    },
+    {
+      "index": 253,
+      "text": "however you, we feel about this technology,",
+      "start": 583890,
+      "duration": 3960,
+      "lang": "en"
+    },
+    {
+      "index": 254,
+      "text": "want to better learn how to wield it.",
+      "start": 587850,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 255,
+      "text": "It's why Outskills courses have already been attended",
+      "start": 589440,
+      "duration": 2580,
+      "lang": "en"
+    },
+    {
+      "index": 256,
+      "text": "by more than 10 million people.",
+      "start": 592020,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 257,
+      "text": "Sign up now and you also get as free bonuses",
+      "start": 593760,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 258,
+      "text": "a full AI prompt library,",
+      "start": 596400,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 259,
+      "text": "50 secret cloud codes,",
+      "start": 598080,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 260,
+      "text": "and a personalized AI toolkit builder.",
+      "start": 599580,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 261,
+      "text": "So if you're interested, you can sign up for free",
+      "start": 601800,
+      "duration": 2550,
+      "lang": "en"
+    },
+    {
+      "index": 262,
+      "text": "using the link in the QR code or in the video description.",
+      "start": 604350,
+      "duration": 3540,
+      "lang": "en"
+    },
+    {
+      "index": 263,
+      "text": "So now let's get back to our story.",
+      "start": 607890,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 264,
+      "text": "But China has not said a thing,",
+      "start": 609750,
+      "duration": 2850,
+      "lang": "en"
+    },
+    {
+      "index": 265,
+      "text": "hasn't acknowledged they're doing this,",
+      "start": 612600,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 266,
+      "text": "hasn't said how or why,",
+      "start": 614070,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 267,
+      "text": "just stopped importing oil",
+      "start": 615480,
+      "duration": 1582,
+      "lang": "en"
+    },
+    {
+      "index": 268,
+      "text": "by the largest amount",
+      "start": 617062,
+      "duration": 1808,
+      "lang": "en"
+    },
+    {
+      "index": 269,
+      "text": "any country has ever stopped importing oil.",
+      "start": 618870,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 270,
+      "text": "Poof!",
+      "start": 621660,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 271,
+      "text": "Overnight, cold turkeyed this substance",
+      "start": 622493,
+      "duration": 1927,
+      "lang": "en"
+    },
+    {
+      "index": 272,
+      "text": "that the entire industrialized world in China especially",
+      "start": 624420,
+      "duration": 3900,
+      "lang": "en"
+    },
+    {
+      "index": 273,
+      "text": "have made essential to their daily functioning",
+      "start": 628320,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 274,
+      "text": "for a hundred years.",
+      "start": 630780,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 275,
+      "text": "And since China won't tell us how they did this,",
+      "start": 632220,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 276,
+      "text": "we are just going to have to piece it together ourselves,",
+      "start": 634590,
+      "duration": 2670,
+      "lang": "en"
+    },
+    {
+      "index": 277,
+      "text": "starting with a quiet change China made",
+      "start": 637260,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 278,
+      "text": "right at the start of the war.",
+      "start": 639300,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 279,
+      "text": "This article from two weeks into the war",
+      "start": 641910,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 280,
+      "text": "revealed that China had ordered a total ban on fuel exports.",
+      "start": 643500,
+      "duration": 4230,
+      "lang": "en"
+    },
+    {
+      "index": 281,
+      "text": "The context here is China has a huge refinery industry",
+      "start": 647730,
+      "duration": 3450,
+      "lang": "en"
+    },
+    {
+      "index": 282,
+      "text": "and what it does is it turns raw crude oil",
+      "start": 651180,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 283,
+      "text": "into stuff like jet fuel and gasoline.",
+      "start": 653370,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 284,
+      "text": "And most of those fuels stay within China,",
+      "start": 655380,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 285,
+      "text": "but because they're good at it,",
+      "start": 657240,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 286,
+      "text": "they export a bunch of it to all over Asia.",
+      "start": 658830,
+      "duration": 2400,
+      "lang": "en"
+    },
+    {
+      "index": 287,
+      "text": "Until March when China banned those refiners",
+      "start": 661230,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 288,
+      "text": "from exporting a drop of fuel.",
+      "start": 663450,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 289,
+      "text": "And at the time, everyone assumed",
+      "start": 665340,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 290,
+      "text": "this was to preempt a potential fuel shortage within China",
+      "start": 666750,
+      "duration": 3030,
+      "lang": "en"
+    },
+    {
+      "index": 291,
+      "text": "by building up stockpiles.",
+      "start": 669780,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 292,
+      "text": "One reason I say assume is that this ban was imposed,",
+      "start": 671100,
+      "duration": 2670,
+      "lang": "en"
+    },
+    {
+      "index": 293,
+      "text": "that's right, in secret.",
+      "start": 673770,
+      "duration": 990,
+      "lang": "en"
+    },
+    {
+      "index": 294,
+      "text": "That's why the story is credited",
+      "start": 674760,
+      "duration": 1050,
+      "lang": "en"
+    },
+    {
+      "index": 295,
+      "text": "to four sources with knowledge of the matter.",
+      "start": 675810,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 296,
+      "text": "That means off the record.",
+      "start": 677670,
+      "duration": 1020,
+      "lang": "en"
+    },
+    {
+      "index": 297,
+      "text": "But that assumption about why China was doing this",
+      "start": 678690,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 298,
+      "text": "was wrong.",
+      "start": 680700,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 299,
+      "text": "Turns out it wasn't a stockpile jet fuel or gasoline.",
+      "start": 681533,
+      "duration": 1927,
+      "lang": "en"
+    },
+    {
+      "index": 300,
+      "text": "It was because China was about to stop importing",
+      "start": 683460,
+      "duration": 2490,
+      "lang": "en"
+    },
+    {
+      "index": 301,
+      "text": "half of its oil",
+      "start": 685950,
+      "duration": 930,
+      "lang": "en"
+    },
+    {
+      "index": 302,
+      "text": "so those refineries were about to do a lot less refining.",
+      "start": 686880,
+      "duration": 3153,
+      "lang": "en"
+    },
+    {
+      "index": 303,
+      "text": "So rough math, I'm going to say that accounts",
+      "start": 693330,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 304,
+      "text": "for cutting about half a million barrels in daily demand",
+      "start": 695460,
+      "duration": 3630,
+      "lang": "en"
+    },
+    {
+      "index": 305,
+      "text": "out of the five and a half million that China cut overall.",
+      "start": 699090,
+      "duration": 2723,
+      "lang": "en"
+    },
+    {
+      "index": 306,
+      "text": "Okay, next big move.",
+      "start": 703800,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 307,
+      "text": "And if you care about climate change or air quality,",
+      "start": 705000,
+      "duration": 2400,
+      "lang": "en"
+    },
+    {
+      "index": 308,
+      "text": "you're going to want to cover your ears here.",
+      "start": 707400,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 309,
+      "text": "Coal.",
+      "start": 709710,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 310,
+      "text": "This is from a few weeks before the war,",
+      "start": 713760,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 311,
+      "text": "why China is building so many coal plants.",
+      "start": 715620,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 312,
+      "text": "And it found that China commissioned",
+      "start": 718080,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 313,
+      "text": "more than 50 large scale plants last year alone.",
+      "start": 719340,
+      "duration": 2580,
+      "lang": "en"
+    },
+    {
+      "index": 314,
+      "text": "So once the war started,",
+      "start": 721920,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 315,
+      "text": "China spun a bunch of those plants online",
+      "start": 723150,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 316,
+      "text": "or pushed its existing plants",
+      "start": 725160,
+      "duration": 1650,
+      "lang": "en"
+    },
+    {
+      "index": 317,
+      "text": "into overdrive or probably both.",
+      "start": 726810,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 318,
+      "text": "But by April, it was burning a record amount of coal.",
+      "start": 729000,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 319,
+      "text": "China also figured out a way to use coal",
+      "start": 732120,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 320,
+      "text": "instead of oil to make plastics,",
+      "start": 733980,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 321,
+      "text": "which usually is a petroleum product.",
+      "start": 735690,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 322,
+      "text": "They also found a way to use coal to make fertilizer,",
+      "start": 737520,
+      "duration": 3540,
+      "lang": "en"
+    },
+    {
+      "index": 323,
+      "text": "which usually also is an oil byproduct,",
+      "start": 741060,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 324,
+      "text": "all of which allowed them to,",
+      "start": 743370,
+      "duration": 1833,
+      "lang": "en"
+    },
+    {
+      "index": 325,
+      "text": "stay it with me, import less oil.",
+      "start": 745203,
+      "duration": 2817,
+      "lang": "en"
+    },
+    {
+      "index": 326,
+      "text": "And we're not sure the exact amount,",
+      "start": 748020,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 327,
+      "text": "but let's just say, and this is a guess,",
+      "start": 749790,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 328,
+      "text": "another half a million barrels.",
+      "start": 752070,
+      "duration": 1743,
+      "lang": "en"
+    },
+    {
+      "index": 329,
+      "text": "Now, by all accounts,",
+      "start": 755850,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 330,
+      "text": "life remained completely normal within China,",
+      "start": 757260,
+      "duration": 2430,
+      "lang": "en"
+    },
+    {
+      "index": 331,
+      "text": "like even more so than it did in the United States",
+      "start": 759690,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 332,
+      "text": "where gas prices were crazy.",
+      "start": 761790,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 333,
+      "text": "But China did find some ways",
+      "start": 763770,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 334,
+      "text": "to nudge people to use less fossil fuels.",
+      "start": 765270,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 335,
+      "text": "According to this Wall Street Journal story, for example,",
+      "start": 767730,
+      "duration": 2490,
+      "lang": "en"
+    },
+    {
+      "index": 336,
+      "text": "after Chinese airlines canceled a bunch of internal flights",
+      "start": 770220,
+      "duration": 3030,
+      "lang": "en"
+    },
+    {
+      "index": 337,
+      "text": "and air passenger traffic declined about 6%,",
+      "start": 773250,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 338,
+      "text": "there was also a 5% rise in rail passenger traffic,",
+      "start": 775980,
+      "duration": 3150,
+      "lang": "en"
+    },
+    {
+      "index": 339,
+      "text": "meaning people just took the train.",
+      "start": 779130,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 340,
+      "text": "And by May, electric cars",
+      "start": 780960,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 341,
+      "text": "accounted for about a quarter of all vehicles on the road,",
+      "start": 782370,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 342,
+      "text": "up 33% from a year earlier.",
+      "start": 784740,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 343,
+      "text": "Now, China can't make and distribute",
+      "start": 786660,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 344,
+      "text": "50 million new EVs overnight,",
+      "start": 788700,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 345,
+      "text": "but if you already got a large fleet",
+      "start": 790380,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 346,
+      "text": "in people's hands from years of subsidies,",
+      "start": 791790,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 347,
+      "text": "then when gas prices spike",
+      "start": 793890,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 348,
+      "text": "because stay with me, China stopped importing oil,",
+      "start": 795420,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 349,
+      "text": "people with gas cars will start carpooling",
+      "start": 798540,
+      "duration": 1950,
+      "lang": "en"
+    },
+    {
+      "index": 350,
+      "text": "in their friend's Xiaomi SU7 EV.",
+      "start": 800490,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 351,
+      "text": "They'll start taking the train",
+      "start": 802560,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 352,
+      "text": "and gas consumption will go down.",
+      "start": 803910,
+      "duration": 1833,
+      "lang": "en"
+    },
+    {
+      "index": 353,
+      "text": "The effect of this one is hard to measure,",
+      "start": 807990,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 354,
+      "text": "but let's just call it another half a million barrels.",
+      "start": 809400,
+      "duration": 3453,
+      "lang": "en"
+    },
+    {
+      "index": 355,
+      "text": "Remember, that is more than half of all the oil",
+      "start": 814260,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 356,
+      "text": "that France imports.",
+      "start": 816240,
+      "duration": 900,
+      "lang": "en"
+    },
+    {
+      "index": 357,
+      "text": "It is a lot.",
+      "start": 817140,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 358,
+      "text": "But we're still not really close",
+      "start": 817973,
+      "duration": 1417,
+      "lang": "en"
+    },
+    {
+      "index": 359,
+      "text": "to explaining all 5.5 million",
+      "start": 819390,
+      "duration": 2430,
+      "lang": "en"
+    },
+    {
+      "index": 360,
+      "text": "in China's disappearing demand.",
+      "start": 821820,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 361,
+      "text": "And that's because we've got one big thing left.",
+      "start": 823440,
+      "duration": 2550,
+      "lang": "en"
+    },
+    {
+      "index": 362,
+      "text": "This is China's real secret weapon",
+      "start": 825990,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 363,
+      "text": "and it's something that we, the world",
+      "start": 827670,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 364,
+      "text": "did not know about until now.",
+      "start": 829740,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 365,
+      "text": "It's in silos just like this.",
+      "start": 831240,
+      "duration": 2163,
+      "lang": "en"
+    },
+    {
+      "index": 366,
+      "text": "This is a chart of the world's largest oil reserves",
+      "start": 835230,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 367,
+      "text": "at the start of the war before they got used up,",
+      "start": 837690,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 368,
+      "text": "but there's one country missing here, China.",
+      "start": 839700,
+      "duration": 2200,
+      "lang": "en"
+    },
+    {
+      "index": 369,
+      "text": "And the size of China's oil reserve is,",
+      "start": 843030,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 370,
+      "text": "you guessed it, a state secret.",
+      "start": 845100,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 371,
+      "text": "But we can get a decent idea.",
+      "start": 846870,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 372,
+      "text": "These are some of China's crude oil silos",
+      "start": 848430,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 373,
+      "text": "and the two main things to know about them",
+      "start": 850620,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 374,
+      "text": "are that they're really, really big",
+      "start": 852690,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 375,
+      "text": "and that the domes on them go up and down",
+      "start": 854400,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 376,
+      "text": "based on how full they are,",
+      "start": 856680,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 377,
+      "text": "all of which is fully visible from space.",
+      "start": 857850,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 378,
+      "text": "There are people whose whole job is to count those silos",
+      "start": 860490,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 379,
+      "text": "and how full they are",
+      "start": 863610,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 380,
+      "text": "to track how much oil China has saved up.",
+      "start": 864840,
+      "duration": 2430,
+      "lang": "en"
+    },
+    {
+      "index": 381,
+      "text": "They have more sophisticated ways",
+      "start": 867270,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 382,
+      "text": "to check those numbers too,",
+      "start": 868530,
+      "duration": 1080,
+      "lang": "en"
+    },
+    {
+      "index": 383,
+      "text": "but the silo counting works pretty well.",
+      "start": 869610,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 384,
+      "text": "And those silos alone",
+      "start": 871380,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 385,
+      "text": "suggest China has 1.4 billion barrels saved up.",
+      "start": 872610,
+      "duration": 3870,
+      "lang": "en"
+    },
+    {
+      "index": 386,
+      "text": "That's more than every other country",
+      "start": 876480,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 387,
+      "text": "stockpile added together.",
+      "start": 878070,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 388,
+      "text": "It would be enough to fill a 12-foot tank",
+      "start": 879360,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 389,
+      "text": "the size of Manhattan.",
+      "start": 881280,
+      "duration": 1020,
+      "lang": "en"
+    },
+    {
+      "index": 390,
+      "text": "And this is just the oil we know about.",
+      "start": 882300,
+      "duration": 1860,
+      "lang": "en"
+    },
+    {
+      "index": 391,
+      "text": "China also has oil stashed",
+      "start": 884160,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 392,
+      "text": "at factories and refineries around the country,",
+      "start": 885660,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 393,
+      "text": "and it's been building huge underground caverns",
+      "start": 887880,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 394,
+      "text": "to store oil away where no one can count it up.",
+      "start": 890130,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 395,
+      "text": "So actually, China might have way more",
+      "start": 892140,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 396,
+      "text": "than even the 1.4 billion barrels that we can see,",
+      "start": 894510,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 397,
+      "text": "which means China could use up,",
+      "start": 897450,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 398,
+      "text": "let's say, four million barrels a day from those reserves",
+      "start": 898740,
+      "duration": 2910,
+      "lang": "en"
+    },
+    {
+      "index": 399,
+      "text": "and it would still take more than a year to run out.",
+      "start": 901650,
+      "duration": 3063,
+      "lang": "en"
+    },
+    {
+      "index": 400,
+      "text": "And maybe even a lot more",
+      "start": 906960,
+      "duration": 1020,
+      "lang": "en"
+    },
+    {
+      "index": 401,
+      "text": "depending on how many of those caves it has.",
+      "start": 907980,
+      "duration": 1800,
+      "lang": "en"
+    },
+    {
+      "index": 402,
+      "text": "Now I cannot tell you how crazy this is.",
+      "start": 909780,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 403,
+      "text": "India, for example,",
+      "start": 912240,
+      "duration": 900,
+      "lang": "en"
+    },
+    {
+      "index": 404,
+      "text": "could live off of its stockpile for about four days.",
+      "start": 913140,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 405,
+      "text": "Europe stockpile could serve it for maybe 10 or 20 days.",
+      "start": 915930,
+      "duration": 2757,
+      "lang": "en"
+    },
+    {
+      "index": 406,
+      "text": "And the US stockpile, which took decades to build up",
+      "start": 918687,
+      "duration": 2913,
+      "lang": "en"
+    },
+    {
+      "index": 407,
+      "text": "and is the envy of the world",
+      "start": 921600,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 408,
+      "text": "would be good for 60 days,",
+      "start": 923070,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 409,
+      "text": "which is why even with the US still importing",
+      "start": 924660,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 410,
+      "text": "from all sorts of sources outside the Middle East,",
+      "start": 926880,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 411,
+      "text": "Trump cried uncle three months to the war.",
+      "start": 929040,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 412,
+      "text": "So you can understand these shock waves it sent",
+      "start": 930780,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 413,
+      "text": "when it turned out China, the world's biggest oil consumer,",
+      "start": 933150,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 414,
+      "text": "had saved up so much",
+      "start": 935940,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 415,
+      "text": "it could cut itself off in the world like this",
+      "start": 937440,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 416,
+      "text": "without breaking a sweat.",
+      "start": 939360,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 417,
+      "text": "But this raises a whole other question.",
+      "start": 940890,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 418,
+      "text": "How did China stow away this secret",
+      "start": 942930,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 419,
+      "text": "and impossibly huge universe of oil, a Manhattan of oil?",
+      "start": 945180,
+      "duration": 3600,
+      "lang": "en"
+    },
+    {
+      "index": 420,
+      "text": "Where did it all come from?",
+      "start": 948780,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 421,
+      "text": "And there are basically two answers to this.",
+      "start": 950010,
+      "duration": 2550,
+      "lang": "en"
+    },
+    {
+      "index": 422,
+      "text": "Incident number one is Iran,",
+      "start": 952560,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 423,
+      "text": "and incident number two is Russia.",
+      "start": 954060,
+      "duration": 1983,
+      "lang": "en"
+    },
+    {
+      "index": 424,
+      "text": "Let me explain.",
+      "start": 957390,
+      "duration": 870,
+      "lang": "en"
+    },
+    {
+      "index": 425,
+      "text": "- Iran and Libya sanctions bill I signed today",
+      "start": 958260,
+      "duration": 2700,
+      "lang": "en"
+    },
+    {
+      "index": 426,
+      "text": "will help to deny those countries the money they need",
+      "start": 960960,
+      "duration": 2970,
+      "lang": "en"
+    },
+    {
+      "index": 427,
+      "text": "to finance international terrorism.",
+      "start": 963930,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 428,
+      "text": "- [Max] 1996, President Bill Clinton signs a law,",
+      "start": 966090,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 429,
+      "text": "cutting off the world from buying Iranian oil.",
+      "start": 969030,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 430,
+      "text": "We'll get to how in a second.",
+      "start": 971490,
+      "duration": 1080,
+      "lang": "en"
+    },
+    {
+      "index": 431,
+      "text": "2022, Russia invades Ukraine",
+      "start": 972570,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 432,
+      "text": "and the head of the European Union makes a big announcement.",
+      "start": 975030,
+      "duration": 2400,
+      "lang": "en"
+    },
+    {
+      "index": 433,
+      "text": "- So today we will propose",
+      "start": 977430,
+      "duration": 2700,
+      "lang": "en"
+    },
+    {
+      "index": 434,
+      "text": "to ban all Russian oil from Europe.",
+      "start": 980130,
+      "duration": 3090,
+      "lang": "en"
+    },
+    {
+      "index": 435,
+      "text": "- [Max] Which the US and other big countries joined,",
+      "start": 983220,
+      "duration": 1800,
+      "lang": "en"
+    },
+    {
+      "index": 436,
+      "text": "all of which did.",
+      "start": 985020,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 437,
+      "text": "You know, it's easier actually if I show you on the board.",
+      "start": 986550,
+      "duration": 2723,
+      "lang": "en"
+    },
+    {
+      "index": 438,
+      "text": "So two of the world's biggest oil producers,",
+      "start": 990900,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 439,
+      "text": "Russian and Iran, were mostly cut off",
+      "start": 992940,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 440,
+      "text": "from this global oil market.",
+      "start": 994620,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 441,
+      "text": "All that oil sloshing around stuck with nowhere to go,",
+      "start": 996660,
+      "duration": 3210,
+      "lang": "en"
+    },
+    {
+      "index": 442,
+      "text": "nobody to buy it.",
+      "start": 999870,
+      "duration": 840,
+      "lang": "en"
+    },
+    {
+      "index": 443,
+      "text": "But when you know it, bit by bit,",
+      "start": 1000710,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 444,
+      "text": "actually, let me show you this too on the board.",
+      "start": 1003170,
+      "duration": 2183,
+      "lang": "en"
+    },
+    {
+      "index": 445,
+      "text": "China found a way",
+      "start": 1008000,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 446,
+      "text": "to get all that forbidden Iranian and Russian oil.",
+      "start": 1009320,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 447,
+      "text": "This is a report by a think tank",
+      "start": 1012110,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 448,
+      "text": "called the Atlantic Council,",
+      "start": 1013640,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 449,
+      "text": "tracking China's secret oil trade with Iran and Russia.",
+      "start": 1014930,
+      "duration": 3090,
+      "lang": "en"
+    },
+    {
+      "index": 450,
+      "text": "And they did it by using dark fleet tankers",
+      "start": 1018020,
+      "duration": 2430,
+      "lang": "en"
+    },
+    {
+      "index": 451,
+      "text": "that operate outside of maritime laws",
+      "start": 1020450,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 452,
+      "text": "and obscure the operations.",
+      "start": 1022520,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 453,
+      "text": "They rebrand the oil as Malaysian,",
+      "start": 1024140,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 454,
+      "text": "funnel it through small independent refineries",
+      "start": 1026030,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 455,
+      "text": "called Teapots,",
+      "start": 1028100,
+      "duration": 1080,
+      "lang": "en"
+    },
+    {
+      "index": 456,
+      "text": "and then route the money via smaller",
+      "start": 1029180,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 457,
+      "text": "back alley financial institutions",
+      "start": 1031250,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 458,
+      "text": "with names like Bank of Kunlun.",
+      "start": 1032990,
+      "duration": 1650,
+      "lang": "en"
+    },
+    {
+      "index": 459,
+      "text": "But okay, if the world knows China is doing this",
+      "start": 1034640,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 460,
+      "text": "and all of this oil is supposedly",
+      "start": 1037520,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 461,
+      "text": "under global economic sanctions",
+      "start": 1039350,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 462,
+      "text": "that make it forbidden to buy it,",
+      "start": 1041030,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 463,
+      "text": "then how does China get away with it?",
+      "start": 1042320,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 464,
+      "text": "Well, it's by using their other secret weapon.",
+      "start": 1043730,
+      "duration": 3810,
+      "lang": "en"
+    },
+    {
+      "index": 465,
+      "text": "This, China's currency,",
+      "start": 1047540,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 466,
+      "text": "the renminbi, the yuan.",
+      "start": 1050000,
+      "duration": 1653,
+      "lang": "en"
+    },
+    {
+      "index": 467,
+      "text": "And the reason that this works that it's a magic hack",
+      "start": 1054620,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 468,
+      "text": "is because of something I didn't tell you about earlier",
+      "start": 1057350,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 469,
+      "text": "about this global oil market.",
+      "start": 1059600,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 470,
+      "text": "All of it, all of this oil",
+      "start": 1061340,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 471,
+      "text": "is traded in this, US dollars.",
+      "start": 1062600,
+      "duration": 3333,
+      "lang": "en"
+    },
+    {
+      "index": 472,
+      "text": "A couple of fine fellas we got up here on the board.",
+      "start": 1067850,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 473,
+      "text": "All of the sales, all of the purchases,",
+      "start": 1070040,
+      "duration": 2340,
+      "lang": "en"
+    },
+    {
+      "index": 474,
+      "text": "it's all in US dollars.",
+      "start": 1072380,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 475,
+      "text": "And the reason for this is that oil trades remember",
+      "start": 1074150,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 476,
+      "text": "happened between countries,",
+      "start": 1076430,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 477,
+      "text": "but it would be chaos",
+      "start": 1078260,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 478,
+      "text": "if every country paid every other country",
+      "start": 1079610,
+      "duration": 1935,
+      "lang": "en"
+    },
+    {
+      "index": 479,
+      "text": "in a different currency.",
+      "start": 1081545,
+      "duration": 1245,
+      "lang": "en"
+    },
+    {
+      "index": 480,
+      "text": "Nobody would know what the real price was.",
+      "start": 1082790,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 481,
+      "text": "And oil exporters would be stuck with this",
+      "start": 1084380,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 482,
+      "text": "grab bag of a hundred foreign currencies",
+      "start": 1086300,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 483,
+      "text": "that they wouldn't be able to use.",
+      "start": 1088280,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 484,
+      "text": "But everybody can use US dollars.",
+      "start": 1089660,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 485,
+      "text": "Everybody wants US dollars.",
+      "start": 1092180,
+      "duration": 1650,
+      "lang": "en"
+    },
+    {
+      "index": 486,
+      "text": "They're a safe way to save your country's oil revenues",
+      "start": 1093830,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 487,
+      "text": "because the dollar is stable.",
+      "start": 1096080,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 488,
+      "text": "Every other country accepts it in trade.",
+      "start": 1097550,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 489,
+      "text": "And trading all in one currency",
+      "start": 1099800,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 490,
+      "text": "means there's just one price,",
+      "start": 1102110,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 491,
+      "text": "which is what you need",
+      "start": 1104180,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 492,
+      "text": "for a unified global market to function.",
+      "start": 1105320,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 493,
+      "text": "But this gives the US a lot of power",
+      "start": 1107480,
+      "duration": 1950,
+      "lang": "en"
+    },
+    {
+      "index": 494,
+      "text": "because trading in US dollars",
+      "start": 1109430,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 495,
+      "text": "means those transactions have to be processed",
+      "start": 1111320,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 496,
+      "text": "by a US-based bank,",
+      "start": 1113210,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 497,
+      "text": "which means the US government can tell those banks",
+      "start": 1114350,
+      "duration": 2300,
+      "lang": "en"
+    },
+    {
+      "index": 498,
+      "text": "to block oil trades with any country it doesn't like.",
+      "start": 1116650,
+      "duration": 2920,
+      "lang": "en"
+    },
+    {
+      "index": 499,
+      "text": "People truly do not realize",
+      "start": 1119570,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 500,
+      "text": "how much US global power comes from these little green bags.",
+      "start": 1121130,
+      "duration": 3570,
+      "lang": "en"
+    },
+    {
+      "index": 501,
+      "text": "But this means China and Russia and Iran",
+      "start": 1124700,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 502,
+      "text": "were able to bypass this whole system",
+      "start": 1127160,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 503,
+      "text": "by using a different currency, China's currency,",
+      "start": 1129620,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 504,
+      "text": "to process the sales.",
+      "start": 1132410,
+      "duration": 1650,
+      "lang": "en"
+    },
+    {
+      "index": 505,
+      "text": "This makes these oil trades",
+      "start": 1134060,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 506,
+      "text": "basically invisible to the US financial system",
+      "start": 1135590,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 507,
+      "text": "and therefore, the US government,",
+      "start": 1138530,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 508,
+      "text": "which means the US can't block it from happening.",
+      "start": 1140030,
+      "duration": 3210,
+      "lang": "en"
+    },
+    {
+      "index": 509,
+      "text": "And if you're wondering",
+      "start": 1143240,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 510,
+      "text": "why more countries don't do this kind of thing,",
+      "start": 1144073,
+      "duration": 1807,
+      "lang": "en"
+    },
+    {
+      "index": 511,
+      "text": "it's because they don't have a currency",
+      "start": 1145880,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 512,
+      "text": "Iran or Russia or whoever would want.",
+      "start": 1147650,
+      "duration": 2670,
+      "lang": "en"
+    },
+    {
+      "index": 513,
+      "text": "The Renminbi can't do everything the dollar can do,",
+      "start": 1150320,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 514,
+      "text": "but it can buy stuff from China.",
+      "start": 1152450,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 515,
+      "text": "And China is the world's largest exporter of stuff.",
+      "start": 1155090,
+      "duration": 3480,
+      "lang": "en"
+    },
+    {
+      "index": 516,
+      "text": "So that currency is still useful enough",
+      "start": 1158570,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 517,
+      "text": "for Iran and Russia to go to the trouble.",
+      "start": 1160490,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 518,
+      "text": "Probably the only other currencies in the world",
+      "start": 1162770,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 519,
+      "text": "valuable enough to do this",
+      "start": 1164360,
+      "duration": 1110,
+      "lang": "en"
+    },
+    {
+      "index": 520,
+      "text": "are the Japanese Yen and the Euro.",
+      "start": 1165470,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 521,
+      "text": "But Japan and the European Union",
+      "start": 1167690,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 522,
+      "text": "are big supporters of sanctions on Iran and Russia,",
+      "start": 1169040,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 523,
+      "text": "so they wouldn't want to do this.",
+      "start": 1171200,
+      "duration": 990,
+      "lang": "en"
+    },
+    {
+      "index": 524,
+      "text": "So it is really just China that can pull this off.",
+      "start": 1172190,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 525,
+      "text": "And being the only willing buyer of Iran and Russia's oil",
+      "start": 1174920,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 526,
+      "text": "means they get a big, big discount,",
+      "start": 1178040,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 527,
+      "text": "which is how they were able to quietly stock up",
+      "start": 1179930,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 528,
+      "text": "a billion plus barrels",
+      "start": 1182300,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 529,
+      "text": "of probably mostly Iranian and Russian oil",
+      "start": 1183800,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 530,
+      "text": "so they can magically stop importing enough oil",
+      "start": 1186050,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 531,
+      "text": "for enough time to basically save the world.",
+      "start": 1188840,
+      "duration": 2820,
+      "lang": "en"
+    },
+    {
+      "index": 532,
+      "text": "So that is how China saved you, me, the global economy,",
+      "start": 1191660,
+      "duration": 3810,
+      "lang": "en"
+    },
+    {
+      "index": 533,
+      "text": "and especially the United States and Donald Trump",
+      "start": 1195470,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 534,
+      "text": "from the largest oil shock in history.",
+      "start": 1198110,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 535,
+      "text": "But that still leaves us the question of why.",
+      "start": 1200270,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 536,
+      "text": "Like I'm more curious than ever.",
+      "start": 1203150,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 537,
+      "text": "Why?",
+      "start": 1204710,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 538,
+      "text": "Why would they bail us out",
+      "start": 1205543,
+      "duration": 1087,
+      "lang": "en"
+    },
+    {
+      "index": 539,
+      "text": "and why would they do it in total silence?",
+      "start": 1206630,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 540,
+      "text": "And to answer this,",
+      "start": 1208940,
+      "duration": 1050,
+      "lang": "en"
+    },
+    {
+      "index": 541,
+      "text": "we are going to need the other side of the board.",
+      "start": 1209990,
+      "duration": 2450,
+      "lang": "en"
+    },
+    {
+      "index": 542,
+      "text": "So we're going to use the board to go through four theories",
+      "start": 1213590,
+      "duration": 2760,
+      "lang": "en"
+    },
+    {
+      "index": 543,
+      "text": "for why China did this",
+      "start": 1216350,
+      "duration": 1650,
+      "lang": "en"
+    },
+    {
+      "index": 544,
+      "text": "that I think all have some merit and some evidence to them.",
+      "start": 1218000,
+      "duration": 3180,
+      "lang": "en"
+    },
+    {
+      "index": 545,
+      "text": "But first I want to rule out too that I think don't scan.",
+      "start": 1221180,
+      "duration": 3240,
+      "lang": "en"
+    },
+    {
+      "index": 546,
+      "text": "Number one, probably the one you've been",
+      "start": 1224420,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 547,
+      "text": "shouting at your screen for the last 10 minutes",
+      "start": 1225650,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 548,
+      "text": "because it seems so obvious,",
+      "start": 1227210,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 549,
+      "text": "is that China did this.",
+      "start": 1228530,
+      "duration": 930,
+      "lang": "en"
+    },
+    {
+      "index": 550,
+      "text": "China stopped importing oil",
+      "start": 1229460,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 551,
+      "text": "just to protect themselves from high oil prices.",
+      "start": 1230720,
+      "duration": 3240,
+      "lang": "en"
+    },
+    {
+      "index": 552,
+      "text": "But you know what?",
+      "start": 1233960,
+      "duration": 900,
+      "lang": "en"
+    },
+    {
+      "index": 553,
+      "text": "This one doesn't hold up.",
+      "start": 1234860,
+      "duration": 3270,
+      "lang": "en"
+    },
+    {
+      "index": 554,
+      "text": "Here's why and one number.",
+      "start": 1238130,
+      "duration": 1687,
+      "lang": "en"
+    },
+    {
+      "index": 555,
+      "text": "$74.",
+      "start": 1239817,
+      "duration": 1493,
+      "lang": "en"
+    },
+    {
+      "index": 556,
+      "text": "That is the average replacement price",
+      "start": 1241310,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 557,
+      "text": "on China's oil reserves that they have been burning up.",
+      "start": 1243440,
+      "duration": 2750,
+      "lang": "en"
+    },
+    {
+      "index": 558,
+      "text": "Here's the price of oil over the last six months",
+      "start": 1247790,
+      "duration": 2760,
+      "lang": "en"
+    },
+    {
+      "index": 559,
+      "text": "and here's where the price dropped below $74.",
+      "start": 1250550,
+      "duration": 3000,
+      "lang": "en"
+    },
+    {
+      "index": 560,
+      "text": "If China was just trying to protect itself",
+      "start": 1253550,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 561,
+      "text": "from price shocks,",
+      "start": 1255230,
+      "duration": 900,
+      "lang": "en"
+    },
+    {
+      "index": 562,
+      "text": "this is the point that they would've started buying again.",
+      "start": 1256130,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 563,
+      "text": "They would've actually made a profit",
+      "start": 1258050,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 564,
+      "text": "by buying at this price,",
+      "start": 1259280,
+      "duration": 1080,
+      "lang": "en"
+    },
+    {
+      "index": 565,
+      "text": "but they didn't.",
+      "start": 1260360,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 566,
+      "text": "They just kept burning reserves,",
+      "start": 1261560,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 567,
+      "text": "which means they had some other motive, right?",
+      "start": 1264020,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 568,
+      "text": "So second wrong theory we need to rule out,",
+      "start": 1266660,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 569,
+      "text": "this was all a soft power play for global goodwill.",
+      "start": 1268730,
+      "duration": 3660,
+      "lang": "en"
+    },
+    {
+      "index": 570,
+      "text": "I'm sorry about the panda.",
+      "start": 1272390,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 571,
+      "text": "I know it's a total cliche.",
+      "start": 1273530,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 572,
+      "text": "When you Google image search Chinese soft power,",
+      "start": 1275120,
+      "duration": 3090,
+      "lang": "en"
+    },
+    {
+      "index": 573,
+      "text": "this is the first thing that comes up.",
+      "start": 1278210,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 574,
+      "text": "So I don't know, I went with it.",
+      "start": 1279650,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 575,
+      "text": "Anyway, it's also wrong.",
+      "start": 1280970,
+      "duration": 2610,
+      "lang": "en"
+    },
+    {
+      "index": 576,
+      "text": "The soft power theory",
+      "start": 1283580,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 577,
+      "text": "does not square with China's big ban",
+      "start": 1284810,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 578,
+      "text": "against its refineries exporting jet fuel or gasoline",
+      "start": 1286850,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 579,
+      "text": "because this really hurt the neighbors in Asia",
+      "start": 1289490,
+      "duration": 2490,
+      "lang": "en"
+    },
+    {
+      "index": 580,
+      "text": "who count on China for that stuff",
+      "start": 1291980,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 581,
+      "text": "and are the exact countries",
+      "start": 1293900,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 582,
+      "text": "China most wants to improve its standing with.",
+      "start": 1295130,
+      "duration": 2400,
+      "lang": "en"
+    },
+    {
+      "index": 583,
+      "text": "For another thing, remember, China did all this",
+      "start": 1297530,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 584,
+      "text": "and didn't talk about it.",
+      "start": 1299660,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 585,
+      "text": "If you save the world to make countries like you,",
+      "start": 1300920,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 586,
+      "text": "wouldn't you, I don't know, mention it at least once",
+      "start": 1303200,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 587,
+      "text": "instead of hiding it in secrecy?",
+      "start": 1305660,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 588,
+      "text": "So these theories, I think these are out.",
+      "start": 1307130,
+      "duration": 3153,
+      "lang": "en"
+    },
+    {
+      "index": 589,
+      "text": "So now let's look at the theories that do make sense.",
+      "start": 1311840,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 590,
+      "text": "Starting with the big one, Taiwan.",
+      "start": 1314630,
+      "duration": 2763,
+      "lang": "en"
+    },
+    {
+      "index": 591,
+      "text": "Here's Asia",
+      "start": 1319100,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 592,
+      "text": "and here's the Strait of Hormuz,",
+      "start": 1319933,
+      "duration": 1267,
+      "lang": "en"
+    },
+    {
+      "index": 593,
+      "text": "which we learned controls 20% of the world's oil flows.",
+      "start": 1321200,
+      "duration": 3180,
+      "lang": "en"
+    },
+    {
+      "index": 594,
+      "text": "And now this is the Strait of Malacca,",
+      "start": 1324380,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 595,
+      "text": "even narrower, even easier to close.",
+      "start": 1326540,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 596,
+      "text": "The ships that go through here carry 80% of all China's oil.",
+      "start": 1328820,
+      "duration": 3507,
+      "lang": "en"
+    },
+    {
+      "index": 597,
+      "text": "And in any worst scenario with Taiwan,",
+      "start": 1332327,
+      "duration": 2283,
+      "lang": "en"
+    },
+    {
+      "index": 598,
+      "text": "one of the very first things that happens",
+      "start": 1334610,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 599,
+      "text": "is the US uses its naval supremacy",
+      "start": 1336530,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 600,
+      "text": "to close Malacca like Iran closed Hormuz,",
+      "start": 1338810,
+      "duration": 2550,
+      "lang": "en"
+    },
+    {
+      "index": 601,
+      "text": "shutting off China from outside oil",
+      "start": 1341360,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 602,
+      "text": "and bringing China to its knees.",
+      "start": 1343100,
+      "duration": 1863,
+      "lang": "en"
+    },
+    {
+      "index": 603,
+      "text": "So yeah, pretty powerful, right?",
+      "start": 1349580,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 604,
+      "text": "Defeat China without ever coming",
+      "start": 1350930,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 605,
+      "text": "within a thousand miles of it.",
+      "start": 1352370,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 606,
+      "text": "And this has obsessed China's leaders for decades.",
+      "start": 1353720,
+      "duration": 2700,
+      "lang": "en"
+    },
+    {
+      "index": 607,
+      "text": "They actually have a name for it.",
+      "start": 1356420,
+      "duration": 870,
+      "lang": "en"
+    },
+    {
+      "index": 608,
+      "text": "They call it the Malacca Dilemma,",
+      "start": 1357290,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 609,
+      "text": "and it applies to any worst scenario with the US,",
+      "start": 1358880,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 610,
+      "text": "but Taiwan is probably the likeliest.",
+      "start": 1361190,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 611,
+      "text": "So how can you neutralize the threat",
+      "start": 1363020,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 612,
+      "text": "of suddenly losing access to outside oil?",
+      "start": 1365030,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 613,
+      "text": "Well, one way is to build up renewable power sources",
+      "start": 1367250,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 614,
+      "text": "like wind and solar, which yeah,",
+      "start": 1369620,
+      "duration": 1350,
+      "lang": "en"
+    },
+    {
+      "index": 615,
+      "text": "check, China has been doing.",
+      "start": 1370970,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 616,
+      "text": "Another is burning more coal.",
+      "start": 1372260,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 617,
+      "text": "Check.",
+      "start": 1373970,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 618,
+      "text": "But the best way is to stockpile so much oil in advance",
+      "start": 1374803,
+      "duration": 3427,
+      "lang": "en"
+    },
+    {
+      "index": 619,
+      "text": "that you can go without imports for a year",
+      "start": 1378230,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 620,
+      "text": "and keep the lights on for as long as the war takes.",
+      "start": 1380330,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 621,
+      "text": "Under this theory, China had this whole",
+      "start": 1382970,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 622,
+      "text": "no oil plan ready in case of war,",
+      "start": 1384890,
+      "duration": 2340,
+      "lang": "en"
+    },
+    {
+      "index": 623,
+      "text": "but they pulled it off now both because they could",
+      "start": 1387230,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 624,
+      "text": "and maybe as a little demonstration to the US and Taiwan",
+      "start": 1390110,
+      "duration": 2610,
+      "lang": "en"
+    },
+    {
+      "index": 625,
+      "text": "that the Malacca problem has kind of solved",
+      "start": 1392720,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 626,
+      "text": "just to threaten them anymore",
+      "start": 1394910,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 627,
+      "text": "so don't expect them to hold them back.",
+      "start": 1396410,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 628,
+      "text": "Okay, ready for theory number two?",
+      "start": 1398330,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 629,
+      "text": "Leverage with Donald Trump.",
+      "start": 1400040,
+      "duration": 1443,
+      "lang": "en"
+    },
+    {
+      "index": 630,
+      "text": "Trump and Xi actually just had",
+      "start": 1403640,
+      "duration": 1560,
+      "lang": "en"
+    },
+    {
+      "index": 631,
+      "text": "a big one-on-one summit in May.",
+      "start": 1405200,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 632,
+      "text": "And you know, watching this,",
+      "start": 1406610,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 633,
+      "text": "it's not hard to imagine Xi telling him,",
+      "start": 1408080,
+      "duration": 1867,
+      "lang": "en"
+    },
+    {
+      "index": 634,
+      "text": "\"Hey Donald, I'm single-handedly",
+      "start": 1409947,
+      "duration": 2033,
+      "lang": "en"
+    },
+    {
+      "index": 635,
+      "text": "saving your economy right now by absorbing the oil shock",
+      "start": 1411980,
+      "duration": 2610,
+      "lang": "en"
+    },
+    {
+      "index": 636,
+      "text": "so it doesn't hit the United States.",
+      "start": 1414590,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 637,
+      "text": "So you want me to keep this up,",
+      "start": 1416000,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 638,
+      "text": "you better make it worth my while.\"",
+      "start": 1417740,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 639,
+      "text": "Because he knows if there's one thing Trump has shown",
+      "start": 1419120,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 640,
+      "text": "he's sensitive to,",
+      "start": 1421100,
+      "duration": 1080,
+      "lang": "en"
+    },
+    {
+      "index": 641,
+      "text": "it's the price of oil.",
+      "start": 1422180,
+      "duration": 1020,
+      "lang": "en"
+    },
+    {
+      "index": 642,
+      "text": "Now, nobody can prove this happened.",
+      "start": 1423200,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 643,
+      "text": "Yeah, a few weeks beforehand, the US did withdraw",
+      "start": 1425210,
+      "duration": 2580,
+      "lang": "en"
+    },
+    {
+      "index": 644,
+      "text": "a bunch of missile defense",
+      "start": 1427790,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 645,
+      "text": "and other weapons from China's periphery,",
+      "start": 1428990,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 646,
+      "text": "which China liked to use in the Middle East,",
+      "start": 1431030,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 647,
+      "text": "but that might be a coincidence.",
+      "start": 1432800,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 648,
+      "text": "I would consider this the softest theory.",
+      "start": 1434030,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 649,
+      "text": "Still, as long as the war goes on,",
+      "start": 1436100,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 650,
+      "text": "Xi Jinping really could nuke the US economy anytime he wants",
+      "start": 1437780,
+      "duration": 3450,
+      "lang": "en"
+    },
+    {
+      "index": 651,
+      "text": "by resuming Chinese oil imports",
+      "start": 1441230,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 652,
+      "text": "and exhausting global supplies.",
+      "start": 1442970,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 653,
+      "text": "Did he remind Trump of that fact when they met?",
+      "start": 1444440,
+      "duration": 2400,
+      "lang": "en"
+    },
+    {
+      "index": 654,
+      "text": "You know, we don't know.",
+      "start": 1446840,
+      "duration": 1050,
+      "lang": "en"
+    },
+    {
+      "index": 655,
+      "text": "If you're still watching,",
+      "start": 1447890,
+      "duration": 900,
+      "lang": "en"
+    },
+    {
+      "index": 656,
+      "text": "you probably want to understand the world better.",
+      "start": 1448790,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 657,
+      "text": "And so do the thousands of members of our club",
+      "start": 1450800,
+      "duration": 2490,
+      "lang": "en"
+    },
+    {
+      "index": 658,
+      "text": "called Newpress.",
+      "start": 1453290,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 659,
+      "text": "Newpress is where smart, curious people",
+      "start": 1454123,
+      "duration": 2287,
+      "lang": "en"
+    },
+    {
+      "index": 660,
+      "text": "get a deeper version of what we do across our channels.",
+      "start": 1456410,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 661,
+      "text": "In-depth interviews with the experts we speak to,",
+      "start": 1458930,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 662,
+      "text": "conversations between creators,",
+      "start": 1461150,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 663,
+      "text": "and the ability to connect directly with other members,",
+      "start": 1462680,
+      "duration": 2580,
+      "lang": "en"
+    },
+    {
+      "index": 664,
+      "text": "to talk about what's going on in the world",
+      "start": 1465260,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 665,
+      "text": "with other smart, curious people.",
+      "start": 1466850,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 666,
+      "text": "Right now, it's 60 bucks a year to become a founding member.",
+      "start": 1468530,
+      "duration": 3000,
+      "lang": "en"
+    },
+    {
+      "index": 667,
+      "text": "That money goes directly to supporting this work.",
+      "start": 1471530,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 668,
+      "text": "Your subscription also includes access to,",
+      "start": 1473600,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 669,
+      "text": "among other things,",
+      "start": 1475700,
+      "duration": 840,
+      "lang": "en"
+    },
+    {
+      "index": 670,
+      "text": "a podcast Johnny and Iz are launching this week,",
+      "start": 1476540,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 671,
+      "text": "as well as an exclusive video series I'm doing",
+      "start": 1478580,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 672,
+      "text": "and been doing for a while there",
+      "start": 1481040,
+      "duration": 1020,
+      "lang": "en"
+    },
+    {
+      "index": 673,
+      "text": "that I'm really excited about, No Dumb Questions,",
+      "start": 1482060,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 674,
+      "text": "where I answer big questions about the world",
+      "start": 1484850,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 675,
+      "text": "submitted by viewers like you.",
+      "start": 1486920,
+      "duration": 1650,
+      "lang": "en"
+    },
+    {
+      "index": 676,
+      "text": "In this week's, I take on a bunch of questions",
+      "start": 1488570,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 677,
+      "text": "about China's rise as a world power.",
+      "start": 1490640,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 678,
+      "text": "Like how did China and the US",
+      "start": 1492740,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 679,
+      "text": "become adversaries in the first place?",
+      "start": 1494120,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 680,
+      "text": "What is China's ultimate end game is a great power?",
+      "start": 1495710,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 681,
+      "text": "What does it want and a lot more.",
+      "start": 1497840,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 682,
+      "text": "You can check it out at newpress.com/questions",
+      "start": 1499370,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 683,
+      "text": "and the link is in the description.",
+      "start": 1502310,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 684,
+      "text": "Now, let's get back to it.",
+      "start": 1503840,
+      "duration": 1140,
+      "lang": "en"
+    },
+    {
+      "index": 685,
+      "text": "Okay, theory number three,",
+      "start": 1504980,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 686,
+      "text": "and I'm pretty partial to this one.",
+      "start": 1506210,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 687,
+      "text": "Protecting China's export-based economy.",
+      "start": 1507890,
+      "duration": 2883,
+      "lang": "en"
+    },
+    {
+      "index": 688,
+      "text": "China's economy, like we said,",
+      "start": 1513350,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 689,
+      "text": "centers on manufacturing and exporting",
+      "start": 1514760,
+      "duration": 2430,
+      "lang": "en"
+    },
+    {
+      "index": 690,
+      "text": "basically everything in the world.",
+      "start": 1517190,
+      "duration": 1700,
+      "lang": "en"
+    },
+    {
+      "index": 691,
+      "text": "Here's every country China exports to",
+      "start": 1520400,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 692,
+      "text": "scaled by overall value.",
+      "start": 1522380,
+      "duration": 1563,
+      "lang": "en"
+    },
+    {
+      "index": 693,
+      "text": "Now let's cross out all the countries",
+      "start": 1526370,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 694,
+      "text": "whose economy would implode in a sustained oil shock.",
+      "start": 1527840,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 695,
+      "text": "This one, this one,",
+      "start": 1531200,
+      "duration": 2910,
+      "lang": "en"
+    },
+    {
+      "index": 696,
+      "text": "probably these guys,",
+      "start": 1534110,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 697,
+      "text": "definitely the Europeans.",
+      "start": 1535640,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 698,
+      "text": "Yep, here.",
+      "start": 1536960,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 699,
+      "text": "Okay, well, China just lost half of its export market",
+      "start": 1538250,
+      "duration": 3540,
+      "lang": "en"
+    },
+    {
+      "index": 700,
+      "text": "and a bunch of its economy with it.",
+      "start": 1541790,
+      "duration": 1893,
+      "lang": "en"
+    },
+    {
+      "index": 701,
+      "text": "Or that's what would've happened",
+      "start": 1546680,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 702,
+      "text": "if China hadn't propped everyone up for three months",
+      "start": 1548150,
+      "duration": 2280,
+      "lang": "en"
+    },
+    {
+      "index": 703,
+      "text": "by absorbing the oil shock.",
+      "start": 1550430,
+      "duration": 1950,
+      "lang": "en"
+    },
+    {
+      "index": 704,
+      "text": "Now I can't prove that's why they did it,",
+      "start": 1552380,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 705,
+      "text": "but I do think it would make a lot of sense.",
+      "start": 1553820,
+      "duration": 1950,
+      "lang": "en"
+    },
+    {
+      "index": 706,
+      "text": "Okay, theory number four.",
+      "start": 1555770,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 707,
+      "text": "They did this to prove to the world",
+      "start": 1557840,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 708,
+      "text": "that China now controls the global price of oil.",
+      "start": 1560360,
+      "duration": 3720,
+      "lang": "en"
+    },
+    {
+      "index": 709,
+      "text": "I had to print this out of my home printer",
+      "start": 1564080,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 710,
+      "text": "because the photo printer stopped working.",
+      "start": 1565700,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 711,
+      "text": "That's why the Chinese flag is purple.",
+      "start": 1567950,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 712,
+      "text": "I don't know, my apologies to China.",
+      "start": 1570590,
+      "duration": 1800,
+      "lang": "en"
+    },
+    {
+      "index": 713,
+      "text": "Credit for this theory goes to a Bloomberg columnist",
+      "start": 1573920,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 714,
+      "text": "named Javier Blas, who argued this was China unveiling",
+      "start": 1575750,
+      "duration": 2820,
+      "lang": "en"
+    },
+    {
+      "index": 715,
+      "text": "its powerful new oil price weapon.",
+      "start": 1578570,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 716,
+      "text": "He compares it to the 1973 oil shock",
+      "start": 1580760,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 717,
+      "text": "when Arab oil states like Saudi Arabia and some others",
+      "start": 1583070,
+      "duration": 2760,
+      "lang": "en"
+    },
+    {
+      "index": 718,
+      "text": "shut off oil to the US,",
+      "start": 1585830,
+      "duration": 1800,
+      "lang": "en"
+    },
+    {
+      "index": 719,
+      "text": "a power that got termed the Arab oil weapon",
+      "start": 1587630,
+      "duration": 2820,
+      "lang": "en"
+    },
+    {
+      "index": 720,
+      "text": "and made those states global player ever since.",
+      "start": 1590450,
+      "duration": 2670,
+      "lang": "en"
+    },
+    {
+      "index": 721,
+      "text": "And he argues that,",
+      "start": 1593120,
+      "duration": 960,
+      "lang": "en"
+    },
+    {
+      "index": 722,
+      "text": "yeah, on some level, this was probably about",
+      "start": 1594080,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 723,
+      "text": "Taiwan and Malacca.",
+      "start": 1596210,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 724,
+      "text": "But if China proved that it can flip",
+      "start": 1597920,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 725,
+      "text": "5% of the world's oil demand on and off like a switch,",
+      "start": 1600230,
+      "duration": 3720,
+      "lang": "en"
+    },
+    {
+      "index": 726,
+      "text": "that gives them Saudi Arabia level influence",
+      "start": 1603950,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 727,
+      "text": "over the world's most valuable resource,",
+      "start": 1606050,
+      "duration": 2340,
+      "lang": "en"
+    },
+    {
+      "index": 728,
+      "text": "which gives them a lot of leverage",
+      "start": 1608390,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 729,
+      "text": "over any country that buys a lot of oil",
+      "start": 1610520,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 730,
+      "text": "or that sells a lot of oil,",
+      "start": 1612770,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 731,
+      "text": "which is pretty much all of them.",
+      "start": 1614390,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 732,
+      "text": "I think there's probably",
+      "start": 1615830,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 733,
+      "text": "some truth to all four of these series, right?",
+      "start": 1617000,
+      "duration": 2790,
+      "lang": "en"
+    },
+    {
+      "index": 734,
+      "text": "I don't think they're mutually exclusive.",
+      "start": 1619790,
+      "duration": 1800,
+      "lang": "en"
+    },
+    {
+      "index": 735,
+      "text": "Now, we don't know enough.",
+      "start": 1621590,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 736,
+      "text": "We can't peer inside Xi Jinping's head",
+      "start": 1623120,
+      "duration": 2010,
+      "lang": "en"
+    },
+    {
+      "index": 737,
+      "text": "and know like which one is the truest,",
+      "start": 1625130,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 738,
+      "text": "but I think if you look at these four together,",
+      "start": 1626840,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 739,
+      "text": "you have a pretty good understanding",
+      "start": 1628880,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 740,
+      "text": "of why China did this.",
+      "start": 1630920,
+      "duration": 1292,
+      "lang": "en"
+    },
+    {
+      "index": 741,
+      "text": "Okay, so the question now",
+      "start": 1632212,
+      "duration": 2248,
+      "lang": "en"
+    },
+    {
+      "index": 742,
+      "text": "is what does all this add up to?",
+      "start": 1634460,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 743,
+      "text": "What does it change about our world?",
+      "start": 1636170,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 744,
+      "text": "And we the world learned a few new things here.",
+      "start": 1638900,
+      "duration": 2730,
+      "lang": "en"
+    },
+    {
+      "index": 745,
+      "text": "One, China has neutralized the so-called Malacca Dilemma",
+      "start": 1641630,
+      "duration": 4170,
+      "lang": "en"
+    },
+    {
+      "index": 746,
+      "text": "that would've allowed the US Navy",
+      "start": 1645800,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 747,
+      "text": "to shut down their economy.",
+      "start": 1647240,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 748,
+      "text": "And that makes war with the US more bearable for China",
+      "start": 1648500,
+      "duration": 3540,
+      "lang": "en"
+    },
+    {
+      "index": 749,
+      "text": "and an invasion of Taiwan, therefore more likely.",
+      "start": 1652040,
+      "duration": 3390,
+      "lang": "en"
+    },
+    {
+      "index": 750,
+      "text": "And two, China now has",
+      "start": 1655430,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 751,
+      "text": "a lot of control over global oil prices,",
+      "start": 1657050,
+      "duration": 2910,
+      "lang": "en"
+    },
+    {
+      "index": 752,
+      "text": "although I don't think we yet know",
+      "start": 1659960,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 753,
+      "text": "how they would use that power",
+      "start": 1661490,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 754,
+      "text": "except how they did here to blunt a global oil shock.",
+      "start": 1662870,
+      "duration": 2670,
+      "lang": "en"
+    },
+    {
+      "index": 755,
+      "text": "But you know, the Iran war is still a little low boil,",
+      "start": 1665540,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 756,
+      "text": "which means as long as Hormuz is at threat of closing",
+      "start": 1667850,
+      "duration": 2850,
+      "lang": "en"
+    },
+    {
+      "index": 757,
+      "text": "or partially closed,",
+      "start": 1670700,
+      "duration": 930,
+      "lang": "en"
+    },
+    {
+      "index": 758,
+      "text": "Xi Jinping has a lot of leverage over the United States.",
+      "start": 1671630,
+      "duration": 3210,
+      "lang": "en"
+    },
+    {
+      "index": 759,
+      "text": "He has that button on his desk that says nuke US economy.",
+      "start": 1674840,
+      "duration": 2850,
+      "lang": "en"
+    },
+    {
+      "index": 760,
+      "text": "And along those lines,",
+      "start": 1677690,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 761,
+      "text": "the US, China's big rival,",
+      "start": 1679100,
+      "duration": 1710,
+      "lang": "en"
+    },
+    {
+      "index": 762,
+      "text": "it came out of this war weakened on the world stage",
+      "start": 1680810,
+      "duration": 2040,
+      "lang": "en"
+    },
+    {
+      "index": 763,
+      "text": "in a lot of different ways",
+      "start": 1682850,
+      "duration": 1020,
+      "lang": "en"
+    },
+    {
+      "index": 764,
+      "text": "that we talked about in the last video.",
+      "start": 1683870,
+      "duration": 1950,
+      "lang": "en"
+    },
+    {
+      "index": 765,
+      "text": "Russia meanwhile is still admired in Ukraine.",
+      "start": 1688550,
+      "duration": 1980,
+      "lang": "en"
+    },
+    {
+      "index": 766,
+      "text": "That means that among the major world powers,",
+      "start": 1690530,
+      "duration": 1590,
+      "lang": "en"
+    },
+    {
+      "index": 767,
+      "text": "China is looking pretty good right now,",
+      "start": 1692120,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 768,
+      "text": "which is part of why there is a growing consensus",
+      "start": 1693860,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 769,
+      "text": "that the war's real winner was China.",
+      "start": 1696380,
+      "duration": 3270,
+      "lang": "en"
+    },
+    {
+      "index": 770,
+      "text": "China won, they're the winner.",
+      "start": 1699650,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 771,
+      "text": "China's the big winner here.",
+      "start": 1701750,
+      "duration": 1410,
+      "lang": "en"
+    },
+    {
+      "index": 772,
+      "text": "China wins.",
+      "start": 1703160,
+      "duration": 833,
+      "lang": "en"
+    },
+    {
+      "index": 773,
+      "text": "This is a little too clever, I think.",
+      "start": 1707360,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 774,
+      "text": "Iran won the Iran War,",
+      "start": 1708740,
+      "duration": 1230,
+      "lang": "en"
+    },
+    {
+      "index": 775,
+      "text": "but China did win something very, very big.",
+      "start": 1709970,
+      "duration": 3180,
+      "lang": "en"
+    },
+    {
+      "index": 776,
+      "text": "And it's easy to explain if I put it on the board for you.",
+      "start": 1713150,
+      "duration": 2900,
+      "lang": "en"
+    },
+    {
+      "index": 777,
+      "text": "So forever and ever,",
+      "start": 1719330,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 778,
+      "text": "these have been the three world powers of oil",
+      "start": 1720620,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 779,
+      "text": "for like the last century.",
+      "start": 1723740,
+      "duration": 1530,
+      "lang": "en"
+    },
+    {
+      "index": 780,
+      "text": "The US, Saudi Arabia, Russia.",
+      "start": 1725270,
+      "duration": 2190,
+      "lang": "en"
+    },
+    {
+      "index": 781,
+      "text": "They are the three biggest producers in the world by far.",
+      "start": 1727460,
+      "duration": 2970,
+      "lang": "en"
+    },
+    {
+      "index": 782,
+      "text": "The US guarantees free flow of oil in the world's oceans",
+      "start": 1730430,
+      "duration": 3270,
+      "lang": "en"
+    },
+    {
+      "index": 783,
+      "text": "and controls the US dollar.",
+      "start": 1733700,
+      "duration": 1380,
+      "lang": "en"
+    },
+    {
+      "index": 784,
+      "text": "Saudi Arabia is the de facto leader of OPEC,",
+      "start": 1735080,
+      "duration": 2370,
+      "lang": "en"
+    },
+    {
+      "index": 785,
+      "text": "the Alliance of Oil Producing States.",
+      "start": 1737450,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 786,
+      "text": "And Russia, in addition to being a world power",
+      "start": 1739280,
+      "duration": 2250,
+      "lang": "en"
+    },
+    {
+      "index": 787,
+      "text": "and a huge exporter,",
+      "start": 1741530,
+      "duration": 1260,
+      "lang": "en"
+    },
+    {
+      "index": 788,
+      "text": "controls land-based oil flows",
+      "start": 1742790,
+      "duration": 1544,
+      "lang": "en"
+    },
+    {
+      "index": 789,
+      "text": "across a bunch of Europe and Asia.",
+      "start": 1744334,
+      "duration": 2026,
+      "lang": "en"
+    },
+    {
+      "index": 790,
+      "text": "But this era might be over or at least starting to end.",
+      "start": 1746360,
+      "duration": 3660,
+      "lang": "en"
+    },
+    {
+      "index": 791,
+      "text": "The US proved in the Iran war",
+      "start": 1750020,
+      "duration": 1770,
+      "lang": "en"
+    },
+    {
+      "index": 792,
+      "text": "that it cannot guarantee",
+      "start": 1751790,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 793,
+      "text": "the global free flow of oil anymore.",
+      "start": 1753230,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 794,
+      "text": "And Russia is under global sanction",
+      "start": 1755360,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 795,
+      "text": "and can barely sell its own oil.",
+      "start": 1757460,
+      "duration": 1890,
+      "lang": "en"
+    },
+    {
+      "index": 796,
+      "text": "So these two powers might be out.",
+      "start": 1759350,
+      "duration": 3393,
+      "lang": "en"
+    },
+    {
+      "index": 797,
+      "text": "And who displaced them?",
+      "start": 1764960,
+      "duration": 1470,
+      "lang": "en"
+    },
+    {
+      "index": 798,
+      "text": "Well, arguably one of them is Iran,",
+      "start": 1766430,
+      "duration": 2940,
+      "lang": "en"
+    },
+    {
+      "index": 799,
+      "text": "which is not the world's biggest producer,",
+      "start": 1769370,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 800,
+      "text": "they're ranked seventh,",
+      "start": 1770990,
+      "duration": 870,
+      "lang": "en"
+    },
+    {
+      "index": 801,
+      "text": "but they prove that they can unilaterally turn",
+      "start": 1771860,
+      "duration": 2460,
+      "lang": "en"
+    },
+    {
+      "index": 802,
+      "text": "on or off 20% of the world's oil supply",
+      "start": 1774320,
+      "duration": 3090,
+      "lang": "en"
+    },
+    {
+      "index": 803,
+      "text": "and nobody can stop them.",
+      "start": 1777410,
+      "duration": 1713,
+      "lang": "en"
+    },
+    {
+      "index": 804,
+      "text": "And the other new global oil power,",
+      "start": 1783560,
+      "duration": 2310,
+      "lang": "en"
+    },
+    {
+      "index": 805,
+      "text": "I think you know where this is going.",
+      "start": 1785870,
+      "duration": 1830,
+      "lang": "en"
+    },
+    {
+      "index": 806,
+      "text": "I think you can make an argument for China.",
+      "start": 1787700,
+      "duration": 1740,
+      "lang": "en"
+    },
+    {
+      "index": 807,
+      "text": "You know, they kind of control the price of oil now",
+      "start": 1789440,
+      "duration": 2910,
+      "lang": "en"
+    },
+    {
+      "index": 808,
+      "text": "or at least have huge influence over it",
+      "start": 1792350,
+      "duration": 2070,
+      "lang": "en"
+    },
+    {
+      "index": 809,
+      "text": "because they can switch 5% of global demand on and off.",
+      "start": 1794420,
+      "duration": 4020,
+      "lang": "en"
+    },
+    {
+      "index": 810,
+      "text": "And because they were able to do",
+      "start": 1798440,
+      "duration": 1395,
+      "lang": "en"
+    },
+    {
+      "index": 811,
+      "text": "what the United United States wasn't in this war",
+      "start": 1799835,
+      "duration": 1995,
+      "lang": "en"
+    },
+    {
+      "index": 812,
+      "text": "and secure sufficient flows",
+      "start": 1801830,
+      "duration": 1620,
+      "lang": "en"
+    },
+    {
+      "index": 813,
+      "text": "of the world's most important resource,",
+      "start": 1803450,
+      "duration": 2520,
+      "lang": "en"
+    },
+    {
+      "index": 814,
+      "text": "single-handedly saving the oil burning world from disaster.",
+      "start": 1805970,
+      "duration": 3390,
+      "lang": "en"
+    },
+    {
+      "index": 815,
+      "text": "That sounds like the behavior of a global oil power to me.",
+      "start": 1809360,
+      "duration": 2973,
+      "lang": "en"
+    },
+    {
+      "index": 816,
+      "text": "Now, I don't know what China wants to do with that power.",
+      "start": 1816680,
+      "duration": 3000,
+      "lang": "en"
+    },
+    {
+      "index": 817,
+      "text": "I mean, we have some educated guesses obviously,",
+      "start": 1819680,
+      "duration": 2220,
+      "lang": "en"
+    },
+    {
+      "index": 818,
+      "text": "but they're not telling us.",
+      "start": 1821900,
+      "duration": 1500,
+      "lang": "en"
+    },
+    {
+      "index": 819,
+      "text": "They might not even know.",
+      "start": 1823400,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 820,
+      "text": "They might have themselves",
+      "start": 1824570,
+      "duration": 1170,
+      "lang": "en"
+    },
+    {
+      "index": 821,
+      "text": "just discovered how powerful they are here",
+      "start": 1825740,
+      "duration": 2100,
+      "lang": "en"
+    },
+    {
+      "index": 822,
+      "text": "right along with the rest of us.",
+      "start": 1827840,
+      "duration": 1320,
+      "lang": "en"
+    },
+    {
+      "index": 823,
+      "text": "But one thing is for sure,",
+      "start": 1829160,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 824,
+      "text": "now that they have this power,",
+      "start": 1830360,
+      "duration": 1290,
+      "lang": "en"
+    },
+    {
+      "index": 825,
+      "text": "they've demonstrated it,",
+      "start": 1831650,
+      "duration": 1080,
+      "lang": "en"
+    },
+    {
+      "index": 826,
+      "text": "they've proven to the world that they have it,",
+      "start": 1832730,
+      "duration": 2130,
+      "lang": "en"
+    },
+    {
+      "index": 827,
+      "text": "I am certain this will not be the last time",
+      "start": 1834860,
+      "duration": 2550,
+      "lang": "en"
+    },
+    {
+      "index": 828,
+      "text": "that we see it deployed.",
+      "start": 1837410,
+      "duration": 1203,
+      "lang": "en"
+    },
+    {
+      "index": 829,
+      "text": "(gentle music)",
+      "start": 1839901,
+      "duration": 2583,
+      "lang": "en"
+    },
+    {
+      "index": 830,
+      "text": "(gentle music continues)",
+      "start": 1856847,
+      "duration": 3417,
+      "lang": "en"
+    }
+  ]
+}

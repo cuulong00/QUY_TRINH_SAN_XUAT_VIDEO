@@ -1,0 +1,28 @@
+[PROMPT NÂNG CẤP DÀNH CHO TRỢ LÝ AI TRONG GOOGLE FLOW TOOL BUILDER]
+
+Hãy cập nhật App.tsx theo các yêu cầu nâng cấp sau đây, đảm bảo giữ nguyên 100% tất cả các tính năng hiện có:
+
+1. HỖ TRỢ NẠP NHIỀU CHƯƠNG (MULTI-CHAPTER INGEST):
+   - Đổi thẻ input file thành `<input type="file" accept=".txt" multiple onChange={handleTxtUpload} className="hidden" />` để người dùng có thể chọn cùng lúc nhiều file kịch bản (.txt).
+   - Cho phép nạp nối tiếp (append) nội dung các file vào danh sách phân cảnh hiện có.
+
+2. BỘ LỌC CHƯƠNG (CHAPTER FILTER PILL TABS) TRÊN BẢNG LEDGER:
+   - Tự động trích xuất mã chương từ sceneId (ví dụ CH01, CH02, CH03... từ CH01_SC001).
+   - Thêm thanh chọn tab lọc chương phía trên bảng Production Ledger: [ALL] [CH01] [CH02]... Bấm tab nào thì bảng chỉ hiển thị phân cảnh của chương đó kèm số lượng cảnh.
+
+3. NÂNG CẤP LÊN TỐI ĐA 10 COMPUTE SLOTS (10 WORKERS):
+   - Cập nhật thanh trượt Worker từ min 1 đến max 10.
+   - Bố trí lưới hiển thị Worker thành 5 cột x 2 hàng (grid-cols-5) với giao diện Cyber-noir nhỏ gọn, tinh tế.
+   - Thêm cơ chế Giãn cách Khởi động (Staggered Dispatch): Khi nhiều luồng cùng rảnh, mỗi luồng nhận việc cách nhau tối thiểu 1.5 giây (DISPATCH_STAGGER_MS = 1500), kết hợp với Random Jitter riêng biệt của từng luồng để chống Bot Detection của Google.
+
+4. BỘ ĐẾM JITTER CHỐNG BÓP TIẾN TRÌNH KHI ẨN TAB:
+   - Trong executeTaskOnWorker, dùng mốc thời gian thực `Date.now() + waitTime * 1000` để đếm ngược, đảm bảo khi người dùng chuyển sang tab khác, Chrome không bị bóp nghẽn 5 giây thành 5 phút.
+
+5. XUẤT ZIP PHÂN THƯ MỤC THEO CHƯƠNG:
+   - Trong hàm downloadAllAsZip, tự động tạo các thư mục con theo tên chương trong file zip (ví dụ: CH01/CH01_SC001.mp4, CH02/CH02_SC001.mp4).
+
+⚠️ CÁC ĐIỀU KIỆN BẮT BUỘC PHẢI GIỮ NGUYÊN (STRICT INVARIANTS):
+- Video Model: Giữ nguyên tuyệt đối 'Veo 3.1 - Lite [Lower Priority]' (0 credit).
+- Image Model: Giữ nguyên '🍌 Nano Banana 2'.
+- Chống tải trùng lặp (Idempotent Download Guard) và cơ chế Auto-Retry 5 lần (stepped backoff) giữ nguyên 100%.
+- Lightbox Modal và Thumbnail xem trước giữ nguyên.

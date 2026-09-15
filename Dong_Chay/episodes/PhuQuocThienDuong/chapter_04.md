@@ -1,0 +1,13 @@
+Hơn 504.000 tỷ đồng vốn đăng ký của 330 dự án không đổ vào Phú Quốc như một dòng thác hỗn loạn. Thay vào đó, hòn đảo được quy hoạch bài bản thành 4 cực không gian kinh tế độc lập nhưng tương hỗ lẫn nhau. Bốn cực này do 4 tập đoàn hàng đầu Việt Nam trực tiếp kiểm soát. Tạo thành một hệ sinh thái tư bản gắn kết chặt chẽ.
+
+Ở Cực Bắc, Tập đoàn Vingroup rót khoảng 66.000 tỷ đồng để kiến tạo quần thể Phú Quốc United Center rộng hơn 1.000 héc-ta. Nơi đây vận hành mô hình thành phố không ngủ Grand World hoạt động 24/7. Kết hợp cùng vườn thú Safari 380 héc-ta nuôi dưỡng 4.500 cá thể quý hiếm, và hơn 10.000 phòng lưu trú. Điểm tựa tài chính đặc biệt là Casino Corona, nơi mảng kinh doanh casino tự sinh lãi hơn 3.300 tỷ đồng. Dù gánh chi phí khấu hao lớn, sòng bài đóng vai trò chi phí mồi đưa khách về lấp đầy hệ sinh thái dịch vụ.
+
+Đối trọng ở Cực Nam là Tập đoàn Sun Group với tổng mức đầu tư khoảng 64.000 tỷ đồng. Nam Đảo được định vị trở thành thủ phủ hội nghị MICE và ngoại giao quốc tế phục vụ APEC 2027. Điểm nhấn là Trung tâm Hội nghị có phòng đại tiệc không cột rộng hơn 11.000 mét vuông lớn nhất thế giới. Công trình có sức chứa hơn 10.000 người, vượt qua cả Caesars Forum Las Vegas. Bao quanh là quần thể 15 tháp khách sạn 40 tầng với 6.500 phòng 5 sao, cùng Thị trấn Hoàng Hôn và Sun PhuQuoc Airways.
+
+Tại trục bờ biển Tây Nam, Tập đoàn BIM Group đầu tư hơn 20.000 tỷ đồng vào quần thể Phu Quoc Marina tại Bãi Trường. Chiến lược ở đây là đưa các thương hiệu siêu sang thế giới như Regent hay Park Hyatt vào vận hành. Đây là chứng chỉ bảo chứng chất lượng đáp ứng tiêu chuẩn của giới tài phiệt toàn cầu. Đi cùng công viên nước Marina Water Park 13 héc-ta đạt chuẩn quốc tế.
+
+Trong khi đó, ở Cực Đông, Tập đoàn IPPG đầu tư gần 7.000 tỷ đồng xây dựng Khu phi thuế quan Bãi Vòng. Một trung tâm mua sắm 101 héc-ta quy tụ hơn 200 thương hiệu xa xỉ toàn cầu. Áp dụng chính sách hoàn thuế VAT tại chỗ và hạn mức miễn thuế lên tới 200 triệu đồng mỗi năm. Đây là mắt xích quan trọng đón dòng tiền của du khách trước khi xuất cảnh.
+
+Sự phân vai không gian của 4 tập đoàn đã tạo nên một chiếc phễu tiêu dùng khép kín. Du khách đáp xuống Sân bay Quốc tế Phú Quốc, đi tàu điện LRT, nghỉ tại resort BIM Group và dự hội nghị Sun Group. Sau đó vui chơi tại Vingroup và mua sắm miễn thuế tại tổ hợp của IPPG. Toàn bộ dòng tiền ngoại tệ nhờ đó được giữ lại hiệu quả bên trong hòn đảo.
+
+Một cỗ máy kinh tế khép kín nửa triệu tỷ đồng đã chính thức thành hình. Nhưng dòng tiền tư bản dù hùng mạnh đến đâu cũng khó an toàn nếu pháp luật lỏng lẻo và tranh chấp bất minh. Ai là người mang lại kỷ cương thép để bảo vệ môi trường đầu tư cho dòng vốn khổng lồ này?

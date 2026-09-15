@@ -1,0 +1,112 @@
+---
+title: "Hãy cung cấp số liệu so sánh về tổng doanh số ô tô tại Việt Nam năm 2025 và thị phần của các hãng xe xăng truyền thống (Thaco, Toyota, Hyundai, Ford, Mitsubishi) so với VinFast."
+type: nblm-answer
+asked_at: 2026-07-10T09:09:39.902Z
+notebook_url: "https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63"
+session_id: "4db567e9"
+citations_count: 10
+sources:
+  - "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions"
+  - "Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan"
+  - "Dân Việt mua 322 nghìn xe ôtô năm 2019 - Báo Lao Động"
+  - "Người Việt mua ô tô đạt kỷ lục | Báo Pháp Luật TP. Hồ Chí Minh"
+---
+
+# Hãy cung cấp số liệu so sánh về tổng doanh số ô tô tại Việt Nam năm 2025 và thị phần của các hãng xe xăng truyền thống (Thaco, Toyota, Hyundai, Ford, Mitsubishi) so với VinFast.
+
+> Asked on 2026-07-10T09:09:39.902Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63)
+
+## Answer
+
+Thoughts
+Các tài liệu hiện có trong sổ tay của bạn không cung cấp số liệu thống kê chi tiết về tổng doanh số ô tô tại Việt Nam trong năm 2025, cũng như thị phần cụ thể của các hãng xe xăng truyền thống (Thaco, Toyota, Hyundai, Ford, Mitsubishi) so với VinFast trong năm 2025.
+Tuy nhiên, tài liệu có ghi nhận một số dự báo vĩ mô cho năm 2025, doanh số lũy kế của VinFast đến cuối năm 2024 và số liệu so sánh thị phần chi tiết gần nhất (năm 2019) như sau:
+1. Số liệu dự báo năm 2025 và doanh số ô tô điện VinFast đến cuối năm 2024
+Quy mô thị trường xe điện năm 2025: Quy mô thị trường xe điện tại Việt Nam dự kiến đạt 2,93 tỷ USD vào năm 2025 (với tốc độ tăng trưởng kép hàng năm CAGR đạt 18%)
+1
+.
+Doanh số ô tô điện VinFast (đến cuối tháng 11/2024): VinFast đã bàn giao hơn 67.000 chiếc ô tô điện cho khách hàng, giữ vững vị thế dẫn đầu thị trường xe điện nội địa
+2
+.
+2. Số liệu so sánh doanh số và thị phần chi tiết gần nhất có trong tài liệu (Năm 2019)
+Để hình dung rõ hơn về tương quan lực lượng giữa các liên doanh truyền thống và bước khởi đầu của VinFast trước khi chuyển đổi thuần điện, dưới đây là bảng số liệu năm 2019:
+Tổng doanh số toàn thị trường năm 2019: Đạt mức kỷ lục 401.890 xe (trong đó doanh số phân khúc các thành viên VAMA đạt 322.322 xe)
+3
+4
+.
+Thị phần và doanh số cụ thể của các hãng năm 2019
+Thaco: Chiếm 30% thị phần với doanh số 91.710 xe
+5
+7
+.
+Toyota Việt Nam: Chiếm 25,9% thị phần với doanh số 79.328 xe (không tính thương hiệu Lexus)
+6
+7
+.
+TC Motor (Hyundai): Đạt doanh số 79.568 xe (tăng trưởng 25% so với năm 2018)
+5
+8
+.
+Honda: Chiếm 10,8% thị phần
+6
+7
+.
+Ford: Chiếm 10,5% thị phần
+6
+7
+(doanh số bán ra đạt 32.175 xe
+9
+).
+Mitsubishi: Chiếm 10% thị phần
+6
+7
+(doanh số bứt phá đạt 30.642 xe nhờ mẫu MPV giá rẻ Xpander
+10
+).
+VinFast: Thời điểm này mới gia nhập thị trường bằng cách tiếp quản hệ thống phân phối của GM và ghi nhận doanh số 2.657 xe mang thương hiệu Chevrolet
+6
+7
+.
+🔍 Tôi có thể thực hiện tìm kiếm trên web để cập nhật chính xác các số liệu báo cáo doanh số và thị phần ô tô tại Việt Nam trong cả năm 2025 cho bạn không?
+
+## Sources
+
+### [1] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Thị trường xe điện tại Việt Nam đang ở thời điểm tăng trưởng chưa từng có, với quy mô dự kiến đạt 2,93 tỷ USD vào năm 2025 và tiếp tục mở rộng lên 6,69 tỷ USD vào năm 2030 , theo báo cáo mới nhất từ Mordor Intelligence . Mức tăng trưởng kép hàng năm (CAGR) ấn tượng 18% phản ánh sự chuyển mình mạnh mẽ của thị trường, đặt nền móng cho kỷ nguyên phương tiện di chuyển xanh . Sự phát triển nhanh chóng của phương tiện điện không đơn thuần đến từ thị trường nội tại, mà còn được thúc đẩy bởi loạt yếu tố: Chính sách khuyến khích xe không phát thải của Chính phủ Hỗ trợ thuế, trợ giá và đầu tư hạ tầng sạc điện Nhận thức người tiêu dùng ngày càng cao về ô nhiễm đô thị, biến đổi khí hậu Chi phí pin lithium-ion giảm nhanh Sự gia nhập của loạt doanh nghiệp nội địa và quốc tế
+
+### [2] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Trong giai đoạn 2022–2024, hàng loạt mẫu xe điện (BEV) từ châu Âu, Trung Quốc và nội địa đã ồ ạt gia nhập thị trường. Các mẫu xe như BMW iX3, i4, Mercedes-Benz EQS, EQB, Audi e-tron hay BYD Dolphin, Wuling Bingo, Aion Y Plus… đã cho thấy mức độ quan tâm ngày càng lớn từ các hãng xe quốc tế đối với thị trường Việt. Tuy nhiên, phần lớn doanh số của các mẫu xe này vẫn là ẩn số khi không được công bố rõ ràng, tạo ra khoảng trống thông tin trong cuộc chiến thị phần. Ở thị trường xe điện nội địa, VinFast vẫn đang giữ vị thế dẫn đầu. Tính đến cuối tháng 11/2024, hãng đã bàn giao hơn 67.000 chiếc ô tô điện, con số đủ để vượt xa các đối thủ cả trong và ngoài nước.
+
+### [3] Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan
+
+> Theo các số liệu thống kê toàn diện, tổng doanh số tiêu thụ ô tô trên toàn thị trường đạt mức tăng trưởng rõ rệt qua các năm. Trong năm 2018, tổng lượng ô tô tiêu thụ đạt 352.209 xe, và con số này đã bứt phá lên mức kỷ lục 401.890 xe vào năm 2019, tương đương mức tăng trưởng toàn thị trường đạt 14,1%.[1] Nếu xét riêng trong phạm vi các đơn vị báo cáo thuộc Hiệp hội các nhà sản xuất ô tô Việt Nam (VAMA), tổng doanh số năm 2019 đạt 322.322 xe, ghi nhận mức tăng trưởng gần 12% so với năm 2018.[2] Sự phân cực về nguồn gốc xuất xứ của phương tiện thể hiện sự đối lập mạnh mẽ giữa hai mảng xe nhập khẩu nguyên chiếc (CBU) và xe sản xuất, lắp ráp trong nước (CKD). Dưới ảnh hưởng của các điều chỉnh về thuế và thủ tục thông quan, doanh số xe nhập khẩu nguyên chiếc năm 2019 đạt 132.872 xe, ghi nhận mức tăng trưởng vượt bậc lên tới 82% so với năm 2018.[2] Thống kê từ Tổng cục Hải quan cho thấy, chỉ tính riêng trong 11 tháng năm 2019, Việt Nam đã nhập khẩu gần 133.700 ô tô nguyên chiếc, gấp đôi cùng kỳ năm 2018.[2] Đáng chú ý, 87% lượng xe nhập khẩu này tập trung vào hai quốc gia thuộc khu vực Đông Nam Á là Indonesia và Thái Lan.[2] Trái ngược hoàn toàn với sự bùng nổ của khối ngoại nhập, mảng xe sản xuất và lắp ráp trong nước (CKD) lại ghi nhận đà sụt giảm 12% trong năm 2019, với doanh số chỉ đạt 189.450 xe.[2]
+
+### [4] Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan
+
+> Bảng 1: Quy mô và tốc độ tăng trưởng thị trường ô tô Việt Nam phân theo phân khúc và nguồn gốc (2018 - 2019) Chỉ tiêu thống kê Doanh số năm 2018 (xe) Doanh số năm 2019 (xe) Tốc độ tăng trưởng (%) Xu hướng và phân tích thị trường Tổng doanh số toàn thị trường 352.209 401.890 +14,1% Đạt quy mô kỷ lục nhờ sự bùng nổ của nhóm xe cá nhân và lực cầu tiêu dùng lớn.[1] Doanh số phân khúc VAMA ~288.000 322.322 +12,0% Phản ánh xu hướng tiêu dùng chính thống thông qua các kênh phân phối chính thức.[2] Xe nhập khẩu nguyên chiếc (CBU) ~73.000 132.872 +82,0% Bùng nổ mạnh mẽ sau khi vượt qua các rào cản kỹ thuật từ Nghị định 116.[2] Xe lắp ráp trong nước (CKD) ~215.280 189.450 -12,0% Sụt giảm thị phần nghiêm trọng dưới sức ép cạnh tranh giá từ xe nhập khẩu ASEAN.[2] Phân khúc ô tô du lịch (xe cá nhân) - - +20,0% Động lực tăng trưởng chính của toàn ngành ô tô.[2] Phân khúc xe thương mại - - -5,6% Suy giảm nhẹ do nhu cầu đầu tư phương tiện kinh doanh vận tải chững lại.[2] Phân khúc xe chuyên dụng - - -27,0% Sụt giảm sâu nhất do các biến động trong đầu tư hạ tầng và dự án công nghiệp.[2]
+
+### [5] Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan
+
+> Tập đoàn Trường Hải (Thaco): Duy trì vị trí dẫn đầu toàn thị trường với 30% thị phần, tương đương doanh số bán ra đạt 91.710 xe.[2] Thành công của Thaco đến từ chiến lược đa dạng hóa thương hiệu cực kỳ linh hoạt, từ lắp ráp các dòng xe du lịch Kia, Mazda, Peugeot cho đến sản xuất xe thương mại, giúp hãng phủ sóng hầu hết mọi phân khúc khách hàng.[2] TC Motor (Hyundai Thành Công): Ghi nhận mức tăng trưởng doanh số vượt bậc lên tới 25% trong năm 2019, đạt tổng doanh số bán cả năm là 79.568 xe.[1] Việc tập trung đầu tư lớn vào nhà máy lắp ráp tại Ninh Bình giúp TC Motor tối ưu hóa chi phí sản xuất và liên tục đưa ra các mẫu xe có tính cạnh tranh cao về trang bị và giá bán so với các đối thủ liên doanh.
+
+### [6] Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan
+
+> 4.2. Khối liên doanh ngoại truyền thống và sự xuất hiện của VinFast Khối các nhà sản xuất liên doanh truyền thống mặc dù gặp nhiều thách thức trong việc cân bằng giữa lắp ráp CKD và nhập khẩu CBU nhưng vẫn bảo vệ vững chắc các cứ điểm thị phần của mình: Toyota Việt Nam: Đứng thứ hai thị trường với 25,9% thị phần (chưa tính thương hiệu Lexus), tiêu thụ đạt 79.328 xe.[2] Toyota đã khéo léo chuyển đổi cơ cấu sản phẩm, chuyển một số dòng xe chủ lực sang nhập khẩu từ Thái Lan và Indonesia để hưởng thuế 0% trong khi vẫn duy trì dây chuyền lắp ráp trong nước cho các mẫu xe chiến lược có sản lượng lớn.[2, 8] Honda, Ford và Mitsubishi: Nhóm liên doanh này bám đuổi sát sao với thị phần lần lượt đạt 10,8%, 10,5% và 10%.[2] Trong đó, Mitsubishi ghi nhận mức tăng trưởng đột phá nhờ sự thành công vượt mong đợi của mẫu xe đa dụng MPV nhập khẩu giá rẻ, làm thay đổi hoàn toàn cục diện phân khúc xe gia đình.[1, 2] VinFast: Thương hiệu ô tô nội địa mới gia nhập thị trường đã thực hiện bước đi chiến lược đầu tiên bằng việc tiếp quản hệ thống phân phối của General Motors tại Việt Nam, ghi nhận doanh số bán ra đạt 2.657 xe mang thương hiệu Chevrolet trong năm 2019 trước khi chính thức bàn giao các dòng xe tự phát triển.[2]
+
+### [7] Dân Việt mua 322 nghìn xe ôtô năm 2019 - Báo Lao Động
+
+> Tính chung cả năm 2019, thị trường Việt Nam tiêu thụ 322.322 xe, tăng gần 12% so với 2018. Trong đó, ôtô du lịch tăng 20%; xe thương mại giảm 5,6% và xe chuyên dụng giảm 27%. Về xuất xứ, doanh số xe nhập khẩu đạt 132.872 xe, tăng 82%; doanh số xe lắp ráp đạt 189.450 xe, giảm 12% so với năm trước đó. Thaco chiếm 30% thị phần với doanh số 91.710 xe. Toyota Việt Nam tiêu thụ được 79.328 xe (không kể Lexus), chiếm 25,9% thị phần. Các hãng Honda; Ford và Mitsubishi lần lượt chiếm 10,8%; 10,5% và 10%. Hãng xe Việt VinFast bán được 2.657 xe Chevrolet trong năm 2019.
+
+### [8] Người Việt mua ô tô đạt kỷ lục | Báo Pháp Luật TP. Hồ Chí Minh
+
+> Kinh tế Người Việt mua ô tô đạt kỷ lục 14/01/2020 2:28 THY NHUNG (PLO)- Trong năm 2019, người Việt tiêu thụ hơn 400.000 ô tô, đạt mức tăng trưởng kỷ lục so với các năm gần đây. Kết thúc năm 2019, [thị trường ô tô Việt Nam](https://plo.vn/tu-khoa.html?q=thị trường ô tô Việt Nam) ghi nhận mức tăng trưởng so với năm trước đó. Theo báo cáo doanh số của Hiệp hội Các nhà sản xuất ô tô Việt Nam (VAMA), trong năm 2019 số lượng xe được bán ra cao hơn năm 2018 gần 100.000 chiếc. Cụ thể, các hãng xe bán ra tổng cộng 401.890 chiếc trong khi năm 2018 chỉ có 352.209 chiếc. Đây là con số ấn tượng trong thị trường ô tô các năm gần đây. Trong đó, TC Motor (Hyundai Thành Công) có tổng doanh số bán cả năm 2019 lên 79.568 xe, tăng 25% so với năm 2018.
+
+### [9] Người Việt mua ô tô đạt kỷ lục | Báo Pháp Luật TP. Hồ Chí Minh
+
+> Tiếp theo là hãng Suzuki Việt Nam khi bán ra 11.789 xe, tăng trưởng hơn 70% so với năm 2018 (năm 2018 Suzuki Việt Nam bán ra 6.897 xe). Khách hàng tiêu thụ gần 80.000 xe Hyundai trong năm 2019 (PLO)- Tổng số lượng ô tô của TC Motor được bán ra trong năm 2019 đạt 79.568 xe, đồng thời góp mặt mẫu Hyundai SantaFe vào mẫu xe ấn tượng của năm. Ford Việt Nam với 32.175 xe bán ra, mức tăng trưởng này của Ford Việt Nam được ghi nhận là hơn 30% so với năm 2018. Và một số hãng xe khác cũng có doanh số góp phần tăng trưởng tổng doanh số của năm 2019.
+
+### [10] Người Việt mua ô tô đạt kỷ lục | Báo Pháp Luật TP. Hồ Chí Minh
+
+> Một số hãng xe đạt [tăng trưởng](https://plo.vn/tu-khoa.html?q=tăng trưởng) cao như Mitsubishi, Ford, Suzuki. Ảnh: TN Tương tự như vậy, Toyota Việt Nam cũng có con số không kém cạnh, với việc [xuất xưởng](https://plo.vn/tu-khoa.html?q=xuất xưởng) 50.114 xe và tổng doanh số bán hàng đạt hơn 80.000 xe, tăng 36% so với năm trước. Trong năm 2019, các hãng có sự tăng trưởng nổi bật nhất có thể kể đến như Mitsubishi, Ford và Suzuki. Trong đó, Mitsubishi Việt Nam là thương hiệu nổi bật nhất khi bán ra tới 30.642 xe, đạt mức tăng trưởng 198% (năm 2018 Mitsubishi Việt Nam bán ra 10.278 xe).

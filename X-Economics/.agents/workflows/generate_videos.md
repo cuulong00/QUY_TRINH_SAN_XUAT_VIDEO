@@ -1,0 +1,1 @@
+/Users/pro16/Documents/VideoProject/VideoCore/.agents/workflows/generate_videos.md

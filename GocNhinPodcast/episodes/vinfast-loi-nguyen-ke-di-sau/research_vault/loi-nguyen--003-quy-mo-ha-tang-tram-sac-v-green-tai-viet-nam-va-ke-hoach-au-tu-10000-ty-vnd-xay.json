@@ -1,0 +1,97 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-10T08:35:13.836Z",
+  "session_id": "a8014d29",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/1ff29234-3f66-42df-8f55-15d6b2c88321"
+  },
+  "question": "Quy mô hạ tầng trạm sạc V-Green tại Việt Nam và kế hoạch đầu tư 10.000 tỷ VND xây dựng siêu trạm sạc. V-Green hoạt động như thế nào để làm rào cản ngăn chặn sự xâm nhập của BYD và các hãng xe điện ngoại bang? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO CHI TIẾT QUY MÔ HẠ TẦNG VÀ CHIẾN LƯỢC RÀO CẢN CỦA V-GREEN TẠI VIỆT NAM\n1. Căn cứ và Nguồn dữ liệu\nThời gian dữ liệu: Cập nhật mới nhất giai đoạn 2024 - 2026.\nNguồn tài liệu tham khảo: Báo cáo phân tích \"Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.\", Báo cáo tài chính Form 20-F của VinFast, Thông cáo báo chí và kế hoạch đầu tư chính thức của V-Green (tháng 3/2026).\n2. Quy mô hạ tầng trạm sạc V-Green tại Việt Nam\nThành lập và sở hữu: V-Green được thành lập vào tháng 3/2024, do ông Phạm Nhật Vượng sở hữu 90% cổ phần, với mục tiêu gánh vác toàn bộ việc phát triển hạ tầng xe điện để VinFast tập trung vào sản xuất và kinh doanh\n1\n2\n.\nMật độ phủ sóng: Tính đến cuối năm 2025, V-Green đã hoàn thiện quy hoạch và triển khai 150.000 cổng sạc cho ô tô và xe máy điện trên toàn quốc, thiết lập mạng lưới trạm sạc áp đảo tại Việt Nam\nTầm nhìn dài hạn: Doanh nghiệp đặt mục tiêu nâng tổng số lên 500.000 cổng sạc trên toàn quốc vào năm 2028\n3\n. Song song đó, V-Green triển khai kế hoạch lắp đặt 150.000 điểm đổi pin chuyên dụng cho xe máy điện trong vòng 3 năm tới\n6\n7\n.\n3. Kế hoạch đầu tư 10.000 tỷ VND xây dựng siêu trạm sạc (Năm 2026) Để đáp ứng nhu cầu di chuyển đường dài và liên tỉnh, vào tháng 3/2026, V-Green công bố khoản đầu tư 10.000 tỷ VND (khoảng 400 triệu USD) nhằm xây dựng 99 \"siêu trạm sạc\" dọc theo các tuyến quốc lộ và tỉnh lộ huyết mạch trải dài trên 34 tỉnh, thành phố\nMật độ và công suất: Mỗi siêu trạm được thiết kế tối đa 100 súng sạc với công suất định mức 150 kW/súng\nTốc độ sạc: Với cấu hình này, xe điện có thể sạc đủ năng lượng để di chuyển tiếp chỉ trong vòng khoảng 15 phút\nHạ tầng năng lượng xanh: 100% siêu trạm sẽ sử dụng năng lượng sạch (điện gió và điện mặt trời) và được lưu trữ cục bộ qua hệ thống pin tích năng lượng (BESS) do chính VinFast nghiên cứu, phát triển và chế tạo, giúp giảm phát thải carbon và cách ly khỏi những biến động giá điện công nghiệp\n4. Cơ chế \"Hào phòng thủ\" ngăn chặn BYD và các hãng xe điện ngoại Hạ tầng trạm sạc của V-Green được xây dựng không chỉ như một dự án hạ tầng mà còn là \"hào phòng thủ phi thuế quan\" đặc biệt kiên cố của VinFast tại thị trường nội địa, với cơ chế vận hành mang tính rào cản như sau\nChính sách độc quyền 5 năm: V-Green duy trì chính sách đóng cửa hoàn toàn mạng lưới 150.000 cổng sạc đối với các thương hiệu xe đối thủ trong ít nhất 5 năm đầu vận hành. Toàn bộ hạ tầng này hiện chỉ phục vụ riêng cho khách hàng mua xe VinFast. Sau thời gian tối thiểu 5 năm, tùy thuộc vào khả năng thu hồi vốn và độ bão hòa của thị trường, V-Green mới cân nhắc mở trạm sạc cho các hãng xe khác\nTạo rào cản gia nhập khổng lồ: Việc thâm nhập hạ tầng tại Việt Nam vô cùng khó khăn đối với các hãng xe như BYD. Chi phí quỹ đất tại các khu đô thị lớn ngày càng đắt đỏ, kết hợp với các thủ tục đấu nối nguồn điện trung - hạ thế phức tạp khiến các đối thủ ngoại bang không thể dễ dàng tự xây dựng một hệ thống trạm sạc tương đương trong ngắn hạn\nThâu tóm tâm lý và thói quen tiêu dùng: Khách hàng tại Việt Nam coi sự tiện lợi của trạm sạc là yếu tố sống còn khi mua xe điện. Việc không thể sử dụng chung hệ thống sạc của V-Green sẽ lập tức khiến các dòng xe nhập khẩu (dù giá rẻ) trở nên kém hấp dẫn và khó tiếp cận nhóm khách hàng đại chúng\nBằng cách buộc đối thủ phải tự bỏ hàng tỷ USD xây trạm sạc từ con số 0 hoặc chấp nhận bất lợi về tính tiện dụng, V-Green đã trực tiếp bóp nghẹt cơ hội cạnh tranh và ngăn chặn sự thâm nhập chớp nhoáng của BYD cùng các hãng xe ngoại khác tại Việt Nam",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Thành lập Công ty Phát triển trạm sạc xe điện toàn cầu V-GREEN - EVN",
+      "source_text": "Trang chủ > Thành lập Công ty Phát triển trạm sạc xe điện toàn cầu V-GREEN 19/03/2024 - 16:28 (GMT+7) Ngày 18/03/2024, Chủ tịch Tập đoàn Vingroup, đồng thời là nhà sáng lập VinFast – ông Phạm Nhật Vượng đã công bố thành lập Công ty Phát triển Trạm sạc toàn cầu V-GREEN. Mục tiêu của V-GREEN là đầu tư phát triển hệ thống hạ tầng trạm sạc nhằm hỗ trợ tối đa cho VinFast nhanh chóng vươn ra toàn cầu, đồng thời đưa Việt Nam trở thành một trong những quốc gia có mật độ trạm sạc xe điện lớn nhất thế giới. Nguồn ảnh: Vinfast"
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Thành lập Công ty Phát triển trạm sạc xe điện toàn cầu V-GREEN - EVN",
+      "source_text": "Công ty V-GREEN do nhà sáng lập VinFast thành lập với tỷ lệ sở hữu 90% cổ phần, được tách ra từ bộ phận phát triển trạm sạc của hãng xe điện VinFast. V-GREEN sẽ hoạt động hoàn toàn độc lập trong vai trò đối tác phát triển mạng lưới trạm sạc cho VinFast trên quy mô toàn cầu, chịu trách nhiệm đầu tư toàn bộ hạ tầng xe điện. Trong giai đoạn đầu, V-GREEN sẽ trực tiếp tìm kiếm mặt bằng và đối tác để thiết lập, mở rộng mạng lưới trạm sạc tại các thị trường trọng điểm trên khắp thế giới, đồng thời hợp tác với các đối tác là đơn vị cung cấp trạm sạc bên thứ 3 để cung cấp dịch vụ sạc xe cho các chủ xe điện VinFast."
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "V-Green commits $400 million to nationwide ultra-fast EV charging network",
+      "source_text": "“With 99 hubs in place, VinFast customers can travel long distances with full confidence, even during peak periods,” she said. V-Green will accelerate the development of these 99 hubs with the goal of largely completing the rollout within this year, in response to rising demand and the growing number of VinFast EVs entering the market. By the end of 2025, V-Green completed planning for 150,000 charging ports for electric cars and motorbikes across Vietnam. In the next development phase, the company will prioritise investment in ultra-fast charging hubs to support long-distance EV travel, while also expanding its battery swapping network for electric motorbikes to maximise convenience for users."
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "V-Green to invest 10 trillion VND in nationwide ultra-fast EV charging network",
+      "source_text": "Notably, all stations will operate entirely on clean energy sourced from wind and solar power. The energy will be stored in battery energy storage systems (BESS) developed and manufactured by VinFast. The company said the model not only enhances convenience for EV users but also contributes to reducing carbon emissions, supporting Vietnam's commitment to achieving net-zero emissions by 2050. By the end of 2025, V-Green had completed planning for a nationwide network of 150,000 charging ports for electric cars and motorbikes. In its next development phase, it will prioritise investment in ultra-fast charging hubs and expand battery swapping stations for electric motorbikes, aiming to maximise convenience for all users./."
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "V-Green của ông Phạm Nhật Vượng rót 10.000 tỷ xây ngay 99 'siêu ...",
+      "source_text": "Kế hoạch xây dựng 99 siêu trạm sạc dự kiến được triển khai ngay trong năm 2026, với mục tiêu cơ bản hoàn thành trong năm. Động thái này diễn ra trong bối cảnh thị trường xe điện tại Việt Nam ghi nhận tốc độ tăng trưởng nhanh, trong đó các dòng xe của VinFast chiếm tỷ trọng lớn. Sự gia tăng số lượng phương tiện kéo theo nhu cầu cấp thiết về hạ tầng sạc, đặc biệt ở các tuyến giao thông liên vùng. Trước đó, tính đến cuối năm 2025, V-Green cho biết đã hoàn thiện quy hoạch khoảng 150.000 cổng sạc cho ô tô và xe máy điện trên toàn quốc. Trong giai đoạn tiếp theo, doanh nghiệp dự kiến tập trung nguồn lực vào các siêu trạm sạc quy mô lớn, đồng thời tiếp tục mở rộng mạng lưới tủ đổi pin dành cho xe máy điện nhằm đa dạng hóa giải pháp năng lượng."
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "V-Green của ông Phạm Nhật Vượng rót 10.000 tỷ xây ngay 99 'siêu ...",
+      "source_text": "Kế hoạch xây dựng 99 siêu trạm sạc dự kiến được triển khai ngay trong năm 2026, với mục tiêu cơ bản hoàn thành trong năm. Động thái này diễn ra trong bối cảnh thị trường xe điện tại Việt Nam ghi nhận tốc độ tăng trưởng nhanh, trong đó các dòng xe của VinFast chiếm tỷ trọng lớn. Sự gia tăng số lượng phương tiện kéo theo nhu cầu cấp thiết về hạ tầng sạc, đặc biệt ở các tuyến giao thông liên vùng. Trước đó, tính đến cuối năm 2025, V-Green cho biết đã hoàn thiện quy hoạch khoảng 150.000 cổng sạc cho ô tô và xe máy điện trên toàn quốc. Trong giai đoạn tiếp theo, doanh nghiệp dự kiến tập trung nguồn lực vào các siêu trạm sạc quy mô lớn, đồng thời tiếp tục mở rộng mạng lưới tủ đổi pin dành cho xe máy điện nhằm đa dạng hóa giải pháp năng lượng."
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "V-Green commits $400 million to nationwide ultra-fast EV charging network",
+      "source_text": "Investing M&A Outbound Investment Investing in Haiphong V-Green commits $400 million to nationwide ultra-fast EV charging network March 19, 2026 | 09:25 (0) user say Share [Email](https://mail.google.com/mail/u/0/?view=cm&su=V-Green commits $400 million to nationwide ultra-fast EV charging network&to&body=https://vir.com.vn/v-green-commits-400-million-to-nationwide-ultra-fast-ev-charging-network-148812.html&fs=1&tf=1) Print On March 18, V-Green Global Charging Station Development JSC announced a $400 million investment to deploy 99 ultra-fast charging hubs along highways nationwide this year."
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "V-Green commits $400 million to nationwide ultra-fast EV charging network",
+      "source_text": "The charging hubs will be strategically located along major road networks at reasonable intervals, spanning 34 localities nationwide, to effectively meet long-distance, interprovincial, and cross-country travel demand for users of VinFast electric vehicles. Each hub will be equipped with up to 100 charging points with a capacity of 150kW, enabling ultra-fast charging and ensuring that vehicles can gain sufficient energy to continue their journeys in just 15 minutes. Notably, 100 per cent of these hubs will utilise clean energy sourced from wind and solar power, stored in Battery Energy Storage Systems researched, developed, and manufactured by VinFast. V-Green announces a $400 million investment to deploy ultra-fast charging hubs along national and provincial highways across Vietnam this year"
+    },
+    {
+      "marker": "[17]",
+      "number": 17,
+      "source_name": "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.",
+      "source_text": "Hào phòng thủ hạ tầng trạm sạc V-Green tại Việt Nam Hạ tầng trạm sạc được xác định là hào phòng thủ phi thuế quan vững chắc nhất giúp VinFast bảo vệ thị phần tuyệt đối tại Việt Nam trước sự xâm nhập của các thương hiệu xe điện quốc tế.[6] Công ty Cổ phần Phát triển Trạm sạc Toàn cầu V-Green, thực thể do ông Phạm Nhật Vượng sở hữu 90% cổ phần, đảm nhận vai trò quy hoạch, xây dựng và vận hành toàn bộ mạng lưới sạc này.[18, 19] Tính đến cuối năm 2025, V-Green đã hoàn thiện lắp đặt và vận hành 150.000 cổng sạc dành cho ô tô và xe máy điện trên phạm vi toàn quốc.[6, 18, 20] Đồng thời, doanh nghiệp đặt mục tiêu chiến lược phát triển thêm 150.000 điểm đổi pin dành cho xe máy điện trong vòng 3 năm tiếp theo nhằm tối ưu hóa sự tiện lợi cho người dùng xe hai bánh.[18] Trước đó, tính đến cuối năm 2025, V-Green cũng đã hoàn tất thỏa thuận hợp tác với FAST để triển khai nhanh 5.000 trụ sạc công cộng.[21]"
+    },
+    {
+      "marker": "[20]",
+      "number": 20,
+      "source_name": "Thành lập Công ty Phát triển trạm sạc xe điện toàn cầu V-GREEN - EVN",
+      "source_text": "Tại Việt Nam, V-GREEN sẽ chịu trách nhiệm vận hành, quản lý hệ thống trạm sạc sẵn có của VinFast, đồng thời sẽ đầu tư thêm 10.000 tỷ đồng trong vòng 2 năm tới để xây mới và nâng cấp, hoàn thiện hệ thống. V-GREEN hướng đến mục tiêu phủ trạm sạc trên khắp đất nước và đưa Việt Nam trở thành một trong những quốc gia dẫn đầu thế giới về phát triển hạ tầng trạm sạc cho xe điện. Giai đoạn sau khoảng 5 năm vận hành, tùy theo từng thị trường cũng như khả năng huy động thực tế, V-GREEN có thể cân nhắc chuyển sang mô hình kinh doanh dịch vụ sạc ô tô điện cho các hãng xe điện khác ngoài VinFast."
+    },
+    {
+      "marker": "[26]",
+      "number": 26,
+      "source_name": "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.",
+      "source_text": "Chiến lược này trực tiếp bóp nghẹt cơ hội cạnh tranh của các hãng xe nhập khẩu, đặc biệt là các dòng xe điện giá rẻ từ Trung Quốc.[12] Do chi phí quỹ đất tại các khu đô thị lớn của Việt Nam ngày càng đắt đỏ và thủ tục đấu nối nguồn điện trung - hạ thế vô cùng phức tạp, các đối thủ ngoại bang không thể dễ dàng tự xây dựng một hệ thống trạm sạc tương tự trong ngắn hạn.[6] Khách hàng Việt Nam khi mua xe điện thường có thói quen ưu tiên sự tiện dụng của trạm sạc.[23] Việc không thể sử dụng chung hệ thống 150.000 cổng sạc của V-Green khiến các dòng xe đối thủ trở nên kém hấp dẫn và khó tiếp cận nhóm khách hàng đại chúng.[6, 18]"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 11,
+    "source_names": [
+      "Thành lập Công ty Phát triển trạm sạc xe điện toàn cầu V-GREEN - EVN",
+      "V-Green commits $400 million to nationwide ultra-fast EV charging network",
+      "V-Green to invest 10 trillion VND in nationwide ultra-fast EV charging network",
+      "V-Green của ông Phạm Nhật Vượng rót 10.000 tỷ xây ngay 99 'siêu ...",
+      "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd."
+    ]
+  }
+}

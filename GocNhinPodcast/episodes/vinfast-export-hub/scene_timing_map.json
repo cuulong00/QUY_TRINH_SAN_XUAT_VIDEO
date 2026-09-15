@@ -1,0 +1,1433 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bong dang mot nguoi tien phong co doc dung tren dinh vach da cao, nhin ra chan troi bao la.",
+    "sentences": [
+      "Trong kinh doanh quốc tế, người tiên phong thường được ca ngợi là dũng cảm."
+    ],
+    "base_english_prompt": "A steady shot showing a giant solid black silhouette of a lone pioneer standing on the edge of a towering steep cliff, looking out at a vast misty horizon. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cung mot vach da, nhung camera zoom out lo ra no thuc chat la mot banh rang khong lo kem luoi laser do bao quanh chan nguoi.",
+    "sentences": [
+      "Tuy nhiên, đôi khi sự đi trước thời đại lại là một cái bẫy chính sách."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing the same giant solid black silhouette of the lone pioneer on the edge of the cliff, which now reveals itself as a tooth of a giant mechanical gear wheel, with red laser grid lines sweeping around. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bieu tuong chu V phat sang vang nhat tren nen ban do An Do toi mau dang xuat hien cac vet nut do.",
+    "sentences": [
+      "Câu chuyện của VinFast tại đất nước Ấn Độ bắt đầu bằng một nghịch lý như vậy."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector map of India under dark shadows, with a glowing warm cream letter 'V' logo hovering at the center, as red crack lines slowly expand across the map. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "To lich co dien bay lung lo hien ro chu va so 'FEBRUARY 25, 2024' mau vang nhat phat sang.",
+    "sentences": [
+      "Ngày hai mươi lăm tháng hai năm hai nghìn không trăm hai mươi tư."
+    ],
+    "base_english_prompt": "A steady shot showing a retro paper calendar page floating in dark empty space, with the English text 'FEBRUARY 25, 2024' glowing in warm cream. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mo hinh nha may Thoothukudi dang moc len tu vung dat Tamil Nadu, hien chu '$2 BILLION'.",
+    "sentences": [
+      "Dự án sản xuất xe điện trị giá hai tỷ đô la Mỹ chính thức khởi công tại Tamil Nadu."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a 2D vector model of a massive industrial factory rising from the dry land of Tamil Nadu, with the English text '$2 BILLION' displayed in a clean bold sans-serif font centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Day chuyen robot tu dong dang lap rap khung xe dien Vinfast voi cac vao anh sang cuon nhanh.",
+    "sentences": [
+      "Hãng xe Việt muốn chứng minh tốc độ triển khai thần tốc trên thực địa."
+    ],
+    "base_english_prompt": "A steady shot showing robotic arms assembling a stylized electric SUV frame on an automated production line with fast-moving orange light trails. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bieu tuong toa nha chinh phu New Delhi dung sung, hien chu do 'SPMEPCI POLICY'.",
+    "sentences": [
+      "Thế nhưng, hai tháng sau đó, New Delhi mới chính thức ban hành chính sách xe điện mới mang tên SPMEPCI."
+    ],
+    "base_english_prompt": "A steady shot showing the solid black silhouette of the government parliament building in New Delhi under overcast sky, with the English text 'SPMEPCI EV POLICY' displaying in a clean bold sans-serif font centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Container xe dien di qua cong hai quan hien bang dien tu 'DUTY: 15%'.",
+    "sentences": [
+      "Quy định này cho phép giảm thuế nhập khẩu xe nguyên chiếc xuống mười lăm phần trăm."
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive cargo container with a car symbol passing through a customs gate with a digital sign showing 'DUTY: 15%' in glowing green. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Chiec can cong nghiep can bang giua mo hinh nha may va coc tien do la hien '$500 MILLION'.",
+    "sentences": [
+      "Điều kiện bắt buộc là các hãng xe phải đầu tư tối thiểu năm trăm triệu đô la Mỹ."
+    ],
+    "base_english_prompt": "A steady shot showing a large mechanical scale balancing a factory model on one side and a stack of glowing dollars on the other, with the English text 'MINIMUM $500 MILLION' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Thac nuoc anh sang do lam buot doi xuong mo hinh nha may dang phat sang.",
+    "sentences": [
+      "Một gáo nước lạnh dội xuống khi cơ quan chức năng New Delhi từ chối áp dụng hồi tố."
+    ],
+    "base_english_prompt": "A steady shot showing a freezing waterfall of crimson light pouring down onto the glowing factory model, extinguishing its sparks. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Dau gach cheo do lon de len bieu tuong dong tien co nhan 'PRE-APRIL 2024'.",
+    "sentences": [
+      "Nghĩa là toàn bộ chi phí giải ngân trước tháng tư năm hai nghìn không trăm hai mươi tư đều bị gạt bỏ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D graphic of a currency pipeline with a large red cross mark stamped over it, with the English text 'PRE-APRIL 2024 CAPITAL VOID' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Xe dien bi xich sat khoa chat duoi cac chu 'LEGAL LOCK' phat sang do.",
+    "sentences": [
+      "Sự chủ động đi trước của hãng xe Việt bỗng chốc trở thành một thế kẹt pháp lý."
+    ],
+    "base_english_prompt": "A steady shot showing a stylized electric vehicle bound by thick iron chains, under the glowing English text 'LEGAL LOCK' in a bold sans-serif font centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Silhouette mot doanh nhan Viet Nam phat bieu day cuong quyet.",
+    "sentences": [
+      "Trước thực tế này, đại diện hãng xe đã thẳng thắn bày tỏ quan điểm phản ứng."
+    ],
+    "base_english_prompt": "A steady medium shot showing the solid black silhouette of a Vietnamese corporate executive speaking firmly at a press conference, with long dramatic shadows. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, culturally authentic Vietnamese elements, warm organic tones, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bieu do so sanh hai mui ten: CAPITAL (chay nhanh) va POLICY (chay cham phia sau).",
+    "sentences": [
+      "Ông nhận định tốc độ ban hành chính sách của nước sở tại không theo kịp tiến độ rót vốn thực tế."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D graph with two arrows, the arrow labeled 'CAPITAL' shooting forward rapidly, while the arrow labeled 'POLICY' lags far behind. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Chiec dong ho cat kim loai lon de cat len bieu tuong dong tien ben duoi.",
+    "sentences": [
+      "Những nhà đầu tư tiên phong đang bị phạt bởi các mốc thời gian hành chính cứng nhắc."
+    ],
+    "base_english_prompt": "A steady shot showing a massive metal hourglass with sand pouring down and burying a glowing currency symbol at the bottom. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Tang bang troi khong lo ghi chu 'TARIFFS' o phan noi va 'ADMINISTRATION' o phan chim.",
+    "sentences": [
+      "Thế bế tắc hồi tố thuế quan chỉ là phần nổi của các thách thức hành chính."
+    ],
+    "base_english_prompt": "A steady shot showing a giant iceberg floating in a dark ocean, the visible top labeled 'TARIFFS' in warm cream, and the massive hidden bottom labeled 'ADMINISTRATION' in glowing red. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Canh cua thep dong sam truoc luong von ngoai ghi 'FOREIGN CAPITAL'.",
+    "sentences": [
+      "Một luồng dư luận cho rằng New Delhi đang thiếu linh hoạt và gây khó khăn cho dòng vốn ngoại."
+    ],
+    "base_english_prompt": "A steady shot showing a massive iron vault door of the parliament building slamming shut in front of a glowing line labeled 'FOREIGN CAPITAL'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Ban tay khong lo dang xep cac khoi hop rao can ky thuat tren con duong.",
+    "sentences": [
+      "Tuy nhiên, giới quan sát vĩ mô lại hiểu đây là một rào cản kỹ thuật được thiết lập có chủ ý."
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive dark silhouette of a hand placing heavy stone blocks labeled 'TECHNICAL BARRIERS' onto a modern highway. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Chiec o khong lo mau do che cho to hop nha may an do khoi con bao sam set.",
+    "sentences": [
+      "Mục tiêu tối thượng của nó là bảo hộ và tối đa hóa lợi ích cho sản xuất nội địa."
+    ],
+    "base_english_prompt": "A steady shot showing a giant protective red umbrella shielding a complex of Indian factories from lightning strikes under stormy dark clouds, with the English text 'DOMESTIC PROTECTION' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Xe dien di qua dam dong nguoi tieu dung ban dia va huong ra phia cang bien.",
+    "sentences": [
+      "Ván bài thực sự của VinFast tại Ấn Độ không nằm ở việc bán xe cho người bản địa."
+    ],
+    "base_english_prompt": "A slow camera panning showing a VinFast electric SUV driving past stylized silhouettes of local Indian consumers, with the camera panning towards a cargo port at the edge of the screen. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Ban do ket noi nha may An Do di cac nuoc kem nhan 'ORIGIN RULES'.",
+    "sentences": [
+      "Điểm then chốt nằm ở việc đáp ứng quy tắc xuất xứ để xuất khẩu đi các nước khác."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector map of South Asia, with shipping lanes radiating from a factory symbol in South India to neighboring countries, with the English text 'ORIGIN RULES' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mui ten sang ruot xuat phat tu Thoothukudi toa ra 15 huong tren qua dia cau phẳng.",
+    "sentences": [
+      "Muốn biến nhà máy Thoothukudi thành bàn đạp đi mười lăm quốc gia, sản phẩm phải đạt chuẩn Make in India thực chất."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a stylized globe, with a bright turquoise arrow starting from a point labeled 'THOOTHUKUDI' and branching out into fifteen different global directions. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Dau moc do chu 'MAKE IN INDIA' dong manh xuong khung xe dien.",
+    "sentences": [
+      "Quy trình lắp ráp đơn giản kiểu siết ốc vít CKD sẽ không thể vượt qua hải quan."
+    ],
+    "base_english_prompt": "A steady shot showing a heavy steel stamp slamming down to engrave the English text 'MAKE IN INDIA' onto a glowing metallic chassis of an electric car. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Canh chiec co le siet mot con oc vit don doc phia sau la rao chan hai quan do.",
+    "sentences": [
+      "Hải quan Ấn Độ áp dụng quy chế hậu kiểm CAROTAR hai nghìn không trăm hai mươi vô cùng nghiêm ngặt."
+    ],
+    "base_english_prompt": "A steady shot showing a single mechanical wrench tightening a bolt on an empty metal plate, with a heavy red customs barrier dropping down in the background under the English text 'CKD ASSEMBLY REJECTED'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Nhan vien hai quan dung kinh lup lon soi cac chi tiet trong khung xe.",
+    "sentences": [
+      "Cơ quan quản lý thuế sở hữu đặc quyền truy thu và thanh tra thực địa kéo dài tới năm năm."
+    ],
+    "base_english_prompt": "A steady shot showing the solid black silhouette of a customs official looking through a giant glowing magnifying glass to inspect the detailed components inside an electric car chassis, with the English text 'CAROTAR 2020' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Dong ho dem nguoc ghi '5 YEARS' ben canh cac tia laser do quet qua tap tài lieu.",
+    "sentences": [
+      "Mọi hành vi không minh bạch về nguồn gốc đều phải đối mặt với chế tài hình sự nghiêm khắc."
+    ],
+    "base_english_prompt": "A steady shot showing a digital countdown timer displaying '5 YEARS' in glowing red, with laser grids scanning across columns of corporate financial ledger sheets. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bua phien toa bang thep go xuong ban trong anh sang do canh bao.",
+    "sentences": [
+      "Theo quy định của CEPA, gia công tối thiểu sẽ bị tước bỏ hoàn toàn ưu đãi thuế quan."
+    ],
+    "base_english_prompt": "A steady shot showing a heavy steel judge's gavel striking a wooden block, with red light pulsing outwards under dark noir shadows. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC028",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Chung nhan uu dai CEPA bi xe doi boi mot duong nứt phat sang do.",
+    "sentences": [
+      "Để hưởng thuế ưu đãi sang UAE hay các nước Nam Á, VinFast bắt buộc phải tự chủ chuỗi cung ứng tại chỗ."
+    ],
+    "base_english_prompt": "A steady shot showing a formal certificate paper labeled 'CEPA AGREEMENT' tearing apart through a glowing red fissure in the middle. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "He sinh thai phu tro (banh rang nho) ket noi khit khao quanh nha may.",
+    "sentences": [
+      "Và nút thắt sống còn của bài toán này nằm ở cụm pin nguồn."
+    ],
+    "base_english_prompt": "A slow camera panning showing a network of small glowing silver gears (representing suppliers) interlocking perfectly around a central massive factory silhouette. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Khoi pin lithium khong lo phat sang mau xanh la dat tai khung gam xe.",
+    "sentences": [
+      "Cụm pin chiếm tới ba mươi lăm đến đóng vai trò bốn mươi lăm phần trăm tổng giá trị linh kiện của xe."
+    ],
+    "base_english_prompt": "A steady shot showing a detailed 2D vector model of a massive lithium battery pack glowing in sage green, placed inside the center of a car's chassis, with the English text 'BATTERY CELL' displayed in a clean bold sans-serif font centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC031",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Bieu do tron chi ra phan pin chiem 45% tong gia tri linh kien.",
+    "sentences": [
+      "Nếu cell pin nhập khẩu không đạt chuẩn, xe sẽ chịu mức thuế quan một trăm phần trăm."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D pie chart where a segment representing the battery is highlighted and glows, with the English text '45% VALUE' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC032",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Cell pin loi kem dau canh bao do dung truoc bang thue '100% TARIFF'.",
+    "sentences": [
+      "Nhưng trong thế kẹt dòng tiền, làm thế nào VinFast gánh nổi chi phí khổng lồ để tự chủ cụm pin tại đất Ấn?"
+    ],
+    "base_english_prompt": "A steady shot showing a single battery cell marked with a red warning sign standing before a massive steel wall labeled '100% IMPORT TARIFF'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC033",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Silhouette nguoi quan ly dung ben ho sau ngan cach voi day chuyen pin.",
+    "sentences": [
+      "Nếu bạn muốn thấu hiểu sâu hơn cách các tập đoàn Việt Nam đang vận hành trên bàn cờ thương mại toàn cầu"
+    ],
+    "base_english_prompt": "A steady shot showing the solid black silhouette of a manager standing at the edge of a deep abyss that separates him from a battery factory, with dry cracked ground below. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC034",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Logo Goc Nhin Podcast hien ra tinh te o tam kem nut Subscribe phat sang.",
+    "sentences": [
+      "một lượt đăng ký chính là sự khích lệ lớn để chúng ta cùng đồng hành trong các phân tích tiếp theo."
+    ],
+    "base_english_prompt": "A steady shot showing a clean minimalist logo of 'Goc Nhin Podcast' at the center, with a glowing terracotta orange button labeled 'SUBSCRIBE' below it. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Dong nuoc sang chay qua sa mac toi co nhieu vet nut sau dang rut can nuoc.",
+    "sentences": [
+      "Mọi quyết định đầu tư quy mô lớn đều phải trả giá bằng dòng tiền thực tế."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing golden stream (cash flow) flowing through a dark desert, being drained into deep crack lines in the dry ground. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Xe dien ben trong chiec hop kinh lap ghep cac banh rang tai chinh xep chong.",
+    "sentences": [
+      "VinFast đang triển khai dự án tại Ấn Độ dưới một áp lực tài chính vô cùng khốc liệt."
+    ],
+    "base_english_prompt": "A steady shot showing an electric vehicle trapped inside a glass box surrounded by heavy interlocked iron gears representing financial stress. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bieu do cot 3D tang hien thi chu 'REVENUE GROWTH' mau xanh ngoc.",
+    "sentences": [
+      "Báo cáo tài chính quý một năm hai nghìn không trăm hai mươi sáu ghi nhận doanh thu tăng trưởng khá."
+    ],
+    "base_english_prompt": "A steady shot showing a 3D bar graph with rising green bars, with the English text 'REVENUE GROWTH' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Thac anh sang do cuon troi chan cot bieu do hien '-28,108 BILLION VND'.",
+    "sentences": [
+      "Tuy nhiên, hãng xe vẫn gánh khoản lỗ ròng lên đến hai mươi tám nghìn một trăm lẻ tám tỷ đồng."
+    ],
+    "base_english_prompt": "A steady shot showing a red waterfall of light eroding the foundation of the bar graph, with the English text '-28,108 BILLION VND' displaying in glowing red in the center. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Silhouette xe keo khoi da khong lo co chu 'DEBT: 84,718 BILLION VND'.",
+    "sentences": [
+      "Tổng dư nợ vay của doanh nghiệp đã chạm mốc tám mươi tư nghìn bảy trăm mười tám tỷ đồng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a stylized vehicle struggling to pull a massive stone block inscribed with the English text 'DEBT: 84,718 BILLION VND' up a steep hill. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Phao cuu sinh nho phat sang cam troi tren dai duong toi day xich sat.",
+    "sentences": [
+      "Trong khi đó, lượng tiền mặt khả dụng chỉ còn khoảng năm nghìn năm trăm lẻ lăm tỷ đồng."
+    ],
+    "base_english_prompt": "A steady shot showing a tiny bright orange life buoy floating on a pitch-black ocean filled with underwater iron anchors, with the English text 'CASH: 5,505 BILLION VND' in warm cream centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Ban tay silhouette dat hat cat sang len chiec can tai chinh can bang.",
+    "sentences": [
+      "Sự mất cân đối này đòi hỏi doanh nghiệp phải vô cùng cẩn trọng trong phân bổ vốn."
+    ],
+    "base_english_prompt": "A steady shot showing a solid black silhouette of a hand using fine tweezers to carefully place a single glowing grain of sand onto a delicate gold scale. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Nhom nguoi silhouette chi tro vao mo hinh nha may dang phat sang cam mo.",
+    "sentences": [
+      "Một bên hoài nghi cho rằng việc đổ thêm vốn xây nhà máy lúc này là quyết định liều lĩnh."
+    ],
+    "base_english_prompt": "A steady shot showing a group of corporate figures in silhouette whispering and pointing at a faint orange glowing factory model under long dark shadows. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Silhouette mot dau si doi mat voi con bo tot khong lo bang sat.",
+    "sentences": [
+      "Tuy nhiên, các nhà chiến lược vĩ mô lại nhìn nhận đây là sự đánh đổi sinh tồn bắt buộc."
+    ],
+    "base_english_prompt": "A steady shot showing a brave human silhouette holding a small shield, facing a giant mechanical iron bull in a dimly lit arena. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Con so '$1 BILLION' vang ruc hien len tren mo hinh nha may Tamil Nadu.",
+    "sentences": [
+      "VinFast quyết định nâng tổng đầu tư tại Tamil Nadu lên một tỷ đô la Mỹ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the layout design of the Tamil Nadu factory plant with the English text '$1 BILLION EXPANSION' glowing in warm cream at the center. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Xe buyt dien va xe may dien silhouette dang chay qua cac o dat xanh ngoc.",
+    "sentences": [
+      "Mục tiêu là mở rộng sang xe buýt, xe máy điện để tối đa hóa các gói ưu đãi đất đai của địa phương."
+    ],
+    "base_english_prompt": "A steady shot showing the silhouettes of an electric bus and a scooter driving smoothly across flat vector plots of land colored in glowing electric sage green. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Chiec khien xanh bao ve nha may Tamil Nadu khoi cac tia laser do.",
+    "sentences": [
+      "Đây là tấm khiên địa phương giúp hãng đối phó với sự lạnh lùng của liên bang New Delhi."
+    ],
+    "base_english_prompt": "A steady shot showing a transparent glowing green dome shielding a factory model from red laser beams shooting down from clouds. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Bieu tuong cau day cap nang do cac khoi thuong hieu do Vingroup tai tro.",
+    "sentences": [
+      "Gói tài trợ dự phòng còn lại của Vingroup cho năm hai nghìn"
+    ],
+    "base_english_prompt": "A steady shot showing a stylized suspension bridge carrying light packages between pylons under twilight skies. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mui ten tu chiec cau toa ra nhieu huong co con so '32,200 BILLION VND'.",
+    "sentences": [
+      "không trăm hai mươi sáu là ba mươi hai nghìn hai trăm tỷ đồng.",
+      "Nguồn lực này đang phải gánh vác nhiều mặt trận cùng lúc."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing three luminous lines spreading from the bridge to different parts of a dark map, with the English text 'BACKUP: 32,200 BILLION VND' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC049",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Cau ket noi phat sang mau xanh ngoc di qua hai vuc tham toi.",
+    "sentences": [
+      "Để giảm bớt gánh nặng vốn lưu động trên thực địa, VinFast đã có một giải pháp hợp tác đầy bất ngờ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a bright turquoise bridge extending across a deep dark rocky gorge, connecting two opposing cliffs. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC050",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bieu tuong hai ban tay bat nhau truoc chu 'MOU TATA CAPITAL' va ngay 19/6/2026.",
+    "sentences": [
+      "Ngày mười chín tháng sáu năm hai nghìn không trăm hai mươi sáu, hãng ký biên bản ghi nhớ với Tata Capital."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector graphic of two large hands shaking, against a dark document showing the English text 'MOU WITH TATA CAPITAL' and the date 'JUNE 19, 2026' glowing in warm cream. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC051",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Canh toa nha truoc day cua tap doan Tata dung dung hien '158 YEARS'.",
+    "sentences": [
+      "Đây là công ty tài chính phi ngân hàng thuộc tập đoàn đa quốc gia một trăm năm mươi tám năm tuổi của Ấn Độ."
+    ],
+    "base_english_prompt": "A steady shot showing the solid black silhouette of a classic Victorian stone headquarters building under a starry sky, with the English text '158 YEARS OF TATA' glowing in warm cream. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC052",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Logo chu V cua Vinfast va logo Tata Motors doi dien tren be do Tata Group.",
+    "sentences": [
+      "Điểm thú vị là tập đoàn này cũng chính là chủ sở hữu của đối thủ lớn nhất của họ là Tata Motors."
+    ],
+    "base_english_prompt": "A steady shot showing a stylized letter 'V' and a classic 'T' logo standing opposite each other, both connected to a larger base labeled 'TATA GROUP'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC053",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Luong tin dung chay qua kho hang chu vi xe SUV chu V.",
+    "sentences": [
+      "Cú bắt tay này giúp các đại lý độc quyền của hãng xe Việt tiếp cận nguồn vốn lưu động để vận hành kho bãi."
+    ],
+    "base_english_prompt": "A slow camera panning showing a bright turquoise light stream flowing from a bank vault icon through neat rows of electric SUVs parked inside a massive modern warehouse. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC054",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bong bong bay TATA nhac bong xe SUV khoi khoi ta sat khong lo.",
+    "sentences": [
+      "Thỏa thuận giúp giảm tải áp lực tài chính trực tiếp cho VinFast toàn cầu."
+    ],
+    "base_english_prompt": "A steady shot showing a heavy iron weight labeled 'FINANCIAL RISK' being lifted off an electric SUV by a large balloon bearing the Tata logo. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC055",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Ban tay da TATA nang do xe SUV truoc cac mui ten do tin dung.",
+    "sentences": [
+      "Thay vì tự đứng ra tài trợ cho đại lý, hãng đã mượn cánh tay tài chính bản địa để chia sẻ rủi ro tín dụng."
+    ],
+    "base_english_prompt": "A steady shot showing a giant stone hand labeled 'LOCAL CREDIT' shielding an electric car from red arrows flying from dark stormy clouds. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC056",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Mang luoi hang ngan diem sang ket noi tren ban do An Do toi mau.",
+    "sentences": [
+      "Đồng thời, mạng lưới gần một nghìn năm trăm chi nhánh của đối tác giúp củng cố niềm tin cho các đại lý địa phương."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a network of 1,500 tiny glowing turquoise nodes connecting across a dark map of India. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC057",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Chiec lo xo sat co gian linh hoat ne tranh cac tang da roi tu tren.",
+    "sentences": [
+      "Nghịch lý cạnh tranh này phản ánh sự linh hoạt cao độ của doanh nghiệp trước áp lực thanh khoản."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing metal spring flexing and rebounding under the weight of falling boulders labeled 'LIQUIDITY STRESS'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC058",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Camera tu showroom xe dien trong pho An Do lia nhanh ra phia duong bien gioi.",
+    "sentences": [
+      "Sự mở rộng hạ tầng bán lẻ này không chỉ nhằm mục đích bán xe cho thị trường nội địa."
+    ],
+    "base_english_prompt": "A slow camera panning from a modern electric car showroom with local Indian shoppers towards a border checkpoint under a starry sky. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC059",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Xe dien di qua cong 'MAKE IN INDIA' bien thanh canh chim bay qua bien.",
+    "sentences": [
+      "Nó là bước đệm bắt buộc để lấy tấm hộ chiếu Make in India đi ra thế giới."
+    ],
+    "base_english_prompt": "A steady shot showing a stylized electric car driving through a glowing stone archway labeled 'MAKE IN INDIA', transforming into a silver metallic bird flying across a deep ocean. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC060",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Ban do dia ly phẳng 2D hien thi cac duong bo bien Tamil Nadu toi.",
+    "sentences": [
+      "Bản đồ địa lý của một nhà máy luôn tiết lộ chiến lược thực sự của chủ nhân nó."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D graphic design of a coastal map of Tamil Nadu, with golden light lines tracing the shoreline and borders. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC061",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Canh cang Thoothukudi nhieu tau thuyen duoi anh hoang hon vang nhat.",
+    "sentences": [
+      "Tổ hợp Thoothukudi của VinFast nằm ngay sát cảng nước sâu ở bang Tamil Nadu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a bustling deepwater harbor with cargo ships docked at concrete piers, under a warm glowing amber sky. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC062",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Day chuyen san xuat tu dong xe SUV hien thi so '150,000 VEHICLES/YEAR'.",
+    "sentences": [
+      "Với công suất thiết kế một trăm năm mươi nghìn xe mỗi năm, đây rõ ràng không phải dự án bán lẻ nội địa."
+    ],
+    "base_english_prompt": "A steady shot showing a long conveyor belt in a factory transporting electric SUVs, with the English text '150,000 VEHICLES PER YEAR' glowing in warm cream centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC063",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bieu do cot nho be chiem 4% cua thi truong xe An Do.",
+    "sentences": [
+      "Quy mô xe điện cá nhân tại Ấn Độ hiện vô cùng nhỏ bé, chỉ khoảng bốn phần trăm."
+    ],
+    "base_english_prompt": "A steady shot showing a bar chart with a tiny glowing column labeled '4% EV MARKET SHARE' standing next to giant gray columns representing traditional cars. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC064",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Phao dai TATA MOTORS bao phu 70% bieu do tron.",
+    "sentences": [
+      "Hơn thế nữa, phân khúc này đã bị hãng xe bản địa Tata Motors phòng thủ kiên cố với trên bảy mươi phần trăm thị phần."
+    ],
+    "base_english_prompt": "A steady shot showing a dark fortress shape representing Tata Motors occupying 70% of a glowing pie chart under long cast shadows. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC065",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Xe SUV Vinfast nho dung truoc buc tuong thanh TATA khong lo.",
+    "sentences": [
+      "Cạnh tranh trực tiếp trên sân nhà của họ là thử thách cực kỳ lớn."
+    ],
+    "base_english_prompt": "A steady shot showing a small electric car silhouette parked in front of a colossal stone wall labeled 'TATA DOMINANCE'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC066",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Hang loat diem sang cam bat len tren cac do thi tren ban do An Do.",
+    "sentences": [
+      "Để mở đường phân phối, VinFast đã thiết lập hơn năm mươi phòng trưng bày vào đầu năm hai nghìn không trăm hai mươi sáu."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a dark map of India where fifty orange glowing dots representing showrooms light up simultaneously. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC067",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Xe dien cam vao hop sac phat sang chu 'CHARGE ZONE'.",
+    "sentences": [
+      "Đồng thời, hãng bắt tay với các đối tác trạm sạc bản địa như ChargeZone."
+    ],
+    "base_english_prompt": "A steady shot showing an electric SUV plugging into a minimalist modern charging station labeled 'CHARGE ZONE' in glowing turquoise. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC068",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Trang sac hien thi dong chu 'FREE CHARGING UNTIL 2029' mau xanh.",
+    "sentences": [
+      "Hãng áp dụng chính sách miễn phí sạc đến năm hai nghìn không trăm hai mươi chín để thu hút khách cá nhân."
+    ],
+    "base_english_prompt": "A steady shot showing a digital signboard at a charging station displaying 'FREE CHARGING UNTIL 2029' in glowing green letters. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC069",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Ban tay silhouette dat quan co xe taxi mau xanh luc (GSM) len ban.",
+    "sentences": [
+      "Nhưng động cơ bao tiêu công suất mạnh nhất lại đến từ một quân bài quen thuộc."
+    ],
+    "base_english_prompt": "A steady shot showing a solid black silhouette of a hand placing a green-colored taxi chess piece onto a polished wooden chessboard. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC070",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Doan xe GSM Limo 7 cho di qua cong New Delhi.",
+    "sentences": [
+      "GSM Limo chính thức ra mắt tại vùng Delhi NCR với đội xe một nghìn chiếc xe điện bảy chỗ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a fleet of green electric 7-seater SUVs driving in a neat line through the India Gate in New Delhi. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC071",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Xe tren day chuyen lap rap duoc dan logo GSM roi chay thang ra duong.",
+    "sentences": [
+      "Mô hình tự tạo nhu cầu này đóng vai trò bao tiêu sản lượng công nghiệp ban đầu cho nhà máy."
+    ],
+    "base_english_prompt": "A steady shot showing new electric SUVs rolling off a dark assembly line, immediately receiving a green taxi logo and driving into a bright corridor. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC072",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Tau cho hang khong lo roi cang di ra dai duong.",
+    "sentences": [
+      "Tuy nhiên, mục tiêu tối thượng của Thoothukudi vẫn nằm ở cánh cửa xuất khẩu đi quốc tế."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant container ship carrying cargo boxes sailing away from a deepwater port into the vast ocean under a twilight sky. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC073",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Xe dien nhan giay thong quan tai cong hai quan de sang tau xuat khau.",
+    "sentences": [
+      "Ấn Độ đóng vai trò như một trạm trung chuyển xuất xứ để hưởng các ưu đãi thuế quan."
+    ],
+    "base_english_prompt": "A steady shot showing an electric vehicle passing a customs barrier, receiving a glowing green stamp of origin, and loading onto a cargo ship. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC074",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mui ten do dut doan xuat phat tu Hai Phong di sang Nam A.",
+    "sentences": [
+      "Nếu xuất khẩu trực tiếp từ Hải Phòng sang các nước Nam Á láng giềng"
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D map of Asia, with a red dashed arrow originating from the port of Hai Phong in Vietnam pointing towards South Asian countries. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, culturally authentic Vietnamese elements, warm organic tones, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC075",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Rao can thue quan do khong lo ghi '50% - 100% TARIFF' chan mui ten.",
+    "sentences": [
+      "xe Việt chịu thuế quan từ năm mươi đến một trăm phần trăm."
+    ],
+    "base_english_prompt": "A steady shot showing a massive metal barrier wall stamped with the English text '50% to 100% IMPORT DUTY' blocking the path of a red cargo vector line. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC076",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Mui ten xanh tu An Do di Sri Lanka qua cong SAFTA hien '< 5% DUTY'.",
+    "sentences": [
+      "Nhưng dán nhãn Make in India giúp xe đi sang Sri Lanka hay Nepal với thuế suất chỉ không đến năm phần trăm theo SAFTA."
+    ],
+    "base_english_prompt": "A slow camera panning showing a bright green arrow starting from India and smoothly passing through a gate labeled 'SAFTA' to Sri Lanka, with a sign showing '< 5% DUTY'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC077",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Hai toa nha UAE va An Do noi voi nhau bang mui ten phat sang.",
+    "sentences": [
+      "Lợi thế này còn rõ rệt hơn qua hiệp định song phương CEPA giữa Ấn Độ và Các Tiểu vương quốc Ả Rập Thống nhất."
+    ],
+    "base_english_prompt": "A steady shot showing a 2D vector graphic of the Dubai skyline and an Indian monument, connected by a glowing golden bridge labeled 'CEPA AGREEMENT'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC078",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mui ten do tu Viet Nam di UAE chiu thue '5%-10% TARIFF'.",
+    "sentences": [
+      "Thuế suất trực tiếp từ Việt Nam vào đây là năm đến mười phần trăm."
+    ],
+    "base_english_prompt": "A steady shot showing a red arrow line flowing from Vietnam to UAE, hitting a barrier gate displaying the English text '5%-10% TARIFF'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC079",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Xe tu nha may An Do chay vao Dubai qua cong '0% TARIFF'.",
+    "sentences": [
+      "Nhưng xe lắp ráp tại Ấn Độ sẽ được hưởng thuế suất bằng không phần trăm vào thị trường UAE."
+    ],
+    "base_english_prompt": "A slow camera panning showing an electric SUV from an Indian port driving smoothly into Dubai harbor through a glowing green gate showing '0% DUTY'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC080",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Ban do bien chi ro khoang cach logistics ngan tu Thoothukudi di Vung Vinh.",
+    "sentences": [
+      "Vị trí sát cảng nước sâu cũng giúp tối ưu chi phí logistics đi Vùng Vịnh và Đông Phi."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D shipping route map showing the short sea distance from South India (Thoothukudi) to the Persian Gulf and East Africa. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC081",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Xe Vinfast di theo duong vong qua An Do de den cac nuoc khac.",
+    "sentences": [
+      "Nước đi mượn đường này chính là cơ chế vận hành của chiến lược tối ưu thuế quan trị giá hai tỷ đô la."
+    ],
+    "base_english_prompt": "A steady shot showing a stylized game board of world trade, with a silver electric car token moving along a pathway that loops through India to reach global markets. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC082",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Kinh hien vi soi linh kien xe hien 'LOCAL CONTENT REQUIRED'.",
+    "sentences": [
+      "Nhưng để thông quan thuế bằng không, xe điện phải đạt tỷ lệ nội địa hóa thực chất."
+    ],
+    "base_english_prompt": "A steady shot showing a laboratory microscope scanning the interior gears of a car battery, with the English text 'LOCAL CONTENT VERIFICATION' displayed in a clean bold sans-serif font centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC083",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Xe Vinfast SUV dang keo theo cac banh rang he sinh thai phu tro.",
+    "sentences": [
+      "Đó là lý do hãng xe Việt bắt buộc phải kéo hệ sinh thái phụ trợ đi cùng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a stylized electric SUV dragging a chain of interlocking supplier gear wheels forward onto a glowing path. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC084",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Cuon sach lich su mo ra trang sach co anh nha may o to cu.",
+    "sentences": [
+      "Và lịch sử ngành ô tô Ấn Độ đã có sẵn một tiền lệ kinh điển cho bài toán này."
+    ],
+    "base_english_prompt": "A steady shot showing a massive old history book opening its pages to show a detailed black-and-white ink sketch of a historic automobile assembly line. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC085",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Ban ve ky thuat Blueprint co dien cua mot nha may o to dang hien len.",
+    "sentences": [
+      "Trong lịch sử công nghiệp ô tô toàn cầu, các chiến lược phát triển thường thừa kế các mô hình đi trước."
+    ],
+    "base_english_prompt": "A steady shot showing a classic blueprint paper gradually lighting up with fine white line drawings of factory machinery layouts. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC086",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Ban ve cua Suzuki va Vinfast Tamil Nadu dat song song so khop chi tiet.",
+    "sentences": [
+      "Những gì VinFast đang nỗ lực thực hiện tại Thoothukudi là bản sao của một công thức kinh điển."
+    ],
+    "base_english_prompt": "A steady shot comparing two flat technical blueprints side by side, one labeled 'SUZUKI 1980' and the other 'VINFAST 2026' with identical layout nodes glowing. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC087",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Ban do nuoc Nhat va An Do ket noi boi mot cay cau anh sang co dien.",
+    "sentences": [
+      "Bản sao đó được viết bởi người Nhật tại Ấn Độ từ hơn bốn mươi năm trước."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D map of Asia under dark ambient light, with a glowing turquoise bridge connecting Tokyo to New Delhi. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC088",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Chiec Maruti 800 co dien lan banh ra khoi day chuyen cu.",
+    "sentences": [
+      "Đó chính là câu chuyện của liên doanh Maruti Suzuki vào đầu thập niên một nghìn chín trăm tám mươi."
+    ],
+    "base_english_prompt": "A slow camera panning showing a classic retro Maruti 800 sedan rolling off a 1980s dark assembly line under warm vintage lights, with the English text 'MARUTI SUZUKI 1981' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC089",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Chiec Maruti 800 do retro do truoc nha may cu, hien nam 1983.",
+    "sentences": [
+      "Năm một nghìn chín trăm tám mươi ba, chiếc xe Maruti tám trăm huyền thoại chính thức xuất xưởng."
+    ],
+    "base_english_prompt": "A steady shot showing a classic red Maruti 800 parked outside a brick factory office under sunset skies, with the English text '1983 LAUNCH' displaying in a clean bold sans-serif font centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC090",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Biou do tron chi co mot phan nho 15% to mau sang, 85% mau xam toi.",
+    "sentences": [
+      "Ở giai đoạn đầu, tỷ lệ nội địa hóa của chiếc xe này chỉ đạt vỏn vẹn mười lăm phần trăm."
+    ],
+    "base_english_prompt": "A steady shot showing a flat pie chart representing car parts value, where a tiny 15% slice glows in red labeled 'LOCAL CONTENT: 15%', and the rest remains dark. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC091",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Cong nhan An Do siet oc linh kien nhap tu hop 'MADE IN JAPAN'.",
+    "sentences": [
+      "Quy trình sản xuất thực chất chỉ là lắp ráp linh kiện rời nhập khẩu từ Nhật Bản."
+    ],
+    "base_english_prompt": "A steady shot showing Indian workers in silhouette assembling car engines from wooden crates labeled 'MADE IN JAPAN' under harsh industrial spotlights. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC092",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Dong tin do la chay tu ngan kho An Do ra ngoai huong ve nuoc Nhat.",
+    "sentences": [
+      "Mô hình gây ra gánh nặng thâm hụt ngoại tệ vô cùng lớn cho nền kinh tế Ấn Độ lúc bấy giờ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D graphic of gold coin lines flowing out of a building labeled 'INDIA RESERVE' towards a rising sun symbol representing Japan. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC093",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Sac lenh dong dau chu 'PMP MANDATE' de len ban do chuoi cung ung.",
+    "sentences": [
+      "Để chấm dứt tình trạng này, chính phủ Ấn Độ đã áp dụng lộ trình nội địa hóa bắt buộc PMP."
+    ],
+    "base_english_prompt": "A steady shot showing a government decree sheet stamped with the English text 'PMP MANDATE' in glowing red, overlaying a dark map of local industrial estates. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC094",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bieu do cot chi lo trinh tang thue noi dia hoa len 95% kem chu 'TARGET: 95%'.",
+    "sentences": [
+      "Họ yêu cầu liên doanh phải nâng tỷ lệ nội địa hóa lên chín mươi lăm phần trăm trong năm năm."
+    ],
+    "base_english_prompt": "A steady shot showing a vertical bar graph rising step-by-step from 15% to 95% over a timeline labeled '5 YEARS', with the English text 'TARGET: 95% LOCAL' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC095",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Bua cong ly go xuong ban cung dong 'TARIFF PENALTY / REVOKE LICENSE'.",
+    "sentences": [
+      "Nếu không đạt tiến độ, doanh nghiệp sẽ đối mặt với mức thuế linh kiện phạt rất cao hoặc bị tước giấy phép."
+    ],
+    "base_english_prompt": "A steady shot showing a dark steel gavel hitting a stone base, causing red light waves to ripple out under the glowing English text 'LICENSE REVOCATION WARNING'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC096",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Tau bien cho container va may moc di chuyen tu Nhat sang An Do.",
+    "sentences": [
+      "Áp lực pháp lý buộc Suzuki phải thực hiện cuộc chuyển dịch chuỗi cung ứng khổng lồ."
+    ],
+    "base_english_prompt": "A slow camera panning showing cargo ships carrying heavy factory machinery sailing from Japan to Indian ports under a dark night sky. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC097",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Ban do moc len 40 diem sang lien ket quanh nha may chinh.",
+    "sentences": [
+      "Họ hỗ trợ thiết lập hơn bốn mươi liên doanh giữa các nhà cung cấp Nhật Bản và đối tác Ấn Độ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a dark map where forty glowing turquoise dots labeled 'JOINT VENTURES' light up and link together around a central plant icon. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC098",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Cac nha may linh kien noi bang bang chuyen truc tiep sang nha may lap rap.",
+    "sentences": [
+      "Hàng loạt nhà xưởng phụ trợ được xây dựng ngay sát cạnh nhà máy lắp ráp chính."
+    ],
+    "base_english_prompt": "A slow camera panning showing a 3D flat vector layout of an industrial zone, where small supplier workshops are connected by moving conveyor belts to a main vehicle assembly plant. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC099",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Linh kien chay lien tuc tu nha xuong phu tro vao lap rap xe.",
+    "sentences": [
+      "Linh kiện đi thẳng sang dây chuyền sản xuất mà không cần lưu kho bãi trung gian."
+    ],
+    "base_english_prompt": "A steady shot showing car parts moving directly from supplier belts onto a main chassis on the assembly line, with the English text 'JUST IN TIME' glowing in warm cream. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC100",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Chioc xe Maruti tu nha may chay len tau bien lon.",
+    "sentences": [
+      "Lộ trình bắt buộc này đã biến Ấn Độ thành cứ điểm xuất khẩu giá rẻ toàn cầu của Suzuki."
+    ],
+    "base_english_prompt": "A steady shot showing a newly assembled Maruti car driving off the ramp and directly onto a massive cargo vessel docked at the port, labeled 'INDIA EXPORT'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC101",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Xe Vinfast SUV cung bieu do thiet ke ty le noi dia hoa 45%.",
+    "sentences": [
+      "VinFast hôm nay đang đối mặt với bài toán tương tự để đạt quy tắc xuất xứ bốn mươi lăm phần trăm."
+    ],
+    "base_english_prompt": "A steady shot showing a futuristic outline of a VinFast electric SUV with a glowing circle chart indicating a target segment, with the English text 'TARGET: 45% LOCAL CONTENT' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC102",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Bong xe Vinfast va Suzuki de len nhau cung cac luong sang he sinh thai.",
+    "sentences": [
+      "Họ không tự mình làm tất cả, mà đang nhân bản công thức kéo hệ sinh thái của người Nhật."
+    ],
+    "base_english_prompt": "A steady shot showing the glowing vector outlines of a Suzuki sedan and a VinFast SUV overlapping, sending out electric lines to small surrounding supply hub icons. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC103",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Ban ve quy hoach phan chia cac lo dat phu tro '500 ACRES'.",
+    "sentences": [
+      "Hãng đã dành ra năm trăm mẫu đất trong tổ hợp cho các nhà cung cấp phụ trợ xây dựng nhà xưởng."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D blueprint partitioning land plots around a factory hub, with the English text '500 ACRES FOR SUPPLIERS' glowing in warm cream. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC104",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Bieu tuong bat tay giua doanh nhan Viet Nam va An Do truoc chu BatX Energies.",
+    "sentences": [
+      "Đồng thời, hãng bắt tay với đối tác bản địa BatX Energies từ tháng bảy năm hai nghìn không trăm hai mươi lăm."
+    ],
+    "base_english_prompt": "A steady shot showing two business figures shaking hands, against a dark background featuring the logo of BatX Energies and the date 'JULY 2025' glowing in warm cream. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC105",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mo hinh chu trinh tai che va lap rap pin cua BatX Energies.",
+    "sentences": [
+      "Liên minh này thiết lập chuỗi đóng gói pin và thu hồi vật liệu quý tuần hoàn ngay tại chỗ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector loop: old battery packs being disassembled, precious metals extracted, and new cell modules flowing to a production rack labeled 'BATX RECYCLING'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC106",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Khoi pin lithium Vinfast lap vao xe bang robot tu dong.",
+    "sentences": [
+      "Tự chủ đóng gói cụm pin giúp hãng giải bài toán nội địa hóa thực chất để đạt chuẩn xuất khẩu."
+    ],
+    "base_english_prompt": "A steady shot showing a robotic assembly machine placing a heavy battery module with the VinFast logo into a car undercarriage in a dark modern plant. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC107",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Kinh lup soi to giay chung nhan hai quan dang boc chay duoi laser.",
+    "sentences": [
+      "Không có lối đi tắt bằng các giấy chứng nhận danh nghĩa trên giấy tờ."
+    ],
+    "base_english_prompt": "A steady shot showing a certificate sheet labeled 'ORIGIN CERTIFICATE' burning under a red laser scan, with the English text 'STRICT AUDIT' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC108",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Dong ho cat dang chay cat roi xuong bao phu nha may chua hoan thanh.",
+    "sentences": [
+      "Tuy nhiên, thời gian để hãng xe Việt hoàn thiện chuỗi cung ứng này không phải là vô hạn."
+    ],
+    "base_english_prompt": "A steady shot showing a massive glass hourglass with sand burying a half-built car factory inside, under a dark cloudy sky. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC109",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Ngon nen dang chay lui dan duoi lan gio lanh vi mo.",
+    "sentences": [
+      "Trong bức tranh địa chính trị vĩ mô đầy biến động, các lợi thế cạnh tranh luôn có hạn định thời gian."
+    ],
+    "base_english_prompt": "A steady shot showing a single lit candle melting and flickering in a cold draft against a dark warm charcoal background. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC110",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Khien do bao ve nha may bi ran nut va vo dan.",
+    "sentences": [
+      "Tấm khiên bảo hộ hôm nay có thể nhanh chóng biến mất vào ngày mai."
+    ],
+    "base_english_prompt": "A steady shot showing a red glowing shield dome protecting a factory model cracking and breaking into fragments under physical pressure. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC111",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Dong ho dien tu dem nguoc hien chu 'GOLDEN WINDOW' chay giay nhanh.",
+    "sentences": [
+      "Cửa sổ vàng của VinFast tại Ấn Độ đang đếm ngược nhanh hơn bao giờ hết."
+    ],
+    "base_english_prompt": "A steady shot showing a digital wall clock rapidly counting down numbers in red light, with the English text 'GOLDEN WINDOW CLOSING' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC112",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Hang rao luoi dien laser do dung len doc bien gioi An Do.",
+    "sentences": [
+      "Trước đó, chính phủ Ấn Độ áp dụng đạo luật Press Note ba để kiểm soát dòng vốn đầu tư biên giới."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing red laser fence erected along a geographical map border, with the English text 'PRESS NOTE 3' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC113",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bieu tuong BYD bi gach do lon va day khoi cong thanh Hyderabad.",
+    "sentences": [
+      "Động thái này từng chặn đứng đề xuất đầu tư một tỷ đô la Mỹ của BYD tại Hyderabad."
+    ],
+    "base_english_prompt": "A steady shot showing a corporate logo of BYD stamped with a large red cross and pushed back from a stone gate labeled 'HYDERABAD'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC114",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Xe Vinfast chay tu do tren con duong rong mo khong doi thu.",
+    "sentences": [
+      "Sự vắng bóng của gã khổng lồ Trung Quốc tạo ra khoảng trống thị trường lớn cho hãng xe Việt."
+    ],
+    "base_english_prompt": "A slow camera panning showing a VinFast electric SUV driving freely on a wide empty highway under a clear starry night sky. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC115",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Silhouette cac lanh dao New Delhi hop quanh ban tron vao ban dem.",
+    "sentences": [
+      "Tuy nhiên, New Delhi đã thể hiện tính thực dụng cao độ vì sự sinh tồn của chuỗi sản xuất trong nước."
+    ],
+    "base_english_prompt": "A steady shot showing the dark silhouettes of state officials meeting around a wooden table in a dimly lit room, with long shadows casting onto a wall map of local industries. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC116",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Trang bao An hien dong tit lon 'POLICY AMENDMENT: MARCH 2026'.",
+    "sentences": [
+      "Vào tháng ba năm hai nghìn không trăm hai mươi sáu, một điều chỉnh chính sách bất ngờ được công bố."
+    ],
+    "base_english_prompt": "A steady shot showing a flat vector design of an Indian financial newspaper front page with the glowing title 'POLICY CHANGE: MARCH 2026' in bold print. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC117",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Hang rao do mo ra loi di hep hien '< 10% CHINESE FDI'.",
+    "sentences": [
+      "Ấn Độ quyết định nới lỏng Press Note ba cho các khoản đầu tư Trung Quốc dưới mười phần trăm."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing red laser barrier parting slightly to let a small green light wave through, labeled with the English text '< 10% CHINESE FDI'. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC118",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Tai lieu chay qua may quet tu dong hien thi so '60 DAYS'.",
+    "sentences": [
+      "Các hồ sơ này sẽ được đi qua nhánh phê duyệt tự động với thời gian rút ngắn còn sáu mươi ngày."
+    ],
+    "base_english_prompt": "A steady shot showing a document slip sliding through a glowing scanner slot, with a digital counter showing '60 DAYS APPROVAL' in green light. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC119",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Day chuyen lap rap thieu pin duoc lap day boi cell pin do bat chot.",
+    "sentences": [
+      "Động thái nhằm giải quyết tình trạng thiếu hụt linh kiện điện tử và cell pin của các nhà máy nội địa."
+    ],
+    "base_english_prompt": "A slow camera panning showing a dark conveyor belt with empty slots, suddenly being filled with glowing red battery cells (representing Chinese imports) and electronics. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing electric sage green (#81C784) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC120",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Container mang bieu tuong Trung Quoc di vao khu cong nghiep An.",
+    "sentences": [
+      "Sự thay đổi mở đường cho các nhà cung ứng Trung Quốc quay trở lại thị trường phụ trợ Ấn Độ."
+    ],
+    "base_english_prompt": "A slow camera panning showing trucks carrying shipping containers with red patterns entering a massive industrial park gate in India. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC121",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Buc tuong bao ve Vinfast bien thanh tam kinh mong manh ran nut.",
+    "sentences": [
+      "Điều này đồng nghĩa với việc rào cản địa chính trị bảo vệ VinFast đang ngày một mỏng đi."
+    ],
+    "base_english_prompt": "A steady shot showing a transparent glass wall (representing protection) cracking under stress, exposing a silhouette of an electric car behind it. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC122",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Xe Vinfast dan dau bi duoi sat boi bong cac xe doi thu phia sau.",
+    "sentences": [
+      "Sự điều chỉnh chính sách có nguy cơ làm giảm đi lợi thế tiên phong của hãng xe Việt Nam."
+    ],
+    "base_english_prompt": "A slow camera panning showing a VinFast electric car leading a race track, with the dark shadows of competitor vehicles closing in fast from behind. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC123",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Xe Vinfast chay dua quyet liet chong lai chiec dong ho dem nguoc.",
+    "sentences": [
+      "Giới chiến lược hiểu rằng đây là một cuộc chạy đua với thời gian vô cùng căng thẳng."
+    ],
+    "base_english_prompt": "A steady shot showing an electric SUV driving fast on a dark circular track, racing against a giant clock hand sweeping in red light. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC124",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Chiec dong ho cat khong lo duoc do von tien vang vao de giu cat.",
+    "sentences": [
+      "VinFast thực chất đang dùng nguồn lực tài chính để mua thời gian trước khi thị trường mở cửa hoàn toàn."
+    ],
+    "base_english_prompt": "A steady shot showing a massive glass hourglass with gold coins being poured into the top chamber to slow down the falling sand, under long cast shadows, with the English text 'BUYING TIME' centered in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC125",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Xe ui dat dang dao sâu con hao phong thu xung quanh nha may Tamil Nadu.",
+    "sentences": [
+      "Họ phải xây dựng xong hào phòng thủ chuỗi cung ứng thực chất tại Tamil Nadu trước khi đối thủ Trung Quốc tràn vào."
+    ],
+    "base_english_prompt": "A slow camera panning showing a heavy machinery silhouette digging a deep trench around a modern factory complex under a starry sky. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC126",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Cuon ho chieu thong quan phat sang bay lung lo roi tan bien.",
+    "sentences": [
+      "Tấm hộ chiếu thương mại chỉ là công cụ giúp sản phẩm vượt qua các hàng rào hải quan kỹ thuật."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing passport book floating in the air, slowly dissolving into dust particles, leaving an electric car outline sitting on a factory floor. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC127",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Biou do thong ke chi phi san xuat giam dan qua tu dong hoa.",
+    "sentences": [
+      "Sự tồn tại bền vững phụ thuộc vào việc doanh nghiệp có thể tối ưu hóa chi phí sản xuất thực tế hay không."
+    ],
+    "base_english_prompt": "A steady shot showing a line graph where the cost line drops steadily towards the bottom, with the English text 'COST EFFICIENCY' glowing in green in the upper third. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing turquoise (#26A69A) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC128",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Chiec can lon nghieng giua ro qua cam va ho sau xich sat.",
+    "sentences": [
+      "Chiến lược mượn đường hai tỷ đô la này sẽ mang lại quả ngọt hay một hố sâu thâm dụng vốn?"
+    ],
+    "base_english_prompt": "A steady shot showing a giant iron balance scale tipping heavily between a basket of glowing orange fruits on one side and a dark abyss filled with rusted chains on the other. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing crimson coral red (#EF5350) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC129",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Nha may Thoothukudi dung vung giua con bao cat lon bao quanh.",
+    "sentences": [
+      "Câu trả lời nằm ở tốc độ hoàn thiện và sức chống chịu của chuỗi sản xuất thực chất tại Tamil Nadu."
+    ],
+    "base_english_prompt": "A steady shot showing the strong silhouette of a massive vehicle factory standing firm against a swirling sandstorm under deep indigo night skies. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC130",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Bang text chu toi gian hien trung tam 'OBJECTIVE ANALYSIS - NOT FINANCIAL ADVICE'.",
+    "sentences": [
+      "Đây là nội dung phân tích khách quan, không mang tính chất khuyến nghị đầu tư tài chính."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'OBJECTIVE ANALYSIS - NOT FINANCIAL ADVICE' displayed in a clean bold sans-serif font centered on a dark warm charcoal background. Cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, dark warm charcoal (#1A1A1A) background, warm cream (#FFFDF0) outlines, glowing terracotta orange (#FF7043) accent, 8-second continuous documentary video --ar 16:9"
+  }
+]

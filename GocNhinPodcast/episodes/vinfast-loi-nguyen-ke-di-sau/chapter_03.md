@@ -1,0 +1,9 @@
+Tháng 5 năm 2026, báo chí quốc tế xôn xao trước một thông tin chấn động. VinFast Auto công bố kế hoạch tái cấu trúc quy mô lớn. Họ thoái toàn bộ vốn tại mảng sản xuất nặng nề. Nhiều ý kiến nghi ngờ đây chỉ là một đòn thoát xác trốn nợ. Nhưng bản chất tài chính phức tạp hơn thế rất nhiều.
+
+Đây là một đòn chia tách cấu trúc tài chính kinh điển. Họ tách đôi VinFast thành hai phần riêng biệt. Một bên nắm giữ các tài sản vật lý thâm dụng vốn. Đó là công ty sản xuất VFTP, nơi chứa toàn bộ nhà máy Hải Phòng và Hà Tĩnh. Một bên là VFVN, thực thể nắm giữ thương hiệu và nghiên cứu R&D. VinFast Auto Ltd. sau đó bán đứt 100% cổ phần VFTP cho nhóm nhà đầu tư tư nhân trong nước. Họ mua với giá trị 13.309,6 tỷ VND.
+
+Bằng giao dịch chuyển nhượng này, toàn bộ khối nợ khổng lồ 182.000 tỷ VND của VFTP đã được chuyển giao hoàn toàn sang nhóm mua tư nhân. Họ chịu trách nhiệm tự thỏa thuận với các ngân hàng. VinFast Auto niêm yết tại Mỹ về cơ bản sạch nợ. Khoản tiền 13.309,6 tỷ VND thu về được dùng để tất toán 10.162,3 tỷ VND kỳ phiếu nợ. Phần còn lại dùng để tập trung phát triển công nghệ.
+
+Nhiều người sẽ tiếc nuối giấc mơ tự sản xuất của Việt Nam. Họ nghĩ thuê ngoài gia công làm mất tính tự lực tự cường. Nhưng hãy nhìn vào thế giới công nghệ hiện đại. Apple không tự làm ra chiếc iPhone nào. Họ thuê Foxconn gia công toàn bộ thiết bị. Tesla cũng đang dịch chuyển dần sang mô hình tương tự. VinFast ký thỏa thuận mua lại xe với giá cost-plus 105%. Tức là giá vốn sản xuất cộng thêm 5% biên lợi nhuận. Nước đi này biến định phí khổng lồ thành biến phí linh hoạt. Mảng thương hiệu chỉ trả tiền khi nhận xe hoàn chỉnh. Nó mở ra con đường sáng hơn để đạt mục tiêu hòa vốn.
+
+Tuy nhiên, sạch nợ trên sàn Mỹ chỉ là điều kiện cần. Để đối đầu với làn sóng xe điện giá rẻ Trung Quốc, VinFast phải có một hào phòng thủ vững chắc tại quê nhà. Lá chắn đó đang nằm ở đâu?

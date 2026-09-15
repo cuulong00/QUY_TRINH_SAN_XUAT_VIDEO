@@ -1,0 +1,7 @@
+Vòng xoáy đó mang tên: Chảy máu ngoại tệ. Hãy thử nhìn vào bản chất của ngành lắp ráp ô tô và xe máy truyền thống. Khi các hãng xe nước ngoài không bị đe dọa bởi một đối thủ Việt Nam, họ không có bất kỳ lý do gì để mua linh kiện do người Việt sản xuất.
+
+Hệ quả là mỗi năm, nền kinh tế Việt Nam đánh mất khoảng bốn tỷ đô la ngoại tệ chỉ để nhập khẩu ô tô nguyên chiếc và linh kiện lắp ráp. Bốn tỷ đô la dự trữ của quốc gia chảy ròng ra khỏi biên giới để nuôi sống nhà máy của nước khác. 
+
+Đó là một sự thất thoát khổng lồ. Trong kịch bản xóa sổ thương hiệu ô tô nội địa, vòng luẩn quẩn này sẽ lặp lại vĩnh viễn. Bốn tỷ đô la đó là mồ hôi nước mắt của hàng triệu công nhân dệt may tăng ca đêm. Là những hạt gạo, hạt cà phê chắt chiu của người nông dân. Sẽ ra sao nếu mồ hôi sức lao động của hàng triệu công nhân Việt Nam, cuối cùng lại chỉ để bồi đắp cho chuỗi cung ứng của các quốc gia khác? 
+
+Đến đây, nhiều người sẽ phản biện: Nếu không có xe Việt, tại sao không mở cửa cho xe điện giá rẻ Trung Quốc tràn vào để người dân được nhờ? Lập luận này nghe rất hợp lý trên lý thuyết. Nhưng hiện thực thị trường lại chứng minh một nghịch lý hoàn toàn khác.

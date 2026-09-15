@@ -1,0 +1,782 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 27.03,
+    "text_overlay": "",
+    "visual_summary": "Cuối năm 2026, VinFast sẽ dội bom thị trường bằng siêu bán tải VF Wild cùng dàn mô-tô điện thể thao có sức mạnh tương đương xe xăng 600 phân khối. Cộng với hơn 15 mẫu ô tô hiện tại, họ đang giăng một mẻ lưới khổng lồ trải dài từ chiếc xe máy điện học sinh 20 triệu đồng, cho đến những cỗ máy siêu sang bọc thép tiền tỷ. Đám đông nhìn vào tốc độ mở rộng kỷ lục này và chê cười rằng hãng xe Việt đang hoảng loạn, ném đá dò đường, xem cái nào dính thì làm tiếp.",
+    "sentences": [
+      "Cuối năm 2026, VinFast sẽ dội bom thị trường bằng siêu bán tải VF Wild cùng dàn mô-tô điện thể thao có sức mạnh tương đương xe xăng 600 phân khối. Cộng với hơn 15 mẫu ô tô hiện tại, họ đang giăng một mẻ lưới khổng lồ trải dài từ chiếc xe máy điện học sinh 20 triệu đồng, cho đến những cỗ máy siêu sang bọc thép tiền tỷ. Đám đông nhìn vào tốc độ mở rộng kỷ lục này và chê cười rằng hãng xe Việt đang hoảng loạn, ném đá dò đường, xem cái nào dính thì làm tiếp."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 8.4,
+    "text_overlay": "",
+    "visual_summary": "Nhưng thực chất, đằng sau sự bành trướng tưởng chừng điên rồ đó là một nước cờ chiến lược được tính toán đến từng khe hở, mang tên: Ngăn chặn không gian.",
+    "sentences": [
+      "Nhưng thực chất, đằng sau sự bành trướng tưởng chừng điên rồ đó là một nước cờ chiến lược được tính toán đến từng khe hở, mang tên: Ngăn chặn không gian."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 22.31,
+    "text_overlay": "",
+    "visual_summary": "Nhìn ra thế giới, Tesla thống trị toàn cầu chỉ với vỏn vẹn 3 đến 4 mẫu xe, trong đó riêng Model 3 và Model Y đã chiếm tới 97% tổng doanh số. BYD của Trung Quốc thì bán hơn 400.000 xe mỗi tháng nhờ sức mạnh tích hợp dọc từ pin đến chip. Cả hai gã khổng lồ đều chứng minh rằng: Muốn thắng trong ngành xe điện, hãy tập trung vào vài mẫu xe then chốt và đổ hết nguồn lực vào đó.",
+    "sentences": [
+      "Nhìn ra thế giới, Tesla thống trị toàn cầu chỉ với vỏn vẹn 3 đến 4 mẫu xe, trong đó riêng Model 3 và Model Y đã chiếm tới 97% tổng doanh số. BYD của Trung Quốc thì bán hơn 400.000 xe mỗi tháng nhờ sức mạnh tích hợp dọc từ pin đến chip. Cả hai gã khổng lồ đều chứng minh rằng: Muốn thắng trong ngành xe điện, hãy tập trung vào vài mẫu xe then chốt và đổ hết nguồn lực vào đó."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 16.01,
+    "text_overlay": "",
+    "visual_summary": "Nhưng VinFast lại chọn một lộ trình hoàn toàn trái ngược. Thay vì tập trung, họ đánh phủ đầu bằng việc giăng ra một ma trận sản phẩm bao trùm hầu hết mọi phân khúc. Tại sao một hãng xe non trẻ với nguồn lực hữu hạn lại dám đi ngược lại công thức thành công của cả Tesla lẫn BYD?",
+    "sentences": [
+      "Nhưng VinFast lại chọn một lộ trình hoàn toàn trái ngược. Thay vì tập trung, họ đánh phủ đầu bằng việc giăng ra một ma trận sản phẩm bao trùm hầu hết mọi phân khúc. Tại sao một hãng xe non trẻ với nguồn lực hữu hạn lại dám đi ngược lại công thức thành công của cả Tesla lẫn BYD?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 41.99,
+    "text_overlay": "",
+    "visual_summary": "Lấy phân khúc đại chúng làm bàn đạp, họ dùng hàng trăm nghìn chiếc xe máy điện như Evo, Feliz để thay đổi thói quen di chuyển của giới trẻ. Nhích lên một bậc, họ dùng các mẫu xe đô thị cỡ nhỏ như VF 2, VF 3 để thu hút những người lần đầu mua ô tô. Tại phân khúc lõi trung lưu, họ lấp kín mọi khoảng trống giá bằng VF 5, VF 6, VF 7. Ở nhóm cao cấp, họ án ngữ bằng những cỗ máy tiền tỷ như VF 8, VF 9. Trên đỉnh kim tự tháp, bộ ba siêu sang bọc thép Lạc Hồng xuất hiện để định vị đẳng cấp thương hiệu. Và họ còn bành trướng sang ngách địa hình với siêu bán tải VF Wild, thâu tóm mảng giao vận thương mại bằng xe tải nhẹ EC Van, và dùng hàng nghìn chiếc VinBus bao phủ mạng lưới giao thông công cộng.",
+    "sentences": [
+      "Lấy phân khúc đại chúng làm bàn đạp, họ dùng hàng trăm nghìn chiếc xe máy điện như Evo, Feliz để thay đổi thói quen di chuyển của giới trẻ. Nhích lên một bậc, họ dùng các mẫu xe đô thị cỡ nhỏ như VF 2, VF 3 để thu hút những người lần đầu mua ô tô. Tại phân khúc lõi trung lưu, họ lấp kín mọi khoảng trống giá bằng VF 5, VF 6, VF 7. Ở nhóm cao cấp, họ án ngữ bằng những cỗ máy tiền tỷ như VF 8, VF 9. Trên đỉnh kim tự tháp, bộ ba siêu sang bọc thép Lạc Hồng xuất hiện để định vị đẳng cấp thương hiệu. Và họ còn bành trướng sang ngách địa hình với siêu bán tải VF Wild, thâu tóm mảng giao vận thương mại bằng xe tải nhẹ EC Van, và dùng hàng nghìn chiếc VinBus bao phủ mạng lưới giao thông công cộng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 28.08,
+    "text_overlay": "",
+    "visual_summary": "Kết quả của sự rải thảm này thật đáng kinh ngạc. Chỉ trong nửa đầu năm 2026, VinFast đã bàn giao hơn 128.000 ô tô điện, tăng gần gấp đôi so với cùng kỳ năm trước. Riêng mảng xe máy điện, con số còn choáng ngợp hơn: hơn 429.000 chiếc chỉ trong 6 tháng. Còn doanh số xe xăng hạng A, vốn là sân chơi truyền thống của Hyundai i10 và Kia Morning, đã bốc hơi tới 86% sau 5 năm, chỉ còn khoảng 1% thị phần. VinFast giờ đây chiếm hơn 42% thị phần ô tô toàn quốc, vươn lên vị trí số 1 tuyệt đối.",
+    "sentences": [
+      "Kết quả của sự rải thảm này thật đáng kinh ngạc. Chỉ trong nửa đầu năm 2026, VinFast đã bàn giao hơn 128.000 ô tô điện, tăng gần gấp đôi so với cùng kỳ năm trước. Riêng mảng xe máy điện, con số còn choáng ngợp hơn: hơn 429.000 chiếc chỉ trong 6 tháng. Còn doanh số xe xăng hạng A, vốn là sân chơi truyền thống của Hyundai i10 và Kia Morning, đã bốc hơi tới 86% sau 5 năm, chỉ còn khoảng 1% thị phần. VinFast giờ đây chiếm hơn 42% thị phần ô tô toàn quốc, vươn lên vị trí số 1 tuyệt đối."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 27.82,
+    "text_overlay": "",
+    "visual_summary": "Và đòn ngăn chặn này đã phát huy hiệu quả rõ rệt nhất lên chính kẻ mà VinFast cảnh giác nhất: BYD. Gã khổng lồ bán hơn 400.000 xe mỗi tháng trên toàn cầu, khi bước chân vào Việt Nam năm 2024, đã bị vô hiệu hóa gần như hoàn toàn. Không có trạm sạc tương thích, không còn kẽ hở phân khúc nào để chen chân, BYD bị đẩy vào vị thế một tay chơi bên lề ngay trên sân nhà của VinFast. Chiến lược Ngăn chặn không gian không còn là lý thuyết trên giấy. Nó đã được kiểm chứng ngay trên thực địa.",
+    "sentences": [
+      "Và đòn ngăn chặn này đã phát huy hiệu quả rõ rệt nhất lên chính kẻ mà VinFast cảnh giác nhất: BYD. Gã khổng lồ bán hơn 400.000 xe mỗi tháng trên toàn cầu, khi bước chân vào Việt Nam năm 2024, đã bị vô hiệu hóa gần như hoàn toàn. Không có trạm sạc tương thích, không còn kẽ hở phân khúc nào để chen chân, BYD bị đẩy vào vị thế một tay chơi bên lề ngay trên sân nhà của VinFast. Chiến lược Ngăn chặn không gian không còn là lý thuyết trên giấy. Nó đã được kiểm chứng ngay trên thực địa."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 20.73,
+    "text_overlay": "",
+    "visual_summary": "Nếu bạn đang sống ở Hà Nội hay Sài Gòn lúc này, bạn sẽ cảm nhận rõ sự bủa vây đó. Bước ra ngõ thấy xe máy điện Evo, ra cao tốc thấy SUV tiền tỷ, gọi xe công nghệ cũng chạm mặt hệ sinh thái của họ. Sự bành trướng này tạo ra một áp lực bủa vây vật lý thực sự, thu hẹp tối đa không gian sinh tồn của các đối thủ muốn bước chân vào.",
+    "sentences": [
+      "Nếu bạn đang sống ở Hà Nội hay Sài Gòn lúc này, bạn sẽ cảm nhận rõ sự bủa vây đó. Bước ra ngõ thấy xe máy điện Evo, ra cao tốc thấy SUV tiền tỷ, gọi xe công nghệ cũng chạm mặt hệ sinh thái của họ. Sự bành trướng này tạo ra một áp lực bủa vây vật lý thực sự, thu hẹp tối đa không gian sinh tồn của các đối thủ muốn bước chân vào."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 10.5,
+    "text_overlay": "",
+    "visual_summary": "Nhưng ma trận dày đặc này không chỉ để rải thảm một cách vô nghĩa. Đây thực chất là một cái bẫy tâm lý được giăng sẵn, kết hợp hai chiến thuật: Tham chiếu nội bộ và Đường ống giá.",
+    "sentences": [
+      "Nhưng ma trận dày đặc này không chỉ để rải thảm một cách vô nghĩa. Đây thực chất là một cái bẫy tâm lý được giăng sẵn, kết hợp hai chiến thuật: Tham chiếu nội bộ và Đường ống giá."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 54.33,
+    "text_overlay": "",
+    "visual_summary": "Để tôi giải thích cho bạn hiểu. Bình thường, khi đi mua xe, não bộ của chúng ta sẽ tự động lấy một mẫu xe của hãng đối thủ làm \"mỏ neo\" để so sánh giá. Nhưng bằng cách tung ra các mẫu xe với mức giá tăng dần đều và xếp sát sàn sạt vào nhau, VinFast ép não bộ người tiêu dùng phải dùng chính xe VinFast làm mỏ neo. Hãng tạo ra một \"Đường ống lựa chọn\" khép kín nhốt khách hàng ở lại. Bạn định mua một chiếc VF 3 với giá khoảng 300 triệu, nhưng khi nhìn lên chiếc VF 5 rộng rãi hơn ở mức 529 triệu, bạn lấy VF 3 làm mỏ neo và tặc lưỡi cố thêm chút tiền. Nhìn sang chiếc VF 6 công nghệ vượt trội hơn ở mức 689 triệu, bạn lại dốc hầu bao thêm chút nữa. Cứ thế, bạn bị cuốn đi trong một đường ống mà mọi lựa chọn đều dẫn về VinFast. Thông qua hiệu ứng tâm lý này, VinFast không chỉ hất văng đối thủ ngoại nhập ra khỏi danh sách lựa chọn của bạn, mà còn tối đa hóa được giá trị ngân sách mua sắm của người tiêu dùng.",
+    "sentences": [
+      "Để tôi giải thích cho bạn hiểu. Bình thường, khi đi mua xe, não bộ của chúng ta sẽ tự động lấy một mẫu xe của hãng đối thủ làm \"mỏ neo\" để so sánh giá. Nhưng bằng cách tung ra các mẫu xe với mức giá tăng dần đều và xếp sát sàn sạt vào nhau, VinFast ép não bộ người tiêu dùng phải dùng chính xe VinFast làm mỏ neo. Hãng tạo ra một \"Đường ống lựa chọn\" khép kín nhốt khách hàng ở lại. Bạn định mua một chiếc VF 3 với giá khoảng 300 triệu, nhưng khi nhìn lên chiếc VF 5 rộng rãi hơn ở mức 529 triệu, bạn lấy VF 3 làm mỏ neo và tặc lưỡi cố thêm chút tiền. Nhìn sang chiếc VF 6 công nghệ vượt trội hơn ở mức 689 triệu, bạn lại dốc hầu bao thêm chút nữa. Cứ thế, bạn bị cuốn đi trong một đường ống mà mọi lựa chọn đều dẫn về VinFast. Thông qua hiệu ứng tâm lý này, VinFast không chỉ hất văng đối thủ ngoại nhập ra khỏi danh sách lựa chọn của bạn, mà còn tối đa hóa được giá trị ngân sách mua sắm của người tiêu dùng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 14.7,
+    "text_overlay": "",
+    "visual_summary": "Khái niệm \"Ngăn chặn không gian\" chính là ở chỗ đó. Số lượng mẫu xe không chỉ được đo đếm bằng doanh thu bán hàng, mà đo bằng khả năng chiếm lĩnh toàn bộ không gian tâm trí và địa lý của người tiêu dùng, khiến đối thủ không còn kẽ hở nào để chen chân.",
+    "sentences": [
+      "Khái niệm \"Ngăn chặn không gian\" chính là ở chỗ đó. Số lượng mẫu xe không chỉ được đo đếm bằng doanh thu bán hàng, mà đo bằng khả năng chiếm lĩnh toàn bộ không gian tâm trí và địa lý của người tiêu dùng, khiến đối thủ không còn kẽ hở nào để chen chân."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 13.12,
+    "text_overlay": "",
+    "visual_summary": "Tuy nhiên, việc duy trì một ma trận sản phẩm đồ sộ như vậy đòi hỏi nguồn lực khổng lồ và kéo theo hàng loạt áp lực lớn về vận hành nhà máy. Và mọi chiến lược, dù tính toán kỹ lưỡng đến đâu, đều có cái giá của nó.",
+    "sentences": [
+      "Tuy nhiên, việc duy trì một ma trận sản phẩm đồ sộ như vậy đòi hỏi nguồn lực khổng lồ và kéo theo hàng loạt áp lực lớn về vận hành nhà máy. Và mọi chiến lược, dù tính toán kỹ lưỡng đến đâu, đều có cái giá của nó."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 18.64,
+    "text_overlay": "",
+    "visual_summary": "Và quan trọng nhất, tại sao VinFast lại chấp nhận dồn lực ở quy mô lớn đến vậy, bất chấp áp lực tài chính khổng lồ? Để trả lời câu hỏi này, chúng ta phải nhìn ra ngoài biên giới Việt Nam, nhìn lên bàn cờ vĩ mô của toàn ngành công nghiệp ô tô Châu Á. Nơi mà một khoảng lặng hiếm có trước cơn bão đang dần khép lại.",
+    "sentences": [
+      "Và quan trọng nhất, tại sao VinFast lại chấp nhận dồn lực ở quy mô lớn đến vậy, bất chấp áp lực tài chính khổng lồ? Để trả lời câu hỏi này, chúng ta phải nhìn ra ngoài biên giới Việt Nam, nhìn lên bàn cờ vĩ mô của toàn ngành công nghiệp ô tô Châu Á. Nơi mà một khoảng lặng hiếm có trước cơn bão đang dần khép lại."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC014",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 15.75,
+    "text_overlay": "",
+    "visual_summary": "Để hiểu logic đằng sau ma trận 15 mẫu xe, trước hết phải nhìn vào thứ mà VinFast đang đặt cược. Bởi vì đây không phải một canh bạc mù quáng. Đây là một cuộc chạy đua để cắm cờ trên một trong những mỏ vàng lớn nhất còn sót lại trên bản đồ công nghiệp ô tô thế giới.",
+    "sentences": [
+      "Để hiểu logic đằng sau ma trận 15 mẫu xe, trước hết phải nhìn vào thứ mà VinFast đang đặt cược. Bởi vì đây không phải một canh bạc mù quáng. Đây là một cuộc chạy đua để cắm cờ trên một trong những mỏ vàng lớn nhất còn sót lại trên bản đồ công nghiệp ô tô thế giới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 20.47,
+    "text_overlay": "",
+    "visual_summary": "Hãy bắt đầu từ sân nhà. Việt Nam có 101 triệu dân, nhưng chỉ có 68 ô tô trên mỗi 1.000 người. Con số này thấp đến mức nào? Thái Lan là 275. Malaysia là 490. Chỉ 9% hộ gia đình Việt Nam sở hữu ô tô cá nhân. 89% vẫn đang di chuyển hàng ngày bằng xe máy. Đây không phải một thị trường đã bão hòa. Đây là một thị trường chưa thực sự bắt đầu.",
+    "sentences": [
+      "Hãy bắt đầu từ sân nhà. Việt Nam có 101 triệu dân, nhưng chỉ có 68 ô tô trên mỗi 1.000 người. Con số này thấp đến mức nào? Thái Lan là 275. Malaysia là 490. Chỉ 9% hộ gia đình Việt Nam sở hữu ô tô cá nhân. 89% vẫn đang di chuyển hàng ngày bằng xe máy. Đây không phải một thị trường đã bão hòa. Đây là một thị trường chưa thực sự bắt đầu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 21.78,
+    "text_overlay": "",
+    "visual_summary": "Và năm 2025, GDP bình quân đầu người của Việt Nam chính thức vượt mốc 5.026 đô la, mốc mà các nhà kinh tế gọi là điểm bùng phát của làn sóng phổ cập ô tô hàng loạt. Tầng lớp trung lưu dự kiến tăng gấp đôi từ 13% lên 26% chỉ trong 3 năm. Hàng triệu người Việt đang chuẩn bị mua chiếc xe hơi đầu tiên trong đời. Câu hỏi duy nhất là: Chiếc xe đó sẽ mang thương hiệu gì?",
+    "sentences": [
+      "Và năm 2025, GDP bình quân đầu người của Việt Nam chính thức vượt mốc 5.026 đô la, mốc mà các nhà kinh tế gọi là điểm bùng phát của làn sóng phổ cập ô tô hàng loạt. Tầng lớp trung lưu dự kiến tăng gấp đôi từ 13% lên 26% chỉ trong 3 năm. Hàng triệu người Việt đang chuẩn bị mua chiếc xe hơi đầu tiên trong đời. Câu hỏi duy nhất là: Chiếc xe đó sẽ mang thương hiệu gì?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 22.83,
+    "text_overlay": "",
+    "visual_summary": "VinFast không chỉ bán ô tô. Họ đang khóa chặt người dùng ngay từ chiếc xe hai bánh đầu tiên. Chỉ riêng nửa đầu năm 2026, VinFast đã bán ra 429.175 xe máy điện, tăng 275% so với cùng kỳ. Trong tháng 3 năm 2026, VinFast chiếm 17% thị phần toàn ngành hai bánh, đứng ngay sau Honda. Gần 60 triệu xe máy xăng đang lưu hành trên đường phố Việt Nam, mỗi chiếc là một khách hàng tiềm năng trong chu kỳ chuyển đổi tiếp theo.",
+    "sentences": [
+      "VinFast không chỉ bán ô tô. Họ đang khóa chặt người dùng ngay từ chiếc xe hai bánh đầu tiên. Chỉ riêng nửa đầu năm 2026, VinFast đã bán ra 429.175 xe máy điện, tăng 275% so với cùng kỳ. Trong tháng 3 năm 2026, VinFast chiếm 17% thị phần toàn ngành hai bánh, đứng ngay sau Honda. Gần 60 triệu xe máy xăng đang lưu hành trên đường phố Việt Nam, mỗi chiếc là một khách hàng tiềm năng trong chu kỳ chuyển đổi tiếp theo."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC018",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Nhưng Việt Nam chỉ là một mảnh nhỏ trong bức tranh lớn hơn nhiều.",
+    "sentences": [
+      "Nhưng Việt Nam chỉ là một mảnh nhỏ trong bức tranh lớn hơn nhiều."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC019",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 28.08,
+    "text_overlay": "",
+    "visual_summary": "Hãy nhìn sang Indonesia. Một quốc đảo khổng lồ với 281 triệu dân, nơi 130 triệu chiếc xe máy đang luồn lách đặc nghẹt trên các nẻo đường từ Jakarta đến Bali, gấp đôi lượng xe tại Việt Nam. Thế nhưng, mật độ ô tô lại mỏng dính, chỉ 99 xe trên 1.000 dân. Đây là quốc gia đông dân thứ 4 thế giới, một chiếc lò xo nén khổng lồ nơi hàng trăm triệu người đang khao khát chuyển từ xe hai bánh lên bốn bánh. VinFast đã cắm cờ tại đây bằng nhà máy Subang ở Tây Java với công suất 50.000 xe mỗi năm.",
+    "sentences": [
+      "Hãy nhìn sang Indonesia. Một quốc đảo khổng lồ với 281 triệu dân, nơi 130 triệu chiếc xe máy đang luồn lách đặc nghẹt trên các nẻo đường từ Jakarta đến Bali, gấp đôi lượng xe tại Việt Nam. Thế nhưng, mật độ ô tô lại mỏng dính, chỉ 99 xe trên 1.000 dân. Đây là quốc gia đông dân thứ 4 thế giới, một chiếc lò xo nén khổng lồ nơi hàng trăm triệu người đang khao khát chuyển từ xe hai bánh lên bốn bánh. VinFast đã cắm cờ tại đây bằng nhà máy Subang ở Tây Java với công suất 50.000 xe mỗi năm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC020",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 17.85,
+    "text_overlay": "",
+    "visual_summary": "Tại Philippines, quốc đảo 115 triệu dân nổi tiếng với những siêu đô thị tắc đường triền miên như Manila, mật độ ô tô cũng chỉ vỏn vẹn 48 chiếc trên 1.000 người, còn thấp hơn cả Việt Nam. Một thị trường bị bỏ ngỏ, và VinFast hiện đang lấp đầy khoảng trống đó khi vươn lên thành hãng xe thuần điện bán chạy số 1 tại đây.",
+    "sentences": [
+      "Tại Philippines, quốc đảo 115 triệu dân nổi tiếng với những siêu đô thị tắc đường triền miên như Manila, mật độ ô tô cũng chỉ vỏn vẹn 48 chiếc trên 1.000 người, còn thấp hơn cả Việt Nam. Một thị trường bị bỏ ngỏ, và VinFast hiện đang lấp đầy khoảng trống đó khi vươn lên thành hãng xe thuần điện bán chạy số 1 tại đây."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC021",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 25.72,
+    "text_overlay": "",
+    "visual_summary": "Và Ấn Độ, một tiểu lục địa 1,43 tỷ dân nhưng bức tranh lại cực kỳ phân hóa: chỉ vỏn vẹn 2,6% hộ gia đình sở hữu ô tô. Đây là một đại dương xe hai bánh lớn nhất hành tinh. VinFast không chỉ ném đá dò đường, họ đang xây thẳng nhà máy tại cứ điểm công nghiệp Tamil Nadu. Đồng thời, Xanh SM đã tung dàn Limo tỏa đi khắp New Delhi, giúp hãng xe Việt Nam vươn lên vị trí thứ 4 trên bảng xếp hạng xe thuần điện tại thị trường tỷ dân này.",
+    "sentences": [
+      "Và Ấn Độ, một tiểu lục địa 1,43 tỷ dân nhưng bức tranh lại cực kỳ phân hóa: chỉ vỏn vẹn 2,6% hộ gia đình sở hữu ô tô. Đây là một đại dương xe hai bánh lớn nhất hành tinh. VinFast không chỉ ném đá dò đường, họ đang xây thẳng nhà máy tại cứ điểm công nghiệp Tamil Nadu. Đồng thời, Xanh SM đã tung dàn Limo tỏa đi khắp New Delhi, giúp hãng xe Việt Nam vươn lên vị trí thứ 4 trên bảng xếp hạng xe thuần điện tại thị trường tỷ dân này."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC022",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 27.3,
+    "text_overlay": "",
+    "visual_summary": "Cộng tất cả lại, VinFast đang bày binh bố trận trên một bàn cờ khổng lồ gần 2 tỷ người. Từ những siêu đô thị đặc nghẹt xe máy ở Đông Nam Á cho đến tiểu lục địa Ấn Độ, điểm chung của mỏ vàng này là: mật độ ô tô còn cực kỳ thấp, và làn sóng chuyển dịch sang năng lượng xanh mới chỉ ở những gợn sóng đầu tiên. Quy mô của thị trường này được định giá 7,84 tỷ đô la vào năm 2024, và sẽ phình to gấp đôi lên gần 15 tỷ đô la vào thập kỷ tới.",
+    "sentences": [
+      "Cộng tất cả lại, VinFast đang bày binh bố trận trên một bàn cờ khổng lồ gần 2 tỷ người. Từ những siêu đô thị đặc nghẹt xe máy ở Đông Nam Á cho đến tiểu lục địa Ấn Độ, điểm chung của mỏ vàng này là: mật độ ô tô còn cực kỳ thấp, và làn sóng chuyển dịch sang năng lượng xanh mới chỉ ở những gợn sóng đầu tiên. Quy mô của thị trường này được định giá 7,84 tỷ đô la vào năm 2024, và sẽ phình to gấp đôi lên gần 15 tỷ đô la vào thập kỷ tới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC023",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Nhưng mỏ vàng thì ai cũng thấy. Câu hỏi thực sự là: Ai sẽ chiếm được nó?",
+    "sentences": [
+      "Nhưng mỏ vàng thì ai cũng thấy. Câu hỏi thực sự là: Ai sẽ chiếm được nó?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC024",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 25.46,
+    "text_overlay": "",
+    "visual_summary": "Để trả lời, hãy nhìn vào Thái Lan, thị trường mà VinFast chưa bước chân vào. Chỉ trong một năm, thị phần của các hãng xe Nhật Bản tại Thái Lan đã sụt từ 74% xuống còn 62,4%. Xe điện Trung Quốc chiếm tới 88% tổng lượng xe điện bán ra. BYD đã xây nhà máy Rayong với công suất 150.000 xe mỗi năm. Geely tăng trưởng 350%, GAC tăng 120%. Không có một hãng bản địa nào đủ sức chặn lại. Thị trường Thái Lan đang bị xe Trung Quốc chiếm lĩnh từng phân khúc một.",
+    "sentences": [
+      "Để trả lời, hãy nhìn vào Thái Lan, thị trường mà VinFast chưa bước chân vào. Chỉ trong một năm, thị phần của các hãng xe Nhật Bản tại Thái Lan đã sụt từ 74% xuống còn 62,4%. Xe điện Trung Quốc chiếm tới 88% tổng lượng xe điện bán ra. BYD đã xây nhà máy Rayong với công suất 150.000 xe mỗi năm. Geely tăng trưởng 350%, GAC tăng 120%. Không có một hãng bản địa nào đủ sức chặn lại. Thị trường Thái Lan đang bị xe Trung Quốc chiếm lĩnh từng phân khúc một."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC025",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 17.32,
+    "text_overlay": "",
+    "visual_summary": "Đặt bức tranh Thái Lan cạnh Việt Nam, sự tương phản rất rõ. Tại Việt Nam, BYD và các hãng Trung Quốc gần như không tìm được chỗ đứng. VinFast đã giăng sẵn 15 mẫu xe phủ kín mọi phân khúc, từ xe máy điện 20 triệu đến SUV tỷ đồng. Hãng nào bước vào Việt Nam cũng thấy mọi khoảng trống đã bị lấp kín.",
+    "sentences": [
+      "Đặt bức tranh Thái Lan cạnh Việt Nam, sự tương phản rất rõ. Tại Việt Nam, BYD và các hãng Trung Quốc gần như không tìm được chỗ đứng. VinFast đã giăng sẵn 15 mẫu xe phủ kín mọi phân khúc, từ xe máy điện 20 triệu đến SUV tỷ đồng. Hãng nào bước vào Việt Nam cũng thấy mọi khoảng trống đã bị lấp kín."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 17.06,
+    "text_overlay": "",
+    "visual_summary": "Malaysia cũng cho thấy một quy luật tương tự. Proton, hãng xe quốc dân, đã tung ra dòng e.MAS và chiếm 43% thị phần xe điện nội địa. Mô hình hãng xe bản địa dùng lợi thế sân nhà để chặn xe ngoại không phải chỉ VinFast nghĩ ra. Nhưng VinFast đang làm ở quy mô lớn hơn nhiều, trên nhiều thị trường cùng lúc.",
+    "sentences": [
+      "Malaysia cũng cho thấy một quy luật tương tự. Proton, hãng xe quốc dân, đã tung ra dòng e.MAS và chiếm 43% thị phần xe điện nội địa. Mô hình hãng xe bản địa dùng lợi thế sân nhà để chặn xe ngoại không phải chỉ VinFast nghĩ ra. Nhưng VinFast đang làm ở quy mô lớn hơn nhiều, trên nhiều thị trường cùng lúc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 25.2,
+    "text_overlay": "",
+    "visual_summary": "Tuy nhiên, dung lượng thị trường khổng lồ luôn đi kèm với sự cạnh tranh khốc liệt. Tại chính mỏ vàng Indonesia, xe điện Trung Quốc đã sớm phong tỏa hơn 90% thị phần. Bất chấp việc VinFast dùng quân bài taxi Xanh SM để nhanh chóng chen chân vào Top 3 doanh số, cuộc chiến giáp lá cà ở mảng bán lẻ cá nhân mới thực sự là phép thử sống còn. Cuộc đua ở quốc đảo 281 triệu dân này mới chỉ bắt đầu, và phần thưởng chưa chắc đã thuộc về tay ai.",
+    "sentences": [
+      "Tuy nhiên, dung lượng thị trường khổng lồ luôn đi kèm với sự cạnh tranh khốc liệt. Tại chính mỏ vàng Indonesia, xe điện Trung Quốc đã sớm phong tỏa hơn 90% thị phần. Bất chấp việc VinFast dùng quân bài taxi Xanh SM để nhanh chóng chen chân vào Top 3 doanh số, cuộc chiến giáp lá cà ở mảng bán lẻ cá nhân mới thực sự là phép thử sống còn. Cuộc đua ở quốc đảo 281 triệu dân này mới chỉ bắt đầu, và phần thưởng chưa chắc đã thuộc về tay ai."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 30.18,
+    "text_overlay": "",
+    "visual_summary": "Đó là bức tranh toàn cảnh. Một mỏ vàng gần 2 tỷ người đang chờ được khai phá, và VinFast là một trong những đại diện hiếm hoi đi lên từ chính Đông Nam Á dám lao vào cuộc đua khốc liệt này. Nhưng khoảng thời gian vàng để tự do cắm cờ sẽ không kéo dài mãi mãi. Và để hiểu tại sao VinFast phải chạy nhanh đến mức chấp nhận dồn lực ở quy mô chưa từng có, chúng ta cần nhìn vào một biến số mà ít ai để ý: Các ông lớn truyền thống đang ở đâu, và tại sao những cỗ máy khổng lồ đó vẫn chưa chịu thức giấc?",
+    "sentences": [
+      "Đó là bức tranh toàn cảnh. Một mỏ vàng gần 2 tỷ người đang chờ được khai phá, và VinFast là một trong những đại diện hiếm hoi đi lên từ chính Đông Nam Á dám lao vào cuộc đua khốc liệt này. Nhưng khoảng thời gian vàng để tự do cắm cờ sẽ không kéo dài mãi mãi. Và để hiểu tại sao VinFast phải chạy nhanh đến mức chấp nhận dồn lực ở quy mô chưa từng có, chúng ta cần nhìn vào một biến số mà ít ai để ý: Các ông lớn truyền thống đang ở đâu, và tại sao những cỗ máy khổng lồ đó vẫn chưa chịu thức giấc?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC029",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 12.6,
+    "text_overlay": "",
+    "visual_summary": "Mỏ vàng đã nhìn thấy. Nhưng mỏ vàng không chờ ai. VinFast hiểu rằng khoảng lặng trên bàn cờ cạnh tranh toàn cầu, nơi mà các ông lớn truyền thống chưa kịp chuyển mình sang xe thuần điện, chỉ tồn tại trong một khoảng thời gian hữu hạn.",
+    "sentences": [
+      "Mỏ vàng đã nhìn thấy. Nhưng mỏ vàng không chờ ai. VinFast hiểu rằng khoảng lặng trên bàn cờ cạnh tranh toàn cầu, nơi mà các ông lớn truyền thống chưa kịp chuyển mình sang xe thuần điện, chỉ tồn tại trong một khoảng thời gian hữu hạn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC030",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 17.59,
+    "text_overlay": "",
+    "visual_summary": "Rất nhiều người lầm tưởng rằng khoảng lặng đó được tạo ra bởi sự bảo thủ, chậm chạp của những gã khổng lồ Nhật Bản như Toyota. Họ cho rằng, khi các ông lớn thức giấc và tung ra siêu vũ khí Pin thể rắn, những tay chơi mới như VinFast sẽ tự động bị nghiền nát. Nhưng đó là một tư duy nhị nguyên ngây thơ.",
+    "sentences": [
+      "Rất nhiều người lầm tưởng rằng khoảng lặng đó được tạo ra bởi sự bảo thủ, chậm chạp của những gã khổng lồ Nhật Bản như Toyota. Họ cho rằng, khi các ông lớn thức giấc và tung ra siêu vũ khí Pin thể rắn, những tay chơi mới như VinFast sẽ tự động bị nghiền nát. Nhưng đó là một tư duy nhị nguyên ngây thơ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC031",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 21.0,
+    "text_overlay": "",
+    "visual_summary": "Cuộc đua Pin thể rắn không phải là sân chơi độc quyền của Toyota. Đó là một cuộc chiến đa cực toàn cầu với sự tham gia của BYD, CATL, và các gã khổng lồ Âu Mỹ. Hơn thế nữa, VinFast không hề khoanh tay đứng nhìn. Họ đã âm thầm rót hàng chục triệu USD đầu tư chiến lược vào ProLogium, hãng chuyên Pin thể rắn của Đài Loan, và StoreDot, hãng chuyên Pin sạc siêu nhanh của Israel.",
+    "sentences": [
+      "Cuộc đua Pin thể rắn không phải là sân chơi độc quyền của Toyota. Đó là một cuộc chiến đa cực toàn cầu với sự tham gia của BYD, CATL, và các gã khổng lồ Âu Mỹ. Hơn thế nữa, VinFast không hề khoanh tay đứng nhìn. Họ đã âm thầm rót hàng chục triệu USD đầu tư chiến lược vào ProLogium, hãng chuyên Pin thể rắn của Đài Loan, và StoreDot, hãng chuyên Pin sạc siêu nhanh của Israel."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC032",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Vậy nếu công nghệ pin không phải là rào cản độc quyền, thì khoảng lặng mà VinFast đang khai thác thực chất là gì?",
+    "sentences": [
+      "Vậy nếu công nghệ pin không phải là rào cản độc quyền, thì khoảng lặng mà VinFast đang khai thác thực chất là gì?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC033",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Đó chính là khe hở trước khi các ông lớn truyền thống kịp chuyển mình sang xe thuần điện.",
+    "sentences": [
+      "Đó chính là khe hở trước khi các ông lớn truyền thống kịp chuyển mình sang xe thuần điện."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC034",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 34.38,
+    "text_overlay": "",
+    "visual_summary": "Toyota không hề chậm vì họ yếu. Họ chậm vì họ đang mắc kẹt. Ngành công nghiệp ô tô Nhật Bản nuôi sống 5,5 triệu lao động, chiếm 8% tổng lực lượng lao động cả nước. Bất kỳ sự chuyển đổi nào quá nhanh sang xe thuần điện đều có nguy cơ xóa sổ hàng triệu việc làm liên quan đến động cơ đốt trong, hộp số, hệ thống xả — những thứ mà xe điện không cần. Đó là lý do Toyota chọn cách đi chậm, vắt kiệt lợi nhuận từ xe hybrid trước. Chỉ riêng nửa đầu năm 2026, doanh số xe hybrid của Toyota tại Việt Nam đã tăng 48%. Với họ, xe hybrid vẫn đang in tiền, và họ không có lý do gì để vội vàng.",
+    "sentences": [
+      "Toyota không hề chậm vì họ yếu. Họ chậm vì họ đang mắc kẹt. Ngành công nghiệp ô tô Nhật Bản nuôi sống 5,5 triệu lao động, chiếm 8% tổng lực lượng lao động cả nước. Bất kỳ sự chuyển đổi nào quá nhanh sang xe thuần điện đều có nguy cơ xóa sổ hàng triệu việc làm liên quan đến động cơ đốt trong, hộp số, hệ thống xả — những thứ mà xe điện không cần. Đó là lý do Toyota chọn cách đi chậm, vắt kiệt lợi nhuận từ xe hybrid trước. Chỉ riêng nửa đầu năm 2026, doanh số xe hybrid của Toyota tại Việt Nam đã tăng 48%. Với họ, xe hybrid vẫn đang in tiền, và họ không có lý do gì để vội vàng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC035",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 27.82,
+    "text_overlay": "",
+    "visual_summary": "Nếu Toyota chậm chạp một cách chủ động để vắt kiệt lợi nhuận, thì Honda lại đang thực sự rơi vào khủng hoảng. Doanh số tại thị trường Trung Quốc giảm sạch 60% so với đỉnh năm 2020. Hãng buộc phải hủy bỏ hai mẫu xe thuần điện chiến lược tại Bắc Mỹ là Honda 0 và Acura RSX, gánh chịu khoản lỗ giảm giá trị lên tới 2,5 nghìn tỷ Yên. Honda đang phải vất vả thu mình lại để phòng thủ, chứ hoàn toàn không có tâm trí hay nguồn lực để mở cuộc tấn công xe điện giá rẻ vào Đông Nam Á.",
+    "sentences": [
+      "Nếu Toyota chậm chạp một cách chủ động để vắt kiệt lợi nhuận, thì Honda lại đang thực sự rơi vào khủng hoảng. Doanh số tại thị trường Trung Quốc giảm sạch 60% so với đỉnh năm 2020. Hãng buộc phải hủy bỏ hai mẫu xe thuần điện chiến lược tại Bắc Mỹ là Honda 0 và Acura RSX, gánh chịu khoản lỗ giảm giá trị lên tới 2,5 nghìn tỷ Yên. Honda đang phải vất vả thu mình lại để phòng thủ, chứ hoàn toàn không có tâm trí hay nguồn lực để mở cuộc tấn công xe điện giá rẻ vào Đông Nam Á."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC036",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 14.17,
+    "text_overlay": "",
+    "visual_summary": "Còn Hyundai, hãng xe Hàn Quốc từng rót 3 tỷ USD vào Indonesia để xây nhà máy pin và lắp ráp xe điện, giờ đây đang chứng kiến doanh số xe thuần điện tại chính thị trường đó giảm tới 75,9%, từ 7.590 xe năm 2023 xuống còn vỏn vẹn 1.828 xe năm 2025.",
+    "sentences": [
+      "Còn Hyundai, hãng xe Hàn Quốc từng rót 3 tỷ USD vào Indonesia để xây nhà máy pin và lắp ráp xe điện, giờ đây đang chứng kiến doanh số xe thuần điện tại chính thị trường đó giảm tới 75,9%, từ 7.590 xe năm 2023 xuống còn vỏn vẹn 1.828 xe năm 2025."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC037",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 21.78,
+    "text_overlay": "",
+    "visual_summary": "Một thế lực thì mắc kẹt trong cấu trúc lao động khổng lồ không thể xoay chuyển một sớm một chiều, một thế lực thì vừa bại trận trên chính sân nhà mình đặt cược. Trong khi đó, các gã khổng lồ Trung Quốc như BYD lại đang vấp phải bức tường thuế quan và định kiến địa chính trị gay gắt từ phương Tây. Sự giằng co này tạo ra một khe hở khổng lồ về nguồn cung xe điện đại chúng.",
+    "sentences": [
+      "Một thế lực thì mắc kẹt trong cấu trúc lao động khổng lồ không thể xoay chuyển một sớm một chiều, một thế lực thì vừa bại trận trên chính sân nhà mình đặt cược. Trong khi đó, các gã khổng lồ Trung Quốc như BYD lại đang vấp phải bức tường thuế quan và định kiến địa chính trị gay gắt từ phương Tây. Sự giằng co này tạo ra một khe hở khổng lồ về nguồn cung xe điện đại chúng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC038",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 25.98,
+    "text_overlay": "",
+    "visual_summary": "VinFast hiểu rằng, khe hở này chỉ tồn tại trong một khoảng thời gian hữu hạn, có thể kéo dài từ nay cho đến đầu thập niên 2030. Khi những cỗ máy khổng lồ như Toyota hay Hyundai chính thức thức giấc, mang theo vũ khí công nghệ mới và dồn toàn lực vào Đông Nam Á, luật chơi sẽ thay đổi. Lúc đó, thị trường sẽ bước vào kỷ nguyên cá mập nuốt cá mập, nơi lợi thế về quy mô tư bản của các tập đoàn trăm tỷ đô la sẽ đè bẹp những kẻ đến sau.",
+    "sentences": [
+      "VinFast hiểu rằng, khe hở này chỉ tồn tại trong một khoảng thời gian hữu hạn, có thể kéo dài từ nay cho đến đầu thập niên 2030. Khi những cỗ máy khổng lồ như Toyota hay Hyundai chính thức thức giấc, mang theo vũ khí công nghệ mới và dồn toàn lực vào Đông Nam Á, luật chơi sẽ thay đổi. Lúc đó, thị trường sẽ bước vào kỷ nguyên cá mập nuốt cá mập, nơi lợi thế về quy mô tư bản của các tập đoàn trăm tỷ đô la sẽ đè bẹp những kẻ đến sau."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC039",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 8.4,
+    "text_overlay": "",
+    "visual_summary": "Để sống sót qua điểm nghẽn đó, VinFast bắt buộc phải khóa chặt người dùng vào hệ sinh thái ngay từ bây giờ, trước khi mặt bằng công nghệ bị san phẳng.",
+    "sentences": [
+      "Để sống sót qua điểm nghẽn đó, VinFast bắt buộc phải khóa chặt người dùng vào hệ sinh thái ngay từ bây giờ, trước khi mặt bằng công nghệ bị san phẳng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC040",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 33.33,
+    "text_overlay": "",
+    "visual_summary": "Và chu kỳ sở hữu ô tô ở Đông Nam Á cho thấy cuộc chạy đua này khốc liệt hơn nhiều người tưởng. Trung bình, một người giữ chiếc xe của mình từ 5 đến 7 năm. Ai bắt được khách hàng hôm nay, người đó khóa được họ trong gần một thập kỷ. Và dữ liệu toàn cầu cho thấy, 63% người tiêu dùng sẵn sàng đổi hãng xe khi lần đầu chuyển sang xe điện. Nhưng một khi đã sở hữu xe điện, 71% trong số họ khẳng định sẽ tiếp tục chọn xe điện ở lần mua sau. Đây chính là vòng lặp khóa chặt. Ai giành được lần mua đầu tiên, người đó giữ được khách hàng cho cả thập kỷ tiếp theo.",
+    "sentences": [
+      "Và chu kỳ sở hữu ô tô ở Đông Nam Á cho thấy cuộc chạy đua này khốc liệt hơn nhiều người tưởng. Trung bình, một người giữ chiếc xe của mình từ 5 đến 7 năm. Ai bắt được khách hàng hôm nay, người đó khóa được họ trong gần một thập kỷ. Và dữ liệu toàn cầu cho thấy, 63% người tiêu dùng sẵn sàng đổi hãng xe khi lần đầu chuyển sang xe điện. Nhưng một khi đã sở hữu xe điện, 71% trong số họ khẳng định sẽ tiếp tục chọn xe điện ở lần mua sau. Đây chính là vòng lặp khóa chặt. Ai giành được lần mua đầu tiên, người đó giữ được khách hàng cho cả thập kỷ tiếp theo."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC041",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 20.47,
+    "text_overlay": "",
+    "visual_summary": "VinFast đã chớp lấy thời khắc đó. Chỉ trong nửa đầu năm 2026, riêng VF 3 đã bán được 23.781 chiếc, VF 5 bán 20.167 chiếc. Mẫu VF 2 mới ra mắt tháng 7 với giá sàn chỉ 188 triệu đồng đã nhận về 29.000 đơn đặt hàng chỉ sau 3 ngày. VinFast đang hút trọn tệp khách hàng mua xe lần đầu, ngay tại thời điểm Việt Nam bước vào kỷ nguyên ô tô hóa đại chúng.",
+    "sentences": [
+      "VinFast đã chớp lấy thời khắc đó. Chỉ trong nửa đầu năm 2026, riêng VF 3 đã bán được 23.781 chiếc, VF 5 bán 20.167 chiếc. Mẫu VF 2 mới ra mắt tháng 7 với giá sàn chỉ 188 triệu đồng đã nhận về 29.000 đơn đặt hàng chỉ sau 3 ngày. VinFast đang hút trọn tệp khách hàng mua xe lần đầu, ngay tại thời điểm Việt Nam bước vào kỷ nguyên ô tô hóa đại chúng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC042",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 23.1,
+    "text_overlay": "",
+    "visual_summary": "Khi bạn mua một chiếc VF 5, bạn không chỉ mua một cỗ máy, bạn đang bước vào một hệ sinh thái khép kín. VinFast hiểu rằng dải sản phẩm rộng chỉ là bề nổi, rào cản thực sự chặn đứng đối thủ ngoại chính là hạ tầng sạc. Tính đến năm 2026, mạng lưới V-Green đã đạt quy mô hơn 200.000 cổng sạc phủ khắp 63 tỉnh thành, kèm theo khoản đầu tư 10.000 tỷ đồng xây dựng 99 siêu trạm sạc nhanh trên các quốc lộ.",
+    "sentences": [
+      "Khi bạn mua một chiếc VF 5, bạn không chỉ mua một cỗ máy, bạn đang bước vào một hệ sinh thái khép kín. VinFast hiểu rằng dải sản phẩm rộng chỉ là bề nổi, rào cản thực sự chặn đứng đối thủ ngoại chính là hạ tầng sạc. Tính đến năm 2026, mạng lưới V-Green đã đạt quy mô hơn 200.000 cổng sạc phủ khắp 63 tỉnh thành, kèm theo khoản đầu tư 10.000 tỷ đồng xây dựng 99 siêu trạm sạc nhanh trên các quốc lộ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC043",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 33.07,
+    "text_overlay": "",
+    "visual_summary": "Và đây là điểm mấu chốt mang tính sinh tử: V-Green là một mạng lưới độc quyền chỉ dành riêng cho xe VinFast. Ngay cả khi những gã khổng lồ như BYD hay Wuling mang xe vào Việt Nam với giá rẻ hơn, họ cũng đứng ngoài lề hệ sinh thái này. BYD phải chật vật ký kết với các đối tác nhỏ lẻ để xây 1.000 trạm sạc, con số quá sức nhỏ bé trước 200.000 cổng sạc của VinFast. Khi bạn đã quen với ứng dụng VinFast, quen với sự phủ sóng trạm sạc ở mọi nẻo đường, và được miễn phí sạc trong suốt nhiều năm liền, hành vi tiêu dùng của bạn đã bị khóa chặt bởi sự tiện lợi tuyệt đối.",
+    "sentences": [
+      "Và đây là điểm mấu chốt mang tính sinh tử: V-Green là một mạng lưới độc quyền chỉ dành riêng cho xe VinFast. Ngay cả khi những gã khổng lồ như BYD hay Wuling mang xe vào Việt Nam với giá rẻ hơn, họ cũng đứng ngoài lề hệ sinh thái này. BYD phải chật vật ký kết với các đối tác nhỏ lẻ để xây 1.000 trạm sạc, con số quá sức nhỏ bé trước 200.000 cổng sạc của VinFast. Khi bạn đã quen với ứng dụng VinFast, quen với sự phủ sóng trạm sạc ở mọi nẻo đường, và được miễn phí sạc trong suốt nhiều năm liền, hành vi tiêu dùng của bạn đã bị khóa chặt bởi sự tiện lợi tuyệt đối."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC044",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 30.97,
+    "text_overlay": "",
+    "visual_summary": "Hãy hình dung viễn cảnh này. Năm 2031, khi Toyota chính thức tung xe thuần điện đại chúng vào Đông Nam Á, họ có thể sẽ nhận ra hàng triệu khách hàng tiềm năng của mình đã gắn chặt với hệ sinh thái V-Green. Chi phí để thuyết phục những người này từ bỏ một hạ tầng tiện lợi để chuyển sang một hệ sinh thái mới là vô cùng đắt đỏ. Khi đó, bài toán của các ông lớn không chỉ là làm sao để bán được xe, mà là làm sao để bẻ gãy được thói quen của người dùng — một rào cản phòng thủ vững chắc mà VinFast đang đánh cược để xây dựng.",
+    "sentences": [
+      "Hãy hình dung viễn cảnh này. Năm 2031, khi Toyota chính thức tung xe thuần điện đại chúng vào Đông Nam Á, họ có thể sẽ nhận ra hàng triệu khách hàng tiềm năng của mình đã gắn chặt với hệ sinh thái V-Green. Chi phí để thuyết phục những người này từ bỏ một hạ tầng tiện lợi để chuyển sang một hệ sinh thái mới là vô cùng đắt đỏ. Khi đó, bài toán của các ông lớn không chỉ là làm sao để bán được xe, mà là làm sao để bẻ gãy được thói quen của người dùng — một rào cản phòng thủ vững chắc mà VinFast đang đánh cược để xây dựng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC045",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 13.39,
+    "text_overlay": "",
+    "visual_summary": "Tuy nhiên, trong kinh doanh, không có gì là miễn phí. Bày binh bố trận dày đặc để vây bắt khách hàng thì dễ, nhưng khi các mẫu xe đứng quá gần nhau trong showroom, một hệ lụy tất yếu bắt đầu xuất hiện: Chúng quay ra cấu xé lẫn nhau.",
+    "sentences": [
+      "Tuy nhiên, trong kinh doanh, không có gì là miễn phí. Bày binh bố trận dày đặc để vây bắt khách hàng thì dễ, nhưng khi các mẫu xe đứng quá gần nhau trong showroom, một hệ lụy tất yếu bắt đầu xuất hiện: Chúng quay ra cấu xé lẫn nhau."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC046",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7.35,
+    "text_overlay": "",
+    "visual_summary": "Đó là lúc VinFast đối mặt với rủi ro lớn nhất từ chính chiến lược của mình: Sự giẫm chân giữa xe dịch vụ và xe cá nhân.",
+    "sentences": [
+      "Đó là lúc VinFast đối mặt với rủi ro lớn nhất từ chính chiến lược của mình: Sự giẫm chân giữa xe dịch vụ và xe cá nhân."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC047",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 15.75,
+    "text_overlay": "",
+    "visual_summary": "Không thể phủ nhận Xanh SM từng là một \"bể chứa\" hoàn hảo giúp nhà máy Cát Hải duy trì nhịp sản xuất trong giai đoạn đầu. Thế nhưng, khi hàng vạn chiếc taxi điện phủ kín đường phố, mặt trái của chiến lược này bắt đầu bộc lộ: Ranh giới định vị sản phẩm bị xóa nhòa hoàn toàn.",
+    "sentences": [
+      "Không thể phủ nhận Xanh SM từng là một \"bể chứa\" hoàn hảo giúp nhà máy Cát Hải duy trì nhịp sản xuất trong giai đoạn đầu. Thế nhưng, khi hàng vạn chiếc taxi điện phủ kín đường phố, mặt trái của chiến lược này bắt đầu bộc lộ: Ranh giới định vị sản phẩm bị xóa nhòa hoàn toàn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC048",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 16.54,
+    "text_overlay": "",
+    "visual_summary": "Hãy nhìn vào bảng giá. Mẫu Herio Green chạy dịch vụ có giá 499 triệu đồng, trong khi mẫu VF 5 Plus bán cho khách hàng cá nhân có giá 529 triệu. Hai chiếc xe này chia sẻ cùng một gầm bệ, cùng cụm pin 37,23 kWh, cùng tầm vận hành khoảng 300 km. Khoảng cách giá chỉ vỏn vẹn 30 triệu đồng.",
+    "sentences": [
+      "Hãy nhìn vào bảng giá. Mẫu Herio Green chạy dịch vụ có giá 499 triệu đồng, trong khi mẫu VF 5 Plus bán cho khách hàng cá nhân có giá 529 triệu. Hai chiếc xe này chia sẻ cùng một gầm bệ, cùng cụm pin 37,23 kWh, cùng tầm vận hành khoảng 300 km. Khoảng cách giá chỉ vỏn vẹn 30 triệu đồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC049",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 35.17,
+    "text_overlay": "",
+    "visual_summary": "Câu chuyện tương tự xảy ra ở phân khúc cao hơn. Mẫu Limo Green phát triển từ gầm bệ LEV 01 dành cho dịch vụ cao cấp có giá 749 triệu đồng, bám cực sát mức giá 819 triệu đồng của chiếc VF MPV 7 bản cá nhân. Cùng pin 60,13 kWh, cùng tầm vận hành 450 km. Và đây là con số đáng suy ngẫm: chỉ trong nửa đầu năm 2026, Limo Green bán được 27.927 chiếc, trong khi VF MPV 7 bản cá nhân bán được 9.177 chiếc. Hai chiếc xe cùng gầm, cùng pin, giá chênh 70 triệu, nhưng doanh số chênh nhau gấp 3 lần. Con số tự nó đặt ra câu hỏi mà bất kỳ ai quan tâm đến chiến lược sản phẩm của VinFast đều phải suy nghĩ.",
+    "sentences": [
+      "Câu chuyện tương tự xảy ra ở phân khúc cao hơn. Mẫu Limo Green phát triển từ gầm bệ LEV 01 dành cho dịch vụ cao cấp có giá 749 triệu đồng, bám cực sát mức giá 819 triệu đồng của chiếc VF MPV 7 bản cá nhân. Cùng pin 60,13 kWh, cùng tầm vận hành 450 km. Và đây là con số đáng suy ngẫm: chỉ trong nửa đầu năm 2026, Limo Green bán được 27.927 chiếc, trong khi VF MPV 7 bản cá nhân bán được 9.177 chiếc. Hai chiếc xe cùng gầm, cùng pin, giá chênh 70 triệu, nhưng doanh số chênh nhau gấp 3 lần. Con số tự nó đặt ra câu hỏi mà bất kỳ ai quan tâm đến chiến lược sản phẩm của VinFast đều phải suy nghĩ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC050",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 34.38,
+    "text_overlay": "",
+    "visual_summary": "Khoảng cách giá quá hẹp giữa xe dịch vụ và xe cá nhân tiềm ẩn một rủi ro lớn về tâm lý học tiêu dùng: Nó có thể bào mòn đi giá trị định vị đẳng cấp của chiếc xe. Khác với một chiếc tủ lạnh hay máy giặt, ô tô không chỉ là một cỗ máy di chuyển, mà còn là công cụ thể hiện vị thế cá nhân. Khi bỏ ra hàng trăm triệu đồng, khách hàng không chỉ mua tính năng, mà họ đang mua sự tự hào về hình ảnh bản thân. Lòng tự tôn của khách hàng cá nhân sẽ bị thử thách khi nhận ra chiếc xe mình vừa chắt chiu mua lại trông không khác gì chiếc xe taxi vừa bấm gọi hôm qua.",
+    "sentences": [
+      "Khoảng cách giá quá hẹp giữa xe dịch vụ và xe cá nhân tiềm ẩn một rủi ro lớn về tâm lý học tiêu dùng: Nó có thể bào mòn đi giá trị định vị đẳng cấp của chiếc xe. Khác với một chiếc tủ lạnh hay máy giặt, ô tô không chỉ là một cỗ máy di chuyển, mà còn là công cụ thể hiện vị thế cá nhân. Khi bỏ ra hàng trăm triệu đồng, khách hàng không chỉ mua tính năng, mà họ đang mua sự tự hào về hình ảnh bản thân. Lòng tự tôn của khách hàng cá nhân sẽ bị thử thách khi nhận ra chiếc xe mình vừa chắt chiu mua lại trông không khác gì chiếc xe taxi vừa bấm gọi hôm qua."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC051",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 21.0,
+    "text_overlay": "",
+    "visual_summary": "VinFast không phải không nhận ra vấn đề này. Cuối năm 2024, ban lãnh đạo đã ra quyết định khai tử dịch vụ Xanh SM Luxury, dòng taxi hạng sang sử dụng VF 8, và chuyển toàn bộ đội xe sang công ty cho thuê FGF. Đó là một nhát dao cắt dứt khoát để bảo vệ hình ảnh thương hiệu cho VF 8 bản thương mại. Nhưng ở phân khúc thấp hơn, sự chồng chéo vẫn đang tiếp diễn.",
+    "sentences": [
+      "VinFast không phải không nhận ra vấn đề này. Cuối năm 2024, ban lãnh đạo đã ra quyết định khai tử dịch vụ Xanh SM Luxury, dòng taxi hạng sang sử dụng VF 8, và chuyển toàn bộ đội xe sang công ty cho thuê FGF. Đó là một nhát dao cắt dứt khoát để bảo vệ hình ảnh thương hiệu cho VF 8 bản thương mại. Nhưng ở phân khúc thấp hơn, sự chồng chéo vẫn đang tiếp diễn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC052",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 21.78,
+    "text_overlay": "",
+    "visual_summary": "Thay vì cạnh tranh với các đối thủ ngoại nhập, các dòng xe cá nhân của VinFast giờ đây phải cạnh tranh với chính người anh em sinh đôi của mình đang chạy dịch vụ ngoài đường. Sự ngập ngừng xuống tiền của khách hàng chính là biểu hiện rõ nhất của hiện tượng mà giới kinh doanh gọi là Tự ăn thịt đồng loại — khi một sản phẩm nội bộ gặm nhấm doanh số của chính sản phẩm nội bộ khác.",
+    "sentences": [
+      "Thay vì cạnh tranh với các đối thủ ngoại nhập, các dòng xe cá nhân của VinFast giờ đây phải cạnh tranh với chính người anh em sinh đôi của mình đang chạy dịch vụ ngoài đường. Sự ngập ngừng xuống tiền của khách hàng chính là biểu hiện rõ nhất của hiện tượng mà giới kinh doanh gọi là Tự ăn thịt đồng loại — khi một sản phẩm nội bộ gặm nhấm doanh số của chính sản phẩm nội bộ khác."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC053",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 40.16,
+    "text_overlay": "",
+    "visual_summary": "Đây không phải là một hiện tượng mới trong lịch sử công nghiệp ô tô. Vào thập niên 1970 và 1980, General Motors, gã khổng lồ vĩ đại nhất nước Mỹ khi ấy, cũng từng đi vào vết xe đổ tương tự. Từ bỏ nguyên tắc quản trị kinh điển khi mỗi thương hiệu phục vụ một tầng lớp riêng biệt, GM bắt đầu chia sẻ khung gầm và thiết kế vỏ ngoài bừa bãi giữa thương hiệu bình dân Chevrolet và thương hiệu siêu sang Cadillac. Hậu quả? Khách hàng giàu có bỏ rơi Cadillac vì không muốn lái một chiếc Chevrolet đội lốt giá cao. Sự xói mòn thương hiệu kéo dài hàng thập kỷ, buộc GM phải đóng cửa hàng loạt thương hiệu con: Pontiac, Oldsmobile, Saturn, Hummer, Saab, cùng hơn 2.000 đại lý trên toàn nước Mỹ, trước khi lao thẳng vào vụ phá sản lịch sử năm 2009.",
+    "sentences": [
+      "Đây không phải là một hiện tượng mới trong lịch sử công nghiệp ô tô. Vào thập niên 1970 và 1980, General Motors, gã khổng lồ vĩ đại nhất nước Mỹ khi ấy, cũng từng đi vào vết xe đổ tương tự. Từ bỏ nguyên tắc quản trị kinh điển khi mỗi thương hiệu phục vụ một tầng lớp riêng biệt, GM bắt đầu chia sẻ khung gầm và thiết kế vỏ ngoài bừa bãi giữa thương hiệu bình dân Chevrolet và thương hiệu siêu sang Cadillac. Hậu quả? Khách hàng giàu có bỏ rơi Cadillac vì không muốn lái một chiếc Chevrolet đội lốt giá cao. Sự xói mòn thương hiệu kéo dài hàng thập kỷ, buộc GM phải đóng cửa hàng loạt thương hiệu con: Pontiac, Oldsmobile, Saturn, Hummer, Saab, cùng hơn 2.000 đại lý trên toàn nước Mỹ, trước khi lao thẳng vào vụ phá sản lịch sử năm 2009."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC054",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 9.71,
+    "text_overlay": "",
+    "visual_summary": "Bán xe giá rẻ thì dễ, nhưng bán xe giá rẻ mà không làm lung lay niềm tin của khách hàng mua xe giá cao mới là bài toán định vị khó nhất trong ngành ô tô.",
+    "sentences": [
+      "Bán xe giá rẻ thì dễ, nhưng bán xe giá rẻ mà không làm lung lay niềm tin của khách hàng mua xe giá cao mới là bài toán định vị khó nhất trong ngành ô tô."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC055",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 16.01,
+    "text_overlay": "",
+    "visual_summary": "Và sự giẫm chân lên nhau ở ngoài showroom để tranh giành khách hàng chưa phải là nỗi đau lớn nhất. Sự bào mòn thực sự đang âm ỉ diễn ra ở bên trong sàn nhà máy Cát Hải. Nơi mà cái giá của sự đa dạng hóa vỏ ngoài đang đốt cháy mọi nỗ lực kiếm lời của hãng xe.",
+    "sentences": [
+      "Và sự giẫm chân lên nhau ở ngoài showroom để tranh giành khách hàng chưa phải là nỗi đau lớn nhất. Sự bào mòn thực sự đang âm ỉ diễn ra ở bên trong sàn nhà máy Cát Hải. Nơi mà cái giá của sự đa dạng hóa vỏ ngoài đang đốt cháy mọi nỗ lực kiếm lời của hãng xe."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC056",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 13.91,
+    "text_overlay": "",
+    "visual_summary": "Đúng vậy, cái giá phải trả cho 15 mẫu xe không chỉ nằm ở sự giẫm chân lên nhau ngoài showroom. Khoản lỗ khổng lồ hàng chục nghìn tỷ của VinFast còn bắt nguồn từ căn bệnh bào mòn biên lợi nhuận bên trong sàn nhà máy: Bẫy Phi kinh tế quy mô.",
+    "sentences": [
+      "Đúng vậy, cái giá phải trả cho 15 mẫu xe không chỉ nằm ở sự giẫm chân lên nhau ngoài showroom. Khoản lỗ khổng lồ hàng chục nghìn tỷ của VinFast còn bắt nguồn từ căn bệnh bào mòn biên lợi nhuận bên trong sàn nhà máy: Bẫy Phi kinh tế quy mô."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC057",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 13.65,
+    "text_overlay": "",
+    "visual_summary": "Trong quản trị sản xuất, Tính kinh tế theo quy mô nghĩa là sản xuất càng nhiều một mặt hàng thì chi phí cho mỗi đơn vị càng rẻ. Nhưng VinFast đang rơi vào chiều ngược lại: Sản xuất quy mô lớn nhưng lại quá phân mảnh, khiến chi phí phình to.",
+    "sentences": [
+      "Trong quản trị sản xuất, Tính kinh tế theo quy mô nghĩa là sản xuất càng nhiều một mặt hàng thì chi phí cho mỗi đơn vị càng rẻ. Nhưng VinFast đang rơi vào chiều ngược lại: Sản xuất quy mô lớn nhưng lại quá phân mảnh, khiến chi phí phình to."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC058",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 23.36,
+    "text_overlay": "",
+    "visual_summary": "Nhiều người bênh vực rằng VinFast đã tối ưu tốt bằng việc dùng chung khung gầm. Sự thật đúng là họ có dùng chung gầm bệ, thậm chí còn thuê ngoài thiết kế cho một số khung gầm từ đối tác Trung Quốc là LS Auto để giảm chi phí R&D ban đầu. Nhưng trong ngành ô tô, khung gầm chỉ là một nửa câu chuyện. Nỗi đau thực sự nằm ở sự đa dạng hóa thiết kế vỏ ngoài, hay tiếng lóng trong ngành gọi là các Top-hat.",
+    "sentences": [
+      "Nhiều người bênh vực rằng VinFast đã tối ưu tốt bằng việc dùng chung khung gầm. Sự thật đúng là họ có dùng chung gầm bệ, thậm chí còn thuê ngoài thiết kế cho một số khung gầm từ đối tác Trung Quốc là LS Auto để giảm chi phí R&D ban đầu. Nhưng trong ngành ô tô, khung gầm chỉ là một nửa câu chuyện. Nỗi đau thực sự nằm ở sự đa dạng hóa thiết kế vỏ ngoài, hay tiếng lóng trong ngành gọi là các Top-hat."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC059",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 14.7,
+    "text_overlay": "",
+    "visual_summary": "Khi bạn đẻ ra 15 kiểu dáng vỏ xe khác nhau, từ xe cỡ siêu nhỏ đến xe SUV bọc thép, dây chuyền dập và hàn thân vỏ của nhà máy Cát Hải phải liên tục chuyển đổi khuôn dập. Quá trình tháo lắp khuôn này tạo ra một hiện tượng gọi là Thời gian chết.",
+    "sentences": [
+      "Khi bạn đẻ ra 15 kiểu dáng vỏ xe khác nhau, từ xe cỡ siêu nhỏ đến xe SUV bọc thép, dây chuyền dập và hàn thân vỏ của nhà máy Cát Hải phải liên tục chuyển đổi khuôn dập. Quá trình tháo lắp khuôn này tạo ra một hiện tượng gọi là Thời gian chết."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC060",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 31.5,
+    "text_overlay": "",
+    "visual_summary": "Để dễ hình dung, hãy tưởng tượng nhà máy Cát Hải giống như một gian bếp nhà hàng. Nếu bếp chỉ nấu duy nhất món phở với số lượng 10.000 bát mỗi ngày, đầu bếp sẽ làm việc nhắm mắt cũng xong, nguyên liệu luân chuyển liên tục, và chi phí cho mỗi bát phở sẽ giảm xuống mức tối đa. Nhưng nếu cũng gian bếp đó phải nấu cùng lúc 15 món ăn khác nhau: từ phở, bún chả, cho đến bít tết và lẩu bò, thì cứ nấu xong một món, đầu bếp lại phải rửa nồi, đổi dao thớt, và đi tìm gia vị mới. Thời gian đứng chờ rửa nồi đó chính là Thời gian chết.",
+    "sentences": [
+      "Để dễ hình dung, hãy tưởng tượng nhà máy Cát Hải giống như một gian bếp nhà hàng. Nếu bếp chỉ nấu duy nhất món phở với số lượng 10.000 bát mỗi ngày, đầu bếp sẽ làm việc nhắm mắt cũng xong, nguyên liệu luân chuyển liên tục, và chi phí cho mỗi bát phở sẽ giảm xuống mức tối đa. Nhưng nếu cũng gian bếp đó phải nấu cùng lúc 15 món ăn khác nhau: từ phở, bún chả, cho đến bít tết và lẩu bò, thì cứ nấu xong một món, đầu bếp lại phải rửa nồi, đổi dao thớt, và đi tìm gia vị mới. Thời gian đứng chờ rửa nồi đó chính là Thời gian chết."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC061",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 35.96,
+    "text_overlay": "",
+    "visual_summary": "Trong nhà máy ô tô cũng vậy. Máy móc đứng im để thay khuôn, dây chuyền không chạy ra sản phẩm nào, nhưng tiền khấu hao tài sản cố định mỗi tháng vẫn trôi đi, và lương của hàng vạn công nhân vẫn phải trả. Sự phân mảnh vỏ ngoài này vô tình tạo ra một loạt các chi phí ngầm khổng lồ: từ việc phải phình to không gian kho bãi để dự trữ hàng chục loại linh kiện thân vỏ khác nhau, cho đến sự phức tạp đắt đỏ trong khâu quản lý chuỗi cung ứng. Đa dạng hóa để phủ kín thị trường là một chiến lược táo bạo, nhưng đổi lại, nó tạo ra một sức ép cực lớn lên chi phí vận hành và làm xói mòn biên lợi nhuận của hãng.",
+    "sentences": [
+      "Trong nhà máy ô tô cũng vậy. Máy móc đứng im để thay khuôn, dây chuyền không chạy ra sản phẩm nào, nhưng tiền khấu hao tài sản cố định mỗi tháng vẫn trôi đi, và lương của hàng vạn công nhân vẫn phải trả. Sự phân mảnh vỏ ngoài này vô tình tạo ra một loạt các chi phí ngầm khổng lồ: từ việc phải phình to không gian kho bãi để dự trữ hàng chục loại linh kiện thân vỏ khác nhau, cho đến sự phức tạp đắt đỏ trong khâu quản lý chuỗi cung ứng. Đa dạng hóa để phủ kín thị trường là một chiến lược táo bạo, nhưng đổi lại, nó tạo ra một sức ép cực lớn lên chi phí vận hành và làm xói mòn biên lợi nhuận của hãng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC062",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Và Thời gian chết không chỉ xảy ra với máy dập thép. Nó xảy ra cả với đội ngũ kỹ sư phần mềm.",
+    "sentences": [
+      "Và Thời gian chết không chỉ xảy ra với máy dập thép. Nó xảy ra cả với đội ngũ kỹ sư phần mềm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC063",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 38.32,
+    "text_overlay": "",
+    "visual_summary": "Sự phân mảnh này không chỉ dừng lại ở phần cứng, mà nó cắn xé cả nguồn lực phần mềm. Đội ngũ kỹ sư của VinFast phải còng lưng viết mã, thử nghiệm và tối ưu hóa hệ điều hành cùng hệ thống trợ lái thông minh cho hàng loạt cấu hình xe khác nhau cùng một lúc. Nguồn lực R&D bị pha loãng đến mức cực đoan. Việc bảo trì, vá lỗi và cập nhật phần mềm định kỳ cho một dải sản phẩm khổng lồ tạo ra một gánh nặng chi phí vô cùng đắt đỏ. Đó cũng là lý do sâu xa đằng sau những lỗi vặt phần mềm trong thời gian đầu. Nó không đến từ năng lực của kỹ sư, mà là hệ quả tất yếu của việc phải vắt kiệt sức để tối ưu hóa cho quá nhiều mẫu xe.",
+    "sentences": [
+      "Sự phân mảnh này không chỉ dừng lại ở phần cứng, mà nó cắn xé cả nguồn lực phần mềm. Đội ngũ kỹ sư của VinFast phải còng lưng viết mã, thử nghiệm và tối ưu hóa hệ điều hành cùng hệ thống trợ lái thông minh cho hàng loạt cấu hình xe khác nhau cùng một lúc. Nguồn lực R&D bị pha loãng đến mức cực đoan. Việc bảo trì, vá lỗi và cập nhật phần mềm định kỳ cho một dải sản phẩm khổng lồ tạo ra một gánh nặng chi phí vô cùng đắt đỏ. Đó cũng là lý do sâu xa đằng sau những lỗi vặt phần mềm trong thời gian đầu. Nó không đến từ năng lực của kỹ sư, mà là hệ quả tất yếu của việc phải vắt kiệt sức để tối ưu hóa cho quá nhiều mẫu xe."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC064",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 18.64,
+    "text_overlay": "",
+    "visual_summary": "Tuy nhiên, cũng cần phải nhìn nhận công bằng. Biên lợi nhuận gộp sau điều chỉnh của VinFast đã cải thiện đáng kể, từ âm 47,2% ở quý 4 năm 2025 lên âm 22,5% ở quý 1 năm 2026. Xu hướng này cho thấy nhà máy Cát Hải đang dần vận hành hiệu quả hơn khi sản lượng tăng lên. VinFast đang chảy máu, nhưng vết thương đang thu hẹp lại.",
+    "sentences": [
+      "Tuy nhiên, cũng cần phải nhìn nhận công bằng. Biên lợi nhuận gộp sau điều chỉnh của VinFast đã cải thiện đáng kể, từ âm 47,2% ở quý 4 năm 2025 lên âm 22,5% ở quý 1 năm 2026. Xu hướng này cho thấy nhà máy Cát Hải đang dần vận hành hiệu quả hơn khi sản lượng tăng lên. VinFast đang chảy máu, nhưng vết thương đang thu hẹp lại."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC065",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 28.61,
+    "text_overlay": "",
+    "visual_summary": "Dù đang gánh chịu áp lực vận hành nặng nề, chiến lược rải thảm của VinFast đã đạt được mục tiêu cốt lõi: xây dựng bức tường phòng thủ bằng sản phẩm, khóa chặt tệp khách hàng đầu tiên tại Việt Nam, và đặt chân vào những mỏ vàng rộng lớn nhất Châu Á. Nhưng khi những cột mốc đầu tiên đã bị chinh phục, một dấu hỏi lớn lại được đặt ra cho giai đoạn tiếp theo. Liệu khối lượng khổng lồ của 15 mẫu xe này sẽ tiếp tục là vũ khí thống trị, hay sẽ trở thành một bài toán chi phí cần được gỡ bỏ?",
+    "sentences": [
+      "Dù đang gánh chịu áp lực vận hành nặng nề, chiến lược rải thảm của VinFast đã đạt được mục tiêu cốt lõi: xây dựng bức tường phòng thủ bằng sản phẩm, khóa chặt tệp khách hàng đầu tiên tại Việt Nam, và đặt chân vào những mỏ vàng rộng lớn nhất Châu Á. Nhưng khi những cột mốc đầu tiên đã bị chinh phục, một dấu hỏi lớn lại được đặt ra cho giai đoạn tiếp theo. Liệu khối lượng khổng lồ của 15 mẫu xe này sẽ tiếp tục là vũ khí thống trị, hay sẽ trở thành một bài toán chi phí cần được gỡ bỏ?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  }
+]

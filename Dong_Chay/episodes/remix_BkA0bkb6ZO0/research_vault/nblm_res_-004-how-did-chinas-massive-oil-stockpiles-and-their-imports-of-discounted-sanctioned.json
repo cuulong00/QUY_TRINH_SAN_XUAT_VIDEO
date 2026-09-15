@@ -1,0 +1,162 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-07-20T10:56:53.082Z",
+  "session_id": "88c652cf",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/cba3c9ca-ee4f-4f4d-b84a-b204460454e0"
+  },
+  "question": "How did China's massive oil stockpiles and their imports of discounted sanctioned Russian/Iranian oil via shadow fleets cushion the global energy market and prevent a panic-driven oil price surge during the Hormuz closure?",
+  "answer": {
+    "text": "Thoughts\nViệc Trung Quốc sở hữu kho dự trữ dầu thô khổng lồ cùng khả năng duy trì dòng nhập khẩu dầu giá rẻ từ Nga và Iran thông qua các đội tàu bóng đêm đã đóng vai trò như một \"bộ giảm chấn\" cực kỳ quan trọng cho thị trường năng lượng toàn cầu trong suốt thời gian eo biển Hormuz bị đóng cửa:\n1. Cơ chế xả kho dự trữ khổng lồ nhằm tránh bão giá toàn cầu\nQuy mô dự trữ vượt trội: Bước vào giai đoạn khủng hoảng đầu năm 2026, Trung Quốc nắm giữ kho dự trữ thô lớn nhất thế giới, ước tính khoảng 1,4 tỷ đến hơn 1,5 tỷ thùng (tương đương 104 đến 120 ngày nhập khẩu ròng)\n1\n. Nhờ Luật Dự trữ Quốc gia mới ban hành tháng 1/2026, Bắc Kinh đã hợp nhất quản lý kho dự trữ chiến lược (SPR) của chính phủ và kho thương mại của các công ty dầu khí nhà nước thành một hệ thống quản lý thống nhất\n2\n.\nNgăn chặn làn sóng \"tranh mua\" gây hoảng loạn: Khi Eo biển Hormuz bị phong tỏa khiến dòng chảy dầu vùng Vịnh sụp đổ, Trung Quốc đã không tham gia vào làn sóng tranh mua hoảng loạn trên thị trường giao ngay toàn cầu (vốn đã đẩy giá Dated Brent vật chất lên tới 150 USD/thùng)\n3\n.\nCung cấp vùng đệm xả kho 1 triệu thùng/ngày: Thay vào đó, Bắc Kinh cho phép các nhà lọc dầu nội địa rút dầu từ kho dự trữ onshore với tốc độ khoảng 1,0 triệu thùng/ngày để bù đắp sự thiếu hụt\n3\n4\n. Việc giải phóng kho dự trữ này hoạt động như một van xả áp lớn cho thế giới, giảm bớt nhu cầu mua đuổi và tránh việc đẩy giá dầu thế giới lên cao hơn nữa, làm dịu bớt cú sốc lạm phát thảm khốc cho các nền kinh tế phương Tây và mới nổi\n3\n5\n.\n2. Duy trì dòng chảy dầu bị trừng phạt qua đội tàu bóng đêm (Shadow Fleets)\nTận dụng nguồn cung chiết khấu sâu: Trong năm 2025, Trung Quốc đã nhập khẩu ít nhất 2,6 triệu thùng/ngày dầu thô bị trừng phạt (chiếm 22% tổng lượng nhập khẩu), bao gồm 1,38 triệu thùng/ngày từ Iran và hơn 800.000 thùng/ngày từ Nga\n6\n7\n. Trong thời gian diễn ra xung đột, do Iran bị mất hầu hết khách hàng, mức chiết khấu của dầu Iran cho các nhà lọc dầu Trung Quốc đã tăng mạnh lên tới 15 - 20 USD/thùng dưới giá Brent (so với mức chiết khấu 8 - 10 USD trước chiến tranh)\n8\n9\n.\nĐội tàu bóng đêm vượt qua phong tỏa: Khi các hãng vận tải lớn (như Maersk, Hapag-Lloyd) ngừng đi qua Hormuz\n10\n, hàng trăm tàu thuộc đội tàu bóng đêm (shadow fleet) của Iran vẫn tiếp tục vận chuyển dầu thô xuyên qua eo biển nhờ sự bảo đảm an toàn từ lực lượng Iran\n11\n12\n. Các tàu này sử dụng các biện pháp ngụy trang tinh vi như tắt định vị vị trí AIS (đi bóng tối)\n13\n, treo cờ giả\n14\nvà thực hiện chuyển tải mạn-sang-mạn (STS) tại vùng biển Malaysia hoặc Indonesia trước khi đổi tên thương hiệu thành dầu nội địa để đưa về các cảng của Trung Quốc\nTối đa hóa các tuyến ống đất liền: Để giảm bớt rủi ro hàng hải, Trung Quốc cũng tăng cường dòng chảy dầu qua các đường ống dẫn dầu trực tiếp trên bộ tránh hoàn toàn các chokepoint biển, bao gồm các tuyến từ Nga (như đường ống ESPO), Kazakhstan và Myanmar\n19\n20\n.\nBảo vệ biên lợi nhuận của các nhà lọc dầu độc lập (\"Teapot\"): Việc duy trì dòng chảy dầu chiết khấu từ đội tàu bóng đêm đã giúp các nhà máy lọc dầu độc lập tại Sơn Đông (nơi tiêu thụ 90% lượng dầu Iran của Trung Quốc) duy trì biên lọc dầu ổn định mà không cần cạnh tranh các thùng dầu đắt đỏ ở Đại Tây Dương hoặc Tây Phi với các nước châu Á khác\n. Điều này đảm bảo một môi trường vận hành dễ dự đoán hơn cho ngành sản xuất hóa chất, nhựa và nhiên liệu vận tải\n22\n.\nSự kết hợp giữa chính sách tích trữ \"kiểu con kiến\" (ant strategy)\n24\nvà mạng lưới hậu cần song song từ đội tàu bóng đêm đã giúp Trung Quốc cô lập nền kinh tế của mình khỏi cuộc khủng hoảng năng lượng tồi tệ nhất kể từ thập niên 1970\n25\n, đồng thời gián tiếp bảo vệ cấu trúc an ninh năng lượng toàn cầu khỏi một kịch bản sụp đổ hoàn toàn.\n📊 Bạn có muốn tôi phân tích sâu hơn về sự gia tăng đột biến của khối lượng giao dịch qua hệ thống thanh toán xuyên biên giới CIPS bằng Nhân dân tệ của Trung Quốc trong giai đoạn khủng hoảng này để xem Bắc Kinh đã thiết lập hệ thống tài chính năng lượng song song như thế nào không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "The Fractured Energy Axis: Choke Point Dynamics, Shadow Fleet Operations, and the Sovereign Financial Architecture of 2025–2026",
+      "source_text": "The actual physical inventory held within this infrastructure was estimated at approximately 1.4 billion barrels by the US Energy Information Administration (EIA) in December 2025 [cite: 8, 33, 35], while Kpler placed the inventory above 1.5 billion barrels [cite: 8]. This stock level represented a critical reserve equivalent to 104 to 120 days of net imports [cite: 4, 32]. Storage Capacity & Inventory Metrics December 2025 Estimates Q1/Q2 2026 Estimates Policy, Legal & Structural Drivers Total Storage Capacity ~2.0 billion barrels [cite: 8] >2.39 billion barrels [cite: 8] Addition of 271 million barrels of Fujian underground caverns [cite: 8] Actual Physical Inventory 1.40B to 1.50B barrels [cite: 8, 35] 1.20B to 1.24B barrels [cite: 8] Driven by a record net build of 1.1 Mb/d throughout 2025 [cite: 8, 35] Government-Held SPR ~360 million barrels [cite: 8, 35] ~360 million barrels [cite: 8, 35] Managed directly by state reserves administration [cite: 8] Commercial & Refinery Stocks ~1.0 billion barrels [cite: 8, 35] ~840 million barrels [cite: 8, 35] Integrated with state reserves under January 2026 law [cite: 8] Underground Hard-Rock Caverns ~100 million barrels [cite: 8] ~130 million barrels [cite: 8] Five caverns active, including Ningbo Zhejiang completion [cite: 8] Active Pipeline Bypass Build 169 million barrels [cite: 8, 32] Under Construction Built by Sinopec and CNOOC across 11 key installations [cite: 8]"
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "The Fractured Energy Axis: Choke Point Dynamics, Shadow Fleet Operations, and the Sovereign Financial Architecture of 2025–2026",
+      "source_text": "Legal Synthesis and the Blurred Commercial-Strategic Boundary A critical structural shift occurred in January 2026 when Beijing enacted a law that legally and physically synthesized commercial and strategic reserves under a single administrative framework of \"national reserves\" [cite: 8]. This legislation codified the requirement for national oil companies (NOCs) and private refiners to maintain mandatory \"social responsibility reserves\" overseen by the government [cite: 8]. By treating commercial and strategic holdings as a unified resource, the Chinese state exercised direct control over roughly 1.4 billion barrels of crude, enabling rapid, centralized intervention in market pricing [cite: 8, 35]."
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "The Fractured Energy Axis: Choke Point Dynamics, Shadow Fleet Operations, and the Sovereign Financial Architecture of 2025–2026",
+      "source_text": "The Cushioning Mechanism and Global Spot Market Dynamics When shipping transits through the Strait of Hormuz collapsed, China did not participate in the panic buying on the spot market that drove Dated Brent toward $150 per barrel [cite: 4, 12]. Instead, the state authorized domestic refiners to draw down onshore inventories at an estimated rate of 1.0 Mb/d [cite: 4]. This inventory release acted as a major global buffer, absorbing the deficit of Middle Eastern imports and dampening the upward pressure on international prices [cite: 4]."
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "How Much Oil Can China Actually Store? Capacity in 2026 - Project 54",
+      "source_text": "Here is what actually happened, and it is not the story most people tell about strategic reserves. Refinery runs fell far less than imports, to 13.5 million barrels a day in May, down only about 1.9 million year on year. The gap was closed by stock draws of roughly 1 million barrels a day, by run cuts to record lows, by wartime fuel export curbs that cut exports beyond Hong Kong and Macau to 120,000 barrels a day in April, by record domestic output of about 4.5 million barrels a day, by pipeline crude from Russia and Kazakhstan, and by electric vehicle substitution, which Vortexa's Emma Li estimates cut fuel demand by around 1 million barrels a day in the quarter."
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "The Fractured Energy Axis: Choke Point Dynamics, Shadow Fleet Operations, and the Sovereign Financial Architecture of 2025–2026",
+      "source_text": "Without this massive buffer, the loss of nearly 20% of global seaborne crude would have driven global prices significantly higher, compounding the stagflationary shock to Western and emerging economies [cite: 2, 3, 7]. Refinery Runs and Structural Fuel Demand Destruction in Early 2026 Despite the protection of state reserves, China's refining sector experienced a significant operational contraction in early 2026 [cite: 36]. Total seaborne crude imports slumped to their lowest levels in nearly a decade, falling approximately 4.4 Mb/d below the 2025 average in the second quarter [cite: 37]. China's refinery runs hit a four-year low in June 2026 [cite: 36], driven by the high cost of non-sanctioned replacement barrels and localized outages [cite: 10, 36]."
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "China, Iranian oil (and Venezuelan oil) Materia Rinnovabile | Renewable Matter",
+      "source_text": "Ghost barrels Officially, Beijing does not import oil from Iran. Based on the latest data from the General Administration of Customs of China, five countries (Russia, Saudi Arabia, Malaysia, Iraq, and Brazil) accounted for 62% of crude oil imports in 2025. Next are the United Arab Emirates, Oman, Angola, Kuwait and Canada, and an unspecified “others” category accounting for the remaining 14% of imports. Neither Venezuela nor Iran appears on the list. Nevertheless, as reported in a study by Columbia University's Centre on Global Energy Policy, tracking oil tankers reveals significant volumes of crude oil coming from these two countries. According to data from the think tank Kpler, in 2025 China will have imported at least 2.6 million barrels per day of sanctioned crude oil, or 22% of total imports. Of these, 1.38 million barrels per day will come from Iran, 389,000 from Venezuela and at least 800,000 from Russia."
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "Where China Gets Its Oil: Crude Imports in 2025 Reveal Stockpiling and Changing Fortunes of Certain Suppliers, Including Those Sanctioned - Center on Global Energy Policy at Columbia University SIPA | CGEP %",
+      "source_text": "How much sanctioned oil did China import from Iran, Venezuela, and Russia last year? China probably imported at least 2.6 million bpd of sanctioned crudes in 2025, over 22 percent of total imports. This estimate includes 1.38 million bpd from Iran and 389,000 bpd from Venezuela , according to Kpler, and at least 800,000 bpd of oil from Russia. It is difficult to determine exactly how much crude the Russian oil companies sanctioned by the United States—Rosneft, Lukoil, Surgutneftegaz, and Gazprom Neft—shipped to China because there is no publicly available, official data that show Russian exports to China by company. [1] However, Rosneft exports 200,000 bpd to China via the Kazakhstan-China oil pipeline and probably most of the 600,000–700,000 bpd sent to China via the ESPO pipeline spur."
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "Beijing Lost the Iran War It Refused to Fight - House of Saud",
+      "source_text": "The discount, however, has widened. Traders told Asia Times that Iranian crude is now selling at $15 to $20 below Brent, up from the pre-war discount of $8 to $10. This is not because China has more leverage — it is because Iran has fewer customers. With the Hormuz blockade making Saudi, Emirati, Kuwaiti, and Iraqi crude unavailable to most buyers, Iran's crude is competing for the same Chinese refining capacity against Russian Urals crude, which carries its own sanctions discount. China saves money per barrel, but the total volume of Gulf crude available to Chinese refineries has collapsed."
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "Beijing Lost the Iran War It Refused to Fight - House of Saud",
+      "source_text": "The discount, however, has widened. Traders told Asia Times that Iranian crude is now selling at $15 to $20 below Brent, up from the pre-war discount of $8 to $10. This is not because China has more leverage — it is because Iran has fewer customers. With the Hormuz blockade making Saudi, Emirati, Kuwaiti, and Iraqi crude unavailable to most buyers, Iran's crude is competing for the same Chinese refining capacity against Russian Urals crude, which carries its own sanctions discount. China saves money per barrel, but the total volume of Gulf crude available to Chinese refineries has collapsed."
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "2026 Strait of Hormuz crisis - Wikipedia",
+      "source_text": "Impacts Passage through the strait February to April 2026 Strait of Hormuz transits [252] Late on 28 February, outgoing traffic through the Strait of Hormuz was heavy, while incoming traffic was light. [253] At least three tankers were struck near the strait, including one off Oman that was set ablaze. [8] [254] At least 17 oil tankers continued travelling through the strait. [255] On 1 and 2 March, no ships appeared in the strait. [140] Major container shipping companies, including Maersk , CMA CGM , and Hapag-Lloyd , suspended transits through the strait and related routes such as the Red Sea . [256] [257] Houthi-controlled Yemen announced on 28 February that it would resume attacks on Israel and commercial ships in the Red Sea, [258] forcing Suez Canal traffic to be rerouted around Africa's Cape of Good Hope . This added weeks to transit times and increased shipping costs. The crisis disrupted global energy supplies and stranded tankers in the Persian Gulf. [259]"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "The shadow fleet is undermining the maritime order more brazenly than ever",
+      "source_text": "Another development in shadow-vessel traffic unfolded after Iran effectively closed the Strait of Hormuz in the first week of March 2026. That meant that the tankers that transport oil, gas, and other commodities to international destinations could no longer leave or enter the Gulf. The week before the US-Israel attacks began, 38 percent of global crude oil, 29 percent of liquefied petroleum gas, 19 percent of liquified natural gas (LNG), and a variety of other cargoes passed through the Strait of Hormuz. 48 “Hormuz Shipping Disruptions Raise Risks for Energy, Fertilizers and Vulnerable Economies,” UN Trade and Development (UNCTAD), March 10, 2026, https://unctad.org/news/hormuz-shipping-disruptions-raise-risks-energy-fertilizers-and-vulnerable-economies That weekly flow translates to an average of 129 ships per day. 49 “Hormuz Shipping Disruptions,” UNCTAD. The following week, only between three and six ships transited the strait each day, primarily shadow vessels transporting Iranian oil. 50 “Hormuz Shipping Disruptions,” UNCTAD; and Lori Ann LaRocco, “Iranian Shadow Fleet and Greek Affiliated Ships Lead Strait of Hormuz Transits,” gCaptain, March 6, 2026, https://gcaptain.com/iranian-shadow-fleet-and-greek-affiliated-ships-lead-strait-of-hormuz-transits/ Presumably they had received assurances that Iranian forces would not target them. The war against Iran had thus become a lethal risk for legally sailing vessels but an advantage for Iranian shadow vessels, another development undermining the maritime order."
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "The shadow fleet is undermining the maritime order more brazenly than ever",
+      "source_text": "Another development in shadow-vessel traffic unfolded after Iran effectively closed the Strait of Hormuz in the first week of March 2026. That meant that the tankers that transport oil, gas, and other commodities to international destinations could no longer leave or enter the Gulf. The week before the US-Israel attacks began, 38 percent of global crude oil, 29 percent of liquefied petroleum gas, 19 percent of liquified natural gas (LNG), and a variety of other cargoes passed through the Strait of Hormuz. 48 “Hormuz Shipping Disruptions Raise Risks for Energy, Fertilizers and Vulnerable Economies,” UN Trade and Development (UNCTAD), March 10, 2026, https://unctad.org/news/hormuz-shipping-disruptions-raise-risks-energy-fertilizers-and-vulnerable-economies That weekly flow translates to an average of 129 ships per day. 49 “Hormuz Shipping Disruptions,” UNCTAD. The following week, only between three and six ships transited the strait each day, primarily shadow vessels transporting Iranian oil. 50 “Hormuz Shipping Disruptions,” UNCTAD; and Lori Ann LaRocco, “Iranian Shadow Fleet and Greek Affiliated Ships Lead Strait of Hormuz Transits,” gCaptain, March 6, 2026, https://gcaptain.com/iranian-shadow-fleet-and-greek-affiliated-ships-lead-strait-of-hormuz-transits/ Presumably they had received assurances that Iranian forces would not target them. The war against Iran had thus become a lethal risk for legally sailing vessels but an advantage for Iranian shadow vessels, another development undermining the maritime order."
+    },
+    {
+      "marker": "[13]",
+      "number": 13,
+      "source_name": "Shadow Tanker Fleet 2026: Size, Ships & Sanctions Explained - Shipfinex.com",
+      "source_text": "AIS Manipulation The Automatic Identification System is a mandatory vessel tracking transponder for commercial ships above certain tonnage. Shadow fleet vessels routinely disable their AIS transponders, a practice called 'going dark,' during loading and discharging at sanctioned ports or during ship-to-ship transfers. Some vessels broadcast false position data while actually loading at a sanctioned terminal, creating a paper record inconsistent with their actual movements. Satellite AIS monitoring, used by intelligence firms such as Windward and Kpler, can identify these gaps and inconsistencies."
+    },
+    {
+      "marker": "[14]",
+      "number": 14,
+      "source_name": "The Blockade Goes Global: US Seizes Two Iranian Dark-Fleet Tankers in the Indo-Pacific",
+      "source_text": "The Tifani and Majestic X: Anatomy of Two Seizures The Tifani (IMO 9273337) is a stateless crude oil tanker capable of carrying roughly two million barrels. It loaded at Kharg Island on April 6 — a week before the blockade began — and was intercepted in the Bay of Bengal on April 21. At prevailing Brent prices of $103–106 per barrel on April 23–24, the cargo’s value was approximately $206–212 million. A single ship, a single load, a quarter-billion-dollar loss. View Full Dashboard → The Majestic X has a longer paper trail. Formerly named Phonix, it was sanctioned by the Treasury in 2024 specifically for Iranian crude smuggling. It was flying a Guyana flag that Georgetown confirmed belonged to no vessel in its registry — a textbook false-flag operation of the kind that sustains the dark fleet’s operating model. It was boarded on April 23 in the Indian Ocean between Sri Lanka and Indonesia, also bound for Zhoushan. Both ships were heading to the same Chinese port complex, the hub of Shandong province’s independent refineries — the “teapots” that have processed roughly 90 percent of China’s Iranian crude intake."
+    },
+    {
+      "marker": "[15]",
+      "number": 15,
+      "source_name": "The Blockade Goes Global: US Seizes Two Iranian Dark-Fleet Tankers in the Indo-Pacific",
+      "source_text": "Iran’s shadow tanker network was built systematically after Washington reimposed maximum-pressure sanctions in May 2019. Over six years it evolved into a routinised parallel supply chain: approximately 503 vessels, 62 percent falsely flagged, 87 percent already on the OFAC Specially Designated Nationals list, with ownership chains running through Marshall Islands, Hong Kong, mainland China, and Panama. Standard evasion methods include ship-to-ship transfers at sea — Malaysia’s Eastern Outer Port Limit and the Singapore Strait were key nodes — along with falsified documentation, cargo rebranding, and GNSS spoofing. The Tifani had appeared at the Malaysian EOPL for STS transfers before its final leg toward Zhoushan."
+    },
+    {
+      "marker": "[19]",
+      "number": 19,
+      "source_name": "Shadow Tanker Fleet 2026: Size, Ships & Sanctions Explained - Shipfinex.com",
+      "source_text": "The Pacific ESPO route from Kozmino exports Russian crude directly to Chinese refineries without passing through any Western-monitored chokepoint, making it the most difficult export corridor to disrupt through naval means. ESPO crude accounted for a significant portion of December 2025 Russian shadow fleet exports to China documented by Ukraine's intelligence services. The Gulf of Oman to China route carries Iranian crude primarily to Shandong province independent refineries. The Middle East Institute noted in February 2026 that Iranian exports have remained largely untouched by enforcement action, with the US Navy focusing resources primarily on the Venezuelan and, to a lesser extent, Russian fleets."
+    },
+    {
+      "marker": "[20]",
+      "number": 20,
+      "source_name": "Who Really Won the Hormuz Crisis? - Enerdealers",
+      "source_text": "Who Really Won the Hormuz Crisis? - Enerdealers"
+    },
+    {
+      "marker": "[21]",
+      "number": 21,
+      "source_name": "The Fractured Energy Axis: Choke Point Dynamics, Shadow Fleet Operations, and the Sovereign Financial Architecture of 2025–2026",
+      "source_text": "Shandong's Independent \"Teapot\" Refineries The primary physical sink for this rebranded, heavily discounted oil is the independent refining hub of Shandong province, where private \"teapot\" refineries process roughly 90% of China's Iranian crude intake [cite: 41, 44]. Because these private refiners operate outside the state planning system and have limited access to official import quotas, they rely on the steep $5 to $15 per barrel discount offered on shadow crude [cite: 41, 45]. This pricing advantage allows them to maintain profitability even when global crude costs rise [cite: 32, 45]. However, when the US Treasury intensified secondary sanctions enforcement in early 2026 and began seizing shadow tankers (such as the Marinera ) [cite: 38], Shandong Port Group banned sanctioned tankers from docking [cite: 44], forcing teapots to cut utilization to their lowest rates since 2017 [cite: 36]."
+    },
+    {
+      "marker": "[22]",
+      "number": 22,
+      "source_name": "Who Really Won the Hormuz Crisis? - Enerdealers",
+      "source_text": "From a trading perspective, China's position translated into relative stability in crack spreads and import margins. While European and Indian refiners were forced to chase higher-priced Atlantic and African barrels, Chinese state-owned traders could deploy SPR releases and existing long-term contracts to maintain steady feedstock costs. The result was a more predictable operating environment for domestic chemicals, plastics and transport fuels producers—key inputs for the broader manufacturing base."
+    },
+    {
+      "marker": "[24]",
+      "number": 24,
+      "source_name": "China, Iranian oil (and Venezuelan oil) Materia Rinnovabile | Renewable Matter",
+      "source_text": "In summary, Kpler calculates that 17% of Chinese oil imports in 2025 came from Iran and Venezuela, which respectively send (or rather sent) 87% and 55% of their oil exports to China. The ant strategy In short, it appears that the People's Republic is now in a rather uncomfortable situation in terms of its energy security. Were it not for the fact that, pragmatically and cynically, the Chinese government had already been gearing up for a crisis in its established oil routes for some time. With the ant strategy: building up reserves."
+    },
+    {
+      "marker": "[25]",
+      "number": 25,
+      "source_name": "2026 Strait of Hormuz crisis - Wikipedia",
+      "source_text": "Soon after the start of the conflict, tanker traffic dropped to almost nothing. On 27 March, the IRGC announced that the strait was closed to any vessel going \"to and from\" the ports of the US, Israel, and their allies. [3] The International Maritime Organization reported on 21 April that about 20,000 mariners and 2,000 ships were stranded in the Persian Gulf due to the closure. [4] [5] Amid fears of prolonged supply shortages, oil prices rose faster than during any other conflict in recent history; [6] Brent crude oil prices surpassed US$100 per barrel on 8 March for the first time in four years, rising to US$126 per barrel at their peak. [7] [8] [9] [10] The largest-ever monthly increase in oil prices occurred in March 2026. [11] The closure of the strait became the largest disruption to world energy supply since the 1970s energy crisis [12] as well as the largest in the history of the world oil market. [13] Other commodity markets to suffer supply disruption and price increases due to the crisis include aluminum, [14] fertilizer, [15] and helium. [16] [17]"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 21,
+    "source_names": [
+      "The Fractured Energy Axis: Choke Point Dynamics, Shadow Fleet Operations, and the Sovereign Financial Architecture of 2025–2026",
+      "How Much Oil Can China Actually Store? Capacity in 2026 - Project 54",
+      "China, Iranian oil (and Venezuelan oil) Materia Rinnovabile | Renewable Matter",
+      "Where China Gets Its Oil: Crude Imports in 2025 Reveal Stockpiling and Changing Fortunes of Certain Suppliers, Including Those Sanctioned - Center on Global Energy Policy at Columbia University SIPA | CGEP %",
+      "Beijing Lost the Iran War It Refused to Fight - House of Saud",
+      "2026 Strait of Hormuz crisis - Wikipedia",
+      "The shadow fleet is undermining the maritime order more brazenly than ever",
+      "Shadow Tanker Fleet 2026: Size, Ships & Sanctions Explained - Shipfinex.com",
+      "The Blockade Goes Global: US Seizes Two Iranian Dark-Fleet Tankers in the Indo-Pacific",
+      "Who Really Won the Hormuz Crisis? - Enerdealers"
+    ]
+  }
+}

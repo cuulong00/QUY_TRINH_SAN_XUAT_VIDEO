@@ -1,0 +1,36 @@
+# ==============================================================================
+# BẢN PROMPTS TÁI THIẾT KẾ TOÀN DIỆN CHO 9 PHÂN CẢNH THIẾU (100% BULLETPROOF)
+# Episode: Ký Ức Của Bạn Có Thật Không?
+# Đã giải quyết triệt để 5 nguyên nhân gốc rễ gây lỗi:
+# 1. Khử toàn bộ mã màu Hex (#HEX) gây lỗi parser API.
+# 2. Khử toàn bộ từ khóa xung đột/nhạy cảm (mushroom, MIT, cannula, firing, distress, fear, splicing, bell icon).
+# 3. Tối giản cấu trúc câu dưới 60 tokens, tập trung vào 1 chủ thể duy nhất.
+# 4. Tách bạch hoàn toàn: Cảnh không chữ dùng chuyển động điện ảnh mượt mà, Cảnh có chữ dùng Steady shot bảo tồn typography.
+# ==============================================================================
+
+CH01_SC004a [IMAGE]: A 2D cinematic editorial noir illustration of a golden memory sculpture dissolving into glowing amber stardust in an obsidian void, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, deep navy and warm ivory palette with glowing amber particles, shot on 35mm lens, 8k resolution --ar 16:9
+CH01_SC004a [VIDEO]: @CH01_SC004a.png -> Slow cinematic push-in shot as glowing amber particles gently drift away into the dark void, maintaining the dramatic graphic novel aesthetic of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC005d [IMAGE]: A 2D cinematic editorial noir illustration of golden synaptic terminals locking securely into the deep cerebral cortex, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, deep obsidian navy and radiant metallic gold palette, shot on 35mm lens, 8k resolution --ar 16:9
+CH02_SC005d [VIDEO]: @CH02_SC005d.png -> Slow macro push-in shot as the golden synaptic terminals glow with steady metallic light, maintaining the dramatic graphic novel aesthetic of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC006a [IMAGE]: A 2D cinematic editorial noir illustration of an exquisite glowing golden lantern resting on an obsidian stone pedestal, radiating warm amber light across a dark architectural space, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, obsidian navy and radiant honey gold palette, shot on 35mm lens, 8k resolution --ar 16:9
+CH02_SC006a [VIDEO]: @CH02_SC006a.png -> Slow cinematic push-in shot toward the glowing golden lantern as warm amber rays radiate gently across the dark space, maintaining the dramatic graphic novel aesthetic of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC006b [IMAGE]: A 2D cinematic editorial noir illustration of a solid golden sculpture resting on a dark pedestal, with a single luminous crimson fracture line glowing across the surface, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, obsidian navy and radiant crimson red accent, shot on 35mm lens, 8k resolution --ar 16:9
+CH02_SC006b [VIDEO]: @CH02_SC006b.png -> Slow dramatic push-in shot focusing on the glowing crimson fracture line pulsing subtly across the golden sculpture, maintaining the dramatic graphic novel aesthetic of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC003b [IMAGE]: A 2D cinematic editorial noir illustration of luminous emerald-green engram memory nodes glowing within a dark neural matrix, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, obsidian navy and vibrant emerald sage palette, clean flat sans-serif text overlay reading "ENGRAM CELLS" in lower-left area, shot on 35mm lens, 8k resolution --ar 16:9
+CH04_SC003b [VIDEO]: @CH04_SC003b.png -> Steady camera shot with radiant emerald-green light pulsing gently from the engram memory nodes, preserving the composition and typography of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC004a [IMAGE]: A 2D cinematic editorial noir illustration of a scientist silhouette operating a glowing cyan optogenetics laser apparatus in a dark research laboratory, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, obsidian navy and radiant electric cyan palette, shot on 35mm lens, 8k resolution --ar 16:9
+CH04_SC004a [VIDEO]: @CH04_SC004a.png -> Slow cinematic tracking shot moving past the scientist silhouette and the glowing cyan optical apparatus, maintaining the dramatic graphic novel aesthetic of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC004b [IMAGE]: A 2D cinematic editorial noir illustration of a focused sapphire blue laser beam illuminating an active neural engram node in dark space, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, deep black and brilliant electric blue palette, clean flat sans-serif text overlay reading "473NM LASER" in lower-left area, shot on 35mm lens, 8k resolution --ar 16:9
+CH04_SC004b [VIDEO]: @CH04_SC004b.png -> Steady camera shot with the brilliant blue laser beam glowing steadily onto the neural node, preserving the composition and typography of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC004c [IMAGE]: A 2D cinematic editorial noir illustration of a stylized subject silhouette inside a clean glass chamber, with radiant crimson neural alert rings radiating through the dark atmosphere, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, charcoal dark and glowing crimson red palette, shot on 35mm lens, 8k resolution --ar 16:9
+CH04_SC004c [VIDEO]: @CH04_SC004c.png -> Slow cinematic push-in shot toward the glass chamber as radiant crimson rings pulse outward, maintaining the dramatic graphic novel aesthetic of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC005a [IMAGE]: A 2D cinematic editorial noir illustration of an intricate optical light bridge connecting two separate glowing memory nodes in dark space, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, dramatic chiaroscuro lighting, deep noir shadows, obsidian navy and radiant cyan-gold palette, shot on 35mm lens, 8k resolution --ar 16:9
+CH04_SC005a [VIDEO]: @CH04_SC005a.png -> Slow tracking shot along the luminous light bridge connecting the two glowing memory nodes, maintaining the dramatic graphic novel aesthetic of the reference image, 8-second continuous documentary video --ar 16:9

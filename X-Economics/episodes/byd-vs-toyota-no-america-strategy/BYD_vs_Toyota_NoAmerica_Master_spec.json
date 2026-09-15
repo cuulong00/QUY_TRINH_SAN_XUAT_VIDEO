@@ -1,0 +1,2479 @@
+{
+  "name": "BYD_vs_Toyota_NoAmerica_Master",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "ratio": "16:9",
+  "tracks": [
+    {
+      "type": "video",
+      "name": "video",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC001.mp4",
+          "start": 0.0,
+          "duration": 1.6341,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC002.mp4",
+          "start": 1.6341,
+          "duration": 2.3885,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC003.mp4",
+          "start": 4.0226,
+          "duration": 3.3614,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC004.mp4",
+          "start": 7.384,
+          "duration": 4.5093,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC005.mp4",
+          "start": 11.8933,
+          "duration": 4.9495,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC006.mp4",
+          "start": 16.8428,
+          "duration": 4.1133,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC007.mp4",
+          "start": 20.9561,
+          "duration": 5.955,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC008.mp4",
+          "start": 26.9111,
+          "duration": 4.8738,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC009.mp4",
+          "start": 31.7849,
+          "duration": 4.4618,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC010.mp4",
+          "start": 36.2467,
+          "duration": 3.4435,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC011.mp4",
+          "start": 39.6902,
+          "duration": 3.7027,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC012.mp4",
+          "start": 43.3929,
+          "duration": 3.5027,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC013.mp4",
+          "start": 46.8956,
+          "duration": 5.697,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC014.mp4",
+          "start": 52.5926,
+          "duration": 4.2175,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC015.mp4",
+          "start": 56.8101,
+          "duration": 4.2414,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC016.mp4",
+          "start": 61.0515,
+          "duration": 6.1052,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC017.mp4",
+          "start": 67.1567,
+          "duration": 2.2682,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC018.mp4",
+          "start": 69.4249,
+          "duration": 4.7165,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC019.mp4",
+          "start": 74.1414,
+          "duration": 3.6145,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC020.mp4",
+          "start": 77.7559,
+          "duration": 4.2833,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC021.mp4",
+          "start": 82.0392,
+          "duration": 4.6208,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC022.mp4",
+          "start": 86.66,
+          "duration": 3.4563,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC023.mp4",
+          "start": 90.1163,
+          "duration": 5.7023,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC024.mp4",
+          "start": 95.8186,
+          "duration": 5.4619,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC025.mp4",
+          "start": 101.2805,
+          "duration": 4.9809,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC026.mp4",
+          "start": 106.2614,
+          "duration": 4.495,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC027.mp4",
+          "start": 110.7563,
+          "duration": 5.6279,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC028.mp4",
+          "start": 116.3842,
+          "duration": 9.2075,
+          "sourceStart": 0.0,
+          "speed": 0.8634,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC029.mp4",
+          "start": 125.5917,
+          "duration": 6.6716,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC030.mp4",
+          "start": 132.2633,
+          "duration": 9.1811,
+          "sourceStart": 0.0,
+          "speed": 0.8659,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC031.mp4",
+          "start": 141.4444,
+          "duration": 3.7712,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC032.mp4",
+          "start": 145.2156,
+          "duration": 2.7173,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC033.mp4",
+          "start": 147.9329,
+          "duration": 3.5536,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH01_SC034.mp4",
+          "start": 151.4865,
+          "duration": 8.4835,
+          "sourceStart": 0.0,
+          "speed": 0.9371,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC001.mp4",
+          "start": 159.97,
+          "duration": 9.7065,
+          "sourceStart": 0.0,
+          "speed": 0.819,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC002.mp4",
+          "start": 169.6765,
+          "duration": 1.6571,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC003.mp4",
+          "start": 171.3337,
+          "duration": 8.9342,
+          "sourceStart": 0.0,
+          "speed": 0.8898,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC004.mp4",
+          "start": 180.2678,
+          "duration": 2.6114,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC005.mp4",
+          "start": 182.8792,
+          "duration": 5.9773,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC006.mp4",
+          "start": 188.8565,
+          "duration": 7.2006,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC007.mp4",
+          "start": 196.0571,
+          "duration": 2.966,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC008.mp4",
+          "start": 199.0232,
+          "duration": 1.6902,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC009.mp4",
+          "start": 200.7134,
+          "duration": 5.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC010.mp4",
+          "start": 205.9935,
+          "duration": 3.9617,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC011.mp4",
+          "start": 209.9552,
+          "duration": 5.772,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC012.mp4",
+          "start": 215.7272,
+          "duration": 6.846,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC013.mp4",
+          "start": 222.5732,
+          "duration": 4.1065,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC014.mp4",
+          "start": 226.6797,
+          "duration": 3.6359,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC015.mp4",
+          "start": 230.3156,
+          "duration": 5.0747,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC016.mp4",
+          "start": 235.3902,
+          "duration": 2.956,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC017.mp4",
+          "start": 238.3462,
+          "duration": 5.2873,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC018.mp4",
+          "start": 243.6335,
+          "duration": 3.768,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC019.mp4",
+          "start": 247.4016,
+          "duration": 4.7104,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC020.mp4",
+          "start": 252.112,
+          "duration": 3.7728,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC021.mp4",
+          "start": 255.8847,
+          "duration": 3.4648,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC022.mp4",
+          "start": 259.3496,
+          "duration": 6.4534,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC023.mp4",
+          "start": 265.803,
+          "duration": 4.3498,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC024.mp4",
+          "start": 270.1527,
+          "duration": 4.1541,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC025.mp4",
+          "start": 274.3069,
+          "duration": 5.107,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC026.mp4",
+          "start": 279.4139,
+          "duration": 6.2676,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC027.mp4",
+          "start": 285.6815,
+          "duration": 3.75,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC028.mp4",
+          "start": 289.4316,
+          "duration": 8.5074,
+          "sourceStart": 0.0,
+          "speed": 0.9345,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC029.mp4",
+          "start": 297.939,
+          "duration": 5.1198,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC030.mp4",
+          "start": 303.0588,
+          "duration": 3.7143,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC031.mp4",
+          "start": 306.7731,
+          "duration": 7.2978,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC032.mp4",
+          "start": 314.0709,
+          "duration": 4.9932,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC033.mp4",
+          "start": 319.0641,
+          "duration": 4.6447,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC034.mp4",
+          "start": 323.7088,
+          "duration": 5.7258,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC035.mp4",
+          "start": 329.4346,
+          "duration": 6.1499,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC036.mp4",
+          "start": 335.5845,
+          "duration": 8.0615,
+          "sourceStart": 0.0,
+          "speed": 0.9862,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC037.mp4",
+          "start": 343.6461,
+          "duration": 5.3773,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC038.mp4",
+          "start": 349.0234,
+          "duration": 4.225,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC039.mp4",
+          "start": 353.2484,
+          "duration": 1.8649,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC040.mp4",
+          "start": 355.1133,
+          "duration": 3.6653,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC041.mp4",
+          "start": 358.7786,
+          "duration": 3.0462,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC042.mp4",
+          "start": 361.8247,
+          "duration": 4.8901,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC043.mp4",
+          "start": 366.7149,
+          "duration": 5.8152,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC044.mp4",
+          "start": 372.53,
+          "duration": 4.2053,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC045.mp4",
+          "start": 376.7353,
+          "duration": 5.4741,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC046.mp4",
+          "start": 382.2094,
+          "duration": 5.9345,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH02_SC047.mp4",
+          "start": 388.144,
+          "duration": 6.666,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC001.mp4",
+          "start": 394.81,
+          "duration": 6.5841,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC002.mp4",
+          "start": 401.3941,
+          "duration": 7.0877,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC003.mp4",
+          "start": 408.4818,
+          "duration": 1.9268,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC004.mp4",
+          "start": 410.4086,
+          "duration": 4.6554,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC005.mp4",
+          "start": 415.064,
+          "duration": 2.9495,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC006.mp4",
+          "start": 418.0135,
+          "duration": 4.4231,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC007.mp4",
+          "start": 422.4366,
+          "duration": 5.9925,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC008.mp4",
+          "start": 428.4291,
+          "duration": 3.7942,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC009.mp4",
+          "start": 432.2233,
+          "duration": 4.5334,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC010.mp4",
+          "start": 436.7567,
+          "duration": 4.0796,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC011.mp4",
+          "start": 440.8362,
+          "duration": 4.7466,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC012.mp4",
+          "start": 445.5828,
+          "duration": 4.7611,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC013.mp4",
+          "start": 450.3439,
+          "duration": 4.4333,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC014.mp4",
+          "start": 454.7772,
+          "duration": 3.4089,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC015.mp4",
+          "start": 458.186,
+          "duration": 4.068,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC016.mp4",
+          "start": 462.254,
+          "duration": 4.0719,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC017.mp4",
+          "start": 466.326,
+          "duration": 7.3975,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC018.mp4",
+          "start": 473.7234,
+          "duration": 5.9577,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC019.mp4",
+          "start": 479.6811,
+          "duration": 7.2184,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC020.mp4",
+          "start": 486.8995,
+          "duration": 6.0099,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC021.mp4",
+          "start": 492.9094,
+          "duration": 2.7478,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC022.mp4",
+          "start": 495.6572,
+          "duration": 5.1333,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC023.mp4",
+          "start": 500.7905,
+          "duration": 5.4406,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC024.mp4",
+          "start": 506.2311,
+          "duration": 2.7543,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC025.mp4",
+          "start": 508.9854,
+          "duration": 3.5507,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC026.mp4",
+          "start": 512.5361,
+          "duration": 6.744,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC027.mp4",
+          "start": 519.2802,
+          "duration": 6.7656,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC028.mp4",
+          "start": 526.0458,
+          "duration": 4.5564,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC029.mp4",
+          "start": 530.6022,
+          "duration": 4.0749,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC030.mp4",
+          "start": 534.6771,
+          "duration": 4.9791,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC031.mp4",
+          "start": 539.6562,
+          "duration": 2.4935,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC032.mp4",
+          "start": 542.1497,
+          "duration": 4.0618,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC033.mp4",
+          "start": 546.2115,
+          "duration": 8.5177,
+          "sourceStart": 0.0,
+          "speed": 0.9333,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC034.mp4",
+          "start": 554.7292,
+          "duration": 4.8375,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC035.mp4",
+          "start": 559.5668,
+          "duration": 4.9141,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC036.mp4",
+          "start": 564.4809,
+          "duration": 6.3719,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC037.mp4",
+          "start": 570.8528,
+          "duration": 5.6816,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH03_SC038.mp4",
+          "start": 576.5344,
+          "duration": 9.8056,
+          "sourceStart": 0.0,
+          "speed": 0.8108,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC001.mp4",
+          "start": 586.34,
+          "duration": 7.6677,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC002.mp4",
+          "start": 594.0077,
+          "duration": 4.2287,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC003.mp4",
+          "start": 598.2363,
+          "duration": 3.6511,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC004.mp4",
+          "start": 601.8874,
+          "duration": 4.3765,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC005.mp4",
+          "start": 606.2639,
+          "duration": 2.8409,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC006.mp4",
+          "start": 609.1048,
+          "duration": 8.1121,
+          "sourceStart": 0.0,
+          "speed": 0.98,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC007.mp4",
+          "start": 617.2169,
+          "duration": 5.8053,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC008.mp4",
+          "start": 623.0222,
+          "duration": 4.0695,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC009.mp4",
+          "start": 627.0917,
+          "duration": 1.5603,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC010.mp4",
+          "start": 628.652,
+          "duration": 3.329,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC011.mp4",
+          "start": 631.981,
+          "duration": 4.8191,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC012.mp4",
+          "start": 636.8001,
+          "duration": 6.4078,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC013.mp4",
+          "start": 643.2079,
+          "duration": 2.1692,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC014.mp4",
+          "start": 645.3772,
+          "duration": 9.6115,
+          "sourceStart": 0.0,
+          "speed": 0.8271,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC015.mp4",
+          "start": 654.9886,
+          "duration": 2.0508,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC016.mp4",
+          "start": 657.0394,
+          "duration": 7.5903,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC017.mp4",
+          "start": 664.6297,
+          "duration": 2.6188,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC018.mp4",
+          "start": 667.2485,
+          "duration": 4.7174,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC019.mp4",
+          "start": 671.9659,
+          "duration": 5.1462,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC020.mp4",
+          "start": 677.1121,
+          "duration": 8.4074,
+          "sourceStart": 0.0,
+          "speed": 0.9456,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC021.mp4",
+          "start": 685.5195,
+          "duration": 2.4594,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC022.mp4",
+          "start": 687.979,
+          "duration": 6.716,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC023.mp4",
+          "start": 694.695,
+          "duration": 7.3425,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC024.mp4",
+          "start": 702.0375,
+          "duration": 3.4801,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC025.mp4",
+          "start": 705.5176,
+          "duration": 8.6177,
+          "sourceStart": 0.0,
+          "speed": 0.9225,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC026.mp4",
+          "start": 714.1353,
+          "duration": 3.012,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC027.mp4",
+          "start": 717.1473,
+          "duration": 5.8518,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC028.mp4",
+          "start": 722.9991,
+          "duration": 7.3793,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC029.mp4",
+          "start": 730.3784,
+          "duration": 8.7205,
+          "sourceStart": 0.0,
+          "speed": 0.9116,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC030.mp4",
+          "start": 739.099,
+          "duration": 6.4405,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC031.mp4",
+          "start": 745.5395,
+          "duration": 5.3493,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC032.mp4",
+          "start": 750.8888,
+          "duration": 3.5736,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC033.mp4",
+          "start": 754.4624,
+          "duration": 3.7025,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC034.mp4",
+          "start": 758.1649,
+          "duration": 8.8308,
+          "sourceStart": 0.0,
+          "speed": 0.9003,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC035.mp4",
+          "start": 766.9957,
+          "duration": 5.883,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC036.mp4",
+          "start": 772.8788,
+          "duration": 4.5266,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC037.mp4",
+          "start": 777.4054,
+          "duration": 4.4518,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC038.mp4",
+          "start": 781.8571,
+          "duration": 4.1831,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC039.mp4",
+          "start": 786.0402,
+          "duration": 6.8616,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC040.mp4",
+          "start": 792.9018,
+          "duration": 4.2885,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC041.mp4",
+          "start": 797.1903,
+          "duration": 3.9378,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC042.mp4",
+          "start": 801.1281,
+          "duration": 9.84,
+          "sourceStart": 0.0,
+          "speed": 0.8079,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC043.mp4",
+          "start": 810.9681,
+          "duration": 5.212,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC044.mp4",
+          "start": 816.1801,
+          "duration": 5.8836,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC045.mp4",
+          "start": 822.0637,
+          "duration": 5.1462,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC046.mp4",
+          "start": 827.2099,
+          "duration": 5.589,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH04_SC047.mp4",
+          "start": 832.7989,
+          "duration": 7.5611,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC001.mp4",
+          "start": 840.36,
+          "duration": 6.4256,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC002.mp4",
+          "start": 846.7856,
+          "duration": 4.301,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC003.mp4",
+          "start": 851.0867,
+          "duration": 6.3221,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC004.mp4",
+          "start": 857.4088,
+          "duration": 4.063,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC005.mp4",
+          "start": 861.4717,
+          "duration": 6.2305,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC006.mp4",
+          "start": 867.7022,
+          "duration": 4.0933,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC007.mp4",
+          "start": 871.7956,
+          "duration": 7.4391,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC008.mp4",
+          "start": 879.2347,
+          "duration": 4.3404,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC009.mp4",
+          "start": 883.5751,
+          "duration": 4.6515,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC010.mp4",
+          "start": 888.2267,
+          "duration": 1.8049,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC011.mp4",
+          "start": 890.0315,
+          "duration": 5.1162,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC012.mp4",
+          "start": 895.1477,
+          "duration": 5.8826,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC013.mp4",
+          "start": 901.0303,
+          "duration": 3.7615,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC014.mp4",
+          "start": 904.7919,
+          "duration": 2.2814,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC015.mp4",
+          "start": 907.0733,
+          "duration": 2.9955,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC016.mp4",
+          "start": 910.0688,
+          "duration": 6.9405,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC017.mp4",
+          "start": 917.0093,
+          "duration": 1.9418,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC018.mp4",
+          "start": 918.9511,
+          "duration": 4.9149,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC019.mp4",
+          "start": 923.866,
+          "duration": 2.4209,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC020.mp4",
+          "start": 926.287,
+          "duration": 8.6377,
+          "sourceStart": 0.0,
+          "speed": 0.9204,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC021.mp4",
+          "start": 934.9246,
+          "duration": 2.5549,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC022.mp4",
+          "start": 937.4795,
+          "duration": 9.5994,
+          "sourceStart": 0.0,
+          "speed": 0.8282,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC023.mp4",
+          "start": 947.0789,
+          "duration": 2.7644,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC024.mp4",
+          "start": 949.8433,
+          "duration": 3.405,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC025.mp4",
+          "start": 953.2482,
+          "duration": 4.2204,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC026.mp4",
+          "start": 957.4686,
+          "duration": 4.4087,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC027.mp4",
+          "start": 961.8773,
+          "duration": 6.7057,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC028.mp4",
+          "start": 968.583,
+          "duration": 7.709,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC029.mp4",
+          "start": 976.292,
+          "duration": 5.3245,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC030.mp4",
+          "start": 981.6165,
+          "duration": 2.669,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC031.mp4",
+          "start": 984.2855,
+          "duration": 4.3838,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC032.mp4",
+          "start": 988.6693,
+          "duration": 6.4633,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC033.mp4",
+          "start": 995.1326,
+          "duration": 5.7341,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC034.mp4",
+          "start": 1000.8667,
+          "duration": 4.0377,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC035.mp4",
+          "start": 1004.9044,
+          "duration": 9.0688,
+          "sourceStart": 0.0,
+          "speed": 0.8766,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC036.mp4",
+          "start": 1013.9732,
+          "duration": 3.355,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC037.mp4",
+          "start": 1017.3282,
+          "duration": 3.0085,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC038.mp4",
+          "start": 1020.3367,
+          "duration": 5.3024,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC039.mp4",
+          "start": 1025.6391,
+          "duration": 6.7651,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC040.mp4",
+          "start": 1032.4042,
+          "duration": 2.3198,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC041.mp4",
+          "start": 1034.724,
+          "duration": 6.6909,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC042.mp4",
+          "start": 1041.4149,
+          "duration": 8.6625,
+          "sourceStart": 0.0,
+          "speed": 0.9178,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC043.mp4",
+          "start": 1050.0774,
+          "duration": 3.4217,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC044.mp4",
+          "start": 1053.499,
+          "duration": 8.977,
+          "sourceStart": 0.0,
+          "speed": 0.8856,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC045.mp4",
+          "start": 1062.476,
+          "duration": 4.8778,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC046.mp4",
+          "start": 1067.3538,
+          "duration": 6.4632,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC047.mp4",
+          "start": 1073.817,
+          "duration": 5.2083,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC048.mp4",
+          "start": 1079.0253,
+          "duration": 5.6447,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC048"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC049.mp4",
+          "start": 1084.67,
+          "duration": 6.393,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC049"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC050.mp4",
+          "start": 1091.063,
+          "duration": 7.701,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC050"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC051.mp4",
+          "start": 1098.764,
+          "duration": 8.729,
+          "sourceStart": 0.0,
+          "speed": 0.9108,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC051"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC052.mp4",
+          "start": 1107.493,
+          "duration": 8.0257,
+          "sourceStart": 0.0,
+          "speed": 0.9906,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC052"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC053.mp4",
+          "start": 1115.5187,
+          "duration": 7.0739,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC053"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC054.mp4",
+          "start": 1122.5926,
+          "duration": 4.731,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC054"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC055.mp4",
+          "start": 1127.3236,
+          "duration": 11.1299,
+          "sourceStart": 0.0,
+          "speed": 0.7143,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC055"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC056.mp4",
+          "start": 1138.4535,
+          "duration": 5.0676,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC056"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC057.mp4",
+          "start": 1143.5211,
+          "duration": 3.0715,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC057"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC058.mp4",
+          "start": 1146.5925,
+          "duration": 3.1058,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC058"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC059.mp4",
+          "start": 1149.6984,
+          "duration": 5.9108,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC059"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH05_SC060.mp4",
+          "start": 1155.6092,
+          "duration": 9.0408,
+          "sourceStart": 0.0,
+          "speed": 0.8793,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC060"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC001.mp4",
+          "start": 1164.65,
+          "duration": 6.606,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC002.mp4",
+          "start": 1171.256,
+          "duration": 2.9878,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC003.mp4",
+          "start": 1174.2439,
+          "duration": 4.4315,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC004.mp4",
+          "start": 1178.6754,
+          "duration": 9.8679,
+          "sourceStart": 0.0,
+          "speed": 0.8056,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC005.mp4",
+          "start": 1188.5433,
+          "duration": 5.1749,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC006.mp4",
+          "start": 1193.7182,
+          "duration": 3.5873,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC007.mp4",
+          "start": 1197.3054,
+          "duration": 2.949,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC008.mp4",
+          "start": 1200.2544,
+          "duration": 5.8817,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC009.mp4",
+          "start": 1206.1361,
+          "duration": 2.0873,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC010.mp4",
+          "start": 1208.2234,
+          "duration": 4.6572,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC011.mp4",
+          "start": 1212.8807,
+          "duration": 4.9445,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC012.mp4",
+          "start": 1217.8251,
+          "duration": 3.5922,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC013.mp4",
+          "start": 1221.4174,
+          "duration": 6.6336,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC014.mp4",
+          "start": 1228.051,
+          "duration": 5.7174,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC015.mp4",
+          "start": 1233.7684,
+          "duration": 7.5858,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC016.mp4",
+          "start": 1241.3542,
+          "duration": 5.5431,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC017.mp4",
+          "start": 1246.8973,
+          "duration": 3.221,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC018.mp4",
+          "start": 1250.1183,
+          "duration": 4.8683,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC019.mp4",
+          "start": 1254.9866,
+          "duration": 4.6928,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC020.mp4",
+          "start": 1259.6794,
+          "duration": 4.1411,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC021.mp4",
+          "start": 1263.8205,
+          "duration": 5.5559,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC022.mp4",
+          "start": 1269.3764,
+          "duration": 6.5205,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC023.mp4",
+          "start": 1275.8969,
+          "duration": 5.1197,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC024.mp4",
+          "start": 1281.0166,
+          "duration": 6.5109,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC025.mp4",
+          "start": 1287.5275,
+          "duration": 6.5722,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC026.mp4",
+          "start": 1294.0997,
+          "duration": 3.4844,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC027.mp4",
+          "start": 1297.5841,
+          "duration": 6.5319,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC028.mp4",
+          "start": 1304.116,
+          "duration": 4.0492,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC029.mp4",
+          "start": 1308.1651,
+          "duration": 6.2216,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC030.mp4",
+          "start": 1314.3867,
+          "duration": 4.8861,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC031.mp4",
+          "start": 1319.2728,
+          "duration": 7.6672,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC032.mp4",
+          "start": 1326.94,
+          "duration": 5.4733,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC033.mp4",
+          "start": 1332.4134,
+          "duration": 1.9728,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/video_stripped/videos/CH06_SC034.mp4",
+          "start": 1334.3862,
+          "duration": 10.9738,
+          "sourceStart": 0.0,
+          "speed": 0.7245,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "voiceover",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/audio_v2/chapter_01.wav",
+          "start": 0.0,
+          "duration": 157.97,
+          "volume": 1.0,
+          "ref": "vo_ch01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/audio_v2/chapter_02.wav",
+          "start": 161.97,
+          "duration": 230.84,
+          "volume": 1.0,
+          "ref": "vo_ch02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/audio_v2/chapter_03.wav",
+          "start": 396.81,
+          "duration": 187.53,
+          "volume": 1.0,
+          "ref": "vo_ch03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/audio_v2/chapter_04.wav",
+          "start": 588.34,
+          "duration": 250.02,
+          "volume": 1.0,
+          "ref": "vo_ch04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/audio_v2/chapter_05.wav",
+          "start": 842.36,
+          "duration": 320.29,
+          "volume": 1.0,
+          "ref": "vo_ch05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/X-Economics/episodes/byd-vs-toyota-no-america-strategy/audio_v2/chapter_06.wav",
+          "start": 1166.65,
+          "duration": 176.71,
+          "volume": 1.0,
+          "ref": "vo_ch06"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "bgm",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 0.0,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 143.6995,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 287.3991,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 431.0986,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 574.7982,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 718.4977,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_06"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 862.1973,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_07"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1005.8968,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_08"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1149.5963,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_09"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1293.2959,
+          "duration": 52.0641,
+          "volume": 0.031,
+          "ref": "bgm_10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Thay đổi hình dạng cuộc chơi, nghĩa là ngừng chơi theo luật của B Y D. Nếu cuộc chiến giá bán phần cứng là sân chơi mà B Y D đã thiết kế sẵn để luôn thắng, thì VinFast cần kéo cuộc chiến sang một chiến trường hoàn toàn khác. Một nơi mà B Y D, dù có tiềm lực tài chính khổng lồ, lại tự chọn cách đứng ngoài. Chiến trường đó chính là hạ tầng trạm sạc.
+
+Thực tế cho thấy, không chỉ ở Việt Nam, mà tại Thái Lan, Indonesia hay bất kỳ thị trường quốc tế nào, B Y D đều từ chối tự xây trạm sạc. Tại Châu Âu, họ công bố gói đầu tư hai tỷ Ơ-rô cho mạng lưới sạc siêu nhanh. Nhưng B Y D không trực tiếp bỏ tiền mua đất, xây trạm biến áp hay kéo cáp điện lực. Họ chỉ cung cấp công nghệ sạc và thiết bị pin lưu trữ năng lượng. Toàn bộ rủi ro về mặt bằng, giấy phép và đấu nối lưới điện đều được chuyển giao cho các đối tác bản địa gánh chịu. Mô hình tương tự được lặp lại ở Nam Phi, ở Canada, và ở mọi nơi B Y D đặt chân đến.
+
+Trong lăng kính chiến lược của B Y D, trạm sạc chỉ là một loại tiện ích đi kèm. Giống như đường nhựa hay mạng viễn thông, nó cần tồn tại để xe chạy, nhưng nó không phải là năng lực cốt lõi tạo ra lợi thế cạnh tranh dài hạn. Với B Y D, lợi thế nằm ở chiếc xe, không phải ở cái trụ sạc.
+
+Cách tiếp cận này giúp B Y D giữ bảng cân đối kế toán ở trạng thái tối giản. Không chôn vốn vào tài sản cố định có thời gian hoàn vốn kéo dài hàng thập kỷ. Dòng tiền được giải phóng để tiếp tục rót vào nghiên cứu và phát triển sản phẩm. Nhưng đổi lại, B Y D phải chấp nhận một cái giá. Họ không sở hữu bất kỳ rào cản hạ tầng độc quyền nào tại các thị trường quốc tế. Bất kỳ hãng xe nào cũng có thể sử dụng chung hệ thống trạm sạc của bên thứ ba.
+
+Đây chính là khe hở chiến lược mà VinFast nhìn thấy. Nếu B Y D không xây hào, thì VinFast sẽ là người xây hào tại chính những thị trường mà B Y D đang muốn thống trị.
+
+Nhưng bài toán không đơn giản như vậy. Tại Việt Nam, VinFast đã chi hàng trăm triệu đô la để xây dựng mạng lưới một trăm năm mươi nghìn cổng sạc độc quyền. Đó là một khoản đầu tư khổng lồ mà tập đoàn Vingroup có thể gánh chịu trên sân nhà, nơi họ có lợi thế về đất đai, quan hệ đối tác và dòng tiền từ hệ sinh thái bất động sản. Nhưng khi bước ra Indonesia hay Ấn Độ, câu chuyện hoàn toàn khác. Lặp lại mô hình tự đầu tư một trăm phần trăm vốn tại nhiều quốc gia cùng lúc sẽ đốt cháy dòng tiền với tốc độ không thể chịu nổi.
+
+Vậy làm thế nào để VinFast có thể tiếp tục giăng lưới hạ tầng ra khắp các thị trường lớn như Ấn Độ, Philippines hay Indonesia, mà không tự thiêu cháy bảng cân đối kế toán?
+
+Thay vì cứng nhắc sao chép mô hình "tự lực cánh sinh" ở sân nhà, họ buộc phải linh hoạt thay đổi chiến thuật tại mỗi quốc gia. Họ bắt tay với ChargeZone tại Ấn Độ, hay các tập đoàn bán lẻ tại Philippines để chia sẻ gánh nặng. Nhưng để hiểu rõ nhất về sự chuyển mình từ mô hình "tài sản nặng" sang "tối giản tài sản" của VinFast, hãy nhìn vào Indonesia. Tại thị trường vạn đảo này, họ đã thiết kế nên một giải thuật tài chính có khả năng dùng chính dòng vốn của các tập đoàn bản địa, để xây hào bảo vệ cho riêng mình.

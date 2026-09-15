@@ -1,0 +1,129 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-07T00:11:07.609Z",
+  "session_id": "fabb5b9b",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/c4ef528a-96c6-4604-aa35-2ec1744cde93"
+  },
+  "question": "What are the psychological or organizational incentives that drive employees and leaders to use clichés and jargon (e.g., risk aversion, conformity, signaling professional status)? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO: ĐỘNG LỰC TÂM LÝ VÀ TỔ CHỨC THÚC ĐẨY SỬ DỤNG SÁO NGỮ VÀ BIỆT NGỮ NƠI CÔNG SỞ\n1. Bù đắp địa vị (Status Compensation) và Quản trị ấn tượng\nĐộng lực cốt lõi: Việc sử dụng sáo ngữ thường bắt nguồn từ tâm lý bất an và nhu cầu \"bù đắp địa vị\" của những cá nhân ở vị trí thấp trong tổ chức hoặc mạng lưới nghề nghiệp\n1\n2\n. Thay vì ưu tiên sự rõ ràng, họ bị chi phối bởi \"mối bận tâm đánh giá\" (evaluative concern) – nỗi sợ bị phán xét và mong muốn gây ấn tượng với khán giả\n3\n.\nHành vi thể hiện: Các cá nhân có địa vị thấp (cả ở quy mô toàn cầu như thứ hạng trường đại học, lẫn quy mô cục bộ như vị trí trong nhóm) có xu hướng lạm dụng sáo ngữ phức tạp như một lớp \"ngụy trang nhận thức\" (cognitive camouflage) để tạo ra ảo giác về sự tinh tế, năng lực và nhằm che đậy sự thiếu tự tin\n3\n4\n. Thực nghiệm cho thấy khi bị đặt vào tình huống có địa vị thấp, tỷ lệ người lao động chọn sử dụng sáo ngữ tăng mạnh từ 29% lên 41%\n5\n.\nCăn cứ dữ liệu:\nBáo cáo \"The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis\" (Năm 2025-2026)\nBrown, Z. C., et al., \"Local and Global Status Concerns Independently Predict Jargon use Among Psychologists\", Kỷ yếu Academy of Management (Năm 2023, Số hiệu DOI: 10.5465/AMPROC.2023.16697abstract)\n4\n.\nBáo cáo \"Jargon Conundrum: Its Effect on Workplace Communication\", The Survey Initiative (Năm 2024)\n1\n.\n2. Lẩn tránh rủi ro (Risk Aversion) và Che giấu sự thật (Evasive Bullshitting)\nĐộng lực cốt lõi: Sáo ngữ và những lời nói sáo rỗng (bullshit) được sử dụng có chủ đích như một chiến lược tu từ lảng tránh nhằm né tránh rủi ro về uy tín, xã hội hoặc cảm xúc\n6\n.\nHành vi thể hiện: Ở cấp độ quản lý, các thuật ngữ trừu tượng được triển khai để làm chệch hướng sự giám sát, tránh phải trả lời các câu hỏi hóc búa, hoặc che đậy các thất bại của tổ chức trước nhân viên và cổ đông\n3\n7\n. Sự mập mờ này cho phép người nói duy trì lớp vỏ bọc chuyên nghiệp trong khi trốn tránh trách nhiệm giải trình trực tiếp.\nCăn cứ dữ liệu:\nLittrell, S., \"The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes\", Tạp chí Personality and Individual Differences, Tập 255, 113699 (Năm 2026, Số hiệu DOI: 10.1016/j.paid.2026.113699)\nPatoko & Yazdanifard, Tạp chí American Journal of Industrial and Business Management (Trích dẫn trong Báo cáo của AllBusiness)\n7\n.\n3. Áp lực hòa nhập (Conformity) và Khẳng định bản sắc nhóm\nĐộng lực cốt lõi: Ngôn ngữ là công cụ thiết lập ranh giới nhóm và tín hiệu nhận diện\n10\n. Sáo ngữ được sử dụng để khẳng định thành viên thuộc về một cộng đồng chuyên môn nhất định\n11\n12\n.\nHành vi thể hiện: Đối với những người mới hoặc những người cần chứng minh bản thân, việc tiếp thu và sử dụng biệt ngữ nội bộ giúp họ hòa nhập nhanh chóng, tạo sự gắn kết xã hội và thúc đẩy hiệu quả giao tiếp trong nhóm\n12\n13\n. Ngược lại, nó cũng đóng vai trò như một cơ chế \"gác cổng\" (gatekeeping) mang tính kiêu ngạo nhằm loại trừ, hạ thấp những người ngoại đạo không hiểu các mã ngôn ngữ này\n1\n14\n.\nCăn cứ dữ liệu:\nLittrell, S., Tạp chí Personality and Individual Differences, Tập 255, 113699 (Năm 2026)\nBáo cáo \"Jargon Conundrum\", The Survey Initiative (Năm 2024)\n1\n13\n.\n4. Duy trì \"Sự ngu ngốc chức năng\" (Functional Stupidity) trong tổ chức\nĐộng lực cốt lõi: Các tổ chức, đặc biệt là những nơi có bộ máy quan liêu và các vai trò thiếu mục đích xã hội rõ ràng, dung túng hoặc khuyến khích sáo ngữ để duy trì trật tự và sự tuân thủ\n15\n16\n.\nHành vi thể hiện: Quá trình \"quản trị sự ngu ngốc\" (stupidity management) được kích hoạt khi giới lãnh đạo sử dụng ngôn từ đao to búa lớn nhằm ngăn cản nhân viên thực hiện tư duy phản biện (reflexivity) và chất vấn các mục tiêu cốt lõi của công ty\n15\n17\n. Điều này giúp doanh nghiệp tránh được các cuộc tranh luận tốn kém về mặt thời gian và nguồn lực, đổi lấy sự vận hành trơn tru bề nổi, bất chấp việc nó tước đi sự minh mẫn của tổ chức\n16\n17\n.\nCăn cứ dữ liệu:\nAlvesson, M. & Spicer, A., \"A stupidity-based theory of organizations\" (Năm 2012) và phân tích \"Functional stupidity: A critique\", Ephemera Journal\nBáo cáo \"The Lexical Compensation of Status\" (Năm 2025-2026)\n16\n.",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Jargon Conundrum: Its Effect on Workplace Communication - The Survey Initiative",
+      "source_text": "The Psychological Drivers Behind Using Jargon and Buzzwords In the professional realm, the use of jargon and buzzwords can often stem from a complex mix of psychological factors. Understanding these can help us navigate and improve workplace communication. Insecurity and Status Seeking: A significant driver behind the proliferation of jargon is insecurity. Professionals, especially those feeling out of their depth or eager to assert their position, might resort to using complex language to camouflage their insecurities or to project an image of competence and sophistication. This behaviour is particularly noticeable among individuals from backgrounds or positions, where there's a perceived need to 'prove oneself'. A study involving MBA students highlighted that jargon use was more prevalent in those with under-privileged backgrounds, suggesting a direct link between one's sense of security and linguistic choices. On the flip side, arrogance or a desire to dominate can also lead individuals to pepper their speech with jargon, using it as a tool to exclude or belittle those not 'in the know'. This use of language as a gatekeeping mechanism can foster an environment of exclusivity, rather than inclusivity."
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language",
+      "source_text": "-------------------------------------------------------------------------------- Status Compensation and the Mechanics of Linguistic Inflation The motivation to deploy jargon in organizational settings often stems from complex psychological and status-related drivers rather than a simple desire for clear communication.[6] This phenomenon is explained by the status compensation hypothesis, which posits that individuals occupying low-status positions within a hierarchy causally increase their use of complex, jargon-heavy language to mitigate feelings of insecurity and project an image of competence.[5, 8]"
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language",
+      "source_text": "This drive to utilize jargon is mediated by a shift in cognitive focus: low-status individuals prioritize audience evaluation over conversational clarity.[5, 8] When professionals feel out of their depth, they resort to complex language as a form of cognitive camouflage, attempting to make their work appear more significant or sophisticated to deflect critical scrutiny.[6] Empirical Study Methodology Status Manipulation / Variable Key Findings Columbia Dissertation Archival Analysis [8] Corpus analysis of academic dissertation titles [8] Global institutional ranking of the degree-granting school [8] Titles from lower-status schools contained significantly more jargon and linguistic complexity.[8, 9] Psychologist Poster Study [10] Analysis of academic poster titles from professional psychology conferences [10] Global status (university ranking) and local status (co-author's institutional rank) [10] Low global and local status independently predicted higher levels of jargon in titles.[10] MBA Venture Pitch Experiment [5] Choice-based scenario evaluating pitch descriptions for a new startup [5] Competitors framed as high-status graduates vs. low-status undergraduates [5] Low-status framing caused a significant rise in jargon selection from to .[5] Live Academic Presentation Chat [5] Interactive online dialogue presenting scientific research [5] Affiliation framed as a community college vs. an Ivy League university [5] Low-status researchers used significantly more complex, technical phrasing during live communication.[5]"
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Local and Global Status Concerns Independently Predict Jargon use Among Psychologists",
+      "source_text": "Zachariah Brown , Eric Anicich and Adam Galinsky Zachariah Brown HKUST Business School Search for more papers by this author , Eric Anicich U. of Southern California Search for more papers by this author and Adam Galinsky Columbia Business School Search for more papers by this author Published Online: 24 Jul 2023 https://doi.org/10.5465/AMPROC.2023.16697abstract Abstract When do academicians utilize circumlocutions and sesquipedalian pleonasms to elucidate discoveries and promulgate pedagogical proclamations? That is, when do scientists use jargon to describe their research? We argue that a speaker’s social goals, above and beyond their communicative ones, influence their language use. The current research explores the use of one form of language—jargon—to symbolically signal a speaker’s social standing. Existing theories in sociology, economics, and linguistics, which suggest that higher-status and embedded individuals within professional networks use more jargon than lower-status and newer members. In contrast, we propose that low status, both global (e.g., organizational status within an industry) and local (e.g., individual status within a team), increase jargon use in the hopes of securing higher status from audiences. To test our hypotheses, we constructed a novel dataset using seven years of academic poster titles presented at the largest annual personality and social psychology conference (N = 8,239). As public presentations, posters represent a highly evaluative context where people hope to secure respect from an audience. Analyses revealed that both global and local status concerns independently predicted jargon use in poster titles. For global status, the status of the authors’ universities predicted jargon use; authors from lower-status schools included more jargon in their poster titles. For local status, first authors with a co-author from a higher-status university included more jargon in their titles. These results suggest that individuals use jargon to secure status, regardless of whether the source of their status concerns are global or local."
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language",
+      "source_text": "Experimental studies have established a direct causal relationship between low status and jargon use. When MBA students were placed in low-status conditions (believing their competitors were experienced graduates), 41% chose highly jargon-heavy business descriptions, such as \"obtaining a first-mover advantage,\" over equivalent plain-language alternatives, such as \"becoming one of the first companies to,\" compared to only 29% of participants placed in high-status conditions.[5] Similarly, in live conversational experiments, researchers instructed to present academic work from a low-status community college utilized significantly more complex jargon than those presenting from an Ivy League affiliation.[5] When presenting under low-status constraints, individuals utilized complex, technical phrasing, such as \"non-human primates exhibit bi-pedal locomotion... arboreal and terrestrial substrates,\" rather than direct, plain English, such as \"two-legged walking... in trees and on the ground\".[5]"
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF",
+      "source_text": "CORPORATE BULLSHIT RECEPTIVITY SCALE 18 of bullshitting across various social contexts: 1) persuasive bullshitting, which describes attempts to impress, persuade, or fit in with others by favorably exaggerating or embellishing the qualities, ideas, rhetorical strategy used to avoid incurring reputational, social, or emotional harm to oneself or others"
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "The Cost of Corporate Speak: How Business Jargon Negatively Impacts Organizations",
+      "source_text": "In some instances, businesses may use jargon for ulterior motives, worsening the effect it has on employees. “Managers might want to sound smarter and impress their employees but this type of language does not facilitate communication, instead it hinders it,” write Ngueviuta Patoko and Rashad Yazdanifard in the * American Journal of Industrial and Business Management*. “In some scenarios, managers may even intentionally hinder communication in the organization by using many jargon [words] to avoid hard questions or hide failure from the employees.”"
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF",
+      "source_text": "Littrell, S. (2026). The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes. Personality and Individual Differences, 255, 113699. https://doi.org/10.1016/j.paid.2026.113699 Author Note Shane Littrell https://orcid.org/0000-0002-8440-7742 Shane Littrell is now at the Department of Government, Cornell University. Data, analysis code, and additional study materials are available on the Open Science Framework page associated with this project: VIEW ONLY LINK FOR REVIEW. The author"
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "Sociolect - Grokipedia",
+      "source_text": "Identity Formation and Group Cohesion Sociolects contribute to identity formation by supplying speakers with indexical linguistic resources that signal affiliation to specific social groups, allowing individuals to construct and negotiate personal and collective personas through variation in phonology , lexicon , and syntax. In variationist sociolinguistics, this process is evident in how adolescents adopt sociolectal features to align with peer networks, as documented in Penelope Eckert's ethnographic study of a Detroit high school , where students employed distinct vowel shifts and slang to embody identities tied to cliques such as \"jocks\" or \"burnouts,\" thereby positioning themselves within local social structures. [65] Similarly, William Labov's analyses of urban speech communities reveal that sociolectal markers, like centralized diphthongs in Martha's Vineyard , serve to assert insular identities against mainland influences, with speakers intensifying these features to express group loyalty. [66] These practices underscore a causal mechanism wherein linguistic choices actively shape self-perception and social categorization, rather than merely reflecting preexisting traits. Group cohesion arises from the shared adoption of sociolectal norms, which facilitate in-group recognition, efficient communication, and boundary maintenance against outsiders. Bucholtz and Hall's sociocultural linguistic model emphasizes relational tactics like adequation—emphasizing linguistic similarities—to intersubjectively build solidarity , as seen when minority group members converge on vernacular styles to resist dominant ideologies and forge collective stances. [67] Empirical studies on language style matching quantify this dynamic, showing that synchronization in function words during interactions predicts stronger relational bonds and influence within small groups, with correlations up to r=0.35 in dyadic conversations. [68] In speech communities under threat, such as ethnic enclaves, maintenance of sociolectal features correlates with heightened solidarity , as quantitative variation analyses indicate reduced convergence to standard norms preserves internal norms and evaluative alignment. [69] This dual role in identity and cohesion extends across contexts, from class-based sociolects reinforcing hierarchical solidarity —e.g., working-class vernaculars evoking communal resilience—to subcultural jargons that embed esoteric knowledge for exclusivity. However, cohesion depends on normative consensus; divergent internal variation can signal factions, as in politicized groups where stylistic splits predict reduced unity. Causal realism posits that sociolects evolve as adaptive signals for coordination, with evidence from longitudinal studies showing persistent transmission of group-specific traits across generations, sustaining both individual agency and collective bonds. [70]"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF",
+      "source_text": "others in a way that falls short of lying (Littrell et al., 2021a). CORPORATE BULLSHIT RECEPTIVITY SCALE 5 influencing attitudes and opinions in a preferred direction (Blötner & Bergold, 2023; Littrell et al., 2021a, 2021b; Petrocelli et al., 2024). Bullshit versus jargon Bullshit should not be confused with jargon, which refers to socially-learned words, expressions, or acronyms used purposefully in a particular industry or professional group that may be difficult for outsiders to understand (Brown et al., 2020, 2021). Though sometimes confusing to out-group"
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF",
+      "source_text": "members, jargon can often facilitate communication and social bonding, increase fluency, and help reinforce a shared identity among in-group members when used appropriately (Brown et al., 2020, 2021; Fiset et al., 2024; Weirup & Taylor, 2024). Bullshit in the workplace is often constructed to mimic an organization’s jargon-forward communication style but in an epistemically irresponsible, functionally misleading way (e.g., “You have to appreciate that the milestones we have set in these swim lanes"
+    },
+    {
+      "marker": "[13]",
+      "number": 13,
+      "source_name": "Jargon Conundrum: Its Effect on Workplace Communication - The Survey Initiative",
+      "source_text": "Obfuscation and Efficiency: Another motivation for jargon usage is the desire to obscure the truth. In some cases, individuals might employ jargon and buzzwords to make something seem more complex or significant than it actually is, thereby deflecting scrutiny or critical evaluation. Conversely, when used judiciously among peers with a shared understanding, jargon can facilitate efficient communication and foster social bonding. It can act as a shorthand that conveys complex ideas swiftly, saving time and reducing the need for lengthy explanations. This dual-edged nature of jargon underscores the importance of context and audience in determining its appropriateness."
+    },
+    {
+      "marker": "[14]",
+      "number": 14,
+      "source_name": "The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language",
+      "source_text": "A professional register serves as a shared system of meaning, allowing specialists to predict linguistic behavior and foster social cohesion within their specific speech communities.[2, 3] However, when specialized registers spill over into broader organizational communications, they often transform into jargon—a term historically originating from 14th-century Old French, where it referred to unintelligible speech or birdsong.[4] Modern sociologists and linguists define jargon as specialized, highly technical terminology used within subcultures to signify belonging, establish in-group boundaries, and index expertise.[1, 3, 5] Unlike slang, which is rapid, fleeting, and highly creative, jargon functions as a more stable register that constructs a shared worldview.[1, 3] While jargon acts as an efficient cognitive shorthand among highly trained peers, its deployment across unequal social strata frequently acts as a gatekeeping mechanism that fosters exclusivity rather than inclusivity.[2, 6] Out-group members who lack mastery of these linguistic codes face severe barriers to integration, highlighting how language perpetuates structural inequalities under the guise of technical necessity.[2]"
+    },
+    {
+      "marker": "[15]",
+      "number": 15,
+      "source_name": "Functional stupidity: A critique | Ephemeral Journal",
+      "source_text": "Functional stupidity is understood by Alvesson and Spicer as an incapacity and/or disinclination on the part of organizational members to exercise critical reflection about what they are doing ( reflexivity ), why they are doing it ( justification ), and what the consequences of their activities are beyond the immediate task at hand ( substantive reasoning ). Functional stupidity is explicitly framed as an organizational issue, particularly for firms within the knowledge economy (1212-3). To this extent, the authors are writing against the orthodoxy of management thought that attributes the success of organizations to 'the intelligent mobilization of cognitive capacities' (1195). For Alvesson and Spicer, this grand claim about 'smartness' should be nuanced and qualified (1213). Towards this end, they propose the concept of functional stupidity as a way to 'shake up dominant assumptions about the significance of knowledge, intelligence, creativity, learning, and the general use of cognitive resources' (1214)."
+    },
+    {
+      "marker": "[16]",
+      "number": 16,
+      "source_name": "The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language",
+      "source_text": "The Epistemology of Corporate Bullshit Unlike a liar, who must actively track the truth to subvert it, a bullshitter is entirely indifferent to accuracy.[24, 25] The primary goal of corporate bullshit is not to convey facts, but to construct a highly impressive, persuasive facade of competence, status, or authority.[23, 25] This register is particularly prevalent in highly bureaucratic, immaterial corporate roles that lack a clear social purpose.[24] In these settings, employees engage in \"functional stupidity\"—a state of organized cognitive narrowness where critical thinking and reflexivity are actively discouraged in favor of smooth compliance and the circulation of fleeting, flashy management fashions.[26, 27]"
+    },
+    {
+      "marker": "[17]",
+      "number": 17,
+      "source_name": "Functional stupidity: A critique | Ephemeral Journal",
+      "source_text": "Instead of shouldering the burden of doubt and risking the diversion of intellectual resources into 'non-productive' critical thinking, existential anxiety, and other miseries, organizational members can plough their energies into negotiating the (post-)bureaucratic structures of the organization and building careers. (1209) Organizations, meanwhile, need to avoid reflexivity, justification and substantive reasoning among employees for bottom-line reasons: Questioning can be costly because it requires significant time and resources to engage in critical thinking. For instance, if organizations were called on frequently to justify their actions, they would need to devote significant resources to creating and articulating these justifications. In many cases the structures and actions of the organization would be difficult to justify, promoting doubt among organizational members. This could decrease legitimacy and dissolve commitment to uncertain courses of action. (1210)"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 16,
+    "source_names": [
+      "Jargon Conundrum: Its Effect on Workplace Communication - The Survey Initiative",
+      "The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language",
+      "Local and Global Status Concerns Independently Predict Jargon use Among Psychologists",
+      "The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF",
+      "The Cost of Corporate Speak: How Business Jargon Negatively Impacts Organizations",
+      "Sociolect - Grokipedia",
+      "Functional stupidity: A critique | Ephemeral Journal"
+    ]
+  }
+}

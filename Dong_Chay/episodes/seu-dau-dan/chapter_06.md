@@ -1,0 +1,37 @@
+Nếu hàng chục nghìn tỷ đồng tín dụng không chảy vào nhà máy, không chảy vào phòng thí nghiệm. Thay vào đó, chúng bị chôn chặt trong bê tông và đất đai. Thì dù sếu có bay cao đến đâu, nền kinh tế vẫn mắc kẹt dưới mặt đất.
+
+Đây là lúc chúng ta phải đối diện với điểm mù vĩ mô nguy hiểm nhất trong chiến lược phát triển đại doanh nghiệp: Bẫy ký sinh địa tô.
+
+Bản chất của phát triển công nghệ là một quá trình đốt tiền tàn nhẫn. Một dự án sản xuất xe điện hay vi mạch bán dẫn có thể đòi hỏi mười năm ròng rã gồng lỗ. Nhưng ngược lại, việc thâu tóm quỹ đất và phân lô bán nền lại mang về siêu lợi nhuận chỉ sau một đêm.
+
+Sự chênh lệch khủng khiếp này tạo ra một lực hấp dẫn chết người. Nếu không có những gọng kìm thể chế sắt đá, các doanh nghiệp lớn sẽ dễ dàng từ bỏ con đường công nghiệp nhọc nhằn để lao vào bất động sản.
+
+Lấy dòng tiền từ bất động sản để nuôi khát vọng công nghệ là một canh bạc vĩ mô cực kỳ mạo hiểm. Bởi vì khi bong bóng bất động sản xì hơi và thanh khoản đóng băng. Nguồn cung máu duy nhất nuôi sống các phòng thí nghiệm và nhà máy cũng sẽ bị cắt đứt ngay lập tức. 
+
+Chúng ta không thể xây dựng năng lực công nghệ lõi của một quốc gia, trên nền móng bấp bênh của nền kinh tế đầu cơ đất đai.
+
+Nhưng, nếu chỉ chĩa mũi dùi vào giới doanh nhân thì liệu có công bằng? Liệu có thể kết tội các tập đoàn tư nhân khi chính môi trường thể chế không cho họ một con đường nào dễ thở hơn?
+
+Hãy nhìn vào trường hợp của Công ty Cổ phần Cơ Điện Lạnh. Khi tập đoàn này muốn đầu tư một dự án xử lý rác thải hiện đại tại Trà Vinh và Thành phố Hồ Chí Minh. Họ đã phải nằm chờ thủ tục hành chính suốt ba năm ròng rã.
+
+Ba năm chôn vốn. Ba năm chờ đợi hàng chục con dấu từ các sở ban ngành chồng chéo. 
+
+Khi hệ thống hành chính tiền kiểm trở thành một ma trận vô hình, vắt kiệt sức lực của những người muốn làm sản xuất thực. Dòng vốn tự nhiên sẽ tự động chảy về con đường dễ dãi nhất: Tìm kiếm đặc quyền địa tô.
+
+Vậy còn các sếu đầu đàn quốc doanh thì sao? Với nguồn lực hàng triệu tỷ đồng, tại sao họ không thể lĩnh ấn tiên phong trong mọi mũi nhọn công nghệ?
+
+Câu trả lời nằm ở ba chữ ám ảnh nhất đối với bất kỳ lãnh đạo doanh nghiệp nhà nước nào: Bảo toàn vốn.
+
+Trong thế giới của đổi mới sáng tạo, mười dự án đầu tư mạo hiểm có thể thất bại tới chín. Nhưng chỉ cần một dự án thành công là đủ bù đắp cho toàn bộ. 
+
+Nhưng trong tư duy quản lý hành chính cơ học, việc đầu tư nghiên cứu thất bại đồng nghĩa với làm thất thoát vốn nhà nước. Ranh giới giữa tinh thần dám nghĩ dám làm và tội danh vi phạm bảo toàn vốn mỏng manh như một lưỡi dao.
+
+Nỗi sợ hãi trách nhiệm này tạo ra một rào cản thể chế vô hình, trói chặt tay chân của các lãnh đạo quốc doanh. Lựa chọn an toàn nhất của họ là gửi tiền vào ngân hàng để lấy lãi, hoặc chỉ bám vào các dịch vụ độc quyền truyền thống.
+
+Khi Nhà nước tiếp tục bơm vốn vào các tập đoàn này mà không có cơ chế thải loại khắc nghiệt, không có thước đo hiệu quả bằng sức cạnh tranh quốc tế. Chúng ta sẽ đối mặt với rủi ro ký sinh trùng. Nguồn lực quốc gia bị bào mòn vì sự trì trệ được hợp thức hóa.
+
+Chúng ta cần những con sếu biết bay trong giông bão. Chứ không phải những con sếu khổng lồ đứng rỉ sét trong lồng sắt của thủ tục và nỗi sợ hãi.
+
+Nhưng làm thế nào để phá vỡ chiếc lồng đó? Làm thế nào để nắn dòng vốn tư bản khổng lồ chảy vào công nghiệp thay vì bất động sản?
+
+Để tìm câu trả lời, chúng ta buộc phải nhìn ra thế giới. Về những bài học máu xương từ kỳ tích sông Hàn và kỷ nguyên của các Chaebol Hàn Quốc.

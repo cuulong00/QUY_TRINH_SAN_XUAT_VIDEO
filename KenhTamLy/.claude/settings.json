@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/PhatPhapChannel/scripts/tts/record_episode.js\" \"nhung-tranh-cai-quanh-phap-su-tinh-khong\")",
+      "Read(//Users/pro16/Documents/VideoProject/X-Economic/**)",
+      "Bash(cp \"/Users/pro16/Documents/VideoProject/X-Economic/scripts/slideshow_video/__init__.py\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/slideshow_video/__init__.py\")",
+      "Bash(cp \"/Users/pro16/Documents/VideoProject/X-Economic/scripts/slideshow_video/__main__.py\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/slideshow_video/__main__.py\")",
+      "Bash(cp \"/Users/pro16/Documents/VideoProject/X-Economic/scripts/slideshow_video/generator.py\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/slideshow_video/generator.py\")",
+      "Bash(cp \"/Users/pro16/Documents/VideoProject/X-Economic/scripts/slideshow_video/README.md\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/slideshow_video/README.md\")",
+      "Bash(PYTHONPATH=\"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts\" python3 -m slideshow_video --help)",
+      "Bash(python3 \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/render_video.py\" --help)",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tts/record_file.js\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/shorts/standalone/noi-dau-bi-tu-choi/short_science_shock.md\")",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tts/record_file.js\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/shorts/standalone/the_beauty_penalty/short_beauty_penalty.md\")",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tts/tts_client.js\" --list-voices)",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tts/record_file.js\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/shorts/standalone/the_beauty_penalty/short_beauty_penalty_take2.md\")",
+      "Read(//Users/pro16/Documents/VideoProject/**)",
+      "Read(//Users/pro16/Documents/VideoProject/PhatPhapChannel/**)",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tools/extract_transcript.cjs\" \"https://www.youtube.com/watch?v=54RT6QuLBhg\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/shorts/standalone/ref_54RT6QuLBhg\")",
+      "WebFetch(domain:creatoracademy.youtube.com)",
+      "WebFetch(domain:blog.youtube)",
+      "WebFetch(domain:support.google.com)",
+      "WebFetch(domain:humbleandbrag.com)",
+      "WebFetch(domain:theviralsauce.com)",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tts/record_episode.js\" \"remix_54RT6QuLBhg\")",
+      "Read(//Users/pro16/Downloads/tamlytrihoan/**)",
+      "Bash(ln -sf \"/Users/pro16/Documents/VideoProject/KenhTamLy/episodes/remix_54RT6QuLBhg/scene_timing_map.json\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/episodes/remix_54RT6QuLBhg/scene_map.json\")",
+      "Bash(python3 \"scripts/render_video.py\" \"remix_54RT6QuLBhg\" --mode concat --image-dir \"/Users/pro16/Downloads/tamlytrihoan\")",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tts/record_file.js\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/shorts/standalone/loi-khen-doc-hai/short_loi_khen_doc_hai.md\")",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/KenhTamLy/scripts/tts/record_file.js\" \"/Users/pro16/Documents/VideoProject/KenhTamLy/shorts/standalone/loi-khen-doc-hai/short_loi_khen_doc_hai_prose_only.md\")",
+      "Read(//Users/pro16/Downloads/kiemsoattamly/**)",
+      "Bash(python3 \"scripts/render_video.py\" \"nghich_ly_kiem_soat\" --mode concat)"
+    ],
+    "additionalDirectories": [
+      "/Users/pro16/Documents/VideoProject/KenhTamLy",
+      "/Users/pro16/Documents/VideoProject/X-Economic/scripts/tools"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/prewrite_guard.py",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

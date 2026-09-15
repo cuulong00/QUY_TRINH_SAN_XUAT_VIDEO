@@ -1,0 +1,181 @@
+---
+title: "Theo báo cáo AALA của NHTSA, các dòng xe Tesla sản xuất tại Mỹ có tỷ lệ US/Canadian content là bao nhiêu phần trăm? Liệt kê từng mẫu xe (Model 3, Model Y, Model S, Model X, Cybertruck) với tỷ lệ cụ thể và nơi lắp ráp cuối cùng (Final Assembly). Các linh kiện chính nhập khẩu từ những quốc gia nào?"
+type: nblm-answer
+asked_at: 2026-07-22T03:47:11.998Z
+notebook_url: "https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1"
+session_id: "b5152b36"
+citations_count: 15
+sources:
+  - "Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin"
+  - "Tesla's 2025 vehicles have the most North American parts once again - Teslarati"
+  - "Are All Parts in Tesla Cars 100% American Made? - ALSETTE"
+  - "The EV Battery Supply Chain Explained - RMI"
+  - "Tesla Inc 's (TSLA) Suppliers by Company, Division and Industry - CSIMarket"
+---
+
+# Theo báo cáo AALA của NHTSA, các dòng xe Tesla sản xuất tại Mỹ có tỷ lệ US/Canadian content là bao nhiêu phần trăm? Liệt kê từng mẫu xe (Model 3, Model Y, Model S, Model X, Cybertruck) với tỷ lệ cụ thể và nơi lắp ráp cuối cùng (Final Assembly). Các linh kiện chính nhập khẩu từ những quốc gia nào?
+
+> Asked on 2026-07-22T03:47:11.998Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1)
+
+## Answer
+
+Thoughts
+Báo cáo dán nhãn linh kiện theo Đạo luật dán nhãn phụ tùng ô tô Mỹ (AALA) do Cơ quan An toàn Giao thông Cao tốc Quốc gia Mỹ (NHTSA) công bố cung cấp dữ liệu chi tiết về tỷ lệ nội địa hóa (US/Canadian parts content) và nguồn gốc chuỗi cung ứng của Tesla tại Mỹ như sau
+1
+2
+:
+1. Bảng tỷ lệ US/Canadian content và Nơi lắp ráp cuối cùng (Final Assembly)
+Dưới đây là tỷ lệ giá trị linh kiện có xuất xứ từ Mỹ/Canada và địa điểm lắp ráp thực tế của từng dòng xe Tesla bán tại thị trường Bắc Mỹ:
+Dòng xe Tesla
+Tỷ lệ US/Canadian Parts Content
+Nơi lắp ráp cuối cùng (Final Assembly)
+Model 3 Long Range
+75%
+3
+Fremont, California
+4
+Model 3 Standard (RWD)
+70%
+3
+Fremont, California
+4
+Model 3 Performance
+70%
+3
+5
+Fremont, California
+4
+Model Y (Tất cả phiên bản)
+70%
+3
+4
+Fremont, California hoặc Austin, Texas
+4
+Cybertruck
+65%
+3
+5
+Austin, Texas
+4
+Model S
+65%
+3
+5
+Fremont, California
+6
+Model X
+60%
+3
+5
+Fremont, California
+6
+Trường hợp ngoại lệ đối với Model Y "Juniper" thế hệ mới: Các lô xe Model Y bản nâng cấp Juniper đầu tiên xuất xưởng tại Fremont ghi nhận tỷ lệ US/Canadian parts content sụt giảm đột ngột xuống còn 40%
+7
+. Điều này phản ánh quy trình thử nghiệm dây chuyền (pilot phase): Tesla đã thiết lập chuỗi nhà cung ứng đầu tiên tại Trung Quốc cho bản Juniper, do đó trong giai đoạn đầu tăng tốc sản xuất (assembly ramp), hãng phải nhập khẩu trực tiếp các khối linh kiện lắp ráp sẵn từ Trung Quốc để de-risk dây chuyền
+7
+. Tỷ lệ này sẽ tăng dần trở lại khi chuỗi cung ứng Bắc Mỹ hoàn thành lắp đặt công cụ
+7
+.
+2. Nguồn gốc nhập khẩu của các linh kiện chính
+Mặc dù các dòng xe Tesla lắp ráp tại Mỹ có tỷ lệ nội địa hóa dán nhãn cao, phân tích sâu chuỗi cung ứng thượng nguồn cho thấy hãng vẫn phụ thuộc lớn vào mạng lưới đối tác công nghệ và nguyên liệu thô toàn cầu
+8
+9
+:
+Linh kiện phụ tùng chung (Cung ứng nhiều nhất từ Mexico):
+Mexico là quốc gia cung cấp linh kiện nước ngoài lớn nhất của Tesla theo đạo luật dán nhãn AALA, chiếm từ 20% đến 25% tổng giá trị linh kiện của xe (bao gồm cả động cơ và một số bộ phận truyền động cơ khí)
+3
+4
+.
+Cell Pin xe điện (Battery Cells & Materials):
+Nhật Bản (Panasonic): Hợp tác đồng vận hành nhà máy Gigafactory Nevada để sản xuất cell pin hình trụ NCA (Nickel-Cobalt-Aluminum) mật độ năng lượng cao dành cho các bản Long Range và Performance của Model 3/Model Y lắp ráp tại Fremont
+10
+.
+Trung Quốc (CATL, Sunwoda): CATL cung cấp cell pin LFP (Lithium Iron Phosphate) giá rẻ, không cobalt dưới dạng mô-đun nhập khẩu để lắp ráp cho các bản Standard Range
+10
+. Sunwoda cung cấp cell pin LFP 3C tiên tiến từ nhà máy Yiwu (Chiết Giang), trong đó Tesla chỉ mua cell thô và tự đóng gói module/pack tại Mỹ
+10
+. Ngoài ra, khoáng chất Graphite làm điện cực âm cũng phụ thuộc lớn vào tinh chế từ Trung Quốc
+11
+.
+Hàn Quốc (LG Energy Solution): Cung cấp các cell pin NCM (Nickel-Cobalt-Manganese) hình trụ cho các phiên bản tầm xa
+10
+.
+Australia & Cộng hòa Dân chủ Congo (DRC): Nguồn cung cấp kim loại thô cho pin như Lithium từ Úc (quốc gia chiếm 60% sản lượng khai thác toàn cầu)
+11
+12
+và Cobalt từ mỏ của Glencore tại DRC
+13
+.
+Chip bán dẫn và Hệ thống điện tử công suất:
+Hàn Quốc (Samsung Electronics): Tesla ký hợp đồng trị giá 16,5 tỷ USD với Samsung để gia công độc quyền các dòng chip xử lý AI chuyên dụng cho máy tính tự lái FSD (Full Self-Driving) thế hệ mới, hoạt động chế tạo thô tập trung tại các fab đúc chip ở Hàn Quốc
+14
+.
+Đài Loan (TSMC): Chịu trách nhiệm chế tạo dòng chip AI5 tiếp theo cho Tesla tại Đài Loan trước khi chuyển giao sang nhà máy mới của TSMC ở Arizona
+14
+. Đối tác Hota Industrial của Đài Loan cũng là nhà cung cấp độc quyền các bánh răng và linh kiện truyền động hộp số cho Tesla
+14
+15
+.
+🔋 Bạn có muốn tôi phân tích sâu hơn về cơ chế hạch toán "Roll-up" (Cộng dồn giá trị pin) của Hiệp định USMCA đã giúp các dòng xe Tesla dễ dàng đáp ứng ngưỡng 75% RVC để hưởng thuế suất 0% tại Bắc Mỹ như thế nào không?
+
+## Sources
+
+### [1] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin The labeling of passenger motor vehicles with a "Made in America" designation has evolved from a simple geographical marker into a multi-layered equation of global parts value, localized assembly, and international trade compliance [cite: 1, 2]. For electric vehicle pioneer Tesla, Inc., which operates primary US manufacturing plants in Fremont, California, and Austin, Texas, the claim of producing the "most American-made" vehicles is central to its brand identity and marketing strategy [cite: 3, 4, 5]. Evaluating the validity of this claim requires an empirical assessment of the regulatory disclosures mandated by the American Automobile Labeling Act (AALA) of 1992, an investigation into the upstream supply chains of its batteries, semiconductors, and electronic systems, and a direct comparison with the rules of origin established under the United States-Mexico-Canada Agreement (USMCA) [cite: 1, 2, 6, 7].
+
+### [2] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> Empirical Analysis of Tesla's Domestic Content An analysis of NHTSA AALA reports from 2023 through 2026 demonstrates that Tesla's vehicle lineup consistently achieves some of the highest domestic parts content percentages in the global automotive industry [cite: 5, 16]. On Cars.com’s annual American-Made Index (AMI), which evaluates assembly locations, parts sourcing, workforce size, and engine/transmission origins, Tesla's Model 3 and Model Y have repeatedly captured the top spots [cite: 3, 4, 9].
+
+### [3] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> This is corroborated by the Kogod Made in America Auto Index, which calculates a broader Total Domestic Content (TDC) score by factoring in corporate headquarters location, domestic research and development, and corporate profits [cite: 16]. Tesla's average corporate TDC rose from 77% in 2015 to 84% in 2025, reflecting an intentional effort to localize component assembly and scale domestic manufacturing [cite: 16]. Tesla Model Variant AALA US/Canadian Parts Content (2025/2026) [cite: 5, 17] Major Foreign Parts Source (AALA) [cite: 5, 17] Kogod Total Domestic Content (TDC) [cite: 18] Kogod Index Rank (2025) [cite: 16] Model 3 Long Range 75% [cite: 5, 17] Mexico: 20% [cite: 17] 67.5% [cite: 18] #1 [cite: 16] Model 3 Performance 70% [cite: 5] Mexico: 20% [cite: 17] 87.5% [cite: 18] #2 (Tied) [cite: 16] Model 3 Standard (RWD) 70% [cite: 17] Mexico: 25% [cite: 17] 70.0% [cite: 18] N/A Model Y (All Variants) 70% [cite: 5] Mexico: 25% [cite: 17] 85.0% [cite: 18] #2 (Tied) [cite: 16] Cybertruck 65% [cite: 5] Mexico: 25% [cite: 19] 82.5% [cite: 18] #3 (Tied) [cite: 16] Model S 65% [cite: 5] Mexico: 20% [cite: 17] 80.0% [cite: 18] #3 (Tied) [cite: 16] Model X 60% [cite: 5] Mexico: 25% [cite: 17] 80.0% [cite: 18] #6 [cite: 16]
+
+### [4] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> Tesla’s high AALA scores are tied to its massive final assembly footprint at the Fremont, California plant and the Gigafactory in Austin, Texas [cite: 3, 20]. Standard Model Y units produced at both factories feature a 70% U.S./Canadian parts content label, with Mexico designated as the primary foreign parts source at 25% of total value [cite: 5, 17]. The Model 3 Long Range AWD leads the sedan segment with 75% U.S./Canadian content and 20% Mexican parts content, while the Standard RWD variant carries a 70% U.S./Canadian and 25% Mexican parts split [cite: 17].
+
+### [5] Tesla's 2025 vehicles have the most North American parts once again - Teslarati
+
+> The agency shares the reports annu under the American Automobile Labeling Act (AALA), and Tesla's reported 2025 lineup ranged from 60- to 75-percent on the index. Meanwhile, the only vehicle to include as many North American parts as the aforementioned Model 3 units were the Honda Ridgeline Sport. Autos & Vehicles Tesla's Model 3 Performance and all Model Y units followed the Model 3 with 70 percent North American components, while the Cybertruck and Model S were each reported at 65 percent. The 2025 Tesla vehicle with the least U.S. and Canadian-made parts is the Model X at 60 percent, which is still more than the vast majority of others included on the list.
+
+### [6] Are All Parts in Tesla Cars 100% American Made? - ALSETTE
+
+> As someone working at Alsette, where we focus on high-quality aftermarket Tesla parts, I see this global network up close. We design and make parts that often match or improve original equipment. Our 25+ years in automotive mold design give us a good view of how these supply chains work. Tesla's Main Manufacturing Hubs Tesla's Gigafactories are amazing places. They are huge and very advanced. Each one has a special role. Gigafactory Location Primary Production Focus Notes Fremont, California Model S, Model 3, Model X, Model Y Tesla's first major factory. Sparks, Nevada Batteries, Powertrains, Powerwall, Powerpack Key for energy storage and vehicle components. Austin, Texas Model Y, Cybertruck Newest US Gigafactory, also HQ. Shanghai, China Model 3, Model Y for China and export markets Crucial for Asian and European markets. Berlin, Germany Model Y for European market Tesla's first European factory.
+
+### [7] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> A significant operational exception to these consistent percentages occurred during the initial launch of the Model Y "Juniper" refresh [cite: 21]. Consumer disclosures of early Fremont-built Juniper vehicles revealed a drop in U.S./Canadian parts content to just 40% [cite: 21]. This drop reflects a common practice in automotive manufacturing: during the pilot phase of a major vehicle redesign, automakers often source pre-assembled component blocks directly from established foreign supplier networks (in this case, China, where the Juniper refresh was first developed) to de-risk the initial assembly ramp [cite: 21]. Over time, these foreign parts are replaced with localized suppliers as domestic production volumes stabilize and tooling is completed in North America [cite: 21].
+
+### [8] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> Upstream Supply Chain Sourcing: Batteries, Semiconductors, and Key Component Sourcing While AALA labels and domestic indices reflect high localized assembly and value-add in North America, analyzing the deeper tiers of Tesla’s supply chain—specifically batteries, semiconductors, and advanced electronics—reveals a significant reliance on global technology partners [cite: 7, 23].
+
+### [9] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> However, the upcoming 2026 USMCA joint review could lead to changes in these rules of origin [cite: 10]. If the agreement’s "roll-up" accounting provisions for core battery assemblies are restricted, or if regional value requirements are raised further, Tesla’s supply chain could face increased friction [cite: 10, 15]. Supply chain modeling indicates that because imported components constitute a significant portion of production costs, a comprehensive tariff on foreign-sourced parts causes retail prices for U.S.-assembled vehicles to rise by approximately 6.5% [cite: 30, 31]. This exposure undermines the assumption that domestic assembly alone isolates a manufacturer from global trade disruptions [cite: 28, 30, 31]. Strategic Conclusions and Future Outlook Tesla's vehicles are empirically some of the most domestically assembled vehicles on the U.S. market, leading major indices and showing high U.S./Canadian parts percentages under the AALA [cite: 3, 5, 16]. However, the assertion that these vehicles are entirely "American-made" is complex. While structural components, drive units, and battery pack assemblies are highly integrated within California, Texas, and Nevada, the underlying supply chain remains reliant on global partners [cite: 7, 23, 27]. The high-value battery cells rely on Asian chemical suppliers, advanced microchips are manufactured in East Asian foundries, and raw battery minerals are mined and processed globally [cite: 7, 23, 29].
+
+### [10] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> Battery Cell Sourcing and Chemistry Partnerships The traction battery pack is the single most expensive and complex component of an electric vehicle, serving as the primary driver of domestic value calculation [cite: 24, 25]. Tesla utilizes a diversified sourcing strategy that matches cell chemistries and manufacturing partners to specific vehicle trims and regional markets [cite: 7, 26]: Panasonic: Tesla's longest-standing partner co-operates Gigafactory Nevada [cite: 7, 27]. Panasonic invested approximately USD $1.6 billion in the facility to produce high-energy-density cylindrical Nickel-Cobalt-Aluminum (NCA) battery cells [cite: 7, 27]. These cells are packaged on-site into proprietary packs and primarily power Fremont-built Long Range and Performance variants of the Model 3 and Model Y [cite: 7, 27]. Contemporary Amperex Technology Co. Limited (CATL): For standard-range and entry-level versions of the Model 3 and Model Y, Tesla partners with China’s CATL [cite: 7]. CATL supplies Lithium Iron Phosphate (LFP) cells [cite: 7]. Although LFP cells are less energy-dense than nickel-based chemistries, they are cobalt-free and highly cost-effective [cite: 7]. They are imported as modules and packaged into packs in North America, allowing Tesla to lower the entry price of its vehicles [cite: 7, 26]. LG Energy Solution: LG supplies NCM (Nickel-Cobalt-Manganese) cylindrical cells for standard and long-range vehicles [cite: 7]. To reduce dependence on Chinese battery cell imports and strengthen its domestic supply chain, Tesla signed a USD $4.3 billion agreement with LG Energy Solution to establish an LFP prismatic cell factory in Lansing, Michigan, scheduled to open in 2027 [cite: 23]. These domestic LFP cells are slated to power Houston-built Megapack 3 energy storage systems [cite: 23]. Sunwoda Electric Vehicle Battery Co.: Sunwoda is Tesla’s fifth global power battery supplier, shipping advanced third-generation LFP cells from its plant in Yiwu, Zhejiang [cite: 26]. Under this partnership, Tesla directly purchases individual cells and handles module and pack assembly in-house [cite: 26]. This cells-only procurement model gives Tesla greater control over customization, pack geometry, and pricing [cite: 26].
+
+### [11] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> Semiconductors and Automotive Electronics Modern vehicle systems are defined by their silicon architecture, particularly in software-reliant EVs like Tesla's [cite: 21]. To power its Full Self-Driving (FSD) computer and Autopilot systems, Tesla signed a USD $16.5 billion contract with Samsung Electronics to manufacture custom artificial intelligence semiconductors [cite: 23]. While final vehicle assembly is completed in California and Texas, the manufacturing of these microchips is concentrated in South Korea and global fabrication hubs [cite: 23]. This highlights a vulnerability: even a vehicle with a 75% domestic parts content label remains dependent on a globalized semiconductor supply chain [cite: 5, 21, 28]. The Sourcing Paradox and Trade Vulnerabilities The contrast between Tesla’s high domestic labeling scores and its reliance on global suppliers highlights a key dynamic in automotive trade data: the valuation paradox of EV manufacturing [cite: 24, 25]. Under AALA rules, parts content is calculated by financial value rather than raw material origin [cite: 9, 24]. Because the battery pack is the highest-value component in an EV, assembling imported cells into a completed battery pack in Nevada or Texas allows the entire assembly to be classified as domestic parts content under the AALA framework [cite: 7, 24, 27]. Yet, the physical materials that make up the battery—including lithium mined in Australia, cobalt from the DRC, and graphite refined in China—are imported [cite: 29]. Consequently, a vehicle labeled as 75% U.S./Canadian-made remains deeply connected to global mineral and chemical supply chains [cite: 5, 29].
+
+### [12] The EV Battery Supply Chain Explained - RMI
+
+> The United States also has existing competitive advantages in automotive manufacturing that it can use to compete in the global EV supply chain, helping to leverage the economic benefits of transport decarbonization. As noted above, legislation like the IRA will help — it requires that to be eligible for a vehicle tax credit, a growing percentage of an EV's battery metal value must be extracted or processed in the United States or in a partner country with an FTA. Under this last provision, eligible countries like Australia, which supplies about 60 percent of the world's lithium and has an existing FTA, would qualify; Indonesia, estimated to account for 37 percent of global nickel production , would not. Guidance released by the US Treasury in March 2023 also proposes a set of principles for identifying the countries with which the United States has an FTA in effect ; this term could include newly negotiated critical mineral agreements. For example, Japan signed a critical mineral agreement in March with the United S tates, allowing the Treasury to add that country to its list of approved suppliers.
+
+### [13] Tesla Inc 's (TSLA) Suppliers by Company, Division and Industry - CSIMarket
+
+> NXP Semiconductors: Provides microcontrollers for our in-vehicle systems and autonomous driving technology. STMicroelectronics: Supplies components for our infotainment and electric control units. Raw Materials Suppliers Glencore: We source cobalt from Glencore for our battery production. Cobalt is a key material in lithium-ion batteries. Albemarle Corporation: Supplies us with lithium, another essential material for our batteries. BHP: Provides nickel, which is crucial for the production of our high-performance lithium-ion batteries.
+
+### [14] Decoding the Domestic Sourcing Architecture of Tesla: AALA Compliance, Supply Chain Integration, and USMCA Rules of Origin
+
+> Sunwoda is Tesla’s fifth global power battery supplier, shipping advanced third-generation LFP cells from its plant in Yiwu, Zhejiang [cite: 26]. Under this partnership, Tesla directly purchases individual cells and handles module and pack assembly in-house [cite: 26]. This cells-only procurement model gives Tesla greater control over customization, pack geometry, and pricing [cite: 26]. Proprietary 4680 Cells: Tesla has invested in scaling its in-house, dry-electrode 4680 cylindrical cells in Fremont and Austin [cite: 23, 27]. However, due to manufacturing bottlenecks, mass integration of 4680 cells remains largely confined to the Cybertruck [cite: 23]. Consequently, Tesla scaled back a major USD $2.7 billion contract with South Korea's L&F for high-nickel cathode precursors to just USD $11.4 million, reflecting a slower-than-expected production ramp for its in-house battery cell lines [cite: 23]. Semiconductors and Automotive Electronics
+
+### [15] Tesla Inc 's (TSLA) Suppliers by Company, Division and Industry - CSIMarket
+
+> Automotive Parts Suppliers Brembo: Supplies brakes for our vehicles, including high-performance braking systems. Continental AG: Provides tires, electronics, and other automotive components. Hota Industrial: Supplies us with gears and transmission parts. Glass and Interior Components AGC Automotive: Supplies automotive glass used in our vehicles. Fuyao Glass: Another supplier of glass components, primarily for our windshields and windows. Inteva Products: Provides interior components such as door panels and dashboards for our vehicles.

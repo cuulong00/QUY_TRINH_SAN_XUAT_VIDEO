@@ -1,0 +1,13 @@
+# chapter_04.md
+
+Ở góc độ nhà xưởng cơ khí, hai mươi lăm ngàn chiếc xe là lằn ranh sinh tử để khấu hao một bộ khuôn dập. Nhưng ở góc độ thị trường bán lẻ, để bán được hai mươi lăm ngàn chiếc ô tô mỗi năm tại một đất nước xa lạ, bạn không thể trông chờ vào những chiếc xe đắt tiền. Bạn bắt buộc phải có một mẫu xe đại chúng giá rẻ. Và đó là lý do chiếc VF 3 từng được đặt vào vị trí xung kích để tháo ngòi bài toán sản lượng.
+
+Thế nhưng, khi mang bản vẽ chiếc xe này bước vào phân khúc đô thị cỡ nhỏ tại Ấn Độ, hãng lại đâm sầm vào một tử địa giá bán khốc liệt hơn rất nhiều.
+
+Ở phân khúc xe nhỏ, trần giá bán lẻ của thị trường bị khóa rất chặt. Dù tự dập khuôn hay chở linh kiện đường biển, mức giá tính toán ước tính của chiếc VF 3 cũng bị đẩy lên từ hai trăm ba mươi đến ba trăm triệu đồng. Trong khi đó, thị trường xe nhỏ Ấn Độ từ lâu đã bị các đối thủ nội địa cắm chốt vững chắc: Chiếc MG Comet chiếm lĩnh phân khúc với mức giá sàn chỉ vỏn vẹn một trăm năm mươi triệu đồng. Còn mẫu xe điện bán chạy nhất là Tata Tiago EV cũng chỉ neo ở mức hai trăm bốn mươi triệu đồng. Bị kẹp giữa hai đối thủ sản xuất nội địa có quy mô lớn, dư địa cạnh tranh về giá của chiếc VF 3 trở nên vô cùng chật hẹp. Khách hàng khó có thể chi ba trăm triệu đồng cho một chiếc xe nhỏ, khi họ có thể mua xe lớn hơn với số tiền tương đương.
+
+Trước bài toán giá khó tạo ra lợi thế, VinFast chủ động tạm hoãn kế hoạch ra mắt thương mại chiếc VF 3 tại thị trường Ấn Độ. Trong quản trị công nghiệp, đây là bước đi thực tế để bảo vệ dòng tiền: Thà chấp nhận khép lại một kế hoạch chưa phù hợp ngay trên bản vẽ, còn hơn để nó tiếp tục bào mòn nguồn lực khi thương mại hóa.
+
+Trái ngược với chiếc xe mini bị kẹp giá, hai mẫu crossover ở phân khúc phía trên là VF 6 và VF 7 lại có một số phận hoàn toàn khác. Với mức giá từ năm trăm bốn mươi triệu cho VF 6 và hơn tám trăm triệu đồng cho VF 7, khoảng đệm giá ở phân khúc này đủ rộng để tiếp tục hấp thu chi phí vận tải biển và thuế linh kiện mười lăm phần trăm. Việc tiếp tục duy trì nguồn linh kiện CKD nhập từ Cát Hải giúp nhà máy Thoothukudi giữ vững nhịp lắp ráp và nuôi mạng lưới hơn sáu mươi đại lý, kết hợp cùng hợp đồng giao một ngàn xe Green SM Limo tại New Delhi để bảo đảm đầu ra.
+
+Việc tiếp tục dựa vào linh kiện CKD đã giúp hai dòng xe VF 6 và VF 7 duy trì được sự hiện diện trên thị trường. Nhưng chiếc thòng lọng thể chế SMEC vẫn đang đếm ngược từng ngày. Chậm nhất đến năm 2029, toàn bộ tổ hợp tại Thoothukudi vẫn bắt buộc phải đạt tỷ lệ nội địa hóa năm mươi phần trăm. Nếu ô tô không thể dập vỏ tại chỗ vì sản lượng nhỏ, làm sao để nhà máy vượt qua lằn ranh thể chế này? Lời giải bất ngờ không nằm ở những chiếc ô tô bốn bánh. Nó được mở ra từ một bàn cờ hoàn toàn khác: Nước cờ một triệu chiếc xe máy điện.

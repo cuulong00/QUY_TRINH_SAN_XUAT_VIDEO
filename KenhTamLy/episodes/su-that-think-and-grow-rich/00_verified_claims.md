@@ -1,0 +1,31 @@
+# Verified Claims — Sự thật về "Think and Grow Rich"
+
+Mọi claim dưới đây ĐÃ ĐƯỢC XÁC MINH từ tài liệu nghiên cứu trong vault.
+Chapter writer CHỈ ĐƯỢC gán nhãn `verified_research` hoặc `psychological_analysis` cho các luận điểm tương ứng dưới đây.
+
+## Claims đã verify
+
+| ID | Claim | Phân loại | Nguồn | Cách diễn đạt an toàn |
+|---|---|---|---|---|
+| **VC01** | Andrew Carnegie không hề có bất kỳ cuộc gặp gỡ, phỏng vấn hay giao sứ mệnh viết công thức thành công nào cho Napoleon Hill. | verified_research | David Nasaw (2006), Matt Novak (2016) | "Nhà sử học David Nasaw, người viết tiểu sử chính thức của Carnegie, khẳng định sau khi lục tìm hàng ngàn trang nhật ký và thư từ của Carnegie, ông không tìm thấy bất kỳ dấu vết nào chứng minh hai người từng gặp mặt." |
+| **VC02** | Bức ảnh chụp chung giữa Napoleon Hill và Thomas Edison năm 1923 thực chất là một trò dàn dựng chụp ảnh quảng cáo (photo-stunt) do Hill thiết kế. | verified_research | Matt Novak (Gizmodo, 2016) | "Bức ảnh duy nhất chụp chung giữa Hill và Edison thực chất là một trò dàn dựng: Hill lẻn vào hội nghị, trao huy chương tự chế cho Edison để chụp ảnh nhanh, và bị Edison trả lại ngay sau khi máy ảnh chụp xong." |
+| **VC03** | Napoleon Hill không hề là cố vấn bí mật cho Tổng thống Woodrow Wilson hay Franklin D. Roosevelt. | verified_research | FDR Presidential Library, Raymond Moley (1939) | "Các tài liệu lưu trữ tại Nhà Trắng và các bản thảo bài phát biểu của Tổng thống FDR chứng minh tên của Hill hoàn toàn không xuất hiện trong bất kỳ hoạt động cố vấn nào của chính phủ." |
+| **VC04** | Vào mùa thu năm 1908 (thời điểm Hill tự xưng là phỏng vấn Carnegie tại New York), ông thực chất đang bỏ trốn lệnh bắt giữ tội lừa đảo séc và đổi tên để trốn nã. | verified_research | Mobile Court Records (1908), Matt Novak (2016) | "Hồ sơ toà án năm 1908 cho thấy Hill đang co-manage một công ty gỗ lừa đảo tín dụng tại Alabama, phải bỏ trốn và đổi tên từ Oliver sang Napoleon để lẩn tránh lệnh bắt giữ của liên bang." |
+| **VC05** | Sóng não đo bằng điện não đồ (EEG) không phải là bức xạ điện từ và có từ trường cực yếu (10 fT - 1 pT), suy giảm cực nhanh, không thể truyền ra không gian để thu hút vật chất. | verified_research | Hans Berger (1924), Biophysical Analysis | "Khoa học thần kinh chứng minh sóng não chỉ là sự chênh lệch điện thế do dòng ion di chuyển cục bộ trên da đầu, hoàn toàn bị giới hạn bởi hộp sọ và không thể phát xạ để thu hút cơ hội hay tiền bạc." |
+| **VC06** | Việc chỉ mơ mộng tích cực một chiều (positive fantasizing) làm sụt giảm huyết áp tâm thu (SBP), triệt tiêu năng lượng sinh lý và động lực hành động thực tế. | verified_research | Kappes & Oettingen (2011) | "Thí nghiệm đo huyết áp tâm thu chứng minh việc mơ tưởng tích cực đánh lừa não bộ rằng mục tiêu đã đạt được, làm sụt giảm năng lượng sinh lý và khiến cơ thể rơi vào trạng thái xì hơi, thụ động." |
+| **VC07** | Mơ mộng tích cực một chiều tỷ lệ nghịch với thành công thực chất trong giảm cân, học tập và xin việc làm. | verified_research | Oettingen & Wadden (1991), Oettingen & Mayer (2002) | "Các nghiên cứu theo dõi định lượng chỉ ra người mơ tưởng tích cực quá mức về kết quả thường giảm cân kém hơn, sinh viên tốt nghiệp có ít đơn xin việc và nhận mức lương khởi điểm thấp hơn đáng kể." |
+| **VC08** | Mơ mộng tích cực dài hạn làm gia tăng đáng kể các triệu chứng trầm cảm lâm sàng do thiếu nỗ lực thực tế dẫn đến thất bại thực tế và sự tự trách bản thân. | verified_research | Oettingen, Mayer, & Portnow (2016) | "Theo dõi dọc trong 7 tháng cho thấy việc mơ tưởng tích cực chỉ giúp giảm lo âu tạm thời, nhưng trong dài hạn lại dự đoán sự gia tăng trầm cảm do ảo tưởng cản trở hành động thực tế, dẫn đến thất bại ngoài đời thực." |
+| **VC09** | Những người tin tưởng vào biểu hiện hóa (manifestation) có nguy cơ phá sản tài chính thực tế cao hơn 40% cho mỗi điểm tăng trên Thang đo Biểu hiện hóa. | verified_research | Lucas Dixon & Nicole Hartley (UQ, 2023) | "Khảo sát trên 1.023 người trưởng thành chỉ ra niềm tin vào Luật hấp dẫn không giúp giàu có hơn mà ngược lại, làm tăng 40% nguy cơ phá sản thực tế và dễ cuốn vào các khoản đầu tư rủi ro." |
+| **VC10** | Lời khuyên đàn áp cảm xúc tiêu cực để giữ tần số rung động tích cực dễ gây ra chứng Dung hợp Suy nghĩ - Hành động (Thought-Action Fusion), một triệu chứng lo âu giống như OCD. | psychological_analysis | Clinical OCD literature, TAF Scale | "Việc ép buộc bản thân phải đàn áp các cảm xúc tự nhiên vì sợ thu hút xui xẻo rất dễ kích hoạt cơ chế Dung hợp Suy nghĩ - Hành động, gây ra hiện tượng tự trừng phạt cảm xúc giống như triệu chứng của rối loạn ám ảnh cưỡng chế." |
+| **VC11** | Luật hấp dẫn biến các thất bại hệ thống vĩ mô thành lỗi cá nhân "chưa đủ niềm tin", hoạt động như một công cụ an thần hệ tư tưởng để thoái thác trách nhiệm xã hội. | psychological_analysis | Socioeconomic & Political Analysis | "Bằng cách quy kết nghèo đói là 'bệnh lý tâm trí', triết lý của Hill bảo vệ các bất bình ổn hệ thống vĩ mô, biến thất bại cấu trúc thành lỗi lầm cá nhân để bán thêm sách và khóa học." |
+| **VC12** | Phương pháp WOOP (MCII) thay thế Luật hấp dẫn hiệu quả bằng cách kết hợp ước mơ với đối lập rào cản nội tâm và lập kế hoạch If-Then. | verified_research | Gabriele Oettingen, Duckworth et al. (2013) | "Khoa học động lực đề xuất thay thế Luật hấp dẫn bằng phương pháp WOOP: không chỉ hình dung ước muốn, mà phải lập tức đối mặt với rào cản nội tâm và lập kế hoạch 'Nếu... Thì...' để tự động hóa hành vi thực tế." |
+
+---
+
+## Claims KHÔNG nên dùng (đã loại)
+
+| Claim | Lý do loại |
+|---|---|
+| *"Luật hấp dẫn là hoàn toàn vô dụng cho mọi trường hợp."* | **Overclaim.** Trong ngắn hạn, nó hoạt động như một cơ chế giảm lo âu tạm thời (trốn tránh thực tại), chỉ là phản tác dụng và gây hại trầm cảm trong dài hạn khi không đi kèm hành động thực tế. |
+| *"Napoleon Hill là một kẻ ác độc cố tình chế tạo Luật hấp dẫn để tàn phá tâm lý xã hội."* | **Thiếu tính khách quan.** Hill chỉ là một kẻ lừa đảo opportunist, bản thân ông cũng chịu những chấn thương từ thời thơ ấu và sống trong thời kỳ Đại suy thoái bấp bênh. |
+| *"Thực hành WOOP chắc chắn sẽ giúp bạn giàu có và thành công 100%."* | **Overclaim.** WOOP là công cụ khoa học tự điều hòa hành vi giúp tăng xác suất đạt mục tiêu cá nhân, không phải là phép màu thay đổi hoàn toàn hoàn cảnh vĩ mô. |

@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "sourceBackend": "youtubei-player",
+  "fetchedAt": "2026-08-27T17:29:19.591Z",
+  "url": "https://www.youtube.com/watch?v=ByrBiIg4wd8",
+  "videoId": "ByrBiIg4wd8",
+  "language": "en",
+  "wordCount": 3268,
+  "charCount": 18618,
+  "segmentCount": 230,
+  "warnings": [],
+  "attempts": [
+    {
+      "backend": "youtubei-player",
+      "variant": "https://www.youtube.com/watch?v=ByrBiIg4wd8",
+      "status": "success"
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,8 @@
+# Kết quả Audit từ Google Search AI Mode - CHƯƠNG 6
+
+- **File nguồn:** `chapter_06.md`
+- **Thời gian audit:** 2026-06-13 00:25:19
+
+## Phản hồi từ Google AI:
+
+Chào bạn, tôi đã tiến hành tra cứu, đối chiếu kịch bản Chương 6 của bạn với các tài liệu gốc về Giao tiếp phi bạo lực (NVC) của Marshall Rosenberg, các bài tập Luyện tập tâm trí trắc ẩn (CMT) của Paul Gilbert, cùng các lý thuyết triết học được đề cập.Chương cuối này là một cái kết rất trọn vẹn, chuyển hướng xuất sắc từ "vạch trần tổn thương" sang "cung cấp giải pháp giải phẫu hành vi" và nâng tầm tư tưởng bằng triết học. Tuy nhiên, dưới góc độ của một chuyên gia phản biện khoa học, kịch bản đang mắc phải một số lỗi dịch thuật thuật ngữ, nhầm lẫn cơ chế kích hoạt thần kinh tự chủ, và diễn giải chưa chuẩn xác về thuật ngữ triết học/tôn giáo.Dưới đây là báo cáo kiểm định chi tiết và các gợi ý hiệu chỉnh:I. KIỂM ĐỊNH CHI TIẾT & CÁC LỖI SAI LỆCH1. Lỗi dịch thuật thuật ngữ chuyên ngành (Tâm lý học)Kịch bản viết: "Tấm bản đồ Giao tiếp không bạo lực."Sai lệch thực tế: Thuật ngữ chính thức toàn cầu của Tiến sĩ Marshall Rosenberg là Nonviolent Communication (NVC), trong tiếng Việt luôn được dịch chuẩn học thuật là "Giao tiếp phi bạo lực". Dùng từ "không bạo lực" làm giảm tính chuyên nghiệp của một video khoa học.Sự tương thích với Gottman: Kịch bản viết công thức 4 bước này tương thích với kỹ thuật "Khởi đầu nhẹ nhàng của nhà nghiên cứu John Gottman" và ví dụ "Góp ý lành mạnh luôn bắt đầu bằng chữ 'Tôi' hoặc 'Anh'". Thực tế, Gottman gọi đây là Softened Start-up (Khởi đầu mềm mỏng) và nhấn mạnh việc sử dụng "I-statements" (Cấu trúc câu bắt đầu bằng "Tôi/Em/Anh") để nói về cảm xúc của chính mình thay vì đổ lỗi. Bạn cần đồng bộ hóa đại từ nhân xưng ở ví dụ của bước 2 cho chuẩn cấu trúc này.

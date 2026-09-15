@@ -1,0 +1,13 @@
+Dựa trên các tài liệu trong notebook, hãy thực hiện kiểm toán độc lập (Red Team) về 3 rủi ro chiến lược lớn nhất mà Viettel đang phải đối mặt trong giai đoạn 2026–2030:
+1. Bẫy bão hòa thị trường viễn thông di động (Telco Growth Trap):
+   - Thực trạng thị trường trong nước: Thâm nhập SIM >120%, doanh thu dịch vụ thoại/SMS sụt giảm 10-15%/năm do OTT (Zalo, Messenger).
+   - Doanh thu Data tăng trưởng chậm lại về biên lợi nhuận do cạnh tranh cước rẻ. Áp lực chuyển dịch sang không gian số (Cloud, AI, IoT, FinTech Viettel Money).
+2. Rủi ro địa chính trị và tỷ giá tại các thị trường quốc tế (Viettel Global):
+   - Phân tích rủi ro cụ thể tại Myanmar (nội chiến, phá giá đồng Kyat, thiệt hại trạm BTS).
+   - Tình trạng an ninh bất ổn và bạo lực băng đảng tại Haiti (Natcom).
+   - Tình trạng khan hiếm ngoại tệ tại các quốc gia Châu Phi khiến dòng tiền lợi nhuận khó hồi hương.
+3. Bài toán kinh tế khấu hao bán dẫn (Semiconductor Fab):
+   - Phân tích phương trình chi phí đơn vị: C_unit = C_v + (T+E)/V.
+   - Khi sản lượng V nhỏ hơn ngưỡng hòa vốn thương mại của ngành bán dẫn toàn cầu, làm thế nào Viettel giải bài toán khấu hao Capex hàng tỷ USD cho Nhà máy chip Hòa Lạc nếu chỉ phục vụ nhu cầu nội bộ quân đội?
+   - Thách thức về tỷ lệ chip đạt chuẩn (Yield Rate) và thị trường xuất khẩu.
+Trình bày khách quan, số liệu thực tế và đề xuất hướng hóa giải rủi ro.

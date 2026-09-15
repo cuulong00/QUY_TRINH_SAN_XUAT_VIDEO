@@ -1,0 +1,11 @@
+Nhìn lại một phần tư thế kỷ qua, đồ thị chi phí cơ hội của hai siêu cường vẽ ra những quỹ đạo hoàn toàn đối lập. Kể từ những năm đầu của thế kỷ hai mươi mốt, Mỹ đã tiêu hao sinh lực quốc gia vào ba cuộc can dự quân sự quy mô lớn tại Trung Đông. Từ Afghanistan, Iraq, và giờ đây là một cuộc chiến tiêu hao mới. Hàng ngàn tỷ đô la đã bị đốt cháy, trong những nỗ lực duy trì một trật tự vốn không mang lại lợi suất an ninh tương xứng.
+
+Trong cùng khoảng thời gian đó, Trung Quốc thiết lập một chiến lược tích lũy nguồn lực với sự kiên nhẫn tuyệt đối. Họ tận dụng từng chu kỳ kinh tế để củng cố nền tảng công nghiệp nặng. Họ tái cấu trúc toàn bộ mạng lưới năng lượng, loại bỏ rủi ro phụ thuộc vào nhiên liệu hóa thạch. Và quan trọng nhất, họ kiên định từ chối bước vào bất kỳ một cuộc xung đột vũ trang nào có thể làm bào mòn sinh lực quốc gia.
+
+Bài học rút ra ở đây không phải là sự đề cao một mô hình chính trị. Nó là một nguyên lý sinh tồn cơ bản của động lực học quyền lực. An ninh thực sự không bao giờ được tạo ra bằng cách liên tục xuất khẩu hỏa lực ra bên ngoài. Nó được xây dựng dựa trên năng lực tích lũy sức mạnh nội tại, và khả năng thiết lập các vùng đệm rủi ro vững chắc. Khi một cấu trúc nội lực đủ lớn, sự phòng thủ thụ động chính là phương thức răn đe hiệu quả nhất.
+
+Washington đã thiết kế một cuộc chiến để tái khẳng định vị thế, nhưng lại tự bước chân vào một cái bẫy tiêu hao do chính mình tạo ra. Bằng cách cố gắng phân phát quyền lực ra mọi điểm nóng, họ đã tự làm kiệt quệ hệ thống từ bên trong. Nguyên tắc của Napoleon về việc không bao giờ ngắt lời đối thủ khi họ đang tự mắc sai lầm, giờ đây không chỉ là một ẩn dụ. Nó đã trở thành công thức định giá lại toàn bộ cục diện địa chính trị toàn cầu.
+
+Kẻ chiến thắng cuối cùng không phải là người tung ra nhiều hệ thống hỏa lực nhất. Đó là thực thể có khả năng đứng ngoài mọi cuộc chơi tiêu hao, cho đến khi đối phương tự gục ngã dưới sức nặng của các cam kết quá sức. Sự thay đổi của trật tự thế giới không bao giờ diễn ra trong một ngày. Nhưng những điểm uốn cấu trúc thì luôn vận hành theo quy luật toán học lạnh lùng của riêng nó.
+
+Cảm ơn các bạn đã theo dõi Dòng Chảy. Nếu bạn nhận thấy giá trị từ hệ thống phân tích này, hãy chia sẻ góc nhìn của bạn dưới phần bình luận. Chúng ta sẽ còn gặp lại nhau, trong những chu kỳ dịch chuyển tiếp theo của dòng tiền và quyền lực.

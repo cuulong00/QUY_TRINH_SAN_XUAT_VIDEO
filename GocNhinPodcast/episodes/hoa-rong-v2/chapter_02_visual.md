@@ -1,0 +1,89 @@
+# chapter_02_visual.md
+
+Trong sinh học, già hóa là quy luật tự nhiên.
+
+Nhưng dưới góc độ kinh tế vĩ mô, già đi khi chưa kịp giàu là một quả bom nổ chậm.
+
+Khác với các nền kinh tế phát triển, Việt Nam đang đối diện với tốc độ già hóa chưa từng có trong lịch sử.
+
+Hãy nhìn vào số liệu thời gian.
+
+Nước Pháp mất tới 115 năm để chuyển dịch từ một xã hội đang già hóa sang một xã hội già.
+
+Thụy Điển mất 85 năm.
+
+Ngay cả một quốc gia trẻ như nước Mỹ cũng có tới 69 năm để xây dựng hệ thống an sinh.
+
+Nhưng quỹ thời gian của Việt Nam thực tế chỉ còn khoảng 10 năm, tính đến khi cơ cấu dân số vàng khép lại vào năm 2036.
+
+Chúng ta không có cả một thế kỷ để chuẩn bị.
+
+Chúng ta buộc phải xử lý gánh nặng tuổi già khi vẫn chật vật thoát bẫy thu nhập trung bình.
+
+Nhiều người sẽ phản biện rằng già hóa là xu hướng chung toàn cầu.
+
+Họ cho rằng Nhật Bản hay Hàn Quốc cũng đang đối mặt với dân số già đấy thôi.
+
+Lập luận này đúng, nhưng nó bỏ qua một sự thật cốt lõi về điểm xuất phát.
+
+Những con rồng châu Á đã thực sự giàu có trước khi họ già đi.
+
+Họ đã kịp tích lũy một lượng thặng dư tư bản khổng lồ để chi trả cho hóa đơn y tế của người già.
+
+Ngược lại, Việt Nam bước vào giai đoạn già hóa nhanh khi GNI đầu người mới chỉ chập chững ở ngưỡng 4.970 đô la.
+
+Hãy đặt sự thật vĩ mô đó vào chính phòng khách nhà bạn.
+
+Nếu bạn đang ở độ tuổi 30 đến 40, bạn đang thuộc về một thế hệ bị kẹp.
+
+Cơ cấu nhân khẩu học đang đẩy xã hội vào mô hình 4-2-1 rất nặng nề.
+
+Nghĩa là bạn và người bạn đời của mình sẽ phải cõng trên lưng tương lai của một đứa con.
+
+Cùng với đó là chi phí y tế đè nặng của bốn người già.
+
+Áp lực này càng lớn hơn khi nhìn vào cấu trúc lao động.
+
+Hiện nay có tới gần 62 phần trăm lực lượng lao động nằm ở khu vực phi chính thức.
+
+Họ là những người làm nghề tự do, hầu như không có một tấm lưới an sinh xã hội nào bảo vệ.
+
+Khi nhóm này mất khả năng lao động, gánh nặng tài chính sẽ dội ngược lại thế hệ trẻ.
+
+Và nó dội trực tiếp vào hệ thống ngân sách quốc gia.
+
+Các cột mốc thời gian đang lao đến với tốc độ chóng mặt.
+
+Tới năm 2036, tỷ lệ người trên 65 tuổi sẽ chính thức vượt qua ngưỡng 14 phần trăm.
+
+Chỉ 8 năm sau đó, toàn bộ nền kinh tế sẽ phải gồng gánh một hệ thống y tế dành cho 20,5 triệu người già.
+
+Nếu không thể tạo ra đột phá tăng trưởng của cải trước những mốc tử thần này, hệ thống quỹ hưu trí sẽ đối diện với nguy cơ vỡ nợ.
+
+Khi đó, Việt Nam sẽ có nguy cơ cao mắc kẹt lâu dài ở bẫy thu nhập trung bình cùng một xã hội lão hóa.
+
+Tuy nhiên, cũng có một lối thoát đang được các nhà kinh tế nhắc tới.
+
+Đó là khái niệm Cổ tức Tuổi thọ, hay còn gọi là Nền kinh tế Bạc.
+
+Thay vì nhìn người cao tuổi như gánh nặng, hãy nhìn họ như một nguồn lực chưa được khai thác.
+
+Nghiên cứu của OECD chỉ ra bức tranh tích cực tại Hy Lạp.
+
+Nếu nâng tỷ lệ việc làm của nhóm trên 55 tuổi, quy mô GDP có thể tăng thêm tới 23 phần trăm.
+
+Bài toán không chỉ là chăm sóc người già, mà còn là thiết kế lại một thị trường lao động linh hoạt hơn.
+
+Nhưng đó là giải pháp của tương lai.
+
+Hiện tại, áp lực đang đè lên vai thế hệ đang đi làm hôm nay.
+
+Nếu quý vị thấy những phân tích này hữu ích, hãy nhấn đăng ký kênh và chia sẻ nội dung.
+
+Đó sẽ là nguồn động viên rất lớn đối với đội ngũ sản xuất.
+
+Chúng ta hiểu rõ quỹ thời gian đang cạn kiệt, và nền kinh tế buộc phải giàu lên thật nhanh.
+
+Thế nhưng làm sao để bứt phá?
+
+Nhất là khi cỗ máy xuất khẩu hàng trăm tỷ đô la lại đang bị nhốt dưới đáy một đường cong nụ cười khắc nghiệt.

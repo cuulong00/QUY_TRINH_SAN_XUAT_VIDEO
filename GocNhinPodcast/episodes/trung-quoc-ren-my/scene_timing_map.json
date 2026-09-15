@@ -1,0 +1,1936 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Đội hình binh lính xếp hàng quy củ trước một cổng sắt lớn có biểu tượng ngôi sao đỏ phát sáng, ánh đèn pha quét qua.",
+    "sentences": [
+      "Tại sao một quốc gia sở hữu quân đội hàng triệu người"
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouettes of ranks of soldiers in massive, orderly formations, their visors and helmets catching clean silver light, standing before a towering metal gate with a glowing red star emblem, bright warm amber searchlight beams sweeping from above, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Đội hình binh lính xếp hàng quy củ trước một cổng sắt lớn có biểu tượng ngôi sao đỏ phát sáng, ánh đèn pha quét qua. (Phần 2) (Phan 2)",
+    "sentences": [
+      "cùng kho vũ khí siêu thanh hiện đại, lại thường chọn cách kiềm chế trước Mỹ?"
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the same clean black silhouettes of ranks of soldiers in massive, orderly formations, their visors and helmets catching clean silver light, standing before the same towering metal gate with the same glowing red star emblem under the same bright warm amber searchlight beams, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "Một bàn tay lật qua các tờ báo phương Tây in hình bản đồ thế giới phẳng đen trắng, góc quay cận cảnh.",
+    "sentences": [
+      "Giới truyền thông thường gọi đây là sự nhút nhát địa chính trị.",
+      "Nhưng thực tế phức tạp hơn thế rất nhiều."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the clean black silhouette of a hand flipping through old English newspapers with bold black English print and headlines and simple world maps, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Một bệ phóng tên lửa khổng lồ đứng im lìm trong bóng tối, không có chuyển động nào xung quanh.",
+    "sentences": [
+      "Bắc Kinh kiềm chế không phải vì họ thiếu tên lửa."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector towering metal missile launch pad standing silent and completely motionless in a dark warm charcoal setting, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Cận cảnh một vết rạn nứt nhỏ phát sáng màu đỏ lan dần trên một phiến đá hoa cương lớn.",
+    "sentences": [
+      "Mà vì họ đang phải đối mặt với những giới hạn cấu trúc khó lòng đảo ngược."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector microscopic crack with a faint glowing red light slowly spreading across a massive granite slab, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Bản đồ eo biển Đài Loan phẳng tối giản với hai bờ được kết nối bởi các mũi tên nét đứt màu xám.",
+    "sentences": [
+      "Một trong những vết rạn nứt nghiêm trọng nhất của Trung Quốc không nằm ở eo biển Đài Loan.",
+      "Nó nằm ngay trong lòng đất nước."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector 2D vector map of the Taiwan Strait with subtle dashed gray lines connecting the coastlines, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Một cuốn sổ da ghi ngân sách quốc gia mở ra, các cột số liệu sáng lên màu vàng nhạt dưới ánh đèn mờ.",
+    "sentences": [
+      "Hãy nhìn vào ngân sách quốc gia của họ."
+    ],
+    "base_english_prompt": "A steady shot showing an flat 2D vector open leather ledger with vertical columns of accounting numbers glowing faintly in warm cream, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một chiếc cân tiểu ly bằng đồng cổ xưa, một bên đĩa cân ghi chữ 'WEIWEN' nặng hơn bên ghi chữ 'MILITARY'.",
+    "sentences": [
+      "Từ năm 2011, chi phí duy trì ổn định nội địa, hay còn gọi là Weiwen, đã chính thức vượt ngân sách quốc phòng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector brass balance scale where the side labeled with the English text 'WEIWEN' is heavier than the 'MILITARY' side, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Các con số vĩ mô '1.44 TRILLION YUAN' hiển thị sắc nét bằng font chữ sans-serif màu cam trên phông nền đen.",
+    "sentences": [
+      "Đến năm 2022, con số này đạt 1,44 nghìn tỷ Nhân dân tệ, tương đương 214 tỷ USD."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '1.44 TRILLION YUAN' aligned to the bottom-right corner in a clean bold minimal sans-serif font on dark charcoal, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bóng đen của một người phân tích đứng trước màn hình radar hiển thị các điểm sáng chuyển động.",
+    "sentences": [
+      "Giới phân tích phương Tây thường nhìn vào chi tiêu quân sự tăng để dự báo một cuộc đối đầu trực diện."
+    ],
+    "base_english_prompt": "A slow camera panning showing the clean black silhouette of an analyst looking at a dimly lit screen with glowing radar sweep lines, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một đám đông silhouette đứng yên lặng dưới bức tường thành lớn bảo vệ một thành trì tối.",
+    "sentences": [
+      "Nhưng thực tế, mối bận tâm lớn nhất của Bắc Kinh là bảo vệ an ninh chính trị và ổn định xã hội."
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a quiet crowd standing under a towering dark city wall illuminated by a warm amber light, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một quân cờ xe bằng gỗ đứng đơn độc trên bàn cờ gỗ phẳng, ánh sáng chiếu chéo từ góc phòng.",
+    "sentences": [
+      "Một cuộc phiêu lưu quân sự đối ngoại là canh bạc nhiều rủi ro."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector dark wooden rook chess piece standing alone on a minimal wooden board under sharp chiaroscuro lighting, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Một hàng quân cờ domino bằng đá xếp liền nhau, quân đầu tiên bắt đầu đổ nhẹ làm lay động quân tiếp theo.",
+    "sentences": [
+      "Chỉ một thất bại nhỏ bên ngoài có thể kích nổ chuỗi phản ứng dây chuyền trong nước.",
+      "Dân số đang già hóa nhanh kỷ lục."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector line of black stone dominoes with the first piece tipping slightly to trigger the chain, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một cái nôi gỗ trống không nằm cô độc dưới một tháp dân số dạng tam giác ngược khổng lồ vẽ trên tường.",
+    "sentences": [
+      "Số ca sinh năm 2025 giảm xuống mức thấp nhất kể từ năm 1939, chỉ còn 7,92 triệu ca."
+    ],
+    "base_english_prompt": "A steady shot showing an flat 2D vector empty wooden cradle sitting in the shadow of a massive inverted pyramid chart displayed on a dark gray wall, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một dòng chất lỏng phát sáng màu đỏ rò rỉ ra khỏi một khe nứt của cỗ máy tài chính bằng đồng.",
+    "sentences": [
+      "Gánh nặng phúc lợi phình to cũng đang bào mòn tài lực quốc gia."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector glowing red liquid slowly leaking from a crack in a complex copper mechanical pipe system, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một túi tiền bằng vải lanh thắt dây thừng hiển thị số '10% BUDGET' phát sáng màu cam nhạt ở góc dưới.",
+    "sentences": [
+      "Ước tính, các khoản cấp bù hưu trí và bảo hiểm y tế đã chiếm tới hơn 10% tổng chi ngân sách quốc gia."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector canvas coin bag with the English text '10% BUDGET' glowing in warm cream on its fabric, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Hai bức tường đá khổng lồ di chuyển chậm ép chặt một không gian trống nhỏ ở giữa.",
+    "sentences": [
+      "Khi nguồn lực bị hút vào ổn định nội bộ và an sinh xã hội, không gian cho cạnh tranh chiến lược bị thu hẹp."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a flat 2D vector two massive stone walls closing in slowly, narrowing a small brightly lit path in between, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một biểu đồ đường nét đứt màu cam dốc xuống nhẹ, ghi chú 'GDP 4.2%' hiển thị ở mốc cuối.",
+    "sentences": [
+      "Bắc Kinh đã phải hạ mục tiêu tăng trưởng kinh tế trung hạn từ 4,8% xuống còn 4,2%."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector clean orange line graph trending downwards with the English text 'GDP 4.2%' centered in the upper third, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Một bàn tay kéo cần phanh bằng đồng cổ điển làm một bánh xe sắt lớn quay chậm lại.",
+    "sentences": [
+      "Đó là lý do đầu tiên khiến Trung Quốc phải kiềm chế."
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a hand pulling a heavy brass lever, slowing down a massive spinning iron flywheel, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một bức tường thành bằng đá kiên cố bị bao vây bởi bốn mũi tên phát sáng chỉ vào bốn góc tường.",
+    "sentences": [
+      "Nhưng thế kẹt thực sự của họ còn nằm ở bốn điểm nghẽn địa chính trị khác."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a flat 2D vector square stone fortress surrounded by four glowing red arrow indicators pointing at its corners, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một tấm màn vẽ bốn biểu tượng: đồng tiền USD, eo biển Malacca, chip bán dẫn và núi nợ LGFV phát sáng màu đỏ.",
+    "sentences": [
+      "Từ thế bẫy tài sản USD, eo biển Malacca, cho đến cuộc chiến bán dẫn và núi nợ địa phương."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector four minimalist icons representing a glowing currency emblem, a narrow strait, a microchip, and a debt ledger glowing in red, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản đồ Việt Nam tối giản phát sáng màu xanh ngọc, các dòng chảy màu vàng nhạt đại diện cho dòng vốn FDI đổ vào.",
+    "sentences": [
+      "Sự kiềm chế này trực tiếp định hình dòng chảy thương mại, dòng vốn FDI và tỷ giá VND tại Việt Nam."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector 2D map of Vietnam glowing in turquoise with subtle silver streams of capital flowing towards it, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Các bánh răng đồng liên kết với nhau chuyển động nhịp nhàng, các vệt sáng vàng dẫn lối từ bánh răng này sang bánh răng khác.",
+    "sentences": [
+      "Chúng ta sẽ cùng phân tích các cơ chế này ngay sau đây."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector interlocking brass gears spinning smoothly with glowing warm cream energy flowing through the teeth, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một chiếc chuông đồng lớn dao động nhẹ dưới mái đình Việt Nam tối giản cổ kính dưới trăng mờ.",
+    "sentences": [
+      "Nếu bạn muốn thấu hiểu dòng tiền và địa chính trị thực tế phía sau các tiêu đề báo chí"
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector large traditional bronze bell swaying gently under a minimal temple eaves under a dark night sky, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Một chiếc chuông đồng lớn dao động nhẹ dưới mái đình Việt Nam tối giản cổ kính dưới trăng mờ. (Phan 2)",
+    "sentences": [
+      "bạn có thể nhấn đăng ký để chúng ta đồng hành."
+    ],
+    "base_english_prompt": "A steady shot showing the same flat 2D vector large traditional bronze bell swaying gently under a minimal temple eaves under a dark night sky, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Khung cảnh bến cảng đảo Luzon phẳng tối giản với các cột mốc xích sắt dài, máy quay lia chậm.",
+    "sentences": [
+      "Hãy đứng ở đảo Luzon của Philippines.",
+      "Cách đó vài trăm hải lý, các nhóm tác chiến tàu sân bay Mỹ đang neo đậu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector flat coastline of Luzon island with heavy iron chain bollards on the pier under a dark olive green sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Bóng đen của ba chiếc tàu sân bay Mỹ xếp hàng hàng hải trên mặt biển tĩnh lặng màu xám.",
+    "sentences": [
+      "Đây là chốt chặn then chốt của Chuỗi đảo thứ nhất."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector three aircraft carriers sailing in formation on a flat silver sea, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bóng đen của ba chiếc tàu sân bay Mỹ xếp hàng hàng hải trên mặt biển tĩnh lặng màu xám.",
+    "sentences": [
+      "Mạng lưới này được bảo vệ bởi hơn 50 đồng minh hiệp ước toàn cầu của Mỹ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector three aircraft carriers sailing in formation on a flat silver sea, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC029",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một mạng lưới dây xích sắt kết nối các đảo nhỏ trong một chuỗi đảo, các liên kết phát sáng màu bạc.",
+    "sentences": [
+      "Việc tiếp cận Luzon giúp quân đội Mỹ kiểm soát các eo biển trọng yếu."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector network of heavy iron chains linking small islands, with glowing silver links under dim light, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC030",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một mạng lưới dây xích sắt kết nối các đảo nhỏ trong một chuỗi đảo, các liên kết phát sáng màu bạc.",
+    "sentences": [
+      "Đây là một trong những yếu tố then chốt nhằm hạn chế các nỗ lực thay đổi hiện trạng bằng vũ lực."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector network of heavy iron chains linking small islands, with glowing silver links under dim light, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC031",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một tấm lá chắn bằng thép sẫm màu với các hoa văn cổ điển cản lại một vệt sáng đỏ từ xa.",
+    "sentences": [
+      "Ở chiều ngược lại, Trung Quốc không chấp nhận bị khóa chặt dễ dàng."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector dark steel shield blocking a faint red ray of light, against a warm charcoal background, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một tấm lá chắn bằng thép sẫm màu với các hoa văn cổ điển cản lại một vệt sáng đỏ từ xa.",
+    "sentences": [
+      "Họ xây dựng năng lực răn đe bất đối xứng để bảo vệ vùng cận hải của mình."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector dark steel shield blocking a faint red ray of light, against a warm charcoal background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Bóng đen của một nhà máy đóng tàu hoành tráng nhưng không có khói bụi, chỉ có các khung thép dựng đứng.",
+    "sentences": [
+      "Nói đơn giản, họ không chạy đua đóng hàng chục siêu tàu sân bay đắt đỏ để đối đầu trực diện với Mỹ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector ship construction yard with giant gantry cranes standing empty against the sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bóng đen của một nhà máy đóng tàu hoành tráng nhưng không có khói bụi, chỉ có các khung thép dựng đứng.",
+    "sentences": [
+      "Thay vào đó, họ phát triển các hệ thống tên lửa đất đối hải có chi phí rẻ hơn hàng ngàn lần."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector ship construction yard with giant gantry cranes standing empty against the sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bóng đen của một nhà máy đóng tàu hoành tráng nhưng không có khói bụi, chỉ có các khung thép dựng đứng.",
+    "sentences": [
+      "Chúng được thiết kế để đe dọa nghiêm trọng các mục tiêu khổng lồ của đối phương."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector ship construction yard with giant gantry cranes standing empty against the sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Tên lửa hành trình siêu thanh Yingji-17 như một vệt sáng đỏ siêu tốc xé toạc bầu trời tối.",
+    "sentences": [
+      "Trong lễ duyệt binh ngày 3/9, Bắc Kinh đã trình làng tên lửa hành trình siêu thanh Yingji-17."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector high-speed projectile leaving a sharp glowing crimson coral red streak across a dark warm charcoal sky, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Tên lửa hành trình siêu thanh Yingji-17 như một vệt sáng đỏ siêu tốc xé toạc bầu trời tối.",
+    "sentences": [
+      "Đây là vũ khí chuyên dụng dùng để diệt các nhóm tác chiến tàu sân bay."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector high-speed projectile leaving a sharp glowing crimson coral red streak across a dark warm charcoal sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô hình tàu sân bay khổng lồ bằng kính nứt vỡ khi một vệt sáng nhỏ chạm vào, biểu thị chênh lệch chi phí.",
+    "sentences": [
+      "Một siêu tàu sân bay của Mỹ có trị giá tới 13 tỷ USD."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector glass model of a warship cracking as a tiny glowing red dot contacts its hull, demonstrating price disparity, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô hình tàu sân bay khổng lồ bằng kính nứt vỡ khi một vệt sáng nhỏ chạm vào, biểu thị chênh lệch chi phí.",
+    "sentences": [
+      "Nhưng một quả tên lửa chống hạm chỉ tốn vài triệu USD của Bắc Kinh."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector glass model of a warship cracking as a tiny glowing red dot contacts its hull, demonstrating price disparity, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô hình tàu sân bay khổng lồ bằng kính nứt vỡ khi một vệt sáng nhỏ chạm vào, biểu thị chênh lệch chi phí.",
+    "sentences": [
+      "Sự chênh lệch khổng lồ về chi phí và thiệt hại này tạo ra thế răn đe bất đối xứng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector glass model of a warship cracking as a tiny glowing red dot contacts its hull, demonstrating price disparity, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Hai chiến binh silhouette bằng đá đứng đối mặt nhau đóng băng trong thế thủ, thanh kiếm hạ thấp.",
+    "sentences": [
+      "Nó thiết lập một trạng thái cân bằng lạnh lẽo.",
+      "Cả hai bên đều tránh nổ súng trực diện trước."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector two stone warrior statues standing opposite each other in defensive poses under a dim cold light, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Các tuyến đường vận chuyển hàng hải màu bạc vẽ nét đứt trên đại dương tối, các tàu hàng silhouette di chuyển chậm.",
+    "sentences": [
+      "Do đó, kiềm chế và duy trì đối đầu trong vùng xám là lựa chọn thực dụng hàng đầu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector dashed silver shipping routes across a dark ocean surface with tiny cargo ship silhouettes moving slowly, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Các tuyến đường vận chuyển hàng hải màu bạc vẽ nét đứt trên đại dương tối, các tàu hàng silhouette di chuyển chậm.",
+    "sentences": [
+      "Chính sự kiềm chế ngột ngạt này đã giữ cho các tuyến hàng hải khu vực không bị gián đoạn."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector dashed silver shipping routes across a dark ocean surface with tiny cargo ship silhouettes moving slowly, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Nhà máy điện tử Việt Nam phẳng với các công nhân silhouette lắp ráp linh kiện, ánh đèn màu ngọc bích sáng ấm.",
+    "sentences": [
+      "Nó biến Việt Nam và Đông Nam Á trở thành bến đỗ an toàn cho dòng vốn đầu tư quốc tế."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the clean black silhouettes of clean assembly line in a Vietnamese electronic factory with workers in simple shirts under turquoise lights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Nhà máy điện tử Việt Nam phẳng với các công nhân silhouette lắp ráp linh kiện, ánh đèn màu ngọc bích sáng ấm.",
+    "sentences": [
+      "Khi các tập đoàn đa quốc gia phân tán rủi ro ra khỏi Trung Quốc, dòng vốn FDI công nghệ cao đổ mạnh vào nước ta."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the clean black silhouettes of clean assembly line in a Vietnamese electronic factory with workers in simple shirts under turquoise lights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Ký hiệu 'VND' và 'USD' cân bằng trên một đĩa cân đồng phẳng, các luồng ánh sáng chạy xung quanh.",
+    "sentences": [
+      "Đồng USD chảy vào giúp ổn định cán cân thanh toán và giữ vững tỷ giá VND."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English letters 'VND' and 'USD' balanced perfectly on a minimal copper balance scale with glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Ký hiệu 'VND' và 'USD' cân bằng trên một đĩa cân đồng phẳng, các luồng ánh sáng chạy xung quanh.",
+    "sentences": [
+      "Hòa bình địa chính trị, vì vậy, chính là cơ sở hạ tầng đắt giá nhất cho nền kinh tế Việt Nam."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English letters 'VND' and 'USD' balanced perfectly on a minimal copper balance scale with glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Bóng tối bao trùm một bàn cờ địa chính trị lớn, một cỗ máy đếm tiền bằng đồng sáng lên góc khuất.",
+    "sentences": [
+      "Nhưng để giữ vững thế cân bằng này, Bắc Kinh còn phải đối mặt với những ràng buộc tài chính khổng lồ khác."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector dark room with a single glowing brass accounting machine counting coins on a dark mahogany desk, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC049",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một pháo đài xây bằng các tệp tiền USD khổng lồ xếp chồng, máy quay lia từ chân pháo đài lên.",
+    "sentences": [
+      "Sở hữu khối tài sản ngoại hối khổng lồ nhưng không thể tự định"
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector massive fortress walls built from massive stacks of green financial documents under a dark sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC050",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một pháo đài xây bằng các tệp tiền USD khổng lồ xếp chồng, máy quay lia từ chân pháo đài lên. (Phan 2)",
+    "sentences": [
+      "đoạt số phận của nó là một nghịch lý địa tài chính của Bắc Kinh."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the same flat 2D vector massive fortress walls built from massive stacks of green financial documents under a dark sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC051",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một pháo đài xây bằng các tệp tiền USD khổng lồ xếp chồng, máy quay lia từ chân pháo đài lên.",
+    "sentences": [
+      "Tính đến tháng 5 năm 2026, dự trữ ngoại hối của Trung Quốc đạt mức kỷ lục 3.442,2 tỷ USD."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector massive fortress walls built from massive stacks of green financial documents under a dark sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC052",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một pháo đài xây bằng các tệp tiền USD khổng lồ xếp chồng, máy quay lia từ chân pháo đài lên.",
+    "sentences": [
+      "Bên cạnh đó, các doanh nghiệp nhà nước nước này sở hữu hơn 8.000 tỷ USD tài sản hải ngoại."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector massive fortress walls built from massive stacks of green financial documents under a dark sky, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC053",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một chiếc lồng sắt lớn bao bọc quanh biểu tượng chữ '$' bằng đồng phát sáng rực rỡ.",
+    "sentences": [
+      "Tuy nhiên, có tới 50% đến 60% tổng dự trữ ngoại hối vẫn neo giữ trực tiếp bằng USD."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector heavy iron cage constructed around a glowing warm cream glowing currency emblem shaped like a double-ruled curve in a dark room, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC054",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một chiếc lồng sắt lớn bao bọc quanh biểu tượng chữ '$' bằng đồng phát sáng rực rỡ.",
+    "sentences": [
+      "Giới phân tích coi đây là thế bẫy tài sản khổng lồ, hay còn gọi là Dollar Dilemma."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector heavy iron cage constructed around a glowing warm cream glowing currency emblem shaped like a double-ruled curve in a dark room, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC055",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Một chiếc lồng sắt lớn bao bọc quanh biểu tượng chữ '$' bằng đồng phát sáng rực rỡ.",
+    "sentences": [
+      "Hãy nhìn vào bài học của nước Nga vào cuối năm 2025."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector heavy iron cage constructed around a glowing warm cream glowing currency emblem shaped like a double-ruled curve in a dark room, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC056",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Đống tiền vàng và tài sản giấy bị một lớp băng giá phủ kín, biến thành màu xanh lam nhạt lạnh lẽo.",
+    "sentences": [
+      "Khi G7 phong tỏa vô thời hạn hơn 300 tỷ USD ngoại hối của Nga, Bắc Kinh nhận ra một thực tế lạnh lùng."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector sheets of documents and piles of shiny circular metallic discs rapidly turning into frozen ice structures under a blue light, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC057",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Đống tiền vàng và tài sản giấy bị một lớp băng giá phủ kín, biến thành màu xanh lam nhạt lạnh lẽo.",
+    "sentences": [
+      "Trong trật tự tài chính do phương Tây kiểm soát, tài sản ngoại hối bằng giấy có nguy cơ bị đóng băng nhanh chóng."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector sheets of documents and piles of shiny circular metallic discs rapidly turning into frozen ice structures under a blue light, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC058",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Biểu đồ so sánh cột tài sản khổng lồ gấp nhiều lần một cột tài sản nhỏ bên cạnh, cột lớn nứt vỡ nhẹ.",
+    "sentences": [
+      "Quy mô phơi nhiễm tài sản USD của Trung Quốc lớn gấp 15 lần Nga."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector bar chart where a colossal bar is 15 times larger than a tiny bar next to it, with glowing red warning indicators, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC059",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Biểu đồ so sánh cột tài sản khổng lồ gấp nhiều lần một cột tài sản nhỏ bên cạnh, cột lớn nứt vỡ nhẹ.",
+    "sentences": [
+      "Giáo sư Kim Xán Vinh từng cảnh báo: nếu xung đột xảy ra"
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector bar chart where a colossal bar is 15 times larger than a tiny bar next to it, with glowing red warning indicators, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC060",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Biểu đồ so sánh cột tài sản khổng lồ gấp nhiều lần một cột tài sản nhỏ bên cạnh, cột lớn nứt vỡ nhẹ. (Phan 2)",
+    "sentences": [
+      "toàn bộ ngoại hối và tài sản hải ngoại sẽ có nguy cơ bị phong tỏa."
+    ],
+    "base_english_prompt": "A subtle slow pan left showing the same flat 2D vector bar chart where a colossal bar is 15 times larger than a tiny bar next to it, with glowing red warning indicators, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC061",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Một bóng đen đứng ngập ngừng trước đòn bẩy giao dịch tài chính có chữ 'SELL BOND' phát sáng.",
+    "sentences": [
+      "Vậy tại sao Bắc Kinh không chủ động bán tháo trái phiếu Mỹ để thoát hiểm?"
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a trader standing before a large lever labeled with the English text 'SELL BOND', modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC062",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Một sợi dây thừng căng cứng kết nối hai đầu vách đá, một đầu bắt đầu đứt ra do lực kéo mạnh.",
+    "sentences": [
+      "Thực tế, đó là một thế kẹt không thể tự tháo gỡ.",
+      "Bán tháo ồ ạt sẽ kích hoạt hoảng loạn thị trường"
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector heavy hemp rope under extreme tension starting to fray and break over a dark rocky canyon, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC063",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một sợi dây thừng căng cứng kết nối hai đầu vách đá, một đầu bắt đầu đứt ra do lực kéo mạnh. (Phan 2)",
+    "sentences": [
+      "làm sụp đổ giá trị lượng tài sản còn lại và dẫn tới đổ vỡ tài chính."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing the same flat 2D vector heavy hemp rope under extreme tension starting to fray and break over a dark rocky canyon, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC064",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một van khóa bằng đồng khép chặt dòng nước chảy, chỉ để lại những giọt nước phát sáng màu vàng rơi xuống.",
+    "sentences": [
+      "Hơn nữa, Trung Quốc duy trì chính sách đóng tài khoản vốn để kiểm soát tỷ giá."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector heavy bronze valve shut tight, preventing a stream of glowing cream liquid from flowing through a pipe, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC065",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một van khóa bằng đồng khép chặt dòng nước chảy, chỉ để lại những giọt nước phát sáng màu vàng rơi xuống.",
+    "sentences": [
+      "Đồng Nhân dân tệ vì vậy không thể tự do chuyển đổi trên toàn cầu."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector heavy bronze valve shut tight, preventing a stream of glowing cream liquid from flowing through a pipe, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC066",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một van khóa bằng đồng khép chặt dòng nước chảy, chỉ để lại những giọt nước phát sáng màu vàng rơi xuống.",
+    "sentences": [
+      "Để đồng tiền này có uy tín thanh toán, ngân hàng trung ương buộc phải giữ lượng lớn USD bảo chứng."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector heavy bronze valve shut tight, preventing a stream of glowing cream liquid from flowing through a pipe, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC067",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Biểu đồ đường nợ dốc đứng với số liệu '1.1 TRILLION USD' ghi ở đỉnh biểu đồ bằng màu đỏ.",
+    "sentences": [
+      "Nền kinh tế Trung Quốc cũng gánh khoản nợ nước ngoài bằng USD lên tới 1,1 nghìn tỷ USD."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector sharp upward red line chart displaying the English text '1.1 TRILLION USD' centered in the upper third, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC068",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Biểu đồ đường nợ dốc đứng với số liệu '1.1 TRILLION USD' ghi ở đỉnh biểu đồ bằng màu đỏ.",
+    "sentences": [
+      "Một ngân hàng thương mại quốc doanh lớn của họ có nghĩa vụ nợ USD tới 460 tỷ USD."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector sharp upward red line chart displaying the English text '1.1 TRILLION USD' centered in the upper third, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC069",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Biểu đồ đường nợ dốc đứng với số liệu '1.1 TRILLION USD' ghi ở đỉnh biểu đồ bằng màu đỏ.",
+    "sentences": [
+      "Họ cần duy trì thanh khoản USD để tránh nguy cơ vỡ nợ hệ thống."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector sharp upward red line chart displaying the English text '1.1 TRILLION USD' centered in the upper third, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC070",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Một sợi xích sắt lớn quấn quanh một tháp tài chính bằng đồng, xích kéo căng khóa chặt tháp.",
+    "sentences": [
+      "Nhưng chừng nào Nhân dân tệ chưa thể tự do chuyển đổi, thế bẫy đô la Mỹ vẫn là thế kẹt mang tính cấu trúc."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector thick iron chain wrapped tightly around a minimal bronze tower structure, locking it in place, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC071",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một đường ống cơ khí lớn chạy sâu vào lòng đất tối, các van áp suất rung lắc nhẹ.",
+    "sentences": [
+      "Bên cạnh điểm nghẽn về dòng tiền, Trung Quốc còn đối mặt với những nút thắt vật lý nguy hiểm khác."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector large industrial pipe network disappearing into a dark void, with small gauges showing rising red pressure levels, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC072",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Một ngọn núi đá khổng lồ đứng sừng sững trên nền tối, bên dưới là những mô hình thành phố phẳng nhỏ bé.",
+    "sentences": [
+      "Hạ tầng nhân tạo có thể xây dựng bằng tiền.",
+      "Nhưng địa lý là một yếu tố khó lòng thay đổi."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector massive dark stone mountain range looming over a minimal 2D vector city silhouette below, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC073",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Một ngọn núi đá khổng lồ đứng sừng sững trên nền tối, bên dưới là những mô hình thành phố phẳng nhỏ bé.",
+    "sentences": [
+      "Bắc Kinh hiểu rõ điều này hơn ai hết."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector massive dark stone mountain range looming over a minimal 2D vector city silhouette below, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC074",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một chiếc mắt kính lớn hoặc camera giám sát chiếu chùm tia sáng đỏ xuống một dòng sông phẳng.",
+    "sentences": [
+      "Khi dòng máu năng lượng và nguồn lương thực của họ đang nằm dưới sự giám sát của đối thủ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector giant camera lens projecting a glowing crimson coral red searchlight beam onto a narrow blue shipping canal, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC075",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Bóng đen của một chiếc tàu dầu khổng lồ đang hành trình đơn độc trên nền nước biển tối.",
+    "sentences": [
+      "Năm 2025, nhu cầu tiêu thụ dầu thô của Trung Quốc đạt mức kỷ lục 11,6 triệu thùng mỗi ngày."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector mega oil tanker vessel cruising slowly across a dark warm charcoal sea, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC076",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng đen của một chiếc tàu dầu khổng lồ đang hành trình đơn độc trên nền nước biển tối.",
+    "sentences": [
+      "Hiện tại, hơn 70% lượng dầu thô tiêu thụ phụ thuộc vào nguồn nhập khẩu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector mega oil tanker vessel cruising slowly across a dark warm charcoal sea, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC077",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Bóng đen của một chiếc tàu dầu khổng lồ đang hành trình đơn độc trên nền nước biển tối.",
+    "sentences": [
+      "Và hơn 90% trong số đó được vận chuyển bằng đường biển.",
+      "Tất cả dòng chảy khổng lồ này phải hội tụ về eo biển Malacca."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector mega oil tanker vessel cruising slowly across a dark warm charcoal sea, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC078",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Một eo biển Malacca phẳng tối giản dạng phễu hẹp, các tàu hàng silhouette đang chật vật lách qua.",
+    "sentences": [
+      "Một nút thắt cổ chai chỉ rộng 2,8 km ở điểm hẹp nhất."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector 2D graphic of a narrow water bottleneck labeled 'MALACCA' with cargo ship silhouettes squeezed in a tight passage, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC079",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một eo biển Malacca phẳng tối giản dạng phễu hẹp, các tàu hàng silhouette đang chật vật lách qua.",
+    "sentences": [
+      "Mỗi ngày, khoảng 6,5 triệu thùng dầu thô của Trung Quốc phải lách qua khe hẹp này."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector 2D graphic of a narrow water bottleneck labeled 'MALACCA' with cargo ship silhouettes squeezed in a tight passage, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC080",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Hàng loạt tàu chiến Mỹ dàn trận chặn ở cửa biển, chiếu đèn pha màu vàng cắt ngang bóng tối.",
+    "sentences": [
+      "Trong kịch bản xung đột, hải quân Mỹ có ưu thế lớn để phong tỏa eo biển từ xa bằng lực lượng tàu sân bay."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector military fleet silhouettes barricading a harbor entrance, projecting sharp yellow searchlights into the night, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC081",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Hàng loạt tàu chiến Mỹ dàn trận chặn ở cửa biển, chiếu đèn pha màu vàng cắt ngang bóng tối.",
+    "sentences": [
+      "Bắc Kinh đã chi hàng trăm tỷ USD cho Sáng kiến Vành đai và Con đường để tìm lối thoát trên bộ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector military fleet silhouettes barricading a harbor entrance, projecting sharp yellow searchlights into the night, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC082",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đường ống dẫn dầu chạy dọc theo sườn núi đá vôi phẳng, các khớp nối rỉ ra dòng dầu phát sáng.",
+    "sentences": [
+      "Tuy nhiên, các phương án này vấp phải những giới hạn địa lý lớn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector steel pipeline running along a gray rocky cliffside, with small glowing amber indicators at joint points, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC083",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Đường ống dẫn dầu chạy dọc theo sườn núi đá vôi phẳng, các khớp nối rỉ ra dòng dầu phát sáng.",
+    "sentences": [
+      "Đường ống dẫn dầu qua Myanmar dù chạy hết công suất cũng chỉ đạt 420.000 thùng mỗi ngày."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector steel pipeline running along a gray rocky cliffside, with small glowing amber indicators at joint points, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC084",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Đường ống dẫn dầu chạy dọc theo sườn núi đá vôi phẳng, các khớp nối rỉ ra dòng dầu phát sáng.",
+    "sentences": [
+      "Con số này chưa đáp ứng nổi 7% lượng dầu đi qua Malacca."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector steel pipeline running along a gray rocky cliffside, with small glowing amber indicators at joint points, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC085",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Các công trình xây dựng hành lang Pakistan kẹt trong bão tuyết trên dãy núi Karakoram tối giản.",
+    "sentences": [
+      "Hành lang qua Pakistan trị giá 62 tỷ USD cũng kẹt trong dãy núi Karakoram và hiểm họa khủng bố."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector concrete tower structure built on snowy mountain peaks under a dark charcoal sky with heavy wind effects, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC086",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Hàng loạt bồn chứa dầu hình tròn khổng lồ xếp thành hàng dài trên mặt đất phẳng.",
+    "sentences": [
+      "Để giảm cú sốc ngắn hạn, Trung Quốc tích lũy kho dự trữ trên bộ lên tới 1,206 tỷ thùng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector rows of massive steel oil storage tanks standing silent on a flat dark ground under a dim amber glow, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC087",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Hàng loạt bồn chứa dầu hình tròn khổng lồ xếp thành hàng dài trên mặt đất phẳng.",
+    "sentences": [
+      "Nhưng lượng dầu này chỉ đủ duy trì trong 104 ngày nhập khẩu ròng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector rows of massive steel oil storage tanks standing silent on a flat dark ground under a dim amber glow, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC088",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Cánh đồng lúa mì vàng phẳng tối giản, một bóng đen nông dân đứng nhìn bầu trời đầy mây xám.",
+    "sentences": [
+      "Bên cạnh năng lượng, an ninh lương thực cũng là một thách thức cấu trúc."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector 2D vector field of golden wheat crop under a dark sky, with a farmer silhouette standing in the center, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC089",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Cánh đồng lúa mì vàng phẳng tối giản, một bóng đen nông dân đứng nhìn bầu trời đầy mây xám.",
+    "sentences": [
+      "An ninh lương thực là gốc rễ của ổn định xã hội."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector 2D vector field of golden wheat crop under a dark sky, with a farmer silhouette standing in the center, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC090",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Cơn mưa các hạt đậu nành tròn rơi xuống như những viên đạn nhỏ lên trên đàn heo silhouette đen.",
+    "sentences": [
+      "Nhưng năm 2024, thặng dư ngũ cốc không cứu được khoản thâm hụt thương mại nông nghiệp 124,5 tỷ USD."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the clean black silhouette of a shower of golden soybean spheres falling like small ammunition onto a crowd of pig silhouettes below, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC091",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Cơn mưa các hạt đậu nành tròn rơi xuống như những viên đạn nhỏ lên trên đàn heo silhouette đen.",
+    "sentences": [
+      "Đậu nành là nguồn protein cốt lõi để nuôi đàn heo khổng lồ của đất nước này."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the clean black silhouette of a shower of golden soybean spheres falling like small ammunition onto a crowd of pig silhouettes below, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC092",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một con tàu chở hàng từ Brazil vượt sóng lớn cập cảng, trên container in chữ 'SOYBEAN' phát sáng.",
+    "sentences": [
+      "Dù đã dịch chuyển 71% thị phần sang Brazil, Bắc Kinh vẫn phụ thuộc 21,1% vào Mỹ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector cargo ship in heavy waves with the English text 'SOYBEAN' glowing in warm cream on a shipping container, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC093",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một con tàu chở hàng từ Brazil vượt sóng lớn cập cảng, trên container in chữ 'SOYBEAN' phát sáng.",
+    "sentences": [
+      "Cam kết Busan buộc Trung Quốc phải mua ít nhất 25 triệu tấn đậu nành Mỹ mỗi năm từ 2026."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector cargo ship in heavy waves with the English text 'SOYBEAN' glowing in warm cream on a shipping container, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC094",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một con tàu chở hàng từ Brazil vượt sóng lớn cập cảng, trên container in chữ 'SOYBEAN' phát sáng.",
+    "sentences": [
+      "Bất kỳ sự đứt gãy nguồn cung nào từ Mỹ đều có nguy cơ gây áp lực lên giá thịt heo trong nước."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector cargo ship in heavy waves with the English text 'SOYBEAN' glowing in warm cream on a shipping container, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC095",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một chiếc phong bì có tem đóng dấu cấm vận đỏ mở ra, bên trong hiển thị hình ảnh phóng to của một chip bán dẫn.",
+    "sentences": [
+      "Hồi chuông cảnh báo về năng lượng và lương thực cho thấy Bắc Kinh nhạy cảm thế nào."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a flat 2D vector paper letter envelope marked with a red seal, revealing a microchip diagram inside, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC096",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một chiếc phong bì có tem đóng dấu cấm vận đỏ mở ra, bên trong hiển thị hình ảnh phóng to của một chip bán dẫn.",
+    "sentences": [
+      "Nhưng một trong những rào cản lớn nhất ngăn họ bứt phá, lại là một công nghệ siêu vi."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a flat 2D vector paper letter envelope marked with a red seal, revealing a microchip diagram inside, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC097",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Tấm silicon mỏng phát sáng màu xanh ngọc dưới chùm tia laser, máy quay quay cận cảnh.",
+    "sentences": [
+      "Trong kỷ nguyên số, tiền bạc chưa chắc đã mua được chủ quyền công nghệ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector clean silicon wafer glowing in electric sage green under a precise laser beam source, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC098",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Tấm silicon mỏng phát sáng màu xanh ngọc dưới chùm tia laser, máy quay quay cận cảnh.",
+    "sentences": [
+      "Ngành công nghiệp bán dẫn tiên tiến là minh chứng rõ ràng nhất."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector clean silicon wafer glowing in electric sage green under a precise laser beam source, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC099",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bàn tay bằng kim loại của robot đang bóp nghẹt một ống vi mạch phát sáng màu cam.",
+    "sentences": [
+      "Bắc Kinh gọi đây là nỗi ám ảnh mang tên Ka Bozi, nghĩa là bị bóp cổ công nghệ."
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a mechanical steel robotic hand holding a bundle of glowing copper microchips tightly under extreme pressure, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC100",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bàn tay bằng kim loại của robot đang bóp nghẹt một ống vi mạch phát sáng màu cam.",
+    "sentences": [
+      "Nút thắt quyết định nằm ở một doanh nghiệp Hà Lan, tập đoàn ASML."
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a mechanical steel robotic hand holding a bundle of glowing copper microchips tightly under extreme pressure, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC101",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Cỗ máy quang khắc EUV của ASML khổng lồ bằng kim loại xám đứng sừng sững trong phòng sạch vô trùng.",
+    "sentences": [
+      "Đây là nhà sản xuất duy nhất trên thế giới chế tạo được máy quang khắc cực tím EUV."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector massive high-tech ASML lithography machine inside a clean room with glowing white indicators, featuring a subtle flat 2D vector Chinese flag emblem, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC102",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Cỗ máy quang khắc EUV của ASML khổng lồ bằng kim loại xám đứng sừng sững trong phòng sạch vô trùng.",
+    "sentences": [
+      "Dưới sức ép của Mỹ, ASML đã cấm xuất khẩu máy EUV sang Trung Quốc từ năm 2019."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector massive high-tech ASML lithography machine inside a clean room with glowing white indicators, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC103",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bức tường làm từ các vi mạch bán dẫn xám dựng lên chặn ngang dòng ánh sáng truyền dữ liệu.",
+    "sentences": [
+      "Đến tháng 1 năm 2024, lệnh cấm tiếp tục mở rộng sang cả dòng máy DUV ngâm."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector solid wall of gray computer processors blocking a stream of flowing digital green sage data, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC104",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bức tường làm từ các vi mạch bán dẫn xám dựng lên chặn ngang dòng ánh sáng truyền dữ liệu.",
+    "sentences": [
+      "Cú đấm này gây cản trở lớn cho nấc thang công nghệ cuối cùng của Trung Quốc dưới tiến trình 7nm."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector solid wall of gray computer processors blocking a stream of flowing digital green sage data, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC105",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Logo ASML phát sáng màu xanh lam mờ trên phông nền cấu trúc linh kiện dệt từ cờ Mỹ.",
+    "sentences": [
+      "Dù là một công ty Hà Lan, cấu trúc của ASML lại mang đậm dấu ấn Mỹ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector ASML logo on a machine chassis where 55% of the surface is textured with a minimal US flag pattern, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC106",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Logo ASML phát sáng màu xanh lam mờ trên phông nền cấu trúc linh kiện dệt từ cờ Mỹ.",
+    "sentences": [
+      "Khoảng 55% linh kiện trong máy quang khắc của họ có nguồn gốc từ Mỹ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector ASML logo on a machine chassis where 55% of the surface is textured with a minimal US flag pattern, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC107",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một thấu kính quang học lớn của Cymer hội tụ chùm ánh sáng cực tím phát sáng màu xanh ngọc.",
+    "sentences": [
+      "Đặc biệt, bộ phận nguồn sáng cực tím quyết định của máy bắt buộc phải do công ty Cymer của Mỹ cung cấp."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector large optical lens focus system labeled with the English text 'CYMER' focusing a bright ultraviolet laser beam, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC108",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một thấu kính quang học lớn của Cymer hội tụ chùm ánh sáng cực tím phát sáng màu xanh ngọc.",
+    "sentences": [
+      "Hai cổ đông lớn nhất kiểm soát ASML cũng là các quỹ tài chính Mỹ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector large optical lens focus system labeled with the English text 'CYMER' focusing a bright ultraviolet laser beam, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC109",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bóng đen của một quan chức ký sắc lệnh cấm vận dưới ánh đèn bàn sắc nét, tay cầm bút lông.",
+    "sentences": [
+      "Bằng quyền tài phán cánh tay dài, Washington có thể gây áp lực lớn lên chuỗi cung ứng của đối thủ."
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a leader signing a document under a sharp desk lamp spotlight, in a dark study room, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC110",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Logo HiSilicon của Huawei phát sáng màu cam nhạt rồi vỡ vụn biến thành các hạt bụi rơi xuống đất.",
+    "sentences": [
+      "Tác động thực tế lên các doanh nghiệp Trung Quốc diễn ra rất rõ ràng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector glowing microchip with the logo 'HiSilicon' slowly disintegrating into fine silver dust against a black background, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC111",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Logo HiSilicon của Huawei phát sáng màu cam nhạt rồi vỡ vụn biến thành các hạt bụi rơi xuống đất.",
+    "sentences": [
+      "Huawei HiSilicon từng chiếm 16% thị phần chip di động toàn cầu năm 2020."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector glowing microchip with the logo 'HiSilicon' slowly disintegrating into fine silver dust against a black background, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC112",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Logo HiSilicon của Huawei phát sáng màu cam nhạt rồi vỡ vụn biến thành các hạt bụi rơi xuống đất.",
+    "sentences": [
+      "Nhưng đến cuối năm 2022, con số này đã rơi thẳng về mức 0%."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector glowing microchip with the logo 'HiSilicon' slowly disintegrating into fine silver dust against a black background, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC113",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một đống quặng đất hiếm thô màu đen nằm cạnh một khối tinh thể Gallium lấp lánh màu xanh ngọc.",
+    "sentences": [
+      "Vậy tại sao Bắc Kinh không dùng thế độc quyền đất hiếm và kim loại hiếm để trả đũa?"
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector heap of black rare earth minerals next to a reflecting metallic gallium crystal chunk glowing in turquoise, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC114",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Một đống quặng đất hiếm thô màu đen nằm cạnh một khối tinh thể Gallium lấp lánh màu xanh ngọc.",
+    "sentences": [
+      "Thực tế, đó là một đòn bẩy tự giới hạn."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector heap of black rare earth minerals next to a reflecting metallic gallium crystal chunk glowing in turquoise, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC115",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Bản đồ Bắc Mỹ phẳng tối giản, các mỏ khai thác đất hiếm cũ bắt đầu phát sáng đèn tín hiệu màu xanh.",
+    "sentences": [
+      "Nếu siết nguồn cung khoáng sản, họ sẽ kích hoạt phương Tây đẩy nhanh tự chủ khai thác."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector 2D map of North America with multiple mining site locations starting to glow in bright silver light, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC116",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bản đồ Bắc Mỹ phẳng tối giản, các mỏ khai thác đất hiếm cũ bắt đầu phát sáng đèn tín hiệu màu xanh.",
+    "sentences": [
+      "Các dự án ngoài Trung Quốc sẽ lập tức có lãi về mặt thương mại."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector 2D map of North America with multiple mining site locations starting to glow in bright silver light, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC117",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Động cơ xe điện Tesla thế hệ mới không nam châm vĩnh cửu quay nhịp nhàng, cuộn dây đồng phát sáng.",
+    "sentences": [
+      "Hơn nữa, sự khan hiếm sẽ ép các tập đoàn công nghệ lớn tìm ra vật liệu thay thế."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector inner copper coils of a futuristic electric motor spinning smoothly without rare earth magnets, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC118",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "Động cơ xe điện Tesla thế hệ mới không nam châm vĩnh cửu quay nhịp nhàng, cuộn dây đồng phát sáng.",
+    "sentences": [
+      "Khi đó, Bắc Kinh sẽ mất vĩnh viễn khách hàng và thị phần.",
+      "Do đó, họ lựa chọn phản ứng thận trọng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector inner copper coils of a futuristic electric motor spinning smoothly without rare earth magnets, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC119",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Thùng gỗ chứa máy DUV cũ của ASML cập bến cảng Trung Quốc, đóng dấu số '3 BILLION USD'.",
+    "sentences": [
+      "Bắc Kinh đã phản ứng bằng cách chi tới 3 tỷ USD cho ASML trong năm 2024."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector wooden cargo crates containing ASML lithography machines with the English text '3 BILLION USD' stamped in bold black ink, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC120",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Thùng gỗ chứa máy DUV cũ của ASML cập bến cảng Trung Quốc, đóng dấu số '3 BILLION USD'.",
+    "sentences": [
+      "Họ gom các dòng máy DUV cũ để chạy kỹ thuật đa phơi bản nhằm làm chip 7nm."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector wooden cargo crates containing ASML lithography machines with the English text '3 BILLION USD' stamped in bold black ink, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC121",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bóng đen của kỹ sư đang kiểm tra tấm silicon lỗi dưới kính hiển vi điện tử phát sáng đỏ cảnh báo.",
+    "sentences": [
+      "Tuy nhiên, phương pháp này đi kèm tỷ lệ lỗi cực cao và chi phí đắt đỏ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector microscope screen displaying a defected wafer pattern with glowing red error codes centered in the upper third, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC122",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Bóng đen của kỹ sư đang kiểm tra tấm silicon lỗi dưới kính hiển vi điện tử phát sáng đỏ cảnh báo.",
+    "sentences": [
+      "Nó rất khó áp dụng thương mại quy mô lớn cho các tiến trình nhỏ hơn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector microscope screen displaying a defected wafer pattern with glowing red error codes centered in the upper third, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC123",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bản đồ Đông Nam Á với Việt Nam ở trung tâm phát sáng, các đường kết nối bán dẫn chạy từ Mỹ sang Việt Nam.",
+    "sentences": [
+      "Cuộc chiến bán dẫn Mỹ - Trung, ở chiều ngược lại, đang tạo ra những lợi thế lớn cho Việt Nam."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector map of Southeast Asia with Vietnam glowing in turquoise, and microchip routing paths linking it to global tech hubs, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC124",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bản đồ Đông Nam Á với Việt Nam ở trung tâm phát sáng, các đường kết nối bán dẫn chạy từ Mỹ sang Việt Nam.",
+    "sentences": [
+      "Sự phân tán chuỗi cung ứng thúc đẩy các ông lớn như Intel hay Nvidia chuyển dịch cơ sở."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector map of Southeast Asia with Vietnam glowing in turquoise, and microchip routing paths linking it to global tech hubs, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC125",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Tòa nhà trung tâm đóng gói và kiểm thử chip hiện đại tại Việt Nam với các robot vận hành silhouette.",
+    "sentences": [
+      "Nước ta đang trở thành bến đỗ mới cho các trung tâm đóng gói và thiết kế chip."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector modern cleanroom facility layout in Vietnam with robotic arms operating in a futuristic sage green environment, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC126",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Tòa nhà trung tâm đóng gói và kiểm thử chip hiện đại tại Việt Nam với các robot vận hành silhouette.",
+    "sentences": [
+      "Nhưng để đón đầu làn sóng này, chúng ta cần hiểu rõ những rạn nứt tài chính sâu sắc ngay bên trong lòng Trung Quốc."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector modern cleanroom facility layout in Vietnam with robotic arms operating in a futuristic sage green environment, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC127",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bóng đen của những tòa nhà chung cư dang dở đổ bóng dài trên mặt đất phẳng tối giản.",
+    "sentences": [
+      "Một trong những vết rạn nứt nghiêm trọng nhất của một siêu cường thường không nằm ở biên giới quân sự."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector unfinished high-rise concrete buildings standing empty under a dark gray sky, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC128",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng đen của những tòa nhà chung cư dang dở đổ bóng dài trên mặt đất phẳng tối giản.",
+    "sentences": [
+      "Nó ẩn sâu trong bảng cân đối kế toán của các chính quyền địa phương."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector unfinished high-rise concrete buildings standing empty under a dark gray sky, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC129",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một cuốn sách luật thuế năm 1994 mở ra, các dòng chữ '1994 TAX REFORM' sáng màu vàng.",
+    "sentences": [
+      "Mầm mống của cuộc khủng hoảng bắt đầu từ cải cách thuế năm 1994."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector vintage legal book open to a page with the bold English text '1994 TAX REFORM' glowing in warm cream, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC130",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một cuốn sách luật thuế năm 1994 mở ra, các dòng chữ '1994 TAX REFORM' sáng màu vàng.",
+    "sentences": [
+      "Khi trung ương tập trung phần lớn nguồn thu, nhưng đẩy gánh nặng chi tiêu công về địa phương."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector vintage legal book open to a page with the bold English text '1994 TAX REFORM' glowing in warm cream, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC131",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Biểu trưng của công cụ tài chính LGFV dưới dạng kim tự tháp giấy xếp chồng, móng xây trên sổ đỏ.",
+    "sentences": [
+      "Để có tiền làm hạ tầng, các tỉnh lách luật bằng cách thành lập các công cụ tài chính LGFV."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector card tower built from paper land deeds sitting on a dark mahogany table in a dim office, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC132",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Biểu trưng của công cụ tài chính LGFV dưới dạng kim tự tháp giấy xếp chồng, móng xây trên sổ đỏ.",
+    "sentences": [
+      "Họ thế chấp đất đai để vay tiền từ các ngân hàng thương mại."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector card tower built from paper land deeds sitting on a dark mahogany table in a dim office, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC133",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bản đồ quy hoạch đất đai bị khô nứt, các hạt cát màu vàng chảy qua các kẽ nứt rơi vào bóng tối.",
+    "sentences": [
+      "Khi bong bóng bất động sản Trung Quốc xì hơi từ năm 2021, mô hình này bộc lộ nhiều điểm yếu."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector parched earth texture resembling a dry land map with fine golden sand slipping through the dry cracks, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC134",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bản đồ quy hoạch đất đai bị khô nứt, các hạt cát màu vàng chảy qua các kẽ nứt rơi vào bóng tối.",
+    "sentences": [
+      "Nguồn thu từ đất đai biến mất, để lại một núi nợ khổng lồ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector parched earth texture resembling a dry land map with fine golden sand slipping through the dry cracks, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC135",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Con số nợ ẩn '60 TRILLION YUAN' (8.8 Trillion USD) hiển thị bằng font chữ lớn màu đỏ cảnh báo.",
+    "sentences": [
+      "IMF ước tính tổng nợ ẩn của các LGFV đã chạm mức 60 nghìn tỷ Nhân dân tệ, tương đương 8,8 nghìn tỷ USD."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '60 TRILLION YUAN' in a clean bold minimal sans-serif font centered in the upper third on a dark background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC136",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Con số nợ ẩn '60 TRILLION YUAN' (8.8 Trillion USD) hiển thị bằng font chữ lớn màu đỏ cảnh báo.",
+    "sentences": [
+      "Con số này chiếm tới 48% GDP của Trung Quốc."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '60 TRILLION YUAN' in a clean bold minimal sans-serif font centered in the upper third on a dark background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC137",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Con số nợ ẩn '60 TRILLION YUAN' (8.8 Trillion USD) hiển thị bằng font chữ lớn màu đỏ cảnh báo.",
+    "sentences": [
+      "Nó kéo tổng nợ công thực tế của quốc gia lên tới 117% GDP vào năm 2023."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '60 TRILLION YUAN' in a clean bold minimal sans-serif font centered in the upper third on a dark background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC138",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Tòa nhà ngân hàng thương mại lớn bằng kính tối, móng nhà bị nứt một vết sáng màu đỏ.",
+    "sentences": [
+      "Mối nguy hiểm thực sự nằm ở hệ thống ngân hàng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector modern commercial bank headquarters silhouette with a red fracture line glowing at its foundation, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC139",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Tòa nhà ngân hàng thương mại lớn bằng kính tối, móng nhà bị nứt một vết sáng màu đỏ.",
+    "sentences": [
+      "Các ngân hàng thương mại đang phơi nhiễm tới 15% tổng tài sản với nợ LGFV."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector modern commercial bank headquarters silhouette with a red fracture line glowing at its foundation, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC140",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Biểu đồ cột mô tả tỷ lệ nợ xấu ngân hàng vọt lên 75% hiển thị cột đỏ cao đột biến.",
+    "sentences": [
+      "Tỷ lệ này cao gấp gần 4 lần mức phơi nhiễm trực tiếp với các chủ đầu tư bất động sản."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector bar graph where a red bar representing a 75% increase shoots up abruptly with a glowing warning icon, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC141",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Biểu đồ cột mô tả tỷ lệ nợ xấu ngân hàng vọt lên 75% hiển thị cột đỏ cao đột biến.",
+    "sentences": [
+      "Chỉ cần 5% khối nợ LGFV vỡ nợ, lượng nợ xấu toàn hệ thống sẽ lập tức tăng vọt 75%."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector bar graph where a red bar representing a 75% increase shoots up abruptly with a glowing warning icon, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC142",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Hai bàn tay đang chuyển giao một tập hồ sơ gia hạn nợ có ghi 'DEBT EXTENSION' màu vàng.",
+    "sentences": [
+      "Để ngăn chặn kịch bản đổ vỡ, Bắc Kinh buộc các ngân hàng phải đảo nợ liên tục."
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a two hands passing a document labeled with the English text 'DEBT EXTENSION', with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC143",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Hai bàn tay đang chuyển giao một tập hồ sơ gia hạn nợ có ghi 'DEBT EXTENSION' màu vàng.",
+    "sentences": [
+      "Kỹ thuật giãn nợ này được gọi là kéo dài thời gian và trì hoãn rủi ro."
+    ],
+    "base_english_prompt": "A steady shot showing the clean black silhouette of a two hands passing a document labeled with the English text 'DEBT EXTENSION', with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC144",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Bóng đen của những dự án xây dựng bỏ hoang giống như những bóng ma đứng im lìm trong sương mù tối.",
+    "sentences": [
+      "Việc kéo dài sự sống cho các dự án thây ma làm cạn kiệt thanh khoản của các nhà băng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector abandoned construction machinery and steel frames standing like dark ghosts in heavy gray fog, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC145",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bóng đen của những dự án xây dựng bỏ hoang giống như những bóng ma đứng im lìm trong sương mù tối.",
+    "sentences": [
+      "Nó làm suy yếu đáng kể sức đề kháng của nền tài chính vĩ mô trước các lệnh trừng phạt bên ngoài."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector abandoned construction machinery and steel frames standing like dark ghosts in heavy gray fog, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC146",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Con số chi phí '2.9 TRILLION YUAN' (428 Billion USD) sáng màu đỏ trên biểu đồ chi tiêu tài khóa.",
+    "sentences": [
+      "Cùng lúc đó, ngân sách quốc gia tiếp tục bị bào mòn bởi vực thẳm nhân khẩu học."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '2.9 TRILLION YUAN' aligned to the bottom-right corner in a clean bold minimal sans-serif font on dark charcoal, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC147",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Con số chi phí '2.9 TRILLION YUAN' (428 Billion USD) sáng màu đỏ trên biểu đồ chi tiêu tài khóa.",
+    "sentences": [
+      "Trong năm 2025, chính phủ phải chi tới 2,9 nghìn tỷ Nhân dân tệ"
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '2.9 TRILLION YUAN' aligned to the bottom-right corner in a clean bold minimal sans-serif font on dark charcoal, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC148",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Con số chi phí '2.9 TRILLION YUAN' (428 Billion USD) sáng màu đỏ trên biểu đồ chi tiêu tài khóa. (Phan 2)",
+    "sentences": [
+      "tương đương khoảng 428 tỷ USD để cấp bù hưu trí và y tế."
+    ],
+    "base_english_prompt": "A slow camera panning showing the same flat 2D vector English text '2.9 TRILLION YUAN' aligned to the bottom-right corner in a clean bold minimal sans-serif font on dark charcoal, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC149",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Con số chi phí '2.9 TRILLION YUAN' (428 Billion USD) sáng màu đỏ trên biểu đồ chi tiêu tài khóa.",
+    "sentences": [
+      "Khoản chi cấp bù này chiếm tới 10,1% tổng chi ngân sách quốc gia."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '2.9 TRILLION YUAN' aligned to the bottom-right corner in a clean bold minimal sans-serif font on dark charcoal, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC150",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Cặp gọng kìm thép khổng lồ bóp chặt một chiếc khiên bảo vệ, chiếc khiên bị lõm nhẹ.",
+    "sentences": [
+      "Gánh nặng kép từ nợ thây ma và an sinh xã hội đang làm thu hẹp đáng kể không gian tài chính của Bắc Kinh."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a flat 2D vector heavy steel caliper holding tightly under pressure a minimal defense shield emblem, with faint red stress lines appearing, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC151",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Cặp gọng kìm thép khổng lồ bóp chặt một chiếc khiên bảo vệ, chiếc khiên bị lõm nhẹ.",
+    "sentences": [
+      "Điều này buộc Bắc Kinh phải duy trì trạng thái kiềm chế chiến lược."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a flat 2D vector heavy steel caliper holding tightly under pressure a minimal defense shield emblem, with faint red stress lines appearing, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC152",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng đen pháo đài Bắc Kinh sừng sững, các luồng ánh sáng xanh ngọc bảo vệ bao quanh.",
+    "sentences": [
+      "Nhưng sẽ là sai lầm nếu cho rằng Bắc Kinh sẽ dễ dàng nhượng bộ."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector stone fortress silhouette standing strong against a dark sky, illuminated by glowing turquoise lights, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC153",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Bóng đen pháo đài Bắc Kinh sừng sững, các luồng ánh sáng xanh ngọc bảo vệ bao quanh.",
+    "sentences": [
+      "Trung Quốc đã xây dựng những phương án đối trọng cụ thể."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector stone fortress silhouette standing strong against a dark sky, illuminated by glowing turquoise lights, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC154",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Đống vàng thỏi chất chồng trong kho dự trữ quốc gia phát sáng lấp lánh ánh kim.",
+    "sentences": [
+      "Để phòng thủ trước đòn trừng phạt đô la Mỹ, Bắc Kinh liên tục tích lũy vàng vật chất."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector neatly stacked rows of pure gold bars glowing in warm cream color inside a secure dark vault, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC155",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đống vàng thỏi chất chồng trong kho dự trữ quốc gia phát sáng lấp lánh ánh kim.",
+    "sentences": [
+      "Trữ lượng vàng của ngân hàng trung ương đã đạt mức 74,96 triệu ounce."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector neatly stacked rows of pure gold bars glowing in warm cream color inside a secure dark vault, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC156",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Bản đồ BRI toàn cầu với các tuyến thương mại kết nối Trung Quốc với các nước đang phát triển.",
+    "sentences": [
+      "Họ cũng đạt thặng dư ngoại thương kỷ lục vượt 1,1 nghìn tỷ USD vào cuối năm 2025."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector 2D world map with silver dashed shipping routes radiating from East Asia to the Global South, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC157",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Bản đồ BRI toàn cầu với các tuyến thương mại kết nối Trung Quốc với các nước đang phát triển.",
+    "sentences": [
+      "Dòng tiền này được nắn dịch chuyển mạnh mẽ sang các đối tác Vành đai và Con đường."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector 2D world map with silver dashed shipping routes radiating from East Asia to the Global South, featuring a subtle flat 2D vector Chinese flag emblem, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC158",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Biểu thị con số '47% EXPORT' hiển thị trên bản đồ các quốc gia ở Nam Bán Cầu phát sáng xanh.",
+    "sentences": [
+      "Xuất khẩu sang khu vực này hiện đã chiếm tới 47% tổng kim ngạch của Trung Quốc."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '47% EXPORT' in a clean bold minimal sans-serif font centered in the upper third over a glowing turquoise land mass, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC159",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Biểu thị con số '47% EXPORT' hiển thị trên bản đồ các quốc gia ở Nam Bán Cầu phát sáng xanh.",
+    "sentences": [
+      "Trục thương mại đang dịch chuyển sâu sắc về phía các quốc gia đang phát triển ở Nam Bán Cầu."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector English text '47% EXPORT' in a clean bold minimal sans-serif font centered in the upper third over a glowing turquoise land mass, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC160",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bản báo cáo doanh thu ASML hiển thị cột '60% CHINA SHARE' màu xanh ngọc nổi bật.",
+    "sentences": [
+      "Trên mặt trận công nghệ, các lệnh cấm vận bán dẫn không thể cô lập hoàn toàn Bắc Kinh."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing an flat 2D vector accounting sheet with the English text '60% CHINA SHARE' highlighted in glowing electric sage green, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC161",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản báo cáo doanh thu ASML hiển thị cột '60% CHINA SHARE' màu xanh ngọc nổi bật.",
+    "sentences": [
+      "Năm 2024, doanh thu từ thị trường Trung Quốc vẫn chiếm tới 60% tổng lượng máy quang khắc bán ra của ASML."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing an flat 2D vector accounting sheet with the English text '60% CHINA SHARE' highlighted in glowing electric sage green, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC162",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Dây chuyền sản xuất vi mạch cũ chạy liên tục dưới chùm tia laser, các chip thành phẩm ra đời.",
+    "sentences": [
+      "Bằng cách tận dụng tối đa các hệ thống hiện có, họ vẫn duy trì được năng lực sản xuất ở tiến trình 7nm."
+    ],
+    "base_english_prompt": "A steady shot showing an flat 2D vector assembly line manufacturing silicon chips under a continuous ultraviolet laser exposure process, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC163",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Giao diện phần mềm AI DeepSeek với các dòng code màu xanh ngọc chảy mượt mà trên màn hình.",
+    "sentences": [
+      "Và trên không gian phần mềm, sự phát triển của mô hình trí tuệ nhân tạo DeepSeek đã chứng minh một điều."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector clean computer terminal with glowing turquoise code streams and the English text 'DEEPSEEK' in the upper third, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC164",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Giao diện phần mềm AI DeepSeek với các dòng code màu xanh ngọc chảy mượt mà trên màn hình.",
+    "sentences": [
+      "Công nghệ đỉnh cao ngày càng khó bị độc quyền bởi một quốc gia duy nhất."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector clean computer terminal with glowing turquoise code streams and the English text 'DEEPSEEK' in the upper third, with a flat 2D vector Chinese flag displayed in the background, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC165",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Hai thế lực đối trọng cân bằng hoàn hảo trên một đĩa cân đồng phẳng tối giản.",
+    "sentences": [
+      "Tất cả những yếu tố đối trọng này tạo ra một thế trận cân bằng chiến lược mới."
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector two identical minimal glowing balance scale pans sitting in perfect equilibrium against a black background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC166",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một bóng đen ngồi suy ngẫm trước bàn trà tối giản, nhìn ra cửa sổ mờ sương.",
+    "sentences": [
+      "Sự kiềm chế của Bắc Kinh không phải là biểu hiện của sự yếu thế."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing the clean black silhouette of a thinker sitting at a low wooden table, looking towards a misty landscape, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC167",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một bóng đen ngồi suy ngẫm trước bàn trà tối giản, nhìn ra cửa sổ mờ sương.",
+    "sentences": [
+      "Nó là sự phản ánh của một tư duy thực tế và tỉnh táo trước các giới hạn cấu trúc."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing the clean black silhouette of a thinker sitting at a low wooden table, looking towards a misty landscape, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC168",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Cái nôi trống không dưới chân tháp dân số ở đầu video quay lại, nhưng được chiếu sáng nhẹ.",
+    "sentences": [
+      "Giờ đây, hãy nhìn lại câu chuyện nhân khẩu học ở đầu video."
+    ],
+    "base_english_prompt": "A steady shot showing an flat 2D vector empty wooden cradle from the first chapter, now lit by a soft warm cream light on the dark wall, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC169",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Cái nôi trống không dưới chân tháp dân số ở đầu video quay lại, nhưng được chiếu sáng nhẹ.",
+    "sentences": [
+      "Hóa đơn cấp bù an sinh xã hội phình to và tốc độ già hóa không chỉ là bài toán sinh học."
+    ],
+    "base_english_prompt": "A steady shot showing an flat 2D vector empty wooden cradle from the first chapter, now lit by a soft warm cream light on the dark wall, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC170",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bánh răng phanh đồng lớn kìm hãm pháo đài thép, cỗ máy khổng lồ dừng hẳn.",
+    "sentences": [
+      "Chúng hoạt động như một chiếc phanh tự nhiên kìm hãm các phiêu lưu địa chính trị đối ngoại."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector heavy brass gear mechanism locking a massive iron wheels structure to a complete standstill, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC171",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Bánh răng phanh đồng lớn kìm hãm pháo đài thép, cỗ máy khổng lồ dừng hẳn.",
+    "sentences": [
+      "Đứng trước sức ép vĩ mô đó, Bắc Kinh lựa chọn kiềm chế để bảo toàn lực lượng và củng cố nội lực."
+    ],
+    "base_english_prompt": "A slow camera panning showing a flat 2D vector heavy brass gear mechanism locking a massive iron wheels structure to a complete standstill, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC172",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Hai bức tường thành đá kiên cố đứng vững chãi song song chịu lực nén cực lớn.",
+    "sentences": [
+      "Trận chiến giành vị trí dẫn đầu toàn cầu nhiều khả năng không được quyết định bằng một cuộc đụng độ quân sự."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector two parallel dark stone fortress walls standing side-by-side, bearing heavy dark shadows and mist, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC173",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Hai bức tường thành đá kiên cố đứng vững chãi song song chịu lực nén cực lớn.",
+    "sentences": [
+      "Nó có thể được định đoạt bằng việc quốc gia nào có sức chống chịu bền bỉ nhất trước các rạn nứt bên trong."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a flat 2D vector two parallel dark stone fortress walls standing side-by-side, bearing heavy dark shadows and mist, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC174",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Đường chân trời tối giản với ánh bình minh nhen nhóm màu cam đỏ mờ ảo, kết thúc mở.",
+    "sentences": [
+      "Liệu thế trận kiềm chế chiến lược này sẽ tạo ra một trật tự đa cực ổn định cho khu vực?"
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector flat horizon line with a faint glowing orange dawn light emerging behind dark gray clouds, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC175",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Đường chân trời tối giản với ánh bình minh nhen nhóm màu cam đỏ mờ ảo, kết thúc mở.",
+    "sentences": [
+      "Hay nó chỉ đang trì hoãn một cuộc đụng độ không thể tránh khỏi trong tương lai?"
+    ],
+    "base_english_prompt": "A steady shot showing a flat 2D vector flat horizon line with a faint glowing orange dawn light emerging behind dark gray clouds, with a flat 2D vector Chinese flag displayed in the background, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  }
+]

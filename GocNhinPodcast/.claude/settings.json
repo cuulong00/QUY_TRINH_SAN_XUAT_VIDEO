@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Edit(/.claude/skills/oral_qa/**)",
+      "Edit(/.claude/skills/build_research_map/**)",
+      "Edit(/.claude/skills/build_thesis/**)",
+      "Edit(/.claude/skills/build_retention_map/**)",
+      "Edit(/.claude/skills/write_chapter/**)",
+      "Edit(/.claude/skills/financial_qa/**)",
+      "WebFetch(domain:www.imf.org)",
+      "WebFetch(domain:thedocs.worldbank.org)",
+      "WebFetch(domain:rhg.com)",
+      "WebFetch(domain:www.stats.gov.cn)",
+      "Bash(wc -w \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/to-lam-tap-can-binh-so-sanh\"/*.md)",
+      "Edit(/.claude/skills/qa_review/**)",
+      "Edit(/.claude/skills/merge_voiceover/**)",
+      "Edit(/.claude/skills/build_scene_timing_map/**)",
+      "Edit(/.claude/skills/generate_visual_prompts/**)",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/record_episode.js\" to-lam-tap-can-binh-so-sanh)",
+      "Read(//Users/pro16/Downloads/Whisk Downloads/**)",
+      "Bash(PYTHONPATH=\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts\" python3 -m slideshow_video \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/to-lam-tap-can-binh-so-sanh/images_final_render\" \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/to-lam-tap-can-binh-so-sanh/video/slideshow_base.mp4\" --duration 5 --transition-duration 1 --fps 30 --seed 42)",
+      "Bash(ffmpeg -y -f concat -safe 0 -i \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/to-lam-tap-can-binh-so-sanh/video/slideshow_concat.txt\" -vf \"fps=30,scale=1920:1080:force_original_aspect_ratio=decrease,pad=1920:1080:\\(ow-iw\\)/2:\\(oh-ih\\)/2:color=black,format=yuv420p\" -c:v libx264 -pix_fmt yuv420p \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/to-lam-tap-can-binh-so-sanh/video/slideshow_base.mp4\")",
+      "Edit(/.claude/skills/build_visual_map/**)",
+      "Edit(/.claude/skills/render_slideshow/**)",
+      "Edit(/.claude/skills/production_handoff/**)",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/validate_repo.js\" all)",
+      "WebFetch(domain:moit.gov.vn)",
+      "WebFetch(domain:www.nso.gov.vn)",
+      "WebFetch(domain:www.vcci.com.vn)",
+      "WebFetch(domain:nhandan.vn)",
+      "Edit(/.claude/skills/build_chapter_briefs/**)",
+      "WebFetch(domain:www.worldbank.org)",
+      "WebFetch(domain:www.mpi.gov.vn)",
+      "Bash(node -e 'const fs=require\\(\"fs\"\\); const path=require\\(\"path\"\\); const {loadConfig, processSingleChunk}=require\\(\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/tts_client.js\"\\); \\(async\\(\\)=>{ const input=\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/shorts/standalone/viet-nam-vuot-thai-lan/voiceover_01_comparison.md\"; const outputDir=\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/shorts/standalone/viet-nam-vuot-thai-lan/audio\"; const output=path.join\\(outputDir,\"voiceover_01_comparison.mp3\"\\); fs.mkdirSync\\(outputDir,{recursive:true}\\); const text=fs.readFileSync\\(input,\"utf-8\"\\).trim\\(\\); const config=loadConfig\\(\\); await processSingleChunk\\(text, config.voice_code, output\\); console.log\\(`DONE:${output}`\\); }\\)\\(\\).catch\\(err=>{ console.error\\(err\\); process.exit\\(1\\); }\\);')",
+      "Bash(node \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/record_episode.js\" \"cu-lua-ham-tru-an-vang\")",
+      "Bash(node -e 'const fs=require\\(\"fs\"\\); const path=require\\(\"path\"\\); const {loadConfig, processSingleChunk}=require\\(\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/tts_client.js\"\\); \\(async\\(\\)=>{ const input=\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/cu-lua-ham-tru-an-vang/shorts/short_01_mini_essay.md\"; const output=path.join\\(path.dirname\\(input\\),\"short_01_mini_essay.mp3\"\\); const text=fs.readFileSync\\(input,\"utf-8\"\\).trim\\(\\); const config=loadConfig\\(\\); await processSingleChunk\\(text, config.voice_code, output\\); console.log\\(`DONE:${output}`\\); }\\)\\(\\).catch\\(err=>{ console.error\\(err\\); process.exit\\(1\\); }\\);')",
+      "Bash(node -e 'const fs=require\\(\"fs\"\\); const path=require\\(\"path\"\\); const {loadConfig, processSingleChunk}=require\\(\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/tts_client.js\"\\); \\(async\\(\\)=>{ const input=\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/shorts/standalone/di-tren-day-tang-truong/short_paradox_di_tren_day.md\"; const output=path.join\\(path.dirname\\(input\\),\"short_paradox_di_tren_day.mp3\"\\); const text=fs.readFileSync\\(input,\"utf-8\"\\).trim\\(\\); const config=loadConfig\\(\\); await processSingleChunk\\(text, config.voice_code, output\\); console.log\\(`DONE:${output}`\\); }\\)\\(\\).catch\\(err=>{ console.error\\(err\\); process.exit\\(1\\); }\\);')",
+      "WebFetch(domain:www.youtube.com)",
+      "Bash(npm --prefix \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts\" install youtube-transcript)",
+      "Read(//private/tmp/**)",
+      "Read(//var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.CkSw6l5nSH/**)",
+      "Read(//private/var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.CkSw6l5nSH/**)",
+      "Read(//var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.kwaqpPo2nF/**)",
+      "Read(//private/var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.kwaqpPo2nF/**)",
+      "Read(//Users/pro16/Documents/Code/Dichvideo/**)",
+      "Read(//var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.l3haSIQlGf/**)",
+      "Read(//private/var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.l3haSIQlGf/**)",
+      "Read(//var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.D5SsbUfW5C/**)",
+      "Read(//private/var/folders/rh/lrqn6q7n3t5bzs6mhlxsm2lw0000gn/T/tmp.D5SsbUfW5C/**)",
+      "Read(//Users/pro16/**)",
+      "WebFetch(domain:dantri.com.vn)",
+      "Bash(/opt/homebrew/bin/node \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/record_episode.js\" \"nghich-ly-gia-xang-viet-nam\")",
+      "Bash(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/nghich-ly-gia-xang-viet-nam/shorts/audio/short_01.mp3\")",
+      "Bash(/opt/homebrew/bin/node \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/record_episode.js\" \"pha-bom-tien-lon-nhat-lich-su-1\")",
+      "Bash(PYTHONPATH=\"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts\" python3 -m slideshow_video \"/Users/pro16/Downloads/bomtien\" \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/pha-bom-tien-lon-nhat-lich-su-1/video/slideshow_base.mp4\" --duration 5 --transition-duration 1 --fps 30 --seed 42 --timing-map \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/pha-bom-tien-lon-nhat-lich-su-1/scene_timing_map.json\")",
+      "Bash(ffprobe -v error -show_entries format=duration,size -of json \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/pha-bom-tien-lon-nhat-lich-su-1/video/slideshow_base.mp4\")",
+      "Bash(/opt/homebrew/bin/node \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/scripts/tts/record_episode.js\" \"4-dieu-kien-dai-song-chung-khoan\")",
+      "Edit(/.claude/skills/qualify_topic/**)",
+      "Edit(/.claude/skills/build_brief/**)",
+      "Edit(/.claude/skills/hook_lab/**)",
+      "Edit(/.claude/skills/generate_shorts/**)",
+      "Edit(/.claude/agents/shorts-strategist.md)",
+      "Edit(/.claude/agents/short-hook-specialist.md)",
+      "Edit(/.claude/agents/short-script-writer.md)",
+      "Edit(/.claude/agents/vertical-video-maestro.md)",
+      "Edit(/.claude/specialist_map.md)",
+      "Bash(mdls -name kMDItemTextContent \"/Users/pro16/Documents/VideoProject/GocNhinPodcast/content/Các quốc gia hóa rồng trong 100 năm qua và hàm ý cho Việt Nam.pdf\")"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node scripts/claude_hooks/pre_write_guard.js",
+            "timeout": 20,
+            "statusMessage": "Checking workflow preconditions"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node scripts/claude_hooks/post_write_validate.js",
+            "timeout": 20,
+            "statusMessage": "Validating workflow invariants"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node scripts/claude_hooks/stop_guard.js",
+            "timeout": 20,
+            "statusMessage": "Checking episode registry updates"
+          }
+        ]
+      }
+    ]
+  }
+}

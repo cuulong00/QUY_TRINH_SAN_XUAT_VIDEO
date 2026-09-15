@@ -1,0 +1,15 @@
+# chapter_03.md
+
+Về mặt địa lý, nhà máy Thoothukudi sở hữu một lợi thế mà hiếm có cơ sở sản xuất nào tại Ấn Độ có được. Tổ hợp nằm cách cảng nước sâu quốc tế Vê Ô Chi đam ba ra na chưa đầy mười lăm cây số. Từ cảng Cát Hải tại Hải Phòng, những chuyến tàu chở container linh kiện CKD chỉ mất từ bảy đến mười ngày để cập bến. Hải trình ba ngàn hải lý trên biển này chính là một tuyến huyết mạch logistics chuyên biệt, kết nối trực tiếp nhà máy mẹ tại Việt Nam với phân xưởng lắp ráp tại miền nam Ấn Độ.
+
+Tuyến hàng hải này mở ra một tấm khiên bảo vệ chi phí đắc lực. Tại Ấn Độ, chi phí logistics nội địa ngốn tới mười ba đến mười bốn phần trăm tổng sản phẩm quốc nội. Đường sá liên bang thường xuyên ách tắc khiến việc chuyên chở linh kiện xuyên bang trở thành một gánh nặng chi phí khổng lồ. Việc đưa linh kiện bằng đường biển thẳng vào cảng Thoothukudi giúp hãng cắt giảm được phần lớn chi phí vận tải đường bộ. Đặc biệt, linh kiện CKD chỉ chịu thuế nhập khẩu ưu đãi mười lăm phần trăm, thấp hơn rất nhiều so với mức thuế từ bảy mươi đến hơn một trăm phần trăm áp lên xe nguyên chiếc. Nhờ đó, Thoothukudi có thể duy trì việc lắp ráp VF 6 và VF 7 với mức giá thành cạnh tranh.
+
+Thế nhưng, thế giới chính sách của Ấn Độ chưa bao giờ là một vùng đất dễ dãi. Tấm khiên CKD tuy che chắn được chi phí trước mắt, nhưng lại chạm phải chiếc vòng kim cô thể chế mang tên chính sách SMEC ban hành vào tháng 3 năm 2024. Chính sách này đồng ý hạ thuế nhập khẩu xuống mười lăm phần trăm cho những hãng xe cam kết rót tối thiểu năm trăm triệu đô la. Đổi lại, hãng xe bắt buộc phải đạt tỷ lệ giá trị nội địa gia tăng, tức chỉ số DVA, tối thiểu hai mươi lăm phần trăm sau ba năm, và phải chạm mốc năm mươi phần trăm sau năm năm vận hành.
+
+Để bảo đảm cam kết, New Delhi cài sẵn một cơ chế tài chính nghiêm ngặt: Thư bảo lãnh ngân hàng. Hãng xe phải nộp một khoản bảo lãnh tương đương một trăm phần trăm số thuế được miễn giảm. Nếu sau năm năm mà tỷ lệ nội địa hóa không chạm ngưỡng năm mươi phần trăm, chính phủ Ấn Độ sẽ kích hoạt bảo lãnh để thu hồi toàn bộ số tiền thuế ưu đãi.
+
+Đây chính là nút thắt hiểm hóc nhất. Trong một chiếc ô tô điện, pin và động cơ là hai bộ phận cốt lõi, chiếm tới sáu mươi phần trăm giá trị xe. Thế nhưng, toàn bộ ngành xe điện Ấn Độ hiện phụ thuộc tới chín mươi lăm phần trăm tế bào pin nhập khẩu từ Đông Á. Nếu một nhà máy chỉ nhập linh kiện CKD về hàn sơn và lắp ráp, tỷ lệ giá trị nội địa hóa thực tế chỉ đạt quanh mức mười lăm đến hai mươi phần trăm. Con số này cách rất xa lằn ranh năm mươi phần trăm theo yêu cầu.
+
+Nếu chỉ thuần túy dựa vào tàu biển chở CKD từ Cát Hải sang, doanh nghiệp khó lòng đáp ứng chỉ tiêu DVA sau năm năm. Khoản bảo lãnh ngân hàng hàng trăm triệu đô la khi đó có nguy cơ bị truy thu. Nhưng nếu vội vã dập khuôn tại chỗ, bài toán khấu hao sẽ đẩy giá thành lên quá cao.
+
+Chiếc thòng lọng tiến thoái lưỡng nan đó thực chất bắt nguồn từ đâu? Câu trả lời nằm sâu trong một sự thật trần trụi: Cú va chạm giữa bản vẽ xe toàn cầu và chuỗi cung ứng bản xứ. Và phép thử rõ ràng nhất của cú va chạm ấy, chính là mẫu xe mini từng được kỳ vọng: Chiếc VF 3.

@@ -1,0 +1,2587 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Bóng bàn tay cầm điện thoại sáng đèn hiển thị tin nhắn số dư, nền văn phòng tối.",
+    "sentences": [
+      "Buổi trưa ngày 23 tháng 6 năm 2026.",
+      "Hàng nghìn nhân viên ngân hàng LPBank bất ngờ nhận được tin nhắn báo số dư điện thoại."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing smartphone screen displaying a bank balance notification icon, held by a silhouette hand in the dark. In the background, a grid of dark warm charcoal office workstations. Glowing terracotta orange light emits from the screen, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Cận cảnh màn hình điện thoại hiển thị số tiền cộng thêm và lời chào cổ đông mới.",
+    "sentences": [
+      "Tài khoản của họ được cộng thêm chính xác 680.000 đồng.",
+      "Nội dung chuyển khoản ngắn gọn: Chào mừng đại cổ đông mới."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the same smartphone screen, showing the English text 'UP 680000 VND' and 'WELCOME NEW SHAREHOLDER' in a clean bold minimal sans-serif font centered in the upper third, with a glowing terracotta orange highlight. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Chồng tiền khổng lồ vẽ bằng nét màu kem sáng, nền than tối.",
+    "sentences": [
+      "Tổng chi phí cho màn chào hỏi bất ngờ này lên tới 6,8 tỷ đồng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive stack of currency bills made of glowing warm cream outlines, with the English text '6.8 BILLION VND' displayed in a clean bold minimal sans-serif font aligned to the bottom-right corner. Glowing terracotta orange details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Nhóm người tinh hoa mặc suit đứng quanh vòng sáng, một người thả phong bì cam.",
+    "sentences": [
+      "Giới tinh hoa không chi hàng tỷ đồng lì xì chỉ vì niềm vui ngẫu hứng."
+    ],
+    "base_english_prompt": "A steady shot showing a group of faceless elite figures in dark tailored suits, standing in a circle under a single spotlight in a dimly lit hall. One figure drops a glowing terracotta orange envelope, warm cream details, deep noir shadows, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Bóng tỷ phú trong suit tối đứng trước logo chữ V lớn phát sáng màu kem.",
+    "sentences": [
+      "Và đại cổ đông mới đó không phải ai xa lạ.",
+      "Đó chính là tỷ phú Phạm Nhật Vượng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the silhouette of a Vietnamese billionaire corporate titan with Asian features in a dark tailored suit, standing in front of a giant towering V-shaped logo outline in glowing warm cream. Dark warm charcoal background, glowing terracotta orange spotlight, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Vết nứt địa chấn lan rộng trên bản đồ số Việt Nam, ánh sáng cam phun ra.",
+    "sentences": [
+      "Sự xuất hiện của ông chủ Vingroup đã châm ngòi cho một cơn địa chấn.",
+      "Ngay trong phiên giao dịch sáng hôm đó."
+    ],
+    "base_english_prompt": "A slow camera panning showing a stylized tectonic crack opening on a flat grid ground of a digital map of Vietnam, glowing terracotta orange light erupting from the fissure. Muted dark olive green background, deep noir shadows, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Sổ lệnh giao dịch chứng khoán số hóa với các dòng log chạy dọc màu kem.",
+    "sentences": [
+      "Thị trường ghi nhận loạt lệnh thỏa thuận khổng lồ đối với cổ phiếu LPB."
+    ],
+    "base_english_prompt": "A steady shot showing a digital stock market order book, with lines of transaction logs scrolling down rapidly in glowing warm cream outlines. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Bảng điện tử hiển thị khối lượng cổ phiếu LPB giao dịch thỏa thuận khổng lồ.",
+    "sentences": [
+      "Đúng 146,2 triệu cổ phần đã được sang tay tại mức giá 46.000 đồng.",
+      "Tổng giá trị thương vụ đạt hơn 6.725 tỷ đồng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on a digital stock exchange dashboard showing the ticker 'LPB' and English text '146.2M SHARES' and '6725 BILLION VND' in a clean bold minimal sans-serif font centered in the upper third, glowing turquoise numbers, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Biểu đồ tròn chia đôi hoàn hảo, một nửa sáng xanh turquoise, một nửa tối.",
+    "sentences": [
+      "Thương vụ giao dịch này lớn đến mức nào?",
+      "Nó chiếm phân nửa thanh khoản phiên sáng trên toàn sàn HOSE."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant pie chart split exactly in half, with one half glowing in turquoise and the other half in dark warm charcoal, with the English text '50 PERCENT HOSE LIQUIDITY' aligned to the bottom-right corner. Clean silver gray details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Biểu đồ đường chứng khoán vọt lên dốc đứng hiển thị con số tăng trưởng.",
+    "sentences": [
+      "Sự kiện kéo tổng giá trị giao dịch sàn HOSE phiên sáng vọt lên gần 15.700 tỷ đồng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a line chart spiking sharply upwards, with the English text 'UP 137 PERCENT' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing turquoise line, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Bàn tay đẩy các sổ cái kế toán màu kem qua mặt bàn gỗ tối màu.",
+    "sentences": [
+      "Mức tăng lên tới 137% so với phiên sáng của ngày liền trước."
+    ],
+    "base_english_prompt": "A steady shot showing silhouette hands sliding a stack of glowing warm cream ledger books across a dark mahogany table, with the English text '800 BILLION VND' displayed on a clean digital card on the left side. Glowing turquoise details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng biên tập viên truyền hình trước màn hình hiển thị thông tin chính thức.",
+    "sentences": [
+      "Ngay cả khối tự doanh các công ty chứng khoán cũng tham gia mua ròng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a silhouette figure of a news anchor in front of a giant digital screen displaying the English text 'OFFICIAL ANNOUNCEMENT' in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Đám đông nhà đầu tư cá nhân nhìn lên đường biểu đồ xanh phản chiếu trên mặt.",
+    "sentences": [
+      "Họ đã chi gần 800 tỷ đồng gom cổ phiếu LPB qua hình thức thỏa thuận."
+    ],
+    "base_english_prompt": "A steady shot showing a crowd of silhouette retail investors looking up at a soaring green trend line reflecting on their faces, glowing turquoise details, warm cream outlines, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Bảng giá giao dịch chứng khoán hiển thị mã LPB tăng kịch trần màu xanh turquoise.",
+    "sentences": [
+      "Sau khi thông tin chính thức được công bố rộng rãi.",
+      "Làn sóng hưng phấn lập tức bao trùm giới đầu tư đại chúng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on a trading board displaying the ticker 'LPB' and '52600' in a bold minimal sans-serif font, glowing turquoise text, aligned to the bottom-right corner. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Cột tiền xu khổng lồ xếp chồng cao vút phát sáng màu kem trên nền tối.",
+    "sentences": [
+      "Chốt phiên giao dịch, cổ phiếu LPB tăng kịch trần lên mức 52.600 đồng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a towering column of coins represented by glowing warm cream outline layers, with the English text '7690 BILLION VND' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Chiếc cân kỹ thuật số cân bằng giữa hòm vàng và viên ngọc xanh phát sáng.",
+    "sentences": [
+      "Giá trị lượng cổ phiếu của tỷ phú Phạm Nhật Vượng nhanh chóng đạt gần 7.690 tỷ đồng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a digital scale balancing a silhouette of a bank vault and a glowing green gem, with the English text 'UP 965 BILLION VND' aligned to the bottom-right corner. Glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Chữ hiển thị phần trăm lợi nhuận danh nghĩa lớn trên nền than tối.",
+    "sentences": [
+      "Nước đi này mang về thặng dư danh nghĩa gần 965 tỷ đồng chỉ sau vài giờ."
+    ],
+    "base_english_prompt": "A steady shot showing the English text '14 PERCENT RETURN' in a bold minimal sans-serif font, glowing turquoise text with a heavy black drop-shadow centered in the upper third. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Bàn tay cầm kim châm vào quả bóng bay khổng lồ ghi chữ định giá.",
+    "sentences": [
+      "Một con số sinh lời danh nghĩa khổng lồ đạt hơn 14%.",
+      "Nhiều ý kiến cho rằng đây chỉ là chiêu trò thổi giá ngắn hạn."
+    ],
+    "base_english_prompt": "A slow camera panning showing a silhouette hand holding a needle, slowly moving towards a giant floating balloon outline made of glowing warm cream, inside the balloon is the English text 'VALUATION' in a bold minimal sans-serif font. Glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Bàn tay di chuyển các con rối gỗ trên bàn cờ với các sợi dây đỏ.",
+    "sentences": [
+      "Họ nghĩ đây chỉ là một game tạo thanh khoản cho đội lái."
+    ],
+    "base_english_prompt": "A steady shot showing silhouette hands moving wooden puppets on a tabletop board game, with glowing crimson coral red strings. Dark warm charcoal background, clean silver gray details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Dòng sông tiền xu chảy cuồn cuộn qua kênh hẹp cuốn trôi các con rối gỗ.",
+    "sentences": [
+      "Tuy nhiên, quy mô khổng lồ của dòng tiền thực tế đã bác bỏ nhận định đó."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a massive river of glowing warm cream coins flowing steadily through a narrow canal, sweeping away the wooden puppets. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cánh cửa hòm tiền khổng lồ mở ra, dòng tiền mặt tràn ngập màn hình.",
+    "sentences": [
+      "Con số hơn 6.700 tỷ đồng tiền mặt chuyển đi không thể là một trò đùa."
+    ],
+    "base_english_prompt": "A steady shot showing a giant vault door opening, revealing a dense stream of glowing warm cream cash notes pouring out, with the English text '6700 BILLION VND' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Quân cờ vua lớn màu kem tiến lên đẩy lùi các quân cờ đen trên bàn cờ.",
+    "sentences": [
+      "Nước đi này đánh dấu một bước chuyển dịch lớn của giới tinh hoa."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant white chess piece moving forward on a dark marble grid, displacing several smaller black chess pieces. Glowing warm cream outline, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Dấu hỏi lớn phát sáng đứng cô độc giữa một mê cung tối màu.",
+    "sentences": [
+      "Nó mở ra câu hỏi lớn về động cơ thực sự của tỷ phú."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a giant glowing warm cream question mark silhouette standing in the middle of a dark maze. Muted dark olive green background, glowing terracotta orange accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Bóng tỷ phú đứng trước tòa nhà ngân hàng cao tầng phát sáng màu kem.",
+    "sentences": [
+      "Tại sao người giàu nhất Việt Nam lại bỏ tiền túi vào ngân hàng lúc này?"
+    ],
+    "base_english_prompt": "A steady shot showing the silhouette of a Vietnamese billionaire corporate titan in a dark tailored suit standing before a towering bank building made of glowing warm cream outlines. Muted dark olive green background, glowing terracotta orange details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bàn tay cân chiếc cân giữa tiền xu bạc và chiếc lá xanh phát sáng.",
+    "sentences": [
+      "Liệu đây chỉ là thương vụ đầu tư tài chính thuần túy để kiếm lời?"
+    ],
+    "base_english_prompt": "A slow camera panning showing a silhouette hand balancing a scale of silver gray coins against a small glowing turquoise leaf, representing pure financial gain. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Các bánh răng cơ khí màu kem ăn khớp và chuyển động cùng nhau.",
+    "sentences": [
+      "Hay nó là điểm khởi đầu cho một siêu liên minh dòng vốn mới?"
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing multiple glowing warm cream gears interlocking, with glowing turquoise light piping through their teeth. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Khiên bảo vệ màu xanh turquoise bao phủ tổ hợp công nghiệp và tòa nhà.",
+    "sentences": [
+      "Một liên minh giúp bảo vệ thanh khoản cho các tập đoàn tư nhân."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing turquoise protective shield outline covering a silhouette of a sprawling industrial complex and office towers. Muted dark olive green background, warm cream details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC028",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Màn hình hiển thị sơ đồ thiết kế cơ khí của hệ thống ống dẫn dòng tiền.",
+    "sentences": [
+      "Chúng ta sẽ cùng phân tích chi tiết cơ chế này ngay sau đây.",
+      "Đây là Góc Nhìn Podcast."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant digital screen displaying mechanical blueprints of interlocking gears and flowing pipes in glowing warm cream outlines. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Logo thương hiệu Góc Nhìn Podcast phát sáng màu kem trên nền tối.",
+    "sentences": [
+      "Hôm nay, chúng ta sẽ giải mã cơ chế dòng tiền khép kín đằng sau siêu liên minh tài chính chéo."
+    ],
+    "base_english_prompt": "A steady shot showing the GocNhinPodcast brand logo, featuring a minimalist mic and camera lens graphic, rendered in glowing warm cream outlines on a dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Đường ống dẫn khép kín màu xanh turquoise với dòng nước sáng chạy vòng lặp.",
+    "sentences": [
+      "Chúng ta sẽ cùng giải mã nước cờ sinh tồn của giới tài phiệt tư nhân Việt Nam."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a continuous loop of glowing turquoise piping forming a closed circuit, with liquid light flowing through it. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC031",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Quân cờ vua lớn màu kem được bảo vệ bởi vòng khiên xanh turquoise.",
+    "sentences": [
+      "Nếu bạn quan tâm đến cách dòng tiền lớn vận hành phía sau các tiêu đề báo chí.",
+      "Bạn có thể nhấn đăng ký kênh."
+    ],
+    "base_english_prompt": "A steady shot showing a single glowing warm cream king chess piece surrounded by a ring of glowing turquoise shields on a dark grid. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC032",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Biểu tượng nút Đăng ký kênh phát sáng màu cam đất trên nền tối.",
+    "sentences": [
+      "Một lượt đăng ký nhã nhặn là sự khích lệ lớn để chúng ta tiếp tục đồng hành."
+    ],
+    "base_english_prompt": "A slow camera panning showing a minimalist digital subscribe button icon pulsing in glowing terracotta orange, with the English text 'SUBSCRIBE' in a clean bold minimal sans-serif font centered. Dark warm charcoal background, warm cream outlines, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Chồng tài liệu trên bàn bị thổi bay, hé lộ hòm tiền xanh turquoise phía sau.",
+    "sentences": [
+      "Nhưng nếu thương vụ này chỉ mang lại khoản thặng dư danh nghĩa trên giấy tờ."
+    ],
+    "base_english_prompt": "A steady shot showing a stack of glowing warm cream papers on a desk, with some papers blowing away to reveal a glowing turquoise bank vault behind them. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Cuốn sách luật dày mở ra trên bàn làm việc gỗ tối, trang sách sáng màu kem.",
+    "sentences": [
+      "Tại sao tỷ phú Phạm Nhật Vượng lại chấp nhận bỏ ra hơn 6.700 tỷ đồng tiền mặt?"
+    ],
+    "base_english_prompt": "A slow camera panning showing a leather-bound law book with glowing warm cream pages, slowly opening on a dark mahogany desk. Glowing turquoise lighting, deep noir shadows, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Tên đạo luật Các tổ chức tín dụng hiển thị trên trang sách phát sáng xanh.",
+    "sentences": [
+      "Câu trả lời không nằm ở sàn chứng khoán.",
+      "Nó nằm ở một văn bản luật mang tính lịch sử đối với ngành tài chính."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the title page of the law book, displaying the English text 'BANKING LAW 2024' in a clean bold minimal sans-serif font centered in the upper third, glowing turquoise text, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Các cột đá cẩm thạch màu kem đứng vững chắc trên lưới tối đại diện cho luật pháp.",
+    "sentences": [
+      "Đó chính là Luật Các tổ chức tín dụng năm 2024.",
+      "Văn bản này chính thức có hiệu lực từ ngày 01 tháng 7 năm 2024."
+    ],
+    "base_english_prompt": "A steady shot showing multiple vertical pillars made of glowing warm cream marble, standing tall and symmetrical on a dark grid, representing structural law. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Những sợi chỉ đỏ đan chéo đại diện cho sở hữu chéo bị kéo cắt đứt.",
+    "sentences": [
+      "Luật mới đã thiết lập một khuôn khổ pháp lý nghiêm ngặt."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple tangled glowing red threads representing cross-ownership being cut cleanly by a glowing warm cream scissor outline. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Kính lúp phóng to vào điều khoản luật hiển thị tỷ lệ sở hữu trên một phần trăm.",
+    "sentences": [
+      "Mục tiêu tối thượng là nâng cao tính minh bạch của hệ thống nhà băng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a magnifying glass outline focusing on a legal text section, with the English text 'SHAREHOLDER OVER 1 PERCENT' in a clean bold minimal sans-serif font centered. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Hai con đường rẽ lối, một bên tối tăm, một bên được rọi sáng bởi đèn spotlight.",
+    "sentences": [
+      "Đồng thời hạn chế tối đa tình trạng sở hữu chéo và thao túng dòng vốn."
+    ],
+    "base_english_prompt": "A slow camera panning showing two distinct paths, one dark and hidden, and the other lit by a dim spotlight. Muted dark olive green background, clean silver gray details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Chữ hiển thị ngưỡng sở hữu năm phần trăm lớn trên nền tối.",
+    "sentences": [
+      "Điểm cốt lõi nằm ở khoản 5 Điều 49 của đạo luật này."
+    ],
+    "base_english_prompt": "A steady shot showing the English text '5 PERCENT THRESHOLD' in a bold minimal sans-serif font, glowing warm cream text, aligned to the bottom-right corner. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Hành lang tối giữa hai bức tường gạch cao, các đồng tiền đỏ trôi nổi.",
+    "sentences": [
+      "Nó yêu cầu các ngân hàng phải công bố danh sách cổ đông sở hữu từ 1% vốn trở lên."
+    ],
+    "base_english_prompt": "A slow camera panning showing a shadowy corridor between two towering brick walls, with glowing crimson coral red coins floating in the shadows. Deep noir shadows, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Bóng người bước ra khỏi hành lang tối vào vòng sáng spotlight xanh turquoise.",
+    "sentences": [
+      "Trước đây, ranh giới này hoàn toàn khác biệt.",
+      "Luật Chứng khoán chỉ yêu cầu công khai thông tin với các cổ đông lớn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a silhouette figure walking out of the dark corridor and stepping into a bright glowing turquoise spotlight. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Người thả đồng tiền màu kem vào bình thủy tinh phát sáng đại diện cho tiết kiệm.",
+    "sentences": [
+      "Đó là những người nắm giữ từ 5% vốn cổ phần trở lên."
+    ],
+    "base_english_prompt": "A steady shot showing a silhouette person dropping a warm cream coin into a glowing glass jar outline, representing savings. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Khiên bảo vệ xanh turquoise che chắn bình thủy tinh khỏi gạch đá rơi xuống.",
+    "sentences": [
+      "Khoảng trống giữa 1% và 5% từng là nơi trú ẩn của nhiều dòng tiền kín tiếng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant glowing turquoise shield outline protecting the glass jar from falling debris. Muted dark olive green background, clean silver gray details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đường ống màu đỏ rò rỉ dòng vốn bị khóa lại bởi van xanh turquoise.",
+    "sentences": [
+      "Nhưng luật mới đã biến khoảng trống đó thành một tấm kính một chiều."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing crimson coral red pipe leaking fluid away from a main container, which is then blocked by a glowing turquoise valve. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Biểu đồ tròn cơ cấu cổ đông đơn giản chỉ có hai mảng lớn trên nền tối.",
+    "sentences": [
+      "Bất kỳ ai nắm giữ trên 1% vốn điều lệ đều buộc phải bước ra ánh sáng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a clean minimalist circular chart with only two slices on a dark screen. Dark warm charcoal background, warm cream outlines, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Chiếc ghế chủ tịch đơn độc trong phòng họp hội đồng quản trị tối màu.",
+    "sentences": [
+      "Nếu bạn đang gửi tiết kiệm tại ngân hàng thương mại tư nhân."
+    ],
+    "base_english_prompt": "A steady shot showing a single glowing warm cream chair standing alone in a dark corporate boardroom. Muted dark olive green background, glowing turquoise accent, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Xe bưu điện màu kem với biểu tượng thư phát sáng màu cam bên sườn xe.",
+    "sentences": [
+      "Sự thay đổi của luật này chính là tấm khiên bảo vệ tài sản của bạn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a minimalist outline of a postal delivery truck with a glowing terracotta orange letter icon on its side. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC049",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Chữ hiển thị tỷ lệ sở hữu của VNPost phát sáng màu cam trên nền tối.",
+    "sentences": [
+      "Nó giúp ngăn chặn các dòng vốn mờ ám chảy về sân sau.",
+      "Trước ngày 23 tháng 6 năm 2026."
+    ],
+    "base_english_prompt": "A slow camera panning showing the English text 'VNPOST 6.537 PERCENT' in a clean bold minimal sans-serif font centered in the upper third, glowing terracotta orange details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC050",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Các bóng người nhỏ đứng phía dưới đường nét đứt phát sáng màu kem.",
+    "sentences": [
+      "Cơ cấu cổ đông nắm giữ trên 1% vốn của LPBank đơn giản và cô đặc."
+    ],
+    "base_english_prompt": "A steady shot showing multiple small silhouette figures standing in the shadow below a horizontal dotted line made of glowing warm cream. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC051",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bóng tỷ phú bước qua đường nét đứt pháp lý dưới ánh đèn spotlight cam.",
+    "sentences": [
+      "Ngân hàng chỉ ghi nhận duy nhất một cổ đông sở hữu trên 1% vốn điều lệ."
+    ],
+    "base_english_prompt": "A slow camera panning showing the silhouette of a Vietnamese billionaire corporate titan in a dark tailored suit stepping over the dotted line, under a glowing terracotta orange spotlight. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC052",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Chiếc ghế chủ tịch được bao quanh bởi các bánh răng lớn bắt đầu quay.",
+    "sentences": [
+      "Đó là Tổng công ty Bưu điện Việt Nam, viết tắt là VNPost.",
+      "Họ nắm giữ 6,537% vốn, tương ứng hơn 195,28 triệu cổ phiếu."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the single boardroom chair now being surrounded by multiple glowing warm cream gears that begin to turn. Muted dark olive green background, glowing terracotta orange details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC053",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bóng tỷ phú ngồi trên chiếc ghế văn phòng lớn dưới đèn spotlight cam.",
+    "sentences": [
+      "Tất cả các cá nhân khác đều nằm dưới ngưỡng công bố thông tin."
+    ],
+    "base_english_prompt": "A steady shot showing the silhouette of the Vietnamese billionaire corporate titan sitting on a large modern office chair under a glowing terracotta orange spotlight. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC054",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Các bóng người đeo mặt nạ lùi sâu vào bóng tối noir để ẩn mình.",
+    "sentences": [
+      "Cho đến khi ông Phạm Nhật Vượng công khai sở hữu 4,894% vốn điều lệ."
+    ],
+    "base_english_prompt": "A slow camera panning showing silhouette figures wearing masks and cloaks retreating into deep noir shadows. Dark warm charcoal background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC055",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng tỷ phú cầm chiếc cân công lý phát sáng xanh turquoise đẩy lùi bóng tối.",
+    "sentences": [
+      "Sự lộ diện này ngay lập tức thay đổi cấu trúc quyền lực kiểm soát."
+    ],
+    "base_english_prompt": "A steady shot showing the silhouette of the Vietnamese billionaire corporate titan in a dark tailored suit holding a glowing turquoise balance scale, radiating light into the darkness. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC056",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Đám đông nhà đầu tư cụng ly ăn mừng, phía sau là biểu đồ tăng trưởng xanh.",
+    "sentences": [
+      "Nó đưa ông trở thành cổ đông cá nhân lớn nhất tại nhà băng này."
+    ],
+    "base_english_prompt": "A slow camera panning showing retail investors clinking glasses and cheering in silhouette, with a glowing turquoise bull market chart behind them. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC057",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Con số so sánh giữa bốn phẩy tám phần trăm và năm phần trăm rực sáng.",
+    "sentences": [
+      "Nhiều người nghĩ luật mới sẽ khiến giới tỷ phú tìm cách ẩn mình sâu hơn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the numbers '4.894 PERCENT' vs '5.0 PERCENT' displayed in a clean bold minimal sans-serif font centered in the upper third, with a glowing terracotta orange highlight on 4.894%. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC058",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Quân tốt cờ vua trượt khéo léo qua các tia laser đỏ rào cản pháp lý.",
+    "sentences": [
+      "Tuy nhiên, ông Vượng đã biến sự minh bạch cưỡng bức thành đòn bẩy uy tín."
+    ],
+    "base_english_prompt": "A steady shot showing a chess pawn sliding neatly between two tall red laser beams, representing legal barriers. Dark warm charcoal background, glowing crimson coral red lasers, warm cream pawn, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC059",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Nhóm người thảo luận trong phòng họp tối dưới ánh đèn màu kem ấm.",
+    "sentences": [
+      "Việc lộ diện công khai đã củng cố mạnh mẽ niềm tin cho thị trường."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple silhouette people raising hands in discussion in a dark room under a warm cream light. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC060",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bong bóng hội thoại chứa dấu hỏi chấm phát sáng màu cam trên nền tối.",
+    "sentences": [
+      "Nhưng tại sao lại là con số chính xác 4,894% mà không phải 5%?"
+    ],
+    "base_english_prompt": "A steady shot showing a text bubble outline displaying a question mark, pulsing in glowing terracotta orange. Dark warm charcoal background, warm cream details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC061",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Quân tốt cờ vua trượt khéo léo qua các tia laser đỏ rào cản pháp lý.",
+    "sentences": [
+      "Câu trả lời mở ra một chiến lược né tránh ngưỡng pháp lý."
+    ],
+    "base_english_prompt": "A slow camera panning showing a chess pawn sliding neatly between two tall red laser beams, representing legal barriers. Dark warm charcoal background, glowing crimson coral red lasers, warm cream pawn, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC062",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Nhóm người thảo luận trong phòng họp tối dưới ánh đèn màu kem ấm.",
+    "sentences": [
+      "Theo bạn, việc hạ ngưỡng công khai xuống 1% có thực sự triệt tiêu được tình trạng sở hữu chéo?"
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple silhouette people raising hands in discussion in a dark room under a warm cream light. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC063",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bong bóng hội thoại chứa dấu hỏi chấm phát sáng màu cam trên nền tối.",
+    "sentences": [
+      "Hãy để lại bình luận của bạn bên dưới để chúng ta cùng thảo luận."
+    ],
+    "base_english_prompt": "A steady shot showing a text bubble outline displaying a question mark, pulsing in glowing terracotta orange. Dark warm charcoal background, warm cream details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC064",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Con số so sánh giữa bốn phẩy tám phần trăm và năm phần trăm rực sáng.",
+    "sentences": [
+      "Con số 4,894% vốn điều lệ giúp tỷ phú Phạm Nhật Vượng đứng ngay dưới ranh giới 5%.",
+      "Theo Luật Chứng khoán hiện hành."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the numbers '4.894 PERCENT' and '5.0 PERCENT' displayed in a clean bold minimal sans-serif font centered in the upper third, with a glowing terracotta orange highlight on 4.894% and a horizontal red barrier line below it. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC065",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Cuốn sách luật dày mở ra trên bàn làm việc gỗ tối, trang sách sáng màu kem.",
+    "sentences": [
+      "Bất kỳ cổ đông nào sở hữu từ 5% vốn cổ phần trở lên đều được định nghĩa là cổ đông lớn."
+    ],
+    "base_english_prompt": "A steady shot showing a leather-bound law book with glowing warm cream pages, slowly opening on a dark mahogany desk, highlighting a section with a glowing terracotta orange seal. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC066",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Nhóm cổ đông lớn ngồi quanh bàn họp dài, chữ MAJOR SHAREHOLDERS hiển thị.",
+    "sentences": [
+      "Họ phải chịu những nghĩa vụ báo cáo giao dịch nghiêm ngặt.",
+      "Họ phải công bố thông tin trước và sau khi thực hiện mua bán."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple silhouette figures of large institutional investors in dark suits sitting around a giant table, with the English text 'MAJOR SHAREHOLDERS' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC067",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.2,
+    "visual_summary": "Bàn tay gõ máy tính hiển thị lịch sử giao dịch với cảnh báo đỏ nhấp nháy.",
+    "sentences": [
+      "Đồng thời bị giới hạn thời gian chuyển nhượng.",
+      "Bằng cách dừng lại ở mức 4,894%."
+    ],
+    "base_english_prompt": "A steady shot showing a silhouette hand typing on a glowing laptop displaying a stock transaction log, with red warnings flashing. Dark warm charcoal background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC068",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bóng tỷ phú đứng ngoài chiếc hộp phát sáng chứa chữ MAJOR SHAREHOLDERS.",
+    "sentences": [
+      "Tỷ phú Phạm Nhật Vượng đã khéo léo đứng ngoài nhóm cổ đông lớn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the silhouette of a Vietnamese billionaire corporate titan in a dark tailored suit standing outside a glowing warm cream box labeled 'MAJOR SHAREHOLDERS', looking in from the outside. Muted dark olive green background, glowing terracotta orange details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC069",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Cuộn văn bản luật mở ra, được bảo vệ bởi khiên xanh turquoise khỏi dấu chấm than.",
+    "sentences": [
+      "Ông tránh được toàn bộ các ràng buộc pháp lý phức tạp của Luật Chứng khoán.",
+      "Nhưng ở chiều ngược lại."
+    ],
+    "base_english_prompt": "A slow camera panning showing a paper scroll of legal text unrolling, with a glowing turquoise shield protecting the scroll from floating exclamation marks. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC070",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Chiếc cân thăng bằng giữa sợi lông vũ bốn phẩy tám phần trăm và khối nặng năm phần trăm.",
+    "sentences": [
+      "Tỷ lệ này vẫn giúp ông tối đa hóa quyền sở hữu tại Lộc Phát Bank."
+    ],
+    "base_english_prompt": "A steady shot showing a giant scale balancing a small glowing warm cream feather representing 4.894% against a heavy block representing 5%, with the 4.894% side shining in glowing turquoise. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC071",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng tỷ phú đứng trên ban công nhìn ra tòa nhà ngân hàng cao tầng phát sáng.",
+    "sentences": [
+      "Nó biến ông trở thành cổ đông cá nhân lớn nhất của nhà băng này."
+    ],
+    "base_english_prompt": "A slow camera panning showing the silhouette of a Vietnamese billionaire corporate titan in a dark tailored suit standing on a balcony overlooking a towering modern bank building made of glowing warm cream outlines. Muted dark olive green background, glowing turquoise lighting, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC072",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Quân vua cờ vua màu kem cast bóng dài về phía tòa tháp ngân hàng.",
+    "sentences": [
+      "Đây là nước cờ thiết lập một hiện diện quyền lực lớn nhưng kín kẽ."
+    ],
+    "base_english_prompt": "A steady shot showing a single giant glowing warm cream chess king piece casting a long shadow that stretches across a dark grid toward a bank tower outline. Dark warm charcoal background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC073",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Tòa tháp ngân hàng được rọi sáng bởi đèn spotlight xanh turquoise ở lối vào.",
+    "sentences": [
+      "Nhưng tại sao lại cần một hiện diện lớn tại ngân hàng này?"
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the silhouette of a bank tower, with a glowing turquoise spotlight illuminating its entrance. Muted dark olive green background, clean silver gray details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC074",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Hệ thống đường ống dẫn dòng nước turquoise phát sáng chạy vào các bể chứa.",
+    "sentences": [
+      "Câu trả lời nằm ở cơ chế luân chuyển dòng tiền mặt thông qua cổ tức."
+    ],
+    "base_english_prompt": "A slow camera panning showing a complex pipeline network, with glowing turquoise fluid flowing through the pipes into several reservoirs. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC075",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Tờ lịch lớn hiển thị ngày hai mươi tám tháng tư năm hai nghìn không trăm hai sáu.",
+    "sentences": [
+      "Tại Đại hội đồng cổ đông thường niên ngày 28 tháng 4 năm 2026."
+    ],
+    "base_english_prompt": "A steady shot showing a giant calendar sheet on a dark wall with the English text 'APRIL 28 2026' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC076",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Phòng họp đại hội đồng cổ đông thường niên với màn hình ghi chữ RECORD DIVIDEND.",
+    "sentences": [
+      "Lộc Phát Bank đã thông qua phương án chi trả cổ tức kỷ lục cho năm tài chính 2025."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a corporate general assembly hall with rows of silhouette chairs, and a giant digital screen displaying the English text 'RECORD DIVIDEND' in a clean bold minimal sans-serif font centered. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC077",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Chữ hiển thị tỷ lệ chia cổ tức ba mươi phần trăm tiền mặt lớn rực sáng.",
+    "sentences": [
+      "Tỷ lệ cổ tức bằng tiền mặt lên tới 30%.",
+      "Tương ứng mỗi cổ đông nắm giữ một cổ phiếu nhận được 3.000 đồng."
+    ],
+    "base_english_prompt": "A steady shot showing the English text '30 PERCENT CASH DIVIDEND' and '3000 VND PER SHARE' in a bold minimal sans-serif font, glowing turquoise text with a heavy black drop-shadow centered in the upper third. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC078",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "Chiếc cúp vàng màu kem bao quanh bởi các đồng tiền xu turquoise phát sáng.",
+    "sentences": [
+      "Đây là mức chia cổ tức tiền mặt cao nhất toàn ngành ngân hàng năm 2026.",
+      "Để hoàn tất chương trình này."
+    ],
+    "base_english_prompt": "A slow camera panning showing a trophy cup outline in glowing warm cream, surrounded by multiple glowing turquoise money coins on a dark velvet background, representing industry-record payouts. Culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC079",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Bảng dashboard số điện tử hiển thị con số tám nghìn chín trăm tỷ đồng.",
+    "sentences": [
+      "Lộc Phát Bank đã xuất quỹ khoảng 8.962 tỷ đồng để chi trả vào ngày 25 tháng 5 năm 2026."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a giant digital dashboard displaying the English text '8962 BILLION VND' in a clean bold minimal sans-serif font centered, glowing turquoise numbers flashing. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC080",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.98,
+    "visual_summary": "Các dòng nước turquoise phát sáng chảy từ hòm tiền chính sang các hòm phụ.",
+    "sentences": [
+      "Dòng tiền mặt khổng lồ chảy về túi các cổ đông chốt quyền.",
+      "Dù đợt chi trả này hoàn tất trước khi ông Vượng mua cổ phần."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple flowing channels of glowing turquoise liquid light radiating from a central bank vault out to several smaller vaults. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC081",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.75,
+    "visual_summary": "Bóng tỷ phú đứng trước hòm tiền nhỏ hiển thị số tiền mặt nhận về.",
+    "sentences": [
+      "Nhưng vị thế này sẵn sàng đón đầu các đợt cổ tức trị giá 438,6 tỷ đồng tiếp theo."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the silhouette of a Vietnamese billionaire corporate titan in a dark tailored suit standing before a small glowing turquoise vault with the English text 'FUTURE 438.6 BILLION VND' displayed aligned to the bottom-right corner. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC082",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.75,
+    "visual_summary": "Xe bưu điện đỗ cạnh hòm tiền cam hiển thị số tiền cổ tức của VNPost.",
+    "sentences": [
+      "Trong khi đó, cổ đông lớn nhất là VNPost cũng đã thu về khoảng 585,8 tỷ đồng."
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist outline of a postal delivery truck next to a glowing terracotta orange vault displaying the English text 'VNPOST 585.8 BILLION VND' in a clean bold minimal sans-serif font centered. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC083",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Bóng các nhà tài phiệt nhìn ra dòng sông cạn trơ đáy dưới bầu trời đỏ rực.",
+    "sentences": [
+      "Dòng tiền mặt dồi dào này có ý nghĩa gì đối với giới tài phiệt?",
+      "Trong bối cảnh nền kinh tế gặp nhiều thách thức."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple silhouette figures of corporate tycoons looking at a dry, cracked riverbed under a dark red sky, representing a challenging economy. Glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC084",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Bàn tay vá víu hệ thống ống thủy tinh rò rỉ đại diện cho tái cấu trúc nợ.",
+    "sentences": [
+      "Các tập đoàn tư nhân lớn đều khát dòng tiền mặt sạch để tái cấu trúc."
+    ],
+    "base_english_prompt": "A steady shot showing silhouette hands desperately trying to patch up a leaking glass pipes network, representing corporate restructuring under stress. Dark warm charcoal background, glowing crimson coral red details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC085",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cánh cổng sắt màu kem chặn đứng dòng tiền xu, đại diện trần tín dụng.",
+    "sentences": [
+      "Nhưng các ngân hàng không thể cho vay tùy tiện đối với các bên liên quan."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant iron gate made of glowing warm cream outlines blocking a flow of coins, representing strict credit controls. Muted dark olive green background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC086",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Chiếc cân nghiêng về phía đống tiền xu và con dấu đỏ ghi chữ CREDIT LIMIT.",
+    "sentences": [
+      "Luật Các tổ chức tín dụng siết rất chặt trần cấp tín dụng này."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a scale balancing a stack of coins and a red warning stamp labeled 'CREDIT LIMIT'. Dark warm charcoal background, glowing crimson coral red details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC087",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Máy bơm nước khổng lồ màu turquoise bơm tiền xu cứu cánh đồng khô hạn.",
+    "sentences": [
+      "Vì thế, cổ tức tiền mặt lớn chính là một máy bơm thanh khoản hợp pháp."
+    ],
+    "base_english_prompt": "A steady shot showing a giant mechanical water pump outline in glowing turquoise, pumping a stream of glowing silver coins into a thirsty crop field. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC088",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Máy bơm nước turquoise bơm tiền xu vào tổ hợp công nghiệp và văn phòng.",
+    "sentences": [
+      "Nó giúp rút dòng tiền mặt từ lợi nhuận ngân hàng về nâng đỡ hệ sinh thái."
+    ],
+    "base_english_prompt": "A slow camera panning showing the same mechanical water pump pumping a stream of coins into a silhouette of an industrial complex and office towers. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC089",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cần cẩu xây dựng và nhà máy hoạt động dưới bầu trời xanh turquoise phát sáng.",
+    "sentences": [
+      "Nguồn vốn sạch này có thể được dùng để tái đầu tư hoặc cơ cấu nợ."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing silhouette construction cranes and factories operating under a glowing turquoise sky. Muted dark olive green background, warm cream details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC090",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đường biểu đồ xanh turquoise đang lên bỗng bẻ cong cắm xuống bóng tối.",
+    "sentences": [
+      "Nhưng sự thăng hoa về lợi nhuận của Lộc Phát Bank có thực sự bền vững?"
+    ],
+    "base_english_prompt": "A slow camera panning showing a bright glowing turquoise graph line that suddenly starts to bend downward into a dark void. Muted dark olive green background, glowing crimson coral red warnings, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC091",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Bóng nhóm người nhìn xuống màn hình biểu đồ số hiển thị tín hiệu cảnh báo đỏ.",
+    "sentences": [
+      "Hay nó đang che giấu những rủi ro tích tụ từ việc tăng trưởng tín dụng?"
+    ],
+    "base_english_prompt": "A steady shot showing multiple silhouette figures looking down at a cracked digital chart screen displaying warning signals. Dark warm charcoal background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC092",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Kính lúp soi vào bảng tính tài chính màu kem, hé lộ các bóng tối ở dòng dưới.",
+    "sentences": [
+      "Chúng ta sẽ cùng lật giở những trang báo cáo tài chính của ngân hàng này.",
+      "Để nhìn vào vùng tối mà ít người chú ý."
+    ],
+    "base_english_prompt": "A slow camera panning showing a magnifying glass outline focusing on a glowing warm cream financial spreadsheet, revealing dark shadows in the lower rows. Dark warm charcoal background, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC093",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Biểu đồ tài chính khổng lồ hiển thị các cột tăng trưởng xanh turquoise.",
+    "sentences": [
+      "Trước hết, hãy nhìn vào những con số rực rỡ đang phơi bày trên báo cáo tài chính."
+    ],
+    "base_english_prompt": "A steady shot showing a giant glowing warm cream financial chart with multiple upward trends flashing in turquoise. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC094",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Màn hình số hiển thị chữ CHARTER CAPITAL và con số vốn điều lệ ngân hàng.",
+    "sentences": [
+      "Ngân hàng này sở hữu những chỉ số tài chính thăng hoa.",
+      "Vốn điều lệ của nhà băng đạt gần 29.873 tỷ đồng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the digital board displaying the English text 'CHARTER CAPITAL' and '29873 BILLION VND' in a clean bold minimal sans-serif font centered, glowing turquoise details. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC095",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bản đồ Việt Nam với mạng lưới bưu điện phát sáng màu kem trải khắp.",
+    "sentences": [
+      "Đặc biệt, họ thừa hưởng một tài sản vật lý vô giá từ lịch sử."
+    ],
+    "base_english_prompt": "A slow camera panning showing a sprawling network of vintage post office building silhouettes across a map of Vietnam, glowing in warm cream. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC096",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Bản đồ bưu điện kết nối bằng các đường turquoise, chữ 512 BRANCHES hiển thị.",
+    "sentences": [
+      "Đó là mạng lưới 512 phòng giao dịch Bưu điện rộng khắp.",
+      "Dưới sự dẫn dắt của Bầu Thụy."
+    ],
+    "base_english_prompt": "A steady shot showing the map with multiple pathways glowing in turquoise connecting the post offices, with the English text '512 BRANCHES' aligned to the bottom-right corner. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC097",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Bóng nhà tài phiệt đứng trước màn hình hiển thị logo LPBank màu kem sáng.",
+    "sentences": [
+      "LPBank chuyển dịch mạnh mẽ sang mảng ngân hàng bán lẻ.",
+      "Họ tối ưu hóa chi phí vận hành với chỉ số CIR ấn tượng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the silhouette of a senior Vietnamese financial tycoon with Asian features in a gray suit, standing before a giant digital dashboard displaying the LPBank logo outline in glowing warm cream. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC098",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Sảnh ngân hàng thương mại với khách hàng giao dịch tại các quầy bàn tối.",
+    "sentences": [
+      "CIR năm 2025 đạt mức 28,3%, thuộc nhóm tốt nhất hệ thống.",
+      "Năng lực sinh lời của nhà băng tăng trưởng ấn tượng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a modern commercial bank lobby where customers are silhouette figures being served at sleek dark desks under a warm cream light, with a glowing turquoise shield above. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC099",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Máy tính cơ khí xử lý số liệu, hiển thị chữ CIR hai mươi tám phần trăm.",
+    "sentences": [
+      "Lợi nhuận trước thuế năm 2025 đạt mức 14.269 tỷ đồng.",
+      "Sang năm 2026, ngân hàng đặt kế hoạch lợi nhuận kỷ lục 14.982 tỷ đồng."
+    ],
+    "base_english_prompt": "A steady shot showing a mechanical calculator outline in glowing warm cream processing transactions rapidly, with the English text 'CIR 28.3 PERCENT' displayed on a clean digital card on the left side. Glowing turquoise details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC100",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Chữ hiển thị con số lợi nhuận mười bốn nghìn tỷ rực sáng turquoise.",
+    "sentences": [
+      "Thực tế Quý I năm 2026 đã mang về 2.826 tỷ đồng lợi nhuận.",
+      "Quy mô tổng tài sản năm 2025 đạt tới 605.585 tỷ đồng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English text 'PROFIT 14269 BILLION VND' in a bold minimal sans-serif font centered in the upper third, glowing turquoise text. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC101",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Tờ lịch ghi mục tiêu lợi nhuận năm mới với ánh sáng turquoise bao quanh.",
+    "sentences": [
+      "Dòng tiền gửi của khách hàng tính đến Quý I năm 2026 đạt 345.760 tỷ đồng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a digital boardroom calendar marking a glowing target for the next year, with the English text 'TARGET 14982 BILLION VND' displayed in a clean bold minimal sans-serif font centered. Dark warm charcoal background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC102",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Chữ hiển thị lợi nhuận quý một gần ba nghìn tỷ phát sáng turquoise.",
+    "sentences": [
+      "Và tỷ lệ nợ xấu công bố ở mức rất thấp, chỉ 1,78%."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'Q1 PROFIT 2826 BILLION VND' in a bold minimal sans-serif font, glowing turquoise text, aligned to the bottom-right corner. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC103",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Pháo đài cổ lớn màu kem đại diện tổng tài sản, chữ TOTAL ASSETS hiển thị.",
+    "sentences": [
+      "Tuy nhiên, đằng sau bức tranh lợi nhuận thăng hoa là một vùng tối."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant fortress outline made of glowing warm cream, representing the bank's total assets, with the English text 'TOTAL ASSETS 605585 BILLION VND' displayed centered in the upper third. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC104",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Cổng pháo đài mở ra đón dòng tiền xu đổ vào, chữ DEPOSITS hiển thị.",
+    "sentences": [
+      "Một vùng tối bắt đầu lộ diện trên các báo cáo tài chính mới nhất."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the fortress gate opening, showing a river of warm cream coins flowing inside, representing retail deposits, with the English text 'DEPOSITS 345760 BILLION VND' aligned to the bottom-right corner. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC105",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Chữ hiển thị tỷ lệ nợ xấu một phẩy bảy mươi tám phần trăm rực sáng.",
+    "sentences": [
+      "Trong Quý I năm 2026, chi phí dự phòng rủi ro tín dụng tăng vọt."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'BAD DEBT 1.78 PERCENT' in a bold minimal sans-serif font, glowing turquoise text with a heavy black drop-shadow centered in the upper third. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC106",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Bóng tối bao trùm pháo đài, các vết nứt đỏ bắt đầu xuất hiện trên tường.",
+    "sentences": [
+      "Con số này đã tăng gần 300% so với cùng kỳ năm trước."
+    ],
+    "base_english_prompt": "A slow camera panning showing a sudden shadow casting over the fortress, with glowing crimson coral red cracks starting to appear on the fortress walls. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC107",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Màn hình biểu đồ đường đang lên gặp đám mây đỏ rực, đại diện rủi ro.",
+    "sentences": [
+      "Ngân hàng đã phải chi tới 774 tỷ đồng để trích lập dự phòng.",
+      "Sự gia tăng đột biến này phản ánh điều gì?"
+    ],
+    "base_english_prompt": "A steady shot showing a digital chart screen where a green trend line suddenly encounters a heavy dark crimson cloud, representing hidden risks. Muted dark olive green background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC108",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Chiếc cân lệch hẳn dưới khối nặng PROVISIONS, chữ RISK PROVISIONS hiển thị.",
+    "sentences": [
+      "Nó cho thấy chất lượng tài sản của LPBank đang chịu áp lực lớn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a balance scale tipping heavily under a red weight labeled 'PROVISIONS', with the English text 'RISK PROVISIONS UP 300 PERCENT' displayed in a clean bold minimal sans-serif font centered. Dark warm charcoal background, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC109",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Bảng số điện tử nhấp nháy con số bảy trăm bảy mươi tư tỷ màu đỏ cảnh báo.",
+    "sentences": [
+      "Đặc biệt khi ngân hàng bắt đầu tham gia bảo lãnh các dòng vốn liên minh."
+    ],
+    "base_english_prompt": "A slow camera panning showing a digital dashboard displaying the numbers '774 BILLION VND' flashing in glowing crimson coral red. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC110",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Kính lúp soi vào sổ cái hiển thị chữ GUARANTEED CAPITAL FLOW rực đỏ.",
+    "sentences": [
+      "Khi bạn nhìn thấy chi phí trích lập dự phòng của ngân hàng mình gửi tiền tăng gấp 3 lần."
+    ],
+    "base_english_prompt": "A steady shot showing a magnifying glass outline focusing on a legal ledger containing the English text 'GUARANTEED CAPITAL FLOW' in a clean bold minimal sans-serif font centered. Muted dark olive green background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC111",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Nhóm người chỉ vào vết nứt lớn trên tường bê tông đại diện chất lượng khoản vay.",
+    "sentences": [
+      "Đó là lúc bạn cần đặt câu hỏi về chất lượng của những khoản cho vay."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing several silhouette people pointing at a giant red crack in a concrete wall, representing concerns over credit quality. Muted dark olive green background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC112",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Tấm khiên đỏ lớn được dựng lên chắn các mũi tên đỏ bắn tới.",
+    "sentences": [
+      "Sự trích lập phòng vệ rủi ro vọt lên cho thấy một sự đánh đổi."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant shield outline in glowing crimson coral red being erected to block incoming red arrows, representing risk mitigation. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC113",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Tòa tháp ngân hàng bao bọc bởi mái vòm bảo vệ màu đỏ rực.",
+    "sentences": [
+      "Nhà băng phải hy sinh một phần lợi nhuận để xây dựng bộ đệm an toàn."
+    ],
+    "base_english_prompt": "A steady shot showing a commercial bank tower outline, with a protective crimson red dome glowing over it. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC114",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Tòa tháp ngân hàng với biểu đồ đường đi ngang ổn định nhưng thấp hơn.",
+    "sentences": [
+      "Đây là tín hiệu cảnh báo cho sự bền vững của dòng vốn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the bank tower, with a red graph line showing stabilization but lower profit heights. Dark warm charcoal background, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC115",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng người biên tập chỉ vào màn hình hiển thị chữ STABILITY VS PROFIT.",
+    "sentences": [
+      "Nếu bạn thấy những phân tích tài chính khách quan này giúp ích cho bạn."
+    ],
+    "base_english_prompt": "A slow camera panning showing a silhouette figure of an anchor pointing to a screen displaying the English text 'STABILITY VS PROFIT' in a clean bold minimal sans-serif font centered. Dark warm charcoal background, glowing warm cream details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC116",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Nút bấm LIKE & SHARE phát sáng màu turquoise trên nền tối.",
+    "sentences": [
+      "Hãy nhấn nút thích và chia sẻ video đến những người xung quanh."
+    ],
+    "base_english_prompt": "A steady shot showing a pulsing green thumbs-up icon in glowing turquoise, with the English text 'LIKE AND SHARE' displayed in a clean bold minimal sans-serif font centered. Dark warm charcoal background, warm cream details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC117",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Các đường turquoise kết nối tòa tháp ngân hàng và các tòa nhà tập đoàn.",
+    "sentences": [
+      "Bản đồ dòng vốn này thực chất đang được liên kết như thế nào?"
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing multiple flowing paths of glowing turquoise light connecting a bank tower silhouette and several corporate towers. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC118",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Ba cột đá cẩm thạch màu kem đại diện cho thế chân kiềng tài chính.",
+    "sentences": [
+      "Làm sao các tập đoàn tư nhân có thể tương trợ thanh khoản cho nhau?"
+    ],
+    "base_english_prompt": "A slow camera panning showing three main columns made of glowing warm cream marble, standing tall and symmetrical on a dark grid, representing the three key conglomerates. Muted dark olive green background, glowing turquoise lighting, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC119",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Hệ thống bánh răng ăn khớp màu kem, chữ CROSS-ALLIANCE hiển thị.",
+    "sentences": [
+      "Nước cờ này được thiết lập qua siêu liên minh chéo của các tỷ phú."
+    ],
+    "base_english_prompt": "A steady shot showing a complex network of interlocking gears in glowing warm cream outlines, with the English text 'CROSS-ALLIANCE' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC120",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Dòng nước turquoise chảy qua hệ bánh răng giúp chúng quay trơn tru.",
+    "sentences": [
+      "Chúng ta sẽ cùng vẽ ra sơ đồ liên kết đa phương này ngay sau đây."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the interlocking gears, showing glowing turquoise fluid flowing through their teeth, representing liquid capital moving smoothly. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC121",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Nhóm bóng người mặc suit đứng nắm tay nhau trước tòa cao ốc kính.",
+    "sentences": [
+      "Dòng vốn tư nhân lớn tại Việt Nam không còn vận hành riêng lẻ."
+    ],
+    "base_english_prompt": "A steady shot showing a group of corporate silhouette figures in dark suits standing together in front of a giant towering glass skyscraper, linking hands under a warm cream light, representing a joint coalition. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC122",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Các đường turquoise bao quanh các tòa nhà tập đoàn và ngân hàng tạo vòng bảo vệ.",
+    "sentences": [
+      "Họ đang bắt tay nhau để tạo thành những thế chân kiềng tài chính."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple glowing turquoise lines forming a protective barrier enclosing several corporate towers and a bank headquarters, representing a shared liquidity shield. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC123",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Chữ hiển thị ngày mười sáu tháng ba năm hai nghìn không trăm hai sáu.",
+    "sentences": [
+      "Mục tiêu là tự phòng vệ dòng vốn và bảo toàn thanh khoản.",
+      "Một siêu liên minh đa phương đã được thiết lập trong năm 2026."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'MARCH 16 2026' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream text, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC124",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Hai bàn tay ký văn bản có dấu mộc turquoise ghi chữ COOPERATION.",
+    "sentences": [
+      "Liên kết chặt chẽ Vingroup, Sacombank và hệ sinh thái LPBank.",
+      "Nhiều người nghĩ các biên bản hợp tác toàn diện chỉ là xã giao."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant blueprint map on a table, with two silhouette hands signing a document labeled with a glowing turquoise stamp 'COOPERATION AGREEMENT'. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC125",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bóng người thừa kế tập đoàn địa ốc bước ra khỏi bóng tối vào spotlight kem.",
+    "sentences": [
+      "Nhưng thực chất đây là những mắt xích khơi thông dòng tiền thực tế."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the silhouette of a young Vietnamese real estate heir with Asian features in a crisp white shirt, stepping out of a dark shadow into a warm cream spotlight, representing returning to public eye. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC126",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Đại công trường dự án bất động sản với các cần cẩu hoạt động dưới trời xanh.",
+    "sentences": [
+      "Thỏa thuận đầu tiên được ký kết vào ngày 16 tháng 3 năm 2026.",
+      "LPBank đã ký hợp tác toàn diện với Tập đoàn Novaland."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant construction site of a luxury residential estate silhouette in glowing warm cream outlines, with several construction cranes active under a glowing turquoise sky. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC127",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Cột bê tông lớn màu kem đỡ đống tiền xu, đại diện bảo lãnh tín dụng.",
+    "sentences": [
+      "Sự kiện đánh dấu sự xuất hiện của ông Bùi Cao Nhật Quân sau 9 năm ẩn mình."
+    ],
+    "base_english_prompt": "A steady shot showing a giant concrete pillar outline in glowing warm cream supporting a heavy load of digital coins, representing massive credit funding. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC128",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bánh răng quay khớp, hiển thị chữ RESTRUCTURING trên thẻ kỹ thuật số.",
+    "sentences": [
+      "LPBank cam kết cung cấp giải pháp tín dụng cho các siêu dự án."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a giant gears network turning in sync, representing corporate restructuring, with the English text 'RESTRUCTURING' displayed on a clean digital card on the left side. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC129",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Chữ hiển thị ngày hai mươi tư tháng tư năm hai nghìn không trăm hai sáu.",
+    "sentences": [
+      "Điều này giúp Novaland có nguồn lực để tái cấu trúc tài chính.",
+      "Mắt xích thứ hai quan trọng không kém được thiết lập sau đó."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'APRIL 24 2026' in a bold minimal sans-serif font centered in the upper third, glowing warm cream text. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC130",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Hai tòa tháp ngân hàng và công nghiệp kết nối bởi cây cầu turquoise sáng.",
+    "sentences": [
+      "Vào ngày 24 tháng 4 năm 2026.",
+      "Sacombank và Tập đoàn Vingroup chính thức ký hợp tác chiến lược."
+    ],
+    "base_english_prompt": "A slow camera panning showing two giant towers, one representing a bank and the other an industrial complex, connected by a glowing turquoise bridge of light. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC131",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Xe điện màu turquoise cắm vào trụ sạc, chữ GREEN CAPITAL hiển thị.",
+    "sentences": [
+      "Sacombank cam kết tài trợ vốn cho các dự án trọng điểm công nghệ."
+    ],
+    "base_english_prompt": "A steady shot showing a sleek aerodynamic electric car outline in glowing turquoise, plugged into a glowing power charging station on a dark street, with the English text 'GREEN CAPITAL' displayed centered in the upper third. Culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC132",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Xe điện taxi chạy trên đường phố đô thị Việt Nam dưới đèn đường kem ấm.",
+    "sentences": [
+      "Họ cũng hỗ trợ dòng vốn cho mảng công nghiệp và xe điện VinFast.",
+      "Ngược lại, Sacombank ưu tiên sử dụng sản phẩm thuộc Vingroup."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the electric car silhouette driving smoothly down a modern Vietnamese urban street under warm glowing streetlights. Dark warm charcoal background, glowing turquoise tail lights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC133",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Văn phòng ngân hàng với các màn hình hiển thị bản vẽ thiết kế xe điện.",
+    "sentences": [
+      "Họ cam kết chuyển đổi sang hệ thống giao thông xanh VinFast và GSM.",
+      "Mắt xích thứ ba khép kín hệ sinh thái tài chính."
+    ],
+    "base_english_prompt": "A slow camera panning showing a silhouette of a commercial bank office, with multiple office desks equipped with glowing computer monitors displaying electric car blueprints. Muted dark olive green background, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC134",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Hàng dài xe taxi điện đỗ thẳng tắp trên bãi dưới đèn spotlight turquoise.",
+    "sentences": [
+      "Vào ngày 3 tháng 6 năm 2026.",
+      "Sacombank tiếp tục ký hợp tác toàn diện với Chứng khoán LPBS."
+    ],
+    "base_english_prompt": "A steady shot showing a fleet of modern green electric taxis in silhouette parked in a neat grid under a glowing turquoise spotlight, representing fleet transport. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC135",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đường turquoise chạy vòng quanh bãi xe và tòa nhà ngân hàng tạo vòng khép kín.",
+    "sentences": [
+      "Mục tiêu là đồng phát triển dịch vụ quản lý tài sản toàn diện."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing multiple glowing turquoise lines wrapping around the taxi fleet and a bank headquarters, forming a tight closed circle. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC136",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Chữ hiển thị ngày mùng ba tháng sáu năm hai nghìn không trăm hai sáu.",
+    "sentences": [
+      "Dành riêng cho nhóm khách hàng cá nhân cao cấp của cả hai bên.",
+      "Hãy nhìn vào bức tranh toàn cảnh của liên minh chéo này."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'JUNE 3 2026' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream text, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC137",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Hai văn bản ngân hàng và công ty chứng khoán phát sáng turquoise trên bàn.",
+    "sentences": [
+      "Vingroup đang cần nguồn vốn lưu động khổng lồ cho giấc mơ xe điện."
+    ],
+    "base_english_prompt": "A slow camera panning showing two documents side-by-side on a desk, one with a bank stamp and the other with a securities firm stamp, both glowing in turquoise. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC138",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Gia đình đứng trước tấm khiên turquoise chứa chìa khóa vàng quản lý tài sản.",
+    "sentences": [
+      "Nay họ có hai bệ đỡ tài chính tư nhân hùng mạnh ở phía sau.",
+      "Đó là LPBank và Sacombank."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a silhouette family standing before a glowing turquoise shield containing a gold key, representing private wealth management services. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC139",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Khách hàng VIP nhìn lên biểu đồ tăng trưởng tài sản màu kem phát sáng.",
+    "sentences": [
+      "Các nhà băng này hỗ trợ cả về dòng vốn bán buôn tài trợ dự án."
+    ],
+    "base_english_prompt": "A steady shot showing a group of silhouette wealthy retail clients looking at a digital presentation screen displaying a rising wealth chart in glowing warm cream outlines. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC140",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Ba tòa nhà chọc trời kết nối bằng hệ thống ống dẫn turquoise lớn.",
+    "sentences": [
+      "Lẫn giải pháp cho vay tiêu dùng bán lẻ cho người mua xe, mua nhà."
+    ],
+    "base_english_prompt": "A slow camera panning showing a panoramic view of three massive modern skyscrapers connected by glowing turquoise pipelines, representing the unified system. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC141",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Công nhân nhà máy xe điện đứng cạnh dây chuyền, nhìn biểu đồ turquoise lên.",
+    "sentences": [
+      "Ngược lại, dòng tiền tiêu dùng khép kín chảy ngược về hệ sinh thái."
+    ],
+    "base_english_prompt": "A steady shot showing a silhouette figure of a Vietnamese car factory worker standing next to an electric vehicle assembly line, looking up at a glowing turquoise graph. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC142",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cánh tay robot hàn khung xe điện màu kem với tia lửa turquoise bắn ra.",
+    "sentences": [
+      "Đây chính là mô hình liên minh tương hỗ tương tự các tập đoàn Nhật Bản."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the assembly line showing robot arms welding a car frame in glowing warm cream outlines, with turquoise spark effects. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC143",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Các dòng nước turquoise chảy từ hòm tiền chính sang các hòm phụ.",
+    "sentences": [
+      "Một sự phòng vệ dòng vốn tối thượng trước biến động của thị trường."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple paths of glowing turquoise light radiating from a central bank vault out to several smaller vaults. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC144",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bàn tay trao tài liệu vay mua xe cho khách hàng, đại diện tín dụng bán lẻ.",
+    "sentences": [
+      "Nhưng sự kiện nào đã dọn đường cho mối liên kết chéo khổng lồ này?"
+    ],
+    "base_english_prompt": "A hand sliding a glowing bank loan document outline to another silhouette hand representing a car buyer, representing retail loans. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC145",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đường ống dẫn khép kín màu xanh turquoise với dòng nước sáng chạy vòng lặp.",
+    "sentences": [
+      "Và ai là người thực sự điều phối dòng chảy của hai ngân hàng?"
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a continuous loop of glowing turquoise piping forming a closed circuit, with liquid light flowing through it. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC146",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Nhóm tỷ phú đứng sau bức tường đá bảo vệ màu kem rực sáng.",
+    "sentences": [
+      "Nó gắn liền với cuộc dịch chuyển quyền lực nhân sự vô tiền khoáng hậu."
+    ],
+    "base_english_prompt": "A steady shot showing a group of silhouette corporate tycoons in dark suits standing behind a massive stone wall in glowing warm cream, representing defence. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC147",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Quân tốt cờ vua trượt khéo léo qua các tia laser đỏ rào cản pháp lý.",
+    "sentences": [
+      "Một hành trình dịch chuyển nhân sự của nhóm Bầu Thụy sang Sacombank."
+    ],
+    "base_english_prompt": "A chess pawn sliding neatly between two tall red laser beams, representing legal barriers. Dark warm charcoal background, glowing crimson coral red lasers, warm cream pawn, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC148",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Các bánh răng cơ khí màu kem ăn khớp và chuyển động cùng nhau.",
+    "sentences": [
+      "Chúng ta sẽ cùng giải mã bản đồ nhân sự này ngay sau đây."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing multiple glowing warm cream gears interlocking, with glowing turquoise light piping through their teeth. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC149",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Các tòa tháp tập đoàn kết nối bằng cầu ánh sáng turquoise trên nền tối.",
+    "sentences": [
+      "Đế chế tài chính tư nhân mới không tự nhiên mà hình thành."
+    ],
+    "base_english_prompt": "A steady shot showing multiple corporate towers on a dark grid, with glowing turquoise bridges of light connecting their rooftops, representing the new private financial empire. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC150",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Chiếc ghế chủ tịch màu kem lùi vào bóng tối, đại diện chuyển giao quyền lực.",
+    "sentences": [
+      "Nó được xây dựng dựa trên sự dịch chuyển nhân sự và cấu trúc quyền lực."
+    ],
+    "base_english_prompt": "A slow camera panning showing a boardroom where a large wooden chairman chair outline in glowing warm cream is slowly sliding back into darkness, representing transition of power. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC151",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Chữ hiển thị cuối năm hai nghìn không trăm hai lăm rực sáng.",
+    "sentences": [
+      "Cuối năm 2025, doanh nhân Nguyễn Đức Thụy rời ghế Chủ tịch LPBank."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'LATE 2025' in a bold minimal sans-serif font centered in the upper third, glowing warm cream text. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC152",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Bóng tài phiệt rời bục phát biểu đi vào bóng tối vẫy tay chào.",
+    "sentences": [
+      "Sự rút lui này dọn đường cho một cuộc tiếp quản lớn hơn tại Sacombank.",
+      "Kể từ ngày 3 tháng 3 năm 2026."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the silhouette of a senior Vietnamese financial tycoon with Asian features in a gray suit, stepping down from a podium, waving his hand as he retreats into the shadows. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC153",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng tài phiệt đi trên cầu turquoise hướng về tòa tháp ngân hàng mới.",
+    "sentences": [
+      "Bầu Thụy chính thức làm Tổng Giám đốc kiêm Phó Chủ tịch thường trực Sacombank."
+    ],
+    "base_english_prompt": "A slow camera panning showing the silhouette of the same senior Vietnamese financial tycoon walking across a glowing turquoise bridge of light toward a new modern bank tower, representing power transition. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC154",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Chữ hiển thị ngày mùng ba tháng ba năm hai nghìn không trăm hai sáu.",
+    "sentences": [
+      "Đi cùng với đó là việc kiện toàn bộ máy bằng người thân tín."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'MARCH 3 2026' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream text, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC155",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Bóng tài phiệt ngồi tại bàn họp lớn với biển tên turquoise phát sáng.",
+    "sentences": [
+      "Thế hệ thứ hai của gia đình ông đã nhanh chóng lộ diện.",
+      "Vào ngày 4 tháng 6 năm 2026."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the senior Vietnamese financial tycoon sitting at a large mahogany desk in a bank boardroom, with a glowing turquoise nameplate on the desk. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC156",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Ghế trong phòng họp được thay mới bằng các ghế hiện đại màu kem.",
+    "sentences": [
+      "Con trai và con gái ông được bổ nhiệm làm trợ lý ban điều hành.",
+      "Trong đó, con trai Nguyễn Xuân Thái sinh năm 2003."
+    ],
+    "base_english_prompt": "A slow camera panning showing a boardroom where several smaller silhouette chairs are being replaced by fresh modern chairs, representing restructuring of the board. Muted dark olive green background, warm cream outlines, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC157",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Hai bóng người thừa kế trẻ đứng cạnh nhà tài phiệt dưới ánh sáng cam.",
+    "sentences": [
+      "Cậu sở hữu khối tài sản lớn khi nắm 15% cổ phần một doanh nghiệp nghìn tỷ."
+    ],
+    "base_english_prompt": "A steady shot showing the silhouette profiles of a young Vietnamese man and a young Vietnamese woman standing next to the senior tycoon, under a glowing terracotta orange light, representing the next generation. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC158",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Chữ hiển thị ngày mùng bốn tháng sáu năm hai nghìn không trăm hai sáu.",
+    "sentences": [
+      "Đây là bước xác lập sự chuyển giao thế hệ của gia tộc tài phiệt mới."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English text 'JUNE 4 2026' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream text, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC159",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Hai người thừa kế nhận tập tài liệu màu kem từ tay phụ thân.",
+    "sentences": [
+      "Triều đại mới đã mang lại những thay đổi lịch sử cho Sacombank.",
+      "Vào ngày 1 tháng 6 năm 2026."
+    ],
+    "base_english_prompt": "A slow camera panning showing the two young silhouette heirs being handed glowing warm cream file folders in a modern office setup. Muted dark olive green background, glowing terracotta orange details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC160",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Chữ hiển thị tỷ lệ cổ phần mười lăm phần trăm và giá trị nghìn tỷ.",
+    "sentences": [
+      "Ngân hàng được chấp thuận đổi tên thương mại thành Sài Gòn Tài Lộc."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'YOUTH ASSET 15 PERCENT' and '1000 BILLION VND' in a bold minimal sans-serif font, glowing terracotta orange text. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC161",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Sơ đồ gia phả dòng tộc dạng cây màu kem với các nút lá cam phát sáng.",
+    "sentences": [
+      "Đại bản doanh được dời về tòa nhà ThaiSquare tại trung tâm Quận 1."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a family lineage tree graphic made of glowing warm cream branches, with glowing terracotta orange shields at the nodes. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC162",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Tòa tháp ngân hàng thay đổi bảng hiệu sang logo mới màu turquoise.",
+    "sentences": [
+      "ThaiSquare vốn là trung tâm đầu não trong hệ sinh thái cũ của Bầu Thụy."
+    ],
+    "base_english_prompt": "A slow camera panning showing a towering modern bank building having its glowing logo replaced with a new glowing turquoise design, representing rebranding. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC163",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Chữ hiển thị ngày mùng một tháng sáu năm hai nghìn không trăm hai sáu.",
+    "sentences": [
+      "Nhà băng cũng lên phương án phát hành riêng lẻ tối đa 20.000 tỷ đồng trái phiếu."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'JUNE 1 2026' displayed in a clean bold minimal sans-serif font centered in the upper third. Glowing warm cream text, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC164",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Logo và tên mới SAI GON TAI LOC phát sáng turquoise trên nền tối.",
+    "sentences": [
+      "Mục tiêu là tích lũy nguồn lực tài chính khổng lồ cho liên minh."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the new bank name 'SAI GON TAI LOC' displaying in a clean bold minimal sans-serif font with a heavy black drop-shadow, glowing turquoise letters, centered. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC165",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Tòa tháp ThaiSquare cao tầng trung tâm Quận 1 phát sáng màu kem.",
+    "sentences": [
+      "Sợi dây liên kết với hệ sinh thái cũ vẫn được duy trì chặt chẽ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a towering office building in the center of District 1, Ho Chi Minh City, glowing in warm cream outlines. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC166",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Tòa tháp ThaiSquare rực sáng dưới ánh đèn spotlight turquoise ở sảnh.",
+    "sentences": [
+      "Gia đình Bầu Thụy nắm giữ gần 27% vốn tại Chứng khoán LPBS."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'THAI SQUARE HEADQUARTERS' aligned to the bottom-right corner, with a glowing turquoise spotlight illuminating the building lobby. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC167",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Cuộn trái phiếu khổng lồ mở ra, chữ BOND ISSUE hai mươi nghìn tỷ hiển thị.",
+    "sentences": [
+      "Chứng khoán LPBS đang thực hiện kế hoạch IPO tăng vốn thêm 14.086 tỷ đồng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a giant scroll of bond certificates in glowing warm cream outlines, with the English text 'BOND ISSUE 20000 BILLION VND' displayed centered. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC168",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Hòm kho lớn màu turquoise thu hút các dòng tiền xu bạc chảy vào.",
+    "sentences": [
+      "Với mức giá chào bán là 30.000 đồng trên mỗi cổ phiếu.",
+      "Và ngay sau khi Sacombank đổi tên thương hiệu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant treasury chest outline in glowing turquoise, accumulating a stream of glowing silver coins, representing capital building. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC169",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Nhóm người thân tộc đứng trong vòng tròn kết nối bằng chỉ turquoise.",
+    "sentences": [
+      "Hai định chế này đã ký hợp tác toàn diện vào ngày 3 tháng 6 năm 2026."
+    ],
+    "base_english_prompt": "A group of family members standing in a circle under a glowing warm cream light, connected by a network of glowing turquoise threads. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC170",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Sơ đồ tỷ lệ sở hữu tại công ty chứng khoán hiển thị hai mươi bảy phần trăm.",
+    "sentences": [
+      "Sự chuyển dịch quyền lực và dòng vốn chéo này không phải là mới.",
+      "Nhìn vào mô hình này."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the family group, showing a digital dashboard displaying the English text 'LPBS SHARE 27 PERCENT' in a clean bold minimal sans-serif font centered. Glowing turquoise details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC171",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Tòa nhà công ty chứng khoán với bảng điện hiển thị chữ IPO mười bốn nghìn tỷ.",
+    "sentences": [
+      "Chúng ta sẽ có một bộ khung phân tích để đánh giá dòng tiền gửi của mình."
+    ],
+    "base_english_prompt": "A slow camera panning showing a securities firm building outline in glowing warm cream, with a digital ticker scrolling up rapidly, with the English text 'IPO 14086 BILLION VND' aligned to the bottom-right corner. Dark warm charcoal background, glowing turquoise numbers, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC172",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Chữ hiển thị mức giá chào bán ba mươi nghìn đồng một cổ phiếu.",
+    "sentences": [
+      "Nhưng trước hết, hãy nhìn vào mắt xích khát vốn nhất trong liên minh."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'IPO PRICE 30000 VND' in a bold minimal sans-serif font, glowing turquoise text with a heavy black drop-shadow centered. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC173",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Bánh răng ngân hàng và chứng khoán khớp nhau quay đều phát sáng turquoise.",
+    "sentences": [
+      "Đó chính là tập đoàn công nghiệp Vingroup và hãng xe điện VinFast."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing two giant gears, one representing the renamed bank and the other the securities firm, locking together and turning in sync. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC174",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Chữ hiển thị ngày mùng ba tháng sáu và văn bản hợp tác ký kết rực sáng.",
+    "sentences": [
+      "Họ đang tái cấu trúc như thế nào để đón nhận dòng thanh khoản này?",
+      "Chúng ta sẽ giải mã ngay sau đây."
+    ],
+    "base_english_prompt": "A slow camera panning showing the English text 'JUNE 3 2026' displayed in a clean bold minimal sans-serif font centered, with a glowing turquoise spotlight illuminating a signed cooperation document below it. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC175",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Dấu hỏi chấm màu kem lớn đứng cạnh tòa nhà ngân hàng, nền tối.",
+    "sentences": [
+      "Tại sao hệ sinh thái của tỷ phú Phạm Nhật Vượng lại cần liên minh tài chính này?"
+    ],
+    "base_english_prompt": "A steady shot showing a giant glowing warm cream question mark standing next to a silhouette of a commercial bank building. Muted dark olive green background, glowing turquoise lighting, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC176",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Bản vẽ mặt cắt xe điện màu kem với khối pin turquoise sáng bên trong.",
+    "sentences": [
+      "Câu trả lời nằm ở nhu cầu thanh khoản khổng lồ của VinFast."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the side profile of a modern electric car chassis silhouette in glowing warm cream outlines, showing a glowing turquoise battery pack inside. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC177",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Dây chuyền robot hàn lắp ráp xe điện trong nhà xưởng, chữ EV INDUSTRY hiển thị.",
+    "sentences": [
+      "Xe điện là một ngành công nghiệp ngốn vốn khổng lồ trên toàn cầu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive factory production floor where silhouette robotic arms are welding auto parts under a single warm cream spotlight, with the English text 'EV INDUSTRY' aligned to the bottom-right corner. Dark warm charcoal background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC178",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bánh răng lớn màu kem có các mảnh ghép được số hóa thành nét turquoise.",
+    "sentences": [
+      "Để sinh tồn, Vingroup đã thực hiện những bước tái cấu trúc quyết liệt."
+    ],
+    "base_english_prompt": "A steady shot showing a giant gears network in glowing warm cream outlines, with several key gears being replaced by sleek digital lines, representing restructuring. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC179",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Chiếc cân thăng bằng giữa bánh răng nặng và sợi lông vũ nhẹ ASSET-LIGHT.",
+    "sentences": [
+      "Họ chủ động chuyển dịch sang mô hình nhẹ tài sản, hay Asset-Light."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on a digital scale balancing a heavy metal gear against a lightweight feather in glowing warm cream outlines, with the English text 'ASSET-LIGHT' displayed centered in the upper third. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC180",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Khối máy móc nhà xưởng vật lý mờ dần thành lưới kỹ thuật số phẳng.",
+    "sentences": [
+      "Bước đi táo bạo nhất là việc VinFast tách biệt mảng sản xuất vật lý."
+    ],
+    "base_english_prompt": "A slow camera panning showing a factory floor in silhouette, with the heavy manufacturing machinery fading into a soft digital grid, representing separation of physical production. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC181",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bàn tay trao tập hồ sơ hợp tác cho đối tác, chữ PARTNERSHIP hiển thị.",
+    "sentences": [
+      "Họ chuyển giao toàn bộ mảng này cho một đối tác bên thứ ba."
+    ],
+    "base_english_prompt": "A steady shot showing a silhouette hand passing a glowing document folder outline to another hand, with the English text 'PARTNERSHIP' aligned to the bottom-right corner in a clean bold minimal sans-serif font. Dark warm charcoal background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC182",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Chữ hiển thị giá trị giao dịch năm trăm ba mươi triệu USD rực sáng.",
+    "sentences": [
+      "Giá trị của thương vụ tái cấu trúc này lên tới 530 triệu USD."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English text 'VALUE 530 MILLION USD' in a bold minimal sans-serif font centered in the upper third, glowing turquoise text. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC183",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bảng cân đối kế toán được làm sạch bằng một vệt quét màu turquoise.",
+    "sentences": [
+      "Nước đi này giúp dọn sạch bảng cân đối kế toán của hãng xe."
+    ],
+    "base_english_prompt": "A slow camera panning showing a clean glowing digital balance sheet, with multiple rows of debt numbers being erased by a glowing turquoise sweep. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC184",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Các khối máy móc lớn bị đẩy ra khỏi chiếc hộp tài sản màu kem.",
+    "sentences": [
+      "Nó đưa các tài sản cố định và chi phí Capex khổng lồ ra ngoài."
+    ],
+    "base_english_prompt": "A steady shot showing a stack of heavy factory machinery silhouettes being moved out of a glowing box outline. Muted dark olive green background, clean silver gray details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC185",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Nhà quản lý nhìn biểu đồ hiển thị chữ DEPRECIATION REDUCED rực sáng.",
+    "sentences": [
+      "Nhờ đó, hãng xe giảm bớt được gánh nặng khấu hao tài sản cố định."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a silhouette figure of a manager looking at a dashboard displaying the English text 'DEPRECIATION REDUCED' in a clean bold minimal sans-serif font centered. Muted dark olive green background, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC186",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Scientist làm việc trong lab màu kem với mạch điện turquoise phát sáng.",
+    "sentences": [
+      "VinFast có thể tập trung tối đa nguồn lực vào công nghệ và R&D."
+    ],
+    "base_english_prompt": "A slow camera panning showing a modern laboratory outline in glowing warm cream, with a scientist silhouette examining a glowing turquoise circuit board, representing R&D focus. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC187",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Băng chuyền chở xe điện chạy vào cổng ánh sáng đại diện tiêu thụ.",
+    "sentences": [
+      "Song song với đó là việc tăng cường năng lực cho cỗ máy tiêu thụ đầu ra."
+    ],
+    "base_english_prompt": "A steady shot showing a conveyor belt moving silhouette electric cars into a glowing gateway representing consumption. Dark warm charcoal background, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC188",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bóng tỷ phú ký sổ cái màu kem dưới spotlight cam ấm.",
+    "sentences": [
+      "Vingroup đã nhận chuyển nhượng vốn góp từ chính tỷ phú Phạm Nhật Vượng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the silhouette of a Vietnamese billionaire corporate titan in a dark tailored suit signing a ledger book outline, under a glowing terracotta orange spotlight. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC189",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Sơ đồ tỷ lệ sở hữu tại hãng taxi và VinEnergo hiển thị ba mươi lăm phần trăm.",
+    "sentences": [
+      "Họ nâng tỷ lệ sở hữu tại hãng taxi điện GSM và VinEnergo lên tối đa 35%."
+    ],
+    "base_english_prompt": "A slow camera panning showing the English text 'GSM AND VINENERGO 35 PERCENT' in a clean bold minimal sans-serif font centered, glowing terracotta orange details, dark warm charcoal background. Culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC190",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Chữ hiển thị số vốn tăng thêm bốn mươi ba nghìn tỷ phát sáng cam.",
+    "sentences": [
+      "Vốn điều lệ của hãng taxi điện GSM được nâng lên mức hơn 43.000 tỷ đồng."
+    ],
+    "base_english_prompt": "A steady shot showing the English text 'CAPITAL INCREASE 43000 BILLION VND' in a bold minimal sans-serif font centered in the upper third, glowing terracotta orange text. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC191",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Hàng xe taxi xanh chạy trên đường phố Việt Nam dưới đèn kem ấm.",
+    "sentences": [
+      "Nếu bạn đang theo dõi hành trình của những chiếc xe điện VinFast trên đường phố."
+    ],
+    "base_english_prompt": "A slow camera panning showing a fleet of modern green electric taxis in silhouette driving down a busy Vietnamese street under a glowing warm cream light, representing public transport. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC192",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Màn hình số hiển thị con số bốn mươi ba nghìn tỷ rực cam trên nền tối.",
+    "sentences": [
+      "Con số tăng vốn 43.000 tỷ của GSM cho thấy cuộc chơi dòng tiền đang đẩy lên mức khốc liệt."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a digital dashboard displaying the numbers '43000 BILLION VND' in a clean bold minimal sans-serif font centered, glowing terracotta orange details, dark warm charcoal background. Culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC193",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Bản đồ thế giới với các đường turquoise lan từ Việt Nam ra năm nước.",
+    "sentences": [
+      "GSM không chỉ hoạt động trong nước.",
+      "Họ đã nhanh chóng đưa dịch vụ di chuyển xanh lăn bánh tại 6 quốc gia."
+    ],
+    "base_english_prompt": "A slow camera panning showing a world map outline with glowing turquoise lines extending from Vietnam to five other countries, representing international expansion. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC194",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Tập hợp đồng sỉ xếp trên bàn làm việc, chữ WHOLESALE DEALS hiển thị.",
+    "sentences": [
+      "Các hợp đồng bán xe điện sỉ quy mô lớn cũng liên tiếp được chốt."
+    ],
+    "base_english_prompt": "A steady shot showing a stack of glowing warm cream supply contracts on a desk, with the English text 'WHOLESALE DEALS' aligned to the bottom-right corner. Glowing turquoise accents, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC195",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Hai đống xe điện lớn xếp song song, mỗi đống ghi hai nghìn xe.",
+    "sentences": [
+      "Họ đã bán 2.000 xe cho Huy Long và 2.000 xe khác cho Taxi Quê Lụa."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing two stacks of electric cars, each labeled with the English text '2000 VEHICLES' in a bold minimal sans-serif font centered. Glowing turquoise details, dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC196",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Guồng nước turquoise lớn quay đều dẫn tiền xu vào nhà máy xe điện.",
+    "sentences": [
+      "GSM chính là cỗ máy tạo dòng tiền quay vòng tức thời cho VinFast."
+    ],
+    "base_english_prompt": "A steady shot showing a large waterwheel outline in glowing turquoise, rotating steadily and feeding a stream of digital coins back into a car factory silhouette, representing cash circulation. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC197",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bản đồ dòng vốn với các cảnh báo đỏ rực chỉ nhu cầu vốn lưu động.",
+    "sentences": [
+      "Tuy nhiên, toàn bộ thế trận này đòi hỏi nguồn vốn lưu động khổng lồ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant blueprint map on a table, with glowing red indicators showing high liquidity demands across the grid, representing capital needs. Muted dark olive green background, glowing crimson coral red warnings, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC198",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mái vòm thép màu kem che chắn bảo vệ cho tổ hợp công nghiệp tối.",
+    "sentences": [
+      "Và đó là lúc siêu liên minh chéo phát huy vai trò bệ đỡ.",
+      "Hai ngân hàng LPBank và Sacombank hỗ trợ tối đa cho Vingroup."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a giant steel structure in glowing warm cream forming a dome over an industrial complex silhouette, representing corporate defense. Muted dark olive green background, glowing turquoise spotlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC199",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Các đường turquoise dẫn vốn từ hai ngân hàng vào mái vòm công nghiệp.",
+    "sentences": [
+      "Họ cấp các dòng vốn bán buôn để tài trợ cho các dự án lớn."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple pathways of glowing turquoise light radiating from two bank tower silhouettes to the industrial complex dome. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC200",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Bàn tay trao hồ sơ tín dụng mua xe và nhà cho khách hàng silhouette.",
+    "sentences": [
+      "Đồng thời cung cấp giải pháp tài chính tiêu dùng cho người mua xe, mua nhà."
+    ],
+    "base_english_prompt": "A steady shot showing a hand sliding a glowing bank loan document outline to a silhouette of a home buyer standing next to a car buyer. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC201",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đường ống dẫn khép kín màu xanh turquoise với dòng nước sáng chạy vòng lặp.",
+    "sentences": [
+      "Đây là một thế trận phòng thủ dòng vốn khép kín và vững chắc."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a continuous loop of glowing turquoise piping forming a closed circuit, with liquid light flowing through it. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC202",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Nhóm người tiết kiệm nhỏ lẻ cầm bình xu nhìn về tòa ngân hàng cao tầng.",
+    "sentences": [
+      "Nhưng đối với những người gửi tiền tiết kiệm nhỏ lẻ thì sao?"
+    ],
+    "base_english_prompt": "A steady shot showing a group of silhouette retail savers holding small coin jars under a warm cream lamp, looking at a towering bank building outline in the background. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC203",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cân thăng bằng nghiêng qua lại giữa viên ngọc xanh và con dấu cảnh báo đỏ.",
+    "sentences": [
+      "Liên minh chéo này mang lại cơ hội hay rủi ro cho tài sản của họ?"
+    ],
+    "base_english_prompt": "A slow camera panning showing a balance scale tipping between a glowing green gem and a red warning indicator, representing opportunity vs risk. Dark warm charcoal background, glowing crimson coral red warning details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC204",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Bóng người đứng sau khiên turquoise chắn tia lửa đỏ bắn phá.",
+    "sentences": [
+      "Làm thế nào để tự bảo vệ túi tiền của mình trước các cuộc chơi lớn?"
+    ],
+    "base_english_prompt": "A steady shot showing a silhouette person standing behind a giant glowing turquoise shield outline, blocking incoming red sparks. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC205",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Tấm khiên turquoise rực sáng hiển thị chữ FINANCIAL DEFENSE.",
+    "sentences": [
+      "Chúng ta sẽ cùng rút ra bài học đắt giá này ở phần kết luận ngay sau đây."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the shield, with the English text 'FINANCIAL DEFENSE' displayed in a clean bold minimal sans-serif font centered. Dark warm charcoal background, glowing turquoise text, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC206",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Chiếc cân thăng bằng giữa hòm ngân hàng và nhà máy công nghiệp lớn.",
+    "sentences": [
+      "Sự bắt tay giữa tài chính và công nghiệp luôn là một bài toán đánh đổi của nền kinh tế."
+    ],
+    "base_english_prompt": "A steady shot showing a scale balancing a large silver bank vault outline against a massive golden factory silhouette, representing finance vs industry. Dark warm charcoal background, glowing turquoise lighting details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC207",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Con đường chia đôi ngã rẽ dưới bầu trời nửa xanh nửa đỏ kịch tính.",
+    "sentences": [
+      "Nhìn từ lăng kính khách quan, thế trận này mang đến hai mặt đối lập.",
+      "Ở chiều hướng ủng hộ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a road splitting into two distinct pathways under a dramatic split sky, one path glowing in green and the other in red. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC208",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Khiên turquoise che chở nhà máy nội địa khỏi các tia sét đỏ.",
+    "sentences": [
+      "Sự liên kết này giúp bảo vệ an ninh nguồn vốn cho doanh nghiệp nội địa."
+    ],
+    "base_english_prompt": "A steady shot showing a giant glowing turquoise shield outline protecting a silhouette of a domestic factory from falling red thunderbolts. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC209",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Hai mái vòm turquoise bảo vệ car factory và cao ốc Novaland khỏi gió bão.",
+    "sentences": [
+      "Vingroup và Novaland có được bệ đỡ thanh khoản vững chắc để sinh tồn."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing two interlocking glowing turquoise domes protecting a car factory and a residential skyscraper silhouette from external wind. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC210",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Cần cẩu xây dựng và nhà máy hoạt động ổn định dưới vòm turquoise.",
+    "sentences": [
+      "Họ có thể tiếp tục phát triển công nghiệp và hoàn thiện bất động sản."
+    ],
+    "base_english_prompt": "A slow camera panning showing silhouette construction cranes and factories operating smoothly under a glowing turquoise dome, representing completed works. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC211",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Bức tường đá lớn ngăn bàn tay đỏ xâm nhập lưới tài sản quốc gia.",
+    "sentences": [
+      "Điều này giúp giữ lại động lực tăng trưởng và ngăn chặn sự thâu tóm của khối ngoại."
+    ],
+    "base_english_prompt": "A steady shot showing a giant stone wall blocking a red shadowy hand from reaching into a glowing turquoise digital grid representing domestic assets. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC212",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bảng điện tử hiển thị tỷ lệ chia cổ tức ba mươi phần trăm rực sáng.",
+    "sentences": [
+      "Đồng thời, dòng tiền mặt từ cổ tức tiền mặt kỷ lục 30% của LPBank."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on a digital dashboard displaying the English text 'DIVIDEND PAYOUT' and '30 PERCENT' in a clean bold minimal sans-serif font centered, glowing turquoise details. Dark warm charcoal background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC213",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Máy bơm turquoise bơm tiền mặt vào các hòm công ty, rồi bóng tối ập xuống.",
+    "sentences": [
+      "Là một máy bơm thanh khoản sạch sẽ, hợp pháp và đều đặn cho các ông chủ lớn.",
+      "Tuy nhiên, ở chiều ngược lại."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant mechanical pump outline in glowing turquoise, pumping liquid cash into multiple corporate vaults, then a shadow casting over the vaults. Dark warm charcoal background, glowing crimson coral red warning highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC214",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Các cột đá kết nối bằng chỉ đỏ, một cột nứt đỏ đe dọa domino.",
+    "sentences": [
+      "Sự liên chéo đa phương cũng tích tụ rủi ro hệ thống đáng lo ngại."
+    ],
+    "base_english_prompt": "A steady shot showing multiple vertical pillars connected by glowing red threads, with one pillar cracking and casting a shadow over the others, representing systemic risk. Muted dark olive green background, glowing crimson coral red cracks, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC215",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Hàng quân cờ domino màu đỏ bắt đầu đổ rạp trên lưới grid tối.",
+    "sentences": [
+      "Tính liên đới dòng tiền có thể tạo ra hiệu ứng domino.",
+      "Nếu một mắt xích gặp sự cố thanh khoản kéo dài."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a row of red dominoes standing on a dark grid, with the first domino starting to tip over toward the others. Dark warm charcoal background, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC216",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Hai tòa tháp ngân hàng xuất hiện vết nứt đỏ chạy dọc kính ngoài.",
+    "sentences": [
+      "Nó có thể kéo sụt chất lượng tài sản của cả hai ngân hàng."
+    ],
+    "base_english_prompt": "A slow camera panning showing two bank tower silhouettes, with red cracks running down their glass facades. Muted dark olive green background, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC217",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Kính lúp soi vào luật hiển thị chữ 1% OWNERSHIP DISCLOSURE.",
+    "sentences": [
+      "Quy định công bố sở hữu 1% của Luật Các tổ chức tín dụng 2024."
+    ],
+    "base_english_prompt": "A steady shot showing a magnifying glass outline focusing on a legal text containing the English text '1 PERCENT OWNERSHIP DISCLOSURE' in a clean bold minimal sans-serif font centered. Dark warm charcoal background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC218",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Đám đông rọi đèn spotlight vào các vết nứt của tòa tháp ngân hàng.",
+    "sentences": [
+      "Chính là chất xúc tác để thị trường giám sát các dòng vốn này."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing multiple silhouette retail investors pointing spotlights at the cracked bank towers, revealing the inner workings. Muted dark olive green background, glowing warm cream spotlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC219",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Người tiết kiệm nhỏ lẻ đọc tài liệu hướng dẫn tài chính dưới đèn ấm.",
+    "sentences": [
+      "Đối với những người gửi tiền tiết kiệm và các nhà đầu tư cá nhân."
+    ],
+    "base_english_prompt": "A slow camera panning showing a group of silhouette retail investors sitting under a warm cream light, looking at financial brochures in their hands. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC220",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bóng người đứng giữa ranh giới trung lập, từ chối tham gia hai phe.",
+    "sentences": [
+      "Bạn không cần phải chọn phe ủng hộ hay công kích liên minh này."
+    ],
+    "base_english_prompt": "A steady shot showing a silhouette person standing in a neutral zone under a single warm cream spotlight, refusing to join two shouting crowds on either side. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC221",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Người đọc tài liệu hiển thị chữ KNOW THE RULES rực sáng turquoise.",
+    "sentences": [
+      "Điều quan trọng nhất là hiểu luật chơi để tự bảo vệ tài sản."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the silhouette person reading a document containing the English text 'KNOW THE RULES' in a clean bold minimal sans-serif font centered. Dark warm charcoal background, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC222",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Nhiều két sắt nhỏ màu kem xếp rải rác đại diện chia nhỏ tài sản.",
+    "sentences": [
+      "Một bộ khung tự vệ tài chính thế hệ mới cần được thiết lập."
+    ],
+    "base_english_prompt": "A slow camera panning showing a layout of multiple independent safes in glowing warm cream outlines on a dark grid, representing diversified assets. Dark warm charcoal background, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC223",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bàn tay chia tiền xu vào ba bình thủy tinh riêng biệt phát sáng.",
+    "sentences": [
+      "Trước hết, hãy tránh việc tập trung quá nhiều tài sản vào một nơi."
+    ],
+    "base_english_prompt": "A steady shot showing a silhouette hand placing coins into three separate glowing glass jars rather than a single large jar. Muted dark olive green background, glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC224",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Ba bình thủy tinh chứa xu phát sáng nhẹ dưới đèn ấm bảo toàn vốn.",
+    "sentences": [
+      "Hãy chủ động chia nhỏ dòng tiền gửi tiết kiệm của gia đình."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in on the three glass jars, showing each jar illuminated by a gentle warm cream light, representing safe diversification. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC225",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Kính lúp soi vào báo cáo tài chính của ngân hàng, lộ khiên turquoise.",
+    "sentences": [
+      "Đặc biệt, hãy theo dõi sát sao chất lượng tài sản của ngân hàng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a magnifying glass outline focusing on a bank tower's asset ledger, with a glowing turquoise shield outline on the cover. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC226",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Các tờ báo giật gân có chữ đỏ cảnh báo bị vứt vào sọt rác tối.",
+    "sentences": [
+      "Đừng chỉ nhìn vào những con số lợi nhuận kỷ lục trên mặt báo."
+    ],
+    "base_english_prompt": "A steady shot showing a stack of sensationalist newspapers silhouettes with glowing red headlines being discarded into a bin. Muted dark olive green background, glowing crimson coral red warning details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC227",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Kính lúp soi vào dòng chữ PROVISIONS FOR LOSSES rực đỏ trên biểu đồ.",
+    "sentences": [
+      "Hãy nhìn vào chi phí trích lập dự phòng rủi ro tín dụng của nhà băng đó."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a magnifying glass outline focusing on a red financial chart line displaying the English text 'PROVISIONS FOR LOSSES' in a clean bold minimal sans-serif font centered. Dark warm charcoal background, glowing crimson coral red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC228",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Điện thoại báo tin nhắn số dư sáng lên trong tay người dùng, nền tối.",
+    "sentences": [
+      "Khi tin nhắn báo số dư 680.000 đồng đổ chuông trên điện thoại của một giao dịch viên."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing smartphone screen displaying a bank balance notification held by a silhouette hand, with a dark warm charcoal background. Glowing terracotta orange screen light, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC229",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Bàn cờ vua khổng lồ với các quân cờ chuyển động theo đường turquoise sáng.",
+    "sentences": [
+      "Đó là lúc bàn cờ của giới tài phiệt đã chính thức bắt đầu.",
+      "Và câu hỏi lớn nhất là."
+    ],
+    "base_english_prompt": "A slow camera panning showing a giant chessboard grid with multiple glowing turquoise and warm cream chess pieces moving in complex trajectories. Muted dark olive green background, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC230",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Bóng người đứng nhìn bàn cờ lớn, tay cầm khiên turquoise tự vệ.",
+    "sentences": [
+      "Bạn sẽ chọn đứng ngoài tự vệ.",
+      "Hay chấp nhận làm một quân cờ trong cuộc chơi của họ?"
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a silhouette of a person standing tall and looking at the giant chessboard, holding a glowing turquoise shield in their hand. Muted dark olive green background, warm cream details, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  }
+]

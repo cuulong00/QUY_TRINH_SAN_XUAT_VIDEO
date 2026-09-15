@@ -1,0 +1,9 @@
+# CHƯƠNG 5: CÚ ĐẢO CHIỀU TẤT YẾU — KHI KHO BÁU BỊ KHÓA VÀ HẠ MÀN CHIẾN TRANH
+
+Nhiều người trẻ đang thầm hy vọng vào một cuộc chuyển giao tài sản vĩ đại trị giá tám mươi tư nghìn tỷ USD từ thế hệ Boomers. Họ tin rằng khi thế hệ đi trước qua đời, khối tài sản khổng lồ đó sẽ tự động chảy xuống cứu rỗi tương lai tài chính của mình. Nhưng trên thực tế, đó chỉ là một ảo tưởng ngọt ngào bị dập tắt bởi các rào cản chi phí y tế. Chi phí chăm sóc sức khỏe cuối đời và viện dưỡng lão đắt đỏ hiện tiêu tốn bình quân hơn ba trăm nghìn USD cho mỗi người cao tuổi.
+
+Kèm theo các hợp đồng thế chấp ngược, phần lớn giá trị nhà đất của người già sẽ chảy vào tay các ngân hàng và bệnh viện. Nhưng có một quy luật tự nhiên mà không bất kỳ ai có thể chống lại được: đó chính là dòng chảy của thời gian. Mỗi ngày trôi qua, có khoảng mười nghìn người thuộc thế hệ Boomers chính thức bước vào độ tuổi nghỉ hưu. Sự ra đi dần của thế hệ cũ sẽ tạo ra một khoảng trống nhân khẩu học khổng lồ và không thể đảo ngược trên thị trường lao động.
+
+Các tập đoàn và toàn bộ nền kinh tế buộc phải đối mặt với một thực tế là họ không thể vận hành nếu thiếu vắng người trẻ. Cuộc đối đầu cay đắng giữa Millennials và Gen Z thực chất chỉ là màn nghi binh khiến hai bên quên đi thực tại cốt lõi. Họ giống như hai người đói cùng tranh giành một mẩu bánh vụn mười một phần trăm, trong khi chiếc bàn tiệc lớn đang bị bỏ hoang.
+
+Kẻ thù của Millennials không phải là những bạn trẻ Gen Z dám nói lên sự thật. Và đối thủ của Gen Z cũng không phải là những người anh chị Millennials đang kiệt sức vì sinh tồn. Cuộc chiến này sẽ chỉ thực sự kết thúc khi cả hai thế hệ nhận ra họ đang đứng chung trên một chiếc thuyền. Thay vì xâu xé chiếc ghế gãy, sự liên kết của hai thế hệ là chìa khóa duy nhất để tái thiết lập luật chơi kinh tế công bằng hơn. Bởi vì tương lai không thuộc về những két sắt khóa kín, mà thuộc về những người đang nắm giữ sức lao động của ngày mai.

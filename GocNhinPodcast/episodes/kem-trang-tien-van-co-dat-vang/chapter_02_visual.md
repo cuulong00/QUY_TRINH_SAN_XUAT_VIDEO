@@ -1,0 +1,84 @@
+<!--
+DOCUMENT PROVENANCE & EXECUTION LINEAGE:
+- Output Document: episodes/kem-trang-tien-van-co-dat-vang/chapter_02_visual.md
+- Activated Persona: The Scene Architect & The Master Cinematic Visual Director (.agents/personas/the_scene_architect.md, .agents/personas/the_visual_storyteller.md)
+- Activated Skill: scene-timing-builder & visual-prompter (.agents/skills/scene_timing_builder/SKILL.md, .agents/skills/visual_prompter/SKILL.md)
+- Source Documents Consulted:
+  * episodes/kem-trang-tien-van-co-dat-vang/chapter_02.md
+  * episodes/kem-trang-tien-van-co-dat-vang/voiceover.md
+  * episodes/kem-trang-tien-van-co-dat-vang/visual_storyboard_blueprint.md
+  * episodes/kem-trang-tien-van-co-dat-vang/ref_images/
+- Execution Timestamp: 2026-09-08 15:20
+-->
+
+# Storyboard Matrix (Pha 12) — Chương 2: Cổ Phần Hóa Năm 2000: Lỗ Hổng 0 Đồng
+*Episode: Kem Tràng Tiền — Ván Cờ Đất Vàng 35 Tràng Tiền (1958 – 2026)*
+*Phong cách mỹ thuật: archival sepia paper (#F4EBD9), faded ink black & socialist pale blue*
+*Quy chuẩn cơ học: 100% không gian vật lý đời thực theo Visual Anchors, zero text trong video prompts*
+
+---
+
+### BẢNG MA TRẬN PHÂN CẢNH THỊ GIÁC CHƯƠNG 2
+
+| Scene ID | [THOẠI] (Chuẩn $\le 26$ từ) | [BỐI CẢNH] (Mô hình Giải phẫu Cơ học 3 Tầng theo Visual Anchors) | [TEXT OVERLAY] (Selective ~20-25%) |
+| :--- | :--- | :--- | :--- |
+| **CH02_SC001** | Để hiểu vì sao kẻ làm kem lại biến thành người đi thuê trọ trên mảnh đất mang tên mình, | Góc máy trung cảnh bên ngoài hiên nhà cổ Hà Nội, người thợ làm kem mậu dịch đứng trầm ngâm nhìn qua khung cửa sổ hướng về phía phố Tràng Tiền. | Không |
+| **CH02_SC002** | chúng ta phải quay ngược thời gian về hai mươi sáu năm trước. | Cú máy lùi dần từ chiếc đồng hồ quả lắc bằng đồng cổ kính đang quay ngược kim thời gian về năm 2000, những trang lịch cũ bay nhẹ trong không gian. | Không |
+| **CH02_SC003** | Mùa thu năm 2000, Ủy ban Nhân dân thành phố Hà Nội ký quyết định | [Ảnh tham chiếu: @diadiem_ubnd_hanoi.jpg] Mặt tiền trang nghiêm của Trụ sở UBND TP Hà Nội (79 Đinh Tiên Hoàng) trong nắng thu vàng năm 2000, nhìn ra hàng cây rủ bóng bên hồ Hoàn Kiếm. | `HANOI PEOPLE'S COMMITTEE: YEAR 2000` |
+| **CH02_SC004** | phê duyệt phương án chuyển đổi Công ty Kem Tràng Tiền thành công ty cổ phần. | Cận cảnh bàn tay vị lãnh đạo thành phố đặt bút ký văn bản hành chính phê duyệt cổ phần hóa, bên cạnh là con dấu tròn mực đỏ tươi của UBND thành phố. | Không |
+| **CH02_SC005** | Quyết định hành chính này đã mở ra một quá trình chuyển dịch quyền khai thác địa tô thương mại kéo dài hơn hai thập kỷ. | [Ảnh tham chiếu: @diadiem_35_trangtien_maudich.jpg] Khoảng sân mậu dịch số 35 Tràng Tiền nhìn từ cổng chính, nơi bắt đầu hai thập kỷ chuyển dịch quyền khai thác thương mại giữa dòng người dựng xe ăn kem. | `QUYẾT ĐỊNH CỔ PHẦN HÓA: NĂM 2000` |
+| **CH02_SC006** | Thời điểm đó, làn sóng cổ phần hóa đang diễn ra rầm rộ nhằm giảm bớt gánh nặng bao cấp cho ngân sách nhà nước. | [Ảnh tham chiếu: @diadiem_hoguom_thaptua.jpg] Toàn cảnh khu trung tâm Hoàn Kiếm năm 2000 với Hồ Gươm thanh bình, xung quanh là các cơ quan quản lý nhà nước đang rầm rộ thực hiện chủ trương cổ phần hóa. | Không |
+| **CH02_SC007** | Theo hồ sơ phê duyệt, toàn bộ giá trị của Công ty Kem Tràng Tiền được định giá vỏn vẹn ba tỷ hai trăm triệu đồng. | Trang thẩm định giá trị tài sản nhà nước của Công ty Kem Tràng Tiền năm 2000, con số 3.200.000.000 đồng được gạch chân mực đỏ trang trọng. | `ENTERPRISE VALUATION: 3.2 BILLION VND` |
+| **CH02_SC008** | Con số này được chia thành ba mươi hai nghìn cổ phần, với mệnh giá một trăm nghìn đồng mỗi cổ phần. | Những tờ cổ phiếu giấy màu xanh nhạt in mệnh giá 100.000 đồng của Công ty Cổ phần Kem Tràng Tiền xếp ngay ngắn thành từng cọc trên bàn kiểm toán. | `32.000 CỔ PHẦN (100.000Đ/CP)` |
+| **CH02_SC009** | Nếu quy đổi vào năm 2000, ba tỷ hai trăm triệu đồng chỉ tương đương giá trị của vài căn nhà phố thông thường. | Phối cảnh góc phố cổ Hà Nội năm 2000 với hai căn nhà hình ống mặt tiền nhỏ nhắn mang biển hiệu cửa hàng bách hóa, biểu thị tương quan giá trị tương đương. | Không |
+| **CH02_SC010** | Thế nhưng, điều khiến giới phân tích tài chính chú ý không nằm ở số vốn điều lệ khiêm tốn đó. | Chuyên gia phân tích tài chính đeo kính cận lật từng trang phụ lục kiểm toán, ánh mắt tập trung cao độ vào những dòng ghi chú nhỏ ở cuối trang. | Không |
+| **CH02_SC011** | Đặc điểm đáng quan tâm nhất nằm ở bản kiểm toán tài sản đính kèm. | Cận cảnh tập tài liệu phụ lục kiểm toán tài sản đính kèm với dấu giáp lai đỏ và chiếc kẹp tài liệu bằng kim loại đồng cổ kính. | Không |
+| **CH02_SC012** | Toàn bộ quyền thuê khu đất một nghìn năm trăm mét vuông tại số 35 Tràng Tiền, | Bản đồ họa sơ đồ ranh giới thửa đất 1.500 m² tại số 35 Tràng Tiền trên nền bản đồ địa chính cổ năm 2000, ranh giới được kẻ viền mực đỏ nổi bật. | Không |
+| **CH02_SC013** | cách bờ hồ Hoàn Kiếm chưa đầy hai trăm mét, không được tính vào giá trị doanh nghiệp cổ phần hóa. | Khoảng cách địa lý từ số 35 Tràng Tiền ra mặt nước hồ Hoàn Kiếm được thể hiện bằng đường nét đứt, bên cạnh bảng định giá ghi số 0 đồng cho quyền thuê đất. | `ĐỊNH GIÁ ĐẤT NĂM 2000: 0 ĐỒNG` |
+| **CH02_SC014** | Giá trị quyền sử dụng khu đất đắt đỏ bậc nhất thủ đô | Góc nhìn từ trên cao bao quát dải phố Tràng Tiền sầm uất với các cửa hiệu Pháp cổ, biểu tượng của vị trí kim cương đắt đỏ bậc nhất thủ đô. | Không |
+| **CH02_SC015** | không hiện diện trên bảng cân đối kế toán của doanh nghiệp cổ phần hóa. | Bảng cân đối kế toán chính thức năm 2000: Dòng mục 'Giá trị quyền sử dụng đất' hoàn toàn để trống hoặc ghi số không, một nét bút đỏ gạch chéo xác nhận. | `BẢNG CÂN ĐỐI KẾ TOÁN: 0 ĐỒNG TIỀN ĐẤT` |
+| **CH02_SC016** | Nếu lật từng trang sổ sách kiểm kê thời đó, | Bàn tay chuyên viên kiểm toán lật chậm từng trang sổ kiểm kê tài sản cố định đóng dấu đỏ, giấy ố vàng theo năm tháng dưới ánh đèn bàn. | Không |
+| **CH02_SC017** | bạn sẽ thấy con số ba tỷ hai trăm triệu đồng thực chất chỉ bao gồm những tài sản vật chất cũ kỹ thời bao cấp. | Góc xưởng mậu dịch cũ với những thiết bị cơ khí thời bao cấp, tường quét vôi vàng bạc màu, sàn bê tông thô sơ mang dấu ấn của nền kinh tế chỉ huy. | Không |
+| **CH02_SC018** | Đó là vài cỗ máy làm kem que đã hết khấu hao, những chiếc khay nhôm, | [Ảnh tham chiếu: @diadiem_35_trangtien_maudich.jpg] Cận cảnh những cỗ máy làm kem cơ khí đời cũ bằng thép đã gỉ sét nhẹ, bên cạnh là những chiếc khay nhôm móp méo chứa khuôn kem que bốc hơi lạnh. | Không |
+| **CH02_SC019** | tủ đông đời cũ và một kho nguyên liệu gồm đường, sữa đặc và bột nếp. | Kho nguyên liệu mậu dịch với những bao đường cát xếp chồng, lon sữa đặc và bao bột nếp truyền thống bên cạnh dãy tủ đông nắp trượt đời cũ. | Không |
+| **CH02_SC020** | Toàn bộ giá trị thương hiệu di sản và lợi thế tiếp cận khu đất trung tâm đều chưa được lượng hóa thành giá trị vốn. | Hình ảnh biểu tượng logo Tràng Tiền 1958 và sơ đồ vị trí đất vàng 35 Tràng Tiền mờ ảo như bóng mây chưa được quy đổi thành giá trị tài chính trong sổ sách. | Không |
+| **CH02_SC021** | Nhiều người hôm nay khi nhìn lại thường băn khoăn về quy trình xác định giá trị tài sản khi đó. | Nhà nghiên cứu kinh tế đương đại ngồi tại bàn làm việc với máy tính xách tay hiện đại, đối chiếu các tài liệu lưu trữ năm 2000 với vẻ mặt suy tư. | Không |
+| **CH02_SC022** | Nhưng nếu nhìn bằng lăng kính kinh tế học thể chế, sự thật khách quan phức tạp hơn rất nhiều. | Chiếc lăng kính quang học đặt trên cuốn sách luật kinh tế thể chế, ánh sáng khúc xạ rọi vào văn bản pháp quy tạo nên cái nhìn khách quan, điềm đạm. | Không |
+| **CH02_SC023** | Việc không tính giá trị quyền thuê đất thời kỳ đó | Trang văn bản quy phạm pháp luật nhà nước về cổ phần hóa doanh nghiệp năm 1998, các điều khoản quy định rõ ràng dưới ánh đèn bàn. | Không |
+| **CH02_SC024** | hoàn toàn tuân thủ các quy định pháp lý của giai đoạn đầu chuyển đổi mô hình kinh tế. | Khung cảnh phòng làm việc của ban chỉ đạo cổ phần hóa năm 1998-2000, các chuyên viên pháp lý làm việc nghiêm túc theo đúng khung pháp luật hiện hành. | Không |
+| **CH02_SC025** | Căn cứ pháp lý thời bấy giờ là Nghị định 44 năm 1998 của Chính phủ và Thông tư 126 của Bộ Tài chính. | Bìa hai văn bản pháp quy: Nghị định số 44/1998/NĐ-CP và Thông tư số 126/1998/TT-BTC đặt song song trên bàn gỗ công quyền. | `NGHỊ ĐỊNH 44/1998 & THÔNG TƯ 126/1998` |
+| **CH02_SC026** | Để đẩy nhanh tiến trình cổ phần hóa, | Hình ảnh biểu tượng bánh đà đổi mới kinh tế quay đều, thúc đẩy làn sóng cổ phần hóa các doanh nghiệp nhà nước giai đoạn 2000. | Không |
+| **CH02_SC027** | pháp luật quy định hình thức thuê đất trả tiền hàng năm không được tính vào giá trị doanh nghiệp. | Cận cảnh dòng điều khoản luật quy định rõ: đất thuê trả tiền hàng năm không tính vào giá trị doanh nghiệp, con dấu đỏ giáp lai bên lề. | `ĐẤT THUÊ HÀNG NĂM: KHÔNG TÍNH VÀO GIÁ TRỊ DN` |
+| **CH02_SC028** | Nhà nước duy trì quyền sở hữu toàn dân về đất đai | Tòa nhà công quyền nhà nước với Quốc huy Việt Nam trang nghiêm trên đỉnh, biểu thị quyền sở hữu toàn dân về đất đai do Nhà nước đại diện quản lý. | Không |
+| **CH02_SC029** | và giao đất cho pháp nhân mới dưới dạng hợp đồng thuê địa điểm kinh doanh dịch vụ ăn uống. | Hợp đồng thuê địa điểm kinh doanh ký giữa cơ quan quản lý nhà đất thành phố và công ty cổ phần mới thành lập, ghi rõ mục đích dịch vụ ăn uống. | Không |
+| **CH02_SC030** | Quy định này xuất phát từ nguyên tắc quản lý đất đai thời kỳ đầu đổi mới. | Cuốn sổ tay chính sách quản lý đất đai đầu thời kỳ Đổi mới (thập niên 1990) mở trên bàn làm việc, các trang giấy ghi chép nguyên tắc sở hữu đất đai. | Không |
+| **CH02_SC031** | Tuy nhiên, trong thực tiễn vận hành nền kinh tế thị trường, | Dòng người tấp nập giao thương buôn bán trên các tuyến phố trung tâm Hà Nội đầu những năm 2000, nhịp sống kinh tế thị trường bắt đầu sôi động. | Không |
+| **CH02_SC032** | nó tạo ra sự chênh lệch lớn giữa tiền thuê đất theo khung giá nhà nước | Biểu đồ so sánh dạng cột: Cột bên trái màu xanh thể hiện mức tiền thuê đất theo khung giá quy định cố định của nhà nước. | `TIỀN THUÊ ĐẤT: THEO KHUNG NHÀ NƯỚC` |
+| **CH02_SC033** | với giá trị thương mại thực tế ngày càng tăng tại các khu vực trung tâm. | Cột biểu đồ bên phải màu vàng hổ phách vọt cao, thể hiện giá trị thương mại thực tế của đất đai trung tâm ven hồ Gươm tăng trưởng mạnh mẽ. | `ĐỊA TÔ THƯƠNG MẠI THỰC TẾ TĂNG CAO` |
+| **CH02_SC034** | Bất kỳ chủ thể nào nắm quyền điều hành doanh nghiệp đều có lợi thế lớn | Bàn làm việc của người điều hành doanh nghiệp với bộ chìa khóa bằng đồng và con dấu công ty đặt cạnh sơ đồ vị trí khu đất vàng. | Không |
+| **CH02_SC035** | trong việc khai thác địa tô chênh lệch phát sinh từ vị trí đắc địa này. | Góc nhìn từ trên cao bao quát vị trí đắc địa số 35 Tràng Tiền, nơi hội tụ dòng người qua lại và tiềm năng khai thác kinh tế to lớn giữa lòng Hà Nội. | Không |
+| **CH02_SC036** | Mảnh ghép biến cơ hội này thành hiện thực nằm ở cơ cấu cổ đông ban đầu. | Sơ đồ tổ chức cơ cấu cổ đông ban đầu của Công ty Kem Tràng Tiền sau cổ phần hóa, các mắt xích phân tán thành hàng trăm nhánh nhỏ. | Không |
+| **CH02_SC037** | Toàn bộ ba mươi hai nghìn cổ phần khi đó được phân phối ưu đãi cho cán bộ và công nhân viên mậu dịch. | Hội trường công ty kem mậu dịch năm 2000, các cán bộ và công nhân viên xếp hàng trật tự nhận những tập cổ phiếu ưu đãi. | `CỔ ĐÔNG BAN ĐẦU: 100% CÔNG NHÂN MẬU DỊCH` |
+| **CH02_SC038** | Hàng trăm người lao động nhận được những tập cổ phiếu giấy với niềm vui có thêm một khoản tiền tích lũy. | Cận cảnh nụ cười hiền hậu của một nữ công nhân mậu dịch người Việt trung niên cầm trên tay tập chứng chỉ cổ phiếu giấy mới nhận. | Không |
+| **CH02_SC039** | Họ là những người thợ làm kem thuần túy, thu nhập eo hẹp và hoàn toàn xa lạ với các phép tính tài chính phức tạp. | Những người thợ làm kem trong bộ trang phục lao động giản dị đứng cạnh khay kem, khuôn mặt chất phác mộc mạc của người lao động thời bao cấp. | Không |
+| **CH02_SC040** | Cơ cấu cổ đông phân tán vụn vặt đó đã tạo điều kiện | Bản danh sách cổ đông với hàng trăm cái tên viết tay và số lượng cổ phần nhỏ lẻ, biểu thị sự phân tán sở hữu cao độ. | Không |
+| **CH02_SC041** | cho các nhà đầu tư sành sỏi bắt đầu âm thầm tiếp cận từng gia đình công nhân. | Một nhà đầu tư tài chính kín tiếng trong bộ vest tối màu bước vào con ngõ nhỏ phố cổ Hà Nội, tìm đến từng ngôi nhà của công nhân mậu dịch. | Không |
+| **CH02_SC042** | Họ đưa ra mức giá mua lại từ một trăm năm mươi nghìn đến một trăm tám mươi nghìn đồng cho mỗi cổ phần, | Bàn trà nhỏ trong phòng khách nhà phố cổ: Tờ giấy thỏa thuận chuyển nhượng cổ phiếu ghi rõ mức giá 150.000đ - 180.000đ đặt bên cạnh tách trà nóng. | `GIÁ MUA GOM: 150.000Đ - 180.000Đ/CP` |
+| **CH02_SC043** | cao gần gấp đôi mệnh giá ban đầu. | Hai cọc tiền mệnh giá 100.000 đồng màu đỏ nâu và 50.000 đồng màu xanh đặt cạnh tờ cổ phiếu giấy, minh họa giá trị mua lại gấp gần hai lần. | `GẤP ĐÔI MỆNH GIÁ BAN ĐẦU` |
+| **CH02_SC044** | Với những người công nhân thời điểm đó, | Người công nhân mậu dịch lớn tuổi ngồi bên chiếc bàn gỗ cũ, ánh mắt đắn đo suy nghĩ về hoàn cảnh kinh tế gia đình thời kỳ đầu đổi mới. | Không |
+| **CH02_SC045** | cầm trong tay vài chục triệu đồng tiền mặt là một khoản tiền lớn để trang trải cuộc sống. | Bàn tay chai sần của người thợ cầm cọc tiền mặt vài chục triệu đồng, số tiền lớn giúp gia đình trang trải viện phí, học phí cho con cái thời điểm đó. | Không |
+| **CH02_SC046** | Họ vui vẻ ký giấy chuyển nhượng cổ phiếu. | Cây bút bi mực xanh ký vào dòng chữ 'Bên chuyển nhượng cổ phần', người công nhân mỉm cười nhẹ nhõm sau khi ký xong giấy tờ. | Không |
+| **CH02_SC047** | Nhưng họ không lường trước được rằng, | Bóng đen mờ ảo của chiếc chìa khóa đồng phản chiếu trên mặt bàn gỗ, báo hiệu một sự chuyển dịch quyền lực âm thầm mà ít ai nhận ra. | Không |
+| **CH02_SC048** | chiếc chìa khóa định đoạt quyền thuê khu đất vàng đã bắt đầu rời khỏi tay những người thợ làm kem. | Chiếc chìa khóa bằng đồng tượng trưng cho quyền thuê đất 35 Tràng Tiền được chuyển từ bàn tay áo xanh công nhân sang bàn tay đeo đồng hồ vàng của nhà đầu tư. | Không |
+| **CH02_SC049** | Chiến dịch gom hàng bền bỉ đó kéo dài ròng rã suốt nhiều năm. | Các tờ lịch từ năm 2001 đến năm 2008 lật liên tục trên bàn làm việc, các tập cổ phiếu giấy ngày càng chất cao thành từng chồng lớn. | Không |
+| **CH02_SC050** | Đến tháng 9 năm 2008, quá trình tập trung sở hữu chính thức hoàn tất. | Tờ lịch tháng 9 năm 2008 trên bàn hội nghị, bên cạnh chiếc búa gỗ chủ tọa và biên bản Đại hội đồng cổ đông ghi nhận sở hữu tập trung. | Không |
+| **CH02_SC051** | Doanh nhân Hà Trọng Nam xuất hiện và được bầu làm Chủ tịch Hội đồng Quản trị của Công ty Cổ phần Tràng Tiền, | [Ảnh tham chiếu: @nhanvat_hatrongnam.jpg] Chân dung người đàn ông trung niên trong trang phục vest lịch lãm tại Đại hội đồng cổ đông năm 2008, được bầu làm Chủ tịch HĐQT CTCP Tràng Tiền. | Không |
+| **CH02_SC052** | sau khi đã nắm giữ tới hơn 92% cổ phần. | Biểu đồ tròn cơ cấu cổ đông năm 2008: Miếng bánh màu xanh đậm chiếm trọn hơn 92% vốn điều lệ, thể hiện quyền kiểm soát tuyệt đối. | `TẬP TRUNG SỞ HỮU: >92% CỔ PHẦN (2008)` |
+| **CH02_SC053** | Quyền chi phối pháp nhân thuê khu đất một nghìn năm trăm mét vuông bên bờ hồ Gươm | Góc nhìn từ cửa sổ văn phòng chủ tịch hướng ra mặt nước hồ Hoàn Kiếm và khu đất 1.500 m² tại số 35 Tràng Tiền ngay bên cạnh. | Không |
+| **CH02_SC054** | giờ đây đã được quy tụ về một nhóm cổ đông lớn. | Các lãnh đạo cổ đông lớn bắt tay nhau quanh bàn họp gỗ sẫm màu, hoàn tất việc quy tụ quyền chi phối pháp nhân thuê đất về một mối. | Không |
+| **CH02_SC055** | Doanh nghiệp nắm quyền thuê đất bắt đầu được định giá theo tiềm năng thương mại bất động sản, | Tập hồ sơ thẩm định giá bất động sản mới được đặt lên bàn, trên bìa in hình phối cảnh trung tâm thương mại cao cấp thay vì xưởng sản xuất kem. | Không |
+| **CH02_SC056** | sẵn sàng cho các thương vụ chuyển nhượng quy mô lớn. | Bản hợp đồng chuyển nhượng vốn quy mô lớn mở sẵn trang ký kết, chuẩn bị cho những giao dịch M&A hàng trăm tỷ đồng. | Không |
+| **CH02_SC057** | Và khi cơ cấu sở hữu đã được tập trung, một tập đoàn tài chính lớn lập tức tiếp cận. | Đoàn đàm phán của một tập đoàn tài chính lớn trong trang phục lịch thiệp bước vào tòa nhà văn phòng, chuẩn bị cho cuộc thương thảo M&A nghìn tỷ. | Không |
+| **CH02_SC058** | Bên nào đã chi ra gần năm trăm tỷ đồng để thực hiện thương vụ M&A vào năm 2010? | Bản hợp đồng chuyển nhượng cổ phần số 2510 ký năm 2010 với số tiền tạm ứng gần 500 tỷ đồng phát sáng nổi bật trên mặt bàn kính phòng họp. | `M&A NĂM 2010: GẦN 500 TỶ ĐỒNG` |
+| **CH02_SC059** | Và bản vẽ dự án thương mại nào từng được định hình cho khu đất số 35? | Góc cuộn của bản vẽ kiến trúc 3D dự án tổ hợp thương mại Tràng Tiền Complex dần hé lộ dưới ánh đèn bàn làm việc. | Không |
+| **CH02_SC060** | Chúng ta sẽ cùng bước vào diễn biến thương vụ ở phần tiếp theo. | Cánh cửa phòng họp đàm phán tài chính lớn từ từ mở ra, hé lộ ánh sáng rực rỡ và những bản vẽ dự án nghìn tỷ trên bàn làm việc. | Không |

@@ -1,0 +1,102 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-09T15:23:43.015Z",
+  "session_id": "dda0ab28",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/703f6053-3d8c-4528-ae98-d2d63197e32a"
+  },
+  "question": "Phân tích doanh số bán hàng, đơn đặt hàng và sự bùng nổ của hai dòng xe đô thị cỡ nhỏ VF 3 và VF 5 cho đối tượng khách hàng cá nhân (B2C) trong năm 2024-2025 và Quý 1/2026. Hai dòng xe này đã góp phần bình dân hóa ô tô điện tại Việt Nam như thế nào? Xu hướng chuyển đổi từ xe máy cao cấp sang VF 3/VF 5 diễn ra ra sao? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO PHÂN TÍCH DOANH SỐ VÀ TÁC ĐỘNG BÌNH DÂN HÓA Ô TÔ ĐIỆN CỦA VINFAST VF 3 VÀ VF 5 (2024 - 2026)\n1. Phân tích doanh số bán hàng (2024 - Quý 1/2026) Hai dòng xe đô thị cỡ nhỏ VF 3 và VF 5 đang đóng vai trò chủ lực trong cơ cấu doanh số B2C của VinFast với mức tăng trưởng bùng nổ qua các năm:\nNăm 2024: VinFast VF 5 \"gánh\" doanh số với 32.000 xe bán ra, chiếm khoảng 37% tổng lượng tiêu thụ của hãng\n1\n. Dù ra mắt muộn hơn, \"tân binh\" VF 3 cũng đạt kết quả ấn tượng với 25.000 xe được bàn giao chỉ trong 5 tháng cuối năm\n1\n2\n.\nNăm 2025: Doanh số hai mẫu xe này đạt đỉnh, dẫn đầu toàn bộ phân khúc xe cỡ nhỏ cho cá nhân và gia đình trẻ. Cụ thể, VF 3 đạt 44.585 xe và VF 5 đạt 43.913 xe, đóng góp trọng yếu vào kỷ lục 175.099 xe của VinFast trong năm\n3\n.\nQuý 1/2026 & Tháng 4/2026: Tính đến hết Quý 1/2026, VF 3 và VF 5 đạt doanh số lũy kế lần lượt là 10.188 xe và 8.672 xe (bao gồm cả bản dịch vụ Herio Green)\n4\n. Tính xa hơn đến hết tháng 4/2026, doanh số hai dòng xe này tiếp tục tăng mạnh, đạt lũy kế 15.461 xe đối với VF 3 và 13.404 xe đối với VF 5\n5\n.\n2. Tiến trình bình dân hóa ô tô điện và xu hướng dịch chuyển từ xe máy cao cấp Sự xuất hiện của VF 3 (mini-SUV) và VF 5 (SUV hạng A) đã tái định hình hành vi tiêu dùng và cấu trúc thị trường:\nBình dân hóa bằng giá bán và chi phí vận hành: Việc định giá VF 3 và VF 5 cực kỳ dễ tiếp cận (ví dụ: VF 5 có giá niêm yết từ 480 triệu đồng chưa kèm pin, hoặc từ 529 triệu đồng đã kèm pin) đã tạo ra năng lực cạnh tranh áp đảo so với các xe hatchback và sedan chạy xăng cỡ nhỏ\n6\n7\n.\nXu hướng chuyển đổi từ xe máy cao cấp: Với giá bán dễ tiếp cận, chi phí \"nuôi\" xe thấp, chính sách bảo hành dài hạn và sự hậu thuẫn từ mạng lưới trạm sạc công cộng phủ rộng chiếm 99% thị phần\n8\n, hai mẫu xe này đã kéo một lượng khổng lồ khách hàng từ nhóm sử dụng xe máy cao cấp chuyển thẳng lên sử dụng ô tô\n9\n.\nTriệt tiêu thị phần xe xăng giá rẻ: Làn sóng bình dân hóa này đã làm thay đổi hoàn toàn tư duy mua xe của người Việt, khiến các phân khúc xe xăng truyền thống hạng A và B (như Kia Morning, Hyundai Grand i10, Toyota Vios, Hyundai Accent) bị suy giảm nghiêm trọng doanh số do không thể cạnh tranh về chi phí sở hữu ban đầu và chi phí vận hành\n8\n9\n.\n3. Căn cứ pháp lý và động lực chính sách vĩ mô Quá trình phổ cập VF 3 và VF 5 được trợ lực trực tiếp bởi các chính sách vĩ mô khuyến khích phương tiện xanh từ Chính phủ:\nCăn cứ pháp lý: Nghị định số 202/2026/NĐ-CP (ban hành năm 2026)\n10\n11\n.\nNội dung hỗ trợ: Chính phủ quy định kéo dài chính sách ưu đãi miễn 100% (áp dụng mức 0%) lệ phí trước bạ lần đầu đối với ô tô điện chạy pin đến hết ngày 31/12/2030\n11\n. Nhờ chính sách này, người tiêu dùng cá nhân (B2C) tiết kiệm được khoản lớn chi phí lăn bánh, biến ô tô điện giá rẻ trở thành lựa chọn vượt trội về tính kinh tế so với xe động cơ đốt trong\n9\n.",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Những hãng xe có doanh số tốt nhất trong năm 2024",
+      "source_text": "Với doanh số 87.000 xe trong năm 2024, VinFast đã trở thành thương hiệu dẫn đầu về lượng tiêu thụ ô tô toàn thị trường . Mức doanh số này tăng mạnh khoảng 150% so với năm 2023. Nhờ đó, VinFast đã lần đầu vượt qua các thương hiệu nước ngoài để trở thành hãng xe có doanh số tốt nhất Việt Nam trong năm 2024. Bộ đôi SUV cỡ nhỏ VF 5 và VF 3 chiếm phần lớn doanh số của VinFast trong năm 2024. Chủ lực gánh vác doanh số của VinFast trong năm vừa qua gọi tên VF 5 với 32.000 xe, chiếm khoảng 37% tổng lượng tiêu thụ của. Trong khi đó, mẫu xe tân binh VF 3 cũng có được kết quả bán hàng ấn tượng với 25.000 xe hoàn tất bàn giao trong năm vừa rồi."
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Bản mẫu:Doanh số VinFast – Wikipedia tiếng Việt",
+      "source_text": "34.855 xe ô tô điện. [47] hiện Nội dung thêm Sau 2023 2024 87.000 Quý 1 2024 Quý 2 2024 Quý 3 2024: 21.912 xe ô tô điện, trong đó 9.300 xe trong tháng 9 Tháng 12 2024: 20.000 [48] VF 3: 8.800 (25.000 xe trong 5 tháng) VF 5: 4.900 (32.000 xe trong 12 tháng) VF 6: 2.700 [49] Quý 4: 53.139 (toàn cầu. Cả năm 97.399) Xe máy điện, xe đạp điện: 31.170 (cả năm 70.977) [50] 2025 (trong ngoặc là lũy kế từ đầu năm) Tháng 1: hơn 10.000 VF 3: 4.000 VF 5: 3.300 [51] Tháng 2: hơn 12.500 VF 3: 5.200 VF 5: hơn 3.000 VF 6: gần 2.000 VF 7: hơn 570 [52] Tháng 3: hơn 12.100 VF 3: hơn 3.700 VF 5: hơn 4.400 VF 6: hơn 1.100 VF 7: hơn 600 [53] Tháng 4: 9.588 VF 3: 2.378 VF 5: 3.731 VF 6: 1.763 [54] [55] Tháng 5: 11.496 VF 3: 3.950 VF 5: 4.232 VF 6: 1.393 VF 7: 773 [56] Tháng 6: 11.382 VF 3: 3.667 VF 5: 3.060 VF 6: 1.245 VF 7: 725 Herio Green: 916 Nerio Green: 1.415 VF 8, 9: 354 [57] Tháng 7: 11.479 [58] VF 3: 3.140 VF 5: 2.552 Herio Green : 2.182 VF 6: 1.902 VF 7: 795 VF 8: 319 Tháng 8: 10.922 [59] VF 3: 2.481 VF 5: 2.745 Herio Green : 2.395 VF 6: 2.038 VF 7: 718 Tháng 9: 13.914 [60] [61] VF 3: 2.682 (31.386) VF 5: 3.847 (30.956) Herio Green: 2.176 (8.604) VF 6: 1.933 (14.425) VF 7: 778 (5.877) Limo Green : 2.120 Nerio Green, VF 8, 9: 381 Tháng 10: 20.380 VF 3: 4.619 (36.005) VF 5: 4.450 (35.406) VF 6: 2.524 (16.949) VF 7: 1.190 (7.067) VF 9: (1.477) Herio Green: 2.920 (11.524) Limo Green: 4.160 (6.504) [62] Tháng 11: 23.186 [63] VF 3: 4.655 (40.660) VF 5: 3.072 (38.478) Herio Green: 830 (12.354) VF 6: 2.801 (19.750) VF 7: 1.225 (8.292) VF 8: (3.172) VF 9: (1.755) Limo Green: 9.642 (16.146) Tháng 12: 27.649 [64] VF 3: 3.925 (44.585) VF 5: 5.435 (43.913) Herio Green: (12.568) VF 6: 3.541 (23.291) VF 7: 1.361 (9.653) Limo Green: 10.981 (27.649) Lạc Hồng 900 LX:"
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ",
+      "source_text": "Các mẫu xe của VinFast hiện phủ rộng và thống trị ở tất cả các phân khúc, từ xe cỡ nhỏ cho cá nhân và gia đình trẻ như VF 3 (44.585 xe), VF 5 (43.913 xe), VF 6 (23.291 xe) đến các dòng SUV cỡ lớn hạng sang dành cho doanh nhân và gia đình như VF 7 (9.653 xe). Đặc biệt, mẫu xe Limo Green dù mới chỉ chính thức bán ra thị trường từ tháng 8, nhưng đã nhanh chóng vươn lên trở thành mẫu xe bán chạy hàng đầu phân khúc MPV 7 chỗ. Riêng trong tháng 12/2025, đã có tới 10.981 xe Limo Green được bàn giao cho khách hàng."
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Doanh số ô tô tăng trưởng đột phá ở mọi phân khúc, xe nào chiếm ưu thế? - PLO",
+      "source_text": "Hai mẫu xe cỡ nhỏ hướng tới nhóm khách hàng kinh doanh dịch vụ chở hàng và chở người trong đô thị - EC Van và Minio Green - cũng ghi nhận mức doanh số tháng cao nhất kể từ khi chính thức bán ra thị trường. Cụ thể, đã có 1.136 xe EC Van và 1.969 xe Minio Green được bàn giao cho khách hàng trong tháng 3. Tính theo lũy kế từ đầu năm, Limo Green hiện là mẫu xe VinFast được ưa chuộng nhất tại thị trường Việt Nam, với tổng cộng 12.471 xe đã được bàn giao, đạt mức trung bình hơn 4.150 xe/tháng. Kế tiếp lần lượt là các mẫu: VF 3 (10.188 xe), VF 5 (8.672 xe, bao gồm Herio Green), VF 6 (6.679 xe), Minio Green (3.809 xe), VF MPV 7 (3.686 xe), VF 7 (3.514 xe)…"
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "VinFast bán hơn 24.700 ô tô điện trong tháng 4/2026 - VOV",
+      "source_text": "Limo Green là mẫu xe bán chạy nhất của VinFast trong tháng 4/2026 với 6.480 xe 4 mẫu xe kể trên của VinFast cũng đang là 4 sản phẩm bán chạy nhất thị trường ô tô Việt Nam kể từ đầu năm. Tính đến hết tháng 4/2026, Limo Green đạt doanh số kỷ lục 18.951 chiếc, trong khi VF 3, VF 5 và VF 6 lần lượt đạt 15.461, 13.404 và 9.383 xe bán ra. Phiên bản xe đa dụng 7 chỗ dành cho gia đình VF MPV 7 ghi nhận 2.526 xe được khách hàng lựa chọn trong tháng 4, nâng tổng số xe bán ra thị trường từ đầu năm lên 6.212 xe, thuộc nhóm những mẫu xe bán tốt nhất thị trường."
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "Doanh số SUV hạng A tháng 4/2026: Phần lớn đều lao dốc, trừ \"vua phân khúc\" VinFast VF 5 - Tinxe.vn",
+      "source_text": "Trong tháng 4 vừa qua, VinFast VF 5 đã bán ra 4.732 xe, tăng trưởng 12,1%, bao gồm cả Herio Green. Với kết quả này, VF 5 tiếp tục dẫn đầu phân khúc SUV hạng A và lọt vào top 10 ô tô bán chạy nhất toàn thị trường. Con số này nâng doanh số cộng dồn trong 4 tháng đầu năm 2026 lên 13.404 chiếc. VinFast VF 5 VinFast VF 5 sở hữu nhiều lợi thế cạnh tranh ở thị trường Việt Nam như giá bán hợp túi tiền, chỉ từ 529 triệu đồng (đã bao gồm pin), trang bị vừa phải, chi phí sử dụng/bảo dưỡng thấp, chính sách bảo hành dài, mạng lưới trạm sạc công cộng phủ rộng toàn quốc và chương trình miễn phí sạc pin đến tháng 2/2029. Bên cạnh đó, mẫu xe này còn là lựa chọn phổ biến của cánh tài xế taxi điện ở Việt Nam."
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "Điểm tên 'vua doanh số' của 9 hãng xe phổ thông tại Việt Nam trong năm 2024",
+      "source_text": "Hiện, VinFast đang phân phối VF 5 với 1 phiên bản Plus với giá bán là 480 triệu (gói thuê pin) và 540 triệu (mua pin). VF 5 được trang bị động cơ điện công suất 134 mã lực cùng khối pin lithium với dung lượng khả dụng là 37.23 kWh. Quãng đường di chuyển của một lần sạc đầy là hơn 300km theo điều kiện tiêu chuẩn đăng kiểm WLTP. Mitsubishi Xpander: 19.498 chiếc Nếu chỉ tính riêng những xe sử dụng động cơ đốt trong, Mitsubishi Xpander vẫn là mẫu xe bán chạy nhất toàn thị trường trong năm 2024 vừa qua với 19.498 chiếc. Số lượng này giảm nhẹ 1,2% so với năm 2023 nhưng vẫn chiếm tới 47,3% tổng lượng bán ra của thương hiệu Mitsubishi tại Việt Nam."
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "source_text": "Hệ quả trực tiếp là các phân khúc xe xăng truyền thống giá rẻ như xe hạng A (Hyundai i10, Kia Morning) và xe hạng B (Hyundai Accent, Toyota Vios) vốn là động lực doanh số chính của các hãng xe Nhật, Hàn đã bị suy giảm nghiêm trọng do chi phí vận hành và chi phí sở hữu ban đầu của xe điện tối ưu hơn rất nhiều.[3, 32] Bức tường rào cản hạ tầng sạc công cộng Hạ tầng trạm sạc là yếu tố then chốt tạo nên vị thế độc tôn của VinFast.[2, 39] Với việc nắm giữ gần 99% thị phần trạm sạc công cộng được phủ rộng khắp cả nước từ các tuyến cao tốc đến các trung tâm đô thị, VinFast đã thiết lập một rào cản gia nhập thị trường cực kỳ lớn đối với bất kỳ thương hiệu xe thuần điện ngoại nhập nào.[2]"
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "source_text": "Phân tích chuyển dịch công nghệ và động lực thị trường giai đoạn 2025 - 2026 Bản chất của sự thay đổi thị phần sâu sắc tại thị trường Việt Nam giai đoạn 2025 - 2026 không đơn thuần nằm ở các chính sách giảm giá ngắn hạn, mà phản ánh xu hướng thay đổi căn bản trong hành vi tiêu dùng và rào cản công nghệ giữa các hãng xe.[2, 3] Tác động từ mẫu xe điện siêu rẻ đối với thị trường xe hạng A và B Sự bùng nổ của dòng xe VinFast VF 3 (phân khúc mini-SUV) và VF 5 (phân khúc SUV cỡ A) đã làm thay đổi hoàn toàn tư duy mua xe của người Việt.[4, 19] Với mức giá bán cực kỳ dễ tiếp cận và được miễn 100% lệ phí trước bạ theo chính sách khuyến khích xe điện của Chính phủ, hai mẫu xe này đã kéo một lượng lớn khách hàng từ nhóm xe máy cao cấp chuyển thẳng lên ô tô.[15, 32, 38]"
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Báo Mới",
+      "source_text": "TIN KHÁC Các hãng xe Trung Quốc sẵn sàng tăng tốc trên thị trường ôtô Việt? 4 giờ TOP 10 ô tô hybrid bán chạy nhất Việt Nam tháng 5/2026 8 giờ Ngắm nhìn Audi Nuvolari: Siêu xe hybrid mạnh nhất của Audi 6 giờ Tin nóng Nhóm xe điện nào được miễn 100% lệ phí trước bạ đến hết năm 2030? 11 giờ 3 liên quan Nghị định 202/2026 kéo dài ưu đãi lệ phí trước bạ 0% với ô tô điện chạy pin đến hết năm 2030, đồng thời đặt ra vấn đề phân loại các nhóm xe... Kia Sportage 2026 ra mắt tại Việt Nam: Thêm bản hybrid, quyết đấu Honda CR-V"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "Thành viên VAMA bán 375.736 xe trong năm 2025 - VietNamNet",
+      "source_text": "Cấm đỗ và sạc xe máy điện, xe đạp điện ở hầm chung cư và bài học từ Trung Quốc 27 Tin cùng chuyên mục Ô tô - Xe máy Ô tô điện tiếp tục được miễn lệ phí trước bạ lần đầu đến hết năm 2030 Chính phủ vừa ban hành Nghị định 202/2026, theo đó ô tô điện chạy pin (BEV) tiếp tục được áp dụng mức lệ phí trước bạ lần đầu 0% đến hết ngày 31/12/2030, tạo cú hích lớn cho thị trường xe xanh. Ô tô - Xe máy Những loại xe ô tô nào được miễn lắp ghế trẻ em từ 1/7? Từ ngày 1/7, khi chở trẻ em dưới 10 tuổi và chiều cao dưới 1,35 mét, xe ô tô gia đình, xe cá nhân bắt buộc phải lắp thiết bị an toàn trẻ em. Dù vậy, riêng xe ô tô kinh doanh vận tải hành khách chưa phải áp dụng quy định này."
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 11,
+    "source_names": [
+      "Những hãng xe có doanh số tốt nhất trong năm 2024",
+      "Bản mẫu:Doanh số VinFast – Wikipedia tiếng Việt",
+      "10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ",
+      "Doanh số ô tô tăng trưởng đột phá ở mọi phân khúc, xe nào chiếm ưu thế? - PLO",
+      "VinFast bán hơn 24.700 ô tô điện trong tháng 4/2026 - VOV",
+      "Doanh số SUV hạng A tháng 4/2026: Phần lớn đều lao dốc, trừ \"vua phân khúc\" VinFast VF 5 - Tinxe.vn",
+      "Điểm tên 'vua doanh số' của 9 hãng xe phổ thông tại Việt Nam trong năm 2024",
+      "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Báo Mới",
+      "Thành viên VAMA bán 375.736 xe trong năm 2025 - VietNamNet"
+    ]
+  }
+}

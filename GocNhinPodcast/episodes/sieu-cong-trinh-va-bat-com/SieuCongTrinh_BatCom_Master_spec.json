@@ -1,0 +1,4811 @@
+{
+  "name": "SieuCongTrinh_BatCom_Master",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "ratio": "16:9",
+  "tracks": [
+    {
+      "type": "video",
+      "name": "video",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC001.mp4",
+          "start": 0.0,
+          "duration": 5.1994,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC002.mp4",
+          "start": 5.1994,
+          "duration": 6.0663,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC003.mp4",
+          "start": 11.2657,
+          "duration": 8.2313,
+          "sourceStart": 0.0,
+          "speed": 0.9658,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC004a.mp4",
+          "start": 19.497,
+          "duration": 4.927,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC004b.mp4",
+          "start": 24.424,
+          "duration": 2.859,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC005.mp4",
+          "start": 27.283,
+          "duration": 8.0835,
+          "sourceStart": 0.0,
+          "speed": 0.9835,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC006a.mp4",
+          "start": 35.3665,
+          "duration": 2.9328,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC006a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC006b.mp4",
+          "start": 38.2994,
+          "duration": 6.0579,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC006b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC007.mp4",
+          "start": 44.3573,
+          "duration": 4.841,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC008.mp4",
+          "start": 49.1983,
+          "duration": 9.4834,
+          "sourceStart": 0.0,
+          "speed": 0.8383,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC009.mp4",
+          "start": 58.6816,
+          "duration": 5.0078,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC010.mp4",
+          "start": 63.6895,
+          "duration": 6.7407,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC011.mp4",
+          "start": 70.4301,
+          "duration": 8.2017,
+          "sourceStart": 0.0,
+          "speed": 0.9693,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC012a.mp4",
+          "start": 78.6318,
+          "duration": 3.354,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC012a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC012b.mp4",
+          "start": 81.9858,
+          "duration": 5.9921,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC012b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC013.mp4",
+          "start": 87.9779,
+          "duration": 8.093,
+          "sourceStart": 0.0,
+          "speed": 0.9823,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC014a.mp4",
+          "start": 96.0708,
+          "duration": 6.1437,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC014a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC014b.mp4",
+          "start": 102.2145,
+          "duration": 7.1871,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC014b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC015a.mp4",
+          "start": 109.4016,
+          "duration": 5.6713,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC015a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC015b.mp4",
+          "start": 115.073,
+          "duration": 3.7438,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC015b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC016.mp4",
+          "start": 118.8167,
+          "duration": 3.6004,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC017.mp4",
+          "start": 122.4172,
+          "duration": 4.4236,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC018.mp4",
+          "start": 126.8408,
+          "duration": 5.6525,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC019.mp4",
+          "start": 132.4933,
+          "duration": 8.4049,
+          "sourceStart": 0.0,
+          "speed": 0.9459,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC020.mp4",
+          "start": 140.8982,
+          "duration": 8.177,
+          "sourceStart": 0.0,
+          "speed": 0.9722,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC021.mp4",
+          "start": 149.0752,
+          "duration": 3.7746,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC022a.mp4",
+          "start": 152.8498,
+          "duration": 4.4771,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC022a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC022b.mp4",
+          "start": 157.3269,
+          "duration": 5.8024,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC022b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC023.mp4",
+          "start": 163.1293,
+          "duration": 7.5674,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC024.mp4",
+          "start": 170.6968,
+          "duration": 1.7636,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC025.mp4",
+          "start": 172.4603,
+          "duration": 7.0162,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC026a.mp4",
+          "start": 179.4765,
+          "duration": 4.2756,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC026a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC026b.mp4",
+          "start": 183.7521,
+          "duration": 6.1341,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC026b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC027.mp4",
+          "start": 189.8862,
+          "duration": 7.3187,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC028.mp4",
+          "start": 197.2049,
+          "duration": 6.464,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH01_SC029.mp4",
+          "start": 203.6689,
+          "duration": 8.9111,
+          "sourceStart": 0.0,
+          "speed": 0.8921,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC001a.mp4",
+          "start": 212.58,
+          "duration": 7.1179,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC001a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC001b.mp4",
+          "start": 219.6979,
+          "duration": 3.5695,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC001b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC002a.mp4",
+          "start": 223.2674,
+          "duration": 4.0582,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC002a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC002b.mp4",
+          "start": 227.3256,
+          "duration": 3.3037,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC002b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC003.mp4",
+          "start": 230.6293,
+          "duration": 7.729,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC004.mp4",
+          "start": 238.3583,
+          "duration": 5.3319,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC005.mp4",
+          "start": 243.6902,
+          "duration": 7.522,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC006.mp4",
+          "start": 251.2122,
+          "duration": 5.4561,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC007.mp4",
+          "start": 256.6683,
+          "duration": 4.0508,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC008.mp4",
+          "start": 260.719,
+          "duration": 5.972,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC009a.mp4",
+          "start": 266.6911,
+          "duration": 4.8015,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC009b.mp4",
+          "start": 271.4926,
+          "duration": 2.6078,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC010a.mp4",
+          "start": 274.1003,
+          "duration": 4.9521,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC010a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC010b.mp4",
+          "start": 279.0524,
+          "duration": 5.1589,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC010b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC011.mp4",
+          "start": 284.2113,
+          "duration": 4.0454,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC012.mp4",
+          "start": 288.2568,
+          "duration": 9.6229,
+          "sourceStart": 0.0,
+          "speed": 0.8262,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC013.mp4",
+          "start": 297.8796,
+          "duration": 4.554,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC014.mp4",
+          "start": 302.4336,
+          "duration": 7.4949,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC015.mp4",
+          "start": 309.9285,
+          "duration": 4.9446,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC016.mp4",
+          "start": 314.8731,
+          "duration": 8.3348,
+          "sourceStart": 0.0,
+          "speed": 0.9538,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC017.mp4",
+          "start": 323.2079,
+          "duration": 4.2156,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC018.mp4",
+          "start": 327.4235,
+          "duration": 6.1576,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC019a.mp4",
+          "start": 333.5811,
+          "duration": 2.3133,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC019a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC019b.mp4",
+          "start": 335.8944,
+          "duration": 6.4992,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC019b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC020.mp4",
+          "start": 342.3935,
+          "duration": 5.6315,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC021a.mp4",
+          "start": 348.025,
+          "duration": 1.0903,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC021a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC021b.mp4",
+          "start": 349.1154,
+          "duration": 8.6904,
+          "sourceStart": 0.0,
+          "speed": 0.9148,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC021b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC022.mp4",
+          "start": 357.8058,
+          "duration": 8.7749,
+          "sourceStart": 0.0,
+          "speed": 0.906,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC023.mp4",
+          "start": 366.5807,
+          "duration": 5.9646,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC024.mp4",
+          "start": 372.5452,
+          "duration": 4.3459,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC025.mp4",
+          "start": 376.8912,
+          "duration": 6.0617,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC026.mp4",
+          "start": 382.9528,
+          "duration": 3.7734,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC027.mp4",
+          "start": 386.7262,
+          "duration": 6.0678,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC028a.mp4",
+          "start": 392.794,
+          "duration": 2.6488,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC028a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC028b.mp4",
+          "start": 395.4428,
+          "duration": 6.4018,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC028b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC029.mp4",
+          "start": 401.8446,
+          "duration": 3.6876,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC030.mp4",
+          "start": 405.5322,
+          "duration": 7.4683,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC031a.mp4",
+          "start": 413.0006,
+          "duration": 3.1348,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC031a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC031b.mp4",
+          "start": 416.1354,
+          "duration": 5.6603,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC031b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH02_SC032.mp4",
+          "start": 421.7957,
+          "duration": 8.2442,
+          "sourceStart": 0.0,
+          "speed": 0.9643,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC001.mp4",
+          "start": 430.04,
+          "duration": 8.3119,
+          "sourceStart": 0.0,
+          "speed": 0.9565,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC002.mp4",
+          "start": 438.3519,
+          "duration": 6.5912,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC003.mp4",
+          "start": 444.9431,
+          "duration": 2.96,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC004.mp4",
+          "start": 447.9031,
+          "duration": 5.7529,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC005.mp4",
+          "start": 453.656,
+          "duration": 6.1089,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC006.mp4",
+          "start": 459.7649,
+          "duration": 5.0969,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC007.mp4",
+          "start": 464.8618,
+          "duration": 8.0927,
+          "sourceStart": 0.0,
+          "speed": 0.9824,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC008.mp4",
+          "start": 472.9545,
+          "duration": 7.426,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC009.mp4",
+          "start": 480.3805,
+          "duration": 8.4479,
+          "sourceStart": 0.0,
+          "speed": 0.9411,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC010.mp4",
+          "start": 488.8284,
+          "duration": 5.3026,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC011.mp4",
+          "start": 494.131,
+          "duration": 6.9247,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC012.mp4",
+          "start": 501.0557,
+          "duration": 4.3204,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC013.mp4",
+          "start": 505.3761,
+          "duration": 3.0179,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC014.mp4",
+          "start": 508.394,
+          "duration": 5.2761,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC015.mp4",
+          "start": 513.6701,
+          "duration": 5.054,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC016.mp4",
+          "start": 518.7241,
+          "duration": 7.0505,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC017.mp4",
+          "start": 525.7746,
+          "duration": 3.2067,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC018.mp4",
+          "start": 528.9813,
+          "duration": 5.7229,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC019.mp4",
+          "start": 534.7042,
+          "duration": 5.4217,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC020.mp4",
+          "start": 540.1259,
+          "duration": 2.6519,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC021.mp4",
+          "start": 542.7778,
+          "duration": 5.1393,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC022.mp4",
+          "start": 547.9171,
+          "duration": 3.7776,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC023.mp4",
+          "start": 551.6947,
+          "duration": 3.189,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC024.mp4",
+          "start": 554.8837,
+          "duration": 8.3349,
+          "sourceStart": 0.0,
+          "speed": 0.9538,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC025.mp4",
+          "start": 563.2185,
+          "duration": 2.5287,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC026.mp4",
+          "start": 565.7472,
+          "duration": 5.4855,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC027.mp4",
+          "start": 571.2327,
+          "duration": 2.3502,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC028.mp4",
+          "start": 573.5829,
+          "duration": 3.7871,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC029.mp4",
+          "start": 577.37,
+          "duration": 5.9783,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC030.mp4",
+          "start": 583.3483,
+          "duration": 2.414,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC031.mp4",
+          "start": 585.7622,
+          "duration": 5.3231,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC032.mp4",
+          "start": 591.0854,
+          "duration": 5.0709,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC033.mp4",
+          "start": 596.1563,
+          "duration": 1.8262,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC034.mp4",
+          "start": 597.9825,
+          "duration": 6.006,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC035.mp4",
+          "start": 603.9885,
+          "duration": 5.3747,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC036.mp4",
+          "start": 609.3632,
+          "duration": 5.1841,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC037.mp4",
+          "start": 614.5473,
+          "duration": 4.4328,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC038.mp4",
+          "start": 618.9801,
+          "duration": 3.9212,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC039.mp4",
+          "start": 622.9013,
+          "duration": 5.3826,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC040.mp4",
+          "start": 628.2839,
+          "duration": 4.8712,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC041.mp4",
+          "start": 633.155,
+          "duration": 7.2554,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC042.mp4",
+          "start": 640.4105,
+          "duration": 5.0934,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC043.mp4",
+          "start": 645.5039,
+          "duration": 2.375,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC044.mp4",
+          "start": 647.8789,
+          "duration": 3.3766,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC045.mp4",
+          "start": 651.2555,
+          "duration": 6.0697,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC046.mp4",
+          "start": 657.3252,
+          "duration": 3.6554,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC047.mp4",
+          "start": 660.9806,
+          "duration": 3.3905,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC048.mp4",
+          "start": 664.371,
+          "duration": 6.7575,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC048"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC049.mp4",
+          "start": 671.1285,
+          "duration": 3.8869,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC049"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC050.mp4",
+          "start": 675.0155,
+          "duration": 6.1486,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC050"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH03_SC051.mp4",
+          "start": 681.164,
+          "duration": 9.256,
+          "sourceStart": 0.0,
+          "speed": 0.8589,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC051"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC001.mp4",
+          "start": 690.42,
+          "duration": 7.5306,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC002.mp4",
+          "start": 697.9506,
+          "duration": 8.0453,
+          "sourceStart": 0.0,
+          "speed": 0.9882,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC003.mp4",
+          "start": 705.9959,
+          "duration": 5.1105,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC004.mp4",
+          "start": 711.1064,
+          "duration": 5.1969,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC005.mp4",
+          "start": 716.3033,
+          "duration": 4.9321,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC006.mp4",
+          "start": 721.2355,
+          "duration": 5.689,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC007.mp4",
+          "start": 726.9245,
+          "duration": 3.0484,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC008.mp4",
+          "start": 729.9729,
+          "duration": 5.2974,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC009.mp4",
+          "start": 735.2702,
+          "duration": 4.3931,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC010.mp4",
+          "start": 739.6634,
+          "duration": 2.4319,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC011.mp4",
+          "start": 742.0952,
+          "duration": 7.8725,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC012.mp4",
+          "start": 749.9678,
+          "duration": 5.8942,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC013.mp4",
+          "start": 755.862,
+          "duration": 4.4267,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC014.mp4",
+          "start": 760.2886,
+          "duration": 6.3118,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC015.mp4",
+          "start": 766.6004,
+          "duration": 7.9042,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC016.mp4",
+          "start": 774.5045,
+          "duration": 3.6164,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC017.mp4",
+          "start": 778.121,
+          "duration": 4.8362,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC018.mp4",
+          "start": 782.9572,
+          "duration": 5.6285,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC019.mp4",
+          "start": 788.5857,
+          "duration": 4.661,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC020.mp4",
+          "start": 793.2467,
+          "duration": 4.944,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC021.mp4",
+          "start": 798.1906,
+          "duration": 7.2423,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC022.mp4",
+          "start": 805.433,
+          "duration": 6.3998,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC023.mp4",
+          "start": 811.8327,
+          "duration": 2.9654,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC024.mp4",
+          "start": 814.7982,
+          "duration": 1.279,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC025.mp4",
+          "start": 816.0772,
+          "duration": 3.9615,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC026.mp4",
+          "start": 820.0387,
+          "duration": 5.4832,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC027.mp4",
+          "start": 825.522,
+          "duration": 5.8583,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC028.mp4",
+          "start": 831.3802,
+          "duration": 4.7233,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC029.mp4",
+          "start": 836.1036,
+          "duration": 1.5928,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC030.mp4",
+          "start": 837.6964,
+          "duration": 7.0587,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC031.mp4",
+          "start": 844.7551,
+          "duration": 4.599,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC032.mp4",
+          "start": 849.3541,
+          "duration": 6.065,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC033.mp4",
+          "start": 855.4191,
+          "duration": 4.1117,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC034.mp4",
+          "start": 859.5307,
+          "duration": 6.5335,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC035.mp4",
+          "start": 866.0642,
+          "duration": 6.155,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC036.mp4",
+          "start": 872.2192,
+          "duration": 1.8129,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC037.mp4",
+          "start": 874.0321,
+          "duration": 5.3933,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC038.mp4",
+          "start": 879.4255,
+          "duration": 5.2411,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC039.mp4",
+          "start": 884.6666,
+          "duration": 7.943,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC040.mp4",
+          "start": 892.6096,
+          "duration": 6.8952,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC041.mp4",
+          "start": 899.5048,
+          "duration": 3.8255,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC042.mp4",
+          "start": 903.3304,
+          "duration": 7.516,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC043.mp4",
+          "start": 910.8463,
+          "duration": 4.8599,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC044.mp4",
+          "start": 915.7062,
+          "duration": 6.8222,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC045.mp4",
+          "start": 922.5285,
+          "duration": 2.724,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC046.mp4",
+          "start": 925.2525,
+          "duration": 6.2381,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC047.mp4",
+          "start": 931.4906,
+          "duration": 8.457,
+          "sourceStart": 0.0,
+          "speed": 0.9401,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC048.mp4",
+          "start": 939.9476,
+          "duration": 1.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC048"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC049.mp4",
+          "start": 940.9476,
+          "duration": 5.326,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC049"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC050.mp4",
+          "start": 946.2735,
+          "duration": 9.199,
+          "sourceStart": 0.0,
+          "speed": 0.8642,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC050"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC051.mp4",
+          "start": 955.4726,
+          "duration": 3.6915,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC051"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC052.mp4",
+          "start": 959.1641,
+          "duration": 3.0487,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC052"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC053.mp4",
+          "start": 962.2128,
+          "duration": 6.3491,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC053"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC054.mp4",
+          "start": 968.5619,
+          "duration": 6.0408,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC054"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC055.mp4",
+          "start": 974.6027,
+          "duration": 4.2118,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC055"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC056.mp4",
+          "start": 978.8145,
+          "duration": 6.8308,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC056"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC057.mp4",
+          "start": 985.6453,
+          "duration": 4.296,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC057"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH04_SC058.mp4",
+          "start": 989.9413,
+          "duration": 6.9587,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC058"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC001.mp4",
+          "start": 996.9,
+          "duration": 9.2364,
+          "sourceStart": 0.0,
+          "speed": 0.8607,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC002.mp4",
+          "start": 1006.1364,
+          "duration": 3.3238,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC003.mp4",
+          "start": 1009.4602,
+          "duration": 8.9476,
+          "sourceStart": 0.0,
+          "speed": 0.8885,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC004.mp4",
+          "start": 1018.4078,
+          "duration": 4.7868,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC005.mp4",
+          "start": 1023.1946,
+          "duration": 4.7634,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC006.mp4",
+          "start": 1027.958,
+          "duration": 3.431,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC007.mp4",
+          "start": 1031.389,
+          "duration": 4.7253,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC008.mp4",
+          "start": 1036.1142,
+          "duration": 5.7039,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC009.mp4",
+          "start": 1041.8181,
+          "duration": 6.646,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC010.mp4",
+          "start": 1048.4641,
+          "duration": 7.2525,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC011.mp4",
+          "start": 1055.7166,
+          "duration": 5.5712,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC012.mp4",
+          "start": 1061.2878,
+          "duration": 6.1529,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC013.mp4",
+          "start": 1067.4407,
+          "duration": 4.7732,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC014.mp4",
+          "start": 1072.2138,
+          "duration": 4.3128,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC015.mp4",
+          "start": 1076.5267,
+          "duration": 4.849,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC016.mp4",
+          "start": 1081.3757,
+          "duration": 5.8303,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC017.mp4",
+          "start": 1087.206,
+          "duration": 2.9008,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC018.mp4",
+          "start": 1090.1068,
+          "duration": 5.8065,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC019.mp4",
+          "start": 1095.9132,
+          "duration": 8.5062,
+          "sourceStart": 0.0,
+          "speed": 0.9346,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC020.mp4",
+          "start": 1104.4194,
+          "duration": 6.5026,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC021.mp4",
+          "start": 1110.922,
+          "duration": 6.864,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC022.mp4",
+          "start": 1117.786,
+          "duration": 6.602,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC023.mp4",
+          "start": 1124.388,
+          "duration": 5.4835,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC024.mp4",
+          "start": 1129.8715,
+          "duration": 4.4925,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC025.mp4",
+          "start": 1134.364,
+          "duration": 3.8401,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC026.mp4",
+          "start": 1138.2042,
+          "duration": 8.7259,
+          "sourceStart": 0.0,
+          "speed": 0.9111,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC027.mp4",
+          "start": 1146.93,
+          "duration": 4.9485,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC028.mp4",
+          "start": 1151.8785,
+          "duration": 7.576,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC029.mp4",
+          "start": 1159.4546,
+          "duration": 5.4917,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC030.mp4",
+          "start": 1164.9463,
+          "duration": 8.7677,
+          "sourceStart": 0.0,
+          "speed": 0.9067,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC031.mp4",
+          "start": 1173.714,
+          "duration": 4.8941,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC032.mp4",
+          "start": 1178.6082,
+          "duration": 8.5444,
+          "sourceStart": 0.0,
+          "speed": 0.9304,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC033.mp4",
+          "start": 1187.1526,
+          "duration": 6.3225,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC034.mp4",
+          "start": 1193.4751,
+          "duration": 6.4188,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC035.mp4",
+          "start": 1199.8939,
+          "duration": 3.7585,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC036.mp4",
+          "start": 1203.6525,
+          "duration": 8.6003,
+          "sourceStart": 0.0,
+          "speed": 0.9244,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC037.mp4",
+          "start": 1212.2528,
+          "duration": 9.041,
+          "sourceStart": 0.0,
+          "speed": 0.8793,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC038.mp4",
+          "start": 1221.2937,
+          "duration": 5.1019,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC039.mp4",
+          "start": 1226.3957,
+          "duration": 4.2555,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC040.mp4",
+          "start": 1230.6512,
+          "duration": 8.2538,
+          "sourceStart": 0.0,
+          "speed": 0.9632,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC041.mp4",
+          "start": 1238.905,
+          "duration": 7.76,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC042.mp4",
+          "start": 1246.665,
+          "duration": 6.919,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC043.mp4",
+          "start": 1253.5839,
+          "duration": 2.8995,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC044.mp4",
+          "start": 1256.4835,
+          "duration": 7.8046,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC045.mp4",
+          "start": 1264.2881,
+          "duration": 1.7419,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC046.mp4",
+          "start": 1266.03,
+          "duration": 6.1625,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC047.mp4",
+          "start": 1272.1925,
+          "duration": 6.9318,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC048.mp4",
+          "start": 1279.1243,
+          "duration": 2.7011,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC048"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC049.mp4",
+          "start": 1281.8254,
+          "duration": 5.065,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC049"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC050.mp4",
+          "start": 1286.8904,
+          "duration": 3.8289,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC050"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC051.mp4",
+          "start": 1290.7193,
+          "duration": 4.2349,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC051"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC052.mp4",
+          "start": 1294.9542,
+          "duration": 2.203,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC052"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC053.mp4",
+          "start": 1297.1572,
+          "duration": 5.1081,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC053"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH05_SC054.mp4",
+          "start": 1302.2653,
+          "duration": 5.7347,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC054"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC001.mp4",
+          "start": 1308.0,
+          "duration": 5.1091,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC002.mp4",
+          "start": 1313.1091,
+          "duration": 4.7131,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC003.mp4",
+          "start": 1317.8222,
+          "duration": 4.91,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC004.mp4",
+          "start": 1322.7321,
+          "duration": 6.4967,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC005.mp4",
+          "start": 1329.2288,
+          "duration": 6.4558,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC006.mp4",
+          "start": 1335.6846,
+          "duration": 6.1329,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC007.mp4",
+          "start": 1341.8175,
+          "duration": 3.5348,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC008.mp4",
+          "start": 1345.3523,
+          "duration": 3.9237,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC009.mp4",
+          "start": 1349.276,
+          "duration": 7.8583,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC010.mp4",
+          "start": 1357.1344,
+          "duration": 6.8452,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC011.mp4",
+          "start": 1363.9796,
+          "duration": 5.7225,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC012.mp4",
+          "start": 1369.7021,
+          "duration": 5.5056,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC013.mp4",
+          "start": 1375.2077,
+          "duration": 3.227,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC014.mp4",
+          "start": 1378.4347,
+          "duration": 2.9498,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC015.mp4",
+          "start": 1381.3845,
+          "duration": 4.4085,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC016.mp4",
+          "start": 1385.793,
+          "duration": 5.2593,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC017.mp4",
+          "start": 1391.0523,
+          "duration": 4.8082,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC018.mp4",
+          "start": 1395.8605,
+          "duration": 6.4154,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC019.mp4",
+          "start": 1402.2759,
+          "duration": 5.5275,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC020.mp4",
+          "start": 1407.8034,
+          "duration": 6.376,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC021.mp4",
+          "start": 1414.1794,
+          "duration": 2.3713,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC022.mp4",
+          "start": 1416.5507,
+          "duration": 5.4174,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC023.mp4",
+          "start": 1421.9681,
+          "duration": 3.402,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC024.mp4",
+          "start": 1425.3701,
+          "duration": 4.5667,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC025.mp4",
+          "start": 1429.9368,
+          "duration": 3.1009,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC026.mp4",
+          "start": 1433.0377,
+          "duration": 4.7967,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC027.mp4",
+          "start": 1437.8344,
+          "duration": 5.9844,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC028.mp4",
+          "start": 1443.8188,
+          "duration": 5.5692,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC029.mp4",
+          "start": 1449.388,
+          "duration": 4.2043,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC030.mp4",
+          "start": 1453.5923,
+          "duration": 5.1428,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC031.mp4",
+          "start": 1458.735,
+          "duration": 3.7936,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC032.mp4",
+          "start": 1462.5287,
+          "duration": 4.3299,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC033.mp4",
+          "start": 1466.8585,
+          "duration": 5.7132,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC034.mp4",
+          "start": 1472.5718,
+          "duration": 5.8787,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC035.mp4",
+          "start": 1478.4505,
+          "duration": 3.6155,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC036.mp4",
+          "start": 1482.0659,
+          "duration": 3.6763,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC037.mp4",
+          "start": 1485.7423,
+          "duration": 5.2886,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC038.mp4",
+          "start": 1491.0309,
+          "duration": 4.3189,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC039.mp4",
+          "start": 1495.3498,
+          "duration": 3.6093,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC040.mp4",
+          "start": 1498.9591,
+          "duration": 2.9167,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC041.mp4",
+          "start": 1501.8758,
+          "duration": 5.0689,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC042.mp4",
+          "start": 1506.9447,
+          "duration": 3.3754,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC043.mp4",
+          "start": 1510.3201,
+          "duration": 6.2602,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC044.mp4",
+          "start": 1516.5803,
+          "duration": 6.1725,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC045.mp4",
+          "start": 1522.7528,
+          "duration": 3.4524,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC046.mp4",
+          "start": 1526.2052,
+          "duration": 3.2377,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC047.mp4",
+          "start": 1529.443,
+          "duration": 6.6731,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC048.mp4",
+          "start": 1536.1161,
+          "duration": 5.3587,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC048"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC049.mp4",
+          "start": 1541.4748,
+          "duration": 5.7722,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC049"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC050.mp4",
+          "start": 1547.247,
+          "duration": 6.2964,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC050"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC051.mp4",
+          "start": 1553.5434,
+          "duration": 5.2534,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC051"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC052.mp4",
+          "start": 1558.7968,
+          "duration": 5.6851,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC052"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH06_SC053.mp4",
+          "start": 1564.4819,
+          "duration": 6.8381,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC053"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC001.mp4",
+          "start": 1571.32,
+          "duration": 9.7125,
+          "sourceStart": 0.0,
+          "speed": 0.8185,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC002.mp4",
+          "start": 1581.0325,
+          "duration": 4.6716,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC003.mp4",
+          "start": 1585.7041,
+          "duration": 7.8935,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC004.mp4",
+          "start": 1593.5976,
+          "duration": 6.1253,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC005.mp4",
+          "start": 1599.7229,
+          "duration": 5.1128,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC006.mp4",
+          "start": 1604.8357,
+          "duration": 7.7196,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC007.mp4",
+          "start": 1612.5553,
+          "duration": 1.8534,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC008.mp4",
+          "start": 1614.4087,
+          "duration": 4.1558,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC009.mp4",
+          "start": 1618.5645,
+          "duration": 6.6434,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC010.mp4",
+          "start": 1625.2079,
+          "duration": 6.742,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC011.mp4",
+          "start": 1631.9499,
+          "duration": 7.2596,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC012.mp4",
+          "start": 1639.2095,
+          "duration": 5.2675,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC013.mp4",
+          "start": 1644.4769,
+          "duration": 5.3186,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC014.mp4",
+          "start": 1649.7955,
+          "duration": 4.8221,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC015.mp4",
+          "start": 1654.6177,
+          "duration": 5.9841,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC016.mp4",
+          "start": 1660.6018,
+          "duration": 8.7492,
+          "sourceStart": 0.0,
+          "speed": 0.9087,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC017.mp4",
+          "start": 1669.351,
+          "duration": 3.5937,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC018.mp4",
+          "start": 1672.9447,
+          "duration": 4.3581,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC019.mp4",
+          "start": 1677.3027,
+          "duration": 6.6692,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC020.mp4",
+          "start": 1683.9719,
+          "duration": 4.0996,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC021.mp4",
+          "start": 1688.0715,
+          "duration": 2.5733,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC022.mp4",
+          "start": 1690.6447,
+          "duration": 6.9411,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC023.mp4",
+          "start": 1697.5858,
+          "duration": 6.3212,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC024.mp4",
+          "start": 1703.907,
+          "duration": 5.4913,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC025.mp4",
+          "start": 1709.3983,
+          "duration": 7.2497,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC026.mp4",
+          "start": 1716.648,
+          "duration": 4.1989,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC027.mp4",
+          "start": 1720.8468,
+          "duration": 1.8691,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC028.mp4",
+          "start": 1722.7159,
+          "duration": 8.0665,
+          "sourceStart": 0.0,
+          "speed": 0.9856,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC029.mp4",
+          "start": 1730.7824,
+          "duration": 5.0522,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC030.mp4",
+          "start": 1735.8346,
+          "duration": 5.0939,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC031.mp4",
+          "start": 1740.9285,
+          "duration": 2.2787,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC032.mp4",
+          "start": 1743.2072,
+          "duration": 6.9632,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC033.mp4",
+          "start": 1750.1705,
+          "duration": 8.3199,
+          "sourceStart": 0.0,
+          "speed": 0.9555,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC034.mp4",
+          "start": 1758.4903,
+          "duration": 6.8857,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC035.mp4",
+          "start": 1765.376,
+          "duration": 7.2988,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC036.mp4",
+          "start": 1772.6748,
+          "duration": 5.4876,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH07_SC037.mp4",
+          "start": 1778.1624,
+          "duration": 9.3376,
+          "sourceStart": 0.0,
+          "speed": 0.8514,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC001.mp4",
+          "start": 1787.5,
+          "duration": 6.1532,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC002.mp4",
+          "start": 1793.6532,
+          "duration": 2.8188,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC003.mp4",
+          "start": 1796.4719,
+          "duration": 6.0873,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC004.mp4",
+          "start": 1802.5592,
+          "duration": 6.5147,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC005.mp4",
+          "start": 1809.0739,
+          "duration": 8.712,
+          "sourceStart": 0.0,
+          "speed": 0.9125,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC006.mp4",
+          "start": 1817.7859,
+          "duration": 4.8968,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC007.mp4",
+          "start": 1822.6826,
+          "duration": 7.2166,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC008.mp4",
+          "start": 1829.8993,
+          "duration": 5.4676,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC009.mp4",
+          "start": 1835.3668,
+          "duration": 3.7964,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC010.mp4",
+          "start": 1839.1632,
+          "duration": 5.6073,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC011.mp4",
+          "start": 1844.7705,
+          "duration": 2.6672,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC012.mp4",
+          "start": 1847.4377,
+          "duration": 4.8708,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC013.mp4",
+          "start": 1852.3085,
+          "duration": 4.7752,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC014.mp4",
+          "start": 1857.0837,
+          "duration": 5.621,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC015.mp4",
+          "start": 1862.7047,
+          "duration": 3.9203,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC016.mp4",
+          "start": 1866.625,
+          "duration": 4.9389,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC017.mp4",
+          "start": 1871.5639,
+          "duration": 5.0974,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC018.mp4",
+          "start": 1876.6613,
+          "duration": 5.384,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC019.mp4",
+          "start": 1882.0452,
+          "duration": 4.0023,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC020.mp4",
+          "start": 1886.0475,
+          "duration": 4.9692,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC021.mp4",
+          "start": 1891.0167,
+          "duration": 2.4912,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC022.mp4",
+          "start": 1893.508,
+          "duration": 4.836,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC023.mp4",
+          "start": 1898.344,
+          "duration": 5.3412,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC024.mp4",
+          "start": 1903.6852,
+          "duration": 4.9904,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC025.mp4",
+          "start": 1908.6755,
+          "duration": 2.6579,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC026.mp4",
+          "start": 1911.3335,
+          "duration": 5.6323,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC027.mp4",
+          "start": 1916.9658,
+          "duration": 3.0083,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC028.mp4",
+          "start": 1919.9741,
+          "duration": 5.349,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC029.mp4",
+          "start": 1925.3231,
+          "duration": 4.7415,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC030.mp4",
+          "start": 1930.0646,
+          "duration": 4.733,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC031.mp4",
+          "start": 1934.7976,
+          "duration": 1.1991,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC032.mp4",
+          "start": 1935.9967,
+          "duration": 7.0055,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC033.mp4",
+          "start": 1943.0023,
+          "duration": 4.146,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC034.mp4",
+          "start": 1947.1483,
+          "duration": 4.1796,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC035.mp4",
+          "start": 1951.3279,
+          "duration": 7.5006,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC036.mp4",
+          "start": 1958.8285,
+          "duration": 1.685,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC037.mp4",
+          "start": 1960.5135,
+          "duration": 2.2527,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC038.mp4",
+          "start": 1962.7662,
+          "duration": 8.0844,
+          "sourceStart": 0.0,
+          "speed": 0.9834,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC039.mp4",
+          "start": 1970.8505,
+          "duration": 4.8431,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC040.mp4",
+          "start": 1975.6937,
+          "duration": 3.5748,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC041.mp4",
+          "start": 1979.2685,
+          "duration": 5.5453,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC042.mp4",
+          "start": 1984.8138,
+          "duration": 7.9727,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC043.mp4",
+          "start": 1992.7865,
+          "duration": 4.3466,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC044.mp4",
+          "start": 1997.133,
+          "duration": 5.455,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC045.mp4",
+          "start": 2002.5881,
+          "duration": 4.6574,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC046.mp4",
+          "start": 2007.2455,
+          "duration": 5.3553,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC047.mp4",
+          "start": 2012.6008,
+          "duration": 4.7146,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC048.mp4",
+          "start": 2017.3154,
+          "duration": 4.562,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC048"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC049.mp4",
+          "start": 2021.8774,
+          "duration": 5.1581,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC049"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC050.mp4",
+          "start": 2027.0356,
+          "duration": 6.6826,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC050"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC051.mp4",
+          "start": 2033.7181,
+          "duration": 7.7731,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC051"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC052.mp4",
+          "start": 2041.4912,
+          "duration": 6.6948,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC052"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC053.mp4",
+          "start": 2048.186,
+          "duration": 5.129,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC053"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC054.mp4",
+          "start": 2053.315,
+          "duration": 1.748,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC054"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC055.mp4",
+          "start": 2055.063,
+          "duration": 6.9081,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC055"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC056.mp4",
+          "start": 2061.9711,
+          "duration": 3.9941,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC056"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC057.mp4",
+          "start": 2065.9652,
+          "duration": 4.8026,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC057"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC058.mp4",
+          "start": 2070.7678,
+          "duration": 4.8468,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC058"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH08_SC059.mp4",
+          "start": 2075.6146,
+          "duration": 7.1854,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH08_SC059"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC001.mp4",
+          "start": 2082.8,
+          "duration": 5.9286,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC002.mp4",
+          "start": 2088.7286,
+          "duration": 5.297,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC003.mp4",
+          "start": 2094.0256,
+          "duration": 6.0825,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC004.mp4",
+          "start": 2100.1082,
+          "duration": 2.5115,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC005.mp4",
+          "start": 2102.6197,
+          "duration": 6.842,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC006.mp4",
+          "start": 2109.4617,
+          "duration": 2.359,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC007.mp4",
+          "start": 2111.8207,
+          "duration": 4.4888,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC008.mp4",
+          "start": 2116.3096,
+          "duration": 4.551,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC009.mp4",
+          "start": 2120.8606,
+          "duration": 4.9247,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC010.mp4",
+          "start": 2125.7853,
+          "duration": 4.5764,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC011.mp4",
+          "start": 2130.3617,
+          "duration": 4.9757,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC012.mp4",
+          "start": 2135.3374,
+          "duration": 6.7444,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC013.mp4",
+          "start": 2142.0818,
+          "duration": 4.4441,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC014.mp4",
+          "start": 2146.5259,
+          "duration": 5.5197,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC015.mp4",
+          "start": 2152.0456,
+          "duration": 5.6406,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC016.mp4",
+          "start": 2157.6862,
+          "duration": 5.6084,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC017.mp4",
+          "start": 2163.2946,
+          "duration": 2.4291,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC018.mp4",
+          "start": 2165.7237,
+          "duration": 4.3032,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC019.mp4",
+          "start": 2170.0269,
+          "duration": 6.4585,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC020.mp4",
+          "start": 2176.4854,
+          "duration": 2.815,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC021.mp4",
+          "start": 2179.3004,
+          "duration": 8.1727,
+          "sourceStart": 0.0,
+          "speed": 0.9727,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC022.mp4",
+          "start": 2187.4731,
+          "duration": 1.4396,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC023.mp4",
+          "start": 2188.9126,
+          "duration": 2.0263,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC024.mp4",
+          "start": 2190.939,
+          "duration": 7.1737,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC025.mp4",
+          "start": 2198.1127,
+          "duration": 2.7252,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC026.mp4",
+          "start": 2200.8379,
+          "duration": 5.1537,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC027.mp4",
+          "start": 2205.9916,
+          "duration": 3.5632,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC028.mp4",
+          "start": 2209.5548,
+          "duration": 4.6637,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC029.mp4",
+          "start": 2214.2185,
+          "duration": 2.7229,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC030.mp4",
+          "start": 2216.9414,
+          "duration": 5.7261,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC031.mp4",
+          "start": 2222.6675,
+          "duration": 3.8277,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC032.mp4",
+          "start": 2226.4952,
+          "duration": 4.4248,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC033.mp4",
+          "start": 2230.92,
+          "duration": 5.4075,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC034.mp4",
+          "start": 2236.3275,
+          "duration": 4.085,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC035.mp4",
+          "start": 2240.4125,
+          "duration": 5.5921,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC036.mp4",
+          "start": 2246.0045,
+          "duration": 3.9371,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC037.mp4",
+          "start": 2249.9416,
+          "duration": 7.3179,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC038.mp4",
+          "start": 2257.2595,
+          "duration": 2.9028,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC039.mp4",
+          "start": 2260.1623,
+          "duration": 6.1259,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC040.mp4",
+          "start": 2266.2882,
+          "duration": 4.9658,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC041.mp4",
+          "start": 2271.254,
+          "duration": 3.5097,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC042.mp4",
+          "start": 2274.7637,
+          "duration": 6.6909,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC043.mp4",
+          "start": 2281.4547,
+          "duration": 7.2868,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC044.mp4",
+          "start": 2288.7414,
+          "duration": 4.9403,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC045.mp4",
+          "start": 2293.6817,
+          "duration": 7.9983,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC045"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC046.mp4",
+          "start": 2301.68,
+          "duration": 3.7467,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC046"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC047.mp4",
+          "start": 2305.4267,
+          "duration": 2.3778,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC047"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC048.mp4",
+          "start": 2307.8045,
+          "duration": 7.1641,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC048"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC049.mp4",
+          "start": 2314.9687,
+          "duration": 7.1683,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC049"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC050.mp4",
+          "start": 2322.137,
+          "duration": 2.3145,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC050"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC051.mp4",
+          "start": 2324.4514,
+          "duration": 4.4395,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC051"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC052.mp4",
+          "start": 2328.8909,
+          "duration": 4.2769,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC052"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC053.mp4",
+          "start": 2333.1677,
+          "duration": 4.8717,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC053"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC054.mp4",
+          "start": 2338.0395,
+          "duration": 5.1078,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC054"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC055.mp4",
+          "start": 2343.1472,
+          "duration": 5.7523,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC055"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC056.mp4",
+          "start": 2348.8995,
+          "duration": 5.8508,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC056"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC057.mp4",
+          "start": 2354.7504,
+          "duration": 5.6265,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC057"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC058.mp4",
+          "start": 2360.3769,
+          "duration": 2.5171,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC058"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC059.mp4",
+          "start": 2362.894,
+          "duration": 5.4113,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC059"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC060.mp4",
+          "start": 2368.3052,
+          "duration": 3.4033,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC060"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC061.mp4",
+          "start": 2371.7085,
+          "duration": 3.477,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC061"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC062.mp4",
+          "start": 2375.1855,
+          "duration": 3.7856,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC062"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC063.mp4",
+          "start": 2378.9712,
+          "duration": 4.7391,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC063"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC064.mp4",
+          "start": 2383.7102,
+          "duration": 4.7348,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC064"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC065.mp4",
+          "start": 2388.445,
+          "duration": 7.7935,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC065"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC066.mp4",
+          "start": 2396.2385,
+          "duration": 1.8547,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC066"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC067.mp4",
+          "start": 2398.0932,
+          "duration": 6.404,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC067"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC068.mp4",
+          "start": 2404.4971,
+          "duration": 3.4111,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC068"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC069.mp4",
+          "start": 2407.9082,
+          "duration": 5.2824,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC069"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC070.mp4",
+          "start": 2413.1906,
+          "duration": 3.772,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC070"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC071.mp4",
+          "start": 2416.9626,
+          "duration": 8.4567,
+          "sourceStart": 0.0,
+          "speed": 0.9401,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC071"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC072.mp4",
+          "start": 2425.4193,
+          "duration": 3.5297,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC072"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC073.mp4",
+          "start": 2428.949,
+          "duration": 5.7629,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC073"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC074.mp4",
+          "start": 2434.712,
+          "duration": 6.6498,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC074"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC075.mp4",
+          "start": 2441.3617,
+          "duration": 5.2584,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC075"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH09_SC076.mp4",
+          "start": 2446.6201,
+          "duration": 4.1599,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH09_SC076"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC001.mp4",
+          "start": 2450.78,
+          "duration": 6.3327,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC002.mp4",
+          "start": 2457.1127,
+          "duration": 2.3319,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC003.mp4",
+          "start": 2459.4446,
+          "duration": 4.6753,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC004.mp4",
+          "start": 2464.1199,
+          "duration": 5.2532,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC005.mp4",
+          "start": 2469.3731,
+          "duration": 2.1369,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC006.mp4",
+          "start": 2471.51,
+          "duration": 3.412,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC007.mp4",
+          "start": 2474.922,
+          "duration": 2.8031,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC008.mp4",
+          "start": 2477.7251,
+          "duration": 8.6047,
+          "sourceStart": 0.0,
+          "speed": 0.9239,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC009.mp4",
+          "start": 2486.3298,
+          "duration": 2.9935,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC010.mp4",
+          "start": 2489.3232,
+          "duration": 4.0807,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC011.mp4",
+          "start": 2493.4039,
+          "duration": 2.8503,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC012.mp4",
+          "start": 2496.2542,
+          "duration": 4.5978,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC013.mp4",
+          "start": 2500.852,
+          "duration": 5.9958,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC014.mp4",
+          "start": 2506.8478,
+          "duration": 1.7468,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC015.mp4",
+          "start": 2508.5946,
+          "duration": 4.6867,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC016.mp4",
+          "start": 2513.2813,
+          "duration": 4.1298,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC017.mp4",
+          "start": 2517.4112,
+          "duration": 2.2504,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC018.mp4",
+          "start": 2519.6615,
+          "duration": 4.6542,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC018"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC019.mp4",
+          "start": 2524.3157,
+          "duration": 7.0085,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC020.mp4",
+          "start": 2531.3242,
+          "duration": 1.2117,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC021.mp4",
+          "start": 2532.5358,
+          "duration": 4.768,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC022.mp4",
+          "start": 2537.3038,
+          "duration": 3.075,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC023.mp4",
+          "start": 2540.3787,
+          "duration": 7.3891,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC024.mp4",
+          "start": 2547.7678,
+          "duration": 2.2081,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC025.mp4",
+          "start": 2549.976,
+          "duration": 2.5074,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC026.mp4",
+          "start": 2552.4834,
+          "duration": 4.3292,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC027.mp4",
+          "start": 2556.8125,
+          "duration": 5.0802,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC027"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC028.mp4",
+          "start": 2561.8928,
+          "duration": 5.2785,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC029.mp4",
+          "start": 2567.1713,
+          "duration": 4.1339,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC030.mp4",
+          "start": 2571.3052,
+          "duration": 6.5157,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC031.mp4",
+          "start": 2577.821,
+          "duration": 2.8588,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC032.mp4",
+          "start": 2580.6797,
+          "duration": 1.5513,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC033.mp4",
+          "start": 2582.231,
+          "duration": 6.8061,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC034.mp4",
+          "start": 2589.0371,
+          "duration": 5.2178,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC035.mp4",
+          "start": 2594.2549,
+          "duration": 8.849,
+          "sourceStart": 0.0,
+          "speed": 0.8984,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC036.mp4",
+          "start": 2603.104,
+          "duration": 2.178,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC036"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC037.mp4",
+          "start": 2605.282,
+          "duration": 3.0055,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC038.mp4",
+          "start": 2608.2875,
+          "duration": 3.9777,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC039.mp4",
+          "start": 2612.2652,
+          "duration": 4.7075,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC040.mp4",
+          "start": 2616.9727,
+          "duration": 4.4028,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC040"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC041.mp4",
+          "start": 2621.3755,
+          "duration": 4.0933,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC042.mp4",
+          "start": 2625.4688,
+          "duration": 3.9728,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC042"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC043.mp4",
+          "start": 2629.4416,
+          "duration": 8.0395,
+          "sourceStart": 0.0,
+          "speed": 0.9889,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC043"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC044.mp4",
+          "start": 2637.4812,
+          "duration": 2.9705,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC044"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/video_stripped/sieucongtrinhvabatcom/CH10_SC045.mp4",
+          "start": 2640.4517,
+          "duration": 8.5283,
+          "sourceStart": 0.0,
+          "speed": 0.9322,
+          "volume": 0.0,
+          "ref": "vid_CH10_SC045"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "voiceover",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_01.wav",
+          "start": 0.0,
+          "duration": 210.58,
+          "volume": 1.0,
+          "ref": "vo_ch01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_02.wav",
+          "start": 214.58,
+          "duration": 213.46,
+          "volume": 1.0,
+          "ref": "vo_ch02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_03.wav",
+          "start": 432.04,
+          "duration": 256.38,
+          "volume": 1.0,
+          "ref": "vo_ch03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_04.wav",
+          "start": 692.42,
+          "duration": 302.48,
+          "volume": 1.0,
+          "ref": "vo_ch04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_05.wav",
+          "start": 998.9,
+          "duration": 307.1,
+          "volume": 1.0,
+          "ref": "vo_ch05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_06.wav",
+          "start": 1310.0,
+          "duration": 259.32,
+          "volume": 1.0,
+          "ref": "vo_ch06"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_07.wav",
+          "start": 1573.32,
+          "duration": 212.18,
+          "volume": 1.0,
+          "ref": "vo_ch07"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_08.wav",
+          "start": 1789.5,
+          "duration": 291.3,
+          "volume": 1.0,
+          "ref": "vo_ch08"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_09.wav",
+          "start": 2084.8,
+          "duration": 363.98,
+          "volume": 1.0,
+          "ref": "vo_ch09"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/sieu-cong-trinh-va-bat-com/audio/chapter_10.wav",
+          "start": 2452.78,
+          "duration": 194.2,
+          "volume": 1.0,
+          "ref": "vo_ch10"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "bgm",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 0.0,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 143.6995,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 287.3991,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 431.0986,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 574.7982,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 718.4977,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_06"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 862.1973,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_07"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1005.8968,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_08"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1149.5963,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_09"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1293.2959,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_10"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1436.9954,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_11"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1580.695,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_12"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1724.3945,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_13"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1868.094,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_14"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 2011.7936,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_15"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 2155.4931,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_16"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 2299.1927,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_17"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 2442.8922,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_18"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 2586.5918,
+          "duration": 62.3882,
+          "volume": 0.031,
+          "ref": "bgm_19"
+        }
+      ]
+    }
+  ]
+}

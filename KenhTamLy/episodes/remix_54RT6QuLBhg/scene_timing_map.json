@@ -1,0 +1,650 @@
+[
+    {
+        "id": "SC001",
+        "sentence_count": 1,
+        "duration_sec": 5,
+        "visual_summary": "A towering mountain of crumpled to-do lists and planners, a tiny figure standing at the bottom looking up - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC002",
+        "sentence_count": 1,
+        "duration_sec": 5,
+        "visual_summary": "A bright red pen violently scratching out complex diagrams on a thick notebook - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC003",
+        "sentence_count": 1,
+        "duration_sec": 5,
+        "visual_summary": "Silhouette of a person pressing their hand against a rainy neon-lit window, gazing at a vibrant city skyline - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC004",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A single drop of dark coffee rippling in a cup, reflecting a bloodshot eye twitching from exhaustion - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC005",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "An unlit modern gas stove with a small cold spark, juxtaposed against a primal fire burning inside a cave - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC006",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A heavy iron anchor dragging a person down into a comfortable but claustrophobic armchair - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC007",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A ticking analog clock melting over a heavy calendar, heavy charcoal shading, vibrant neon red hands - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC008",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "Two hands holding the same unfinished email draft, one hand relaxed, the other pale and gripping the mouse tightly - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC009",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A glowing crimson almond shape hidden deep inside a mess of chaotic electrical wires - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC010",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A massive, terrifying shadow of a lion cast by a small glowing red deadline on a calendar - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC011",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A syringe injecting vibrant liquid adrenaline into a mechanical gear - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC012",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A massive neon emergency siren spinning in a small empty dark room - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC013",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A padlock snapping shut on an old wooden chest in the background, out of focus - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC014",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "An intense fmri scan of a brain where the fear center is exploding in vibrant, chaotic red and orange sketch lines - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC015",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A snake made of glowing green neon tubing coiled around a laptop - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC016",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person stuck inside a glass hourglass, desperately clawing at the walls as colorful sand buries them - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC017",
+        "sentence_count": 1,
+        "duration_sec": 5,
+        "visual_summary": "A young child standing at a crossroads, one path glowing with bright warm light, the other dark and intimidating - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC018",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "Two report cards, one marked with a glowing golden 'a+' and the other with a heavy red 'try harder' - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC019",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A giant percentage pie chart slicing a person into fragments, vivid abstract coloring - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC020",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A scale weighing a glowing lightbulb of 'intelligence' against a heavy iron anvil of 'failure' - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC021",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A fragile porcelain plate with beautiful painted patterns, cracking under a tiny drop of water - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC022",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A massive, heavy turtle shell strapped to a person's back, glowing with defensive neon patterns - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC023",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A mirror reflecting a giant armored knight, while a small vulnerable figure stands before it - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC024",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A sturdy brick wall hastily built with brightly colored children's blocks, full of gaps - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC025",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A small seed trying to sprout through thick, neon-lit concrete - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC026",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A circuit breaker tripping violently in a colorful burst of sparks - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC027",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person sinking slowly into a plush, brightly colored sofa that has eyes watching them - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC028",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A beautifully framed empty canvas, untouched, illuminated by a warm but intimidating gallery spotlight - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC029",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A colorful glowing syringe marked 'dopamine' hovering just out of reach - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC030",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person running on a treadmill that powers a massive, glowing projector displaying a hero fighting a dragon - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC031",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A brain split in two halves, one half colorful and dreaming, the other gray and chained to a desk - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC032",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A majestic crown hovering over a person's head, but drawn entirely with chaotic, anxious scribbles - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC033",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A coffee cup on a cafe table, the coffee ripples reflecting a grandiose fantasy of a neon-lit stage - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC034",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A massive pile of shiny gold coins that are actually just plastic tokens, glowing under a cheap light - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC035",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A dark path through a forest, lined with glowing, dangerous neon thorn bushes - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC036",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A heavy iron shield marked 'perfection' blocking an entire doorway, glowing intensely - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC037",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A dusty research file from brown university opening up, glowing colorful statistics spilling out - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC038",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A tightrope walker frozen midway, overwhelmed by chaotic, bright neon arrows pointing in all directions - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC039",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A perfect, unblemished apple sitting inside a bulletproof glass case, vibrant red - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC040",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A magnifying glass focusing intensely on a tiny, vividly colored scratch on an otherwise perfect surface - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC041",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A pendulum violently swinging between a glowing golden crown and a dark, heavy iron shackle - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC042",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person watching a beautiful television broadcast of themselves, sitting in a dark empty room - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC043",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A sudden burst of a bright neon balloon, leaving only dark tangled strings - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC044",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A heavy wave of dark, chaotic charcoal lines crashing over a small, colorful boat - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC045",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A door with thousands of tiny, colorful locks, completely barricaded - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC046",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A cycle of gears, some glowing brightly, others rusted and jamming - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC047",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A child looking into a tall mirror that distorts their reflection into a massive superhero, vibrant colors - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC048",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A mother figure holding a distorted funhouse mirror towards a child, glowing eerie colors - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC049",
+        "sentence_count": 1,
+        "duration_sec": 5,
+        "visual_summary": "A tiny pedestal balancing a massive, impossibly heavy golden trophy, swaying dangerously - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC050",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A dark room where a small glowing ember is completely ignored - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC051",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A mask with an exaggerated bright smile cracking down the middle, revealing nothing but shadow behind it - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC052",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A cracked theater stage illuminated by a single harsh spotlight, surrounded by colorful but broken props - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC053",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A heavy stone slab slowly pushing a colorful butterfly into the dirt - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC054",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A winding staircase leading nowhere, the steps glowing with neon frustration - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC055",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A bright red 'warning' sign sinking in quicksand - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC056",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A puppet with tangled strings cutting itself loose but falling into a vibrant abyss - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC057",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person wearing an oversized, brightly colored coat of armor that drags them down - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC058",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A locked diary glowing with internal, colorful light, vibrating with trapped energy - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC059",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "An overgrown garden choking a beautiful, brightly colored flower - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC060",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A single bright star struggling to shine through a thick, heavy smog - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC061",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A broken compass spinning wildly on top of a colorful map - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC062",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A bottle of expired, brightly colored pills sitting on a dark dusty shelf - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC063",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A heavy metal cage wrapped tightly in brightly colored silk ribbons - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC064",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A glowing red thermometer bursting under pressure, colored mercury spilling out - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC065",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person forcing themselves to sprint on a treadmill that's rapidly catching fire, vibrant flames - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC066",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "Cortisol represented as a dark, toxic purple slime suffocating a glowing brain - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC067",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A bright neon 'stop' sign ignored as a car speeds towards a cliff - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC068",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person floating elegantly away in a hot air balloon, leaving chaotic red fire below - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC069",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A zen garden covered in dead, dark leaves, violently raked into perfect circles - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC070",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "An incense stick burning next to a mountain of unpaid, vividly colored bills - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC071",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A halo made of bright neon tubes short-circuiting and sparking dangerously - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC072",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person meditating calmly inside an exploding building, vibrant colors - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC073",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A bridge made of glowing colorful light that suddenly cuts off over a dark chasm - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC074",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A map leading to a glowing treasure chest that is actually a painted wall - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC075",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A shield of beautiful stained glass shattering spectacularly under a small stone - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC076",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A book titled 'healing' sinking into dark water - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC077",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A vibrant lotus flower blooming out of a toxic, glowing green waste pipe - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC078",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person looking at a compass pointing deeply inwards, glowing with warm light - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC079",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A massive, ancient door slowly being pushed open by a tiny streak of colorful light - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC080",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A bright white polar bear fading in and out of existence in a chaotic dark room - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC081",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person violently trying to hold a door shut against a glowing, colorful monster - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC082",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A label maker printing a bright neon sticker reading 'fear', attached to a scary shadow to make it small - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC083",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A chaotic red storm cloud being neatly put into a glowing glass jar - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC084",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A messy, colorful desk where a single sticky note glows warmly with purpose - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC085",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person carefully stepping onto a bridge of light over a chasm - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC086",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A computer 'send' button glowing red hot, a trembling finger hovering over it - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC087",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "An unfinished email floating in space, glowing softly, completely harmless - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC088",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person dropping a heavy shield and standing naked but bathed in warm, beautiful light - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC089",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A cracked, imperfect ceramic mug holding beautiful, warm glowing coffee - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC090",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A small seedling breaking through a hard, brightly colored shell - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC091",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A shadowy figure stepping out into bright, vivid sunlight, squinting - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC092",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A colorful bird taking its first clumsy flight from a dark nest - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC093",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A pair of hands dirty with clay, molding something beautiful and imperfect - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC094",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A marathon runner stumbling but catching themselves with a bright splash of color - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC095",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A massive, final explosion of a dying star in vibrant colors right before turning into a steady sun - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC096",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A heavy rusted chain breaking spectacularly under tension, bright sparks flying - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC097",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A person standing firm against incredibly strong, colorful wind, pushing forward - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC098",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A beautiful dawn breaking over a city built of crumpled paper - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC099",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A percentage graphic where the 8% glows intensely with warm, inviting light - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC100",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A mirror reflecting not a giant knight, but the person themselves, bathed in soft colorful light - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC101",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A lock finally clicking open, releasing a flood of vibrant colors - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC102",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A deep cave where a torch is newly lit, throwing colorful shadows - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC103",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A map of the mind, with new, brightly colored pathways beginning to form over dark chasms - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC104",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "Carl jung's quote carved into glowing neon stone - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC105",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A heavy fog clearing to reveal a bright, clear, vivid path ahead - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC106",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A small spark igniting a massive, vibrant forest of new growth - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC107",
+        "sentence_count": 2,
+        "duration_sec": 10,
+        "visual_summary": "A wall crumbling down, letting in blindingly beautiful colors - 2D sketch illustration, vivid thematic depth."
+    },
+    {
+        "id": "SC108",
+        "sentence_count": 1,
+        "duration_sec": 5,
+        "visual_summary": "A journaling pen resting peacefully on a finished page bathed in warm, sunset colors - 2D sketch illustration, vivid thematic depth."
+    }
+]

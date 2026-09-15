@@ -1,0 +1,390 @@
+[
+  {
+    "id": "SC001a",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Bóng đen tối giản của một tỷ phú công nghệ đứng thuyết trình trên sân khấu lớn trước màn hình LED chiếu sáng.",
+    "sentences": [
+      "Khi bạn nghe Elon Musk, người giàu nhất hành tinh nói rằng \"Tiền trong tương lai không quan trọng\""
+    ]
+  },
+  {
+    "id": "SC001b",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Một người đàn ông mặc suit đứng nhìn đống tiền giấy USD xếp cao trên bàn làm việc trong phòng họp sang trọng.",
+    "sentences": [
+      "Đó có vẻ là một nghịch lý chói tai, khi kẻ giàu nhất hành tinh lại khuyên bạn quên tiền đi."
+    ]
+  },
+  {
+    "id": "SC001c",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Bóng đen một tỷ phú đứng trước bức tường kính lớn hiển thị các biểu đồ cột tài sản tăng vọt liên tục.",
+    "sentences": [
+      "Thật dễ nói về một thế giới không tiền khi bạn đang ngồi trên đỉnh của tháp tài sản hàng trăm tỷ đô la."
+    ]
+  },
+  {
+    "id": "SC002a",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Bóng đen một nhân viên văn phòng ngồi gục đầu mệt mỏi tại bàn làm việc ngập tràn tài liệu dưới ánh đèn huỳnh quang.",
+    "sentences": [
+      "Nhưng với đại đa số chúng ta, những người vẫn thức dậy mỗi ngày để đánh đổi thời gian lấy cơm áo gạo tiền."
+    ]
+  },
+  {
+    "id": "SC002b",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Bóng đen dòng người đi xe máy chen chúc kẹt cứng nhau trên đường phố dưới trời mưa tầm tã trong giờ cao điểm chiều tối.",
+    "sentences": [
+      "Lời tiên tri đó nghe giống như một sự xa xỉ mơ hồ, hoặc một trò cường điệu của giới tài phiệt."
+    ]
+  },
+  {
+    "id": "SC002c",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Bàn tay của một nhân viên văn phòng cầm điện thoại hiển thị ứng dụng ngân hàng nhấp nháy dòng chữ đỏ cảnh báo số dư thấp 'LOW BALANCE'.",
+    "sentences": [
+      "Làm sao tiền bạc có thể vô nghĩa khi các hóa đơn hàng tháng vẫn bám đuổi bạn từng ngày?"
+    ]
+  },
+  {
+    "id": "SC003a",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Đồ họa phẳng vector của một băng chuyền nhà máy vận chuyển các thùng hàng nông sản và linh kiện điện tử nối đuôi nhau.",
+    "sentences": [
+      "Tuy nhiên, đằng sau câu nói kích thích đó, có một quy luật kinh tế học rất thực tế."
+    ]
+  },
+  {
+    "id": "SC003b",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Hai bàn tay đang đếm các tờ tiền giấy USD trên mặt bàn gỗ phẳng một cách chậm rãi.",
+    "sentences": [
+      "Nền kinh tế thực chất không phải là các tờ giấy in tiền.",
+      "Nó là dòng chảy của hàng hóa và dịch vụ thực tế."
+    ]
+  },
+  {
+    "id": "SC003c",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Màn hình máy tính hiển thị bảng cơ sở dữ liệu số liệu tài chính phẳng có các dòng số nhấp nháy liên tục.",
+    "sentences": [
+      "Và tiền tệ chỉ là một cơ sở dữ liệu để ghi nhận đóng góp lao động và phân bổ tài nguyên khan hiếm."
+    ]
+  },
+  {
+    "id": "SC004a",
+    "chapter": "01",
+    "duration_sec": 4,
+    "visual_summary": "Cánh tay robot cơ khí tự động lắp ráp linh kiện điện tử trên dây chuyền sản xuất nhà máy phẳng.",
+    "sentences": [
+      "Nhưng điều gì xảy ra khi robot Optimus biến lao động thành thứ thừa thãi?"
+    ]
+  },
+  {
+    "id": "SC004b",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Màn hình máy tính hiển thị thông báo lỗi lớn màu đỏ nhấp nháy chữ tiếng Anh \"DATABASE ERROR\" trên nền đen.",
+    "sentences": [
+      "Khi cơ sở dữ liệu này bị lỗi cấu trúc, tài sản của bạn sẽ được định giá lại ra sao?"
+    ]
+  },
+  {
+    "id": "SC005a",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Đồ họa vector phẳng của một bộ vi xử lý máy tính khổng lồ phát sáng chữ tiếng Anh \"AGI 2026\" ở trung tâm.",
+    "sentences": [
+      "Musk dự báo trí tuệ nhân tạo tổng quát AGI sẽ đạt được vào năm hai mươi hai mươi sáu hoặc hai mươi hai mươi bảy."
+    ]
+  },
+  {
+    "id": "SC005b",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Màn hình laptop hiển thị giao diện chatbot AI đang tự động xuất ra các dòng câu trả lời tiếng Anh cực kỳ nhanh.",
+    "sentences": [
+      "Trí tuệ nhân tạo tổng quát nghĩa là một hệ thống AI có khả năng tư duy và tự học hỏi vượt trội hơn con người ở mọi lĩnh vực."
+    ]
+  },
+  {
+    "id": "SC005c",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Màn hình thiết kế 2D hiển thị mã nguồn lập trình tự động chạy và tự động hoàn thiện ứng dụng phần mềm.",
+    "sentences": [
+      "Nó có thể tự học, tự thiết kế, tự lập trình và tự giải quyết mọi vấn đề phức tạp."
+    ]
+  },
+  {
+    "id": "SC006a",
+    "chapter": "01",
+    "duration_sec": 4,
+    "visual_summary": "Một chuỗi mã nguồn máy tính tự động thực hiện lệnh sao chép (copy-paste) liên tục lấp đầy màn hình lập trình.",
+    "sentences": [
+      "Nhưng điều đáng sợ nhất là cơ chế tự cải tiến đệ quy của nó."
+    ]
+  },
+  {
+    "id": "SC006b",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Bóng đen của một lập trình viên gõ bàn phím trước màn hình máy tính phát sáng giữa phòng tối.",
+    "sentences": [
+      "Khi một phiên bản AI đạt đến độ thông minh của một kỹ sư lập trình xuất sắc nhất."
+    ]
+  },
+  {
+    "id": "SC006c",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Mã lập trình màu xanh lục tự chạy nhanh trên màn hình đen kết thúc bằng bảng báo đỏ \"SELF-COMPILING\".",
+    "sentences": [
+      "Nhiệm vụ đầu tiên của nó là viết mã nguồn để tự nâng cấp chính mình."
+    ]
+  },
+  {
+    "id": "SC006d",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Đồ họa phẳng vector một bảng mạch điện tử có các đèn chip LED màu xanh neon sáng bùng lên liên tiếp.",
+    "sentences": [
+      "Sau khi tự nâng cấp, nó trở nên thông minh hơn gấp mười lần."
+    ]
+  },
+  {
+    "id": "SC006e",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Biểu đồ cột phẳng vector 2D hiển thị các cột giá trị tự động mọc cao lên liên tục nối tiếp nhau vượt khung hình.",
+    "sentences": [
+      "Phiên bản mới thông minh hơn này lại tiếp tục tự viết mã để nâng cấp một lần nữa."
+    ]
+  },
+  {
+    "id": "SC007a",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Đồng hồ số phẳng hiển thị các con số phần trăm giây chạy thay đổi điên cuồng ở tốc độ cực cao.",
+    "sentences": [
+      "Vòng lặp tự cải tiến này diễn ra liên tục với tốc độ của máy tính, chỉ trong vài mili giây."
+    ]
+  },
+  {
+    "id": "SC007b",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Một người dùng ngồi gõ phím mỏi mệt bên cạnh một chiếc laptop đang tự động phân tích hàng trăm trang dữ liệu trong chớp mắt.",
+    "sentences": [
+      "Nó không cần chờ đợi hàng triệu năm tiến hóa sinh học như con người."
+    ]
+  },
+  {
+    "id": "SC007c",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Biểu đồ phẳng vector hiển thị một đường cong đồ thị màu đỏ dựng đứng vút lên góc trên bên phải màn hình.",
+    "sentences": [
+      "Chu kỳ tự cải tiến đệ quy này hoạt động theo cấp số nhân."
+    ]
+  },
+  {
+    "id": "SC007d",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Bóng đen một người dùng ngồi nhỏ bé trước màn hình máy tính khổng lồ hiển thị logo AI phát sáng lấn át không gian.",
+    "sentences": [
+      "Nó biến một trí tuệ bằng con người thành một siêu trí tuệ vượt tầm kiểm soát chỉ trong vài tuần."
+    ]
+  },
+  {
+    "id": "SC008a",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Dây chuyền sản xuất tự động lắp ráp robot Optimus thế hệ mới trong xưởng công nghệ cao.",
+    "sentences": [
+      "Song song đó, Tesla lên kế hoạch sản xuất hàng loạt robot hình người Optimus thế hệ ba vào mùa hè năm hai mươi hai mươi sáu."
+    ]
+  },
+  {
+    "id": "SC008b",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Đồ họa robot Optimus đứng cạnh nhãn giá tiền vector màu xanh lá ghi chữ tiếng Anh \"$25,000\".",
+    "sentences": [
+      "Với giá thành chỉ từ hai mươi nghìn đến ba mươi nghìn đô la, robot sẽ dần thay thế hoàn toàn lao động chân tay."
+    ]
+  },
+  {
+    "id": "SC009a",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Robot hình người Optimus bưng khay đồ ăn phục vụ khách hàng trong một quán ăn tối giản phẳng 2D.",
+    "sentences": [
+      "Khi chi phí lao động biến mất, một kỷ nguyên hậu khan hiếm sẽ mở ra."
+    ]
+  },
+  {
+    "id": "SC009b",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Đồ họa phẳng vector khu dân cư hiện đại lắp đặt pin mặt trời và chiếc xe điện tự lái di chuyển trên đường phố sạch sẽ.",
+    "sentences": [
+      "Hậu khan hiếm nghĩa là trạng thái mà mọi nhu cầu sinh tồn cơ bản của con người đều được đáp ứng gần như miễn phí."
+    ]
+  },
+  {
+    "id": "SC009c",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Đồ họa phẳng hiển thị 4 biểu tượng nhu cầu: quả táo (FOOD), ngôi nhà (SHELTER), tia sét (ENERGY), chữ thập đỏ (HEALTHCARE) phát sáng.",
+    "sentences": [
+      "Thực phẩm, nhà ở, năng lượng và y tế sẽ được sản xuất tự động với chi phí biên tiệm cận bằng không."
+    ]
+  },
+  {
+    "id": "SC009d",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Bóng đen một nhân viên văn phòng trẻ ngồi thư thái uống cà phê trên ghế sofa bên cửa sổ quán cà phê ngập tràn nắng ấm.",
+    "sentences": [
+      "Bạn không cần phải bán thời gian và sức lao động chỉ để duy trì sự sống."
+    ]
+  },
+  {
+    "id": "SC010a",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Bóng đen một người shipper mặc áo khoác và đội mũ bảo hiểm mỉm cười nhận một tấm séc ghi chữ tiếng Anh 'UHI CHECK' từ nhân viên giao dịch.",
+    "sentences": [
+      "Musk tin rằng chính phủ liên bang sẽ phát các tấm séc Thu nhập Cao Phổ quát, viết tắt là UHI, cho toàn dân."
+    ]
+  },
+  {
+    "id": "SC010b",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Cán cân so sánh hai tấm séc vector: tấm séc nhỏ \"OLD WELFARE\" bị đè bẹp bởi tấm séc khổng lồ \"NEW UHI\".",
+    "sentences": [
+      "Giải pháp này hào phóng hơn nhiều mức trợ cấp tối thiểu cũ."
+    ]
+  },
+  {
+    "id": "SC011a",
+    "chapter": "01",
+    "duration_sec": 3,
+    "visual_summary": "Bóng đen một nhân viên văn phòng trẻ mở ví da ra xem và thấy bên trong hoàn toàn trống rỗng không có tiền mặt.",
+    "sentences": [
+      "Nhưng tiền giấy khi đó còn giá trị gì?"
+    ]
+  },
+  {
+    "id": "SC011b",
+    "chapter": "01",
+    "duration_sec": 4,
+    "visual_summary": "Tờ tiền USD giấy biến đổi hình dạng thành dải dữ liệu số 0 và 1 chạy trên màn hình xanh lá.",
+    "sentences": [
+      "Musk khẳng định tiền tệ trong tương lai sẽ ngừng có ý nghĩa."
+    ]
+  },
+  {
+    "id": "SC011c",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Ba cột trụ vector phẳng đại diện cho 3 sức mạnh: cột phát điện (ELECTRICITY), siêu máy tính (COMPUTING), tàu logistic (SHIPPING).",
+    "sentences": [
+      "Tiền tệ của tương lai về cơ bản sẽ là công suất điện năng, năng lực tính toán và trọng tải vật lý."
+    ]
+  },
+  {
+    "id": "SC011d",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Trạm biến áp điện khổng lồ 2D phẳng hiển thị biểu tượng tia sét màu vàng sáng chói bên cạnh chữ tiếng Anh \"MEGAWATTS\".",
+    "sentences": [
+      "Siêu AI sẽ không quan tâm đến đô la hay tiền pháp định, nó chỉ giao dịch bằng năng lượng oát."
+    ]
+  },
+  {
+    "id": "SC012a",
+    "chapter": "01",
+    "duration_sec": 3,
+    "visual_summary": "Đồ họa phẳng dấu chấm hỏi khổng lồ màu đỏ rực hiện lên nổi bật giữa màn hình tối.",
+    "sentences": [
+      "Nhưng đây mới là nghịch lý thực sự."
+    ]
+  },
+  {
+    "id": "SC012b",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Một chàng thanh niên trẻ đứng chọn chai sữa trong siêu thị mini nhưng nhãn giá hiển thị chữ tiếng Anh \"$0\".",
+    "sentences": [
+      "Dù thực phẩm hay hàng hóa tiêu dùng có rẻ như không khí, sự khan hiếm không biến mất."
+    ]
+  },
+  {
+    "id": "SC012c",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Chiếc chìa khóa vàng vector ghi chữ tiếng Anh \"SCARCITY ASSETS\" đặt an toàn trong tủ kính bảo mật trưng bày.",
+    "sentences": [
+      "Nó chỉ nén lại ở một nhóm tài sản khác có tổng bằng không."
+    ]
+  },
+  {
+    "id": "SC012d",
+    "chapter": "01",
+    "duration_sec": 5,
+    "visual_summary": "Bóng đen một nhân viên văn phòng ngồi stressed tại bàn làm việc, trên màn hình máy tính hiển thị biểu đồ cắm mũi tên đỏ đi xuống ví tiền của anh ta.",
+    "sentences": [
+      "Và đó là nơi túi tiền của bạn thực sự bị đe dọa."
+    ]
+  },
+  {
+    "id": "SC013a",
+    "chapter": "01",
+    "duration_sec": 2,
+    "visual_summary": "Logo X-Economic phẳng màu trắng nổi bật ở trung tâm màn hình nền tối.",
+    "sentences": [
+      "Đây là X-Economic."
+    ]
+  },
+  {
+    "id": "SC013b",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Bản đồ phẳng vector kết nối từ trung tâm đến các thành phố lớn trên thế giới bằng các đường truyền dữ liệu sáng rực.",
+    "sentences": [
+      "Và hôm nay, chúng ta sẽ nhìn vào cơ chế kinh tế thực tế đằng sau tuyên bố tiền bạc sẽ biến mất của Elon Musk."
+    ]
+  },
+  {
+    "id": "SC013c",
+    "chapter": "01",
+    "duration_sec": 7,
+    "visual_summary": "Đồ họa phẳng tài sản (ngôi nhà, cổ phiếu) được quét qua bởi tia laser xanh lá cây quét dọc từ trên xuống dưới.",
+    "sentences": [
+      "Chúng ta sẽ cùng chuẩn bị cho một thế giới mà ở đó giá trị của mọi tài sản bạn đang sở hữu sẽ bị định nghĩa lại."
+    ]
+  },
+  {
+    "id": "SC013d",
+    "chapter": "01",
+    "duration_sec": 6,
+    "visual_summary": "Nút SUBSCRIBE màu đỏ rực của YouTube hiển thị chính giữa màn hình với hiệu ứng sóng lan tỏa sang hai bên.",
+    "sentences": [
+      "Sự đồng hành của quý vị qua nút đăng ký kênh sẽ là động lực rất lớn để X-Economic tiếp tục cùng quý vị giải mã những dòng chảy vĩ mô tiếp theo."
+    ]
+  }
+]

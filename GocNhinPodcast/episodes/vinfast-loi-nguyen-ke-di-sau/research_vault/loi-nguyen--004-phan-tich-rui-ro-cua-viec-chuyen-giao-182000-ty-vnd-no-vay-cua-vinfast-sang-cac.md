@@ -1,0 +1,347 @@
+---
+title: "Phân tích rủi ro của việc chuyển giao 182.000 tỷ VND nợ vay của VinFast sang các đối tác tư nhân và ông Phạm Nhật Vượng: ai thực sự là người gánh chịu rủi ro dòng tiền và tác động chéo đến Vingroup cũng như hệ thống ngân hàng nội địa Việt Nam? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-10T08:37:22.959Z
+notebook_url: "https://notebooklm.google.com/notebook/1ff29234-3f66-42df-8f55-15d6b2c88321"
+session_id: "a8014d29"
+citations_count: 49
+sources:
+  - "Announcement of the proposed corporate restructuring transaction - SEC.gov"
+  - "Proxy Statement - SEC.gov"
+  - "Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses"
+  - "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd."
+  - "VinFast to sell manufacturing arm and plants to offload $7B debt - AfMA"
+  - "Re-Engineering the EV Paradigm: Strategic De-Leveraging, Asset-Light Transformation, and Infrastructure Ecosystem Expansion of VinFast Auto"
+  - "VinFast to sell manufacturing arm in $530 mln restructuring, adopts 'asset-light' model"
+  - "[Discussion] Analyzing VinFast's recent SEC filing: The shift to an \"asset-light\" model and Mr. Chairman to take over all debt : r/VinFastCommunity - Reddit"
+  - "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov"
+---
+
+# Phân tích rủi ro của việc chuyển giao 182.000 tỷ VND nợ vay của VinFast sang các đối tác tư nhân và ông Phạm Nhật Vượng: ai thực sự là người gánh chịu rủi ro dòng tiền và tác động chéo đến Vingroup cũng như hệ thống ngân hàng nội địa Việt Nam? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-10T08:37:22.959Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/1ff29234-3f66-42df-8f55-15d6b2c88321)
+
+## Answer
+
+BÁO CÁO PHÂN TÍCH RỦI RO CHUYỂN GIAO NỢ VAY VÀ TÁC ĐỘNG HỆ THỐNG CỦA VINFAST
+1. Căn cứ pháp lý và Nguồn dữ liệu
+Báo cáo Mẫu 6-K (Form 6-K) nộp lên Ủy ban Chứng khoán Mỹ (SEC) ngày 12/05/2026
+1
+,
+2
+.
+Bản Cáo bạch gửi cổ đông (Proxy Statement) nộp SEC năm 2026
+3
+,
+4
+.
+Báo cáo Thường niên Mẫu 20-F (Form 20-F) năm tài chính 2025 (phát hành tháng 4/2026)
+5
+,
+6
+,
+7
+.
+Báo cáo phân tích chuyên sâu về chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd (Năm 2026)
+8
+,
+9
+.
+2. Bản chất giao dịch và người thực sự gánh chịu rủi ro dòng tiền Theo phương án tái cấu trúc tháng 5/2026, VinFast chuyển nhượng 100% mảng sản xuất (công ty VFTP) cho nhóm nhà đầu tư tư nhân do Công ty Đầu tư Tương Lai (Tuong Lai) dẫn đầu
+10
+. Nhóm này sẽ tiếp nhận toàn bộ khối nợ tài chính của mảng sản xuất, ước tính lên tới 182.000 tỷ VND (khoảng 6,9 - 7,0 tỷ USD) tính đến ngày 31/03/2026
+11
+,
+12
+.
+Về mặt pháp lý: Thực thể VFTP và nhóm cổ đông mới (Đầu tư Tương Lai dự kiến nắm 95,5%, ông Phạm Nhật Vượng nắm dưới 5%) sẽ chịu trách nhiệm trả nợ
+13
+,
+14
+,
+11
+.
+Về mặt thực tế: Rủi ro dòng tiền thực chất vẫn nằm trong hệ sinh thái của nhà sáng lập. Công ty Đầu tư Tương Lai (tiền thân là Novatech) được kiểm soát bởi ông Nguyễn Hoài Nam - một nhân vật có lịch sử điều hành và hợp tác gắn bó mật thiết với các thương vụ tái cấu trúc của Vingroup
+15
+,
+16
+,
+17
+. Bên cạnh đó, các cơ chế chuyển đổi cổ phiếu ưu đãi (DPS) hiện đã được điều chỉnh để ràng buộc trực tiếp với cổ phần cá nhân của ông Vượng hoặc các pháp nhân do ông kiểm soát
+18
+,
+19
+,
+20
+. Giới phân tích đánh giá đây là một cuộc "tái cấu trúc hệ sinh thái có kiểm soát" nhằm dọn sạch bảng cân đối kế toán cho pháp nhân niêm yết tại Mỹ (VinFast Auto Ltd.), trong khi rủi ro thực tế được luân chuyển về phía cá nhân nhà sáng lập
+21
+,
+22
+,
+23
+.
+3. Tác động chéo đến năng lực tài chính của Tập đoàn Vingroup Mặc dù VinFast Auto Ltd. đã "sạch nợ", Tập đoàn Vingroup (mẹ tại Việt Nam) vẫn phải đối mặt với rủi ro tín dụng rất lớn. Trong vai trò công ty mẹ và nhà tài trợ cốt lõi, Vingroup hiện đang đứng ra bảo lãnh (guarantor) cho hàng loạt các khoản nợ vay quốc tế và trái phiếu trong nước của VFTP, bao gồm:
+Khoản vay hợp vốn 950 triệu USD (Hermes Covered Term Loan)
+24
+,
+25
+.
+Khoản vay kỳ hạn 200 triệu USD
+26
+,
+27
+.
+Gói tài chính xanh 132 triệu USD từ Ngân hàng Phát triển Châu Á (ADB)
+28
+,
+29
+.
+Bảo lãnh cho các lô trái phiếu trị giá hàng chục nghìn tỷ đồng phát hành qua TCBS (11.500 tỷ VND) và VPBankS (2.500 tỷ VND)
+30
+,
+31
+.
+Ngoài ra, Vingroup đã cam kết cấp các khoản vay bổ sung lên tới 35.000 tỷ VND (1,4 tỷ USD) cho VinFast đến hết tháng 11/2026
+32
+,
+33
+. Nếu mô hình gia công của VFTP không tạo đủ dòng tiền để tự trả nợ, các điều khoản vi phạm chéo (cross-default) có thể bị kích hoạt, buộc Vingroup phải gánh vác nghĩa vụ thanh toán thay
+34
+,
+35
+,
+36
+.
+4. Rủi ro hệ thống đối với Ngân hàng nội địa Việt Nam Bên cạnh Vingroup, hệ thống ngân hàng nội địa Việt Nam đang gánh chịu rủi ro trực tiếp từ khối nợ của VFTP thông qua việc cấp tín dụng và cung cấp Thư tín dụng dự phòng (SBLC) để bảo lãnh cho các khoản vay hợp vốn bằng ngoại tệ. Cụ thể:
+Techcombank (TCB): Đứng ra bảo lãnh cho hai khoản vay hợp vốn trị giá 230 triệu USD và 150 triệu USD
+37
+,
+38
+.
+VietinBank: Cấp SBLC bảo lãnh khoản vay xanh 100 triệu USD (Chi nhánh Thanh Xuân) và khoản vay 95 triệu USD (Chi nhánh Hà Nội)
+39
+,
+40
+,
+41
+,
+42
+.
+MBBank (MBB): Bảo lãnh cho khoản vay kỳ hạn 170 triệu USD
+43
+,
+44
+.
+SHB: Bảo lãnh khoản vay kỳ hạn 115 triệu USD
+45
+,
+46
+.
+HDBank: Cấp trực tiếp khoản vay 3.100 tỷ VND (tài sản đảm bảo là nhà máy Hà Tĩnh)
+47
+.
+Kết luận: Việc chuyển giao 182.000 tỷ VND nợ vay thực chất là thủ thuật chuyển dịch rủi ro từ pháp nhân đại chúng (VinFast Auto Ltd.) sang khu vực tư nhân (hệ sinh thái cá nhân của ông Vượng). Tuy nhiên, do cấu trúc bảo lãnh đan chéo, nếu mô hình "Asset-Light" mới không mang lại dòng tiền như kỳ vọng, rủi ro vỡ nợ sẽ dội ngược trực tiếp vào bảng cân đối kế toán của Vingroup và làm phát sinh nợ xấu tiềm tàng quy mô hàng tỷ USD tại hàng loạt các ngân hàng thương mại lớn của Việt Nam (TCB, VietinBank, MBB, SHB, HDBank)
+34
+,
+48
+,
+49
+.
+
+## Sources
+
+### [1] Announcement of the proposed corporate restructuring transaction - SEC.gov
+
+> EX-99.1 2 vfsex99-1.htm EXHIBIT 99.1 Exhibit 99.1 On May 12, 2026, VinFast Auto Ltd. (“VinFast” or the “Company”) announced plans to split certain assets of VinFast Trading and Production JSC (“VFTP”), a subsidiary of the Company, into a newly formed entity (the “Split”) and subsequently divest all ordinary shares held by the Company in VFTP (the “Share Transfer”, collectively with the Split, the “Proposed Transactions”). The Proposed Transactions will result in the separation and transfer of the Company's manufacturing operations in Vietnam to other parties.
+
+### [2] Proxy Statement - SEC.gov
+
+> 16 PROXY STATEMENT TO SHAREHOLDERS 1. THE PROPOSED TRANSACTIONS 1.1 Overview of the Proposed Transactions On May 12, 2026, the Company announced a proposed corporate restructuring that would reorganize the Company's manufacturing operations in Vietnam under VinFast Trading and Production JSC (“ VFTP ”) and subsequently transfer, sell and dispose of all of its interest in VFTP, the Vietnamese manufacturing subsidiary holding the Company's manufacturing operations in Vietnam (the “ Proposed Transactions ”).
+
+### [3] Proxy Statement - SEC.gov
+
+> TABLE OF CONTENTS Page ABOUT THIS PROXY STATEMENT 1 CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 2 INDICATIVE TIMETABLE 3 INFORMATION ABOUT THE EXTRAORDINARY GENERAL MEETING 3 DEFINITIONS 6 QUESTIONS AND ANSWERS ABOUT THE PROPOSED TRANSACTIONS 8 RISK FACTORS 15 PROXY STATEMENT TO SHAREHOLDERS 19 1. THE PROPOSED TRANSACTIONS 19 2. INFORMATION ABOUT VFTP 31 3. INFORMATION ABOUT THE PURCHASERS 33 4. INFORMATION REGARDING THE COMPANY AND VFTP AFTER THE PROPOSED TRANSACTIONS 35 5. RATIONALE FOR AND BENEFITS OF THE PROPOSED TRANSACTIONS 37 6. FINANCIAL INFORMATION REGARDING THE PROPOSED TRANSACTIONS 38 7. INTERESTS OF DIRECTORS 39 8. ADVICE OF THE INDEPENDENT FINANCIAL ADVISER 39 9. RECOMMENDATION 40 10. EXTRAORDINARY GENERAL MEETING 40 11. ACTION TO BE TAKEN BY SHAREHOLDERS 40 APPENDIX A – CORPORATE INFORMATION A-1 APPENDIX B – DETAILS OF PROPOSED KEY ASSETS AND LIABILITIES OF VFTP AND VFVN AFTER THE SPLIT B-1 APPENDIX C – OPINION OF GRANT THORNTON (VIETNAM) ADVISORY COMPANY LIMITED C-1 APPENDIX D – NOTICE OF EXTRAORDINARY GENERAL MEETING D-1 APPENDIX E – PROXY CARD E-1 APPENDIX F – PROXY FORM F-1 APPENDIX G – SHARE PURCHASE AGREEMENT G-1 APPENDIX H – KEY TERMS OF MANUFACTURING AGREEMENT H-1
+
+### [4] Proxy Statement - SEC.gov
+
+> The headings in this Proxy Statement are for ease of reference only and are not to be taken into account in the interpretation or construction of this Proxy Statement or any of its contents. Unless otherwise noted, all translations from VND to U.S. dollars in this Proxy Statement are made at a rate of VND25,102 to $1.00. 1 CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS This Proxy Statement and other documents referred to herein contain, or may contain, forward-looking statements that involve risks and uncertainties relating to the Proposed Transactions. Forward-looking statements include but are not limited to those using words such as “seek”, “expect”, “anticipate”, “estimate”, “believe”, “intend”, “project”, “plan”, “strategy”, “forecast” and similar expressions or future or conditional verbs such as “will”, “would”, “should”, “could”, “may” and “might”. These statements reflect the Company's current expectations, beliefs, hopes, intentions or strategies regarding the future and assumptions in light of currently available information. Such forward-looking statements are not guarantees of future performance or events and involve known and unknown risks and uncertainties. Accordingly, actual results may differ materially from those described in such forward-looking statements. Shareholders of the Company should not place undue reliance on such forward-looking statements, and the Company does not undertake any obligation to update publicly or revise any forward-looking statements. For information about other potential factors that could affect the Company's business and financial results, refer to the “Risk Factors” section of this Proxy Statement and the risk factors in the Company's Annual Report on Form 20-F filed with the U.S. Securities and Exchange Commission (the “ Commission ”) on April 30, 2026.
+
+### [5] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> 158 ITEM 16J. INSIDER TRADING POLICIES 158 ITEM 16K. CYBERSECURITY 158 PART III 160 ITEM 17. FINANCIAL STATEMENTS 160 ITEM 18. FINANCIAL STATEMENTS 160 ITEM 19. EXHIBITS 160 EXHIBIT INDEX 160 SIGNATURES 163 i Table of Contents EXPLANATORY NOTE Except where the context otherwise requires or where otherwise indicated, the terms “VinFast,” the “Company,” the “Group,” “we,” “us,” “our,” “our Company,” and “our business” refer to VinFast Auto Ltd. and, where appropriate, its consolidated subsidiaries. References to “Vingroup” are to Vingroup Joint Stock Company, a public company listed on the Ho Chi Minh Stock Exchange, Vietnam. References to “VIG” are to Vietnam Investment Group Joint Stock Company. References to “Asian Star” are to Asian Star Trading & Investment Pte. Ltd. References to the “Initial Shareholders” are to Vingroup, Asian Star and VIG. References to the “Selling Securityholders” are to Asian Star and VIG.
+
+### [6] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> References to “VND” are to Vietnamese Dong, the legal currency of Vietnam. References to “$,” “U.S. dollars” and “USD” are to United States dollars, the legal currency of the United States. References to “CAD” are to Canadian dollars, the legal currency of Canada. References to “€” are to Euros, the legal currency of the certain member states of the European Union (the “EU”). References to “Rs.” are to the Indian Rupees, the legal currency of India. References to “IDR” are to the Indonesian Rupiah, the legal currency of the Republic of Indonesia. Unless otherwise noted, all translations from VND to U.S. dollars in this annual report on Form 20-F for the fiscal year ended December 31, 2025 (this “Annual Report”) are made at a rate of VND25,121 to $1.00, which represents the central exchange rate quoted by The State Bank of Vietnam Operations Centre as of December 31, 2025. We make no representation that any VND or U.S. dollar amounts could have been, or could be, converted into U.S. dollars or VND, as the case may be, at any particular rate, or at all. Certain amounts shown in this Annual Report or derived from the U.S. GAAP financial statements have been rounded or truncated as deemed appropriate by the management of VinFast. Accordingly, numerical figures shown as totals in some tables may not be an arithmetic aggregation of the figures that precede them.
+
+### [7] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> (Neutral) Form Type 20-F Rhea-AI Filing Summary English Italian Spanish German Korean French Arabic VinFast Auto Ltd. reports in its Form 20-F large ongoing losses, tight liquidity and substantial business risks as it scales its global EV operations. The company recorded a 2025 net loss of VND99,582.8 billion (about $3,964.1 million) and used VND44,461.2 billion ($1,769.9 million) in operating cash. Current liabilities exceeded current assets by VND79,319.2 billion ($3,157.5 million), and total debt reached VND82,164.2 billion ($3,270.7 million), with 2026 debt service obligations of VND34,615.9 billion ($1,378.0 million).
+
+### [8] Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.
+
+> Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd. Sự phát triển của thị trường xe điện toàn cầu bước vào giai đoạn phân hóa mạnh mẽ, buộc các nhà sản xuất phải liên tục điều chỉnh cấu trúc chi phí và mô hình vận hành nhằm tối ưu hóa dòng tiền.[1, 2] Trong bối cảnh đó, VinFast Auto Ltd. đã thực hiện một cuộc xoay trục chiến lược toàn diện, chuyển đổi từ mô hình tích hợp dọc thâm dụng vốn sang mô hình "nhẹ tài sản" (Asset-Light) tại thị trường nội địa thông qua đợt tái cấu trúc quy mô lớn.[3, 4] Bằng cách tách biệt tài sản sở hữu trí tuệ, nghiên cứu phát triển và mạng lưới phân phối khỏi hạ tầng nhà máy sản xuất vật lý, doanh nghiệp đặt mục tiêu dọn dẹp bảng cân đối kế toán để hướng tới mục tiêu hòa vốn và đạt lợi nhuận.[1, 4] Song song với đó, việc duy trì doanh thu bán sỉ thông qua đối tác liên quan Green and Smart Mobility (GSM) cùng chiến lược xây dựng hệ thống trạm sạc V-Green độc quyền đang tạo nên một cấu trúc phòng thủ vững chắc cho hãng tại thị trường Việt Nam trước làn sóng thâm nhập của các thương hiệu quốc tế.[3, 5, 6]
+
+### [9] Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.
+
+> Sự phân tách VFTP và chiến lược nhẹ tài sản Vào ngày 12 tháng 5 năm 2026, VinFast đã công bố kế hoạch tái cấu trúc doanh nghiệp mang tính bước ngoặt liên quan đến việc phân tách công ty con Công ty Cổ phần Sản xuất và Kinh doanh VinFast (VFTP).[3, 7] Theo phương án được đại hội đồng cổ đông bất thường thông qua ngày 27 tháng 5 năm 2026, các hoạt động cốt lõi mang lại giá trị gia tăng cao bao gồm nghiên cứu và phát triển (R&D) toàn cầu, sở hữu trí tuệ (IP), hệ thống bán hàng và dịch vụ hậu mãi sẽ được chuyển giao sang một pháp nhân mới thành lập mang tên Công ty Cổ phần VinFast Việt Nam (VFVN).[3, 7, 8] VFVN tiếp tục tồn tại dưới dạng công ty con trực tiếp nắm giữ 99,9% quyền biểu quyết bởi VinFast Auto Ltd. và có mức vốn điều lệ dự kiến đạt 5.184 tỷ VND.[7, 8, 9]
+
+### [10] Proxy Statement - SEC.gov
+
+> 17 VFTP shall continue manufacturing motor vehicles and related products in Vietnam following the Split, and manufacture and supply VinFast-branded vehicles to the Company pursuant to a Manufacturing Agreement (as detailed below) to be entered into between VFVN and VFTP. VFVN's primary focus will be on trading activities, aftersales services, and research and development on engineering and technology in Vietnam and globally. (b) Share Transfer : on May 12, 2026, the Company and the Purchasers entered into the Share Purchase Agreement, pursuant to which the Company will transfer all of its ordinary shares in VFTP (the “ VFTP Ordinary Shares ”) to the Purchasers, subject to, among other things, (i) the completion of the Split, (ii) the Company obtaining all necessary consents, approvals, waivers and/or confirmations required pursuant to any credit facility agreements or bonds that shall be outstanding as of the closing date of the Share Transfer, and (iii) the approval of the Share Transfer by Shareholders, among other conditions.
+
+### [11] Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.
+
+> Cơ chế tài chính của thương vụ thoái vốn và cấu trúc nợ Động lực tài chính quan trọng nhất đằng sau việc thoái vốn khỏi VFTP là giải phóng bảng cân đối kế toán khỏi áp lực nợ nần.[1] Bằng việc chuyển nhượng mảng sản xuất vật lý, nhóm mua mới (bao gồm tỷ phú Phạm Nhật Vượng tham gia với vai trò nhà đầu tư thiểu số) đã đồng thời tiếp quản toàn bộ các khoản nợ tài chính và nghĩa vụ nợ phải trả hiện hữu của VFTP đối với các chủ nợ bên thứ ba, ước tính lên tới khoảng 182 nghìn tỷ VND (tương đương khoảng 6,9 tỷ USD).[1, 7, 11] Việc loại bỏ gánh nặng nợ khổng lồ này ra khỏi báo cáo tài chính hợp nhất của VinFast Auto Ltd. giúp công ty cải thiện đáng kể các chỉ số an toàn tài chính, giảm chi phí lãi vay và giảm thiểu rủi ro thắt chặt dòng tiền.[1, 8] Trước thời điểm thực hiện giao dịch, cổ phiếu VinFast giao dịch trên sàn NASDAQ (mã VFS) ở mức giá 3,89 USD, tương đương vốn hóa thị trường khoảng 9,101 tỷ USD, trong khi nợ ròng tại ngày 31 tháng 12 năm 2025 ghi nhận ở mức âm 6,874 tỷ USD.[10]
+
+### [12] VinFast to sell manufacturing arm and plants to offload $7B debt - AfMA
+
+> VinFast to sell manufacturing arm and plants to offload $7B debt By Antonina Joson May 27, 2026 May 29th, 2026 News , Southeast Asia No Comments Share Share Tweet Share Pin Love 0 Vietnamese carmaker VinFast is set to sell its manufacturing business and two main factories to offload USD $7 billion (AUD $9.7 billion) worth of debt. The big deal Last week, VinFast revealed plans to sell its Vietnam-based manufacturing business along with two main factories to a group of investors. The deal is valued at VND 13.3 trillion or AUD $704 million, excluding the assumption of VinFast's USD $7 billion debt. Once this multi-party deal is finalised, VinFast will be cleared of its remaining debt.
+
+### [13] Re-Engineering the EV Paradigm: Strategic De-Leveraging, Asset-Light Transformation, and Infrastructure Ecosystem Expansion of VinFast Auto
+
+> The purchasing consortium is led by Future Investment Research and Development Joint Stock Company (formerly known as Novatech R&D JSC, which was originally spun out of VFTP to hold IP assets before being acquired and subsequently divested by billionaire founder Pham Nhat Vuong).[10] The initial transaction allocation was structured as follows: Future Investment Research and Development JSC : 49.0% [17] Ngoc Quy Trading Investment and Development Co., Ltd. : 46.5% [17] Pham Nhat Vuong (Founder & CEO of VinFast) : 4.4% (acting as a minority investor) [2, 17]
+
+### [14] Re-Engineering the EV Paradigm: Strategic De-Leveraging, Asset-Light Transformation, and Infrastructure Ecosystem Expansion of VinFast Auto
+
+> Following the completion of these initial transactions, a series of planned internal transfers is designed to consolidate ownership, ultimately making Future Investment the absolute controlling shareholder with a 95.5% stake in VFTP, with Pham Nhat Vuong maintaining a personal minority holding of under 5%.[10, 17] -------------------------------------------------------------------------------- Balance Sheet Restructuring and Consolidated Debt Eradication The primary strategic driver behind this restructuring is a massive de-leveraging of VinFast’s consolidated balance sheet.[10] By selling the VFTP entity, the buyer consortium agrees not only to pay the $530 million cash purchase price but also to directly assume the vast majority of VinFast's financial liabilities.[7, 10]
+
+### [15] Proxy Statement - SEC.gov
+
+> The valuation report used an exchange rate of VND25,401 to US$1.00 for translation purposes 30 In January 2026, Mr. Pham transferred all of his equity interest in Tuong Lai to Mrs. Nguyen. The Company understands that the primary purpose of Mr. Pham's acquisition of Tuong Lai was to support the Company and provide additional capital resources to facilitate VinFast's development. Accordingly, after a suitable investor with the capability and interest to develop the business was identified, Mr. Pham proceeded with the sale of his interest in Tuong Lai. The Company was not a party to this transaction.
+
+### [16] Proxy Statement - SEC.gov
+
+> The shareholders of Tuong Lai are established individual investors with experience across industrial operations, investment, and large-scale project development. Mrs. Nguyen and Mr. PKP have a track record of collaboration with Mr. Pham and have been involved in the development and operation of leading enterprises within the Vingroup ecosystem. The biographical information below is based on information provided to the Company by the Purchasers. ● Mr. Nguyen Hoai Nam is an investment executive with more than 30 years of experience in corporate finance, asset management and multinational operations. From 1992 to 1998, he served as Sales Director of 3C Corporation, where he was responsible for revenue growth and market expansion. From 1998 to 2005, Mr. Nam served as Chief Financial Officer of TTT Corporation, overseeing corporate finance, funding structures and investment planning. Since 2006, he has served as Chief Executive Officer of Berjaya Group Vietnam, where he oversees investments across real estate, hospitality, financial services, retail and entertainment sectors. In parallel with his executive roles, Mr. Nam has held various governance positions as Chairman and Board Member at organizations including Nam Huong Media & Investment JSC, Saigon Berjaya Securities JSC, Nghi Tam Village Joint Venture (InterContinental Hanoi), Berjaya Handico 12 and Vincom Retail JSC, as well as members' council positions at Jeep Vietnam (JVA Ho Chi Minh City) and Berjaya – Ho Tay Joint Venture (Sheraton Hanoi Hotel). Mr. Nam holds a Bachelor's Degree and a Master of Business Administration (MBA) in Business Administration from the University of Southern California.
+
+### [17] Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.
+
+> Trong đó, đại diện cho biên lợi nhuận định mục tiêu của nhà máy gia công.[10] Thời hạn ban đầu của hợp đồng là 5 năm, đi kèm quyền tự động gia hạn thêm 3 năm.[10] Thỏa thuận này quy định VFTP phải ưu tiên bảo vệ công suất sản xuất cho các đơn đặt hàng ràng buộc của VinFast, mặc dù đây là một hợp đồng không độc quyền.[10] Cơ cấu cổ đông của bên mua và điều chỉnh quyền chọn cổ phiếu ưu đãi Cấu trúc sở hữu của bên mua trong thương vụ VFTP thể hiện những mối liên kết sâu sắc với hệ sinh thái Vingroup.[1, 8] Công ty Cổ phần Nghiên cứu và Phát triển Đầu tư Tương Lai, đơn vị dẫn đầu liên minh mua lại, được ghi nhận có sự thay đổi cấu trúc cổ đông lớn vào tháng 5 năm 2026 khi ông Nguyễn Thế Nam trở thành cổ đông kiểm soát với tỷ lệ sở hữu 91,99% vốn góp và nắm giữ 82,58% quyền biểu quyết.[1] Trước đó, thực thể này hoạt động dưới tên gọi Novatech, một đơn vị được tách ra từ chính VinFast/VFTP.[1] Ông Nam là một nhân vật có nhiều mối liên hệ lịch sử với các thương vụ tái cấu trúc của Vingroup, tiêu biểu như việc hợp tác với quỹ đầu tư tài năng bóng đá PVF để mua lại cổ phần chi phối tại câu lạc bộ FK Sarajevo vào năm 2019, cũng như thương vụ chuyển nhượng chuỗi cửa hàng tiện lợi Shop&Go cho VinCommerce với giá trị danh nghĩa 1 USD cùng năm.[1]
+
+### [18] Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.
+
+> Nhóm 1 (Phân bổ từ DPS1 và DPS3): Gồm 872.284.776 cổ phiếu ưu đãi, áp dụng tỷ lệ quy đổi 543,2 cổ phiếu ưu đãi lấy 1 cổ phiếu phổ thông VinFast Auto Ltd. (VFS).[7] Nhóm 2 (Phân bổ từ DPS5): Gồm 4.337.975,510 cổ phiếu ưu đãi, áp dụng tỷ lệ quy đổi 1.281,1 cổ phiếu ưu đãi lấy 1 cổ phiếu phổ thông VFS.[7] Cơ chế chuyển đổi cũ gắn liền với tài sản của VFTP bị chấm dứt và thay thế bằng một thỏa thuận mới trực tiếp với ông Phạm Nhật Vượng.[4] Cổ phiếu ưu đãi giờ đây có thể được chuyển đổi thành cổ phiếu VinFast Auto Ltd. do cá nhân ông Vượng sở hữu (trực tiếp hoặc gián tiếp), hoặc được mua lại bằng tiền mặt bởi một thực thể do ông kiểm soát.[4] Sự thay đổi này ràng buộc trách nhiệm tài chính cá nhân của người sáng lập trực tiếp vào cơ chế đảm bảo của cổ phiếu ưu đãi, thay vì đặt gánh nặng lên cấu trúc pháp nhân sản xuất cũ.[4]
+
+### [19] VinFast to sell manufacturing arm in $530 mln restructuring, adopts 'asset-light' model
+
+> Following the restructuring, the preferred shares will be reallocated between the two entities. Vingroup is expected to hold approximately 5.21 billion convertible preferred shares in VFTP and about 348.4 million convertible preferred shares in VFVN. VinFast will also enter into a series of new agreements to revise conversion ratios and exercise mechanisms to align with the post-restructuring structure. Notably, after the VFTP sale is completed, existing conversion agreements tied to VFTP between VinFast and related parties will be terminated. Instead, holders of the preferred shares will enter into a new mechanism directly with Pham Nhat Vuong.
+
+### [20] VinFast to sell manufacturing arm in $530 mln restructuring, adopts 'asset-light' model
+
+> Under the arrangement, the preferred shares could be converted into VinFast shares directly or indirectly held by Vuong, or redeemed in cash by an entity controlled by him. The move indicates that guarantees underpinning the conversion mechanism will be tied more directly to the founder's ownership stake rather than the corporate structure previously used. Tags: Vietnam VinFast restructuring Vingroup Pham Nhat Vuong Comments ( 0) Latest | Most liked Tags: Vietnam VinFast restructuring Vingroup Pham Nhat Vuong Related News
+
+### [21] Re-Engineering the EV Paradigm: Strategic De-Leveraging, Asset-Light Transformation, and Infrastructure Ecosystem Expansion of VinFast Auto
+
+> -------------------------------------------------------------------------------- Strategic Synthesis and Financial Outlook The corporate maneuvers executed by VinFast and V-Green in mid-2026 reflect a highly calculated corporate strategy. Deep analysis reveals several critical second- and third-order strategic dynamics: Structural Risk Transfer The transfer of the VFTP manufacturing unit and its associated 182,000 billion VND (~$7 billion) debt load represents a massive risk-transfer mechanism.[7, 10] By migrating these liabilities from the public, NASDAQ-listed VinFast Auto Ltd. to a private consortium heavily backed by the personal assets of billionaire founder Pham Nhat Vuong, VinFast has insulated public shareholders from the immediate risk of a going-concern bankruptcy.[1, 10] This structural buffer clean-sheets the public balance sheet, transforming VFS from a high-leverage, distressed manufacturing play into an appealing asset-light stock focused on software, design, and branding.[11]
+
+### [22] [Discussion] Analyzing VinFast's recent SEC filing: The shift to an "asset-light" model and Mr. Chairman to take over all debt : r/VinFastCommunity - Reddit
+
+> Upvote 1 Downvote Reply Award Share Report Award Share YourInsider â€¢ 28d ago Itâ€™s a smart solutions! Upvote 1 Downvote Reply Award Share Report Award Share YourInsider â€¢ 28d ago This can be the answer: https://marketinsider.net/vinfast-bets-on-an-asset-light-future-to-survive-ev-war/ Upvote 1 Downvote Reply Award Share Report Award Share Apprehensive_Bass563 â€¢ 27d ago In the VinFastâ€“VFTP transaction, the buyer group is led by Tuong Lai, and VinFastâ€™s SEC filing states that Mr. Nam became the controlling shareholder of Tuong Lai in May 2026, holding approximately 91.99% of contributed capital and 82.58% of voting rights. The same filing says Tuong Lai was formerly Novatech, a VinFast/VFTP-carved-out entity that was sold to Mr. Pham Nhat Vuong in 2025 for about US$1.6 billion, before later being transferred through other individuals and ultimately controlled by Mr. Nam. This is already a strong signal that Tuong Lai is not a random outside acquirer.
+
+### [23] [Discussion] Analyzing VinFast's recent SEC filing: The shift to an "asset-light" model and Mr. Chairman to take over all debt : r/VinFastCommunity - Reddit
+
+> My blunt view: this looks less like a sale to a genuinely independent industrial buyer and more like a controlled ecosystem restructuring transaction. That does not automatically mean fraud. But for a global fund, this would trigger a serious governance haircut, because the buyerâ€™s independence is economically questionable even if it may be legally defensible. Upvote 1 Downvote Reply Award Share Report Award Share People also ask about section People also ask about Top features of the latest VinFast models
+
+### [24] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam $950,000,000 Hermes Covered Term Loan Facility On September 25, 2018, we entered into a Hermes covered term loan facility of up to $950,000,000 with the lender parties thereto, and UBS AG (as successor of Credit Suisse AG pursuant to the merger between UBS AG and Credit Suisse AG), as facility agent and security agent (as amended and/or supplemented from time to time). The facility matures 120 months from the earlier of (i) September 25, 2020, and (ii) the issuance of the last of the final acceptance certificates for the supply of deliveries and services under our supply contracts with suppliers of parts for the construction of our manufacturing facility. Borrowings under the facility bear interest at a rate of 0.75% margin per annum plus the six-month LIBOR until March 13, 2023, and after that date, at a rate per annum equal to the aggregate of 1.18% plus the six-month SOFR.
+
+### [25] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> Obligations in respect of the facility are guaranteed by Vingroup. Obligations under the facility are secured by a mortgage over a debt service reserve account, a mortgage over an onshore dividend account and certain shares of a Vingroup subsidiary which can be substituted with shares of other Vingroup subsidiaries at the borrower's discretion. The facility requires us, as well as Vingroup, as our guarantor, to comply with a number of covenants and financial tests. We are required to furnish our financial statements and a financial covenant compliance certificate, and to ensure a collateral cover ratio of at least one time when measured on a quarterly basis. As of December 31, 2023, June 30, 2024 and December 31, 2024, our collateral cover ratio in respect of the loan amounting to VND13,998.0 billion, VND13,751.2 billion and VND12,752.0 billion ($524.0 million), respectively, under this facility fell below the required ratio. We restored the required ratios as of the date of the filing of our annual report on Form 20-F for fiscal year 2024 and thereafter have remained in compliance with such ratios as of all relevant dates through the date of this Annual Report. In addition, under this facility, Vingroup must also maintain (i) consolidated net total borrowings of less than 2.25 times its equity, as measured at the end of each 12 month period ending on the last day of each half of Vingroup's financial year, or the measurement period; and (ii) a debt service coverage ratio greater than 1.15 times for each measurement period ending on or prior to December 31, 2027 and greater than 1.20 times for each measurement period ending after December 31, 2027.
+
+### [26] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam $200,000,000 Term Loan Facility On December 10, 2021, we entered into a term loan facility of up to $200,000,000 with the lender parties thereto, and UBS AG, Singapore Branch (as successor of Credit Suisse AG, Singapore Branch pursuant to the merger between UBS AG and Credit Suisse AG), as facility agent and security agent. The facility matures on the date falling 60 months after the first utilization date. Borrowings under the facility bear interest at a rate per annum equal to the aggregate of 3.35% plus the three-month LIBOR until March 8, 2023, and after that date, at a rate per annum equal to the aggregate of 3.45% plus the three-month SOFR. The facility provides for a scheduled amortization in seven unequal installments.
+
+### [27] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> 110 Table of Contents Obligations in respect of the facility are guaranteed by Vingroup and secured by a mortgage over a debt service reserve account, a mortgage over an onshore dividend account and certain shares of a Vingroup subsidiary which can be substituted with shares of other Vingroup subsidiaries at our discretion. The facility requires us, as well as Vingroup, as our guarantor, to comply with a number of covenants and financial tests. Covenants include ensuring a collateral cover ratio of at least one time when measured on a quarterly basis. Our collateral cover ratios in respect of certain loans under this facility have fallen below the required ratios on multiple quarterly testing dates in the past, including, most recently, the period ending June 30, 2024 where our collateral cover ratio in respect of the loan amounting to VND2,155.9 billion under this facility fell below the required ratio. We restored the required ratios as of the date of the filing of our annual report on Form 20-F for fiscal year 2024 and thereafter have remained in compliance with such ratios as of all relevant dates through the date of this Annual Report. In addition, under this facility, Vingroup must maintain (i) consolidated net total borrowings of less than or equal to 2.25 times its equity, as measured at the end of each 12-month period ending on the last day of each financial half year of Vingroup's financial year, or the measurement period; and (ii) a debt service coverage ratio greater than or equal to 1.15 times for each measurement period.
+
+### [28] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam $132,000,000 Green Financing Package On October 21, 2022, we entered into a common terms agreement with the lender parties thereto and Asian Development Bank (“ADB”), as lead arranger for term loan facilities amounting up to $132.0 million. Each of the ADB Facilities matures on the date falling seven years after its first utilization date. Borrowings under each facilities bear interest at a rate per annum equal to the aggregate of 3.6% per annum and the compounded SOFR determined by the facility agent on a banking day during the term of the loan. The facilities are guaranteed by Vingroup and secured by mortgages over a debt service reserve account, an onshore dividend account and shares of Vinhomes held by Vingroup and/or Vingroup's subsidiaries.
+
+### [29] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> 111 Table of Contents The facility requires us, as well as Vingroup, as our guarantor, to comply with a number of covenants and financial tests and contains customary prepayment terms, restrictions, representations and warranties, events of default and termination provisions. We are required to furnish our financial statements and a financial covenant compliance certificate, and to ensure a collateral cover ratio of at least one time when measured on a quarterly basis. As of December 31, 2023, March 31, 2024, June 30, 2024 and December 31, 2024, the collateral cover ratio in respect of a loan amounting to VND3,127.9 billion, VND3,270.1 billion, VND3,284.7 billion and VND3,165.7 billion, respectively, under this facility fell below the required ratio. We restored the required ratios as of the date of the filing of our annual report on Form 20-F for fiscal year 2024 and thereafter have remained in compliance with such ratios as of all relevant dates through the date of this Annual Report. In addition, under this facility, Vingroup must maintain (i) consolidated net total borrowings of less than or equal to 2.25 times its equity, as measured at the end of each 12-month period ending on the last day of each financial half year of Vingroup's financial year, or the measurement period; and (ii) a debt service coverage ratio greater than or equal to 1.15 times for each measurement period.
+
+### [30] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam 2024-2025 TCBS Bonds From 2024 to May 29, 2025, we issued bonds in the aggregate principal amounts of VND11,500 billion through TCBS. The bonds will mature on dates ranging from October 10, 2026 to October 18, 2029. The bonds have a coupon rate ranging from 12.5% to 13.5% per annum. Obligations in respect of the bonds are guaranteed by Vingroup and secured by shares in Vingroup's subsidiaries owned by Vingroup, as well as certain collateral in the form of real estate projects provided by one of Vingroup's subsidiaries.
+
+### [31] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam 2025 VPBankS Bonds On June 30, 2025, we issued bonds in the aggregate principal amount of VND2,500 billion through VPBank Securities Joint Stock Company (“VPBankS”). The bonds will mature on June 30, 2028. The bonds have a coupon rate of 12% per annum. Obligations in respect of the bonds are guaranteed by Vingroup and secured by shares of a Vingroup subsidiary owned by Vingroup. The bonds require that we comply with a number of covenants in relation to payment and compliance with our obligations, disclosure obligations, maintenance of approvals and licenses, use of bond proceeds, provision of information (including, amongst others, financial statements, litigation, restructuring, conversion of corporate form and change of major shareholders). Restrictive covenants are in relation to amendments to our charter, asset disposal, and change of control and restructuring that adversely affects the rights and benefits of bondholders.
+
+### [32] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> We have business relationships with our affiliates relating to key aspects of our business, including co-marketing programs and cross-promotional activities, the provision of technology services and R&D by affiliates in the Vingroup technology ecosystem and the development of our charging stations. GSM, an affiliate of our Company founded by Mr. Pham, promotes and sells our EVs on our behalf and accounts for a considerable portion of our EV sales revenue. In addition, in 2024 and 2025, we entered into several agreements with V-Green, a company established in Vietnam and controlled by Mr. Pham as its majority shareholder, to operate our EV charging station system in Vietnam, known as the “VinFast Charging Station System,” which we have invested in, developed, and built. Mr. Pham has also sponsored part of our free charging programs to attract EV buyers, by bearing part of the costs to implement the free charging program in Vietnam. We also sublease the sites in Hai Phong and Ha Tinh, Vietnam, where our manufacturing facilities are located, from Vinhomes affiliates, and obtain key intellectual property used in our business from Vingroup, including our trade name, logo, the names of our EVs and e-scooters and the industrial designs for some of our models. We also transact with our Vingroup affiliates for leases of retail and advertising spaces, procurement of goods and services related to information security and technology, raw materials and spare parts and social and other services such as health care and education that we provide as employee benefits and compensation. We also expect to hire certain affiliates of our Company to perform the work related to the increase in the manufacturing capacity of our facilities. We have entered into several capital funding agreements with Mr. Pham and his affiliates. In connection with the capital funding agreement dated April 26, 2023, we received approximately VND60,000.0 billion, consisting of VND24,000.0 billion in grants from Mr. Pham, directly or through Asian Star and VIG or other companies majority-owned or controlled by Mr. Pham, as well as up to VND24,000.0 billion in loans and up to VND12,000.0 billion in grants from Vingroup. To support the continued business growth of our Company, Vingroup intends for it and its subsidiaries to provide our subsidiaries incorporated in Vietnam with up to VND35,000.0 billion ($1.4 billion) in loans during a period of 24 months from November 12, 2024. The timing and amount of loan disbursement will be subject to our needs and Vingroup having sufficient financial resources. As of December 31, 2025, our outstanding borrowings from Vingroup under this commitment were VND10,376.9 billion ($413.1 million). In addition, in connection with the Grant Agreement dated November 12, 2024, Mr. Pham, directly or indirectly through his associated companies, have committed to provide up to VND50,000.0 billion ($2.0 billion) in grants to us and our subsidiaries through the end of 2026. To the extent that we or our subsidiaries receive funding in the future from Mr. Pham or his associated companies pursuant to any previously disclosed funding commitments, such amounts would also be included towards this total grant amount. From November 12, 2024, the date of the aforementioned Grant Agreement, to December 31, 2025, Mr. Pham has disbursed VND28,000.0 billion ($1.1 billion) in grants to us.
+
+### [33] VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov
+
+> Funding Sources ● As previously disclosed, Vingroup announced in late 2024 its intention to provide VinFast with additional borrowings of up to VND35,000.0 billion (US$1.4 billion) between November 12, 2024, and November 12, 2026, to support VinFast's continued growth. As of March 31, 2026, VinFast's outstanding borrowings from Vingroup under this commitment were VND19,755.9 billion (US$787.0 million). ● Pursuant to a grant agreement dated November 12, 2024, Mr. Pham committed to provide up to VND50,000.0 billion (US$2.0 billion) in free grants to VinFast and its subsidiaries. As of March 31, 2026, a total of VND33,000.0 billion (US$1.3 billion) had been disbursed pursuant to the grant agreement.
+
+### [34] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> The facility contains customary prepayment terms and requires us to prepay outstanding amounts in respect of the requesting lender's portion of the loan upon a change of control where (a) any person or group obtains ownership of more than 50% of the voting shares of Vingroup or (b) Vingroup ceases to have beneficial ownership of at least 30% of the voting shares in VinFast Vietnam and Vingroup ceases to have at least one representative on the board of directors of VinFast Vietnam. The facility also contains certain customary representations and warranties and events of default, including, among other things, payment defaults, breach of obligations relating to financial covenants or security, breach of representations and warranties, covenant defaults, change of control, cross-defaults to certain indebtedness, certain events of insolvency, bankruptcy and litigation, cessation of business, and failure of any Finance Document (as defined therein) supporting the facility to be in full force and effect, subject to certain exceptions specified in the agreement. If such an event of default occurs and is not remedied, the facility agent under the facility would be entitled to take various actions, including the acceleration of amounts due under the facility and all actions permitted to be taken by a secured creditor.
+
+### [35] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> The facility also contains customary restrictions, representations and warranties and events of default, including, among other things, payment defaults, breach of obligations relating to financial covenants or security, breach of representations and warranties, cross-defaults to certain indebtedness of Vingroup, VinFast Vietnam and its subsidiaries, MBB and any of MBB's significant subsidiaries, certain events of insolvency, bankruptcy and litigation, cessation of business, failure of any Finance Document (as defined therein) supporting the facility to be in full force and effect, subject to certain exceptions specified in the agreement. If such an event of default occurs and is not remedied, the facility agent under the facility would be entitled to take various actions, including the acceleration of amounts due under the facility and all actions permitted to be taken by the agreed finance documents.
+
+### [36] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> The facility contains customary prepayment terms and requires us to prepay outstanding amounts in respect of the requesting lender's portion of the loan upon a change of control where Vingroup and Mr. Pham collectively cease to (i) have beneficial ownership of more than 50% of the issued share capital or equivalent of VinFast Vietnam or any of its significant subsidiaries (as defined therein), (ii) have beneficial ownership of more than 50% of the voting capital of VinFast Vietnam or any of its significant subsidiaries, or (iii) the power to direct the management and policies of Fast Vietnam or any of its significant subsidiaries. The facility also contains customary restrictions, representations and warranties and events of default, including, among other things, payment defaults, breach of obligations relating to financial covenants, breach of representations and warranties, cross-defaults to certain indebtedness of Vingroup, VinFast Vietnam and its subsidiaries, VietinBank and any of VietinBank's significant subsidiaries, certain events of insolvency, bankruptcy and litigation, cessation of business, and failure of any finance document or credit support document supporting the facility to be in full force and effect, subject to certain exceptions specified in the agreement. If such an event of default occurs and is not remedied, the Lender would be entitled to take various actions, including the acceleration of amounts due under the facility and all actions permitted to be taken by the agreed finance documents.
+
+### [37] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> Obligations in respect of the facility are guaranteed by Vietnam Technological and Commercial Joint Stock Bank (“TCB”) and secured by an interest service reserve account. The facility requires us to comply with a number of covenants, including furnishing financial statements of our Company and VinFast Vietnam and ensuring that VinFast Vietnam's net worth is greater than zero. The facility contains customary prepayment terms and requires us to prepay outstanding amounts in respect of the requesting lender's portion of the loan upon a change of control where Vingroup and Mr. Pham collectively (i) cease to have beneficial ownership of more than 50% of voting shares in our Company or any of our material operating companies, comprising Vinfast Manufacturing US, LLC, any subsidiary owning any of our manufacturing facilities in the US and any subsidiary contributing 5% or more of our consolidated revenue or gross asset (“Material OpCos”), or (ii) cease to have the power to direct the management and policies of our Company or the Material OpCos.
+
+### [38] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> Obligations in respect of the facility are guaranteed by TCB. The facility requires us to comply with a number of covenants, including furnishing financial statements of our Company and VinFast Vietnam and ensuring that ensuring that VinFast Vietnam's net worth is greater than zero. The facility contains customary prepayment terms and requires us to prepay outstanding amounts in respect of the requesting lender's portion of the loan upon a change of control where (i) Vingroup and Mr. Pham collectively cease to have beneficial ownership of more than 50% of our voting shares or cease to have the power to direct our management and policies; or (ii) we cease to hold 50% or more of the assets or shareholding in a material subsidiary, as defined therein.
+
+### [39] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Auto Ltd. $100,000,000 Green Loan Facility On August 29, 2025, we entered into a senior term facility of up to $100,000,000 with MUFG Bank, Ltd., Singapore Branch as lender, mandated lead arranger, green loan coordinator and facility agent. Loans borrowed under the green loan facility must be used toward the implementation of an eligible green project as defined under the Sustainable Finance Framework published by Vingroup and/or our other business plans and/or investment projects, but may not be used for our business in the United States. Each loan obtained under the facility matures on the date falling 24 months from the first utilization date. Borrowings under the facility bear interest at a rate per annum equal to the aggregate of 2.5% plus the term SOFR by CME Group Benchmark Administration Limited as of a specified time and for the three-month period starting on the utilization date of such loan, or as otherwise determined in accordance with the agreement.
+
+### [40] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> Obligations in respect of the facility are guaranteed by the Vietnam Joint Stock Commercial Bank for Industry and Trade, Thanh Xuan Branch in the form of a standby letter of credit (“SBLC”). The facility requires us to comply with a number of covenants, including furnishing financial statements of our Company, VinFast Vietnam and Vingroup, and a compliance certificate confirming compliance with certain financial covenants set forth therein. Under this facility, we must maintain a debt service cover ratio greater than one time, and the aggregate borrowings of the Group (excluding borrowings from related parties) must not exceed the total assets of the Group.
+
+### [41] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam $95,000,000 Term Loan Facility On June 9, 2025, we entered into a loan facility of up to $95,000,000 with Cargill Financial Services Internation, Inc, as lender. Each loan obtained under the facility matures on the date falling 36 months from the first utilization date. Borrowings under the facility bear interest at a rate per annum equal to the aggregate of 2.9% plus the term SOFR administered by CME Group Benchmark Administration Limited as of a specified time and for the three-month period starting on the utilization date of such loan, or as otherwise determined in accordance with the agreement.
+
+### [42] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> 112 Table of Contents Obligations in respect of the facility are guaranteed by the Vietnam Joint Stock Commercial Bank for Industry and Trade, Ha Noi Branch (“VietinBank”) in the form of SLBCs and by Vingroup. The facility requires us to comply with a number of covenants, including furnishing the financial statements of Vingroup and VinFast Vietnam, and a compliance certificate confirming compliance with certain financial covenants. Under this facility, VinFast Vietnam must maintain a positive net worth as of June 30 and December 31 each year.
+
+### [43] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam $170,000,000 Term Loan Facility On May 19, 2025, we entered into a loan facility of up to $170,000,000 with the lender parties thereto, and Deutsche Bank AG, Singapore Branch, as mandated lead arranger, bookrunner and facility agent, and DB International Trust (Singapore) Limited, as security agent. Each loan obtained under the facility matures on the date falling 36 months from the loan utilization date. Borrowings under the facility bear interest at a rate per annum equal to the aggregate of 3.7% plus the term SOFR administered by CME Group Benchmark Administration Limited, for each three‑month interest period commencing on the utilization date of such loan, or as otherwise determined in accordance with the agreement.
+
+### [44] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> Obligations in respect of the facility are guaranteed by Military Commercial Joint Stock Bank, So Giao dich I Branch (“MBB”) in the form of an SBLC, and secured by an interest service reserve account. The facility requires us to comply with a number of covenants, including furnishing VinFast Vietnam's financial statements and a financial covenant compliance certificate. Under this facility, VinFast Vietnam must maintain a net worth greater than zero as at June 30 and December 31 of each year. The facility contains customary prepayment terms and requires us to prepay outstanding amounts in respect of the requesting lender's portion of the loan upon a change of control where Vingroup and Mr. Pham collectively cease to control VinFast Vietnam or any Material Subsidiary of VinFast Vietnam (as defined in the facility agreement).
+
+### [45] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> VinFast Vietnam $115,000,000 Term Loan Facility On May 19, 2025, we entered into a loan facility of up to $115,000,000 with the lender parties thereto, and Deutsche Bank AG, Singapore Branch, as facility agent and DB International Trust (Singapore) Limited, as security agent. Each loan obtained under the facility matures on the date falling 36 months from the first utilization date. Borrowings under the facility bear interest at a rate per annum equal to the aggregate of 4.7% plus the term SOFR administered by CME Group Benchmark Administration Limited, for each three‑month interest period commencing on the utilization date of such loan, or as otherwise determined in accordance with the agreement.
+
+### [46] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> Obligations in respect of the facility are guaranteed by Saigon-Hanoi Commercial Joint Stock Bank (“SHB”) in the form of an SBLC, and secured by an interest service reserve account. The facility requires us to comply with a number of covenants, including furnishing the VinFast Vietnam's financial statements and a compliance certificate confirming compliance with certain financial covenants. Under this facility, VinFast Vietnam must maintain a positive net worth as at June 30 and December 31 in each year.
+
+### [47] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> 113 Table of Contents We may redeem the bonds at any time upon prior notice, subject to the bondholder's consent for such early redemption. The bonds also provide for certain customary events of default, the occurrence of which would permit any bondholder to request the acceleration of all amounts due under the bonds and require us to redeem such amounts. VinFast Vietnam Term Loan Facility for Ha Tinh facility On December 29, 2025, we entered into a loan facility of up to VND 3,100 billion with Ho Chi Minh City Development Joint Stock Commercial Bank (“HDBank”) with the aim to sponsor our Ha Tinh manufacturing facility. Obligations in respect of the facility are guaranteed by Mr. Pham and Vingroup and secured by, among other things, all machinery and equipment arising from the Ha Tinh facility and certain shares of our affiliates.
+
+### [48] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> The facility contains customary prepayment terms and requires us to prepay outstanding amounts in respect of the requesting lender's portion of the loan upon a change of control where Vingroup and Mr. Pham collectively cease to have (i) beneficial ownership of more than 50% of the issued share capital or equivalent of VinFast Vietnam or any of its material subsidiaries (as defined therein), (ii) beneficial ownership of more than 50% of the voting capital of VinFast Vietnam or any of its material subsidiaries, or (iii) the power to direct the management and policies of VinFast Vietnam or any of its material subsidiaries. The facility also contains customary restrictions, representations and warranties and events of default, including, among other things, payment defaults, breach of obligations relating to financial covenants or security, breach of representations and warranties, cross-defaults to certain indebtedness of Vingroup, VinFast Vietnam and its subsidiaries, SHB and any of SHB's significant subsidiaries, certain events of insolvency, bankruptcy and litigation, cessation of business, and failure of any Finance Document (as defined therein) supporting the facility to be in full force and effect, subject to certain exceptions specified in the agreement. If such an event of default occurs and is not remedied, the facility agent under the facility would be entitled to take various actions, including the acceleration of amounts due under the facility and all actions permitted to be taken by the agreed finance documents.
+
+### [49] Founder-backed VinFast (VFS) flags going-concern risk amid heavy losses
+
+> HDBank may suspend disbursements, terminate the credit facility and accelerate repayment upon the occurrence of customary events of default, including, among others, breach of contractual obligations, violations of law or banking regulations, insolvency, restructuring or dissolution of the borrower or the security provider, misuse of loan proceeds, deterioration or invalidity of collateral, provision of false or misleading information, material adverse changes, criminal proceedings involving key management, or other events that adversely affect VinFast Vietnam's ability to perform its obligations or HDBank's ability to recover the loan.

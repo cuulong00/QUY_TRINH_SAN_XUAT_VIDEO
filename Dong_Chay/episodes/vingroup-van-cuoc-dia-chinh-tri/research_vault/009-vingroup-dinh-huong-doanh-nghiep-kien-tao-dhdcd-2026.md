@@ -1,0 +1,630 @@
+# BÁO CÁO NGHIÊN CỨU VÀ TỔNG HỢP NOTEBOOKLM: ĐỊNH HƯỚNG "DOANH NGHIỆP KIẾN TẠO" CỦA VINGROUP TẠI ĐHĐCĐ 2026
+
+*Được trích xuất trực tiếp bằng NotebookLM vào ngày 18/07/2026*
+
+## Kết quả phân tích từ NotebookLM:
+
+Thoughts
+expand_more
+BÁO CÁO PHÂN TÍCH VĨ MÔ: SỰ BIẾN ĐỔI CỦA TOÀN CẦU HÓA (2025-2026) VÀ CHIẾN LƯỢC KIẾN TẠO "NHÀ VÔ ĐỊCH QUỐC GIA" TẠI CÁC NỀN KINH TẾ MỚI NỔI
+I. Kỷ nguyên toàn cầu hóa mới giai đoạn 2025-2026: Từ tối ưu hóa chi phí đến bảo hộ công nghiệp và phân mảnh địa kinh tế
+Nền kinh tế chính trị toàn cầu trong giai đoạn 2025-2026 đang chứng kiến sự dịch chuyển mang tính cấu trúc từ mô hình toàn cầu hóa tối ưu hóa chi phí sang mô hình phân mảnh địa kinh tế dựa trên an ninh nguồn cung và bảo hộ công nghiệp nội địa
+1
+. Các liên minh thương mại truyền thống dần bị thay thế bởi xu hướng "friend-shoring" (dịch chuyển sản xuất sang các nước đồng minh) và việc thiết lập các rào cản kỹ thuật nghiêm ngặt nhằm bảo vệ hệ sinh thái công nghệ cốt lõi trong nước
+1
+. Trọng tâm của cuộc cạnh tranh chiến lược này xoay quanh ba lĩnh vực có tính chất quyết định đến vị thế địa chính trị và an ninh quốc gia: xe điện (EV), chất bán dẫn và năng lượng xanh
+1
+.
+1. Chính sách bảo hộ công nghệ lõi của các siêu cường và cú sốc chuỗi cung ứng vĩ mô (2025-2026)
+Các chính sách bảo hộ công nghiệp đơn phương từ Mỹ, Liên minh Châu Âu (EU) và Trung Quốc đã tạo ra những đứt gãy sâu sắc trong chuỗi cung ứng toàn cầu, buộc các tập đoàn đa quốc gia phải cấu trúc lại toàn bộ mạng lưới sản xuất
+2
+:
+Tại Mỹ: Sự thay đổi lớn trong hành lang pháp lý dưới chính quyền tổng thống Donald Trump vào năm 2025 đã chấm dứt hoàn toàn khoản hỗ trợ tín dụng thuế liên bang trị giá $7,500 cho xe điện (EV) vốn được quy định trước đó trong Đạo luật Giảm lạm phát (IRA)
+2
+. Quyết định này làm đảo lộn chiến lược kinh doanh của các thương hiệu xe điện quốc tế đang xây dựng nhà máy tại Mỹ để tận dụng ưu đãi tài khóa
+2
+. Đồng thời, các biện pháp thuế quan toàn diện áp đặt vào tháng 4 năm 2025 đã đẩy chi phí đầu vào của ngành bán dẫn và điện tử lên cao
+2
+. Tập đoàn NVIDIA đã phải tăng giá bán hầu hết các dòng GPU trí tuệ nhân tạo (AI) và đồ họa (thẻ chơi game tăng từ 5% đến 10%, và bộ tăng tốc AI cao cấp tăng tới 15%)
+2
+. Chi phí sản xuất thực tế tại Mỹ cũng bộc lộ mức chênh lệch lớn; điển hình là chi phí chế tạo chip xử lý 4nm tại cơ sở Arizona của TSMC cao hơn tới 30% so với tại Đài Loan
+2
+.
+Tại Liên minh Châu Âu (EU): EU tập trung củng cố hàng rào phòng vệ thương mại thông qua Đạo luật Nguyên liệu Thô tới hạn (Critical Raw Materials Act) và các cuộc điều tra chống trợ cấp đối với xe điện nhập khẩu từ Trung Quốc nhằm bảo vệ ngành công nghiệp ô tô nội địa
+3
+. Các rào cản thương mại mới kết hợp với chi phí năng lượng duy trì ở mức cao đã đẩy các nhà sản xuất ô tô truyền thống của châu Âu vào cuộc khủng hoảng tái cấu trúc chi phí sâu sắc
+3
+. Kết quả hoạt động năm 2025 của Tập đoàn Volkswagen ghi nhận mức sụt giảm lợi nhuận hoạt động lên tới 53%, chỉ còn đạt €8.9 tỷ
+3
+. Trong khi đó, Tập đoàn Stellantis đã phải công bố khoản đầu tư tái cấu trúc trị giá €22.2 tỷ tính đến cuối năm 2025 và quyết định đình chỉ chi trả cổ tức năm 2026 để thích ứng với tốc độ chuyển đổi xe điện mới
+3
+.
+Tại Trung Quốc: Với vị thế thống trị thượng nguồn chuỗi cung ứng pin và tinh chế khoáng sản, Trung Quốc đã chủ động áp đặt các biện pháp kiểm soát xuất khẩu để trả đũa các lệnh trừng phạt công nghệ từ phương Tây
+4
+. Trong tháng 4 và tháng 10 năm 2025, Bắc Kinh liên tiếp thực thi các biện pháp hạn chế xuất khẩu đối với các nguyên tố đất hiếm nặng (REE) và áp đặt bổ sung yêu cầu cấp phép xuất khẩu nghiêm ngặt
+4
+. Đất hiếm là nguyên liệu tối quan trọng, cực kỳ khó thay thế trong sản xuất nam châm vĩnh cửu phục vụ động cơ xe điện và khí tài quân sự
+4
+. Các mô hình mô phỏng kinh tế lượng của Aguilar và cộng sự (2026) chỉ ra rằng các biện pháp hạn chế này có thể gây ra mức sụt giảm sản lượng từ 0.3% đến 0.6% đối với nền kinh tế Mỹ, trong đó các ngành chịu tổn thương nặng nề nhất là sản xuất ô tô và thiết bị điện tử do Mỹ phụ thuộc vào Trung Quốc tới 75% lượng đất hiếm nhập khẩu
+4
+.
+Bảng 1: Công cụ chính sách và tác động chuỗi cung ứng của các siêu cường (2025-2026)
+Quốc gia/Khu vực
+	
+Công cụ chính sách chủ đạo
+	
+Tác động trực tiếp đến chuỗi cung ứng (2025-2026)
+	
+Hệ quả tài chính & vận hành
+
+
+Mỹ
+	
+Chấm dứt tín dụng thuế liên bang $7,500 cho xe điện
+5
+; áp thuế quan bán dẫn và linh kiện (Tháng 4/2025)
+5
+.
+	
+Đứt gãy lộ trình nội địa hóa của các hãng xe mới
+5
+; tăng giá linh kiện bán dẫn đầu vào
+5
+.
+	
+NVIDIA tăng giá chip AI lên tới 15%
+5
+; chi phí sản xuất chip tại Arizona cao hơn 30% so với Đài Loan
+5
+.
+
+
+EU
+	
+Đạo luật Nguyên liệu Thô tới hạn
+5
+; điều tra chống trợ cấp xe điện
+5
+.
+	
+Buộc các hãng xe châu Âu phải cắt giảm chi phí biên và cấu trúc lại chuỗi cung ứng
+5
+.
+	
+Lợi nhuận hoạt động của Volkswagen năm 2025 giảm 53% xuống €8.9 tỷ
+5
+; Stellantis đình chỉ cổ tức năm 2026
+5
+.
+
+
+Trung Quốc
+	
+Chính sách NEVPP hỗ trợ tài khóa nội địa
+5
+; kiểm soát xuất khẩu đất hiếm nặng (Tháng 4 & 10/2025)
+5
+.
+	
+Hạn chế nguồn cung REE thượng nguồn sang các quốc gia không thân thiện
+5
+.
+	
+Gây sốc giá đất hiếm vĩ mô
+5
+; đe dọa trực tiếp đến 75% lượng REE nhập khẩu của Mỹ
+5
+.
+II. Tại sao các nước đang phát triển như Việt Nam bị ép buộc phải có các "Nhà vô địch quốc gia" thay vì chỉ dựa vào FDI?
+Sự phân mảng địa chính trị và làn sóng bảo hộ công nghiệp đã đặt ra những thách thức nghiêm trọng đối với mô hình tăng trưởng truyền thống của các nước đang phát triển — vốn dựa chủ yếu vào dòng vốn đầu tư trực tiếp ngoại (FDI) và gia công lắp ráp giá rẻ
+6
+.
+1. Tính giới hạn của mô hình phụ thuộc FDI và nguy cơ rơi vào "Bẫy thu nhập trung bình"
+Sự thiếu ổn định của dòng vốn ngoại: Khi các quốc gia thu nhập trung bình đạt tới mức độ phát triển nhất định, chi phí nhân công tăng lên sẽ làm giảm khả năng cạnh tranh trong các ngành thâm dụng lao động
+6
+. Do các doanh nghiệp FDI có tính di động rất cao, họ sẵn sàng đóng cửa hoặc dịch chuyển nhà máy sang các quốc gia có chi phí rẻ hơn khi lợi thế lao động giá rẻ của nước sở tại bị xói mòn
+6
+7
+.
+Hệ quả của việc gia công thuần túy: Việc chỉ tham gia ở các công đoạn lắp ráp cuối cùng khiến các quốc gia không nhận được sự chuyển giao công nghệ thực chất, bị kẹt lại ở nấc thang công nghệ thấp và triệt tiêu năng lực phát triển của các doanh nghiệp nội địa
+6
+8
+.
+Bài học từ Đông và Trung Âu (ECE): Kinh nghiệm thực chứng từ các quốc gia như Cộng hòa Séc, Slovakia, Ba Lan cho thấy sự mất cân đối sâu sắc trong cấu trúc đầu tư quốc gia
+9
+. Lượng vốn FDI đầu vào (inward FDI) tại các nền kinh tế này vượt trội hoàn toàn so với lượng vốn đầu tư ra nước ngoài (outward FDI)
+9
+. Cộng hòa Séc có quy mô tích lũy vốn inward FDI tương đương 62% GDP nhưng outward FDI chỉ đạt 21% GDP, dẫn đến vị thế đầu tư ròng âm 41% GDP
+9
+. Sự bất đối xứng này cũng được ghi nhận ở Slovakia và Ba Lan với mức phụ thuộc tài chính ròng lần lượt là 43% và 33% GDP
+9
+. Tình trạng này càng trở nên trầm trọng do sự kiểm soát của nước ngoài đối với hệ thống ngân hàng nội địa (chiếm trên 80% tài sản ngân hàng tại Séc và Slovakia)
+9
+. Việc thiếu hụt các định chế tài chính độc lập trong nước làm suy yếu khả năng cung cấp tín dụng dài hạn cho các dự án công nghiệp hóa nội sinh, khiến các quốc gia này bị kẹt trong vai trò là các vệ tinh gia công lắp ráp công nghệ thấp cho các tập đoàn đa quốc gia Tây Âu
+9
+.
+Bài học từ Mexico: Mexico là một minh chứng điển hình khác của việc mắc kẹt trong bẫy thu nhập trung bình sau hơn ba thập kỷ gia nhập NAFTA/USMCA
+10
+. Dù kim ngạch xuất khẩu công nghiệp tăng trưởng mạnh mẽ, nền kinh tế Mexico bị phân mảnh sâu sắc giữa khu vực xuất khẩu do FDI kiểm soát (nhập khẩu hầu hết linh kiện trung nguồn và chỉ thực hiện lắp ráp hoàn thiện tại chỗ với giá trị gia tăng nội địa chỉ đạt 9% vào năm 2020) và khu vực kinh tế nội địa lạc hậu
+10
+11
+. Với mức thu nhập quốc dân vĩ mô (GNI) đầu người đạt 12,800v
+a
+ˋ
+on
+a
+˘
+m2024,∗∗Mexicov
+a
+^
+~
+nth
+a
+^
+ˊ
+phơn913,935)**, phản ánh sự đình trệ năng suất lao động kéo dài
+10
+.
+2. bối cảnh vĩ mô mới nhất của Việt Nam (2025-2026) và yêu cầu kiến tạo năng lực nội sinh
+Việt Nam đang đứng trước bước ngoặt lịch sử sau gần 40 năm tiến hành công cuộc Đổi mới. Dù đạt được những thành tựu vĩ mô ấn tượng — quy mô GDP đạt $484 tỷ vào năm 2025, và xếp thứ 12 về sức mạnh tổng hợp tại khu vực châu Á - Thái Bình Dương theo Chỉ số Sức mạnh Châu Á năm 2025
+12
+13
+ — nhưng những động cơ tăng trưởng nội lực đang bộc lộ những điểm yếu cố hữu:
+Xuất khẩu phụ thuộc nặng nề vào khối ngoại: Khu vực doanh nghiệp FDI chiếm tới 71.7% tổng kim ngạch xuất khẩu và đóng góp 20.5% vào GDP năm 2024
+13
+14
+. Thặng dư thương mại của Việt Nam chủ yếu do khối FDI gánh vác, trong khi liên kết giữa doanh nghiệp FDI và khối nội địa vô cùng lỏng lẻo
+13
+.
+Khu vực tư nhân trong nước yếu kém về công nghệ: Đóng góp của khu vực tư nhân nội sinh vào GDP của Việt Nam vẫn trì trệ ở mức khoảng 10% suốt hai thập kỷ qua, phản ánh năng lực công nghệ và quy mô vốn của doanh nghiệp nội địa còn rất hạn chế
+13
+15
+.
+Yêu cầu kiến tạo năng lực nội sinh: Để thực hiện Tầm nhìn 2045 nhằm đưa Việt Nam trở thành quốc gia phát triển, thu nhập cao (đòi hỏi GNI đầu người tăng từ $4,490 năm 2024 lên khoảng $22,000 năm 2045)
+13
+16
+, Việt Nam không thể tiếp tục dựa vào mô hình cũ. Việc xây dựng các "Nhà vô địch quốc gia" (các tập đoàn kinh tế nội địa quy mô lớn, sở hữu công nghệ cốt lõi và có khả năng xây dựng chuỗi giá trị riêng) là con đường bắt buộc để bảo vệ chủ quyền kỹ thuật số, tự chủ công nghệ và kiến tạo năng lực cạnh tranh quốc gia bền vững
+13
+17
+.
+Bảng 2: So sánh cấu trúc kinh tế và mức độ phụ thuộc FDI (2024-2025)
+Quốc gia
+	
+Chỉ số phụ thuộc tài chính / GDP ròng (FDI)
+	
+Thu nhập vĩ mô (GNI/đầu người năm 2024)
+	
+Đặc điểm cấu trúc hệ thống tài chính & công nghiệp
+	
+Trạng thái phát triển
+
+
+Cộng hòa Séc
+	
+Âm 41% GDP (FDI vào 62%, ra 21%)
+14
+.
+	
+Cao hơn ngưỡng thu nhập cao
+14
+.
+	
+Trên 80% tài sản ngân hàng thuộc sở hữu nước ngoài
+14
+; thiếu vốn nội sinh cho công nghiệp độc lập
+14
+.
+	
+Mắc kẹt trong chuỗi vệ tinh gia công Tây Âu
+14
+.
+
+
+Slovakia
+	
+Âm 43% GDP (FDI ròng đầu vào phụ thuộc)
+14
+.
+	
+Tiệm cận ngưỡng thu nhập cao
+14
+.
+	
+Hệ thống tài chính do các ngân hàng nước ngoài kiểm soát
+14
+.
+	
+Phụ thuộc sâu sắc vào FDI công nghiệp ô tô
+14
+.
+
+
+Mexico
+	
+Phụ thuộc nặng nề vào chuỗi lắp ráp Maquiladora
+14
+.
+	
+$12,800 (Thấp hơn 9% so với ngưỡng thu nhập cao $13,935)
+14
+.
+	
+Phân mảnh kép giữa khu vực FDI xuất khẩu và khu vực nội địa năng suất thấp
+14
+.
+	
+Mắc kẹt kéo dài trong bẫy thu nhập trung bình
+14
+.
+
+
+Việt Nam
+	
+Thặng dư xuất khẩu phụ thuộc lớn vào khối doanh nghiệp FDI
+14
+.
+	
+Thu nhập trung bình thấp
+14
+.
+	
+Đứng thứ 12 về Chỉ số Sức mạnh Châu Á 2025
+14
+; khu vực tư nhân nội địa quy mô nhỏ và thiếu tự chủ công nghệ
+14
+.
+	
+Đứng trước bước ngoặt vượt bẫy thu nhập trung bình
+14
+.
+III. Nghiên cứu thực chứng: Chiến lược chuyển dịch công nghiệp của Tập đoàn Vingroup và rủi ro hệ thống
+Là tập đoàn tư nhân đa ngành lớn nhất Việt Nam, Tập đoàn Vingroup đã triển khai một chiến lược ngoại giao doanh nghiệp quy mô lớn nhằm tạo dựng vị thế pháp lý, tiếp cận nguồn vốn quốc tế và thiết lập liên kết công nghệ với các tập đoàn hàng đầu thế giới
+18
+.
+1. Hoạt động ngoại giao doanh nghiệp và vị thế địa chính trị của Vingroup (2023-2026)
+Niêm yết Nasdaq biểu trưng: Việc đưa VinFast niêm yết thành công trên sàn giao dịch chứng khoán Nasdaq của Mỹ vào ngày 15 tháng 8 năm 2023 (thông qua việc hoàn tất sáp nhập với công ty SPAC Black Spade Acquisition Co) là một bước đi mang tính lịch sử của doanh nghiệp tư nhân Việt Nam, nâng cao vị thế và mở ra kênh dẫn vốn trực tiếp từ các định chế tài chính toàn cầu
+19
+.
+Năng lực tự chủ công nghiệp lưỡng dụng: Sự hiện diện mang tính biểu tượng này còn được củng cố qua việc phát triển dòng xe bọc thép chạy điện siêu sang Lạc Hồng 900 LX (phối hợp với đối tác an ninh INKAS và xây dựng trên nền tảng mẫu SUV cỡ lớn VinFast VF 9)
+19
+. Đội xe Lạc Hồng 900 LX đạt chứng nhận an toàn VPAM VR7 chống đạn và chịu được lựu đạn nổ đã được bàn giao cho Bộ Ngoại giao Việt Nam vào dịp kỷ niệm 80 năm Quốc khánh để phục vụ đưa đón nguyên thủ quốc gia, thể hiện năng lực tự chủ công nghệ của Việt Nam
+19
+.
+Hợp tác hạ tầng chiến lược quốc gia: Vingroup mở rộng hoạt động sang mảng hạ tầng giao thông chiến lược bằng việc thành lập Công ty Cổ phần Đầu tư và Phát triển Đường sắt Tốc độ cao VinSpeed
+20
+. Vào ngày 17 tháng 12 năm 2025, VinSpeed đã ký kết thỏa thuận hợp tác chiến lược toàn diện và chuyển giao công nghệ đường sắt tốc độ cao với Siemens Mobility (Đức) để cung cấp các đoàn tàu tốc độ cao thế hệ mới nhất Velaro Novo (vận tốc thiết kế tối đa 350 km/h, giúp giảm 30% năng lượng tiêu thụ)
+20
+21
+.
+Đề xuất cơ chế đặc thù cho siêu dự án Bắc - Nam: VinSpeed đã gửi đề xuất chính thức lên Chính phủ đăng ký tham gia đầu tư vào siêu dự án Đường sắt tốc độ cao Bắc - Nam có tổng mức đầu tư ước tính $60.24 tỷ, cam kết tự huy động 20% vốn chủ sở hữu (khoảng $12.27 tỷ)
+22
+. Đối với 80% vốn còn lại, VinSpeed kiến nghị Nhà nước cấp cơ chế đặc thù cho phép doanh nghiệp vay trực tiếp từ ngân sách thông qua các khoản vay có mức lãi suất 0% với thời hạn hoàn trả 35 năm
+22
+. Đề xuất này dấy lên những tranh luận chuyên môn sâu sắc về tính khả thi của việc nhà nước gánh chịu rủi ro tín dụng dài hạn cho một doanh nghiệp tư nhân
+22
+.
+Chiến lược mở rộng sang Ấn Độ: Ngày 10 tháng 4 năm 2026, Vingroup ký biên bản ghi nhớ (MoU) với Chính phủ bang Maharashtra (Ấn Độ) để triển khai gói đầu tư đa ngành trị giá 6.5tỷ∗∗
+23
+.Trongđ
+o
+ˊ
+,c
+o
+^
+ngtyconGSMIndias
+e
+~
+đ
+a
+^
+ˋ
+utư∗∗1.5 tỷ để triển khai đội xe taxi điện 60,000 chiếc, mảng phát triển đô thị đề xuất xây dựng đại đô thị sinh thái 1,000 ha ($5 tỷ), cùng các mảng năng lượng tái tạo VinEnergo, du lịch Vinpearl, y tế Vinmec và giáo dục Vinschool
+23
+24
+.
+2. Cuộc chuyển dịch mô hình kinh doanh và rủi ro cấy ghép "DNA quản trị"
+Quyết định chuyển dịch trọng tâm chiến lược của Vingroup từ mảng phát triển bất động sản thương mại sang lĩnh vực chế tạo công nghiệp nặng và công nghệ sâu là một cuộc cải tổ quy mô lớn, nhưng cũng đặt tập đoàn trước nguy cơ xung đột hệ thống quản trị
+25
+.
+Xung đột DNA quản trị: Việc cố gắng áp dụng các tư duy thành công của ngành bất động sản (vòng quay vốn nhanh, sử dụng đòn bẩy tài chính cực cao kết hợp với việc thu tiền trả trước của người mua nhà) vào mảng chế tạo xe điện VinFast đã bộc lộ những bất cập mang tính cấu trúc
+26
+. Công nghiệp công nghệ sâu đòi hỏi chu kỳ R&D dài hạn (một mẫu xe điện mới cần trung bình 3-5 năm nghiên cứu phát triển nghiêm túc trước khi thương mại hóa) và chấp nhận lỗ kế hoạch quy mô lớn để đạt tới sản lượng hòa vốn quy mô (thường ở mức 100,000 đến 200,000 xe/năm)
+27
+. Khoản lỗ ròng lũy kế của VinFast (lỗ $3.2 tỷ năm 2024 và $3.9 tỷ năm 2025) cho thấy công nghệ sâu là cuộc chơi đốt vốn khốc liệt đòi hỏi nguồn vốn nội sinh cực mạnh
+27
+.
+Biến cố pháp lý tại Mỹ: Kế hoạch xây dựng nhà máy trị giá 4tỷtạihạtChatham,bangB
+a
+˘
+ˊ
+cCarolinacủaVinFastgặpr
+a
+ˋ
+ocảnt
+a
+ˋ
+ich
+ı
+ˊ
+nhnghi
+e
+^
+mtrọng
+28
+.DoVinFastkh
+o
+^
+ngti
+e
+^
+ˊ
+nh
+a
+ˋ
+nhhoạtđộngx
+a
+^
+ydựngthẳngđứng("verticalconstruction")n
+a
+ˋ
+otrướchạnđịnhv
+a
+ˋ
+đơnphươngl
+u
+ˋ
+ilịchvậnh
+a
+ˋ
+nhsangn
+a
+˘
+m2028,đ
+o
+^
+ˋ
+ngthờic
+a
+˘
+ˊ
+tgiảmmụcti
+e
+^
+utuyểndụngtừ7,500xu
+o
+^
+ˊ
+ngc
+o
+ˋ
+n1,400laođộng,∗∗Tổngchưởngl
+y
+ˊ
+	​
+
+bangB
+a
+˘
+ˊ
+cCarolina,JeffJackson,đ
+a
+~
+ch
+ı
+ˊ
+nhthứckhởikiệnVinFastv
+a
+ˋ
+ong
+a
+ˋ
+y22th
+a
+ˊ
+ng5n
+a
+˘
+m2026∗∗
+29
+30
+.Vụkiệnnh
+a
+˘
+ˋ
+mmụcđ
+ı
+ˊ
+chch
+a
+^
+ˊ
+mdứtthỏathuận,thuh
+o
+^
+ˋ
+ilạito
+a
+ˋ
+nbộkhuđ
+a
+^
+ˊ
+trộng1,765m
+a
+^
+~
+uAnhv
+a
+ˋ
+y
+e
+^
+uc
+a
+^
+ˋ
+uho
+a
+ˋ
+ntrảto
+a
+ˋ
+nbộc
+a
+ˊ
+cchiph
+ı
+ˊ
+dọndẹpmặtb
+a
+˘
+ˋ
+ng(301.2 triệu tính đến cuối năm 2025)
+30
+. Biến cố này cho thấy rủi ro cực lớn khi các doanh nghiệp mới nổi cam kết các dấn thân vào những dự án công nghiệp vượt quá khả năng cân đối tài chính thực tế
+30
+.
+IV. Tác động kinh tế vĩ mô và rủi ro hệ thống tại Việt Nam
+Sự bành trướng quy mô của các tập đoàn kinh tế tư nhân đa ngành như Vingroup, kết hợp với các khoản lỗ lớn kéo dài của mảng công nghiệp xe điện VinFast, đã vượt qua phạm vi rủi ro nội bộ của một doanh nghiệp đơn lẻ và bắt đầu tạo ra các tác động lan tỏa mang tính vĩ mô đối với hệ thống tài chính quốc gia
+31
+.
+1. Mối liên hệ giữa các khoản lỗ của VinFast và rủi ro tín dụng hệ thống ngân hàng
+Sự tăng trưởng vượt bậc của cổ phiếu Vingroup vào năm 2025 (tăng tới 736%) đã đẩy giá trị vốn hóa của Vingroup và các công ty con chiếm tỷ trọng hơn 20% trong chỉ số VN-Index
+32
+. Sự ổn định tài chính của Vingroup do đó gắn liền với sự ổn định chung của thị trường tài chính nội địa
+32
+.
+Tính đến cuối năm 2025, tổng dư nợ vay thực tế của Tập đoàn Vingroup đạt mức khoảng 283.000 tỷ VNĐ, với hệ số nợ vay trên vốn chủ sở hữu ở mức khoảng 1.8 lần
+33
+. Việc VinFast liên tục ghi nhận các khoản lỗ tỷ đô mỗi năm ($3.2 tỷ năm 2024 và $3.9 tỷ năm 2025) đang đặt hệ thống các ngân hàng thương mại Việt Nam trước rủi ro tập trung tín dụng (credit concentration risk) rất lớn
+33
+. Phần lớn tài sản thế chấp cho các khoản vay khổng lồ này là quỹ đất dự án bất động sản thương mại và cổ phiếu của chính các công ty trong hệ sinh thái
+33
+. Cấu trúc tài trợ chéo này tạo ra một kênh truyền dẫn rủi ro kép
+34
+:
+Rủi ro sụt giảm giá trị tài sản bảo đảm: Nếu thị trường bất động sản nội địa đóng băng hoặc giá cổ phiếu của tập đoàn biến động mạnh, giá trị của các tài sản thế chấp sẽ sụt giảm nhanh chóng, buộc các ngân hàng phải yêu cầu bổ sung tài sản hoặc thực hiện trích lập dự phòng rủi ro nợ xấu quy mô lớn
+34
+.
+Áp lực dòng tiền thanh khoản: Để nuôi dưỡng mảng công nghệ nặng VinFast, Vingroup phải liên tục rút dòng tiền từ mảng phát triển bất động sản (vốn là công cụ tạo tiền chính) để bù đắp các khoản lỗ hoạt động và chi phí lãi vay
+34
+. Khi dòng tiền từ bất động sản bị nghẽn do các nút thắt pháp lý hoặc chu kỳ thị trường đi xuống, tập đoàn sẽ gặp khó khăn lớn trong việc duy trì nghĩa vụ trả nợ gốc và lãi đối với khoản nợ 283.000 tỷ VNĐ
+34
+. Điều này đe dọa trực tiếp đến thanh khoản của các ngân hàng thương mại chủ chốt — biểu hiện điển hình của tình trạng "quá lớn để sụp đổ" (Too Big to Fail), đặt cơ quan quản lý tiền tệ vào thế tiến thoái lưỡng nan trong việc điều hành chính sách
+34
+.
+2. Khái niệm "Cổ đông bất đắc dĩ" và sự đánh đổi nguồn lực xã hội
+Trong các mô hình kinh tế định hướng nhà nước hỗ trợ các "nhà vô địch quốc gia" như tại Việt Nam, sự ưu ái chính sách dành cho các tập đoàn lớn luôn đi kèm với những sự đánh đổi nguồn lực xã hội sâu sắc
+35
+. Khái niệm "cổ đông bất đắc dĩ" xuất hiện khi người dân và toàn bộ nền kinh tế phải gián tiếp gánh chịu chi phí cơ hội và rủi ro tài chính phát sinh từ các quyết định đầu tư mạo hiểm của một tập đoàn tư nhân quy mô lớn
+35
+. Sự đánh đổi nguồn lực này diễn ra qua ba kênh phân bổ chính sách
+36
+:
+Bất đối xứng trong phân bổ quỹ đất và tài nguyên: Việc nhà nước ưu tiên giao các khu đất sạch có vị trí đắc địa tại các đô thị lớn hoặc dọc các hành lang kinh tế cho một tập đoàn lớn để phát triển các dự án bất động sản thương mại tạo dòng tiền nhanh là một sự ưu ái lớn
+36
+. Chi phí cơ hội của việc này chính là ngân sách quốc gia bị thất thu từ hoạt động đấu giá đất công khai, đồng thời quỹ đất dành cho các dự án nhà ở xã hội, hạ tầng y tế công cộng hoặc không gian phát triển của các doanh nghiệp vừa và nhỏ (SMEs) bị thu hẹp đáng kể
+36
+.
+Hiệu ứng lấn át tín dụng (Crowding-out effect): Khi các ngân hàng thương mại lớn buộc phải ưu tiên dành một phần lớn hạn mức tín dụng dài hạn với mức lãi suất ưu đãi để tài trợ cho các dự án công nghệ hoặc hạ tầng khổng lồ của nhà vô địch quốc gia (ví dụ như đề xuất vay 80% vốn đường sắt tốc độ cao từ ngân sách với lãi suất 0% của VinSpeed), dòng vốn khả dụng cung cấp cho phần còn lại của nền kinh tế bị siết chặt
+36
+. Các doanh nghiệp vừa và nhỏ (SMEs) — vốn đóng góp phần lớn vào việc làm và tăng trưởng GDP nhưng thiếu tài sản bảo đảm quy mô — sẽ gặp khó khăn lớn trong việc tiếp cận dòng vốn ngân hàng
+36
+.
+Sự bảo lãnh ngầm từ phía Nhà nước (Implicit government guarantee): Do quy mô tác động xã hội và tính chất kết nối hệ thống của các dự án lớn, Nhà nước buộc phải duy trì một cam kết ngầm về việc bảo vệ doanh nghiệp khỏi nguy cơ phá sản nhằm tránh các bất ổn xã hội và đổ vỡ hệ thống tín dụng
+36
+. Sự bảo lãnh này tạo ra rủi ro đạo đức (moral hazard), khiến các tập đoàn tư nhân tự tin đưa ra các quyết định đầu tư mở rộng quá đà ra nước ngoài (như tại Mỹ hay Ấn Độ) vì tin rằng nếu xảy ra thất bại, ngân sách quốc gia và người dân cuối cùng sẽ phải đứng ra gánh chịu hậu quả tài chính thông qua các gói tái cơ cấu nợ hoặc hoãn giãn nợ
+36
+.
+V. Tầm quan trọng của kỷ luật thể chế trong mô hình "Chaebol phiên bản Việt"
+Sự thành công của mô hình Chaebol tại Hàn Quốc trong giai đoạn đầu của tiến trình công nghiệp hóa không chỉ đến từ các chính sách bảo hộ và trợ cấp vốn của chính phủ, mà quan trọng hơn, nó dựa trên việc thực thi một hệ thống kỷ luật thể chế vô cùng nghiêm khắc đối với các tập đoàn này
+37
+. Chính phủ Hàn Quốc sẵn sàng để các tập đoàn lớn phá sản hoặc tước quyền quản trị của các nhà sáng lập nếu họ không đạt được các mục tiêu xuất khẩu, gây thất thoát vốn nhà nước hoặc không thể tự chủ về công nghệ
+37
+.
+Tại Việt Nam, khi các tập đoàn kinh tế tư nhân lớn bắt đầu sở hữu quy mô và tầm ảnh hưởng mang dáng dấp của các Chaebol, việc thiết lập và thực thi nghiêm túc các rào cản kỷ luật thể chế là điều kiện bắt buộc để ngăn chặn các hệ lụy tiêu cực của chủ nghĩa tư bản thân hữu và bảo vệ sự lành mạnh của nền kinh tế vĩ mô
+38
+.
+Bài học lịch sử giữa Daewoo và Samsung:
+Thất bại cấu trúc của Daewoo (1999): Daewoo từng là chaebol lớn thứ hai Hàn Quốc nhưng mắc kẹt sâu sắc trong trạng thái "quán tính hoạt động" (active inertia)
+39
+. Khi triển khai chiến lược toàn cầu hóa vào năm 1993, Daewoo không tập trung đầu tư vào R&D hay xây dựng thương hiệu chất lượng cao, mà tiếp tục bành trướng quy mô sản xuất lắp ráp cơ học thông qua nợ vay ngắn hạn
+39
+. Khi cuộc khủng hoảng tài chính nổ ra vào năm 1997, gánh nợ vay của Daewoo phình to lên tới $57 tỷ (tương đương 13% toàn bộ GDP của Hàn Quốc) với tỷ lệ nợ trên vốn chủ sở hữu vượt mức 5:1
+40
+. Do mất thanh khoản, Daewoo bị giải thể vào năm 1999
+40
+.
+Thành công của Samsung: Dưới sự dẫn dắt của Chủ tịch Lee Kun-hee từ năm 1993, Samsung đã thực hiện cuộc cách mạng quản trị "New Management", chuyển dịch từ "số lượng sang chất lượng và công nghệ vượt trội"
+41
+. Samsung tiến hành thoái vốn quyết đoán các mảng phi cốt lõi (dệt may, giấy, hóa chất, mỏ) để tập trung duy nhất vào chất bán dẫn (DRAM), màn hình phẳng và thiết bị di động
+42
+. Tập đoàn cũng loại bỏ các chỉ số sản lượng cơ học, thay vào đó áp dụng hệ thống KPI mới dựa trên năng lực sáng tạo và chất lượng (số lượng bằng sáng chế, tỷ lệ lỗi sản xuất)
+42
+. Đến năm 2003, Samsung Electronics đã vươn lên vị thế dẫn đầu công nghệ toàn cầu
+43
+.
+Bảng 3: So sánh mô hình tăng trưởng của Daewoo và Samsung
+Chỉ số so sánh
+	
+Mô hình tăng trưởng Daewoo (Sụp đổ 1999)
+	
+Mô hình chuyển đổi Samsung (Thành công)
+
+
+Triết lý phát triển
+	
+Tập trung vào quy mô sản lượng, chiếm lĩnh thị phần bằng giá rẻ và lắp ráp cơ học
+43
+.
+	
+Tập trung vào chất lượng thế giới, nâng cao mức độ sẵn lòng chi trả của khách hàng qua R&D
+43
+.
+
+
+Cấu trúc tài chính
+	
+Đòn bẩy nợ cực cao (D/E đạt 5:1 năm 1998)
+43
+; sử dụng nợ vay ngắn hạn tài trợ đầu tư dài hạn
+43
+.
+	
+Duy trì cấu trúc vốn cân bằng, ưu tiên dòng tiền nội sinh và quỹ dự phòng R&D lớn
+43
+.
+
+
+Chiến lược danh mục
+	
+Đa dạng hóa dàn trải, liên tục thâu tóm doanh nghiệp phi cốt lõi bằng nợ vay
+43
+.
+	
+Thoái vốn triệt để mảng phi công nghệ (dệt may, giấy, mỏ) để dồn lực cho bán dẫn và hiển thị
+43
+.
+
+
+Quản trị R&D
+	
+Thấp, chủ yếu mua công nghệ sẵn có và thực hiện hóa phần cứng cơ học
+43
+.
+	
+Cao, kiên trì đầu tư dài hạn để sở hữu các phát minh và bằng sáng chế độc quyền
+43
+.
+
+
+Hệ quả cấu trúc
+	
+Phá sản năm 1999 dưới khoản nợ $57 tỷ (13% GDP Hàn Quốc)
+43
+.
+	
+Trở thành thương hiệu hàng đầu thế giới và dẫn đầu chuỗi cung ứng bán dẫn toàn cầu
+43
+.
+📊 Bạn có muốn tôi thiết lập một biểu đồ so sánh chi tiết các chỉ số nợ, đòn bẩy tài chính và tỷ lệ sở hữu ngân hàng giữa các quốc gia Đông Âu, Mexico và Việt Nam để làm rõ hơn mức độ rủi ro hệ thống?

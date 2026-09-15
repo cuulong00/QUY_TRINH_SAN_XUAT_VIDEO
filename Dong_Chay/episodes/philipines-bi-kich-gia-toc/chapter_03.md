@@ -1,0 +1,17 @@
+Nếu đến các khu công nghiệp ngoại ô Manila, bạn sẽ nhận ra một điều kỳ lạ. Những bãi đất rộng mênh mông nằm sát cảng biển nước sâu. Nhưng ở đó hoàn toàn vắng bóng các tổ hợp cơ khí khổng lồ. Rào cản không phải do thiếu nhân công. Nó nằm ngay ở chiếc công tơ điện đang quay tít ngoài cổng nhà máy.
+
+Tại thủ đô Manila, công ty Meralco kiểm soát hơn năm mươi lăm phần trăm sản lượng điện cả nước. Hóa đơn bán lẻ từng chạm đỉnh gần mười lăm peso một số điện. Mức giá này tương đương hơn sáu nghìn năm trăm đồng tiền Việt. Tức là khoảng không phẩy hai sáu đô la Mỹ. Đây là mức giá đắt thứ hai tại Đông Nam Á, chỉ sau Singapore. Nhưng nếu tính đúng chi phí không bù giá, giá điện tại đây đắt hàng đầu châu Á.
+
+Trong khi đó, giá điện sản xuất của Việt Nam chỉ khoảng hai nghìn đồng một số điện. Con số này tương đương khoảng không phẩy không tám đô la Mỹ. Tức là, chi phí điện tại Manila đắt gấp hơn ba lần so với tại Việt Nam. Với ngành chế tạo chip hay luyện kim, tiền điện chiếm tới sáu mươi phần trăm chi phí. Giá điện quá cao đã biến thành một loại thuế ngược. Nó bóp nghẹt sức cạnh tranh của nền sản xuất Philippines ngay từ đầu.
+
+Để hiểu vì sao cái bẫy này xuất hiện, chúng ta phải nhìn lại cuộc khủng hoảng năm một nghìn chín trăm chín mươi bảy. Khi đó, Tập đoàn Điện lực Nhà nước Philippines ngập trong khoản nợ mười sáu tỷ đô la. Các hòn đảo bị cắt điện luân phiên tới mười hai tiếng mỗi ngày. Ngân sách quốc gia hoàn toàn kiệt quệ. Đứng trước bờ vực sụp đổ, Quốc hội nước này ban hành Đạo luật ê pi ra năm hai nghìn không trăm lẻ một để tư nhân hóa.
+
+Về lý thuyết, tư nhân hóa là để tạo cạnh tranh và kéo giảm giá điện. Nhưng thực tế lại rẽ sang một hướng hoàn toàn trái ngược. Đạo luật cho phép các công ty áp dụng cơ chế chuyển giá trực tiếp lên người dân. Tiền phát điện chiếm hơn sáu mươi phần trăm hóa đơn hàng tháng. Các nhà máy này lại phụ thuộc tới gần sáu mươi phần trăm vào than đá nhập khẩu. Mọi biến động giá than thế giới hay tỷ giá đô la đều trút thẳng lên đầu người tiêu dùng.
+
+Các tập đoàn năng lượng hầu như không phải chịu rủi ro thị trường. Họ ký hợp đồng dài hạn và tự bán điện cho các công ty con trong cùng hệ sinh thái. Thị trường điện nhanh chóng biến thành sân chơi khép kín của các nhóm lợi ích. Các gia tộc lớn chia nhau kiểm soát từ khâu phát điện đến trạm biến áp bán lẻ.
+
+Vì sao một cơ chế bóp nghẹt sản xuất như vậy lại tồn tại suốt hai mươi lăm năm? Câu trả lời nằm ở cấu trúc quyền lực thượng tầng. Khoảng một trăm gia tộc chính trị đang nắm giữ hơn bảy mươi phần trăm ghế Quốc hội. Quyền lực lập pháp và lợi ích kinh tế đã hòa làm một. Những đạo luật mở cửa cạnh tranh đều bị gác lại. Các bãi thu tiền địa tô được che chắn bằng những tấm lá chắn kiên cố.
+
+Khi giá điện đắt gấp ba lần khu vực, các tập đoàn quốc tế không có lý do để ở lại. Các dự án F D I chế tạo lớn ồ ạt chọn Việt Nam, Malaysia hay Indonesia làm điểm đến. Philippines gần như bị bỏ lại phía sau. Đất nước này chỉ thu hút được khoảng một phần trăm tổng vốn F D I của khối A xê an. Nền kinh tế trẻ trung bị kẹt lại trong các xưởng gia công thâm dụng lao động.
+
+Nhưng bi kịch địa tô không chỉ dừng lại ở các khu công nghiệp bỏ hoang. Chiếc thòng lọng ấy siết thẳng vào bát cơm của hơn một trăm triệu con người. Ngay tại nơi từng khai sinh ra cuộc Cách mạng Xanh cho châu Á, một nghịch lý cay đắng đang diễn ra. Đất nước này đã biến thành nhà nhập khẩu gạo lớn nhất hành tinh. Họ phụ thuộc tới hơn bảy mươi lăm phần trăm vào những cánh đồng lúa của Việt Nam.

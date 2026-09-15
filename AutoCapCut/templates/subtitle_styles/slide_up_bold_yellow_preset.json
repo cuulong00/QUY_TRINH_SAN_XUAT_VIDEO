@@ -1,0 +1,43 @@
+{
+  "capcutCliPreset": 1,
+  "style": {
+    "alignment": 1,
+    "font_size": 8.5,
+    "text_color": "#f0ff00ff",
+    "typesetting": 0,
+    "letter_spacing": 0,
+    "line_spacing": 0.02,
+    "line_feed": 1,
+    "line_max_width": 0.82,
+    "force_apply_line_max_width": true,
+    "fixed_width": -1,
+    "fixed_height": -1,
+    "text_alpha": 1,
+    "has_shadow": false,
+    "shadow_alpha": 0.8999999761581421,
+    "shadow_angle": -29,
+    "shadow_color": "#000000e5",
+    "shadow_distance": 6.999982833862305,
+    "shadow_smoothing": 0.028308000415563583,
+    "border_width": 0.05000000074505806,
+    "border_color": "#000000ff",
+    "border_alpha": 0,
+    "background_color": "",
+    "background_alpha": 1,
+    "background_style": 0,
+    "background_round_radius": 0,
+    "background_width": 0.14,
+    "background_height": 0.14,
+    "background_horizontal_offset": 0,
+    "background_vertical_offset": 0,
+    "font_id": "",
+    "font_name": "",
+    "font_path": "/Users/pro16/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7483071152827403525/1363bdee8d8af93c817ad80b9daf6285/font.ttf",
+    "font_resource_id": "7483071152827403525",
+    "underline": false
+  },
+  "transform": {
+    "x": 0,
+    "y": -0.73
+  }
+}

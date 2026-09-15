@@ -1,0 +1,23 @@
+Nghiên cứu toàn diện và sâu sắc về thực trạng ngành gọi xe công nghệ tại Việt Nam giai đoạn 2025-2026, tập trung vào các vấn đề cốt lõi sau:
+
+1. Sự kiện tài xế Grab kêu gọi tắt app đình công ngày 12 và 13 tháng 9 năm 2026 tại Việt Nam:
+- Nguyên nhân sâu xa và trực tiếp: phản ánh về giá cước trên mỗi km quá thấp, không bù đắp được chi phí xăng xe và khấu hao phương tiện; cơ chế "Biểu giá linh động" (Dynamic Fare) và việc cuốc xe yêu cầu chạy rỗng đón khách xa nhưng thù lao không tương xứng.
+- Các thay đổi về cơ cấu phí của Grab năm 2026: Grab tăng phí nền tảng cố định từ ngày 28/04/2026 (3.000đ với xe 2 bánh; từ 5.000đ đến 19.000đ với xe 4 bánh tùy cự ly); mức thuế VAT 8% (áp dụng từ tháng 7/2025 đến hết năm 2026); hoa hồng nền tảng (20-28.6%); tổng tỷ lệ khấu trừ thực tế trên mỗi chuyến xe dao động từ 28.2% đến 35.8%.
+- Cách thức thuật toán Dynamic Pricing và Surge Pricing (nhân cước 1.3x đến 2.0x) tự động kích hoạt khi tài xế tắt app, tạo ra miếng mồi kinh tế học hành vi (Nghịch lý tù nhân - Prisoner's Dilemma) khiến tài xế túng thiếu lẳng lặng bật app trở lại, bẻ gãy cuộc đình công tự phát từ bên trong.
+- Báo cáo tài chính Grab Holdings Limited (SEC Filings): Cột mốc năm 2025 lần đầu tiên báo lãi ròng toàn cầu 200 triệu USD, Adjusted EBITDA đạt 500 triệu USD; doanh thu tại Việt Nam đạt 255 triệu USD (2025) và 140 triệu USD (H1/2026). Chiến lược chuyển dịch sang "Pha thu hoạch" (Harvesting Phase), cắt giảm toàn bộ trợ cấp.
+
+2. Cục diện thị trường gọi xe công nghệ Việt Nam 2025-2026 (Tam mã: Xanh SM, Grab, Be Group):
+- Báo cáo thị phần taxi 4 bánh của Mordor Intelligence: Q4/2025 Xanh SM đạt 51.5% thị phần; Q1/2026 Xanh SM tăng lên 54.51% thị phần (quý thứ 6 liên tiếp giữ vị trí số 1); Grab bị đẩy lùi về 40.92%; Be Group chiếm 4.57%. Sự rút lui của Gojek khỏi Việt Nam vào ngày 16/9/2024.
+- Doanh thu thuần của GSM (Xanh SM) năm 2025 đạt 16.000 - 17.400 tỷ đồng (+125% YoY theo Saigon Ratings), vượt tổng doanh thu của Grab VN + Vinasun + Mai Linh gộp lại; vốn điều lệ nâng lên 54.000 tỷ đồng phục vụ kế hoạch IPO tại HKEX năm 2027 với định giá 20 tỷ USD.
+- Sự chuyển dịch tâm lý người tiêu dùng đô thị sang xe điện (xe mới, điều hòa mát, không mùi xăng) khiến cuốc xe của tài xế xe xăng Grab bị cạn kiệt, trở thành giọt nước tràn ly kích nổ làn sóng tắt app.
+
+3. Đối soát Unit Economics thực tế năm 2026 giữa xe xăng và xe điện:
+- Bảng tính chi phí nhiên liệu 100km: Ô tô xăng (Vios/Accent) tốn 155.000đ - 175.000đ vs Ô tô điện (VF5) tốn 55.000đ - 65.000đ (điện rẻ hơn ~63%, tiết kiệm 5-6 triệu/tháng). Xe máy xăng (Wave/Vision) tốn 49.4k - 59.7k vs Xe máy điện (Evo200/Green SM) tốn 11.2k - 20k (điện rẻ hơn 60% - 81%).
+- Bẫy khấu hao tài sản (Depreciation Trap) của tài xế GrabCar: Vay mua xe trả góp 80% (440 triệu/550 triệu), lãi ngân hàng 10 triệu/tháng. Sau 14 tiếng chạy xe trừ xăng và nợ, thực nhận chỉ còn ~340.000đ/ngày (10-15 triệu/tháng); sau 3 năm xe nát mất giá 250 triệu.
+- Bào mòn vi mô của tài xế GrabBike: chạy 8-10 tiếng thu ròng 5-8 triệu/tháng, cuốc ngắn 15k-18k bị bào mòn bởi phí và xăng.
+
+4. Ảo tưởng tháo chạy sang xe điện và Vòng kim cô kỷ luật của Xanh SM:
+- Sức hút từ bài toán tiền xăng và đòn bẩy thể chế Quyết định 876/QĐ-TTg (100% taxi điện vào 2030) cùng bức tường trạm sạc V-GREEN độc quyền đóng kín cửa với xe ngoài.
+- Thực tế khi tài xế sang Xanh SM: Kỷ luật tác phong 5 sao khắt khe (cà vạt, giày tây, kịch bản cúi chào, cấm hút thuốc, phạt tiền và đình chỉ chạy nếu bị đánh giá 1 sao); cơn ác mộng trạm sạc V-GREEN (phạt 1.000đ/phút sau 10 phút sạc đầy từ 26/8/2025, mất ngủ canh xe sạc đêm); áp lực khoán KPI doanh số.
+- Chiến lược Xanh SM Platform: Do hồ sơ rủi ro tài chính ở mức 5/6 (theo Saigon Ratings) và áp lực chi phí Capex trước thềm IPO Hong Kong 2027, GSM chuyển dịch từ tài xế cơ hữu sang cho thuê xe tự vận hành hoặc mua xe trả góp, từng bước "Grab hóa" bằng cách đẩy rủi ro tài sản ngược lại cho tài xế.
+- Xã hội học giai cấp lao động bấp bênh (Precariat): Thân phận "đối tác độc lập" không có hợp đồng lao động, không BHXH, không ngày nghỉ ốm; sự bế tắc của các cuộc tắt app tự phát và kết cục hội tụ vắt kiệt của cả hai mô hình kinh tế nền tảng.

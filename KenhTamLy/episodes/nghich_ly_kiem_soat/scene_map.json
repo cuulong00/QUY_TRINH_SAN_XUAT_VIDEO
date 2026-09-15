@@ -1,0 +1,590 @@
+[
+  {
+    "id": "SC01",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Phòng thí nghiệm Trinity năm 1987, một chiếc chuông sắt nhỏ nằm đơn độc trên bàn trước vị trí người tình nguyện. Không gian tối, lạnh, như mở đầu cho một phép thử tưởng vô hại nhưng chứa sẵn sự sụp đổ của ý chí."
+  },
+  {
+    "id": "SC02",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Daniel Wegner đứng cạnh bàn, ra đúng một mệnh lệnh duy nhất. Tư thế bình thản của nhà nghiên cứu làm thí nghiệm càng lạnh hơn."
+  },
+  {
+    "id": "SC03",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Trong đầu người nghe, hình ảnh con gấu trắng lông xù vừa được gọi tên như một thứ bị cấm. Điều bị cấm xuất hiện ngay trong khoảnh khắc lệnh cấm được ban ra."
+  },
+  {
+    "id": "SC04",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chiếc tay đặt sẵn bên cạnh chuông, chuẩn bị phải tự tố cáo chính suy nghĩ của mình. Vật thể nhỏ bỗng mang sức nặng của một thiết bị xét xử nội tâm."
+  },
+  {
+    "id": "SC05",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Người tham gia bước vào với vẻ tự tin tuyệt đối. Họ tin một bộ não trưởng thành đủ sức kiểm soát một ý nghĩ vớ vẩn."
+  },
+  {
+    "id": "SC06",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Việc kiểm soát một ý nghĩ nghe giống một trò đùa trẻ con. Cảm giác dễ dàng hiện ra trước khi thí nghiệm bắt đầu phản đòn."
+  },
+  {
+    "id": "SC07",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Rồi tiếng chuông đầu tiên vang lên, rụt rè và chậm chạp. Khoảnh khắc thất bại đầu tiên nhỏ nhưng đủ làm vỡ lớp tự tin ban đầu."
+  },
+  {
+    "id": "SC08",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chỉ vài chục giây sau, tiếng chuông lại vang lên thêm lần nữa. Sự tái xuất hiện của điều bị cấm đã bắt đầu thành nhịp."
+  },
+  {
+    "id": "SC09",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Rồi tiếng chuông thứ ba nối tiếp, dồn gần hơn. Tần suất tăng lên như một cơn phản loạn không ai điều khiển nổi."
+  },
+  {
+    "id": "SC10",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Căn phòng bắt đầu chìm trong tiếng chuông dồn dập. Mỗi người một nhịp thất thủ khác nhau, nhưng cùng một bất lực tập thể."
+  },
+  {
+    "id": "SC11",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Trong tiếng chuông có cả tuyệt vọng lẫn bực tức mỉa mai. Thất bại này không đến từ lười biếng mà từ chính cơ chế kiểm soát."
+  },
+  {
+    "id": "SC12",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Không một ai làm tâm trí mình câm lặng được. Sự bất lực hiện ra lạnh lùng như một dữ kiện."
+  },
+  {
+    "id": "SC13",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Con gấu trắng không bị đuổi đi mà nhảy chồm ra từ mọi góc khuất của ý thức. Cảm giác bị ám không cần phô trương thành quái dị."
+  },
+  {
+    "id": "SC14",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nó như hiện ở bức tường, ở bóng đèn, ở chính câu lệnh cấm. Môi trường bình thường bị nhuộm bởi điều họ đang cố xóa."
+  },
+  {
+    "id": "SC15",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Dữ liệu hiện lên rõ ràng: nhóm bị cấm nhắc đến con gấu nhiều gấp đôi nhóm tự do. Sự châm biếm của sinh học biến thành con số lạnh."
+  },
+  {
+    "id": "SC16",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sự kiêu hãnh của con người vỡ vụn. Ai đó bắt đầu nhìn bộ não của mình như một thứ không chịu nghe lời."
+  },
+  {
+    "id": "SC17",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Câu hỏi bật lên: vì sao bộ não nằm trong chính hộp sọ mình lại từ chối tuân lệnh mình? Khoảnh khắc nhận ra sự phản bội là cú xoay đau nhất."
+  },
+  {
+    "id": "SC18",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Càng nghiến răng dồn sức ức chế, con gấu càng quay lại hung hãn hơn. Nỗ lực kiểm soát và sự trở lại của suy nghĩ dính chặt vào nhau."
+  },
+  {
+    "id": "SC19",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Wegner đặt tên cho hiện tượng ấy là Ironic Process Theory. Cái tên khoa học làm rõ một nghịch lý vốn rất người."
+  },
+  {
+    "id": "SC20",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sự thật được khóa lại: càng cố ức chế, suy nghĩ càng sống dai hơn. Đây không còn là cảm giác chủ quan mà là một quy luật vận hành."
+  },
+  {
+    "id": "SC21",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Ý chí dùng để xóa hình ảnh lại biến nó thành bóng ma lưu trú lâu dài trong trí nhớ. Cơ chế bảo vệ hóa thành công cụ khắc sâu."
+  },
+  {
+    "id": "SC22",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng phần kinh hoàng nhất của thí nghiệm còn nằm ở năm phút tiếp theo. Bầu không khí đổi từ thất bại sang dự cảm bùng nổ."
+  },
+  {
+    "id": "SC23",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khi lệnh cấm được gỡ bỏ, người tham gia được phép nghĩ thoải mái về con gấu trắng. Cánh cửa mở ra cho cú dội ngược."
+  },
+  {
+    "id": "SC24",
+    "chapter": 1,
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Lúc ấy họ lại nghĩ về nó nhiều hơn gấp ba lần. Điều bị nén không chết, nó tích áp rồi phun ngược trở lại."
+  },
+  {
+    "id": "SC25",
+    "chapter": 2,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Rời phòng thí nghiệm, con gấu trắng ngoài đời không có lông xù mà khoác hình hài của rắc rối người ta muốn gột sạch nhất. Với nhiều người, nó xuất hiện đúng vào 3 giờ 15 sáng, ngay giữa căn phòng ngủ và sự im lặng."
+  },
+  {
+    "id": "SC26",
+    "chapter": 2,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Người mất ngủ trở mình, nhìn đồng hồ, rồi hoảng lên khi nghĩ tới cuộc họp sáng mai. Mệnh lệnh “ngủ đi ngay lập tức” xuất hiện như một lời tự đe dọa."
+  },
+  {
+    "id": "SC27",
+    "chapter": 2,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Họ hít sâu, gồng cơ, đếm cừu, đếm hơi thở. Nhưng thứ họ thật sự đang đếm là số phút mình còn thức."
+  },
+  {
+    "id": "SC28",
+    "chapter": 2,
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Bạn không thể dùng ý thức liên tục hỏi xem giấc ngủ đã đến chưa. Câu hỏi ấy chính là ngọn đèn pha rọi thẳng vào trạng thái vô thức cần yên đi."
+  },
+  {
+    "id": "SC29",
+    "chapter": 2,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Y học gọi trạng thái ấy là hyperarousal. Amygdala đọc lệnh “phải ngủ nếu không sẽ hỏng việc” như một báo động khẩn, rồi bơm cortisol và adrenaline khiến tim nhanh, hơi thở ngắn, giác quan bật sáng."
+  },
+  {
+    "id": "SC30",
+    "chapter": 2,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Cơ chế này từng cứu mạng tổ tiên khi nghe tiếng động giữa đồng hoang. Nhưng tiến hóa không phân biệt con báo ngoài bụi cỏ với một bản KPI sáng mai."
+  },
+  {
+    "id": "SC31",
+    "chapter": 2,
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Dùng ý chí ép ngủ giống như đổ xăng vào lửa. Bạn thua không chỉ vì cà phê, mà vì đã cố ép hệ thần kinh thư giãn bằng bạo lực."
+  },
+  {
+    "id": "SC32",
+    "chapter": 2,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Con gấu trắng cũng ngồi trên bàn ăn của những người ăn kiêng cực đoan. Càng thề không đụng đồ ngọt, hình ảnh chiếc bánh quy càng bay lượn trong đầu và mọi vật quanh họ đều gợi về thức ăn."
+  },
+  {
+    "id": "SC33",
+    "chapter": 2,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nó còn hiện trên bục thuyết trình, nơi người lo âu xã hội tự nhắc “đừng run”. Vừa bước ra sân khấu, cổ họng thắt lại, tay chân lạnh đi, đầu trắng xóa."
+  },
+  {
+    "id": "SC34",
+    "chapter": 3,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Wegner nhận ra rằng mỗi lần bạn cố ức chế một điều, não không làm một việc mà tách thành hai cỗ máy chạy song song. Cuộc chiến nội tâm thực ra là cuộc va chạm giữa hai hệ thống cùng lúc."
+  },
+  {
+    "id": "SC35",
+    "chapter": 3,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Cỗ máy thứ nhất là Máy Vận Hành, phần ngoan ngoãn ở vỏ não trước trán. Nó chủ động đi tìm các hình ảnh hỗ trợ cho điều bạn muốn, như đếm cừu, tưởng tượng bãi biển, cố làm lỏng cơ bắp."
+  },
+  {
+    "id": "SC36",
+    "chapter": 3,
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Nhưng Máy Vận Hành rất tốn năng lượng và dễ mệt. Nó là người làm việc chăm chỉ nhưng nhanh cạn pin."
+  },
+  {
+    "id": "SC37",
+    "chapter": 3,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Cỗ máy thứ hai là Máy Giám Sát, con chó canh gác ẩn sâu trong vô thức. Nó không giúp bạn ngủ; nó chỉ liên tục rà xem bạn có đang phạm vào điều bị cấm hay không."
+  },
+  {
+    "id": "SC38",
+    "chapter": 3,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Khi bạn cấm mình nghĩ về công việc, Máy Giám Sát phải giữ nguyên bản mẫu “công việc” trong đầu để đối chiếu. Nó liên tục gõ cửa hỏi xem đống KPI có quay lại chưa."
+  },
+  {
+    "id": "SC39",
+    "chapter": 3,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Đây là nghịch lý tàn nhẫn nhất: để không nghĩ về một thứ, não phải giữ thứ đó luôn hiện diện. Nó giống hệt máy rà bom phải mang dữ liệu của quả mìn để tìm mìn."
+  },
+  {
+    "id": "SC40",
+    "chapter": 3,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Người cai thuốc lá vừa thức dậy đã vô thức tải lại cả mùi khói, giấy cuốn và tiếng bật lửa. Cuộc cai nghiện thất bại trước cả khi anh bước ra khỏi cửa."
+  },
+  {
+    "id": "SC41",
+    "chapter": 3,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Khi cơ thể còn khỏe và đời sống còn êm, Máy Vận Hành vẫn đủ sức che tiếng ồn của Máy Giám Sát. Nhưng đó chỉ là lúc ảo tưởng kiểm soát còn đủ nhiên liệu để đứng vững."
+  },
+  {
+    "id": "SC42",
+    "chapter": 4,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Muốn hiểu vì sao ý chí sụp đổ đúng lúc cần nó nhất, phải nhìn vào cách não phân bổ năng lượng. Ý thức cực kỳ đắt đỏ, còn vô thức thì gần như miễn phí."
+  },
+  {
+    "id": "SC43",
+    "chapter": 4,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Máy Vận Hành giống một vị tướng ở vỏ não trước trán, lên kế hoạch và kiềm chế xung động. Nhưng mỗi phút giữ ảo tưởng kiểm soát đều đốt thêm glucose như một cỗ máy hao xăng."
+  },
+  {
+    "id": "SC44",
+    "chapter": 4,
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Trái lại, Máy Giám Sát ở tầng hầm vô thức không cần ánh sáng hay nghỉ ngơi. Nó chạy bền như bản năng sinh tồn cổ đại."
+  },
+  {
+    "id": "SC45",
+    "chapter": 4,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Khi bạn mệt, stress, chia tay, nợ nần, hay đa nhiệm quá mức, tải trọng nhận thức dồn hết lên vỏ não trước trán. Đời thực chính là nơi nhiên liệu kiểm soát bị rút cạn nhanh nhất."
+  },
+  {
+    "id": "SC46",
+    "chapter": 4,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Thí nghiệm bánh quy và củ cải của Baumeister cho thấy ý chí là một bình xăng có đáy. Nhóm phải nhịn bánh đã bỏ cuộc cực nhanh trước bài toán khó vì nhiên liệu tự kiểm soát đã cạn sạch từ trước."
+  },
+  {
+    "id": "SC47",
+    "chapter": 4,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bi kịch thật sự đến khi vị tướng ý thức gục xuống vào cuối ngày hoặc lúc 3 giờ sáng. Lớp phòng vệ chủ động sập đi, còn con chó giám sát thì vẫn khỏe nguyên."
+  },
+  {
+    "id": "SC48",
+    "chapter": 4,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Khi được tháo xích, Máy Giám Sát tràn lên toàn bộ tâm trí và ném thẳng điều bị cấm ra giữa màn hình nhận thức. Bạn bị buộc phải nhìn chằm chằm vào chính thứ mình muốn quên nhất."
+  },
+  {
+    "id": "SC49",
+    "chapter": 4,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Đó là lý do người thất tình hay người trầm cảm thường sụp đổ vào đêm muộn. Ban ngày còn đủ ánh sáng và việc làm để đẩy đi; ban đêm, nhiên liệu hết và hình bóng cũ quay lại với sức nặng gấp nhiều lần."
+  },
+  {
+    "id": "SC50",
+    "chapter": 5,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Trong thể thao và những khoảnh khắc sinh tử, luôn có các thất bại vô lý đến mức người ngoài chỉ biết đập bàn. Một ngôi sao sút hỏng ở phút cuối hay một nghệ sĩ trượt nốt cơ bản đều cùng mang một loại bi kịch."
+  },
+  {
+    "id": "SC51",
+    "chapter": 5,
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Khoa học gọi đó là choking, sự nghẹt thở hành vi dưới áp lực cao. Nó không chứng minh con người yếu, mà cho thấy họ bị chính nỗ lực bù trừ quá mức phản bội."
+  },
+  {
+    "id": "SC52",
+    "chapter": 5,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Ironic overcompensation xảy ra khi golfer đứng trước cú putt sống còn và tự nhắc “đừng vung mạnh”. Áp lực tiền bạc, đám đông và phần thưởng rút sạch sự tự nhiên khỏi cơ thể."
+  },
+  {
+    "id": "SC53",
+    "chapter": 5,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Để giám sát việc không vung mạnh, não phải tải sẵn hình dung về cú vung quá đà xuống cánh tay. Khi ý thức sụp, tín hiệu mồi ấy hóa thành chính lệnh thực thi sai lầm."
+  },
+  {
+    "id": "SC54",
+    "chapter": 5,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Kết quả là quả bóng bay vọt qua xa, như thể nỗi sợ đã trực tiếp lập trình động tác. Điều tệ nhất không chỉ được tưởng tượng, nó được cơ thể thi hành."
+  },
+  {
+    "id": "SC55",
+    "chapter": 5,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Điều tương tự diễn ra với diễn giả cầm micro và tự dặn “đừng run”. Sự chú ý thần kinh dồn hết vào bó cơ cần ổn định, rồi chính kính lúp ấy làm tay họ bắt đầu lẩy bẩy."
+  },
+  {
+    "id": "SC56",
+    "chapter": 5,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Tới đây phải thấy rõ: dùng kỷ luật để tấn công vô thức chỉ là đưa cho vô thức đúng thứ vũ khí nó cần. Sự cố gắng sai chỗ mới là viên đạn bắn ngược vào mình."
+  },
+  {
+    "id": "SC57",
+    "chapter": 6,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Trong quán cà phê khuya, một người kể về sự cạn kiệt của mình với hy vọng được hiểu. Thứ họ nhận lại chỉ là một cái vỗ vai và câu “đừng nghĩ nữa”, lạnh hơn cả sự im lặng."
+  },
+  {
+    "id": "SC58",
+    "chapter": 6,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Sự tàn ác của câu khuyên ấy không nằm ở ác ý mà ở tính phản khoa học. Toxic positivity buộc người đau phải đóng gói cảm xúc, rồi giao vũ khí thẳng vào tay Máy Giám Sát."
+  },
+  {
+    "id": "SC59",
+    "chapter": 6,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Với người trầm cảm, lệnh “phải vui lên” biến nỗi buồn thành điều cấm kỵ. Máy Giám Sát liền soi từng dấu hiệu yếu đuối, rồi khuếch đại chúng thành một cơn sóng tội lỗi mới."
+  },
+  {
+    "id": "SC60",
+    "chapter": 6,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nỗi đau lúc này nhân đôi: đau vì cảm xúc gốc, và đau vì tự kết án mình không chèn ép nổi nó. Căn bệnh không chỉ nằm ở cảm xúc mà còn ở thái độ cưỡng chế với cảm xúc."
+  },
+  {
+    "id": "SC61",
+    "chapter": 6,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Văn hóa ăn kiêng làm điều tương tự khi dán nhãn “trái cấm” lên chocolate và tinh bột. Cái bị cấm không biến mất, nó thành trung tâm của vũ trụ chú ý."
+  },
+  {
+    "id": "SC62",
+    "chapter": 6,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn có thể nhịn được một ngày, nhưng đến ngày thứ hai khi vỏ não cạn năng lượng, Máy Giám Sát nổi dậy và rào chắn ý thức vỡ nát trước cơn ăn bùng phát lúc nửa đêm."
+  },
+  {
+    "id": "SC63",
+    "chapter": 6,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Vì thế đã đến lúc ngừng tự trừng phạt mình bằng những lời khuyên tích cực rẻ tiền. Vấn đề không phải bạn có tội, mà là bạn đang dùng sai công cụ để xử lý hệ thần kinh."
+  },
+  {
+    "id": "SC64",
+    "chapter": 7,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Sau khi đẩy người ta vào tuyệt vọng với con gấu trắng, Wegner tìm ra một lỗ hổng: thay vì cố xóa nó, hãy chuyển ngay sang nghĩ về một chiếc Volkswagen đỏ. Chính sự thay thế có đích làm cường độ ám ảnh giảm hẳn."
+  },
+  {
+    "id": "SC65",
+    "chapter": 7,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Focused distraction hoạt động vì ý thức không giữ rõ hai hình ảnh cùng lúc. Sự trống rỗng là nơi con gấu trắng dễ nhất để quay lại, còn mỏ neo cụ thể thì cho Máy Vận Hành một việc thật để làm."
+  },
+  {
+    "id": "SC66",
+    "chapter": 7,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nếu thức dậy lúc 3 giờ sáng, đừng nằm lì trên giường ra lệnh ngủ thêm nữa. Hãy bật dậy, mở cuốn sách chán nhất, đếm hoa văn trên thảm, hoặc cảm nhận ly nước ấm chạy xuống cổ họng."
+  },
+  {
+    "id": "SC67",
+    "chapter": 7,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Chiến thuật này rút năng lượng khỏi Máy Giám Sát bằng cách buộc ý thức xử lý tín hiệu giác quan thực. Nó thay “cấm cản” bằng “ghim neo hiện tại”."
+  },
+  {
+    "id": "SC68",
+    "chapter": 7,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Với lo âu trường kỳ, cần một bước hệ thống hơn: Cửa Sổ Lo Âu. Thay vì cấm tuyệt đối, bạn ký với nỗi lo một cuộc hẹn hợp pháp vào một giờ cố định."
+  },
+  {
+    "id": "SC69",
+    "chapter": 7,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Khi suy nghĩ kéo đến giữa trưa, bạn không chèn ép cũng không chiều theo nó; bạn chỉ ghi nhận và hoãn lại. Ngay khi biết nỗi lo đã được lên lịch, báo động trong đầu dịu xuống."
+  },
+  {
+    "id": "SC70",
+    "chapter": 7,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Đến đúng giờ hẹn, bạn ngồi xuống cố lo cho ra lo, nhưng cơn lo lại xẹp lép thành một sự nhàm chán. Thứ từng ám ảnh cả ngày mất sức khi nó không còn bị cấm nữa."
+  },
+  {
+    "id": "SC71",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Năm 2007 tại UCLA, Lieberman dùng fMRI quét não người xem những khuôn mặt sợ hãi và giận dữ. Amygdala bùng sáng dữ dội như trung tâm báo động sinh học."
+  },
+  {
+    "id": "SC72",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Rồi ông yêu cầu họ chỉ đơn giản gọi tên cảm xúc đang đi qua mình. Không phân tích, không chèn ép, chỉ thì thầm “đây là sợ hãi” hoặc “tôi đang tức giận”."
+  },
+  {
+    "id": "SC73",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Ngay khi cảm xúc được gọi tên, tín hiệu ở Amygdala giảm mạnh còn vùng điều chỉnh ở vỏ não trước trán sáng lên. Bộ não tự kích hoạt phanh mà không cần ý chí cưỡng chế."
+  },
+  {
+    "id": "SC74",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Affect labeling mạnh vì nó không cấm cảm xúc mà đặt nó lên bàn quan sát. Tín hiệu được chuyển từ hệ limbic sang vùng ngôn ngữ và trật tự hơn."
+  },
+  {
+    "id": "SC75",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Đó cũng là nền sinh học của ACT, liệu pháp dạy bạn quan sát suy nghĩ mà không tham chiến. Bạn không chạy trốn cũng không lao vào vật lộn với thứ đang đi qua đầu mình."
+  },
+  {
+    "id": "SC76",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Thay vì gào lên “mình không phải kẻ thất bại”, ACT mời bạn nói: “tôi nhận thấy mình đang có suy nghĩ ấy”. Chỉ một bước lùi trong ngôn ngữ đã tạo khoảng cách giữa con người và ý nghĩ."
+  },
+  {
+    "id": "SC77",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Khoảng cách đó giống như đứng bên bờ sông nhìn chiếc lá trôi qua. Bạn không chặn, không đuổi, không giả vờ con sông không có thật; bạn chỉ để nó đi ngang đời mình."
+  },
+  {
+    "id": "SC78",
+    "chapter": 8,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Khi không còn điều gì bị cấm, Máy Giám Sát mất lý do tồn tại và tự nằm xuống. Khoa học thần kinh cuối cùng dẫn tới một sự thật rất trần: bạn không cần chiến thắng tâm trí, bạn chỉ cần ngừng đánh nhau với nó."
+  },
+  {
+    "id": "SC79",
+    "chapter": 9,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Quay lại phòng thí nghiệm Trinity, tiếng chuông của ngày đầu vẫn còn đó như ký ức về một niềm tin từng sụp đổ. Nhưng lần này nó không còn là biểu tượng của thất bại, mà là dấu tích của một bài học đã hiểu ra."
+  },
+  {
+    "id": "SC80",
+    "chapter": 9,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Ở nhóm được phép nghĩ tự do, con gấu trắng chỉ xuất hiện vài lần rồi tự rời đi. Khi không ai buồn đuổi nó, nó mất dần sức nặng và thôi ám ảnh căn phòng."
+  },
+  {
+    "id": "SC81",
+    "chapter": 9,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nghịch lý hoàn hảo là thế: bạn kiểm soát tâm trí bằng cách mở cửa ra chứ không siết dây xích. Cả hành trình từ tự trách đến hiểu cơ chế giờ khép lại trong một tư thế buông tay."
+  },
+  {
+    "id": "SC82",
+    "chapter": 9,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bạn đã thấy tiếng chuông, con chó canh gác, những đêm cạn nhiên liệu, và ba chiếc chìa khóa thực dụng để đi qua nó. Mọi thứ cuối cùng đều chỉ về cùng một nguyên tắc: đừng biến tâm trí thành phòng vô trùng."
+  },
+  {
+    "id": "SC83",
+    "chapter": 9,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Sự tự do không phải là diệt sạch mọi con gấu trắng, mà là để chúng đi qua mà mình không còn bị chúng kéo đi. Đó là một trạng thái không kịch tính, không chiến thắng oanh liệt, chỉ là thôi đánh nhau."
+  },
+  {
+    "id": "SC84",
+    "chapter": 9,
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Vì thế nếu 3 giờ sáng nay một suy nghĩ cũ lại ngoi lên, đừng nghiến răng bóp nghẹt nó. Hãy nhìn nó, gọi tên nó, gật đầu chào nó, rồi nằm xuống. Nó sẽ tự đi khi bạn không còn sợ nó nữa."
+  }
+]

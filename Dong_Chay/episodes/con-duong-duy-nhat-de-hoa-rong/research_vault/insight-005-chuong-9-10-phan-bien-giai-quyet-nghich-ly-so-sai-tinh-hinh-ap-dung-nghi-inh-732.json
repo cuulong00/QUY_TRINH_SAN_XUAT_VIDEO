@@ -1,0 +1,192 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-07-20T05:42:08.212Z",
+  "session_id": "516aa90b",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/0d83acca-ab53-42cc-b575-beed516fad13"
+  },
+  "question": "[Chương 9-10] Phản biện & Giải quyết nghịch lý Sợ sai: Tình hình áp dụng Nghị định 73/2023/NĐ-CP (hoặc các cơ chế tương đương) trên thực tế ra sao? Đã có case study nào áp dụng cơ chế này chưa? Rủi ro thiếu kiểm soát khi quyền lực tập trung là gì?",
+  "answer": {
+    "text": "Thoughts\nI. Tình hình áp dụng Nghị định 73/2023/NĐ-CP trên thực tế\nNghị định 73/2023/NĐ-CP của Chính phủ (ban hành ngày 29/9/2023) ra đời nhằm tạo khung pháp lý quy định về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung\n. Đây được xem là giải pháp then chốt để \"công phá\" bức tường sợ sai, sợ trách nhiệm của một bộ phận cán bộ trong thực thi công vụ\nTrong thực tế triển khai giai đoạn 2024-2026, tinh thần của Nghị định đã tạo ra một luồng gió mới, từng bước giải tỏa rào cản tâm lý, giúp cán bộ tự tin hơn khi đề xuất các giải pháp tháo gỡ điểm nghẽn về thủ tục hành chính (TTHC) và số hóa bộ máy công quyền\n. Nhiều địa phương đã nhanh chóng quán triệt và lồng ghép tinh thần Nghị định vào các chương trình hành động thực tế\nII. Case Study áp dụng thực tế: Mô hình đột phá tại Hải Phòng\nThành phố Hải Phòng là một trong những địa phương đi đầu cả nước trong việc vận dụng tinh thần của Nghị định 73/2023/NĐ-CP vào cấp cơ sở\n17\n18\n. Minh chứng điển hình là báo cáo kết quả thực hiện ngày 05/12/2025 của UBND xã Nguyễn Lương Bằng\n1. Các nhiệm vụ đột phá thực tế đã triển khai\nThành lập \"Tổ công nghệ số cộng đồng\" và mô hình \"Ngày thứ Bảy vì dân\": Thử thách lớn nhất tại cơ sở khi số hóa dịch vụ công là thói quen dùng giấy tờ truyền thống và sự hạn chế tiếp cận công nghệ của người dân lớn tuổi\n. Xã đã thành lập các tổ công nghệ số (chủ chốt là lực lượng Đoàn Thanh niên) đến tận nhà hướng dẫn người dân nộp hồ sơ trực tuyến\n17\n18\n. Đồng thời, duy trì ngày trực thứ Bảy để hỗ trợ kỹ thuật và tháo gỡ vướng mắc liên thông dữ liệu\nMô hình \"An ninh trật tự tự quản\": Thay vì chỉ dựa vào lực lượng công an, mô hình này phát huy vai trò chủ thể của người dân tự lắp đặt camera an ninh tại các điểm nóng, thành lập các tổ liên gia tự quản và lập nhóm Zalo để tuyên truyền phòng chống tội phạm, giúp hòa giải nhiều mâu thuẫn ngay từ cơ sở\nÁp dụng \"Dân vận khéo\" trong giải phóng mặt bằng: Đối với các dự án trọng điểm, lãnh đạo xã trực tiếp đối thoại công khai, minh bạch chính sách bồi thường với người dân để tạo sự đồng thuận, nhờ đó tỷ lệ bàn giao mặt bằng đúng tiến độ được cải thiện rõ rệt và hạn chế khiếu kiện kéo dài\n2. Hiệu quả đạt được\nGiải phóng tư tưởng trì trệ: Tạo môi trường làm việc cởi mở, giúp cán bộ yên tâm công tác, không còn e ngại hay sợ sai khi đề xuất các sáng kiến thực tiễn như dùng nhóm \"Zalo Official Account\" tuyên truyền TTHC hay \"Hỗ trợ số hóa tại nhà\"\n. Tình trạng né tránh, đùn đẩy công việc giảm rõ rệt\nQuyết liệt trong công tác nhân sự: Xã cụ thể hóa trách nhiệm cá nhân trong từng khâu xử lý công việc\n34\n35\n; đồng thời rà soát, kiên quyết điều chuyển sang vị trí khác đối với cán bộ năng lực yếu, sợ trách nhiệm, làm việc cầm chừng\n3. Khó khăn, vướng mắc phát sinh\nCán bộ lớn tuổi vẫn gặp khó khăn trong việc thay đổi thói quen sử dụng máy tính và số hóa hồ sơ\nBiên chế mỏng, khối lượng công việc kiêm nhiệm quá lớn tạo áp lực nặng nề cho cán bộ cấp xã\n30\n31\n.\nCơ sở chưa có hướng dẫn cụ thể về chế độ tiền thưởng áp dụng thực tế cho những cán bộ có đề xuất hoàn thành xuất sắc\n32\n33\n.\nIII. Rủi ro thiếu kiểm soát khi quyền lực tập trung\nTrong mô hình phát triển mới (2024-2026), việc nhất thể hóa cấu trúc thượng tầng và tăng cường tập trung quyền lực là giải pháp cần thiết để tháo gỡ sự manh mún, phân tán của hệ thống cũ và bứt tốc hạ tầng\n. Tuy nhiên, nếu thiếu cơ chế giám sát nghiêm minh, mô hình này sẽ đi kèm những rủi ro hệ thống lớn\n1. Rủi ro \"Chủ nghĩa tư bản thân hữu\" và sự lũng đoạn của lợi ích nhóm\nBài học từ Hàn Quốc (thời Park Chung-hee): Quyền lực nhà nước tập trung cao độ để định hướng tín dụng ưu đãi cho các tập đoàn gia đình (Chaebol) đã tạo ra mối quan hệ bất chính giữa giới chính trị và tài phiệt\n. Việc ưu ái quá mức dẫn đến các Chaebol lũng đoạn nền kinh tế, vay nợ vượt giới hạn an toàn dưới sự bảo lãnh ngầm của chính phủ, làm méo mó hệ thống tài chính và khiến quốc gia tổn thương sâu sắc trong khủng hoảng kinh tế năm 1997\n50\n52\n.\nNguy cơ đối với Việt Nam: Khi Nhà nước thực hiện chiến lược \"Phân vai\" và trao quyền lớn cho các \"Doanh nghiệp đầu tàu\" tham gia siêu dự án (như Vingroup, THACO làm đường sắt cao tốc), thách thức lớn nhất là kiểm soát tính minh bạch và rủi ro lợi ích nhóm\n. Nếu không có sự giám sát độc lập, cơ chế đặc thù có thể bị lạm dụng tạo ra sự bất công bằng cạnh tranh trên thị trường\n2. Rủi ro nợ công địa phương và bong bóng tài sản\nBài học từ Trung Quốc (từ năm 1992): Mô hình kết hợp tập quyền chính trị ở trung ương và phân cấp kinh tế cho địa phương đã đẩy các chính quyền tỉnh/thành phố vào cuộc đua tăng trưởng GDP bằng mọi giá\n56\n57\n. Điều này dẫn đến sự tích tụ nợ công khổng lồ thông qua các công cụ tài chính ngoại bảng và tạo ra bong bóng bất động sản kéo dài\n58\n59\n.\n3. Rủi ro lợi dụng cơ chế \"Xé rào\" để trục lợi trái phép\nLằn ranh giữa \"dám nghĩ, dám làm vì lợi ích chung\" và \"cố ý làm trái quy định để trục lợi\" vô cùng mong mỏi\nNếu không có cơ chế kiểm soát quyền lực chặt chẽ, các cá nhân cơ hội có thể lợi dụng chính sách bảo vệ của Nghị định 73 để thực hiện hoặc bao che cho các hành vi tham nhũng, tiêu cực, trục lợi cá nhân\n. Ngược lại, nếu người đứng đầu thiếu bản lĩnh hoặc thiên vị, hành lang bảo vệ sẽ không thể vận hành hiệu quả, khiến cán bộ dám đổi mới vẫn có nguy cơ bị trù dập bởi lợi ích cục bộ\nDo đó, tiền lệ lịch sử chứng minh tập trung quyền lực chỉ thực sự bền vững khi đi kèm với \"chiếc lồng\" cơ chế kiểm soát nghiêm minh, tính minh bạch pháp lý, đạo đức công vụ cao và đẩy mạnh số hóa để giám sát từ sớm, từ xa\n🔍 Bạn có muốn tôi hỗ trợ trích xuất hoặc lập một bảng tổng hợp so sánh các điều kiện, quyền lợi và 5 hành vi nghiêm cấm đối với cán bộ thực thi theo quy định gốc của Nghị định 73/2023/NĐ-CP không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Nghị định 73/2023/NĐ-CP khuyến khích, bảo vệ cán bộ năng động sáng tạo - LuatVietnam",
+      "source_text": "Mục lục Lưu Đây là tiện ích dành cho tài khoản Tiêu chuẩn hoặc Nâng cao . Vui lòng Đăng nhập tài khoản để xem chi tiết. Theo dõi VB Đây là tiện ích dành cho tài khoản Tiêu chuẩn hoặc Nâng cao . Vui lòng Đăng nhập tài khoản để xem chi tiết. Ghi chú Báo lỗi In Báo lỗi Gửi liên kết tới Email Chia sẻ: Nghị định 73/2023/NĐ-CP khuyến khích, bảo vệ cán bộ năng động sáng tạo vì lợi ích chung Ngày cập nhật: Thứ Sáu, 29/09/2023 21:27 (GMT+7)"
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "thực hiện các nhiệm vụ đột phá, đúng quy trình và vì lợi ích chung. 2 Nghị định 73/2023/NĐ-CP được xem là giải pháp thiết thực để \"công phá\" bức tường sợ trách nhiệm trong một bộ phận cán bộ. Việc triển khai bước đầu tại xã trên địa bàn đã tạo ra sự chuyển biến tích cực trong tư duy và hành động của cán bộ cơ sở, hướng tới mục tiêu xây dựng đội ngũ cán bộ chất lượng, có bản lĩnh chính trị vững vàng, thực sự tiên phong, gương mẫu Đề cao trách nhiệm các tổ chức, cơ quan, đơn vị, người đứng đầu và cá nhân"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "II. Đánh giá chung Sau thời gian triển khai thực hiện Nghị định số 73/2023/NĐ-CP của Chính phủ (có hiệu lực từ 01/7/2024), UBND xã Nguyễn Lương Bằng đã đạt được những kết quả tích cực, thể hiện sự chuyển biến rõ nét trong tư duy và hành động của đội ngũ cán bộ, công chức UBND xã. 1. Ưu điểm - Tạo môi trường khuyến khích sự đổi mới, tinh thần của Nghị định đã được quán triệt sâu rộng, tạo ra một môi trường làm việc cởi mở hơn. Lãnh đạo Thủ trưởng các phòng, ban, cơ quan, đơn vị xã đã chủ động lắng nghe, tiếp thu các ý"
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "kiến đề xuất sáng tạo của cán bộ, công chức, giúp họ yên tâm hơn trong công tác, không còn tâm lý e ngại, sợ sai. - Thúc đẩy các sáng kiến thực tiễn, có những sáng kiến đã được đề xuất và áp dụng, đặc biệt trong lĩnh vực cải cách hành chính (CCHC) và chuyển đổi số điển hình là việc áp dụng các mô hình nhóm \"Zalo Official Account\" trong tuyên truyền các TTHC hay \"Hỗ trợ số hóa tại nhà\", góp phần nâng cao hiệu quả công việc và sự hài lòng của người dân. - Nghị định không chỉ mang tính đột phá mà còn góp phần chấn chỉnh, khắc"
+    },
+    {
+      "marker": "[17]",
+      "number": 17,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Trong thực tế triển khai, Hải Phòng là một trong những địa phương đi đầu trong việc áp dụng tinh thần của Nghị định 73/2023/NĐ-CP để tạo đột phá ở cấp cơ sở [cite: 20]. Nhằm giải quyết thủ tục hành chính dứt điểm, chính quyền cấp xã tại địa phương đã mạnh dạn triển khai nhiệm vụ đột phá: đẩy mạnh dịch vụ công trực tuyến toàn trình để số hóa 100% quy trình giải quyết thủ tục hành chính [cite: 20]. Thử thách lớn nhất tại cơ sở là thói quen sử dụng giấy tờ truyền thống và sự hạn chế về trình độ công nghệ của bộ phận người dân lớn tuổi [cite: 20]. Giải quyết nút thắt này, địa phương đã thành lập các \"Tổ công nghệ số cộng đồng\" với sự tham gia chủ chốt của lực lượng Đoàn Thanh niên, trực tiếp đến từng ngõ xóm hướng dẫn người dân đăng ký tài khoản và nộp hồ sơ trực tuyến ngay tại nhà [cite: 20]. Đồng thời, mô hình \"Ngày thứ Bảy vì dân\" được duy trì ổn định với đội ngũ cán bộ trực hỗ trợ kỹ thuật và tháo gỡ vướng mắc về liên thông dữ liệu [cite: 20]."
+    },
+    {
+      "marker": "[18]",
+      "number": 18,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Trong thực tế triển khai, Hải Phòng là một trong những địa phương đi đầu trong việc áp dụng tinh thần của Nghị định 73/2023/NĐ-CP để tạo đột phá ở cấp cơ sở [cite: 20]. Nhằm giải quyết thủ tục hành chính dứt điểm, chính quyền cấp xã tại địa phương đã mạnh dạn triển khai nhiệm vụ đột phá: đẩy mạnh dịch vụ công trực tuyến toàn trình để số hóa 100% quy trình giải quyết thủ tục hành chính [cite: 20]. Thử thách lớn nhất tại cơ sở là thói quen sử dụng giấy tờ truyền thống và sự hạn chế về trình độ công nghệ của bộ phận người dân lớn tuổi [cite: 20]. Giải quyết nút thắt này, địa phương đã thành lập các \"Tổ công nghệ số cộng đồng\" với sự tham gia chủ chốt của lực lượng Đoàn Thanh niên, trực tiếp đến từng ngõ xóm hướng dẫn người dân đăng ký tài khoản và nộp hồ sơ trực tuyến ngay tại nhà [cite: 20]. Đồng thời, mô hình \"Ngày thứ Bảy vì dân\" được duy trì ổn định với đội ngũ cán bộ trực hỗ trợ kỹ thuật và tháo gỡ vướng mắc về liên thông dữ liệu [cite: 20]."
+    },
+    {
+      "marker": "[19]",
+      "number": 19,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "Nghị định số 73/2023/NĐ-CP ngày 29/9/2023 của Chính phủ; Thực hiện Công văn số 10042/SNV-TCBC&TCPCP ngày 03/12/2025, của Sở Nội vụ về việc báo cáo kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9/2023 của Chính phủ; UBND xã Nguyễn Lương Bằng báo cáo kết quả thực hiện, cụ thể như sau: I. CÔNG TÁC CHỈ ĐẠO Sau khi nhận được văn bản chỉ đạo của UBND thành phố Hải Phòng, Ban chấp hành Đảng ủy, HĐND, UBND xã Nguyễn Lương Bằng đã tổ chức họp để quán triệt triển khai thực hiện nội dung Nghị quyết số 73/NQ-CP ngày 29/9/2023"
+    },
+    {
+      "marker": "[23]",
+      "number": 23,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "UỶ BAN NHÂN DÂN XÃ NGUYỄN LƯƠNG BẰNG Số: /BC-UBND CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc Xã Nguyễn Lương Bằng, ngày tháng năm 2025 BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9/2023 của Chính phủ Thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9/2023 của Chính phủ quy định về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung và Công văn số 3015/UBND-KSTTHC ngày 30/11/2023 của Ủy ban nhân dân (UBND) thành phố về việc triển khai thực hiện"
+    },
+    {
+      "marker": "[24]",
+      "number": 24,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "công cộng, đa số người dân lớn tuổi ngại tiếp xúc công nghệ; một số thủ tục còn vướng mắc về liên thông dữ liệu. Duy trì \"Ngày thứ Bảy vì dân\", có cán bộ trực hỗ trợ; thường xuyên báo cáo để tháo gỡ vướng mắc kỹ thuật liên thông dữ liệu. 3 - Xây dựng mô hình \"An ninh trật tự tự quản\" Thay vì chỉ dựa vào lực lượng công an, mô hình này phát huy vai trò chủ thể của người dân trong việc tự bảo vệ an ninh ngay tại thôn, xóm. Thành lập các tổ liên gia tự quản về an ninh trật tự, lắp đặt hệ thống camera an ninh tại các điểm nóng, tuyên truyền phương thức, thủ đoạn"
+    },
+    {
+      "marker": "[26]",
+      "number": 26,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "của tội phạm trên các nhóm Zalo. Nhiều vụ việc mâu thuẫn nhỏ trong cộng đồng được hòa giải thành công ngay tại cơ sở, giảm áp lực cho lực lượng công an chính quy. Tuy nhiên kinh phí duy trì hoạt động và lắp đặt thiết bị còn hạn chế. Chủ động xây dựng kế hoạch, vận động xã hội hóa từ các doanh nghiệp, người dân có điều kiện; tăng cường vai trò của Mặt trận Tổ quốc và các đoàn thể trong việc giám sát và vận động. - Công tác giải phóng mặt bằng các dự án trọng điểm, áp dụng phương pháp \"dân vận khéo\" và đối thoại trực tiếp, công khai, minh bạch các chính sách bồi"
+    },
+    {
+      "marker": "[30]",
+      "number": 30,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "trong công tác số hóa và xử lý hồ sơ. - Lực lượng công chức tại các phòng, ban, cơ quan, đơn vị biên chế mỏng, khối lượng công việc lớn: Cán bộ cấp xã thường phải đảm nhiệm nhiều công việc cùng lúc (kiêm nhiệm nhiều đầu mục), dẫn đến áp lực công việc cao, đôi khi ảnh hưởng đến chất lượng giải quyết công việc chuyên môn. III. Đánh giá chung - Nghị định đã được quán triệt kịp thời, giúp xóa bỏ rào cản tâm lý e ngại, sợ sai trong một bộ phận cán bộ. Lãnh đạo xã đã chủ động lắng nghe, ủng hộ các ý tưởng cải tiến trong công tác quản lý và phục vụ nhân dân."
+    },
+    {
+      "marker": "[31]",
+      "number": 31,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "trong công tác số hóa và xử lý hồ sơ. - Lực lượng công chức tại các phòng, ban, cơ quan, đơn vị biên chế mỏng, khối lượng công việc lớn: Cán bộ cấp xã thường phải đảm nhiệm nhiều công việc cùng lúc (kiêm nhiệm nhiều đầu mục), dẫn đến áp lực công việc cao, đôi khi ảnh hưởng đến chất lượng giải quyết công việc chuyên môn. III. Đánh giá chung - Nghị định đã được quán triệt kịp thời, giúp xóa bỏ rào cản tâm lý e ngại, sợ sai trong một bộ phận cán bộ. Lãnh đạo xã đã chủ động lắng nghe, ủng hộ các ý tưởng cải tiến trong công tác quản lý và phục vụ nhân dân."
+    },
+    {
+      "marker": "[32]",
+      "number": 32,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "- Nâng cao hiệu quả công tác, tinh thần \"dám nghĩ, dám làm\" đã được áp dụng vào giải quyết các nhiệm vụ trọng tâm ngay tại địa phương, đặc biệt là trong Cải cách hành chính và giải quyết các vướng mắc về thủ tục hành chính. Tình trạng né tránh, đùn đẩy công việc giảm rõ rệt, góp phần nâng cao sự hài lòng của người dân đối với chính quyền. Mặc dù có kết quả tích cực, việc triển khai vẫn gặp một số khó khăn: Các hướng dẫn về chế độ tiền thưởng, áp dụng thực tế tại cơ sở. Việc thay đổi thói quen làm việc và tư duy của một số cán bộ lớn tuổi vẫn"
+    },
+    {
+      "marker": "[33]",
+      "number": 33,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "- Nâng cao hiệu quả công tác, tinh thần \"dám nghĩ, dám làm\" đã được áp dụng vào giải quyết các nhiệm vụ trọng tâm ngay tại địa phương, đặc biệt là trong Cải cách hành chính và giải quyết các vướng mắc về thủ tục hành chính. Tình trạng né tránh, đùn đẩy công việc giảm rõ rệt, góp phần nâng cao sự hài lòng của người dân đối với chính quyền. Mặc dù có kết quả tích cực, việc triển khai vẫn gặp một số khó khăn: Các hướng dẫn về chế độ tiền thưởng, áp dụng thực tế tại cơ sở. Việc thay đổi thói quen làm việc và tư duy của một số cán bộ lớn tuổi vẫn"
+    },
+    {
+      "marker": "[34]",
+      "number": 34,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "đáp ứng yêu cầu công việc được giao. Tham mưu UBND xã rà soát, sửa đổi, bổ sung quy chế làm việc và tổ chức thực hiện nhiệm vụ, công việc tại cơ quan, đơn vị thuộc thẩm quyền theo quy định; cụ thể hóa trách nhiệm cá nhân trong từng khâu của quy trình xử lý công việc, bảo đảm các công việc thuộc thẩm quyền phải được xử lý nhanh chóng, kịp thời, hiệu quả. Tổ chức thực hiện nghiêm quy tắc ứng xử, đạo đức công vụ của cán bộ, công chức trong cơ quan hành chính nhà nước tại địa phương. 2. Nhiệm vụ đột phá"
+    },
+    {
+      "marker": "[35]",
+      "number": 35,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "đáp ứng yêu cầu công việc được giao. Tham mưu UBND xã rà soát, sửa đổi, bổ sung quy chế làm việc và tổ chức thực hiện nhiệm vụ, công việc tại cơ quan, đơn vị thuộc thẩm quyền theo quy định; cụ thể hóa trách nhiệm cá nhân trong từng khâu của quy trình xử lý công việc, bảo đảm các công việc thuộc thẩm quyền phải được xử lý nhanh chóng, kịp thời, hiệu quả. Tổ chức thực hiện nghiêm quy tắc ứng xử, đạo đức công vụ của cán bộ, công chức trong cơ quan hành chính nhà nước tại địa phương. 2. Nhiệm vụ đột phá"
+    },
+    {
+      "marker": "[36]",
+      "number": 36,
+      "source_name": "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "source_text": "UBND xã, Thủ trưởng, cơ quan cấp trên giao, đẩy mạnh phân cấp, phân quyền, bảo đảm đúng tiến độ, chất lượng. Tăng cường công tác kiểm tra hoạt động công vụ, nhất là kiểm tra đột xuất; phát huy vai trò, trách nhiệm của người đứng đầu cơ quan, đơn vị, kiểm tra nội bộ để kịp thời biểu dương, khen thưởng những tập thể, cá nhân, xử lý nghiêm những tập thể, cá nhân làm chưa tốt. Rà soát, thay thế hoặc điều chuyển sang công việc khác đối với cán bộ, công chức năng lực yếu, không dám làm, né tránh, đùn đẩy, làm việc cầm chừng, sợ trách nhiệm, trì trệ và không"
+    },
+    {
+      "marker": "[42]",
+      "number": 42,
+      "source_name": "Chiến Lược Việt Nam Hóa Rồng.md",
+      "source_text": "Nhất Thể Hóa Và Kỷ Nguyên Vươn Mình Của Dân Tộc: Lộ Trình \"Hóa Rồng\" Của Việt Nam Trong Kỷ Nguyên Biến Động Toàn Cầu Việt Nam đang đứng trước một ngã rẽ mang tính lịch sử, một thời khắc được giới hoạch định chính sách và giới lãnh đạo cấp cao định danh là \"kỷ nguyên vươn mình của dân tộc\". Sau chặng đường gần bốn thập kỷ Đổi mới, nền kinh tế đã đạt được những thành tựu to lớn, chuyển mình từ một quốc gia bị tàn phá bởi chiến tranh thành một trung tâm sản xuất năng động của khu vực. Tuy nhiên, mô hình tăng trưởng dựa dẫm vào lao động giá rẻ, tài nguyên thiên nhiên và thâm dụng vốn đang tiến sát đến giới hạn biên của nó. Để bước qua bẫy thu nhập trung bình và hiện thực hóa khát vọng trở thành quốc gia phát triển, thu nhập cao vào năm 2045, Việt Nam không thể tiếp tục vận hành trên một cỗ máy hành chính cũ kỹ, phân tán và thiếu tính quyết đoán. Trong bối cảnh đó, sự kiện định hình lại cấu trúc thượng tầng mang tên \"nhất thể hóa\" trong giai đoạn 2024-2026 không đơn thuần là một phép cộng về nhân sự, mà là một cuộc cách mạng về phương thức quản trị, nhằm tập trung hóa quyền lực để kiến tạo một Nhà nước hành động có năng lực thực thi sắc bén. Báo cáo nghiên cứu này sẽ đi sâu phân tích bối cảnh lịch sử, cấu trúc thể chế, động lực tăng trưởng kinh tế, áp lực địa chính trị, cũng như nghịch lý nhân khẩu học, nhằm làm rõ con đường mà Việt Nam đang lựa chọn để thực hiện cú nhảy vọt \"hóa rồng\" so với quỹ đạo của các quốc gia Đông Á."
+    },
+    {
+      "marker": "[45]",
+      "number": 45,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Cơ chế kiểm soát: Sự tập trung quyền lực trong giai đoạn này được kiểm soát chặt chẽ bằng nguyên tắc \"Dân là chủ\" và đạo đức cách mạng của người cán bộ. Việc đề cao tính gương mẫu, cơ chế phê bình, tự phê bình nghiêm túc và sự giám sát trực tiếp từ nhân dân đã ngăn chặn hiệu quả nguy cơ quan liêu, hủ hóa và xơ cứng bộ máy hành chính trong điều kiện chiến tranh kéo dài. Bảng 3: So sánh các mô hình Nhà nước kiến tạo và Nhất thể hóa quyền lực trong lịch sử Quốc gia / Giai đoạn Mô hình quản trị cốt lõi Phương thức vận hành kinh tế Ưu điểm nổi bật Điểm hạn chế / Hệ lụy Hàn Quốc (Park Chung-hee) Tập quyền, liên minh Nhà nước - Chaebol. Cấp tín dụng ưu đãi, bảo hộ công nghiệp nội địa. Công nghiệp hóa thần tốc, bứt tốc hạ tầng vượt trội. Lũng đoạn tài phiệt, tham nhũng chính trị, khủng hoảng nợ 1997. Singapore (Lý Quang Diệu / PAP) Kỹ trị, chống tham nhũng tuyệt đối, luật trị nghiêm minh. Kiến tạo môi trường minh bạch tối đa để thu hút FDI toàn cầu. Nền hành chính hiệu năng cao, không tham nhũng. Không gian chính trị đơn đảng thống trị, chi phí xã hội cao. Trung Quốc (Từ năm 1992) Nhất thể hóa quyền lực chính trị, phân cấp cạnh tranh kinh tế. Huy động đất đai, đầu tư công hạ tầng quy mô lớn. Tăng trưởng GDP ngoạn mục, hạ tầng phát triển vượt bậc. Bong bóng bất động sản, nợ địa phương nghiêm trọng. Việt Nam (Hồ Chí Minh 1951-1969) Thống nhất lãnh đạo Đảng - Nhà nước phục vụ kháng chiến. Huy động sức mạnh toàn dân dựa trên tinh thần yêu nước và đạo đức cách mạng. Thắng lợi quân sự vĩ đại, bảo đảm công bằng xã hội thời chiến. Cơ chế kế hoạch hóa tập trung dễ dẫn đến xơ cứng khi chuyển sang thời bình. Việt Nam (Giai đoạn 2024-2026) Tinh gọn bộ máy [cite: 1], chuyển sang hậu kiểm [cite: 2], phân vai doanh nghiệp đầu tàu [cite: 5, 10]. Vốn công làm mồi [cite: 4], thu hút vốn tư nhân (PPP) [cite: 4], bảo vệ cán bộ dám nghĩ dám làm [cite: 12]. Đẩy nhanh tốc độ thực thi siêu dự án [cite: 3, 5], số hóa quy trình công vụ [cite: 20]. Thách thức trong việc kiểm soát tính minh bạch và rủi ro lợi ích nhóm [cite: 4]."
+    },
+    {
+      "marker": "[49]",
+      "number": 49,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Đối chiếu mô hình \"Nhà nước kiến tạo\" quốc tế và tiền lệ lịch sử Sự chuyển dịch của Việt Nam sang mô hình nhà nước kiến tạo phát triển có thể được làm rõ thông qua việc đối chiếu với bốn mô hình quản trị kinh điển trong lịch sử thế giới: 1. Mô hình Park Chung-hee tại Hàn Quốc Trong thập niên 1960-1970, Chính phủ của Tổng thống Park Chung-hee đã áp dụng cơ chế quản trị tập quyền cao độ để thúc đẩy công nghiệp hóa nhanh chóng. Nhà nước kiểm soát toàn bộ hệ thống ngân hàng thương mại, định hướng dòng vốn tín dụng giá rẻ vào các lĩnh vực công nghiệp nặng và hóa chất then chốt (như luyện kim, đóng tàu, ô tô), đồng thời giao mục tiêu xuất khẩu cho các tập đoàn gia đình (Chaebol). Dự án xây dựng đường cao tốc Gyeongbu nối Seoul và Busan được thực hiện bằng mệnh lệnh hành chính quyết liệt và huy động mọi nguồn lực tài chính quốc gia để bứt tốc hạ tầng."
+    },
+    {
+      "marker": "[50]",
+      "number": 50,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Hệ lụy: Mặc dù tạo nên \"Kỳ tích sông Hàn\", mô hình này đã tạo ra mối quan hệ bất chính giữa giới chính trị và giới tài phiệt (chủ nghĩa tư bản thân hữu). Sự ưu ái quá mức của Nhà nước dẫn đến hiện tượng các Chaebol lũng đoạn nền kinh tế, vay nợ quá mức dựa trên bảo lãnh ngầm của Chính phủ, làm méo mó hệ thống tài chính quốc gia và trở thành nguyên nhân cốt lõi khiến Hàn Quốc tổn thương sâu sắc trong cuộc khủng hoảng tài chính châu Á năm 1997. 2. Mô hình quản trị của Đảng Hành động Nhân dân (PAP) và Lý Quang Diệu tại Singapore"
+    },
+    {
+      "marker": "[52]",
+      "number": 52,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Hệ lụy: Mặc dù tạo nên \"Kỳ tích sông Hàn\", mô hình này đã tạo ra mối quan hệ bất chính giữa giới chính trị và giới tài phiệt (chủ nghĩa tư bản thân hữu). Sự ưu ái quá mức của Nhà nước dẫn đến hiện tượng các Chaebol lũng đoạn nền kinh tế, vay nợ quá mức dựa trên bảo lãnh ngầm của Chính phủ, làm méo mó hệ thống tài chính quốc gia và trở thành nguyên nhân cốt lõi khiến Hàn Quốc tổn thương sâu sắc trong cuộc khủng hoảng tài chính châu Á năm 1997. 2. Mô hình quản trị của Đảng Hành động Nhân dân (PAP) và Lý Quang Diệu tại Singapore"
+    },
+    {
+      "marker": "[56]",
+      "number": 56,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Kết quả: Mô hình này giúp Singapore hóa rồng mà không rơi vào cái bẫy của chủ nghĩa tư bản thân hữu hay tham nhũng hệ thống, tạo dựng một nền hành chính công hiệu năng cao hàng đầu thế giới. 3. Lịch sử nhất thể hóa quyền lực tại Trung Quốc từ năm 1992 Sự kiện Đặng Tiểu Bình thực hiện chuyến Nam tuần năm 1992 đã tái khẳng định cam kết cải cách kinh tế thị trường của Trung Quốc, đồng thời củng cố quá trình nhất thể hóa quyền lực dưới sự lãnh đạo tuyệt đối của Đảng Cộng sản. Mô hình này kết hợp giữa sự tập trung quyền lực chính trị tối cao ở trung ương và sự phân cấp mạnh mẽ về kinh tế cho các địa phương, tạo ra một cơ chế cạnh tranh khốc liệt giữa các chính quyền tỉnh/thành phố trong việc thu hút đầu tư và thúc đẩy GDP."
+    },
+    {
+      "marker": "[57]",
+      "number": 57,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Kết quả: Mô hình này giúp Singapore hóa rồng mà không rơi vào cái bẫy của chủ nghĩa tư bản thân hữu hay tham nhũng hệ thống, tạo dựng một nền hành chính công hiệu năng cao hàng đầu thế giới. 3. Lịch sử nhất thể hóa quyền lực tại Trung Quốc từ năm 1992 Sự kiện Đặng Tiểu Bình thực hiện chuyến Nam tuần năm 1992 đã tái khẳng định cam kết cải cách kinh tế thị trường của Trung Quốc, đồng thời củng cố quá trình nhất thể hóa quyền lực dưới sự lãnh đạo tuyệt đối của Đảng Cộng sản. Mô hình này kết hợp giữa sự tập trung quyền lực chính trị tối cao ở trung ương và sự phân cấp mạnh mẽ về kinh tế cho các địa phương, tạo ra một cơ chế cạnh tranh khốc liệt giữa các chính quyền tỉnh/thành phố trong việc thu hút đầu tư và thúc đẩy GDP."
+    },
+    {
+      "marker": "[58]",
+      "number": 58,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Hệ quả kinh tế: Mô hình này tạo ra tốc độ tăng trưởng kinh tế và phát triển hạ tầng giao thông (đặc biệt là đường sắt cao tốc) thần tốc chưa từng có. Tuy nhiên, việc tập trung quyền lực và áp lực tăng trưởng GDP bằng mọi giá đã dẫn đến tình trạng bong bóng bất động sản kéo dài, nợ công khổng lồ của các chính quyền địa phương thông qua các công cụ tài chính ngoại bảng, và sự bất bình đẳng xã hội sâu sắc. 4. Khái niệm \"Nhất thể hóa\" trong giai đoạn Chủ tịch Hồ Chí Minh (1951-1969) Khái niệm nhất thể hóa quyền lực chính trị tại Việt Nam có tiền lệ lịch sử sâu sắc từ giai đoạn kháng chiến chống thực dân và xây dựng chủ nghĩa xã hội ở miền Bắc dưới sự lãnh đạo của Chủ tịch Hồ Chí Minh (đặc biệt là giai đoạn từ Đại hội II của Đảng năm 1951 đến năm 1969). Trong hoàn cảnh đất nước chiến tranh khốc liệt, yêu cầu tập trung quyền lực cao độ là bắt buộc để huy động toàn bộ sức người, sức của cho tiền tuyến. Sự thống nhất giữa sự lãnh đạo của Đảng và sự điều hành của bộ máy Nhà nước được thực hiện thông qua vai trò của các cán bộ chủ chốt kiêm nhiệm các vị trí lãnh đạo ở cả hai khối, bảo đảm mệnh lệnh kháng chiến được thực thi nhanh chóng, triệt tiêu sự đùn đẩy trách nhiệm hay thủ tục rườm rà."
+    },
+    {
+      "marker": "[59]",
+      "number": 59,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Hệ quả kinh tế: Mô hình này tạo ra tốc độ tăng trưởng kinh tế và phát triển hạ tầng giao thông (đặc biệt là đường sắt cao tốc) thần tốc chưa từng có. Tuy nhiên, việc tập trung quyền lực và áp lực tăng trưởng GDP bằng mọi giá đã dẫn đến tình trạng bong bóng bất động sản kéo dài, nợ công khổng lồ của các chính quyền địa phương thông qua các công cụ tài chính ngoại bảng, và sự bất bình đẳng xã hội sâu sắc. 4. Khái niệm \"Nhất thể hóa\" trong giai đoạn Chủ tịch Hồ Chí Minh (1951-1969) Khái niệm nhất thể hóa quyền lực chính trị tại Việt Nam có tiền lệ lịch sử sâu sắc từ giai đoạn kháng chiến chống thực dân và xây dựng chủ nghĩa xã hội ở miền Bắc dưới sự lãnh đạo của Chủ tịch Hồ Chí Minh (đặc biệt là giai đoạn từ Đại hội II của Đảng năm 1951 đến năm 1969). Trong hoàn cảnh đất nước chiến tranh khốc liệt, yêu cầu tập trung quyền lực cao độ là bắt buộc để huy động toàn bộ sức người, sức của cho tiền tuyến. Sự thống nhất giữa sự lãnh đạo của Đảng và sự điều hành của bộ máy Nhà nước được thực hiện thông qua vai trò của các cán bộ chủ chốt kiêm nhiệm các vị trí lãnh đạo ở cả hai khối, bảo đảm mệnh lệnh kháng chiến được thực thi nhanh chóng, triệt tiêu sự đùn đẩy trách nhiệm hay thủ tục rườm rà."
+    },
+    {
+      "marker": "[63]",
+      "number": 63,
+      "source_name": "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "source_text": "Nguyên tắc khuyến khích (Điều 4 & 6): Ghi nhận, tôn vinh và khen thưởng xứng đáng đối với cán bộ có đề xuất mới, sáng tạo được cấp có thẩm quyền phê duyệt; đồng thời bố trí đầy đủ trang thiết bị, phương tiện làm việc, con người và kinh phí bảo đảm để thực hiện đề xuất [cite: 16, 17]. Cơ chế bảo vệ và miễn trừ trách nhiệm (Điều 11): Cán bộ thực hiện đề xuất đổi mới, sáng tạo đã được phê duyệt mà hoàn thành mục tiêu hoặc đạt hiệu quả thực tế thì được bảo vệ toàn diện, không bị xử lý trách nhiệm theo quy định pháp luật có liên quan [cite: 18]. Trong trường hợp đề xuất không hoàn thành hoặc chỉ hoàn thành một phần mục tiêu đề ra, thậm chí gây ra thiệt hại, nhưng được cơ quan sử dụng cán bộ đánh giá là đã thực hiện đúng chủ trương được phê duyệt, có động cơ trong sáng, hoàn toàn vì lợi ích chung và không có động cơ vụ lợi thì cán bộ được loại trừ hoặc xem xét miễn giảm toàn bộ trách nhiệm pháp lý [cite: 12, 18, 19]. Trách nhiệm của người đứng đầu: Nghiêm cấm việc lạm dụng quyền lực để cản trở, trù dập cán bộ sáng tạo; đồng thời nghiêm cấm việc lợi dụng cơ chế bảo vệ để bao che cho hành vi tham nhũng, tiêu cực hoặc trục lợi cá nhân [cite: 16, 19]."
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 27,
+    "source_names": [
+      "Nghị định 73/2023/NĐ-CP khuyến khích, bảo vệ cán bộ năng động sáng tạo - LuatVietnam",
+      "BÁO CÁO Kết quả thực hiện Nghị định số 73/2023/NĐ-CP ngày 29/9 - Hải Phòng",
+      "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026",
+      "Chiến Lược Việt Nam Hóa Rồng.md"
+    ]
+  }
+}

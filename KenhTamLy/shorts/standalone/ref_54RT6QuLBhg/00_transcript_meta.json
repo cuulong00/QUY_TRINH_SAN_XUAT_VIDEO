@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "sourceBackend": "youtubei-player",
+  "fetchedAt": "2026-04-13T00:25:17.049Z",
+  "url": "https://www.youtube.com/watch?v=54RT6QuLBhg",
+  "videoId": "54RT6QuLBhg",
+  "language": "vi",
+  "wordCount": 8542,
+  "charCount": 37735,
+  "segmentCount": 1060,
+  "warnings": [],
+  "attempts": [
+    {
+      "backend": "youtubei-player",
+      "variant": "https://www.youtube.com/watch?v=54RT6QuLBhg",
+      "status": "success"
+    }
+  ],
+  "error": null
+}

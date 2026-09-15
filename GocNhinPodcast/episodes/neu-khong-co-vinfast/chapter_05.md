@@ -1,0 +1,9 @@
+Hãy nhìn vào sự thật phũ phàng của ngành sản xuất linh kiện. Hàng chục năm qua, các hãng xe ngoại hầu như không mở rộng chuỗi cung ứng tại Việt Nam. Điển hình như một ông lớn Nhật Bản sau hơn hai mươi năm lắp ráp, cũng chỉ cho phép vỏn vẹn mười ba công ty Việt Nam sản xuất linh kiện cho họ.
+
+Hàng trăm xưởng cơ khí Việt Nam buộc phải thoi thóp bằng cách gia công ốc vít đơn giản. Và mối quan hệ làm thuê này mong manh hơn bạn nghĩ. Các tập đoàn đa quốc gia có tính di động rất cao. Ngày mai, nếu Thái Lan đưa ra ưu đãi tốt hơn, họ sẵn sàng đóng cửa xưởng và rời đi. 
+
+Đó chính là bài học nhãn tiền từ các nước láng giềng. Thái Lan là công xưởng ô tô Đông Nam Á, nhưng ngành xe hơi lại nằm trọn trong tay các tập đoàn ngoại quốc. Họ có ngàn nhà máy lắp ráp, nhưng không sở hữu thương hiệu cốt lõi nào. Lợi nhuận khổng lồ cuối cùng vẫn chảy ngược về Tokyo hay Bắc Kinh. Hay như Philippines, vì thiếu doanh nghiệp đầu tàu, đành chấp nhận nhập khẩu toàn bộ xe hơi.
+
+Đó chính là bẫy gia công vĩnh viễn. Nếu không có một đầu tàu đủ sức kéo theo hàng trăm nhà cung cấp, liệu nền công nghiệp của chúng ta có mãi mắc kẹt trong vòng lặp gia công giá rẻ? Liệu người nào sẽ đứng ra bảo vệ công ăn việc làm cho người lao động ngay trên chính quê hương mình? 
+
+Và sự mong manh của thân phận làm thuê này sẽ càng trở nên đáng sợ hơn. Một cơn bão quy định khắt khe từ phương Tây đang lao đến, đe dọa trực tiếp đến nồi cơm của hàng triệu công nhân.

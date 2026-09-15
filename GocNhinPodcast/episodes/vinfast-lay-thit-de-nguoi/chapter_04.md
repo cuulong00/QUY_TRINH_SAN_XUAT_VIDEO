@@ -1,0 +1,15 @@
+Nhưng rải thảm thần tốc không phải là một cuộc dạo chơi. Nó kéo theo một cái giá vận hành mà ít ai nhìn thấy. Hãy bước vào bên trong nhà máy Cát Hải để hiểu rõ hơn.
+
+VinFast hiện sản xuất mười bảy dòng xe ô tô trải dài từ phân khúc siêu nhỏ cho đến SUV hạng sang. Để tiết kiệm chi phí, các nhóm dòng xe chia sẻ chung một số nền tảng khung gầm dạng ván trượt. Phần bên dưới giống nhau, nhưng mỗi dòng xe lại khoác một lớp vỏ ngoài riêng biệt. Và chính sự đa dạng vỏ ngoài này mới là nơi ngốn tiền thực sự.
+
+Mỗi kiểu vỏ xe khác nhau đòi hỏi một bộ khuôn dập riêng biệt. Càng nhiều kiểu vỏ, chi phí đầu tư công cụ càng nhân lên gấp bội. Mỗi lần chuyển đổi khuôn, dây chuyền phải dừng lại. Và mỗi bộ khuôn chỉ có thể hòa vốn khi dòng xe đó bán đủ số lượng tối thiểu. Dòng xe nào bán chậm, bộ khuôn của nó nằm chết trong kho.
+
+Chưa hết, nhà máy còn phải tích trữ linh kiện thân vỏ cho nhiều dòng xe cùng một lúc. Kho bãi phình to. Chuỗi cung ứng phức tạp gấp bội.
+
+Nhưng sắt thép chỉ là một nửa câu chuyện. Nửa còn lại nằm trong phần mềm. Mỗi dòng xe cần một bộ não riêng. Hệ thống trợ lái khác nhau. Cách quản lý pin khác nhau. Giao diện người dùng cũng khác nhau. Tất cả đều phải được viết, thử nghiệm và bảo trì riêng. Càng nhiều dòng xe, đội ngũ kỹ sư càng phải mở rộng, chi phí nghiên cứu và phát triển càng phình to.
+
+Tất cả những chi phí ấy cộng dồn lại, và nó hiện rõ trên báo cáo tài chính. Biên lợi nhuận gộp của VinFast vẫn đang âm nặng. Quý bốn năm hai không hai lăm, con số này là âm bốn mươi bảy phẩy hai phần trăm. Nhưng đến quý một năm hai không hai sáu, nó đã cải thiện lên âm hai mươi hai phẩy năm phần trăm. Vẫn đang chảy máu, nhưng vết thương đang thu hẹp dần.
+
+Đó là cái bẫy phi kinh tế quy mô. Khung gầm chung giúp tiết kiệm được một phần, nhưng không đủ để bù đắp toàn bộ chi phí mà sự đa dạng sản phẩm tạo ra. Sản xuất càng nhiều dòng xe, chi phí trên mỗi chiếc không những không giảm mà còn có nguy cơ tăng lên.
+
+Nhưng gánh nặng bên trong nhà máy chưa phải là áp lực duy nhất. Bên ngoài, trên đường phố và trong showroom, chiến lược rải thảm đang tạo ra một rủi ro khác. Và lần này, nó đến từ chính những chiếc xe của VinFast cạnh tranh với nhau.

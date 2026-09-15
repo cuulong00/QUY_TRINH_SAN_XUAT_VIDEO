@@ -1,0 +1,554 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Đã bao lâu rồi chiếc thùng carton in logo xanh của Tiki không còn xuất hiện trước cửa nhà bạn?",
+    "sentences": [
+      "Đã bao lâu rồi chiếc thùng carton in logo xanh của Tiki không còn xuất hiện trước cửa nhà bạn?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 18.37,
+    "text_overlay": "",
+    "visual_summary": "Đằng sau sự lu mờ thầm lặng ấy là một trong những vụ bốc hơi giá trị doanh nghiệp kinh hoàng nhất lịch sử kinh tế số Việt Nam. Năm hai nghìn không trăm hai mươi mốt, Tiki được các nhà đầu tư định giá gần một tỷ đô la. Chỉ bốn năm sau, con số đó tụt xuống dưới mười triệu. Bốc hơi hơn chín mươi tám phần trăm.",
+    "sentences": [
+      "Đằng sau sự lu mờ thầm lặng ấy là một trong những vụ bốc hơi giá trị doanh nghiệp kinh hoàng nhất lịch sử kinh tế số Việt Nam. Năm hai nghìn không trăm hai mươi mốt, Tiki được các nhà đầu tư định giá gần một tỷ đô la. Chỉ bốn năm sau, con số đó tụt xuống dưới mười triệu. Bốc hơi hơn chín mươi tám phần trăm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 11.55,
+    "text_overlay": "",
+    "visual_summary": "Cùng thời điểm đó, Shopee lặng lẽ bỏ túi hơn ba nghìn tỷ đồng lợi nhuận, còn một gã khổng lồ đến từ thế giới video ngắn thì nuốt gọn gần bốn mươi phần trăm thị trường mà không sàn nào kịp trở tay.",
+    "sentences": [
+      "Cùng thời điểm đó, Shopee lặng lẽ bỏ túi hơn ba nghìn tỷ đồng lợi nhuận, còn một gã khổng lồ đến từ thế giới video ngắn thì nuốt gọn gần bốn mươi phần trăm thị trường mà không sàn nào kịp trở tay."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 30.71,
+    "text_overlay": "",
+    "visual_summary": "Nhưng đây không phải câu chuyện của một startup thất bại duy nhất. Đây là câu chuyện của cả một cuộc chiến đốt tiền thương mại điện tử kéo dài mười sáu năm, mà đến giữa năm hai nghìn không trăm hai mươi sáu, chỉ hai cái tên ngoại quốc kiểm soát hơn chín mươi bảy phần trăm thị trường gần năm trăm nghìn tỷ đồng. Và mỗi lần bạn chốt đơn trên Shopee hay TikTok Shop, phí sàn mà bạn đang gánh chịu cao hơn bao giờ hết. Cuộc chiến đốt tiền đã chính thức ngã ngũ. Nhưng ai thắng, ai thua, và vì sao \"Amazon của Việt Nam\" lại ngạt thở trên chính sân nhà?",
+    "sentences": [
+      "Nhưng đây không phải câu chuyện của một startup thất bại duy nhất. Đây là câu chuyện của cả một cuộc chiến đốt tiền thương mại điện tử kéo dài mười sáu năm, mà đến giữa năm hai nghìn không trăm hai mươi sáu, chỉ hai cái tên ngoại quốc kiểm soát hơn chín mươi bảy phần trăm thị trường gần năm trăm nghìn tỷ đồng. Và mỗi lần bạn chốt đơn trên Shopee hay TikTok Shop, phí sàn mà bạn đang gánh chịu cao hơn bao giờ hết. Cuộc chiến đốt tiền đã chính thức ngã ngũ. Nhưng ai thắng, ai thua, và vì sao \"Amazon của Việt Nam\" lại ngạt thở trên chính sân nhà?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Để trả lời câu hỏi đó, chúng ta phải quay ngược thời gian về thời điểm rực rỡ nhất của Tiki.",
+    "sentences": [
+      "Để trả lời câu hỏi đó, chúng ta phải quay ngược thời gian về thời điểm rực rỡ nhất của Tiki."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 34.38,
+    "text_overlay": "",
+    "visual_summary": "Tháng mười một năm hai nghìn không trăm hai mươi mốt, sàn thương mại điện tử này vừa hoàn tất vòng gọi vốn Series E trị giá hai trăm năm mươi tám triệu đô la, do tập đoàn bảo hiểm nhân thọ toàn cầu AIA dẫn đầu cùng các tên tuổi lớn như UBS, Mirae Asset và Taiwan Mobile. Định giá doanh nghiệp chạm ngưỡng tám trăm ba mươi hai triệu đô la, tiệm cận trạng thái \"kỳ lân\" mà bất kỳ startup Đông Nam Á nào cũng mơ ước. Nhà sáng lập Trần Ngọc Thái Sơn tuyên bố kế hoạch đưa Tiki lên sàn Nasdaq thông qua một thương vụ sáp nhập SPAC, và dự kiến có thể hoàn tất sớm hơn mốc hai nghìn không trăm hai mươi lăm.",
+    "sentences": [
+      "Tháng mười một năm hai nghìn không trăm hai mươi mốt, sàn thương mại điện tử này vừa hoàn tất vòng gọi vốn Series E trị giá hai trăm năm mươi tám triệu đô la, do tập đoàn bảo hiểm nhân thọ toàn cầu AIA dẫn đầu cùng các tên tuổi lớn như UBS, Mirae Asset và Taiwan Mobile. Định giá doanh nghiệp chạm ngưỡng tám trăm ba mươi hai triệu đô la, tiệm cận trạng thái \"kỳ lân\" mà bất kỳ startup Đông Nam Á nào cũng mơ ước. Nhà sáng lập Trần Ngọc Thái Sơn tuyên bố kế hoạch đưa Tiki lên sàn Nasdaq thông qua một thương vụ sáp nhập SPAC, và dự kiến có thể hoàn tất sớm hơn mốc hai nghìn không trăm hai mươi lăm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 25.2,
+    "text_overlay": "",
+    "visual_summary": "Trên mặt trận truyền thông, Tiki phủ sóng cả nền âm nhạc Việt Nam. Chiến dịch \"Tiki Đi Cùng Sao Việt\" tài trợ hơn một trăm MV ca nhạc, thu về một tỷ sáu trăm triệu lượt xem và đưa mười ba sản phẩm lên vị trí Top một YouTube Trending. Chỉ số hài lòng khách hàng NPS của Tiki vượt Shopee để giữ ngôi số một thị trường. Đối với những ai đang theo dõi cuộc đua thương mại điện tử Việt Nam vào thời điểm ấy, tất cả đều đang nghiêng về phía Tiki.",
+    "sentences": [
+      "Trên mặt trận truyền thông, Tiki phủ sóng cả nền âm nhạc Việt Nam. Chiến dịch \"Tiki Đi Cùng Sao Việt\" tài trợ hơn một trăm MV ca nhạc, thu về một tỷ sáu trăm triệu lượt xem và đưa mười ba sản phẩm lên vị trí Top một YouTube Trending. Chỉ số hài lòng khách hàng NPS của Tiki vượt Shopee để giữ ngôi số một thị trường. Đối với những ai đang theo dõi cuộc đua thương mại điện tử Việt Nam vào thời điểm ấy, tất cả đều đang nghiêng về phía Tiki."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 34.38,
+    "text_overlay": "",
+    "visual_summary": "Nhưng đằng sau ánh hào quang gọi vốn và những con số lượt xem, một cỗ máy đốt tiền đang vận hành với tốc độ khủng khiếp. Năm hai nghìn không trăm mười chín, Tiki báo lỗ sau thuế một nghìn bảy trăm sáu mươi lăm tỷ đồng. Sau đó là bảy mươi mốt phẩy ba triệu đô la năm hai nghìn không trăm hai mươi mốt, rồi gần một trăm triệu đô la năm hai nghìn không trăm hai mươi hai. Tổng lỗ lũy kế tính đến cuối năm hai nghìn không trăm hai mươi ba đã vượt ngưỡng mười nghìn tỷ đồng, tương đương hơn bốn trăm triệu đô la. Số tiền ấy đủ để xây dựng vài tòa nhà chọc trời giữa lòng Thành phố Hồ Chí Minh.",
+    "sentences": [
+      "Nhưng đằng sau ánh hào quang gọi vốn và những con số lượt xem, một cỗ máy đốt tiền đang vận hành với tốc độ khủng khiếp. Năm hai nghìn không trăm mười chín, Tiki báo lỗ sau thuế một nghìn bảy trăm sáu mươi lăm tỷ đồng. Sau đó là bảy mươi mốt phẩy ba triệu đô la năm hai nghìn không trăm hai mươi mốt, rồi gần một trăm triệu đô la năm hai nghìn không trăm hai mươi hai. Tổng lỗ lũy kế tính đến cuối năm hai nghìn không trăm hai mươi ba đã vượt ngưỡng mười nghìn tỷ đồng, tương đương hơn bốn trăm triệu đô la. Số tiền ấy đủ để xây dựng vài tòa nhà chọc trời giữa lòng Thành phố Hồ Chí Minh."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 22.05,
+    "text_overlay": "",
+    "visual_summary": "Và đến giữa năm hai nghìn không trăm hai mươi sáu hôm nay, thị phần của Tiki chỉ còn lại chưa đầy nửa phần trăm, trong khi Shopee và TikTok Shop cộng lại chiếm chín mươi bảy phẩy một phần trăm toàn bộ thị trường gần bốn trăm năm mươi tám nghìn tỷ đồng. Tiki vẫn còn đó, nhưng trong cuộc chiến thương mại điện tử Việt Nam, sự tồn tại đó giống như một dấu chấm hỏi hơn là một dấu chấm than.",
+    "sentences": [
+      "Và đến giữa năm hai nghìn không trăm hai mươi sáu hôm nay, thị phần của Tiki chỉ còn lại chưa đầy nửa phần trăm, trong khi Shopee và TikTok Shop cộng lại chiếm chín mươi bảy phẩy một phần trăm toàn bộ thị trường gần bốn trăm năm mươi tám nghìn tỷ đồng. Tiki vẫn còn đó, nhưng trong cuộc chiến thương mại điện tử Việt Nam, sự tồn tại đó giống như một dấu chấm hỏi hơn là một dấu chấm than."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 11.81,
+    "text_overlay": "",
+    "visual_summary": "Vậy điều gì đã đẩy một kỳ lân tiềm năng rơi vào vòng xoáy thâm hụt? Câu trả lời nằm ở chính nguyên tắc vận hành cốt lõi từng tạo nên niềm tự hào lớn nhất của họ ngay từ những ngày đầu khởi nghiệp.",
+    "sentences": [
+      "Vậy điều gì đã đẩy một kỳ lân tiềm năng rơi vào vòng xoáy thâm hụt? Câu trả lời nằm ở chính nguyên tắc vận hành cốt lõi từng tạo nên niềm tự hào lớn nhất của họ ngay từ những ngày đầu khởi nghiệp."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC011",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 21.78,
+    "text_overlay": "",
+    "visual_summary": "Năm hai nghìn không trăm mười, từ chiếc garage gia đình ở Thành phố Hồ Chí Minh, Trần Ngọc Thái Sơn bắt đầu bán sách tiếng Anh trên mạng với vốn liếng vỏn vẹn năm nghìn đô la. Anh không chọn điện thoại hay quần áo. Anh chọn sách, bởi sách có tính chuẩn hóa cao, rủi ro hư hỏng thấp và biên lợi nhuận ổn định. Đó chính xác là cách Jeff Bezos đã bắt đầu Amazon mười sáu năm trước đó.",
+    "sentences": [
+      "Năm hai nghìn không trăm mười, từ chiếc garage gia đình ở Thành phố Hồ Chí Minh, Trần Ngọc Thái Sơn bắt đầu bán sách tiếng Anh trên mạng với vốn liếng vỏn vẹn năm nghìn đô la. Anh không chọn điện thoại hay quần áo. Anh chọn sách, bởi sách có tính chuẩn hóa cao, rủi ro hư hỏng thấp và biên lợi nhuận ổn định. Đó chính xác là cách Jeff Bezos đã bắt đầu Amazon mười sáu năm trước đó."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC012",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 24.41,
+    "text_overlay": "",
+    "visual_summary": "Nhưng điều khiến Tiki chinh phục khách hàng không phải là sách. Mà là cách họ giao sách. Mỗi cuốn sách gửi đến tay độc giả đều được bọc một lớp màng nhựa trong suốt phẳng phiu, cắt dán tỉ mỉ từng góc mép. Người ta gọi nghi thức ấy là \"Bookcare\". Thùng carton đóng gói chắc chắn, bên trong lót xốp bóng khí cẩn thận, không bao giờ bị móp méo. Đội ngũ giao hàng niềm nở, luôn nói lời cảm ơn. Và quan trọng nhất, một trăm phần trăm hàng thật.",
+    "sentences": [
+      "Nhưng điều khiến Tiki chinh phục khách hàng không phải là sách. Mà là cách họ giao sách. Mỗi cuốn sách gửi đến tay độc giả đều được bọc một lớp màng nhựa trong suốt phẳng phiu, cắt dán tỉ mỉ từng góc mép. Người ta gọi nghi thức ấy là \"Bookcare\". Thùng carton đóng gói chắc chắn, bên trong lót xốp bóng khí cẩn thận, không bao giờ bị móp méo. Đội ngũ giao hàng niềm nở, luôn nói lời cảm ơn. Và quan trọng nhất, một trăm phần trăm hàng thật."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC013",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 21.78,
+    "text_overlay": "",
+    "visual_summary": "Đó là nguyên tắc vàng của Tiki, và cũng là triết lý cốt lõi của mô hình tự doanh 1P: Tiki tự tay nhập hàng từ nhà sản xuất, tự lưu kho, tự kiểm định chất lượng, tự đóng gói và tự giao nhận. Mọi thứ nằm trong tầm kiểm soát. Chỉ số hài lòng khách hàng vì thế luôn đứng đầu thị trường. Và tình yêu thương hiệu mà khách hàng dành cho những kiện hàng Tiki ngày ấy là có thật.",
+    "sentences": [
+      "Đó là nguyên tắc vàng của Tiki, và cũng là triết lý cốt lõi của mô hình tự doanh 1P: Tiki tự tay nhập hàng từ nhà sản xuất, tự lưu kho, tự kiểm định chất lượng, tự đóng gói và tự giao nhận. Mọi thứ nằm trong tầm kiểm soát. Chỉ số hài lòng khách hàng vì thế luôn đứng đầu thị trường. Và tình yêu thương hiệu mà khách hàng dành cho những kiện hàng Tiki ngày ấy là có thật."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC014",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Nhưng đây cũng chính là lúc nguyên tắc vàng bắt đầu biến thành chiếc thòng lọng.",
+    "sentences": [
+      "Nhưng đây cũng chính là lúc nguyên tắc vàng bắt đầu biến thành chiếc thòng lọng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 34.12,
+    "text_overlay": "",
+    "visual_summary": "Bởi vì khi Tiki mở rộng từ sách sang điện tử, mỹ phẩm, thời trang và hàng gia dụng, mô hình 1P đòi hỏi xây thêm kho bãi, thuê thêm mặt bằng, tuyển thêm nhân sự kiểm định, và đọng thêm hàng trăm tỷ đồng vốn lưu động dưới dạng hàng tồn kho. Đến năm hai nghìn không trăm hai mươi hai, doanh thu từ mảng tự doanh vẫn chiếm tám mươi tám phần trăm tổng doanh thu của cả sàn. Nghĩa là gần như toàn bộ doanh thu của Tiki vẫn phải đi qua cái cổ chai chi phí cố định khổng lồ ấy. Mỗi sản phẩm bán ra đều gánh trên lưng tiền kho, tiền nhân sự, tiền khấu hao. Bán càng nhiều thì gánh nặng càng lớn.",
+    "sentences": [
+      "Bởi vì khi Tiki mở rộng từ sách sang điện tử, mỹ phẩm, thời trang và hàng gia dụng, mô hình 1P đòi hỏi xây thêm kho bãi, thuê thêm mặt bằng, tuyển thêm nhân sự kiểm định, và đọng thêm hàng trăm tỷ đồng vốn lưu động dưới dạng hàng tồn kho. Đến năm hai nghìn không trăm hai mươi hai, doanh thu từ mảng tự doanh vẫn chiếm tám mươi tám phần trăm tổng doanh thu của cả sàn. Nghĩa là gần như toàn bộ doanh thu của Tiki vẫn phải đi qua cái cổ chai chi phí cố định khổng lồ ấy. Mỗi sản phẩm bán ra đều gánh trên lưng tiền kho, tiền nhân sự, tiền khấu hao. Bán càng nhiều thì gánh nặng càng lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 27.56,
+    "text_overlay": "",
+    "visual_summary": "Trong khi đó, Shopee đặt chân vào Việt Nam năm hai nghìn không trăm mười sáu với một triết lý hoàn toàn ngược lại. Mô hình 3P tài sản nhẹ. Shopee không nhập một món hàng nào, không sở hữu một kho hàng nào. Sàn chỉ đóng vai trò trung gian kết nối hàng triệu người bán với hàng chục triệu người mua, rồi thu phí hoa hồng và dịch vụ. Toàn bộ rủi ro tồn kho, chi phí lưu trữ, đóng gói được đẩy về phía người bán. Chi phí cận biên để thêm một mặt hàng mới lên sàn gần như bằng không.",
+    "sentences": [
+      "Trong khi đó, Shopee đặt chân vào Việt Nam năm hai nghìn không trăm mười sáu với một triết lý hoàn toàn ngược lại. Mô hình 3P tài sản nhẹ. Shopee không nhập một món hàng nào, không sở hữu một kho hàng nào. Sàn chỉ đóng vai trò trung gian kết nối hàng triệu người bán với hàng chục triệu người mua, rồi thu phí hoa hồng và dịch vụ. Toàn bộ rủi ro tồn kho, chi phí lưu trữ, đóng gói được đẩy về phía người bán. Chi phí cận biên để thêm một mặt hàng mới lên sàn gần như bằng không."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 14.44,
+    "text_overlay": "",
+    "visual_summary": "Kết quả là trong khi Tiki cần hàng trăm tỷ đồng và hàng tháng trời để mở rộng danh mục sang một ngành hàng mới, Shopee chỉ cần mở cổng cho người bán đăng ký. Danh mục hàng hóa của Shopee phình to với tốc độ mà Tiki không bao giờ có thể theo kịp.",
+    "sentences": [
+      "Kết quả là trong khi Tiki cần hàng trăm tỷ đồng và hàng tháng trời để mở rộng danh mục sang một ngành hàng mới, Shopee chỉ cần mở cổng cho người bán đăng ký. Danh mục hàng hóa của Shopee phình to với tốc độ mà Tiki không bao giờ có thể theo kịp."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC018",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 15.75,
+    "text_overlay": "",
+    "visual_summary": "Và Tiki không phải sàn nội địa duy nhất ngạt thở. Ngay cả tập đoàn tư nhân giàu có nhất Việt Nam là Vingroup cũng không thể kham nổi cuộc đua này. Sàn thương mại điện tử Adayroi của tỷ phú Phạm Nhật Vượng đã phải chấp nhận đóng cửa để cắt lỗ sau nhiều năm gồng mình đốt tiền.",
+    "sentences": [
+      "Và Tiki không phải sàn nội địa duy nhất ngạt thở. Ngay cả tập đoàn tư nhân giàu có nhất Việt Nam là Vingroup cũng không thể kham nổi cuộc đua này. Sàn thương mại điện tử Adayroi của tỷ phú Phạm Nhật Vượng đã phải chấp nhận đóng cửa để cắt lỗ sau nhiều năm gồng mình đốt tiền."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC019",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 30.45,
+    "text_overlay": "",
+    "visual_summary": "Một người anh em thuần Việt khác là Sendo, dù được FPT ươm mầm và huy động hơn một trăm ba mươi triệu đô la từ Nhật Bản, cũng dần kiệt sức. Sendo chọn né tránh đô thị để đánh vào thị trường nông thôn, nhưng giá trị đơn hàng ở tỉnh quá thấp không đủ bù đắp chi phí giao nhận. Riêng năm hai nghìn không trăm mười chín, Sendo báo lỗ một nghìn năm trăm tám mươi sáu tỷ đồng, trong khi Tiki lỗ kỷ lục một nghìn bảy trăm sáu mươi lăm tỷ. Hai sàn nội địa lớn nhất cộng lại đốt hơn ba nghìn ba trăm tỷ đồng chỉ trong một năm.",
+    "sentences": [
+      "Một người anh em thuần Việt khác là Sendo, dù được FPT ươm mầm và huy động hơn một trăm ba mươi triệu đô la từ Nhật Bản, cũng dần kiệt sức. Sendo chọn né tránh đô thị để đánh vào thị trường nông thôn, nhưng giá trị đơn hàng ở tỉnh quá thấp không đủ bù đắp chi phí giao nhận. Riêng năm hai nghìn không trăm mười chín, Sendo báo lỗ một nghìn năm trăm tám mươi sáu tỷ đồng, trong khi Tiki lỗ kỷ lục một nghìn bảy trăm sáu mươi lăm tỷ. Hai sàn nội địa lớn nhất cộng lại đốt hơn ba nghìn ba trăm tỷ đồng chỉ trong một năm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC020",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 29.66,
+    "text_overlay": "",
+    "visual_summary": "Sự kiệt quệ ấy đẩy Tiki và Sendo vào bàn đàm phán sáp nhập lịch sử vào năm hai nghìn không trăm hai mươi. Nếu thành công, đây sẽ là thế lực nội địa duy nhất có thể đối trọng với Shopee. Nhưng thương vụ đổ vỡ vào phút chót. Các cổ đông ngoại của hai bên, JD.com bên phía Tiki và SBI Holdings bên phía Sendo, không thể thống nhất về tỷ lệ hoán đổi cổ phần và định giá doanh nghiệp hậu sáp nhập. Cơ hội hợp lực cuối cùng của sàn thương mại điện tử thuần Việt bị bẻ gãy bởi chính những đồng vốn ngoại đã nuôi lớn chúng.",
+    "sentences": [
+      "Sự kiệt quệ ấy đẩy Tiki và Sendo vào bàn đàm phán sáp nhập lịch sử vào năm hai nghìn không trăm hai mươi. Nếu thành công, đây sẽ là thế lực nội địa duy nhất có thể đối trọng với Shopee. Nhưng thương vụ đổ vỡ vào phút chót. Các cổ đông ngoại của hai bên, JD.com bên phía Tiki và SBI Holdings bên phía Sendo, không thể thống nhất về tỷ lệ hoán đổi cổ phần và định giá doanh nghiệp hậu sáp nhập. Cơ hội hợp lực cuối cùng của sàn thương mại điện tử thuần Việt bị bẻ gãy bởi chính những đồng vốn ngoại đã nuôi lớn chúng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC021",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 16.8,
+    "text_overlay": "",
+    "visual_summary": "Tiki quay lại cuộc chiến một mình, với chiếc ba lô chứa đầy gạch đá của chi phí cố định trên lưng. Và để tìm lối thoát, ban lãnh đạo quyết định đặt cược toàn bộ tương lai vào một vũ khí chưa từng có tiền lệ: tốc độ giao nhận siêu tưởng và một canh bạc truyền thông tốn kém chưa từng thấy.",
+    "sentences": [
+      "Tiki quay lại cuộc chiến một mình, với chiếc ba lô chứa đầy gạch đá của chi phí cố định trên lưng. Và để tìm lối thoát, ban lãnh đạo quyết định đặt cược toàn bộ tương lai vào một vũ khí chưa từng có tiền lệ: tốc độ giao nhận siêu tưởng và một canh bạc truyền thông tốn kém chưa từng thấy."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC022",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 22.57,
+    "text_overlay": "",
+    "visual_summary": "Năm hai nghìn không trăm mười bảy, Tiki làm rung chuyển thị trường khi tung ra dịch vụ giao hàng nhanh hai giờ mang tên TikiNOW. Chưa từng có sàn thương mại điện tử nào ở Việt Nam dám cam kết điều đó. Khách hàng vừa đặt một cuốn sách hay chiếc tai nghe, hai tiếng sau shipper áo xanh đã gõ cửa. Trải nghiệm người dùng đạt điểm tuyệt đối. Chỉ số hài lòng khách hàng NPS của Tiki thậm chí vượt qua cả Shopee.",
+    "sentences": [
+      "Năm hai nghìn không trăm mười bảy, Tiki làm rung chuyển thị trường khi tung ra dịch vụ giao hàng nhanh hai giờ mang tên TikiNOW. Chưa từng có sàn thương mại điện tử nào ở Việt Nam dám cam kết điều đó. Khách hàng vừa đặt một cuốn sách hay chiếc tai nghe, hai tiếng sau shipper áo xanh đã gõ cửa. Trải nghiệm người dùng đạt điểm tuyệt đối. Chỉ số hài lòng khách hàng NPS của Tiki thậm chí vượt qua cả Shopee."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC023",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 24.93,
+    "text_overlay": "",
+    "visual_summary": "Nhưng đằng sau tốc độ thần kỳ ấy là một cái bẫy tài chính chết người. Để giao hàng trong hai giờ, Tiki phải xây mạng lưới kho vệ tinh tại trung tâm các đô thị lớn như Hà Nội và Thành phố Hồ Chí Minh. Chi phí thuê mặt bằng nội đô đắt đỏ ngốn một lượng tiền mặt khổng lồ. Chưa hết, cam kết hai tiếng khiến hệ thống không thể gom nhiều đơn hàng trên cùng một chuyến xe. Mỗi tài xế chỉ chạy giao cho đúng một khách hàng duy nhất.",
+    "sentences": [
+      "Nhưng đằng sau tốc độ thần kỳ ấy là một cái bẫy tài chính chết người. Để giao hàng trong hai giờ, Tiki phải xây mạng lưới kho vệ tinh tại trung tâm các đô thị lớn như Hà Nội và Thành phố Hồ Chí Minh. Chi phí thuê mặt bằng nội đô đắt đỏ ngốn một lượng tiền mặt khổng lồ. Chưa hết, cam kết hai tiếng khiến hệ thống không thể gom nhiều đơn hàng trên cùng một chuyến xe. Mỗi tài xế chỉ chạy giao cho đúng một khách hàng duy nhất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC024",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 29.13,
+    "text_overlay": "",
+    "visual_summary": "Chi phí xử lý và giao nhận thực tế cho mỗi đơn hàng TikiNOW bị đẩy lên mức ba mươi lăm đến bốn mươi lăm nghìn đồng. Trong khi đó, Tiki chỉ thu của khách khoảng hai mươi lăm đến hai mươi chín nghìn đồng một đơn. Sàn còn tung gói hội viên không giới hạn với giá bảy mươi chín nghìn đồng một tháng hoặc bốn trăm chín mươi chín nghìn đồng một năm. Về mặt kinh tế học đơn vị, TikiNOW càng có nhiều người dùng trung thành thì sàn càng lỗ nặng. Mỗi gói hàng giao đi là một lần Tiki phải tự móc tiền túi bù lỗ.",
+    "sentences": [
+      "Chi phí xử lý và giao nhận thực tế cho mỗi đơn hàng TikiNOW bị đẩy lên mức ba mươi lăm đến bốn mươi lăm nghìn đồng. Trong khi đó, Tiki chỉ thu của khách khoảng hai mươi lăm đến hai mươi chín nghìn đồng một đơn. Sàn còn tung gói hội viên không giới hạn với giá bảy mươi chín nghìn đồng một tháng hoặc bốn trăm chín mươi chín nghìn đồng một năm. Về mặt kinh tế học đơn vị, TikiNOW càng có nhiều người dùng trung thành thì sàn càng lỗ nặng. Mỗi gói hàng giao đi là một lần Tiki phải tự móc tiền túi bù lỗ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC025",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 19.69,
+    "text_overlay": "",
+    "visual_summary": "Song song với cuộc đua tốc độ, Tiki tiếp tục lao vào một canh bạc truyền thông tốn kém. Từ năm hai nghìn không trăm mười chín, chiến dịch \"Tiki Đi Cùng Sao Việt\" tài trợ cho hơn một trăm MV ca nhạc của các nghệ sĩ hàng đầu. Logo Tiki xuất hiện dày đặc, thu về một tỷ sáu trăm triệu lượt xem và chiếm lĩnh mười ba vị trí Top một YouTube Trending.",
+    "sentences": [
+      "Song song với cuộc đua tốc độ, Tiki tiếp tục lao vào một canh bạc truyền thông tốn kém. Từ năm hai nghìn không trăm mười chín, chiến dịch \"Tiki Đi Cùng Sao Việt\" tài trợ cho hơn một trăm MV ca nhạc của các nghệ sĩ hàng đầu. Logo Tiki xuất hiện dày đặc, thu về một tỷ sáu trăm triệu lượt xem và chiếm lĩnh mười ba vị trí Top một YouTube Trending."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC026",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 26.77,
+    "text_overlay": "",
+    "visual_summary": "Đó là một thắng lợi rực rỡ về nhận diện thương hiệu ở đỉnh phễu tiếp thị. Cả triệu người trẻ biết đến Tiki và yêu mến Tiki. Nhưng tình yêu ấy không chuyển hóa thành hành vi mua sắm ở đáy phễu. Khán giả có thể xúc động vì một bản tình ca do Tiki tài trợ trên YouTube. Nhưng khi mua hàng, họ sẵn sàng mở Shopee để chốt đơn chỉ vì một mã giảm giá hai mươi nghìn đồng. Bởi vì trên màn hình điện thoại, khoảng cách giữa các sàn chỉ cách nhau đúng một cái chạm tay.",
+    "sentences": [
+      "Đó là một thắng lợi rực rỡ về nhận diện thương hiệu ở đỉnh phễu tiếp thị. Cả triệu người trẻ biết đến Tiki và yêu mến Tiki. Nhưng tình yêu ấy không chuyển hóa thành hành vi mua sắm ở đáy phễu. Khán giả có thể xúc động vì một bản tình ca do Tiki tài trợ trên YouTube. Nhưng khi mua hàng, họ sẵn sàng mở Shopee để chốt đơn chỉ vì một mã giảm giá hai mươi nghìn đồng. Bởi vì trên màn hình điện thoại, khoảng cách giữa các sàn chỉ cách nhau đúng một cái chạm tay."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC027",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 22.31,
+    "text_overlay": "",
+    "visual_summary": "Dù vậy, đã có những khoảnh khắc Tiki tưởng như chạm tay vào chiến thắng. Trong giai đoạn đại dịch, dịch vụ đi chợ trực tuyến TikiNgon tăng trưởng tới hai mươi lần, lượng hội viên TikiNOW tăng gấp ba. Nhưng ngay khi cuộc sống bình thường trở lại, lượng khách sẵn sàng trả phí cho dịch vụ này không đủ lớn để bù đắp bộ máy cồng kềnh. TikiNOW trở thành một món quà xa xỉ mà sàn không còn đủ sức gánh vác.",
+    "sentences": [
+      "Dù vậy, đã có những khoảnh khắc Tiki tưởng như chạm tay vào chiến thắng. Trong giai đoạn đại dịch, dịch vụ đi chợ trực tuyến TikiNgon tăng trưởng tới hai mươi lần, lượng hội viên TikiNOW tăng gấp ba. Nhưng ngay khi cuộc sống bình thường trở lại, lượng khách sẵn sàng trả phí cho dịch vụ này không đủ lớn để bù đắp bộ máy cồng kềnh. TikiNOW trở thành một món quà xa xỉ mà sàn không còn đủ sức gánh vác."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC028",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 25.72,
+    "text_overlay": "",
+    "visual_summary": "Trong khi Tiki mải mê đốt tiền vào tốc độ và showbiz, Shopee tập trung toàn bộ hỏa lực vào đáy phễu. Họ tích hợp trò chơi lắc xu và nông trại, biến việc mở ứng dụng thành thói quen mỗi ngày. Họ tung chương trình trợ giá FreeShip Xtra, đánh trúng rào cản tâm lý lớn nhất của người mua hàng Việt Nam. Đến năm hai nghìn không trăm hai mươi tư, chiến lược này giúp Shopee đạt doanh số chín phẩy ba tỷ đô la. Họ nuốt trọn gần sáu mươi bảy phần trăm thị trường.",
+    "sentences": [
+      "Trong khi Tiki mải mê đốt tiền vào tốc độ và showbiz, Shopee tập trung toàn bộ hỏa lực vào đáy phễu. Họ tích hợp trò chơi lắc xu và nông trại, biến việc mở ứng dụng thành thói quen mỗi ngày. Họ tung chương trình trợ giá FreeShip Xtra, đánh trúng rào cản tâm lý lớn nhất của người mua hàng Việt Nam. Đến năm hai nghìn không trăm hai mươi tư, chiến lược này giúp Shopee đạt doanh số chín phẩy ba tỷ đô la. Họ nuốt trọn gần sáu mươi bảy phần trăm thị trường."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC029",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 16.27,
+    "text_overlay": "",
+    "visual_summary": "Tiki đã đốt hàng nghìn tỷ đồng vào tốc độ và showbiz, để rồi nhận ra tình cảm thương hiệu không thể bù đắp cho một mô hình thâm hụt. Và khi lượng tiền mặt dự trữ bắt đầu cạn kiệt, họ giật mình nhận ra các đối thủ ngoại quốc đang chơi một trò chơi với luật chơi hoàn toàn khác.",
+    "sentences": [
+      "Tiki đã đốt hàng nghìn tỷ đồng vào tốc độ và showbiz, để rồi nhận ra tình cảm thương hiệu không thể bù đắp cho một mô hình thâm hụt. Và khi lượng tiền mặt dự trữ bắt đầu cạn kiệt, họ giật mình nhận ra các đối thủ ngoại quốc đang chơi một trò chơi với luật chơi hoàn toàn khác."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC030",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 14.7,
+    "text_overlay": "",
+    "visual_summary": "Trong thương mại điện tử, dịch vụ xuất sắc hay chỉ số hài lòng khách hàng cao chưa bao giờ là tấm bùa hộ mệnh. Đây là một cuộc chiến tranh tiêu hao tàn khốc, nơi kẻ sống sót không phải là người chạy nhanh nhất, mà là kẻ có túi tiền chịu đau lâu nhất.",
+    "sentences": [
+      "Trong thương mại điện tử, dịch vụ xuất sắc hay chỉ số hài lòng khách hàng cao chưa bao giờ là tấm bùa hộ mệnh. Đây là một cuộc chiến tranh tiêu hao tàn khốc, nơi kẻ sống sót không phải là người chạy nhanh nhất, mà là kẻ có túi tiền chịu đau lâu nhất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC031",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Và sự bất đối xứng lớn nhất giữa Tiki và các đối thủ ngoại quốc nằm ở chính nguồn gốc của dòng tiền.",
+    "sentences": [
+      "Và sự bất đối xứng lớn nhất giữa Tiki và các đối thủ ngoại quốc nằm ở chính nguồn gốc của dòng tiền."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC032",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 23.62,
+    "text_overlay": "",
+    "visual_summary": "Shopee không sống bằng tiền của các quỹ đầu tư mạo hiểm đi gọi từng vòng. Đứng sau họ là tập đoàn Sea Group, sở hữu cỗ máy in tiền mang tên Garena. Tựa game bắn súng Free Fire liên tục giữ kỷ lục được tải xuống nhiều nhất thế giới, tạo ra dòng lợi nhuận ròng hàng tỷ đô la mỗi năm. Nguồn tiền mặt dồi dào ấy được chuyển thẳng sang nuôi Shopee, cho phép sàn này trợ giá liên tục mà không sợ đứt gãy thanh khoản.",
+    "sentences": [
+      "Shopee không sống bằng tiền của các quỹ đầu tư mạo hiểm đi gọi từng vòng. Đứng sau họ là tập đoàn Sea Group, sở hữu cỗ máy in tiền mang tên Garena. Tựa game bắn súng Free Fire liên tục giữ kỷ lục được tải xuống nhiều nhất thế giới, tạo ra dòng lợi nhuận ròng hàng tỷ đô la mỗi năm. Nguồn tiền mặt dồi dào ấy được chuyển thẳng sang nuôi Shopee, cho phép sàn này trợ giá liên tục mà không sợ đứt gãy thanh khoản."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC033",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 18.64,
+    "text_overlay": "",
+    "visual_summary": "Đến năm hai nghìn không trăm hai mươi hai, bức tranh tài chính hé lộ sự thật phũ phàng. Shopee Việt Nam báo lãi sau thuế kỷ lục hơn ba nghìn tỷ đồng, và tiếp tục lãi hơn một nghìn bốn trăm tỷ vào năm sau đó. Trong khi đó, Lazada dù được Alibaba hậu thuẫn hàng tỷ đô la vẫn ghi nhận mức lỗ hơn hai trăm hai mươi tỷ.",
+    "sentences": [
+      "Đến năm hai nghìn không trăm hai mươi hai, bức tranh tài chính hé lộ sự thật phũ phàng. Shopee Việt Nam báo lãi sau thuế kỷ lục hơn ba nghìn tỷ đồng, và tiếp tục lãi hơn một nghìn bốn trăm tỷ vào năm sau đó. Trong khi đó, Lazada dù được Alibaba hậu thuẫn hàng tỷ đô la vẫn ghi nhận mức lỗ hơn hai trăm hai mươi tỷ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC034",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 14.7,
+    "text_overlay": "",
+    "visual_summary": "Còn Tiki, sau hơn một thập kỷ kiên trì, ghi nhận khoản lỗ ròng một trăm triệu đô la trong cùng năm tài chính. Toàn bộ số vốn khoảng bốn trăm năm mươi triệu đô la mà Tiki gom góp qua mười ba năm đã bị cuộc chiến đốt tiền bào mòn gần như sạch bách.",
+    "sentences": [
+      "Còn Tiki, sau hơn một thập kỷ kiên trì, ghi nhận khoản lỗ ròng một trăm triệu đô la trong cùng năm tài chính. Toàn bộ số vốn khoảng bốn trăm năm mươi triệu đô la mà Tiki gom góp qua mười ba năm đã bị cuộc chiến đốt tiền bào mòn gần như sạch bách."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC035",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 14.7,
+    "text_overlay": "",
+    "visual_summary": "Đúng vào thời điểm dòng tiền cạn kiệt nhất, một cơn bão vĩ mô ập đến. Tháng ba năm hai nghìn không trăm hai mươi hai, Cục Dự trữ Liên bang Mỹ bắt đầu chu kỳ tăng lãi suất quyết liệt vượt ngưỡng năm phần trăm. Kỷ nguyên tiền rẻ toàn cầu chính thức khép lại.",
+    "sentences": [
+      "Đúng vào thời điểm dòng tiền cạn kiệt nhất, một cơn bão vĩ mô ập đến. Tháng ba năm hai nghìn không trăm hai mươi hai, Cục Dự trữ Liên bang Mỹ bắt đầu chu kỳ tăng lãi suất quyết liệt vượt ngưỡng năm phần trăm. Kỷ nguyên tiền rẻ toàn cầu chính thức khép lại."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC036",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 19.69,
+    "text_overlay": "",
+    "visual_summary": "Thị trường vốn mạo hiểm đóng băng chỉ sau một đêm. Làn sóng sáp nhập qua các công ty SPAC trên sàn chứng khoán quốc tế đổ vỡ hàng loạt. Kế hoạch niêm yết lên sàn Nasdaq mà nhà sáng lập Tiki từng ấp ủ hoàn toàn tan thành mây khói. Cánh cửa tiếp cận dòng vốn đại chúng đóng sập lại, khiến Tiki không còn cách nào để gọi thêm những vòng vốn mới.",
+    "sentences": [
+      "Thị trường vốn mạo hiểm đóng băng chỉ sau một đêm. Làn sóng sáp nhập qua các công ty SPAC trên sàn chứng khoán quốc tế đổ vỡ hàng loạt. Kế hoạch niêm yết lên sàn Nasdaq mà nhà sáng lập Tiki từng ấp ủ hoàn toàn tan thành mây khói. Cánh cửa tiếp cận dòng vốn đại chúng đóng sập lại, khiến Tiki không còn cách nào để gọi thêm những vòng vốn mới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC037",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 14.17,
+    "text_overlay": "",
+    "visual_summary": "Áp lực tài chính đè nặng lên các cổ đông. Tập đoàn VNG, chỗ dựa lớn nhất của Tiki tại Việt Nam, buộc phải trích lập dự phòng toàn bộ khoản đầu tư hơn năm trăm mười tỷ đồng. Giá trị sổ sách của khoản đầu tư này chính thức về mức không đồng.",
+    "sentences": [
+      "Áp lực tài chính đè nặng lên các cổ đông. Tập đoàn VNG, chỗ dựa lớn nhất của Tiki tại Việt Nam, buộc phải trích lập dự phòng toàn bộ khoản đầu tư hơn năm trăm mười tỷ đồng. Giá trị sổ sách của khoản đầu tư này chính thức về mức không đồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC038",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 24.93,
+    "text_overlay": "",
+    "visual_summary": "Để tự cứu mình khỏi nguy cơ cạn kiệt dòng tiền, Tiki buộc phải đạp phanh khẩn cấp. Họ cắt bỏ trợ giá vận chuyển, tăng phí dịch vụ đối với người bán và thu hẹp nhân sự vận hành. Nhưng trong kinh tế học nền tảng, đạp phanh khi chưa chiếm lĩnh thị phần chính là một bản án tự sát. Khi giá trên Tiki đắt hơn và phí cao hơn, hàng loạt người bán và người mua lập tức chuyển sang các sàn khác. Thị phần của Tiki bắt đầu rơi tự do.",
+    "sentences": [
+      "Để tự cứu mình khỏi nguy cơ cạn kiệt dòng tiền, Tiki buộc phải đạp phanh khẩn cấp. Họ cắt bỏ trợ giá vận chuyển, tăng phí dịch vụ đối với người bán và thu hẹp nhân sự vận hành. Nhưng trong kinh tế học nền tảng, đạp phanh khi chưa chiếm lĩnh thị phần chính là một bản án tự sát. Khi giá trên Tiki đắt hơn và phí cao hơn, hàng loạt người bán và người mua lập tức chuyển sang các sàn khác. Thị phần của Tiki bắt đầu rơi tự do."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC039",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 14.7,
+    "text_overlay": "",
+    "visual_summary": "Thị phần rơi tự do, dòng vốn đóng băng. Liệu Tiki có còn cơ hội nào để lật ngược thế cờ khi các đối thủ cạnh tranh trực tiếp cũng bắt đầu bộc lộ những sai lầm chết người? Hay một biến số hoàn toàn mới ngoài ngành sẽ xuất hiện và định đoạt tất cả?",
+    "sentences": [
+      "Thị phần rơi tự do, dòng vốn đóng băng. Liệu Tiki có còn cơ hội nào để lật ngược thế cờ khi các đối thủ cạnh tranh trực tiếp cũng bắt đầu bộc lộ những sai lầm chết người? Hay một biến số hoàn toàn mới ngoài ngành sẽ xuất hiện và định đoạt tất cả?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC040",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 16.27,
+    "text_overlay": "",
+    "visual_summary": "Nhiều người từng nghĩ rằng đối thủ lớn nhất đè bẹp Tiki là Lazada. Từng là kẻ thống trị số một Đông Nam Á, Lazada sở hữu bệ đỡ khổng lồ khi tập đoàn Alibaba mua lại và rót vào hơn bảy tỷ đô la. Nhưng trớ trêu thay, nguồn vốn vô tận ấy không mua được sự thấu hiểu thị trường.",
+    "sentences": [
+      "Nhiều người từng nghĩ rằng đối thủ lớn nhất đè bẹp Tiki là Lazada. Từng là kẻ thống trị số một Đông Nam Á, Lazada sở hữu bệ đỡ khổng lồ khi tập đoàn Alibaba mua lại và rót vào hơn bảy tỷ đô la. Nhưng trớ trêu thay, nguồn vốn vô tận ấy không mua được sự thấu hiểu thị trường."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC041",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 26.25,
+    "text_overlay": "",
+    "visual_summary": "Lazada rơi vào cuộc khủng hoảng quản trị triền miên khi thay đổi tới năm giám đốc điều hành chỉ trong năm năm. Họ áp đặt hệ thống Taobao phức tạp từ công ty mẹ, khiến ứng dụng giật lag trên hạ tầng mạng bản địa. Dưới áp lực tối ưu lợi nhuận, Lazada đột ngột cắt giảm khuyến mãi quá sớm và tiến hành các đợt sa thải nhân sự hàng loạt. Từ vị thế dẫn đầu, thị phần của Lazada trượt dài xuống dưới sáu phần trăm, với mức sụt giảm doanh thu hơn bốn mươi phần trăm.",
+    "sentences": [
+      "Lazada rơi vào cuộc khủng hoảng quản trị triền miên khi thay đổi tới năm giám đốc điều hành chỉ trong năm năm. Họ áp đặt hệ thống Taobao phức tạp từ công ty mẹ, khiến ứng dụng giật lag trên hạ tầng mạng bản địa. Dưới áp lực tối ưu lợi nhuận, Lazada đột ngột cắt giảm khuyến mãi quá sớm và tiến hành các đợt sa thải nhân sự hàng loạt. Từ vị thế dẫn đầu, thị phần của Lazada trượt dài xuống dưới sáu phần trăm, với mức sụt giảm doanh thu hơn bốn mươi phần trăm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC042",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 23.88,
+    "text_overlay": "",
+    "visual_summary": "Khi kẻ khổng lồ Lazada tự bắn vào chân, đây lẽ ra là cơ hội vàng để Tiki vươn lên lấy lại vị thế á quân. Nhưng bi kịch của Tiki là họ không còn một đồng đạn dược nào để nắm bắt thời cơ. Vừa trải qua cơn bão cạn vốn và phải thắt lưng buộc bụng, doanh thu thuần của Tiki sụt giảm ba mươi sáu phần trăm. Sàn thương mại điện tử Việt Nam hoàn toàn bất lực nhìn khoảng trống thị trường rơi thẳng vào tay Shopee.",
+    "sentences": [
+      "Khi kẻ khổng lồ Lazada tự bắn vào chân, đây lẽ ra là cơ hội vàng để Tiki vươn lên lấy lại vị thế á quân. Nhưng bi kịch của Tiki là họ không còn một đồng đạn dược nào để nắm bắt thời cơ. Vừa trải qua cơn bão cạn vốn và phải thắt lưng buộc bụng, doanh thu thuần của Tiki sụt giảm ba mươi sáu phần trăm. Sàn thương mại điện tử Việt Nam hoàn toàn bất lực nhìn khoảng trống thị trường rơi thẳng vào tay Shopee."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC043",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 12.07,
+    "text_overlay": "",
+    "visual_summary": "Và khi Tiki còn chưa kịp hồi sức, một đòn giáng đoạt mạng khác ập đến từ một hướng hoàn toàn bất ngờ. Kẻ làm thay đổi cuộc chơi không nằm trong danh sách các sàn thương mại điện tử truyền thống. Đó là TikTok Shop.",
+    "sentences": [
+      "Và khi Tiki còn chưa kịp hồi sức, một đòn giáng đoạt mạng khác ập đến từ một hướng hoàn toàn bất ngờ. Kẻ làm thay đổi cuộc chơi không nằm trong danh sách các sàn thương mại điện tử truyền thống. Đó là TikTok Shop."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC044",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 23.88,
+    "text_overlay": "",
+    "visual_summary": "Bằng khái niệm mua sắm kết hợp giải trí, TikTok Shop đảo lộn hoàn toàn hành vi của người tiêu dùng. Họ xóa bỏ thói quen gõ từ khóa tìm kiếm để thay bằng thuật toán gợi ý video ngắn và các phiên livestream bán hàng. Người mua không còn đắn đo so sánh giá, mà bấm chốt đơn ngay trong lúc đang giải trí. Đứng sau màn hình là chuỗi cung ứng từ xưởng sản xuất, đưa hàng hóa giá xuất xưởng đến tay người mua chỉ sau vài ngày.",
+    "sentences": [
+      "Bằng khái niệm mua sắm kết hợp giải trí, TikTok Shop đảo lộn hoàn toàn hành vi của người tiêu dùng. Họ xóa bỏ thói quen gõ từ khóa tìm kiếm để thay bằng thuật toán gợi ý video ngắn và các phiên livestream bán hàng. Người mua không còn đắn đo so sánh giá, mà bấm chốt đơn ngay trong lúc đang giải trí. Đứng sau màn hình là chuỗi cung ứng từ xưởng sản xuất, đưa hàng hóa giá xuất xưởng đến tay người mua chỉ sau vài ngày."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC045",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 17.59,
+    "text_overlay": "",
+    "visual_summary": "Trước làn sóng bán hàng qua video và nguồn hàng giá rẻ không trung gian, mô hình lưu kho tự doanh và bán sách của Tiki hoàn toàn tê liệt. TikTok Shop tăng trưởng thần tốc gần một trăm phần trăm mỗi năm, nuốt trọn gần bốn mươi phần trăm thị trường. Trong khi đó, thị phần của Tiki rơi thẳng xuống dưới mức một phần trăm.",
+    "sentences": [
+      "Trước làn sóng bán hàng qua video và nguồn hàng giá rẻ không trung gian, mô hình lưu kho tự doanh và bán sách của Tiki hoàn toàn tê liệt. TikTok Shop tăng trưởng thần tốc gần một trăm phần trăm mỗi năm, nuốt trọn gần bốn mươi phần trăm thị trường. Trong khi đó, thị phần của Tiki rơi thẳng xuống dưới mức một phần trăm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC046",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 14.44,
+    "text_overlay": "",
+    "visual_summary": "Bị dồn vào chân tường và mất sạch không gian sinh tồn, Tiki rơi vào cơn khủng hoảng lớn nhất kể từ ngày thành lập. Và trong phòng họp ban quản trị, một quyết định chấn động đã được đưa ra, làm thay đổi vĩnh viễn số phận của sàn thương mại điện tử này.",
+    "sentences": [
+      "Bị dồn vào chân tường và mất sạch không gian sinh tồn, Tiki rơi vào cơn khủng hoảng lớn nhất kể từ ngày thành lập. Và trong phòng họp ban quản trị, một quyết định chấn động đã được đưa ra, làm thay đổi vĩnh viễn số phận của sàn thương mại điện tử này."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  }
+]

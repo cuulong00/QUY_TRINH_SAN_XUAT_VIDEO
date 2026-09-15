@@ -1,0 +1,128 @@
+---
+title: "Cơ chế thèm khát (Tham ái - Lobha) tương thích thế nào với vòng lặp phần thưởng dopamine (dopamine reward loop) và các hội chứng nghiện hành vi hiện đại? Ưu tiên dữ liệu và nghiên cứu mới nhất. Mọi thí nghiệm và số liệu phải ghi rõ tên nhà nghiên cứu, năm công bố, phương pháp thực hiện (mẫu thử bao nhiêu người, đo lường thế nào). Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-10T23:37:03.482Z
+notebook_url: "https://notebooklm.google.com/notebook/634026bd-1b89-4b2c-917a-3e1a35aa93e5"
+session_id: "beb1fee4"
+citations_count: 12
+sources:
+  - "Buddhism and psychology - Wikipedia"
+  - "The Convergence of Contemplative Philosophy and Cognitive Science: Buddhist Dukkha, Evolutionary Psychology, and the Hedonic Treadmill"
+  - "Saṃsāra, Hedonic Treadmill, and Evolution : r/secularbuddhism - Reddit"
+  - "the hedonic treadmill • stevegrossi - note.garden"
+  - "Mindfulness and Emotion Regulation: Insights from ... - Frontiers"
+  - "The Mindful Brain: A Systematic Review of the Neural Correlates of ..."
+---
+
+# Cơ chế thèm khát (Tham ái - Lobha) tương thích thế nào với vòng lặp phần thưởng dopamine (dopamine reward loop) và các hội chứng nghiện hành vi hiện đại? Ưu tiên dữ liệu và nghiên cứu mới nhất. Mọi thí nghiệm và số liệu phải ghi rõ tên nhà nghiên cứu, năm công bố, phương pháp thực hiện (mẫu thử bao nhiêu người, đo lường thế nào). Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-10T23:37:03.482Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/634026bd-1b89-4b2c-917a-3e1a35aa93e5)
+
+## Answer
+
+BÁO CÁO KHOA HỌC: SỰ TƯƠNG THÍCH GIỮA CƠ CHẾ THAM ÁI (LOBHA/TAṆHĀ) VÀ VÒNG LẶP PHẦN THƯỞNG DOPAMINE TRONG NGHIỆN HÀNH VI
+1. SỰ TƯƠNG THÍCH VỀ MẶT LÝ THUYẾT VÀ TIẾN HÓA
+Mô hình Tham ái (Taṇhā/Lobha) trong Phật giáo: Tâm lý học Phật giáo chỉ ra nguyên nhân cốt lõi của đau khổ là sự khao khát mang tính cưỡng chế (Taṇhā/Lobha), bao gồm khao khát dục lạc giác quan (Kama-tanha)
+1
+2
+. Đây là vòng lặp liên tục của sự kỳ vọng, thỏa mãn nhất thời, sự quen thuộc (habituation) và khát khao tái diễn
+2
+.
+Vòng lặp phần thưởng Dopamine trong Khoa học Tiến hóa: Dưới góc nhìn tâm lý học tiến hóa, não bộ không được thiết kế để duy trì trạng thái hạnh phúc vĩnh viễn mà để thúc đẩy sự sinh tồn
+3
+4
+. Sự bất mãn liên tục là một cơ chế sinh học
+4
+. Thí nghiệm đo lường trên linh trưởng cho thấy: khi lặp lại việc cấp phần thưởng (nước trái cây) kèm theo tín hiệu báo trước (ánh sáng), nồng độ dopamine giải phóng chuyển dịch dần từ thời điểm "thực sự tiêu thụ" sang thời điểm "nhìn thấy tín hiệu kỳ vọng"
+5
+6
+. Điều này chứng minh về mặt sinh học thần kinh, sự khao khát/kỳ vọng (tương đương Taṇhā) được củng cố cực kỳ mạnh mẽ, trong khi khoái cảm thực sự sẽ bốc hơi nhanh chóng, ép buộc cá thể phải lặp lại hành vi
+5
+6
+.
+Nghiên cứu về Hội chứng nghiện hiện đại: Nền kinh tế hiện đại khai thác triệt để vòng lặp "kỳ vọng - khao khát" này, tạo ra cuộc đua trên "máy chạy bộ khoái cảm" (hedonic treadmill), dẫn đến các hội chứng nghiện hành vi và chất kích thích
+7
+. Việc theo đuổi các đợt tăng vọt dopamine (dopamine spikes) chính là biểu hiện hiện đại của cơ chế Tham ái
+7
+.
+2. BẰNG CHỨNG THỰC NGHIỆM VÀ SỐ LIỆU ĐO LƯỜNG LÂM SÀNG Các nghiên cứu hình ảnh học thần kinh (fMRI) mới nhất đã lượng hóa cơ chế này thông qua việc quan sát hệ thống phần thưởng (thể vân bụng - ventral striatum, nhân đuôi - caudate, bèo sẫm - putamen) khi có sự can thiệp của chánh niệm/vô chấp để cắt đứt cơn thèm khát:
+Nghiên cứu của Kirk và cộng sự (2015):
+Phương pháp: fMRI đo lường tín hiệu "Sai số dự đoán phần thưởng" (Prediction Error - PE) qua bài kiểm tra điều kiện hóa thụ động (ghép ánh sáng với việc nhận nước trái cây).
+Mẫu thử: N = 58 (28 thiền giả chuyên sâu, 30 người đối chứng).
+Kết quả: Các thiền giả có tín hiệu sai số dự đoán (PE) âm tính và dương tính tại vùng bèo sẫm (putamen - thuộc hệ thống phần thưởng) suy giảm rõ rệt so với nhóm đối chứng
+8
+9
+. Điều này chứng minh việc hành thiền vô hiệu hóa cơ chế phản ứng tự động của dopamine đối với kỳ vọng phần thưởng (phá vỡ tính cưỡng chế của Taṇhā)
+9
+.
+Nghiên cứu của Kirk và cộng sự (2011):
+Phương pháp: Thử nghiệm Trì hoãn phần thưởng tiền tệ (Monetary Incentive Delay) qua fMRI.
+Mẫu thử: N = 78 (34 thiền giả Zen lâu năm, 44 đối chứng).
+Kết quả: Trong giai đoạn "chờ đợi" phần thưởng, thiền giả giảm mạnh sự kích hoạt tại nhân đuôi (caudate nucleus). Trong giai đoạn "nhận" phần thưởng, hoạt động tại vỏ não trước trán bụng trong (vMPFC) cũng giảm sút
+8
+9
+. Dữ liệu cho thấy sự kìm hãm hoàn toàn hệ thống phần thưởng, minh chứng cho trạng thái "vô chấp" trước các kích thích.
+Nghiên cứu của Westbrook và cộng sự (2013):
+Phương pháp: Đo lường mức độ thèm khát do tín hiệu kích thích (cue-induced craving) qua fMRI. Mẫu thử so sánh chiến lược "chú ý chánh niệm" và "quan sát thụ động".
+Mẫu thử: N = 47 người nghiện thuốc lá đang tìm cách cai nghiện.
+Kết quả: Việc áp dụng chánh niệm trực tiếp làm giảm ham muốn thèm khát chủ quan, đồng thời làm giảm hoạt động thần kinh tại vỏ não đai trước dưới gối (sg-ACC). Đặc biệt, chánh niệm làm giảm sự kết nối chức năng giữa sg-ACC với thể vân bụng (ventral striatum - trung tâm tạo ra khao khát/phần thưởng) và thùy đảo hai bên (bilateral insula) mà không cần dùng đến nỗ lực ức chế từ vỏ não trước trán (PFC)
+10
+11
+.
+Nghiên cứu của Droutman và cộng sự (2022):
+Phương pháp: fMRI kết hợp bài test kiểm soát cảm xúc (Emotional go/no-go) và thang đo chánh niệm FFMQ-SF.
+Mẫu thử: N = 42 phụ nữ mắc chứng rối loạn sử dụng chất gây nghiện (SUD).
+Kết quả: Cấu trúc thần kinh của những người có đặc tính chánh niệm tương quan với sự điều biến tại các vùng thùy đảo (insula), nhân đuôi (caudate), bèo sẫm (putamen) và vỏ não đai (cingulate) - những vùng cốt lõi kiểm soát cơn thèm khát và hệ thống dopamine
+12
+.
+3. KẾT LUẬN Cơ chế "Tham ái" (Lobha/Taṇhā) trong Phật giáo hoàn toàn tương thích với các đặc tính sinh học của vòng lặp phần thưởng dopamine. Sự thèm khát (craving) là một sai lệch thần kinh sinh ra từ quá trình kỳ vọng phần thưởng (dopamine spikes) chứ không phải từ bản thân trải nghiệm thực tế. Can thiệp bằng chánh niệm (mindfulness) đã được chứng minh lâm sàng là có khả năng giảm điều hòa (down-regulate) hoạt động của mạng lưới thể vân (striatum, putamen, caudate) và ngắt kết nối các trung tâm kích hoạt cơn thèm (sg-ACC), cung cấp cơ chế vật lý thần kinh rõ ràng để điều trị các hội chứng nghiện và làm dịu vòng lặp khao khát.
+
+## Sources
+
+### [1] Buddhism and psychology - Wikipedia
+
+> Kama tanha - craving for sensory gratification, sex, novel stimuli, and pleasure. Bhava tanha - craving for survival or continued existence, also includes hunger and sleep as well as desire for power, wealth and fame. Vibhava tanha - craving for annihilation, non-existence, also associated with aggression and violence towards oneself and others [1] :37 These three basic drives have been compared to the Freudian drive theory of libido, ego, and thanatos respectively (de Silva, 1973). The arousal of these three cravings is derived from pleasant or unpleasant feelings ( vedana ), reactions to sense impressions with positive or negative hedonic tone . Cravings condition clinging or obsession (upadana) to sense impressions, leading to a vicious cycle of further craving and striving, which is ultimately unsatisfactory and stressful.
+
+### [2] The Convergence of Contemplative Philosophy and Cognitive Science: Buddhist Dukkha, Evolutionary Psychology, and the Hedonic Treadmill
+
+> This cycle of expectation, reward, habituation, and renewed craving corresponds directly to the Buddhist model of tanha (compulsive craving or thirst).[8, 10, 13] The early suttas identify three fundamental drives of tanha : the craving for sensory pleasure ( kama-tanha ), the craving for becoming or identity-building ( bhava-tanha ), and the craving for non-becoming or annihilation ( vibhava-tanha ).[8, 13] These drives have been compared to the Freudian drive theories of the libido, the ego, and thanatos, respectively.[8]
+
+### [3] Saṃsāra, Hedonic Treadmill, and Evolution : r/secularbuddhism - Reddit
+
+> Saṃsāra, Hedonic Treadmill, and Evolution : r/secularbuddhism Skip to main content Saṃsāra, Hedonic Treadmill, and Evolution : r/secularbuddhism Open menu Open navigation Go to Reddit Home Ask Sign Up Sign up for Reddit Log In Log in to Reddit Expand user menu Open settings menu Skip to Sign up Skip to Right Sidebar Back Go to secularbuddhism r/secularbuddhism • 2y ago Promptier Locked post Stickied post Archived post Report Saṃsāra, Hedonic Treadmill, and Evolution Reading Robert Wright's Why Buddhism is True is an evolutionary psychologists take on Buddhism, basically how natural selection designed us not for happiness, but for survival, which constantly involves seeking pleasures and satisfaction. This scientific perspective is similar to other ideas like Saṃsāra and the hedonic treadmill. After some meditation and comparing two modes of living, one being a slower, living in the moment, "enlighted" way, and the other of continual expectation and anticipating.
+
+### [4] The Convergence of Contemplative Philosophy and Cognitive Science: Buddhist Dukkha, Evolutionary Psychology, and the Hedonic Treadmill
+
+> Under ancestral conditions of resource scarcity, hunter-gatherers whose brains maintained a state of persistent dissatisfaction were more likely to survive.[12] Those who encountered an abundance of food and continued eating past immediate satiety out-survived those who became easily content with their baseline consumption.[12] To enforce this continuous productivity, natural selection engineered an asymmetry between anticipation and consumption.[12] The anticipation of a reward is designed to be highly intense, whereas the pleasure derived from actual consumption is designed to evaporate rapidly, prompting the organism to repeat the behavior.[12]
+
+### [5] The Convergence of Contemplative Philosophy and Cognitive Science: Buddhist Dukkha, Evolutionary Psychology, and the Hedonic Treadmill
+
+> This neurological mechanism is mediated by dopaminergic pathways.[12] In primate studies measuring dopamine release in response to a juice reward, researchers established that when a predictive light cue is repeatedly paired with the delivery of fruit juice, the surge of dopamine shifts over time.[12] The feel-good neurochemical is increasingly released upon the appearance of the light cue rather than during the actual consumption of the juice.[12] This neurobiological shift demonstrates that the anticipation of pleasure is highly reinforced, whereas the actual experience provides diminishing returns.[12] Consequently, the acquisition of a desired object triggers a craving for more, while the object itself becomes less enjoyable over time.[12]
+
+### [6] the hedonic treadmill • stevegrossi - note.garden
+
+> This endless seeking of fleeting pleasure is called the hedonic treadmill , and it's built into our biology. Wright explains an experiment in which researchers gave fruit juice to monkeys and measured how much dopamine their brains released. (To wildly oversimplify things, dopamine is a “feel good” chemical our brains release to reward us for certain behavior.) Then, researchers began turning a light on before giving the fruit juice so that the monkeys knew it was coming. What they found was that over time, the release of dopamine (and the resulting pleasure) was increasingly associated with the light coming on and less with the actual taste of fruit juice. The implication here is that the more of some pleasurable thing we get, the more we desire it, but the less enjoyable the thing itself becomes. This served our ancestors well in conditions of scarcity : if hunter-gatherers came across a rare abundance of food, the ones whose brains kept them less satisfied and thus eating longer would have out-survived the ones who consumed their usual, scarce amount.
+
+### [7] The Convergence of Contemplative Philosophy and Cognitive Science: Buddhist Dukkha, Evolutionary Psychology, and the Hedonic Treadmill
+
+> While modern technological and economic advancements have reduced physical suffering by providing relative safety, medicine, and shelter, they have also established an economy built upon this continuous cycle of expectation and grasping.[10] This cycle, often referred to as a "rat race," relies on individuals continuously running on the hedonic treadmill.[3, 10] Secular Buddhist commentary suggests that modern definitions of happiness are frequently conflated with dopamine-driven excitement.[10] True well-being, by contrast, is defined not as chasing pleasant stimuli, but as ending the craving loop, resulting in a state of not suffering in the present moment.[10] Buddhist practice does not demand the complete eradication of all desires, which would make biological existence impossible, but rather the cessation of the compulsive, unskillful grasping that fuels dukkha .[10, 14]
+
+### [8] Mindfulness and Emotion Regulation: Insights from ... - Frontiers
+
+> EXPERT MEDITATORS Tibetan Buddhist monks Cross sectional/Case-control study Healthy M: 14/C: 16 Auditory stimuli during focus attention task in fMRI EM: amygdala deactivation Brefczynski-Lewis et al., 2007 Tibetan Buddhist monks Cross sectional/Case-control study Healthy M: 15/C: 15 Auditory stimuli during active compassion meditation in fMRI EM: increased activation in the anterior insula and ACC, proportional to compassion experience intensity Lutz et al., 2008a Zen Western vs novices meditators Cross sectional/Case-control study Healthy M: 12/C: 8 Observation of emotional pictures during active meditation in fMRI EM during meditation: major deactivation of m-PFC and PCC. Relative deactivation of amygdala and insula vs novice meditators. Novice during meditation: downregulation of amygdala Taylor et al., 2011 Zen Western Cross sectional/Case-control study Healthy M: 13/C: 13 Noxious stimulus during fMRI EM during pain: reduced activation in PFC, amygdala, hippocampus. Major activations in ACC, insula, thalamus. Grant et al., 2011 Vipassana Cross sectional/Case-control study Healthy M: 17/C: 17 Noxious stimulus during fMRI EM during pain in meditation: reduced activation in lateral PFC, major activation in ACC, R-posterior insula Gard et al., 2012 Tibetan tradition Cross sectional/Case-control study Healthy M: 14/C: 14 Noxious stimulus during fMRI EM: equal pain, less unpleasantness. During pain: major AI, ACC. Minor baseline activation AI, ACC, amygdala Lutz A. et al., 2013 Buddhist Western Cross sectional/Case-control study Healthy M: 18/C: 26 Dictator Game (DG) and Ultimatum Game (UG) during Skin Conductance Level (SCL) EM: in DG reduced arousal, distress and SCL. In UG accept more unfair offers Grecucci et al., 2015b Buddhist Western Cross sectional/Case-control study Healthy M: 26/C: 40 Ultimatum game during fMRI EM: in UG accept more unfair offers. Major activation of the posterior insula (interoception) versus anterior insula (emotion reactivity) in controls; major activation in somatosensory and posterior superior temporal cortex Kirk et al., 2011 Zen Western Cross sectional/Case-control study Healthy M: 34/C: 44 Monetary incentive delay during fMRI EM during reward anticipation: reduced activation in caudate nucleus, major activation in bilateral posterior insula. During reward receipt: reduced activation in vMPFC Kirk et al., 2011 Buddhist Western Cross sectional/Case-control study Healthy M: 28/C: 30 Passive conditioning task during fMRI EM during reward prediction: reduced positive and negative prediction error BOLD in putamen. Major activation in posterior insula Kirk et al., 2015
+
+### [9] Mindfulness and Emotion Regulation: Insights from ... - Frontiers
+
+> Kirk et al. used the monetary incentive delay task in EMs during fMRI, looking to disentangle the neural differences between anticipation and receipt of monetary reward. Compared to controls, during the anticipation phase EMs displayed decreased activation of the bilateral caudate, and increased activation of the bilateral PI. During the encoding of gains of reward, a minor activation of the vMPFC was seen (Kirk et al., 2015 ), indicating a dampening of the reward system. The same authors used a passive conditioning task (pairing a yellow light to juice intake) to evaluate how changes in the predictability of reward, encoded by the prediction error (PR) neural signal, differ between EMs and matched controls. In this task, the delay of the reward decreases PE (negative PE), while the intake of unexpected reward generates an increase in PE signal (positive PE). EMs were found to be less prone to positive and negative PE signals in the putamen (part of the striatum and the reward system), which again was associated to major activation in the PI (Kirk and Montague, 2015 ). Interestingly, both studies show a specific modulation in value reward processing in the striatum and vMPFC, from interoceptive body awareness regions (PI) that correspond to bottom-up emotion regulation systems, in line with the bottom-up mechanism hypothesis of emotion regulation changes derived from mindfulness practice.
+
+### [10] Mindfulness and Emotion Regulation: Insights from ... - Frontiers
+
+> MINDFULNESS INDUCTION Mindfulness induction Cross sectional/Uncontrolled study Smokers looking for treatment to stop smoking M: 47 Cue-induced craving during fMRI. Reduced neural activity in sg-ACC [craving-related—emotion reactivity region] and a reduced functional connectivity between this same region with the bilateral insula and ventral striatum with no direct involvement of PFC regions ( * ) Westbrook et al., 2013 Mindfulness induction Cross sectional/Non-randomized controlled study Healthy M: 24/C: 22 Cued expectation and perception of negative pictures during fMRI During expectation major activations in prefrontal regions: left AI, right and left dMPFC and left dLPFC. During perception reduced activation in right amygdala and parahippocampal gyrus [emotion processing reactivity] ( * ) Lutz A. et al., 2013 Mindfulness induction vs Reappraisal strategy Cross sectional/Non-randomized controlled study Healthy M: 24/C: 23 Cued expectation and perception of negative pictures during fMRI Both groups: similar activity of the m-PFC and the amygdala. Major activations in MI group, during expectation: vLPFC, vLPFC, Supramarginal gyrus and left insula. During perception: major activity in the caudate in the cognitive group Opialla et al., 2014
+
+### [11] Mindfulness and Emotion Regulation: Insights from ... - Frontiers
+
+> Mindfulness inductions Studies using brief meditation practice, or mindfulness inductions, have started to explore the clinical utility (effectiveness) and neural underpinnings of these types of interventions. Westbrook et al. performed a cross-sectional study with smokers looking to stop smoking. Participants were asked to watch specific craving-inducing images during fMRI, using “mindful attention” vs. “passive viewing” as strategies. When applying “mindful attention,” subjects reported less craving impulse; additionally, they presented decreased activation in the subgenual ACC (sg-ACC), and reduced functional connectivity between this same region and bilateral AI and VS. At the same time, no involvement of the PFC was detected (Westbrook et al., 2013 ). Interestingly, sg-ACC, AI, and VS correspond to emotion generation regions, but are also implicated in other relevant affective functions such as craving and reward processing (VS), processing of salient stimuli and interoception (AI), and the subjective encoding of value and processing of emotional conflict (sgACC; Wilcox et al., 2016 ).
+
+### [12] The Mindful Brain: A Systematic Review of the Neural Correlates of ...
+
+> Affective picture viewing Amygdala (nonreactivity) Zeidan et al. (2018) FMI Not categorized 76 Thermal stimulation PCC Stein et al. (2022) AAMS ATN 83 N-back (WM) Right VLPFC (attention and awareness) Droutman et al. (2022) FFMQ-SF ER 42 (women with substance use disorder) Emotional go/no-go Insula caudate putamen thalamus precuneus cingulate 2526 Jou rn a l of C ogn itive N eu roscien ce Volu m e 36, N u m ber 11 D ow nloaded from http://direct.m it.edu/jocn/article-pdf/36/11/2518/2475665/jocn_a_02230.pdf by guest on 12 February 2025

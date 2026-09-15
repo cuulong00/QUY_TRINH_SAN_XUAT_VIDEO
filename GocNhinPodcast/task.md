@@ -1,0 +1,12 @@
+- [x] Làm dày và sâu sắc kịch bản Chương 1 tại `chapter_01.md`
+- [x] Làm dày và sâu sắc kịch bản Chương 2 tại `chapter_02.md`
+- [x] Làm dày và sâu sắc kịch bản Chương 3 tại `chapter_03.md`
+- [x] Làm dày và sâu sắc kịch bản Chương 4 tại `chapter_04.md`
+- [x] Làm dày và sâu sắc kịch bản Chương 5 tại `chapter_05.md`
+- [x] Làm dày và sâu sắc kịch bản Chương 6 tại `chapter_06.md`
+- [x] Làm dày và sâu sắc kịch bản Chương 7 tại `chapter_07.md`
+- [x] Cập nhật lại toàn bộ `05_continuity_packet.md`
+- [x] Cập nhật lại toàn bộ `retention_bridge_audit.md`
+- [x] Cập nhật lại toàn bộ `editorial_qa.md`
+- [x] Cập nhật lại toàn bộ `oral_qa.md`
+- [x] Cập nhật lại toàn bộ `production_notes.md`

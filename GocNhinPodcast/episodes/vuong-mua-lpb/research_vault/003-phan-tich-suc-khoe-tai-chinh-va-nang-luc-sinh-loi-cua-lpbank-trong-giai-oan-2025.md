@@ -1,0 +1,82 @@
+---
+title: "Phân tích sức khỏe tài chính và năng lực sinh lời của LPBank trong giai đoạn 2025-2026 (lợi nhuận trước thuế, tổng tài sản, dư nợ tín dụng, nợ xấu, chỉ số CIR)? Kế hoạch phát hành trái phiếu và thành lập ngân hàng con tại Trung tâm Tài chính Quốc tế Việt Nam (VIFC)."
+type: nblm-answer
+asked_at: 2026-06-23T11:50:25.895Z
+notebook_url: "https://notebooklm.google.com/notebook/15e461c0-8c8c-406e-88e2-c03ab907eb41"
+session_id: "ceabbce1"
+citations_count: 4
+sources:
+  - "Video_LPBank_Pham_Nhat_Vuong_Clean.md"
+---
+
+# Phân tích sức khỏe tài chính và năng lực sinh lời của LPBank trong giai đoạn 2025-2026 (lợi nhuận trước thuế, tổng tài sản, dư nợ tín dụng, nợ xấu, chỉ số CIR)? Kế hoạch phát hành trái phiếu và thành lập ngân hàng con tại Trung tâm Tài chính Quốc tế Việt Nam (VIFC).
+
+> Asked on 2026-06-23T11:50:25.895Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/15e461c0-8c8c-406e-88e2-c03ab907eb41)
+
+## Answer
+
+Thoughts
+LPBank ghi nhận sự bứt phá mạnh mẽ về hiệu quả sinh lời và chất lượng tài sản trong giai đoạn 2025-2026 dưới sự điều hành của ông Nguyễn Đức Thụy
+1
+. Dưới đây là phân tích chi tiết sức khỏe tài chính và năng lực sinh lời của ngân hàng qua các chỉ số cốt lõi:
+Lợi nhuận trước thuế: Năm 2025 đạt 14.269 tỷ VND
+2
+. Bước sang năm 2026, ngân hàng đặt mục tiêu lợi nhuận kỷ lục 14.982 tỷ VND (gần 15.000 tỷ VND)
+2
+, trong đó riêng Quý I/2026 thực tế đã ghi nhận 2.826 tỷ VND
+2
+.
+Tổng tài sản: Đạt 605.585 tỷ VND vào năm 2025
+2
+và đặt kế hoạch tăng trưởng lên 615.600 tỷ VND cho năm 2026
+2
+. Tính đến hết Quý I/2026, tổng tài sản thực tế của ngân hàng ở mức 580.859 tỷ VND
+2
+.
+Dư nợ tín dụng: Kế hoạch cả năm 2026 là 437.581 tỷ VND
+2
+, trong đó trạng thái thực tế cuối Quý I/2026 đã đạt 403.026 tỷ VND
+2
+.
+Chất lượng tài sản và nợ xấu: Tỷ lệ nợ xấu được kiểm soát chặt chẽ ở mức rất thấp, chỉ 1,78% tính đến ngày 30/09/2025
+1
+, nhờ định hướng dịch chuyển mạnh mẽ sang phân khúc bán lẻ
+1
+. Tuy nhiên, áp lực dự phòng rủi ro có xu hướng gia tăng khi chi phí dự phòng trong Quý I/2026 vọt lên 774 tỷ VND (tăng gần 300% so với cùng kỳ năm trước)
+2
+.
+Hiệu quả vận hành (Chỉ số CIR): Đạt mức tối ưu 28,3% trong năm 2025 và tiếp tục được duy trì hiệu quả ổn định trong năm 2026
+2
+.
+Huy động vốn: Tiền gửi khách hàng tại thời điểm Quý I/2026 đạt 345.760 tỷ VND
+2
+.
+Đột phá chiến lược tại Trung tâm Tài chính Quốc tế Việt Nam (VIFC) Nhằm đa dạng hóa nguồn thu và thu hút dòng vốn quốc tế, Đại hội đồng cổ đông thường niên năm 2026 của LPBank đã thông qua kế hoạch thành lập ngân hàng con sở hữu 100% vốn tại Trung tâm Tài chính Quốc tế Việt Nam (VIFC)
+2
+. Đây được đánh giá là bước đi chiến lược mang tính đột phá lớn của ngân hàng
+2
+.
+Về kế hoạch phát hành trái phiếu Trong khi tài liệu đề cập chi tiết đến việc Sacombank (Sài Gòn Tài Lộc) lên phương án phát hành riêng lẻ tối đa 20.000 tỷ VND trái phiếu trong năm 2026
+3
+, thông tin chi tiết về kế hoạch phát hành trái phiếu của LPBank không được trình bày cụ thể trong nội dung phân tích. Tài liệu chỉ ghi nhận gián tiếp qua danh mục tài liệu tham khảo rằng LPBank liên tục phát hành trái phiếu để củng cố nguồn lực tài chính và chi trả cổ tức tiền mặt kỷ lục
+4
+.
+📊 Bạn có muốn tôi lập một bảng so sánh chi tiết các chỉ số tài chính cốt lõi giữa LPBank và Sacombank (Sài Gòn Tài Lộc) dựa trên các dữ liệu có sẵn không?
+
+## Sources
+
+### [1] Video_LPBank_Pham_Nhat_Vuong_Clean.md
+
+> Năng lực Nội tại và Sức hút Tài chính của LPBank Quyết định đầu tư của ông Phạm Nhật Vượng vào LPBank được giới phân tích tài chính đánh giá là một bước đi chiến lược khôn ngoan, nhắm vào một tổ chức tín dụng đang có tốc độ tái cấu trúc mạnh mẽ và hiệu quả sinh lời dẫn đầu ngành ngân hàng Việt Nam6. LPBank, tiền thân là Ngân hàng TMCP Bưu điện Liên Việt (LienVietPostBank), được thành lập vào ngày 28/03/2008 và chính thức ra mắt ngày 01/05/200818. Sau 15 năm hoạt động, ngân hàng đã rút gọn nhận diện thương hiệu thành LPBank vào năm 202319 và chính thức đổi tên thương mại thành Ngân hàng TMCP Lộc Phát Việt Nam vào tháng 07/202419. Với vốn điều lệ đạt gần 29.873 tỷ đồng18, LPBank sở hữu một mạng lưới phân phối thuộc hàng lớn nhất Việt Nam, phủ rộng trên 34 tỉnh thành với 1 Hội sở chính, 3 Văn phòng đại diện, 85 Chi nhánh, 481 Phòng giao dịch ngân hàng và đặc biệt là hệ thống 512 Phòng giao dịch Bưu điện thừa hưởng từ mối hợp tác lịch sử với VNPost19. Sự thăng hoa về năng lực tài chính của LPBank trong những năm gần đây gắn liền với giai đoạn điều hành của doanh nhân Nguyễn Đức Thụy (Bầu Thụy)21. Dưới sự dẫn dắt của ông, ngân hàng đã chuyển dịch mạnh mẽ sang phân khúc bán lẻ, tối ưu hóa chi phí vốn và kiểm soát nợ xấu ở mức rất thấp (1,78% tính đến ngày 30/09/2025)21. Đặc biệt, tại Đại hội đồng cổ đông thường niên năm 2026 diễn ra ngày 28/04/2026, LPBank đã chốt phương án chi trả cổ tức cho năm tài chính 2025 bằng tiền mặt với tỷ lệ kỷ lục lên tới 30%, tương ứng mỗi cổ đông sở hữu một cổ phiếu nhận được 3.000 đồng24. Ngân hàng đã xuất quỹ khoảng 8.962 tỷ VND để hoàn tất đợt chi trả này vào ngày 25/05/202624. Đây là mức chia cổ tức tiền mặt cao nhất toàn ngành ngân hàng trong năm 2026, mang lại nguồn lợi nhuận trực tiếp cực kỳ lớn cho các cổ đông lớn sở hữu lượng lớn cổ phần như VNPost và cá nhân ông Phạm Nhật Vượng15.
+
+### [2] Video_LPBank_Pham_Nhat_Vuong_Clean.md
+
+> Chỉ tiêu tài chính cốt lõi Thực hiện năm 2025 Kế hoạch năm 2026 Trạng thái Quý I/2026 Lợi nhuận trước thuế 14.269 tỷ VND28 14.982 tỷ VND28 2.826 tỷ VND1 Tổng tài sản 605.585 tỷ VND4 615.600 tỷ VND28 580.859 tỷ VND26 Dư nợ tín dụng - 437.581 tỷ VND28 403.026 tỷ VND1 Tiền gửi khách hàng - - 345.760 tỷ VND26 Chi phí dự phòng rủi ro - - 774 tỷ VND (Tăng gần 300% so với cùng kỳ)25 Chỉ số CIR (Hiệu quả vận hành) 28,3% [cite: 28] Kiểm soát tối ưu Duy trì hiệu quả ổn định28 Bước sang năm 2026, LPBank đặt mục tiêu đạt lợi nhuận trước thế kỷ lục gần 15.000 tỷ VND3. Để đa dạng hóa nguồn thu và thu hút dòng vốn quốc tế, ngân hàng đã thông qua kế hoạch mang tính đột phá là thành lập một ngân hàng con sở hữu 100% vốn tại Trung tâm Tài chính Quốc tế Việt Nam (VIFC)28. Đồng thời, hệ sinh thái tài chính của LPBank tiếp tục được mở rộng khi Công ty CP Chứng khoán LPBank (LPBS) thực hiện kế hoạch phát hành cổ phiếu lần đầu ra công chúng (IPO) với giá bán 30.000 đồng/cổ phiếu để nâng vốn điều lệ thêm 14.086 tỷ đồng17, trong đó gia đình Bầu Thụy nắm giữ gần 27% vốn31. LPBS cũng đã chào bán thành công gần 142 triệu cổ phiếu IPO cho hơn 1.000 nhà đầu tư, khẳng định sức hút lớn của thương hiệu Lộc Phát trên thị trường tài chính6.
+
+### [3] Video_LPBank_Pham_Nhat_Vuong_Clean.md
+
+> 1. Sự chuyển dịch nhân sự và cấu trúc quyền lực của nhóm Bầu Thụy Hành trình rút lui của ông Nguyễn Đức Thụy khỏi LPBank vào cuối năm 2025 để nhường lại "ghế nóng" Chủ tịch HĐQT cho ông Hồ Nam Tiến34 đã mở đường cho một cuộc chuyển dịch quyền lực sang Sacombank31. Tại Sacombank, ông Thụy đảm nhận chức vụ Tổng Giám đốc kể từ ngày 03/03/202631 và giữ chức Phó Chủ tịch HĐQT thường trực14. Sự hiện diện của thế hệ thứ hai nhà Bầu Thụy tại Sacombank được củng cố khi con trai ông là Nguyễn Xuân Thái (sinh năm 2003, nắm giữ 15% cổ phần của một doanh nghiệp nghìn tỷ và là Phó Chủ tịch Sàn giao dịch tài sản mã hóa)37 cùng con gái ông được bổ nhiệm vào các vị trí trợ lý HĐQT và trợ lý Tổng Giám đốc vào ngày 04/06/202636. Dưới sự điều hành mới, Sacombank đã được Ngân hàng Nhà nước chấp thuận đổi tên thương mại thành "Ngân hàng Sài Gòn Tài Lộc" (vẫn giữ nguyên viết tắt là SACOMBANK) vào ngày 01/06/202639. Ngân hàng cũng thực hiện dời trụ sở chính về tòa nhà ThaiSquare The Merit (số 43-45-47 Nguyễn Thị Minh Khai, Quận 1, TP.HCM)41 và công bố phương án phát hành riêng lẻ tối đa 20.000 tỷ đồng trái phiếu trong năm 2026 để củng cố nguồn lực tài chính41.
+
+### [4] Video_LPBank_Pham_Nhat_Vuong_Clean.md
+
+> Ngân hàng Thương mại cổ phần Lộc Phát Việt Nam - Wikipedia, https://vi.wikipedia.org/wiki/Ng%C3%A2n_h%C3%A0ng_Th%C6%B0%C6%A1ng_m%E1%BA%A1i_c%E1%BB%95_ph%E1%BA%A7n_L%E1%BB%99c_Ph%C3%A1t_Vi%E1%BB%87t_Nam Ngân hàng Bưu điện Liên Việt chính thức đổi tên Ngân hàng Lộc Phát Việt Nam, https://nhadautu.vn/ngan-hang-buu-dien-lien-viet-chinh-thuc-doi-ten-ngan-hang-loc-phat-viet-nam-d87324.html Cổ đông LPBank sắp nhận gần 9.000 tỷ đồng cổ tức tiền mặt, tỷ lệ 30%, https://thitruongtaichinhtiente.vn/co-dong-lpbank-sap-nhan-gan-9-000-ty-dong-co-tuc-tien-mat-ty-le-30-82761.html Ông Nguyễn Đức Thụy và quy luật 'lạ' của dòng tiền nghìn tỷ đến Hưng Thịnh, LPBank, HAGL... - VietnamFinance, https://vietnamfinance.vn/ong-nguyen-duc-thuy-va-quy-luat-la-cua-dong-tien-nghin-den-hung-thinh-lpbank-hoang-anh-gia-lai-d137781.html Lý do ông Nguyễn Đức Thụy bất ngờ rời ghế Chủ tịch LPBank - VIETTIMES, https://viettimes.vn/ly-do-ong-nguyen-duc-thuy-bat-ngo-roi-ghe-chu-tich-lpbank-post192858.html https://vn.investing.com/news/stock-market-news/lpbank-chi-gan-9000-ty-dong-co-tuc-roe-nam-2026-du-bao-thuoc-nhom-cao-nhat-nganh-2648114#:~:text=LPBank%20%C4%91%C3%A3%20th%E1%BB%B1c%20hi%E1%BB%87n%20chi,cho%20%C4%91%E1%BB%A3t%20thanh%20to%C3%A1n%20n%C3%A0y. ĐHĐCĐ LPBank (LPB) 2026: “Chốt” chia cổ tức tiền mặt tới 30%, bầu bổ sung 2 thành viên HĐQT, https://www.tinnhanhchungkhoan.vn/dhdcd-lpbank-lpb-2026-chot-chia-co-tuc-tien-mat-toi-30-bau-bo-sung-2-thanh-vien-hdqt-post389635.html LPBank (LPB) liên tục phát hành trái phiếu, chi gần 9.000 tỷ đồng trả cổ tức tiền mặt, https://doanhnhan.baophapluat.vn/lpbank-lpb-lien-tuc-phat-hanh-trai-phieu-chi-gan-9-000-ty-dong-tra-co-tuc-tien-mat.html Nhiều ngân hàng sắp chi cổ tức tiền mặt, LPBank dẫn đầu với tỷ lệ 30% - Mekong ASEAN, https://mekongasean.vn/nhieu-ngan-hang-sap-chi-co-tuc-tien-mat-lpbank-dan-dau-voi-ty-le-30-55082.html Cổ đông LPBank chốt quyền nhận cổ tức tiền mặt tỉ lệ 30% - Báo Lao Động, https://laodong.vn/doanh-nghiep-doanh-nhan/co-dong-lpbank-chot-quyen-nhan-co-tuc-tien-mat-ti-le-30-1692823.ldo Tỷ phú Phạm Nhật Vượng “bỏ tiền túi” sở hữu gần 5% vốn LPBank, https://nhipsongkinhdoanh.vn/ty-phu-pham-nhat-vuong--bo-tien-tui--so-huu-gan-5--von-lpbank-29986.htm ĐHĐCĐ LPBank 2026: Thành lập ngân hàng con tại VIFC, chia cổ tức 30% và kiện toàn bộ máy nhân sự, https://lpbank.com.vn/tin-tuc/3353-dhdcd-lpbank-2026-thanh-lap-ngan-hang-con-tai-vifc-chia-co-tuc-30-va-kien-toan-bo-may-nhan-su Rời LPBank, ông Nguyễn Đức Thụy chính thức làm Tổng Giám đốc Sacombank từ 3/3, https://cafeland.vn/tin-tuc/roi-lpbank-ong-nguyen-duc-thuy-chinh-thuc-lam-tong-giam-doc-sacombank-tu-33-149173.html SACOMBANK và LPBS ký hợp tác toàn diện, gia tăng tiện ích và trải nghiệm cho khách hàng - baodautu, https://baodautu.vn/sacombank-va-lpbs-ky-hop-tac-toan-dien-gia-tang-tien-ich-va-trai-nghiem-cho-khach-hang-d612528.html SACOMBANK và LPBS ký hợp tác toàn diện - Bnews.vn, https://bnews.vn/sacombank-va-lpbs-ky-hop-tac-toan-dien/423739.html Ông Hồ Nam Tiến được bầu làm Chủ tịch Hội đồng Quản trị LPBank, https://vnba.org.vn/vi/ong-ho-nam-tien-duoc-bau-lam-chu-tich-hoi-dong-quan-tri-lpbank-20194.htm LPBank nới room ngoại 30% vào ngày ông Nguyễn Đức Thụy rời ghế Chủ tịch, https://laodong.vn/doanh-nghiep-doanh-nhan/lpbank-noi-room-ngoai-30-vao-ngay-ong-nguyen-duc-thuy-roi-ghe-chu-tich-1629769.ldo Con trai và con gái ông Nguyễn Đức Thụy gia nhập Sacombank - Báo Tuổi Trẻ, https://tuoitre.vn/con-trai-va-con-gai-ong-nguyen-duc-thuy-gia-nhap-sacombank-20260607090022238.htm Stb : Sacombank muốn huy động lượng tiền lớn từ trái phiếu - CafeF, https://cafef.vn/stb.html

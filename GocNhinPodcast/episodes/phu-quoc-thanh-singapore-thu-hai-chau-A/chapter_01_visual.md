@@ -1,0 +1,26 @@
+# chapter_01_visual.md — Kịch Bản Visual Storyboard Matrix
+## Tập phim: VIỆT NAM THAM VỌNG BIẾN PHÚ QUỐC THÀNH "SINGAPORE THỨ HAI" CỦA CHÂU Á
+### CHƯƠNG 1: HOOK — NGHỊCH LÝ 137.000 TỶ
+
+---
+
+| Scene ID | [THOẠI] (Cắt chuẩn $\le 26$ từ/cảnh) | [BỐI CẢNH] (100% Vật lý thực tế, bám sát Blueprint & Cast Sheet) | [TEXT OVERLAY] (Chuẩn 3D trực diện, chỉ 20-25% cảnh) |
+| :--- | :--- | :--- | :--- |
+| **CH01_SC001** | Một trăm ba mươi bảy nghìn tỷ đồng. | Đại công trường mở rộng Sân bay Quốc tế Phú Quốc lúc hoàng hôn, cần cẩu tháp công nghiệp vươn cao trên các đài móng bê tông khổng lồ, đèn pha chiếu sáng mặt đất ngổn ngang. | `"137.000 TỶ ĐỒNG"` |
+| **CH01_SC002a** | Tương đương hơn năm tỷ đô la Mỹ. Toàn bộ khối tiền khổng lồ ấy đang được dồn nén vào một hòn đảo chưa đầy sáu trăm cây số vuông, | Toàn cảnh góc cao đường bờ biển Phú Quốc với dải rừng nguyên sinh xanh thẫm giáp ranh mặt biển xanh biếc, xa xa là sà lan chở vật liệu xây dựng di chuyển về cảng. | Không |
+| **CH01_SC002b** | nơi chỉ có vẻn vẹn một trăm năm mươi nghìn người dân sinh sống. | Bến cảng làng chài truyền thống An Thới lúc bình minh, những chiếc thuyền đánh cá bằng gỗ neo đậu san sát bên cầu tàu mộc mạc, đối lập với đại công trình phía xa. | Không |
+| **CH01_SC003a** | Nhưng đây không phải lần đầu tiên tiền đổ về Phú Quốc. Dự án sòng bạc từng được kỳ vọng trở thành cỗ máy in tiền, | Mặt tiền tổ hợp Corona Resort & Casino Phú Quốc với kiến trúc hiện đại xa hoa, sảnh đón vắng vẻ chỉ có vài chiếc xe đỗ dưới ánh đèn đêm tĩnh lặng. | Không |
+| **CH01_SC003b** | đang gánh khoản lỗ lũy kế lên tới gần sáu nghìn tỷ đồng. | Bàn làm việc bằng gỗ tối trong văn phòng kiểm toán, cận cảnh tập báo cáo tài chính in giấy có bút dạ đỏ gạch chân con số âm trên bảng cân đối kế toán. | `"LỖ LŨY KẾ 5.857 TỶ"` |
+| **CH01_SC004** | Hàng ngàn căn nhà phố thương mại xây xong rồi bỏ hoang, phơi mưa nắng vì thiếu vắng bóng người. | Dãy nhà phố thương mại shophouse tân cổ điển kéo dài tít tắp, tất cả cửa cuốn kim loại đóng kín im lìm, vỉa hè trống trơn không một bóng người qua lại dưới trời nắng gắt. | Không |
+| **CH01_SC005a** | Phần lớn dư luận vẫn tin rằng toàn bộ số tiền kia, | Phòng họp hội nghị cấp cao với bàn gỗ dài, các chuyên gia kinh tế và quan chức Việt Nam trong âu phục tối màu đang nghiên cứu tài liệu hội nghị. | Không |
+| **CH01_SC005b** | chỉ để chuẩn bị cho bảy ngày đón tiếp các nguyên thủ tại sự kiện A-pếch hai ngàn không trăm hai mươi bảy. | Công trường thi công kết cấu vòm thép khổng lồ của Trung tâm Hội nghị APEC, công nhân và giàn nâng thủy lực đang lắp ghép các khung dầm thép khẩu độ lớn. | Không |
+| **CH01_SC006a** | Nhưng không một chính phủ nào dồn hơn năm tỷ đô la vào một nơi đang thua lỗ, | Cố vấn chính sách kinh tế cấp cao người Việt (Cast Sheet) đứng bên cửa kính lớn của tòa nhà điều hành, trầm ngâm nhìn ra đại công trường ven biển. | Không |
+| **CH01_SC006b** | chỉ để đổi lấy những cái bắt tay ngoại giao. | Hai quan chức ngoại giao trong bộ com-lê trang trọng bắt tay nhau tại bục phát biểu của phòng họp báo quốc tế trước phông nền sự kiện. | Không |
+| **CH01_SC007** | Vậy thì số tiền đó thực sự đang mua cái gì? | Kỹ sư trưởng người Việt (Cast Sheet) đội mũ bảo hộ trắng và áo phản quang đứng trên mỏm đất cao, ánh mắt kiên định nhìn toàn cảnh công trường mở rộng. | Không |
+| **CH01_SC008a** | A-pếch chính là chất xúc tác. Nó là cú hích danh chính ngôn thuận để trung ương ấn nút bứt tốc, | Bàn họp quy hoạch gỗ sồi lớn, các kỹ sư trải tấm bản đồ kiến trúc khổ A0 in chi tiết 21 dự án hạ tầng Phú Quốc, cầm thước tỷ lệ đo đạc. | Không |
+| **CH01_SC008b** | giải ngân đồng thời cho hai mươi mốt siêu dự án và phá vỡ mọi rào cản hành chính đã trói chân hòn đảo này suốt nhiều năm. | Đại công trường trục đại lộ huyết mạch ĐT.975 đang thi công san lấp mặt bằng, máy ủi và xe lu cơ giới hoạt động tấp nập dưới ánh nắng nhiệt đới. | `"21 DỰ ÁN TRỌNG ĐIỂM"` |
+| **CH01_SC009a** | Phía sau đại công trường ấy là một bản thiết kế lớn hơn gấp trăm lần. | Văn phòng kiến trúc quy hoạch, kiến trúc sư trưởng đứng bên mô hình sa bàn kiến trúc vật lý thu nhỏ của Nhà ga T2 và tuyến đường sắt đô thị. | Không |
+| **CH01_SC009b** | Một đặc khu kinh tế tự do đẳng cấp quốc tế, nơi luật chơi được thiết kế lại từ đầu để cạnh tranh trực diện với Singapore. | Bến cảng quốc tế nhộn nhịp với tàu hàng cập bến bốc dỡ hàng hóa bên cạnh đại lộ ven biển hiện đại có các chuyến xe buýt điện chạy êm ái. | Không |
+| **CH01_SC010** | Chào mừng các bạn đến với Góc Nhìn Podcast. | Bàn thu âm phòng thu podcast chuyên nghiệp với micro thu âm cao cấp mạ kim loại đặt trên mặt bàn gỗ sồi tối, ánh đèn vàng ấm áp chiếu rọi. | `"GÓC NHÌN PODCAST"` |
+| **CH01_SC011a** | Và trong video ngày hôm nay, chúng ta sẽ cùng bóc tách toàn bộ bức tranh vĩ mô phía sau đại công trường Phú Quốc, | Kỹ sư trưởng và nhóm chuyên viên kỹ thuật đứng cạnh nắp capo xe bán tải công trường, cùng thảo luận và rà soát bản vẽ thi công trên nền đất đỏ. | Không |
+| **CH01_SC011b** | để hiểu xem Việt Nam thực sự đang đặt cược điều gì trong nửa thế kỷ tiếp theo. | Góc máy thấp điện ảnh lúc hoàng hôn, hàng cột điện cao thế 220kV Kiên Bình - Phú Quốc bằng thép vươn cao sừng sững trên mặt biển, kéo dài tít tắp ra đường chân trời. | Không |

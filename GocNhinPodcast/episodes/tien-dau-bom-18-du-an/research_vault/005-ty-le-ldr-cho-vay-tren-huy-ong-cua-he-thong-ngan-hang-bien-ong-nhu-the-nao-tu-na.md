@@ -1,0 +1,84 @@
+---
+title: "Tỷ lệ LDR (cho vay trên huy động) của hệ thống ngân hàng biến động như thế nào từ năm 2024 đến năm 2026? Mức LDR hiện tại phản ánh áp lực thanh khoản thực tế ra sao?"
+type: nblm-answer
+asked_at: 2026-06-25T13:09:41.411Z
+notebook_url: "https://notebooklm.google.com/notebook/93de1710-a368-413a-a718-b3ca87422838"
+session_id: "7c18b329"
+citations_count: 6
+sources:
+  - "Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?"
+---
+
+# Tỷ lệ LDR (cho vay trên huy động) của hệ thống ngân hàng biến động như thế nào từ năm 2024 đến năm 2026? Mức LDR hiện tại phản ánh áp lực thanh khoản thực tế ra sao?
+
+> Asked on 2026-06-25T13:09:41.411Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/93de1710-a368-413a-a718-b3ca87422838)
+
+## Answer
+
+Thoughts
+Tỷ lệ LDR (cho vay trên huy động) của toàn hệ thống ngân hàng đã liên tục gia tăng mạnh mẽ từ năm 2024 đến năm 2026, phản ánh sự lệch pha nghiêm trọng giữa nhu cầu tín dụng và khả năng tạo lập nguồn vốn mới của hệ thống
+1
+.
+Sự biến động của tỷ lệ LDR qua các năm được thể hiện rõ qua các số liệu cụ thể:
+Cuối năm 2024: Tỷ lệ LDR toàn hệ thống ở mức 106%
+1
+.
+Cuối năm 2025: Chỉ số này tăng lên 109%
+1
+.
+Đến cuối tháng 5/2026: Tỷ lệ LDR đã vọt lên khoảng 115%
+1
+.
+Sự gia tăng liên tục này xuất phát từ thực tế tăng trưởng tín dụng (đạt 5,71% tính đến cuối tháng 5/2026) đang chạy nhanh gấp đôi so với tăng trưởng huy động vốn (chỉ đạt 2,98%)
+1
+. Khoảng cách này đã kéo giãn chênh lệch giữa dư nợ tín dụng và huy động trên thị trường 1 vượt mức 2,5 triệu tỷ đồng
+1
+.
+Mức LDR hiện tại phản ánh áp lực thanh khoản thực tế ra sao?
+Con số LDR chạm ngưỡng 115% là minh chứng rõ ràng cho thấy các cân đối và giới hạn ràng buộc của hệ thống ngân hàng đã bị đẩy lên mức căng cứng
+2
+. Áp lực thanh khoản thực tế được biểu hiện qua các khía cạnh cốt lõi sau:
+Nút thắt không còn là room tín dụng mà là nguồn vốn thực tế: Dù Ngân hàng Nhà nước có nới room tín dụng hay áp dụng cơ chế đặc biệt loại trừ dư nợ cho các siêu dự án, các ngân hàng vẫn phải tự giải quyết bài toán: lấy nguồn vốn thực tế ở đâu để giải ngân
+Căn bệnh cấu trúc "mismatch" kỳ hạn trầm trọng: Hệ thống ngân hàng đang đối mặt với sự lệch pha kỳ hạn rất lớn
+6
+7
+. Có đến 80% – 90% nguồn vốn huy động là tiền gửi ngắn hạn dưới 12 tháng, trong khi nhu cầu của nền kinh tế lại tập trung ở các khoản vay trung – dài hạn kéo dài từ 5 đến 20 năm cho hạ tầng, năng lượng và bất động sản
+. Tình trạng này không chỉ làm gia tăng rủi ro thanh khoản mà còn bào mòn tỷ lệ thu nhập lãi cận biên (NIM) của các ngân hàng
+6
+7
+.
+Chi phí vốn đắt đỏ: Để có nguồn vốn trung – dài hạn tài trợ cho các dự án lớn, ngân hàng buộc phải tìm đến các kênh bổ trợ như phát hành chứng chỉ tiền gửi, trái phiếu hoặc vay vốn quốc tế, nhưng tất cả các kênh này đều có chi phí rất cao
+9
+.
+Lãi suất liên ngân hàng neo ở mức cao: Tại thời điểm các chính sách nới lỏng như Thông tư 25 có hiệu lực, lãi suất liên ngân hàng kỳ hạn 1 tuần và 2 tuần vẫn neo trên mức 7%
+10
+. Điều này cho thấy thanh khoản ngắn hạn của hệ thống đang rất căng thẳng và kỳ vọng mặt bằng lãi suất cho vay dài hạn giảm xuống trong ngắn hạn là chưa có cơ sở
+10
+.
+🎨 Bạn có muốn tôi thiết kế một sơ đồ biểu diễn dòng chảy vốn và cơ chế lệch pha kỳ hạn (mismatch) giữa nguồn huy động ngắn hạn và dư nợ cho vay dài hạn để dễ hình dung hơn không?
+
+## Sources
+
+### [1] Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?
+
+> Tuy nhiên, những diễn biến gần đây cho thấy bài toán của hệ thống ngân hàng đang dần thay đổi. Theo số liệu của NHNN, đến cuối tháng 5/2026, tăng trưởng tín dụng toàn hệ thống đạt 5,71% so với đầu năm, trong khi tăng trưởng huy động vốn chỉ đạt 2,98%. Khoảng cách giữa tín dụng và huy động liên tục được nới rộng kể từ cuối năm 2025, cho thấy nhu cầu vốn của nền kinh tế đang tăng nhanh hơn đáng kể so với khả năng tạo lập nguồn vốn mới của hệ thống ngân hàng. Chứng khoán Rồng Việt (VDSC) ước tính, chênh lệch giữa dư nợ tín dụng và huy động trên thị trường 1 hiện đã vượt 2,5 triệu tỷ đồng. Điều này khiến tỷ lệ cho vay trên huy động (LDR) của toàn hệ thống tăng lên khoảng 115%, cao hơn đáng kể so với mức 109% vào cuối năm 2025 và 106% vào cuối năm 2024.
+
+### [2] Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?
+
+> Một mặt, các ngân hàng được trao thêm dư địa tăng trưởng tín dụng. Mặt khác, các ngân hàng cũng được tạo thêm không gian về nguồn vốn và các tỷ lệ an toàn để có thể đáp ứng nhu cầu cho vay của nền kinh tế. “Các cân đối và giới hạn ràng buộc đã được đẩy lên mức căng cứng”, một chuyên gia lâu năm trong lĩnh vực tài chính ngân hàng đánh giá. Tuy nhiên, việc nới lỏng các giới hạn quản lý không đồng nghĩa với việc nguồn vốn mới tự động xuất hiện. Các ngân hàng vẫn phải huy động vốn từ dân cư, doanh nghiệp hoặc các kênh khác để phục vụ nhu cầu tín dụng ngày càng lớn.
+
+### [6] Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?
+
+> Điều này càng đáng chú ý hơn trong bối cảnh hệ thống ngân hàng đang đối mặt một vấn đề mang tính cấu trúc kéo dài nhiều năm: lệch pha kỳ hạn giữa nguồn vốn và sử dụng vốn. Nói cách khác, các ngân hàng đang huy động chủ yếu là tiền gửi ngắn hạn nhưng lại cho vay ngày càng dài hơn. Tiền gửi của người dân phần lớn có kỳ hạn dưới 12 tháng, trong khi nhu cầu vốn của nền kinh tế lại tập trung ở các khoản vay mua nhà, bất động sản, hạ tầng, năng lượng hay các dự án đầu tư kéo dài từ 5 đến 20 năm. Sự mất cân đối này khiến hệ thống ngân hàng luôn trong tình trạng phải xoay vòng nguồn vốn ngắn hạn để tài trợ cho các tài sản dài hạn. Căn bệnh “mismatch kỳ hạn” này đang bào mòn tỷ lệ thu nhập lãi cận biên (NIM) và làm hệ thống luôn sống trong trạng thái nhạy cảm với biến động lãi suất. Đó cũng là lý do vì sao NHNN nhiều năm liên tục siết tỷ lệ vốn ngắn hạn cho vay trung dài hạn từ 45%, xuống 40%, rồi 37%, 34% và cuối cùng là 30%.
+
+### [7] Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?
+
+> "Sự hỗ trợ cần được thực hiện đồng bộ ở cả phía huy động và tín dụng thì dư địa hạ nhiệt mặt bằng lãi suất mới thực sự rõ ràng", ông Khoa nhận định. Đồng quan điểm, Chứng khoán Vietcombank cho rằng việc nới lỏng giới hạn SMLR làm gia tăng yêu cầu đối với công tác quản trị rủi ro thanh khoản các ngân hàng trong bối cảnh cơ cấu nguồn vốn của hệ thống ngân hàng hiện vẫn chủ yếu dựa vào tiền gửi ngắn hạn dưới 12 tháng, trong khi nhu cầu tín dụng của nền kinh tế tập trung nhiều ở các khoản vay trung và dài hạn. Điều này có thể làm gia tăng chênh lệch kỳ hạn giữa tài sản và nguồn vốn, cũng như yêu cầu chiến lược tối ưu hóa danh mục và quản trị rủi ro thanh khoản hợp lý của các ngân hàng cho từng giai đoạn.
+
+### [9] Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?
+
+> Theo ông, huy động trên thị trường 1 còn khó khăn, trong khi các kênh bổ trợ để cân đối tín dụng kỳ hạn dài như chứng chỉ tiền gửi, trái phiếu hay vay vốn quốc tế đều có chi phí cao, khiến chi phí vốn của ngân hàng tiếp tục chịu áp lực. Ông cũng cho rằng việc đưa 20% tiền gửi Kho bạc Nhà nước có kỳ hạn vào công thức tính LDR gần như không tạo ra thay đổi đáng kể trong cơ cấu nguồn vốn của nhóm ngân hàng quốc doanh. Quan trọng hơn về mặt cơ chế, SMLR là tỷ lệ xử lý trên thị trường 1, trong khi LDR vẫn có thể được hỗ trợ thông qua thị trường liên ngân hàng. Vì vậy, tác động từ việc nới SMLR sẽ diễn ra khá chậm.
+
+### [10] Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?
+
+> Theo ông Khoa, việc cân đối nguồn vốn ngắn hạn – vốn đang khan hiếm – để tài trợ cho nhu cầu tín dụng dài hạn rất lớn của nền kinh tế sẽ diễn ra từ từ. Do đó, lãi suất, đặc biệt là lãi suất ở các kỳ hạn dài, khó có thể giảm. Dẫn chứng cho nhận định này, ông cho biết ngay tại thời điểm Thông tư 25 có hiệu lực, lãi suất liên ngân hàng kỳ hạn một tuần và hai tuần đều đang ở trên mức 7%, cho thấy kỳ vọng việc nới SMLR sẽ ngay lập tức giúp hạ nhiệt lãi suất là chưa có nhiều cơ sở. Bên cạnh đó, việc nâng nới tỷ lệ SMLR lên 40% – một mức tương đối cao – cũng làm gia tăng rủi ro thanh khoản trên bảng cân đối trong tương lai, đặc biệt liên quan đến chênh lệch kỳ hạn giữa tài sản và nguồn vốn.

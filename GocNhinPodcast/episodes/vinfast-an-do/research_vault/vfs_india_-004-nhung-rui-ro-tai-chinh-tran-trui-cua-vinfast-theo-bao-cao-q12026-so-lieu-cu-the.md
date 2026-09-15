@@ -1,0 +1,84 @@
+---
+title: "Những rủi ro tài chính trần trụi của VinFast theo báo cáo Q1/2026: Số liệu cụ thể về lỗ gộp (677.4 triệu USD), lỗ ròng (1.12 tỷ USD), biên lợi nhuận gộp âm sâu -73.6% (ảnh hưởng từ chiến dịch sạc pin miễn phí dài hạn và trích lập tồn kho), so sánh tốc độ đốt tiền với runway thanh khoản khả dụng 2.6 tỷ USD từ ông Phạm Nhật Vượng và Vingroup. Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-13T06:41:48.039Z
+notebook_url: "https://notebooklm.google.com/notebook/9891a2f0-8e48-445a-a2c4-4b25ee3c3800"
+session_id: "0cde505d"
+citations_count: 6
+sources:
+  - "https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm"
+---
+
+# Những rủi ro tài chính trần trụi của VinFast theo báo cáo Q1/2026: Số liệu cụ thể về lỗ gộp (677.4 triệu USD), lỗ ròng (1.12 tỷ USD), biên lợi nhuận gộp âm sâu -73.6% (ảnh hưởng từ chiến dịch sạc pin miễn phí dài hạn và trích lập tồn kho), so sánh tốc độ đốt tiền với runway thanh khoản khả dụng 2.6 tỷ USD từ ông Phạm Nhật Vượng và Vingroup. Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-13T06:41:48.039Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/9891a2f0-8e48-445a-a2c4-4b25ee3c3800)
+
+## Answer
+
+BÁO CÁO PHÂN TÍCH RỦI RO TÀI CHÍNH VINFAST (QUÝ 1/2026)
+Căn cứ pháp lý & Nguồn dữ liệu: Các số liệu được trích xuất từ Báo cáo kết quả tài chính chưa kiểm toán Quý 1/2026, Văn bản số hiệu Exhibit 99.1 (Mẫu 6-K) nộp lên Ủy ban Chứng khoán và Giao dịch Hoa Kỳ (SEC), ban hành tháng 06/2026
+1
+.
+1. Bức tranh Lợi nhuận và Biên lỗ Gộp (Quý 1/2026) Kết quả tài chính Q1/2026 bộc lộ rõ áp lực chi phí và sự suy giảm biên lợi nhuận của VinFast trong ngắn hạn:
+Lỗ gộp (Gross Loss): Ghi nhận ở mức 17.004,9 tỷ VNĐ (tương đương 677,4 triệu USD) chỉ trong 3 tháng đầu năm 2026
+2
+.
+Biên lợi nhuận gộp âm sâu: Biên gộp giảm mạnh xuống mức -73,6% (so với mức -35,2% của Q1/2025 và -46,4% của Q4/2025)
+2
+. Nguyên nhân cốt lõi dẫn đến sự sụt giảm này bao gồm:
+Chiến dịch sạc miễn phí: Việc triển khai chương trình sạc pin miễn phí lên tới 3 năm (đến tháng 2/2029) tại các trạm V-Green từ tháng 02/2026 đã được ghi nhận như một khoản giảm trừ trực tiếp vào doanh thu
+2
+. (Chi phí tăng thêm này được ông Phạm Nhật Vượng tài trợ trực tiếp cho V-Green
+3
+).
+Hàng tồn kho: Chi phí gia tăng do trích lập dự phòng/giảm giá hàng tồn kho (inventory write-down charges)
+2
+.
+Lỗ ròng (Net Loss): Khoản lỗ ròng trong Q1/2026 phình to lên mức 28.108 tỷ VNĐ (tương đương 1,12 tỷ USD), tăng 58,9% so với cùng kỳ năm 2025
+4
+.
+2. So sánh Tốc độ Đốt tiền (Cash Burn) và Nguồn Thanh khoản (Runway) Bất chấp tốc độ lỗ ròng lên tới hơn 1 tỷ USD/quý, VinFast hiện vẫn duy trì được nguồn dự trữ thanh khoản nhờ sự hậu thuẫn tài chính từ công ty mẹ và người sáng lập, tuy nhiên rủi ro về "runway" (thời gian duy trì dòng tiền) là rất rõ ràng.
+Tổng thanh khoản khả dụng: Tính đến ngày 31/03/2026, VinFast có tổng thanh khoản khoảng 65.202,3 tỷ VNĐ (tương đương 2,6 tỷ USD)
+5
+.
+Cơ cấu thanh khoản
+5
+:
+Tiền và các khoản tương đương tiền: 219,3 triệu USD.
+Hạn mức tín dụng chưa rút từ Vingroup: 607,3 triệu USD.
+Khoản tài trợ không hoàn lại còn lại từ ông Phạm Nhật Vượng: 677,2 triệu USD (ông Vượng đã giải ngân 1,3 tỷ USD trong gói cam kết 2 tỷ USD
+6
+).
+Thỏa thuận phát hành cổ phiếu dự phòng với YA II PN, Ltd.: 968,3 triệu USD.
+Dòng tiền dự kiến từ việc thoái vốn nhà máy VFTP (Share Transfer): 125,4 triệu USD.
+Đánh giá Rủi ro (Rủi ro cốt lõi): Với mức lỗ ròng 1,12 tỷ USD chỉ trong một quý
+4
+, tốc độ "đốt tiền" của VinFast đang cực kỳ lớn để duy trì việc mở rộng toàn cầu. So chiếu với tổng thanh khoản khả dụng là 2,6 tỷ USD
+5
+, "runway" của hãng (nếu không có các biện pháp cắt giảm chi phí đột phá hoặc nguồn vốn mới) sẽ bị thu hẹp đáng kể, tạo ra sự phụ thuộc gần như tuyệt đối vào tiến độ giải ngân từ ông Phạm Nhật Vượng, Tập đoàn Vingroup, và khả năng huy động vốn trên thị trường chứng khoán (qua thỏa thuận với quỹ YA II PN) trong giai đoạn 2026.
+
+## Sources
+
+### [1] https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm
+
+> EX-99.1 2 vfsex99-1.htm EXHIBIT 99.1 Exhibit 99.1 VinFast Reports Unaudited First Quarter 2026 Financial Results Quarterly Revenues reached VND23,111.1 billion (US$920.7 million) Quarterly EV Deliveries were 58,577 units Singapore, June 8, 2026 – VinFast Auto Ltd. (“VinFast” or the “Company”) (Nasdaq: VFS), a pure-play electric vehicle (“EV”) company with the mission of making EVs accessible to everyone, today announced its unaudited financial results for the first quarter ended March 31, 2026. Operating Highlights for the First Quarter of 2026
+
+### [2] https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm
+
+> ● Gross loss was VND17,004.9 billion (US$677.4 million) in the first quarter of 2026, representing an increase of 196.4% from the first quarter of 2025 and a decrease of 6.5% from the fourth quarter of 2025. ● Gross margin was negative 73.6% in the first quarter of 2026, compared to negative 35.2% in the first quarter of 2025 and negative 46.4% in the fourth quarter of 2025. The decrease in gross margin from the first quarter of 2025 and the fourth quarter of 2025 was primarily attributable to (i) the recognition of the extended free charging program 8 launched in February 2026, which was recorded as a deduction of revenue beginning in the first quarter of 2026, and (ii) an increase in inventory write-down charges.
+
+### [3] https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm
+
+> *** 8 *** We launched the free charging program on 9 February 2026, providing EV customers with a monthly free charging quota at V-Green JSC stations for a period of up to three years, through February 2029. The incremental costs will be funded by Mr. Pham directly to V-Green JSC. 3 Loss from Operations ● Loss from operations was VND22,861.6 billion (US$910.7 million) in the first quarter of 2026 representing an increase of 89.6% from the first quarter of 2025 and a decrease of 27.5% from the fourth quarter of 2025, as a result of the foregoing.
+
+### [4] https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm
+
+> ● Net loss was VND28,108.0 billion (US$1,119.8 million) in the first quarter of 2026, representing an increase of 58.9% from the first quarter of 2025 and a decrease of 25.1% from the fourth quarter of 2025. ● Net loss attributable to controlling interest was VND28,060.0 billion (US$1,117.8 million) in the first quarter of 2026, representing an increase of 58.8% from the first quarter of 2025 and a decrease of 25.1% from the fourth quarter of 2025. ● Basic and diluted net loss per ordinary share were both VND11,994 (US$0.48) in the first quarter of 2026, compared with VND7,556 (US$0.30) in the first quarter of 2025 and VND16,005 (US$0.64) in the fourth quarter of 2025.
+
+### [5] https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm
+
+> ● As of March 31, 2026, VinFast had total available liquidity of up to VND65,202.3 billion (US$2.6 billion), which consisted of cash and cash equivalents of VND5,505.5 billion (US$219.3 million), an undrawn credit line from Vingroup of up to VND15,244.1 billion (US$607.3 million), remaining grants from Mr. Pham of up to VND17,000.0 billion (US$677.2 million), an available commitment of VND24,305.4 billion (US$968.3 million) under a standby equity subscription agreement with YA II PN, Ltd. entered into in October 2023, and VND3,147.3 billion (US$125.4 million) the Company expects to receive from the Share Transfer after retiring the P-notes previously issued to VFTP.
+
+### [6] https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfsex99-1.htm
+
+> Funding Sources ● As previously disclosed, Vingroup announced in late 2024 its intention to provide VinFast with additional borrowings of up to VND35,000.0 billion (US$1.4 billion) between November 12, 2024, and November 12, 2026, to support VinFast's continued growth. As of March 31, 2026, VinFast's outstanding borrowings from Vingroup under this commitment were VND19,755.9 billion (US$787.0 million). ● Pursuant to a grant agreement dated November 12, 2024, Mr. Pham committed to provide up to VND50,000.0 billion (US$2.0 billion) in free grants to VinFast and its subsidiaries. As of March 31, 2026, a total of VND33,000.0 billion (US$1.3 billion) had been disbursed pursuant to the grant agreement.

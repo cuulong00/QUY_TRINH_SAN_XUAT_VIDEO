@@ -1,0 +1,7 @@
+Châu Âu không ngây thơ trước làn sóng xe điện giá rẻ. Lục địa già đã dựng lên những pháo đài pháp lý cực kỳ kiên cố. Nổi bật nhất là cơ chế điều chỉnh biên giới carbon C B A M và Đạo luật Dữ liệu E U. Đây là những rào cản đánh thẳng vào những chiếc xe được sản xuất bằng năng lượng than đá giá rẻ. Vòng vây này khiến các siêu dự án nhà máy của B Y D tại Châu Âu liên tục bị đình trệ.
+
+Trong khi B Y D chật vật lách luật, VinFast chọn một cách tiếp cận hoàn toàn ngược đời. Họ không mang xe đi bán vội. Thay vào đó, hãng xe Việt Nam đưa công ty năng lượng VinEnergo đi tiên phong. Họ bắt tay với các đối tác bản địa để triển khai dự án điện mặt trời quy mô hàng gigawatt tại Bắc Âu. Bằng cách rót vốn vào năng lượng tái tạo, họ trực tiếp giải bài toán khát điện sạch của nước sở tại.
+
+Chiến lược này thay đổi hoàn toàn bản chất mối quan hệ song phương. VinFast không xuất hiện với tư cách một nhà xuất khẩu xe hơi đến bòn rút thị phần. Họ định vị bản thân như một đối tác chiến lược, chung tay bảo vệ an ninh lưới điện của Châu Âu. Khi lòng tin vĩ mô được thiết lập, sự thù địch của các rào cản phòng vệ thương mại sẽ tự động bị vô hiệu hóa.
+
+Đây chính là nghệ thuật gieo hạt trước khi thu hoạch. Khi những dự án điện mặt trời này đi vào hoạt động, chúng sẽ tạo ra nguồn điện xanh hợp chuẩn C B A M. Đó là lúc những chiếc xe VinFast đường hoàng lăn bánh trên đường phố Châu Âu mà không sợ bị đánh thuế môi trường. Nhưng để duy trì một cỗ máy đầu tư hạ tầng khổng lồ như vậy, câu hỏi đặt ra là lợi nhuận thực sự sẽ đến từ đâu?

@@ -1,0 +1,17 @@
+# chapter_04.md
+
+Lời giải thích cho sự bất lực đó nằm ở một sự mỉa mai của lịch sử. Châu Âu và nhiều quốc gia đang bị trói chặt bởi chiếc áo nịt ngực thương mại tự do do chính họ dệt nên, cùng một mạng lưới mâu thuẫn lợi ích không thể tháo gỡ.
+
+Dưới luật Tối huệ quốc của Tổ chức Thương mại Thế giới, bạn không thể tùy tiện đóng sập cửa biên giới với một sản phẩm đạt chuẩn an toàn năm sao Euro en cáp và không vi phạm bất kỳ bộ luật khí thải nào. Nhưng thứ làm phương Tây khiếp sợ hơn cả luật pháp, là nỗi sợ bị trả đũa cực đoan. Mỗi khi Brussels rục rịch giáng đòn vào B Y D, Bắc Kinh lập tức phát đi tín hiệu cảnh báo nhắm thẳng vào điểm yếu gót chân Achilles của châu Âu: hàng triệu chiếc ô tô của Volkswagen, Bê Em Vê hay Mercedes đang lăn bánh tại thị trường Trung Quốc, cùng hàng loạt nông sản chủ lực của Pháp.
+
+Sự bất lực đó còn bị xới tung bởi cuộc giằng xé ngay trong nội bộ chính phủ sở tại. Bộ Môi trường ra sức ủng hộ những chiếc xe điện B Y D giá hai mươi nghìn đô để hoàn thành cam kết Net Zero. Trong khi đó, Bộ Công thương lại đau đầu tìm cách áp thuế để cứu các hãng xe nội địa. Ngay cả người dân — những cử tri đang thắt lưng buộc bụng vì lạm phát — cũng phẫn nộ nếu chính phủ cấm một sản phẩm vừa rẻ vừa an toàn chỉ để bảo hộ lợi nhuận cho các tập đoàn ô tô cũ. Sự rạn nứt lên đến đỉnh điểm khi ngay trong nội bộ Liên minh châu Âu, Đức quyết liệt bỏ phiếu chống áp thuế B Y D vì sợ Trung Quốc trả đũa ngược, đối đầu gay gắt với phe ủng hộ của Pháp.
+
+Nhận diện rất rõ điểm yếu này, B Y D không bao giờ đi một mình. Họ bắt tay với các tài phiệt phân phối quyền lực nhất tại địa phương, biến các doanh nghiệp bản địa thành một tấm khiên pháp lý. Khi chính quyền muốn trừng phạt B Y D, họ nhận ra mình sẽ đập vỡ nồi cơm và đẩy hàng ngàn lao động bán hàng tại quê nhà vào cảnh mất việc.
+
+Và khi các rào cản hành chính bị giăng ra, cỗ máy này chứng minh khả năng lách luật hoàn hảo. Tháng mười năm hai nghìn không trăm hai mươi tư, khi E U áp thuế chống trợ cấp mười bảy phần trăm, đẩy tổng thuế lên hai mươi bảy phần trăm đối với xe thuần điện, B Y D lập tức bơm hàng loạt mẫu xe lai điện cắm sạc P H E V sang châu Âu — dòng xe chỉ phải chịu mức thuế mười phần trăm thông thường.
+
+Khi kẽ hở bị siết lại, họ dùng tiền đè bẹp điều kiện nội địa hóa. B Y D giải ngân nhanh bốn tỷ euro xây đại tổ hợp sản xuất tại Hungary, và cam kết thêm một tỷ đô la tại Indonesia. Những chiếc xe xuất xưởng từ đây sẽ mang nhãn Mết in U-rốp với mức thuế nội khối bằng không. Họ củng cố sự bất khả xâm phạm đó bằng hạm đội tàu biển tự đóng trị giá sáu trăm chín mươi triệu đô la, tự làm chủ mọi tuyến hàng hải.
+
+Chỉ duy nhất một nơi trên thế giới dám sử dụng bạo lực pháp lý cực đoan để chặn đứng cỗ máy này: Nước Mỹ. Washington không đàm phán. Họ dựng lên bức tường lửa một trăm phần trăm thuế quan, đi kèm Đạo luật An ninh Xe Kết nối, cấm tiệt mọi phần mềm và phần cứng Trung Quốc. Mỹ chấp nhận xé bỏ mọi nguyên tắc thương mại tự do để bảo vệ sự tồn vong của ngành công nghiệp ô tô nội địa.
+
+Nhưng thế giới không phải ai cũng là nước Mỹ. Ở những thị trường mà cỗ máy đó đã thâm nhập sâu rộng, phía sau mức giá siêu rẻ, những hệ lụy chìm bắt đầu xuất hiện.

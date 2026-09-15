@@ -1,0 +1,40 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-10T23:38:57.441Z",
+  "session_id": "beb1fee4",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/634026bd-1b89-4b2c-917a-3e1a35aa93e5"
+  },
+  "question": "Các nhà vật lý học và học giả đưa ra những phản biện và cảnh báo gì đối với 'Huyền học lượng tử' (Quantum Mysticism) và việc gượng ép kết nối vật lý lượng tử với tâm linh hoặc Phật giáo? Ưu tiên dữ liệu và nghiên cứu mới nhất. Mọi thí nghiệm và số liệu phải ghi rõ tên nhà nghiên cứu, năm công bố, phương pháp thực hiện (mẫu thử bao nhiêu người, đo lường thế nào). Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO TRẠNG THÁI DỮ LIỆU: PHẢN BIỆN VỀ \"HUYỀN HỌC LƯỢNG TỬ\" (QUANTUM MYSTICISM)\n1. Tình trạng dữ liệu hiện tại Sau khi rà soát chi tiết toàn bộ các tài liệu vừa được nạp vào, hoàn toàn không có bất kỳ dữ liệu, nghiên cứu thực nghiệm, hay lập luận học thuật nào từ các nhà vật lý học nhằm phản biện lại khái niệm \"Huyền học lượng tử\" (Quantum Mysticism) hoặc việc kết nối vật lý lượng tử với tâm linh và Phật giáo.\n2. Chi tiết về các nguồn đề cập đến Lượng tử (Quantum) Các từ khóa liên quan đến \"Cơ học lượng tử\" có xuất hiện trong cơ sở dữ liệu, nhưng chúng hoàn toàn chỉ tồn tại dưới dạng tiêu đề menu điều hướng hoặc danh mục chủ đề, không chứa nội dung bài viết hay số liệu thí nghiệm. Cụ thể:\nTrang web Pure Dhamma chỉ liệt kê các dòng menu trống như: \"Quantum Mechanics and Consciousness\", \"Will Quantum Mechanics Be Able to Explain Consciousness?\", \"The Observer Effect in Quantum Mechanics\"\nDanh mục các số đặc biệt của tạp chí Philosophies (MDPI) chỉ liệt kê tên chủ đề \"Philosophy and Quantum Mechanics\"\n4\n.\n3. Kết luận Do tập dữ liệu đầu vào hiện tại không chứa bất kỳ văn bản phân tích, báo cáo khoa học hay dữ liệu đo lường nào liên quan đến chủ đề này, tôi không thể trích xuất các thông tin về tên nhà nghiên cứu, năm công bố, phương pháp thực hiện hay mẫu thử như bạn yêu cầu từ trong các nguồn tài liệu hiện có.\nĐể có thể lập một báo cáo chuyên nghiệp đáp ứng đúng tiêu chí khắt khe của bạn (số liệu thực nghiệm, phương pháp đo lường, tác giả và năm công bố) về những phản biện đối với \"Quantum Mysticism\", tôi cần bổ sung dữ liệu từ các nghiên cứu vật lý học và triết học khoa học thực thụ. Bạn có muốn tôi sử dụng công cụ tìm kiếm (fast_research) trên internet để trích xuất các bài báo học thuật mới nhất về chủ đề này không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Anicca - Inability To Keep What We Like - Pure Dhamma",
+      "source_text": "Will Quantum Mechanics Be Able to Explain Consciousness? The Observer Effect in Quantum Mechanics Close Quantum Mechanics – A New Interpretation What Is a Wave and What Is a Particle? Photons Are Particles Not Waves Basis of the Proposed Interpretation – Feynman's Technique in QED Close Quantum Mechanics and Dhamma – Introduction Close Buddha Dhamma – Systematic Unique Worldview of a Sotāpanna Paṭicca Samuppāda – Starting Point to Sotāpanna Stage Close"
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "The Puzzle of Buddhist Non-Attachment: A Challenge for Laypersons - MDPI",
+      "source_text": "Philosophical Issues in Sport Science Philosophies of Language and Logic Philosophies of Love Philosophies of Time, Media and Contemporaneity Philosophies on Analogy Philosophy and Communication Technology Philosophy and Education of Mathematics and Computing Philosophy and Environmental Crisis Philosophy and Epistemology of Deep Learning Philosophy and Popular Culture Philosophy and Quantum Mechanics Philosophy and the Ethics of Technology Philosophy in the Quantum Technologies Era: Rethinking Knowledge, Reality, and Society Beyond Quantum Theory"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 2,
+    "source_names": [
+      "Anicca - Inability To Keep What We Like - Pure Dhamma",
+      "The Puzzle of Buddhist Non-Attachment: A Challenge for Laypersons - MDPI"
+    ]
+  }
+}

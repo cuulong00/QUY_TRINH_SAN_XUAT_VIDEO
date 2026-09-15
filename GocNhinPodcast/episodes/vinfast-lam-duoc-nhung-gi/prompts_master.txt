@@ -1,0 +1,563 @@
+CH01_SC010a1 [IMAGE]: A flat 2D vector graphic of the glowing electric green VinFast logo "V" isolated in the center, casting a subtle green light. Dark charcoal grey background, warm cream outlines, dramatic chiaroscuro lighting, deep noir shadows, --ar 16:9
+
+CH01_SC010a1 [VIDEO]: @CH01_SC010a1.png -> steady shot of the glowing electric green VinFast logo pulsing gently in the dark room, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC010a2 [IMAGE]: A flat 2D vector graphic of various automotive parts, including a generic green battery pack, a small computer chip, and metal gears, suspended in the air. Dark charcoal grey background, warm cream outlines, dramatic chiaroscuro lighting, --ar 16:9
+
+CH01_SC010a2 [VIDEO]: @CH01_SC010a2.png -> starting with a close-up of the suspended automotive parts, the camera slowly zooms out as they float in a slow circular path, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC020a1 [IMAGE]: A flat 2D vector graphic of a fleet of VinFast VF8 electric SUVs driving forward in unison on a highway, green energy lines trailing behind them. Dark charcoal grey background, warm cream outlines, glowing green headlights, --ar 16:9
+
+CH01_SC020a1 [VIDEO]: @CH01_SC020a1.png -> starting with a low-angle shot of the VinFast VF8 fleet, a slow camera panning right captures the vehicles moving smoothly down the road, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC020a2 [IMAGE]: A flat 2D vector infographic showing a vertical bar chart of market sales in Vietnam, with the tallest bar highlighted in glowing electric green and labeled with the English text "VINFAST". Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH01_SC020a2 [VIDEO]: @CH01_SC020a2.png -> the bar chart animation slowly rising from the bottom to represent market sales leadership, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC030 [IMAGE]: A flat 2D vector graphic of two large industrial factories, one labeled with the English text "HAIPHONG" and the other "HATINH", under a dark sky. Dark charcoal grey background, warm cream outlines, glowing green highlights on the factory lines, --ar 16:9
+
+CH01_SC030 [VIDEO]: @CH01_SC030.png -> slow camera zoom-out showing both the Haiphong and Hatinh factories standing tall, steam rising slowly from the cooling towers, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC040 [IMAGE]: A flat 2D vector graphic of a sleek electric car, with the glowing green letter "V" on the front grille. Dark charcoal grey background, warm cream outlines, dramatic chiaroscuro lighting, --ar 16:9
+
+CH01_SC040 [VIDEO]: @CH01_SC040.png -> steady shot of the electric car, the front headlights slowly turning on and illuminating the dark studio, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC050 [IMAGE]: A flat 2D vector graphic representing layers of a car peeling back, showing first the outer steel chassis, then a glowing battery block, and finally green lines of software code in the background. Dark charcoal grey background, --ar 16:9
+
+CH01_SC050 [VIDEO]: @CH01_SC050.png -> starting with the outer chassis, the layers slowly dissolve one by one to reveal the internal battery and code, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC060 [IMAGE]: A flat 2D vector graphic showing the bold English text "LOCALIZATION RATE" on a dark screen, with a percentage scale below it ranging from 0% to 100%. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH01_SC060 [VIDEO]: @CH01_SC060.png -> steady shot of the text "LOCALIZATION RATE", a glowing green indicator needle slowly moving along the scale, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC070 [IMAGE]: A flat 2D vector graphic of the number "60%" in glowing cream, which slowly morphs into the number "84%" in glowing electric green. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH01_SC070 [VIDEO]: @CH01_SC070.png -> steady shot as the "60%" text gently transitions and brightens into "84%" on the screen, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC010 [IMAGE]: A flat 2D vector graphic of a classic dictionary book open on a wooden table, the word "DEFINITION" highlighted in glowing green. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC010 [VIDEO]: @CH02_SC010.png -> slow camera zoom-in on the word "DEFINITION" as dust particles float in a warm light beam, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC020 [IMAGE]: A flat 2D vector graphic of three cars from different brands with the English logos "TOYOTA", "HONDA", and "FORD" parked in a row. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC020 [VIDEO]: @CH02_SC020.png -> slow camera panning left across the front grilles of the Toyota, Honda, and Ford cars, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC030 [IMAGE]: A flat 2D vector graphic of a wooden shipping crate stamped with the English text "CKD PARTS" opening to reveal generic car parts inside. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC030 [VIDEO]: @CH02_SC030.png -> steady shot as the shipping crate lid slowly slides open, revealing the gears and mechanical parts, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC040 [IMAGE]: A flat 2D vector graphic of a factory worker in loose-fitting grey clothes holding a wrench and assembling a door panel. Dark charcoal grey background, solid black silhouettes, --ar 16:9
+
+CH02_SC040 [VIDEO]: @CH02_SC040.png -> steady shot of the worker, the wrench slowly turning a bolt on the panel with metallic reflections, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC050a1 [IMAGE]: A flat 2D vector graphic of an empty factory workshop with idle conveyor belts. Dark charcoal grey background, warm cream outlines, deep noir shadows, --ar 16:9
+
+CH02_SC050a1 [VIDEO]: @CH02_SC050a1.png -> slow camera panning right across the quiet and dark empty workshop, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC050a2 [IMAGE]: A close-up 2D flat vector graphic of a small metal screw sitting on a black surface under a dramatic spotlight. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC050a2 [VIDEO]: @CH02_SC050a2.png -> steady shot of the metal screw, the spotlight slowly shifting angle to create long moving shadows, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC060a1 [IMAGE]: A flat 2D vector graphic of a detective's desk with old file folders, a magnifying glass, and a glowing green document. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC060a1 [VIDEO]: @CH02_SC060a1.png -> slow camera zoom-in on the glowing green document on the desk, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC060a2 [IMAGE]: A flat 2D vector graphic of a hand holding a magnifying glass over a document with the text "LOCALIZATION 60%" written on it. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC060a2 [VIDEO]: @CH02_SC060a2.png -> steady shot of the magnifying glass, the lens moving slightly to focus on the text "LOCALIZATION 60%", preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC070 [IMAGE]: A flat 2D vector graphic of an old-fashioned scale, one side holding a heavy mechanical gear, the other side holding a glowing green light bulb. Dark charcoal grey background, --ar 16:9
+
+CH02_SC070 [VIDEO]: @CH02_SC070.png -> steady shot of the scale, the disheveled plates slowly balancing out as the green bulb glows brighter, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC080 [IMAGE]: A flat 2D vector graphic of a dusty legal document with the English text "DECISION 28" printed in bold letters at the top. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC080 [VIDEO]: @CH02_SC080.png -> slow camera zoom-in on the text "DECISION 28" on the document, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC090a1 [IMAGE]: A flat 2D vector graphic of a heavy steel car chassis frame suspended in a dark factory. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC090a1 [VIDEO]: @CH02_SC090a1.png -> steady shot of the suspended car chassis slowly swaying left and right, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC090a2 [IMAGE]: A flat 2D vector graphic of a microchip with glowing green circuits next to a software window displaying lines of code. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC090a2 [VIDEO]: @CH02_SC090a2.png -> the circuits on the microchip slowly pulsing with a bright green light from center to edges, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC100 [IMAGE]: A flat 2D vector graphic of a stamp pressing the English text "ANNULLED" onto an official paper. Dark charcoal grey background, warm cream outlines, glowing crimson coral red stamp mark, --ar 16:9
+
+CH02_SC100 [VIDEO]: @CH02_SC100.png -> steady shot of the paper as the stamp presses down, leaving a glowing crimson mark that slowly fades, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC110a1 [IMAGE]: A flat 2D vector graphic of a mathematical formula representing localization calculations, with the text "LOCAL VALUE ADDED" in bold cream. Dark charcoal grey background, --ar 16:9
+
+CH02_SC110a1 [VIDEO]: @CH02_SC110a1.png -> slow camera panning right across the mathematical formula, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC110a2 [IMAGE]: A flat 2D vector graphic of a modern electric car split into highlighted segments, with percentage tags showing value contribution. Dark charcoal grey background, --ar 16:9
+
+CH02_SC110a2 [VIDEO]: @CH02_SC110a2.png -> steady shot as the segments of the car light up in sequence, showing different values, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC120 [IMAGE]: A flat 2D vector graphic of a globe showing trade routes between Vietnam and other countries, marked with the English text "FREE TRADE AGREEMENT". Dark charcoal grey background, --ar 16:9
+
+CH02_SC120 [VIDEO]: @CH02_SC120.png -> steady shot as the trade routes on the globe slowly light up with moving green light beams, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC130a1 [IMAGE]: A flat 2D vector graphic of a VinFast VF8 SUV parked under a spotlight, with the text "LOCALIZATION >60%" glowing above it. Dark charcoal grey background, --ar 16:9
+
+CH02_SC130a1 [VIDEO]: @CH02_SC130a1.png -> steady shot of the VinFast VF8, the text "LOCALIZATION >60%" pulsing with a soft cream glow, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC130a2_1 [IMAGE]: A flat 2D vector graphic of a large electric battery pack split into cells, labeled with the English text "BATTERY PACK 30% - 40%". Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC130a2_1 [VIDEO]: @CH02_SC130a2_1.png -> slow camera zoom-in on the battery pack as the text "30% - 40%" glows in soft orange, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC140 [IMAGE]: A flat 2D vector graphic of a generic semiconductor chip next to a box labeled with the English text "IMPORTED". Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC140 [VIDEO]: @CH02_SC140.png -> steady shot of the chip, a slow red glow tracing the pathways of the silicon board, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC150a1 [IMAGE]: A flat 2D vector graphic showing hands assembling a large battery pack, with a computer screen in the background displaying the text "BMS SOFTWARE". Dark charcoal grey background, --ar 16:9
+
+CH02_SC150a1 [VIDEO]: @CH02_SC150a1.png -> steady shot of the assembly, the BMS software screen in the background displaying green code lines, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC150a2 [IMAGE]: A flat 2D vector graphic of an empty car chassis with outline of a battery and chip labeled with the English text "CELL & CHIP: IMPORTED". Dark charcoal grey background, --ar 16:9
+
+CH02_SC150a2 [VIDEO]: @CH02_SC150a2.png -> steady shot of the chassis, the word "IMPORTED" slowly pulsing with a warning red light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC160 [IMAGE]: A flat 2D vector graphic of a kitchen counter with raw ingredients like rice and spices in jars labeled "IMPORT", and a stove in the background. Dark charcoal grey background, --ar 16:9
+
+CH02_SC160 [VIDEO]: @CH02_SC160.png -> slow camera panning right across the kitchen counter, showing the imported jars, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC170a1 [IMAGE]: A flat 2D vector graphic showing a timeline, starting at "0%" in the past and rising to "60%" in the present. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC170a1 [VIDEO]: @CH02_SC170a1.png -> steady shot as the timeline line grows from left to right, turning green as it hits 60%, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC170a2 [IMAGE]: A flat 2D vector graphic of the number "84%" in bold electric green, next to a calendar page showing "2026". Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC170a2 [VIDEO]: @CH02_SC170a2.png -> steady shot of the "84%" text, which slowly flashes with a bright green aura, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC180 [IMAGE]: A flat 2D vector graphic of a target board with arrows, one arrow hits "60%" and another pointing towards "84%". Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC180 [VIDEO]: @CH02_SC180.png -> steady shot as a new green arrow flies into the screen and points directly at the 84% target, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC190 [IMAGE]: A flat 2D vector graphic of a heavy metal factory door sliding open, revealing robot arms inside. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH02_SC190 [VIDEO]: @CH02_SC190.png -> the heavy metal factory door slowly sliding open to reveal orange sparks inside, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC010 [IMAGE]: A flat 2D vector graphic of a massive modern automobile factory layout, labeled with the English text "HAIPHONG - 335 HECTARES". Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC010 [VIDEO]: @CH03_SC010.png -> slow camera panning right across the factory blueprint layout, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC020a1 [IMAGE]: A flat 2D vector graphic of a Schuler servo press machine in a dark factory, a rolls of steel coils feeding into it. Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC020a1 [VIDEO]: @CH03_SC020a1.png -> steady shot of the Schuler mechanical press slowly feeding the steel coil forward, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC020a2 [IMAGE]: A close-up 2D flat vector graphic of the Schuler machine's mechanical gears rotating, with the text "SCHULER GERMANY" stamped on the metal. Dark slate grey background, --ar 16:9
+
+CH03_SC020a2 [VIDEO]: @CH03_SC020a2.png -> steady shot of the Schuler gears spinning slowly, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC030a1 [IMAGE]: A flat 2D vector graphic of a car door panel being stamped by a heavy metal plate, showing detailed contours. Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC030a1 [VIDEO]: @CH03_SC030a1.png -> steady shot as the heavy metal press stamps down on the steel plate, forming the door shape, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC030a2 [IMAGE]: A flat 2D vector graphic of a digital display counter showing "15 PARTS / MIN" in glowing orange. Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC030a2 [VIDEO]: @CH03_SC030a2.png -> steady shot of the counter as the numbers pulse gently, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC040a1 [IMAGE]: A flat 2D vector graphic of a conveyor belt transporting stamped metal car panels through a dark corridor. Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC040a1 [VIDEO]: @CH03_SC040a1.png -> steady shot of the panels moving smoothly down the conveyor belt, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC040a2 [IMAGE]: A flat 2D vector graphic of orange ABB robotic arms in a row, welding a car frame with bright neon orange sparks flying. Dark slate grey background, light silver grey, --ar 16:9
+
+CH03_SC040a2 [VIDEO]: @CH03_SC040a2.png -> steady shot of the ABB robots moving in sync, sparks flying as they weld the metal seam, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC050a1 [IMAGE]: A flat 2D vector graphic of a digital status screen displaying "AUTOMATION 100%" in bright green text. Dark slate grey background, light silver grey, --ar 16:9
+
+CH03_SC050a1 [VIDEO]: @CH03_SC050a1.png -> steady shot of the screen, the text "100%" glowing softly, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC050a2 [IMAGE]: A flat 2D vector graphic of a complete VinFast VF8 chassis frame rolling off the assembly line, with a timer showing "102 SEC". Dark slate grey background, --ar 16:9
+
+CH03_SC050a2 [VIDEO]: @CH03_SC050a2.png -> the chassis rolling off the line as the digital timer resets, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC060 [IMAGE]: A flat 2D vector graphic of a shipping container filled with pre-assembled car parts, crossed out with a red "X". Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC060 [VIDEO]: @CH03_SC060.png -> steady shot of the crossed-out container, which slowly fades into the background, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC070 [IMAGE]: A flat 2D vector graphic showing a roll of raw steel transforming into a completed car frame through a series of automated machine stations. Dark slate grey background, --ar 16:9
+
+CH03_SC070 [VIDEO]: @CH03_SC070.png -> slow camera panning right along the transformation line, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC080 [IMAGE]: A flat 2D vector graphic of a hand pointing at a robot arm labeled with the English text "IMPORTED MACHINE". Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC080 [VIDEO]: @CH03_SC080.png -> steady shot of the pointing hand, a soft light highlighting the label "IMPORTED MACHINE", preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC090 [IMAGE]: A flat 2D vector graphic comparing two boxes: one labeled "OWN THE PROCESS", the other "BUY THE PRODUCT". Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC090 [VIDEO]: @CH03_SC090.png -> steady shot of the boxes as the "OWN THE PROCESS" box glows with a bright green light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC100 [IMAGE]: A flat 2D vector graphic showing a Tesla Gigafactory with KUKA robot arms, next to a Hyundai factory with Fanuc robot arms. Dark slate grey background, --ar 16:9
+
+CH03_SC100 [VIDEO]: @CH03_SC100.png -> slow camera panning right across both factories as the robot arms move up and down, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC110 [IMAGE]: A flat 2D vector graphic of the electric green VinFast logo V overlaid on a blueprint of a factory floor plan. Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC110 [VIDEO]: @CH03_SC110.png -> steady shot of the V logo, which pulses gently as the blueprint details light up, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC120 [IMAGE]: A flat 2D vector graphic of a construction site with a large crane lifting a building block onto a structure, with the text "OWNED BLUEPRINT". Dark slate grey background, --ar 16:9
+
+CH03_SC120 [VIDEO]: @CH03_SC120.png -> steady shot of the crane lifting the block into place, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC130a1 [IMAGE]: A flat 2D vector graphic of a car frame with highlighted structural beams, under a spotlight. Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC130a1 [VIDEO]: @CH03_SC130a1.png -> steady shot of the highlighted beams, which glow with a warm copper metallic hue, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC130a2 [IMAGE]: A flat 2D vector graphic of electric current lines flowing from the rear wheels to a battery compartment. Dark slate grey background, light silver grey outlines, --ar 16:9
+
+CH03_SC130a2 [VIDEO]: @CH03_SC130a2.png -> the electric current lines slowly pulsing forward along the underside of the car frame, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC010a1 [IMAGE]: A flat 2D vector graphic of a heavy metal motor block sitting under a car chassis, labeled with the English text "80kg - 100kg". Dark slate grey background, warm copper metallic highlights, --ar 16:9
+
+CH04_SC010a1 [VIDEO]: @CH04_SC010a1.png -> steady shot of the motor block, the label "80kg - 100kg" pulsing with a soft glow, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC010a2 [IMAGE]: A flat 2D vector graphic of a generic electric motor labeled with the English text "PMSM". Dark slate grey background, warm copper metallic outlines, --ar 16:9
+
+CH04_SC010a2 [VIDEO]: @CH04_SC010a2.png -> steady shot as a glowing blue circle of magnetic force lines rotates around the PMSM motor, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC020 [IMAGE]: A flat 2D vector graphic comparing a complex internal combustion engine (crossed out in red) to a single simple PMSM motor. Dark slate grey background, --ar 16:9
+
+CH04_SC020 [VIDEO]: @CH04_SC020.png -> steady shot as the complex engine fades away, leaving only the glowing PMSM motor in the center, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC030a1 [IMAGE]: A flat 2D vector graphic of an assembly line in Haiphong, with a VinFast PMSM electric motor being assembled. Dark slate grey background, warm copper metallic highlights, --ar 16:9
+
+CH04_SC030a1 [VIDEO]: @CH04_SC030a1.png -> steady shot of the assembly line, robot arms slowly positioning components onto the motor, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC030a2 [IMAGE]: A flat 2D vector graphic of industrial machinery in a row, labeled with the English text "GROB", "THYSSENKRUPP", and "AVL". Dark slate grey background, --ar 16:9
+
+CH04_SC030a2 [VIDEO]: @CH04_SC030a2.png -> slow camera panning right across the GROB, ThyssenKrupp, and AVL machines, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC040 [IMAGE]: A flat 2D vector graphic showing the process of quenting stator copper wires and balancing the rotor on a machine. Dark slate grey background, warm copper metallic highlights, --ar 16:9
+
+CH04_SC040 [VIDEO]: @CH04_SC040.png -> steady shot of the stator quenting machine spinning copper wire onto the core, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC050a1 [IMAGE]: A close-up 2D flat vector graphic of a rotor core showing magnetic slots, next to a spool of copper wire. Dark slate grey background, warm copper metallic highlights, --ar 16:9
+
+CH04_SC050a1 [VIDEO]: @CH04_SC050a1.png -> steady shot, a subtle spotlight highlighting the magnetic slots and the copper wire, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC050a2 [IMAGE]: A flat 2D vector graphic of the semiconductor chip and rare earth magnet package labeled with the English text "IMPORTED 100%". Dark slate grey background, --ar 16:9
+
+CH04_SC050a2 [VIDEO]: @CH04_SC050a2.png -> steady shot of the chip, the label "IMPORTED 100%" pulsing with a warning red light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC060a1 [IMAGE]: A flat 2D vector graphic of a VinFast EB12 electric bus driving on a European street, its undercarriage highlighted in blue. Dark slate grey background, --ar 16:9
+
+CH04_SC060a1 [VIDEO]: @CH04_SC060a1.png -> steady shot of the VinFast EB12 bus moving slowly down the street, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC060a2 [IMAGE]: A close-up 2D flat vector graphic of the ZF AxTrax 2 electric drive axle, with the logo "ZF" clearly visible. Dark slate grey background, --ar 16:9
+
+CH04_SC060a2 [VIDEO]: @CH04_SC060a2.png -> steady shot of the ZF AxTrax 2 axle, the gears inside slowly rotating, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC070a1 [IMAGE]: A flat 2D vector graphic of a quality inspector checking a completed electric motor in a factory. Dark slate grey background, warm copper metallic outlines, --ar 16:9
+
+CH04_SC070a1 [VIDEO]: @CH04_SC070a1.png -> steady shot as the inspector scans the motor with a handheld device, a green scan beam sweeps across, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC070a2 [IMAGE]: A flat 2D vector graphic of raw copper wire spools and dark magnet blocks inside a shipping box. Dark slate grey background, warm copper metallic highlights, --ar 16:9
+
+CH04_SC070a2 [VIDEO]: @CH04_SC070a2.png -> steady shot of the shipping box, a slow zoom-in on the copper wire spool, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC080 [IMAGE]: A flat 2D vector graphic of a world map, showing routes of rare-earth magnets from China to Tesla and Toyota factories. Dark slate grey background, --ar 16:9
+
+CH04_SC080 [VIDEO]: @CH04_SC080.png -> steady shot as the shipping routes on the map light up with moving blue lines, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC090a1 [IMAGE]: A flat 2D vector graphic of a mining excavator digging in a dirt pit, crossed out with a red X. Dark slate grey background, --ar 16:9
+
+CH04_SC090a1 [VIDEO]: @CH04_SC090a1.png -> steady shot of the crossed-out excavator, which slowly fades into the background, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC090a2 [IMAGE]: A flat 2D vector graphic of a high-tech control panel overlooking a factory assembly line. Dark slate grey background, glowing green screen lines, --ar 16:9
+
+CH04_SC090a2 [VIDEO]: @CH04_SC090a2.png -> steady shot of the control panel, green graphs on the screens slowly moving, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC100 [IMAGE]: A flat 2D vector graphic of a computer screen displaying a YouTube "SUBSCRIBE" button glowing green. Dark slate grey background, warm cream outlines, --ar 16:9
+
+CH04_SC100 [VIDEO]: @CH04_SC100.png -> steady shot of the screen, the "SUBSCRIBE" button flashing with a soft green light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC110a1 [IMAGE]: A flat 2D vector graphic of a massive electric battery pack sitting on a pedestal under a spotlight. Dark slate grey background, glowing green highlights, --ar 16:9
+
+CH04_SC110a1 [VIDEO]: @CH04_SC110a1.png -> slow camera zoom-in on the battery pack, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH04_SC110a2 [IMAGE]: A flat 2D vector graphic of a boundary line separating a green factory area from a dark grey shadow area. Dark slate grey background, --ar 16:9
+
+CH04_SC110a2 [VIDEO]: @CH04_SC110a2.png -> steady shot of the boundary line, a soft pulse of light moving along the edge, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC010a1 [IMAGE]: A flat 2D vector graphic of a large automobile battery pack, labeled with the English text "BATTERY 30% - 40% COST". Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH05_SC010a1 [VIDEO]: @CH05_SC010a1.png -> steady shot of the battery pack, the label "30% - 40%" pulsing with a soft cream light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC010a2 [IMAGE]: A flat 2D vector graphic of a bridge spanning a wide canyon, with one side labeled "INDEPENDENT" and the other "DEPENDENT". Dark charcoal grey background, --ar 16:9
+
+CH05_SC010a2 [VIDEO]: @CH05_SC010a2.png -> slow camera panning right across the bridge from the independent side to the dependent side, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC020a1 [IMAGE]: A flat 2D vector graphic of a single cylindrical battery cell, glowing with a soft chemical green aura. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH05_SC020a1 [VIDEO]: @CH05_SC020a1.png -> steady shot of the battery cell, the chemical green aura slowly pulsing, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC020a2 [IMAGE]: A flat 2D vector graphic of a battery pack schematic diagram, showing a microchip labeled "BMS" connected to it. Dark charcoal grey background, --ar 16:9
+
+CH05_SC020a2 [VIDEO]: @CH05_SC020a2.png -> the circuit lines from the BMS chip to the battery pack lighting up with moving green data points, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC030 [IMAGE]: A flat 2D vector graphic of a staircase with three steps, the top two steps labeled "PACK DESIGN" and "BMS" highlighted in glowing green. Dark charcoal grey background, --ar 16:9
+
+CH05_SC030 [VIDEO]: @CH05_SC030.png -> steady shot as the top two steps of the staircase light up in sequence, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC040a1 [IMAGE]: A flat 2D vector graphic showing the logo "VinES" merging into the logo "VINFAST" in a burst of green light. Dark charcoal grey background, --ar 16:9
+
+CH05_SC040a1 [VIDEO]: @CH05_SC040a1.png -> steady shot as the two logos blend together, the green light slowly spreading across the screen, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC040a2 [IMAGE]: A flat 2D vector graphic of a modern cleanroom assembly line in Vung Ang, with robotic arms assembling battery packs. Dark charcoal grey background, --ar 16:9
+
+CH05_SC040a2 [VIDEO]: @CH05_SC040a2.png -> steady shot of the assembly line, robotic arms moving in a precise, slow sequence, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC050a1 [IMAGE]: A flat 2D vector graphic of battery cells inside shipping boxes labeled with the English text "CATL" and "GOTION". Dark charcoal grey background, --ar 16:9
+
+CH05_SC050a1 [VIDEO]: @CH05_SC050a1.png -> slow camera panning left across the CATL and Gotion cell boxes, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC050a2 [IMAGE]: A flat 2D vector graphic of a battery factory blueprint in Vung Ang, with the logo "VINFAST" and "GOTION" next to each other. Dark charcoal grey background, --ar 16:9
+
+CH05_SC050a2 [VIDEO]: @CH05_SC050a2.png -> steady shot as the factory blueprint slowly builds on the screen with green laser lines, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC060a1 [IMAGE]: A flat 2D vector graphic of a completed modern battery factory in Vung Ang, with trucks loading cargo boxes under a spotlight. Dark charcoal grey background, --ar 16:9
+
+CH05_SC060a1 [VIDEO]: @CH05_SC060a1.png -> steady shot of the Vung Ang factory, truck headlights slowly moving past the gate, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC060a2 [IMAGE]: A flat 2D vector graphic showing a contract document signed by VinFast and Gotion, with Gotion holding a 51% share indicator. Dark charcoal grey background, --ar 16:9
+
+CH05_SC060a2 [VIDEO]: @CH05_SC060a2.png -> steady shot of the document, the "51%" share marker slowly highlighted in soft orange, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC070 [IMAGE]: A flat 2D vector graphic of a large balance scale, the left side labeled "VINFAST" and the right side holding "TESLA" and "BYD". Dark charcoal grey background, --ar 16:9
+
+CH05_SC070 [VIDEO]: @CH05_SC070.png -> steady shot of the balance scale, the plates slowly swaying, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC080a1 [IMAGE]: A flat 2D vector graphic showing a timeline, with "TESLA 2003" and "BYD 1995" marked on the left. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH05_SC080a1 [VIDEO]: @CH05_SC080a1.png -> steady shot as the timeline line grows and highlights the dates 1995 and 2003, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC080a2 [IMAGE]: A flat 2D vector graphic showing the timeline extending to the right, highlighting the date "VINFAST 2021" in green. Dark charcoal grey background, --ar 16:9
+
+CH05_SC080a2 [VIDEO]: @CH05_SC080a2.png -> steady shot as the date "2021" lights up with a green glow, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC090a1 [IMAGE]: A flat 2D vector graphic of a small child silhouette standing next to two giant adult silhouettes. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH05_SC090a1 [VIDEO]: @CH05_SC090a1.png -> steady shot, a soft light beam slowly sweeping across the silhouettes, creating long shadows, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC090a2 [IMAGE]: A flat 2D vector graphic of a rocket taking off, with the text "LOCALIZATION 60%" written on the side. Dark charcoal grey background, glowing green exhaust, --ar 16:9
+
+CH05_SC090a2 [VIDEO]: @CH05_SC090a2.png -> steady shot of the rocket launch, smoke billows slowly expanding at the base, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC100a1 [IMAGE]: A flat 2D vector graphic comparing three electric car grilles representing VinFast, Tesla, and BYD. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH05_SC100a1 [VIDEO]: @CH05_SC100a1.png -> slow camera panning right across the three car grilles, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC100a2 [IMAGE]: A close-up 2D flat vector graphic of a battery cell glowing with green energy lines. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH05_SC100a2 [VIDEO]: @CH05_SC100a2.png -> steady shot of the battery cell, the energy lines pulsing from positive to negative terminals, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC110a1 [IMAGE]: A flat 2D vector graphic of a vertical supply chain tree, starting from lithium mining ore at the roots and ending at a battery cell at the top. Dark charcoal grey background, --ar 16:9
+
+CH05_SC110a1 [VIDEO]: @CH05_SC110a1.png -> slow camera panning up from the roots of the supply chain tree to the top cell, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC110a2 [IMAGE]: A flat 2D vector graphic of a high-tech fortress wall enclosing the entire supply chain diagram. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH05_SC110a2 [VIDEO]: @CH05_SC110a2.png -> steady shot of the fortress wall, a blue security light sweep across the ramparts, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC120 [IMAGE]: A flat 2D vector graphic of a Tesla Model Y under a spotlight, with cargo containers labeled "CATL" and "PANASONIC" nearby. Dark charcoal grey background, --ar 16:9
+
+CH05_SC120 [VIDEO]: @CH05_SC120.png -> steady shot of the Tesla Model Y, the cargo containers slowly shifting in the background, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC130a1 [IMAGE]: A flat 2D vector graphic showing a Tesla Model 3 car being fitted with a battery pack labeled "CATL LFP CELL". Dark charcoal grey background, --ar 16:9
+
+CH05_SC130a1 [VIDEO]: @CH05_SC130a1.png -> steady shot as the battery pack slides under the Model 3 chassis, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC130a2 [IMAGE]: A flat 2D vector graphic comparing a Tesla assembly line to a VinFast assembly line, both showing workers packaging battery cell blocks. Dark charcoal grey background, --ar 16:9
+
+CH05_SC130a2 [VIDEO]: @CH05_SC130a2.png -> slow camera panning right across both assembly lines, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC140a1 [IMAGE]: A flat 2D vector graphic of a generic electric motor spinning inside a housing, with a red question mark hovering above. Dark charcoal grey background, --ar 16:9
+
+CH05_SC140a1 [VIDEO]: @CH05_SC140a1.png -> steady shot of the spinning motor, the question mark pulsing gently, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH05_SC140a2 [IMAGE]: A flat 2D vector graphic of a microchip glowing with green code, labeled with the English text "BMS CODE". Dark charcoal grey background, --ar 16:9
+
+CH05_SC140a2 [VIDEO]: @CH05_SC140a2.png -> steady shot of the chip, green lines of code scrolling vertically on the microchip surface, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC010a1 [IMAGE]: A flat 2D vector graphic of a towering building with 96 distinct illuminated levels made of glowing green battery cells. Dark charcoal grey background, --ar 16:9
+
+CH06_SC010a1 [VIDEO]: @CH06_SC010a1.png -> slow camera panning up from the base to the top of the 96-story battery tower, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC010a2 [IMAGE]: A flat 2D vector graphic of an architect's blueprint showing the structural beams of the battery tower. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH06_SC010a2 [VIDEO]: @CH06_SC010a2.png -> steady shot as the structural outlines of the blueprint glow with a bright green light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC020 [IMAGE]: A flat 2D vector graphic of a semiconductor chip labeled "BMS", with complex copper tracks leading to battery cell banks. Dark charcoal grey background, --ar 16:9
+
+CH06_SC020 [VIDEO]: @CH06_SC020.png -> steady shot of the BMS chip, green data pulses travelling along the copper tracks to the battery banks, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC030a1 [IMAGE]: A flat 2D vector graphic of a grid of small battery cells, some showing red temperature warnings and others green. Dark charcoal grey background, --ar 16:9
+
+CH06_SC030a1 [VIDEO]: @CH06_SC030a1.png -> steady shot as the red cells slowly cool down and turn green under the monitoring grid, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC030a2 [IMAGE]: A flat 2D vector graphic showing schematic cooling pipes routing blue liquid around battery cell packs. Dark charcoal grey background, --ar 16:9
+
+CH06_SC030a2 [VIDEO]: @CH06_SC030a2.png -> steady shot, blue fluid flow animating along the cooling pipe network, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC040a1 [IMAGE]: A flat 2D vector graphic of three icons representing a clock (battery life), a lightning bolt (charging speed), and a shield (safety). Dark charcoal grey background, --ar 16:9
+
+CH06_SC040a1 [VIDEO]: @CH06_SC040a1.png -> steady shot as the clock, lightning, and shield icons light up in sequence with a green glow, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC040a2 [IMAGE]: A flat 2D vector graphic of a GSM Taxi charging at a green V-GREEN charging station under a dark night sky. Dark charcoal grey background, --ar 16:9
+
+CH06_SC040a2 [VIDEO]: @CH06_SC040a2.png -> steady shot of the GSM Taxi, green energy waves propagating from the charger to the car body, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC050a1 [IMAGE]: A flat 2D vector graphic of a VinFast battery pack branded with the logo "StoreDot XFC", under a spotlight. Dark charcoal grey background, --ar 16:9
+
+CH06_SC050a1 [VIDEO]: @CH06_SC050a1.png -> steady shot of the StoreDot battery pack, a digital timer counting down rapidly from 10:00 to 0:00, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC050a2 [IMAGE]: A flat 2D vector graphic showing a solid-state battery cell blueprint branded with the logo "ProLogium". Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH06_SC050a2 [VIDEO]: @CH06_SC050a2.png -> steady shot of the ProLogium battery blueprint, the internal layers lighting up with a soft silver glow, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC060a1 [IMAGE]: A flat 2D vector graphic of a shipping container opening to reveal rows of imported battery cells. Dark charcoal grey background, warm cream outlines, --ar 16:9
+
+CH06_SC060a1 [VIDEO]: @CH06_SC060a1.png -> steady shot as the shipping container door slowly swings open under a spotlight, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH06_SC060a2 [IMAGE]: A flat 2D vector graphic of a laptop screen displaying a software window with scrolling green lines of code. Dark charcoal grey background, --ar 16:9
+
+CH06_SC060a2 [VIDEO]: @CH06_SC060a2.png -> steady shot, lines of code scrolling rapidly down the screen, casting a green light on the surface, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC010a1 [IMAGE]: A flat 2D vector graphic of a glowing green brain silhouette containing digital circuit lines, inside a car cabin. Dark slate blue background, --ar 16:9
+
+CH07_SC010a1 [VIDEO]: @CH07_SC010a1.png -> steady shot of the glowing brain silhouette, the circuit lines pulsing slowly with green light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC010a2 [IMAGE]: A flat 2D vector graphic of a hand holding a glowing green control unit labeled with the English text "SOFTWARE LAYER". Dark slate blue background, --ar 16:9
+
+CH07_SC010a2 [VIDEO]: @CH07_SC010a2.png -> steady shot of the hand holding the control unit, which slowly floats upwards in a warm light beam, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC020a1 [IMAGE]: A flat 2D vector graphic of a VinFast VF8 driving on a highway, with 7 highlighted camera positions on the vehicle body. Dark slate blue background, --ar 16:9
+
+CH07_SC020a1 [VIDEO]: @CH07_SC020a1.png -> steady shot of the VF8, the 7 camera positions on the car body lighting up in sequence, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC020a2 [IMAGE]: A flat 2D vector graphic of a digital map showing trade lanes and roads, with a large red X over a LiDAR sensor icon. Dark slate blue background, --ar 16:9
+
+CH07_SC020a2 [VIDEO]: @CH07_SC020a2.png -> steady shot of the map as the LiDAR icon with the red X slowly fades away, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC030a1 [IMAGE]: A flat 2D vector graphic of a high-tech vehicle chassis fitted with a large central chip labeled "NVIDIA DRIVE Hyperion 10". Dark slate blue background, --ar 16:9
+
+CH07_SC030a1 [VIDEO]: @CH07_SC030a1.png -> steady shot as the NVIDIA chip lights up with bright cyan lines, sending pulses through the chassis, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC030a2 [IMAGE]: A flat 2D vector graphic of a VinFast VF9 driving through a digital network grid, scanned by a rotating LiDAR light cone. Dark slate blue background, --ar 16:9
+
+CH07_SC030a2 [VIDEO]: @CH07_SC030a2.png -> steady shot of the VF9, the rotating LiDAR cone sweeping across the road ahead, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC040a1 [IMAGE]: A flat 2D vector graphic of a microphone icon glowing green, with soundwave lines forming the shape of a Vietnam map. Dark slate blue background, --ar 16:9
+
+CH07_SC040a1 [VIDEO]: @CH07_SC040a1.png -> steady shot of the microphone, the soundwave lines propagating outward in a rhythmic pulse, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC040a2 [IMAGE]: A flat 2D vector graphic of a computer screen displaying speech waves and the text "VIETNAMESE 98% ACCURACY". Dark slate blue background, --ar 16:9
+
+CH07_SC040a2 [VIDEO]: @CH07_SC040a2.png -> steady shot, the speech waves moving dynamically across the screen, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC050 [IMAGE]: A flat 2D vector graphic of a VinFast center console screen showing the avatar of virtual assistant ViVi, with a text box displaying "ViGPT". Dark slate blue background, --ar 16:9
+
+CH07_SC050 [VIDEO]: @CH07_SC050.png -> steady shot of the screen as the ViGPT chat box slowly populates with mock English text lines, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC060 [IMAGE]: A flat 2D vector graphic of a VinFast VF9 infotainment display showing the "Jellyview 360" transparent chassis mode, revealing the ground below. Dark slate blue background, --ar 16:9
+
+CH07_SC060 [VIDEO]: @CH07_SC060.png -> steady shot of the display as the ground under the car outline slowly moves backward, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC070 [IMAGE]: A flat 2D vector graphic of an electric car receiving a wireless data stream from a satellite, labeled with the English text "OTA UPDATE". Dark slate blue background, --ar 16:9
+
+CH07_SC070 [VIDEO]: @CH07_SC070.png -> steady shot as the vehicle receives the green energy waves from the satellite, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC080 [IMAGE]: A flat 2D vector graphic of a computer chip labeled "TESLA FSD CHIP" sitting on a pedestal under a golden crown. Dark slate blue background, --ar 16:9
+
+CH07_SC080 [VIDEO]: @CH07_SC080.png -> steady shot, a bright spotlight slowly panning across the Tesla chip on the pedestal, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC090 [IMAGE]: A flat 2D vector graphic of a BYD Seal car with a cargo box labeled "DJI SOFTWARE" in the trunk, next to a foreign semiconductor chip box. Dark slate blue background, --ar 16:9
+
+CH07_SC090 [VIDEO]: @CH07_SC090.png -> slow camera panning right from the DJI box to the semiconductor box, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC100 [IMAGE]: A flat 2D vector graphic of a VinFast EV driving on a path paved with giant logos of Qualcomm, NVIDIA, and Bosch. Dark slate blue background, --ar 16:9
+
+CH07_SC100 [VIDEO]: @CH07_SC100.png -> steady shot of the car moving forward along the path, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC110 [IMAGE]: A flat 2D vector graphic of five semiconductor chips branded with the English text "QUALCOMM", "NVIDIA", "NXP", "BOSCH", and "RENESAS". Dark slate blue background, --ar 16:9
+
+CH07_SC110 [VIDEO]: @CH07_SC110.png -> slow camera panning right across the five branded chips, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC120 [IMAGE]: A flat 2D vector graphic of a hand holding a glowing green music score sheet, next to a group of generic silver musical instruments on a table. Dark slate blue background, --ar 16:9
+
+CH07_SC120 [VIDEO]: @CH07_SC120.png -> steady shot, a warm light illuminating the glowing score sheet while the instruments remain in shadow, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC130a1 [IMAGE]: A flat 2D vector graphic of a puzzle board, with the final piece showing the green VinFast V logo sliding into the center slot. Dark slate blue background, --ar 16:9
+
+CH07_SC130a1 [VIDEO]: @CH07_SC130a1.png -> steady shot as the V logo puzzle piece fits perfectly into the board, glowing green upon locking, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH07_SC130a2 [IMAGE]: A flat 2D vector graphic comparing two columns: one labeled "OWNED" containing software codes, the other "IMPORTED" containing raw chips. Dark slate blue background, --ar 16:9
+
+CH07_SC130a2 [VIDEO]: @CH07_SC130a2.png -> steady shot of the columns, the "OWNED" column lighting up in green, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC010a1 [IMAGE]: A flat 2D vector graphic of a car frame chassis, a battery package, and a software screen glowing green. Dark charcoal grey background, --ar 16:9
+
+CH08_SC010a1 [VIDEO]: @CH08_SC010a1.png -> steady shot as the car frame, battery, and screen slowly align and stack vertically, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC010a2 [IMAGE]: A flat 2D vector graphic of raw lithium ore rocks, a bare copper coil, and a generic chip labeled "IMPORTED". Dark charcoal grey background, --ar 16:9
+
+CH08_SC010a2 [VIDEO]: @CH08_SC010a2.png -> steady shot of the imported minerals and chip, the label "IMPORTED" pulsing with a soft warning red light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC020 [IMAGE]: A flat 2D vector graphic of a BYD Seal car parked next to a high-tech cleanroom facility with the text "TSMC FOUNDRY". Dark charcoal grey background, --ar 16:9
+
+CH08_SC020 [VIDEO]: @CH08_SC020.png -> steady shot of the BYD car, the TSMC facility in the background glowing with soft blue cleanroom lighting, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC030 [IMAGE]: A flat 2D vector graphic of a complex global shipping network map showing cargo ships and planes transporting parts. Dark charcoal grey background, --ar 16:9
+
+CH08_SC030 [VIDEO]: @CH08_SC030.png -> steady shot of the network map, white trace lines slowly moving along the shipping lanes, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC040 [IMAGE]: A flat 2D vector graphic of a small child silhouette standing next to a massive gear wheel, holding a green glowing letter V. Dark charcoal grey background, --ar 16:9
+
+CH08_SC040 [VIDEO]: @CH08_SC040.png -> steady shot of the child, the green V logo casting a bright light onto the surface of the giant gear wheel, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC050 [IMAGE]: A flat 2D vector graphic of a large balance scale, the left side holding the text "HOW MUCH WE MAKE?", the right side holding "WHAT WE CONTROL?". Dark charcoal grey background, --ar 16:9
+
+CH08_SC050 [VIDEO]: @CH08_SC050.png -> steady shot of the balance scale, the right side plate containing "WHAT WE CONTROL" dipping lower and glowing green, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC060 [IMAGE]: A flat 2D vector graphic of a car outline with three highlighted green cores: the chassis, the BMS board, and the screen code. Dark charcoal grey background, --ar 16:9
+
+CH08_SC060 [VIDEO]: @CH08_SC060.png -> steady shot as the three green cores on the car outline pulse in sync, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC070 [IMAGE]: A flat 2D vector graphic of a single semiconductor chip branded with "QUALCOMM" next to a battery pack branded "CATL", under a green spotlight. Dark charcoal grey background, --ar 16:9
+
+CH08_SC070 [VIDEO]: @CH08_SC070.png -> steady shot as the spotlight sweeps across the Qualcomm chip and CATL battery pack, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC080a1 [IMAGE]: A flat 2D vector graphic showing the question text "MADE IN VIETNAM?" written in bold cream font, crossed out with a thin silver line. Dark charcoal grey background, --ar 16:9
+
+CH08_SC080a1 [VIDEO]: @CH08_SC080a1.png -> steady shot of the text, a slow panning light beam revealing the texture of the background screen, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC080a2 [IMAGE]: A flat 2D vector graphic showing the text "WHO CONTROLS THE ENGINE?" written in bold electric green font, under a spotlight. Dark charcoal grey background, --ar 16:9
+
+CH08_SC080a2 [VIDEO]: @CH08_SC080a2.png -> steady shot of the green text, which slowly flashes with a bright electric green glow, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC090 [IMAGE]: A flat 2D vector graphic of a computer screen displaying a large green "SUBSCRIBE" button next to the YouTube icon. Dark charcoal grey background, --ar 16:9
+
+CH08_SC090 [VIDEO]: @CH08_SC090.png -> steady shot of the screen, the green "SUBSCRIBE" button slowly pulses with light, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC100 [IMAGE]: A flat 2D vector graphic of a large question mark silhouette, which slowly dissolves into the green VinFast logo "V". Dark charcoal grey background, --ar 16:9
+
+CH08_SC100 [VIDEO]: @CH08_SC100.png -> steady shot as the question mark fades away and the green V logo brightens, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC110a1 [IMAGE]: A flat 2D vector graphic of a control deck overlooking an automated factory floor with moving conveyors and robot arms. Dark charcoal grey background, --ar 16:9
+
+CH08_SC110a1 [VIDEO]: @CH08_SC110a1.png -> slow camera panning right across the control deck, showing the factory floor active below, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC110a2 [IMAGE]: A flat 2D vector graphic of the green VinFast logo V stamped onto a metal plate, representing a seal of authority. Dark charcoal grey background, --ar 16:9
+
+CH08_SC110a2 [VIDEO]: @CH08_SC110a2.png -> steady shot of the metal plate, the green V logo glowing with a bright light from the edges, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC120a1 [IMAGE]: A flat 2D vector graphic of a generic electric car chassis floating above a network of global suppliers' icons. Dark charcoal grey background, --ar 16:9
+
+CH08_SC120a1 [VIDEO]: @CH08_SC120a1.png -> steady shot of the floating chassis, the supplier network icons below blinking slowly, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH08_SC120a2 [IMAGE]: A flat 2D vector graphic of an electric car silhouette facing a split path, one path labeled "RISK" in red, the other "REWARD" in green. Dark charcoal grey background, --ar 16:9
+
+CH08_SC120a2 [VIDEO]: @CH08_SC120a2.png -> steady shot, a light beam sweeping from the car silhouette towards the split path ahead, preserving the details of the reference image, 8-second continuous documentary video --ar 16:9

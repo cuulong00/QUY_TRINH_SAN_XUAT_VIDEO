@@ -1,0 +1,11 @@
+Trong cơ cấu chi phí của một tấn kết cấu thép thành phẩm, nguyên liệu thép cuộn cán nóng HRC chiếm từ sáu mươi đến bảy mươi phần trăm giá thành sản xuất. Điều này đồng nghĩa với việc biên lợi nhuận của doanh nghiệp cơ khí cực kỳ nhạy cảm trước mọi biến động giá thép trên thị trường quốc tế. Trong các hợp đồng trọn gói dài hạn, chỉ một đợt tăng giá nguyên liệu đột ngột cũng đủ sức xóa sạch toàn bộ lợi nhuận tích lũy của một siêu dự án.
+
+Để tự bảo vệ mình, Đại Dũng đã thiết lập ba lớp phòng thủ kiên cố. Doanh nghiệp chủ động sử dụng các công cụ tài chính phái sinh để phòng vệ giá, kết hợp chèn các điều khoản trượt giá vào hợp đồng quốc tế, và xây dựng liên minh cung ứng chiến lược với các nhà sản xuất thép thượng nguồn trong nước như Hòa Phát.
+
+Thế nhưng, thử thách lớn nhất trong thập kỷ tới không chỉ là giá thép, mà là bức tường thuế carbon. Cơ chế điều chỉnh biên giới carbon CBAM của Liên minh Châu Âu và các sắc thuế xanh của phương Tây đang dựng lên một hàng rào kỹ thuật mới. Những sản phẩm thép có hàm lượng phát thải cao sẽ bị áp thuế phạt nặng nề, làm triệt tiêu hoàn toàn lợi thế cạnh tranh về giá của các quốc gia đang phát triển.
+
+Nhận diện rủi ro từ sớm, Đại Dũng đã biến tiêu chuẩn xanh thành tấm khiên bảo hộ thị trường. Tập đoàn tiên phong phủ kín hệ thống điện mặt trời áp mái tại các phân xưởng, giúp nhà máy An Hạ tự chủ đến sáu mươi lăm phần trăm điện năng tiêu thụ. Đi cùng với đó là việc hoàn thiện quy trình kiểm kê khí nhà kính theo chuẩn ISO và công bố nhãn sinh thái quốc tế EPD để kéo giảm cường độ carbon trên từng sản phẩm xuất khẩu.
+
+Dẫu vậy, cuộc chơi chuyển đổi xanh vẫn còn một điểm nghẽn mang tính cấu trúc. Dù nhà máy có xanh đến đâu, lượng phát thải gián tiếp từ nguồn phôi thép đầu vào vẫn phụ thuộc vào tốc độ khử carbon của các nhà máy luyện kim thượng nguồn. Nếu chuỗi cung ứng trong nước không kịp thời sản xuất thép xanh bằng công nghệ hydro, áp lực thuế carbon quốc tế sẽ vẫn là một bài toán hóc búa.
+
+Chính vì vậy, để tiến lên nấc thang cao nhất của chuỗi giá trị và không bị phụ thuộc vào biến động toàn cầu, bài toán tự chủ công nghiệp phải được giải quyết ở quy mô một liên minh quốc gia. Đại Dũng và các đầu tàu công nghiệp Việt Nam đang chuẩn bị những gì cho các siêu công trình hạ tầng thế kỷ của đất nước?

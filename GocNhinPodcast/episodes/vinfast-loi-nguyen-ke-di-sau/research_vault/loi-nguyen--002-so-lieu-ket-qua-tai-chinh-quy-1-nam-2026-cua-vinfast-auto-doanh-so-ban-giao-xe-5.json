@@ -1,0 +1,102 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-10T08:33:11.798Z",
+  "session_id": "a8014d29",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/1ff29234-3f66-42df-8f55-15d6b2c88321"
+  },
+  "question": "Số liệu kết quả tài chính quý 1 năm 2026 của VinFast Auto: doanh số bàn giao xe (58.577 xe điện), doanh thu, lỗ ròng (1.12 tỷ USD), sự khác biệt giữa lỗ kế toán và cash burn thực tế. Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO KẾT QUẢ TÀI CHÍNH QUÝ 1/2026 CỦA VINFAST AUTO\n1. Căn cứ pháp lý và Nguồn dữ liệu\nVăn bản: Báo cáo tài chính hợp nhất chưa kiểm toán Quý 1 năm 2026 (Báo cáo Mẫu 6-K nộp lên Ủy ban Chứng khoán và Giao dịch Mỹ - SEC)\n1\n,\n2\n.\nNăm ban hành: Tháng 6/2026\n1\n,\n3\n.\nTài liệu tham khảo: Thông cáo báo chí doanh thu toàn cầu Q1/2026 của VinFast Auto Ltd. và các báo cáo tài chính liên quan\n3\n,\n4\n,\n5\n.\n2. Số liệu Kinh doanh và Doanh thu\nDoanh số bàn giao (EV Deliveries): Đạt 58.577 xe ô tô điện trong Q1/2026, ghi nhận mức tăng trưởng mạnh mẽ 61% so với cùng kỳ năm 2025\n6\n,\n3\n. Trong đó, các thị trường quốc tế ngoài Việt Nam đóng góp khoảng 8% tổng lượng giao xe\n6\n.\nTổng doanh thu: Đạt 23.111,1 tỷ VND (tương đương 920,7 triệu USD), tăng 41,7% so với Q1/2025\n7\n,\n8\n. Động lực chính đến từ doanh thu bán xe đạt 21.650,8 tỷ VND (862,5 triệu USD), tăng 42,3% so với cùng kỳ năm trước\n9\n,\n10\n.\n3. Lợi nhuận và Sự khác biệt giữa Lỗ kế toán vs. Cash Burn thực tế\nLỗ ròng (Accounting Loss): Lỗ ròng trên sổ sách kế toán trong Q1/2026 là 28.108,0 tỷ VND (tương đương 1,12 tỷ USD), tăng 58,9% so với Q1/2025\n11\n,\n4\n.\nDòng tiền thực tế (Actual Cash Burn): Mặc dù ghi nhận mức lỗ kế toán lên tới 1,12 tỷ USD, dòng tiền thuần sử dụng trong hoạt động kinh doanh (Operating Cash Flow) thực tế thấp hơn đáng kể, chỉ ở mức âm 13.351,9 tỷ VND (tương đương 531,9 triệu USD)\n12\n.\nPhân tích chênh lệch: Sự khác biệt xấp xỉ 14.756 tỷ VND giữa lỗ ròng kế toán và lượng tiền mặt thực sự bị đốt (cash burn) chủ yếu đến từ việc VinFast hạch toán một lượng lớn các chi phí phi tiền mặt (non-cash items) vào báo cáo kết quả kinh doanh. Các khoản mục lớn nhất bao gồm\n12\n:\nTrích lập dự phòng (8.333,6 tỷ VND): Các khoản dự phòng liên quan đến chi phí bồi thường, bảo hành và dự phòng giảm giá hàng tồn kho.\nKhoản đóng góp từ chủ sở hữu (4.812,6 tỷ VND): Khoản chi phí được coi là sự hỗ trợ từ chủ sở hữu cho khách hàng của VinFast (liên quan đến chương trình miễn phí sạc điện do ông Phạm Nhật Vượng tài trợ trực tiếp cho V-Green, được hạch toán giảm trừ doanh thu nhưng không làm hao hụt tiền mặt của VinFast Auto).\nChi phí khấu hao (2.986,5 tỷ VND): Khấu hao tài sản cố định và phân bổ tài sản vô hình.\nChênh lệch tỷ giá và đánh giá lại công cụ tài chính: Lỗ chưa thực hiện do chênh lệch tỷ giá (965,6 triệu VND) và lỗ do đánh giá lại giá trị hợp lý của công cụ tài chính (335,2 tỷ VND).",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "EX-99.1 2 vfsex99-1.htm EXHIBIT 99.1 Exhibit 99.1 VinFast Reports Unaudited First Quarter 2026 Financial Results Quarterly Revenues reached VND23,111.1 billion (US$920.7 million) Quarterly EV Deliveries were 58,577 units Singapore, June 8, 2026 – VinFast Auto Ltd. (“VinFast” or the “Company”) (Nasdaq: VFS), a pure-play electric vehicle (“EV”) company with the mission of making EVs accessible to everyone, today announced its unaudited financial results for the first quarter ended March 31, 2026. Operating Highlights for the First Quarter of 2026"
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "6 VinFast Auto Ltd. Unaudited Interim Condensed Consolidated Statements of Operations For the three months ended March 31, 2025 2026 2026 VND million VND million USD (Unaudited) (Unaudited) (Unaudited) Revenues Sales of vehicles 15,215,503 21,650,799 862,512,907 Other sales 1,090,873 1,460,253 58,172,775 Revenues 16,306,376 23,111,052 920,685,682 Cost of vehicles sold (21,297,550 ) (39,033,772 ) (1,555,006,454 ) Cost of other sales (745,316 ) (1,082,172 ) (43,110,987 ) Cost of sales (22,042,866 ) (40,115,944 ) (1,598,117,441 ) Gross loss (5,736,490 ) (17,004,892 ) (677,431,758 ) Operating expenses Research and development costs (2,015,586 ) (2,535,422 ) (101,004,780 ) Selling and distribution costs (1,573,154 ) (1,500,529 ) (59,777,269 ) Administrative expenses (2,177,445 ) (1,039,014 ) (41,391,682 ) Net other operating expenses (557,488 ) (781,751 ) (31,142,977 ) Operating loss (12,060,163 ) (22,861,608 ) (910,748,466 ) Finance income 25,577 104,776 4,174,010 Finance costs (5,053,606 ) (5,118,408 ) (203,904,390 ) Net loss on financial instruments at fair value through profit or loss (647,291 ) (335,170 ) (13,352,323 ) Share of gains from equity investees 36,966 69,301 2,760,776 Loss before income tax expense (17,698,517 ) (28,141,109 ) (1,121,070,393 ) Tax expense 4,748 33,127 1,319,696 Net loss for the period (17,693,769 ) (28,107,982 ) (1,119,750,697 ) Net loss attributable to non-controlling interests (21,980 ) (48,022 ) (1,913,075 ) Net loss attributable to controlling interest (17,671,789 ) (28,059,960 ) (1,117,837,623 )"
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "VINFAST'S GLOBAL REVENUE IN Q1 2026 INCREASED 42% YEAR OVER YEAR",
+      "source_text": "Back 06/08/2026 VINFAST'S GLOBAL REVENUE IN Q1 2026 INCREASED 42% YEAR OVER YEAR Copy Link Overview Singapore, June 8, 2026 - VinFast Auto Ltd. announced its unaudited financial results for the first quarter ended March 31, 2026. In the first quarter of 2026, VinFast (“the Company”) delivered 58,577 electric vehicles, representing an increase of 61% from the same period last year. International markets accounted for approximately 8% of total deliveries during the quarter. In Vietnam, VinFast's EV deliveries in the first quarter of 2026 increased by 53% year over year. The Company maintained its position as the number one OEM in the domestic automotive market since September 2024."
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Vietnam's VinFast delivers 58,577 EVs in Q1/2026, net loss widens to $1.12B - TNGlobal",
+      "source_text": "Vietnam's VinFast delivers 58,577 EVs in Q1/2026, net loss widens to $1.12B June 9, 2026 • Electric Vehicles & Mobility , News , Vietnam • By Duc Dao VinFast , the electric vehicle (EV) manufacturer under Vietnam's conglomerate Vingroup delivered 58,577 EVs in the first quarter of 2026 (Q1/2026), a 61 percent jump year-on-year, but its net loss increased to $1.12 billion as costs continued to outpace revenues. In its unaudited financial results released on Monday, VinFast said it also delivered 143,136 electric motorbikes in the period. The figure doubled from Q1/2025 but decreased 17 percent from the previous quarter. In March 2026, VinFast received more than 135,000 e-scooter orders and shipped over 93,000 e-scooters to dealers in Vietnam."
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.",
+      "source_text": "Chỉ số tài chính & Vận hành Kết quả năm tài chính 2025 [5] Kết quả Quý I năm 2026 [8, 13] Tổng doanh thu 90.427,6 tỷ VND (+105% YoY).[5] 920,7 triệu USD (+41,7% YoY).[13] Doanh thu bán xe 84.810 tỷ VND (+111% YoY).[5] 862,5 triệu USD (21.650,8 tỷ VND).[8, 13] Sản lượng bàn giao ô tô điện 196.919 chiếc (+102% YoY).[5] 58.577 chiếc (+61% YoY).[13] Sản lượng bàn giao xe máy điện 406.498 chiếc (+473% YoY).[5] 143,136 chiếc (+219% YoY).[8, 13] Tỷ trọng bàn giao cho bên liên quan (GSM) 27% toàn năm (peaking 33% trong Quý IV/2025).[5] Được tối ưu hóa thông qua mở rộng đội xe liên kết.[5, 14]"
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "1Q2026 4Q2025 1Q2025 EV Deliveries (1) 58,577 86,557 36,330 E-scooter & E-bike Deliveries 143,136 171,962 44,904 ● EV deliveries were 58,577 in the first quarter of 2026, representing a decrease of 32% from the fourth quarter of 2025 and an increase of 61% from the first quarter of 2025. International markets outside of Vietnam accounted for approximately 8% of total deliveries during the quarter. ● E-scooter and e-bike deliveries were 143,136 in the first quarter of 2026, representing a decrease of 17% from the fourth quarter of 2025 and an increase of 219% from the first quarter of 2025. In March alone, VinFast received more than 135,000 e-scooter orders and shipped over 93,000 e-scooters to dealers in Vietnam."
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "● Total revenues were VND23,111.1 billion (US$920.7 million) in the first quarter of 2026, representing an increase of 41.7% from the first quarter of 2025 and a decrease of 41.0% from the fourth quarter of 2025. Total revenues were primarily comprised of revenue from EV sales. Recent Business Updates Established Firm Positions Across Key Markets ● In Vietnam, VinFast's EV deliveries in the first quarter of 2026 increased by 53% year-over-year. The Company maintained its position as the number one OEM since September 2024. In terms of e-scooters, VinFast has emerged as the #2 player in the market as it reached a record 17% market share 3 for total two-wheeler market in March 2026. In late May 2026, VinFast opened pre-orders for the VF 8 new platform and received approximately 12,700 reservations within the first eight days, reflecting strong consumer demand and continued momentum for the VinFast brand in its home market. 4"
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "VINFAST'S GLOBAL REVENUE IN Q1 2026 INCREASED 42% YEAR OVER YEAR",
+      "source_text": "In the first quarter of 2026, VinFast recorded revenues of VND23,11 1. 1 billion (US$920. 7 million), representing an increase of 41. 7% from the same period last year. Revenue growth was driven by strong growth in EV sales volumes in Vietnam, together with contributions from overseas markets such as India, Indonesia and the Philippines. VinFast continued to expand its retail and after-sales network as part of its global expansion strategy. By the end of Q1 2026, customers can purchase VinFast EVs from 447 showrooms globally."
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "● Showrooms: As of March 31, 2026, customers can purchase VinFast EVs from 447 showrooms globally. 2 Key Financial Growth Metrics for the First Quarter of 2026 (See full details of the Financial Results below) (in VND millions, except for percentages) 1Q2026 4Q2025 1Q2025 QoQ YoY Vehicle Sales 21,650,799 37,700,016 15,215,503 (42.6 )% 42.3 % Total Revenues 23,111,052 39,162,725 16,306,376 (41.0 )% 41.7 % ● Vehicle sales were VND21,650.8 billion (US$862.5 million) in the first quarter of 2026, representing an increase of 42.3% from the first quarter of 2025 and a decrease of 42.6% from the fourth quarter of 2025."
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "Revenues ● Total revenues were VND23,111.1 billion (US$920.7 million) in the first quarter of 2026, representing an increase of 41.7% from the first quarter of 2025 and a decrease of 41.0% from the fourth quarter of 2025. Total revenues were primarily comprised of revenue from EV sales. ● Vehicle sales were VND21,650.8 billion (US$862.5 million) in the first quarter of 2026, representing an increase of 42.3% from the first quarter of 2025 and a decrease of 42.6% from the fourth quarter of 2025. Revenue growth from the first quarter of 2025 was driven by an increase in EV sales volumes due to growth in the Vietnam market and contributions from overseas markets such as India, Indonesia and the Philippines. The decrease compared to the fourth quarter of 2025 was attributed to a decrease in EV sales volumes due to seasonality and the Lunar New Year in Vietnam."
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "● Net loss was VND28,108.0 billion (US$1,119.8 million) in the first quarter of 2026, representing an increase of 58.9% from the first quarter of 2025 and a decrease of 25.1% from the fourth quarter of 2025. ● Net loss attributable to controlling interest was VND28,060.0 billion (US$1,117.8 million) in the first quarter of 2026, representing an increase of 58.8% from the first quarter of 2025 and a decrease of 25.1% from the fourth quarter of 2025. ● Basic and diluted net loss per ordinary share were both VND11,994 (US$0.48) in the first quarter of 2026, compared with VND7,556 (US$0.30) in the first quarter of 2025 and VND16,005 (US$0.64) in the fourth quarter of 2025."
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "source_text": "8 VinFast Auto Ltd. Unaudited Interim Condensed Consolidated Statements of Cash Flows For the three month ended March 31, 2025 2026 2026 VND million VND million USD (Unaudited) (Unaudited) (Unaudited) OPERATING ACTIVITIES Net loss for the period (17,693,769 ) (28,107,982 ) (1,119,750,697 ) Adjustments: Depreciation of property, plant and equipment and amortization of intangible assets 2,779,687 2,986,472 118,973,468 Impairment of assets and changes in fair value of held for sale assets 497,710 - - Changes in operating lease right-of-use assets 304,694 173,727 6,920,843 Provision related to compensation expenses, assurance-type warranties, net realizable value of inventories and others 5,175,724 8,333,562 331,987,969 Deferred tax income (4,748 ) (33,127 ) (1,319,696 ) Unrealized foreign exchange losses 70,098 965,633 38,468,369 Net losses on financial instruments at fair value through profit or loss 647,291 335,170 13,352,323 Change in amortized costs of financial instruments measured at amortized cost other than nominal interest 727,566 1,130,718 45,044,937 Losses on disposal and write-off of fixed assets 281,685 131,236 5,228,109 Deemed contribution from owners to VinFast's customers - 4,812,641 191,723,408 Share of profits from equity investees (36,966 ) (69,301 ) (2,760,776 ) Cash received as profit shared from investment cooperation and business opportunity exploration agreement - 923,533 36,791,212 Others (13,602 ) 8,628 343,718 Change in working capital: Trade receivables and advance to suppliers, net investment in sales-type lease 2,518,416 3,279,408 130,643,295 Inventories (8,006,449 ) (7,625,221 ) (303,769,461 ) Trade payables, deferred revenue and other payables (1,259,997 ) 1,382,249 55,065,294 Operating lease liabilities (347,997 ) (245,484 ) (9,779,460 ) Prepayments, other receivables and other assets (724,879 ) (1,733,752 ) (69,068,281 ) Net cash flows used in operating activities (15,085,536 ) (13,351,890 ) (531,905,426 )"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 12,
+    "source_names": [
+      "VinFast Reports Unaudited First Quarter 2026 Financial Results - SEC.gov",
+      "VINFAST'S GLOBAL REVENUE IN Q1 2026 INCREASED 42% YEAR OVER YEAR",
+      "Vietnam's VinFast delivers 58,577 EVs in Q1/2026, net loss widens to $1.12B - TNGlobal",
+      "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd."
+    ]
+  }
+}

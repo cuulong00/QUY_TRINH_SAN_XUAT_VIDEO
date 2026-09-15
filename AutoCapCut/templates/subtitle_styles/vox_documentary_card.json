@@ -1,0 +1,41 @@
+{
+  "id": "vox_documentary_card",
+  "name": "Vox / Bloomberg Documentary Card",
+  "category": "documentary_video_essay",
+  "description": "Hộp thẻ mờ bán trong suốt bo góc tròn, chữ trắng thanh lịch 11pt, chống chìm màu 100% trên mọi cảnh quay phức tạp.",
+  "source_reference": "cutcli-cookbook/20-knowledge-science-card",
+  "pacing": {
+    "max_words_per_cue": 5,
+    "max_chars_per_cue": 24,
+    "min_duration_s": 0.8,
+    "max_duration_s": 2.0,
+    "ideal_duration_s": 1.4
+  },
+  "typography": {
+    "font_size": 7.0,
+    "color": "#FFFFFF",
+    "bold": true,
+    "alignment": 1,
+    "x": 0.0,
+    "y": -0.68,
+    "animation": "typewriter"
+  },
+  "styling": {
+    "has_border": true,
+    "border_width": 0.04,
+    "border_color": "#000000",
+    "border_alpha": 0.8,
+    "has_shadow": true,
+    "shadow_alpha": 0.5,
+    "shadow_angle": -45.0,
+    "shadow_distance": 4.0,
+    "shadow_color": "#000000",
+    "has_background": true,
+    "bg_color": "#000000",
+    "bg_alpha": 0.65,
+    "bg_style": 1,
+    "bg_round_radius": 0.25,
+    "bg_width": 0.16,
+    "bg_height": 0.14
+  }
+}

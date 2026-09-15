@@ -1,0 +1,2250 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chắc nhiều bạn đang thắc mắc: vì sao VinFast báo lỗ gần 4 tỷ đô trong năm qua, công ty kiểm toán cảnh báo rằng công ty này có thể không tồn tại được lâu, nhưng họ vẫn tiếp tục đổ tiền để mở rộng ra Indonesia, Ấn Độ, Philippines, thậm chí Mỹ.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Lỗ nặng như vậy mà vẫn bành trướng, logic ở đâu?",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast đã chiếm 36% thị phần ô tô tại Việt Nam.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nghe thì vẫn còn dư địa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng có một quy luật trong ngành ô tô: khi một hãng chạm ngưỡng 35 đến 40% thị phần tại một thị trường đang phát triển, chi phí để chiếm thêm mỗi 1% tiếp theo sẽ tăng theo cấp số nhân.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vì thị trường bão hòa, vì các đối thủ sừng sỏ như Toyota hay Hyundai chắc chắn sẽ phản ứng gắt gao, và vì khách hàng còn lại là những người khó thuyết phục nhất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tổng dung lượng thị trường ô tô Việt Nam chỉ khoảng 604,000 xe mỗi năm.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Kể cả đẩy thị phần lên 50%, VinFast dự kiến cũng chỉ bán được khoảng 300,000 xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là một ngưỡng cản rất khó phá vỡ trong ngắn hạn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast đã đi rất gần đến ngưỡng cản đó tại thị trường Việt Nam.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng để bộ máy này tồn tại, với chi phí nghiên cứu 394 triệu đô mỗi năm, với việc mỗi chiếc xe bán ra vẫn lỗ, VinFast cần bán ít nhất 400,000 đến 500,000 xe mỗi năm để hòa vốn.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng sức mua kịch trần tại Việt Nam cũng chỉ hấp thụ được khoảng 300,000 xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khoảng cách 200,000 xe đó không thể lấp bằng thị trường Việt Nam.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nó bắt buộc phải đến từ quốc tế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Giống như một con cá mập đã lớn quá nhanh, cái ao Việt Nam không còn đủ oxy để nuôi sống bộ máy này.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và nếu không ra biển lớn, nó sẽ chết ngạt ngay trong ao nhà.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast không chọn mở rộng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cấu trúc chi phí ép họ phải mở rộng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng mở rộng trong khi đang cạn oxy thì bao lâu nữa hết sức?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tiền ở đâu ra?",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Ai đã từng đi qua con đường này trước họ, ai sống, ai chết?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đây là Dòng Chảy.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Video này sẽ đi vào những góc khuất mà dòng tít không bao giờ nói tới: cấu trúc chi phí thực sự, ma trận thị trường quốc tế, và lịch sử ngành xe hơi nói gì về cơ hội sống sót của VinFast.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu bạn muốn hiểu rõ bài toán tỷ đô này thay vì chỉ đọc tiêu đề báo, hãy nhấn đăng ký kênh để không bỏ lỡ những phân tích tiếp theo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC025",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Trước khi đi vào cơ chế, cần hiểu một điều: bộ máy mà VinFast đã xây không phải bộ máy nhỏ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "400,000 chiếc xe VinFast đang chạy trên đường phố Việt Nam.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Mỗi chiếc gắn với một cam kết bảo hành, một mạng lưới trạm sạc, và một hệ thống cập nhật phần mềm OTA phụ thuộc vào máy chủ của hãng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Xe điện khác xe xăng ở một điểm quan trọng: giá trị bán lại không chỉ phụ thuộc vào tuổi xe và tình trạng máy.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC029",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Nó phụ thuộc vào việc hãng sản xuất có còn tồn tại để hỗ trợ phần mềm, cập nhật OTA, pin, và linh kiện hay không.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC030",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Một chiếc VF 8 đời 2023 hiện đang được rao khoảng 531 triệu đồng trên thị trường xe cũ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC031",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mất khoảng 40 đến 50% giá trị sau 2 đến 3 năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Nếu niềm tin vào sự tồn tại của hãng mẹ sụt giảm, chiếc xe có nguy cơ biến thành một khối tài sản rớt giá không phanh.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Phía bên kia, hơn 18,000 công nhân đang làm việc tại nhà máy Hải Phòng.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Hơn 5,000 người nữa tại nhà máy Hà Tĩnh, khánh thành giữa năm 2025.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Riêng Hải Phòng vận hành 3 ca, với hơn 1,200 robot ABB trong dây chuyền hàn thân xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Tổng cộng hơn 23,000 việc làm trực tiếp tại Việt Nam phụ thuộc vào VinFast.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Chưa kể chuỗi cung ứng nội địa: các nhà sản xuất linh kiện, hệ thống đại lý, mạng lưới trạm sạc V-Green, và đội ngũ vận hành Xanh SM.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "VinFast là công ty ô tô duy nhất của Việt Nam niêm yết trên sàn quốc tế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu nó sụp, tổn thương không chỉ dừng ở một doanh nghiệp.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 11,
+    "visual_summary": "Đó là tổn thương niềm tin vào năng lực công nghiệp của cả một quốc gia đang cố gắng chứng minh mình có thể sản xuất xe hơi chứ không chỉ lắp ráp.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast cần bán bao nhiêu xe mỗi năm để nuôi bộ máy này?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và thị trường Việt Nam thực sự cho phép họ bán được bao nhiêu?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC043",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Hai dòng xe quốc dân VF 3 và VF 5 chiếm tới 51% tổng doanh số nội địa của VinFast.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC044",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Xe rẻ, dễ mua, phù hợp đô thị.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC045",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Đó là lý do VinFast tăng từ 22% lên 36% thị phần chỉ trong một năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC046",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng câu hỏi: liệu VinFast có thể đẩy từ 36% lên 50%, lên 60%?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC047",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Về lý thuyết thì có.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC048",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng thực tế thì gần như không.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC049",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Trong ngành ô tô, khi một hãng chiếm hơn 35% thị phần tại một thị trường đang phát triển, việc chiếm thêm mỗi 1% tiếp theo sẽ tốn kém hơn rất nhiều.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC050",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vì thị trường bão hòa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC051",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Toyota, Hyundai, Kia không đứng nhìn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC052",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và tệp khách hàng còn lại là những người khó thuyết phục nhất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC053",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Mỗi phần trăm từ đây trở đi sẽ đắt gấp bội so với 36% đã chiếm được.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC054",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Ngay cả trong kịch bản lạc quan nhất là vươn tới 50% thị phần, doanh số nội địa cũng khó vượt qua mốc 300,000 xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC055",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng để bộ máy này chạy, VinFast cần bán nhiều hơn thế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC056",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Nhà máy Hải Phòng có công suất 500,000 xe mỗi năm, nhưng doanh số thực tế hiện tại mới chỉ lấp được chưa tới một nửa.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC057",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chi phí nghiên cứu và phát triển: 394 triệu đô mỗi năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC058",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và mỗi chiếc xe bán ra, VinFast vẫn lỗ gần 40%.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC059",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tình hình đang cải thiện.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC060",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Quý 4 năm 2024, mỗi chiếc xe bán ra lỗ 79%.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC061",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Quý 3 năm 2025 xuống còn lỗ 56%.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC062",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Quý 4 năm 2025 xuống còn lỗ 39,9%.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC063",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Hướng đúng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC064",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng vẫn LỖ.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC065",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mỗi xe ra khỏi nhà máy vẫn mang theo lỗ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC066",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Để xe bán ra có lãi thay vì lỗ, VinFast đang đặt cược vào thế hệ xe mới.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC067",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Platform 2.0, với cấu trúc điện tử đơn giản hơn, ít linh kiện hơn, dự kiến giảm 30% chi phí nguyên vật liệu.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC068",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Thế hệ VF 6 và VF 7 mới sẽ bắt đầu sản xuất vào nửa cuối năm 2026.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC069",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chu kỳ phát triển xe cũng rút từ 36 tháng xuống 24 tháng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC070",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Nếu Platform 2.0 thành công, chi phí sản xuất mỗi chiếc VF 6 thế hệ tiếp theo có thể giảm 20 đến 30%.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC071",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Điều đó không chỉ cải thiện biên lợi nhuận.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC072",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Nó cho phép VinFast định giá cạnh tranh hơn tại ASEAN và Ấn Độ, nơi cuộc chiến giá với BYD đang diễn ra từng ngày.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC073",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng để Platform 2.0 có lãi, VinFast cần quy mô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC074",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cần ít nhất 400,000 đến 500,000 xe mỗi năm.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC075",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sức mua tại Việt Nam chỉ đáp ứng được phần nửa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC076",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khoảng trống 200,000 xe đó buộc phải tìm kiếm ở nước ngoài.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC077",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "VinFast đang đánh chiếm 3 mặt trận cùng lúc: Đông Nam Á, Ấn Độ, và Bắc Mỹ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC078",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mỗi mặt trận, một chiến thuật khác nhau.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC079",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đông Nam Á là sân nhà mở rộng.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC080",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Tại Indonesia, VinFast vươn lên vị trí thứ 3 trong phân khúc xe điện chạy pin, chỉ sau chưa đầy một năm gia nhập.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC081",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Nhà máy tại Subang, công suất 50,000 xe mỗi năm, đang chạy để hưởng ưu đãi thuế nội địa hóa của chính phủ Indonesia.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC082",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Tại Philippines, VinFast đang mở rộng nhanh với mục tiêu dẫn đầu phân khúc xe điện vào cuối năm 2026.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC083",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Chiến lược tại đây tập trung mạnh vào xe máy điện, với 14 đại lý đã ký kết tính đến tháng 4 năm 2026.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC084",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng chiến lược ở ASEAN không chỉ là bán xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC085",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là đánh theo hệ sinh thái.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC086",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Xanh SM, công ty taxi của Vingroup, đang đổ xe VinFast vào Jakarta và Manila.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC087",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mỗi chiếc taxi chạy trên đường phố làm ba nhiệm vụ cùng lúc.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC088",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhiệm vụ đầu tiên: biển quảng cáo di động.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC089",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Nó giải quyết bài toán lớn nhất của bất kỳ hãng xe mới nào tại thị trường lạ: niềm tin thương hiệu.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC090",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Khi bạn thấy hàng nghìn chiếc VinFast chạy taxi mỗi ngày, bạn bắt đầu tin rằng xe này chạy được thật.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC091",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhiệm vụ thứ hai: mở đường hạ tầng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC092",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mỗi chiếc taxi Xanh SM buộc V-Green phải triển khai trạm sạc tại đó.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC093",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Khi trạm sạc đã có sẵn, người mua xe cá nhân sẽ ít do dự hơn.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC094",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Đó là chiến thuật \"ngựa gỗ Thành Troy\": dùng taxi để chiếm lĩnh hạ tầng trước, rồi mới bán xe cá nhân sau.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC095",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Và nhiệm vụ thứ ba, ít người thấy nhất: cỗ máy thu thập dữ liệu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC096",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Hàng nghìn chiếc taxi chạy liên tục giúp VinFast thu về hàng tỷ kilomet dữ liệu vận hành thực tế trong điều kiện giao thông khắc nghiệt của Đông Nam Á.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC097",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Khối lượng dữ liệu này cho phép họ tìm lỗi và nâng cấp phần mềm qua OTA nhanh hơn bất kỳ quy trình chạy thử truyền thống nào.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC098",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tại Việt Nam, V-Green đã triển khai khoảng 150,000 cổng sạc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC099",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Tại Ấn Độ, họ hợp tác với HPCL, chuỗi xăng dầu có hơn 24,400 cây xăng trên toàn quốc, để đặt trạm sạc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC100",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Tại cả Ấn Độ, Indonesia và Philippines, VinFast đang cho sạc miễn phí đến hết tháng 3 năm 2029.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC101",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đây là hào phòng thủ mạnh nhất của VinFast tại Đông Nam Á.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC102",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Tại những thị trường mà chính phủ chưa kịp hoàn thiện hạ tầng sạc công cộng, hãng nào tự xây trạm sạc, hãng đó kiểm soát trải nghiệm khách hàng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC103",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "BYD không có hệ sinh thái sạc riêng tại khu vực này.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC104",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tesla Supercharger chưa phủ Đông Nam Á.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC105",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Ấn Độ là câu chuyện ngoạn mục nhất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC106",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tháng 10 năm 2025, VinFast xếp thứ 8 trong phân khúc xe điện.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC107",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tháng 12, nhảy lên thứ 4.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC108",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Tháng 1 năm 2026, bán 435 chiếc VF 6 và VF 7, chính thức vượt cả Hyundai lẫn Kia.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC109",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Ấn Độ là thị trường cực kỳ nhạy cảm về giá, và ưu tiên thương hiệu nội địa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC110",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tata Motors đang nắm 43% thị phần xe điện.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC111",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Việc VinFast chen vào top 4 cho thấy họ đang đánh trúng \"tử huyệt\" của thị trường này: phân khúc xe đô thị giá phải chăng mà Tata chưa phủ hết.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC112",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bắc Mỹ thì khác.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC113",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhà máy tại North Carolina ban đầu dự kiến tuyển 7,500 người.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC114",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cập nhật tháng 3 năm 2026: giảm xuống còn 1,400 người.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC115",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Thời điểm vận hành lùi từ 2024 sang 2028.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC116",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Việc thu hẹp quy mô có thể khiến VinFast mất một phần trong gói ưu đãi 315 triệu đô từ chính quyền bang.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC117",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhiều người đọc tin này và kết luận: VinFast thất bại ở Mỹ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC118",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng nhìn kỹ hơn, đây có thể là một quyết định có kỷ luật.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC119",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Doanh số xe điện tại Bắc Mỹ được dự báo giảm 16% trong năm 2026 do chính sách thuế thay đổi.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC120",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Đổ hàng tỷ đô vào một nhà máy khổng lồ ngay lúc thị trường đang co lại có thể khiến VinFast hết tiền mặt trước khi nhà máy kịp vận hành.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC121",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 11,
+    "visual_summary": "VinFast chọn cách tối ưu nhà máy tại Việt Nam để xuất khẩu, tận dụng chi phí sản xuất thấp, thay vì gánh chi phí vận hành cố định khổng lồ tại Mỹ.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC122",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bạn nghĩ sao về quyết định lùi tiến độ nhà máy ở Mỹ?",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC123",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Đó là một bước lùi chiến thuật thông minh, hay là dấu hiệu của sự đuối sức?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC124",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Hãy để lại góc nhìn của bạn dưới phần bình luận, Dòng Chảy rất muốn nghe ý kiến từ các bạn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC125",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast đang bành trướng nhanh.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC126",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng tiền ở đâu ra?",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC127",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Và con số lỗ trên tít báo có thực sự phản ánh đúng tốc độ đốt tiền?",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC128",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Con số trên tít báo: lỗ gần 4 tỷ đô trong năm 2025.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC129",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Con số thật: 1,77 tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC130",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chênh lệch hơn 2 tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC131",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vậy nó đi đâu?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC132",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Lỗ ròng kế toán bao gồm nhiều khoản không phải tiền thật: khấu hao nhà máy, giảm giá trị tài sản, và các chi phí trên sổ sách.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC133",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Tiền mặt thực sự rời khỏi công ty trong năm 2025 là khoảng 1,77 tỷ đô, theo báo cáo tài chính gửi lên sàn chứng khoán Mỹ.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC134",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Điều này không có nghĩa VinFast đang khỏe.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC135",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Nhưng nó có nghĩa bức tranh tài chính phức tạp hơn dòng tít trên báo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC136",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vậy VinFast có bao nhiêu \"đạn dược\"?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC137",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Chủ tịch Phạm Nhật Vượng đã cam kết tài trợ thêm khoảng 50,000 tỷ đồng, tương đương 2 tỷ đô, cho đến hết năm 2026.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC138",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vingroup, công ty mẹ, cho vay thêm 1,4 tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC139",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bán tài sản Novatech thu về 1,6 tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC140",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tổng cộng, \"đạn dược\" tiền tươi cam kết khoảng 3,4 tỷ đô.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC141",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tiền mặt chính là oxy.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC142",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Với tốc độ đốt 1,77 tỷ đô mỗi năm, nếu không có gì thay đổi, \"bình oxy\" của VinFast còn đủ dùng trong khoảng 23 tháng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC143",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng 23 tháng là con số tĩnh.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC144",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Có 3 biến số có thể kéo dài hoặc rút ngắn thời gian này.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC145",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Biến số thứ nhất: bình oxy phụ từ xe máy điện.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC146",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "VinFast đặt mục tiêu bán 1 triệu xe máy điện trong năm 2026, gấp 2,5 lần năm 2025.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC147",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mảng xe máy bán có lãi sớm hơn ô tô.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC148",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Nó lấy tiền lẻ nuôi tiền chẵn, trở thành nguồn bơm máu tạm thời cho dòng tiền.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC149",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Biến số thứ hai: gán nợ.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC150",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Thay vì phải trả 3,3 tỷ đô bằng tiền mặt, VinFast cắt cổ phần công ty gán nợ cho chủ nợ.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC151",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Không có thêm tiền mới rơi vào túi, nhưng chủ nợ tạm tha, công ty không bị nghẹt thở ngắn hạn.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC152",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Biến số thứ ba: cửa ải năm 2026.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC153",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khoảng 1,38 tỷ đô tiền nợ đến hạn.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC154",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Phải trả bằng tiền thật.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC155",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Nếu VinFast không vay được chỗ khác để đắp vào, họ sẽ khuyết 1 đến 2 tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC156",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Tỷ phú Phạm Nhật Vượng có tài sản 35 tỷ đô, nhưng phần lớn nằm trong cổ phiếu Vingroup.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC157",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Đó là tài sản trên giấy, bán ra lấy tiền mặt ngay không hề dễ.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC158",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 12,
+    "visual_summary": "Mọi thứ liên quan đến VinFast, từ mạng lưới sạc, chính sách bảo hành, đến khả năng cạnh tranh tại ASEAN và Ấn Độ, đều phụ thuộc vào những gì xảy ra trong 23 tháng tới.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC159",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Đó là thời gian VinFast có để chứng minh cỗ máy này không cần bơm thêm oxy từ bên ngoài nữa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC160",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng liệu 23 tháng có đủ?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC161",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Lịch sử ngành xe hơi có câu trả lời.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC162",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Ba công ty đã đi trước VinFast trên con đường này.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC163",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Một đã thắng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC164",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Một vừa có lãi.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC165",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và một đã chết.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC166",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tesla thành lập năm 2003.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC167",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Lỗ liên tục 10 năm.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC168",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Đêm 24 tháng 12 năm 2008, Elon Musk đóng vòng gọi vốn 40 triệu đô lúc 6 giờ chiều.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC169",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Giờ cuối cùng của ngày cuối cùng có thể.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC170",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Musk lúc đó khánh kiệt cá nhân, phải vay bạn trả tiền thuê nhà.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC171",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Nếu vòng gọi vốn đó thất bại, Tesla sẽ phá sản đúng đêm Giáng Sinh.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC172",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "5 tháng sau, Daimler đầu tư 50 triệu đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC173",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Tháng 6 năm 2009, chính phủ Mỹ cho vay 465 triệu đô thông qua Bộ Năng lượng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC174",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tesla sống sót.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC175",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và lần đầu tiên có lãi ròng vào quý 1 năm 2013.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC176",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sau 10 năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC177",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast thành lập năm 2017.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC178",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Năm nay là năm thứ 9.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC179",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đúng ngưỡng mà Tesla từng vượt qua.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC180",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Điểm giống: cả hai đều có nhà sáng lập sẵn sàng đặt cược tài sản cá nhân.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC181",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Elon Musk bỏ hết tiền vào Tesla.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC182",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Phạm Nhật Vượng cam kết 2 tỷ đô.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC183",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Điểm khác, và đây là điểm quan trọng nhất: Tesla có thị trường Mỹ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC184",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "18 triệu xe bán mỗi năm.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC185",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Một sân nhà khổng lồ.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC186",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast có thị trường Việt Nam: 604,000 xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC187",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tức là chỉ bằng một phần ba mươi so với Tesla.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC188",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tesla chỉ cần chinh phục một thị trường.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC189",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast phải chinh phục 4 đến 5 thị trường cùng lúc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC190",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Rủi ro cao hơn nhiều.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC191",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và Tesla có thứ mà VinFast chưa có: sự cứu trợ từ bên ngoài.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC192",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chính phủ Mỹ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC193",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Những đối tác đủ lớn để kéo công ty qua khúc hẹp nhất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC194",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast hiện tại chỉ có Vingroup.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC195",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Ngược lại hoàn toàn là Fisker.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC196",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Henrik Fisker thành lập công ty lần 2 vào năm 2016.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC197",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sản xuất 10,000 chiếc Ocean.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC198",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Lỗ 762 triệu đô.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC199",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Tháng 2 năm 2024: kiểm toán đưa ra cảnh báo \"nghi ngờ đáng kể về khả năng hoạt động liên tục\".",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC200",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Giống y hệt cảnh báo mà VinFast đang nhận.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC201",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tháng 3: dừng sản xuất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC202",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tháng 6: phá sản.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC203",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tại sao Fisker chết mà VinFast vẫn còn thở?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC204",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bởi vì Fisker đi chân trần.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC205",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Còn VinFast cầm theo 4 tấm khiên sinh tồn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC206",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tấm khiên thứ nhất: nhà máy tự xây, không đi thuê.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC207",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tấm khiên thứ hai: hãng taxi nhà tự tiêu thụ xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC208",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tấm khiên thứ ba: thị trường nội địa chống lưng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC209",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Và tấm khiên thứ tư: một tỷ phú sẵn sàng móc hầu bao cá nhân.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC210",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Fisker không có một tấm khiên nào trong số này.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC211",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là lý do VinFast chưa gục ngã như Fisker.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC212",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Nhưng họ vẫn thiếu mảnh ghép cuối cùng của Tesla: một chiếc \"phao cứu sinh ngoại\".",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC213",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Một đại gia bên ngoài hệ sinh thái Vingroup sẵn sàng ném tiền vào cứu vớt lúc ngặt nghèo nhất.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC214",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "NIO, hãng xe điện Trung Quốc, cho thêm một điểm tham chiếu.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC215",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Lỗ 11 năm liên tiếp.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC216",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Quý 4 năm 2025 mới có lãi hoạt động lần đầu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC217",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Hyundai là bài học dài hơn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC218",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Xuất khẩu chiếc Excel sang Mỹ năm 1986.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC219",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bán rẻ, bán nhiều.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC220",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng chất lượng tệ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC221",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Consumer Reports xếp hạng thấp nhất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC222",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Suốt 20 năm, Hyundai là \"xe rẻ bị khinh\".",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC223",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Phải đến năm 1999, khi họ ra chương trình bảo hành 10 năm, 100,000 dặm, chưa từng có trong ngành, thì niềm tin mới bắt đầu xoay chiều.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC224",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Thêm 20 năm nữa để vào top 3 thế giới.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC225",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast đang ở đâu trên bản đồ này?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC226",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Gần Tesla 2008 hơn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC227",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Gần NIO 2024 hơn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC228",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Hay gần Fisker 2024 hơn?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC229",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Dữ liệu nói: VinFast có hệ sinh thái mà Fisker không có.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC230",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng VinFast chưa có đối tác cứu trợ mà Tesla từng có.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC231",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Câu trả lời phụ thuộc vào 23 tháng tới.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC232",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Có 3 cửa ra cho VinFast từ đây.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC233",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cửa thứ nhất: Cất cánh.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC234",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Platform 2.0 thành công.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC235",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Doanh số đạt 300,000 xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC236",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Ấn Độ và Indonesia liên tục tăng tốc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC237",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast bán xe bắt đầu có lãi thay vì lỗ dưới giá vốn.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC238",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cỗ máy tự nuôi được mình vào năm 2028.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC239",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng không phải không thể.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC240",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cửa thứ hai: Trầy trật.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC241",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Doanh số lẹt đẹt ở mức 200,000 xe.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC242",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bán xe vẫn mang theo lỗ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC243",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast phải đi vay giật gấu vá vai để đắp vào dòng tiền.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC244",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Công ty không chết, nhưng thở thóp ngáp.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC245",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cuộc đua kéo dài thêm 2 đến 3 năm trong sự mệt mỏi.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC246",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cửa thứ ba: Hết oxy.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC247",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Doanh số sụt giảm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC248",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Không khất được khoản nợ tỷ đô.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC249",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vingroup hết khả năng bơm tiền.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC250",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast đi theo con đường Fisker.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC251",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cả 3 cửa đều có xác suất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC252",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Không ai có quả cầu pha lê để nhìn trước tương lai.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC253",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Nhưng có 3 tín hiệu dân dã nhất mà bất cứ ai cũng có thể theo dõi để tự đánh giá.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC254",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tín hiệu 1: Nhìn trạm sạc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC255",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Nếu V-Green tiếp tục cắm thêm trạm sạc ở Việt Nam và Đông Nam Á, bộ máy vẫn đang chạy tốt.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC256",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu thấy trạm sạc ngừng mọc lên, đó là lúc \"bình oxy\" đang cạn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC257",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tín hiệu 2: Nhìn tuyên bố bán hàng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC258",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Khi nào VinFast dõng dạc tuyên bố: \"Chúng tôi không còn phải bán lỗ mỗi chiếc xe nữa\".",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC259",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là lúc Platform 2.0 thực sự phát huy tác dụng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC260",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Nếu sau 2 quý nữa họ vẫn im lặng về việc này, bài toán sẽ khó hơn rất nhiều.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC261",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tín hiệu 3: Nhìn đối tác ngoại.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC262",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 13,
+    "visual_summary": "Nếu một ngày bạn đọc báo thấy một đại gia nước ngoài đổ tiền vào mua cổ phần VinFast, giống như Daimler cứu Tesla năm 2009, đó sẽ là cú lật ngược thế cờ thay đổi toàn bộ câu chuyện.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC263",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "VinFast đang ở năm thứ 9 trên một con đường mà Tesla mất 10 năm, Hyundai mất 20 năm, và Fisker thì bỏ mạng giữa đường.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC264",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Câu hỏi không phải VinFast có muốn đi tiếp hay không.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC265",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Họ không có lựa chọn nào khác.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC266",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Câu hỏi là: 23 tháng dưỡng khí còn lại có đủ để tới đích?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC267",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Quay trở lại câu hỏi đầu tiên của video: Tại sao lỗ nặng nề mà vẫn phải điên cuồng mở rộng sang Indonesia, Philippines, Ấn Độ và Mỹ?",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC268",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Câu trả lời không chỉ nằm ở tham vọng, mà cốt lõi nằm ở cấu trúc chi phí.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC269",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "VinFast đang vận hành một bộ máy sản xuất khổng lồ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC270",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Cái ao Việt Nam dù chiếm đến 36% thị phần cũng không đủ sức mua để lấp đầy công suất đó.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC271",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Ở lại sân nhà, họ sẽ chết mòn vì cạn dưỡng khí.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC272",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 10,
+    "visual_summary": "Bành trướng ra biển lớn, rủi ro vỡ trận cao hơn gấp bội, nhưng đó là con đường duy nhất để tìm đủ lượng khách hàng nuôi sống bộ máy.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC273",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Trạng thái tài chính hiện tại ép họ phải tiến lên phía trước.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC274",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Hoặc trở thành một thế lực toàn cầu đủ lớn để tồn tại, hoặc chấp nhận trò chơi kết thúc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC275",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Dữ liệu hiện tại chưa cho câu trả lời cuối cùng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC276",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng nó cho bạn đủ khung tư duy để tự tìm ra đáp án.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC277",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Theo bạn, với 23 tháng dưỡng khí còn lại, VinFast sẽ bước qua cánh cửa nào?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC278",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cất cánh, trầy trật, hay hết oxy?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC279",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Hãy để lại góc nhìn và dự đoán của bạn dưới phần bình luận để chúng ta cùng thảo luận.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC280",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Nếu bạn muốn theo dõi các phân tích tiếp theo về VinFast, Vingroup, và ngành công nghiệp ô tô Việt Nam, hãy nhấn đăng ký kênh Dòng Chảy.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC281",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Và nếu video này giúp bạn hiểu rõ hơn bài toán tỷ đô này, hãy chia sẻ cho những người cũng đang đặt câu hỏi giống bạn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  }
+]

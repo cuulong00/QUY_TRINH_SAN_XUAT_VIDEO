@@ -1,0 +1,14 @@
+{
+  "name": "gemini-gems-mcp",
+  "version": "1.0.0",
+  "description": "MCP server to run deep research via Gemini Gems using Playwright/Patchright",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "patchright": "file:../notebooklm-mcp/node_modules/patchright"
+  }
+}

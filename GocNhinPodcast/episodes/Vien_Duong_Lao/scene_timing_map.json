@@ -1,0 +1,506 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 27.82,
+    "text_overlay": "",
+    "visual_summary": "Những điều mà Tổng Bí thư vừa nhắc đến, thực chất không phải là một câu chuyện xa xôi. Nó chính là bức chân dung hiện tại về đấng sinh thành của những khán giả đang theo dõi chương trình này. Không dừng lại ở đó, nó còn là hình ảnh phản chiếu tương lai của chính chúng ta trong vòng 15 đến 20 năm nữa. Và xa hơn, đó sẽ là thách thức sống còn của toàn xã hội vào năm 2050, khi Việt Nam chính thức bước sang giai đoạn dân số siêu già, với khoảng 20% dân số từ 60 tuổi trở lên.",
+    "sentences": [
+      "Những điều mà Tổng Bí thư vừa nhắc đến, thực chất không phải là một câu chuyện xa xôi. Nó chính là bức chân dung hiện tại về đấng sinh thành của những khán giả đang theo dõi chương trình này. Không dừng lại ở đó, nó còn là hình ảnh phản chiếu tương lai của chính chúng ta trong vòng 15 đến 20 năm nữa. Và xa hơn, đó sẽ là thách thức sống còn của toàn xã hội vào năm 2050, khi Việt Nam chính thức bước sang giai đoạn dân số siêu già, với khoảng 20% dân số từ 60 tuổi trở lên."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 11.81,
+    "text_overlay": "",
+    "visual_summary": "Giữa bài toán nhân khẩu học ấy, phần lớn chúng ta chính là Thế hệ kẹp kem. Những người trưởng thành đang mang trên vai gánh nặng mưu sinh nhân đôi: vừa phụng dưỡng cha mẹ già, vừa gồng gánh tương lai cho con trẻ.",
+    "sentences": [
+      "Giữa bài toán nhân khẩu học ấy, phần lớn chúng ta chính là Thế hệ kẹp kem. Những người trưởng thành đang mang trên vai gánh nặng mưu sinh nhân đôi: vừa phụng dưỡng cha mẹ già, vừa gồng gánh tương lai cho con trẻ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 30.71,
+    "text_overlay": "",
+    "visual_summary": "Người Việt từ ngàn xưa luôn lấy đạo Hiếu làm thước đo nhân cách, với quan niệm dân gian hằn sâu trong tâm thức: \"Trẻ cậy cha, già cậy con\". Khác với phương Tây, nơi tuổi già thường gắn liền với chủ nghĩa cá nhân và sự độc lập tài chính. Sự độc lập của người già ở Việt Nam lại bám rễ vào một khế ước xã hội. Đó là mạng lưới hỗ trợ nội bộ gia đình mang tên \"tứ đại đồng đường\". Ở đó, người già không bao giờ bị xem là gánh nặng. Họ là rường cột tinh thần, là kho tàng lưu giữ kinh nghiệm và trao truyền nếp nhà gia giáo.",
+    "sentences": [
+      "Người Việt từ ngàn xưa luôn lấy đạo Hiếu làm thước đo nhân cách, với quan niệm dân gian hằn sâu trong tâm thức: \"Trẻ cậy cha, già cậy con\". Khác với phương Tây, nơi tuổi già thường gắn liền với chủ nghĩa cá nhân và sự độc lập tài chính. Sự độc lập của người già ở Việt Nam lại bám rễ vào một khế ước xã hội. Đó là mạng lưới hỗ trợ nội bộ gia đình mang tên \"tứ đại đồng đường\". Ở đó, người già không bao giờ bị xem là gánh nặng. Họ là rường cột tinh thần, là kho tàng lưu giữ kinh nghiệm và trao truyền nếp nhà gia giáo."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 14.17,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, guồng quay khốc liệt của công nghiệp hóa và đô thị hóa đang xói mòn mô hình truyền thống ấy từ bên trong. Đầu những năm 1990, gần 80% người già Việt Nam sống chung cùng con cái. Chỉ ba thập kỷ sau, con số này rơi tự do xuống mốc 57%.",
+    "sentences": [
+      "Thế nhưng, guồng quay khốc liệt của công nghiệp hóa và đô thị hóa đang xói mòn mô hình truyền thống ấy từ bên trong. Đầu những năm 1990, gần 80% người già Việt Nam sống chung cùng con cái. Chỉ ba thập kỷ sau, con số này rơi tự do xuống mốc 57%."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 52.23,
+    "text_overlay": "",
+    "visual_summary": "Sự thay đổi nhân khẩu học này vô hình trung tạo ra một \"độ trễ văn hóa\" vô cùng phức tạp. Theo các nghiên cứu xã hội học, tâm lý lớn nhất của người già Việt Nam hiện nay là \"sợ làm phiền con cái\". Họ thấu hiểu áp lực mưu sinh của thế hệ trẻ nên thường chọn cách âm thầm chịu đựng nỗi cô đơn và bệnh tật để con yên tâm làm việc. Thế nhưng, tận sâu trong tâm thức cộng đồng, thước đo của một tuổi già viên mãn vẫn là sự kề cận của máu mủ ruột rà. Chính sự hi sinh thầm lặng ấy của cha mẹ lại càng khoét sâu thêm nỗi dằn vặt của những người con—những người bị trói buộc gắt gao bởi cường độ làm việc vắt kiệt sức của nền kinh tế thị trường. Sự giằng xé này đẩy cả hai thế hệ vào một cuộc khủng hoảng tâm lý sâu sắc. Bởi lẽ, việc tìm kiếm sự hỗ trợ từ các viện dưỡng lão nội trú vẫn vấp phải rào cản định kiến vô hình, dễ dàng bị cộng đồng phán xét bằng hai chữ \"bất hiếu\".",
+    "sentences": [
+      "Sự thay đổi nhân khẩu học này vô hình trung tạo ra một \"độ trễ văn hóa\" vô cùng phức tạp. Theo các nghiên cứu xã hội học, tâm lý lớn nhất của người già Việt Nam hiện nay là \"sợ làm phiền con cái\". Họ thấu hiểu áp lực mưu sinh của thế hệ trẻ nên thường chọn cách âm thầm chịu đựng nỗi cô đơn và bệnh tật để con yên tâm làm việc. Thế nhưng, tận sâu trong tâm thức cộng đồng, thước đo của một tuổi già viên mãn vẫn là sự kề cận của máu mủ ruột rà. Chính sự hi sinh thầm lặng ấy của cha mẹ lại càng khoét sâu thêm nỗi dằn vặt của những người con—những người bị trói buộc gắt gao bởi cường độ làm việc vắt kiệt sức của nền kinh tế thị trường. Sự giằng xé này đẩy cả hai thế hệ vào một cuộc khủng hoảng tâm lý sâu sắc. Bởi lẽ, việc tìm kiếm sự hỗ trợ từ các viện dưỡng lão nội trú vẫn vấp phải rào cản định kiến vô hình, dễ dàng bị cộng đồng phán xét bằng hai chữ \"bất hiếu\"."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 23.88,
+    "text_overlay": "",
+    "visual_summary": "Sự phân mảnh này mang những hình hài khác nhau, tùy thuộc vào nơi mà họ sống. Tại các vùng quê, khi thanh niên nối đuôi nhau rời làng, họ để lại những \"gia đình khuyết thế hệ\". Ở đó, không ít người già lủi thủi sống cô độc trong những căn nhà trống. Nhiều người khác lại phải oằn lưng gánh vác việc nuôi dạy cháu nhỏ thay cho con cái đi làm xa, trong khi chính bản thân họ lại đang thiếu một chỗ dựa y tế vững vàng.",
+    "sentences": [
+      "Sự phân mảnh này mang những hình hài khác nhau, tùy thuộc vào nơi mà họ sống. Tại các vùng quê, khi thanh niên nối đuôi nhau rời làng, họ để lại những \"gia đình khuyết thế hệ\". Ở đó, không ít người già lủi thủi sống cô độc trong những căn nhà trống. Nhiều người khác lại phải oằn lưng gánh vác việc nuôi dạy cháu nhỏ thay cho con cái đi làm xa, trong khi chính bản thân họ lại đang thiếu một chỗ dựa y tế vững vàng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 24.67,
+    "text_overlay": "",
+    "visual_summary": "Ở chiều ngược lại, bức tranh thành thị cũng u ám không kém. Nhiều người cao tuổi đô thị mang tiếng sống chung với con cháu trong những căn hộ tiện nghi. Nhưng thực chất, họ lại mắc kẹt trong sự cô lập triệt để. Khi người trẻ hối hả rời nhà từ sáng sớm và chỉ trở về lúc ngày tàn, người già bị bỏ lại trong bốn bức tường tĩnh lặng. Không gian giao tiếp bị bóp nghẹt, biến chính ngôi nhà hiện đại trở thành một nơi giam lỏng tâm hồn.",
+    "sentences": [
+      "Ở chiều ngược lại, bức tranh thành thị cũng u ám không kém. Nhiều người cao tuổi đô thị mang tiếng sống chung với con cháu trong những căn hộ tiện nghi. Nhưng thực chất, họ lại mắc kẹt trong sự cô lập triệt để. Khi người trẻ hối hả rời nhà từ sáng sớm và chỉ trở về lúc ngày tàn, người già bị bỏ lại trong bốn bức tường tĩnh lặng. Không gian giao tiếp bị bóp nghẹt, biến chính ngôi nhà hiện đại trở thành một nơi giam lỏng tâm hồn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 18.37,
+    "text_overlay": "",
+    "visual_summary": "Chính từ sự đứt gãy cấu trúc gia đình này, chúng ta mới thấu hiểu trọn vẹn sức nặng trong lời của Tổng Bí thư. Nhu cầu về các trung tâm vui chơi, giải trí và sinh hoạt cộng đồng cho người cao tuổi không chỉ là câu chuyện phúc lợi. Đó là điểm khởi đầu thiết yếu để vá lại khoảng trống mà đô thị hóa đã xé toạc.",
+    "sentences": [
+      "Chính từ sự đứt gãy cấu trúc gia đình này, chúng ta mới thấu hiểu trọn vẹn sức nặng trong lời của Tổng Bí thư. Nhu cầu về các trung tâm vui chơi, giải trí và sinh hoạt cộng đồng cho người cao tuổi không chỉ là câu chuyện phúc lợi. Đó là điểm khởi đầu thiết yếu để vá lại khoảng trống mà đô thị hóa đã xé toạc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 22.31,
+    "text_overlay": "",
+    "visual_summary": "Bởi lẽ, nếu không bắt đầu kiến tạo một hệ sinh thái an sinh toàn diện—từ hạ tầng y tế, tài chính cho đến việc cởi trói những định kiến xã hội—ngay từ lúc này, thì chính \"thế hệ kẹp kem\" ngày hôm nay sẽ phải đối mặt với một tuổi già đầy chông chênh. Đặc biệt là khi, Việt Nam đang già đi với tốc độ nhanh đến mức chóng mặt, khiến chúng ta không còn nhiều thời gian để chần chừ thêm nữa.",
+    "sentences": [
+      "Bởi lẽ, nếu không bắt đầu kiến tạo một hệ sinh thái an sinh toàn diện—từ hạ tầng y tế, tài chính cho đến việc cởi trói những định kiến xã hội—ngay từ lúc này, thì chính \"thế hệ kẹp kem\" ngày hôm nay sẽ phải đối mặt với một tuổi già đầy chông chênh. Đặc biệt là khi, Việt Nam đang già đi với tốc độ nhanh đến mức chóng mặt, khiến chúng ta không còn nhiều thời gian để chần chừ thêm nữa."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC010",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 8.66,
+    "text_overlay": "",
+    "visual_summary": "Khi ảo ảnh về một tuổi già thảnh thơi bị phá vỡ, thứ đầu tiên gõ cửa nhà bạn không phải là sự cô đơn, mà là những tờ hóa đơn y tế.",
+    "sentences": [
+      "Khi ảo ảnh về một tuổi già thảnh thơi bị phá vỡ, thứ đầu tiên gõ cửa nhà bạn không phải là sự cô đơn, mà là những tờ hóa đơn y tế."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC011",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 17.32,
+    "text_overlay": "",
+    "visual_summary": "Đây là một phép toán sinh tử đối với thế hệ \"bánh kẹp\". Hãy hình dung một người đàn ông 40 tuổi mở ví vào cuối tháng. Anh ta phải chia đôi quỹ tài chính của mình: một nửa để đóng học phí và duy trì tương lai cho con cái, nửa còn lại để trang trải tiền thuốc men, viện phí cho cha mẹ già.",
+    "sentences": [
+      "Đây là một phép toán sinh tử đối với thế hệ \"bánh kẹp\". Hãy hình dung một người đàn ông 40 tuổi mở ví vào cuối tháng. Anh ta phải chia đôi quỹ tài chính của mình: một nửa để đóng học phí và duy trì tương lai cho con cái, nửa còn lại để trang trải tiền thuốc men, viện phí cho cha mẹ già."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC012",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 12.34,
+    "text_overlay": "",
+    "visual_summary": "Nghịch lý ở chỗ, chúng ta đang gồng gánh bài toán này trong bối cảnh thu nhập bình quân của nền kinh tế (GDP per capita) mới chỉ đạt khoảng 4.300 đến 4.700 USD. Chúng ta \"chưa giàu đã già\", và cha mẹ chúng ta cũng vậy.",
+    "sentences": [
+      "Nghịch lý ở chỗ, chúng ta đang gồng gánh bài toán này trong bối cảnh thu nhập bình quân của nền kinh tế (GDP per capita) mới chỉ đạt khoảng 4.300 đến 4.700 USD. Chúng ta \"chưa giàu đã già\", và cha mẹ chúng ta cũng vậy."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC013",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 22.05,
+    "text_overlay": "",
+    "visual_summary": "Các con số thống kê vẽ ra một bức tranh lạnh lẽo: Hiện tại, hơn 62% người cao tuổi ở Việt Nam hoàn toàn không có lương hưu. Nếu bóc tách kỹ hơn, tỷ lệ người già thực sự có lương hưu từ bảo hiểm xã hội chỉ nằm ở mức chưa tới 17%. Và ngay cả khi nằm trong nhóm 17% may mắn đó, mức lương hưu bình quân cũng chỉ quanh quẩn ở con số 5 đến 6 triệu đồng mỗi tháng.",
+    "sentences": [
+      "Các con số thống kê vẽ ra một bức tranh lạnh lẽo: Hiện tại, hơn 62% người cao tuổi ở Việt Nam hoàn toàn không có lương hưu. Nếu bóc tách kỹ hơn, tỷ lệ người già thực sự có lương hưu từ bảo hiểm xã hội chỉ nằm ở mức chưa tới 17%. Và ngay cả khi nằm trong nhóm 17% may mắn đó, mức lương hưu bình quân cũng chỉ quanh quẩn ở con số 5 đến 6 triệu đồng mỗi tháng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC014",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 38.85,
+    "text_overlay": "",
+    "visual_summary": "Vậy những chính sách an sinh của nhà nước thì sao? Vừa qua, mức chuẩn trợ cấp xã hội đã được nâng lên 500.000 đồng/tháng, và theo Luật Bảo hiểm xã hội mới, độ tuổi được hưởng trợ cấp hưu trí xã hội sẽ được hạ xuống mốc 75 tuổi vào năm 2025. Đây là những nỗ lực rất lớn của hệ thống vĩ mô, nhưng nó vô tình phơi bày một \"khoảng trống an sinh\" khốc liệt. Từ khi chính thức bước vào tuổi già ở mốc 60, cho đến khi chạm được tới khoản trợ cấp 500.000 đồng ở tuổi 75, có một quãng trắng kéo dài tới 15 năm mà hàng triệu người già không hề có một mạng lưới bảo vệ tài chính nào. Mức 500.000 đồng/tháng—dù đã được điều chỉnh tăng—thực chất vẫn chỉ như muối bỏ bể trước thời giá hiện nay.",
+    "sentences": [
+      "Vậy những chính sách an sinh của nhà nước thì sao? Vừa qua, mức chuẩn trợ cấp xã hội đã được nâng lên 500.000 đồng/tháng, và theo Luật Bảo hiểm xã hội mới, độ tuổi được hưởng trợ cấp hưu trí xã hội sẽ được hạ xuống mốc 75 tuổi vào năm 2025. Đây là những nỗ lực rất lớn của hệ thống vĩ mô, nhưng nó vô tình phơi bày một \"khoảng trống an sinh\" khốc liệt. Từ khi chính thức bước vào tuổi già ở mốc 60, cho đến khi chạm được tới khoản trợ cấp 500.000 đồng ở tuổi 75, có một quãng trắng kéo dài tới 15 năm mà hàng triệu người già không hề có một mạng lưới bảo vệ tài chính nào. Mức 500.000 đồng/tháng—dù đã được điều chỉnh tăng—thực chất vẫn chỉ như muối bỏ bể trước thời giá hiện nay."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 27.3,
+    "text_overlay": "",
+    "visual_summary": "Và ngay cả khoản tiền 5 đến 6 triệu đồng của nhóm có lương hưu, dù có thể đủ duy trì những bữa cơm đạm bạc, cũng sẽ hoàn toàn bốc hơi khi người già phải bước qua cánh cửa bệnh viện. Theo thống kê của Bộ Y tế, trung bình một người cao tuổi tại Việt Nam có tới 10 năm phải sống chung với bệnh tật. Một đợt tai biến, một ca phẫu thuật thay khớp, hay những tháng ngày dài chạy thận—tất cả đều có sức mạnh càn quét sạch sẽ quỹ tiết kiệm phòng thân của cả hai thế hệ.",
+    "sentences": [
+      "Và ngay cả khoản tiền 5 đến 6 triệu đồng của nhóm có lương hưu, dù có thể đủ duy trì những bữa cơm đạm bạc, cũng sẽ hoàn toàn bốc hơi khi người già phải bước qua cánh cửa bệnh viện. Theo thống kê của Bộ Y tế, trung bình một người cao tuổi tại Việt Nam có tới 10 năm phải sống chung với bệnh tật. Một đợt tai biến, một ca phẫu thuật thay khớp, hay những tháng ngày dài chạy thận—tất cả đều có sức mạnh càn quét sạch sẽ quỹ tiết kiệm phòng thân của cả hai thế hệ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 7.61,
+    "text_overlay": "",
+    "visual_summary": "Khi hệ thống an sinh vĩ mô chưa kịp vươn tấm lưới bảo vệ, toàn bộ sức nặng tài chính rơi thẳng xuống đôi vai của những đứa con.",
+    "sentences": [
+      "Khi hệ thống an sinh vĩ mô chưa kịp vươn tấm lưới bảo vệ, toàn bộ sức nặng tài chính rơi thẳng xuống đôi vai của những đứa con."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 28.87,
+    "text_overlay": "",
+    "visual_summary": "Rất nhiều người thuộc thế hệ trung niên hiện nay đang đứng trước nguy cơ bị kẹt trong một vòng lặp khắc nghiệt: Nếu phải dồn quá nhiều nguồn lực hiện tại để gánh vác hóa đơn y tế cho cha mẹ, họ có thể sẽ không còn đủ thặng dư tích lũy cho tuổi già của chính mình trong tương lai. Nỗi lo khánh kiệt vì chi phí y tế không chỉ là những con số cảnh báo trên giấy, mà nó đã trở thành bài toán sinh tồn thực tế đối với không ít gia đình có thu nhập trung bình thấp mỗi khi bước vào bệnh viện.",
+    "sentences": [
+      "Rất nhiều người thuộc thế hệ trung niên hiện nay đang đứng trước nguy cơ bị kẹt trong một vòng lặp khắc nghiệt: Nếu phải dồn quá nhiều nguồn lực hiện tại để gánh vác hóa đơn y tế cho cha mẹ, họ có thể sẽ không còn đủ thặng dư tích lũy cho tuổi già của chính mình trong tương lai. Nỗi lo khánh kiệt vì chi phí y tế không chỉ là những con số cảnh báo trên giấy, mà nó đã trở thành bài toán sinh tồn thực tế đối với không ít gia đình có thu nhập trung bình thấp mỗi khi bước vào bệnh viện."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC018",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 22.57,
+    "text_overlay": "",
+    "visual_summary": "Nhưng áp lực tài chính mới chỉ là một phần của câu chuyện. Kể cả khi bài toán tiền bạc được thu xếp ổn thỏa, nhiều gia đình vẫn phải đối mặt với một bề bộn khác: Ai sẽ là người chấp nhận lùi lại phía sau, hy sinh một phần thời gian và sự nghiệp để đưa đón cha mẹ đi khám bệnh, túc trực ở viện những ngày ốm đau, hay quán xuyến việc nhà khi sức khỏe của người già dần suy yếu?",
+    "sentences": [
+      "Nhưng áp lực tài chính mới chỉ là một phần của câu chuyện. Kể cả khi bài toán tiền bạc được thu xếp ổn thỏa, nhiều gia đình vẫn phải đối mặt với một bề bộn khác: Ai sẽ là người chấp nhận lùi lại phía sau, hy sinh một phần thời gian và sự nghiệp để đưa đón cha mẹ đi khám bệnh, túc trực ở viện những ngày ốm đau, hay quán xuyến việc nhà khi sức khỏe của người già dần suy yếu?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC019",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 22.83,
+    "text_overlay": "",
+    "visual_summary": "Khi đối mặt với bề bộn của việc chăm sóc người già, xã hội thường viện đến một khái niệm thiêng liêng: Chữ \"Hiếu\". Nhưng nếu bóc tách lớp lang văn hóa ấy ra và đặt nó lên bàn cân kinh tế học, chữ Hiếu thực chất là một khối lượng công việc khổng lồ không được trả lương. Và câu trả lời cho việc ai sẽ gánh vác khối lượng đó, trong phần lớn các gia đình Việt Nam, lại mang một giới tính cụ thể.",
+    "sentences": [
+      "Khi đối mặt với bề bộn của việc chăm sóc người già, xã hội thường viện đến một khái niệm thiêng liêng: Chữ \"Hiếu\". Nhưng nếu bóc tách lớp lang văn hóa ấy ra và đặt nó lên bàn cân kinh tế học, chữ Hiếu thực chất là một khối lượng công việc khổng lồ không được trả lương. Và câu trả lời cho việc ai sẽ gánh vác khối lượng đó, trong phần lớn các gia đình Việt Nam, lại mang một giới tính cụ thể."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC020",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "text_overlay": "",
+    "visual_summary": "Đó là những người phụ nữ.",
+    "sentences": [
+      "Đó là những người phụ nữ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC021",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 31.5,
+    "text_overlay": "",
+    "visual_summary": "Không phải ngẫu nhiên mà khi cha mẹ hai bên nội ngoại ốm đau, người thường xuyên phải xin nghỉ phép, tạm gác lại cơ hội thăng tiến, hay thậm chí chấp nhận lùi về làm các công việc tự do bấp bênh để tiện bề chăm sóc gia đình, lại chính là người vợ, người con gái, hay người con dâu. Theo báo cáo của Tổ chức Lao động Quốc tế (ILO) và ActionAid, phụ nữ Việt Nam đang phải gánh vác tới 75% khối lượng công việc chăm sóc không được trả lương trong gia đình. Trung bình, họ dành ra hơn 5 tiếng mỗi ngày cho các công việc này—cao gần gấp đôi so với nam giới.",
+    "sentences": [
+      "Không phải ngẫu nhiên mà khi cha mẹ hai bên nội ngoại ốm đau, người thường xuyên phải xin nghỉ phép, tạm gác lại cơ hội thăng tiến, hay thậm chí chấp nhận lùi về làm các công việc tự do bấp bênh để tiện bề chăm sóc gia đình, lại chính là người vợ, người con gái, hay người con dâu. Theo báo cáo của Tổ chức Lao động Quốc tế (ILO) và ActionAid, phụ nữ Việt Nam đang phải gánh vác tới 75% khối lượng công việc chăm sóc không được trả lương trong gia đình. Trung bình, họ dành ra hơn 5 tiếng mỗi ngày cho các công việc này—cao gần gấp đôi so với nam giới."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC022",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 21.26,
+    "text_overlay": "",
+    "visual_summary": "Đằng sau vỏ bọc êm ấm của một gia đình nhiều thế hệ, đằng sau lời khen ngợi về một người con dâu hiếu thảo, thường là sự đánh đổi bằng cả một sự nghiệp. Khi một người phụ nữ buộc phải từ bỏ công việc chính thức để xoay sở với lịch trình tái khám của cha mẹ, hay túc trực bên giường bệnh, hệ lụy họ phải gánh chịu không chỉ dừng lại ở sự bào mòn thể chất.",
+    "sentences": [
+      "Đằng sau vỏ bọc êm ấm của một gia đình nhiều thế hệ, đằng sau lời khen ngợi về một người con dâu hiếu thảo, thường là sự đánh đổi bằng cả một sự nghiệp. Khi một người phụ nữ buộc phải từ bỏ công việc chính thức để xoay sở với lịch trình tái khám của cha mẹ, hay túc trực bên giường bệnh, hệ lụy họ phải gánh chịu không chỉ dừng lại ở sự bào mòn thể chất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC023",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 19.95,
+    "text_overlay": "",
+    "visual_summary": "Đó là một sự đứt gãy tàn nhẫn về an sinh xã hội. Việc rút lui khỏi thị trường lao động chính thức đồng nghĩa với việc họ bị ngắt quãng, hoặc mất hoàn toàn cơ hội tham gia mạng lưới bảo hiểm xã hội. Trở thành những người làm việc tự do hoặc nội trợ, họ bước vào thế yếu, đánh mất sự độc lập và buộc phải phụ thuộc tài chính vào người chồng.",
+    "sentences": [
+      "Đó là một sự đứt gãy tàn nhẫn về an sinh xã hội. Việc rút lui khỏi thị trường lao động chính thức đồng nghĩa với việc họ bị ngắt quãng, hoặc mất hoàn toàn cơ hội tham gia mạng lưới bảo hiểm xã hội. Trở thành những người làm việc tự do hoặc nội trợ, họ bước vào thế yếu, đánh mất sự độc lập và buộc phải phụ thuộc tài chính vào người chồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC024",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 34.38,
+    "text_overlay": "",
+    "visual_summary": "Và đây mới là đỉnh điểm của vòng lặp bi kịch: Việc phụ nữ hiện tại phải hy sinh sự nghiệp để làm công việc chăm sóc không lương đang trực tiếp gieo mầm cho một cuộc khủng hoảng mới trong tương lai. Dữ liệu từ Tổng cục Thống kê và Quỹ Dân số Liên Hợp Quốc (UNFPA) chỉ ra một hiện tượng gọi là \"nữ hóa dân số cao tuổi\"—nghĩa là phụ nữ sống thọ hơn nam giới và hiện chiếm tới gần 60% nhóm người cao tuổi ở Việt Nam. Sự chênh lệch này càng lớn ở các nhóm tuổi cao hơn: Cứ 1 cụ ông thì tương ứng có tới 1,5 cụ bà, và ở nhóm trên 80 tuổi, tỷ lệ này vọt lên mức 1 chọi 2.",
+    "sentences": [
+      "Và đây mới là đỉnh điểm của vòng lặp bi kịch: Việc phụ nữ hiện tại phải hy sinh sự nghiệp để làm công việc chăm sóc không lương đang trực tiếp gieo mầm cho một cuộc khủng hoảng mới trong tương lai. Dữ liệu từ Tổng cục Thống kê và Quỹ Dân số Liên Hợp Quốc (UNFPA) chỉ ra một hiện tượng gọi là \"nữ hóa dân số cao tuổi\"—nghĩa là phụ nữ sống thọ hơn nam giới và hiện chiếm tới gần 60% nhóm người cao tuổi ở Việt Nam. Sự chênh lệch này càng lớn ở các nhóm tuổi cao hơn: Cứ 1 cụ ông thì tương ứng có tới 1,5 cụ bà, và ở nhóm trên 80 tuổi, tỷ lệ này vọt lên mức 1 chọi 2."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC025",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 20.47,
+    "text_overlay": "",
+    "visual_summary": "Khi những người vợ, người con dâu của ngày hôm nay già đi mà không có lương hưu tích lũy trong tay do từng phải nghỉ việc chăm sóc gia đình, rất nhiều người trong số họ sẽ lại trở thành những bà lão tay trắng, góa bụa, và tiếp tục phải sống dựa vào con cháu. Vòng lặp cạn kiệt tài chính và phụ thuộc lại tiếp tục giáng xuống đôi vai của thế hệ tiếp theo.",
+    "sentences": [
+      "Khi những người vợ, người con dâu của ngày hôm nay già đi mà không có lương hưu tích lũy trong tay do từng phải nghỉ việc chăm sóc gia đình, rất nhiều người trong số họ sẽ lại trở thành những bà lão tay trắng, góa bụa, và tiếp tục phải sống dựa vào con cháu. Vòng lặp cạn kiệt tài chính và phụ thuộc lại tiếp tục giáng xuống đôi vai của thế hệ tiếp theo."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC026",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 16.01,
+    "text_overlay": "",
+    "visual_summary": "Rõ ràng, việc duy trì mạng lưới an sinh dựa vào sự hy sinh thầm lặng của phụ nữ là một cấu trúc không hề bền vững, nhất là trong một nền kinh tế hiện đại. Chúng ta không thể mãi nhân danh chữ Hiếu để tước đoạt cơ hội độc lập tài chính của một nửa lực lượng lao động.",
+    "sentences": [
+      "Rõ ràng, việc duy trì mạng lưới an sinh dựa vào sự hy sinh thầm lặng của phụ nữ là một cấu trúc không hề bền vững, nhất là trong một nền kinh tế hiện đại. Chúng ta không thể mãi nhân danh chữ Hiếu để tước đoạt cơ hội độc lập tài chính của một nửa lực lượng lao động."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC027",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 12.34,
+    "text_overlay": "",
+    "visual_summary": "Nhưng giải phóng người phụ nữ khỏi gánh nặng chăm sóc đồng nghĩa với việc người già sẽ phải ở nhà một mình. Và khi cánh cửa nhà khép lại lúc con cháu đi làm, một đại dịch khác trong bóng tối lại lặng lẽ bắt đầu.",
+    "sentences": [
+      "Nhưng giải phóng người phụ nữ khỏi gánh nặng chăm sóc đồng nghĩa với việc người già sẽ phải ở nhà một mình. Và khi cánh cửa nhà khép lại lúc con cháu đi làm, một đại dịch khác trong bóng tối lại lặng lẽ bắt đầu."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC028",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 18.11,
+    "text_overlay": "",
+    "visual_summary": "Nhưng nếu chúng ta không thể tiếp tục yêu cầu phụ nữ phải hy sinh sự nghiệp, bài toán chăm sóc người già sẽ lập tức rẽ sang một nhánh khác. Đó là khi cánh cửa nhà khép lại vào mỗi buổi sáng, những người con vội vã hòa vào dòng xe cộ đi làm, để lại cha mẹ già lủi thủi một mình trong căn nhà trống trải.",
+    "sentences": [
+      "Nhưng nếu chúng ta không thể tiếp tục yêu cầu phụ nữ phải hy sinh sự nghiệp, bài toán chăm sóc người già sẽ lập tức rẽ sang một nhánh khác. Đó là khi cánh cửa nhà khép lại vào mỗi buổi sáng, những người con vội vã hòa vào dòng xe cộ đi làm, để lại cha mẹ già lủi thủi một mình trong căn nhà trống trải."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC029",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 17.85,
+    "text_overlay": "",
+    "visual_summary": "Chúng ta vẫn thường tự huyễn hoặc bản thân rằng, để cha mẹ sống trong chính ngôi nhà của họ là cách tốt nhất để vẹn toàn chữ Hiếu. Nhưng thực tế đang chứng minh điều ngược lại. Khi cấu trúc gia đình \"tứ đại đồng đường\" bị phá vỡ, việc giữ người già ở nhà đôi khi lại vô tình trở thành một bản án giam lỏng.",
+    "sentences": [
+      "Chúng ta vẫn thường tự huyễn hoặc bản thân rằng, để cha mẹ sống trong chính ngôi nhà của họ là cách tốt nhất để vẹn toàn chữ Hiếu. Nhưng thực tế đang chứng minh điều ngược lại. Khi cấu trúc gia đình \"tứ đại đồng đường\" bị phá vỡ, việc giữ người già ở nhà đôi khi lại vô tình trở thành một bản án giam lỏng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC030",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 33.6,
+    "text_overlay": "",
+    "visual_summary": "Hãy nhìn vào bức tranh ở các đô thị lớn, nơi tập trung khoảng hơn 36% dân số cao tuổi. Rất nhiều người già đang phải trải qua những tháng ngày cuối đời trong không gian chật hẹp của những căn \"nhà ống\". Với kiến trúc đặc thù nhiều tầng và cầu thang dốc, việc di chuyển trở nên vô cùng khó khăn, đôi khi một cú trượt chân cũng có thể biến thành tai họa. Nhiều người bị cô lập với chiếc tivi hoặc điện thoại thông minh, thu hẹp toàn bộ thế giới quan vào bốn bức tường. Trong sự tĩnh lặng đó, không ít người cao tuổi vì quá khao khát được trò chuyện đã dễ dàng sập bẫy lừa đảo trên không gian mạng.",
+    "sentences": [
+      "Hãy nhìn vào bức tranh ở các đô thị lớn, nơi tập trung khoảng hơn 36% dân số cao tuổi. Rất nhiều người già đang phải trải qua những tháng ngày cuối đời trong không gian chật hẹp của những căn \"nhà ống\". Với kiến trúc đặc thù nhiều tầng và cầu thang dốc, việc di chuyển trở nên vô cùng khó khăn, đôi khi một cú trượt chân cũng có thể biến thành tai họa. Nhiều người bị cô lập với chiếc tivi hoặc điện thoại thông minh, thu hẹp toàn bộ thế giới quan vào bốn bức tường. Trong sự tĩnh lặng đó, không ít người cao tuổi vì quá khao khát được trò chuyện đã dễ dàng sập bẫy lừa đảo trên không gian mạng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC031",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 29.13,
+    "text_overlay": "",
+    "visual_summary": "Rời khỏi những đô thị chật hẹp để nhìn về nông thôn, nơi sinh sống của hơn 63% người cao tuổi, nỗi cô độc lại hiện diện dưới một hình hài khác. Làn sóng đô thị hóa đã kéo phần lớn lực lượng lao động trẻ đi làm ăn xa, để lại phía sau vô số những hộ gia đình \"khuyết thế hệ\". Ở đó, sự vắng lặng bao trùm lên những nếp nhà mái ngói, nơi người già vất vả tự chăm sóc lẫn nhau, hoặc thậm chí phải gồng gánh thêm trọng trách trông nom những đứa cháu nhỏ mà thiếu vắng sự hỗ trợ y tế kịp thời.",
+    "sentences": [
+      "Rời khỏi những đô thị chật hẹp để nhìn về nông thôn, nơi sinh sống của hơn 63% người cao tuổi, nỗi cô độc lại hiện diện dưới một hình hài khác. Làn sóng đô thị hóa đã kéo phần lớn lực lượng lao động trẻ đi làm ăn xa, để lại phía sau vô số những hộ gia đình \"khuyết thế hệ\". Ở đó, sự vắng lặng bao trùm lên những nếp nhà mái ngói, nơi người già vất vả tự chăm sóc lẫn nhau, hoặc thậm chí phải gồng gánh thêm trọng trách trông nom những đứa cháu nhỏ mà thiếu vắng sự hỗ trợ y tế kịp thời."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC032",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 26.51,
+    "text_overlay": "",
+    "visual_summary": "Dù ở thành thị hay nông thôn, điểm chung lớn nhất của người già khi phải ở nhà một mình là sự thiếu hụt tương tác xã hội. Dưới góc nhìn y tế công cộng, sự cô lập không chỉ ảnh hưởng đến tâm lý mà còn tác động tiêu cực đến thể chất. Các nghiên cứu đã chỉ ra một thực trạng đáng lưu tâm: Tỷ lệ trầm cảm ở những người cao tuổi Việt Nam sống một mình là 78,13%. Ngay cả ở nhóm sống cùng vợ hoặc chồng, tỷ lệ này vẫn duy trì ở mức hơn 33%.",
+    "sentences": [
+      "Dù ở thành thị hay nông thôn, điểm chung lớn nhất của người già khi phải ở nhà một mình là sự thiếu hụt tương tác xã hội. Dưới góc nhìn y tế công cộng, sự cô lập không chỉ ảnh hưởng đến tâm lý mà còn tác động tiêu cực đến thể chất. Các nghiên cứu đã chỉ ra một thực trạng đáng lưu tâm: Tỷ lệ trầm cảm ở những người cao tuổi Việt Nam sống một mình là 78,13%. Ngay cả ở nhóm sống cùng vợ hoặc chồng, tỷ lệ này vẫn duy trì ở mức hơn 33%."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC033",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 19.95,
+    "text_overlay": "",
+    "visual_summary": "Việc thiếu vắng các kết nối xã hội hàng ngày có nguy cơ đẩy nhanh tốc độ sa sút trí tuệ và gây khó khăn cho quá trình điều trị các bệnh lý nền. Chúng ta thường cho rằng việc để cha mẹ ở lại trong ngôi nhà thân thuộc là phương án an toàn nhất, nhưng đôi khi, chính điều đó lại vô tình tạo ra một sự cách ly xã hội ngoài ý muốn.",
+    "sentences": [
+      "Việc thiếu vắng các kết nối xã hội hàng ngày có nguy cơ đẩy nhanh tốc độ sa sút trí tuệ và gây khó khăn cho quá trình điều trị các bệnh lý nền. Chúng ta thường cho rằng việc để cha mẹ ở lại trong ngôi nhà thân thuộc là phương án an toàn nhất, nhưng đôi khi, chính điều đó lại vô tình tạo ra một sự cách ly xã hội ngoài ý muốn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC034",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 19.69,
+    "text_overlay": "",
+    "visual_summary": "Khi mô hình chăm sóc gia đình truyền thống đã không còn đủ sức che chở, và việc để người già ở nhà một mình mang lại quá nhiều rủi ro, chúng ta buộc phải tìm kiếm những giải pháp chuyên nghiệp hơn. Nhưng liệu các viện dưỡng lão nội trú—mô hình từng được coi là biểu tượng an sinh của phương Tây—có thực sự là lối thoát cho hàng triệu gia đình Việt Nam?",
+    "sentences": [
+      "Khi mô hình chăm sóc gia đình truyền thống đã không còn đủ sức che chở, và việc để người già ở nhà một mình mang lại quá nhiều rủi ro, chúng ta buộc phải tìm kiếm những giải pháp chuyên nghiệp hơn. Nhưng liệu các viện dưỡng lão nội trú—mô hình từng được coi là biểu tượng an sinh của phương Tây—có thực sự là lối thoát cho hàng triệu gia đình Việt Nam?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC035",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 19.42,
+    "text_overlay": "",
+    "visual_summary": "Khi mô hình gia đình truyền thống không còn đủ sức tự gánh vác việc chăm sóc, xã hội bắt buộc phải tìm đến các dịch vụ chuyên nghiệp. Phản xạ đầu tiên của nhiều người thường là mô hình viện dưỡng lão nội trú—giải pháp đã rất phổ biến ở phương Tây. Tuy nhiên, khi áp dụng vào thực tiễn Việt Nam, mô hình này lập tức bộc lộ hai rào cản lớn.",
+    "sentences": [
+      "Khi mô hình gia đình truyền thống không còn đủ sức tự gánh vác việc chăm sóc, xã hội bắt buộc phải tìm đến các dịch vụ chuyên nghiệp. Phản xạ đầu tiên của nhiều người thường là mô hình viện dưỡng lão nội trú—giải pháp đã rất phổ biến ở phương Tây. Tuy nhiên, khi áp dụng vào thực tiễn Việt Nam, mô hình này lập tức bộc lộ hai rào cản lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC036",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 43.83,
+    "text_overlay": "",
+    "visual_summary": "Rào cản thứ nhất là bài toán tài chính. Hiện nay, mức phí cơ bản cho một suất nội trú dao động từ 7 đến 9 triệu đồng mỗi tháng. Tuy nhiên, khi người cao tuổi bắt đầu suy yếu, mắc nhiều bệnh nền và cần các dịch vụ chăm sóc đặc biệt (như hỗ trợ ăn uống, vệ sinh, vật tư y tế), con số này rất dễ dàng đội lên mức 12 đến 15 triệu đồng—một mức chi phí vượt quá khả năng chi trả của nhiều gia đình trung lưu. Rào cản thứ hai, phức tạp hơn, là yếu tố văn hóa và tâm lý. Các khảo sát xã hội học cho thấy có tới hơn 85% người cao tuổi tại Việt Nam không muốn rời khỏi gia đình để vào viện dưỡng lão nội trú. Định kiến xã hội và tâm lý sợ bị \"bỏ rơi\" tạo ra một lực cản khiến mô hình nội trú khó có thể mở rộng nhanh chóng.",
+    "sentences": [
+      "Rào cản thứ nhất là bài toán tài chính. Hiện nay, mức phí cơ bản cho một suất nội trú dao động từ 7 đến 9 triệu đồng mỗi tháng. Tuy nhiên, khi người cao tuổi bắt đầu suy yếu, mắc nhiều bệnh nền và cần các dịch vụ chăm sóc đặc biệt (như hỗ trợ ăn uống, vệ sinh, vật tư y tế), con số này rất dễ dàng đội lên mức 12 đến 15 triệu đồng—một mức chi phí vượt quá khả năng chi trả của nhiều gia đình trung lưu. Rào cản thứ hai, phức tạp hơn, là yếu tố văn hóa và tâm lý. Các khảo sát xã hội học cho thấy có tới hơn 85% người cao tuổi tại Việt Nam không muốn rời khỏi gia đình để vào viện dưỡng lão nội trú. Định kiến xã hội và tâm lý sợ bị \"bỏ rơi\" tạo ra một lực cản khiến mô hình nội trú khó có thể mở rộng nhanh chóng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC037",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 9.45,
+    "text_overlay": "",
+    "visual_summary": "Giữa bối cảnh đó, thị trường bắt đầu ghi nhận sự trỗi dậy của một phương án trung gian: Mô hình dưỡng lão bán trú, hay còn gọi là Daycare (\"Sáng đưa đi, chiều đón về\").",
+    "sentences": [
+      "Giữa bối cảnh đó, thị trường bắt đầu ghi nhận sự trỗi dậy của một phương án trung gian: Mô hình dưỡng lão bán trú, hay còn gọi là Daycare (\"Sáng đưa đi, chiều đón về\")."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC038",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 37.27,
+    "text_overlay": "",
+    "visual_summary": "Mô hình này hoạt động tương tự như một \"nhà trẻ cho người già\". Ban ngày, thay vì ở nhà một mình, người cao tuổi được đưa đến trung tâm để tham gia các hoạt động giao tiếp xã hội, tập vật lý trị liệu và được theo dõi y tế cơ bản. Đến chiều tối, họ lại trở về ăn cơm và sinh hoạt cùng con cháu. Mặc dù chi phí cho Daycare dao động khoảng 300.000 đến 500.000 đồng mỗi ngày (tương đương 7 đến 9 triệu đồng một tháng)—không hề rẻ hơn so với mức nền của viện nội trú—nhưng nó giải quyết được nút thắt tâm lý. Người già không cảm thấy bị tách rời khỏi gia đình, trong khi những người phụ nữ trong nhà vẫn có thể yên tâm đi làm để duy trì thu nhập.",
+    "sentences": [
+      "Mô hình này hoạt động tương tự như một \"nhà trẻ cho người già\". Ban ngày, thay vì ở nhà một mình, người cao tuổi được đưa đến trung tâm để tham gia các hoạt động giao tiếp xã hội, tập vật lý trị liệu và được theo dõi y tế cơ bản. Đến chiều tối, họ lại trở về ăn cơm và sinh hoạt cùng con cháu. Mặc dù chi phí cho Daycare dao động khoảng 300.000 đến 500.000 đồng mỗi ngày (tương đương 7 đến 9 triệu đồng một tháng)—không hề rẻ hơn so với mức nền của viện nội trú—nhưng nó giải quyết được nút thắt tâm lý. Người già không cảm thấy bị tách rời khỏi gia đình, trong khi những người phụ nữ trong nhà vẫn có thể yên tâm đi làm để duy trì thu nhập."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC039",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 13.12,
+    "text_overlay": "",
+    "visual_summary": "Tuy nhiên, nếu nhìn nhận một cách khách quan dựa trên các nghiên cứu thực tiễn, mô hình bán trú hiện nay hoàn toàn không phải là \"viên đạn bạc\" có thể giải quyết dứt điểm bài toán an sinh, mà vẫn đang tồn tại những bất cập rất lớn.",
+    "sentences": [
+      "Tuy nhiên, nếu nhìn nhận một cách khách quan dựa trên các nghiên cứu thực tiễn, mô hình bán trú hiện nay hoàn toàn không phải là \"viên đạn bạc\" có thể giải quyết dứt điểm bài toán an sinh, mà vẫn đang tồn tại những bất cập rất lớn."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC040",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 21.26,
+    "text_overlay": "",
+    "visual_summary": "Thứ nhất là sự mất cân đối về mặt địa lý. Các trung tâm Daycare hiện tại gần như chỉ tập trung ở các đô thị lớn như Hà Nội hay TP.HCM, nơi có tập khách hàng sẵn sàng chi trả. Điều này đồng nghĩa với việc mô hình này hoàn toàn bỏ ngỏ khu vực nông thôn—nơi đang sinh sống của hơn 63% người cao tuổi cả nước, trong đó có vô số những hộ gia đình \"khuyết thế hệ\".",
+    "sentences": [
+      "Thứ nhất là sự mất cân đối về mặt địa lý. Các trung tâm Daycare hiện tại gần như chỉ tập trung ở các đô thị lớn như Hà Nội hay TP.HCM, nơi có tập khách hàng sẵn sàng chi trả. Điều này đồng nghĩa với việc mô hình này hoàn toàn bỏ ngỏ khu vực nông thôn—nơi đang sinh sống của hơn 63% người cao tuổi cả nước, trong đó có vô số những hộ gia đình \"khuyết thế hệ\"."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC041",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 18.11,
+    "text_overlay": "",
+    "visual_summary": "Thứ hai là sự thiếu hụt nghiêm trọng về hạ tầng và nhân lực chuyên môn. Việt Nam hiện đang rất thiếu đội ngũ bác sĩ lão khoa và điều dưỡng viên được đào tạo bài bản. Người già thường mang trong mình trung bình 3 căn bệnh mãn tính, đòi hỏi sự chăm sóc y tế chuyên biệt chứ không chỉ đơn thuần là trông nom sinh hoạt.",
+    "sentences": [
+      "Thứ hai là sự thiếu hụt nghiêm trọng về hạ tầng và nhân lực chuyên môn. Việt Nam hiện đang rất thiếu đội ngũ bác sĩ lão khoa và điều dưỡng viên được đào tạo bài bản. Người già thường mang trong mình trung bình 3 căn bệnh mãn tính, đòi hỏi sự chăm sóc y tế chuyên biệt chứ không chỉ đơn thuần là trông nom sinh hoạt."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC042",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 28.35,
+    "text_overlay": "",
+    "visual_summary": "Cuối cùng, dù là lựa chọn mô hình nội trú hay bán trú, thực trạng này đều đang chỉ ra một sự dịch chuyển tất yếu của xã hội: Sự chuyển giao từ việc \"gia đình tự chăm sóc\" sang \"sử dụng dịch vụ chuyên nghiệp\". Việc phải chi trả hàng chục triệu đồng mỗi tháng cho các dịch vụ chăm sóc người cao tuổi không chỉ đặt ra áp lực lớn cho các nhà hoạch định chính sách, mà ở một góc độ khác, nó đang mở ra cánh cửa cho một trong những thị trường khổng lồ nhất trong thập kỷ tới: Nền kinh tế bạc.",
+    "sentences": [
+      "Cuối cùng, dù là lựa chọn mô hình nội trú hay bán trú, thực trạng này đều đang chỉ ra một sự dịch chuyển tất yếu của xã hội: Sự chuyển giao từ việc \"gia đình tự chăm sóc\" sang \"sử dụng dịch vụ chuyên nghiệp\". Việc phải chi trả hàng chục triệu đồng mỗi tháng cho các dịch vụ chăm sóc người cao tuổi không chỉ đặt ra áp lực lớn cho các nhà hoạch định chính sách, mà ở một góc độ khác, nó đang mở ra cánh cửa cho một trong những thị trường khổng lồ nhất trong thập kỷ tới: Nền kinh tế bạc."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  }
+]

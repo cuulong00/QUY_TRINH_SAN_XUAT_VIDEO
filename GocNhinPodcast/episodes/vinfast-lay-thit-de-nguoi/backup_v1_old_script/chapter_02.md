@@ -1,0 +1,29 @@
+Để hiểu logic đằng sau ma trận mười lăm mẫu xe, trước hết phải nhìn vào thứ mà VinFast đang đặt cược. Bởi vì đây không phải một canh bạc mù quáng. Đây là một cuộc chạy đua để cắm cờ trên một trong những mỏ vàng lớn nhất còn sót lại trên bản đồ công nghiệp ô tô thế giới.
+
+Hãy bắt đầu từ sân nhà. Việt Nam có một trăm lẻ một triệu dân, nhưng chỉ có sáu mươi tám ô tô trên mỗi một ngàn người. Con số này thấp đến mức nào? Thái Lan là hai trăm bảy mươi lăm. Mã Lai là bốn trăm chín mươi. Chỉ chín phần trăm hộ gia đình Việt Nam sở hữu ô tô cá nhân. tám mươi chín phần trăm vẫn đang di chuyển hàng ngày bằng xe máy. Đây không phải một thị trường đã bão hòa. Đây là một thị trường chưa thực sự bắt đầu.
+
+Và năm hai ngàn không trăm hai mươi lăm, gi đi pi bình quân đầu người của Việt Nam chính thức vượt mốc năm ngàn không trăm hai mươi sáu đô la, mốc mà các nhà kinh tế gọi là điểm bùng phát của làn sóng phổ cập ô tô hàng loạt. Tầng lớp trung lưu dự kiến tăng gấp đôi từ mười ba phần trăm lên hai mươi sáu phần trăm chỉ trong ba năm. Hàng triệu người Việt đang chuẩn bị mua chiếc xe hơi đầu tiên trong đời. Câu hỏi duy nhất là: Chiếc xe đó sẽ mang thương hiệu gì?
+
+VinFast không chỉ bán ô tô. Họ đang khóa chặt người dùng ngay từ chiếc xe hai bánh đầu tiên. Chỉ riêng nửa đầu năm hai ngàn không trăm hai mươi sáu, VinFast đã bán ra bốn trăm hai mươi chín ngàn một trăm bảy mươi lăm xe máy điện, tăng hai trăm bảy mươi lăm phần trăm so với cùng kỳ. Trong tháng ba năm hai ngàn không trăm hai mươi sáu, VinFast chiếm mười bảy phần trăm thị phần toàn ngành hai bánh, đứng ngay sau Honda. Gần sáu mươi triệu xe máy xăng đang lưu hành trên đường phố Việt Nam, mỗi chiếc là một khách hàng tiềm năng trong chu kỳ chuyển đổi tiếp theo.
+
+Nhưng Việt Nam chỉ là một mảnh nhỏ trong bức tranh lớn hơn nhiều.
+
+Hãy nhìn sang Indonesia. Một quốc đảo khổng lồ với hai trăm tám mươi mốt triệu dân, nơi một trăm ba mươi triệu chiếc xe máy đang luồn lách đặc nghẹt trên các nẻo đường từ Jakarta đến Bali, gấp đôi lượng xe tại Việt Nam. Thế nhưng, mật độ ô tô lại mỏng dính, chỉ chín mươi chín xe trên một ngàn dân. Đây là quốc gia đông dân thứ tư thế giới, một chiếc lò xo nén khổng lồ nơi hàng trăm triệu người đang khao khát chuyển từ xe hai bánh lên bốn bánh. VinFast đã cắm cờ tại đây bằng nhà máy Subang ở Tây Java với công suất năm mươi ngàn xe mỗi năm.
+
+Tại Philippines, quốc đảo một trăm mười lăm triệu dân nổi tiếng với những siêu đô thị tắc đường triền miên như Manila, mật độ ô tô cũng chỉ vỏn vẹn bốn mươi tám chiếc trên một ngàn người, còn thấp hơn cả Việt Nam. Một thị trường bị bỏ ngỏ, và VinFast hiện đang lấp đầy khoảng trống đó khi vươn lên thành hãng xe thuần điện bán chạy số một tại đây.
+
+Và Ấn Độ, một tiểu lục địa một phẩy bốn mươi ba tỷ dân nhưng bức tranh lại cực kỳ phân hóa: chỉ vỏn vẹn hai phẩy sáu phần trăm hộ gia đình sở hữu ô tô. Đây là một đại dương xe hai bánh lớn nhất hành tinh. VinFast không chỉ ném đá dò đường, họ đang xây thẳng nhà máy tại cứ điểm công nghiệp Tamil Nadu. Đồng thời, Xanh SM đã tung dàn Limo tỏa đi khắp New Delhi, giúp hãng xe Việt Nam vươn lên vị trí thứ tư trên bảng xếp hạng xe thuần điện tại thị trường tỷ dân này.
+
+Cộng tất cả lại, VinFast đang bày binh bố trận trên một bàn cờ khổng lồ gần hai tỷ người. Từ những siêu đô thị đặc nghẹt xe máy ở Đông Nam Á cho đến tiểu lục địa Ấn Độ, điểm chung của mỏ vàng này là: mật độ ô tô còn cực kỳ thấp, và làn sóng chuyển dịch sang năng lượng xanh mới chỉ ở những gợn sóng đầu tiên. Quy mô của thị trường này được định giá bảy phẩy tám mươi tư tỷ đô la vào năm hai ngàn không trăm hai mươi bốn, và sẽ phình to gấp đôi lên gần mười lăm tỷ đô la vào thập kỷ tới.
+
+Nhưng mỏ vàng thì người nào cũng thấy. Câu hỏi thực sự là: Bên nào sẽ chiếm được nó?
+
+Để trả lời, hãy nhìn vào Thái Lan, thị trường mà VinFast chưa bước chân vào. Chỉ trong một năm, thị phần của các hãng xe Nhật Bản tại Thái Lan đã sụt từ bảy mươi tư phần trăm xuống còn sáu mươi hai phẩy bốn phần trăm. Xe điện Trung Quốc chiếm tới tám mươi tám phần trăm tổng lượng xe điện bán ra. Bi Oai Đi đã xây nhà máy Rayong với công suất một trăm năm mươi ngàn xe mỗi năm. Geely tăng trưởng ba trăm năm mươi phần trăm, GAC tăng một trăm hai mươi phần trăm. Không có một hãng bản địa nào đủ sức chặn lại. Thị trường Thái Lan đang bị xe Trung Quốc chiếm lĩnh từng phân khúc một.
+
+Đặt bức tranh Thái Lan cạnh Việt Nam, sự tương phản rất rõ. Tại Việt Nam, Bi Oai Đi và các hãng Trung Quốc gần như không tìm được chỗ đứng. VinFast đã giăng sẵn mười lăm mẫu xe phủ kín mọi phân khúc, từ xe máy điện hai mươi triệu đến SUV tỷ đồng. Hãng nào bước vào Việt Nam cũng thấy mọi khoảng trống đã bị lấp kín.
+
+Malaysia cũng cho thấy một quy luật tương tự. Proton, hãng xe quốc dân, đã tung ra dòng e.MAS và chiếm bốn mươi ba phần trăm thị phần xe điện nội địa. Mô hình hãng xe bản địa dùng lợi thế sân nhà để chặn xe ngoại không phải chỉ VinFast nghĩ ra. Nhưng VinFast đang làm ở quy mô lớn hơn nhiều, trên nhiều thị trường cùng lúc.
+
+Tuy nhiên, dung lượng thị trường khổng lồ luôn đi kèm với sự cạnh tranh khốc liệt. Tại chính mỏ vàng Indonesia, xe điện Trung Quốc đã sớm phong tỏa hơn chín mươi phần trăm thị phần. Bất chấp việc VinFast dùng quân bài taxi Xanh SM để nhanh chóng chen chân vào Tóp ba doanh số, cuộc chiến giáp lá cà ở mảng bán lẻ cá nhân mới thực sự là phép thử sống còn. Cuộc đua ở quốc đảo hai trăm tám mươi mốt triệu dân này mới chỉ bắt đầu, và phần thưởng chưa chắc đã thuộc về tay người nào.
+
+Đó là bức tranh toàn cảnh. Một mỏ vàng gần hai tỷ người đang chờ được khai phá, và VinFast là một trong những đại diện hiếm hoi đi lên từ chính Đông Nam Á dám lao vào cuộc đua khốc liệt này. Nhưng khoảng thời gian vàng để tự do cắm cờ sẽ không kéo dài mãi mãi. Và để hiểu tại sao VinFast phải chạy nhanh đến mức chấp nhận dồn lực ở quy mô chưa từng có, chúng ta cần nhìn vào một biến số mà ít người để ý: Các ông lớn truyền thống đang ở đâu, và tại sao những cỗ máy khổng lồ đó vẫn chưa chịu thức giấc?

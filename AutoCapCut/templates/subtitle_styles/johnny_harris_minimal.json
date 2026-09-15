@@ -1,0 +1,36 @@
+{
+  "id": "johnny_harris_minimal",
+  "name": "Johnny Harris Minimalist Cinematic Stroke",
+  "category": "documentary_video_essay",
+  "description": "Chữ Vàng Hổ Phách (#FFD700), viền đen sắc nét 0.12 và đổ bóng mềm, không dùng hộp đen, tạo khung hình rộng mở, chuẩn phóng sự điện ảnh quốc tế.",
+  "source_reference": "cutcli-cookbook/03-tiktok-keyword-highlight & pyJianYingDraft/TextStyle",
+  "pacing": {
+    "max_words_per_cue": 5,
+    "max_chars_per_cue": 24,
+    "min_duration_s": 0.8,
+    "max_duration_s": 2.0,
+    "ideal_duration_s": 1.4
+  },
+  "typography": {
+    "font_size": 7.0,
+    "color": "#FFD700",
+    "bold": true,
+    "alignment": 1,
+    "x": 0.0,
+    "y": -0.68,
+    "animation": "typewriter"
+  },
+  "styling": {
+    "has_border": true,
+    "border_width": 0.12,
+    "border_color": "#000000",
+    "border_alpha": 1.0,
+    "has_shadow": true,
+    "shadow_alpha": 0.8,
+    "shadow_angle": -45.0,
+    "shadow_distance": 5.0,
+    "shadow_color": "#000000",
+    "shadow_smoothing": 0.5,
+    "has_background": false
+  }
+}

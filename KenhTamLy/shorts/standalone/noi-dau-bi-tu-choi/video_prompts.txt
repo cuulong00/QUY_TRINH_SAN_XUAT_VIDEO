@@ -1,0 +1,39 @@
+1: 2D sketch illustration of a person's hand tightly gripping a metal railing, rough pencil lines, monochrome black and white. Camera STATIC. Hand slowly tightens its grip, lines becoming thicker and darker. Motion: SLOW_TENSION. Duration: 3s. --ar 9:16
+
+2: 2D sketch illustration of an X-ray showing a cracked forearm bone, black background with stark white chalky lines. The crack is highlighted with a harsh red accent line. Camera STATIC. The white and red lines FLICKER abruptly. Motion: FLICKER. Duration: 2s. --ar 9:16
+
+3: Minimalistic 2D sketch of a lone person sitting in front of a computer monitor, rough pencil shading. The screen emits a faint red glow in an otherwise monochrome room. SLOW ZOOM IN toward the back of the sketched figure. Motion: ISOLATION_PUSH. Duration: 4s. --ar 9:16
+
+4: 2D schematic line art of a human brain profile. A specific region in the center (ACC) is shaded heavily in red pencil, contrasting with the black and white drawing. Camera PAN slowly across the diagram. The red area PULSES rhythmically like a heartbeat. Motion: SCAN_PULSE. Duration: 4s. --ar 9:16
+
+5: 2D sketch of a smartphone on a table next to a coffee cup. The screen shows a single text bubble reading "Seen" highlighted in striking red ink. Monochromatic rough pencil lines. SLOW FOCUS SHIFT focusing tightly on the red "Seen" text. Motion: REALIZATION_FOCUS. Duration: 3s. --ar 9:16
+
+6: Wide 2D sketch illustration of a long, empty conference table drawn with sharp perspective lines. A small, scribbled figure sits isolated at the far end. Extreme SLOW PULL BACK, making the drawn figure appear smaller in the vast empty page. Motion: SINK_AWAY. Duration: 3s. --ar 9:16
+
+7: 2D line art close-up of tired eyes staring forward, rough shading around the eyes. A faint red reflection of a screen glows in the pupils. Camera STATIC. The red reflection slowly DIMS until the eyes are engulfed in heavy black pencil shading. Motion: LIGHT_FADE. Duration: 3s. --ar 9:16
+
+8: 2D sketch of a slumped figure standing by a window, drawn with loose, tired pencil strokes. SLOW TILT DOWN, the pencil lines of the shoulders drooping downward, conveying heavy exhaustion. Motion: WEIGHT_SETTLE. Duration: 3s. --ar 9:16
+
+9: 2D schematic drawing of a glowing stove coil, drawn in chaotic, jagged red pencil lines on a stark white background indicating intense heat. Camera STATIC. The red jagged lines VIBRATE intensely, simulating waves of heat. Motion: HEAT_PULSE. Duration: 3s. --ar 9:16
+
+10: Minimalistic 2D sketch of a few dying embers in deep black charcoal shading. The embers are a faint red. The heavy black shading around them seems to encroach. The red embers FLICKER and the black charcoal edge creeps closer to the center. Motion: CREEPING_DARK_FLICKER. Duration: 4s. --ar 9:16
+
+11: 2D sketch illustration of a tiny lonely stick-figure surrounded by towering, oppressive black scribbled trees. SLOW ZOOM OUT, emphasizing the vulnerability of the small figure against the massive hostile pencil strokes. Motion: VULNERABILITY_PULL. Duration: 4s. --ar 9:16
+
+12: 2D sketch of a small figure curled up on the floor. An exaggerated, massive, monstrous shadow is drawn in heavy charcoal stretching out behind them. Camera STATIC. The massive shadow SLOWLY STRETCHES further, growing larger and more imposing. Motion: SHADOW_CREEP. Duration: 3s. --ar 9:16
+
+13: 2D delicate line art of a folded medical arm cast, drawn with very clean, light, peaceful pencil strokes. SLOW PAN across the drawing. Everything is static and calm. Motion: CALM_DRIFT. Duration: 4s. --ar 9:16
+
+14: 2D rough sketch of a chest and shoulders. Suddenly, a jagged, violent red line strikes right across the chest like lightning. SHATTER glitch. The red lightning stroke STROBES erratically for a fraction of a second. Motion: SHOCK_STROBE. Duration: 4s. --ar 9:16
+
+15: 2D sketch of a photograph being actively erased. The pencil lines are half-smudged and fading into the white paper. SLOW FOCUS BLUR. The entire drawing slowly fades out, becoming completely blank. Motion: MEMORY_FADE. Duration: 3s. --ar 9:16
+
+16: 2D minimalistic drawing of white paper where a bright red ink stain is violently splattered. Camera STATIC. The red splattered ink actively SPREADS outward like roots. Motion: SPREADING_STAIN. Duration: 3s. --ar 9:16
+
+17: 2D sketch of a face looking into a mirror, drawn with empathetic, soft, curving pencil lines. The eyes look tired but understanding. SLOW PUSH IN. The pencil strokes of the face soften and blur slightly. Motion: EMPATHY_PUSH. Duration: 4s. --ar 9:16
+
+18: 2D line art of a steady hand resting on a knee, drawn with firm, solid, grounded lines. Minimal motion. The drawing remains steady and static. Subtle rhythmic breathing motion. Motion: STEADY_BREATH. Duration: 3s. --ar 9:16
+
+19: 2D sketch of a modern person's profile, overlaid with rough, primitive cave-drawing-style animal figures in the background. The background cave drawings SHIFT and animate slowly, like flickering firelight on a cave wall. Motion: ANCIENT_SHIFT. Duration: 4s. --ar 9:16
+
+20: 2D line art of a vast, modern city skyline drawn with clean architectural lines, completely static and geometric. Ultra-slow PAN across the vast drawn city. Small red dots representing lights twinkle reassuringly. Motion: EXPANSIVE_PAN. Duration: 4s. --ar 9:16

@@ -1,0 +1,61 @@
+---
+title: "Hãy cung cấp số liệu về thị phần gọi xe công nghệ của Xanh SM (GSM) và Grab tại Việt Nam giai đoạn 2025 - quý 1 2026, bao gồm cả doanh số GMV và số chuyến đi."
+type: nblm-answer
+asked_at: 2026-07-10T09:11:16.455Z
+notebook_url: "https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63"
+session_id: "4db567e9"
+citations_count: 5
+sources:
+  - "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions"
+  - "The 2018 Restructuring of Vietnam's Ride-Hailing Market: Strategic Exit, Monopoly Contests, and Platform Labor Friction"
+  - "Grab mua lại Uber Đông Nam Á & Bài học về thích ứng thị trường - MarketingAI"
+---
+
+# Hãy cung cấp số liệu về thị phần gọi xe công nghệ của Xanh SM (GSM) và Grab tại Việt Nam giai đoạn 2025 - quý 1 2026, bao gồm cả doanh số GMV và số chuyến đi.
+
+> Asked on 2026-07-10T09:11:16.455Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63)
+
+## Answer
+
+Thoughts
+Các tài liệu hiện có trong sổ tay của bạn không cung cấp số liệu thống kê cụ thể về thị phần gọi xe công nghệ, doanh số GMV, hay số chuyến đi của Xanh SM (GSM) và Grab tại Việt Nam trong giai đoạn 2025 - quý 1 năm 2026.
+Tuy nhiên, tài liệu có ghi nhận một số thông tin bối cảnh liên quan đến chiến lược vận hành của hai đơn vị này như sau:
+Lộ trình xanh hóa của GSM và các đối thủ: Dưới tác động từ Quyết định 876 của Chính phủ (đặt mục tiêu đến sau năm 2030, toàn bộ xe taxi tại đô thị sẽ chuyển sang dùng điện hoặc năng lượng xanh), GSM cùng các hãng gọi xe công nghệ như Be Group và Gojek đã bắt đầu triển khai mạnh mẽ việc chuyển đổi sang phương tiện xanh
+1
+2
+. Xu hướng này mở ra một phân khúc thị trường ngách rất lớn cho các mẫu xe điện giá rẻ, có chi phí vận hành và bảo trì thấp
+1
+2
+.
+Thị phần và số liệu lịch sử của Grab: Tài liệu lưu trữ chi tiết bức tranh thị trường thời điểm Grab mua lại Uber Đông Nam Á vào năm 2018
+3
+. Trước khi sáp nhập, tổng lượng xe của Grab và Uber tại Việt Nam đạt 21.724 xe trên tổng số 36.809 xe gọi công nghệ đang hoạt động, tương đương 59,01% thị phần
+3
+. Ngoài ra, số liệu công bố cùng thời kỳ ghi nhận Grab chiếm giữ 95% thị phần mảng taxi liên kết và 71% thị phần mảng xe tư nhân trong khu vực
+4
+5
+.
+Nếu bạn muốn có số liệu cập nhật và chính xác nhất, tôi có thể thực hiện nghiên cứu trên mạng internet để tìm kiếm các báo cáo thị trường độc lập mới nhất về thị phần, doanh thu GMV và lượng chuyến đi của Grab và Xanh SM (GSM) trong giai đoạn 2025 - 2026.
+Bạn có muốn tôi tiến hành nghiên cứu trên web về chủ đề này không?
+
+## Sources
+
+### [1] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Về phía chính sách, dù Chính phủ đã có một số nỗ lực trong việc ưu đãi thuế tiêu thụ đặc biệt cho xe điện (giảm còn 15%, so với mức 35–50% của xe xăng, dầu), nhưng mức ưu đãi này vẫn chưa đủ hấp dẫn để tạo cú hích mạnh cho toàn ngành. Những dòng xe xanh khác như Hybrid (HEV), Plug-in Hybrid (PHEV) cũng không nhận được ưu đãi tương xứng, khiến chúng kém thu hút dù được đánh giá là giải pháp chuyển tiếp phù hợp cho điều kiện hạ tầng Việt Nam hiện tại. Tuy nhiên, tương lai thị trường xe điện vẫn mở ra những tín hiệu tích cực. Quyết định 876 của Chính phủ đặt ra mục tiêu đến sau năm 2030, toàn bộ xe taxi tại đô thị sẽ chuyển sang dùng điện hoặc năng lượng xanh. Đây sẽ là động lực lớn cho các doanh nghiệp trong ngành tăng tốc chuyển đổi. Các hãng như GSM, Be Group hay Gojek đã rục rịch tham gia vào cuộc chơi “xanh hoá đội xe”, mở ra thị trường ngách tiềm năng cho các mẫu xe điện giá rẻ, dễ vận hành và chi phí bảo trì thấp.
+
+### [2] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Về phía chính sách, dù Chính phủ đã có một số nỗ lực trong việc ưu đãi thuế tiêu thụ đặc biệt cho xe điện (giảm còn 15%, so với mức 35–50% của xe xăng, dầu), nhưng mức ưu đãi này vẫn chưa đủ hấp dẫn để tạo cú hích mạnh cho toàn ngành. Những dòng xe xanh khác như Hybrid (HEV), Plug-in Hybrid (PHEV) cũng không nhận được ưu đãi tương xứng, khiến chúng kém thu hút dù được đánh giá là giải pháp chuyển tiếp phù hợp cho điều kiện hạ tầng Việt Nam hiện tại. Tuy nhiên, tương lai thị trường xe điện vẫn mở ra những tín hiệu tích cực. Quyết định 876 của Chính phủ đặt ra mục tiêu đến sau năm 2030, toàn bộ xe taxi tại đô thị sẽ chuyển sang dùng điện hoặc năng lượng xanh. Đây sẽ là động lực lớn cho các doanh nghiệp trong ngành tăng tốc chuyển đổi. Các hãng như GSM, Be Group hay Gojek đã rục rịch tham gia vào cuộc chơi “xanh hoá đội xe”, mở ra thị trường ngách tiềm năng cho các mẫu xe điện giá rẻ, dễ vận hành và chi phí bảo trì thấp.
+
+### [3] The 2018 Restructuring of Vietnam's Ride-Hailing Market: Strategic Exit, Monopoly Contests, and Platform Labor Friction
+
+> The investigation established that the post-merger market share of Grab exceeded the 50% monopoly threshold.[5] Specifically, the combined vehicle count of Grab and Uber prior to the transaction stood at 21,724 out of 36,809 total active ride-hailing vehicles, representing a commanding 59.01% market share.[5] Based on these findings, the VCCA proposed a penalty consisting of a fine equal to 5% of the total revenue in the fiscal year 2017 for each involved enterprise.[5] Timeline / Phase Event / Action Legal & Regulatory Implication Outcomes / Status March 2018 Grab acquires Uber's Southeast Asian assets in exchange for 27.5% equity.[2, 3] Triggered economic concentration reviews in Singapore and Vietnam.[4, 5] Uber ceased operations in Vietnam on April 8, 2018.[1] May – Dec 2018 VCCA conducts anti-monopoly investigation.[5] Assessment of market dominance (combined share calculated at 59.01%).[5] Concluded transaction violated the Competition Law regarding concentration; proposed 5% revenue fines.[1, 5] September 2018 Singapore CCS ruling.[4] Fined Grab and Uber 9.5 million USD for anti-competitive merger.[4] Demonstrated regional regulatory pushback.[4] June 2019 Vietnam Competition Council final ruling.[5, 6] Analyzed corporate structures; noted Uber Vietnam did not hold independent transport assets.[5] Ruled the transaction did not technically constitute a prohibited acquisition.[5]
+
+### [4] Grab mua lại Uber Đông Nam Á & Bài học về thích ứng thị trường - MarketingAI
+
+> Grab mua lại Đông Nam Á vì hãng có thể đáp ứng tốt nhu cầu cho cả tài xế lái xe Ngoài việc thỏa mãn nhu cầu khách hàng, Grab cũng chú ý nhiều hơn đến nhu cầu của đối tác lái xe. Grab đã làm việc với một số nhà sản xuất điện thoại để cung cấp smartphone cho các tài xế nghèo, và dạy họ cách sử dụng những chiếc smartphone này. Năm ngoái, Grab tuyên bố rằng hãng đã chiếm được 95% thị phần vận chuyển bằng taxi liên kết và 71% thị phần xe tư nhân . Hãng đã hoàn thành hơn 1 tỷ cuốc xe tại Đông Nam Á. Uber đã không công bố thị phần của mình tại Đông Nam Á, nhưng tháng 6 năm ngoái hãng này đã tuyên bố rằng đã vượt qua mốc 5 tỷ cuốc xe trên toàn thế giới. Uber hiện đang hoạt động tại hơn 80 quốc gia.
+
+### [5] Grab mua lại Uber Đông Nam Á & Bài học về thích ứng thị trường - MarketingAI
+
+> Grab mua lại Đông Nam Á vì hãng có thể đáp ứng tốt nhu cầu cho cả tài xế lái xe Ngoài việc thỏa mãn nhu cầu khách hàng, Grab cũng chú ý nhiều hơn đến nhu cầu của đối tác lái xe. Grab đã làm việc với một số nhà sản xuất điện thoại để cung cấp smartphone cho các tài xế nghèo, và dạy họ cách sử dụng những chiếc smartphone này. Năm ngoái, Grab tuyên bố rằng hãng đã chiếm được 95% thị phần vận chuyển bằng taxi liên kết và 71% thị phần xe tư nhân . Hãng đã hoàn thành hơn 1 tỷ cuốc xe tại Đông Nam Á. Uber đã không công bố thị phần của mình tại Đông Nam Á, nhưng tháng 6 năm ngoái hãng này đã tuyên bố rằng đã vượt qua mốc 5 tỷ cuốc xe trên toàn thế giới. Uber hiện đang hoạt động tại hơn 80 quốc gia.

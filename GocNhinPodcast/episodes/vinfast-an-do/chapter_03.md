@@ -1,0 +1,9 @@
+Ấn Độ luôn duy trì một bức tường thành thuế quan kiên cố để bảo vệ ngành công nghiệp ô tô nội địa. Thuế đánh vào xe nhập khẩu nguyên chiếc lên tới bảy mươi phần trăm đối với xe phổ thông. Và nó chạm ngưỡng một trăm mười phần trăm đối với các dòng xe điện cao cấp. Tuy nhiên, New Delhi đã mở ra một lối đi riêng cho các hãng xe chấp nhận đặt cứ điểm lắp ráp. Chính sách mới hạ thuế linh kiện nhập khẩu xuống mức chỉ mười lăm phần trăm.
+
+Tấm lệnh bài này đi kèm những cam kết ràng buộc vô cùng khắt khe. Nhà sản xuất phải rót tối thiểu năm trăm triệu đô la Mỹ và nội địa hóa năm mươi phần trăm trong năm năm. Đây là bản giao kèo giúp VinFast thiết lập lợi thế chi phí tại Tamil Nadu. Đứng sau chính sách này là một chiến lũy địa chính trị sắc lạnh.
+
+Thông qua quy định Press Note ba, Ấn Độ chặn đứng mọi dòng vốn từ các nước chung biên giới. Nước đi này khiến đoàn quân tiên phong của hãng xe điện BYD bị chặn đứng ngoài cổng thành năm hai nghìn không trăm hai mươi ba. Trong khi đó, gã khổng lồ SAIC bị vây ráp, buộc phải chia sẻ binh quyền cho tài phiệt bản địa.
+
+Chiến lũy Press Note ba vô tình dọn sạch trận địa cho hãng xe Việt. Nhờ tấm hộ chiếu địa chính trị sạch sẽ, VinFast tránh được cuộc chiến dìm giá trực diện với Trung Quốc. Tình hữu nghị bang giao Việt - Ấn nâng tầm vào tháng Năm năm hai nghìn không trăm hai mươi sáu chính là bệ đỡ. Nó giúp hãng xe Việt lập tức cắm cờ doanh số với một nghìn hai trăm ba mươi tám xe đăng ký mới. Kết quả này bất ngờ vượt qua cả BYD với chỉ sáu trăm tám mươi sáu xe.
+
+Nhưng để duy trì vùng đất mới chiếm lĩnh, hãng xe Việt phải giải quyết bài toán tiếp tế và vận hành. Làm thế nào nhà máy Tamil Nadu tối ưu hóa được công suất khổng lồ khi đi vào hoạt động? Giải pháp nằm ở một đòn đánh bao tiêu sỉ từ một hạm đội cơ động.

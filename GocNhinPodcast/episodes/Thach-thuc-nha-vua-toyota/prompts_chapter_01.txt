@@ -1,0 +1,101 @@
+CH01_SC001a [IMAGE]: A large grand conference hall in Beijing in the year 2000, high-ranking government officials sitting in shadows looking at a large wall projection screen displaying automotive industry statistics, in a semi-realistic editorial illustration style, minimalist graphic novel aesthetic, dark warm charcoal (#1A1A1A) background with warm cream (#FFFDF0) outlines, dramatic chiaroscuro lighting, deep noir shadows, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "THỰC TẾ PHŨ PHÀNG (2000)" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC001a [VIDEO]: @CH01_SC001a.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC001b [IMAGE]: A highly detailed technical cutaway blueprint illustration of a Japanese V6 internal combustion engine, showcasing thousands of intricate chrome-plated steel gears and cylinder pistons, glowing terracotta orange (#FF7043) spotlight highlighting the engine block, in a semi-realistic editorial illustration style, dark warm charcoal background, deep chiaroscuro lighting --ar 16:9
+CH01_SC001b [VIDEO]: @CH01_SC001b.png -> slow push-in dolly shot toward the engine block gears preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC002 [IMAGE]: The main entrance gate of the first automotive joint-venture manufacturing plant in China in 1984, foreign and Chinese flags flying side by side next to a bold 50/50 joint-venture logo sign, metallic grey sedan rolling out of the factory bay, in a semi-realistic editorial illustration style, warm organic tones, deep noir shadows, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "LIÊN DOANH 50/50 (1984)" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC002 [VIDEO]: @CH01_SC002.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC003 [IMAGE]: A technology transfer agreement diagram laid out on a dark mahogany table, a Chinese official shaking hands with a foreign automotive executive, a silver engine block scale model sitting between them, in a semi-realistic editorial illustration style, chiaroscuro lighting, dark warm background --ar 16:9
+CH01_SC003 [VIDEO]: @CH01_SC003.png -> slow panning camera shot across the handshaking figures preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC004 [IMAGE]: An automotive assembly line in China where workers in grey uniforms manually assemble foreign car chassis, while in the background a heavy steel door labeled R&D LAB remains strictly locked with a red security seal, in a semi-realistic editorial illustration style, dark noir shadows --ar 16:9
+CH01_SC004 [VIDEO]: @CH01_SC004.png -> slow tracking camera shot along the assembly conveyor belt preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC005 [IMAGE]: High-tech corporate R&D laboratories in Tokyo and Stuttgart, Japanese and German engineers working on precise ECU control software and engine casting machinery, surrounded by deep noir shadows, in a semi-realistic editorial illustration style, slate silver tones --ar 16:9
+CH01_SC005 [VIDEO]: @CH01_SC005.png -> subtle zoom-in shot on the engineering computer screens preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC006a [IMAGE]: Chinese factory workers in protective gear standing along a conveyor belt packing basic auto parts into wooden crates, high-angle wide perspective of a modest manufacturing floor, in a semi-realistic editorial illustration style, muted dark olive background (#1E2522), warm cream outlines --ar 16:9
+CH01_SC006a [VIDEO]: @CH01_SC006a.png -> slow tilt-down camera shot showing the manufacturing floor preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC006b [IMAGE]: Stacks of expensive patent royalty invoice documents piled on an executive desk next to a declining domestic market share chart highlighted in glowing crimson coral red (#EF5350), in a semi-realistic editorial illustration style, deep chiaroscuro contrast --ar 16:9
+CH01_SC006b [VIDEO]: @CH01_SC006b.png -> slow push-in dolly shot toward the royalty invoice documents preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC007 [IMAGE]: A massive Japanese patent archive library filled with towering shelves of mechanical engineering blueprints and patent documents, warm orange spotlight casting long dramatic shadows across the patent files, in a semi-realistic editorial illustration style, dark charcoal aesthetic, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "BỨC TƯỜNG BẰNG SÁNG CHẾ" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC007 [VIDEO]: @CH01_SC007.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC008a [IMAGE]: An older Chinese gasoline car trailing far behind a long line of sleek luxury Japanese and German sedans on a foggy multi-lane highway, low-angle perspective, in a semi-realistic editorial illustration style, dark indigo tones --ar 16:9
+CH01_SC008a [VIDEO]: @CH01_SC008a.png -> smooth forward tracking camera shot following the trailing sedan preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC008b [IMAGE]: A massive supertanker oil vessel docked at a commercial seaport terminal, a prominent energy security chart showing crude oil imports surpassing 60% glowing in crimson red warning color, in a semi-realistic editorial illustration style, deep noir shadows, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "NHẬP KHẨU DẦU MỎ > 60%" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC008b [VIDEO]: @CH01_SC008b.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC009a [IMAGE]: A visionary 60-year-old Asian engineering minister with neat grey hair and a dark suit standing beside an electric motor test rig showing only 20 moving mechanical parts, lit by glowing electric sage green (#81C784) accent light, in a semi-realistic editorial illustration style, clean bold outlines, dark warm charcoal background --ar 16:9
+CH01_SC009a [VIDEO]: @CH01_SC009a.png -> slow push-in dolly shot on the Asian engineering minister preserving his facial features and the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC009b [IMAGE]: An engineering teardown blueprint of a complex internal combustion engine showing over 2,000 intricate components exploded in space, including pistons, camshafts, and valves, in a semi-realistic editorial illustration style, graphic novel aesthetic --ar 16:9
+CH01_SC009b [VIDEO]: @CH01_SC009b.png -> slow rotation camera move around the exploded engine components preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC010a [IMAGE]: The Asian engineering minister presenting a formal document titled New Energy Vehicle Development Strategy Proposal to senior state council officials inside a grand hall in Beijing, in a semi-realistic editorial illustration style, warm organic tones, chiaroscuro lighting, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "ĐỀ ÁN XE NĂNG LƯỢNG MỚI (2000)" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC010a [VIDEO]: @CH01_SC010a.png -> steady shot preserving all details and static graphic layers of the reference image exactly preserving the facial features of the Asian minister and the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC010b [IMAGE]: A bold strategic industrial roadmap illustration leaping over gasoline engines directly toward lithium battery packs and high-power electric traction motors, in a semi-realistic editorial illustration style, electric sage green highlights, dark charcoal background --ar 16:9
+CH01_SC010b [VIDEO]: @CH01_SC010b.png -> smooth pan right camera move along the strategic roadmap preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC011 [IMAGE]: The official launch ceremony of the Ten Cities Thousand Vehicles program in 2009, rows of green electric buses lined up at a public square with a prominent $20 Billion subsidy stat graphic glowing in terracotta orange (#FF7043), in a semi-realistic editorial illustration style, warm cream outlines, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "THẬP THÀNH THIÊN LƯỢNG ($20 BILLION)" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC011 [VIDEO]: @CH01_SC011.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC012 [IMAGE]: A massive automated lithium battery cell manufacturing plant with prominent BYD and CATL logos, robotic arms assembling battery modules, global supply chain chart showing an 80% market share dominance in electric sage green (#81C784), in a semi-realistic editorial illustration style, dark noir shadows --ar 16:9
+CH01_SC012 [VIDEO]: @CH01_SC012.png -> slow tracking camera shot past the robotic assembly arms preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC013 [IMAGE]: A split transition illustration showing a small 1995 mobile phone battery workshop transforming into a massive modern automotive industrial complex with the BYD logo proudly displayed, in a semi-realistic editorial illustration style, graphic novel aesthetic --ar 16:9
+CH01_SC013 [VIDEO]: @CH01_SC013.png -> smooth zoom out camera move showing the industrial expansion preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC014a [IMAGE]: A vast shipping staging yard filled with thousands of brand-new BYD electric vehicles under bright overcast lighting, a prominent digital scoreboard reading 4.6 Million Vehicles in 2025 glowing in terracotta orange (#FF7043), in a semi-realistic editorial illustration style, dark charcoal background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "BYD 2025: 4.6 TRIỆU XE" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC014a [VIDEO]: @CH01_SC014a.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC014b [IMAGE]: A matte-grey BYD electric SUV leading a convoy of new energy vehicles across a futuristic city overpass bridge at dusk, establishing global NEV market leadership, in a semi-realistic editorial illustration style, sleek lighting, deep noir shadows --ar 16:9
+CH01_SC014b [VIDEO]: @CH01_SC014b.png -> dynamic low-angle tracking camera move following the leading electric SUV preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC015 [IMAGE]: A sharp 50-year-old Asian tech executive with thin wire-rimmed glasses and dark hair wearing a dark business suit smiling confidently at a shareholder conference, with BYD global expansion slogans projected behind him, in a semi-realistic editorial illustration style, chiaroscuro lighting --ar 16:9
+CH01_SC015 [VIDEO]: @CH01_SC015.png -> slow push-in camera move toward the smiling Asian tech executive preserving his facial features and the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC016a [IMAGE]: The Asian tech executive in wire-rimmed glasses speaking into press microphones at an international auto show podium, gesturing decisively, in a semi-realistic editorial illustration style, dark warm background with warm cream outlines --ar 16:9
+CH01_SC016a [VIDEO]: @CH01_SC016a.png -> subtle pan right camera move following executive hand gesture preserving his facial features and the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC016b [IMAGE]: A large stage presentation screen displaying a comparison graphic stating BYD to surpass Toyota for global #1 spot in 5 years, BYD logo and Toyota logo side by side, in a semi-realistic editorial illustration style, terracotta orange highlights, dark charcoal background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "TUYÊN BỐ VƯỢT TOYOTA IN 5 YEARS" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC016b [VIDEO]: @CH01_SC016b.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC017 [IMAGE]: A global market bar chart showing electric vehicle sales surging past 20 million units, representing 27% total market share, glowing in electric sage green (#81C784), in a semi-realistic editorial illustration style, chiaroscuro lighting --ar 16:9
+CH01_SC017 [VIDEO]: @CH01_SC017.png -> slow tilt-up camera move along the rising market bar chart preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC018 [IMAGE]: Financial newspaper frontpages with headline graphics reading End of Gasoline Era?, shadowy silhouette of a traditional combustion engine sedan in the background, in a semi-realistic editorial illustration style, muted dark olive green background (#1E2522) --ar 16:9
+CH01_SC018 [VIDEO]: @CH01_SC018.png -> slow push-in dolly shot toward the newspaper headlines preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC019 [IMAGE]: A wide-angle cinematic perspective of a busy global seaport terminal with container cranes loading automotive car carrier ships under dramatic overcast skies, in a semi-realistic editorial illustration style, deep noir shadows --ar 16:9
+CH01_SC019 [VIDEO]: @CH01_SC019.png -> wide slow panning camera shot across the busy shipping port terminal preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC020a [IMAGE]: A crowded urban Chinese city street at night under rain, neon price tags and fierce competition graphics flashing across new energy vehicle showrooms, in a semi-realistic editorial illustration style, terracotta orange highlights, dark charcoal background --ar 16:9
+CH01_SC020a [VIDEO]: @CH01_SC020a.png -> low-angle forward tracking camera shot down the rainy city street preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC020b [IMAGE]: Toyota Prius and RAV4 Hybrid vehicles driving smoothly along a sunny North American highway and Tokyo boulevard under clear autumn skies, in a semi-realistic editorial illustration style, slate silver and sage green tones --ar 16:9
+CH01_SC020b [VIDEO]: @CH01_SC020b.png -> smooth side tracking camera move along the hybrid cars preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC021a [IMAGE]: Toyota corporate headquarters building in Toyota City, Japan, a digital scoreboard displaying a record-breaking 11.32 Million Vehicles global sales volume glowing in silver and turquoise (#26A69A), in a semi-realistic editorial illustration style, dark charcoal background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "TOYOTA: KỶ LỤC 11.32 TRIỆU XE" in bold clean typography with heavy black drop shadow --ar 16:9
+CH01_SC021a [VIDEO]: @CH01_SC021a.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH01_SC021b [IMAGE]: A polished chrome Toyota emblem statue glowing brightly atop a corporate tower, signifying global scale leadership, in a semi-realistic editorial illustration style, sleek metallic aesthetic, chiaroscuro lighting --ar 16:9
+CH01_SC021b [VIDEO]: @CH01_SC021b.png -> slow low-angle tilt-up camera shot toward the chrome emblem preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC022a [IMAGE]: A split-screen illustration: on the left side, a glowing terracotta orange (#FF7043) stream of BYD electric vehicles driving at high speed representing rapid tech transformation, in a semi-realistic editorial illustration style, graphic novel aesthetic --ar 16:9
+CH01_SC022a [VIDEO]: @CH01_SC022a.png -> fast forward tracking move on the left split screen preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC022b [IMAGE]: On the right side of the split-screen illustration, a solid mechanical Toyota manufacturing machine with a chrome logo standing firmly, representing legacy manufacturing resilience, in a semi-realistic editorial illustration style, dark warm charcoal background --ar 16:9
+CH01_SC022b [VIDEO]: @CH01_SC022b.png -> slow push-in dolly shot on the Toyota machine preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC023 [IMAGE]: A low-angle cinematic view of the Toyota headquarters tower standing firm amidst surrounding waves of orange and green financial market graphics, in a semi-realistic editorial illustration style, chiaroscuro lighting, deep noir shadows --ar 16:9
+CH01_SC023 [VIDEO]: @CH01_SC023.png -> low-angle slow tilt-up camera shot showing the tower height preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC024 [IMAGE]: A global automotive market share map with shifting market segment colors, leaving a large question mark pointing toward the next chapter, in a semi-realistic editorial illustration style, dark charcoal background --ar 16:9
+CH01_SC024 [VIDEO]: @CH01_SC024.png -> slow zoom-in camera shot toward the global market map question mark preserving the details of the reference image, 8-second continuous documentary video --ar 16:9

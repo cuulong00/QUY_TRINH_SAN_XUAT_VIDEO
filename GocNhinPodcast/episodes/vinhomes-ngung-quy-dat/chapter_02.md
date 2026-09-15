@@ -1,0 +1,7 @@
+Chúng ta thường nhìn những tập đoàn lớn với sự ngưỡng mộ về quy mô tài sản. Nhưng ít ai phân tích chi phí vận hành để duy trì bộ máy khổng lồ đó. Hãy mở bảng cân đối kế toán của Vinhomes tính đến cuối quý 1 năm 2026. Tổng nợ vay tài chính của doanh nghiệp đã chạm mốc 162.067 tỷ đồng. Tỷ lệ nợ trên vốn chủ sở hữu đạt 0,59 lần. Nhiều nhà phân tích đánh giá đây là ngưỡng đòn bẩy an toàn. Đúng, nếu doanh nghiệp không phải trả lãi.
+
+Thực tế, chi phí lãi vay trong quý 1 năm 2026 của Vinhomes đạt 2.680 tỷ đồng. Nghĩa là mỗi ngày, doanh nghiệp phải trả khoảng 30 tỷ đồng tiền lãi. Nếu tính gộp toàn hệ thống tập đoàn mẹ Vingroup, chi phí lãi vay hàng năm ở mức đáng kể, với lãi suất vay bình quân dao động từ 11% đến 12,5%. Đây là yếu tố đòi hỏi năng lực quản trị dòng tiền hết sức linh hoạt.
+
+Bối cảnh tài chính này đòi hỏi Vinhomes phải tối ưu hóa phân bổ dòng vốn, hạn chế chôn vốn lưu động vào quỹ đất chưa giải phóng mặt bằng. Mọi nguồn vốn lưu động phải được xoay vòng nhanh nhất. Đặc biệt là sau đợt chi trả cổ tức tiền mặt kỷ lục 60%. Đợt cổ tức này đã làm giảm 24.644 tỷ đồng tiền mặt của Vinhomes. Lượng tiền mặt dự trữ giảm mạnh 28,3%, xuống còn khoảng 35.838 tỷ đồng.
+
+Để chủ động củng cố nguồn lực tài chính dự phòng, doanh nghiệp lựa chọn phát hành thêm trái phiếu. Với mức lãi suất phát hành mới lên tới 12,5% mỗi năm. Rõ ràng, doanh nghiệp đang thực hiện các bước tái cơ cấu nguồn vốn để thích ứng tối đa với sự dịch chuyển chi phí dưới tác động của Luật Đất đai mới.

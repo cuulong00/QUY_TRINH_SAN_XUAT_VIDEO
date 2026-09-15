@@ -1,0 +1,18 @@
+# Global Research Synthesis: Tại sao Mỹ Bắt Buộc Cứu Đồng Yên Nhật?
+
+## Bản chất Cơ chế vĩ mô (Systemic Mechanisms)
+Sự sụp đổ của đồng Yên và quyết định can thiệp của Mỹ không phải là những sự kiện độc lập, mà là kết quả của chuỗi liên kết nhân quả gốc trong hệ thống tiền tệ quốc tế:
+- **Hố tử thần Chênh lệch lãi suất (Interest Rate Differential):** Cục Dự trữ Liên bang Mỹ (Fed) duy trì mức lãi suất cao "higher for longer" (3.50% - 3.75%) để đối phó với lạm phát dai dẳng. Ngược lại, Nhật Bản bị kẹt trong bẫy nợ công hơn 250% GDP, khiến Ngân hàng Trung ương Nhật Bản (BOJ) không thể tăng lãi suất mạnh. Khoảng cách này tạo ra một "lực hút chân không", đẩy dòng vốn tháo chạy khỏi Nhật Bản để tìm kiếm lợi suất bằng USD.
+- **Ván cược Yen Carry Trade và Cú ép mua khống (Short Squeeze):** Dòng vốn khổng lồ vay Yên (lãi suất cực thấp) để đầu tư vào các tài sản rủi ro (cổ phiếu công nghệ, tiền điện tử ở Mỹ). Sự bành trướng của Carry Trade khiến đồng Yên bị bán khống kịch liệt. Khi có động thái can thiệp bất ngờ (như NY Fed thực hiện lệnh mua Yên), đồng Yên bật tăng giá mạnh 3%, giáng đòn chí mạng vào giới đầu cơ. Rơi vào trạng thái hoảng loạn (Margin Call), họ buộc phải cuống cuồng mua lại Yên để đóng trạng thái cắt lỗ, tạo ra lực mua cộng hưởng ép tỷ giá vọt lên (Short Squeeze).
+- **Cơ chế FIMA Repo (FIMA Repo Facility):** Để cứu tỷ giá, Nhật Bản cần USD. Nếu Nhật bán đứt Trái phiếu Kho bạc Mỹ ra thị trường mở, giá trái phiếu sẽ sụp đổ, đẩy lợi suất (chi phí đi vay) của Mỹ tăng vọt. Thay vì vậy, Fed sử dụng FIMA Repo: Cho phép Nhật thế chấp Trái phiếu để vay USD trực tiếp. Cơ chế này cung cấp thanh khoản ngoại hối mà không làm đứt gãy thị trường nợ của Mỹ.
+
+## Trục xung đột & Đánh đổi (Conflicts & Strategic Trade-offs)
+- **Sự trừng phạt đầu cơ vs Sự sống còn của Phố Wall:** Cú "quay xe" tàn khốc giết chết giới bán khống Yên bề ngoài trông như một đòn trừng phạt của thị trường, nhưng thực chất là hành động phòng vệ của Mỹ. Nếu dòng vốn Yen Carry Trade tháo chạy một cách mất kiểm soát, giới đầu tư sẽ ồ ạt bán tháo cổ phiếu công nghệ và tài sản Mỹ để lấy tiền bù lỗ. Hàng nghìn tỷ đô la bốc hơi chỉ trong chớp mắt (như cú sập 12% của Nikkei hay 1 nghìn tỷ vốn hóa công nghệ Mỹ). Mỹ phải phối hợp can thiệp để tạo ra "hạ cánh mềm" (soft landing) cho đà tăng của Yên, ép giới đầu cơ thu hẹp đòn bẩy có trật tự, từ đó bảo vệ chu kỳ thanh khoản của chính mình.
+- **Thuốc giảm đau vs Căn bệnh gốc rễ:** Việc can thiệp bằng FIMA Repo hay mở kho dự trữ ngoại hối chỉ là liều "thuốc giảm đau", dán một miếng băng gạc lên vết thương sâu. Chừng nào lạm phát Mỹ chưa dịu lại và Fed chưa hạ lãi suất mạnh, căn nguyên khiến Yên bị bán khống vẫn y nguyên. Số phận của Yên không nằm trong tay BOJ, mà hoàn toàn phụ thuộc vào lạm phát tại Mỹ.
+- **Cuộc chiến công nghệ vs Bẫy tỷ giá:** Đồng Yên suy yếu khiến chi phí nhập khẩu năng lượng và máy móc quang khắc tăng vọt, đe dọa các siêu dự án bán dẫn (Rapidus 2nm, TSMC Kumamoto) mà Mỹ và Nhật đang thiết lập để tái định hình chuỗi cung ứng công nghệ toàn cầu.
+
+## Điểm nối thực tế (Vietnam Connectivity)
+Sự kiện bán khống hoảng loạn và ván cờ tiền tệ Mỹ - Nhật không xa vời, mà phản chiếu chính những rủi ro vĩ mô quen thuộc:
+- Áp lực từ chênh lệch lãi suất với USD buộc tỷ giá nội tệ mất giá, kéo theo "lạm phát nhập khẩu" tàn phá sức mua của người dân bình thường. 
+- Khi một quốc gia yếu thế về tiền tệ đối đầu với làn sóng đầu cơ toàn cầu, dự trữ ngoại hối luôn đứng trước nguy cơ cạn kiệt.
+- Kịch bản này là bài học cảnh tỉnh đắt giá về quản trị rủi ro vĩ mô: Bất kỳ quốc gia nào khi hội nhập sâu rộng đều có thể trở thành nạn nhân của những dòng vốn đảo chiều đột ngột nếu cấu trúc nợ và cơ chế tài chính nội địa thiếu vững chắc.

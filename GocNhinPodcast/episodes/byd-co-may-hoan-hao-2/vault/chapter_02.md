@@ -1,0 +1,12 @@
+Tại sao phương Tây không thể thẳng tay cấm cửa B Y D ngay từ đầu? Lời giải thích nằm ở một sự mỉa mai của lịch sử. Nước Mỹ và châu Âu đang bị trói chặt bởi chính chiếc áo nịt ngực mang tên thương mại tự do, do chính họ dệt nên.
+
+Dưới lăng kính của Tổ chức Thương mại Thế giới, bạn không thể tùy tiện đóng sập biên giới chỉ vì hàng hóa của đối thủ quá rẻ. Đặc biệt là khi một chiếc xe B Y D không vi phạm bất kỳ bộ luật nào. Nó không phát thải, và thậm chí vượt qua bài kiểm tra an toàn năm sao Euro N CAP. Việc đơn phương cấm đoán vô cớ sẽ xé nát bản hiến pháp của thương mại toàn cầu, đồng thời biến các tập đoàn phương Tây đang làm ăn tại Trung Quốc trở thành những con tin để trả đũa.
+
+Nhưng sự tê liệt đáng sợ nhất không nằm ở luật quốc tế, mà nằm ở một cuộc nội chiến ngay trong lòng các chính phủ sở tại. B Y D khéo léo đóng một chiếc nêm chia rẽ trực tiếp giới tinh hoa chính trị. Ở một cực, Bộ Môi trường thèm khát những chiếc xe điện giá rẻ để hoàn thành mục tiêu Net Zero đúng hạn. Cùng lúc đó, những người dân đang bị lạm phát vắt kiệt cũng coi xe giá rẻ như một cứu cánh để duy trì sinh hoạt.
+
+Ở cực ngược lại, Bộ Công Thương lại phải đối diện với cơn ác mộng khi các thành trì công nghiệp nội địa có nguy cơ sụp đổ. Để bảo vệ hàng vạn công nhân của Volkswagen hay Stellantis, họ buộc phải dâng cao hàng rào thuế quan. Nhưng trớ trêu thay, mỗi đồng thuế giáng xuống B Y D lại trực tiếp đánh vào túi tiền của chính người tiêu dùng trong nước. Sự giằng xé giữa sinh thái và sinh kế này khiến mọi phản ứng phòng thủ của phương Tây đều trở nên ngập ngừng, chậm chạp và bộc lộ vô số lỗ hổng.
+
+Và B Y D luôn biết cách trườn qua những lỗ hổng đó với một tốc độ đáng kinh ngạc. Khi châu Âu chật vật thông qua được gói thuế chống trợ cấp hai mươi bảy phần trăm nhắm vào xe thuần điện, B Y D lập tức chuyển hướng. Họ ồ ạt đưa sang các dòng xe lai điện cắm sạc. Lợi dụng khe hở pháp lý, dòng xe này chỉ phải chịu mức thuế nhập khẩu vỏn vẹn mười phần trăm. Đồng thời, một siêu nhà máy được khởi công thần tốc tại Hungary. Chỉ vài năm nữa, những chiếc B Y D lăn bánh ở lục địa già sẽ mang nhãn mác "Sản xuất tại châu Âu", phế võ công toàn bộ hệ thống phòng vệ biên giới.
+
+Phương Tây đang cố gắng chặn đứng một trận lụt bằng những hàng rào giấy. Nếu cứ bị cuốn vào một trò chơi vắt kiệt để phân định thắng thua bằng thuế quan, không một thế lực nào có thể cản bước B Y D.
+Để sinh tồn, thế giới cần một bàn cờ hoàn toàn khác.

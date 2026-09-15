@@ -1,0 +1,17 @@
+# chapter_06.md
+
+Con số đó là sản lượng bàn giao thực tế.
+
+VinFast đã chi hàng tỷ đô la xây nền móng. Nhà máy đã dựng xong. Robot đã lập trình. Dây chuyền sơn đã vận hành. Mạng lưới nghiên cứu từ Hà Nội đến Turin đã thiết lập. Giai đoạn đốt tiền xây hạ tầng căn bản đã qua. Bây giờ là giai đoạn gặt hái hoặc trả giá.
+
+Phẫu thuật tách mảng sản xuất là nước đi của một người hiểu rằng, trên bàn cờ tài chính quốc tế, một bảng cân đối kế toán sạch có giá trị hơn một nhà máy đồ sộ. Giữ lại bộ não, đẩy thể xác cơ khí ra cho một pháp nhân mới gánh chịu. Kế hoạch trông hoàn hảo trên giấy.
+
+Nhưng giấy không sản xuất xe. Nhà máy sản xuất xe. Và nhà máy đó giờ đây nằm trong tay Công ty Tương Lai với khoản nợ một trăm tám mươi hai nghìn tỷ đồng treo trên đầu. Nếu sản lượng đạt ba trăm nghìn xe năm hai nghìn không trăm hai mươi sáu, tất cả ăn khớp. Nếu không, sợi dây nối giữa bộ não và thể xác sẽ căng đến giới hạn chịu đựng.
+
+Quay lại câu hỏi đầu tiên: VinFast có thực sự sắp có lãi? Câu trả lời không nằm trong bất kỳ công thức kế toán nào. Nó nằm trong số lượng xe mà người Việt Nam và thế giới thực sự mua và sử dụng mỗi ngày. Sản lượng thực tế là phán quan duy nhất.
+
+Nếu quý vị muốn theo dõi tiếp diễn biến của câu chuyện này qua các phân tích chuyên sâu tiếp theo, hãy đăng ký kênh Góc Nhìn Podcast để không bỏ lỡ.
+
+Theo bạn, VinFast có đạt cột mốc ba trăm nghìn xe bàn giao trong năm hai nghìn không trăm hai mươi sáu để kích hoạt kịch bản thắng hay không? Hãy để lại quan điểm của bạn trong phần bình luận.
+
+Tỷ phú Phạm Nhật Vượng đã đặt cược. Thị trường đã mở. Và đồng hồ đang đếm ngược.

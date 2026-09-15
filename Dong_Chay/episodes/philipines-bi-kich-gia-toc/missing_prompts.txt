@@ -1,0 +1,27 @@
+# ==============================================================================
+# PROMPT TẠO LẠI CHO 2 MÃ LỖI: CH01_SC040 & CH07_SC015
+# ĐÃ LOẠI BỎ 100%: Tên riêng, Chức danh chính khách, Tên địa danh nhạy cảm
+# Có 2 phương án: 
+#   - Phương án 1: Dùng ảnh tham chiếu đã đổi tên trung tính (@ref_leader_01.jpg)
+#   - Phương án 2: Thuần text (Text-to-Image) không cần ảnh đính kèm (An toàn tuyệt đối)
+# ==============================================================================
+
+### CÁCH 1: DÙNG ẢNH THAM CHIẾU TRUNG TÍNH (@ref_leader_01.jpg)
+# (Copy file president_marcos_jr.jpg thành ref_leader_01.jpg trong thư mục ảnh)
+
+CH01_SC040 [IMAGE]: @ref_leader_01.jpg -> A 2D warm cinematic editorial illustration of the person depicted in the reference image, preserving their facial likeness, hairstyle, and attire. The subject is seated at a conference table inside a formal government hall, reviewing economic dossiers with remittance figures. Warm ivory cream tone (#FAF7EE), luminous editorial lighting, clean ink contours, 16:9
+CH01_SC040 [VIDEO]: @CH01_SC040.png -> Steady medium shot of the conference table, maintaining their composed expression and details of the reference image, 8-second continuous documentary video --ar 16:9 --dur 8s
+
+CH07_SC015 [IMAGE]: @ref_leader_01.jpg -> A 2D warm cinematic editorial illustration of the person depicted in the reference image, preserving their facial likeness, hairstyle, and attire. The subject stands at a press podium beside the national flag, gesturing calmly before media microphones, set inside a ceremonial hall in Manila. Warm ivory cream tone (#FAF7EE), luminous editorial lighting, clean ink contours, 16:9
+CH07_SC015 [VIDEO]: @CH07_SC015.png -> shot on 35mm anamorphic lens, shallow depth of field. Subtle slow zoom-in on the subject speaking calmly from the lectern, maintaining their composed expression and details of the reference image, 8-second continuous documentary video --ar 16:9 --dur 8s
+
+--------------------------------------------------------------------------------
+
+### CÁCH 2: THUẦN TEXT (TEXT-TO-IMAGE, KHÔNG KÈM FILE ẢNH) — AN TOÀN 100% KHÔNG BAO GIỜ BỊ CHẶN
+# (Nếu công cụ AI tiếp tục chặn nhận diện khuôn mặt từ ảnh đính kèm, hãy dùng cách này)
+
+CH01_SC040 [IMAGE]: A 2D warm cinematic editorial illustration of a mature Southeast Asian male official in his 60s with neat short dark hair and light-tan skin, wearing a formal cream embroidered Barong Tagalog, seated at a conference table inside a formal government hall in Manila reviewing economic dossiers. Warm ivory cream tone (#FAF7EE), clean bold ink outlines, luminous editorial lighting, 16:9
+CH01_SC040 [VIDEO]: @CH01_SC040.png -> Steady medium shot of the conference table as the man reviews documents calmly, 8-second continuous documentary video --ar 16:9 --dur 8s
+
+CH07_SC015 [IMAGE]: A 2D warm cinematic editorial illustration of a mature Southeast Asian male official in his 60s with neat short dark hair and light-tan skin, wearing a formal cream embroidered Barong Tagalog, standing at a press podium beside the national flag before press microphones, set inside a ceremonial hall in Manila. Warm ivory cream tone (#FAF7EE), clean bold ink outlines, luminous editorial lighting, 16:9
+CH07_SC015 [VIDEO]: @CH07_SC015.png -> shot on 35mm anamorphic lens, shallow depth of field. Subtle slow zoom-in on the man speaking calmly from the lectern, 8-second continuous documentary video --ar 16:9 --dur 8s

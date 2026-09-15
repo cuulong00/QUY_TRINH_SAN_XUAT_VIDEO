@@ -1,0 +1,217 @@
+---
+title: "Khái niệm Illusion of Control (Langer, 1975). Tại sao việc cung cấp các thông tin phân tích, số liệu thống kê thể thao và các tính năng tương tác thời gian thực (như Cash-out, Live betting) của nhà cái lại kích thích vỏ não trước trán (PFC) và làm gia tăng ảo tưởng này ở người chơi? Phân tích cách thiết kế giao diện của nhà cái can thiệp vào bộ lọc nhận thức."
+type: nblm-answer
+asked_at: 2026-07-06T07:28:45.179Z
+notebook_url: "https://notebooklm.google.com/notebook/d88daa94-be32-4440-a813-5a9b27868e83"
+session_id: "cc24ee6a"
+citations_count: 17
+sources:
+  - "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá"
+  - "Illusion of control - Wikipedia"
+  - "The illusion of control in problematic gambling ... - charlotte eben"
+  - "Reward Anticipation Dynamics during Cognitive Control and Episodic Encoding: Implications for Dopamine - Frontiers"
+  - "World Cup betting boom raises concerns about gambling harm - Djavad Mowafaghian Centre for Brain Health | DMCBH"
+  - "and Behavioral Addictions"
+  - "More frequent use of live sports-betting features is associated with increased risk of gambling harm: Evidence from a case-control design - PubMed"
+  - "Online gambling and suicide: Gambling with lives - PMC - NIH"
+---
+
+# Khái niệm Illusion of Control (Langer, 1975). Tại sao việc cung cấp các thông tin phân tích, số liệu thống kê thể thao và các tính năng tương tác thời gian thực (như Cash-out, Live betting) của nhà cái lại kích thích vỏ não trước trán (PFC) và làm gia tăng ảo tưởng này ở người chơi? Phân tích cách thiết kế giao diện của nhà cái can thiệp vào bộ lọc nhận thức.
+
+> Asked on 2026-07-06T07:28:45.179Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/d88daa94-be32-4440-a813-5a9b27868e83)
+
+## Answer
+
+Thoughts
+Ảo tưởng kiểm soát (Illusion of Control), được nhà tâm lý học Ellen Langer định nghĩa lần đầu tiên vào năm 1975, là sự kỳ vọng về xác suất thành công cá nhân cao hơn một cách bất hợp lý so với xác suất thực tế khách quan
+1
+2
+.
+Hiện tượng này bản chất là sự nhầm lẫn giữa tình huống cần kỹ năng (skill situations) và tình huống hoàn toàn ngẫu nhiên (chance situations)
+1
+3
+. Sự sai lệch nhận thức này xuất hiện khi các "dấu hiệu kỹ năng" (skill cues) — bao gồm quyền tự chọn, sự chủ động tham gia, tính cạnh tranh và sự quen thuộc với các yếu tố của trò chơi — được lồng ghép một cách cố ý vào một bối cảnh ngẫu nhiên
+Dưới góc độ khoa học nhận thức, việc nhà cái cung cấp các số liệu thống kê thể thao cùng các tính năng tương tác thời gian thực (như Cash-out, Live betting) chính là phương thức kích thích vỏ não trước trán (PFC) để kiến tạo và khuếch đại ảo tưởng này.
+I. CƠ CHẾ KÍCH THÍCH VỎ NÃO TRƯỚC TRÁN (PFC) VÀ GIA TĂNG ẢO TƯỞNG KIỂM SOÁT
+Vỏ não trước trán (Prefrontal Cortex - PFC) là trung tâm điều hợp các chức năng hành vi cao cấp của não bộ, bao gồm việc kiểm soát lý trí, phân tích thông tin logic, đánh giá rủi ro và ức chế các xung động bộc phát
+6
+7
+. Sự can thiệp của các tính năng công nghệ cá cược hiện đại lên vùng não này được giải thích qua ba cơ chế:
+1. Sự can thiệp của dữ liệu phân tích và số liệu thống kê (Kích hoạt PFC ảo)
+Thao túng nhận thức: Cá độ bóng đá khác với các trò chơi may rủi thuần túy (như xổ số) ở chỗ nó chứa một mật độ dày đặc các thông tin thực tế (lịch sử đối đầu, phong độ cầu thủ, chiến thuật, chấn thương)
+1
+8
+.
+Đánh lừa hệ thống phân tích: Khi người chơi thu thập và phân tích lượng dữ liệu khổng lồ này, vỏ não trước trán (PFC) bị buộc phải kích hoạt mạnh mẽ để thực hiện các phép tính toán logic và lập kế hoạch
+6
+7
+. Hoạt động nhận thức phức tạp này đánh lừa não bộ rằng người chơi đang áp dụng "kỹ năng" và tri thức chuyên môn để tác động lên kết quả, thay vì đang đối mặt với một trò chơi có tính ngẫu nhiên và biến động cực kỳ cao
+1
+8
+. Sự nhầm lẫn này tạo ra giá trị sở hữu ảo và củng cố niềm tin phi lý vào năng lực dự đoán cá nhân
+8
+9
+.
+2. Cược trực tiếp (Live/In-play betting) làm suy kiệt tài nguyên của PFC
+Phá vỡ cấu trúc thời gian: Cược trực tiếp cho phép người chơi đặt cược liên tục vào mọi vi khoảnh khắc của trận đấu (thẻ vàng tiếp theo, quả phạt góc tiếp theo)
+6
+10
+.
+Quá tải nhận thức: Việc phải đưa ra các quyết định đặt cược lặp đi lặp lại với nhịp độ dồn dập kích hoạt dòng giải phóng dopamine liên tục
+6
+. Trạng thái kích thích cao độ này không cho phép vỏ não trước trán (PFC) có thời gian nghỉ ngơi để phục hồi khả năng phán đoán logic và thực hiện chức năng ức chế xung động
+6
+11
+. Khi tài nguyên của PFC bị suy kiệt, bộ lọc lý trí bị vô hiệu hóa, nhường chỗ cho hệ thống dopaminergic mesolimbic (hệ thống "Wanting" - thèm khát) dẫn dắt hành vi một cách bốc đồng và mù quáng
+6
+12
+.
+3. Tính năng Cash-out (Rút tiền sớm) và "Tính khả đảo nhận thức" (Perceived Reversibility)
+Giảm thiểu cảm giác rủi ro: Tính năng Cash-out cho phép người chơi đóng vị thế đặt cược trước khi trận đấu kết thúc để cắt lỗ hoặc nhận một phần thưởng nhỏ
+13
+14
+.
+Hạ thấp phòng vệ của hạch hạnh nhân: Cơ chế này tạo ra khái niệm "tính khả đảo" (perceived reversibility) trong tâm lý học
+13
+. Khi biết mình có thể chủ động "rút lui" bất cứ lúc nào, PFC của người chơi giải mã tình huống này là "có thể kiểm soát được rủi ro"
+13
+. Trạng thái này làm hạ thấp ngưỡng phòng vệ tự nhiên của hạch hạnh nhân (amygdala - vùng xử lý nỗi sợ và rủi ro), khiến người chơi sẵn sàng chấp nhận các mức độ rủi ro khách quan cao hơn và tăng số tiền đặt cược trung bình (lên tới 35% theo nghiên cứu thực nghiệm)
+11
+13
+.
+II. PHÂN TÍCH CÁCH THIẾT KẾ GIAO DIỆN NHÀ CÁI CAN THIỆP VÀO BỘ LỌC NHẬN THỨC
+Các nền tảng ứng dụng cá cược trực tuyến được thiết kế tinh vi để can thiệp trực tiếp vào bộ lọc nhận thức của người chơi, biến các quyết định lý trí thành các hành vi phản xạ vô thức thông qua các thủ pháp thiết kế:
+[Kích thích Thị giác/Thính giác] ──► Kích hoạt Hệ thống "Wanting" (Dopaminergic) ──► Thu hút chú ý vô thức [12]
+[Triệt tiêu Ma sát Giao dịch]   ──► Loại bỏ khoảng dừng của PFC                 ──► Thúc đẩy cược liên tục [6, 15]
+[Tái khung nhận thức (Trading)] ──► Tránh bộ lọc phòng vệ rủi ro của Amygdala   ──► Bình thường hóa cờ bạc [15]
+1. Gán "Sự nổi bật khuyến khích" (Incentive Salience) thông qua Cues giao diện
+Tạo phản xạ có điều kiện: Giao diện ứng dụng của nhà cái liên tục sử dụng các kích thích có độ nổi bật cao như: biểu tượng rực rỡ, âm thanh báo hiệu hân hoan khi có bàn thắng, và bảng tỷ lệ cược (odds) liên tục nhấp nháy chuyển màu xanh/đỏ
+12
+.
+Thao túng hệ thống "Wanting": Theo Thuyết nhạy cảm hóa khuyến khích, các kích thích trực quan này hoạt động như các "nam châm động lực"
+12
+. Chúng can thiệp vào bộ lọc nhận thức bằng cách hướng sự chú ý của người chơi một cách vô thức vào các cơ hội cá cược, kích hoạt hệ thống thèm khát "Wanting" mạnh mẽ ngay cả khi người chơi không còn cảm nhận được niềm vui sướng thực tế ("Liking" bị suy giảm do dung nạp)
+12
+15
+.
+2. Triệt tiêu "Ma sát nhận thức" (Cognitive Friction) để tạo Vòng lặp vô tận (Frictionless Loop)
+Tối ưu hóa hành vi: Nhà cái tích hợp luồng phát sóng trực tiếp (live-streaming) trận đấu ngay bên trong ứng dụng
+6
+14
+. Đi kèm với đó là liên kết ví điện tử, cổng thanh toán một chạm cho phép nạp tiền và đặt cược tức thì
+16
+17
+.
+Ngăn chặn sự can thiệp của lý trí: Bằng cách loại bỏ hoàn toàn các rào cản vật lý và thời gian (ma sát giao dịch), nhà cái ngăn chặn sự xuất hiện của các "khoảng nghỉ nhận thức"
+6
+18
+. Người chơi bị cuốn vào một vòng lặp hành vi tự động: Xem bóng -> Kích thích -> Đặt cược ngay lập tức -> Thua sát nút (Near-miss) -> Nạp tiền một chạm để gỡ gạc (Loss-chasing)
+. PFC hoàn toàn bị gạt ra ngoài lề trong chu trình phản xạ nhanh này
+6
+18
+.
+3. Tái khung nhận thức (Cognitive Reframing) dưới dạng "Giao dịch tài chính"
+Ngụy trang hành vi: Giao diện cá cược thể thao hiện đại, đặc biệt là các tính năng cược trực tiếp và Cash-out, được thiết kế mô phỏng rất giống các bảng giao dịch tài chính chuyên nghiệp như chứng khoán, ngoại hối hay tiền mã hóa
+18
+.
+Vượt qua màng lọc đạo đức: Sự tương đồng giả tạo này thực hiện một cú "tái khung nhận thức" (cognitive reframing) cực kỳ nguy hiểm
+18
+. Nó đánh tráo khái niệm cờ bạc may rủi thành hoạt động "đầu tư", "quản trị danh mục rủi ro" hoặc "đọc bảng điện tử"
+18
+. Sự can thiệp này giúp người chơi dễ dàng vượt qua bộ lọc tự kiểm duyệt và cảm giác tội lỗi, bình thường hóa hành vi cá cược như một công việc đòi hỏi trí tuệ và sự nhạy bén
+18
+.
+4. Hệ thống Thông báo đẩy (Push Notifications) và PIT (Chuyển giao công cụ Pavlov)
+Kích hoạt thèm khát chủ động: Khi người chơi không mở ứng dụng, hệ thống thông báo đẩy (push notifications) liên tục gửi các thông điệp cập nhật diễn biến trận đấu thời gian thực hoặc các khuyến mãi cá nhân hóa
+14
+.
+Thao túng hành vi ngoài bối cảnh: Những tín hiệu này hoạt động dựa trên cơ chế Chuyển giao công cụ Pavlov (Pavlovian-Instrumental Transfer - PIT)
+12
+. Các kích thích có điều kiện từ môi trường (tiếng chuông thông báo, tin nhắn ưu đãi) tự động kích hoạt xung năng tìm kiếm phần thưởng đang vắng mặt, thôi thúc người chơi mở ứng dụng và đặt cược một cách bộc phát mà không có sự chuẩn bị hay nhu cầu từ trước
+12
+.
+KẾT LUẬN
+Công nghệ cá cược thể thao hiện đại đã chuyển hóa hành vi cá độ từ một trò chơi dự đoán giải trí đơn thuần thành một hệ thống thao túng sinh học thần kinh diện rộng
+20
+. Bằng cách cung cấp lượng thông tin khổng lồ để kích thích PFC ảo
+1
+8
+, vắt kiệt tài nguyên lý trí bằng Live betting
+6
+, và ngụy trang rủi ro thông qua Cash-out
+13
+18
+, nhà cái đã can thiệp sâu sắc vào bộ lọc nhận thức, biến ảo tưởng kiểm soát của người chơi thành một cái bẫy sinh học khép kín
+20
+.
+🎧 Bạn có muốn tôi chuyển hóa toàn bộ hồ sơ phân tích thần kinh học về "Ảo tưởng kiểm soát" và "Hiệu ứng suýt trúng" này thành một tài liệu báo cáo tóm tắt (Tailored Report) chuyên nghiệp để bạn dễ dàng lưu trữ và chia sẻ không?
+
+## Sources
+
+### [1] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> 3. Ảo tưởng kiểm soát (Illusion of Control) và công nghệ cá cược hiện đại Sự nguy hiểm của cá độ bóng đá so với các hình thức cờ bạc thuần túy may rủi như xổ số hay tài xỉu nằm ở chỗ nó tạo ra một mảnh đất màu mỡ cho sự phát triển của các nhận thức sai lệch, đặc biệt là "Ảo tưởng kiểm soát".[22, 23, 24] Khái niệm Illusion of Control và cách vận hành trong cá cược thể thao Khái niệm "Ảo tưởng kiểm soát" lần đầu tiên được Ellen Langer định nghĩa vào năm 1975 là "sự kỳ vọng về xác suất thành công cá nhân cao hơn một cách bất hợp lý so với xác suất thực tế khách quan".[22, 23, 25] Langer lập luận rằng ảo tưởng này xuất hiện khi con người nhầm lẫn giữa tình huống cần kỹ năng (skill situations) và tình huống hoàn toàn ngẫu nhiên (chance situations).[25, 26, 27] Sự nhầm lẫn này được kích hoạt bởi các "dấu hiệu kỹ năng" (skill cues) được lồng ghép vào bối cảnh ngẫu nhiên, bao gồm: quyền tự chọn, sự chủ động tham gia, tính cạnh tranh và sự quen thuộc với các yếu tố của trò chơi.[23, 26, 27]
+
+### [2] Illusion of control - Wikipedia
+
+> Print/export Download as PDF Printable version In other projects Wikidata item Appearance move to sidebar hide Text [-] 0 Small [x] 1 Standard [-] 2 Large This page always uses small font size Width [x] 1 Standard [-] 0 Wide The content is as wide as possible for your browser window. Color [-] os Automatic [x] day Light [-] night Dark This page is always in light mode. From Wikipedia, the free encyclopedia False belief in an ability to control events The illusion of control is the tendency for people to overestimate their ability to control events. It was named by American psychologist Ellen Langer and is thought to influence gambling behavior and belief in the paranormal . [1] Along with illusory superiority and optimism bias , the illusion of control is one of the positive illusions .
+
+### [3] The illusion of control in problematic gambling ... - charlotte eben
+
+> personal success probability inappropriately higher than the objective probability would warrant”. Put different, the illusion of control is a skill-chance confusion. Langer conducted multiple experiments to identify characteristics of choice environments that influence the illusion of control. In her original paper, she found that participants who could choose their lottery ticket would demand a higher price when asked to sell them than a control group who were randomly assigned a ticket. This result indicated that the self-chose numbers had more personal value than the randomly assigned
+
+### [6] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Tác động của các tính năng tương tác thời gian thực Sự bùng nổ của các nền tảng cá cược di động trực tuyến đã trang bị thêm các công cụ công nghệ tinh vi để khuếch đại ảo tưởng kiểm soát của người chơi lên những nấc thang mới.[3, 14, 23] Đáng chú ý nhất là hai tính năng: "Cược trực tiếp" (Live/In-play betting) và "Rút tiền sớm" (Cash-out).[3, 23, 25] Cược trực tiếp biến đổi căn bản cấu trúc thời gian của hành vi cờ bạc.[3] Thay vì đặt một cược duy nhất trước trận đấu và chờ đợi 90 phút (hình thức cờ bạc không liên tục), cược trực tiếp cho phép người chơi đặt cược liên tục vào mọi vi khoảnh khắc của trận đấu (thẻ vàng tiếp theo, quả phạt góc tiếp theo, cầu thủ ghi bàn tiếp theo).[3, 28] Trải nghiệm này kích hoạt dòng dopamine liên tục, không cho phép vỏ não trước trán (vùng kiểm soát lý trí và ức chế xung động) có thời gian nghỉ ngơi để phục hồi khả năng phán đoán logic.[3, 22] Tính năng này thường đi kèm với việc phát sóng trực tiếp trận đấu ngay trên ứng dụng nhà cái, thu hút người chơi ở nhóm có nguy cơ tổn hại cao duy trì sự tập trung liên tục.[28]
+
+### [7] Reward Anticipation Dynamics during Cognitive Control and Episodic Encoding: Implications for Dopamine - Frontiers
+
+> Dopamine (DA), a neuromodulator primarily produced in the midbrain and globally broadcast to limbic and cortical targets, is implicated in a range of adaptive behaviors from movement to reward processing to learning. Research characterizing DA function has revealed distinct temporal dynamics—phasic firing and tonic background activity—potentially making separate mechanistic contributions to motivated behavior (Grace, 1991 ; Niv, 2007 ). Phasic DA bursts signal unexpected reward, while unexpected withholding of reward depresses phasic DA (positive and negative reward prediction errors; Schultz et al., 1997 ). These prediction errors may regulate updating of online mental representations (Braver and Cohen, 2000 ; O'Reilly and Frank, 2006 ) and guide reward-based learning (Schultz, 1998 ). Tonic DA is less well-characterized, but, in frontal cortex, may support maintenance of representations (Seamans and Yang, 2004 ; Westbrook and Braver, 2016 ), and in striatum, may determine response vigor, or average latency/rate of reward pursuit (Niv et al., 2007 ).
+
+### [8] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Trong cá độ bóng đá, các "dấu hiệu kỹ năng" này xuất hiện với mật độ dày đặc.[23, 24] Người hâm mộ bóng đá thường sở hữu lượng thông tin khổng lồ về đội bóng, chiến thuật, chấn thương và phong độ cầu thủ, từ đó tin rằng việc phân tích các dữ liệu này giúp họ "kiểm soát" hoặc dự đoán chính xác kết quả trận đấu.[14, 23, 24] Đối tượng vận động viên thể thao cũng dễ mắc phải ảo tưởng này do họ có xu hướng áp dụng tinh thần kiên trì, nỗ lực vượt khó trong tập luyện vào các trò chơi may rủi.[14] Cùng với áp lực so sánh tài chính với các đồng đội có thu nhập cao hơn (hiện tượng tương đối nghèo - relative deprivation), họ dễ dàng rơi vào trạng thái bóp méo nhận thức và thực hiện hành vi đuổi theo khoản lỗ.[14]
+
+### [9] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Trong thí nghiệm bán vé số kinh điển của Langer, các nhân viên văn phòng được tự chọn vé số đòi mức giá bán lại trung bình là 8.67 USD, cao hơn gấp nhiều lần so với mức giá 1.96 USD từ những người được nhận vé ngẫu nhiên, cho thấy hành động tự chọn đã tạo ra một giá trị sở hữu ảo.[26, 27] Sự can thiệp cơ học trực tiếp (như tự tay tung đồng xu hay ném bóng roulette) cũng làm gia tăng đáng kể niềm tin vào khả năng chiến thắng.[25, 27] Ngoài ra, chuỗi thắng ban đầu (beginner's luck) tạo ra ấn tượng sai lệch về năng lực dự đoán cá nhân, mặc dù ảo tưởng này sẽ nhanh chóng suy giảm khi chuỗi kết quả ngẫu nhiên kéo dài.[25, 27]
+
+### [10] World Cup betting boom raises concerns about gambling harm - Djavad Mowafaghian Centre for Brain Health | DMCBH
+
+> How betting platforms are changing gambling Traditional sports betting involved placing wagers before a game on the match outcomes, and then waiting for the final whistle. Modern platforms now offer a continuous stream of betting opportunities. Known as “in-play” betting, this allows bettors to place wagers throughout a game, on micro events such as the next goal or penalty kick. During a single match, gamblers can be presented with hundreds of betting options, encouraging rapid and repeated decisions. This format may have heightened appeal to people with higher levels of impulsivity.
+
+### [11] and Behavioral Addictions
+
+> subsequently upon a single presentation of that cue under conditions of higher stress or excitement, can suddenly heighten the incentive value and drug “wanting” triggered by that cue to a point where temptation is overwhelming and results in relapse. This heightened “wanting” in situations of stress, for example, can be further exacerbated by short-circuiting of executive function, particularly in prefrontal cortical projections to striatum (Garcia-Keller et al., 2013; Kalivas, Volkow & Seamans, 2005). Thus incentive salience is thought to integrate two
+
+### [12] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Sự phân tách giữa Wanting và Liking trong cơ chế nghiện Một trong những phát hiện mang tính cách mạng của dịch tễ học thần kinh là sự phân tách hoàn toàn giữa hai hệ thống động lực: "Wanting" (thèm khát, thúc đẩy hành vi) và "Liking" (sự thỏa mãn, thích thú thực sự khi tiêu thụ phần thưởng) được đề xuất bởi Kent Berridge và Terry Robinson thông qua Thuyết nhạy cảm hóa khuyến khích (Incentive-Sensitization Theory).[1, 6, 12] Hệ thống "Wanting" (Incentive Salience) được điều phối chủ yếu bởi mạng lưới dopaminergic mesolimbic rộng lớn.[6, 13] Khi hệ thống này hoạt động, nó gán "sự nổi bật khuyến khích" (incentive salience) lên các kích thích liên quan đến phần thưởng (như âm thanh ứng dụng, biểu tượng nhà cái, bảng tỷ lệ kèo), biến chúng thành các "nam châm động lực" thu hút sự chú ý một cách vô thức và thôi thúc hành vi đặt cược.[6, 13] Trong trạng thái này, các kích thích có điều kiện có thể thúc đẩy hành vi tiếp cận cưỡng chế, tương tự như hiện tượng những người nghiện ma túy điên cuồng tìm kiếm các hạt bột trắng dù biết chúng không phải là chất kích thích.[13] Động lực thèm khát này còn được kích hoạt mạnh mẽ thông qua hiện tượng Chuyển giao công cụ Pavlov (Pavlovian-Instrumental Transfer - PIT), nơi các tín hiệu môi trường kích thích xung năng tìm kiếm phần thưởng vắng mặt.[13]
+
+### [13] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Tính năng "Rút tiền sớm" (Cash-out) cho phép người chơi đóng vị thế đặt cược trước khi trận đấu kết thúc để nhận một phần tiền thưởng nhỏ hơn hoặc cắt giảm khoản lỗ.[3, 14, 29] Nghiên cứu thực nghiệm của Bennett và cộng sự (2024) phát hiện ra rằng sự hiện diện của tính năng cash-out làm tăng số tiền đặt cược trung bình của người chơi lên tới 35%.[3] Cơ chế tâm lý thần kinh đằng sau hiện tượng này là khái niệm "tính khả đảo" (perceived reversibility): khi biết rằng mình có thể rút lui bất cứ lúc nào, não bộ của người chơi giải mã tình huống này là có độ rủi ro thấp, từ đó hạ thấp ngưỡng phòng vệ tự nhiên của hạch hạnh nhân và tăng khả năng chấp nhận rủi ro.[3, 23]
+
+### [14] World Cup betting boom raises concerns about gambling harm - Djavad Mowafaghian Centre for Brain Health | DMCBH
+
+> The design of these platforms may further increase risk. Features such as live-streamed sports content, push notifications, personalized promotions and “cash out” options are designed to keep users engaged. The cash out feature, which allows bettors to withdraw a wager before the event ends, is often marketed as a way to reduce risk. However, emerging research suggests frequent users of the feature report higher levels of depression, anxiety, stress and problematic substance use. Many say they cash out to limit losses or access money immediately, which can be linked to loss chasing behaviour.
+
+### [15] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Trong quá trình tiến triển của rối loạn cá cược, sự kích thích liên tục và không thể dự đoán của các đợt giải phóng dopamine làm thay đổi độ nhạy bén của các thụ thể.[1, 2, 6] Hệ thống "Wanting" bị nhạy cảm hóa mạnh mẽ (sensitized), khiến các kích thích liên quan đến cá độ kích hoạt những xung năng đặt cược khổng lồ, không thể kiểm soát.[2, 6, 14] Ngược lại, hệ thống "Liking" trải qua quá trình thích nghi tiêu cực (down-regulation), làm giảm khả năng cảm nhận niềm vui thực sự khi thắng cược.[2, 6, 12] Sự mất cân bằng này giải thích hiện tượng giao thoa nhạy cảm (cross-sensitization), nơi việc lạm dụng chất kích thích làm tăng độ nhạy cảm của não bộ trước các tín hiệu cá cược.[2] Do con người khó phân biệt được hai trạng thái này một cách chủ quan (thường mặc định rằng "nếu không muốn thì chứng tỏ không thích"), họ tiếp tục lún sâu vào hành vi cá cược để giải tỏa cơn khát động lực do hệ thống dopamine bị nhạy cảm hóa đơn độc tạo ra.[2, 6]
+
+### [16] More frequent use of live sports-betting features is associated with increased risk of gambling harm: Evidence from a case-control design - PubMed
+
+> This study used a case-control design to compare 85 people at higher risk of gambling harm (PGSI 5+) with an age- and gender-matched control group at lower risk of harm (n = 84, PGSI 0-4). We compared the frequency with which groups self-reported using in-play betting, cash-out, multi bets, proposition bets, social betting, and viewing live matches within a betting app. Results: The higher-risk group reported more frequent use of in-play betting and instant cash-out and were more likely to report streaming live sporting events within a betting app. Higher-risk participants were also more likely to make an immediate deposit to qualify for a marketing offer, and both groups reported being more likely to make risky bets when using bonus funds. We observed no group differences in the frequency of use of multi bets, proposition-bets, or social betting. Conclusions: Our findings were broadly consistent with the theory that design features of betting platforms that facilitate continuous engagement contribute to gambling harm. A notable finding was that in-app streaming of live events was more common among people at higher risk of harm, consistent with a novel prediction made by the motivating theory.
+
+### [17] Online gambling and suicide: Gambling with lives - PMC - NIH
+
+> The negative impact of the COVID-19 pandemic on individuals, industries, health systems, and the economy is well documented. The abrupt disruption to lifestyles, social isolation, financial losses, and grief are a few of the factors that led to anxiety, depression, and negative emotional states during this period. Addictive behaviors such as substance abuse and online gaming and gambling grew markedly during this period, possibly as a means to alleviate those negative emotional states.[ 3 ] Online platforms that host rummy and similar games reported a huge spike in the number of people playing this game during the lockdown in March 2020. It is estimated that there are around 20,000 to 30,000 people playing rummy in India at any given time. When compared to offline gambling, factors such as availability, accessibility, affordability, anonymity, and convenience make online gambling far more attractive. The average age of online gamblers was significantly lesser (by 10 years) than offline gamblers. Factors such as poor impulse control and poor decision-making—inherent to the youth—coupled with external factors such as online peer pressure and aggressive online marketing really highlight the potential harm that online gambling can cause to young vulnerable individuals.[ 4 ] Data from a 2020 report on online gaming in India included games such as teen patti, rummy, and poker as they were, again, considered “games of skill”. The report revealed that the online gaming industry grew 40% in 2019 to reach INR 65 billion and is expected to reach INR 187 billion by 2022. Specifically, games like rummy, poker, and teen patti grew by 30% compared to the previous year. They found this growth to be driven by (i) incentives to win money instantly in transaction-based games, (ii) a more pervasive mobile payment ecosystem and (iii) active marketing and branding campaigns led by celebrities.[ 5 ]
+
+### [18] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Hơn thế nữa, tính năng cash-out tạo ra sự tương đồng giả tạo giữa cá độ thể thao và các hoạt động đầu tư tài chính chính thống như giao dịch cổ phiếu hay ngoại hối.[3, 23] Người chơi tự xem mình là những "nhà đầu tư" thông minh chủ động quản trị danh mục rủi ro, trong khi thực tế mọi thuật toán cash-out đều được thiết kế để nhà cái khấu trừ một tỷ lệ biên lợi nhuận rất cao.[3, 14, 25] Việc cho phép xoay vòng vốn cược nhanh chóng mà không cần thời gian nghỉ khiến phiên chơi kéo dài liên tục, làm tăng tần suất đặt cược và thúc đẩy hành vi bốc đồng.[3] Những người thường xuyên sử dụng tính năng cash-out thể hiện tỷ lệ mắc chứng lo âu, trầm cảm, căng thẳng tâm lý và lạm dụng chất kích thích cao hơn rõ rệt so với những người chơi thông thường.[14, 29] Sự nguy hại này còn được củng cố bởi các chiến dịch quảng cáo cá độ khi các thông điệp truyền thông luôn cố gắng bình thường hóa hành vi cược, biến chúng thành một hình thức bảo hiểm rủi ro hoặc biểu tượng của sự gắn kết bạn bè.[23]
+
+### [20] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> 5. Kết luận và các khuyến nghị can thiệp Cá độ bóng đá hiện đại không còn là một trò chơi giải trí đơn thuần mà đã phát triển thành một hệ thống công nghệ cao được tối ưu hóa để khai thác các điểm yếu trong cấu trúc sinh học thần kinh của con người.[3, 14] Sự kết hợp giữa dòng dopamine kéo dài khi đối mặt với sự không chắc chắn ( ), hiệu ứng "suýt trúng" đánh lừa hệ thống phần thưởng của não bộ, ảo tưởng kiểm soát được thổi phồng bởi dữ liệu thể thao, cùng các tính năng tương tác thời gian thực như cash-out đã tạo ra một chu kỳ gây nghiện khép kín, cực kỳ khó dỡ bỏ.[3, 4, 15]

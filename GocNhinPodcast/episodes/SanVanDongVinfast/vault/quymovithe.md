@@ -1,0 +1,16 @@
+Để nén thời gian thi công từ 4-5 năm xuống còn chưa đầy 2 năm mà vẫn đảm bảo các tiêu chuẩn chất lượng khắt khe nhất, chủ đầu tư và tổng thầu VinCons đã kết hợp các công nghệ xây dựng tiên tiến bậc nhất thế giới cùng mô hình quản trị nguồn lực độc đáo. Cụ thể, họ đã áp dụng các giải pháp cốt lõi sau:
+
+**1. Công nghệ kích nâng thủy lực đồng bộ (Synchronous Strand Jacking System)**
+Đây là "vũ khí" công nghệ mang tính quyết định. Thông thường, việc lắp ráp một mái vòm thép khổng lồ phải thực hiện trên cao bằng cần trục tháp, rất dễ bị gián đoạn bởi thời tiết và tiềm ẩn sai sót kỹ thuật. Tại dự án này, toàn bộ hệ mái vòm nặng 40.000 tấn được tổ hợp, căn chỉnh hình học, hàn và kiểm tra không phá hủy (NDT) ngay tại mặt đất. Việc thi công ở môi trường lý tưởng (cốt 0) giúp dung sai thiết kế đạt mức hoàn hảo và triệt tiêu rủi ro an toàn lao động. Sau khi hoàn thiện, hệ thống máy tính trung tâm sẽ điều khiển hàng chục kích cáp thủy lực đồng loạt nhích từng milimet để kéo toàn bộ hệ mái lên cao độ hơn 100 mét một cách cân bằng tuyệt đối.
+
+**2. Kỹ thuật thi công đồng thời (Concurrent Engineering)**
+Chính nhờ việc đưa hạng mục tổ hợp mái thép xuống mặt đất bằng công nghệ Strand Jacking, nhà thầu có thể áp dụng phương pháp thi công song song (fast-track). Trong lúc hệ thống khung mái đang được lắp ráp ở khu vực sân trung tâm, các đội thợ khác vẫn có thể đồng loạt đúc cột bê tông và xây dựng khán đài ở xung quanh. Giải pháp này giúp chồng lấn các chuỗi công việc vốn dĩ phải làm nối tiếp nhau, qua đó rút ngắn hàng tháng trời thi công mà không phải "đốt cháy" các giai đoạn kỹ thuật cốt lõi.
+
+**3. Làm chủ chuỗi cung ứng vật liệu đặc chủng (Tiêu chuẩn Eurocode 3)**
+Đẩy nhanh tiến độ nhưng không thỏa hiệp với chất lượng, dự án tuân thủ nghiêm ngặt chuẩn Eurocode 3 của Châu Âu. Để đảm bảo chất lượng từ gốc, 95% khối lượng thép cường độ cao được nhập khẩu trực tiếp từ các tập đoàn luyện kim hàng đầu thế giới (như Metal One, POSCO, Baosteel). Nhờ nguồn vật liệu có khả năng chống mỏi và độ đồng nhất cực cao, cấu trúc sân vận động hoàn toàn đáp ứng được cả những tải trọng tĩnh lẫn ứng suất biến thiên do mái che tự động gây ra.
+
+**4. Duy trì kỷ luật thép với đội quân 100.000 nhân sự**
+Công nghệ hiện đại cần một bộ máy vận hành liên tục. VinCons đã giải quyết bài toán này bằng cách huy động một lực lượng lao động cơ hữu khổng lồ lên tới 100.000 người, loại bỏ sự phụ thuộc vào các nhà thầu phụ bên ngoài. Với đội quân này, công trường áp dụng chế độ "3 ca, 4 kíp", duy trì hoạt động 24/7 không có ngày nghỉ.
+
+**5. Siết chặt quy trình kiểm soát chất lượng (QA/QC) và an toàn (HSE)**
+Khi áp lực thời gian lớn, nhà thầu bắt buộc phải sử dụng các loại phụ gia bê tông đông kết nhanh. Để ngăn chặn hiện tượng nứt bê tông do ứng suất nhiệt độ, quy trình kiểm soát chất lượng (QA/QC) và bảo dưỡng được thực hiện dưới sự giám sát cực kỳ khắt khe của hệ thống kỹ sư hiện trường. Song song đó, lực lượng Giám sát an toàn lao động (HSE) hoạt động liên tục ngày đêm để đảm bảo tỷ lệ sai sót của công nhân (do làm việc cường độ cao) bị triệt tiêu ở mức tối đa.

@@ -1,0 +1,354 @@
+# BẢN VÁ TOÀN DIỆN SỐ 16: SMART CIRCUIT BREAKER & MASS BLOCK DEFENSE
+# Phiên bản: v1.6.8 (Anti-Spam & Rate-Limit Shield Engine)
+
+⚠️ **BẢNG KHÓA TÍNH NĂNG BẤT BIẾN (STRICT REGRESSION LOCK):**
+- **GIỮ NGUYÊN 100%:** Asset Bin, tag `@tên_ảnh`, Chapter Controller, STT `#`, Preview Lightbox, Nạp nhiều file .txt, Xuất ZIP có cấu trúc folder.
+- **CỐ ĐỊNH MODEL VIDEO:** Luôn luôn là `'Veo 3.1 - Lite [Lower Priority]'` miễn phí.
+- **BẢO LƯU ẢNH 100%:** Khi video bị lỗi hoặc dồn queue, tuyệt đối không tạo lại ảnh, giữ nguyên `resultBase64` / `resultMediaId` làm khung hình đầu!
+- **TỰ CỨU TÁC VỤ MỒ CÔI (ORPHAN REAPER):** Giữ nguyên bộ quét giải phóng task `processing` mà không có worker nào ôm.
+
+---
+
+### PHÉP SỬA 1: CẬP NHẬT `CONFIG` VỚI CÁC THÔNG SỐ CHỐNG CHẶN ĐỒNG LOẠT
+
+**TÌM ĐOẠN:**
+```typescript
+// ======================================================================
+// CONFIGURATION & CONCURRENCY GUARD - PATCH v1.6.7 (ZERO-STALL ENGINE)
+// ======================================================================
+const CONFIG = {
+  ...SYSTEM_CONFIG,
+  MAX_CONCURRENT_VIDEOS: 2, // Giữ 2 video đồng thời chống nghẽn
+  RETRY_BACKOFF_STEPS: [5, 10, 20, 30, 45],
+  VIDEO_WATCHDOG_S: 420, // 7 phút chuẩn xác: Quá 7m là Veo đã đứt socket -> Ngắt và dồn cuối queue ngay
+  IMAGE_WATCHDOG_S: 90,   // 90s cho tạo ảnh
+  IMAGE_FALLBACK_MODELS: ['🍌 Nano Banana 2', '🍌 Nano Banana Pro', '🍌 Nano Banana 2 Lite'],
+  MAX_VEO_DEMOTE_RETRIES: 3 // Tối đa 3 vòng dồn video về cuối queue
+};
+```
+
+**THAY BẰNG:**
+```typescript
+// ======================================================================
+// CONFIGURATION & CONCURRENCY GUARD - PATCH v1.6.8 (SMART CIRCUIT BREAKER)
+// ======================================================================
+const CONFIG = {
+  ...SYSTEM_CONFIG,
+  MAX_CONCURRENT_VIDEOS: 2, // Giữ 2 video đồng thời chống nghẽn
+  RETRY_BACKOFF_STEPS: [10, 20, 35, 50, 70], // Giãn cách an toàn để nhả áp lực máy chủ
+  VIDEO_WATCHDOG_S: 420, // 7 phút chuẩn xác: Quá 7m là Veo đã đứt socket -> Ngắt và dồn cuối queue ngay
+  IMAGE_WATCHDOG_S: 90,   // 90s cho tạo ảnh
+  IMAGE_FALLBACK_MODELS: ['🍌 Nano Banana 2', '🍌 Nano Banana Pro', '🍌 Nano Banana 2 Lite'],
+  MAX_VEO_DEMOTE_RETRIES: 3, // Tối đa 3 vòng dồn video về cuối queue
+  
+  // --- HÀNG RÀO NHẬN DẠNG CHẶN ĐỒNG LOẠT (MASS BLOCK DEFENSE) ---
+  MASS_BLOCK_THRESHOLD: 10,    // Khi có đúng 10 phân cảnh lỗi liên tiếp -> Xác định Flow chặn đồng loạt
+  MASS_BLOCK_COOLDOWN_S: 180,  // Đóng băng hệ thống 180 giây (3 phút) để Google Flow nhả rate-limit
+  RATE_LIMIT_COOLDOWN_S: 60    // Hạ nhiệt 60s khi máy chủ trả mã lỗi 429
+};
+```
+
+---
+
+### PHÉP SỬA 2: BỔ SUNG BỘ ĐẾM LỖI LIÊN TIẾP & NÚT FORCE RESUME
+
+**TÌM ĐOẠN:**
+```typescript
+  const audioContextRef = useRef<AudioContext | null>(null);
+```
+
+**THÊM NGAY BÊN DƯỚI:**
+```typescript
+  // --- REFS CHỐNG CHẶN ĐỒNG LOẠT ---
+  const consecutiveFailuresRef = useRef<number>(0);
+  const circuitCountdownTimerRef = useRef<any>(null);
+
+  // Nút thủ công cho phép người dùng bỏ qua chờ hạ nhiệt và ép chạy tiếp
+  const handleForceResumeCircuitBreaker = () => {
+    if (circuitCountdownTimerRef.current) clearInterval(circuitCountdownTimerRef.current);
+    consecutiveFailuresRef.current = 0;
+    setBatch(prev => ({ ...prev, circuitBreakerActive: false, cooldownRemaining: 0, isProcessing: true, isPaused: false }));
+    addLog('CIRCUIT', '⚡ Người dùng đã chủ động bỏ qua thời gian chờ hạ nhiệt.', 'info');
+    setTimeout(processQueue, 200);
+  };
+```
+
+---
+
+### PHÉP SỬA 3: RESET BỘ ĐẾM LỖI TRONG `retryAllFailed` & `refreshScene`
+
+1. **TRONG `retryAllFailed`:**
+**TÌM:**
+```typescript
+  const retryAllFailed = () => {
+    activeTaskIdsRef.current.clear();
+```
+**THÊM NGAY DÒNG ĐẦU TIÊN:**
+```typescript
+  const retryAllFailed = () => {
+    activeTaskIdsRef.current.clear();
+    consecutiveFailuresRef.current = 0;
+    if (circuitCountdownTimerRef.current) clearInterval(circuitCountdownTimerRef.current);
+```
+
+2. **TRONG `refreshScene`:**
+**TÌM:**
+```typescript
+  const refreshScene = (sceneId: string) => {
+    setBatch(prev => {
+```
+**THÊM VÀO ĐẦU HÀM:**
+```typescript
+  const refreshScene = (sceneId: string) => {
+    consecutiveFailuresRef.current = 0;
+    setBatch(prev => {
+```
+
+---
+
+### PHÉP SỬA 4: RESET KHI THÀNH CÔNG & NÂNG CẤP KHỐI `catch` TRONG `executeTaskOnWorker`
+
+1. **Ở ĐOẠN TÁC VỤ THÀNH CÔNG:**
+**TÌM:**
+```typescript
+      activeTaskIdsRef.current.delete(task.id);
+      updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Done', countdown: 0 });
+      addLog('WORKER', `Slot ${workerIdx + 1} completed ${task.sceneId} (${task.type.toUpperCase()})`, 'success');
+```
+**THAY BẰNG:**
+```typescript
+      activeTaskIdsRef.current.delete(task.id);
+
+      // 🟢 QUAN TRỌNG: TASK NÀY THÀNH CÔNG -> RESET NGAY BỘ ĐẾM LỖI LIÊN TIẾP VỀ 0!
+      consecutiveFailuresRef.current = 0;
+
+      updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Done', countdown: 0 });
+      addLog('WORKER', `Slot ${workerIdx + 1} completed ${task.sceneId} (${task.type.toUpperCase()})`, 'success');
+```
+
+2. **THAY THẾ TOÀN BỘ KHỐI `catch` BẰNG ĐOẠN PHÂN LOẠI THÔNG MINH:**
+**TÌM:**
+```typescript
+    } catch (err: any) {
+      clearTimeout(watchdogTimer);
+      const errMsg = err?.message || 'Unknown error';
+      console.error(`Task ${task.id} failed:`, errMsg);
+      activeTaskIdsRef.current.delete(task.id);
+      // --- TRƯỜNG HỢP 1: TẠO ẢNH LỖI HOẶC TREO -> FALLBACK MODEL ---
+      ... (cho đến hết khối catch)
+    }
+```
+
+**THAY BẰNG:**
+```typescript
+    } catch (err: any) {
+      clearTimeout(watchdogTimer);
+      const errMsg = err?.message || 'Unknown error';
+      console.error(`Task ${task.id} failed:`, errMsg);
+      activeTaskIdsRef.current.delete(task.id);
+
+      // TĂNG BỘ ĐẾM LỖI LIÊN TIẾP
+      consecutiveFailuresRef.current += 1;
+      const failCount = consecutiveFailuresRef.current;
+
+      // ======================================================================
+      // 🛑 KIỂM TRA ĐIỀU KIỆN CHẶN ĐỒNG LOẠT (MASS BLOCKING DEFENSE)
+      // ======================================================================
+      const isMassBlock = failCount >= CONFIG.MASS_BLOCK_THRESHOLD;
+      const isExplicitRateLimit = errMsg.includes('429') || errMsg.includes('QUOTA') || errMsg.includes('EXHAUSTED') || errMsg.includes('RESOURCE_EXHAUSTED');
+
+      if (isMassBlock || isExplicitRateLimit) {
+        const cooldownTime = isMassBlock ? CONFIG.MASS_BLOCK_COOLDOWN_S : CONFIG.RATE_LIMIT_COOLDOWN_S;
+        
+        addLog('CIRCUIT', `🚨 PHÁT HIỆN FLOW CHẶN ĐỒNG LOẠT (${failCount} lỗi liên tiếp)! DỪNG RETRY ĐỂ TRÁNH BỊ KHÓA TÀI KHOẢN!`, 'error');
+        addLog('CIRCUIT', `🛑 Tự động đóng băng hàng đợi và hạ nhiệt trong ${cooldownTime}s...`, 'warning');
+
+        // Đưa task hiện tại về IDLE để sau khi hạ nhiệt sẽ chạy lại
+        updateTask(task.id, { status: 'idle', error: isMassBlock ? `Tạm dừng: Flow chặn đồng loạt (${failCount} lỗi)` : 'Rate Limit 429' });
+        updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Rate-Limit Block', countdown: 0 });
+
+        // Kích hoạt Circuit Breaker toàn cục
+        setBatch(prev => ({
+          ...prev,
+          circuitBreakerActive: true,
+          cooldownRemaining: cooldownTime
+        }));
+
+        // Thiết lập đồng hồ đếm ngược hạ nhiệt
+        if (circuitCountdownTimerRef.current) clearInterval(circuitCountdownTimerRef.current);
+        circuitCountdownTimerRef.current = setInterval(() => {
+          setBatch(prev => {
+            if (prev.cooldownRemaining <= 1) {
+              clearInterval(circuitCountdownTimerRef.current);
+              consecutiveFailuresRef.current = 0; // Reset sau khi hạ nhiệt xong
+              addLog('CIRCUIT', '✅ Đã hoàn tất thời gian hạ nhiệt. Hệ thống tự động tiếp tục an toàn.', 'success');
+              
+              setTimeout(() => {
+                if (batchRef.current.isProcessing && !batchRef.current.isPaused) {
+                  processQueue();
+                }
+              }, 500);
+
+              return { ...prev, circuitBreakerActive: false, cooldownRemaining: 0 };
+            }
+            return { ...prev, cooldownRemaining: prev.cooldownRemaining - 1 };
+          });
+        }, 1000);
+
+        return; // DỪNG NGAY! TUYỆT ĐỐI KHÔNG GỌI RETRY SPAM NỮA!
+      }
+
+      // ======================================================================
+      // 🟢 XỬ LÝ LỖI ĐƠN LẺ (ISOLATED FAILURE: failCount < 10)
+      // ======================================================================
+
+      // 1. Missing Reference Asset
+      if (errMsg.includes('MISSING_REF_ASSET')) {
+        updateTask(task.id, { status: 'failed', error: 'Missing Asset' });
+        addLog('ASSET', `Halted ${task.sceneId}: Missing @${task.referenceFile}`, 'error');
+        updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Missing Asset', countdown: 0 });
+        return;
+      } 
+      
+      // 2. Safety Block
+      if (errMsg.includes('SAFETY') || errMsg.includes('BLOCK')) {
+        updateTask(task.id, { status: 'blocked', error: 'Safety Block' });
+        addLog('WORKER', `Safety block on ${task.sceneId}`, 'error');
+        updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Safety Block', countdown: 0 });
+        return;
+      }
+
+      // 3. Ảnh lỗi hoặc treo -> Fallback Model
+      if (task.type === 'image') {
+        const currentAssigned = (task as any).assignedModel || imageModel;
+        const currentIdx = CONFIG.IMAGE_FALLBACK_MODELS.indexOf(currentAssigned);
+        const nextModel = (currentIdx !== -1 && currentIdx < CONFIG.IMAGE_FALLBACK_MODELS.length - 1)
+          ? CONFIG.IMAGE_FALLBACK_MODELS[currentIdx + 1]
+          : null;
+        if (nextModel) {
+          (task as any).assignedModel = nextModel;
+          addLog('FALLBACK', `Ảnh ${task.sceneId} lỗi đơn lẻ [${errMsg.substring(0, 25)}] -> Thử lại với [${nextModel}] (Chuỗi lỗi: ${failCount}/${CONFIG.MASS_BLOCK_THRESHOLD})`, 'warning');
+          updateTask(task.id, { status: 'idle', error: `Fallback: ${nextModel}` });
+          updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Model Fallback', countdown: 0 });
+          setTimeout(processQueue, 300);
+          return;
+        }
+      }
+
+      // 4. Video lỗi hoặc treo (>7m hoặc server error) -> BẢO LƯU ẢNH 100%, DỒN XUỐNG CUỐI QUEUE
+      if (task.type === 'video') {
+        const currentRetries = (task.retryCount || 0) + 1;
+        if (currentRetries <= CONFIG.MAX_VEO_DEMOTE_RETRIES) {
+          addLog('WATCHDOG', `Cảnh ${task.sceneId} lỗi đơn lẻ -> Bảo lưu ảnh, dồn video về cuối queue (${currentRetries}/${CONFIG.MAX_VEO_DEMOTE_RETRIES}) [Chuỗi lỗi: ${failCount}/${CONFIG.MASS_BLOCK_THRESHOLD}]`, 'warning');
+          
+          const allTasks = [...batchRef.current.tasks];
+          const taskIdx = allTasks.findIndex(t => t.id === task.id);
+          if (taskIdx !== -1) {
+            const [demotedTask] = allTasks.splice(taskIdx, 1);
+            demotedTask.status = 'idle';
+            demotedTask.retryCount = currentRetries;
+            demotedTask.error = `Error: ${errMsg.substring(0, 30)} (Requeued)`;
+            allTasks.push(demotedTask);
+            // Cập nhật đồng bộ cả tasks lẫn groups
+            const newGroups = batchRef.current.groups.map(g => {
+              if (g.sceneId === task.sceneId) {
+                const groupTasks = allTasks.filter(t => t.sceneId === task.sceneId);
+                const allCompleted = groupTasks.every(t => t.status === 'completed');
+                return {
+                  ...g,
+                  status: allCompleted ? 'completed' : 'idle' as SceneStatus,
+                  imageTask: groupTasks.find(t => t.type === 'image'),
+                  videoTask: demotedTask
+                };
+              }
+              return g;
+            });
+            batchRef.current = { ...batchRef.current, tasks: allTasks, groups: newGroups };
+            setBatch(batchRef.current);
+          }
+          updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Standby', countdown: 0 });
+          setTimeout(processQueue, 300);
+          return;
+        } else {
+          addLog('WORKER', `Cảnh ${task.sceneId} thất bại vĩnh viễn sau ${CONFIG.MAX_VEO_DEMOTE_RETRIES} lần dồn queue`, 'error');
+          updateTask(task.id, { status: 'failed', error: errMsg });
+          updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Task Failed', countdown: 0 });
+          setTimeout(processQueue, 300);
+          return;
+        }
+      }
+
+      // 5. Retry thông thường với Exponential Backoff cho các lỗi đơn lẻ còn lại
+      const nextRetry = (task.retryCount || 0) + 1;
+      const backoffList = CONFIG.RETRY_BACKOFF_STEPS || [10, 20, 35, 50, 70];
+      const backoff = backoffList[nextRetry - 1] || 20;
+      if (nextRetry <= SYSTEM_CONFIG.MAX_RETRIES) {
+        updateTask(task.id, { status: 'retrying', retryCount: nextRetry, error: errMsg });
+        addLog('WORKER', `Lỗi đơn lẻ ${task.sceneId}: Thử lại (${nextRetry}/${SYSTEM_CONFIG.MAX_RETRIES}) sau ${backoff}s [Chuỗi lỗi: ${failCount}/${CONFIG.MASS_BLOCK_THRESHOLD}]`, 'warning');
+        updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Standby', countdown: 0 });
+        
+        setTimeout(() => {
+          updateTask(task.id, { status: 'idle' });
+          if (batchRef.current.isProcessing && !batchRef.current.isPaused && !batchRef.current.circuitBreakerActive) {
+            processQueue();
+          }
+        }, backoff * 1000);
+      } else {
+        updateTask(task.id, { status: 'failed', error: errMsg });
+        addLog('WORKER', `Permanent Failure: ${task.sceneId}`, 'error');
+        updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Task Failed', countdown: 0 });
+      }
+    }
+```
+
+---
+
+### PHÉP SỬA 5: NÂNG CẤP GIAO DIỆN CẢNH BÁO CHỐNG CHẶN ĐỒNG LOẠT (JSX)
+
+**TÌM KHỐI:**
+```tsx
+      {/* Circuit Breaker UI */}
+      {batch.circuitBreakerActive && (
+        <div className="fixed bottom-6 right-6 z-50 animate-in fade-in slide-in-from-bottom">
+          <div className="bg-amber-600/90 backdrop-blur-xl border border-amber-500/50 text-white px-6 py-4 rounded-2xl shadow-2xl flex flex-col gap-1 min-w-[280px]">
+            <div className="flex items-center gap-2 font-black text-[10px] uppercase tracking-widest">
+              <span className="material-symbols-outlined text-sm animate-spin">sync</span>
+              Circuit Breaker Active
+            </div>
+            <p className="text-[9px] opacity-80 font-mono">Auto-resuming in {batch.cooldownRemaining}s</p>
+          </div>
+        </div>
+      )}
+```
+
+**THAY BẰNG:**
+```tsx
+      {/* Circuit Breaker UI — SHIELD BẢO VỆ KHI BỊ FLOW CHẶN ĐỒNG LOẠT */}
+      {batch.circuitBreakerActive && (
+        <div className="fixed bottom-6 right-6 z-50 animate-in fade-in slide-in-from-bottom">
+          <div className="bg-red-950/95 backdrop-blur-xl border border-red-500/60 text-white px-5 py-4 rounded-2xl shadow-2xl flex flex-col gap-2 min-w-[320px] max-w-[400px]">
+            <div className="flex items-center justify-between">
+              <div className="flex items-center gap-2 font-black text-[11px] text-red-300 uppercase tracking-wider">
+                <span className="material-symbols-outlined text-base text-red-400 animate-pulse">gpp_maybe</span>
+                FLOW ANTI-SPAM SHIELD
+              </div>
+              <span className="font-mono text-[11px] font-bold text-amber-400 bg-black/40 px-2 py-0.5 rounded border border-amber-500/30">
+                {batch.cooldownRemaining}s
+              </span>
+            </div>
+            <p className="text-[10px] text-red-200/80 font-sans leading-relaxed">
+              Phát hiện Flow chặn đồng loạt (10 lỗi liên tiếp). Hệ thống tạm đóng băng hàng đợi để máy chủ nhả rate-limit chống bị khóa tài khoản.
+            </p>
+            <div className="flex justify-end pt-1">
+              <button
+                onClick={handleForceResumeCircuitBreaker}
+                className="px-3 py-1.5 rounded-lg bg-red-800 hover:bg-red-700 text-white text-[10px] font-mono font-bold tracking-wider transition-all border border-red-400/40 cursor-pointer shadow-md flex items-center gap-1.5"
+              >
+                <span className="material-symbols-outlined text-[13px]">bolt</span>
+                BỎ QUA CHỜ & TIẾP TỤC
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+```

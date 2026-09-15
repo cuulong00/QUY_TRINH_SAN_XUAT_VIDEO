@@ -1,0 +1,9 @@
+Bài test cuối cùng đó diễn ra bên trong các phòng sạch chuẩn không gian. Giới kỹ thuật gọi đây là quy trình AIT, Lắp ráp, Tích hợp và Thử nghiệm. Nơi này giống hệt một phòng khám tử thần. Mọi thiết kế lý thuyết đều bị đem ra tra tấn bằng giới hạn vật lý cực đoan.
+
+Thử thách cơ học đầu tiên là bài mô phỏng tên lửa Falcon chín xé toạc khí quyển. Hãy tưởng tượng ném một cỗ máy tinh vi vào máy giặt ở chế độ vắt cao nhất. Vệ tinh bị nhồi lắc bạo lực trên một bàn rung xóc khổng lồ. Chỉ một mối hàn lỏng lẻo, cấu trúc bên trong sẽ lập tức gãy vụn.
+
+Sống sót qua rung xóc, sát thủ tiếp theo là buồng nhiệt chân không TVAC. Khí áp bị rút cạn xuống mức mười mũ trừ năm hPa. Tại đó, vệ tinh bị kẹp giữa hai thái cực tàn khốc. Nó luân phiên bị thiêu đốt ở bảy mươi lăm độ Cê rồi lại đóng băng ở âm ba mươi lăm độ Cê.
+
+Cú sốc nhiệt kéo dài hàng chục giờ sẽ bộc lộ mọi điểm yếu chí tử. Cuối cùng là chuỗi thử nghiệm nhiễu điện từ. Đây là lúc phần cứng và phần mềm chuyến bay chứng minh chúng có thể hòa hợp. Nếu thất bại, cỗ máy chỉ là khối kim loại đắt tiền và bị SpaceX gạch tên.
+
+Nói cách khác, quy trình AIT không đơn thuần là vắt kiệt sức chịu đựng của linh kiện. Đằng sau những buồng tra tấn vật lý không phải là bài test vệ tinh. Thực chất, đó là bài test con người.

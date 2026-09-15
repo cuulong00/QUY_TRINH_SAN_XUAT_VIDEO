@@ -1,0 +1,202 @@
+---
+title: "[Chương 1]: Cập nhật kết quả đánh giá an toàn ASEAN NCAP 5 sao của VinFast (như tại Indonesia) được truyền thông như thế nào, và dữ liệu thực tế nào phản bác lại định kiến \"xe Tàu dán nhãn kém chất lượng\"? (Bắt buộc dùng số liệu 2025-2026)"
+type: nblm-answer
+asked_at: 2026-07-22T03:09:44.931Z
+notebook_url: "https://notebooklm.google.com/notebook/eac0581c-0b8a-44e9-938c-e8b56977435a"
+session_id: "321727fb"
+citations_count: 23
+sources:
+  - "Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026"
+  - "VinFast VF 8 Dominates at ASEAN NCAP Grand Prix Awards"
+  - "Updated VinFast VF 8 launched in Vietnam, will it come to PH soon? - Zigwheels"
+  - "VinFast VF MPV 7 - Wikipedia"
+  - "VINFAST INTRODUCES THE NEW-GENERATION VF 8, FEATURING COMPREHENSIVE USER EXPERIENCE ENHANCEMENTS - PR Newswire"
+  - "VinFast hợp tác phát triển công nghệ tự lái và Robo-car với Autobrains, Israel - VietNamNet"
+  - "VinFast đạt doanh thu gần 1 tỷ USD trong quý I/2026 - VOV"
+  - "Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz"
+  - "VinFast sẽ nâng tỉ lệ nội địa hóa lên 84% vào năm 2026"
+  - "HÃNG XE ĐIỆN VINFAST NỘI ĐỊA HÓA 84% VÀO NĂM 2026 - Auto365"
+  - "You've Never Heard Of VinFast's Cutest EV - InsideEVs"
+---
+
+# [Chương 1]: Cập nhật kết quả đánh giá an toàn ASEAN NCAP 5 sao của VinFast (như tại Indonesia) được truyền thông như thế nào, và dữ liệu thực tế nào phản bác lại định kiến "xe Tàu dán nhãn kém chất lượng"? (Bắt buộc dùng số liệu 2025-2026)
+
+> Asked on 2026-07-22T03:09:44.931Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/eac0581c-0b8a-44e9-938c-e8b56977435a)
+
+## Answer
+
+Thoughts
+[Chương 1]: Cập nhật kết quả đánh giá an toàn ASEAN NCAP của VinFast và dữ liệu thực tế phản bác định kiến chất lượng giai đoạn 2025 - 2026
+1. Truyền thông đưa tin về kết quả đánh giá an toàn ASEAN NCAP 5 sao của VinFast
+Kết quả đánh giá an toàn của VinFast, đặc biệt là dòng xe chủ lực VF 8, đã tạo tiếng vang lớn trên truyền thông quốc tế và khu vực Đông Đông Nam Á (như tại Philippines, Indonesia)
+Sự thống trị tại ASEAN NCAP Grand Prix Awards: Truyền thông đưa tin rộng rãi về việc mẫu xe điện phân khúc D VinFast VF 8 xuất sắc giành tới 5 trên 6 hạng mục giải thưởng an toàn cao nhất
+. Các giải thưởng bao gồm: "Bảo vệ hành khách trẻ em tốt nhất" (Best Child Occupant Protection), "Hệ thống hỗ trợ an toàn tốt nhất" (Best Safety Assist), "Khả năng bảo vệ xe máy tốt nhất" (Best Motorcyclist Safety), "Hệ thống an toàn tổng thể tốt nhất" (Best Overall), và "Mẫu SUV xuất sắc nhất" (Best SUV)
+. Trước đó, mẫu xe VF e34 (Nerio Green) trong các thử nghiệm cũng ghi nhận điểm số an toàn khả quan
+5
+.
+Sự thừa nhận từ cơ quan kiểm định độc lập: Ông Yahaya Bin Ahmad, Giám đốc Kỹ thuật của ASEAN NCAP, phát biểu trước truyền thông rằng đây là lần đầu tiên trong lịch sử ASEAN NCAP trao tặng 5 giải thưởng danh giá cho một công ty ô tô duy nhất
+6
+. Ông nhấn mạnh thành tích này khẳng định khát vọng của VinFast trong việc định vị mình là hãng xe dẫn đầu về an toàn tại Đông Nam Á thông qua các khoản đầu tư nghiêm túc và công nghệ tiên tiến
+6
+.
+Cập nhật truyền thông về phiên bản nâng cấp (2026): Khi VinFast ra mắt phiên bản VF 8 nâng cấp vào năm 2026, các trang tin ô tô lớn (như Zigwheels, PR Newswire) đã đồng loạt đưa tin về những cải tiến vượt trội dựa trên nền tảng "Tech Fluid" và cấu trúc xe định nghĩa bằng phần mềm (SDV) do chính đội ngũ kỹ sư VinFast tự phát triển
+2. Dữ liệu thực tế (2025 - 2026) phản bác lại định kiến "xe Tàu dán nhãn kém chất lượng"
+Định kiến cho rằng xe điện VinFast chỉ là "xe Tàu dán nhãn" hay "kém chất lượng" hoàn toàn bị bác bỏ bởi các dữ liệu kỹ thuật, số liệu sản xuất và kiểm thử va chạm thực tế trong giai đoạn 2025 - 2026
+A. Kết quả kiểm thử va chạm quốc tế Bharat NCAP khắt khe (Tháng 1/2026)
+Không chỉ dừng lại ở ASEAN NCAP, năng lực cơ khí chính xác và độ cứng vững của khung gầm VinFast tiếp tục được chứng minh qua kiểm thử va chạm độc lập của tổ chức Bharat NCAP (Ấn Độ) vào tháng 1 năm 2026 đối với hai dòng xe VF 6 và VF 7
+5
+14
+:
+VF 6: Đạt chứng nhận 5 sao an toàn tối đa, với 27,13/32 điểm bảo vệ người lớn (AOP) và 44,41/49 điểm bảo vệ trẻ em (COP)
+5
+.
+VF 7: Đạt chứng nhận 5 sao an toàn tối đa, với 28,54/32 điểm AOP và 45,25/49 điểm COP
+5
+.
+Khả năng bảo vệ chấn thương đầu vượt trội: Trong bài thử nghiệm va chạm cột bên hông (Side Pole Crash) cực kỳ nguy hiểm, chỉ số chấn thương đầu đo được trên hình nộm của VF 6 là 109 và VF 7 là 131
+5
+. Các con số này thấp hơn rất nhiều so với giới hạn nguy hiểm 700 của Bharat NCAP, chứng minh cấu trúc cabin chịu lực siêu vững chắc được chế tạo tại Hải Phòng
+5
+15
+.
+B. Làm chủ công nghệ lõi và sở hữu bằng sáng chế độc quyền (2026)
+Khác biệt hoàn toàn với việc "dán nhãn" hay gia công đơn thuần, VinFast sở hữu quyền tự chủ công nghệ cao và tự phát triển phần mềm lõi
+16
+17
+:
+Hệ thống quản lý nhiệt ITM độc quyền: Trên dòng xe VF 8 thế hệ mới (2026), VinFast đã tích hợp Hệ thống kiểm soát nhiệt tích hợp (ITM) đã được cấp bằng sáng chế độc quyền của hãng
+. Hệ thống này tự điều phối nhiệt độ pin, động cơ và cabin một cách tối ưu để tăng tuổi thọ pin và hỗ trợ sạc nhanh
+18
+19
+.
+Kiến trúc điện - điện tử (E/E) tự phát triển: Kiến trúc điều khiển của VF 8 mới được xây dựng trên nền tảng xe định nghĩa bằng phần mềm (SDV), do chính các kỹ sư VinFast tự thiết kế và làm chủ phần mềm điều khiển xe cốt lõi
+Hợp tác phát triển Agentic AI & Robo-Car (Đầu năm 2026): Vào ngày 27/1/2026, VinFast công bố hợp tác chiến lược với Autobrains (Israel) để phát triển kiến trúc xe tự hành AI thế hệ mới không phụ thuộc vào cảm biến LiDAR hay bản đồ HD đắt đỏ
+20
+21
+. Hệ thống này sử dụng 7 camera tiêu chuẩn cùng chip xử lý hiệu năng cao đạt 20 nghìn tỷ phép tính/giây để tối ưu chi phí
+21
+. Tiếp đó, vào tháng 6/2026, hãng công bố hợp tác với NVIDIA và Autobrains để phát triển chương trình taxi tự lái (robotaxi) cấp độ 4 cho Đông Nam Á
+22
+.
+C. Tỷ lệ nội địa hóa bứt phá từ 60% tiến tới mốc 84% (Năm 2026)
+Tỷ lệ nội địa hóa thực tế: Tính đến cuối năm 2025, tỷ lệ nội địa hóa các dòng xe VinFast đã đạt mức 60%
+23
+24
+. Lộ trình hướng tới 84% vào năm 2026 hoàn toàn khả thi nhờ việc tăng cường sản xuất trong nước các cấu phần lớn như ghế xe, hệ thống lái, vành xe, hệ thống phanh và kính gương
+. Để so sánh, tỷ lệ nội địa hóa của các doanh nghiệp FDI lắp ráp xe động cơ đốt trong truyền thống tại Việt Nam sau hàng chục năm chỉ lẹt đẹt ở mức 10-15% (hoặc cao nhất đạt 40%)
+28
+29
+.
+Tự chủ sản xuất Cell pin sạc LFP tại Hà Tĩnh: Mắt xích quan trọng nhất để bứt phá lên mốc 84% là Nhà máy sản xuất cell pin sạc LFP liên doanh giữa VinES và Gotion tại Hà Tĩnh (vốn đầu tư 275 triệu USD, công suất 5 GWh/năm)
+. Việc tự sản xuất cell pin (bộ phận chiếm 30 - 40% giá trị xe điện) giúp VinFast tự chủ hoàn toàn chuỗi cung ứng năng lượng, đóng góp trực tiếp từ 20 - 25% vào tỷ lệ nội địa hóa tổng thể và không còn phụ thuộc vào việc nhập khẩu cell pin từ nước ngoài
+31
+34
+.
+Tổ hợp sản xuất Hải Phòng tự động hóa trên 90%: Khung gầm và thân vỏ kim loại được dập, hàn, và sơn tĩnh điện khép kín trên dây chuyền tự động hóa đạt trên 90% với các khuôn đúc cỡ lớn nhập khẩu từ Đức và Áo, cho phép kiểm soát tuyệt đối cấu trúc hấp thụ va chạm của xe
+D. Sự thật về việc "chia sẻ khung gầm" (Platform Sharing)
+Nhiều ý kiến định kiến cho rằng một số dòng xe như Limo Green / VF MPV 7 là "bản sao" của mẫu LEV 01 Trung Quốc
+13
+. Tuy nhiên, các chuyên gia kỹ thuật phân tích rõ
+13
+:
+Chiến lược toàn cầu phổ biến: Việc chia sẻ khung gầm (platform sharing) là chiến lược tối ưu hóa chi phí sản xuất cực kỳ phổ biến của các tập đoàn ô tô lớn nhất thế giới
+13
+.
+Thiết kế kỹ thuật riêng biệt: Mặc dù hợp tác thiết kế với đối tác LS Auto (Thương Hải), VinFast đã chủ động kéo dài phần đuôi xe để tối ưu hóa không gian 3 hàng ghế rộng rãi cho mẫu MPV 7 chỗ
+37
+. Toàn bộ phần vỏ chịu lực, động cơ điện 150 kW và pack pin LFP cấu hình 60,13 kWh đều được chế tạo, lắp ráp trực tiếp tại Hải Phòng và Hà Tĩnh dưới sự giám sát chất lượng khắt khe để đảm bảo độ bền bỉ cho điều kiện vận hành đô thị tại Đông Nam Á
+📊 Bạn có muốn tôi xây dựng một biểu đồ so sánh chi tiết về cấu trúc chuỗi cung ứng và mức độ tự chủ công nghệ giữa VinFast, Tesla và BYD để thấy rõ hơn vị thế của hãng xe Việt?
+
+## Sources
+
+### [1] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Ví dụ thực tế từ Công ty cổ phần Công nghệ Chính xác Thành Công: Trước khi gia nhập chuỗi cung ứng của VinFast, doanh nghiệp này chủ yếu sản xuất linh kiện cơ khí cho ngành đồ gia dụng phổ thông [cite: 21]. Nhờ có cam kết bao tiêu sản phẩm dài hạn và sự đồng hành cải tiến tiêu chuẩn kỹ thuật từ VinFast, doanh nghiệp đã dũng cảm đầu tư thêm 2 dây chuyền sản xuất mới trị giá lên tới để chế tạo các cấu phần cơ khí chính xác đạt tiêu chuẩn khắt khe cho ngành ô tô [cite: 21]. Việc nâng cấp này giúp doanh nghiệp tự chủ sản xuất các cấu phần cơ khí có mức giá cạnh tranh hơn hẳn hàng nhập khẩu, trực tiếp tham gia chuỗi giá trị toàn cầu [cite: 21]. Ví dụ thực tế từ Công ty cổ phần Vật tư Cơ điện Thịnh Phát: Trong dự án xây dựng nhà máy sản xuất pin sạc LFP VinES tại Hà Tĩnh, Thịnh Phát đã được lựa chọn làm đối tác cung ứng các sản phẩm vật tư phụ trợ cơ điện đồng bộ (máng cáp, ty ren, thanh unistrut, đai treo ống) đạt các tiêu chuẩn chất lượng ngặt nghèo như ISO 9001:2015 và TCVN 1916:1995 [cite: 11]. Những đơn hàng quy mô lớn từ VinFast giúp doanh nghiệp cơ điện trong nước gia tăng tối đa công suất hoạt động, tích lũy năng lực kỹ thuật và tạo thêm hàng trăm việc làm chất lượng cao cho lao động địa phương [cite: 11].
+
+### [5] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Báo cáo kết quả thử nghiệm an toàn NCAP quốc tế và chất lượng lắp ráp Chất lượng chế tạo khung gầm, thân vỏ và độ chính xác trong khâu lắp ráp của VinFast đã liên tục được khẳng định qua các chương trình đánh giá an toàn phương tiện nghiêm ngặt trên toàn cầu [cite: 14, 15]. Thành tích vượt trội tại ASEAN NCAP: VinFast VF 8 đã đạt chứng nhận an toàn 5 sao tối đa từ tổ chức ASEAN NCAP [cite: 14, 15]. Tại lễ trao giải ASEAN NCAP Grand Prix Awards, mẫu xe này đã xuất sắc mang về 5 giải thưởng danh giá bao gồm: "Bảo vệ hành khách trẻ em tốt nhất" (Best Child Occupant Protection), "Hệ thống hỗ trợ an toàn tốt nhất" (Best Safety Assist), "Khả năng bảo vệ xe máy tốt nhất" (Best Motorcyclist Safety), "Hệ thống an toàn tổng thể tốt nhất" (Best Overall), và "Mẫu SUV xuất sắc nhất" (Best SUV) [cite: 15, 16]. Để so sánh, các mẫu xe trước đó như VF e34 (Nerio Green) trong thử nghiệm năm 2022 cũng ghi nhận điểm số an toàn khả quan với 35.92 điểm bảo vệ người lớn (AOP), 17.71 điểm bảo vệ trẻ em (COP), 12.86 điểm hỗ trợ an toàn (SA) và 12.50 điểm bảo vệ xe máy (MS) [cite: 17]. Thành tựu xuất sắc tại Bharat NCAP (Ấn Độ): Vào tháng 1 năm 2026, hai dòng xe SUV điện mới nhất là VF 6 và VF 7 tiếp tục được trao chứng nhận an toàn 5 sao cao nhất từ Bharat NCAP [cite: 14]. Trong các bài thử nghiệm va chạm trực diện và va chạm hông xe, cấu trúc cabin chịu lực của cả hai mẫu xe đều duy trì được độ ổn định cơ học cao [cite: 14]. Cụ thể, VF 6 đạt 27.13/32 điểm AOP và 44.41/49 điểm COP; trong khi VF 7 đạt 28.54/32 điểm AOP và 45.25/49 điểm COP [cite: 14]. Đặc biệt, trong bài kiểm tra va chạm cột bên hông nguy hiểm, giá trị chấn thương đầu đo được trên hình nộm đối với VF 6 và VF 7 lần lượt chỉ là 109 và 131, thấp hơn rất nhiều so với ngưỡng giới hạn nguy hiểm là 700 của Bharat NCAP [cite: 14]. Đánh giá chất lượng và cải tiến lắp ráp kỹ thuật: Các chứng nhận an toàn này phản ánh trực tiếp năng lực chế tạo cơ khí chính xác tại Hải Phòng [cite: 1, 2, 6]. Trên dòng xe VF 8 phiên bản nâng cấp được giới thiệu vào giữa năm 2026, VinFast đã tích hợp hệ thống treo cải tiến sử dụng giảm xóc chọn lọc tần số (FSD) trên cả hai trục cùng hệ thống kiểm soát nhiệt tích hợp (ITM) đã được cấp bằng sáng chế độc quyền [cite: 8, 9]. Những nâng cấp này giúp xe vận hành êm ái, triệt tiêu đáng kể hiện tượng rung lắc thân xe và tăng cường độ vững chãi khi ôm cua ở tốc độ cao [cite: 8, 9].
+
+### [6] VinFast VF 8 Dominates at ASEAN NCAP Grand Prix Awards
+
+> Furthermore, the VF 8's well-equipped design with features like Automatic High Beam (AHB) and BSD played a key role in its recognition as the "Best SUV" at the ASEAN NCAP Grand Prix Awards. Mr *.** Yahaya Bin Ahmad **,** Technical Director of ASEAN NCAP said: "In a first for ASEAN NCAP, we are proud to present five prestigious awards to an automobile company following our stringent and transparent evaluation process. This achievement underscores VinFast's aspiration to position itself as a safety leader in the Southeast Asian auto industry. Their commitment to prioritizing safety is evident in their dedication to cutting-edge technology and significant investments. As a result, VinFast equips its car lines, particularly the VF 8, with exceptional safety features that meet rigorous international standards."*
+
+### [7] Updated VinFast VF 8 launched in Vietnam, will it come to PH soon? - Zigwheels
+
+> Updated VinFast VF 8 launched in Vietnam, will it come to PH soon? Priced domestically at approximately P2.338 million P Paulo Papa May 24, 2026 Contents KEY TAKEAWAYS 'Tech Fluid' philosophy New platform Electric powertrain Safety Pricing, deliveries Is PH next? Read More Read Less MANILA: The VinFast VF 8 has been updated for 2026 in Vietnam with “comprehensive user experience enhancements.” KEY TAKEAWAYS What powers the new VinFast VF 8? It is powered by a single electric motor at the front wheels. How much power does it make? The updated VinFast VF 8 generates 228 horsepower and 330 Newton-meters.
+
+### [9] Updated VinFast VF 8 launched in Vietnam, will it come to PH soon? - Zigwheels
+
+> Photo from VinFast In addition, the updated VinFast VF 8 features a newly developed electrical and electronic architecture based on the software-defined vehicle approach. Designed by VinFast's engineers, the system architecture and control software reflect the company's capability to develop core vehicle technologies in-house. At the core of this new system is a central vehicle computer, which manages data processing and vehicle control functions to support quicker and smoother responses to driver inputs.
+
+### [13] VinFast VF MPV 7 - Wikipedia
+
+> ↑ "VinFast Limo Green và câu chuyện "dùng chung khung gầm": Hiểu đúng thay vì chê bai" [ VinFast Limo Green and the story of "sharing a chassis": Understanding it correctly instead of criticizing.]. OTO HUI NEWS - Tin tức, công nghệ và kỹ thuật Ô Tô (in Vietnamese). 2025-09-08. Retrieved 2026-05-21. VinFast Limo Green bị chê là bản sao LEV 01 Trung Quốc. Thực tế, chia sẻ khung gầm (platform sharing) là chiến lược phổ biến toàn cầu. [ VinFast Limo Green has been criticized for being a copy of China's LEV 01. In reality, platform sharing is a common global strategy.] ↑ Parikh, Sagar (26 January 2026). "Vietnam: VinFast launches family-focused VF MPV 7 three-row EV" . electrive . Retrieved 28 January 2026. ↑ Lâm, Bảo (2025-11-24). "VinFast Limo Green lần đầu ra mắt tại Indonesia: Giá quy đổi hơn 505 triệu đồng, dự kiến bàn giao năm sau" [ VinFast Limo Green makes its debut in Indonesia: Priced at over 505 million VND (approximately), delivery expected next year.]. AutoPro (in Vietnamese). Retrieved 2025-12-31. ↑ "VinFast Launches The All-New VF MPV 7, A Spacious Electric Seven-Seater For Indian Customers | VinFast India" . vinfastauto.in . Retrieved 2026-05-21. ↑ "Green SM enters India's ride-hailing market - electrive.com" . 2026-06-10. Retrieved 2026-06-12.
+
+### [14] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> -------------------------------------------------------------------------------- 3. Tác động kinh tế vĩ mô và kết quả kinh doanh vượt bậc giai đoạn 2025 - 2026 Sự lớn mạnh của chuỗi sản xuất xe điện VinFast đã tạo ra những tác động lan tỏa tích cực sâu rộng lên toàn bộ cấu trúc vĩ mô của nền kinh tế Việt Nam, đồng thời thiết lập những cột mốc doanh số lịch sử cho ngành công nghiệp ô tô nội địa [cite: 3, 23]. Hiệu ứng lan tỏa (Spillover Effect) tới các doanh nghiệp vệ tinh trong nước Chuỗi cung ứng của VinFast đã đóng vai trò là động cơ dẫn dắt nâng tầm các doanh nghiệp vừa và nhỏ (SME) Việt Nam gia nhập vào chuỗi giá trị công nghiệp chế tạo có độ phức tạp cao [cite: 3, 21].
+
+### [15] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Module Khung gầm & Phần cứng (Body) BYD: BYD duy trì phương thức dập và hàn lắp ghép truyền thống nhưng được triển khai ở quy mô công nghiệp khổng lồ tại Trung Quốc, giúp tối ưu hóa khấu hao thiết bị và duy trì tính linh hoạt trong sản xuất đa dạng kiểu dáng xe từ sedan, SUV đến xe thương mại. Tesla: Tesla dẫn đầu cuộc cách mạng khung gầm với công nghệ đúc nguyên khối Gigacasting. Bằng việc sử dụng các máy ép thủy lực khổng lồ để đúc toàn bộ cấu trúc gầm trước và gầm sau của xe thành một mảnh hợp kim nhôm duy nhất, Tesla loại bỏ hàng trăm chi tiết hàn dập lẻ, giảm đáng kể khối lượng xe và rút ngắn thời gian lắp ráp tại các nhà máy. VinFast: VinFast đầu tư đồng bộ hệ thống xưởng dập và hàn tự động hóa cao ngay tại nhà máy Hải Phòng [cite: 1, 2, 6]. Việc vận hành xưởng dập nguội với các khuôn đúc cỡ lớn nhập khẩu từ Đức và Áo cho phép hãng làm chủ hoàn toàn thiết kế cơ khí và cấu trúc hấp thụ lực của khung gầm [cite: 1, 2, 6]. Phương thức này giúp xe VinFast duy trì độ cứng vững tuyệt đối đạt chuẩn an toàn 5 sao quốc tế, đồng thời giảm thiểu rủi ro phải thay thế toàn bộ cụm gầm đúc chi phí cao khi xảy ra va chạm giao thông thực tế [cite: 6, 14, 15].
+
+### [16] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Khung vỏ và xưởng dập - hàn - sơn tự động: Khung gầm và thân vỏ kim loại được sản xuất khép kín tại tổ hợp [cite: 1, 2, 6]. Quy trình bắt đầu từ xưởng dập tấm kim loại thô, chuyển tiếp sang xưởng hàn với hàng trăm robot tự động hóa để định hình khung xương chịu lực vững chắc cho toàn bộ cabin, và hoàn thiện tại xưởng sơn tĩnh điện tự động [cite: 1, 2, 6]. Các chi tiết lớn như thân vỏ xe và trần xe chịu lực đều được nội địa hóa hoàn toàn [cite: 2, 6]. Động cơ điện và hệ truyền động: VinFast đã đi đầu trong việc làm chủ dây chuyền sản xuất động cơ điện tại Việt Nam [cite: 6]. Phân xưởng động cơ thực hiện lắp ráp stator, rotor, gia công vỏ động cơ và tích hợp các bánh răng truyền động cơ khí chính xác để tạo nên cụm động cơ điện hoàn chỉnh [cite: 1, 6]. Hệ thống ADAS và phần mềm điều khiển: Hãng đã tự chủ phát triển phần mềm quản trị năng lượng cho pin, phần mềm điều khiển xe, hệ thống quản lý nhiệt thông minh và các thuật toán hỗ trợ lái tự động nâng cao (ADAS) cốt lõi dựa trên nguồn lực nghiên cứu nội bộ thuộc hệ sinh thái Vingroup [cite: 6, 8, 9]. Hệ thống cơ khí phụ trợ: Các cấu phần như giảm xóc, phanh, và các chi tiết nhựa ngoại thất quy mô lớn cũng được sản xuất trực tiếp tại tổ hợp hoặc cung ứng bởi các đối tác đặt trong khu công nghiệp phụ trợ của hãng [cite: 2, 6].
+
+### [17] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> -------------------------------------------------------------------------------- 2. So sánh cấu trúc chuỗi cung ứng và quyền tự chủ công nghệ xe điện (VinFast vs Tesla vs BYD) Sự khác biệt về triết lý sản xuất và kiến trúc chuỗi cung ứng giữa VinFast, Tesla và BYD phản ánh các chiến lược tiếp cận công nghệ tối ưu hóa theo điều kiện nội tại của từng quốc gia. Ma trận so sánh kiến trúc chuỗi cung ứng và tự chủ công nghệ Tiêu chí so sánh BYD (Tích hợp dọc khép kín) Tesla (Tích hợp dọc chọn lọc) VinFast (Mô hình tích hợp lai - Hybrid) Module Pin (Heart) Tự chủ tuyệt đối từ khai thác mỏ đến pin Blade Battery (LFP) [cite: 13]. Hợp tác sản xuất cell (Panasonic) kết hợp mua ngoài cell LFP (CATL/BYD). Tự đóng gói pack pin [cite: 6], nay liên doanh nội địa hóa cell pin LFP tại Hà Tĩnh [cite: 11]. Module Khung gầm (Body) Hàn dập truyền thống trên dây chuyền quy mô cực lớn. Tiên phong ứng dụng công nghệ đúc nguyên khối Gigacasting toàn phần. Tự chủ dập, hàn, sơn tĩnh điện tự động hóa trên tại Hải Phòng [cite: 1, 2, 6]. Module Phần mềm (Brain) Tự phát triển hệ điều hành riêng kết hợp thuê ngoài giải pháp ADAS. Khép kín tuyệt đối: Tự thiết kế chip FSD, tự phát triển hệ thống camera thị giác máy tính. Làm chủ phần mềm điều khiển xe [cite: 6], tích hợp lõi AI thông minh nội bộ [cite: 18] cùng phần cứng đối tác toàn cầu. Mô hình Chuỗi cung ứng Tích hợp dọc tuyệt đối (Vertical Integration) nhằm ép tối đa chi phí. Tích hợp dọc chọn lọc kết hợp lợi thế quy mô của các Gigafactory toàn cầu. Tích hợp lai (Hybrid Integration): Thu hút FDI nội địa [cite: 2, 19] và nhận chuyển giao công nghệ [cite: 2, 6].
+
+### [18] Updated VinFast VF 8 launched in Vietnam, will it come to PH soon? - Zigwheels
+
+> Notably, the new-generation VinFast VF 8 is equipped with an integrated thermal management system independently researched, developed, and patented by the Vietnamese car manufacturer. It manages cooling and heating functions for the battery, motor, electrical system, and cabin climate control to help maintain stable vehicle performance, improve energy efficiency, support fast charging capability, and contribute to battery and motor durability, while maintaining cabin comfort in varying weather conditions.
+
+### [19] VINFAST INTRODUCES THE NEW-GENERATION VF 8, FEATURING COMPREHENSIVE USER EXPERIENCE ENHANCEMENTS - PR Newswire
+
+> The vehicle is powered by an electric motor producing a maximum output of 170 kW (228 horsepower) and peak torque of 330 Nm, paired with front-wheel drive and three driving modes: Eco, Normal, and Sport. The new-generation VF 8 uses a 60.13 kWh battery pack, providing a driving range of up to 500 km on a full charge based on NEDC standards. The vehicle also supports fast charging from 10% to 70% in under 30 minutes. Notably, the new-generation VF 8 is equipped with an Integrated Thermal Management (ITM) system independently researched, developed, and patented by VinFast. The system manages cooling and heating functions for the battery, motor, electrical system, and cabin climate control in a coordinated and efficient manner. This helps maintain stable vehicle performance, improve energy efficiency, support fast charging capability, and contribute to battery and motor durability, while maintaining cabin comfort in varying weather conditions.
+
+### [20] VinFast hợp tác phát triển công nghệ tự lái và Robo-car với Autobrains, Israel - VietNamNet
+
+> Du lịch Bất động sản Bạn đọc Tuần Việt Nam Công nghiệp hỗ trợ Giảm nghèo bền vững Nông thôn mới Dân tộc thiểu số và miền núi Nội dung chuyên đề English Hồ sơ Ảnh Video Multimedia Podcast Đính chính 24h qua Tuyến bài Sự kiện Cơ quan chủ quản: Bộ Dân tộc và Tôn giáo Số giấy phép: 146/GP-BVHTTDL, cấp ngày 17/10/2025 Tổng biên tập: Nguyễn Văn Bá Liên hệ tòa soạn Địa chỉ: Tầng 18, Toà nhà Cục Viễn thông (VNTA), 68 Dương Đình Nghệ, phường Cầu Giấy, TP. Hà Nội. Điện thoại: 02439369898 - Hotline: 0923457788 Email: vietnamnet@vietnamnet.vn © 1997 Báo VietNamNet. All rights reserved. Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý bằng văn bản của báo VietNamNet.
+
+### [21] VinFast hợp tác phát triển công nghệ tự lái và Robo-car với Autobrains, Israel - VietNamNet
+
+> Chỉ được phát hành lại thông tin từ website này khi có sự đồng ý bằng văn bản của báo VietNamNet. Liên hệ quảng cáo Công ty Cổ phần Truyền thông VietNamNet Hotline: 0919 405 885 (Hà Nội) - 0919 435 885 (Tp.HCM) Email: contact@vietnamnet.vn Báo giá: http://vads.vn Hỗ trợ kỹ thuật: support@tech.vietnamnet.vn Tải ứng dụng Độc giả gửi bài Tuyển dụng Talks Hồ sơ Ảnh Video Multimedia Podcast 24h qua Tuyến bài Sự kiện nóng Liên hệ tòa soạn Liên hệ quảng cáo Độc giả gửi bài Tuyển dụng Lịch vạn niên Aa Facebook Zalo Email Sao chép liên kết Aa 100 Aa Ô tô - Xe máy Chính trị Thời sự Kinh doanh Dân tộc và Tôn giáo Giáo dục Thế giới Thể thao Văn hóa - Giải trí Đời sống Sức khỏe Công nghệ Xe Bất động sản Du lịch Bạn đọc Khám phá Thứ Ba, 27/01/2026 - 14:15 VinFast hợp tác phát triển công nghệ tự lái và Robo-car với Autobrains, Israel Sao chép liên kết 27/01/2026 14:15 (GMT+07:00) Ngày 27/1 VinFast công bố hợp tác chiến lược với Autobrains (Israel) - công ty công nghệ AI hàng đầu trong lĩnh vực ô tô, nhằm phát triển công nghệ tự lái L2++ và kiến trúc xe tự hành mới, có khả năng chuyển đổi hầu hết các dòng xe thành “robo-car”.
+
+### [22] VinFast đạt doanh thu gần 1 tỷ USD trong quý I/2026 - VOV
+
+> Ở lĩnh vực phát triển công nghệ xe tự hành, ngày 1/6 vừa qua, trong khuôn khổ sự kiện NVIDIA GTC Taipei thuộc triển lãm công nghệ COMPUTEX 2026 (Đài Loan), VinFast, NVIDIA và Autobrains công bố hợp tác chiến lược phát triển chương trình robotaxi (taxi tự lái) cấp độ 4 thế hệ mới cho thị trường Đông Nam Á trên nền tảng NVIDIA DRIVE Hyperion. Dự án đánh dấu bước tiến mới của VinFast trong lộ trình phát triển công nghệ tự lái tiên tiến với chi phí hợp lý, mở rộng ứng dụng thực tiễn tại các thị trường có điều kiện giao thông phức tạp.
+
+### [23] Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz
+
+> Nhiều ý kiến lo ngại rằng ngành xe điện Việt Nam hiện vẫn phụ thuộc lớn vào linh kiện nhập khẩu . Tuy nhiên, dưới góc nhìn chuyên môn của ông Phạm Văn Quân, đây là nhận định chưa phản ánh đúng thực tế. Lộ trình tăng tỷ lệ nội địa hóa của VinFast. Ảnh: Văn Xuyên/TTXVN Các con số thực tế cho thấy sự bứt phá đáng kinh ngạc: Đến cuối năm 2025, Việt Nam đã xây dựng được 28 tiêu chuẩn, quy chuẩn liên quan đến thiết bị trụ sạc, trạm sạc và pin sạc. Dự kiến trong quý III/2026, hành lang pháp lý này sẽ được hoàn thiện toàn diện. Cũng đến cuối năm 2025, tỷ lệ nội địa hóa của các dòng xe VinFast đã đạt khoảng 60%. Khi nhà máy sản xuất pin tại Hà Tĩnh đi vào vận hành ổn định, tỷ lệ này sẽ nâng lên mức 80%.
+
+### [24] VinFast sẽ nâng tỉ lệ nội địa hóa lên 84% vào năm 2026
+
+> Từ khi bắt đầu hoạt động năm 2017, VinFast đã tập trung phát triển ngành công nghiệp hỗ trợ trong nước bên cạnh sản xuất xe. Tại khu tổ hợp sản xuất, hơn 30% diện tích đã được dành cho khu công nghiệp phụ trợ, tạo điều kiện cho các doanh nghiệp nội địa tham gia chuỗi cung ứng. VinFast dự kiến nâng tỷ lệ nội địa hóa từ 60% hiện tại lên 84% vào năm 2026. Được biết hiện nay, tỷ lệ nội địa hóa trên xe điện VinFast đã đạt hơn 60%, bao gồm các chi tiết quan trọng như thân vỏ, động cơ, trần xe và giảm xóc.
+
+### [28] HÃNG XE ĐIỆN VINFAST NỘI ĐỊA HÓA 84% VÀO NĂM 2026 - Auto365
+
+> Ông còn cho biết thêm, tỷ lệ nội địa hóa của dòng xe điện Vinfast là hơn 60%, trong đó có thân vỏ, động cơ, trần xe và giảm xóc. Nếu như so với các mẫu xe động cơ đốt trong được lắp ráp tại Việt Nam thì tỷ lệ này khá cao, bởi mức cao nhất của xe xăng và dầu ở vào khoảng 40% nội địa hóa. Ngoài ra thì Vinfast còn cho biết thêm phương pháp tỷ lệ nội địa hóa của hãng cũng tương đồng với cách tính của Bộ Công thương và các hãng xe khác tại Việt Nam.
+
+### [29] Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz
+
+> Đặc biệt, Việt Nam đã từng bước làm chủ các công nghệ cốt lõi quan trọng nhất như động cơ và pin - những thành phần chiếm giá trị cao nhất trong xe điện. Cùng với đó, các dự án đầu tư mới đang hướng tới mục tiêu đưa tỷ lệ nội địa hóa cho lĩnh vực pin lưu trữ lên mức 80-90% trong thời gian tới. So với các doanh nghiệp FDI trong lĩnh vực ô tô truyền thống vốn chỉ đạt tỷ lệ nội địa hóa 10-15% sau hàng chục năm hoạt động, tốc độ phát triển của ngành xe điện nội địa là minh chứng rõ nét cho năng lực sản xuất và khát vọng làm chủ công nghệ của Việt Nam. Việc sở hữu năng lực công nghệ, từ động cơ đến pin lưu trữ, giúp Việt Nam không chỉ giảm phụ thuộc vào nhập khẩu mà còn mở ra cơ hội xuất khẩu công nghệ sang thị trường quốc tế.
+
+### [30] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Dự án nhà máy cell pin LFP VinES - Gotion tại Hà Tĩnh và tiến độ thực tế Để bứt phá từ mốc lên mục tiêu nội địa hóa vào năm 2026, mắt xích quan trọng nhất là việc tự chủ sản xuất cell pin trực tiếp tại Việt Nam [cite: 1, 6]. Dự án nhà máy sản xuất cell pin sạc LFP (Lithium Iron Phosphate) tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh là liên doanh chiến lược giữa Công ty cổ phần Giải pháp năng lượng VinES (thành viên Tập đoàn Vingroup) và Công ty Gotion, Inc. (thành viên Gotion High-Tech) [cite: 10, 11, 12].
+
+### [31] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Quy mô và năng lực đầu tư: Dự án có tổng vốn đầu tư gần (tương đương hơn ), được xây dựng trên diện tích [cite: 11]. Công suất thiết kế đạt , tương đương khoảng [cite: 11]. Công nghệ sản xuất: Nhà máy sản xuất cell pin sạc LFP định dạng lăng trụ thông qua quy trình khép kín tự động hóa cao [cite: 11]. Dòng pin LFP có ưu thế vượt trội về độ bền nhiệt, tuổi thọ nạp xả cao, chống cháy nổ tuyệt đối và không phụ thuộc vào các kim loại quý hiếm như niken và coban [cite: 11, 13]. Tiến độ sản xuất thực tế: Khởi công vào ngày 18/11/2022, nhà máy đã lắp đặt hoàn chỉnh trang thiết bị kỹ thuật và bắt đầu đi vào vận hành sản xuất đại trà [cite: 11, 12]. Các lô cell pin đầu tiên xuất xưởng từ nhà máy đã được bàn giao để tích hợp trực tiếp vào các dòng xe điện sử dụng pin LFP thế hệ mới của VinFast [cite: 8, 9, 11]. Tỷ lệ đóng góp vào mốc 84% nội địa hóa: Do pin là bộ phận có giá trị lớn nhất trên một chiếc xe điện (chiếm từ đến tổng giá trị cấu thành sản phẩm), việc nội địa hóa thành công cả cell pin lẫn pack pin tại Việt Nam đóng vai trò quyết định, trực tiếp đóng góp từ đến vào việc hiện thực hóa mục tiêu nâng tỷ lệ nội địa hóa tổng thể lên vào năm 2026 [cite: 1, 6].
+
+### [34] You've Never Heard Of VinFast's Cutest EV - InsideEVs
+
+> 403 Forbidden 403 Forbidden
+
+### [37] VinFast VF MPV 7 - Wikipedia
+
+> The Limo Green went on sale in Vietnam in August 2025 in a single specification. [8] As it is the case with the VinFast VF 5 and VF e34, development of the VF MPV 7 / Limo Green was largely outsourced to Chinese-based original design manufacturer (ODM) Shanghai Longsheng Automotive Design Co., Ltd., which operates internationally as LS Auto. [9] [10] [11] The Limo Green itself is based on LS Auto's in-house model, the LEV 01 battery-electric SUV, with an enlarged rear body to accommodate the third row seat. [12]

@@ -1,0 +1,17 @@
+Phút 89. Quả sút phạt ngoài vòng cấm. Bóng đập cột dọc bật ra. Suýt trúng. Về mặt tài chính, đó là một trận thua. Bạn mất sạch tiền cược. Nhưng bộ não bạn không xử lý nó như một trận thua.
+
+Năm hai nghìn không trăm lẻ chín, nhà thần kinh học Luke Clark và cộng sự đặt người chơi vào máy quét f M R I và cho họ chơi một trò mô phỏng. Ba loại kết quả: thắng, thua đậm, và suýt trúng. Kết quả khiến giới khoa học kinh ngạc. Khi người chơi "suýt trúng", Ventral Striatum, vùng não xử lý giá trị phần thưởng và kích hoạt phản ứng dopamine, bùng sáng. Mạnh mẽ. Gần như tương đương khi họ thắng thật.
+
+Não bộ không phân biệt "suýt thắng" và "đã thắng."
+
+Nhưng đó chưa phải phát hiện đáng sợ nhất. Clark phát hiện thêm rằng Anterior Insula, vùng não điều phối cảm xúc nội sinh và sự thèm khát, cũng kích hoạt mạnh mẽ khi suýt trúng. Và mức độ kích hoạt tại vùng này tương quan trực tiếp với điểm số đo lường xu hướng cờ bạc cá nhân. Người chơi nào có điểm S O G S càng cao, vùng Insula phản ứng càng dữ dội.
+
+Ở chiều sâu hơn, vỏ não đai trước phía mỏ, vùng r A C C, chịu trách nhiệm giám sát lỗi sai, đã làm một việc đáng kinh ngạc. Nó biến thất bại sát sao thành một tín hiệu học tập. Không phải tín hiệu "mình đã sai." Mà là tín hiệu "chiến thuật gần hoàn hảo, chỉ cần thêm một lần nữa." r A C C đã đánh tráo ý nghĩa của thất bại, biến thua thành bằng chứng rằng bạn đang đi đúng hướng.
+
+Và khi người chơi có quyền chủ động lựa chọn, tự chọn kèo thay vì máy tính chọn hộ, hiệu ứng này tăng lên gấp bội. Đây chính là cơ sở sinh học thần kinh của ảo tưởng kiểm soát: bạn đang "chọn", nên não bạn kết luận bạn đang "kiểm soát."
+
+Cơ chế này không phải là lỗi phần mềm. Nó là lỗi thiết kế tiến hóa. Giống như con bồ câu trong thí nghiệm kinh điển của B F Skinner. Khi phần thưởng xuất hiện ngẫu nhiên, không theo quy luật nào cả, con bồ câu không dừng mổ nút. Nó mổ nhanh hơn. Bền bỉ hơn. Skinner gọi đó là củng cố ngắt quãng, intermittent reinforcement. Lịch trình trao thưởng ngẫu nhiên tạo ra hành vi bền bỉ nhất trong mọi dạng học tập hành vi.
+
+Mỗi lần quả bóng đập cột dọc ở phút bù giờ, mỗi lần đội bạn dẫn rồi bị gỡ ở giây cuối, mỗi lần "suýt trúng" ở trận knockout World Cup, Ventral Striatum của bạn kích hoạt. r A C C của bạn đánh tráo ý nghĩa. Và bạn mở app đặt trận tiếp theo. Không phải vì bạn tin mình sẽ thắng. Mà vì bộ não đã tạo ra một cảm giác rằng bạn "sắp" thắng.
+
+Nếu bộ não bạn đang tự đánh lừa chính mình, thì câu hỏi tiếp theo là: ai đang giúp nó làm điều đó? Và câu trả lời không nằm ở bản thân trận bóng đá. Nó nằm ở thiết kế của chiếc app trên tay bạn.

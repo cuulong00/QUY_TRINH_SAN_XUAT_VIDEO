@@ -1,0 +1,11 @@
+Một quốc gia không thể có một nền kinh tế độc lập tự chủ nếu không làm chủ được ngành công nghiệp cơ khí chế tạo nặng. Suốt nhiều thập kỷ, Việt Nam đã phải chi ra hàng chục tỷ đô la để thuê các tổng thầu quốc tế thi công những công trình trọng điểm. Nhưng khi bước vào kỷ nguyên của những đại dự án thế kỷ, từ tuyến đường sắt tốc độ cao Bắc Nam, các tuyến metro đô thị cho đến điện gió ngoài khơi và các tổ hợp khí hóa lỏng, bài toán nội địa hóa đã trở thành mệnh lệnh sống còn.
+
+Để giải quyết bài toán lịch sử này, ông Trịnh Tiến Dũng đã khởi xướng sáng kiến thành lập Liên minh sản xuất cơ khí quy mô lớn trong khuôn khổ chương trình Công Tư đồng kiến quốc. Mô hình này tập hợp những đầu tàu kinh tế hàng đầu đất nước: Hòa Phát đảm nhận nguồn thép cuộn thượng nguồn, Thaco và Vingroup phụ trách gia công thiết bị, Viettel và FPT cung cấp giải pháp số hóa, cùng Lilama và Đại Dũng trực tiếp thiết kế, chế tạo và lắp dựng các kết cấu siêu trường siêu trọng.
+
+Mục tiêu của liên minh không gì khác ngoài việc nâng tỷ lệ nội địa hóa lên tối thiểu năm mươi phần trăm trong các siêu công trình quốc gia. Thay vì đứng riêng lẻ và bị các tập đoàn đa quốc gia thâu tóm từng gói thầu phụ, các doanh nghiệp Việt Nam bắt tay nhau để tạo thành một khối liên kết hoàn chỉnh, đủ sức đảm nhận vai trò tổng thầu EPC chìa khóa trao tay cho các đại dự án phức tạp nhất.
+
+Nhìn lại hành trình ba thập kỷ, từ một xưởng hàn nhỏ hai mươi người bên dòng kênh nghèo ven đô, Đại Dũng đã từng bước leo lên đỉnh cao của chuỗi giá trị cơ khí toàn cầu. Họ đã chứng minh rằng người Việt Nam không chỉ biết gia công giá rẻ, mà hoàn toàn có đủ trí tuệ, bản lĩnh và kỷ luật thép để chế ngự những siêu kết cấu vĩ đại nhất hành tinh.
+
+Hành trình của Đại Dũng không chỉ là câu chuyện thành công của một doanh nghiệp tư nhân. Đó là minh chứng sống động cho khát vọng tự chủ công nghiệp của một dân tộc đang vươn mình ra biển lớn.
+
+Quý vị nghĩ sao về năng lực của các doanh nghiệp cơ khí Việt Nam và cơ hội làm chủ tuyến đường sắt tốc độ cao trong thập kỷ tới? Hãy để lại bình luận bên dưới để cùng thảo luận. Đừng quên nhấn thích video và đăng ký kênh Dòng Chảy để tiếp tục theo dõi những góc nhìn phân tích kinh tế vĩ mô chuyên sâu. Xin cảm ơn và hẹn gặp lại trong những tập tiếp theo.

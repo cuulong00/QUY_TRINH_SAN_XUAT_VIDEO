@@ -1,0 +1,44 @@
+[
+  {
+    "chapter": "chapter_01",
+    "duration_sec": 331.14,
+    "segments_count": 53,
+    "words_count": 1161,
+    "elapsed_sec": 7.01
+  },
+  {
+    "chapter": "chapter_02",
+    "duration_sec": 346.24,
+    "segments_count": 55,
+    "words_count": 1249,
+    "elapsed_sec": 6.61
+  },
+  {
+    "chapter": "chapter_03",
+    "duration_sec": 333.44,
+    "segments_count": 46,
+    "words_count": 1182,
+    "elapsed_sec": 5.67
+  },
+  {
+    "chapter": "chapter_04",
+    "duration_sec": 320.8,
+    "segments_count": 50,
+    "words_count": 1111,
+    "elapsed_sec": 6.58
+  },
+  {
+    "chapter": "chapter_05",
+    "duration_sec": 379.48,
+    "segments_count": 65,
+    "words_count": 1334,
+    "elapsed_sec": 7.17
+  },
+  {
+    "chapter": "chapter_06",
+    "duration_sec": 264.72,
+    "segments_count": 89,
+    "words_count": 904,
+    "elapsed_sec": 5.61
+  }
+]

@@ -1,0 +1,52 @@
+---
+title: "Quy trình tái cấu trúc nội bộ của tập đoàn Vingroup, VinFast và hãng xe điện GSM trong năm 2026? Việc nâng sở hữu tại GSM, tăng vốn điều lệ của GSM lên 43.000 tỷ VND, mở rộng ra 6 nước và thương vụ tách mảng sản xuất của VinFast trị giá 530 triệu USD."
+type: nblm-answer
+asked_at: 2026-06-23T11:53:42.440Z
+notebook_url: "https://notebooklm.google.com/notebook/15e461c0-8c8c-406e-88e2-c03ab907eb41"
+session_id: "ceabbce1"
+citations_count: 1
+sources:
+  - "Video_LPBank_Pham_Nhat_Vuong_Clean.md"
+---
+
+# Quy trình tái cấu trúc nội bộ của tập đoàn Vingroup, VinFast và hãng xe điện GSM trong năm 2026? Việc nâng sở hữu tại GSM, tăng vốn điều lệ của GSM lên 43.000 tỷ VND, mở rộng ra 6 nước và thương vụ tách mảng sản xuất của VinFast trị giá 530 triệu USD.
+
+> Asked on 2026-06-23T11:53:42.440Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/15e461c0-8c8c-406e-88e2-c03ab907eb41)
+
+## Answer
+
+Thoughts
+Trong năm 2026, Tập đoàn Vingroup, VinFast và hãng xe điện GSM đã thực hiện một chiến dịch tái cấu trúc quy mô lớn nhằm tinh gọn bộ máy, tối ưu hóa nguồn lực tài chính và tập trung vào các mảng công nghệ cốt lõi
+1
+. Chiến dịch này diễn ra song song với các bước dịch chuyển dòng vốn cá nhân của tỷ phú Phạm Nhật Vượng vào LPBank
+1
+.
+Quy trình tái cấu trúc này bao gồm các bước đi chiến lược cụ thể sau:
+Nâng tỷ lệ sở hữu tại GSM: Tập đoàn Vingroup đã nhận chuyển nhượng phần vốn góp từ chính ông Phạm Nhật Vượng để nâng tỷ lệ sở hữu tại Công ty CP Di chuyển Xanh và Thông minh (Green SM - GSM) và VinEnergo lên tối đa 35% lợi ích
+1
+.
+Tăng vốn điều lệ khổng lồ cho GSM: Vốn điều lệ của hãng taxi điện GSM đã được nâng lên mức hơn 43.000 tỷ VND
+1
+. Nguồn lực tài chính dồi dào này giúp GSM củng cố năng lực kinh doanh, thể hiện qua việc liên tiếp chốt các hợp đồng bán xe điện quy mô lớn cho các đối tác như Huy Long (2.000 xe) và Taxi Quê Lụa (2.000 xe)
+1
+.
+Mở rộng hiện diện ra 6 quốc gia: GSM đã nhanh chóng thực hiện chiến lược toàn cầu hóa khi chính thức đưa dịch vụ di chuyển xanh "lăn bánh" tại 6 nước, bao gồm: Việt Nam, Lào, Indonesia, Philippines, Ấn Độ và Kazakhstan
+1
+.
+Thương vụ tách mảng sản xuất trị giá 530 triệu USD của VinFast: VinFast đã tiến hành tái cấu trúc triệt để bằng cách tách biệt mảng sản xuất và chuyển giao cho một bên thứ ba
+1
+. Thương vụ này có trị giá lên tới 530 triệu USD, được thực hiện với mục tiêu tối ưu hóa bộ máy, giúp VinFast tập trung tối đa mọi nguồn lực vào công tác nghiên cứu và phát triển (R&D) cũng như công nghệ cốt lõi
+1
+.
+Sự tái cấu trúc mạnh mẽ này giúp hệ sinh thái công nghiệp - công nghệ của Vingroup trở nên linh hoạt hơn, nhưng cũng đòi hỏi dòng vốn lưu động và tài trợ dự án vô cùng lớn
+1
+. Sự hiện diện của hai ngân hàng tư nhân lớn là LPBank và Sài Gòn Tài Lộc (Sacombank) được kỳ vọng sẽ trở thành bệ đỡ tài chính hỗ trợ đắc lực cho Vingroup cả về dòng vốn bán buôn lẫn các giải pháp tiêu dùng bán lẻ cho khách hàng mua xe
+1
+.
+👉 Bạn có muốn tôi phân tích chi tiết hơn về cách thức hai bệ đỡ ngân hàng (LPBank và Sài Gòn Tài Lộc) phối hợp tài trợ dòng vốn cho các kế hoạch mở rộng toàn cầu đầy tham vọng này của Vingroup không?
+
+## Sources
+
+### [1] Video_LPBank_Pham_Nhat_Vuong_Clean.md
+
+> Định chế tài chính Vốn điều lệ Quy mô tài sản (2025/2026) Định hướng chiến lược trọng tâm năm 2026 LPBank (Lộc Phát) ≈ tỷ VND18 605.585 tỷ VND4 Thành lập ngân hàng con tại VIFC, đẩy mạnh mảng bán lẻ và chuyển đổi số28 SACOMBANK (Sài Gòn Tài Lộc) 18.852 tỷ VND52 Lớn hơn LPBank ≈ [cite: 52] Di dời trụ sở về ThaiSquare, phát hành 20.000 tỷ VND trái phiếu riêng lẻ41 LPBS (Chứng khoán LPBank) Đang tăng vốn17 Đang mở rộng quy mô17 Hoàn tất IPO, bắt tay Sacombank phát triển mảng Wealth Management6 Sự dịch chuyển dòng tiền cá nhân của ông Phạm Nhật Vượng vào LPBank diễn ra song song với các hoạt động cơ cấu lại hệ sinh thái của riêng ông6. Trong năm 2026, Tập đoàn Vingroup đã nâng tỷ lệ sở hữu tại Công ty CP Di chuyển Xanh và Thông minh (Green SM) và VinEnergo lên tối đa 35% lợi ích thông qua việc nhận chuyển nhượng vốn góp từ chính ông Phạm Nhật Vượng54. Hãng taxi điện Green SM của ông đã tăng vốn điều lệ lên mức khổng lồ hơn 43.000 tỷ VND, mở rộng hiện diện tại 6 quốc gia (Việt Nam, Lào, Indonesia, Philippines, Ấn Độ và Kazakhstan)55, đồng thời liên tục chốt các hợp đồng bán xe điện quy mô lớn cho các đối tác như Huy Long (2.000 xe)54 hay Taxi Quê Lụa (2.000 xe)57. VinFast cũng thực hiện tái cấu trúc triệt để khi tách mảng sản xuất và chuyển giao cho bên thứ ba trong thương vụ trị giá 530 triệu USD nhằm tập trung tối đa nguồn lực vào công tác nghiên cứu và phát triển (R&D) và công nghệ cốt lõi53. Sự kết nối chéo này tạo nên một thế trận phòng thủ và hỗ trợ dòng vốn cực kỳ vững chắc2. Vingroup với nhu cầu vốn khổng lồ cho các dự án công nghệ, xe điện và hạ tầng quy mô lớn nay đã có hai bệ đỡ tài chính tư nhân hùng mạnh là Sài Gòn Tài Lộc (Sacombank) và LPBank hỗ trợ cả về dòng vốn bán buôn và các giải pháp tài chính tiêu dùng bán lẻ cho khách hàng mua xe, mua nhà43.

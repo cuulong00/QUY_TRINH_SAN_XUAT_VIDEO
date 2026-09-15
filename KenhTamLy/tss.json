@@ -1,0 +1,176 @@
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % 
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % 
+(base) pro16@Tran-Tuan-D
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % f
+ind .agent -type f | sor
+t && echo "---" && find 
+00_core -type f | sort &
+& echo "---" && find 02_
+templates -type f | sort
+
+.agents/.DS_Store
+.agents/skills/chapter_writer/SKILL.md
+.agents/skills/chapter_writer/examples/golden_chapter.md
+.agents/skills/doctrinal_qa/SKILL.md
+.agents/skills/hook_engine/SKILL.md
+.agents/skills/hook_engine/examples/golden_hook.md
+.agents/skills/oral_polisher/SKILL.md
+.agents/skills/oral_polisher/examples/before_after_polish.md
+.agents/skills/script_architect/SKILL.md
+.agents/workflows/build_outline.md
+.agents/workflows/hook_lab.md
+.agents/workflows/init_episode.md
+.agents/workflows/merge_voiceover.md
+.agents/workflows/qa_review.md
+.agents/workflows/revise_chapter.md
+.agents/workflows/write_chapter.md
+---
+00_core/anti_patterns.md
+00_core/audience_personas.md
+00_core/channel_bible.md
+00_core/doctrine_boundaries.md
+00_core/hook_library.md
+00_core/longform_blueprint.md
+00_core/quality_rubric.md
+00_core/reference_stories.md
+00_core/voiceover_style_guide.md
+---
+02_templates/episode_template/01_brief.md
+02_templates/episode_template/02_hook_pack.md
+02_templates/episode_template/03_thesis_map.md
+02_templates/episode_template/04_outline.md
+02_templates/episode_template/05_continuity_packet.md
+02_templates/episode_template/06_claim_ledger.md
+02_templates/episode_template/07_golden_lines.md
+02_templates/episode_template/README.md
+02_templates/episode_template/chapter_template.md
+02_templates/episode_template/final_voiceover.md
+02_templates/episode_template/production_notes.md
+02_templates/episode_template/visual_map.csv
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % n
+ode scripts/tts/tts_clie
+nt.js --list-voices
+🔍 Đang lấy danh sách giọng đọc cộng đồng...
+Error: Lỗi khi lấy danh sách giọng: 401 — {"status":0,"error_code":401,"error_message":"Unauthorized"}
+    at listVoices (/Users/pro16/Documents/VideoProject/PhatPhapChannel/scripts/tts/tts_client.js:66:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % node scripts/tts/tts_client.js --list-voices
+
+🔍 Đang lấy danh sách giọng đọc cộng đồng...
+Error: Lỗi khi lấy danh sách giọng: 401 — {"status":0,"error_code":401,"error_message":"Unauthorized"}
+    at listVoices (/Users/pro16/Documents/VideoProject/PhatPhapChannel/scripts/tts/tts_client.js:78:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % node scripts/tts/tts_client.js --list-voices
+
+🔍 Đang lấy danh sách giọng đọc cộng đồng...
+
+📋 Tổng: 0 giọng cộng đồng
+
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % curl -s "https://vbee.vn/api/public/v1/voice
+s?voiceOwnership=COMMUNITY&languageCode=vi-VN" -H "app-id: 4a5c79a2-82b9-4e01-ade9-37d2ee49
+d4f7" -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM0NDY3MT
+N9.MbdyyDitl5XaqCb-d0mgR6fpEwkcxwCgfUwsbwTv2g8" | python3 -m json.tool | head -80
+{
+    "result": {
+        "pagination": {
+            "has_next_page": true,
+            "has_prev_page": false,
+            "next_cursor": "WyI2Nzk0OTU0MDQwOWIyZTAyYjVhMmQ5YzgiXQ==",
+            "prev_cursor": null
+        },
+        "voices": [
+            {
+                "code": "n_hanoi_male_phanhoa_news_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-66a784f9953e86f00976d3a9/2a7e5565-0e32-4ef5-b20c-97b17d6b2ba4.mp3",
+                "gender": "male",
+                "language_code": "vi-VN",
+                "name": "Phan Hoa"
+            },
+            {
+                "code": "n_quangninh_male_beky1731913310059_children_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-673ae65e7608472b63ac1780/74ef5039-14fb-4ef1-8ee0-aae875f0fd66.mp3",
+                "gender": "male",
+                "language_code": "vi-VN",
+                "name": "MrK T\u1ed5ng \u0110\u00e0i"
+            },
+            {
+                "code": "s_hochiminh_male_thanhtu1735134810116_education_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-676c0e5a15ba1ce0979af570/02859ba4-5df3-4939-aba0-d4fc6a47e7a7.mp3",
+                "gender": "male",
+                "language_code": "vi-VN",
+                "name": "Thanh T\u1eeb"
+            },
+            {
+                "code": "s_hochiminh_male_tuanhthanh1735309885254_news_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-676eba3df0bfc845109c6d85/4931c193-85da-45e3-9d15-dc3a101d34fa.mp3",
+                "gender": "male",
+                "language_code": "vi-VN",
+                "name": "T\u1eeb Anh Thanh"
+            },
+            {
+                "code": "n_hanoi_female_thuhuong1734671471521_story_vc",
+                "credit_factor": 1,
+                "demo": "https://prod-aivoice.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-676eeecd9d39490d52f687d5/68df80254092ec12b32a204d.mp3",
+                "gender": "female",
+                "language_code": "vi-VN",
+                "name": "Thu H\u01b0\u01a1ng HN"
+            },
+            {
+                "code": "n_hanoi_female_vananh_book_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-677c8c88f0bfc845109d3910/3c59b312-8091-4ef3-b945-04cdc7da66c6.mp3",
+                "gender": "female",
+                "language_code": "vi-VN",
+                "name": "V\u00e2n Anh HN"
+            },
+            {
+                "code": "n_hanoi_female_thaolinh_story_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-6780bb0df0bfc84510a14f46/1c514bef-ddf5-49f4-ae12-d7b8b8d7b73d.mp3",
+                "gender": "female",
+                "language_code": "vi-VN",
+                "name": "Th\u1ea3o Linh"
+            },
+            {
+                "code": "n_bacninh_male_truonggiang_education_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-677e7e3bf0bfc845109f5473/09320d7d-61e2-4b8a-8190-e63c714ef5f9.mp3",
+                "gender": "male",
+                "language_code": "vi-VN",
+                "name": "Tr\u01b0\u1eddng Giang"
+            },
+            {
+                "code": "n_hanoi_female_trangcunday_news_vc",
+                "credit_factor": 1,
+                "demo": "https://vbee-studio-tmp.s3.ap-southeast-1.amazonaws.com/voice-cloning/samples/voice-677cad00f0bfc845109d707b/bdffea6a-556e-4830-a00d-0f50381e6733.mp3",
+                "gender": "female",
+                "language_code": "vi-VN",
+                "name": "Trang \u0111\u1ecdc tin"
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % >....                                       N9.MbdyyDitl5XaqCb-d0mgR6fpEwkcxwCgfUwsbwTv2g8" | python3 -c "import json,sys; d=json.load(sys.stdin); voices=d.get('result',{}).get('voices',[]); [print(f\"{v.get('name','?')} → {v.get('code','?')}\") for v in voices if 'thi' in v.get('name','').lower() or 'tâm' in v.get('name','').lower() or 'tam' in v.get('name','').lower()]" 2>/dev/null || echo "Not found in first page, trying with cursor..." && curl -s "https://vbee.vn/api/public/v1/voices?voiceOwnership=COMMUNITY&languageCode=vi-VN&cursor=WyI2Nzk0OTU0MDQwOWIyZTAyYjVhMmQ5YzgiXQ==" -H "app-id: 4a5c79a2-82b9-4e01-ade9-37d2ee49d4f7" -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM0NDY3MTN9.MbdyyDitl5XaqCb-d0mgR6fpEwkcxwCgfUwsbwTv2g8" | python3 -c "import json,sys; d=json.load(sys.stdin); voices=d.get('result',{}).get('voices',[]); [print(f\"{v.get('name','?')} → {v.get('code','?')}\") for v in voices]; print(f'---Pa
+gination: {d.get(\"result\",{}).get(\"pagination\",{})}')" 2>/dev/null | head -30
+BS BINH MINH Huế → c_thuathienhue_male_bsminh_education_vc
+NamCao → n_hanoi_male_namcamo_advertise_vc
+Thiên Bình → n_haiphong_male_ongthuong_book_vc
+Hồng Vị → s_tiengiang_male_hongvi_news_vc
+Thúy Oanh → s_tiengiang_female_thuyoanh_news_vc
+Vũ Đại Hưng → c_quangnam_male_vudaihung_news_vc
+Trung  MMK Auto → s_bariavungtau_male_voice_advertise_vc
+Văn Tèo → s_angiang_male_vanteo_news_vc
+Podcast chữa lành → n_hanoi_female_helensachnoi_book_vc
+Nguyễn Quang Bình 1 → s_vinhlong_male_nguyenquangbinh1_news_vc
+HN Phương Thảo → s_longan_male_lstqd_news_vc
+NGỌC QUÝ → s_hochiminh_male_giongcuaquy_news_vc
+Mr Nguyen News → s_hochiminh_male_mrnguyennews_news_vc
+Ngó Ngược Tin tức → n_hanoi_male_huongtintuc_news_vc
+Hoàng Kim Quý → c_thanhhoa_male_hoangkimquy_story_vc
+Nguyễn Phương HD → n_hanoi_female_nguyenphuonghd_education_vc
+Hải Lê Giọng Bắc → n_hanoi_male_haile_advertise_vc
+Mc Vân → n_hanoi_female_mcvan_news_vc
+Nguyễn Đức Luân → s_baclieu_male_nguyenducluan_news_vc
+Tuu anh → c_thuathienhue_male_tuuanh_education_vc
+---Pagination: {'has_next_page': True, 'has_prev_page': True, 'next_cursor': 'WyI2N2JiZTk3N2FmZTMxMDc3YTBlZWU4YmUiXQ==', 'prev_cursor': 'WyI2Nzk0OTY5NzQwOWIyZTAyYjVhNzQ3YTUiXQ=='}
+(base) pro16@Tran-Tuan-Duong PhatPhapChannel % 

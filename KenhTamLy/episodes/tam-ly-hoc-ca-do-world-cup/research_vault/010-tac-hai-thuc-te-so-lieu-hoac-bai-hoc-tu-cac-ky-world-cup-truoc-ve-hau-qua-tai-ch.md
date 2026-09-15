@@ -1,0 +1,222 @@
+---
+title: "Tác hại thực tế, số liệu hoặc bài học từ các kỳ World Cup trước về hậu quả tài chính, tâm lý hoảng loạn và sự sụp đổ của người cá cược bóng đá. Tìm số liệu cụ thể ở Việt Nam hoặc quốc tế về số ca trầm cảm, cuộc gọi đến đường dây nóng hỗ trợ cờ bạc trong mùa World Cup."
+type: nblm-answer
+asked_at: 2026-07-06T07:34:38.345Z
+notebook_url: "https://notebooklm.google.com/notebook/d88daa94-be32-4440-a813-5a9b27868e83"
+session_id: "cc24ee6a"
+citations_count: 20
+sources:
+  - "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá"
+  - "The world cup turned Polymarket into a $5B market - CryptoNews.net"
+  - "Responsible Gambling Concerns Rise During World Cup 2026 Betting Surge - PlayUSA"
+  - "Gambling Disorder Shown to Put People at Risk for Suicide ..."
+  - "Triệt xóa đường dây cá độ World Cup qua mạng hơn 20 tỉ đồng - Báo Lao Động"
+  - "Đà Nẵng triệt xóa đường dây cá độ bóng đá mùa World Cup, giao dịch hơn 20 tỉ đồng"
+---
+
+# Tác hại thực tế, số liệu hoặc bài học từ các kỳ World Cup trước về hậu quả tài chính, tâm lý hoảng loạn và sự sụp đổ của người cá cược bóng đá. Tìm số liệu cụ thể ở Việt Nam hoặc quốc tế về số ca trầm cảm, cuộc gọi đến đường dây nóng hỗ trợ cờ bạc trong mùa World Cup.
+
+> Asked on 2026-07-06T07:34:38.345Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/d88daa94-be32-4440-a813-5a9b27868e83)
+
+## Answer
+
+Thoughts
+BÁO CÁO CHUYÊN SÂU: HỆ LỤY TÀI CHÍNH, KHỦNG HOẢNG TÂM LÝ VÀ SỰ SỤP ĐỔ CỦA NGƯỜI CÁ ĐỘ BÓNG ĐÁ TRONG CÁC KỲ WORLD CUP
+(Lưu ý về phạm vi dữ liệu: Các nguồn tài liệu hiện tại cung cấp số liệu thực tế rất chi tiết về các chuyên án triệt phá đường dây cá độ lớn tại Việt Nam, nhưng không chứa số liệu thống kê cụ thể về số ca trầm cảm hoặc cuộc gọi đến đường dây nóng hỗ trợ cờ bạc riêng tại Việt Nam trong mùa World Cup. Do đó, các số liệu về tâm lý lâm sàng, trầm cảm và hệ thống hỗ trợ dưới đây được dẫn từ các nghiên cứu thực chứng và báo cáo quốc tế lớn được ghi nhận trong tài liệu).
+1. Sự bùng nổ quy mô cá cược tại các kỳ World Cup
+Sự gia tăng quy mô cá cược toàn cầu: Khối lượng giao dịch cá cược trực tuyến liên tục thiết lập những cột mốc kỷ lục qua mỗi kỳ đại hội. Nếu như kỳ World Cup 2022 tại Qatar ghi nhận tổng số tiền đặt cược toàn cầu đạt khoảng 35 tỷ USD, thì kỳ World Cup 2026 ghi nhận mức tăng trưởng bùng nổ với tổng lượng tiền đặt cược dự kiến vượt qua mốc 50 tỷ USD (một số phân tích ước tính có thể lên tới 60 tỷ USD)
+Sự trỗi dậy của các thị trường dự đoán trực tuyến: Trận chung kết World Cup 2026 đã biến các nền tảng công nghệ thành những cỗ máy thanh khoản khổng lồ. Khối lượng giao dịch liên quan đến World Cup 2026 trên nền tảng Polymarket đạt mốc kỷ lục hơn 6,4 tỷ USD (tăng trưởng gấp hơn 40.000 lần so với con số 138.000 USD của kỳ World Cup 2022)
+. Song song đó, nền tảng giao dịch Kalshi ghi nhận tổng khối lượng giao dịch đạt 7,4 tỷ USD
+5
+8
+.
+2. Hậu quả tài chính tàn khốc và tác động đến an ninh hộ gia đình
+Sụt giảm an ninh lương thực (Ăn chặn vào tiền mua thực phẩm): Nghiên cứu thực chứng của Cục Nghiên cứu Kinh tế Quốc gia Mỹ (NBER) công bố sát kỳ World Cup 2026 chỉ ra rằng việc hợp pháp hóa cá độ thể thao tại 9 bang đã dẫn đến sự xuất hiện của thêm 284.000 hộ gia đình rơi vào cảnh thiếu ăn mỗi năm
+9
+10
+. Tỷ lệ thiếu ăn đặc biệt tăng mạnh lên tới 10,5% ở nhóm những người chơi cá cược tích cực và nhóm nam giới trẻ tuổi (25 đến 44 tuổi)
+9
+11
+.
+Vòng xoáy nợ nần: Khảo sát quốc gia của US News năm 2025 chỉ ra rằng 30% người chơi cá cược thể thao đang phải gánh chịu các khoản nợ nần trực tiếp từ cờ bạc, và 1 trong 4 người (25%) đã từng trễ hạn thanh toán các hóa đơn thiết yếu (tiền điện, nước, y tế) do tổn thất từ việc thua cược
+9
+12
+.
+3. Khủng hoảng tâm lý hoảng loạn, trầm cảm và quá tải hệ thống hỗ trợ
+Sự quá tải của các đường dây nóng hỗ trợ cờ bạc: Tổ chức từ thiện GamCare (Anh) báo cáo số lượng liên hệ đến Đường dây hỗ trợ cờ bạc quốc gia (National Gambling Helpline) đã tăng vọt 11% ngay trong tháng diễn ra vòng chung kết World Cup 2022 (tăng từ 8.802 cuộc gọi vào tháng 12/2022 lên 9.742 cuộc gọi vào tháng 1/2023)
+. Bước sang năm 2026, tỷ lệ người gọi hỗ trợ liên quan đến cá cược trực tuyến đạt mức kỷ lục 81,5% - 82%
+Bẫy bám chấp của giới trẻ sau giải đấu: Khảo sát của YouGov trên 3.700 người trưởng thành cho thấy 32% thanh niên từ 18-34 tuổi thừa nhận họ không thể tránh khỏi việc đặt cược trong các kỳ sự kiện lớn như World Cup
+. Nguy hiểm hơn, 30% trong số đó tiếp tục duy trì thói quen cược ở các trò chơi trực tuyến có độ rủi ro cao hơn (như sòng bạc trực tuyến) sau khi giải đấu kết thúc
+Chi phí y tế cho khủng hoảng tinh thần: Các trạng thái rối loạn lo âu, trầm cảm lâm sàng và kiệt quệ cảm xúc do căng thẳng tài chính từ cá độ bóng đá ước tính đã làm phát sinh thêm khoảng 130,2 triệu USD chi phí y tế công cộng mỗi năm (theo báo cáo của NBER tại Mỹ)
+9
+19
+.
+4. Mối liên hệ đặc biệt nguy hiểm với hành vi tự tử
+Tỷ lệ tự tử dẫn đầu trong các hội chứng nghiện: Rối loạn cờ bạc (GD) được ghi nhận là chứng bệnh có tỷ lệ tự tử cao nhất trong số tất cả các chứng nghiện hành vi và chất kích thích
+9
+20
+.
+Ý định và hành vi tự tử: Khoảng 31% bệnh nhân mắc rối loạn cờ bạc từng có ý định tự tử và 16% đã từng thực hiện hành vi tự tử thực tế
+9
+21
+.
+Số liệu từ nghiên cứu thuần tập lớn nhất lịch sử y văn (Na Uy, 1/2025): Theo dõi 6.899 bệnh nhân mắc rối loạn cờ bạc trong giai đoạn 2008-2021, nghiên cứu của Joakim Kristensen chỉ ra:
+Tự tử là nguyên nhân tử vong hàng đầu ở nhóm người mắc rối loạn cờ bạc, chiếm tới 25% tổng số ca tử vong trong nhóm này
+22
+23
+.
+Người có chẩn đoán rối loạn cờ bạc có nguy cơ tử vong do tự tử cao gấp 5,12 lần so với dân số chung
+22
+23
+.
+Động lực thúc đẩy chính của thảm kịch này là sự bế tắc tột cùng do gánh nặng nợ nần không thể chi trả (indebtedness) kết hợp với cảm giác xấu hổ, tự kỳ thị bản thân sâu sắc (shame)
+22
+24
+.
+5. Thực trạng triệt phá các đường dây cá độ mùa World Cup tại Việt Nam
+Tại Việt Nam, lực lượng chức năng liên tục triệt xóa các đường dây tổ chức cá độ trực tuyến khép kín xuyên tỉnh với quy mô giao dịch từ hàng chục đến hàng trăm tỷ đồng bùng phát mạnh mẽ theo sức nóng của giải đấu
+25
+26
+.
+Bảng thống kê các chuyên án triệt phá cá độ bóng đá mùa World Cup tiêu biểu tại Việt Nam
+Địa phương triệt phá
+Lực lượng thực hiện
+Tổng số tiền giao dịch ghi nhận
+Đặc điểm nổi bật của đường dây
+Ninh Bình
+25
+27
+Công an tỉnh Ninh Bình phối hợp cùng Cục Cảnh sát hình sự (Bộ Công an)
+25
+Vượt quá 900 tỷ VND
+25
+Đánh sập đường dây liên tỉnh quy mô cực lớn. Chỉ tính riêng trong vài ngày đầu khai mạc mùa World Cup, số tiền giao dịch đặt cược đã lên tới 350 tỷ VND
+25
+.
+Đà Nẵng
+25
+27
+Phòng Cảnh sát hình sự Công an TP. Đà Nẵng (Chuyên án trinh sát bí số 0626B)
+25
+26
+Hơn 20 tỷ VND
+25
+28
+(Hơn 1 triệu USD quy ước trên hệ thống
+25
+29
+)
+Do Trần Trung Việt (46 tuổi) cầm đầu
+27
+30
+. Sử dụng phương thức phân cấp tài khoản tinh vi nhiều tầng (Master ➔ Agent ➔ Member)
+. Mức quy đổi tiền mặt tự thỏa thuận dao động từ 15.000 đến 50.000 VND/đô cược
+25
+29
+. Lực lượng công an thu giữ, trích xuất gần 12.000 trang dữ liệu điện tử phục vụ điều tra
+25
+32
+.
+Hưng Yên
+25
+27
+Cơ quan Cảnh sát điều tra Công an tỉnh Hưng Yên
+25
+Gần 11 tỷ VND
+25
+Khởi tố vụ án, tạm giữ 10 đối tượng tổ chức mạng lưới cá cược phân cấp đại lý tinh vi qua Internet
+25
+.
+Lâm Đồng
+25
+27
+Cơ quan Công an tỉnh Lâm Đồng
+25
+Vượt mốc 5 tỷ VND
+25
+Triệt xóa đường dây tổ chức cá độ hoạt động khép kín, bắt giữ 5 đối tượng, sử dụng tài khoản ảo để che giấu dòng tiền
+25
+.
+📊 Bạn có muốn tôi tổng hợp thêm thông tin về các chiến lược can thiệp kỹ thuật (như các phần mềm tự giới hạn chủ động) và can thiệp y tế công cộng để phòng chống tác hại của rối loạn cá độ bóng đá không?
+
+## Sources
+
+### [1] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> 4. Số liệu thực tế, rủi ro tài chính và khủng hoảng tâm lý Sự cộng hưởng giữa các lỗ hổng thần kinh học và các tính năng công nghệ hiện đại đã biến các sự kiện thể thao lớn, tiêu biểu là các kỳ World Cup, thành những đợt bùng phát khủng hoảng tài chính và tâm lý trên quy mô toàn cầu.[30, 31, 32] Quy mô đặt cược và sự bùng nổ trong các kỳ World Cup Các kỳ World Cup gần đây ghi nhận những con số kỷ lục về khối lượng giao dịch cá cược trực tuyến, được thúc đẩy bởi sự phổ cập của điện thoại thông minh và việc hợp pháp hóa cá độ thể thao tại nhiều quốc gia.[33, 34, 35]
+
+### [5] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Sự gia tăng quy mô cá cược toàn cầu: Nếu như kỳ World Cup 2022 tại Qatar ghi nhận tổng số tiền đặt cược toàn cầu đạt khoảng 35 tỷ USD, thì kỳ World Cup 2026 ghi nhận mức tăng trưởng bùng nổ, với tổng lượng tiền đặt cược dự kiến vượt qua mốc 50 tỷ USD.[34, 35] Thị trường dự đoán trực tuyến: Khối lượng giao dịch liên quan đến World Cup 2026 trên nền tảng Polymarket đạt mốc kỷ lục hơn 6.4 tỷ USD, tăng trưởng nhảy vọt so với con số 138,000 USD của kỳ World Cup 2022.[36] Song song đó, nền tảng giao dịch Kalshi ghi nhận tổng khối lượng giao dịch đạt 7.4 tỷ USD, đóng góp vào tổng mức doanh thu toàn ngành dự kiến đạt 44.8 tỷ USD chỉ riêng trong tháng 6 năm 2026.[36]
+
+### [8] The world cup turned Polymarket into a $5B market - CryptoNews.net
+
+> The tournament kicked off on June 11 with a format built for market makers: 48 teams instead of 32, 104 matches instead of 64, three host countries, and a brand-new Round of 32 that added an extra layer of binary, elimination-stakes events. Every match is a market. Every market is several: winner, draw, total goals, advancement. The expanded format nearly doubled the tradeable surface area of the world's most-watched event. The results by the numbers: Polymarket's World Cup-linked contracts passed $2 billion in the group stage, $3.3 billion days later, and roughly $6.4 billion at the latest count, against $138,000 for the entire 2022 tournament. Kalshi, the CFTC-regulated rival, processed about $7.4 billion in World Cup trades, more than its entire March Madness, with its flagship winner market alone drawing over $832 million. Combined June volume across Kalshi, Polymarket, and Polymarket's new US-regulated exchange hit $44.8 billion, up 75% from May's $25.66 billion. Kalshi grew 87% month over month to $31.5 billion; Polymarket did $14 billion across both venues, including $3.04 billion on the US platform. Weekly sector volume peaked at a record $14.5 billion, with open interest holding at a record $1.6 billion for three consecutive weeks. Kalshi's open interest alone crossed $1.16 billion. Reports put Polymarket's revenue run-rate at $1 billion annualized on World Cup flow.
+
+### [9] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Khủng hoảng tài chính, tâm lý và nguy cơ tự tử Đằng sau những con số doanh thu khổng lồ của ngành công nghiệp cá cược là những thảm kịch cá nhân và gánh nặng xã hội nghiêm trọng.[30, 33, 37] Tác động kinh tế hộ gia đình: Nghiên cứu của Cục Nghiên cứu Kinh tế Quốc gia Mỹ (NBER) công bố sát kỳ World Cup 2026 chỉ ra mối tương quan trực tiếp giữa việc hợp pháp hóa cá độ thể thao tại 9 bang và tình trạng sụt giảm an ninh lương thực nghiêm trọng.[38] Việc hợp pháp hóa này dẫn đến sự xuất hiện của thêm 284,000 hộ gia đình rơi vào cảnh thiếu ăn và làm phát sinh thêm 130.2 triệu USD chi phí y tế công cộng mỗi năm.[38] Tỷ lệ thiếu ăn đặc biệt tăng mạnh lên tới 10.5% ở những nhóm người chơi cá cược tích cực và nhóm nam giới trẻ tuổi từ 25 đến 44 tuổi.[38] Khảo sát quốc gia của US News năm 2025 cũng chỉ ra rằng 1 trong 4 người chơi cá cược thể thao đã từng trễ hạn thanh toán các hóa đơn thiết yếu do thua cược, và 30% đang phải gánh chịu các khoản nợ nần trực tiếp từ cờ bạc.[38, 39] Gia tăng áp lực tâm lý và quá tải hệ thống hỗ trợ: Tổ chức từ thiện GamCare (Anh) báo cáo số lượng liên hệ đến Đường dây hỗ trợ cờ bạc quốc gia (National Gambling Helpline) đã tăng vọt 11% ngay trong tháng diễn ra vòng chung kết World Cup 2022 (tăng từ 8,802 cuộc gọi vào tháng 12/2022 lên 9,742 cuộc gọi vào tháng 1/2023).[31, 32] Đến năm 2026, tỷ lệ người gọi hỗ trợ liên quan đến cá cược trực tuyến đạt mức kỷ lục 81.5% - 82%.[31, 32] Khảo sát YouGov chỉ ra rằng 32% thanh niên từ 18-34 tuổi thừa nhận họ không thể tránh khỏi việc đặt cược trong các kỳ sự kiện lớn, và 30% trong số đó tiếp tục duy trì thói quen cược ở các trò chơi trực tuyến có độ rủi ro cao hơn (như sòng bạc trực tuyến) sau khi giải đấu kết thúc.[31, 32] Mối liên hệ đặc biệt nguy hiểm với hành vi tự tử: Rối loạn cờ bạc (GD) có tỷ lệ tự tử cao nhất trong số tất cả các chứng nghiện hành vi và chất kích thích.[37] Thống kê cho thấy khoảng 31% bệnh nhân mắc GD từng có ý định tự tử và 16% đã từng thực hiện hành vi tự tử.[33]
+
+### [10] Responsible Gambling Concerns Rise During World Cup 2026 Betting Surge - PlayUSA
+
+> Food sufficiency measures whether households consistently have enough food to eat. According to the NBER report, legalized sports betting was associated with a 2.1% decline in food sufficiency among working-age adults without college degrees. Among active sports bettors, the decline reached 10.5%. Researchers also found that the impact appeared strongest during NFL seasons , when betting activity tends to increase. According to the paper, legalization in nine states coincided with roughly 284,000 additional food-insecure households annually.
+
+### [11] Responsible Gambling Concerns Rise During World Cup 2026 Betting Surge - PlayUSA
+
+> The authors cautioned that the findings show correlation, not direct causation . Still, they wrote that gambling losses may reduce household financial stability and limit resources available for necessities such as food. Sports betting expansion continues across the US The effects appeared most significant among adults ages 25 to 44 , a demographic commonly associated with higher sports betting participation. Sports betting in the US has expanded rapidly since the Supreme Court struck down the federal ban in 2018, allowing states to legalize wagering individually. According to the American Gaming Association , 39 states and Washington, D.C., now allow sports betting in some form.
+
+### [12] Responsible Gambling Concerns Rise During World Cup 2026 Betting Surge - PlayUSA
+
+> Additional surveys have reached similar conclusions. According to a 2025 US News survey, one in four sports bettors reported missing bill payments because of gambling losses, while roughly 30% said they had accumulated gambling-related debt. Researchers warn of financial and mental strain Les Bernal , national director of Stop Predatory Gambling, said the latest NBER findings support concerns his organization has raised for years about household affordability and financial distress linked to gambling expansion .
+
+### [19] Responsible Gambling Concerns Rise During World Cup 2026 Betting Surge - PlayUSA
+
+> “The spread of commercialized sports gambling has helped turn a nation of small earners who could be small savers into a nation of habitual bettors,” Bernal said in a news post by MarketWatch . The NBER report also examined the mental health effects associated with gambling-related financial stress. According to the study, problem gambling is frequently linked to anxiety , depression and emotional distress . Researchers estimated that the expansion of legalized sports betting corresponded with approximately $130.2 million in excess annual health care spending.
+
+### [20] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Sự phân tách giữa Wanting và Liking trong cơ chế nghiện Một trong những phát hiện mang tính cách mạng của dịch tễ học thần kinh là sự phân tách hoàn toàn giữa hai hệ thống động lực: "Wanting" (thèm khát, thúc đẩy hành vi) và "Liking" (sự thỏa mãn, thích thú thực sự khi tiêu thụ phần thưởng) được đề xuất bởi Kent Berridge và Terry Robinson thông qua Thuyết nhạy cảm hóa khuyến khích (Incentive-Sensitization Theory).[1, 6, 12] Hệ thống "Wanting" (Incentive Salience) được điều phối chủ yếu bởi mạng lưới dopaminergic mesolimbic rộng lớn.[6, 13] Khi hệ thống này hoạt động, nó gán "sự nổi bật khuyến khích" (incentive salience) lên các kích thích liên quan đến phần thưởng (như âm thanh ứng dụng, biểu tượng nhà cái, bảng tỷ lệ kèo), biến chúng thành các "nam châm động lực" thu hút sự chú ý một cách vô thức và thôi thúc hành vi đặt cược.[6, 13] Trong trạng thái này, các kích thích có điều kiện có thể thúc đẩy hành vi tiếp cận cưỡng chế, tương tự như hiện tượng những người nghiện ma túy điên cuồng tìm kiếm các hạt bột trắng dù biết chúng không phải là chất kích thích.[13] Động lực thèm khát này còn được kích hoạt mạnh mẽ thông qua hiện tượng Chuyển giao công cụ Pavlov (Pavlovian-Instrumental Transfer - PIT), nơi các tín hiệu môi trường kích thích xung năng tìm kiếm phần thưởng vắng mặt.[13]
+
+### [21] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá 1. Cơ chế thần kinh học của hành vi cá cược và cờ bạc Hành vi cá độ bóng đá và cờ bạc trực tuyến không đơn thuần là những quyết định giải trí hay lựa chọn tài chính sai lầm, mà là kết quả của sự tương tác phức tạp giữa các mạng lưới thần kinh học bị thao túng bởi các thuật toán phần thưởng sinh học.[1, 2, 3] Việc hiểu rõ cách thức não bộ xử lý thông tin về rủi ro, phần thưởng và sự không chắc chắn là chìa khóa để giải mã tính chất gây nghiện cực độ của loại hình hành vi này.[1, 4, 5]
+
+### [22] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Nghiên cứu thuần tập (cohort study) lớn nhất lịch sử y văn công bố vào tháng 1/2025 tại Na Uy do Joakim Kristensen dẫn đầu đã theo dõi 6,899 bệnh nhân mắc GD trong giai đoạn 2008-2021.[40] Nghiên cứu đưa ra những số liệu đáng báo động: tự tử là nguyên nhân tử vong hàng đầu ở nhóm người mắc GD, chiếm tới 25% tổng số ca tử vong trong nhóm này.[40] Người có chẩn đoán rối loạn cờ bạc có nguy cơ tử vong do tự tử cao gấp 5.12 lần so với dân số chung.[40] Động lực thúc đẩy chính của thảm kịch này là sự kết hợp tàn khốc giữa gánh nặng nợ nần không thể chi trả (indebtedness) và cảm giác xấu hổ, tự kỳ thị bản thân sâu sắc (shame).[37, 40]
+
+### [23] Gambling Disorder Shown to Put People at Risk for Suicide ...
+
+> article continues after advertisement The findings were deeply concerning. Suicide emerged as the leading cause of death among those with GD, accounting for 25% of all deaths in that group. Additionally, it found those with GD are five times more likely to die by suicide than the general population. GD is the only behavioural addiction currently recognized in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). Also referred to as compulsive gambling, GD is a chronic mental health condition that is characterized by recurrent, maladaptive gambling behaviours that cause significant functional impairment in many aspects of a person's life including their relationships, work, and finances.
+
+### [24] Gambling Disorder Shown to Put People at Risk for Suicide ...
+
+> Key Factors Linking Gambling Disorder to Suicide article continues after advertisement A 2022 cross-continental research review highlights indebtedness and shame as the primary factors linking gambling to suicidal ideation and death by suicide. The financial burden of accumulated debt and knowledge of substantial money loss is often too much for an individual to bear. Sometimes, they see continued gambling as an opportunity to recover what they've lost. This can further the cycle of problem gambling and lead to worse outcomes. At the same time, the intense shame and stigma associated with gambling addiction can stop people from seeking help, and these feelings often plague an individual's mind frequently enough to lead to suicidal thoughts.
+
+### [25] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Công tác triệt phá các đường dây cá độ tại Việt Nam Tại Việt Nam, lực lượng chức năng liên tục triệt phá các đường dây cá cược xuyên biên giới với quy mô giao dịch hàng trăm tới hàng nghìn tỷ đồng, đặc biệt bùng phát mạnh mẽ vào các mùa giải bóng đá lớn.[41, 42] Việc triệt phá này làm lộ diện các mạng lưới công nghệ tinh vi đứng sau hoạt động cá độ bất hợp pháp.[41, 42, 43] Chuyên án liên tỉnh của Công an Ninh Bình: Phối hợp cùng Cục Cảnh sát hình sự (Bộ Công an) đánh sập một đường dây cá độ bóng đá quy mô cực lớn xuyên tỉnh với tổng số tiền giao dịch vượt quá 900 tỷ VND.[41, 42] Chỉ tính riêng trong vài ngày đầu khai mạc mùa World Cup, số tiền giao dịch đặt cược của đường dây này đã lên tới 350 tỷ VND, cho thấy mức độ tập trung dòng tiền khổng lồ vào các trận đấu khai màn.[42] Chuyên án tại Đà Nẵng: Phòng Cảnh sát hình sự Công an TP. Đà Nẵng triệt phá đường dây tổ chức cá độ trực tuyến liên tỉnh trong mùa giải World Cup với tổng số tiền giao dịch hơn 20 tỷ VND.[42, 43] Hệ thống máy chủ ghi nhận lượng đặt cược quy đổi tương đương hơn 1 triệu USD chỉ trong vòng một tháng với mức quy đổi tiền mặt linh hoạt cho mỗi điểm cược ảo.[44] Chuyên án tại Hưng Yên: Cơ quan Cảnh sát điều tra khởi tố vụ án và tạm giữ 10 đối tượng tổ chức cá độ bóng đá mùa giải World Cup với tổng số tiền giao dịch ghi nhận gần 11 tỷ VND.[44] Chuyên án tại Lâm Đồng: Triệt xóa đường dây cá độ trực tuyến do nhóm đối tượng tổ chức hoạt động khép kín, bước đầu xác định số tiền giao dịch đặt cược vượt mốc 5 tỷ VND.[44]
+
+### [26] Triệt xóa đường dây cá độ World Cup qua mạng hơn 20 tỉ đồng - Báo Lao Động
+
+> Ngày 4.7, Phòng Cảnh sát hình sự Công an thành phố Đà Nẵng cho biết, đơn vị vừa phá thành công chuyên án trinh sát bí số 0626B, triệt xóa đường dây tổ chức đánh bạc dưới hình thức cá độ bóng đá qua mạng Internet với quy mô lớn. Theo cơ quan công an, qua công tác trinh sát, Phòng Cảnh sát hình sự phát hiện một nhóm đối tượng lợi dụng không gian mạng để tổ chức cá cược bóng đá trong mùa World Cup 2026 với quy mô lớn. Các đối tượng sử dụng nhiều phương thức nhằm che giấu hoạt động, gây khó khăn cho công tác phát hiện, đấu tranh.
+
+### [27] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Địa phương triệt phá Số lượng đối tượng bị tạm giữ Tổng số tiền giao dịch ghi nhận Đặc điểm nổi bật của đường dây Ninh Bình & Bộ Công an Nhiều đối tượng liên tỉnh.[41, 42] > 900 tỷ VND.[41, 42] Phát sinh giao dịch 350 tỷ VND chỉ trong vài ngày đầu World Cup.[42] Đà Nẵng Nhiều đối tượng liên quan.[43] > 20 tỷ VND.[42, 43] Quy đổi đô-kèo trực tuyến từ 15,000 đến 50,000 VND/đô cược.[44] Hưng Yên 10 đối tượng bị khởi tố.[44] Gần 11 tỷ VND.[44] Tổ chức mạng lưới cá cược phân cấp đại lý tinh vi qua mạng Internet.[44] Lâm Đồng 5 đối tượng bị bắt giữ.[44] > 5 tỷ VND.[44] Tổ chức đặt cược trực tuyến khép kín, sử dụng tài khoản ảo để che giấu dòng tiền.[44]
+
+### [28] Triệt xóa đường dây cá độ World Cup qua mạng hơn 20 tỉ đồng - Báo Lao Động
+
+> Bật nhận thông báo từ tòa soạn × Tìm kiếm × Tìm kiếm tùy chỉnh Sắp xếp theo Relevance Date Đăng nhập Pháp luật An ninh hình sự Tư vấn pháp luật Triệt xóa đường dây cá độ World Cup qua mạng hơn 20 tỉ đồng Nguyễn Hoàng - Thứ bảy, 04/07/2026 15:00 (GMT+7) Đà Nẵng - Chỉ trong hơn một tháng World Cup 2026, đường dây cá độ bóng đá qua mạng đã giao dịch hơn 20 tỉ đồng, trước khi bị công an triệt phá. Từ các tài khoản cá độ bóng đá qua mạng, đường dây hơn 20 tỉ đồng hoạt động tinh vi trong mùa World Cup 2026 đã bị công an Đà Nẵng triệt xóa. Ảnh: CACC
+
+### [29] Triệt xóa đường dây cá độ World Cup qua mạng hơn 20 tỉ đồng - Báo Lao Động
+
+> Riêng Việt trực tiếp quản lý một tài khoản Agent để tổ chức đánh bạc và đánh bạc. Từ các tài khoản này, các đối tượng tiếp tục chia nhỏ thành 16 tài khoản Member giao cho nhiều người sử dụng để đặt cược. Cơ quan công an xác định, chỉ trong thời gian từ ngày 1.6 đến 2.7.2026, hệ thống này đã ghi nhận hơn 1 triệu đô, là đơn vị quy ước trong cá cược. Với mức quy đổi từ 15.000 đồng đến 50.000 đồng/đô, tổng giá trị giao dịch của đường dây hơn 20 tỉ đồng. Đối tượng cầm đầu đường dây cá độ Trần Trung Việt. Ảnh: CACC
+
+### [30] Đà Nẵng triệt xóa đường dây cá độ bóng đá mùa World Cup, giao dịch hơn 20 tỉ đồng
+
+> Nhóm này sử dụng nhiều thủ đoạn tinh vi nhằm che giấu danh tính, phân cấp tài khoản nhiều tầng, hoạt động khép kín để đối phó với cơ quan chức năng. Cá độ bóng đá mùa World Cup 2026: Lợi nhà cái, hại người chơi ĐỌC NGAY Sau thời gian thu thập tài liệu, chứng cứ, xác minh, làm rõ vai trò của từng người, Phòng Cảnh sát hình sự phối hợp Phòng Kỹ thuật nghiệp vụ và công an các xã, phường đồng loạt triển khai 8 tổ công tác, tiến hành bắt giữ, triệu tập nhiều người liên quan. Qua điều tra ban đầu xác định Trần Trung Việt (46 tuổi, trú phường Hải Châu, Đà Nẵng ) là nghi phạm cầm đầu đường dây.
+
+### [32] Triệt xóa đường dây cá độ World Cup qua mạng hơn 20 tỉ đồng - Báo Lao Động
+
+> Căn cứ tài liệu, chứng cứ thu thập được, Phòng Cảnh sát hình sự đã tạm giữ hình sự 5 người. Trong đó, Trần Trung Việt bị tạm giữ để điều tra về hành vi “Tổ chức đánh bạc”; Trần Quốc Quang, Trần Quốc Hưng, Nguyễn Bá Vương, sinh năm 1983, trú phường Hải Châu và Lê Văn Ba (SN 1970, trú phường Cẩm Lệ, Đà Nẵng) bị tạm giữ để điều tra về hành vi “Đánh bạc”. Tang vật thu giữ gồm gần 12.000 trang dữ liệu, tài liệu điện tử cùng nhiều chứng cứ liên quan phục vụ công tác điều tra. Phòng Cảnh sát hình sự Công an thành phố Đà Nẵng đang tiếp tục mở rộng điều tra, truy xét Nguyễn Đăng Hoàng Linh và triệu tập những người có liên quan để củng cố hồ sơ, xử lý theo quy định pháp luật.

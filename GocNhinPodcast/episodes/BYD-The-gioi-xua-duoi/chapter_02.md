@@ -1,0 +1,25 @@
+Lời giải thích cho sự loay hoay đó nằm ở một sự mỉa mai của lịch sử. Nước Mỹ và châu Âu đang bị trói chặt bởi chính chiếc áo nịt ngực mang tên thương mại tự do, do chính họ dệt nên.
+
+Dưới lăng kính của Tổ chức Thương mại Thế giới, bạn không thể tùy tiện đóng sập biên giới chỉ vì hàng hóa của đối thủ quá rẻ. Đặc biệt là khi một chiếc xe B Y D không vi phạm bất kỳ bộ luật nào. Nó không phát thải, và xuất sắc vượt qua bài kiểm tra an toàn năm sao Euro N C A P. Việc đơn phương cấm đoán vô cớ sẽ xé nát bản hiến pháp của thương mại toàn cầu, đồng thời biến các tập đoàn phương Tây đang làm ăn tại Trung Quốc trở thành những con tin để trả đũa.
+
+Nhưng sự tê liệt đáng sợ nhất không nằm ở luật quốc tế, mà nằm ở một cuộc nội chiến ngay trong lòng các chính phủ sở tại. B Y D đã khéo léo đóng một chiếc nêm chia rẽ trực tiếp vào giới tinh hoa chính trị. 
+
+Ở một cực, Bộ Môi trường thèm khát những chiếc xe điện giá rẻ để hoàn thành mục tiêu Net Zero đúng hạn. Cùng lúc đó, hàng triệu người dân đang bị lạm phát vắt kiệt cũng coi chiếc xe giá rẻ như một cứu cánh để duy trì sinh hoạt.
+
+Ở cực ngược lại, Bộ Công Thương lại phải đối diện với cơn ác mộng khi các thành trì công nghiệp nội địa sụp đổ. Để bảo vệ hàng vạn công nhân của Volkswagen hay Stellantis, họ buộc phải dâng cao hàng rào thuế quan. Nhưng trớ trêu thay, mỗi đồng thuế giáng xuống B Y D lại trực tiếp đánh vào túi tiền của chính người tiêu dùng trong nước. Sự giằng xé giữa sinh thái và sinh kế, giữa mục tiêu khí hậu và việc làm công nghiệp, khiến mọi phản ứng phòng thủ của phương Tây đều trở nên ngập ngừng, chậm chạp và bộc lộ vô số lỗ hổng.
+
+Và B Y D luôn biết cách trườn qua những lỗ hổng đó với một tốc độ đáng kinh ngạc. Khi Liên minh Châu Âu chật vật thông qua được gói thuế chống trợ cấp hai mươi bảy phần trăm nhắm vào xe thuần điện, B Y D lập tức chuyển hướng. Họ ồ ạt đưa sang các dòng xe lai điện cắm sạc, hay còn gọi là P H E V. Lợi dụng khe hở pháp lý, dòng xe này chỉ phải chịu mức thuế nhập khẩu vỏn vẹn mười phần trăm. 
+
+Chưa dừng lại ở đó, một siêu nhà máy của B Y D đã được khởi công thần tốc tại Hungary, nằm ngay trong lòng châu Âu. Chỉ vài năm nữa, những chiếc B Y D lăn bánh ở lục địa già sẽ mang nhãn mác "Sản xuất tại châu Âu", phế võ công toàn bộ hệ thống phòng vệ biên giới bằng thuế quan.
+
+Phương Tây đang cố gắng chặn đứng một trận lụt bằng những hàng rào giấy. Nếu cứ bị cuốn vào một trò chơi vắt kiệt để phân định thắng thua bằng thuế quan, không một thế lực nào có thể cản bước B Y D. 
+
+Chính vì vậy, nhiều khu vực đã sớm nhận ra rằng: Muốn sinh tồn, họ phải sử dụng những vũ khí phi truyền thống. 
+
+Tại Đông Nam Á, Indonesia đã tung ra một đòn thế cực kỳ hiểm hóc mang tên "bắt con tin tài nguyên". Quốc gia vạn đảo này cấm xuất khẩu quặng Niken thô, buộc các hãng xe Trung Quốc nếu muốn có nguyên liệu làm pin thì phải xách hàng tỷ đô la đến xây nhà máy ngay trên đất Indonesia. Bằng yêu cầu tỷ lệ nội địa hóa lên tới bốn mươi phần trăm, họ biến chính đối thủ bành trướng thành cỗ máy tạo việc làm cho nền kinh tế nội địa.
+
+Trong khi đó, Nhật Bản và Hàn Quốc – những cường quốc ô tô lâu đời – lại chọn cách phòng thủ bằng công nghệ lõi. Thay vì lao vào cuộc đua đốt tiền sản xuất xe thuần điện giá rẻ, họ xây dựng thành trì đa nhiên liệu. Từ xe hybrid xăng lai điện cực kỳ tối ưu, cho đến công nghệ hydrogen, người Nhật và người Hàn đang cố gắng làm suy yếu sự phụ thuộc của thế giới vào chuỗi cung ứng pin Lithium mà Trung Quốc đang nắm thế độc quyền.
+
+Rõ ràng, ở tầm vóc vĩ mô, mỗi khu vực đều đang ráo riết thiết lập những phòng tuyến chiến lược của riêng mình. Tuy nhiên, trong lúc chờ các rào cản pháp lý và công nghệ này phát huy tác dụng, sức ép khốc liệt nhất của cuộc cạnh tranh lại đang âm thầm dội thẳng xuống một đối tượng khác: chính túi tiền của những người mua xe.
+
+

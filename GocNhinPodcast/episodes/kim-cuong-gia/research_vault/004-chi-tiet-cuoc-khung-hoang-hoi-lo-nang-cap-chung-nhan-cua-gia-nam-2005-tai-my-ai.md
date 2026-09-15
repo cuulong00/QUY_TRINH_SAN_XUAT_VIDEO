@@ -1,0 +1,192 @@
+---
+title: "Chi tiết cuộc khủng hoảng hối lộ nâng cấp chứng nhận của GIA năm 2005 tại Mỹ. Ai là người bị truy tố/từ chức? Hậu quả danh tiếng và cách GIA khắc phục quy trình kiểm định sau đó để khôi phục niềm tin toàn cầu là gì? Thông tin khách quan, chính xác từ các nguồn uy tín toàn cầu. Trích dẫn rõ ràng các mốc thời gian và biện pháp sửa đổi của GIA."
+type: nblm-answer
+asked_at: 2026-07-04T08:17:31.554Z
+notebook_url: "https://notebooklm.google.com/notebook/4a337c4b-3697-490a-ba63-da2a20f8b9bf"
+session_id: "ce80a70d"
+citations_count: 18
+sources:
+  - "Boyajian resigns from GIA, Baker named acting president - JCK"
+  - "BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)"
+  - "GIA Earthquake: Boyajian Steps Down, Baker New President - JCK"
+  - "GIA's Bribery Scandal - Rapaport"
+  - "GIA scandal makes the headlines - JCK"
+---
+
+# Chi tiết cuộc khủng hoảng hối lộ nâng cấp chứng nhận của GIA năm 2005 tại Mỹ. Ai là người bị truy tố/từ chức? Hậu quả danh tiếng và cách GIA khắc phục quy trình kiểm định sau đó để khôi phục niềm tin toàn cầu là gì? Thông tin khách quan, chính xác từ các nguồn uy tín toàn cầu. Trích dẫn rõ ràng các mốc thời gian và biện pháp sửa đổi của GIA.
+
+> Asked on 2026-07-04T08:17:31.554Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/4a337c4b-3697-490a-ba63-da2a20f8b9bf)
+
+## Answer
+
+Thoughts
+Vụ bê bối hối lộ nâng cấp chứng nhận năm 2005 của Viện Ngọc học Hoa Kỳ (GIA) là một trong những cuộc khủng hoảng nghiêm trọng nhất lịch sử ngành đá quý toàn cầu, làm lung lay tận gốc rễ niềm tin vào hệ thống kiểm định kim cương
+Dưới đây là chi tiết diễn biến, các cá nhân chịu trách nhiệm, hậu quả danh tiếng và các biện pháp cải tổ mang tính lịch sử mà GIA đã thực hiện để khôi phục uy tín quốc tế:
+I. CHI TIẾT CUỘC KHỦNG HOẢNG HỐI LỘ CỦA GIA NĂM 2005
+Cuộc khủng hoảng bắt đầu lộ diện từ vụ kiện dân sự đòi bồi thường 50 triệu USD do nhà môi giới đá quý Max Pincione (nguyên Giám đốc vận hành bán lẻ của hãng kim hoàn Harry Winston) đệ trình vào tháng 4 năm 2005 chống lại GIA cùng hai nhà buôn lớn tại New York là Vivid Collection LLC, Moty Spector và Ali Khazeneh
+Bằng chứng hối lộ và thủ đoạn nâng cấp độ đá:
+Nhà môi giới Pincione đã cung cấp cho tòa án các tài liệu viết tay, tiêu biểu là "Tài liệu F" (được lập từ khoảng năm 2000)
+8
+9
+. Tài liệu này chứng minh hãng Vivid Collection đã thực hiện các khoản hối lộ định kỳ khoảng 3.500 USD mỗi tháng cho một nhân viên giám định tại phòng thí nghiệm GIA Midtown New York tên là "Alina"
+Mục đích của việc chi tiền này là để nhân viên phòng Lab của GIA nâng khống cấp độ màu sắc (color) và độ tinh khiết (clarity) trên các chứng thư kiểm định cho các viên đá lớn của Vivid Collection
+8
+9
+.
+Hậu quả dây chuyền từ chứng thư giả mạo:
+Tin tưởng vào chứng thư chất lượng của GIA, Pincione đã bán một viên kim cương pear-shape (hình quả lê) và một chiếc nhẫn kim cương bạch kim chất lượng thấp cho các thành viên Hoàng gia Ả Rập Xê-út và một doanh nhân nước này với giá hàng triệu USD
+Khi hoàng gia Ả Rập kiểm tra chéo và phát hiện các viên đá thực tế có chất lượng thấp hơn nhiều so với thông số ghi trên chứng thư của GIA, họ đã trả lại sản phẩm, đòi tiền và từ chối mọi giao dịch tiếp theo với Pincione
+Điều này đẩy Pincione vào nguy cơ đối mặt với hình phạt tù nghiêm khắc tại Saudi Arabia vì hành vi hủy hoại uy tín thương mại cá nhân
+6
+8
+.
+Bùng nổ truyền thông đại chúng: Vụ bê bối ban đầu chỉ được đưa tin trên trang web chuyên ngành JCK vào ngày 18 tháng 8 năm 2005
+. Đến tháng 12 năm 2005, thông tin lan rộng ra các cơ quan báo chí chính thống hàng đầu như The New York Times, The Wall Street Journal và tờ New York Post
+II. CÁC CÁ NHÂN BỊ SA THẢI, TỪ CHỨC VÀ PHÁP LÝ LIÊN QUAN
+Sau khi vụ việc bùng nổ, một cuộc điều tra nội bộ gắt gao kéo dài 4 tháng của GIA đã dẫn đến sự sụp đổ của một loạt nhân sự cấp cao
+Sa thải 4 nhân viên kiểm định: GIA đã sa thải 4 chuyên viên giám định tại phòng Lab New York vì vi phạm nghiêm trọng Bộ Quy tắc Đạo đức nghề nghiệp và Tuyên bố Tuân thủ Quy tắc ứng xử
+Sự từ chức của Giám đốc điều hành phòng Lab New York: Thomas C. Yonelunas, Giám đốc điều hành hệ thống phòng thí nghiệm GIA (GIA Laboratory), đã phải từ chức dù không trực tiếp bị cáo buộc vi phạm chính sách
+. Ông được thay thế bởi Thomas M. Moses
+14
+17
+.
+Chủ tịch GIA Bill Boyajian từ chức: Đỉnh điểm của cuộc khủng hoảng là sự từ chức đột ngột của William (Bill) Boyajian vào ngày 22 tháng 5 năm 2006 sau đúng 20 năm giữ chức vụ Chủ tịch GIA
+. Ban lãnh đạo GIA không hài lòng với cách xử lý khủng hoảng của ông và yêu cầu một nhà điều hành có tư duy cải tổ mạnh mẽ hơn
+19
+21
+. Bà Donna Baker (nguyên Phó Chủ tịch kiêm cố vấn pháp lý) được bổ nhiệm làm Quyền Chủ tịch thay thế
+Các nhân sự khác: Quản lý truyền thông cấp cao của GIA, ông Alex Angelle, cũng nghỉ hưu vào ngày 16 tháng 12 năm 2005 và được thay thế bởi bà Laura Simanton
+13
+23
+.
+Dàn xếp tài chính: Để khép lại vụ kiện dân sự, ngày 21 tháng 12 năm 2005, GIA đã tiến hành thỏa thuận dàn xếp bảo mật thông tin với Max Pincione
+13
+20
+. Giá trị thỏa thuận không được công bố chính thức, nhưng tờ Times of London tiết lộ con số ước tính lên tới 15 triệu USD
+III. BIỆN PHÁP SỬA ĐỔI QUY TRÌNH KIỂM ĐỊNH VÀ TÁI CẤU TRÚC CỦA GIA
+Để khôi phục vị thế "thước đo chuẩn mực" toàn cầu, GIA dưới sự điều hành của tân Chủ tịch Hội đồng Quản trị Ralph Destino (nguyên Chủ tịch Cartier)
+đã tiến hành cuộc cải tổ quy trình kỹ thuật và cấu trúc tài chính lớn nhất lịch sử
+1
+20
+:
+1. Cách ly vật lý và quy trình Giám định mù (Blind Grading)
+GIA áp dụng sự cách ly tuyệt đối về mặt vật lý và quy trình giữa bộ phận tiếp nhận kim cương từ khách hàng (client services) và các chuyên viên thực hiện giám định (graders)
+26
+27
+.
+Đá quý khi chuyển vào phòng chấm điểm sẽ được mã hóa hoàn toàn, không mang theo bất kỳ thông tin nhận diện nào về chủ sở hữu hoặc doanh nghiệp ký gửi
+26
+27
+.
+Mỗi viên đá sẽ được chấm điểm chéo độc lập và ngẫu nhiên bởi nhiều chuyên gia khác nhau để loại bỏ hoàn toàn yếu tố chủ quan và cơ hội thông đồng
+26
+27
+.
+2. Triệt tiêu xung đột lợi ích tài chính
+B bãi bỏ biểu phí dịch vụ theo cấp bậc giá trị đá (Tiered Pricing): Có hiệu lực từ ngày 1 tháng 1 năm 2006, GIA dừng việc tính phí kiểm định dựa trên phần trăm giá trị viên đá
+13
+28
+. Việc tính phí thả nổi này trước đó đã tạo ra xung đột lợi ích thương mại khi đá có giá trị càng cao thì phòng Lab càng thu được nhiều phí
+1
+28
+.
+Ngừng nhận tài trợ từ giới buôn đá (Diamantaires): GIA tuyên bố từ chối tất cả các khoản đóng góp tài chính từ các nhà buôn kim cương để bảo vệ tính khách quan
+Cải tổ hệ thống đối tác: GIA bãi bỏ cấu trúc "hội viên" của phòng thí nghiệm và hủy bỏ đặc quyền nhận/trả hàng nhanh (pick-up window) dành riêng cho tập đoàn thương mại Rapaport
+Cấm cửa các nhà buôn vi phạm: GIA ban hành lệnh cấm vĩnh viễn quyền gửi đá kiểm định đối với một số nhà buôn bị phát hiện có hành vi gian lận hoặc tìm cách mua chuộc chuyên viên
+13
+.
+3. Thắt chặt kỷ luật nội bộ và tuân thủ
+GIA bổ nhiệm bà Linda Scholl làm Phó Chủ tịch phụ trách Nhân sự và Tuân thủ để xây dựng lại hệ thống kiểm soát nội bộ
+26
+29
+.
+Thực hiện sửa đổi Bộ Quy tắc Ứng xử và Đạo đức Nghề nghiệp với các tiêu chuẩn khắt khe chưa từng có, nghiêm cấm tuyệt đối việc nhân viên nhận bất kỳ khoản quà tặng, tiền mặt hoặc dịch vụ giải trí nào từ khách hàng
+26
+29
+.
+Thiết lập một đường dây nóng tố giác nặc danh (toll-free hotline) hoạt động 24/7 và cổng thông tin trực tuyến để nhân viên, khách hàng và đối tác có thể an toàn báo cáo các hành vi nghi vấn gian lận
+26
+29
+.
+Tổ chức các buổi đào tạo đạo đức bắt buộc hàng năm cho toàn bộ nhân sự trên toàn cầu
+26
+29
+.
+4. Chuyển giao tư pháp và công nghệ hoá
+GIA chủ động chuyển giao toàn bộ hồ sơ, chứng từ điều tra nội bộ cho các nhà điều tra liên bang (Văn phòng Luật sư Hoa Kỳ - U.S. Attorney) để truy tố hình sự các đối tượng đưa hối lộ
+Đầu tư hàng triệu USD để áp dụng các công nghệ tự động hóa kiểm định và chấm điểm (hợp tác với De Beers và tự phát triển công cụ chuyên dụng) nhằm tối đa hóa việc chấm điểm bằng máy móc, giảm thiểu sự can thiệp của con người vào các thông số vật lý của viên đá
+🔍 Bạn có muốn tôi lập một bảng đối chiếu chi tiết giữa quy trình cải tổ lịch sử của GIA năm 2005 và các lỗ hổng hệ thống vừa bị phơi bày tại phòng Lab của PNJ-LAB ở Việt Nam nhằm tìm kiếm các giải pháp quản trị rủi ro thực tế cho thị trường vàng bạc trong nước không?
+
+## Sources
+
+### [1] Boyajian resigns from GIA, Baker named acting president - JCK
+
+> JCK News Daily Newsletter Top industry headlines right to your inbox SIGN UP TODAY Site Info About JCK Contact Us Advertise Sitemap Terms of Use About JCK JCK Newsletters JCK Industry Fund JCK Classifieds Privacy Privacy Policy Cookie Policy Cookie Settings Your Privacy Choices JCK Check out the latest issue of JCK Magazine Go Now! 2026 © RX USA. Use of this website is subject to terms of use. Log Out Are you sure you want to log out? Cancel Log out We use cookies that are necessary to make our site work. We may also use additional cookies to analyze, improve, and personalize our content and ads and your digital experience. You can manage your cookie preferences using the Cookies Settings link and opt out of personalized advertising via Ad Choices . For more information, see our Cookie Policy .
+
+### [2] Boyajian resigns from GIA, Baker named acting president - JCK
+
+> Diamonds Boyajian resigns from GIA, Baker named acting president May 23, 2006 by Anthony DeMarco The 20-year career of Bill Boyajian as president of the Gemological Institute of America came to an abrupt end on Monday with his resignation, apparently the most high-profile casualty of a diamond grading scandal that is threatening to tarnish the image of the organization that calls itself “the world's foremost authority in gemology.” The resignation came after a meeting of GIA's Board of Governors Monday at its Carlsbad headquarters, GIA said in a statement. While the grading crisis at GIA's New York laboratory occurred on Boyajian's watch as president, Boyajian himself isn't implicated in any violations of GIA's policy.
+
+### [5] BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)
+
+> -------------------------------------------------------------------------------- Bài học lịch sử: Bê bối hối lộ giám định của GIA năm 2005 tại Mỹ Để tìm kiếm giải pháp khôi phục niềm tin cho thị trường Việt Nam, cần phân tích bài học lịch sử từ bê bối hối lộ giám định của Viện Ngọc học Hoa Kỳ (GIA) vào năm 2005 tại New York.[12, 13] Sự việc bắt đầu phát hủy từ vụ kiện trị giá 50 triệu USD do nhà môi giới đá quý Max Pincione đệ trình vào tháng 4 năm 2005 chống lại GIA cùng hai nhà buôn lớn tại New York là Vivid Collection LLC, Moty Spector và Ali Khazeneh.[12, 14, 15]
+
+### [6] GIA Earthquake: Boyajian Steps Down, Baker New President - JCK
+
+> GIA president Richard T. Liddicoat hired Boyajian in August 1975 as a staff gemologist, and then instructor. Liddicoat eventually promoted Boyajian into management. In 1986, at the age of 34, he was named president. During his tenure as president, GIA grew in size and stature. Among other milestones, Boyajian spearheaded GIA's move to its headquarters in Carlsbad, Calif., in 1996; hosted International Gemological Symposia in 1991 and 1999; and expanded GIA's campuses to 14 schools globally. Boyajian's career began unraveling more than a year ago when dealer Max Pincione filed a lawsuit against GIA claiming that payments were made to the GIA Laboratory in New York to have a diamond/platinum ring and a pear-shape pendant upgraded. In early November, following an internal investigation of the charges, GIA announced that it had fired four employees of the New York lab for unspecified violations of its Professional Ethics and Conduct Compliance Statement.
+
+### [8] BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)
+
+> Pincione cung cấp các tài liệu viết tay, tiêu biểu là "Tài liệu F" chứng minh Vivid Collection đã chi các khoản hối lộ định kỳ khoảng 3.500 USD mỗi tháng cho một nhân viên phòng thí nghiệm GIA tên là "Alina" để nâng khống cấp độ màu sắc (color) và độ tinh khiết (clarity) cho các viên đá lớn.[14, 15] Hệ quả là các viên kim cương chất lượng thấp sau khi được GIA cấp chứng thư giả mạo đã được Pincione bán cho các thành viên hoàng gia và doanh nhân Ả Rập Xê-út với giá triệu đô.[12, 15] Khi sự thật bị phát hiện, các sản phẩm bị trả lại, đẩy Pincione vào nguy cơ chịu phạt tù nghiêm khắc tại Saudi Arabia do hủy hoại uy tín thương mại.[15]
+
+### [9] GIA's Bribery Scandal - Rapaport
+
+> BACKGROUND Max Pincione's April 2005 lawsuit against Vivid Collection LLC, Moty Spector, Ali Khazeneh and the GIA included a charge that Vivid made payments to the GIA to “upgrade” the quality of diamonds submitted for grading. Pincione presented Exhibit “F,” a handwritten page showing details of alleged payments and upgrades ( Click to view this document in a new window. ) Exhibit F, which appears to be from the year 2000, contains numerous initials and includes the text “To Alina $3,500 For August in Full,” “To Alina for September $3,500 paid.”
+
+### [12] GIA scandal makes the headlines - JCK
+
+> The two consumer publications are the latest to report on the scandal that's been the talk of the worldwide diamond and jewelry industry since at least August. That's when the JCK Web site first published a report on a lawsuit filed in April by a broker alleging that GIA and two diamond dealers conspired to inflate the grade of two diamonds. The Times reports that the two parties are negotiating a settlement. The first publication outside the industry to report the scandal was the New York Post on Dec. 13 in a small piece by gossip columnist Cindy Adams. Tuesday's news stories have been picked up by print and broadcast media around the world, possibly eroding the trust—within and outside the industry—of the organization that bills itself as, “The World's Foremost Authority in Gemology.”
+
+### [13] Boyajian resigns from GIA, Baker named acting president - JCK
+
+> With the Nov. 22 announcement of Destino's appointment came other changes, including: GIA no longer accepting donations from diamantaires; The GIA Laboratory discontinuing its “membership” structure; In mid-December, Destino told JCK that he turned over information to federal investigators. It was at this time that the scandal was being reported in the mainstream media, in both major publications and the scandal sheets. On Dec. 21, GIA announced that it settled the lawsuit with Pincione. Neither party disclosed the price of settlement but the Times of London reported that it was $15 million. The next day, GIA announced that it was ending its tiered pricing structure, which went into effect, Jan. 1.
+
+### [14] BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)
+
+> Vụ bê bối bùng nổ trên các phương tiện truyền thông lớn như The New York Times và The Wall Street Journal vào tháng 12 năm 2005 đã giáng một đòn chí mạng vào uy tín của GIA.[13, 16] GIA lập tức tiến hành cuộc điều tra nội bộ gắt gao kéo dài 4 tháng dưới sự giám sát của Hội đồng Thống đốc.[12, 15] Kết quả là 4 nhân viên giám định tại phòng thí nghiệm New York bị sa thải.[12, 14] Thomas C. Yonelunas, Giám đốc điều hành phòng thí nghiệm New York buộc phải từ chức và được thay thế bởi Thomas M. Moses.[14, 15]
+
+### [17] Boyajian resigns from GIA, Baker named acting president - JCK
+
+> This caused Pincione to risk “incarceration and punishment in Saudi Arabia,” the suit said. For the harm to his business reputation and other complaints, he was seeking $50 million. The lawsuit first became public when it appeared on the JCK Web site on Aug. 18, 2005. In early November, following an internal investigation of the charges, GIA announced that it fired four employees of the New York Lab for unspecified violations of its “Professional Ethics and Conduct Compliance Statement.” In addition, the investigation led to the resignation of Thomas C. Yonelunas, GIA Laboratory chief executive office, although he was not implicated in any violations of GIA's policy. He was replaced by Thomas M. Moses, G.G. GIA also adopted a “zero tolerance” policy.
+
+### [19] Boyajian resigns from GIA, Baker named acting president - JCK
+
+> Diamonds Boyajian resigns from GIA, Baker named acting president May 23, 2006 by Anthony DeMarco The 20-year career of Bill Boyajian as president of the Gemological Institute of America came to an abrupt end on Monday with his resignation, apparently the most high-profile casualty of a diamond grading scandal that is threatening to tarnish the image of the organization that calls itself “the world's foremost authority in gemology.” The resignation came after a meeting of GIA's Board of Governors Monday at its Carlsbad headquarters, GIA said in a statement. While the grading crisis at GIA's New York laboratory occurred on Boyajian's watch as president, Boyajian himself isn't implicated in any violations of GIA's policy.
+
+### [20] BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)
+
+> Đỉnh điểm của cuộc khủng hoảng là sự từ chức của Chủ tịch GIA William Boyajian vào ngày 22 tháng 5 năm 2006 sau 20 năm tại nhiệm, do không thể kiểm soát các vi phạm đạo đức dưới quyền quản lý của mình.[15, 17] Donna Baker được bổ nhiệm làm Quyền Chủ tịch và sau đó là Chủ tịch chính thức để thực hiện cuộc tái cấu trúc lịch sử.[15, 18] GIA cũng tiến hành thỏa thuận dàn xếp bảo mật với Pincione với giá trị ước tính khoảng 15 triệu USD theo tờ Times of London .[15] Quy trình tái cấu trúc của GIA tập trung vào cải tổ hệ thống quản trị và công nghệ [13, 15]:
+
+### [21] GIA Earthquake: Boyajian Steps Down, Baker New President - JCK
+
+> Boyajian himself wasn't implicated in any violations of GIA's policy, and a GIA statement said Boyajian will stay on as a consultant to ensure a smooth transition. Sources said the board grew unhappy with Boyajian's response to the grading scandal, with most favoring a stronger, more change-driven approach. His last day will be July 30, exactly 20 years after he was named president. Boyajian, who was hired at the Institute as a staff gemologist, has been with GIA for 31 years. In a letter to GIA staff, Boyajian said: “I have worked at GIA for over three decades, most of my adult life. I take immense pride in what we've accomplished as a truly global team. Moreover, I have enjoyed every day of this journey with some of the finest people I have ever known at my side.
+
+### [23] GIA scandal makes the headlines - JCK
+
+> In another development, it was confirmed to JCK that Alex Angelle, GIA senior public relations manager, has retired effective Dec. 16. Angelle has been replaced by Laura Simanton who took over the position on Monday. Subscribe to the JCK News Daily Subscribe to the JCK Special Report Follow JCK on Instagram: @jckmagazine Follow JCK on X: @jckmagazine Follow JCK on Facebook: @jckmagazine JCK News Desk December 20, 2005 We were unable to load Disqus. If you are a moderator please see our troubleshooting guide .
+
+### [26] BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)
+
+> Thứ nhất, GIA thực hiện sự cách ly tuyệt đối về mặt vật lý và quy trình giữa nhân viên tiếp nhận đá (client services) và chuyên viên giám định (graders).[13, 15] Đá quý được gửi đến không mang theo bất kỳ thông tin nhận diện nào của chủ sở hữu và được chấm điểm chéo độc lập bởi nhiều chuyên viên ngẫu nhiên.[13] Thứ hai, GIA bổ nhiệm Linda Scholl làm Phó chủ tịch phụ trách Nhân sự và Tuân thủ để siết chặt bộ Quy tắc Ứng xử, tổ chức đào tạo đạo đức bắt buộc hàng năm và thiết lập đường dây nóng tố giác nặc danh.[15]
+
+### [27] BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)
+
+> Thứ nhất, GIA thực hiện sự cách ly tuyệt đối về mặt vật lý và quy trình giữa nhân viên tiếp nhận đá (client services) và chuyên viên giám định (graders).[13, 15] Đá quý được gửi đến không mang theo bất kỳ thông tin nhận diện nào của chủ sở hữu và được chấm điểm chéo độc lập bởi nhiều chuyên viên ngẫu nhiên.[13] Thứ hai, GIA bổ nhiệm Linda Scholl làm Phó chủ tịch phụ trách Nhân sự và Tuân thủ để siết chặt bộ Quy tắc Ứng xử, tổ chức đào tạo đạo đức bắt buộc hàng năm và thiết lập đường dây nóng tố giác nặc danh.[15]
+
+### [28] BÁO CÁO PHÂN TÍCH TOÀN DIỆN: KHỦNG HOẢNG NIỀM TIN, HÀNH VI GIAN LẬN KIỂM ĐỊNH VÀ BIẾN ĐỘNG CỦA THỊ TRƯỜNG KIM CƯƠNG TOÀN CẦU VÀ VIỆT NAM (2005 - 2026)
+
+> Thứ ba, về mặt tài chính, GIA tuyên bố từ chối nhận mọi khoản đóng góp từ giới buôn kim cương, chấm dứt cơ cấu hội viên và bãi bỏ hệ thống tính phí dịch vụ theo cấp bậc giá trị đá (tiered pricing) từ ngày 1 tháng 1 năm 2006 nhằm triệt tiêu hoàn toàn xung đột lợi ích thương mại.[15, 16] Thứ tư, GIA chuyển giao toàn bộ hồ sơ cho các nhà điều tra liên bang và đầu tư mạnh mẽ vào các công nghệ tự động hóa của De Beers và GIA để loại bỏ yếu tố chủ quan của con người trong chấm điểm đá quý.[3, 15, 16] Giai đoạn thời gian Sự kiện và biện pháp xử lý Đối tượng chịu trách nhiệm / Thụ hưởng Tháng 4/2005 Khởi tố vụ kiện dân sự đòi bồi thường 50 triệu USD [12, 15] Max Pincione chống lại GIA và Vivid Collection [12] Tháng 10/2005 Hoàn tất điều tra nội bộ, sa thải 4 nhân sự nhận hối lộ [12, 14] 4 chuyên viên kiểm định và Giám đốc Tom Yonelunas [12, 14] Tháng 11/2005 Bổ nhiệm tân Chủ tịch Hội đồng quản trị và thanh tra độc lập [15, 16] Ralph Destino, Linda Scholl, Donna Baker [15] Tháng 12/2005 Dàn xếp vụ kiện với mức phí ước tính 15 triệu USD [15] Thỏa thuận bảo mật giữa GIA và Max Pincione [12, 15] Ngày 1/1/2006 Bãi bỏ cơ cấu hội viên và cơ chế tính phí theo cấp bậc đá [15] Áp dụng đồng bộ cho toàn bộ giới buôn kim cương [15] Tháng 5/2006 William Boyajian từ chức Chủ tịch sau 20 năm tại nhiệm [15, 17] Donna Baker tiếp quản vị trí Quyền Chủ tịch GIA [15, 18]
+
+### [29] Boyajian resigns from GIA, Baker named acting president - JCK
+
+> Less than a month later, in a statement to JCK , GIA acknowledged that there were “isolated incidents of misconduct.” In mid-November, GIA announced a second round of action that included: Appointing Linda Scholl as vice president of Human Resources and Compliance and promoting Baker to senior vice president and general counsel, with both responsible for reporting to the board of governors on corporate compliance issues. Revising the GIA Code of Conduct and Professional Ethics Policy to include even more stringent requirements. Providing annual and mandatory ethics training seminars for all employees. Reemphasizing the current policy in the code of conduct against employees soliciting or receiving compensation in any form from lab clients, including cash and/or non-cash gifts, or entertainment. Providing a way for clients, students, employees, and vendors, a means by which to openly and safely communicate cases of potential misconduct anonymously and confidentially with GIA's management and board via a toll-free telephone hotline or the Internet.

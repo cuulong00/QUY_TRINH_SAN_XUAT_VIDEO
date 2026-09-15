@@ -1,0 +1,57 @@
+# DANH SÁCH CÁC PROMPT CẦN CHẠY LẠI (PROMPTS RE-RUN LIST)
+# TẬP PHIM: VỊNH THÁI LAN NỔI SÓNG NGẦM — NƯỚC CỜ ĐI TRƯỚC 30 NĂM CỦA VIỆT NAM
+# KÊNH: DÒNG CHẢY (@dong-chay-kinh-te-chinh-tri)
+# CẬP NHẬT: 2026-09-14
+
+================================================================================
+NHÓM 1: BẮT BUỘC CHẠY LẠI (3 CẢNH — DO SAI LỆCH SỐ LIỆU & ĐỊA DANH THỰC ĐỊA)
+================================================================================
+Căn cứ theo Báo cáo kiểm toán Google AI Search Mode (Gemini 3.8 Flash) kết hợp 
+Hội đồng phản biện độc lập (11_google_ai_audit_master_report.md), có 3 cảnh 
+chứa số liệu và địa danh cũ cần phải sinh lại ảnh và video để khớp 100% với lời thoại mới:
+
+--------------------------------------------------------------------------------
+1. CẢNH CH07_SC047a2 — TỶ TRỌNG ĐIỆN CỤM CÀ MAU
+--------------------------------------------------------------------------------
+- Lời thoại mới: "Nguồn năng lượng quý giá này hiện cung cấp gần một nửa sản lượng điện cho toàn bộ vựa lúa miền Tây Nam Bộ."
+- Lý do sửa: Trước đây ghi "gần mười phần trăm tổng sản lượng điện của toàn bộ hệ thống quốc gia" (đây là số liệu cũ thời 2010-2012). Hiện nay tổng điện quốc gia >300 tỷ kWh nên Cà Mau chiếm ~2-3% cả nước, nhưng chiếm 40-50% điện vùng Tây Nam Bộ.
+- Text overlay sửa: "10% NATIONAL POWER" ➔ "50% REGIONAL POWER"
+
+CH07_SC047a2 [IMAGE]: A 2D warm cinematic editorial illustration of the massive gas turbines and tall white cooling exhaust stacks of the Ca Mau 1 and 2 Thermal Power Plants operating smoothly under radiant morning sun, connected to a 500kV national transmission substation, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, architectural white and industrial steel blue, luminous high-clarity editorial lighting, subtle glowing typography text overlay positioned fixedly in the lower-left area of the frame (elevated 25% above the bottom edge), facing camera directly, perfectly horizontal reading "50% REGIONAL POWER", no watermarks, 16:9
+
+CH07_SC047a2 [VIDEO]: @CH07_SC047a2.png -> Slow tracking pan across the pristine modern power plant buildings, gentle plumes of clean steam rising into the bright morning sky, preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, strictly no new text generation, 8-second continuous documentary video --ar 16:9 --dur 8s
+
+--------------------------------------------------------------------------------
+2. CẢNH CH07_SC048a2 — NĂM KÝ THỎA THUẬN KPA GIA HẠN PM3 CAA THÊM 20 NĂM
+--------------------------------------------------------------------------------
+- Lời thoại mới: "Vào tháng tư năm 2025, Tập đoàn Dầu khí Việt Nam và Petronas đã chính thức ký kết thỏa thuận gia hạn hợp đồng khai thác thêm hai mươi năm nữa."
+- Lý do sửa: Lễ ký Thỏa thuận các nguyên tắc then chốt (KPA) gia hạn Hợp đồng PSC PM3 CAA thêm 20 năm (2028–2047) chính thức diễn ra ngày 09/04/2025 tại Hà Nội (năm 2024 chỉ là các vòng đàm phán kỹ thuật).
+- Chi tiết sửa: Trang lịch ghi "Tháng 4/2025"; Text overlay "APRIL 2024 SIGNING" ➔ "APRIL 2025 SIGNING"
+
+CH07_SC048a2 [IMAGE]: A 2D warm cinematic editorial illustration of an executive calendar turned to "April 2025" resting beside a commemorative crystal plaque marking petroleum partnership cooperation between Petrovietnam and Petronas, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, warm ivory cream (#FAF7EE) and burnished gold, luminous high-clarity editorial lighting, subtle glowing typography text overlay positioned fixedly in the lower-left area of the frame (elevated 25% above the bottom edge), facing camera directly, perfectly horizontal reading "APRIL 2025 SIGNING", no watermarks, 16:9
+
+CH07_SC048a2 [VIDEO]: @CH07_SC048a2.png -> Steady camera shot focused on the April 2025 date and the commemorative crystal plaque on the polished desk, preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, strictly no new text generation, 8-second continuous documentary video --ar 16:9 --dur 8s
+
+--------------------------------------------------------------------------------
+3. CẢNH CH09_SC065a1 — ĐỈNH NÚI & HẢI ĐĂNG ĐẢO CHÍNH THỔ CHU (HÒN LỚN)
+--------------------------------------------------------------------------------
+- Lời thoại mới: "Đứng trên đỉnh Hòn Lớn thuộc quần đảo Thổ Chu, nhìn ra đường chân trời mờ xa của Vịnh Thái Lan, người ta mới thấu hiểu hết ý nghĩa của hai chữ bình yên."
+- Lý do sửa: Hòn Từ chỉ là một đảo quân sự nhỏ (~1 km²). Hòn đảo lớn nhất (~13,95 km²), nơi có đỉnh núi cao nhất (167m) đặt ngọn hải đăng lớn và Cột mốc chủ quyền đá hoa cương là Hòn Lớn (tức Đảo chính Thổ Chu).
+- Text overlay sửa: "HON TU PEAK: THO CHU" ➔ "HON LON PEAK: THO CHU"
+
+CH09_SC065a1 [IMAGE]: A 2D warm cinematic editorial illustration of the historic white colonial lighthouse rising gracefully above the dense virgin jungle canopy atop Hon Lon peak, the highest summit of Tho Chu Island, surrounded by azure waters, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, white lighthouse masonry and lush emerald jungle, luminous high-clarity editorial lighting, subtle glowing typography text overlay positioned fixedly in the lower-left area of the frame (elevated 25% above the bottom edge), facing camera directly, perfectly horizontal reading "HON LON PEAK: THO CHU", no watermarks, 16:9
+
+CH09_SC065a1 [VIDEO]: @CH09_SC065a1.png -> Slow crane-up shot ascending above the primeval rainforest canopy toward the peak of the white lighthouse on Hon Lon summit, bright pristine island daylight, preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, strictly no new text generation, 8-second continuous documentary video --ar 16:9 --dur 8s
+
+
+================================================================================
+NHÓM 2: KHUYẾN NGHỊ CHẠY LẠI (1 CẢNH — ĐỒNG BỘ NHẬN DIỆN THƯƠNG HIỆU DÒNG CHẢY)
+================================================================================
+4. CẢNH CH02_SC011 — CTA ĐĂNG KÝ KÊNH DÒNG CHẢY
+--------------------------------------------------------------------------------
+- Lời thoại mới: "Sự đồng hành của quý vị qua nút đăng ký kênh là nguồn động viên rất lớn để Dòng Chảy tiếp tục hoàn thiện những bản phân tích chuyên sâu tiếp theo."
+- Bối cảnh: Bàn làm việc biên tập viên Dòng Chảy, tài liệu phân tích kinh tế vĩ mô và bút máy cao cấp.
+
+CH02_SC011 [IMAGE]: A 2D warm cinematic editorial illustration of an elegant deep wine-red subscribe button graphic and a small polished brass bell resting neatly on a dark mahogany study desk beside macro-economic analysis documents and a classic brass hourglass, Dòng Chảy editorial studio office, minimalist graphic novel aesthetic, clean bold ink outlines, stylized flat vector textures, muted wine red (#991B1B) and burnished gold (#D4AF37), luminous high-clarity editorial lighting, subtle glowing typography text overlay positioned fixedly in the lower-left area of the frame (elevated 25% above the bottom edge), facing camera directly, perfectly horizontal reading "SUBSCRIBE & BELL", no watermarks, 16:9
+
+CH02_SC011 [VIDEO]: @CH02_SC011.png -> Steady camera shot focused on the brass bell and elegant graphic elements on the mahogany desk, fine sand falling smoothly inside the hourglass, preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, strictly no new text generation, 8-second continuous documentary video --ar 16:9 --dur 8s

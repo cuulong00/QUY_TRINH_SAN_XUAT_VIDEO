@@ -1,0 +1,3231 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 3,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Việt Nam đã có Hòa Phát.",
+      "16 triệu tấn thép mỗi năm.",
+      "Nhà sản xuất thép lớn nhất Đông Nam Á."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Vậy tại sao VinFast không mua thép Hòa Phát để làm thân vỏ ô tô?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Tại sao Vingroup phải bỏ ra gần 80.000 tỷ đồng xây nhà máy sản xuất thép VinMetal, từ con số không?",
+      "Đây là sự lãng phí?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 3,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Sự ngạo mạn?",
+      "Hay có điều gì đó mà phần lớn chúng ta chưa nhìn thấy?",
+      "Nhưng đó chỉ là bề mặt."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Ngay cả khi VinFast chạy hết công suất, họ cũng chỉ tiêu thụ khoảng 16% sản lượng VinMetal.",
+      "Vậy 84% còn lại đổ về đâu?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Có một loại thép mà Hòa Phát, dù 16 triệu tấn mỗi năm, vẫn không sản xuất nổi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Và chính loại thép đó đang nằm trong khung vỏ mỗi chiếc xe điện VinFast."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Nó quyết định sự sống còn của hành khách khi va chạm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Ngày Vingroup công bố VinMetal, vốn hóa Hòa Phát bốc hơi 20.000 tỷ đồng trong một phiên giao dịch."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Đây không phải câu chuyện mua bán thép.",
+      "Đây là cuộc đối đầu sẽ định hình nền công nghiệp nặng Việt Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng trước hết, cần hiểu vì sao thách thức Hòa Phát gần như là tự sát."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC012",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát không phải một công ty thép.",
+      "Hòa Phát là một pháo đài."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC013",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Khu liên hợp Dung Quất nằm trên bờ biển Quảng Ngãi, trải rộng hàng trăm héc ta."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC014",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Mỗi ngày, nơi đây cho ra 40.000 tấn thép thô."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là con số mà nhiều quốc gia Đông Nam Á không đạt được trong cả một tuần."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Khi Dung Quất 2 vận hành toàn bộ, tổng công suất Hòa Phát sẽ chạm 16 triệu tấn mỗi năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Đưa tập đoàn của ông Trần Đình Long vào Top 30 nhà sản xuất thép lớn nhất thế giới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC018",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng quy mô chỉ là lớp phòng thủ đầu tiên.",
+      "Lớp thứ hai là chi phí.",
+      "Dung Quất 1 đã khấu hao gần hết."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC019",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Hệ thống thu hồi nhiệt dư phát điện cho phép Hòa Phát tự chủ 80% nhu cầu điện sản xuất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC020",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Trong ngành thép, nơi điện năng chiếm 15 đến 20% giá thành, đây là một lợi thế sống còn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC021",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Biên lợi nhuận gộp duy trì ở mức 15 đến 16%, ngay cả trong giai đoạn thị trường thép toàn cầu suy thoái."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC022",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Hiểu đơn giản: Hòa Phát có thể bán thép ở mức giá mà đa số đối thủ sẽ lỗ.",
+      "Lớp thứ ba là thuế bảo hộ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC023",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Tháng 4 năm 2026, Bộ Công Thương giáng một đòn quyết định."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC024",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Áp thuế chống lẩn tránh tạm thời 27,83% đối với thép cuộn cán nóng nhập khẩu từ Trung Quốc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC025",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Quyết định này gần như đóng cửa dòng thép HRC giá rẻ tràn vào Việt Nam.",
+      "Kết quả?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát chiếm hơn 56% sản lượng HRC nội địa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Chỉ riêng 6 tháng đầu năm 2026, tập đoàn bán ra 3,4 triệu tấn HRC, tăng 22 đến 25% so với cùng kỳ.",
+      "Thép xây dựng?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 4,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "36 đến 37% thị phần toàn quốc, gần 4,85 triệu tấn mỗi năm.",
+      "Ống thép?",
+      "31 đến 35% thị phần, vị trí số 1.",
+      "Tôn mạ?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC029",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Xuất khẩu kỷ lục 20.000 tấn trong một tháng.",
+      "Mỗi phân khúc mà Hòa Phát tham gia, Hòa Phát đều dẫn đầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC030",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Và lớp phòng thủ cuối cùng, có lẽ đáng sợ nhất, là Hòa Phát không chờ đợi bị tấn công."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC031",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Tháng 5 năm 2026, Hòa Phát công bố đã chế tạo thành công mác thép S700MC tại Dung Quất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Họ mất hơn một năm nghiên cứu và 25 lần cán thử nghiệm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là dòng thép cường độ cao, giới hạn chảy 700 megapascal, đạt tiêu chuẩn khắt khe nhất của châu Âu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Trước đó, loại thép này Việt Nam phải nhập khẩu hoàn toàn.",
+      "S700MC dùng để sản xuất khung gầm xe tải, rơ moóc, cần cẩu, container."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Nó giúp giảm 15 đến 20% độ dày vật liệu.",
+      "Đồng nghĩa xe nhẹ hơn, chở được nhiều hơn, tiêu hao ít nhiên liệu hơn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Đó không phải phát minh ngẫu nhiên.",
+      "Đó là một nước cờ chiến lược."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Bởi vì Hòa Phát đồng thời xây dựng một mạng lưới đồng minh công nghiệp dày đặc bên ngoài hệ sinh thái Vingroup."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "THACO Industries, nhà sản xuất xe tải và rơ moóc lớn nhất nước, đã bố trí kho bãi khổng lồ tại Chu Lai."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Sức chứa lên tới 100.000 tấn thép Hòa Phát.",
+      "Hyundai Thành Công và Toyota Việt Nam trở thành khách hàng HRC."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Mục tiêu năm 2026 của Hòa Phát: doanh thu 210.000 tỷ đồng, lợi nhuận sau thuế 22.000 tỷ, tăng 41,8% so với năm trước."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Tại Đại hội Đồng Cổ đông ngày 21 tháng 4 năm 2026, trước hơn 300.000 cổ đông."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Chủ tịch Trần Đình Long nói một câu mà toàn bộ ngành thép Việt Nam đều ghi nhớ"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "\"Ngành thép là sân chơi tự do, ai vào cũng được."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Cạnh tranh với Hòa Phát là khó đấy.\"\nCó một chi tiết quan trọng mà nhiều người bỏ qua"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "hơn 98% sản lượng thép Hòa Phát được bán ra thị trường mở."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Các mảng kinh doanh khác của tập đoàn như bất động sản khu công nghiệp, nông nghiệp, điện máy gia dụng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Chúng chỉ tiêu thụ chưa đến 2% tổng sản lượng thép.",
+      "Trong ngành thép, người ta gọi đó là mô hình bán tự do."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Nhà sản xuất bán 100% ra chợ, không có hệ sinh thái khép kín tiêu thụ nội bộ.",
+      "Sống chết trên thị trường tự do."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC049",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Đó vừa là sức mạnh, vừa là điểm yếu duy nhất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC050",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu quý vị muốn theo dõi cuộc đối đầu này đến cùng, hãy đăng ký kênh Góc Nhìn Podcast."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC051",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Bởi vì câu chuyện chưa dừng lại ở đây.",
+      "Pháo đài Hòa Phát nhìn từ bên ngoài thì gần như bất khả xâm phạm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC052",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng Phạm Nhật Vượng không hề có ý định đánh trực diện.",
+      "Ông ấy đang xây một thế giới song song."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC053",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Nơi 80.000 tỷ đồng không phải để giành thị phần thép, mà để nuôi sống một đế chế hạ tầng khổng lồ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC054",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Và tổng lượng thép mà đế chế đó cần, là một con số mà sẽ khiến rất nhiều người phải tính lại mọi thứ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC055",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Hãy làm một phép tính đơn giản.",
+      "Theo kế hoạch, khi cả hai nhà máy Hải Phòng và Hà Tĩnh chạy hết công suất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC056",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast sẽ sản xuất 500.000 đến 800.000 xe mỗi năm.",
+      "Mỗi xe cần trung bình 1 tấn thép.",
+      "Tổng cộng: khoảng 500.000 đến 800.000 tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC057",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Công suất VinMetal giai đoạn 1 là 5 triệu tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC058",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Ngay cả trong kịch bản lạc quan nhất, VinFast cũng chỉ hấp thụ khoảng 10 đến 16% công suất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC059",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Không ai bỏ ra 80.000 tỷ đồng chỉ để phục vụ 16%.",
+      "Vậy phần còn lại đi đâu?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC060",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Câu trả lời nằm ở một con số mà hầu hết các nhà phân tích đều bỏ qua."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC061",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là tổng nhu cầu thép nội bộ của toàn bộ đế chế Vingroup.",
+      "Vinhomes, đế chế bất động sản lớn nhất Việt Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC062",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Mỗi năm cần từ 1,2 đến 1,55 triệu tấn thép thanh, thép cuộn, thép kết cấu cao tầng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC063",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "VinSpeed, mảng đường sắt và hạ tầng giao thông.",
+      "Cần 800.000 đến 1 triệu tấn thép ray tốc độ cao, dầm cầu cạn, thép hầm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC064",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Bản thân VinFast, khi cả hai nhà máy Hải Phòng và Hà Tĩnh chạy hết công suất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC065",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Cần 400.000 đến 600.000 tấn, bao gồm HRC, thép cán nguội, thép mạ kẽm và thép dập nóng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC066",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Hạ tầng công nghiệp và năng lượng, từ khu công nghiệp Vũng Áng đến cọc móng điện gió.",
+      "Cần thêm 400.000 đến 600.000 tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC067",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Cộng tất cả lại: 3,28 đến 4,85 triệu tấn thép mỗi năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC068",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Tỷ lệ hấp thụ nội bộ thực tế: 65 đến 80% toàn bộ công suất giai đoạn 1 của VinMetal.",
+      "VinFast không phải khách hàng chính."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC069",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast chỉ là một mắt xích trong một hệ sinh thái khổng lồ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC070",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Và hệ sinh thái đó gần như nuốt trọn toàn bộ sản lượng thép VinMetal ngay khi nhà máy vận hành."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC071",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Để hiểu tại sao con số 3,28 đến 4,85 triệu tấn không phải ước tính mơ hồ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC072",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Hãy nhìn vào các siêu đại dự án mà Vingroup đang triển khai.",
+      "Đô thị Thể thao Quốc tế Hà Nội, quy mô 9.171 héc ta"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC073",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "vốn đầu tư 925.651 tỷ đồng, tương đương khoảng 38 tỷ đô la Mỹ.",
+      "Sân vận động Hùng Vương sức chứa 135.000 chỗ ngồi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC074",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Dân số quy hoạch 751.000 người.",
+      "Nhu cầu thép: hơn 1,5 triệu tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC075",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Green Paradise Cần Giờ, dự án lấn biển lớn nhất Việt Nam, 2.870 héc ta, vốn 217.000 tỷ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC076",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Với tháp 108 tầng và biển hồ nhân tạo 443 héc ta.",
+      "Nhu cầu thép: khoảng 1 triệu tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC077",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Vinhomes Hạ Long Xanh, 4.110 héc ta, vốn 456.639 tỷ, khoảng 1,2 triệu tấn thép."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC078",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Royal Island Vũ Yên tại Hải Phòng, 869 héc ta, 44.044 tỷ, khoảng 400.000 tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC079",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Riêng bốn siêu dự án bất động sản này đã cần hơn 4 triệu tấn thép.",
+      "Chưa hết."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC080",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "VinSpeed đang triển khai hai tuyến đường sắt tốc độ cao.",
+      "Tuyến Hà Nội đi Quảng Ninh, 120 ki lô mét."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC081",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Có 116 ki lô mét cầu cạn bắc qua 9 con sông, vốn 147.370 tỷ.",
+      "Cần 1,7 đến 2 triệu tấn thép ray và kết cấu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC082",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Tuyến Bến Thành đi Cần Giờ, 54 ki lô mét, tốc độ 350 ki lô mét mỗi giờ, vốn 102.000 tỷ.",
+      "Cần 750.000 đến 900.000 tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC083",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Tổng nhu cầu thép từ các siêu dự án chưa tính cảng Cần Giờ 5,5 tỷ đô la."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC084",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Chưa tính khu công nghiệp Vũng Áng, chưa tính Nam Đồ Sơn, đã vượt quá 7 triệu tấn.",
+      "Dàn trải trong vòng 5 đến 7 năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC085",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Nhu cầu trung bình đạt xấp xỉ 1 đến 1,5 triệu tấn mỗi năm chỉ riêng từ mảng bất động sản và hạ tầng giao thông."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC086",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Vingroup không xây nhà máy thép.",
+      "Vingroup xây một cỗ máy công nghiệp tự cấp tự nuôi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC087",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Nơi thép từ lò luyện đi thẳng vào công trường, lên khung xe.",
+      "Rồi chạy trên chính đường ray mà nó đã đúc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC088",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng câu chuyện có thêm một tầng nữa.",
+      "VinMetal không tự mình làm tất cả.",
+      "Tháng 11 năm 2025, Vingroup đưa tay cứu Thép Pomina."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC089",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Doanh nghiệp này đang chìm trong khoản nợ khoảng 11.000 tỷ đồng, âm vốn chủ sở hữu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC090",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "VinMetal cung cấp khoản vay lãi suất 0% trong 2 năm, bảo lãnh 770 tỷ đồng nguyên liệu đầu vào."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC091",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Đổi lại, Pomina trở thành nhà cung cấp ưu tiên toàn bộ thép xây dựng cho các dự án Vinhomes tại phía Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC092",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Bảo lãnh 770 tỷ đồng nguyên liệu chính là chiếc phao cứu sinh để Pomina hồi sinh năng lực sản xuất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC093",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Giữa lúc họ đang bị hạn chế giao dịch do âm vốn chủ sở hữu.",
+      "Nhưng đó không phải tất cả."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC094",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Pomina sở hữu lò hồ quang điện công suất 1 triệu tấn mỗi năm tại Phú Mỹ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC095",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Nghĩa là VinMetal có ngay năng lực tái chế thép phế ngắn hạn mà không cần chờ nhà máy Hà Tĩnh hoàn thành."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC096",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Chiến thuật này giải phóng VinMetal khỏi phân khúc thép xây dựng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC097",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Cho phép nhà máy Vũng Áng tập trung 100% nguồn lực vào thép công nghệ cao."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC098",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Điển hình là HRC cho công nghiệp, thép dập nóng cho VinFast, thép ray cho VinSpeed.",
+      "Tác động đến Hòa Phát?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC099",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Mất 15 đến 20% thị phần thép xây dựng tại khu vực phía Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC100",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Tuy nhiên, nếu đặt trong tổng thể toàn quốc, con số thực tế chỉ tương đương giảm 2 đến 3,5%."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC101",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Với Hòa Phát, đó là vết xước, không phải vết thương chí mạng.",
+      "Nhưng câu hỏi lớn hơn vẫn chưa được giải đáp."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC102",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu Vingroup đã có hệ sinh thái tiêu thụ 65 đến 80% sản lượng thép VinMetal.",
+      "Nếu Pomina đã lo phần thép xây dựng phía Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC103",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Thì vì sao VinFast vẫn không thể đơn giản là mua thép của Hòa Phát để làm thân vỏ ô tô?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC104",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Câu trả lời nằm ở một loại thép mà 16 triệu tấn công suất của Hòa Phát chưa từng sản xuất được."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC105",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Thép dập nóng.",
+      "Viết tắt là HPF.",
+      "Độ bền kéo sau khi dập gập 4 đến 5 lần thép thông thường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC106",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là loại vật liệu đang bảo vệ mạng sống của hành khách trên mọi dòng xe điện VinFast."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC107",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Để chế tạo loại thép này, nhà sản xuất phải kiểm soát một cú sốc nhiệt cực độ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC108",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Tấm thép được nung rực đỏ lên gần 1.000 độ C để mềm như đất sét."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC109",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Cho phép khuôn ép dập thành những hình dáng phức tạp."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC110",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Ngay khoảnh khắc đó, hệ thống phải làm nguội tấm thép xuống dưới 200 độ C chỉ trong vài giây."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC111",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Sự giảm nhiệt đột ngột này khóa chặt vi cấu trúc kim loại.",
+      "Biến nó từ trạng thái dẻo quánh trở nên cứng như gốm sứ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC112",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Độ khó nằm ở sự chính xác tuyệt đối."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC113",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Làm nguội chậm vài giây, hoặc nhiệt độ chênh lệch vài độ, tấm thép sẽ trở nên giòn và vỡ nát."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC114",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng nếu thành công, độ bền của nó nhảy vọt gấp 3 lần, chạm mốc 1.500 megapascal."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC115",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Lấy ví dụ trên các dòng xe như VF 8 hay VF 9, thép HPF chiếm tới 29% cấu trúc thân vỏ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC116",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Nó nằm ở Cột A, Cột B, thanh chống va bên cánh cửa, khung vòm bảo vệ khối pin."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC117",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Cột B phải chịu được lực đâm ngang khủng khiếp mà không gãy."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC118",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Đảm bảo khoang lái không bị biến dạng ở vận tốc va chạm 50 ki lô mét mỗi giờ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC119",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Bởi vì khối pin hàng trăm kilowatt giờ chiếm tới 30% trọng lượng xe."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC120",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Bất kỳ sự xâm nhập nào vào khoang pin đều có thể dẫn đến hậu quả cháy nổ thảm khốc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC121",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Hiện tại, VinFast nhập khẩu 100% thép dập nóng từ POSCO Hàn Quốc và Thyssenkrupp Đức."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC122",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Giá thép thông thường chỉ 500 đến 650 đô la mỗi tấn.",
+      "Nhưng thép HPF thành phẩm lên tới 1.400 đến 1.800 đô la."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC123",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "visual_summary": "",
+    "sentences": [
+      "Chênh lệch là vô cùng lớn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC124",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Và tại Việt Nam, chưa có bất kỳ nhà sản xuất nào có thể luyện được phôi thép đạt tiêu chuẩn dập nóng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC125",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Kể cả các liên doanh của Nhật Bản hay Đài Loan.",
+      "Đây chính là câu trả lời cho câu hỏi ban đầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC126",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát với 16 triệu tấn công suất, vẫn không sản xuất được loại thép này.",
+      "Không phải vì thiếu tiền hay thiếu ý chí."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC127",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Mà vì HPF đòi hỏi hai rào cản công nghệ cực kỳ đặc thù."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC128",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Đầu tiên là công nghệ mạ nhôm silicon chịu nhiệt độ cực cao."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC129",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Thứ hai là quy trình làm nguội khóa chặt cấu trúc thép đạt tiêu chuẩn quản lý chất lượng ô tô quốc tế."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC130",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng vì sao VinFast không tiếp tục mua từ POSCO và Thyssenkrupp?",
+      "Tại sao phải tự làm?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC131",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Lý do đầu tiên: an ninh tài sản trí tuệ.",
+      "Khi mua thép dập nóng dập sẵn từ nhà cung cấp ngoài."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC132",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast phải giao bản vẽ thiết kế 3D và các dữ liệu thử nghiệm va chạm tuyệt mật của xe cho đối tác."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC133",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Những đối tác này đồng thời cũng đang gia công cho các hãng xe đối thủ cạnh tranh trực tiếp với VinFast."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC134",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Rủi ro lộ bí mật thiết kế kết cấu an toàn là có thật.",
+      "Lý do thứ hai: tốc độ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC135",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Khi kết quả thử nghiệm va chạm thực tế cho thấy cần tăng độ dày tấm thép thêm 0,2 đến 0,3 milimet."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC136",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Thời gian chờ nhà cung cấp bên ngoài điều chỉnh khuôn dập và nhiệt luyện mất 3 đến 6 tháng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC137",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Với nhà máy nội bộ, thời gian đó rút xuống vài tuần."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC138",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Trong ngành ô tô, 3 tháng chậm trễ có thể đồng nghĩa mất cả một phân khúc thị trường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC139",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Lý do thứ ba: công thức hợp kim riêng.",
+      "Hợp tác với các hãng luyện kim hàng đầu thế giới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC140",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "VinMetal có thể tinh chỉnh vi lượng kim loại để tạo công thức thép độc quyền.",
+      "Mục tiêu: phát triển thế hệ thép siêu cứng mới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC141",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Giúp giảm tiếp 15 đến 20% trọng lượng khung vỏ mà không cần thay đổi kích thước."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC142",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Lý do thứ tư: VinFast đặt mục tiêu nội địa hóa 84% vào năm 2026.",
+      "Nhưng tiềm năng thực sự nằm ở giai đoạn sau đó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC143",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Khi VinMetal đi vào sản xuất ổn định và cung ứng 100% thép tấm dập cho toàn bộ dải xe."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC144",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast có cơ sở để đẩy tỷ lệ này vượt ngưỡng 85 đến 90%.",
+      "Kết hợp với các liên doanh sản xuất pin và linh kiện."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC145",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "VinMetal là mảnh ghép nặng ký nhất để VinFast tối đa hóa hàm lượng giá trị Việt trên mỗi chiếc xe điện."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC146",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là bài học mà Hyundai đã chứng minh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC147",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Nhờ tự chủ thép nội bộ, tỷ lệ sử dụng thép cường độ cao trên xe Hyundai tăng vọt từ dưới 30% lên trên 51%."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC148",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Các dòng xe của hãng liên tục giành giải thưởng an toàn cao nhất của Mỹ.",
+      "Ở chiều ngược lại, Hòa Phát không hề ngồi yên."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC149",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Họ chọn một chiến trường khác.",
+      "Mác thép S700MC mà Hòa Phát chế tạo thành công vào tháng 5 năm 2026."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC150",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Nó có độ bền gấp gần 3 lần thép kết cấu thông thường.",
+      "Đây không phải thép dập nóng cho ô tô con."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC151",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là thép cường độ cao cho xe tải, sơ mi rơ moóc, xe bồn, cần cẩu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC152",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Thị trường này tại Việt Nam và ASEAN lớn hơn rất nhiều so với thị trường xe điện cá nhân."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC153",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Và cho đến trước tháng 5 năm 2026, Việt Nam phải nhập khẩu hoàn toàn.",
+      "Hai tầng vật liệu.",
+      "Hai chiến trường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC154",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "VinMetal nhắm vào thép dập nóng HPF cho ô tô dân dụng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC155",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Đặc biệt là xe điện, nơi bài toán giảm trọng lượng khung vỏ là sống còn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC156",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát nhắm vào thép cường độ cao S700MC cho xe tải và phương tiện hạng nặng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC157",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Nơi ưu tiên tuyệt đối là sức chịu tải khổng lồ và dung lượng thị trường rộng lớn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC158",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Thị trường thép dập nóng Đông Nam Á hiện tiêu thụ khoảng nửa triệu tấn mỗi năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC159",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Dự báo năm 2030 sẽ đạt hơn 1 triệu tấn, trị giá khoảng 1 tỷ đô la."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC160",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Và 100% lượng thép HPF tiêu thụ trong khu vực hiện đang được nhập khẩu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC161",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu VinMetal hoàn thành lộ trình, họ sẽ trở thành nhà sản xuất thép dập nóng tích hợp đầu tiên tại Đông Nam Á."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC162",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Với lợi thế thuế quan trong khu vực và vị trí cảng biển Vũng Áng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC163",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Giá chào có thể rẻ hơn 10 đến 15% so với thép nhập từ nước ngoài.",
+      "Hai tầng vật liệu.",
+      "Hai chiến trường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC164",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng cả hai đều phải giải cùng một bài toán: năng lượng.",
+      "Và trên ván cờ này, chỉ một bên đang nắm giữ quân bài tẩy."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC165",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Tháng 3 năm 2025, Vingroup thành lập một công ty mà rất ít người chú ý.",
+      "Đó là Công ty Cổ phần Năng lượng VinEnergo."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC166",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Quy mô vốn cam kết: gần 80.000 tỷ đồng.",
+      "Không xây nhà, không bán xe, không làm thép."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC167",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Chỉ làm một thứ duy nhất: sản xuất điện."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC168",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Tại sao một tập đoàn bất động sản và ô tô lại đổ gần 80.000 tỷ vào năng lượng?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC169",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Câu trả lời nằm ở Kỳ Anh, Hà Tĩnh, cách nhà máy thép VinMetal chưa đầy 20 ki lô mét."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC170",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Tại đó, VinEnergo đang triển khai hai dự án điện gió ngoài khơi với tổng công suất 898 megawatt."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC171",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Bao gồm Eco Wind Kỳ Anh 498 megawatt và Điện gió Kỳ Anh 400 megawatt.",
+      "Sản lượng dự kiến: hơn 2.375 gigawatt giờ mỗi năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC172",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là một con số rất cụ thể, và nó kết nối trực tiếp với bài toán năng lượng của VinMetal."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC173",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Sản xuất 5 triệu tấn thép bằng lò hồ quang điện cần khoảng 2.250 đến 3.000 gigawatt giờ điện mỗi năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC174",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Riêng hai dự án điện gió Kỳ Anh đã đáp ứng 80 đến 100% nhu cầu này."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC175",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Sản xuất bằng lò cao truyền thống cần ít điện hơn, chỉ 500 đến 750 gigawatt giờ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC176",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Phần thừa từ điện gió có thể cấp cho nhà máy VinFast, hoặc hệ thống lưu trữ VinES."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC177",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Hoặc bán ra lưới quốc gia thông qua cơ chế mua bán điện trực tiếp vừa được Chính phủ thông qua."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC178",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là lúc mảnh ghép thứ ba xuất hiện.",
+      "VinEnergo sản xuất điện sạch.",
+      "VinES cung cấp hệ thống lưu trữ năng lượng bằng pin."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC179",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "VinMetal tiêu thụ điện đó để luyện thép.",
+      "Ba mảnh ghép này nằm trong cùng một gia đình."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC180",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Không cần đàm phán, không cần hợp đồng bao tiêu giữa những người lạ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC181",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Điện gió Kỳ Anh chảy thẳng vào lò luyện VinMetal, không qua trung gian."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC182",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Không có tập đoàn thép nào trên thế giới sở hữu đồng thời cả ba nguồn lực khổng lồ này."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC183",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Gồm nguồn điện tái tạo quy mô lớn, hệ thống lưu trữ năng lượng, và nhà máy thép."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC184",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Mô hình này, tạm gọi là Tam Giác Xanh, khác biệt hoàn toàn với những gì đang xảy ra ở châu Âu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC185",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Thyssenkrupp, đế chế thép 200 năm tuổi của Đức, từng đặt cược vào dự án luyện thép bằng Hydro xanh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC186",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Chính phủ Đức và EU cam kết trợ cấp 2 tỷ euro."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC187",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng giá Hydro xanh thực tế tại châu Âu dao động từ 5 đến 8 đô la mỗi ki lô gram."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC188",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Trong khi mức hòa vốn chỉ cần 1 đến 2 đô la."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC189",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Chi phí sản xuất thép xanh bị đẩy lên 820 đến 1.060 euro mỗi tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC190",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Mức giá chênh lệch để mua mác \"thép xanh\" mà các hãng xe chấp nhận trả dự báo sẽ giảm mạnh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC191",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Giảm từ 23% năm 2025 xuống chỉ còn 8% năm 2035."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC192",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Kết quả: vốn hóa Thyssenkrupp mất hơn 80%, lỗ ròng 2 tỷ euro năm tài chính 2022-2023.",
+      "Bài học từ Thyssenkrupp rất rõ ràng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC193",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Đừng nhảy vào thép xanh khi hạ tầng năng lượng chưa sẵn sàng.",
+      "Chi phí sản xuất sẽ ăn mòn mọi lợi thế cạnh tranh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC194",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Vingroup dường như đã rút ra bài học đó.",
+      "Lộ trình chuyển đổi xanh của VinMetal không phải 100% Hydro ngay từ đầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC195",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Giai đoạn 1, từ 2025 đến 2030, khởi động bằng công nghệ lò cao truyền thống để có sản lượng ngay."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC196",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Đồng thời xanh hóa toàn bộ điện phụ tải từ 898 megawatt gió Kỳ Anh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC197",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Giai đoạn 2, từ 2030 đến 2035, chuyển sang hoàn nguyên trực tiếp bằng khí thiên nhiên."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC198",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Giải pháp này giúp giảm 50% lượng phát thải, dùng khí tự nhiên hóa lỏng làm cầu nối."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC199",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Giai đoạn 3, dài hạn: chuyển hoàn toàn sang Hydro khi hạ tầng chín mùi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC200",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Tuy nhiên, phải nói thẳng: giai đoạn 1 của VinMetal vẫn là công nghệ lò cao truyền thống."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC201",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Phát thải: khoảng 1,8 tấn CO2 mỗi tấn thép.",
+      "Nó cao hơn nhiều so với chuẩn xanh thực dưới 0,5 tấn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC202",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Tam Giác Xanh là kiến trúc dài hạn, không phải thực tế ngày mai.",
+      "Và Hòa Phát cũng không đứng yên trên mặt trận năng lượng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC203",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Hệ thống thu hồi nhiệt dư tại Dung Quất tự chủ 80% nhu cầu điện.",
+      "Điện mặt trời áp mái đã vượt 50 megawatt đỉnh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC204",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Xỉ hạt lò cao được nghiền thành phụ gia cao cấp cho xi măng xanh.",
+      "Hòa Phát không có tham vọng xanh hóa toàn diện."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC205",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng chi phí sản xuất cực thấp cho phép họ vừa tuân thủ quy định.",
+      "Vừa duy trì sức cạnh tranh trên thị trường mở."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC206",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Hai cách tiếp cận hoàn toàn khác nhau.",
+      "VinMetal xây hạ tầng năng lượng trước, xây nhà máy thép sau, đặt cược vào tương lai."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC207",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát tối ưu hệ thống hiện tại, duy trì chi phí thấp nhất, và chờ công nghệ xanh chín mùi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC208",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng cuộc đua dài hạn nhất giữa hai bên không nằm ở nhà máy thép hay trang trại gió.",
+      "Nó nằm trên đường ray."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC209",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Dự án Đường sắt Tốc độ cao Bắc Nam.",
+      "Tổng vốn đầu tư ước tính: 67 tỷ đô la Mỹ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC210",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Tổng nhu cầu thép ray và thép kết cấu đặc biệt: khoảng 4 triệu tấn.",
+      "Đây là hợp đồng thép lớn nhất lịch sử Việt Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC211",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Và cả Hòa Phát lẫn VinMetal đều đang lao thẳng vào nó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC212",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Tháng 12 năm 2025, Hòa Phát khởi công Nhà máy sản xuất thép ray tại Dung Quất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC213",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Tổng vốn đầu tư hơn 10.000 tỷ đồng, công suất 700.000 tấn thép ray mỗi năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC214",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Họ sử dụng dây chuyền công nghệ của Đức, loại công nghệ đang thống trị 90% thị trường toàn cầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC215",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Mẻ sản phẩm đầu tiên sẽ ra lò vào đầu năm 2027."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC216",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Trong khi đó, nhà máy của VinMetal tại Vũng Áng dự kiến ra lò mẻ thép ray đầu tiên vào nửa cuối năm 2027."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC217",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Về tốc độ, VinMetal đi sau nửa năm.",
+      "Nhưng về đầu ra, họ có lợi thế tuyệt đối."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC218",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Dù mảng đường sắt cao tốc Bắc Nam đã chuyển sang 100% đầu tư công.",
+      "Buộc VinMetal phải đấu thầu sòng phẳng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC219",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng VinSpeed lại đang là tổng thầu các tuyến Metro tại Hà Nội.",
+      "Đảm bảo một lượng tiêu thụ khổng lồ và ổn định."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC220",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Vingroup tự tạo ra cầu để hút cung của chính mình."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC221",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Sự kết hợp giữa VinMetal, VinSpeed và Vinhomes tạo ra một cỗ máy công nghiệp khép kín."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC222",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Cỗ máy này miễn nhiễm với chu kỳ tăng giảm của thị trường bất động sản thông thường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC223",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát đáp trả bằng sức mạnh chính sách."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC224",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Họ đã chuẩn bị hành lang pháp lý để ưu tiên nhà cung cấp nội địa cho các dự án quốc gia."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC225",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Đồng thời, Hòa Phát bắt tay với các đối tác lớn như Vinacomin và THACO."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC226",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Để khai thác mỏ sắt Thạch Khê ngay tại Hà Tĩnh, đảm bảo nguồn quặng rẻ cho nhà máy."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC227",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát có tốc độ và năng lực sản xuất.",
+      "VinMetal có hệ sinh thái bao tiêu đầu ra."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC228",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Cả hai đang nhắm đến cùng một dự án khổng lồ trị giá 67 tỷ đô la."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC229",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Một cuộc đối đầu trực diện là không thể tránh khỏi.",
+      "Câu hỏi đặt ra là: kết cục nào cho cả hai?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC230",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Lịch sử thế giới cho chúng ta hai kịch bản.",
+      "Kịch bản thứ nhất: mô hình Tata."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC231",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Tata Steel là một trong 10 nhà sản xuất thép lớn nhất thế giới.",
+      "Họ có hãng xe riêng là Tata Motors."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC232",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng Tata Steel không bán thép giá rẻ cho người nhà.",
+      "Mọi giao dịch đều sòng phẳng theo giá thị trường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC233",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Mọi thứ dưới sự giám sát chặt chẽ của Ủy ban Chứng khoán."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC234",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Thậm chí, Tata Steel bán thép rộng rãi cho cả những hãng xe đối thủ của Tata Motors.",
+      "Bài học là gì?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC235",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu VinMetal chỉ làm thép để phục vụ riêng cho VinFast và Vinhomes.",
+      "Họ sẽ không thể tối ưu hóa lợi nhuận."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC236",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Muốn sống khỏe, phải bán cho cả đối thủ.",
+      "Kịch bản thứ hai: Cuộc đối đầu giữa POSCO và Hyundai Steel tại Hàn Quốc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC237",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Trước năm 2010, POSCO gần như độc quyền bán thép thân vỏ cho hãng xe Hyundai và Kia."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC238",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng đến năm 2010, Hyundai tự xây nhà máy thép riêng.",
+      "Kết quả: POSCO mất ngay khách hàng lớn nhất của mình."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC239",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng POSCO không hề sụp đổ.",
+      "Họ xoay trục xuất khẩu ra toàn cầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC240",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Họ dồn lực nghiên cứu các dòng thép siêu cứng và thép kỹ thuật cao cho lõi mô tơ xe điện."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC241",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Họ đặt các trung tâm hỗ trợ ngay sát nhà máy của khách hàng để phục vụ tận răng.",
+      "Kết quả sau 15 năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC242",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Cả POSCO và Hyundai Steel đều lớn mạnh hơn rất nhiều.",
+      "POSCO trở thành nhà cung cấp vật liệu siêu cao cấp hàng đầu thế giới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC243",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Còn Hyundai Steel trở thành bệ phóng giúp xe hơi Hyundai vươn lên vị trí thứ 3 toàn cầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC244",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Sự tương đồng với Việt Nam là rất rõ ràng.",
+      "Hòa Phát đóng vai POSCO."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC245",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Nhà sản xuất quy mô lớn, chi phí thấp, bán ra thị trường mở.",
+      "VinMetal đóng vai Hyundai Steel."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC246",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Tân binh có nhu cầu nội bộ khổng lồ, tự xây nhà máy để tự chủ nguồn cung.",
+      "Hai kịch bản.",
+      "Hai con đường khác nhau."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC247",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Tata: tự sản xuất nhưng vẫn bán ra thị trường mở.",
+      "POSCO và Hyundai Steel: cả hai cùng lớn mạnh nhờ sức ép cạnh tranh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC248",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Việt Nam năm 2026 sẽ viết nên kịch bản nào?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC249",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Mỗi cường quốc công nghiệp đều đi qua một giai đoạn.",
+      "Các nhà kinh tế gọi đó là \"cơn đau đẻ công nghiệp nặng\"."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC250",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Nhật Bản có các Zaibatsu.",
+      "Nippon Steel trở thành nền tảng cho Toyota, Honda, Sony."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC251",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Hàn Quốc có POSCO và Hyundai Steel, cạnh tranh 15 năm rồi cùng lớn lên."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC252",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Họ trở thành xương sống cho Hyundai, Kia và toàn bộ nền công nghiệp xuất khẩu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC253",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Ấn Độ có Tata Steel và Tata Motors, hội nhập dọc nhưng vẫn mở cửa thị trường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC254",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Việt Nam năm 2026 đang bước vào chính giai đoạn đó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC255",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Nhìn lại, Hòa Phát và VinMetal không phải hai đối thủ đang cố tiêu diệt nhau.",
+      "Họ là hai mô hình đang ép nhau tiến hóa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC256",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát là nhà sản xuất bán chợ thuần chất.",
+      "Công suất lớn nhất Đông Nam Á, chi phí thấp nhất khu vực."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC257",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Có 30 năm kinh nghiệm, hơn 98% bán ra thị trường mở.",
+      "Sức mạnh của Hòa Phát nằm ở giá."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC258",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Khi Hòa Phát tồn tại, giá thép nội địa Việt Nam được giữ ở mức hợp lý."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC259",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Không nhà sản xuất nào dám đẩy giá lên quá cao.",
+      "Đặc biệt khi phải cạnh tranh với chi phí sản xuất của Dung Quất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC260",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "VinMetal là một hệ sinh thái khép kín.",
+      "Họ có 3,28 đến 4,85 triệu tấn nhu cầu nội bộ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC261",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Đế chế hạ tầng tự tiêu thụ, tự chủ năng lượng.",
+      "Đóng góp của VinMetal nằm ở đổi mới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC262",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Thép dập nóng siêu cứng, thép xanh, thép ray, những phân khúc mà Việt Nam chưa từng sản xuất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC263",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "VinMetal không lấy thị phần của Hòa Phát trên sân chơi cũ.",
+      "VinMetal mở ra những sân chơi hoàn toàn mới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC264",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Hòa Phát ép VinMetal phải giỏi.",
+      "Bởi vì bất kỳ sản phẩm nào VinMetal tung ra thị trường mở."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC265",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Đều phải cạnh tranh với mức giá của Dung Quất.",
+      "VinMetal ép Hòa Phát phải đổi mới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC266",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Bởi vì thép S700MC, thép ray Dung Quất, hay mạng lưới THACO, Hyundai, Toyota."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC267",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Tất cả đều sinh ra từ áp lực cạnh tranh với một đối thủ có 80.000 tỷ đồng vốn đầu tư."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC268",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Nhớ con số 20.000 tỷ bốc hơi trên sàn chứng khoán ngày Vingroup công bố VinMetal?",
+      "Đó không phải tín hiệu sụp đổ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC269",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là tiếng súng khai trận.",
+      "6 tháng sau, Hòa Phát đạt sản lượng HRC kỷ lục."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC270",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Họ chế tạo thành công S700MC, và đặt mục tiêu tài chính cao nhất lịch sử.",
+      "Cuộc cạnh tranh không phải thảm họa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC271",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Nó là nhiên liệu cho công nghiệp hóa.",
+      "Nhưng nhiên liệu đó đi kèm rủi ro."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC272",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Vingroup đang vận hành đế chế hơn 1 triệu tỷ đồng tổng tài sản."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC273",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Với hàng trăm nghìn tỷ nghĩa vụ tài chính và hàng trăm nghìn căn hộ phải bàn giao."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC274",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu thị trường bất động sản đóng băng, dòng tiền Vinhomes sụt giảm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC275",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Thì 80.000 tỷ đồng đổ vào Vũng Áng có thể trở thành gánh nặng thay vì lợi thế."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC276",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là kịch bản mà bất kỳ nhà phân tích nào cũng phải đặt lên bàn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC277",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Quay lại câu hỏi mà chúng ta bắt đầu: Vì sao VinFast không dùng thép Hòa Phát?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC278",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Giờ bạn đã thấy: đó không phải câu hỏi đúng.",
+      "Câu hỏi đúng là: ai sẽ đúc thép cho tương lai Việt Nam?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC279",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Thép ray cho đường sắt tốc độ cao.",
+      "Thép dập nóng cho xe điện.",
+      "Thép kết cấu cho những siêu đô thị."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC280",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Thép xanh cho thị trường xuất khẩu toàn cầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC281",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Thanh thép ray đầu tiên in dấu Made in Vietnam sẽ lăn bánh trên tuyến đường sắt Bắc Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC282",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Câu hỏi duy nhất còn lại: dấu ấy mang tên Hòa Phát, hay VinMetal, hay cả hai?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  }
+]

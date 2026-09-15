@@ -1,0 +1,17 @@
+Phút 87. Đội bạn dẫn một không. Cả phòng khách im lặng. Bạn đang ngồi trên sofa. Không chạy. Không nhảy. Nhưng tim bạn đập chín mươi tư nhịp mỗi phút. Nhanh bằng lúc bạn chạy bộ nhẹ. Nghiên cứu của Đại học Bielefeld năm hai nghìn không trăm hai mươi sáu đo nhịp tim thực tế của khán giả bằng đồng hồ thông minh và phát hiện rằng chỉ riêng việc xem qua TV, cách sân vận động nửa vòng trái đất, cũng đủ đẩy nhịp tim lên chín mươi tư so với bảy mươi chín lúc bình thường. Và khi đội nhà ghi bàn, nhịp tim tăng vọt thêm ba mươi sáu phần trăm trên nền đó.
+
+Quả phạt góc cuối cùng. Bóng bay vào. Gỡ hòa. Hai triệu đồng biến mất. Nhưng điều kỳ lạ nhất không phải nỗi đau mất tiền. Mà là ba mươi giây sau, bạn đã mở app đặt trận tiếp theo.
+
+Hãy gọi anh ta là Tuấn. ba mươi mốt tuổi, làm IT ở Hà Nội. Tuấn bắt đầu bằng hai trăm nghìn một trận cho vui. Dần dần lên năm trăm. Rồi hai triệu. Mỗi lần thua, anh ta không dừng lại. Anh ta tăng tiền. Bộ não đang nói với anh ta rằng lần trước chỉ thiếu một chút may mắn. Rằng phân tích chiến thuật đã gần hoàn hảo, chỉ cần thêm một lần nữa.
+
+Đây không phải sự liều lĩnh. Đây là sinh học.
+
+Bộ não con người tiến hóa để tìm quy luật. Trong hàng triệu năm, khả năng nhận ra quy luật giúp tổ tiên chúng ta sống sót. Con hổ xuất hiện ở bờ suối lúc hoàng hôn. Lần sau, đừng đến bờ suối lúc hoàng hôn. Quy luật đó cứu mạng. Nhưng khi bộ não áp dụng cùng cơ chế đó vào bóng đá, nó tạo ra một ảo tưởng nguy hiểm.
+
+Tuấn đọc phong độ mười trận gần nhất, phân tích đội hình, so sánh chỉ số Expected Goals. Tất cả đều là dữ liệu thật. Nhưng bộ não đang làm một điều mà tâm lý học gọi là Gambler's Fallacy. Nó tìm quy luật trong một chuỗi ngẫu nhiên. Nó nhớ những lần phân tích đúng và quên sạch những lần sai. Tâm lý học gọi đó là thiên kiến xác nhận. Bạn không phân tích để tìm sự thật. Bạn phân tích để xác nhận điều bạn muốn tin.
+
+Nghiên cứu của Eben và cộng sự năm hai nghìn không trăm hai mươi ba trên hàng nghìn người chơi cho thấy, những ai trải qua chuỗi thắng ban đầu sẽ tự đánh giá năng lực dự báo của mình cao hơn thực tế. Nhưng khi đối mặt với chuỗi ngẫu nhiên kéo dài, ảo tưởng đó sụp đổ hoàn toàn. Não bộ ban đầu tìm quy luật từ mẫu nhỏ, rồi bất lực trước sự ngẫu nhiên thực sự khi dữ liệu đủ lớn.
+
+Tuấn mở app kiểm tra kèo trong giờ họp. Mở lại lúc ăn tối với vợ. Giấu điện thoại dưới bàn khi con hỏi bài. Không phải vì anh ta ngu ngốc. Mà vì bộ não anh ta đang dùng dữ liệu thật để tạo ra một ảo tưởng kiểm soát hoàn hảo.
+
+Nhưng chiến thuật, thông số, phong độ. Tất cả đều là dữ liệu thật. Vậy tại sao não bộ lại dùng dữ liệu thật để tạo ra một ảo tưởng? Câu trả lời nằm ở một chất dẫn truyền thần kinh mà hầu hết mọi người hiểu sai về nó.

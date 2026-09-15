@@ -1,0 +1,71 @@
+---
+title: "Hãy cung cấp các số liệu và báo cáo xác thực về doanh số bán ô tô, xe máy điện của VinFast trong năm 2025 và quý 1 năm 2026 (gồm tổng doanh số, tỷ lệ bán cho GSM/Xanh SM, và thị phần tương ứng)."
+type: nblm-answer
+asked_at: 2026-07-10T09:08:42.587Z
+notebook_url: "https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63"
+session_id: "4db567e9"
+citations_count: 7
+sources:
+  - "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions"
+  - "Người Việt quay lưng, doanh số xe máy Honda tiếp tục giảm - Báo Tuổi Trẻ"
+  - "Sôi động thị trường xe máy điện"
+---
+
+# Hãy cung cấp các số liệu và báo cáo xác thực về doanh số bán ô tô, xe máy điện của VinFast trong năm 2025 và quý 1 năm 2026 (gồm tổng doanh số, tỷ lệ bán cho GSM/Xanh SM, và thị phần tương ứng).
+
+> Asked on 2026-07-10T09:08:42.587Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63)
+
+## Answer
+
+Thoughts
+Hiện tại, các tài liệu trong sổ tay của bạn không cung cấp số liệu thống kê chi tiết về tổng doanh số, thị phần cụ thể hay tỷ lệ bàn giao xe cho GSM/Xanh SM của VinFast trong năm 2025 và quý 1 năm 2026.
+Tuy nhiên, tài liệu có ghi nhận một số cột mốc số liệu quan trọng liên quan đến doanh số, hạ tầng và hoạt động đặt hàng của VinFast tính đến cuối năm 2024 và giữa năm 2026 như sau:
+Mảng ô tô điện: Tính đến cuối tháng 11 năm 2024, VinFast đã bàn giao hơn 67.000 chiếc ô tô điện cho khách hàng, giữ vững vị thế dẫn đầu thị trường xe điện nội địa
+1
+.
+Đơn đặt hàng nổi bật năm 2026: Phiên bản nâng cấp của dòng xe điện VinFast VF 8 đã ghi nhận kỷ lục 12.728 đơn đặt hàng chỉ sau 8 ngày mở bán trước thời điểm bàn giao dự kiến vào cuối tháng 7 năm 2026
+2
+.
+Mảng xe máy điện: Tính đến năm 2024, VinFast là hãng xe máy điện duy nhất công bố số liệu bán hàng cụ thể với doanh số đạt gần 71.000 xe máy điện, tương đương khoảng 3% thị phần xe hai bánh trên cả nước
+3
+.
+Hạ tầng hỗ trợ: VinFast đã xây dựng mạng lưới hạ tầng vượt trội với hơn 150.000 cổng sạc/trạm sạc phủ rộng khắp toàn quốc
+4
+. Đồng thời, hãng cũng triển khai kế hoạch lắp đặt các trạm đổi pin cho xe máy điện trên quy mô lớn để giảm gánh nặng chi phí và tăng tính tiện lợi cho người dùng
+5
+6
+.
+Liên kết với các hãng gọi xe: Các doanh nghiệp dịch vụ vận chuyển lớn như GSM, Be Group hay Gojek đang đẩy mạnh lộ trình chuyển đổi phương tiện xanh, mở ra mảng thị trường ngách rất lớn cho các dòng xe điện phổ thông, giá rẻ có chi phí vận hành và bảo trì thấp
+7
+.
+🔍 Do tài liệu hiện tại chưa cập nhật các báo cáo tài chính và doanh số chính thức cho giai đoạn 2025 và đầu năm 2026, bạn có muốn tôi thực hiện nghiên cứu trên web để thu thập các số liệu xác thực mới nhất về doanh số xe VinFast cùng tỷ lệ bán cho GSM trong giai đoạn này, sau đó tổng hợp lại cho bạn kiểm tra trước khi quyết định thêm vào sổ tay không?
+
+## Sources
+
+### [1] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Trong giai đoạn 2022–2024, hàng loạt mẫu xe điện (BEV) từ châu Âu, Trung Quốc và nội địa đã ồ ạt gia nhập thị trường. Các mẫu xe như BMW iX3, i4, Mercedes-Benz EQS, EQB, Audi e-tron hay BYD Dolphin, Wuling Bingo, Aion Y Plus… đã cho thấy mức độ quan tâm ngày càng lớn từ các hãng xe quốc tế đối với thị trường Việt. Tuy nhiên, phần lớn doanh số của các mẫu xe này vẫn là ẩn số khi không được công bố rõ ràng, tạo ra khoảng trống thông tin trong cuộc chiến thị phần. Ở thị trường xe điện nội địa, VinFast vẫn đang giữ vị thế dẫn đầu. Tính đến cuối tháng 11/2024, hãng đã bàn giao hơn 67.000 chiếc ô tô điện, con số đủ để vượt xa các đối thủ cả trong và ngoài nước.
+
+### [2] Người Việt quay lưng, doanh số xe máy Honda tiếp tục giảm - Báo Tuổi Trẻ
+
+> Hãng xe Nhật sắp tung ô tô đa dụng giá rẻ 21/06/2026 20:37 (PLO)-Chiếc ô tô này gây ngạc nhiên cho người dùng. VinFast VF 8 thế hệ mới tiếp tục tạo cơn sốt trước thời điểm bàn giao 21/06/2026 20:09 (PLO)-Khi thời điểm bàn giao những chiếc VinFast VF 8 thế hệ mới đầu tiên (cuối tháng 7) đang đến gần, không khí tại nhiều đại lý VinFast ngày càng sôi động với đông đảo khách hàng tới “mục sở thị”, trải nghiệm thực tế và kiểm chứng những nâng cấp của mẫu SUV điện đã làm nên kỷ lục 12.728 đơn đặt hàng sau 8 ngày.
+
+### [3] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Trong khi các hãng Việt Nam như VinFast, Dat Bike, Pega tăng tốc phát triển, các thương hiệu Nhật Bản như Honda, Yamaha, Suzuki – vốn thống lĩnh thị phần xe máy xăng – lại có bước đi chậm chạp hơn. Đến tận 2022, Yamaha mới ra mắt Neo's điện và Honda ICON e: chỉ vừa đến tay người dùng vào năm 2025. Một số thương hiệu như SYM, Piaggio, Suzuki vẫn chưa có sản phẩm thuần điện được phân phối chính thức, dù đã có thử nghiệm một số dòng xe điện cao cấp nhập khẩu. Tính đến 2024, VinFast là hãng duy nhất công bố số liệu bán hàng với gần 71.000 xe máy điện , tương đương khoảng 3% thị phần xe máy cả nước . Theo ước tính của Dat Bike , xe máy điện chiếm khoảng 10% tổng số xe máy đang lưu thông – một con số nhỏ nhưng đang tăng nhanh qua từng năm.
+
+### [4] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Không chỉ vậy, VinFast còn sở hữu lợi thế hạ tầng vượt trội khi đã phủ kín hơn 150.000 trạm sạc trên toàn quốc – một yếu tố then chốt quyết định hành vi mua xe điện tại Việt Nam. Việc mở rộng sản xuất tại Hà Tĩnh với các mẫu phổ thông VF 3, VF 5 và chiến lược cho thuê xe dài hạn càng củng cố vị thế “đầu tàu” trong công cuộc điện hoá giao thông của thị trường xe điện Việt. Thế nhưng, thị trường xe điện không chỉ dành riêng cho người tiên phong. Làn sóng xe điện Trung Quốc đang âm thầm bành trướng và được dự báo sẽ bùng nổ mạnh mẽ trong năm 2025. Những thương hiệu như BYD, Haima, GAC Aion… liên tục tung ra nhiều mẫu xe mới có giá thành cạnh tranh và thiết kế bắt mắt. Tuy nhiên, bài toán trạm sạc vẫn là rào cản lớn khiến các hãng xe nước ngoài chưa thể “cắm rễ” sâu tại thị trường Việt.
+
+### [5] Sôi động thị trường xe máy điện
+
+> Thị phần xe máy điện trong tổng doanh số tiêu thụ xe máy toàn thị trường đã tăng từ 5,4% năm 2019 lên khoảng 12% năm 2022, dự kiến tiếp tục tăng nhanh trong thời gian tới. Nhiều chuyên gia dự báo đến năm 2035, xe điện có thể chiếm 75% thị phần xe 2 bánh nhờ chính sách ưu đãi và phát triển hạ tầng. Tin liên quan VinFast lắp 50.000 trạm đổi pin xe máy điện, chỉ 9.000 đồng 1 lần đổi (NLĐO) - VinFast triển khai 150.000 trạm đổi pin xe máy điện và ra mắt các dòng xe máy điện đổi pin trên quy mô toàn quốc.
+
+### [6] Sôi động thị trường xe máy điện
+
+> Trong khi đó, kế hoạch xây dựng 150.000 trạm đổi pin cho xe máy điện của VinFast sẽ tạo áp lực lớn với những hãng xe nhỏ. Nếu không có giải pháp đột phá, các hãng xe không những không thể tăng thị phần mà còn khó tránh mất đi thị phần đang có. Tăng cường hỗ trợ đại lý, khách hàng Chủ trương hạn chế xe máy xăng tại Hà Nội và TP HCM đang thúc đẩy nhu cầu thị trường xe điện tăng vọt. Tuy nhiên, để tận dụng thời cơ, nhà sản xuất phải có chiến lược rõ ràng, đủ tầm và lâu dài. Ông Hoàng Mạnh Tân, Phó Tổng Giám đốc Tập đoàn Sơn Hà, cho hay để cạnh tranh, công ty đang tiếp tục duy trì tốt hoạt động của các đại lý, hỗ trợ giá để giữ hoạt động kinh doanh ổn định, thay vì vội vàng mở rộng thị phần bởi phải chờ chính sách cụ thể từ phía nhà nước.
+
+### [7] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Về phía chính sách, dù Chính phủ đã có một số nỗ lực trong việc ưu đãi thuế tiêu thụ đặc biệt cho xe điện (giảm còn 15%, so với mức 35–50% của xe xăng, dầu), nhưng mức ưu đãi này vẫn chưa đủ hấp dẫn để tạo cú hích mạnh cho toàn ngành. Những dòng xe xanh khác như Hybrid (HEV), Plug-in Hybrid (PHEV) cũng không nhận được ưu đãi tương xứng, khiến chúng kém thu hút dù được đánh giá là giải pháp chuyển tiếp phù hợp cho điều kiện hạ tầng Việt Nam hiện tại. Tuy nhiên, tương lai thị trường xe điện vẫn mở ra những tín hiệu tích cực. Quyết định 876 của Chính phủ đặt ra mục tiêu đến sau năm 2030, toàn bộ xe taxi tại đô thị sẽ chuyển sang dùng điện hoặc năng lượng xanh. Đây sẽ là động lực lớn cho các doanh nghiệp trong ngành tăng tốc chuyển đổi. Các hãng như GSM, Be Group hay Gojek đã rục rịch tham gia vào cuộc chơi “xanh hoá đội xe”, mở ra thị trường ngách tiềm năng cho các mẫu xe điện giá rẻ, dễ vận hành và chi phí bảo trì thấp.

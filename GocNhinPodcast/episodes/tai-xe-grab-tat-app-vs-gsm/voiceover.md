@@ -1,0 +1,113 @@
+# voiceover.md
+
+Giữa cái nắng ba mươi chín độ tại một ngã tư sầm uất ở Hà Nội, chiếc điện thoại của một tài xế GrabBike rung lên báo nổ cuốc hai mươi nghìn đồng. Nhưng trong số tiền đó, hệ thống đã tự động tách riêng ba nghìn đồng phí nền tảng nộp thẳng về cho hãng. Trên phần cước còn lại, ứng dụng trừ tiếp gần ba mươi phần trăm tiền thuế và chiết khấu. Sau khi trừ tiếp tiền xăng và hao mòn xe, số tiền thực nhận cho hơn hai mươi phút luồn lách giữa khói bụi chỉ còn lại chưa đầy mười nghìn đồng.
+
+Quá uất ức trước nghịch lý càng chạy nhiều càng lõm, một lời kêu gọi đang lan truyền dữ dội trên mạng xã hội. Hàng chục nghìn tài xế rủ nhau đồng loạt tắt ứng dụng vào hai ngày mười hai và mười ba tháng chín để phản kháng. Dư luận khi đó bảo nhau: Bất mãn như vậy, sao không bỏ hết sang chạy xe điện cho hãng Green SM của tỷ phú Phạm Nhật Vượng?
+
+Nhưng tại sao một cuộc đình công kỹ thuật số lại luôn cầm chắc thất bại ngay trước cỗ máy thuật toán trên chiếc điện thoại của chính họ? Và điều gì đang thực sự trói chặt đôi chân của hàng trăm nghìn người cầm lái? Cánh cửa sang hãng xe điện có thực sự là một lối thoát màu hồng như người ta lầm tưởng?
+
+Nhìn vào những dòng thông báo trên màn hình, làn sóng phản kháng giữa tháng chín dường như chỉ là một cơn giận dữ bộc phát. Nhưng với những người trực tiếp cầm lái cả ngày ngoài đường, đó là giọt nước tràn ly của một sức ép đã âm ỉ tích tụ suốt nhiều tháng qua.
+
+Ngòi nổ bắt đầu từ ngày hai mươi tám tháng tư năm hai nghìn không trăm hai mươi sáu, khi Grab âm thầm điều chỉnh biểu phí nền tảng mới. Với mỗi chuyến xe máy, hệ thống tự động chèn thêm ba nghìn đồng phụ phí. Còn với các chuyến ô tô, mức thu tăng thêm từ năm nghìn đến mười chín nghìn đồng. Khoản tiền này nằm ngay trong tổng giá cước khách phải trả, nhưng chảy thẳng một trăm phần trăm vào tài khoản Grab mà tài xế không được chia một xu. Khách thấy giá tăng nên ngại đặt xe, còn người tài xế vừa ế khách, vừa chịu tiếng oan là cước đắt.
+
+Cùng lúc đó, mức chiết khấu và tiền thuế Grab trừ vào ví tài xế vốn đã neo ở mức rất cao. Tỷ lệ này lên tới hơn hai mươi bảy phần trăm với xe máy, và gần ba mươi ba phần trăm với ô tô. Nghĩa là cuốc xe hiển thị giá càng cao, khách hàng càng phàn nàn, nhưng số tiền thực nhận của người cầm lái lại càng teo tóp.
+
+Khi hàng chục nghìn người cùng nhau bấm nút tắt ứng dụng, họ tin rằng đó là cách duy nhất để phản kháng. Nhưng vì sao cuộc đình công này lại cầm chắc thất bại? Câu trả lời nằm ở một phương trình toán học nghiệt ngã đang bóp nghẹt từng ki lô mét lăn bánh ngoài đường phố.
+
+---
+
+Để hiểu nguyên nhân làn sóng phản kháng của tài xế, chúng ta phải nhìn vào kinh tế vi mô của từng ki lô mét lăn bánh. Doanh thu hiển thị trên ứng dụng chỉ là con số danh nghĩa. Số tiền thực tế mang về nhà bị chi phối bởi ba biến số chi phí vận hành trên mỗi chuyến xe.
+
+Biến số đầu tiên là quãng đường chạy rỗng, hay còn gọi là cự ly chết. Để đón một cuốc xe hai ki lô mét, người lái xe phải chạy rỗng từ một đến một phẩy năm ki lô mét để tiếp cận khách. Khoảng cách đón khách này hoàn toàn không được tính tiền cước. Quãng đường chạy không doanh thu này chiếm từ hai mươi đến ba mươi phần trăm tổng cự ly lăn bánh mỗi ngày.
+
+Biến số thứ hai là chi phí nhiên liệu và hao mòn máy móc. Một chiếc xe máy phổ thông tiêu thụ khoảng hơn hai lít xăng cho một trăm ki lô mét nội đô. Vào tháng chín năm hai nghìn không trăm hai mươi sáu, giá xăng Ron chín mươi lăm ở mức hai mươi ba đến hai mươi tư nghìn đồng một lít. Mỗi ki lô mét lăn bánh tiêu tốn khoảng năm trăm đồng tiền xăng. Cộng cả quãng đường chạy rỗng, một chuyến xe hai ki lô mét thực tế ngốn một nghìn bảy trăm đến một nghìn tám trăm đồng tiền xăng. Cùng với đó là chi phí dầu nhớt, săm lốp và bảo dưỡng xe, ước tính khoảng tám trăm đồng cho mỗi chuyến đi.
+
+Sự va chạm kinh tế bộc lộ rõ nhất trên một cuốc xe GrabBike hai mươi nghìn đồng mà khách hàng thanh toán. Hệ thống tự động tách riêng ba nghìn đồng phí nền tảng nộp thẳng về cho hãng. Phần cước vận chuyển thực tế của chuyến xe chỉ còn mười bảy nghìn đồng. Trên số tiền này, nền tảng trừ tiếp hơn hai mươi bảy phần trăm chiết khấu và thuế, tương đương khoảng bốn nghìn sáu trăm đồng. Trừ tiếp một nghìn tám trăm đồng tiền xăng và tám trăm đồng hao mòn, tổng các khoản trừ lấy đi hơn mười nghìn hai trăm đồng. Người tài xế chỉ còn thực nhận vỏn vẹn khoảng chín nghìn bảy trăm đồng cho hơn hai mươi phút làm việc ngoài đường.
+
+Phương trình chi phí này càng căng thẳng khi nền tảng hạ giá cước sàn vào giờ thấp điểm để cạnh tranh thị phần. Cước rẻ kích thích khách đặt xe, nhưng dồn toàn bộ chi phí vận hành sang vai người cầm lái. Vào những ngày vắng khách, tài xế chạy từ mười hai đến mười sáu tiếng cũng chỉ nhận toàn cuốc ngắn. Thu nhập ròng thực tế sau khi trừ toàn bộ biến phí chỉ còn dao động từ một trăm năm mươi nghìn đến hai trăm năm mươi nghìn đồng.
+
+Ở cấp độ tập đoàn, Grab ghi nhận doanh thu toàn cầu năm hai nghìn không trăm hai mươi lăm đạt ba tỷ ba trăm bảy mươi triệu đô la. Riêng thị trường Việt Nam đóng góp khoảng hai trăm năm mươi lăm triệu đô la. Grab giải thích việc tăng phí nền tảng là nhằm nâng cấp công nghệ và bảo vệ an toàn cho người dùng. Bên cạnh áp lực chi phí dồn lên vai tài xế, doanh nghiệp này còn đối mặt với các vấn đề tuân thủ. Vào tháng tám năm hai nghìn không trăm hai mươi sáu, Ủy ban Cạnh tranh Quốc gia đã xử phạt Grab một tỷ ba trăm sáu mươi triệu đồng. Quyết định xử phạt này xuất phát từ các vi phạm về bảo vệ quyền lợi người tiêu dùng trên ứng dụng. Sự đối lập giữa quy mô tập đoàn và thu nhập ròng teo tóp của người lao động đã biến mâu thuẫn âm ỉ thành làn sóng phản kháng.
+
+Khi càng chạy càng hao mòn tài sản mà không có tích lũy, tắt ứng dụng là phản ứng trực tiếp của người lao động. Nhưng tại sao một cuộc đình công số hóa lại nhanh chóng tan rã trước các thuật toán tự động chỉ sau một thời gian ngắn?
+
+---
+
+Ý tưởng tắt ứng dụng để gây sức ép nghe có vẻ rất hợp lý về mặt lý thuyết. Khi hàng nghìn tài xế cùng dừng nhận cuốc, nguồn cung xe trên bản đồ sẽ lập tức sụt giảm nghiêm trọng. Khách hàng không đặt được chuyến đi, doanh số nền tảng ngưng trệ, và ban điều hành sẽ buộc phải ngồi vào bàn thương lượng. Nhưng trong suốt gần một thập kỷ phát triển của kinh tế nền tảng tại Việt Nam, kịch bản đó chưa từng xảy ra.
+
+Nhìn lại biên niên sử của thị trường, đây không phải là lần đầu tiên các tài xế rủ nhau tắt ứng dụng. Tháng tám năm hai nghìn không trăm mười bảy, khi Grab nâng chiết khấu từ mười lăm lên hai mươi phần trăm, làn sóng phản đối đầu tiên đã bùng nổ. Đầu năm hai nghìn không trăm mười tám, chiết khấu tiếp tục tăng lên gần hai mươi bốn phần trăm với xe máy. Với ô tô, tỷ lệ khấu trừ cũng được đẩy lên mức hai mươi lăm phần trăm. Vào tháng tám năm hai nghìn không trăm mười chín, việc tạm thu thuế thu nhập cá nhân sáu mươi nghìn đồng một ngày lại gây ra làn sóng phản đối. Những đợt phản kháng này diễn ra rầm rộ, nhưng các nhượng bộ nếu có cũng chỉ mang tính tạm thời.
+
+Đỉnh điểm của xung đột diễn ra vào tháng mười hai năm hai nghìn không trăm hai mươi, khi Nghị định một trăm hai mươi sáu có hiệu lực. Để kê khai thuế giá trị gia tăng, Grab đã nâng tỷ lệ khấu trừ lên hơn hai mươi bảy phần trăm với xe máy. Với dịch vụ ô tô, mức khấu trừ mới dao động từ hai mươi tám đến gần ba mươi ba phần trăm. Trên một chuyến xe một trăm nghìn đồng, người tài xế bị trừ thêm bốn nghìn bảy trăm sáu mươi ba đồng tiền tươi. Các cuộc tuần hành bằng xe máy diễn ra rầm rộ tại Hà Nội, Đà Nẵng và Thành phố Hồ Chí Minh. Thế nhưng, mức khấu trừ gần ba mươi phần trăm đó vẫn được giữ nguyên suốt nhiều năm sau đó.
+
+Nguyên nhân khiến các cuộc bãi công số luôn thất bại nằm ở chính cơ chế vận hành của thuật toán. Khi nhiều tài xế tắt ứng dụng, máy chủ của nền tảng không hề rơi vào trạng thái bối rối. Hệ thống tự động kích hoạt tính năng định giá động, nhân giá cước lên gấp một phẩy năm đến hai phẩy năm lần tại các vùng thiếu xe. Trên màn hình điện thoại, bản đồ lập tức chuyển sang màu đỏ rực với những chuyến xe có mức cước cao bất thường.
+
+Hệ thống không cần tranh cãi với tài xế, nó chỉ cần đánh trúng vào nỗi lo cơm áo gạo tiền. Giữa lúc nhiều người tắt ứng dụng, giá cước lập tức nhảy vọt lên gấp đôi, thậm chí gấp ba. Một bên là lời kêu gọi tắt ứng dụng nhưng tối về không có tiền nộp trọ, tiền ăn cho con. Một bên là bật máy lên chạy vài cuốc giá cao để kiếm tiền tươi ngay lập tức. Đứng trước áp lực sinh kế đó, ai cũng sẽ tự nhủ: mình không bật thì người khác cũng bật. Khối liên kết tự phát nhanh chóng rạn nứt từ bên trong. Trong lý thuyết trò chơi, đây chính là ví dụ kinh điển về thế lưỡng nan của người tù dẫn tới trạng thái cân bằng Nash. Khi mỗi cá nhân bắt buộc phải chọn phương án an toàn nhất cho riêng mình, kết quả chung của cả tập thể lại là sự tan rã. Đó là lý do vì sao lịch sử đã chứng minh các cuộc đình công tự phát trước đây luôn tự kết thúc chỉ sau một đến hai ngày.
+
+Chiếc nút bấm tắt ứng dụng vì thế chưa bao giờ là công cụ đàm phán hiệu quả trước cỗ máy định giá tự động. Nền tảng dùng chính sự phân mảnh và áp lực mưu sinh của tài xế để vô hiệu hóa mọi nỗ lực phản kháng. Nhận ra sự bế tắc này, dư luận xã hội lập tức đặt ra một câu hỏi tưởng chừng rất hiển nhiên. Nếu ở lại với Grab là hao mòn không lối thoát, tại sao hàng trăm nghìn người cầm lái không bỏ hết sang chạy xe điện cho Green SM?
+
+---
+
+Trước sự bế tắc của các cuộc bãi công số, dư luận trên mạng xã hội lập tức đưa ra lời khuyên rất phổ biến. Bất mãn với phí nền tảng của Grab, tại sao tài xế không bán xe xăng để chuyển sang chạy cho Green SM? Bên đó phương tiện mới mẻ, được miễn phí sạc pin đến năm hai nghìn không trăm hai mươi chín, lại được chia sẻ doanh thu tới chín mươi phần trăm. Nhìn từ bên ngoài, đây dường như là một sự chuyển dịch hoàn toàn tự nhiên và hợp lý.
+
+Xét thuần túy trên phương diện chi phí năng lượng, xe điện thực sự vượt trội hơn xe máy xăng. Một ki lô mét chở khách thực tế, tính cả ba mươi phần trăm cự ly chạy rỗng, xe máy xăng tiêu tốn gần một nghìn đồng. Trong khi đó, một chiếc xe máy điện chỉ tiêu tốn khoảng bốn trăm đồng cho cùng quãng đường đó. Nghĩa là chi phí vận hành của xe xăng cao gấp hai phẩy năm lần so với xe điện. Với khoảng cách chênh lệch rõ ràng như vậy, việc tài xế xe xăng vẫn ở lại với Grab chắc chắn không phải vì họ không biết tính toán.
+
+Khoảng cách giữa một phép tính trên giấy và thực tế ngoài đời là bốn bức tường ma sát cấu trúc rất lớn. Những rào cản này đang trói chặt hàng trăm nghìn người lao động vào chiếc xe xăng của họ.
+
+Bức tường đầu tiên là bẫy tài sản chìm và nợ nần từ phương tiện hiện tại. Nhiều người nghĩ rằng sang Green SM thì chỉ việc nhận xe của hãng để chạy mà không cần bỏ vốn. Điều đó đúng nếu tài xế chấp nhận làm nhân viên lái xe theo ca kíp. Nhưng nếu muốn giữ sự tự do để chạy dạng đối tác nền tảng, họ bắt buộc phải tự sở hữu xe điện. Với người chạy xe máy, chiếc xe Wave cũ bán thanh lý chỉ được mười đến mười lăm triệu đồng, không đủ bù thêm một khoản lớn để mua xe điện mới kèm pin. Còn với những người chạy ô tô, tình cảnh tài chính còn bế tắc hơn. Đa số họ đang gánh khoản nợ ngân hàng từ ba trăm đến năm trăm triệu đồng cho chiếc xe xăng đang đi. Tiền gốc và lãi vay mỗi tháng từ sáu đến mười triệu đồng vẫn đều đặn bị trừ. Nếu sang nhận xe của hãng để chạy, chiếc xe xăng ở nhà bỏ xó nhưng nợ ngân hàng vẫn phải trả. Còn nếu bán tháo xe cũ thì lỗ nặng, tiền thu về không đủ xóa nợ gốc. Khoản nợ xe cũ trở thành một mỏ neo tài chính trói chặt họ ở lại với Grab.
+
+Bức tường thứ hai là sự va chạm giữa tâm lý lao động tự do và kỷ luật công nghiệp bán quân sự. Người chạy xe cho Grab coi sự tự chủ về thời gian là tài sản quan trọng nhất của họ. Họ có thể bật ứng dụng khi muốn làm việc, tắt ứng dụng khi mệt mỏi, và ăn mặc thoải mái. Nhưng khi bước chân sang Green SM, dù là lái xe hãng hay đối tác, người tài xế phải bước vào một mô hình dịch vụ chuẩn mực năm sao. Hệ thống camera trí tuệ nhân tạo lắp trong khoang lái liên tục quét khuôn mặt và hành vi của người lái xe suốt cả ngày. Chỉ cần phát hiện tài xế ngáp ngủ, cầm điện thoại khi xe lăn bánh hoặc sai tác phong, hệ thống sẽ tự động trừ điểm và phạt tiền. Cảm giác làm chủ thời gian biến mất hoàn toàn, thay bằng sự giám sát chặt chẽ của một dây chuyền di động.
+
+Bức tường thứ ba là quy định áp sàn doanh số tối thiểu và cơ chế trừ tiền vào ví. Đối với dịch vụ xe máy, Green SM áp mức khoán doanh số tối thiểu hai trăm tám mươi nghìn đồng mỗi ngày. Để đạt con số này, người lái xe phải hoạt động liên tục từ tám đến mười tiếng ngoài đường. Nếu không hoàn thành chỉ tiêu, hệ thống sẽ tự động trừ từ hai mươi đến bốn mươi phần trăm số tiền thiếu hụt vào ví của tài xế. Cơ chế này lập tức loại bỏ nhóm tài xế chạy bán thời gian, sinh viên hoặc người tranh thủ chạy kiếm thêm ngoài giờ. Trong khi đó, nhóm lao động bán thời gian này lại chiếm tới hơn bốn mươi phần trăm lực lượng của Grab.
+
+Bức tường thứ tư nằm ở điểm nghẽn của hạ tầng nạp năng lượng trong các đô thị lớn. Dù hệ thống trạm sạc phát triển rất nhanh, tình trạng quá tải cục bộ vẫn thường xuyên diễn ra vào giờ cao điểm. Thời gian sạc pin từ hai mươi lên tám mươi phần trăm thường mất từ ba mươi đến năm mươi phút. Cộng thêm thời gian xếp hàng chờ đến lượt, người lái xe có thể mất từ bốn mươi lăm đến tám mươi phút tại trạm. Việc phải dừng xe chờ sạc vào giữa trưa hoặc giờ tan tầm khiến tài xế bỏ lỡ những khung giờ có giá cước cao nhất trong ngày.
+
+Bốn bức tường ma sát này đã khép chặt cánh cửa chuyển đổi của hàng trăm nghìn người tài xế xe xăng. Họ bị kẹt giữa hai gọng kìm nghiệt ngã của thị trường. Ở lại với Grab thì thu nhập bị bào mòn bởi tiền xăng và phí dịch vụ. Nhưng bước sang Green SM thì bị chặn lại bởi bẫy nợ xe cũ và áp lực kỷ luật doanh số. Người cầm lái không chọn ở lại vì trung thành, mà vì họ thực sự không còn lối thoát nào khả thi hơn.
+
+Nhưng tại sao một doanh nghiệp đang phát triển mạnh mẽ như Green SM lại phải áp dụng những quy định vận hành khắt khe đến như vậy? Để tìm câu trả lời, chúng ta phải nhìn vào bài toán kinh tế đằng sau quy mô doanh thu hàng chục nghìn tỷ đồng của mô hình vận tải xe điện.
+
+---
+
+Năm hai nghìn không trăm hai mươi lăm, Green SM ghi nhận doanh thu đạt khoảng mười bảy nghìn bốn trăm tỷ đồng. Con số này tăng trưởng hơn một trăm hai mươi lăm phần trăm so với năm trước đó. Tại Thành phố Hồ Chí Minh, hãng xe điện này đã chiếm hơn năm mươi phần trăm thị phần taxi, vượt mặt các đối thủ truyền thống lẫn công nghệ. Đây là một bước tiến vượt bậc, bỏ xa quy mô doanh thu của các nền tảng gọi xe lâu năm tại thị trường Việt Nam.
+
+Sự bứt phá thần tốc này không đơn thuần đến từ nguồn vốn lớn hay chính sách giá cước. Yếu tố cốt lõi giúp Green SM nhanh chóng chiếm trọn niềm tin của người tiêu dùng chính là kỷ luật vận hành chuẩn mực. Trước đây, định kiến về xe ôm và taxi công nghệ thường gắn liền với sự tùy tiện, xe thiếu vệ sinh và thái độ phục vụ không đồng đều. Bằng việc thiết lập tiêu chuẩn năm sao với xe sạch, không mùi và tài xế lịch sự, Green SM đã tạo ra một giá trị dịch vụ hoàn toàn khác biệt. Kỷ luật nghiêm ngặt chính là vũ khí cạnh tranh quan trọng nhất giúp họ xây dựng lòng trung thành của khách hàng.
+
+Nhìn sâu hơn, sự đối lập giữa Grab và Green SM thực chất là sự va chạm giữa hai triết lý lao động hoàn toàn khác nhau. Grab đại diện cho mô hình kinh tế nền tảng tự do. Họ hoạt động như một khu chợ trung gian, coi tài xế là những đối tác độc lập. Mô hình này mang lại sự tự chủ tối đa về thời gian, thích thì bật ứng dụng, mệt thì nghỉ, nhưng đẩy toàn bộ rủi ro chi phí sang người cầm lái.
+
+Ngược lại, Green SM vận hành theo mô hình một hệ thống vận tải dịch vụ chuẩn mực. Đã là một hệ thống quy mô lớn phục vụ hàng chục triệu lượt khách, tính kỷ luật, sự đồng bộ và an toàn là những nguyên tắc bắt buộc. Doanh nghiệp đầu tư hàng chục nghìn phương tiện không thể thả nổi chất lượng chuyến đi cho sự tùy hứng của từng cá nhân. Kỷ luật trong khoang lái và chỉ tiêu doanh số là công cụ để bảo đảm chất lượng dịch vụ đồng nhất và duy trì hiệu quả vận hành của cả hệ thống.
+
+Chính vì vậy, kỷ luật khắt khe của Green SM không phải là sự chèn ép, mà đóng vai trò như một bộ lọc tự nhiên trên thị trường lao động. Nó mở rộng cửa đón nhận những người muốn coi lái xe là một nghề nghiệp chuyên nghiệp, ổn định và có tổ chức. Nhưng nó lại trở thành chiếc lồng chật chội đối với những ai chỉ chạy xe để kiếm thêm bán thời gian, hoặc những người đã quen với lối làm việc tự do không ràng buộc.
+
+Khi hiểu rõ hai mô hình, người ta nhận ra rằng không có lựa chọn nào là hoàn hảo cho tất cả. Ở lại với Grab thì tự do nhưng bị bào mòn bởi tiền xăng và phí sàn. Bước sang Green SM thì chuyên nghiệp nhưng đòi hỏi kỷ luật toàn thời gian. Đứng trước hai sự lựa chọn giằng co đó, những người tài xế công nghệ ngoài đời thực đã tự tìm ra cho mình một lối đi thích nghi thông minh: tự xanh hóa phương tiện ngay trên ứng dụng họ đang chạy mỗi ngày.
+
+---
+
+Không chờ đợi các tập đoàn thương lượng hay chính sách thay đổi, người tài xế tự tìm cách thích nghi để sinh tồn. Khi ở lại với xe xăng thì bị tiền nhiên liệu bào mòn, mà sang làm cho hãng xe điện thì mất quyền tự do, họ chọn lối đi thứ ba. Đó là một làn sóng chuyển dịch thầm lặng nhưng diễn ra rất nhanh: tự xanh hóa phương tiện ngay trên ứng dụng họ đang chạy.
+
+Trên đường phố, ngày càng nhiều tài xế GrabBike chuyển sang sử dụng xe máy điện của VinFast, Dat Bike hay Selex Motors. Nhiều người chọn cắm sạc qua đêm tại nhà với chi phí chỉ hơn mười nghìn đồng để hôm sau chạy cả ngày. Với những ai cần chạy cường độ cao, họ tận dụng các trạm đổi pin nhanh của VinFast hoặc Selex Motors. Thao tác đổi pin chỉ mất hai phút là xe lại đầy ắp năng lượng, nhanh không kém gì việc ghé cây xăng. Còn những người chọn xe Dat Bike thì yên tâm với tầm hoạt động lên tới hai trăm tám mươi lăm ki lô mét sau mỗi lần sạc, đủ sức chạy trọn vẹn cả ngày làm việc mà không cần dừng lại nạp điện giữa ca.
+
+Lối đi lai ghép này mang lại cho người lao động một lợi ích kép rất rõ ràng. Họ cắt giảm được từ sáu mươi đến bảy mươi phần trăm chi phí nhiên liệu so với việc đổ xăng mỗi ngày. Nhưng điều quan trọng nhất là họ vẫn giữ trọn quyền tự chủ thời gian của một người lao động tự do. Họ không bị camera trí tuệ nhân tạo giám sát từng cử chỉ trong khoang lái. Họ cũng không phải chịu áp lực chạy đủ mức sàn hai trăm tám mươi nghìn đồng mỗi ngày để tránh bị trừ ví.
+
+Cùng với việc đổi phương tiện, người tài xế còn áp dụng chiến thuật chạy nhiều ứng dụng cùng lúc để tối ưu hóa thu nhập. Trên ghi-đông xe, chiếc điện thoại thường được cài đặt đồng thời hai đến ba ứng dụng gọi xe và giao hàng khác nhau. Vào giờ cao điểm buổi sáng, họ bật ứng dụng có mức cước cao nhất để chở khách đi làm. Đến trưa nắng gắt, họ tắt dịch vụ chở người để nhận các đơn giao đồ ăn cự ly ngắn quanh các tòa nhà văn phòng. Việc chuyển đổi linh hoạt này giúp họ giảm bớt cự ly chạy rỗng và tối ưu hóa từng giờ lăn bánh ngoài đường. Theo các khảo sát thị trường, tỷ lệ mở ứng dụng của Grab vẫn duy trì ở mức hơn năm mươi tư phần trăm nhờ hệ sinh thái đa dạng này.
+
+Những chiếc xe điện đổi pin hay chiến thuật chạy nhiều ứng dụng đã giúp người tài xế vượt qua bài toán chi phí trước mắt. Nhưng sự thích nghi thông minh đó chỉ giải quyết được phần ngọn của vấn đề. Dù xe chuyển từ xăng sang điện, dù mặc áo đồng phục nào, có một sự thật nghiệt ngã vẫn không hề thay đổi. Họ vẫn là những người lao động đơn độc, tự gánh chịu mọi rủi ro về sức khỏe, tai nạn mà không có bất kỳ lưới an sinh nào bảo vệ. Gốc rễ của sự trơ trọi đó nằm ở đâu? Câu trả lời nằm ở bản hợp đồng mang tên Hợp tác Kinh doanh mà hàng trăm nghìn người đã ký kết khi bước chân vào nghề.
+
+---
+
+Khi một người bắt đầu hành trình chạy xe công nghệ, thủ tục pháp lý quan trọng nhất diễn ra chỉ trong vài giây. Họ lướt qua những điều khoản dài hàng chục trang và bấm vào nút đồng ý trên màn hình điện thoại. Đó là thời điểm họ ký vào bản Hợp đồng Hợp tác Kinh doanh, hay còn gọi là hợp đồng bê xê xê. Bản hợp đồng điện tử này định danh họ là những đối tác kinh doanh độc lập, chứ không phải người lao động.
+
+Mọi cuộc thảo luận về bảo hiểm xã hội cho xe công nghệ suốt nhiều năm qua đều rơi vào bế tắc. Nguyên nhân cốt lõi là vì bản hợp đồng giữa nền tảng và tài xế chỉ có duy nhất một loại cho tất cả mọi người.
+
+Có người chỉ bật ứng dụng lúc rảnh để kiếm thêm tiền xăng. Có người lại chạy từ sáng sớm đến đêm muộn để nuôi sống cả gia đình. Thế nhưng trên giấy tờ, tất cả đều mang chung một danh xưng là đối tác kinh doanh độc lập. Bản chất của mô hình này là hoàn toàn tự do: không có ca kíp cố định, không có ai điểm danh giám sát, thích chạy thì bật ứng dụng, bận thì nghỉ.
+
+Chính sự đồng nhất về mặt hợp đồng này đã tạo ra một khoảng trống an sinh rất lớn.
+
+Với những người chỉ xem đây là công việc bán thời gian như sinh viên hay người làm thêm, họ chỉ cần tiền tươi để trang trải chi phí trước mắt. Họ hoàn toàn không có nhu cầu trích tiền đóng bảo hiểm xã hội dài hạn qua từng cuốc xe.
+
+Nhưng với những người xem đây là nghề mưu sinh chính, việc dành toàn bộ thời gian trên đường khiến họ phụ thuộc hoàn toàn vào ứng dụng. Họ có sự tự do về giờ giấc, nhưng lại hoàn toàn trơ trọi trước rủi ro. Một vụ tai nạn giao thông hay biến cố sức khỏe có thể xóa sạch thu nhập của cả gia đình. Trong khi đó, họ không thuộc diện có bảo hiểm y tế hay bảo hiểm tai nạn lao động từ phía doanh nghiệp.
+
+Nút thắt của chính sách nằm ở chỗ: chúng ta không thể ép nền tảng ký hợp đồng lao động truyền thống. Điều đó sẽ phá vỡ tính tự do của mô hình và gây bất lợi cho những người chỉ muốn làm thêm. Nhưng để hàng trăm nghìn người mưu sinh toàn thời gian hoàn toàn đứng ngoài lưới an sinh cũng không phải là giải pháp bền vững.
+
+Lời giải mà nhiều quốc gia đang áp dụng không phải là biến tài xế thành nhân viên. Họ thiết lập một khung pháp lý riêng cho lao động nền tảng. Ở đó, người lao động được bảo vệ bằng các gói bảo hiểm tai nạn linh hoạt trích theo từng cuốc xe. Cùng với đó là cơ chế quỹ an sinh di động, bảo đảm sự an toàn lâu dài cho người cầm lái.
+
+Một đô thị hiện đại và văn minh không thể phát triển bền vững dựa trên sự bấp bênh của hàng trăm nghìn người lao động. Công nghệ và thuật toán có thể rất hiện đại, nhưng quan hệ an sinh không thể mãi dừng lại ở những vùng xám của quá khứ. Làn sóng tắt ứng dụng rồi sẽ lắng xuống, những chiếc xe điện mới sẽ tiếp tục lăn bánh trên đường phố. Nhưng câu hỏi lớn nhất cho tương lai vẫn đang chờ đợi một lời giải thể chế. Làm sao để đằng sau mỗi chuyến xe tiện lợi cho xã hội, là một tấm lưới an sinh vững chắc che chở cho những người cầm lái?
+
+Nếu quý vị thấy những góc nhìn phân tích này hữu ích, hãy để lại một lượt thích, đăng ký kênh Góc Nhìn Podcast và bật chuông thông báo. Sự đồng hành của quý vị là nguồn động lực lớn nhất để chúng tôi tiếp tục mang đến những phóng sự tài liệu kinh tế chuyên sâu. Cảm ơn quý vị đã lắng nghe, xin chào và hẹn gặp lại.

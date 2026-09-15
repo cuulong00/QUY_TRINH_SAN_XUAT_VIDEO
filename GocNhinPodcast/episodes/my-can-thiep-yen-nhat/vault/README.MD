@@ -1,0 +1,6 @@
+đây là thư mục để làm video mới /Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/my-can-thiep-yen-nhat
+1. Trong đó /Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/my-can-thiep-yen-nhat/vault/final_voiceover.md là kịch bản của một video đã xuất bản
+2. File /Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/my-can-thiep-yen-nhat/vault/Mỹ Cứu Đồng Yên Nhật.md là báo cáo để viết kịch bản cho video mới.
+3. Tôi muốn một nội dung sâu sắc có tính phản biện cao như một guru trong ngành thực sự, ngôn từ phải dùng những từ ngữ chuyên nghiệp tránh dùng các từ giật gân sáo rỗng nhe rất công nghiệp trẻ trâu.
+4. Mục tiêu của video là cung cấp cho khán giả cái nhìn tổng thể về bối cảnh vĩ mô toàn cầu ở thời điểm hiện tại. Giải thích lý do vì sao mỹ phải cứu đồng yên, nếu không cứu thì sao? hậu quả sẽ thế nào với nước mỹ, và với cả thế giới?
+6. Lý do đồng yên suy yếu là vì sao? việc mỹ sẵn sàng cứu đồng yên nhật nói lên điều gì? vì mỹ cứu đồng yên nhật sẽ giúp đồng yêu khỏe lên dài hạn hay chỉ. nhất thời thôi

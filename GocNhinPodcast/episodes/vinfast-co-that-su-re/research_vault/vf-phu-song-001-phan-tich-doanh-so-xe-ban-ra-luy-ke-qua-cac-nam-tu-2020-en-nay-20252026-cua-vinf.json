@@ -1,0 +1,85 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-09T15:19:57.639Z",
+  "session_id": "dda0ab28",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/703f6053-3d8c-4528-ae98-d2d63197e32a"
+  },
+  "question": "Phân tích doanh số xe bán ra lũy kế qua các năm từ 2020 đến nay (2025/2026) của VinFast và các đối thủ lớn tại Việt Nam (Toyota, Hyundai, Kia, Mazda, Ford, Mitsubishi). Tính tỷ lệ xe VinFast trên tổng số xe ô tô đang lưu thông tại Việt Nam (cho các xe đời từ 2020 trở lại đây). Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO PHÂN TÍCH DOANH SỐ VÀ THỊ PHẦN THƯƠNG HIỆU Ô TÔ TẠI VIỆT NAM (2020 - 2026)\n1. Phân tích doanh số lũy kế các hãng xe (2020 - Quý 1/2026) Cục diện thị trường chứng kiến sự bứt phá mạnh mẽ của VinFast trong giai đoạn 2024-2026, đe dọa trực tiếp ngôi vương của Toyota và Hyundai. Doanh số bán ra lũy kế tính từ năm 2020 đến hết Quý 1/2026 của các thương hiệu chủ lực cụ thể như sau:\nToyota: 442.169 xe, tạm dẫn đầu toàn thị trường\n1\n.\nVinFast: 439.991 xe, vươn lên vị trí thứ hai, bám sát Toyota\n1\n.\nHyundai: 434.813 xe, tụt xuống vị trí thứ ba\n1\n.\nKia: 256.036 xe\n1\n.\nFord: 219.269 xe\n1\n.\nMazda: 204.351 xe\n1\n.\nTrọng tâm dữ liệu mới nhất (2024 - 2026):\nNăm 2024: VinFast chính thức vượt qua các thương hiệu ngoại với 87.000 xe bán ra, vươn lên giữ vị trí số 1 toàn thị trường với 17,6% thị phần\n2\n.\nNăm 2025: Hãng xe Việt lập kỷ lục bàn giao 175.099 xe, nắm giữ 29% thị phần\n2\n. Mức doanh số này của VinFast gần bằng tổng lượng tiêu thụ của cả Toyota (~72.000 xe) và Hyundai (53.229 xe) cộng lại\n2\n.\nNăm 2026: Chỉ trong Quý 1, VinFast áp đảo với 53.684 xe bán ra (nắm giữ 33,13% thị phần xe du lịch)\n3\n. Lũy kế 4 tháng đầu năm 2026, doanh số của VinFast đạt 78.458 xe\n4\n.\n2. Tỷ lệ xe VinFast trên tổng ô tô lưu thông (Đời xe 2020 - 2026)\nTổng quy mô tiêu thụ toàn thị trường (2020 - 4 tháng đầu năm 2026): Đạt 3.014.325 xe. Con số này là tổng gộp doanh số các năm 2020 (407.487 xe), 2021 (410.390 xe), 2022 (508.547 xe), 2023 (404.294 xe), 2024 (494.310 xe), 2025 (604.054 xe) và 4 tháng đầu năm 2026 (185.243 xe)\n5\n.\nTổng xe VinFast bán ra (2020 - 4 tháng đầu năm 2026): Đạt 464.765 xe. Bao gồm 386.307 xe lũy kế tính đến hết năm 2025 và 78.458 xe được bàn giao trong 4 tháng đầu năm 2026\n1\n4\n.\nTỷ lệ thâm nhập: Tính từ năm 2020 đến nay, lượng xe ô tô mang thương hiệu VinFast đang chiếm 15,42% trên tổng số xe ô tô mới được lăn bánh và lưu thông tại thị trường Việt Nam.\n3. Động lực thị trường và Căn cứ pháp lý Sự bứt tốc thị phần của xe điện VinFast được thúc đẩy trực tiếp bởi các trợ lực từ chính sách vĩ mô của Nhà nước, tạo đà dịch chuyển từ xe sử dụng động cơ đốt trong sang xe thuần điện\n6\n7\n.\nCăn cứ pháp lý cốt lõi: Nghị định 202/2026 (ban hành năm 2026).\nNội dung: Văn bản pháp lý này quy định kéo dài chính sách ưu đãi miễn 100% lệ phí trước bạ (0%) lần đầu đối với ô tô điện chạy pin đến hết năm 2030\n8\n9\n. Đây được đánh giá là động lực quan trọng nhất thúc đẩy người tiêu dùng mua sắm xe điện, góp phần giúp doanh số xe điện hóa bùng nổ, đồng thời bảo chứng cho đà tăng trưởng của ngành công nghiệp ô tô xanh tại Việt Nam\n8\n9\n.",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Cumulative Sales and Market Share Dynamics in the Vietnamese Automotive Industry: A Strategic Assessment of Hyundai, Toyota, Kia, Ford, Mazda, and VinFast (2020–2026)",
+      "source_text": "Note: Hyundai’s sales figures represent consolidated volumes from TC Motor, including both passenger and commercial vehicles.[7, 8, 10] VinFast's figures reflect domestic deliveries, excluding international exports.[7, 10, 15] Cumulative Progress of Brand Deliveries (2020–Q1 2026) The cumulative progress table tracks the running total of vehicle deliveries for each brand starting from January 1, 2020. This data highlights the long-term volume trends and market trajectory of each manufacturer. Brand Cumulative 2020 Cumulative 2021 Cumulative 2022 Cumulative 2023 Cumulative 2024 Cumulative 2025 Cumulative Q1 2026 Hyundai 81,368 151,886 233,468 300,918 368,086 421,315 434,813 Toyota 70,692 138,225 229,340 286,754 353,330 425,284 442,169 Kia 39,180 84,712 145,441 186,214 220,784 247,960 256,036 Ford 24,663 48,371 77,218 115,540 157,715 208,165 219,269 Mazda 32,224 59,510 95,562 131,194 163,795 196,250 204,351 VinFast 29,485 65,208 89,208 124,208 211,208 386,307 439,991"
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "source_text": "Thương hiệu Số liệu 2020 Số liệu 2021 Số liệu 2022 Số liệu 2023 Số liệu 2024 Số liệu 2025 VinFast 29.485 xe <br> (7,24% thị phần) [7] 35.723 xe <br> (8,70% thị phần) [9] 24.000 xe <br> (4,72% thị phần) [5] 34.855 xe <br> (8,62% thị phần) [12] 87.000 xe <br> (17,60% thị phần) [15] 175.099 xe <br> (29,00% thị phần) [3, 4] Toyota 70.692 xe <br> (17,35% thị phần) [7] 69.002 xe <br> (16,81% thị phần) [9] 91.115 xe <br> (17,92% thị phần) [26] 57.414 xe <br> (14,20% thị phần) [11] 66.576 xe <br> (13,47% thị phần) [14] ~72.000 xe <br> (11,90% thị phần) [3, 4] Hyundai 81.368 xe <br> (19,97% thị phần) [7] 70.518 xe <br> (17,18% thị phần) [9] 81.582 xe <br> (16,04% thị phần) [5] 67.450 xe <br> (16,68% thị phần) [11] 67.168 xe <br> (13,59% thị phần) [14] 53.229 xe <br> (8,80% thị phần) [3, 4] Ford 24.663 xe <br> (6,05% thị phần) [7] 23.708 xe <br> (5,78% thị phần) [6] 28.487 xe <br> (5,60% thị phần) [26] 38.322 xe <br> (9,48% thị phần) [11] 42.175 xe <br> (8,53% thị phần) [14] 50.450 xe <br> (8,40% thị phần) [3, 4] Mazda 32.224 xe <br> (7,91% thị phần) [7] 27.286 xe <br> (6,65% thị phần) [9] 36.052 xe <br> (7,09% thị phần) [26] 35.632 xe <br> (8,81% thị phần) [11] 32.601 xe <br> (6,59% thị phần) [14] 32.455 xe <br> (5,40% thị phần) [3, 4] Kia 39.180 xe <br> (9,62% thị phần) [7] 45.523 xe <br> (11,09% thị phần) [6] 60.729 xe <br> (11,94% thị phần) [26] 40.773 xe <br> (10,09% thị phần) [11] 34.570 xe <br> (7,00% thị phần) [14] 27.716 xe <br> (4,60% thị phần) [3, 4] Toàn thị trường 407.487 xe [7] 410.390 xe [10] 508.547 xe [5] 404.294 xe 494.310 xe 604.054 xe [4]"
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "Cumulative Sales and Market Share Dynamics in the Vietnamese Automotive Industry: A Strategic Assessment of Hyundai, Toyota, Kia, Ford, Mazda, and VinFast (2020–2026)",
+      "source_text": "This rapid expansion was supported by a dual-track sales strategy. First, VinFast established a strong B2B foundation through partnerships with the Green-Smart-Mobility (GSM) taxi fleet and other transport cooperatives.[13, 21] High-volume fleet models like the Limo Green and Herio Green provided steady production volumes and introduced electric vehicles to a broad base of passengers, reducing consumer anxiety around range and battery life.[8, 22, 23] Second, VinFast targeted the private retail market with a range of highly competitive electric SUVs, led by the VF 3 and VF 5.[7] By pricing these models competitively with entry-level ICE hatchbacks and sedans, VinFast successfully accelerated the transition to electric mobility among urban buyers.[7, 20]"
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Bản mẫu:Doanh số VinFast – Wikipedia tiếng Việt",
+      "source_text": "Lũy kế 2025 175.099 2026 Tháng 1: 16.172 [65] Minio Green : 1.237 VF 3: 3.185 EC Van : 865 VF 5: 2.737 Herio Green VF 6: 2.485 VF 7: 975 Limo Green: 3.868 Lạc Hồng 900 LX Tháng 2: 9.903 [66] VF 3: 2.274 Limo Green: 1.808 VF MPV 7 : 1.165 VF 5: 1.601 VF 6: 1.042 VF 7: 807 Tháng 3: 27.609 (53.684) [67] Limo Green: 6.795 (12.471) VF MPV 7: 2.521 (3.686) Minio Green: 1.969 VF 3: 4.729 (10.188) VF 5: 4.218 (8.672) VF 6: 3.152 (6.679) VF 7: 1.732 (3.514) EC Van: 1.136 Tháng 4: 24.774 (78.458) [68] [69] Limo Green: 5.480 (18.951) VF 3: 5.273 (15.461) VF 5 (bao gồm Herio Green): 4.732 (13.404) VF 6: 2.704 (9.383) VF MPV 7: 2.526 (6.212) VF 7: 1.148 (4.662)"
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "source_text": "Chỉ số thị trường Năm 2020 Năm 2021 Năm 2022 Năm 2023 Năm 2024 Năm 2025 Năm 2026 (Xu hướng lũy kế) Tổng doanh số thị trường (xe) 407.487 [7] 410.390 [10] 508.547 [5] 404.294 494.310 604.054 [4] Đạt 185.243 xe trong 4 tháng đầu năm [2] Doanh số thành viên VAMA (xe) 296.634 [8] 304.149 [8] 404.635 [8] 301.989 [8] 340.142 [13] 375.736 [16] Đạt 156.729 xe trong 5 tháng đầu năm [17] Doanh số xe nhập khẩu (CBU) 135.792 [6] 135.792 [10] 120.609 [11] 120.609 [11] 167.412 [13] N/A Tăng 27% so với cùng kỳ năm 2025 [18] Doanh số xe lắp ráp (CKD) 29.382 [7] 168.357 [6] 181.380 [11] 181.380 [11] 172.730 [13] N/A Tăng 11% so với cùng kỳ năm 2025 [18]"
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "source_text": "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực Thị trường ô tô Việt Nam trong giai đoạn từ năm 2020 đến năm 2026 chứng kiến những biến động mang tính bước ngoặt, chuyển đổi mạnh mẽ từ một thị trường có quy mô nhỏ, phụ thuộc vào xe động cơ đốt trong (ICE) truyền thống sang một trong những quốc gia dẫn đầu khu vực Đông Nam Á về tốc độ chuyển dịch năng lượng xanh.[1, 2] Sự trỗi dậy mang tính đột phá của hãng xe điện nội địa VinFast, kết hợp với các chiến lược thích ứng linh hoạt bằng giải pháp Hybrid từ các thương hiệu Nhật Bản và sự co cụm phân khúc của các hãng xe Hàn Quốc, đã tái cấu trúc hoàn toàn bản đồ thị phần toàn ngành.[3, 4] Việc phân tích sâu sắc các số liệu doanh số lũy kế và diễn biến thị phần qua từng thời kỳ sẽ phác họa rõ nét bức tranh toàn cảnh về động lực tiêu dùng, rào cản hạ tầng và triển vọng phát triển của thị trường ô tô Việt Nam.[2, 3]"
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "source_text": "Phân tích chuyển dịch công nghệ và động lực thị trường giai đoạn 2025 - 2026 Bản chất của sự thay đổi thị phần sâu sắc tại thị trường Việt Nam giai đoạn 2025 - 2026 không đơn thuần nằm ở các chính sách giảm giá ngắn hạn, mà phản ánh xu hướng thay đổi căn bản trong hành vi tiêu dùng và rào cản công nghệ giữa các hãng xe.[2, 3] Tác động từ mẫu xe điện siêu rẻ đối với thị trường xe hạng A và B Sự bùng nổ của dòng xe VinFast VF 3 (phân khúc mini-SUV) và VF 5 (phân khúc SUV cỡ A) đã làm thay đổi hoàn toàn tư duy mua xe của người Việt.[4, 19] Với mức giá bán cực kỳ dễ tiếp cận và được miễn 100% lệ phí trước bạ theo chính sách khuyến khích xe điện của Chính phủ, hai mẫu xe này đã kéo một lượng lớn khách hàng từ nhóm xe máy cao cấp chuyển thẳng lên ô tô.[15, 32, 38]"
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Bnews.vn",
+      "source_text": "Từ khóa : thị trường ô tô Việt Nam doanh số ô tô VAMA hiệp hội các nhà sản xuất ô tô xe hybrid Mitsubishi Xpander Toyota Yaris Cross Mazda CX-5 xe nhập khẩu xe lắp ráp trong nước doanh số ô tô tháng 5/2026 xu hướng điện hóa ô tô Việt Nam hybrid Tin liên quan Ô tô xe máy Miễn 100% lệ phí trước bạ ô tô điện đến hết năm 2030 11:30' Chính phủ kéo dài chính sách miễn lệ phí trước bạ lần đầu cho ô tô điện chạy pin đến hết năm 2030, tạo động lực thúc đẩy tiêu dùng, sản xuất xe điện và chuyển đổi xanh."
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Báo Mới",
+      "source_text": "TIN KHÁC Các hãng xe Trung Quốc sẵn sàng tăng tốc trên thị trường ôtô Việt? 4 giờ TOP 10 ô tô hybrid bán chạy nhất Việt Nam tháng 5/2026 8 giờ Ngắm nhìn Audi Nuvolari: Siêu xe hybrid mạnh nhất của Audi 6 giờ Tin nóng Nhóm xe điện nào được miễn 100% lệ phí trước bạ đến hết năm 2030? 11 giờ 3 liên quan Nghị định 202/2026 kéo dài ưu đãi lệ phí trước bạ 0% với ô tô điện chạy pin đến hết năm 2030, đồng thời đặt ra vấn đề phân loại các nhóm xe... Kia Sportage 2026 ra mắt tại Việt Nam: Thêm bản hybrid, quyết đấu Honda CR-V"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 9,
+    "source_names": [
+      "Cumulative Sales and Market Share Dynamics in the Vietnamese Automotive Industry: A Strategic Assessment of Hyundai, Toyota, Kia, Ford, Mazda, and VinFast (2020–2026)",
+      "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực",
+      "Bản mẫu:Doanh số VinFast – Wikipedia tiếng Việt",
+      "Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Bnews.vn",
+      "Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Báo Mới"
+    ]
+  }
+}

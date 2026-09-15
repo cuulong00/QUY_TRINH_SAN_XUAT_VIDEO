@@ -1,0 +1,2813 @@
+{
+  "name": "CoKhiDaiDung_Master",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "ratio": "16:9",
+  "tracks": [
+    {
+      "type": "video",
+      "name": "video",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC001.mp4",
+          "start": 0.0,
+          "duration": 2.82,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC002A.mp4",
+          "start": 2.82,
+          "duration": 5.1522,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC002a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC002B.mp4",
+          "start": 7.9722,
+          "duration": 3.6278,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC002b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC003A.mp4",
+          "start": 11.6,
+          "duration": 5.0179,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC003B.mp4",
+          "start": 16.6179,
+          "duration": 3.5421,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC003b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC004.mp4",
+          "start": 20.16,
+          "duration": 6.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC005.mp4",
+          "start": 26.24,
+          "duration": 5.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC006.mp4",
+          "start": 31.32,
+          "duration": 4.3294,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC007.mp4",
+          "start": 35.6494,
+          "duration": 7.3523,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC008.mp4",
+          "start": 43.0017,
+          "duration": 3.7983,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC009.mp4",
+          "start": 46.8,
+          "duration": 4.72,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC010.mp4",
+          "start": 51.52,
+          "duration": 6.3137,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC011A.mp4",
+          "start": 57.8337,
+          "duration": 3.8432,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC011a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC011B.mp4",
+          "start": 61.6769,
+          "duration": 3.8431,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC011b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC012.mp4",
+          "start": 65.52,
+          "duration": 6.1957,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC013.mp4",
+          "start": 71.7157,
+          "duration": 8.8043,
+          "sourceStart": 0.0,
+          "speed": 0.903,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC014.mp4",
+          "start": 80.52,
+          "duration": 6.58,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC015.mp4",
+          "start": 87.1,
+          "duration": 3.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC016.mp4",
+          "start": 90.7,
+          "duration": 4.66,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC017.mp4",
+          "start": 95.36,
+          "duration": 4.9,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC018A.mp4",
+          "start": 100.26,
+          "duration": 8.38,
+          "sourceStart": 0.0,
+          "speed": 0.9487,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC018a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC018B.mp4",
+          "start": 108.64,
+          "duration": 2.7969,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC018b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC019A.mp4",
+          "start": 111.4369,
+          "duration": 5.9046,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC019a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC019B.mp4",
+          "start": 117.3415,
+          "duration": 3.4185,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC019b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC020.mp4",
+          "start": 120.76,
+          "duration": 5.14,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC021.mp4",
+          "start": 125.9,
+          "duration": 6.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC021"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC022.mp4",
+          "start": 132.4,
+          "duration": 5.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC022"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC023.mp4",
+          "start": 137.6,
+          "duration": 6.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC024.mp4",
+          "start": 143.88,
+          "duration": 2.6171,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC024"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC025.mp4",
+          "start": 146.4971,
+          "duration": 6.5429,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC025"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC026.mp4",
+          "start": 153.04,
+          "duration": 3.35,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC026"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC027A.mp4",
+          "start": 156.39,
+          "duration": 5.5833,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC027a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC027B.mp4",
+          "start": 161.9733,
+          "duration": 4.4667,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC027b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC028.mp4",
+          "start": 166.44,
+          "duration": 7.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC028"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC029.mp4",
+          "start": 173.94,
+          "duration": 6.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC029"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC030.mp4",
+          "start": 180.44,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC030"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC031.mp4",
+          "start": 188.44,
+          "duration": 7.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC031"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC032.mp4",
+          "start": 195.94,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC032"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC033.mp4",
+          "start": 201.94,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC033"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC034.mp4",
+          "start": 207.94,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC034"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC035.mp4",
+          "start": 214.94,
+          "duration": 4.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC035"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC036A.mp4",
+          "start": 218.94,
+          "duration": 5.4667,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC036a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC036B.mp4",
+          "start": 224.4067,
+          "duration": 2.7333,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC036b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC037.mp4",
+          "start": 227.14,
+          "duration": 4.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC037"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC038.mp4",
+          "start": 231.5,
+          "duration": 6.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC038"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC039.mp4",
+          "start": 238.14,
+          "duration": 6.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC039"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC040A.mp4",
+          "start": 244.18,
+          "duration": 5.4,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC040a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC040B.mp4",
+          "start": 249.58,
+          "duration": 2.4141,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC040b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC041.mp4",
+          "start": 251.9941,
+          "duration": 6.7459,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC041"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC042A.mp4",
+          "start": 258.74,
+          "duration": 3.5471,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC042a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH01_SC042B.mp4",
+          "start": 262.2871,
+          "duration": 5.8929,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH01_SC042b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC001A.mp4",
+          "start": 268.18,
+          "duration": 5.6014,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC001a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC001B.mp4",
+          "start": 273.7814,
+          "duration": 3.8586,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC001b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC002.mp4",
+          "start": 277.64,
+          "duration": 6.32,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC003A.mp4",
+          "start": 283.96,
+          "duration": 5.42,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC003a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC003B.mp4",
+          "start": 289.38,
+          "duration": 4.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC003b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC004A.mp4",
+          "start": 294.18,
+          "duration": 5.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC004a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC004B.mp4",
+          "start": 299.54,
+          "duration": 3.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC004b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC005.mp4",
+          "start": 303.46,
+          "duration": 7.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC006.mp4",
+          "start": 310.74,
+          "duration": 5.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC006"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC007A.mp4",
+          "start": 316.58,
+          "duration": 4.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC007B.mp4",
+          "start": 321.42,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC007b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC008A.mp4",
+          "start": 326.42,
+          "duration": 6.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC008B.mp4",
+          "start": 332.92,
+          "duration": 3.629,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC008C.mp4",
+          "start": 336.549,
+          "duration": 3.871,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC008c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC009.mp4",
+          "start": 340.42,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC010.mp4",
+          "start": 347.42,
+          "duration": 4.3444,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC011A.mp4",
+          "start": 351.7644,
+          "duration": 6.0156,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC011a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC011B.mp4",
+          "start": 357.78,
+          "duration": 7.6681,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC011b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC012A.mp4",
+          "start": 365.4481,
+          "duration": 8.1959,
+          "sourceStart": 0.0,
+          "speed": 0.97,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC012a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC012B.mp4",
+          "start": 373.644,
+          "duration": 13.8327,
+          "sourceStart": 0.0,
+          "speed": 0.5747,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC012b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC013A.mp4",
+          "start": 387.4767,
+          "duration": 3.8533,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC013a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC013B.mp4",
+          "start": 391.33,
+          "duration": 2.89,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC013b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC014.mp4",
+          "start": 394.22,
+          "duration": 5.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC015A.mp4",
+          "start": 400.1,
+          "duration": 7.0459,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC015a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC015B.mp4",
+          "start": 407.1459,
+          "duration": 4.8941,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC015b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC016.mp4",
+          "start": 412.04,
+          "duration": 7.78,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC016"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC017A.mp4",
+          "start": 419.82,
+          "duration": 4.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC017a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC017B.mp4",
+          "start": 424.1,
+          "duration": 8.0118,
+          "sourceStart": 0.0,
+          "speed": 0.9923,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC017b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC018A.mp4",
+          "start": 432.1118,
+          "duration": 4.9682,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC018a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC018B.mp4",
+          "start": 437.08,
+          "duration": 5.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC018b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC019A.mp4",
+          "start": 442.58,
+          "duration": 3.94,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC019a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC019B.mp4",
+          "start": 446.52,
+          "duration": 4.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC019b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC020.mp4",
+          "start": 450.52,
+          "duration": 5.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC021A.mp4",
+          "start": 456.12,
+          "duration": 3.3882,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC021a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC021B.mp4",
+          "start": 459.5082,
+          "duration": 6.2118,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC021b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC022A.mp4",
+          "start": 465.72,
+          "duration": 5.0258,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC022a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC022B.mp4",
+          "start": 470.7458,
+          "duration": 2.9097,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC022b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC023.mp4",
+          "start": 473.6555,
+          "duration": 4.9704,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC023"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC024A.mp4",
+          "start": 478.6259,
+          "duration": 4.0084,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC024a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC024B.mp4",
+          "start": 482.6343,
+          "duration": 4.2857,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC024b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC025A.mp4",
+          "start": 486.92,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC025a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC025B.mp4",
+          "start": 491.92,
+          "duration": 4.1379,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC025b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC025C.mp4",
+          "start": 496.0579,
+          "duration": 3.8621,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC025c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC026A.mp4",
+          "start": 499.92,
+          "duration": 5.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC026a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH02_SC026B.mp4",
+          "start": 505.72,
+          "duration": 5.46,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH02_SC026b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC001A.mp4",
+          "start": 511.18,
+          "duration": 7.0286,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC001a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC001B.mp4",
+          "start": 518.2086,
+          "duration": 7.1314,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC001b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC002A.mp4",
+          "start": 525.34,
+          "duration": 5.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC002a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC002B.mp4",
+          "start": 530.38,
+          "duration": 5.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC002b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC003A.mp4",
+          "start": 535.42,
+          "duration": 3.96,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC003a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC003B.mp4",
+          "start": 539.38,
+          "duration": 4.75,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC003b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC004A.mp4",
+          "start": 544.13,
+          "duration": 5.81,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC004a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC004B.mp4",
+          "start": 549.94,
+          "duration": 5.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC004b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC005A.mp4",
+          "start": 555.54,
+          "duration": 6.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC005a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC005B.mp4",
+          "start": 562.38,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC005b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC006A.mp4",
+          "start": 567.38,
+          "duration": 5.26,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC006a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC006B.mp4",
+          "start": 572.64,
+          "duration": 3.74,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC006b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC007A.mp4",
+          "start": 576.38,
+          "duration": 8.78,
+          "sourceStart": 0.0,
+          "speed": 0.9055,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC007a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC007B.mp4",
+          "start": 585.16,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC007b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC008A.mp4",
+          "start": 590.16,
+          "duration": 6.88,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC008a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC008B.mp4",
+          "start": 597.04,
+          "duration": 5.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC008b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC009A.mp4",
+          "start": 602.28,
+          "duration": 6.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC009a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC009B.mp4",
+          "start": 609.08,
+          "duration": 5.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC009b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC010.mp4",
+          "start": 614.6,
+          "duration": 7.9822,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC011A.mp4",
+          "start": 622.5822,
+          "duration": 9.2978,
+          "sourceStart": 0.0,
+          "speed": 0.855,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC011a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC011B.mp4",
+          "start": 631.88,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC011b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC012A.mp4",
+          "start": 636.88,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC012a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC012B.mp4",
+          "start": 643.88,
+          "duration": 4.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC012b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC013A.mp4",
+          "start": 647.88,
+          "duration": 5.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC013B.mp4",
+          "start": 653.4,
+          "duration": 9.12,
+          "sourceStart": 0.0,
+          "speed": 0.8717,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC013b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC014A.mp4",
+          "start": 662.52,
+          "duration": 4.1118,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC014B.mp4",
+          "start": 666.6318,
+          "duration": 5.2082,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC014b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC015A.mp4",
+          "start": 671.84,
+          "duration": 4.16,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC015B.mp4",
+          "start": 676.0,
+          "duration": 7.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC015b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC016A.mp4",
+          "start": 683.2,
+          "duration": 6.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC016B.mp4",
+          "start": 690.0,
+          "duration": 5.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC016b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC017A.mp4",
+          "start": 695.2,
+          "duration": 7.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC017B.mp4",
+          "start": 702.4,
+          "duration": 6.16,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC017b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC018A.mp4",
+          "start": 708.56,
+          "duration": 5.44,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC018B.mp4",
+          "start": 714.0,
+          "duration": 7.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC018b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC019A.mp4",
+          "start": 721.24,
+          "duration": 7.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC019a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC019B.mp4",
+          "start": 728.48,
+          "duration": 4.7,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC019b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC019C.mp4",
+          "start": 733.18,
+          "duration": 3.48,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC019c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC020A.mp4",
+          "start": 736.66,
+          "duration": 5.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC020a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC020B.mp4",
+          "start": 742.58,
+          "duration": 5.34,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC020b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC021A.mp4",
+          "start": 747.92,
+          "duration": 6.1,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC021a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC021B.mp4",
+          "start": 754.02,
+          "duration": 4.62,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC021b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC022A.mp4",
+          "start": 758.64,
+          "duration": 6.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC022a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH03_SC022B.mp4",
+          "start": 765.28,
+          "duration": 7.78,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH03_SC022b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC001.mp4",
+          "start": 773.06,
+          "duration": 9.16,
+          "sourceStart": 0.0,
+          "speed": 0.8679,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC001"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC002A.mp4",
+          "start": 782.22,
+          "duration": 7.18,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC002a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC002B.mp4",
+          "start": 789.4,
+          "duration": 6.66,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC002b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC003A.mp4",
+          "start": 796.06,
+          "duration": 4.22,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC003a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC003B.mp4",
+          "start": 800.28,
+          "duration": 5.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC003b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC004A.mp4",
+          "start": 806.12,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 0.9937,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC004a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC004B.mp4",
+          "start": 814.12,
+          "duration": 3.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC004b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC005A.mp4",
+          "start": 817.12,
+          "duration": 7.6364,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC005a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC005B.mp4",
+          "start": 824.7564,
+          "duration": 4.3636,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC005b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC006A.mp4",
+          "start": 829.12,
+          "duration": 6.06,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC006a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC006B.mp4",
+          "start": 835.18,
+          "duration": 5.34,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC006b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC007A.mp4",
+          "start": 840.52,
+          "duration": 6.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC007a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC007B.mp4",
+          "start": 847.02,
+          "duration": 5.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC007b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC008A.mp4",
+          "start": 852.06,
+          "duration": 7.42,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC008a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC008B.mp4",
+          "start": 859.48,
+          "duration": 4.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC008b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC009A.mp4",
+          "start": 863.84,
+          "duration": 8.72,
+          "sourceStart": 0.0,
+          "speed": 0.9117,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC009a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC009B.mp4",
+          "start": 872.56,
+          "duration": 3.16,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC009b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC010.mp4",
+          "start": 875.72,
+          "duration": 7.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC010"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC011A.mp4",
+          "start": 882.92,
+          "duration": 4.5837,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC011a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC011B.mp4",
+          "start": 887.5037,
+          "duration": 9.9763,
+          "sourceStart": 0.0,
+          "speed": 0.7969,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC011b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC012A.mp4",
+          "start": 897.48,
+          "duration": 3.8182,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC012a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC012B.mp4",
+          "start": 901.2982,
+          "duration": 6.1818,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC012b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC013A.mp4",
+          "start": 907.48,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC013a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC013B.mp4",
+          "start": 912.48,
+          "duration": 5.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC013b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC014A.mp4",
+          "start": 917.48,
+          "duration": 3.8462,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC014a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC014B.mp4",
+          "start": 921.3262,
+          "duration": 5.1538,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC014b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC015A.mp4",
+          "start": 926.48,
+          "duration": 5.5652,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC015a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC015B.mp4",
+          "start": 932.0452,
+          "duration": 3.9015,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC015b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC016A.mp4",
+          "start": 935.9467,
+          "duration": 6.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC016a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC016B.mp4",
+          "start": 942.5467,
+          "duration": 2.9333,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC016b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC017A.mp4",
+          "start": 945.48,
+          "duration": 8.2286,
+          "sourceStart": 0.0,
+          "speed": 0.9661,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC017a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC017B.mp4",
+          "start": 953.7086,
+          "duration": 7.2381,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC017b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC018A.mp4",
+          "start": 960.9467,
+          "duration": 6.0172,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC018a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC018B.mp4",
+          "start": 966.9639,
+          "duration": 4.5161,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC018b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC019A.mp4",
+          "start": 971.48,
+          "duration": 6.06,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC019B.mp4",
+          "start": 977.54,
+          "duration": 4.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC019b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC020A.mp4",
+          "start": 982.38,
+          "duration": 7.48,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC020B.mp4",
+          "start": 989.86,
+          "duration": 5.3,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC020b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC021A.mp4",
+          "start": 995.16,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC021B.mp4",
+          "start": 1003.16,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC021b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC022A.mp4",
+          "start": 1010.16,
+          "duration": 3.4286,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH04_SC022B.mp4",
+          "start": 1013.5886,
+          "duration": 8.3914,
+          "sourceStart": 0.0,
+          "speed": 0.9474,
+          "volume": 0.0,
+          "ref": "vid_CH04_SC022b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC001A.mp4",
+          "start": 1021.98,
+          "duration": 9.44,
+          "sourceStart": 0.0,
+          "speed": 0.8422,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC001a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC001B.mp4",
+          "start": 1031.42,
+          "duration": 4.32,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC001b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC002A.mp4",
+          "start": 1035.74,
+          "duration": 8.4,
+          "sourceStart": 0.0,
+          "speed": 0.9464,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC002a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC002B.mp4",
+          "start": 1044.14,
+          "duration": 3.64,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC002b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC003.mp4",
+          "start": 1047.78,
+          "duration": 6.56,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC003"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC004A.mp4",
+          "start": 1054.34,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC004a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC004B.mp4",
+          "start": 1062.34,
+          "duration": 4.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC004b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC005A.mp4",
+          "start": 1066.34,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC005a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC005B.mp4",
+          "start": 1073.34,
+          "duration": 6.14,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC005b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC006A.mp4",
+          "start": 1079.48,
+          "duration": 8.02,
+          "sourceStart": 0.0,
+          "speed": 0.9913,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC006a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC006B.mp4",
+          "start": 1087.5,
+          "duration": 3.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC006b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC007A.mp4",
+          "start": 1091.42,
+          "duration": 5.98,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC007a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC007B.mp4",
+          "start": 1097.4,
+          "duration": 5.58,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC007b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC008A.mp4",
+          "start": 1102.98,
+          "duration": 5.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC008a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC008B.mp4",
+          "start": 1108.58,
+          "duration": 5.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC008b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC009A.mp4",
+          "start": 1114.42,
+          "duration": 6.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC009a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC009B.mp4",
+          "start": 1121.02,
+          "duration": 9.64,
+          "sourceStart": 0.0,
+          "speed": 0.8247,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC009b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC010A.mp4",
+          "start": 1130.66,
+          "duration": 4.6154,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC010a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC010B.mp4",
+          "start": 1135.2754,
+          "duration": 7.3846,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC010b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC011A.mp4",
+          "start": 1142.66,
+          "duration": 5.8085,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC011a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC011B.mp4",
+          "start": 1148.4685,
+          "duration": 7.1915,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC011b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC012A.mp4",
+          "start": 1155.66,
+          "duration": 4.0857,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC012a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC012B.mp4",
+          "start": 1159.7457,
+          "duration": 6.9143,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC012b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC013A.mp4",
+          "start": 1166.66,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC013a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC013B.mp4",
+          "start": 1174.66,
+          "duration": 3.3548,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC013b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC013C.mp4",
+          "start": 1178.0148,
+          "duration": 4.6452,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC013c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC014A.mp4",
+          "start": 1182.66,
+          "duration": 6.06,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC014a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC014B.mp4",
+          "start": 1188.72,
+          "duration": 7.4636,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC014b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC015A.mp4",
+          "start": 1196.1836,
+          "duration": 6.8214,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC015a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC015B.mp4",
+          "start": 1203.005,
+          "duration": 5.295,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC015b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC016A.mp4",
+          "start": 1208.3,
+          "duration": 6.48,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC016a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC016B.mp4",
+          "start": 1214.78,
+          "duration": 7.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC016b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC017A.mp4",
+          "start": 1221.86,
+          "duration": 6.1824,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC017a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC017B.mp4",
+          "start": 1228.0424,
+          "duration": 6.0976,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC017b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC018A.mp4",
+          "start": 1234.14,
+          "duration": 9.0,
+          "sourceStart": 0.0,
+          "speed": 0.8833,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC018a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC018B.mp4",
+          "start": 1243.14,
+          "duration": 3.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC018b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC018C.mp4",
+          "start": 1246.14,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC018c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC019A.mp4",
+          "start": 1252.14,
+          "duration": 7.8065,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC019a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC019B.mp4",
+          "start": 1259.9465,
+          "duration": 3.1935,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC019b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC020.mp4",
+          "start": 1263.14,
+          "duration": 6.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC021A.mp4",
+          "start": 1269.66,
+          "duration": 8.26,
+          "sourceStart": 0.0,
+          "speed": 0.9625,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC021a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC021B.mp4",
+          "start": 1277.92,
+          "duration": 4.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC021b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC022A.mp4",
+          "start": 1282.0,
+          "duration": 5.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC022a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH05_SC022B.mp4",
+          "start": 1287.2,
+          "duration": 5.26,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH05_SC022b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC001A.mp4",
+          "start": 1292.46,
+          "duration": 10.2,
+          "sourceStart": 0.0,
+          "speed": 0.7794,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC001a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC001B.mp4",
+          "start": 1302.66,
+          "duration": 3.2276,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC001b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC001C.mp4",
+          "start": 1305.8876,
+          "duration": 4.3034,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC001c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC002.mp4",
+          "start": 1310.191,
+          "duration": 8.269,
+          "sourceStart": 0.0,
+          "speed": 0.9614,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC002"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC003A.mp4",
+          "start": 1318.46,
+          "duration": 4.1323,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC003a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC003B.mp4",
+          "start": 1322.5923,
+          "duration": 4.4077,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC003b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC004A.mp4",
+          "start": 1327.0,
+          "duration": 6.56,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC004a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC004B.mp4",
+          "start": 1333.56,
+          "duration": 6.8343,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC004b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC005.mp4",
+          "start": 1340.3943,
+          "duration": 7.6026,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC005"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC006A.mp4",
+          "start": 1347.9969,
+          "duration": 10.9231,
+          "sourceStart": 0.0,
+          "speed": 0.7278,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC006a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC006B.mp4",
+          "start": 1358.92,
+          "duration": 7.287,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC006b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC007.mp4",
+          "start": 1366.207,
+          "duration": 6.313,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC007"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC008A.mp4",
+          "start": 1372.52,
+          "duration": 4.2,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC008a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC008B.mp4",
+          "start": 1376.72,
+          "duration": 6.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC008b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC009.mp4",
+          "start": 1383.52,
+          "duration": 8.2,
+          "sourceStart": 0.0,
+          "speed": 0.9695,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC010A.mp4",
+          "start": 1391.72,
+          "duration": 7.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC010a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC010B.mp4",
+          "start": 1398.76,
+          "duration": 9.5916,
+          "sourceStart": 0.0,
+          "speed": 0.8289,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC010b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC011.mp4",
+          "start": 1408.3516,
+          "duration": 8.0468,
+          "sourceStart": 0.0,
+          "speed": 0.988,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC011"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC012.mp4",
+          "start": 1416.3984,
+          "duration": 9.3016,
+          "sourceStart": 0.0,
+          "speed": 0.8547,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC012"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC013A.mp4",
+          "start": 1425.7,
+          "duration": 6.9228,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC013a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC013B.mp4",
+          "start": 1432.6228,
+          "duration": 2.6372,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC013b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC014.mp4",
+          "start": 1435.26,
+          "duration": 7.28,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC015.mp4",
+          "start": 1442.54,
+          "duration": 6.96,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC015"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC016A.mp4",
+          "start": 1449.5,
+          "duration": 5.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC016a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC016B.mp4",
+          "start": 1455.02,
+          "duration": 6.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC016b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC017A.mp4",
+          "start": 1461.06,
+          "duration": 8.08,
+          "sourceStart": 0.0,
+          "speed": 0.9839,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC017a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC017B.mp4",
+          "start": 1469.14,
+          "duration": 6.8,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC017b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC018A.mp4",
+          "start": 1475.94,
+          "duration": 6.2963,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC018a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC018B.mp4",
+          "start": 1482.2363,
+          "duration": 2.4637,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC018b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC019A.mp4",
+          "start": 1484.7,
+          "duration": 6.44,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC019a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC019B.mp4",
+          "start": 1491.14,
+          "duration": 6.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC019b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC020.mp4",
+          "start": 1497.98,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC020"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC021A.mp4",
+          "start": 1504.98,
+          "duration": 2.6316,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC021a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH06_SC021B.mp4",
+          "start": 1507.6116,
+          "duration": 9.2684,
+          "sourceStart": 0.0,
+          "speed": 0.8578,
+          "volume": 0.0,
+          "ref": "vid_CH06_SC021b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC001A.mp4",
+          "start": 1516.88,
+          "duration": 7.04,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC001a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC001B.mp4",
+          "start": 1523.92,
+          "duration": 6.76,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC001b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC002A.mp4",
+          "start": 1530.68,
+          "duration": 6.12,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC002a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC002B.mp4",
+          "start": 1536.8,
+          "duration": 7.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC002b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC003A.mp4",
+          "start": 1544.16,
+          "duration": 4.36,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC003a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC003B.mp4",
+          "start": 1548.52,
+          "duration": 7.7241,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC003b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC004.mp4",
+          "start": 1556.2441,
+          "duration": 6.2759,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC004"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC005A.mp4",
+          "start": 1562.52,
+          "duration": 5.9348,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC005a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC005B.mp4",
+          "start": 1568.4548,
+          "duration": 7.0652,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC005b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC006A.mp4",
+          "start": 1575.52,
+          "duration": 6.1,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC006a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC006B.mp4",
+          "start": 1581.62,
+          "duration": 5.14,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC006b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC007A.mp4",
+          "start": 1586.76,
+          "duration": 6.7842,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC007a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC007B.mp4",
+          "start": 1593.5442,
+          "duration": 7.5158,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC007b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC008.mp4",
+          "start": 1601.06,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC008"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC009.mp4",
+          "start": 1609.06,
+          "duration": 7.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC009"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC010A.mp4",
+          "start": 1616.06,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC010a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC010B.mp4",
+          "start": 1622.06,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC010b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC011A.mp4",
+          "start": 1628.06,
+          "duration": 5.46,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC011a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC011B.mp4",
+          "start": 1633.52,
+          "duration": 3.98,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC011b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC011C.mp4",
+          "start": 1637.5,
+          "duration": 3.56,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC011c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC012A.mp4",
+          "start": 1641.06,
+          "duration": 4.76,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC012a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC012B.mp4",
+          "start": 1645.82,
+          "duration": 6.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC012b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC013.mp4",
+          "start": 1652.06,
+          "duration": 8.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC013"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC014.mp4",
+          "start": 1660.06,
+          "duration": 10.2903,
+          "sourceStart": 0.0,
+          "speed": 0.7726,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC014"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC015A.mp4",
+          "start": 1670.3503,
+          "duration": 9.7097,
+          "sourceStart": 0.0,
+          "speed": 0.8188,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC015a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC015B.mp4",
+          "start": 1680.06,
+          "duration": 5.4194,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC015b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC015C.mp4",
+          "start": 1685.4794,
+          "duration": 2.5806,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC015c"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC016A.mp4",
+          "start": 1688.06,
+          "duration": 5.7647,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC016a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC016B.mp4",
+          "start": 1693.8247,
+          "duration": 4.2353,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC016b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC017.mp4",
+          "start": 1698.06,
+          "duration": 6.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC017"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC018A.mp4",
+          "start": 1704.56,
+          "duration": 11.0683,
+          "sourceStart": 0.0,
+          "speed": 0.7183,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC018a"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC018B.mp4",
+          "start": 1715.6283,
+          "duration": 2.2917,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC018b"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/video_stripped/videos/CH07_SC019.mp4",
+          "start": 1717.92,
+          "duration": 6.68,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0,
+          "ref": "vid_CH07_SC019"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/00_core/disclaimer/tuyenbo_trachnhiem_gocnhinpodcast_clean_audio.mp4",
+          "start": 1724.6,
+          "duration": 25.2667,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 1.0,
+          "ref": "disclaimer_outro"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "voiceover",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/audio/chapter_01.wav",
+          "start": 0.0,
+          "duration": 266.18,
+          "volume": 1.0,
+          "ref": "vo_ch01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/audio/chapter_02.wav",
+          "start": 270.18,
+          "duration": 239.0,
+          "volume": 1.0,
+          "ref": "vo_ch02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/audio/chapter_03.wav",
+          "start": 513.18,
+          "duration": 257.88,
+          "volume": 1.0,
+          "ref": "vo_ch03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/audio/chapter_04.wav",
+          "start": 775.06,
+          "duration": 244.92,
+          "volume": 1.0,
+          "ref": "vo_ch04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/audio/chapter_05.wav",
+          "start": 1023.98,
+          "duration": 266.48,
+          "volume": 1.0,
+          "ref": "vo_ch05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/audio/chapter_06.wav",
+          "start": 1294.46,
+          "duration": 220.42,
+          "volume": 1.0,
+          "ref": "vo_ch06"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/co-khi-dai-dung/audio/chapter_07.wav",
+          "start": 1518.88,
+          "duration": 203.72,
+          "volume": 1.0,
+          "ref": "vo_ch07"
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "bgm",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 0.0,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_01"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 143.6995,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_02"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 287.3991,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_03"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 431.0986,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_04"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 574.7982,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_05"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 718.4977,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_06"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 862.1973,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_07"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1005.8968,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_08"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1149.5963,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_09"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1293.2959,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_10"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1436.9954,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_11"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1580.695,
+          "duration": 143.6995,
+          "volume": 0.031,
+          "ref": "bgm_12"
+        },
+        {
+          "path": "/Users/pro16/Documents/VideoProject/Nhac_nen/nhac-nen-goc-nhin.mp3",
+          "start": 1724.3945,
+          "duration": 25.4722,
+          "volume": 0.031,
+          "ref": "bgm_13"
+        }
+      ]
+    }
+  ]
+}

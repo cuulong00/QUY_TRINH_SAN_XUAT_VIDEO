@@ -1,0 +1,7 @@
+{
+  "question": "Bóc tách cấu phần linh kiện (BOM) chi tiết chiếc xe VinFast (VF 3, VF 5, VF 8, VF 9) trước và sau tái cấu trúc",
+  "answer": "Chiếc xe VinFast được chia tách ranh giới rõ ràng: VinFast Auto (VFVN) sở hữu 100% IP, BMS, ADAS, AI Cockpit, thiết kế kiểu dáng và hợp đồng Tier-1 (NVIDIA, Qualcomm, CATL). VFTP (Công ty Tương Lai) gia công thể xác cơ khí dập/sơn/hàn tại Hải Phòng và gánh 182k tỷ nợ.",
+  "citations": [
+    {"source_title": "Báo cáo Kỹ thuật VinFast BOM 2026", "excerpt": "Pin NMC và LFP từ CATL/Gotion chiếm 30-40% chi phí BOM xe điện VinFast."}
+  ]
+}

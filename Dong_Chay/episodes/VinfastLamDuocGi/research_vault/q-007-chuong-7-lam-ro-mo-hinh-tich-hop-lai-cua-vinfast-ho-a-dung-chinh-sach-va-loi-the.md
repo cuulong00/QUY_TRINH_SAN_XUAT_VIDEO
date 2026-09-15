@@ -1,0 +1,140 @@
+---
+title: "[Chương 7]: Làm rõ mô hình \"Tích hợp lai\" của VinFast: Họ đã dùng chính sách và lợi thế nào để ép các nhà cung cấp FDI toàn cầu chuyển giao công nghệ và đặt xưởng tại Việt Nam thay vì chỉ mua linh kiện lắp ráp?"
+type: nblm-answer
+asked_at: 2026-07-22T03:20:39.093Z
+notebook_url: "https://notebooklm.google.com/notebook/eac0581c-0b8a-44e9-938c-e8b56977435a"
+session_id: "321727fb"
+citations_count: 13
+sources:
+  - "Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026"
+  - "Không còn là lời hứa: VinFast 'đặt hàng lớn', doanh nghiệp phụ trợ Việt sẵn sàng chưa?"
+  - "Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz"
+  - "VinFast khởi tạo “cuộc chơi lớn”, đưa công nghiệp hỗ trợ Việt lên tầm cao mới - baodautu"
+---
+
+# [Chương 7]: Làm rõ mô hình "Tích hợp lai" của VinFast: Họ đã dùng chính sách và lợi thế nào để ép các nhà cung cấp FDI toàn cầu chuyển giao công nghệ và đặt xưởng tại Việt Nam thay vì chỉ mua linh kiện lắp ráp?
+
+> Asked on 2026-07-22T03:20:39.093Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/eac0581c-0b8a-44e9-938c-e8b56977435a)
+
+## Answer
+
+Thoughts
+[Chương 7]: Làm rõ mô hình "Tích hợp lai" (Hybrid Integration) của VinFast và các đòn bẩy thu hút, chuyển giao công nghệ từ các nhà cung cấp FDI toàn cầu
+Mô hình "Tích hợp lai" (Hybrid Integration) là một sáng kiến quản trị chuỗi cung ứng mang tính thực tiễn cao, giúp VinFast nhanh chóng làm chủ công nghệ và xây dựng năng lực sản xuất nội địa
+1
+. Thay vì đi theo lối mòn gia công lắp ráp CKD thông thường vốn mang lại giá trị gia tăng thấp, hoặc lựa chọn con đường tự đầu tư khép kín 100% chuỗi giá trị vốn đòi hỏi nguồn vốn cực kỳ khổng lồ và thời gian chuẩn bị quá dài, VinFast đã áp dụng công thức kết hợp linh hoạt: tự chủ các công đoạn cốt lõi (như xưởng dập, hàn, sơn tự động hóa trên 90%, tự chế tạo động cơ điện và hệ thống phần mềm lõi)
+2
+3
+, đồng thời áp dụng các chính sách và lợi thế đàm phán đặc biệt để ép các nhà cung cấp FDI toàn cầu phải chuyển giao công nghệ và đặt xưởng sản xuất ngay tại Việt Nam
+4
+.
+Cụ thể, các chính sách, ưu đãi và lợi thế đòn bẩy mà VinFast đã sử dụng bao gồm:
+1. Quy hoạch phân khu công nghiệp hỗ trợ tại chỗ và ưu đãi mặt bằng lớn chưa từng có
+VinFast đã chủ động quy hoạch hơn 30% diện tích đất của tổ hợp nhà máy Hải Phòng (và sau này là tổ hợp Hà Tĩnh) để phát triển riêng phân khu công nghiệp phụ trợ
+. Để thu hút các nhà cung cấp linh kiện gốc (OEM) và các nhà cung cấp cấp 1 (Tier-1) toàn cầu đến thiết lập nhà máy ngay bên cạnh dây chuyền lắp ráp của mình, VinFast đưa ra chính sách hỗ trợ tài chính đột phá:
+Hỗ trợ đến 50% chi phí thuê đất trong 3 năm đầu
+Hỗ trợ 20% chi phí thuê đất trong 5 năm tiếp theo tại các tổ hợp sản xuất Hải Phòng và Hà Tĩnh
+Chính sách ưu đãi về chi phí mặt bằng này đã giúp các nhà đầu tư nước ngoài giảm bớt gánh nặng chi phí đầu tư cố định (CAPEX) ban đầu khi thâm nhập vào thị trường Việt Nam
+4
+10
+.
+2. Triệt tiêu rủi ro thị trường bằng cam kết bao tiêu sản phẩm đầu ra dài hạn
+Để thuyết phục các tập đoàn nước ngoài chịu đầu tư xây dựng cơ sở sản xuất mới tại Việt Nam thay vì chỉ xuất khẩu linh kiện từ nước ngoài vào, VinFast đưa ra lợi thế đàm phán mang tính quyết định: Ký hợp đồng cam kết bao tiêu sản phẩm đầu ra dài hạn theo kế hoạch thống nhất
+Đối với các nhà cung cấp phụ trợ, rủi ro lớn nhất khi xây dựng nhà máy mới là không có đơn hàng ổn định để khấu hao máy móc
+10
+12
+.
+Việc VinFast bảo đảm đầu ra dài hạn với sản lượng quy hoạch khổng lồ (đặt mục tiêu hơn 500.000 xe vào năm 2027 và tiến tới 1 triệu xe/năm vào năm 2030) đã tạo niềm tin tuyệt đối để các hãng FDI an tâm rót vốn đầu tư chiều sâu vào các dây chuyền sản xuất cơ khí chính xác tại chỗ
+3. Công thức "Chuyển giao công nghệ bắt buộc" trong các thỏa thuận hợp tác thiết kế
+VinFast chủ động thuê thiết kế và hợp tác chế tạo với các đơn vị thiết kế xe hàng đầu thế giới (ví dụ cụ thể là hợp tác với đơn vị thiết kế LS Auto để phát triển các dòng xe như VF 5 và VF e34)
+. Tuy nhiên, VinFast không áp dụng mô hình mua đứt bán đoạn thông thường
+4
+.
+Trong tất cả các thỏa thuận hợp tác phát triển linh kiện phức tạp, VinFast luôn đính kèm điều khoản yêu cầu nhà thiết kế nước ngoài phải chuyển giao công nghệ chế tạo các linh kiện phụ trợ đó lại cho các doanh nghiệp đối tác hiện có tại Việt Nam
+Bằng cách này, chất xám và công nghệ chế tạo đỉnh cao được chuyển dịch trực tiếp vào hệ sinh thái cơ khí trong nước, giúp các doanh nghiệp Việt học hỏi quy trình quản trị sản xuất hiện đại và nâng cao năng lực vận hành thực tế
+4. Khéo léo tận dụng đòn bẩy chính sách vĩ mô khắt khe của Chính phủ Việt Nam
+VinFast đã phối hợp cực kỳ nhịp nhàng với các cơ chế chính sách của Nhà nước để tạo sức ép đàm phán lên các đối tác ngoại
+20
+.
+Dưới góc độ vĩ mô, Chính phủ đã ban hành Nghị định 205/2025/NĐ-CP (sửa đổi, bổ sung Nghị định 111/2015/NĐ-CP về phát triển công nghiệp hỗ trợ) mang lại các ưu đãi thuế rất lớn cho doanh nghiệp phụ trợ xanh, bao gồm miễn thuế trong 4 năm đầu và giảm thuế trong 9 năm tiếp theo
+21
+22
+.
+Tuy nhiên, Bộ Công Thương áp dụng tiêu chí khắt khe để bảo vệ doanh nghiệp nội địa: Các nhà đầu tư FDI muốn được hưởng các ưu đãi thuế và đất đai này bắt buộc phải có sự tham gia của ít nhất một doanh nghiệp Việt Nam trong chuỗi cung ứng
+20
+. Đồng thời, sản phẩm nhận ưu đãi phải chứa hàm lượng khoa học - công nghệ cao thay vì chỉ thực hiện lắp ráp thô sơ
+20
+.
+Do VinFast là hãng xe điện duy nhất tại Việt Nam sở hữu quy mô thị trường đủ lớn và một hệ sinh thái sẵn có gồm khoảng 700 doanh nghiệp tham gia chuỗi cung ứng
+20
+, các tập đoàn FDI toàn cầu buộc phải hợp tác với VinFast và liên kết với các doanh nghiệp vệ tinh Việt Nam để đáp ứng điều kiện pháp lý, từ đó mới được mở khóa các ưu đãi thuế từ Chính phủ
+20
+.
+5. Kết quả thực tiễn: Kích thích hiệu ứng lan tỏa (Spillover Effect) nâng tầm doanh nghiệp Việt
+Chính sách "ép" chuyển giao công nghệ và thu hút FDI tại chỗ của VinFast đã tạo ra một lực đẩy vĩ mô mạnh mẽ, buộc các doanh nghiệp phụ trợ thuần Việt phải dũng cảm nâng cấp tiêu chuẩn kỹ thuật để trở thành đối tác trực tiếp hoặc gián tiếp trong chuỗi cung ứng
+23
+:
+Công ty cổ phần Công nghệ Chính xác Thành Công: Từ một đơn vị chuyên gia công cơ khí đồ gia dụng phổ thông, nhờ cam kết bao tiêu của VinFast, doanh nghiệp này đã đầu tư thêm 2 dây chuyền sản xuất mới trị giá 80 tỷ VNĐ để sản xuất các linh kiện ô tô cơ khí chính xác có giá thành rẻ hơn và cạnh tranh sòng phẳng với hàng nhập khẩu
+24
+25
+.
+Công ty cổ phần Vật tư Cơ điện Thịnh Phát: Được lựa chọn cung ứng đồng bộ các sản phẩm vật tư phụ trợ cơ điện (máng cáp, ty ren, thanh unistrut...) đạt các tiêu chuẩn chất lượng ngặt nghèo như ISO 9001:2015 và TCVN 1916:1995 cho siêu dự án Nhà máy sản xuất cell pin sạc LFP VinES tại Hà Tĩnh
+24
+26
+.
+Nhờ mô hình "Tích hợp lai" này, thặng dư kinh tế và giá trị gia tăng được giữ lại bên trong biên giới Việt Nam, giúp nâng cao thực chất tiềm lực công nghiệp chế tạo quốc gia và đưa ngành công nghiệp hỗ trợ Việt Nam thoát khỏi "bẫy lắp ráp" CKD kéo dài suốt 30 năm trước đó
+📊 Tôi có thể xây dựng một biểu đồ trực quan thể hiện dòng dịch chuyển thặng dư kinh tế và giá trị gia tăng được giữ lại tại Việt Nam thông qua mô hình Tích hợp lai của VinFast so với mô hình lắp ráp CKD truyền thống trước đây không?
+
+## Sources
+
+### [1] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Phân tích mô hình "Tích hợp lai" (Hybrid Integration) của VinFast Mô hình "Tích hợp lai" (Hybrid Integration) là một sáng kiến quản trị chuỗi cung ứng mang tính thực tiễn cao, giúp VinFast nhanh chóng làm chủ công nghệ và xây dựng năng lực sản xuất nội địa [cite: 2, 6, 19]. Thay vì lựa chọn con đường gia công lắp ráp CKD thông thường vốn mang lại giá trị gia tăng thấp, hoặc tự đầu tư khép kín chuỗi giá trị vốn đòi hỏi nguồn vốn khổng lồ và thời gian chuẩn bị quá dài, VinFast đã áp dụng công thức kết hợp linh hoạt:
+
+### [2] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Chi tiết cấu trúc 60% nội địa hóa hiện tại và nền tảng chế tạo cơ bản Mốc nội địa hóa hơn hiện tại của VinFast được xây dựng dựa trên sự kết hợp giữa năng lực tự chế tạo tại tổ hợp nhà máy Hải Phòng và mạng lưới đối tác công nghiệp hỗ trợ đặt tại Việt Nam [cite: 1, 2, 6]. Tổ hợp nhà máy Hải Phòng vận hành với tỷ lệ tự động hóa vượt trội, đạt trên ở hầu hết các công đoạn chính nhờ hệ thống máy móc tiên tiến từ Đức, Áo và Hàn Quốc [cite: 1, 2, 6, 7]. Cấu trúc giá trị này bao gồm các thành phần cốt lõi:
+
+### [3] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Khung vỏ và xưởng dập - hàn - sơn tự động: Khung gầm và thân vỏ kim loại được sản xuất khép kín tại tổ hợp [cite: 1, 2, 6]. Quy trình bắt đầu từ xưởng dập tấm kim loại thô, chuyển tiếp sang xưởng hàn với hàng trăm robot tự động hóa để định hình khung xương chịu lực vững chắc cho toàn bộ cabin, và hoàn thiện tại xưởng sơn tĩnh điện tự động [cite: 1, 2, 6]. Các chi tiết lớn như thân vỏ xe và trần xe chịu lực đều được nội địa hóa hoàn toàn [cite: 2, 6]. Động cơ điện và hệ truyền động: VinFast đã đi đầu trong việc làm chủ dây chuyền sản xuất động cơ điện tại Việt Nam [cite: 6]. Phân xưởng động cơ thực hiện lắp ráp stator, rotor, gia công vỏ động cơ và tích hợp các bánh răng truyền động cơ khí chính xác để tạo nên cụm động cơ điện hoàn chỉnh [cite: 1, 6]. Hệ thống ADAS và phần mềm điều khiển: Hãng đã tự chủ phát triển phần mềm quản trị năng lượng cho pin, phần mềm điều khiển xe, hệ thống quản lý nhiệt thông minh và các thuật toán hỗ trợ lái tự động nâng cao (ADAS) cốt lõi dựa trên nguồn lực nghiên cứu nội bộ thuộc hệ sinh thái Vingroup [cite: 6, 8, 9]. Hệ thống cơ khí phụ trợ: Các cấu phần như giảm xóc, phanh, và các chi tiết nhựa ngoại thất quy mô lớn cũng được sản xuất trực tiếp tại tổ hợp hoặc cung ứng bởi các đối tác đặt trong khu công nghiệp phụ trợ của hãng [cite: 2, 6].
+
+### [4] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Thu hút dòng vốn FDI phụ trợ đặt nhà máy tại chỗ: VinFast đã quy hoạch hơn diện tích đất của tổ hợp nhà máy Hải Phòng để phát triển phân khu công nghiệp hỗ trợ [cite: 2, 6]. Hãng đưa ra các chính sách ưu đãi đột phá như hỗ trợ đến chi phí thuê đất trong 3 năm đầu và hỗ trợ trong 5 năm tiếp theo tại các tổ hợp sản xuất Hải Phòng và Hà Tĩnh nhằm thu hút các nhà cung cấp linh kiện gốc (OEM) và các nhà cung cấp cấp 1 (Tier-1) toàn cầu thiết lập nhà máy ngay bên cạnh dây chuyền lắp ráp của hãng [cite: 20, 21]. Cam kết bao tiêu sản phẩm đầu ra dài hạn: Để thuyết phục các nhà đầu tư nước ngoài chịu chuyển giao công nghệ hoặc xây dựng cơ sở sản xuất mới tại Việt Nam, VinFast cam kết bảo đảm đầu ra bằng các hợp đồng bao tiêu sản phẩm dài hạn [cite: 1, 20, 21]. Điều này giúp triệt tiêu rủi ro thị trường cho đối tác, tạo niềm tin cho họ đầu tư chiều sâu vào dây chuyền máy móc hiện đại [cite: 1, 20, 21]. Hợp tác nhận chuyển giao công nghệ thay vì mua đứt bán đoạn: VinFast chủ động ký kết hợp tác thiết kế và chế tạo với các đơn vị thiết kế xe hàng đầu thế giới (như LS Auto để thiết kế dòng xe VF 5 và VF e34) [cite: 17, 22]. Tuy nhiên, trong các thỏa thuận hợp tác, VinFast luôn yêu cầu chuyển giao công nghệ chế tạo linh kiện phụ trợ lại cho các doanh nghiệp đối tác tại Việt Nam [cite: 2, 6]. Nhờ đó, năng lực kỹ thuật và quy trình quản trị sản xuất hiện đại được chuyển dịch trực tiếp vào hệ sinh thái cơ khí trong nước [cite: 2, 6, 21].
+
+### [10] Không còn là lời hứa: VinFast 'đặt hàng lớn', doanh nghiệp phụ trợ Việt sẵn sàng chưa?
+
+> Cần chính sách "đi trúng đích", thay vì dàn trải Một điểm chung được cả ba chuyên gia nhấn mạnh là chính sách hỗ trợ hiện nay vẫn dàn trải và thiếu hiệu quả. TS. Trương Thị Chí Bình - Phó chủ tịch Hiệp hội Công nghiệp hỗ trợ Việt Nam (VASI) - cho biết nhiều doanh nghiệp phụ trợ vẫn gặp khó khăn rất lớn trong việc tiếp cận đất đai, vốn vay lãi suất thấp để đầu tư sản xuất. "Doanh nghiệp phụ trợ chủ yếu là nhỏ và vừa, muốn vào ngành ô tô thì phải đầu tư mới, chi phí lớn, nhưng chi phí thuê đất và vay vốn hiện rất cao. Nếu không có hỗ trợ trúng vào những điểm nghẽn này thì rất khó để họ vươn lên", bà Bình phân tích.
+
+### [12] Không còn là lời hứa: VinFast 'đặt hàng lớn', doanh nghiệp phụ trợ Việt sẵn sàng chưa?
+
+> "Cam kết thị trường, tức là đảm bảo đầu ra dài hạn, chính là điều mà doanh nghiệp phụ trợ cần nhất. Khi họ biết sản phẩm mình làm ra có nơi tiêu thụ ổn định thì mới dám đầu tư lớn và cải tiến công nghệ", ông Thiên nhận định. Ông cũng cho rằng sự liên kết này chỉ thực sự bền vững khi doanh nghiệp phụ trợ được coi là "một bộ phận hữu cơ" của hệ sinh thái sản xuất, thay vì chỉ là đối tác phụ mùa vụ. Mô hình này sẽ giúp định hình một ngành công nghiệp ô tô thực sự mang tên Việt Nam, thay vì chỉ là các nhà máy mang tính lắp ráp.
+
+### [20] Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz
+
+> Cụ thể, hiện nay, đã có khoảng 700 doanh nghiệp tham gia vào chuỗi cung ứng của VinFast, tạo nên một hệ sinh thái công nghiệp hỗ trợ mạnh mẽ. Còn các doanh nghiệp FDI muốn hưởng ưu đãi phải có sự tham gia của ít nhất một doanh nghiệp Việt Nam trong chuỗi cung ứng. Các sản phẩm nhận ưu đãi phải chứa hàm lượng khoa học - công nghệ cao, thay vì chỉ thực hiện lắp ráp đơn thuần. TS. Võ Trí Thành - Viện trưởng Viện Nghiên cứu Chiến lược thương hiệu và Cạnh tranh. Ảnh: TTXVN phát
+
+### [21] Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz
+
+> Chính sách đột phá cho chuỗi cung ứng xanh Để tạo đà cho ngành công nghiệp xe điện, Bộ Công Thương đã triển khai đồng bộ các chính sách hỗ trợ công nghiệp hỗ trợ, ban hành Nghị định 205/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 111/2015/NĐ-CP ngày 3/11/2015 của Chính phủ về phát triển công nghiệp hỗ trợ. Những cơ chế này nhằm đảm bảo tính bền vững, khả năng cạnh tranh và thúc đẩy hình thành hệ sinh thái công nghiệp trong nước.
+
+### [22] Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz
+
+> Việc VinFast tự sản xuất và xuất khẩu xe điện sang nhiều thị trường nước ngoài từng bước khẳng định vị thế của Việt Nam trên bản đồ công nghiệp sản xuất ô tô của thế giới. Ảnh: TTXVN Các chính sách ưu đãi hiện nay được đánh giá là mạnh mẽ bậc nhất, bao gồm ưu đãi về thuế, đất đai và tiền thuê đất, miễn thuế trong 4 năm đầu và giảm thuế trong 9 năm tiếp theo. Đặc biệt, Bộ Công Thương áp dụng các tiêu chí khắt khe để bảo vệ và thúc đẩy doanh nghiệp trong nước.
+
+### [23] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> -------------------------------------------------------------------------------- 3. Tác động kinh tế vĩ mô và kết quả kinh doanh vượt bậc giai đoạn 2025 - 2026 Sự lớn mạnh của chuỗi sản xuất xe điện VinFast đã tạo ra những tác động lan tỏa tích cực sâu rộng lên toàn bộ cấu trúc vĩ mô của nền kinh tế Việt Nam, đồng thời thiết lập những cột mốc doanh số lịch sử cho ngành công nghiệp ô tô nội địa [cite: 3, 23]. Hiệu ứng lan tỏa (Spillover Effect) tới các doanh nghiệp vệ tinh trong nước Chuỗi cung ứng của VinFast đã đóng vai trò là động cơ dẫn dắt nâng tầm các doanh nghiệp vừa và nhỏ (SME) Việt Nam gia nhập vào chuỗi giá trị công nghiệp chế tạo có độ phức tạp cao [cite: 3, 21].
+
+### [24] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Ví dụ thực tế từ Công ty cổ phần Công nghệ Chính xác Thành Công: Trước khi gia nhập chuỗi cung ứng của VinFast, doanh nghiệp này chủ yếu sản xuất linh kiện cơ khí cho ngành đồ gia dụng phổ thông [cite: 21]. Nhờ có cam kết bao tiêu sản phẩm dài hạn và sự đồng hành cải tiến tiêu chuẩn kỹ thuật từ VinFast, doanh nghiệp đã dũng cảm đầu tư thêm 2 dây chuyền sản xuất mới trị giá lên tới để chế tạo các cấu phần cơ khí chính xác đạt tiêu chuẩn khắt khe cho ngành ô tô [cite: 21]. Việc nâng cấp này giúp doanh nghiệp tự chủ sản xuất các cấu phần cơ khí có mức giá cạnh tranh hơn hẳn hàng nhập khẩu, trực tiếp tham gia chuỗi giá trị toàn cầu [cite: 21]. Ví dụ thực tế từ Công ty cổ phần Vật tư Cơ điện Thịnh Phát: Trong dự án xây dựng nhà máy sản xuất pin sạc LFP VinES tại Hà Tĩnh, Thịnh Phát đã được lựa chọn làm đối tác cung ứng các sản phẩm vật tư phụ trợ cơ điện đồng bộ (máng cáp, ty ren, thanh unistrut, đai treo ống) đạt các tiêu chuẩn chất lượng ngặt nghèo như ISO 9001:2015 và TCVN 1916:1995 [cite: 11]. Những đơn hàng quy mô lớn từ VinFast giúp doanh nghiệp cơ điện trong nước gia tăng tối đa công suất hoạt động, tích lũy năng lực kỹ thuật và tạo thêm hàng trăm việc làm chất lượng cao cho lao động địa phương [cite: 11].
+
+### [25] VinFast khởi tạo “cuộc chơi lớn”, đưa công nghiệp hỗ trợ Việt lên tầm cao mới - baodautu
+
+> Kế hoạch phát triển cũng như loạt chính sách ưu đãi của VinFast nhận được sự ủng hộ mạnh mẽ của các doanh nghiệp có mặt tại sự kiện. “Tôi có niềm tin mãnh liệt với VinFast và chúng tôi không ngại đầu tư ”, bà Đặng Thị Thu Phương - Giám đốc điều hành Công ty cổ phần Công nghệ Chính xác Thành Công khẳng định sau những thông tin được lãnh đạo VinFast công bố. Cụ thể, doanh nghiệp của bà Phương đang đầu tư thêm 2 dây chuyền mới với tổng số vốn lên tới 80 tỷ đồng. Với bà, đây là cơ hội lớn, đặc biệt là nhìn lại quá trình 7 năm trưởng thành kể từ khi đồng hành cùng VinFast. Từ một đơn vị làm linh kiện đồ gia dụng, hiện tại, doanh nghiệp này đã có thể làm chủ nhiều linh kiện ô tô , với mức giá rẻ hơn hàng nhập khẩu. “Cảm ơn VinFast đã trao cơ hội cho chúng tôi”, vị lãnh đạo doanh nghiệp nói.
+
+### [26] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Module Phần mềm/ADAS (Brain) Tesla: Tesla theo đuổi triết lý phần mềm khép kín hoàn toàn. Hệ thống tự lái hoàn toàn (FSD) của Tesla hoạt động dựa trên chip AI độc quyền tự thiết kế, hệ thống camera thị giác máy tính thông minh (Tesla Vision) và các thuật toán học sâu liên tục được huấn luyện bởi mạng lưới siêu máy tính Dojo, từ chối sử dụng các cảm biến đắt tiền như radar hay LiDAR. BYD: BYD đang nỗ lực chuyển dịch từ việc phụ thuộc vào phần cứng ADAS của các hãng công nghệ bên thứ ba sang việc tự chủ nghiên cứu. Hãng đang đầu tư mạnh mẽ vào các thuật toán tự lái nội bộ và tích hợp các công nghệ cảm biến đa tầng để nâng cao hàm lượng trí tuệ nhân tạo trên các dòng xe cao cấp. VinFast: VinFast lựa chọn chiến lược "Phần mềm tự chủ lõi kết hợp tối ưu phần cứng đối tác" [cite: 8, 9, 18]. Các công ty thành viên trong hệ sinh thái Vingroup như VinAI và Vantix chịu trách nhiệm nghiên cứu phát triển các thuật toán xử lý hình ảnh, nhận diện chướng ngại vật bằng AI và các tính năng tương tác giọng nói thông minh [cite: 18]. Đối với phần cứng, VinFast hợp tác với các tập đoàn công nghệ bán dẫn và cảm biến hàng đầu thế giới để tích hợp hệ thống radar, LiDAR và bộ xử lý tín hiệu trung tâm mạnh mẽ [cite: 8, 9, 18]. Sự kết hợp này giúp VinFast rút ngắn thời gian nghiên cứu phát triển phần mềm điều khiển trên nền tảng xe định nghĩa bằng phần mềm (SDV) thế hệ mới [cite: 8, 9].

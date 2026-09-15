@@ -1,0 +1,134 @@
+---
+title: "[Chương 3-5] Chiến lược Phân vai Doanh nghiệp (Nhà nước): Tìm chính xác các trích dẫn, văn bản hoặc chỉ đạo phân công nhiệm vụ quốc gia cho Viettel, VNPT, PVN, EVN."
+type: nblm-answer
+asked_at: 2026-07-20T05:40:09.075Z
+notebook_url: "https://notebooklm.google.com/notebook/0d83acca-ab53-42cc-b575-beed516fad13"
+session_id: "516aa90b"
+citations_count: 12
+sources:
+  - "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026"
+  - "Đường sắt tốc độ cao Bắc-Nam và cơ hội cho các nhà thầu trong nước \"thể hiện\""
+  - "Viettel, Hòa Phát muốn tham gia dự án đường sắt cao tốc Bắc - Nam"
+  - "Chủ tịch Tập đoàn Đèo Cả chia sẻ về \"siêu dự án\" đường sắt cao tốc Bắc-Nam - VOV"
+  - "Đường Sắt Cao Tốc Bắc – Nam: Bản Đồ, Tiến Độ 2025 - Wiki BĐS - Batdongsan.com"
+---
+
+# [Chương 3-5] Chiến lược Phân vai Doanh nghiệp (Nhà nước): Tìm chính xác các trích dẫn, văn bản hoặc chỉ đạo phân công nhiệm vụ quốc gia cho Viettel, VNPT, PVN, EVN.
+
+> Asked on 2026-07-20T05:40:09.075Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0d83acca-ab53-42cc-b575-beed516fad13)
+
+## Answer
+
+Thoughts
+Trong mô hình phát triển của Việt Nam giai đoạn 2024-2026, chiến lược "Phân vai" Doanh nghiệp đầu tàu (National Champions) được thiết lập nhằm tạo ra sự tự chủ tối đa về mặt công nghệ, hạ tầng và năng lượng, thay vì dàn trải nguồn lực như trước đây
+1
+.
+Dưới đây là các chỉ đạo, văn bản pháp lý và phân công nhiệm vụ quốc gia cụ thể cho Viettel, VNPT, PVN và EVN:
+I. Cơ sở pháp lý và cơ chế chỉ đạo chung
+Chiến lược phát triển kinh tế quốc gia (2024-2026): Xác định rõ việc Nhà nước chủ động thực hiện "phân vai" và giao các nhiệm vụ chiến lược quốc gia cho những tập đoàn kinh tế mạnh nhất để hướng tới sự tự chủ tối đa
+1
+.
+Chính sách đặt hàng và giao nhiệm vụ của Bộ Giao thông Vận tải: Bộ Giao thông Vận tải đã chủ động đề xuất cơ chế chính sách trình Bộ Chính trị, Trung ương và Quốc hội, trong đó có cơ chế giao nhiệm vụ hoặc đặt hàng trực tiếp cho các doanh nghiệp 100% vốn Nhà nước thực hiện các hạng mục, hàng hóa trong nước có thể tự sản xuất được để làm chủ công nghệ vận hành và bảo trì
+Định hướng nhiệm vụ công nghệ của Bộ Xây dựng: Đối với siêu dự án đường sắt tốc độ cao Bắc - Nam, Bộ trưởng Bộ Xây dựng Trần Hồng Minh đã chỉ đạo các đơn vị hoàn thiện danh mục nhiệm vụ công nghệ, xác định rõ sản phẩm đầu ra và đơn vị thực hiện ngay trong tháng 5/2026
+5
+6
+.
+II. Chi tiết phân vai và nhiệm vụ quốc gia của từng doanh nghiệp
+1. Tập đoàn Viettel
+Viettel được phân vai là lực lượng tiên phong, giữ vai trò chủ chốt trong cả hai lĩnh vực chiến lược: Hạ tầng số - Công nghệ cao và Công nghệ vận hành đường sắt tốc độ cao thế hệ mới
+7
+8
+.
+Trong công nghệ đường sắt tốc độ cao: Viettel nhận nhiệm vụ nghiên cứu và phát triển các hạng mục công nghệ cao quan trọng nhất của siêu dự án Bắc - Nam, bao gồm: Hệ thống điều hành tập trung (OCC), hệ thống thông tin tín hiệu, điều khiển tàu tự động và nền tảng quản lý thông minh phục vụ vận hành
+8
+9
+.
+Trong trụ cột Hạ tầng số, Bán dẫn và Trí tuệ nhân tạo (AI): Tập trung xây dựng hạ tầng viễn thông thế hệ mới (5G/6G), thiết lập các trung tâm dữ liệu (Data Center) quy mô lớn đạt tiêu chuẩn quốc tế và nghiên cứu sản xuất các thiết bị mạng công nghệ cao
+7
+.
+Các nhiệm vụ hạ tầng quốc gia khác: Đơn vị thành viên Viettel Post được tin tưởng giao trọng trách nhận "tấm vé" đầu tư dự án Cửa khẩu thông minh tại tỉnh Lào Cai
+10
+11
+.
+2. Tập đoàn VNPT
+VNPT được xếp vào nhóm doanh nghiệp đầu tàu gánh vác tương đương cùng Viettel ở trụ cột Hạ tầng số, Bán dẫn và Trí tuệ nhân tạo (AI)
+7
+.
+Nhiệm vụ quốc gia cụ thể: Tập trung xây dựng hạ tầng viễn thông thế hệ mới (5G/6G), thiết lập các trung tâm dữ liệu (Data Center) quy mô lớn đạt tiêu chuẩn quốc tế và nghiên cứu sản xuất thiết bị mạng công nghệ cao
+7
+.
+3. Tập đoàn PVN (Petrovietnam)
+PVN giữ vai trò nòng cốt trong nhóm trụ cột Năng lượng chiến lược và Hạ tầng xanh
+7
+.
+Nhiệm vụ quốc gia cụ thể:
+Gánh vác vai trò chủ đạo trong việc bảo đảm an ninh năng lượng truyền thống của quốc gia
+7
+.
+Đẩy mạnh các dự án thăm dò, khai thác then chốt để tăng cường nguồn cung nội địa, cụ thể là việc thực hiện thành công ký kết hợp đồng dầu khí và khí mỏ Sư Tử Trắng giai đoạn 2B để tạo cú hích mạnh mẽ cho thượng nguồn năng lượng nước nhà
+4. Tập đoàn EVN (Tập đoàn Điện lực Việt Nam)
+EVN là doanh nghiệp nhà nước gánh vác trọng trách lớn nhất trong trụ cột Năng lượng chiến lược và Hạ tầng xanh
+7
+.
+Nhiệm vụ quốc gia cụ thể:
+Đảm nhận vai trò tối thượng trong việc bảo đảm an ninh năng lượng truyền thống, duy trì phụ tải an toàn và vận hành hệ thống lưới điện quốc gia an toàn, ổn định trong mọi mùa cao điểm
+7
+.
+Tập trung ứng dụng công nghệ số (thông qua các đơn vị thành viên như EVNNPC) để kéo giảm tổn thất điện năng và bảo đảm cung ứng điện an toàn
+14
+15
+.
+Phối hợp hạ tầng siêu dự án: Để đẩy nhanh tiến độ Đường sắt tốc độ cao Bắc - Nam, EVN đã huy động sức mạnh toàn hệ thống, chỉ đạo 15/15 công ty điện lực địa phương và 4/4 công ty truyền tải điện khu vực hoàn thành rà soát, kiểm đếm để lên phương án di dời đồng bộ toàn bộ các công trình điện bị ảnh hưởng giao chéo với dự án
+16
+.
+🧩 Tôi có thể xây dựng một bảng so sánh chi tiết về vai trò, nhiệm vụ và tiến độ thực thi các dự án trọng điểm giữa khối quốc doanh (Viettel, VNPT, PVN, EVN) và khối tư nhân (Vingroup, THACO, Hòa Phát) để bạn dễ dàng theo dõi không?
+
+## Sources
+
+### [1] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Chiến lược "Phân vai" Doanh nghiệp đầu tàu (National Champions) Chiến lược phát triển kinh tế của Việt Nam giai đoạn 2024-2026 ghi nhận bước chuyển dịch căn bản trong cấu trúc đầu tư công và chính sách công nghiệp thông qua việc hình thành mô hình "Doanh nghiệp đầu tàu" (National Champions). Thay vì dàn trải nguồn lực, Nhà nước chủ động thực hiện việc "phân vai" và giao các nhiệm vụ chiến lược quốc gia cho những tập đoàn kinh tế mạnh nhất, bao gồm cả khối quốc doanh và khối tư nhân, nhằm tạo ra sự tự chủ tối đa về mặt công nghệ và năng lượng.
+
+### [2] Đường sắt tốc độ cao Bắc-Nam và cơ hội cho các nhà thầu trong nước "thể hiện"
+
+> Lãnh đạo Bộ GTVT khẳng định, chúng ta tự tin các doanh nghiệp Việt Nam có thể tham gia, tiến tới làm chủ, chỉ cần cơ chế chính sách. “Ví dụ, chúng tôi ràng buộc các điều kiện, tổng thầu phải sử dụng dịch vụ hàng hóa trong nước sản xuất được. Chúng tôi đưa ra đó là điều kiện tiên quyết với các nhà thầu khi tham gia. Hoặc chúng tôi đưa ra chính sách trình Quốc hội, giao nhiệm vụ cho các doanh nghiệp 100% vốn nhà nước, hoặc đặt hàng các doanh nghiệp trong nước, các hạng mục, hàng hóa trong nước có thể sản xuất được”, ông Huy cho biết.
+
+### [5] Viettel, Hòa Phát muốn tham gia dự án đường sắt cao tốc Bắc - Nam
+
+> Trong khi đó, Hòa Phát đề xuất tham gia nghiên cứu và sản xuất ray đường sắt, cấu kiện thép khẩu độ lớn cùng các vật tư cơ khí phục vụ thi công và bảo trì công trình. Theo định hướng của Bộ Xây dựng, dự án đường sắt cao tốc Bắc - Nam không chỉ là công trình hạ tầng chiến lược mà còn được xem là cơ hội để hình thành năng lực công nghiệp và công nghệ mới cho Việt Nam. Bộ trưởng Trần Hồng Minh yêu cầu các đơn vị liên quan hoàn thiện danh mục nhiệm vụ công nghệ, xác định rõ sản phẩm đầu ra và đơn vị thực hiện ngay trong tháng 5.2026.
+
+### [6] Viettel, Hòa Phát muốn tham gia dự án đường sắt cao tốc Bắc - Nam
+
+> Trong khi đó, Hòa Phát đề xuất tham gia nghiên cứu và sản xuất ray đường sắt, cấu kiện thép khẩu độ lớn cùng các vật tư cơ khí phục vụ thi công và bảo trì công trình. Theo định hướng của Bộ Xây dựng, dự án đường sắt cao tốc Bắc - Nam không chỉ là công trình hạ tầng chiến lược mà còn được xem là cơ hội để hình thành năng lực công nghiệp và công nghệ mới cho Việt Nam. Bộ trưởng Trần Hồng Minh yêu cầu các đơn vị liên quan hoàn thiện danh mục nhiệm vụ công nghệ, xác định rõ sản phẩm đầu ra và đơn vị thực hiện ngay trong tháng 5.2026.
+
+### [7] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Cấu trúc phân vai chiến lược được định hình rõ nét qua các trụ cột phát triển kinh tế vĩ mô: Hạ tầng số, Bán dẫn và Trí tuệ nhân tạo (AI): Viettel và VNPT được định hướng tập trung xây dựng hạ tầng viễn thông thế hệ mới (5G/6G), thiết lập các trung tâm dữ liệu (Data Center) quy mô lớn đạt tiêu chuẩn quốc tế và nghiên cứu sản xuất thiết bị mạng công nghệ cao [cite: 5]. Trong khi đó, FPT được phân vai tập trung vào thiết kế vi mạch bán dẫn, nghiên cứu các thuật toán trí tuệ nhân tạo và đào tạo nguồn nhân lực chất lượng cao để cung ứng cho chuỗi giá trị toàn cầu. Năng lực tích lũy tài chính của các tập đoàn này là bệ đỡ vững chắc, tiêu biểu là Viettel Global đạt doanh thu thuần 44.271 tỷ đồng và lợi nhuận sau thuế hợp nhất 11.251 tỷ đồng (tăng 57% so với năm trước) vào năm 2025, với sự tăng trưởng vượt bậc tại các thị trường quốc tế như Burundi (tăng 35%), Haiti (tăng 27%), Tanzania (tăng 26%) và Mozambique (tăng 19%) [cite: 5]. Chế tạo cơ khí nặng, Giao thông vận tải và Đô thị thông minh: Vingroup và THACO đóng vai trò cốt lõi trong chuỗi công nghiệp cơ khí chế tạo, tự chủ sản xuất phương tiện giao thông thông minh và công nghệ vận tải đường sắt cao tốc [cite: 4, 5]. Hòa Phát giữ vai trò tự chủ công nghiệp thượng nguồn thông qua sản xuất thép chất lượng cao và HRC [cite: 5]. Đèo Cả đóng vai trò tiên phong trong công nghệ đào hầm xuyên núi và thi công cầu đường bộ, đường sắt phức tạp [cite: 10, 11]. Năng lượng chiến lược và Hạ tầng xanh: Bên cạnh vai trò bảo đảm an ninh năng lượng truyền thống của PVN và EVN, khối tư nhân năng động như FECON đang đi đầu trong việc thử nghiệm các mô hình năng lượng tái tạo tích hợp hạ tầng công nghiệp đột phá [cite: 5]. FECON sở hữu Nhà máy Điện gió An Thành Gia Lai (Giai đoạn 1) có tổng vốn đầu tư 1.586 tỷ đồng (công suất 40MW, vốn tự có 20%) được phê duyệt chủ trương đầu tư vào tháng 4/2026, dự kiến khởi công tháng 11/2026 và vận hành thương mại vào tháng 2/2028 [cite: 5]. Mô hình tích hợp: Dự án năng lượng này nằm trong định hướng chiến lược tích hợp năng lượng - hạ tầng của FECON: không chỉ bán điện lên lưới quốc gia mà hướng tới kết nối trực tiếp nguồn điện sạch này tới nhu cầu tiêu thụ thực tế tại các khu công nghiệp do chính doanh nghiệp phát triển nhằm gia tăng giá trị hạ tầng [cite: 5]. Mô hình này hiện được thử nghiệm tại khu công nghiệp FECON IP Hòa Yên (Bắc Ninh) quy mô 256ha, kết hợp nguồn điện mặt trời áp mái và điện gió thông qua cơ chế mua bán điện trực tiếp (DPPA) cùng hệ thống lưu trữ năng lượng (BESS) [cite: 5]. Động thái này diễn ra trong bối cảnh Việt Nam chiếm tới 73% tổng công suất điện gió đang hoạt động trên toàn Đông Nam Á tính đến năm 2025, khẳng định vị thế dẫn đầu khu vực về chuyển đổi năng lượng sạch [cite: 5].
+
+### [8] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Sự cởi trói về mặt thể chế đã kích hoạt sự nhập cuộc mạnh mẽ của các tập đoàn kinh tế lớn trong nước với những đề xuất phương án tài chính và kỹ thuật quy mô: Tập đoàn Vingroup (VinSpeed): Gửi đề xuất ngày 06/05/2025 về việc đầu tư trực tiếp vào dự án [cite: 4]. VinSpeed cam kết tự thu xếp 20% tổng vốn đầu tư (khoảng 12,27 tỷ USD); đối với 80% còn lại (khoảng 49 tỷ USD), doanh nghiệp đề xuất Nhà nước cho vay không tính lãi suất trong thời hạn 35 năm và cam kết hoàn trả đầy đủ [cite: 4]. Đổi lại, VinSpeed kiến nghị được giao làm chủ đầu tư các dự án khu đô thị và bất động sản theo mô hình phát triển đô thị định hướng giao thông công cộng (TOD) xung quanh các nhà ga, miễn thuế thiết bị nhập khẩu phục vụ dự án, thời hạn khai thác 99 năm và cam kết giá vé chỉ bằng 60-70% giá trần vé máy bay [cite: 4]. Tập đoàn Trường Hải (THACO): Đề xuất đầu tư tuyến đường sắt với tổng kinh phí hơn 1,5 triệu tỷ đồng (khoảng 61,35 tỷ USD), không bao gồm chi phí đền bù giải phóng mặt bằng (đề xuất tách riêng do Nhà nước thực hiện) [cite: 4]. THACO cam kết tự góp 20% vốn (gần 12,3 tỷ USD), huy động 80% còn lại (khoảng 49 tỷ USD) từ các nguồn tài chính trong và ngoài nước với đề nghị Chính phủ bảo lãnh và hỗ trợ toàn bộ lãi vay cho khoản huy động này trong 30 năm [cite: 4]. THACO sẽ thành lập công ty dự án nắm quyền chi phối, cam kết không chuyển nhượng cổ phần cho nhà đầu tư nước ngoài [cite: 4]. Bên cạnh đó, THACO tích cực nghiên cứu nhận chuyển giao công nghệ để sản xuất toa xe phục vụ dự án theo gợi ý của Thủ tướng Chính phủ [cite: 4, 5]. Tập đoàn Hòa Phát: Đề xuất tham gia nghiên cứu và sản xuất các vật tư, thiết bị phần cứng cốt lõi gồm ray đường sắt tốc độ cao, cấu kiện thép khẩu độ lớn và các vật tư cơ khí phục vụ thi công [cite: 5]. Với năng lực sản xuất đóng góp gần một nửa sản lượng thép của cả nước và việc đưa Việt Nam lọt vào top 10 quốc gia sản xuất thép thô lớn nhất thế giới, Hòa Phát có lợi thế lớn về thép chất lượng cao và thép cuộn cán nóng (HRC) tại Khu liên hợp Dung Quất [cite: 5]. Để chuẩn bị nguồn lực tài chính dài hạn, Hòa Phát đã hoàn thành tăng vốn điều lệ lên mức hơn 84.429 tỷ đồng vào tháng 07/2026 thông qua hình thức trả cổ tức bằng cổ phiếu, bảo toàn dòng tiền phục vụ sản xuất kinh doanh công nghiệp quy mô lớn [cite: 5]. Tập đoàn Viettel: Đề xuất nghiên cứu và phát triển các hạng mục công nghệ cao bao gồm hệ thống điều hành tập trung (OCC), hệ thống thông tin tín hiệu, điều khiển tàu tự động và nền tảng quản lý thông minh phục vụ vận hành dự án [cite: 5].
+
+### [9] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Bảng 2: Tổng hợp tiến độ và thông số kỹ thuật của siêu dự án đường sắt tốc độ cao Bắc - Nam Thông số kỹ thuật & Quy hoạch hành lang Mốc tiến độ thực thi chiến lược Cơ chế tài chính & Phân vai doanh nghiệp Quy mô: Đầu tư hơn 1,713 triệu tỷ đồng (~67 tỷ USD) [cite: 3, 4, 5]. 30/11/2024: Quốc hội thông qua chủ trương đầu tư công (Nghị quyết 172/2024/QH15) [cite: 3, 4, 9]. Hình thức đầu tư: Bổ sung phương thức PPP và đầu tư kinh doanh từ tháng 06/2025 [cite: 4]. Thông số: Đường đôi, khổ 1.435mm, tốc độ 350km/h, điện khí hóa, tải trọng 22,5 tấn/trục [cite: 5, 6, 7]. Tháng 4/2025: Hoàn thành báo cáo nghiên cứu khả thi dự án [cite: 6]. VinSpeed (Vingroup): Đề xuất tự có 20% vốn, vay 80% không lãi suất từ Nhà nước, phát triển đô thị TOD [cite: 4]. Tuyến đường: 1.541 km đi qua 20 tỉnh thành, gồm 23 ga hành khách (từ Ngọc Hồi đến Thủ Thiêm) [cite: 3, 5, 6, 7, 8]. 2025-2026: Hoàn thiện thiết kế kỹ thuật, đấu thầu EPC toàn cầu [cite: 4, 6]. THACO: Đề xuất tự có 20% vốn, vay 80% có bảo lãnh và hỗ trợ lãi suất từ Chính phủ, sản xuất toa xe [cite: 4]. Kết cấu tuyến: 60% cầu, 30% nền đất, 10% hầm xuyên núi [cite: 10]. 31/12/2026: Khởi công đồng loạt giai đoạn 1 (đoạn HN-Vinh và Nha Trang-HCM) [cite: 4, 5, 6]. Hòa Phát: Cung ứng thép hình khẩu độ lớn, sản xuất ray đường sắt chuyên dụng [cite: 5]. Tiêu chuẩn công nghệ: Tích hợp công nghệ số, điều khiển tự động hóa, điều hành OCC tập trung [cite: 5]. Đến năm 2035: Cơ bản hoàn thành toàn tuyến, đưa vào khai thác toàn bộ 1.541 km [cite: 3, 4, 5, 6]. Viettel: Phát triển phần mềm quản lý thông minh, hệ thống thông tin tín hiệu đường sắt [cite: 5].
+
+### [10] Chủ tịch Tập đoàn Đèo Cả chia sẻ về "siêu dự án" đường sắt cao tốc Bắc-Nam - VOV
+
+> Doanh nghiệp 24h [ Viettel Post nhận "tấm vé" đầu tư dự án Cửa khẩu thông minh tại Lào Cai ](https://vov.vn/doanh-nghiep/doanh-nghiep-24h/viettel-post-nhan-tam-ve-dau-tu-du-an-cua-khau-thong-minh-tai-lao-cai-post1316796.vov?resize=p_8,w_300) Từ kỳ tích trên đỉnh Hoàng Liên đến động lực nâng tầm du lịch Sa Pa Saigon Co.op ra mắt hệ sinh thái đổi điểm, mở rộng đặc quyền cho khách hàng 50 năm tin yêu Vinamilk, tuổi 50+ chọn Vinamilk Sure để sống khỏe mỗi ngày Hơn 4 triệu mã dự thưởng “Xé ngay trúng liền” chờ được xướng tên ngày 20/7
+
+### [11] Chủ tịch Tập đoàn Đèo Cả chia sẻ về "siêu dự án" đường sắt cao tốc Bắc-Nam - VOV
+
+> Doanh nghiệp 24h [ Viettel Post nhận "tấm vé" đầu tư dự án Cửa khẩu thông minh tại Lào Cai ](https://vov.vn/doanh-nghiep/doanh-nghiep-24h/viettel-post-nhan-tam-ve-dau-tu-du-an-cua-khau-thong-minh-tai-lao-cai-post1316796.vov?resize=p_8,w_300) Từ kỳ tích trên đỉnh Hoàng Liên đến động lực nâng tầm du lịch Sa Pa Saigon Co.op ra mắt hệ sinh thái đổi điểm, mở rộng đặc quyền cho khách hàng 50 năm tin yêu Vinamilk, tuổi 50+ chọn Vinamilk Sure để sống khỏe mỗi ngày Hơn 4 triệu mã dự thưởng “Xé ngay trúng liền” chờ được xướng tên ngày 20/7
+
+### [14] Chủ tịch Tập đoàn Đèo Cả chia sẻ về "siêu dự án" đường sắt cao tốc Bắc-Nam - VOV
+
+> BIDV khởi động hành trình xây dựng “Ngân hàng hạnh phúc của người lao động” Điện thương phẩm toàn Tổng công ty Điện lực miền Trung tăng 10,25% Vinanutrifood Bình Định trao tặng hệ thống giám sát môi trường nước tại Gia Lai Công nghệ số giúp EVNNPC kéo giảm tổn thất điện năng EVNNPC vượt áp lực phụ tải, bảo đảm cung ứng điện an toàn trong 6 tháng đầu năm Nông nghiệp tái sinh đang thay đổi tích cực ngành cà phê Việt Nam
+
+### [15] Chủ tịch Tập đoàn Đèo Cả chia sẻ về "siêu dự án" đường sắt cao tốc Bắc-Nam - VOV
+
+> Điện thương phẩm toàn Tổng công ty Điện lực miền Trung tăng 10,25% Vinanutrifood Bình Định trao tặng hệ thống giám sát môi trường nước tại Gia Lai Công nghệ số giúp EVNNPC kéo giảm tổn thất điện năng EVNNPC vượt áp lực phụ tải, bảo đảm cung ứng điện an toàn trong 6 tháng đầu năm Nông nghiệp tái sinh đang thay đổi tích cực ngành cà phê Việt Nam Nhiệt điện Duyên Hải nỗ lực bảo đảm cung ứng điện trong mùa cao điểm
+
+### [16] Đường Sắt Cao Tốc Bắc – Nam: Bản Đồ, Tiến Độ 2025 - Wiki BĐS - Batdongsan.com
+
+> Ngoài ra, Chính phủ cũng đang tính toán đến khả năng kết hợp khai thác hành lang phát triển đô thị – dịch vụ dọc theo tuyến đường sắt, nhằm tạo ra nguồn thu bù đắp đầu tư và phát triển kinh tế địa phương bền vững. Liên quan đến tiến độ đường sắt cao tốc Bắc Nam, mới đây, trong công văn số 9897/BXD-KTQLXD gửi đoàn đại biểu Quốc hội TP. Hà Nội trả lời kiến nghị cử tri gửi tới sau Kỳ họp thứ 9, Quốc hội khóa XV, Bộ Xây dựng cho biết, thời gian qua để đẩy nhanh tiến độ của Dự án, Bộ Xây dựng đã chỉ đạo Ban QLDA Đường sắt (Chủ đầu tư) làm việc với các địa phương và Tập đoàn điện lực Việt Nam đẩy nhanh công tác giải phóng mặt bằng. Vừa qua đã có 12/15 địa phương đăng ký khởi công khu tái định cư vào dịp 19/8; Tổng công ty điện lực Việt Nam đã chỉ đạo 15/15 công ty điện lực địa phương; 4/4 công ty truyền tải điện khu vực đã tiến hành rà soát, kiểm đếm, thống kê các điểm giao chéo với Dự án, lập phương án sơ bộ di dời các công trình điện bị ảnh hưởng,..

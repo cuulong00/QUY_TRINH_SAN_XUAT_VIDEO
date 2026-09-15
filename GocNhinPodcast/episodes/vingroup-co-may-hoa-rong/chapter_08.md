@@ -1,0 +1,9 @@
+Chiến lược phát triển các tập đoàn kinh tế tư nhân đầu đàn của Việt Nam không chỉ là thước đo năng lực cho một doanh nghiệp. Đó là bài kiểm tra cho sự hoàn thiện và trưởng thành của cả hệ thống quản trị kinh tế vĩ mô. Trong cuộc chơi toàn cầu khốc liệt này, Tập đoàn Vingroup vô hình trung trở thành tâm điểm của sự phân cực dư luận. Một bên có xu hướng ủng hộ cảm tính, coi mọi ý kiến phản biện là sự cản trở. Một bên lại hoài nghi cực đoan, nhìn nhận mọi bước đi của tập đoàn một cách tiêu cực. Cả hai thái cực này đều triệt tiêu chất lượng của những thảo luận chính sách lành mạnh và thực chất.
+
+Nền kinh tế vĩ mô không vận hành dựa trên cảm xúc yêu hay ghét. Nó vận hành dựa trên các con số thực tế và quy luật cung cầu sòng phẳng. Thành bại của Việt Nam trong hành trình vượt bẫy thu nhập trung bình không phụ thuộc vào một công ty riêng lẻ. Nó phụ thuộc vào năng lực thiết lập, thực thi và kiểm soát luật chơi của quốc gia trên sân chơi quốc tế.
+
+Chúng ta cần những tập đoàn lớn làm lực kéo công nghệ, định vị thương hiệu quốc gia toàn cầu. Nhưng chúng ta cũng cần bảo vệ và phát triển không gian sinh tồn của chín mươi bảy phần trăm doanh nghiệp vừa và nhỏ. Khối kinh tế này chính là nền tảng bền vững tạo ra phần lớn việc làm và duy trì sự ổn định an sinh xã hội.
+
+Sự lựa chọn này đặt ra bài toán vĩ mô đầy thách thức và cần tầm nhìn dài hạn. Đó là làm sao vừa tối ưu hóa nguồn lực cho công nghiệp hóa trọng điểm, vừa xây dựng môi trường cạnh tranh bình đẳng cho khối doanh nghiệp vừa và nhỏ. Hãy để lại góc nhìn phản biện và tư duy giải pháp của bạn ở phần bình luận bên dưới.
+
+Mô hình tập đoàn đa ngành vẫn đang tiếp diễn, dịch chuyển sinh động trên những công trường và những bảng cân đối kế toán. Và câu trả lời cuối cùng không nằm ở sự thành bại của một chiếc ô tô điện đơn thuần. Nó nằm ở khả năng kết hợp hài hòa giữa khát vọng bứt phá công nghệ và tính kỷ luật, bền vững của toàn bộ nền kinh tế quốc gia.

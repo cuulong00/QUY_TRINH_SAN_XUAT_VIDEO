@@ -1,0 +1,5 @@
+Khi đặt hai phương tiện lên bàn cân, phép tính kinh tế học thực sự bắt đầu. Xe điện mini sở hữu lợi thế lớn về chi phí năng lượng. Nó chỉ tốn khoảng ba mươi lăm nghìn đồng tiền điện cho mỗi một trăm cây số chạy phố. Mức này thấp hơn nhiều so với mức sáu mươi nghìn đồng tiền xăng của xe tay ga cao cấp.
+
+Lợi thế này càng được củng cố nhờ cấu tạo cơ khí đơn giản giúp chi phí bảo dưỡng định kỳ tối giản hơn xe xăng. Tuy nhiên, bài toán tài chính đô thị phức tạp hơn thế. Với mức giá một trăm tám mươi tám triệu đồng đã bao gồm pin, chi phí sở hữu ban đầu là cực tốt. Nhưng đối với người sống trong ngõ nhỏ, rào cản đỗ xe sẽ làm phát sinh chi phí gửi xe ngoài bãi từ một đến hai triệu đồng mỗi tháng. Khoản phí cố định này sẽ triệt tiêu hoàn toàn số tiền điện tiết kiệm được nếu nhu cầu di chuyển hàng tháng của bạn không cao.
+
+Khoảnh khắc bạn cân nhắc giữa chiếc xe hai bánh và chiếc ô tô điện mini, câu hỏi không còn là giá xe bao nhiêu. Nó là việc bạn có sẵn sàng gánh chi phí gửi xe hàng tháng để đổi lấy sự an toàn che mưa nắng trong cabin bốn bánh hay không. Sự linh hoạt của xe hai bánh trong ngõ hẻm vẫn là ranh giới phòng ngự vững chắc nhất.

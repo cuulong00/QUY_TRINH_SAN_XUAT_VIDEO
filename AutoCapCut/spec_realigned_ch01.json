@@ -1,0 +1,1058 @@
+{
+  "name": "KemTrangTien_Ch01",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "ratio": "16:9",
+  "tracks": [
+    {
+      "type": "video",
+      "name": "Main_Video",
+      "items": [
+        {
+          "ref": "v_000",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC001.mp4",
+          "start": 0.0,
+          "duration": 4.6,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_001",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC002.mp4",
+          "start": 4.6,
+          "duration": 5.78,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_002",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC003.mp4",
+          "start": 10.38,
+          "duration": 3.66,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_003",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC004.mp4",
+          "start": 14.04,
+          "duration": 4.26,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_004",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC005.mp4",
+          "start": 18.3,
+          "duration": 4.84,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_005",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC006.mp4",
+          "start": 23.14,
+          "duration": 5.975,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_006",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC007.mp4",
+          "start": 29.115,
+          "duration": 3.565,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_007",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC008.mp4",
+          "start": 32.68,
+          "duration": 3.96,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_008",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC009.mp4",
+          "start": 36.64,
+          "duration": 4.91,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_009",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC010.mp4",
+          "start": 41.55,
+          "duration": 3.61,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_010",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC011.mp4",
+          "start": 45.16,
+          "duration": 6.63,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_011",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC011.mp4",
+          "start": 51.79,
+          "duration": 2.83,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_012",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC012.mp4",
+          "start": 54.62,
+          "duration": 3.935,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_013",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC013.mp4",
+          "start": 58.555,
+          "duration": 4.51,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_014",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC015.mp4",
+          "start": 63.065,
+          "duration": 3.13,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_015",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC014.mp4",
+          "start": 66.195,
+          "duration": 5.905,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_016",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC016.mp4",
+          "start": 72.1,
+          "duration": 3.68,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_017",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC018.mp4",
+          "start": 75.78,
+          "duration": 2.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_018",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC019.mp4",
+          "start": 77.86,
+          "duration": 6.355,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_019",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC020.mp4",
+          "start": 84.215,
+          "duration": 6.275,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_020",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC019.mp4",
+          "start": 90.49,
+          "duration": 7.55,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_021",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC021.mp4",
+          "start": 98.04,
+          "duration": 7.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_022",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC022.mp4",
+          "start": 105.12,
+          "duration": 4.52,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_023",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC022.mp4",
+          "start": 109.64,
+          "duration": 2.99,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_024",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC023.mp4",
+          "start": 112.63,
+          "duration": 2.65,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_025",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC023.mp4",
+          "start": 115.28,
+          "duration": 5.515,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_026",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC020.mp4",
+          "start": 120.795,
+          "duration": 2.795,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_027",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC023.mp4",
+          "start": 123.59,
+          "duration": 3.86,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_028",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC025.mp4",
+          "start": 127.45,
+          "duration": 5.24,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_029",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC026.mp4",
+          "start": 132.69,
+          "duration": 7.58,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_030",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC027.mp4",
+          "start": 140.27,
+          "duration": 1.835,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_031",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC027.mp4",
+          "start": 142.105,
+          "duration": 5.585,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_032",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC029.mp4",
+          "start": 147.69,
+          "duration": 7.525,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_033",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC030.mp4",
+          "start": 155.215,
+          "duration": 6.215,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_034",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC031.mp4",
+          "start": 161.43,
+          "duration": 7.11,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_035",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC031.mp4",
+          "start": 168.54,
+          "duration": 3.975,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_036",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC028.mp4",
+          "start": 172.515,
+          "duration": 3.035,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_037",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC028.mp4",
+          "start": 175.55,
+          "duration": 5.915,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_038",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC024.mp4",
+          "start": 181.465,
+          "duration": 3.195,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_039",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC024.mp4",
+          "start": 184.66,
+          "duration": 6.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_040",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC017.mp4",
+          "start": 190.66,
+          "duration": 4.465,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_041",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC032.mp4",
+          "start": 195.125,
+          "duration": 5.745,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_042",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC001.mp4",
+          "start": 200.87,
+          "duration": 4.32,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_043",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC033.mp4",
+          "start": 205.19,
+          "duration": 6.79,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_044",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC034.mp4",
+          "start": 211.98,
+          "duration": 3.62,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_045",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC035.mp4",
+          "start": 215.6,
+          "duration": 4.0,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_046",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC035.mp4",
+          "start": 219.6,
+          "duration": 6.69,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_047",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC036.mp4",
+          "start": 226.29,
+          "duration": 5.97,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_048",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC037.mp4",
+          "start": 232.26,
+          "duration": 2.92,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_049",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC037.mp4",
+          "start": 235.18,
+          "duration": 6.22,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_050",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC044.mp4",
+          "start": 241.4,
+          "duration": 5.16,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_051",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC038.mp4",
+          "start": 246.56,
+          "duration": 3.77,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_052",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC038.mp4",
+          "start": 250.33,
+          "duration": 5.25,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_053",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC040.mp4",
+          "start": 255.58,
+          "duration": 7.12,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_054",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC039.mp4",
+          "start": 262.7,
+          "duration": 5.5,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_055",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC039.mp4",
+          "start": 268.2,
+          "duration": 5.57,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_056",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC041.mp4",
+          "start": 273.77,
+          "duration": 4.08,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_057",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC041.mp4",
+          "start": 277.85,
+          "duration": 5.155,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_058",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC042.mp4",
+          "start": 283.005,
+          "duration": 5.165,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_059",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC042.mp4",
+          "start": 288.17,
+          "duration": 5.05,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_060",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC043.mp4",
+          "start": 293.22,
+          "duration": 2.62,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_061",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC015.mp4",
+          "start": 295.84,
+          "duration": 3.565,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_062",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC044.mp4",
+          "start": 299.405,
+          "duration": 6.085,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_063",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC046.mp4",
+          "start": 305.49,
+          "duration": 4.32,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_064",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC040.mp4",
+          "start": 309.81,
+          "duration": 5.345,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_065",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC040.mp4",
+          "start": 315.155,
+          "duration": 5.235,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_066",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC047.mp4",
+          "start": 320.39,
+          "duration": 3.21,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_067",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC047.mp4",
+          "start": 323.6,
+          "duration": 3.425,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        },
+        {
+          "ref": "v_068",
+          "path": "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kem-trang-tien-van-co-dat-vang/video/Chương 01/CH01_SC045.mp4",
+          "start": 327.025,
+          "duration": 4.115,
+          "sourceStart": 0.0,
+          "speed": 1.0,
+          "volume": 0.0
+        }
+      ]
+    },
+    {
+      "type": "audio",
+      "name": "Voiceover",
+      "items": [
+        {
+          "path": "/Users/pro16/Documents/VideoProject/AutoCapCut/source/kem-trang-tien/audio/chapter_01.wav",
+          "start": 0.0,
+          "duration": 331.14,
+          "volume": 1.0
+        }
+      ]
+    }
+  ],
+  "operations": [
+    {
+      "op": "transition",
+      "target": "v_000",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_001",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_002",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_003",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_004",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_005",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_006",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_007",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_008",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_009",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_010",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_011",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_012",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_013",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_014",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_015",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_016",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_017",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_018",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_019",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_020",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_021",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_022",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_023",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_024",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_025",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_026",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_027",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_028",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_029",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_030",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_031",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_032",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_033",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_034",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_035",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_036",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_037",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_038",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_039",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_040",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_041",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_042",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_043",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_044",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_045",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_046",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_047",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_048",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_049",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_050",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_051",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_052",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_053",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_054",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_055",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_056",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_057",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_058",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_059",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_060",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_061",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_062",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_063",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_064",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_065",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_066",
+      "slug": "mix",
+      "duration": 0.4
+    },
+    {
+      "op": "transition",
+      "target": "v_067",
+      "slug": "mix",
+      "duration": 0.4
+    }
+  ]
+}

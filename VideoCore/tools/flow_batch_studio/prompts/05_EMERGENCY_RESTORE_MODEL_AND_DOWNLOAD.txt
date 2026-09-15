@@ -1,0 +1,43 @@
+[EMERGENCY RESTORE: STRICT MODEL IDENTIFIER & AUTO-DOWNLOAD]
+
+🚨 CRITICAL REGRESSION ALERT:
+You automatically shortened the video model name to "Veo 3.1 - Lite".
+THIS IS A CRITICAL BUG!
+In Google Flow SDK, the EXACT technical identifier for the ZERO-CREDIT tier MUST BE:
+'Veo 3.1 - Lite [Lower Priority]'
+
+DO NOT strip or clean up "[Lower Priority]". Stripping it burns real credits or causes API rejection!
+
+[APPLY THESE 2 FIXES IMMEDIATELY]:
+
+1. IN `constants.ts` (or `App.tsx` config):
+Restore the exact string:
+```typescript
+DEFAULT_VIDEO_MODEL: 'Veo 3.1 - Lite [Lower Priority]',
+VIDEO_MODELS: [
+  'Veo 3.1 - Lite [Lower Priority]',
+  'Veo 3.1',
+  'Veo 3.0'
+],
+```
+
+2. IN `executeTaskOnWorker` (inside `App.tsx`):
+Restore the automatic per-task download right after `updateTask(...)`:
+```typescript
+      const shouldDownload = 
+        (mode === 'chained' && task.type === 'video') || 
+        (mode === 'image-only' && task.type === 'image') || 
+        (mode === 'video-only' && task.type === 'video');
+      if (shouldDownload) {
+        await Flow.download({
+          base64: result.base64,
+          mimeType: result.mimeType,
+          filename: sanitizeFilename(task.sceneId, task.type, result.mimeType)
+        });
+      }
+```
+
+⚠️ STRICT INVARIANTS:
+- KEEP thumbnails and Lightbox preview modal intact.
+- KEEP `downloadAllAsZip` bulk export intact.
+- KEEP `workersCount` at 4.

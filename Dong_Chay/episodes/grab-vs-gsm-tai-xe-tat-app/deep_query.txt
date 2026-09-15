@@ -1,0 +1,26 @@
+Nghiên cứu chuyên sâu và toàn diện về cuộc đối đầu giữa Grab và GSM (Xanh SM) tại thị trường Việt Nam giai đoạn 2023 - 2026:
+
+1. Cơ chế tài chính, khấu trừ thuế và làn sóng tài xế Grab tắt app:
+- Phân tích chi tiết Nghị định 126/2020/NĐ-CP áp dụng thuế VAT 10% trên toàn bộ doanh thu cuốc xe công nghệ. Cơ cấu khấu trừ thực tế trên mỗi cuốc xe của tài xế GrabBike và GrabCar (phí dịch vụ ứng dụng 20-25%, thuế VAT thu hộ, thuế TNCN 1.5%, phí nền tảng cố định 2.000 - 3.000đ/cuốc).
+- Nguyên nhân các đợt tài xế Grab kêu gọi tắt app, đình công ngầm (phản đối chiết khấu, thuật toán ghép đơn GrabFood/GrabExpress ăn biên chênh lệch, giá cước giờ thấp điểm bị ép rẻ, giá xăng dầu và chi phí bảo dưỡng tăng cao).
+- Cơ chế kinh tế học hành vi: Nghịch lý tù nhân (Prisoner's Dilemma) và cách thuật toán định giá động (Surge Pricing / Dynamic Pricing) tự động kích hoạt tăng cước khi thiếu xe, khiến các cuộc tắt app tự phát nhanh chóng tan rã.
+- Báo cáo tài chính Grab Holdings Limited giai đoạn 2023-2025: Doanh thu của Grab tại Việt Nam (185M USD năm 2023, 228M USD năm 2024, 255M USD năm 2025); cột mốc Grab toàn cầu lần đầu có lãi ròng 200 triệu USD năm 2025 (EBITDA 500 triệu USD) và chiến lược chuyển dịch từ "đốt tiền giành thị phần" sang "vắt kiệt dòng tiền".
+
+2. Giải phẫu sức khỏe tài chính và mô hình vận hành của GSM (Xanh SM):
+- Báo cáo xếp hạng tín nhiệm của Saigon Ratings đối với Công ty Cổ phần Di chuyển Xanh và Thông minh GSM (nâng lên vnBBB+ với triển vọng ổn định; hồ sơ rủi ro tài chính ở mức 5/6; áp lực nợ vay, EBITDA, thâm dụng vốn Capex đầu tư đội xe).
+- Kết quả kinh doanh năm 2025: Doanh thu thuần đạt khoảng 16.000 – 17.400 tỷ đồng (+125% so với 2024), vượt tổng doanh thu của Grab VN + Vinasun + Mai Linh gộp lại.
+- Cơ cấu vốn điều lệ tăng lên 39.500 tỷ và 54.000 tỷ đồng; kế hoạch IPO quốc tế tại Hong Kong năm 2027 với định giá kỳ vọng 20 tỷ USD.
+- Bản chất giao dịch các bên liên quan (Related Party Transactions) giữa GSM và VinFast (VFS Nasdaq): GSM hấp thụ bao nhiêu phần trăm sản lượng xe điện xuất xưởng của VinFast; vai trò làm bàn đạp dòng tiền và tiếp thị trải nghiệm thực tế cho xe điện VinFast.
+
+3. Bản đồ thị phần gọi xe công nghệ tại Việt Nam & Rào cản thể chế, hạ tầng:
+- Diễn biến thị phần gọi xe 4 bánh và 2 bánh tại Việt Nam từ 2023 đến 2026 (theo Mordor Intelligence, ABI Research): Thị phần GSM vọt lên 37,4% (Q4/2024), 51,5% (Q4/2025), 54,51% (Q1/2026).
+- Vị thế của Grab (giữ khoảng 42% thị phần gọi xe nói chung) và Be Group (~32% thị phần với sự hậu thuẫn tài chính từ VPBank). Sự rút lui của Gojek khỏi Việt Nam ngày 16/9/2024 tác động thế nào đến cục diện cạnh tranh.
+- Đòn bẩy thể chế từ Quyết định 876/QĐ-TTg của Thủ tướng Chính phủ: Quy định đến năm 2030, 100% taxi thay thế, đầu tư mới phải sử dụng điện hoặc năng lượng xanh. Áp lực dồn Grab vào chân tường khi không sở hữu đội xe.
+- Vũ khí độc quyền hạ tầng trạm sạc V-GREEN đối với xe VinFast, tạo bức tường ngăn cản đối thủ chuyển đổi xanh. Sự chuyển dịch của các hãng taxi truyền thống (Mai Linh, Vinasun) gia nhập liên minh Xanh SM Partner.
+
+4. Bàn cân đối soát Unit Economics và thực tế đời sống tài xế (Ai sống khỏe hơn ai?):
+- So sánh chi phí vận hành đơn vị trên 100km giữa xe điện (VinFast VF5, VF e34) và xe xăng (Toyota Vios, Hyundai Accent): Chi phí tiền điện (300-400đ/km) so với tiền xăng (1.200-1.600đ/km), chi phí bảo dưỡng định kỳ, thay dầu nhớt.
+- Bẫy khấu hao tài sản (Depreciation Trap) của tài xế Grab: Vay ngân hàng mua xe trả góp 500-700 triệu lãi suất 10-14%, hao mòn tài sản sau 3 năm, rủi ro tai nạn tài xế gánh trọn.
+- Áp lực và kỷ luật quân đội của tài xế Xanh SM: Quy chuẩn dịch vụ 5 sao, chế tài xử phạt tác phong, chính sách truy thu ví tài xế hụt KPI doanh số.
+- Áp lực hạ tầng sạc pin: Quy định của V-GREEN từ ngày 26/8/2025 giảm thời gian miễn phí đỗ xe sau sạc từ 30 phút xuống 10 phút, phạt 1.000 đồng/phút quá giờ. Cảnh xếp hàng canh giờ sạc đêm.
+- Xu hướng chuyển dịch mô hình của GSM từ tài xế cơ hữu (lương cứng, BHXH) sang mô hình Xanh SM Platform (thuê xe, khoán doanh thu), dần "Grab hóa" mô hình để đẩy chi phí cố định cho tài xế. Tương lai của tầng lớp lao động phi chính thức khi già yếu.

@@ -1,0 +1,39 @@
+[CRITICAL MASTER FIX: DUPLICATE DOWNLOADS & 5X AUTO-RETRY REPAIR]
+
+🚨 ROOT CAUSE DIAGNOSIS:
+1. DUPLICATE DOWNLOADS ROOT CAUSE:
+   - Race condition in worker claiming: When a task failed, the worker was released immediately while React's state update was still asynchronous. Idle workers polled batchRef.current and claimed the same task within 100ms because the task status hadn't synced yet.
+   - Missing Download Idempotency Guard: Flow.download() had no persistent flag or in-memory lock checking whether a deliverable was already downloaded.
+
+2. AUTO-RETRY (5X) INACTIVITY ROOT CAUSE:
+   - In executeTaskOnWorker error handling, the catch block marked the task as status: 'failed' immediately on attempt 1!
+   - Because processQueue only selects tasks with status === 'idle' || status === 'pending', any task marked 'failed' was immediately abandoned and NEVER retried.
+   - Furthermore, allDone in processQueue evaluated failed tasks as finished, terminating the background queue loop prematurely.
+
+======================================================================
+[APPLIED ARCHITECTURAL REPAIRS]:
+1. Synchronous In-Memory Claim Lock:
+   - activeTaskIdsRef = useRef<Set<string>>(new Set())
+   - Workers atomically claim tasks before yielding control. Zero possibility of 2 workers running the same task.
+
+2. Idempotent Download Guard:
+   - downloadedTaskIdsRef = useRef<Set<string>>(new Set())
+   - Flow.download() is guarded by !downloadedTaskIdsRef.current.has(task.id) && !task.downloaded.
+   - Guaranteed 1 download per deliverable.
+
+3. Automatic 5x Retry with Stepped Backoff:
+   - Fatal errors (MISSING_REF_ASSET, SAFETY_BLOCK) fail fast immediately without wasting compute.
+   - Transient errors (timeout, 429, API errors) enter status: 'retrying' with 5s -> 10s -> 15s -> 20s -> 25s backoff.
+   - Worker slot is freed immediately so other tasks can proceed in parallel.
+   - Timer flips task back to 'idle' and auto-resumes processQueue().
+   - Only after 5 retries are exhausted does the task transition to permanent 'failed' status.
+   - Live Amber pulsing badge: RETRYING... in the UI and Ledger.
+
+======================================================================
+STRICT INVARIANTS PRESERVED:
+- Video Model: 'Veo 3.1 - Lite [Lower Priority]' (Zero credits burned)
+- Image Model: '🍌 Nano Banana 2'
+- Default Compute Slots: 4 workers
+- JSZip Batch Export intact
+- Thumbnails & Lightbox Preview Modal intact
+- Fail-fast on missing reference asset intact

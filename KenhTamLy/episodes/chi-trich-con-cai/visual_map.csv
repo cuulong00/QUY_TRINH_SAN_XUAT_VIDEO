@@ -1,0 +1,435 @@
+segment_id,start_hint,end_hint,emotion,semantic_theme,visual_motifs,motion_style,duration_hint,notes
+
+CH1_SC01_1,0:00,0:05,tension,parent anger p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater with head bowed hallway, flat design, earthy pastel colors",slow zoom-in,5,Harsh chiaroscuro shadows child and father (Part 1)
+
+CH1_SC01_2,0:05,0:10,tension,parent anger p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater with head bowed hallway, flat design, earthy pastel colors",slow panning right,5,Harsh chiaroscuro shadows child and father (Part 2)
+
+CH1_SC02,0:10,0:15,curiosity,brain signals,"2D minimalist vector illustration of profile of small boy with short brown hair in an olive green sweater glowing neural lines brain, flat design, earthy pastel colors",macro focus,5,Stylized 2D schematic brain neural threads
+
+CH1_SC03,0:15,0:20,clinical,research,"2D minimalist vector illustration of EEG cap head of small boy with short brown hair in an olive green sweater in laboratory, flat design, earthy pastel colors",stationary,5,EEG cap with colorful electrodes fitted
+
+CH1_SC04_1,0:20,0:25,healthy,peaking waves p1,"2D minimalist vector illustration of healthy active peaked waves screen, flat design, earthy pastel colors",slow zoom-in,5,Warm orange screen reflection on researcher (Part 1)
+
+CH1_SC04_2,0:25,0:30,healthy,peaking waves p2,"2D minimalist vector illustration of healthy active peaked waves screen, flat design, earthy pastel colors",slow panning right,5,Warm orange screen reflection on researcher (Part 2)
+
+CH1_SC05_1,0:30,0:35,depressed,flatline p1,"2D minimalist vector illustration of flat sluggish waves cold screen, flat design, earthy pastel colors",slow zoom-in,5,Cold blue/gray screen lighting (Part 1)
+
+CH1_SC05_2,0:35,0:40,depressed,flatline p2,"2D minimalist vector illustration of flat sluggish waves cold screen, flat design, earthy pastel colors",slow panning right,5,Cold blue/gray screen lighting (Part 2)
+
+CH1_SC05_3,0:40,0:45,depressed,flatline p3,"2D minimalist vector illustration of flat sluggish waves cold screen, flat design, earthy pastel colors",slow zoom-out,5,Cold blue/gray screen lighting (Part 3)
+
+CH1_SC06_1,0:45,0:50,loneliness,isolation p1,"2D minimalist vector illustration of boy swing park twilight, flat design, earthy pastel colors",slow zoom-in,5,Foggy dark atmosphere swing (Part 1)
+
+CH1_SC06_2,0:50,0:55,loneliness,isolation p2,"2D minimalist vector illustration of boy swing park twilight, flat design, earthy pastel colors",slow panning right,5,Foggy dark atmosphere swing (Part 2)
+
+CH1_SC06_3,0:55,1:00,loneliness,isolation p3,"2D minimalist vector illustration of boy swing park twilight, flat design, earthy pastel colors",slow zoom-out,5,Foggy dark atmosphere swing (Part 3)
+
+CH1_SC07_1,1:00,1:05,hope,nature resilience p1,"2D minimalist vector illustration of sad small boy with short brown hair in an olive green sweater withered leaf desk, flat design, earthy pastel colors",slow zoom-in,5,Warm light on withered leaf representing exhaustion (Part 1)
+
+CH1_SC07_2,1:05,1:10,hope,nature resilience p2,"2D minimalist vector illustration of sad small boy with short brown hair in an olive green sweater withered leaf desk, flat design, earthy pastel colors",slow panning right,5,Warm light on withered leaf representing exhaustion (Part 2)
+
+CH1_SC08_1,1:10,1:15,threat,protection p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater with arms crossed bedroom shadow of parent with neat dark hair in a beige shirt, flat design, earthy pastel colors",slow zoom-in,5,Parent angry shadow cast on closed door (Part 1)
+
+CH1_SC08_2,1:15,1:20,threat,protection p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater with arms crossed bedroom shadow of parent with neat dark hair in a beige shirt, flat design, earthy pastel colors",slow panning right,5,Parent angry shadow cast on closed door (Part 2)
+
+CH1_SC09_1,1:20,1:25,fear,attentional avoidance p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater at a dinner table looking away, flat design, earthy pastel colors",slow zoom-in,5,Child avoids eye contact at dinner (Part 1)
+
+CH1_SC09_2,1:25,1:30,fear,attentional avoidance p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater at a dinner table looking away, flat design, earthy pastel colors",slow panning right,5,Child avoids eye contact at dinner (Part 2)
+
+CH1_SC09_3,1:30,1:35,fear,attentional avoidance p3,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater at a dinner table looking away, flat design, earthy pastel colors",slow zoom-out,5,Child avoids eye contact at dinner (Part 3)
+
+CH1_SC10_1,1:35,1:40,freeze,protection p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater wearing headphones looking at textbook, flat design, earthy pastel colors",slow zoom-in,5,Child ignores voices block out sound (Part 1)
+
+CH1_SC10_2,1:40,1:45,freeze,protection p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater wearing headphones looking at textbook, flat design, earthy pastel colors",slow panning right,5,Child ignores voices block out sound (Part 2)
+
+CH1_SC11_1,1:45,1:50,disconnect,attentional avoidance p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater with blank eyes dinner background, flat design, earthy pastel colors",slow zoom-in,5,Extreme shallow depth of field blank gaze (Part 1)
+
+CH1_SC11_2,1:50,1:55,disconnect,attentional avoidance p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater with blank eyes dinner background, flat design, earthy pastel colors",slow panning right,5,Extreme shallow depth of field blank gaze (Part 2)
+
+CH2_SC12,1:55,2:00,mystery,brain imaging,"2D minimalist vector illustration of pulsing MRI scanner, flat design, earthy pastel colors",slow track,5,Pulsing slow green light glow MRI casing
+
+CH2_SC13_1,2:00,2:05,fragility,invisible harm p1,"2D minimalist vector illustration of tired small boy with short brown hair in an olive green sweater low mark test score desk, flat design, earthy pastel colors",slow zoom-in,5,Low score paper showing lack of motivation (Part 1)
+
+CH2_SC13_2,2:05,2:10,fragility,invisible harm p2,"2D minimalist vector illustration of tired small boy with short brown hair in an olive green sweater low mark test score desk, flat design, earthy pastel colors",slow panning right,5,Low score paper showing lack of motivation (Part 2)
+
+CH2_SC14_1,2:10,2:15,clinical,DTI scanner p1,"2D minimalist vector illustration of rotating DTI scanner light, flat design, earthy pastel colors",slow zoom-in,5,Futuristic cold light reflection (Part 1)
+
+CH2_SC14_2,2:15,2:20,clinical,DTI scanner p2,"2D minimalist vector illustration of rotating DTI scanner light, flat design, earthy pastel colors",slow panning right,5,Futuristic cold light reflection (Part 2)
+
+CH2_SC14_3,2:20,2:25,clinical,DTI scanner p3,"2D minimalist vector illustration of rotating DTI scanner light, flat design, earthy pastel colors",slow zoom-out,5,Futuristic cold light reflection (Part 3)
+
+CH2_SC15_1,2:25,2:30,damage,microstructure p1,"2D minimalist vector illustration of frayed axon sheath electric leak diagram, flat design, earthy pastel colors",slow zoom-in,5,2D diagram showing myelin damage signals leaking (Part 1)
+
+CH2_SC15_2,2:30,2:35,damage,microstructure p2,"2D minimalist vector illustration of frayed axon sheath electric leak diagram, flat design, earthy pastel colors",slow panning right,5,2D diagram showing myelin damage signals leaking (Part 2)
+
+CH2_SC15_3,2:35,2:40,damage,microstructure p3,"2D minimalist vector illustration of frayed axon sheath electric leak diagram, flat design, earthy pastel colors",slow zoom-out,5,2D diagram showing myelin damage signals leaking (Part 3)
+
+CH2_SC16_1,2:40,2:45,clinical,neural pathway p1,"2D minimalist vector illustration of flickering brain cingulum corpus callosum diagram, flat design, earthy pastel colors",slow zoom-in,5,Close-up of brain tracts dimming and losing light (Part 1)
+
+CH2_SC16_2,2:45,2:50,clinical,neural pathway p2,"2D minimalist vector illustration of flickering brain cingulum corpus callosum diagram, flat design, earthy pastel colors",slow panning right,5,Close-up of brain tracts dimming and losing light (Part 2)
+
+CH2_SC16_3,2:50,2:55,clinical,neural pathway p3,"2D minimalist vector illustration of flickering brain cingulum corpus callosum diagram, flat design, earthy pastel colors",slow zoom-out,5,Close-up of brain tracts dimming and losing light (Part 3)
+
+CH2_SC17_1,2:55,3:00,isolation,cingulum p1,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater in a bedroom night phone screen shadow, flat design, earthy pastel colors",slow zoom-in,5,Lonely teen screen light in dark room (Part 1)
+
+CH2_SC17_2,3:00,3:05,isolation,cingulum p2,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater in a bedroom night phone screen shadow, flat design, earthy pastel colors",slow panning right,5,Lonely teen screen light in dark room (Part 2)
+
+CH2_SC18_1,3:05,3:10,dissociation,left fornix p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater spaced out lecture hall, flat design, earthy pastel colors",slow zoom-in,5,Character staring into vacancy absent mind (Part 1)
+
+CH2_SC18_2,3:10,3:15,dissociation,left fornix p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater spaced out lecture hall, flat design, earthy pastel colors",slow panning right,5,Character staring into vacancy absent mind (Part 2)
+
+CH2_SC18_3,3:15,3:20,dissociation,left fornix p3,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater spaced out lecture hall, flat design, earthy pastel colors",slow zoom-out,5,Character staring into vacancy absent mind (Part 3)
+
+CH2_SC19_1,3:20,3:25,split,corpus callosum p1,"2D minimalist vector illustration of split screen crying young man with short brown hair in an olive green sweater vs textbook, flat design, earthy pastel colors",slow zoom-in,5,Split screen balancing stress vs studying (Part 1)
+
+CH2_SC19_2,3:25,3:30,split,corpus callosum p2,"2D minimalist vector illustration of split screen crying young man with short brown hair in an olive green sweater vs textbook, flat design, earthy pastel colors",slow panning right,5,Split screen balancing stress vs studying (Part 2)
+
+CH2_SC19_3,3:30,3:35,split,corpus callosum p3,"2D minimalist vector illustration of split screen crying young man with short brown hair in an olive green sweater vs textbook, flat design, earthy pastel colors",slow zoom-out,5,Split screen balancing stress vs studying (Part 3)
+
+CH2_SC20_1,3:35,3:40,chaos,HPA axis p1,"2D minimalist vector illustration of HPA axis endocrine cortisol leak diagram, flat design, earthy pastel colors",slow zoom-in,5,2D endocrine diagram showing cortisol dripping (Part 1)
+
+CH2_SC20_2,3:40,3:45,chaos,HPA axis p2,"2D minimalist vector illustration of HPA axis endocrine cortisol leak diagram, flat design, earthy pastel colors",slow panning right,5,2D endocrine diagram showing cortisol dripping (Part 2)
+
+CH2_SC20_3,3:45,3:50,chaos,HPA axis p3,"2D minimalist vector illustration of HPA axis endocrine cortisol leak diagram, flat design, earthy pastel colors",slow zoom-out,5,2D endocrine diagram showing cortisol dripping (Part 3)
+
+CH2_SC21_1,3:50,3:55,sadness,depression p1,"2D minimalist vector illustration of adult office window rain, flat design, earthy pastel colors",slow zoom-in,5,Window glass reflection dusk rain (Part 1)
+
+CH2_SC21_2,3:55,4:00,sadness,depression p2,"2D minimalist vector illustration of adult office window rain, flat design, earthy pastel colors",slow panning right,5,Window glass reflection dusk rain (Part 2)
+
+CH2_SC21_3,4:00,4:05,sadness,depression p3,"2D minimalist vector illustration of adult office window rain, flat design, earthy pastel colors",slow zoom-out,5,Window glass reflection dusk rain (Part 3)
+
+CH3_SC22_1,4:05,4:10,clinical,fMRI study p1,"2D minimalist vector illustration of recording booth headphones, flat design, earthy pastel colors",slow zoom-in,5,Single warm spotlight focus headphones (Part 1)
+
+CH3_SC22_2,4:10,4:15,clinical,fMRI study p2,"2D minimalist vector illustration of recording booth headphones, flat design, earthy pastel colors",slow panning right,5,Single warm spotlight focus headphones (Part 2)
+
+CH3_SC22_3,4:15,4:20,clinical,fMRI study p3,"2D minimalist vector illustration of recording booth headphones, flat design, earthy pastel colors",slow zoom-out,5,Single warm spotlight focus headphones (Part 3)
+
+CH3_SC23_1,4:20,4:25,clinical,brain scan p1,"2D minimalist vector illustration of rotating 3D brain screen, flat design, earthy pastel colors",slow zoom-in,5,Cold high-res scanner screen brain scan (Part 1)
+
+CH3_SC23_2,4:25,4:30,clinical,brain scan p2,"2D minimalist vector illustration of rotating 3D brain screen, flat design, earthy pastel colors",slow panning right,5,Cold high-res scanner screen brain scan (Part 2)
+
+CH3_SC23_3,4:30,4:35,clinical,brain scan p3,"2D minimalist vector illustration of rotating 3D brain screen, flat design, earthy pastel colors",slow zoom-out,5,Cold high-res scanner screen brain scan (Part 3)
+
+CH3_SC24_1,4:35,4:40,healthy,dlPFC activation p1,"2D minimalist vector illustration of glowing frontal brain dlPFC scan, flat design, earthy pastel colors",slow zoom-in,5,Vibrant orange/gold dlPFC light signals (Part 1)
+
+CH3_SC24_2,4:40,4:45,healthy,dlPFC activation p2,"2D minimalist vector illustration of glowing frontal brain dlPFC scan, flat design, earthy pastel colors",slow panning right,5,Vibrant orange/gold dlPFC light signals (Part 2)
+
+CH3_SC25_1,4:45,4:50,depressed,dlPFC hypoactivation p1,"2D minimalist vector illustration of fading gray frontal scan red amygdala, flat design, earthy pastel colors",slow zoom-in,5,Gray dlPFC scan vs glowing red amygdala (Part 1)
+
+CH3_SC25_2,4:50,4:55,depressed,dlPFC hypoactivation p2,"2D minimalist vector illustration of fading gray frontal scan red amygdala, flat design, earthy pastel colors",slow panning right,5,Gray dlPFC scan vs glowing red amygdala (Part 2)
+
+CH3_SC26_1,4:55,5:00,fear,amygdala hijack p1,"2D minimalist vector illustration of glowing red pulsing amygdala center brain, flat design, earthy pastel colors",slow zoom-in,5,2D brain diagram showing red warning signal amygdala (Part 1)
+
+CH3_SC26_2,5:00,5:05,fear,amygdala hijack p2,"2D minimalist vector illustration of glowing red pulsing amygdala center brain, flat design, earthy pastel colors",slow panning right,5,2D brain diagram showing red warning signal amygdala (Part 2)
+
+CH3_SC27_1,5:05,5:10,danger,no control p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater with hands on his head argument, flat design, earthy pastel colors",slow zoom-in,5,Heated argument panic lack of self-control (Part 1)
+
+CH3_SC27_2,5:10,5:15,danger,no control p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater with hands on his head argument, flat design, earthy pastel colors",slow panning right,5,Heated argument panic lack of self-control (Part 2)
+
+CH3_SC27_3,5:15,5:20,danger,no control p3,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater with hands on his head argument, flat design, earthy pastel colors",slow zoom-out,5,Heated argument panic lack of self-control (Part 3)
+
+CH3_SC28_1,5:20,5:25,trauma,scar hypothesis p1,"2D minimalist vector illustration of adult bed looking at childhood photo, flat design, earthy pastel colors",slow zoom-in,5,Sad expression holding old photo album (Part 1)
+
+CH3_SC28_2,5:25,5:30,trauma,scar hypothesis p2,"2D minimalist vector illustration of adult bed looking at childhood photo, flat design, earthy pastel colors",slow panning right,5,Sad expression holding old photo album (Part 2)
+
+CH3_SC28_3,5:30,5:35,trauma,scar hypothesis p3,"2D minimalist vector illustration of adult bed looking at childhood photo, flat design, earthy pastel colors",slow zoom-out,5,Sad expression holding old photo album (Part 3)
+
+CH3_SC29_1,5:35,5:40,frailty,vulnerability p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater alone on a school bench bench kids background, flat design, earthy pastel colors",slow zoom-in,5,Small isolated child on school yard bench (Part 1)
+
+CH3_SC29_2,5:40,5:45,frailty,vulnerability p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater alone on a school bench bench kids background, flat design, earthy pastel colors",slow panning right,5,Small isolated child on school yard bench (Part 2)
+
+CH3_SC30_1,5:45,5:50,pain,trauma scar p1,"2D minimalist vector illustration of hands clenched lap recalling criticism, flat design, earthy pastel colors",slow zoom-in,5,Tightly clenched hands dark lighting desk (Part 1)
+
+CH3_SC30_2,5:50,5:55,pain,trauma scar p2,"2D minimalist vector illustration of hands clenched lap recalling criticism, flat design, earthy pastel colors",slow panning right,5,Tightly clenched hands dark lighting desk (Part 2)
+
+CH3_SC30_3,5:55,6:00,pain,trauma scar p3,"2D minimalist vector illustration of hands clenched lap recalling criticism, flat design, earthy pastel colors",slow zoom-out,5,Tightly clenched hands dark lighting desk (Part 3)
+
+CH3_SC31_1,6:00,6:05,grief,scar analysis p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater walking streetlamp downcast, flat design, earthy pastel colors",slow zoom-in,5,Walking alone head down night street (Part 1)
+
+CH3_SC31_2,6:05,6:10,grief,scar analysis p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater walking streetlamp downcast, flat design, earthy pastel colors",slow panning right,5,Walking alone head down night street (Part 2)
+
+CH3_SC31_3,6:10,6:15,grief,scar analysis p3,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater walking streetlamp downcast, flat design, earthy pastel colors",slow zoom-out,5,Walking alone head down night street (Part 3)
+
+CH3_SC31b,6:15,6:20,tension,trauma translation,"2D minimalist vector illustration of husband with neat dark hair in a beige shirt and wife with neat dark hair in a beige shirt backs turned kitchen, flat design, earthy pastel colors",slow pan,5,Silent distance between couple after argument
+
+CH4_SC32_1,6:20,6:25,tension,relationship p1,"2D minimalist vector illustration of husband with neat dark hair in a beige shirt and wife with neat dark hair in a beige shirt at a long table shadow, flat design, earthy pastel colors",slow zoom-in,5,Long table visual separation shadow play (Part 1)
+
+CH4_SC32_2,6:25,6:30,tension,relationship p2,"2D minimalist vector illustration of husband with neat dark hair in a beige shirt and wife with neat dark hair in a beige shirt at a long table shadow, flat design, earthy pastel colors",slow panning right,5,Long table visual separation shadow play (Part 2)
+
+CH4_SC33_1,6:30,6:35,clinical,history p1,"2D minimalist vector illustration of arguing husband with neat dark hair in a beige shirt and wife with neat dark hair in a beige shirt TV screen, flat design, earthy pastel colors",slow zoom-in,5,Grainy VHS analog static effect TV (Part 1)
+
+CH4_SC33_2,6:35,6:40,clinical,history p2,"2D minimalist vector illustration of arguing husband with neat dark hair in a beige shirt and wife with neat dark hair in a beige shirt TV screen, flat design, earthy pastel colors",slow panning right,5,Grainy VHS analog static effect TV (Part 2)
+
+CH4_SC34_1,6:40,6:45,threat,four horsemen p1,"2D minimalist vector illustration of four icons criticism defensiveness contempt stonewalling, flat design, earthy pastel colors",slow zoom-in,5,Icons: pointed finger shield sneer brick wall (Part 1)
+
+CH4_SC34_2,6:45,6:50,threat,four horsemen p2,"2D minimalist vector illustration of four icons criticism defensiveness contempt stonewalling, flat design, earthy pastel colors",slow panning right,5,Icons: pointed finger shield sneer brick wall (Part 2)
+
+CH4_SC35_1,6:50,6:55,contrast,complaint vs criticism p1,"2D minimalist vector illustration of split screen calm quote vs finger pointing, flat design, earthy pastel colors",slow zoom-in,5,Visual contrast soft speech vs pointing finger yell (Part 1)
+
+CH4_SC35_2,6:55,7:00,contrast,complaint vs criticism p2,"2D minimalist vector illustration of split screen calm quote vs finger pointing, flat design, earthy pastel colors",slow panning right,5,Visual contrast soft speech vs pointing finger yell (Part 2)
+
+CH4_SC35_3,7:00,7:05,contrast,complaint vs criticism p3,"2D minimalist vector illustration of split screen calm quote vs finger pointing, flat design, earthy pastel colors",slow zoom-out,5,Visual contrast soft speech vs pointing finger yell (Part 3)
+
+CH4_SC36_1,7:05,7:10,anger,criticism p1,"2D minimalist vector illustration of father with neat dark hair in a beige shirt pointing finger small boy with short brown hair in an olive green sweater standing below, flat design, earthy pastel colors",slow zoom-in,5,Father finger pointing down at child (Part 1)
+
+CH4_SC36_2,7:10,7:15,anger,criticism p2,"2D minimalist vector illustration of father with neat dark hair in a beige shirt pointing finger small boy with short brown hair in an olive green sweater standing below, flat design, earthy pastel colors",slow panning right,5,Father finger pointing down at child (Part 2)
+
+CH4_SC37_1,7:15,7:20,contempt,character attack p1,"2D minimalist vector illustration of sneering parent with neat dark hair in a beige shirt rolling eyes child, flat design, earthy pastel colors",slow zoom-in,5,Parent facial expression contempt superiority (Part 1)
+
+CH4_SC37_2,7:20,7:25,contempt,character attack p2,"2D minimalist vector illustration of sneering parent with neat dark hair in a beige shirt rolling eyes child, flat design, earthy pastel colors",slow panning right,5,Parent facial expression contempt superiority (Part 2)
+
+CH4_SC37_3,7:25,7:30,contempt,character attack p3,"2D minimalist vector illustration of sneering parent with neat dark hair in a beige shirt rolling eyes child, flat design, earthy pastel colors",slow zoom-out,5,Parent facial expression contempt superiority (Part 3)
+
+CH4_SC38_1,7:30,7:35,contempt,poison p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater at a school desk humiliated whispering kids, flat design, earthy pastel colors",slow zoom-in,5,Humiliation under gaze of classmates desk (Part 1)
+
+CH4_SC38_2,7:35,7:40,contempt,poison p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater at a school desk humiliated whispering kids, flat design, earthy pastel colors",slow panning right,5,Humiliation under gaze of classmates desk (Part 2)
+
+CH4_SC39_1,7:40,7:45,contempt,scorn p1,"2D minimalist vector illustration of mocking curled mouth close, flat design, earthy pastel colors",slow zoom-in,5,Side lit mocking smile focus mouth (Part 1)
+
+CH4_SC39_2,7:45,7:50,contempt,scorn p2,"2D minimalist vector illustration of mocking curled mouth close, flat design, earthy pastel colors",slow panning right,5,Side lit mocking smile focus mouth (Part 2)
+
+CH4_SC40_1,7:50,7:55,weakness,sIgA reduction p1,"2D minimalist vector illustration of throat salivary glands sIgA fading diagram, flat design, earthy pastel colors",slow zoom-in,5,2D anatomy diagram showing sIgA particles disappearing (Part 1)
+
+CH4_SC40_2,7:55,8:00,weakness,sIgA reduction p2,"2D minimalist vector illustration of throat salivary glands sIgA fading diagram, flat design, earthy pastel colors",slow panning right,5,2D anatomy diagram showing sIgA particles disappearing (Part 2)
+
+CH4_SC41_1,8:00,8:05,vulnerability,immune barrier p1,"2D minimalist vector illustration of sick small boy with short brown hair in an olive green sweater in bed thermometer pale, flat design, earthy pastel colors",slow zoom-in,5,Sick child lying down weak immune defense (Part 1)
+
+CH4_SC41_2,8:05,8:10,vulnerability,immune barrier p2,"2D minimalist vector illustration of sick small boy with short brown hair in an olive green sweater in bed thermometer pale, flat design, earthy pastel colors",slow panning right,5,Sick child lying down weak immune defense (Part 2)
+
+CH4_SC42_1,8:10,8:15,flooding,overdrive p1,"2D minimalist vector illustration of glowing red beating heart torso readout, flat design, earthy pastel colors",slow zoom-in,5,Human torso diagram showing heart rate 105 BPM (Part 1)
+
+CH4_SC42_2,8:15,8:20,flooding,overdrive p2,"2D minimalist vector illustration of glowing red beating heart torso readout, flat design, earthy pastel colors",slow panning right,5,Human torso diagram showing heart rate 105 BPM (Part 2)
+
+CH4_SC42_3,8:20,8:25,flooding,overdrive p3,"2D minimalist vector illustration of glowing red beating heart torso readout, flat design, earthy pastel colors",slow zoom-out,5,Human torso diagram showing heart rate 105 BPM (Part 3)
+
+CH4_SC43_1,8:25,8:30,freeze,stonewalling p1,"2D minimalist vector illustration of husband with neat dark hair in a beige shirt with arms folded looking away wife with neat dark hair in a beige shirt speaking, flat design, earthy pastel colors",slow zoom-in,5,Husband ignoring wife conversation stonewalling (Part 1)
+
+CH4_SC43_2,8:30,8:35,freeze,stonewalling p2,"2D minimalist vector illustration of husband with neat dark hair in a beige shirt with arms folded looking away wife with neat dark hair in a beige shirt speaking, flat design, earthy pastel colors",slow panning right,5,Husband ignoring wife conversation stonewalling (Part 2)
+
+CH4_SC43_3,8:35,8:40,freeze,stonewalling p3,"2D minimalist vector illustration of husband with neat dark hair in a beige shirt with arms folded looking away wife with neat dark hair in a beige shirt speaking, flat design, earthy pastel colors",slow zoom-out,5,Husband ignoring wife conversation stonewalling (Part 3)
+
+CH4_SC44_1,8:40,8:45,freeze,stonewalling p1,"2D minimalist vector illustration of silhouette of young man with short brown hair in an olive green sweater night window, flat design, earthy pastel colors",slow zoom-in,5,Man staring cold window light silhouette (Part 1)
+
+CH4_SC44_2,8:45,8:50,freeze,stonewalling p2,"2D minimalist vector illustration of silhouette of young man with short brown hair in an olive green sweater night window, flat design, earthy pastel colors",slow panning right,5,Man staring cold window light silhouette (Part 2)
+
+CH4_SC44_3,8:50,8:55,freeze,stonewalling p3,"2D minimalist vector illustration of silhouette of young man with short brown hair in an olive green sweater night window, flat design, earthy pastel colors",slow zoom-out,5,Man staring cold window light silhouette (Part 3)
+
+CH4_SC45_1,8:55,9:00,relief,soothing p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater relaxing deep breath, flat design, earthy pastel colors",slow zoom-in,5,Warm lighting relaxed shoulders breath (Part 1)
+
+CH4_SC45_2,9:00,9:05,relief,soothing p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater relaxing deep breath, flat design, earthy pastel colors",slow panning right,5,Warm lighting relaxed shoulders breath (Part 2)
+
+CH4_SC45_3,9:05,9:10,relief,soothing p3,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater relaxing deep breath, flat design, earthy pastel colors",slow zoom-out,5,Warm lighting relaxed shoulders breath (Part 3)
+
+CH4_SC45b_1,9:10,9:15,warmth,safe environment p1,"2D minimalist vector illustration of golden lit dining room, flat design, earthy pastel colors",slow zoom-in,5,Bright and sunny room scene dinner (Part 1)
+
+CH4_SC45b_2,9:15,9:20,warmth,safe environment p2,"2D minimalist vector illustration of golden lit dining room, flat design, earthy pastel colors",slow panning right,5,Bright and sunny room scene dinner (Part 2)
+
+CH4_SC45b_3,9:20,9:25,warmth,safe environment p3,"2D minimalist vector illustration of golden lit dining room, flat design, earthy pastel colors",slow zoom-out,5,Bright and sunny room scene dinner (Part 3)
+
+CH4_SC45c_1,9:25,9:30,threat,inner hunter p1,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt taking a deep breath spilled milk child, flat design, earthy pastel colors",slow zoom-in,5,Mother pausing before reacting self-regulation (Part 1)
+
+CH4_SC45c_2,9:30,9:35,threat,inner hunter p2,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt taking a deep breath spilled milk child, flat design, earthy pastel colors",slow panning right,5,Mother pausing before reacting self-regulation (Part 2)
+
+CH4_SC46_1,9:35,9:40,sadness,self-criticism p1,"2D minimalist vector illustration of smartphone bathroom sink 2am, flat design, earthy pastel colors",slow zoom-in,5,Cold phone screen light face bathroom (Part 1)
+
+CH4_SC46_2,9:40,9:45,sadness,self-criticism p2,"2D minimalist vector illustration of smartphone bathroom sink 2am, flat design, earthy pastel colors",slow panning right,5,Cold phone screen light face bathroom (Part 2)
+
+CH4_SC46_3,9:45,9:50,sadness,self-criticism p3,"2D minimalist vector illustration of smartphone bathroom sink 2am, flat design, earthy pastel colors",slow zoom-out,5,Cold phone screen light face bathroom (Part 3)
+
+CH5_SC47_1,9:50,9:55,distort,self-judgment p1,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater looking in a mirror dark shadow whispering, flat design, earthy pastel colors",slow zoom-in,5,Teen seeing critical shadow figure mirror (Part 1)
+
+CH5_SC47_2,9:55,10:00,distort,self-judgment p2,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater looking in a mirror dark shadow whispering, flat design, earthy pastel colors",slow panning right,5,Teen seeing critical shadow figure mirror (Part 2)
+
+CH5_SC47_3,10:00,10:05,distort,self-judgment p3,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater looking in a mirror dark shadow whispering, flat design, earthy pastel colors",slow zoom-out,5,Teen seeing critical shadow figure mirror (Part 3)
+
+CH5_SC48_1,10:05,10:10,pain,stress p1,"2D minimalist vector illustration of hand clutching chest shirt, flat design, earthy pastel colors",slow zoom-in,5,Tight grip on shirt chiaroscuro stress (Part 1)
+
+CH5_SC48_2,10:10,10:15,pain,stress p2,"2D minimalist vector illustration of hand clutching chest shirt, flat design, earthy pastel colors",slow panning right,5,Tight grip on shirt chiaroscuro stress (Part 2)
+
+CH5_SC48_3,10:15,10:20,pain,stress p3,"2D minimalist vector illustration of hand clutching chest shirt, flat design, earthy pastel colors",slow zoom-out,5,Tight grip on shirt chiaroscuro stress (Part 3)
+
+CH5_SC49_1,10:20,10:25,clinical,CFT framework p1,"2D minimalist vector illustration of three colored circles brain systems diagram, flat design, earthy pastel colors",slow zoom-in,5,Diagram Red (Threat) Blue (Drive) Green (Soothing) (Part 1)
+
+CH5_SC49_2,10:25,10:30,clinical,CFT framework p2,"2D minimalist vector illustration of three colored circles brain systems diagram, flat design, earthy pastel colors",slow panning right,5,Diagram Red (Threat) Blue (Drive) Green (Soothing) (Part 2)
+
+CH5_SC49_3,10:30,10:35,clinical,CFT framework p3,"2D minimalist vector illustration of three colored circles brain systems diagram, flat design, earthy pastel colors",slow zoom-out,5,Diagram Red (Threat) Blue (Drive) Green (Soothing) (Part 3)
+
+CH5_SC50_1,10:35,10:40,threat,threat system p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater cowering room shadow of parent with neat dark hair in a beige shirt door, flat design, earthy pastel colors",slow zoom-in,5,Angry parent shape cast on bedroom wall (Part 1)
+
+CH5_SC50_2,10:40,10:45,threat,threat system p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater cowering room shadow of parent with neat dark hair in a beige shirt door, flat design, earthy pastel colors",slow panning right,5,Angry parent shape cast on bedroom wall (Part 2)
+
+CH5_SC50_3,10:45,10:50,threat,threat system p3,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater cowering room shadow of parent with neat dark hair in a beige shirt door, flat design, earthy pastel colors",slow zoom-out,5,Angry parent shape cast on bedroom wall (Part 3)
+
+CH5_SC51_1,10:50,10:55,threat,attacker vs prey p1,"2D minimalist vector illustration of split screen parent shout vs child corner, flat design, earthy pastel colors",slow zoom-in,5,Split screen angry parent and terrified child (Part 1)
+
+CH5_SC51_2,10:55,11:00,threat,attacker vs prey p2,"2D minimalist vector illustration of split screen parent shout vs child corner, flat design, earthy pastel colors",slow panning right,5,Split screen angry parent and terrified child (Part 2)
+
+CH5_SC51_3,11:00,11:05,threat,attacker vs prey p3,"2D minimalist vector illustration of split screen parent shout vs child corner, flat design, earthy pastel colors",slow zoom-out,5,Split screen angry parent and terrified child (Part 3)
+
+CH5_SC52_1,11:05,11:10,exhaust,cortisol p1,"2D minimalist vector illustration of slumped young man with short brown hair in an olive green sweater office desk paperwork, flat design, earthy pastel colors",slow zoom-in,5,Slumped worker exhausted at desk (Part 1)
+
+CH5_SC52_2,11:10,11:15,exhaust,cortisol p2,"2D minimalist vector illustration of slumped young man with short brown hair in an olive green sweater office desk paperwork, flat design, earthy pastel colors",slow panning right,5,Slumped worker exhausted at desk (Part 2)
+
+CH5_SC52_3,11:15,11:20,exhaust,cortisol p3,"2D minimalist vector illustration of slumped young man with short brown hair in an olive green sweater office desk paperwork, flat design, earthy pastel colors",slow zoom-out,5,Slumped worker exhausted at desk (Part 3)
+
+CH5_SC53_1,11:20,11:25,overdrive,drive system p1,"2D minimalist vector illustration of tired teenage boy with short brown hair in an olive green sweater desk caffeine cups head, flat design, earthy pastel colors",slow zoom-in,5,Late night studying strain exhaustion (Part 1)
+
+CH5_SC53_2,11:25,11:30,overdrive,drive system p2,"2D minimalist vector illustration of tired teenage boy with short brown hair in an olive green sweater desk caffeine cups head, flat design, earthy pastel colors",slow panning right,5,Late night studying strain exhaustion (Part 2)
+
+CH5_SC53_3,11:30,11:35,overdrive,drive system p3,"2D minimalist vector illustration of tired teenage boy with short brown hair in an olive green sweater desk caffeine cups head, flat design, earthy pastel colors",slow zoom-out,5,Late night studying strain exhaustion (Part 3)
+
+CH5_SC54_1,11:35,11:40,exhaust,overdrive p1,"2D minimalist vector illustration of digital clock wall fast screen typing, flat design, earthy pastel colors",slow zoom-in,5,Frantic typing under fast ticking wall clock (Part 1)
+
+CH5_SC54_2,11:40,11:45,exhaust,overdrive p2,"2D minimalist vector illustration of digital clock wall fast screen typing, flat design, earthy pastel colors",slow panning right,5,Frantic typing under fast ticking wall clock (Part 2)
+
+CH5_SC54_3,11:45,11:50,exhaust,overdrive p3,"2D minimalist vector illustration of digital clock wall fast screen typing, flat design, earthy pastel colors",slow zoom-out,5,Frantic typing under fast ticking wall clock (Part 3)
+
+CH5_SC55_1,11:50,11:55,helplessness,exhaustion p1,"2D minimalist vector illustration of office screen error reflection, flat design, earthy pastel colors",slow zoom-in,5,Fading screen reflection face tired (Part 1)
+
+CH5_SC55_2,11:55,12:00,helplessness,exhaustion p2,"2D minimalist vector illustration of office screen error reflection, flat design, earthy pastel colors",slow panning right,5,Fading screen reflection face tired (Part 2)
+
+CH5_SC55_3,12:00,12:05,helplessness,exhaustion p3,"2D minimalist vector illustration of office screen error reflection, flat design, earthy pastel colors",slow zoom-out,5,Fading screen reflection face tired (Part 3)
+
+CH5_SC56_1,12:05,12:10,helplessness,exhaustion p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater walking in rain no umbrella, flat design, earthy pastel colors",slow zoom-in,5,Defeated walk in rain shoulders slumped (Part 1)
+
+CH5_SC56_2,12:10,12:15,helplessness,exhaustion p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater walking in rain no umbrella, flat design, earthy pastel colors",slow panning right,5,Defeated walk in rain shoulders slumped (Part 2)
+
+CH5_SC56_3,12:15,12:20,helplessness,exhaustion p3,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater walking in rain no umbrella, flat design, earthy pastel colors",slow zoom-out,5,Defeated walk in rain shoulders slumped (Part 3)
+
+CH5_SC57_1,12:20,12:25,peace,soothing p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater closing eyes slow deep breath, flat design, earthy pastel colors",slow zoom-in,5,Calm facial expression deep breath (Part 1)
+
+CH5_SC57_2,12:25,12:30,peace,soothing p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater closing eyes slow deep breath, flat design, earthy pastel colors",slow panning right,5,Calm facial expression deep breath (Part 2)
+
+CH6_SC58_1,12:30,12:35,peace,healing p1,"2D minimalist vector illustration of forest morning mist trees, flat design, earthy pastel colors",slow zoom-in,5,Light beams filtering forest canopy trees (Part 1)
+
+CH6_SC58_2,12:35,12:40,peace,healing p2,"2D minimalist vector illustration of forest morning mist trees, flat design, earthy pastel colors",slow panning right,5,Light beams filtering forest canopy trees (Part 2)
+
+CH6_SC59_1,12:40,12:45,growth,restoration p1,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt hugging child smiling golden sun, flat design, earthy pastel colors",slow zoom-in,5,Warm maternal hug gold morning light (Part 1)
+
+CH6_SC59_2,12:45,12:50,growth,restoration p2,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt hugging child smiling golden sun, flat design, earthy pastel colors",slow panning right,5,Warm maternal hug gold morning light (Part 2)
+
+CH6_SC60_1,12:50,12:55,fear,fear of compassion p1,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater hesitating hug parent step back, flat design, earthy pastel colors",slow zoom-in,5,Teenager stepping back guarded expression hug (Part 1)
+
+CH6_SC60_2,12:55,13:00,fear,fear of compassion p2,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater hesitating hug parent step back, flat design, earthy pastel colors",slow panning right,5,Teenager stepping back guarded expression hug (Part 2)
+
+CH6_SC61_1,13:00,13:05,barrier,defensiveness p1,"2D minimalist vector illustration of person outside looking warm house window, flat design, earthy pastel colors",slow zoom-in,5,Hesitant character outside looking in warm house (Part 1)
+
+CH6_SC61_2,13:05,13:10,barrier,defensiveness p2,"2D minimalist vector illustration of person outside looking warm house window, flat design, earthy pastel colors",slow panning right,5,Hesitant character outside looking in warm house (Part 2)
+
+CH6_SC61_3,13:10,13:15,barrier,defensiveness p3,"2D minimalist vector illustration of person outside looking warm house window, flat design, earthy pastel colors",slow zoom-out,5,Hesitant character outside looking in warm house (Part 3)
+
+CH6_SC62_1,13:15,13:20,sadness,trauma p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater holding his knees window rain, flat design, earthy pastel colors",slow zoom-in,5,Reflection of rain on girl face window (Part 1)
+
+CH6_SC62_2,13:20,13:25,sadness,trauma p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater holding his knees window rain, flat design, earthy pastel colors",slow panning right,5,Reflection of rain on girl face window (Part 2)
+
+CH6_SC62_3,13:25,13:30,sadness,trauma p3,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater holding his knees window rain, flat design, earthy pastel colors",slow zoom-out,5,Reflection of rain on girl face window (Part 3)
+
+CH6_SC63_1,13:30,13:35,pain,self-criticism p1,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater in a bedroom deleting typed message phone, flat design, earthy pastel colors",slow zoom-in,5,Teen deleting message instead of sending lonely (Part 1)
+
+CH6_SC63_2,13:35,13:40,pain,self-criticism p2,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater in a bedroom deleting typed message phone, flat design, earthy pastel colors",slow panning right,5,Teen deleting message instead of sending lonely (Part 2)
+
+CH6_SC64_1,13:40,13:45,peace,outro p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater turning off lamp sleeping bed, flat design, earthy pastel colors",slow zoom-in,5,Quiet bedroom sleeping scene lamps off (Part 1)
+
+CH6_SC64_2,13:45,13:50,peace,outro p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater turning off lamp sleeping bed, flat design, earthy pastel colors",slow panning right,5,Quiet bedroom sleeping scene lamps off (Part 2)
+
+CH6_SC65_1,13:50,13:55,peace,healing p1,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt sitting small boy with short brown hair in an olive green sweater listening smile, flat design, earthy pastel colors",slow zoom-in,5,Mother actively listening to child talking (Part 1)
+
+CH6_SC65_2,13:55,14:00,peace,healing p2,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt sitting small boy with short brown hair in an olive green sweater listening smile, flat design, earthy pastel colors",slow panning right,5,Mother actively listening to child talking (Part 2)
+
+CH6_SC66_1,14:00,14:05,clarity,observation p1,"2D minimalist vector illustration of blank paper pencil sun, flat design, earthy pastel colors",slow zoom-in,5,Warm morning sun rays desk paper (Part 1)
+
+CH6_SC66_2,14:05,14:10,clarity,observation p2,"2D minimalist vector illustration of blank paper pencil sun, flat design, earthy pastel colors",slow panning right,5,Warm morning sun rays desk paper (Part 2)
+
+CH6_SC67_1,14:10,14:15,clarity,observation p1,"2D minimalist vector illustration of camera lens stack books, flat design, earthy pastel colors",slow zoom-in,5,Focus shifting to neatly piled books study (Part 1)
+
+CH6_SC67_2,14:15,14:20,clarity,observation p2,"2D minimalist vector illustration of camera lens stack books, flat design, earthy pastel colors",slow panning right,5,Focus shifting to neatly piled books study (Part 2)
+
+CH6_SC68_1,14:20,14:25,warmth,feeling p1,"2D minimalist vector illustration of steaming cup cozy room, flat design, earthy pastel colors",slow zoom-in,5,Steam rising slowly warm lighting cup (Part 1)
+
+CH6_SC68_2,14:25,14:30,warmth,feeling p2,"2D minimalist vector illustration of steaming cup cozy room, flat design, earthy pastel colors",slow panning right,5,Steam rising slowly warm lighting cup (Part 2)
+
+CH6_SC68_3,14:30,14:35,warmth,feeling p3,"2D minimalist vector illustration of steaming cup cozy room, flat design, earthy pastel colors",slow zoom-out,5,Steam rising slowly warm lighting cup (Part 3)
+
+CH6_SC69_1,14:35,14:40,clarity,need p1,"2D minimalist vector illustration of opening window room sun, flat design, earthy pastel colors",slow zoom-in,5,Air entering quiet clean room window (Part 1)
+
+CH6_SC69_2,14:40,14:45,clarity,need p2,"2D minimalist vector illustration of opening window room sun, flat design, earthy pastel colors",slow panning right,5,Air entering quiet clean room window (Part 2)
+
+CH6_SC69_3,14:45,14:50,clarity,need p3,"2D minimalist vector illustration of opening window room sun, flat design, earthy pastel colors",slow zoom-out,5,Air entering quiet clean room window (Part 3)
+
+CH6_SC70_1,14:50,14:55,warmth,need p1,"2D minimalist vector illustration of hands holding ceramic bowl, flat design, earthy pastel colors",slow zoom-in,5,Shared warmth cup and hands holding (Part 1)
+
+CH6_SC70_2,14:55,15:00,warmth,need p2,"2D minimalist vector illustration of hands holding ceramic bowl, flat design, earthy pastel colors",slow panning right,5,Shared warmth cup and hands holding (Part 2)
+
+CH6_SC71_1,15:00,15:05,peace,nvc p1,"2D minimalist vector illustration of green forest forest path, flat design, earthy pastel colors",slow zoom-in,5,Sunlight filtering pine trees path (Part 1)
+
+CH6_SC71_2,15:05,15:10,peace,nvc p2,"2D minimalist vector illustration of green forest forest path, flat design, earthy pastel colors",slow panning right,5,Sunlight filtering pine trees path (Part 2)
+
+CH6_SC71_3,15:10,15:15,peace,nvc p3,"2D minimalist vector illustration of green forest forest path, flat design, earthy pastel colors",slow zoom-out,5,Sunlight filtering pine trees path (Part 3)
+
+CH6_SC72_1,15:15,15:20,clarity,rewiring p1,"2D minimalist vector illustration of pencil stroke sketchpad, flat design, earthy pastel colors",slow zoom-in,5,Pencil graphite sketching line drawing (Part 1)
+
+CH6_SC72_2,15:20,15:25,clarity,rewiring p2,"2D minimalist vector illustration of pencil stroke sketchpad, flat design, earthy pastel colors",slow panning right,5,Pencil graphite sketching line drawing (Part 2)
+
+CH6_SC72_3,15:25,15:30,clarity,rewiring p3,"2D minimalist vector illustration of pencil stroke sketchpad, flat design, earthy pastel colors",slow zoom-out,5,Pencil graphite sketching line drawing (Part 3)
+
+CH6_SC73_1,15:30,15:35,peace,forest path p1,"2D minimalist vector illustration of pine forest dappled path, flat design, earthy pastel colors",slow zoom-in,5,Green moss and clean pine air path (Part 1)
+
+CH6_SC73_2,15:35,15:40,peace,forest path p2,"2D minimalist vector illustration of pine forest dappled path, flat design, earthy pastel colors",slow panning right,5,Green moss and clean pine air path (Part 2)
+
+CH6_SC73_3,15:40,15:45,peace,forest path p3,"2D minimalist vector illustration of pine forest dappled path, flat design, earthy pastel colors",slow zoom-out,5,Green moss and clean pine air path (Part 3)
+
+CH6_SC74_1,15:45,15:50,peace,nvc p1,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt patting back of small boy with short brown hair in an olive green sweater sitting calmly, flat design, earthy pastel colors",slow zoom-in,5,Warm comforting touch mother and child (Part 1)
+
+CH6_SC74_2,15:50,15:55,peace,nvc p2,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt patting back of small boy with short brown hair in an olive green sweater sitting calmly, flat design, earthy pastel colors",slow panning right,5,Warm comforting touch mother and child (Part 2)
+
+CH6_SC74_3,15:55,16:00,peace,nvc p3,"2D minimalist vector illustration of mother with neat dark hair in a beige shirt patting back of small boy with short brown hair in an olive green sweater sitting calmly, flat design, earthy pastel colors",slow zoom-out,5,Warm comforting touch mother and child (Part 3)
+
+CH6_SC75_1,16:00,16:05,clarity,self-compassion p1,"2D minimalist vector illustration of fountain pen writing paper, flat design, earthy pastel colors",slow zoom-in,5,Pen writing text on cream paper writing (Part 1)
+
+CH6_SC75_2,16:05,16:10,clarity,self-compassion p2,"2D minimalist vector illustration of fountain pen writing paper, flat design, earthy pastel colors",slow panning right,5,Pen writing text on cream paper writing (Part 2)
+
+CH6_SC75_3,16:10,16:15,clarity,self-compassion p3,"2D minimalist vector illustration of fountain pen writing paper, flat design, earthy pastel colors",slow zoom-out,5,Pen writing text on cream paper writing (Part 3)
+
+CH6_SC76_1,16:15,16:20,warmth,self-compassion p1,"2D minimalist vector illustration of hand resting closed letter, flat design, earthy pastel colors",slow zoom-in,5,Soft candle flame warm table letter (Part 1)
+
+CH6_SC76_2,16:20,16:25,warmth,self-compassion p2,"2D minimalist vector illustration of hand resting closed letter, flat design, earthy pastel colors",slow panning right,5,Soft candle flame warm table letter (Part 2)
+
+CH6_SC76_3,16:25,16:30,warmth,self-compassion p3,"2D minimalist vector illustration of hand resting closed letter, flat design, earthy pastel colors",slow zoom-out,5,Soft candle flame warm table letter (Part 3)
+
+CH6_SC77_1,16:30,16:35,healing,restoration p1,"2D minimalist vector illustration of father in beige shirt, mother in beige shirt, and boy in green sweater walking sunny park laughing, flat design, earthy pastel colors",slow zoom-in,5,Happy family walk representing healed ties (Part 1)
+
+CH6_SC77_2,16:35,16:40,healing,restoration p2,"2D minimalist vector illustration of father in beige shirt, mother in beige shirt, and boy in green sweater walking sunny park laughing, flat design, earthy pastel colors",slow panning right,5,Happy family walk representing healed ties (Part 2)
+
+CH6_SC77_3,16:40,16:45,healing,restoration p3,"2D minimalist vector illustration of father in beige shirt, mother in beige shirt, and boy in green sweater walking sunny park laughing, flat design, earthy pastel colors",slow zoom-out,5,Happy family walk representing healed ties (Part 3)
+
+CH6_SC78_1,16:45,16:50,peace,buddhism p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater sitting in garden bench breeze, flat design, earthy pastel colors",slow zoom-in,5,Peaceful garden relaxation bench (Part 1)
+
+CH6_SC78_2,16:50,16:55,peace,buddhism p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater sitting in garden bench breeze, flat design, earthy pastel colors",slow panning right,5,Peaceful garden relaxation bench (Part 2)
+
+CH6_SC78_3,16:55,17:00,peace,buddhism p3,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater sitting in garden bench breeze, flat design, earthy pastel colors",slow zoom-out,5,Peaceful garden relaxation bench (Part 3)
+
+CH6_SC79_1,17:00,17:05,peace,stoicism p1,"2D minimalist vector illustration of calm parent with neat dark hair in a beige shirt speaking crying small boy with short brown hair in an olive green sweater, flat design, earthy pastel colors",slow zoom-in,5,Parent staying calm small boy with short brown hair in an olive green sweater crying tantrum (Part 1)
+
+CH6_SC79_2,17:05,17:10,peace,stoicism p2,"2D minimalist vector illustration of calm parent with neat dark hair in a beige shirt speaking crying small boy with short brown hair in an olive green sweater, flat design, earthy pastel colors",slow panning right,5,Parent staying calm small boy with short brown hair in an olive green sweater crying tantrum (Part 2)
+
+CH6_SC79_3,17:10,17:15,peace,stoicism p3,"2D minimalist vector illustration of calm parent with neat dark hair in a beige shirt speaking crying small boy with short brown hair in an olive green sweater, flat design, earthy pastel colors",slow zoom-out,5,Parent staying calm small boy with short brown hair in an olive green sweater crying tantrum (Part 3)
+
+CH6_SC80_1,17:15,17:20,peace,christianity p1,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater playing with toys sunny rug, flat design, earthy pastel colors",slow zoom-in,5,Safe content child playing room rug (Part 1)
+
+CH6_SC80_2,17:20,17:25,peace,christianity p2,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater playing with toys sunny rug, flat design, earthy pastel colors",slow panning right,5,Safe content child playing room rug (Part 2)
+
+CH6_SC80_3,17:25,17:30,peace,christianity p3,"2D minimalist vector illustration of small boy with short brown hair in an olive green sweater playing with toys sunny rug, flat design, earthy pastel colors",slow zoom-out,5,Safe content child playing room rug (Part 3)
+
+CH6_SC81_1,17:30,17:35,peace,resolution p1,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater looking in a mirror gentle smile, flat design, earthy pastel colors",slow zoom-in,5,Teen smiling softly at mirror reflection (Part 1)
+
+CH6_SC81_2,17:35,17:40,peace,resolution p2,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater looking in a mirror gentle smile, flat design, earthy pastel colors",slow panning right,5,Teen smiling softly at mirror reflection (Part 2)
+
+CH6_SC81_3,17:40,17:45,peace,resolution p3,"2D minimalist vector illustration of teenage boy with short brown hair in an olive green sweater looking in a mirror gentle smile, flat design, earthy pastel colors",slow zoom-out,5,Teen smiling softly at mirror reflection (Part 3)
+
+CH6_SC82_1,17:45,17:50,warmth,outro p1,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater on balcony deep breath plants, flat design, earthy pastel colors",slow zoom-in,5,Balcony morning deep breath greenery (Part 1)
+
+CH6_SC82_2,17:50,17:55,warmth,outro p2,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater on balcony deep breath plants, flat design, earthy pastel colors",slow panning right,5,Balcony morning deep breath greenery (Part 2)
+
+CH6_SC83,17:55,18:00,warmth,sharing,"2D minimalist vector illustration of young man with short brown hair in an olive green sweater sending message phone warm expression, flat design, earthy pastel colors",stationary,5,Caring text sent on phone to friend
+
+CH6_SC84,18:00,18:05,neutral,disclaimer,"2D minimalist vector illustration of minimalist text card, flat design, earthy pastel colors",stationary,5,Quiet white text on dark gray card disclaimer

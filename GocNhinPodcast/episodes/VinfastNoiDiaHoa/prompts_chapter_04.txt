@@ -1,0 +1,99 @@
+CH04_SC001 [IMAGE]: A flat 2D vector graphic illustration of a split diagram comparing 1. Battery Pack Hardware Armor and 2. Internal BMS Software Algorithm, text overlay "HAI TẦNG CÔNG NGHỆ PIN" in bold 3D warm cream typography with heavy black drop shadow, dramatic chiaroscuro lighting, deep noir dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC001 [VIDEO]: @CH04_SC001.png -> slow camera dolly-in towards the split diagram preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC002a1 [IMAGE]: A flat 2D vector graphic illustration of a heavy aluminum alloy battery pack casing undergoing impact stress testing, protective structural ribs highlighted in glowing orange, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC002a1 [VIDEO]: @CH04_SC002a1.png -> camera zoom in on the protective structural ribs preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC002a2 [IMAGE]: A flat 2D vector graphic illustration of active liquid cooling channels weaving between battery modules, temperature gauge glowing stable at "20°C - 40°C", glowing turquoise liquid flow lines, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC002a2 [VIDEO]: @CH04_SC002a2.png -> camera pan right following the cooling liquid flow preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC002a3 [IMAGE]: A flat 2D vector graphic illustration of high-voltage safety relays automatically disconnecting power circuits in milliseconds under emergency simulation, sparks fading in chiaroscuro lighting, deep noir charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC002a3 [VIDEO]: @CH04_SC002a3.png -> camera tilt up showing the safety relay mechanism preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC003 [IMAGE]: A flat 2D vector graphic illustration of a focused Vietnamese male software engineer typing C++ code algorithms on dark dual monitors, glowing turquoise text "VINFAST BMS SOURCE CODE", chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC003 [VIDEO]: @CH04_SC003.png -> camera dolly-in towards the code monitors preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC004a1 [IMAGE]: A flat 2D vector graphic illustration of an electrical voltage discharge curve graph for LFP chemistry showing a flat horizontal line, text overlay "ĐƯỜNG XẢ ĐIỆN ÁP PHẲNG LÌ" in glowing turquoise bold text with heavy black drop shadow, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC004a1 [VIDEO]: @CH04_SC004a1.png -> camera pan right along the flat voltage curve preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC004a2 [IMAGE]: A flat 2D vector graphic illustration of a digital meter showing inaccurate battery percentage error when reading voltage alone, red error warning badge, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC004a2 [VIDEO]: @CH04_SC004a2.png -> camera zoom in on the red error badge preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC005a1 [IMAGE]: A flat 2D vector graphic illustration of smart Coulomb counting algorithms calculating exact State of Charge (SOC) percentage on a central car display, text overlay "THUẬT TOÁN ĐẾM ĐIỆN LƯỢNG SOC" in glowing turquoise bold text with heavy black drop shadow, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC005a1 [VIDEO]: @CH04_SC005a1.png -> camera dolly-in towards the SOC display preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC005a2 [IMAGE]: A flat 2D vector graphic illustration of internal resistance sensors and dual thermal probes monitoring battery health (SOH) to prevent thermal runaway, chiaroscuro lighting, deep noir charcoal background (#1A1A1A), glowing terracotta orange accents --ar 16:9
+
+CH04_SC005a2 [VIDEO]: @CH04_SC005a2.png -> slow camera pan left across the thermal sensors preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC005a3 [IMAGE]: A flat 2D vector graphic illustration of cell balancing circuit balancing voltage between 96 battery cell columns in under 30 minutes, timer showing "30 PHÚT", chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC005a3 [VIDEO]: @CH04_SC005a3.png -> camera zoom in on the 30-minute timer preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC006a1 [IMAGE]: A flat 2D vector graphic illustration of a sleek VinFast VF 8 and VF 9 SUV under factory spotlights, text overlay "FLAGSHIP VF 8 & VF 9" in bold warm cream 3D text with heavy black drop shadow, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC006a1 [VIDEO]: @CH04_SC006a1.png -> camera pan right across the VF 8 and VF 9 silhouettes preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC006a2 [IMAGE]: A flat 2D vector graphic illustration of a German Continental MK C1 One-box regenerative brake system module, Continental logo clearly visible on metal housing, text overlay "PHANH CONTINENTAL MK C1 (ĐỨC)" in glowing turquoise bold text with heavy black drop shadow, chiaroscuro lighting, deep noir charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC006a2 [VIDEO]: @CH04_SC006a2.png -> camera dolly-in towards the MK C1 brake module preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC006a3 [IMAGE]: A flat 2D vector graphic illustration of a climate control HVAC compressor and heat pump module labeled MAHLE (Germany) and Valeo (France), chiaroscuro lighting, dark warm charcoal background (#1A1A1A), glowing terracotta orange accents --ar 16:9
+
+CH04_SC006a3 [VIDEO]: @CH04_SC006a3.png -> camera zoom in on the MAHLE and Valeo labels preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC006a4 [IMAGE]: A flat 2D vector graphic illustration of a double-pane acoustic windshield glass assembly labeled Saint-Gobain (France) and AGC (Japan), sound wave dampening visual effect, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC006a4 [VIDEO]: @CH04_SC006a4.png -> slow camera pan left across the acoustic glass preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC007a1 [IMAGE]: A flat 2D vector graphic illustration of compact urban electric vehicles VinFast VF 3 and VF 5, text overlay "DÒNG ĐÔ THỊ VF 3 & VF 5" in warm cream bold text with heavy black drop shadow, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC007a1 [VIDEO]: @CH04_SC007a1.png -> camera pan right following the VF 3 and VF 5 vehicles preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC007a2 [IMAGE]: A flat 2D vector graphic illustration of streamlined factory assembly lines for VF 3 and VF 5, optimizing component cost structure, text overlay "TỐI ƯU CHI PHÍ BÁN RA" in glowing turquoise bold text with heavy black drop shadow, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC007a2 [VIDEO]: @CH04_SC007a2.png -> camera dolly-out showing the optimized assembly line preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC008 [IMAGE]: A flat 2D vector graphic illustration of cylindrical battery cells arriving in shipping crates labeled CATL, Samsung SDI, and LG Chem, chiaroscuro lighting, dark warm charcoal background (#1A1A1A), glowing terracotta orange highlights --ar 16:9
+
+CH04_SC008 [VIDEO]: @CH04_SC008.png -> slow camera pan right across the battery shipping crates preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC009 [IMAGE]: A flat 2D vector graphic illustration comparing VinFast battery pack strategy side by side with Tesla Model 3 battery pack strategy, text overlay "SO SÁNH MÔ HÌNH TESLA" in bold warm cream typography with heavy black drop shadow, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC009 [VIDEO]: @CH04_SC009.png -> camera dolly-in towards the comparison chart preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC010a1 [IMAGE]: A flat 2D vector graphic illustration of a Tesla Model 3 and Model Y receiving CATL LFP battery cells at Gigafactory, chiaroscuro lighting, deep noir charcoal background (#1A1A1A), glowing turquoise accents --ar 16:9
+
+CH04_SC010a1 [VIDEO]: @CH04_SC010a1.png -> camera pan left following the Model 3 assembly line preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC010a2 [IMAGE]: A flat 2D vector graphic illustration of Tesla engineers writing BMS software code while packing imported LFP cells into custom battery trays, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC010a2 [VIDEO]: @CH04_SC010a2.png -> camera zoom in slowly on the BMS code screen preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC011 [IMAGE]: A flat 2D vector graphic illustration of BYD extreme vertical integration: from Lithium mine to Blade cell to Pack to software, chiaroscuro lighting, deep warm charcoal background (#1A1A1A), glowing terracotta orange accents --ar 16:9
+
+CH04_SC011 [VIDEO]: @CH04_SC011.png -> slow camera pan down across the BYD vertical chain preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC012a1 [IMAGE]: A flat 2D vector graphic illustration of VinFast battery pack assembly hall in Hải Phòng, local engineers mounting BMS software modules onto pack armor, text overlay "LÀM CHỦ ÁO GIÁP & BMS LÕI" in glowing turquoise bold text with heavy black drop shadow, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC012a1 [VIDEO]: @CH04_SC012a1.png -> camera dolly-in towards the battery pack assembly station preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC012a2 [IMAGE]: A flat 2D vector graphic illustration of an ascending staircase timeline showing cell localization progressing step by step over time, chiaroscuro lighting, deep noir charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC012a2 [VIDEO]: @CH04_SC012a2.png -> camera tilt up following the localization staircase preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH04_SC013 [IMAGE]: A flat 2D vector graphic illustration of a large question mark over a glowing cell pin icon, text overlay "TỰ CHỦ CELL PIN?" in bold red typography with heavy black drop shadow, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC013 [VIDEO]: @CH04_SC013.png -> camera zoom in on the cell pin question mark preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH04_SC014 [IMAGE]: A flat 2D vector graphic illustration of a map pointing south from Hải Phòng down to the Vũng Áng Economic Zone in Hà Tĩnh, glowing factory emblem emerging, text overlay "NHÀ MÁY VŨNG ÁNG - HÀ TĨNH" in glowing terracotta orange bold 3D text with heavy black drop shadow, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH04_SC014 [VIDEO]: @CH04_SC014.png -> camera pan down along the map route to Vũng Áng preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9

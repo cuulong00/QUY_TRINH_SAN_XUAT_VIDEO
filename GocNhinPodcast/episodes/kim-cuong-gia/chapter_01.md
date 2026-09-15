@@ -1,0 +1,6 @@
+
+Nhiều người sẵn sàng chi nửa tỷ đồng cho một viên kim cương vì một lời hứa duy nhất. Cửa hàng cam kết sẽ mua lại với giá chín mươi lăm phần trăm giá trị hóa đơn. Họ tin rằng viên đá lấp lánh trên cổ mình thực chất là một cuốn sổ tiết kiệm di động. Thế nhưng, khi cơn khủng hoảng niềm tin nổ ra, cuốn sổ tiết kiệm đó bỗng chốc đóng băng. Dòng người xếp hàng chen chúc trong vô vọng tại các tuyến phố kim hoàn để đòi lại tiền mặt.
+
+Những cái lắc đầu từ chối thâu mua của chủ tiệm quen đã phơi bày một sự thật kinh tế cay đắng. Nếu cửa hàng gốc gặp biến cố, viên kim cương tiền tỷ mang sang tiệm khác sẽ lập tức bị ép giá lỗ tới năm mươi phần trăm. Mọi chuyện bắt đầu khi lá chắn uy tín lớn nhất thị trường bị tổn hại nghiêm trọng. Giám đốc công ty giám định P-Lab thuộc PNJ bị khởi tố vì hành vi mài gờ xóa mã số laser quốc tế để hợp thức hóa hai mươi tám ngàn viên kim cương lậu. Sự kiện này lập tức kích hoạt làn sóng bán tháo dữ dội trên sàn chứng khoán. Cổ phiếu PNJ giảm kịch sàn với hơn mười hai triệu cổ phiếu bị chất sàn dư bán.
+
+Chào mừng bạn đã quay trở lại với Góc Nhìn Podcast. Hôm nay, chúng ta sẽ không đi sâu vào việc phân biệt đá thật giả. Chúng ta sẽ bóc trần bản chất của lời hứa mua lại, giải mã lý do các tiệm vàng mất thanh khoản và cách bạn tự bảo vệ tài sản. Để thấy rõ sự khác biệt, hãy bắt đầu bằng một so sánh đơn giản với vàng.

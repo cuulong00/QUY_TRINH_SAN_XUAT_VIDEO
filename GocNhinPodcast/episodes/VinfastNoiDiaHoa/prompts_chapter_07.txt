@@ -1,0 +1,119 @@
+CH07_SC001 [IMAGE]: A flat 2D vector graphic illustration of a central 3D coordinate system displaying 5 technology axes: 1. Body Chassis, 2. e-Motor, 3. Pack & BMS, 4. Cell Plant, 5. AI Software, text overlay "TRỤC TỌA ĐỘ 5 CỤM CÔNG NGHỆ" in bold warm cream typography with heavy black drop shadow, dramatic chiaroscuro lighting, deep noir dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC001 [VIDEO]: @CH07_SC001.png -> slow camera dolly-in towards the 5-axis coordinate system preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC002 [IMAGE]: A flat 2D vector graphic illustration of a master engineering blueprint compiling all 5 technology modules into a complete vehicle schematic, chiaroscuro lighting, deep warm charcoal background (#1A1A1A), glowing turquoise accents --ar 16:9
+
+CH07_SC002 [VIDEO]: @CH07_SC002.png -> camera tilt up showing the master blueprint preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC003a1 [IMAGE]: A flat 2D vector graphic illustration of Module 1: Schuler press lines and 1,200 ABB robots stamping and welding steel body panels in Hải Phòng, chiaroscuro lighting, dark warm charcoal background (#1A1A1A), glowing terracotta orange highlights --ar 16:9
+
+CH07_SC003a1 [VIDEO]: @CH07_SC003a1.png -> camera pan right following the body panel stamping line preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC003a2 [IMAGE]: A flat 2D vector graphic illustration of imported raw steel coils and stamping die molds arriving at port docks, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC003a2 [VIDEO]: @CH07_SC003a2.png -> slow camera pan left across the raw steel coils preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC004a1 [IMAGE]: A flat 2D vector graphic illustration of Module 2: Haosen Hairpin copper winding line and aluminum motor casting station in Hải Phòng, chiaroscuro lighting, dark warm charcoal background (#1A1A1A), glowing turquoise accents --ar 16:9
+
+CH07_SC004a1 [VIDEO]: @CH07_SC004a1.png -> camera zoom in slowly on the Hairpin copper winding head preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC004a2 [IMAGE]: A flat 2D vector graphic illustration of imported enamelled copper wire, Infineon SiC power chips, and rare earth Neodymium magnets, chiaroscuro lighting, deep noir charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC004a2 [VIDEO]: @CH07_SC004a2.png -> slow camera pan right across the imported motor materials preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC005a1 [IMAGE]: A flat 2D vector graphic illustration of Module 3: Aluminum alloy battery pack casing with internal 20-40°C liquid cooling channels, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC005a1 [VIDEO]: @CH07_SC005a1.png -> camera tilt down showing the liquid cooling channels preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC005a2 [IMAGE]: A flat 2D vector graphic illustration of internal BMS software code algorithms balancing cell voltages under 30 minutes, chiaroscuro lighting, deep warm charcoal background (#1A1A1A), glowing turquoise accents --ar 16:9
+
+CH07_SC005a2 [VIDEO]: @CH07_SC005a2.png -> camera dolly-in towards the BMS code display preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC005a3 [IMAGE]: A flat 2D vector graphic illustration of imported battery cells arriving from CATL, Samsung SDI, and LG Chem, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC005a3 [VIDEO]: @CH07_SC005a3.png -> slow camera pan left across the battery cell crates preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC006a1 [IMAGE]: A flat 2D vector graphic illustration of Module 4: Vũng Áng 5 GWh LFP cell manufacturing plant producing prismatic cells directly in Hà Tĩnh, chiaroscuro lighting, dark warm charcoal background (#1A1A1A), glowing terracotta orange accents --ar 16:9
+
+CH07_SC006a1 [VIDEO]: @CH07_SC006a1.png -> camera zoom in on the Vũng Áng LFP production line preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC006a2 [IMAGE]: A flat 2D vector graphic illustration of next-gen R&D partnership logos: StoreDot (Israel 10-min XFC) and ProLogium (Taiwan MAB solid-state battery), chiaroscuro lighting, deep noir charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC006a2 [VIDEO]: @CH07_SC006a2.png -> camera dolly-in towards the StoreDot and ProLogium emblems preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC007a1 [IMAGE]: A flat 2D vector graphic illustration of Module 5: ViVi 1.6B ViGPT voice assistant interface and localized AI software suite, chiaroscuro lighting, dark warm charcoal background (#1A1A1A), glowing turquoise accents --ar 16:9
+
+CH07_SC007a1 [VIDEO]: @CH07_SC007a1.png -> camera zoom in on the ViVi voice interface preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC007a2 [IMAGE]: A flat 2D vector graphic illustration of VinAI software algorithms (DMS camera, MirrorSense CES 2024 winner) and VMCU central control module, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC007a2 [VIDEO]: @CH07_SC007a2.png -> camera tilt up showing the VMCU control module preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC007a3 [IMAGE]: A flat 2D vector graphic illustration of Autobrains ADAS L2++ camera vision system and Robotaxi L4 on NVIDIA DRIVE Hyperion 10 hardware, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC007a3 [VIDEO]: @CH07_SC007a3.png -> slow camera pan right across the Hyperion 10 hardware board preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC007a4 [IMAGE]: A flat 2D vector graphic illustration of 5 hardware chipmaker logos: Qualcomm, NVIDIA, NXP, Bosch, Renesas surrounding the central car system, chiaroscuro lighting, deep noir charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC007a4 [VIDEO]: @CH07_SC007a4.png -> camera orbit slowly around the 5 semiconductor logos preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC008 [IMAGE]: A flat 2D vector graphic illustration of a dark global map with illuminated trade routes spreading from Vietnam to international markets, chiaroscuro lighting, deep warm charcoal background (#1A1A1A), glowing terracotta orange highlights --ar 16:9
+
+CH07_SC008 [VIDEO]: @CH07_SC008.png -> camera dolly-in towards the glowing international trade routes preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC009a1 [IMAGE]: A flat 2D vector graphic illustration of an illuminated ATIGA 40% RVC agreement certificate badge, glowing green border around "RVC > 60% > 40% ATIGA", chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC009a1 [VIDEO]: @CH07_SC009a1.png -> camera zoom in on the ATIGA 40% RVC certificate preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC009a2 [IMAGE]: A flat 2D vector graphic illustration of a cargo ship carrying VinFast EVs arriving at ASEAN port terminals with "0% TARIFF / THUẾ 0%" stamp, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC009a2 [VIDEO]: @CH07_SC009a2.png -> camera dolly-in towards the 0% tariff stamp preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC010a1 [IMAGE]: A flat 2D vector graphic illustration of international CKD assembly plants in Subang (Indonesia) and Thoothukudi (Tamil Nadu, India), company flags flying, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC010a1 [VIDEO]: @CH07_SC010a1.png -> slow camera pan left across the Subang and Thoothukudi plant blueprints preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC010a2 [IMAGE]: A flat 2D vector graphic illustration of Right-Hand Drive (RHD) versions of VinFast VF 3, VF 5, and VF e34 rolling off overseas assembly tracks, chiaroscuro lighting, deep noir charcoal background (#1A1A1A), glowing terracotta orange accents --ar 16:9
+
+CH07_SC010a2 [VIDEO]: @CH07_SC010a2.png -> camera pan right following the RHD VF 3 and VF 5 vehicles preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC010a3 [IMAGE]: A flat 2D vector graphic illustration of a market map of Southeast Asia and South Asia glowing with sales network pins, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC010a3 [VIDEO]: @CH07_SC010a3.png -> camera dolly-in towards the sales network map preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC011a1 [IMAGE]: A flat 2D vector graphic illustration of a premium smartphone dismantled into components: Samsung OLED display, Sony camera module, TSMC silicon chip, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC011a1 [VIDEO]: @CH07_SC011a1.png -> camera zoom in on the smartphone component disassembly preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC011a2 [IMAGE]: A flat 2D vector graphic illustration of Apple glowing logo holding iOS operating system architecture control, juxtaposed with TSMC silicon fabrication plant, text overlay "APPLE iOS & VI MẠCH" in bold warm cream typography with heavy black drop shadow, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC011a2 [VIDEO]: @CH07_SC011a2.png -> camera dolly-in towards the glowing iOS architecture badge preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC012 [IMAGE]: A flat 2D vector graphic illustration of a sleek modern electric car styled as a giant high-tech smartphone on 4 wheels, glowing turquoise data lines across the body, text overlay "SMARTPHONE KHỔNG LỒ" in bold 3D typography with heavy black drop shadow, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC012 [VIDEO]: @CH07_SC012.png -> camera orbit slowly around the smartphone car preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC013a1 [IMAGE]: A flat 2D vector graphic illustration of a conductor conducting a orchestra of digital code notes with international hardware instruments in the background, text overlay "CHỈ HUY BẢN NHẠC PHẦN MỀM" in glowing turquoise bold text with heavy black drop shadow, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC013a1 [VIDEO]: @CH07_SC013a1.png -> camera zoom in on the conductor's baton preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC013a2 [IMAGE]: A flat 2D vector graphic illustration of high-performance silicon microchips from Qualcomm and NVIDIA mounted inside the central vehicle chassis, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC013a2 [VIDEO]: @CH07_SC013a2.png -> slow camera pan left across the silicon microchips preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC014a1 [IMAGE]: A flat 2D vector graphic illustration of the sprawling Hải Phòng factory complex and Vũng Áng cell plant bathed in warm golden twilight, chiaroscuro lighting, deep warm charcoal background (#1A1A1A), glowing terracotta orange highlights --ar 16:9
+
+CH07_SC014a1 [VIDEO]: @CH07_SC014a1.png -> camera tilt up showing the illuminated factory complex preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC014a2 [IMAGE]: A flat 2D vector graphic illustration of Vietnamese engineers working at high-tech computer terminals, digital code streams representing software intellectual property remaining in Vietnam, chiaroscuro lighting, dark warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC014a2 [VIDEO]: @CH07_SC014a2.png -> camera dolly-in towards the engineers' screens preserving all details of the reference image exactly, 8-second continuous documentary video --ar 16:9
+
+CH07_SC015a1 [IMAGE]: A flat 2D vector graphic illustration of a dark editorial boardroom table with all 5 verified technology dossiers neatly arranged, text overlay "DỮ LIỆU THỰC CHỨNG" in bold 3D warm cream typography with heavy black drop shadow, chiaroscuro lighting, deep noir charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC015a1 [VIDEO]: @CH07_SC015a1.png -> camera pan right across the verified dossiers preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH07_SC015a2 [IMAGE]: A flat 2D vector graphic illustration of a sleek VinFast electric car driving forward towards a glowing horizon under starry sky, text overlay "GÓC NHÌN PODCAST" in glowing terracotta orange bold 3D text with heavy black drop shadow, chiaroscuro lighting, deep warm charcoal background (#1A1A1A) --ar 16:9
+
+CH07_SC015a2 [VIDEO]: @CH07_SC015a2.png -> camera dolly-out showing the electric car driving towards the horizon preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9

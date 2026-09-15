@@ -1,0 +1,4695 @@
+[
+  {
+    "id": "CH01_SC001",
+    "original_tag": "CH01_SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "$40,000,000,000,000",
+    "visual_summary": "Màn hình điện tử hiển thị nợ công quốc gia khổng lồ gắn trên bức tường gỗ tối trong phòng họp Washington, các con số $40 nghìn tỷ phát sáng vàng ấm sắc nét.",
+    "sentences": [
+      "Right now, the United States is carrying forty trillion dollars of national debt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC002",
+    "original_tag": "CH01_SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Chuyên gia phân tích kinh tế vĩ mô đứng chắp tay sau lưng, ngước nhìn lên bảng số liệu nợ công đang nhảy số liên tục, ánh sáng vàng ấm rọi trên bờ vai.",
+    "sentences": [
+      "It is a number so vast that human intuition completely fails to grasp it."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC003",
+    "original_tag": "CH01_SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Góc nhìn từ trên cao xuống mặt bàn hội nghị lớn bằng gỗ sồi, trải đầy các tập hồ sơ tài chính và biểu đồ kinh tế thế giới.",
+    "sentences": [
+      "To put forty trillion dollars into perspective, consider the global economy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC004",
+    "original_tag": "CH01_SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "ANNUAL GDP: CHINA",
+    "visual_summary": "Cảng container Thượng Hải buổi sớm mờ sương, những chiếc cần cẩu giàn màu vàng khổng lồ đang xếp dỡ hàng ngàn thùng hàng lên tàu viễn dương.",
+    "sentences": [
+      "That single sum is larger than the entire annual economic output of China"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC005",
+    "original_tag": "CH01_SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "+ GERMANY + JAPAN + UK",
+    "visual_summary": "Khung hình kiến trúc ghép 3 phân vùng: nhà máy công nghiệp công nghệ cao Đức, đường chân trời tài chính Tokyo và mặt tiền cổ kính của Ngân hàng Trung ương Anh.",
+    "sentences": [
+      "Germany, Japan, and the United Kingdom combined."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC006",
+    "original_tag": "CH01_SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 1.67,
+    "text_overlay": "",
+    "visual_summary": "Xưởng đóng tàu công nghiệp hiện đại với ụ cẩu khô khổng lồ và thân tàu chở hàng đồ sộ đang được hàn lắp, tia lửa điện bắn nhẹ.",
+    "sentences": [
+      "Every factory, every shipyard"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC007",
+    "original_tag": "CH01_SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Hàng kỹ sư và công nhân công nghiệp đeo mũ bảo hộ quan sát dây chuyền cánh tay robot tự động hóa làm việc nhịp nhàng.",
+    "sentences": [
+      "and every worker in those four industrial giants produces"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC008",
+    "original_tag": "CH01_SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Mái vòm Điện Capitol hiện ra qua khung cửa sổ tầng cao của Bộ Tài chính Mỹ, trên bệ cửa sổ đặt cuốn sổ cái nợ công dày cộp bọc da.",
+    "sentences": [
+      "less in a full year than what Washington owes."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC009",
+    "original_tag": "CH01_SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "$1,000,000 / DAY",
+    "visual_summary": "Những xấp tiền giấy 100 đô-la mới có dải băng giấy niêm phong đặt ngay ngắn trên mặt bàn đếm tiền bằng gỗ gụ.",
+    "sentences": [
+      "If you spent one million dollars every single"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC010",
+    "original_tag": "CH01_SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "2,000 YEARS AGO",
+    "visual_summary": "Đồng tiền xu bằng đồng cổ của Đế chế La Mã đặt cạnh tờ 100 USD hiện đại dưới ánh sáng đèn bàn ấm áp của viện lưu trữ bảo tàng.",
+    "sentences": [
+      "day since the Roman Empire two thousand years ago"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC011",
+    "original_tag": "CH01_SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "< 2% OF TOTAL DEBT",
+    "visual_summary": "Cận cảnh ngòi bút máy mạ vàng đang ký vào góc văn bản giấy chứng nhận nợ quốc gia, con dấu dập nổi màu đỏ bầm sáng lấp lánh.",
+    "sentences": [
+      "you would not have spent even two percent of this debt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC012",
+    "original_tag": "CH01_SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Màn hình tác chiến trong phòng tình huống Lầu Năm Góc hiển thị đồ thị đường dốc đứng màu đỏ cảnh báo nợ công.",
+    "sentences": [
+      "And yet, the principal is not even the most alarming part."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC013",
+    "original_tag": "CH01_SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "NET ANNUAL INTEREST",
+    "visual_summary": "Cuốn sổ cái chi tiêu ngân sách của Bộ Tài chính mở rộng, cột số liệu thanh toán lãi vay được đóng khung bằng mực đỏ trang trọng.",
+    "sentences": [
+      "Every single year, Washington now spends over 1.1"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC014",
+    "original_tag": "CH01_SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "$1.1 TRILLION / YEAR",
+    "visual_summary": "Bàn làm việc của chuyên gia tài chính với máy tính chuyên dụng hiển thị con số 1.100.000.000.000 USD, xung quanh là các tập tài liệu ngân sách.",
+    "sentences": [
+      "trillion dollars just paying the interest on that debt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC015",
+    "original_tag": "CH01_SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "INTEREST > DEFENSE BUDGET",
+    "visual_summary": "Toàn cảnh kiến trúc tòa nhà Lầu Năm Góc nhìn từ trên cao trong ánh hoàng hôn trang nghiêm, đèn phòng làm việc rực sáng.",
+    "sentences": [
+      "That interest bill alone has officially surpassed the entire annual budget of the Pentagon."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC016",
+    "original_tag": "CH01_SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Thư viện kinh tế học cổ điển với giá sách gỗ tối chứa đầy các tác phẩm kinh điển, một giáo sư khép lại cuốn sách bìa da dày.",
+    "sentences": [
+      "In any textbook economy, a nation that indebted would be forced to retreat."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC017",
+    "original_tag": "CH01_SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Phòng điều trần Quốc hội với các dãy bàn ghế gỗ trang nghiêm, chiếc búa thẩm phán bằng gỗ nằm trên bàn phủ nỉ xanh.",
+    "sentences": [
+      "It would cut spending, balance its books, and pull its military home."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC018",
+    "original_tag": "CH01_SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Boong thép đồ sộ của một Hàng không mẫu hạm Hải quân Mỹ rẽ sóng trên mặt biển xanh thẫm, các máy bay tác chiến đậu thành hàng.",
+    "sentences": [
+      "Yet right now, American aircraft carriers and guided"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC019",
+    "original_tag": "CH01_SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "CARRIER STRIKE GROUP",
+    "visual_summary": "Khu trục hạm mang tên lửa dẫn đường lớp Arleigh Burke hộ tống bên mạn tàu sân bay, sóng trắng cuộn trào quanh thân tàu màu xám tro.",
+    "sentences": [
+      "missile destroyers are burning millions of dollars a day patrolling foreign waters."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC020",
+    "original_tag": "CH01_SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "HORMUZ & MALACCA",
+    "visual_summary": "Màn hình radar chiến thuật hàng hải hiển thị hai eo biển hẹp Hormuz và Malacca với hàng chục biểu tượng tàu thuyền di chuyển.",
+    "sentences": [
+      "They guard the Strait of Hormuz and the Strait of Malacca."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC021",
+    "original_tag": "CH01_SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Siêu tàu chở dầu thô VLCC thân tàu đen viền đỏ chở đầy dầu lướt chậm trên biển, trực thăng hải quân bay tuần tra phía trên.",
+    "sentences": [
+      "They protect oil tankers bound not for American ports, but for Shanghai, Tokyo, and Rotterdam."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC022",
+    "original_tag": "CH01_SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "US: NET ENERGY EXPORTER",
+    "visual_summary": "Giàn bơm dầu gật gù khai thác dầu đá phiến tại bang Texas hoạt động bền bỉ trên nền trời hoàng hôn vàng rực rỡ.",
+    "sentences": [
+      "The United States is an energy net exporter."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC023",
+    "original_tag": "CH01_SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "Cần cẩu nạp dầu tại cảng vùng Vịnh đang bơm dầu thô vào một tàu chở dầu mang cờ nước ngoài, không có tàu Mỹ nào tại bến.",
+    "sentences": [
+      "It barely consumes Persian Gulf crude."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC024",
+    "original_tag": "CH01_SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Hành lang dài ánh sáng dịu trong Lầu Năm Góc, các sĩ quan cấp cao mang cặp tài liệu bảo mật bước đi với nét mặt tập trung.",
+    "sentences": [
+      "Why would a broke superpower spend its dying fiscal"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC025",
+    "original_tag": "CH01_SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Tàu tuần duyên rọi đèn pha cực mạnh quét qua mặt nước biển tại một eo biển quốc tế trong đêm tĩnh lặng.",
+    "sentences": [
+      "breath protecting the industrial lifeblood of its greatest economic rivals?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC026",
+    "original_tag": "CH01_SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Khán phòng họp báo đông đúc các phóng viên quốc tế dưới ánh đèn trường quay sáng rõ, máy quay chĩa về bục phát biểu.",
+    "sentences": [
+      "To most observers, this seems like imperial madness."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC027",
+    "original_tag": "CH01_SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "FISCAL SUICIDE?",
+    "visual_summary": "Trang nhất một tờ báo tài chính quốc tế uy tín với dòng tít in đậm đặt trên bàn gỗ quán cà phê sang trọng.",
+    "sentences": [
+      "Critics call it fiscal suicide."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC028",
+    "original_tag": "CH01_SC028",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "MANHATTAN, NY",
+    "visual_summary": "Góc phố sầm uất tại Manhattan với Chiếc Đồng hồ Nợ công Quốc gia gắn trên tường tòa nhà, người qua lại ngước nhìn.",
+    "sentences": [
+      "They point to the national debt clock in Manhattan"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC029",
+    "original_tag": "CH01_SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Cận cảnh các con số cơ học trên bảng đồng hồ nợ công lật liên tục sang con số 40 nghìn tỷ, phản chiếu ánh đèn đô thị.",
+    "sentences": [
+      "ticking past forty trillion dollars, and predict an inevitable currency collapse."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC030",
+    "original_tag": "CH01_SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Phòng họp hội đồng quản trị của một tập đoàn tư nhân, các giám đốc căng thẳng xem báo cáo kiểm toán đóng dấu đỏ.",
+    "sentences": [
+      "If an ordinary company ran deficits like this, bondholders would demand double-digit yields."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC031",
+    "original_tag": "CH01_SC031",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "Bàn tay giám đốc ngân hàng đóng con dấu đỏ mang chữ \"TỪ CHỐI TÍN DỤNG\" lên tập hồ sơ vay vốn doanh nghiệp.",
+    "sentences": [
+      "Its credit lines would be cut."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC032",
+    "original_tag": "CH01_SC032",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "Ổ khóa sắt nặng và xích sắt quấn quanh cánh cửa kính niêm phong của một tòa nhà văn phòng thương mại.",
+    "sentences": [
+      "Its assets would be seized."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC033",
+    "original_tag": "CH01_SC033",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Phòng họp Hội đồng Thống đốc Cục Dự trữ Liên bang (Fed) với lò sưởi đá cẩm thạch uy nghiêm và bàn hội nghị gỗ mahogany lớn.",
+    "sentences": [
+      "But Washington does not act like a humble debtor asking for mercy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC034",
+    "original_tag": "CH01_SC034",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "THE GLOBAL GATEKEEPER",
+    "visual_summary": "Nhà ngoại giao Mỹ ngồi ở vị trí trung tâm bàn hội nghị thượng đỉnh kinh tế đa phương, phong thái điềm tĩnh, tự tin.",
+    "sentences": [
+      "Washington acts like the undisputed gatekeeper of the world economy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC035",
+    "original_tag": "CH01_SC035",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Sàn giao dịch tài chính Phố Wall sáng rực ánh đèn ấm, hàng trăm chuyên viên giao dịch làm việc trước các màn hình đa chiều.",
+    "sentences": [
+      "And the global markets reward this behavior."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC036",
+    "original_tag": "CH01_SC036",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "FOREIGN CENTRAL BANKS",
+    "visual_summary": "Trụ sở Ngân hàng Trung ương Nhật Bản (BOJ) tại Tokyo dưới ánh sáng ban mai trong trẻo, kiến trúc đá cổ kính uy nghiêm.",
+    "sentences": [
+      "Every single morning, foreign central banks, commercial lenders"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC037",
+    "original_tag": "CH01_SC037",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Màn hình giao dịch tài chính tại London hiển thị các lệnh mua Trái phiếu Kho bạc Mỹ kỳ hạn 10 năm liên tục khớp lệnh màu xanh.",
+    "sentences": [
+      "and hedge funds line up to buy American sovereign debt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC038",
+    "original_tag": "CH01_SC038",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "$750B - $900B DAILY",
+    "visual_summary": "Toàn cảnh sàn giao dịch trái phiếu quốc tế với hàng trăm dãy bàn làm việc, các bảng đồ thị dòng tiền thanh khoản cuộn chảy.",
+    "sentences": [
+      "The daily trading volume of United States Treasuries reaches between 750 billion and 900 billion dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC039",
+    "original_tag": "CH01_SC039",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Con phố Wall Street nhìn từ trên cao buổi sáng, hàng ngàn chuyên gia tài chính bước vào sảnh các tòa nhà đá cẩm thạch.",
+    "sentences": [
+      "Even as inflation bites and political division widens"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC040",
+    "original_tag": "CH01_SC040",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Kho lưu trữ an toàn của ngân hàng trung ương, các kiện Trái phiếu Kho bạc in giấy bảo mật được xếp ngăn nắp trong lồng thép.",
+    "sentences": [
+      "the global financial system continues to swallow American paper with insatiable appetite."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC041",
+    "original_tag": "CH01_SC041",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Trụ sở Ngân hàng Thanh toán Quốc tế (BIS) tại Basel, Thụy Sĩ, tòa tháp tròn hiện đại nổi bật giữa cảnh quan thành phố.",
+    "sentences": [
+      "The dollar still sits on one side of"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC042",
+    "original_tag": "CH01_SC042",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "88.4% GLOBAL FX SHARE",
+    "visual_summary": "Bàn làm việc giao dịch ngoại hối hiển thị các cặp tỷ giá quốc tế (EUR/USD, USD/JPY, USD/GBP), đồng USD xuất hiện ở mọi giao dịch.",
+    "sentences": [
+      "nearly ninety percent of all currency transactions on earth."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC043",
+    "original_tag": "CH01_SC043",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "Chuyên gia điều tra vĩ mô rút một tập hồ sơ lưu trữ bìa da màu xanh đậm từ trên giá sách lưu trữ lịch sử.",
+    "sentences": [
+      "There is no mystery here."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC044",
+    "original_tag": "CH01_SC044",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "50-YEAR ARCHITECTURE",
+    "visual_summary": "Bàn vẽ kỹ thuật của kiến trúc sư địa kinh tế, đặt compa đồng và các bản đồ hải trình hàng hải chồng lên đồ thị tiền tệ.",
+    "sentences": [
+      "There is only a fifty-year-old architectural loop that most economic textbooks fail to mention."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC045",
+    "original_tag": "CH01_SC045",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Cận cảnh đôi bàn tay mở chiếc ví da thủ công cao cấp, hé lộ những tờ tiền 100 USD màu xanh lục gấp ngay ngắn.",
+    "sentences": [
+      "The paper bills in our wallets and the digital"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC046",
+    "original_tag": "CH01_SC046",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "NO LONGER BACKED BY GOLD",
+    "visual_summary": "Kho vàng Fort Knox với cánh cửa thép tròn khổng lồ hơi hé mở, bên trong là các thỏi vàng nguyên khối sáng ánh kim vàng ấm.",
+    "sentences": [
+      "numbers on Wall Street screens are not backed by gold."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC047",
+    "original_tag": "CH01_SC047",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "AUGUST 15, 1971",
+    "visual_summary": "Trường quay truyền hình cổ điển năm 1971 với micro kim loại cổ và tài liệu tuyên bố đóng cửa cửa sổ vàng của Tổng thống Nixon.",
+    "sentences": [
+      "They have not been backed by gold since 1971."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC048",
+    "original_tag": "CH01_SC048",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Sĩ quan Hải quân Mỹ đứng trên đài quan sát boong tàu sân bay lúc rạng đông, nhìn ra mặt biển xanh phẳng lặng vô tận.",
+    "sentences": [
+      "But they are not backed by thin air either."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC049",
+    "original_tag": "CH01_SC049",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "DEBT + MARITIME POWER",
+    "visual_summary": "Hình ảnh đồ họa kiến trúc phóng sự: Tờ Trái phiếu Kho bạc lồng ghép hoàn hảo với hải đồ các tuyến đường hàng hải quốc tế.",
+    "sentences": [
+      "They are backed by an intricate apparatus that links sovereign debt to global maritime transit."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC050",
+    "original_tag": "CH01_SC050",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Hành lang đá cẩm thạch trắng của Bộ Tài chính Mỹ, ánh nắng rọi qua các ô cửa vòm tạo thành những vệt sáng hình học trang nhã.",
+    "sentences": [
+      "If you want to understand why forty trillion"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC051",
+    "original_tag": "CH01_SC051",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Mái vòm Điện Capitol sừng sững trên nền trời hoàng hôn tím thẫm, toát lên vẻ trang nghiêm và quyền lực thể chế.",
+    "sentences": [
+      "dollars of debt has not broken the United States"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC052",
+    "original_tag": "CH01_SC052",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "NOT ON CAPITOL HILL",
+    "visual_summary": "Bóng một nhà quan sát điềm tĩnh bước đi trên bậc thềm đá cẩm thạch, phía sau là ánh đèn của Điện Capitol.",
+    "sentences": [
+      "you cannot look at Capitol Hill."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC053",
+    "original_tag": "CH01_SC053",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "THE HIGH SEAS",
+    "visual_summary": "Mũi tàu tuần dương hạm Hải quân Mỹ xé toạc những đợt sóng biển đêm, bọt biển trắng xóa cuộn trào dưới ánh trăng.",
+    "sentences": [
+      "You have to look at the high seas."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC054",
+    "original_tag": "CH01_SC054",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Bàn hải đồ phòng điều hướng tác chiến, chiếc compa bằng đồng đo đạc khoảng cách giữa các eo biển chiến lược.",
+    "sentences": [
+      "You have to look at the hidden mechanics of a paradox"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC055",
+    "original_tag": "CH01_SC055",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "BORROWER & BANKER",
+    "visual_summary": "Văn phòng góc tầng cao tại Manhattan nhìn ra vịnh New York, trên bàn làm việc bằng gỗ gụ cổ đặt chiếc đèn bàn chao xanh ấm áp.",
+    "sentences": [
+      "how the world's greatest borrower became the world's only indispensable banker."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC056",
+    "original_tag": "CH01_SC056",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "NEXT: THE TRIFFIN PARADOX",
+    "visual_summary": "Phòng điều trần Quốc hội Mỹ năm 1960 với micro cổ điển, chiếc cặp tài liệu mở sẵn trên bàn gỗ trước giờ phiên họp bắt đầu.",
+    "sentences": [
+      "And it all begins with a strange economic law that turns national deficits into global power."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC001",
+    "original_tag": "CH02_SC001",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Toàn cảnh phòng hội đồng thống đốc một ngân hàng trung ương châu Âu nhìn từ góc nghiêng, các chuyên viên tài chính cấp cao ngồi quanh bàn họp gỗ bóng loáng.",
+    "sentences": [
+      "To understand why the world cannot simply abandon American debt"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC002",
+    "original_tag": "CH02_SC002",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Tập tài liệu phân tích cán cân thanh toán quốc tế bọc da đen mở sẵn trên bàn, bên cạnh là chiếc kính đọc sách gọng vàng mờ.",
+    "sentences": [
+      "you have to understand a fundamental reality of international finance."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC003",
+    "original_tag": "CH02_SC003",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Bến cảng Rotterdam nhộn nhịp trong sương sớm, cần cẩu chuyển container in nhãn hiệu đa quốc gia từ tàu xuống bến.",
+    "sentences": [
+      "Global commerce requires a medium of exchange."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC004",
+    "original_tag": "CH02_SC004",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Sàn giao dịch thị trường tiền tệ qua đêm tại London, các chuyên viên phân tích theo dõi dòng thanh khoản hàng trăm tỷ đô-la luân chuyển.",
+    "sentences": [
+      "But more importantly, it requires a place to park cash overnight. In 1960, a Belgian"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC005",
+    "original_tag": "CH02_SC005",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "ROBERT TRIFFIN (1960)",
+    "visual_summary": "Giáo sư Robert Triffin ngồi trước micro cổ điển tại phòng điều trần Ủy ban Kinh tế Quốc hội Mỹ năm 1960, ánh mắt sắc bén, điềm đạm.",
+    "sentences": [
+      "American economist named Robert Triffin presented the United States Congress with a devastating observation."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC006",
+    "original_tag": "CH02_SC006",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Các nghị sĩ Quốc hội Mỹ ngồi trên dãy ghế cao chăm chú lắng nghe, phía sau là quốc huy đại bàng mạ vàng trang nghiêm.",
+    "sentences": [
+      "If the United States wanted its currency to serve as the global reserve currency"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC007",
+    "original_tag": "CH02_SC007",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Nhà máy in tiền của Cục Khắc và In ấn Hoa Kỳ (BEP), các cuộn giấy in tiền bảo mật chạy liên tục qua trục lăn kim loại.",
+    "sentences": [
+      "it had no choice but to supply the world with dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC008",
+    "original_tag": "CH02_SC008",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Giáo sư Robert Triffin chỉ tay vào biểu đồ cán cân thanh toán in trên bảng trình chiếu gỗ tại phiên điều trần năm 1960.",
+    "sentences": [
+      "And the only way to send dollars out into the"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC009",
+    "original_tag": "CH02_SC009",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Đoàn tàu hỏa chở đầy hàng hóa công nghiệp và ô tô nhập khẩu lăn bánh vào một cảng cạn nội địa của nước Mỹ.",
+    "sentences": [
+      "global economy is to buy more foreign goods than it sells."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC010",
+    "original_tag": "CH02_SC010",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "CURRENT ACCOUNT DEFICIT",
+    "visual_summary": "Biểu đồ cán cân tài khoản vãng lai của Mỹ hiển thị đường nét đứt màu đỏ nằm dưới mức số 0, minh họa cho tình trạng nhập siêu cơ cấu.",
+    "sentences": [
+      "In plain terms, America had to run chronic, structural trade and current account deficits."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC011",
+    "original_tag": "CH02_SC011",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Chiếc van công nghiệp kim loại khổng lồ tại một kho cảng hàng hóa quốc tế, bàn tay kỹ thuật viên đang xoay đóng lại.",
+    "sentences": [
+      "If Washington balanced its trade account and closed the import valve"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC012",
+    "original_tag": "CH02_SC012",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Hàng chục tàu chở hàng viễn dương neo đậu bất động ngoài cửa biển, mặt nước phẳng lặng dưới bầu trời xám bạc.",
+    "sentences": [
+      "the flow of dollars would freeze. International shipping would grind to a halt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC013",
+    "original_tag": "CH02_SC013",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "THE TRIFFIN DILEMMA",
+    "visual_summary": "Căn phòng két sắt dự trữ của một ngân hàng trung ương với các kệ kim loại vắng lặng, trên tường dập nổi con dấu thể chế.",
+    "sentences": [
+      "Central banks would run out of liquidity. This dynamic became known as the Triffin Dilemma."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC014",
+    "original_tag": "CH02_SC014",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Tòa nhà Cục Dự trữ Liên bang tại Washington với dòng người công dân Mỹ đi lại trên vỉa hè phía trước.",
+    "sentences": [
+      "The dollar cannot be both a national currency for domestic"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC015",
+    "original_tag": "CH02_SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Một quả địa cầu bằng đồng thau cổ điển đặt trên bàn làm việc ngoại giao, bên cạnh là xấp tiền đô-la Mỹ.",
+    "sentences": [
+      "priorities and a neutral reserve asset for the entire planet."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC016",
+    "original_tag": "CH02_SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Hệ thống đường truyền viễn thông tài chính ngầm dưới đại dương hiển thị các luồng dữ liệu thanh toán số liên lục địa.",
+    "sentences": [
+      "To sustain global commerce, the issuer must continuously flood the world with its liquidity."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC017",
+    "original_tag": "CH02_SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Phòng làm việc tối giản của chuyên gia kinh tế vĩ mô, ánh đèn bàn rọi lên tập bản đồ dòng vốn toàn cầu.",
+    "sentences": [
+      "Yet that dynamic did not end with trade."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC018",
+    "original_tag": "CH02_SC018",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Tòa tháp văn phòng của một quỹ đầu tư quốc gia vùng Vịnh, nhìn ra các giàn khoan dầu ngoài khơi lung linh ánh đèn.",
+    "sentences": [
+      "When surplus exporters and oil-producing nations accumulated mountains of dollars"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC019",
+    "original_tag": "CH02_SC019",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Két sắt ngầm chứa các hộp kim loại niêm phong, chuyên viên tài chính đứng kiểm kê với sổ ghi chép.",
+    "sentences": [
+      "they could not simply hoard paper cash."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC020",
+    "original_tag": "CH02_SC020",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Dòng tiền vốn tái đầu tư được thể hiện qua các lệnh chuyển khoản ngân hàng điện tử xuyên biên giới về Phố Wall.",
+    "sentences": [
+      "They had to reinvest those surpluses back into the United States."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC021",
+    "original_tag": "CH02_SC021",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Cửa chính tòa nhà Bộ Tài chính Hoa Kỳ tại Washington, các cột đá cẩm thạch La Mã vươn cao uy nghi.",
+    "sentences": [
+      "And the only asset market large and liquid enough"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC022",
+    "original_tag": "CH02_SC022",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "US TREASURIES: $27T",
+    "visual_summary": "Xấp giấy chứng nhận Trái phiếu Kho bạc Hoa Kỳ in hoa văn bảo mật tinh xảo đặt trên mặt bàn nỉ xanh.",
+    "sentences": [
+      "to absorb trillions in global capital was United States Treasuries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC023",
+    "original_tag": "CH02_SC023",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Đồ thị lợi suất trái phiếu chính phủ Mỹ kỳ hạn 10 năm trượt dốc xuống mức cực thấp qua các thập kỷ.",
+    "sentences": [
+      "This structural foreign demand depressed Washington's borrowing costs to rock-bottom levels."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC024",
+    "original_tag": "CH02_SC024",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "EXORBITANT PRIVILEGE",
+    "visual_summary": "Phòng họp Quốc hội Mỹ nơi các nhà làm luật thảo luận về các dự luật cắt giảm thuế và ngân sách an sinh xã hội.",
+    "sentences": [
+      "It handed American policymakers an exorbitant privilege: the ability to cut taxes, fund massive domestic entitlements"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC025",
+    "original_tag": "CH02_SC025",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Tòa nhà Quốc hội Mỹ trong ánh tà dương, trên tiền sảnh là chiếc đồng hồ cát bằng đồng biểu trưng cho thời gian tài khóa.",
+    "sentences": [
+      "and accumulate a forty-trillion-dollar national debt without facing immediate market discipline."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC026",
+    "original_tag": "CH02_SC026",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Toàn cảnh sàn giao dịch trái phiếu chính phủ Mỹ hiện đại, hàng trăm màn hình giao dịch hiển thị thanh khoản dồi dào.",
+    "sentences": [
+      "Today, that paper forms the deepest capital market in human history."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC027",
+    "original_tag": "CH02_SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "$27 TRILLION MARKETABLE",
+    "visual_summary": "Tủ hồ sơ tài chính bảo mật khổng lồ bằng thép đánh bóng, lưu giữ các mã định danh CUSIP của trái phiếu kho bạc.",
+    "sentences": [
+      "There are more than twenty-seven trillion dollars of marketable United States Treasuries in circulation."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC028",
+    "original_tag": "CH02_SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Cánh cửa gỗ dày đóng kín của phòng giao dịch repo ngân hàng đầu tư, ánh sáng vàng lọt qua khe cửa.",
+    "sentences": [
+      "Behind closed doors, this mountain of debt serves a singular purpose."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC029",
+    "original_tag": "CH02_SC029",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "$4T / DAY REPO MARKET",
+    "visual_summary": "Sơ đồ dòng chảy tài sản thế chấp nguyên khôi (Pristine Collateral) kết nối giữa các ngân hàng thương mại toàn cầu.",
+    "sentences": [
+      "It is the pristine collateral that underpins the four-trillion-dollar-a-day global repo market."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC030",
+    "original_tag": "CH02_SC030",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "FRANKFURT ➔ SEOUL",
+    "visual_summary": "Bức tranh ghép đôi: Trụ sở ngân hàng cao tầng tại Frankfurt đối diện khu phức hợp công nghiệp công nghệ cao tại Seoul.",
+    "sentences": [
+      "When a commercial bank in Frankfurt lends billions to a manufacturer in Seoul"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC031",
+    "original_tag": "CH02_SC031",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Hợp đồng tín dụng repo song phương hiển thị trên hai màn hình tài chính bảo mật, được bảo chứng bằng Trái phiếu Kho bạc Mỹ.",
+    "sentences": [
+      "they do not exchange paper cash. They exchange short-term credit backed by United States Treasuries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC032",
+    "original_tag": "CH02_SC032",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Bảng so sánh quy mô thị trường trái phiếu toàn cầu trên màn hình máy tính Bloomberg, cột Trái phiếu Mỹ vượt trội áp đảo.",
+    "sentences": [
+      "No other bond market comes close to matching this scale."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC033",
+    "original_tag": "CH02_SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "GERMAN BUND: SCARCE SUPPLY",
+    "visual_summary": "Trụ sở Bộ Tài chính Đức tại Berlin, biểu tượng chiếc phanh nợ (Schuldenbremse) dập trên văn bản ngân sách chặt chẽ.",
+    "sentences": [
+      "German government bonds are backed by strict fiscal rules, making their supply far too small."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC034",
+    "original_tag": "CH02_SC034",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "JGB: LOCKED IN BOJ",
+    "visual_summary": "Két sắt lưu ký của Ngân hàng Trung ương Nhật Bản (BOJ), nơi phần lớn Trái phiếu JGB bị thâu tóm bên trong.",
+    "sentences": [
+      "Japanese government bonds are almost entirely locked inside the Bank of Japan."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC035",
+    "original_tag": "CH02_SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Hồ nước sâu tĩnh lặng bằng đá cẩm thạch biểu trưng cho bể chứa thanh khoản khổng lồ của Bộ Tài chính Mỹ.",
+    "sentences": [
+      "Only Washington provides a twenty-seven-trillion dollar pool of debt deep enough to absorb hundreds"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC036",
+    "original_tag": "CH02_SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Trụ sở Ngân hàng Thanh toán Quốc tế (BIS) tại Basel nhìn từ khu vườn nội bộ thanh bình.",
+    "sentences": [
+      "of billions of dollars without crashing its exchange rate. According to the Bank for International Settlements"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC037",
+    "original_tag": "CH02_SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Màn hình khớp lệnh ngoại hối hiển thị cặp giao dịch ngoại tệ, ký hiệu đồng USD màu vàng sáng nổi bật.",
+    "sentences": [
+      "the dollar remains on one side of more than eighty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC038",
+    "original_tag": "CH02_SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "88.4% GLOBAL FX TRANSACTIONS",
+    "visual_summary": "Vòng tròn đồ họa phân bổ thanh toán ngoại hối toàn cầu hiển thị con số 88,4% áp đảo thuộc về đồng đô-la.",
+    "sentences": [
+      "eight percent of all foreign exchange transactions."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC039",
+    "original_tag": "CH02_SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Hội trường họp báo chính phủ Mỹ với bục phát biểu vắng bóng người, ánh đèn flash máy ảnh phản chiếu trên micro.",
+    "sentences": [
+      "The system does not buy American debt merely because it trusts American politicians."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC040",
+    "original_tag": "CH02_SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Phòng máy chủ trung tâm dữ liệu tài chính với hàng dãy tủ rack đèn xanh nhấp nháy, trái tim của mạng lưới tín dụng.",
+    "sentences": [
+      "The system buys American debt because modern finance"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC041",
+    "original_tag": "CH02_SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Bàn làm việc của giám đốc quản trị rủi ro ngân hàng toàn cầu, đang phê duyệt hạn mức tài sản an toàn Trái phiếu Mỹ.",
+    "sentences": [
+      "cannot function without this deep reservoir of safe assets."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC042",
+    "original_tag": "CH02_SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "US DEBT = GLOBAL ASSET",
+    "visual_summary": "Khung hình ẩn dụ kiến trúc thanh lịch: Tờ Trái phiếu Kho bạc Mỹ đóng vai trò viên đá tảng chịu lực nâng đỡ cấu trúc tài chính toàn cầu.",
+    "sentences": [
+      "American debt is the structural asset of the rest of the world."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC043",
+    "original_tag": "CH02_SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Góc làm việc của nhà nghiên cứu độc lập với máy tính xách tay, bản thảo in và tách trà bốc khói nhẹ trong ánh sáng ngà ấm.",
+    "sentences": [
+      "If you appreciate these investigative breakdowns into the global economy"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC044",
+    "original_tag": "CH02_SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Biểu tượng tinh tế của kênh X-Economics in dập nổi trên bìa sổ tay da, bút máy đặt bên cạnh.",
+    "sentences": [
+      "a simple subscription to the channel goes a long way in supporting our independent research."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC045",
+    "original_tag": "CH02_SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Chuyên viên phân tích đứng trước bảng kính vẽ sơ đồ cơ chế tài chính, cầm bút dạ trầm ngâm trước một dấu hỏi lớn.",
+    "sentences": [
+      "Yet this arrangement introduces an even greater puzzle. Supplying liquidity is one thing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC046",
+    "original_tag": "CH02_SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Phòng khánh tiết của Bộ Ngoại giao Mỹ với các quốc kỳ của các cường quốc kinh tế xếp trang nghiêm.",
+    "sentences": [
+      "But how did Washington ensure that every major economy"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC047",
+    "original_tag": "CH02_SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Chiếc chuyên cơ ngoại giao Boeing của Không quân Mỹ đậu trên đường băng quân sự dưới ánh hoàng hôn vàng.",
+    "sentences": [
+      "was permanently forced to earn dollars in the first place? To answer that question"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC048",
+    "original_tag": "CH02_SC048",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "SUMMER 1974: JEDDAH",
+    "visual_summary": "Đường băng sân bay Jeddah trong cái nóng sa mạc mùa hè 1974, đoàn xe nghi lễ ngoại giao màu đen đang đón phái đoàn Mỹ.",
+    "sentences": [
+      "we have to look back to a private diplomatic tour in the summer of 1974."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC001",
+    "original_tag": "CH03_SC001",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "RIYADH, JUNE 1974",
+    "visual_summary": "Ngoại trưởng Henry Kissinger bước xuống thang máy bay chuyên cơ Boeing VC-137C tại sân bay Riyadh, Saudi Arabia, lính danh dự bồng súng chào trên đường băng nắng chói.",
+    "sentences": [
+      "In June 1974, United States Secretary of State Henry Kissinger traveled to Riyadh."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC002",
+    "original_tag": "CH03_SC002",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Dòng xe hơi cổ điển Mỹ thập niên 70 nối đuôi nhau xếp hàng dài trên xa lộ trước một trạm xăng Mobil treo biển hết xăng bằng gỗ.",
+    "sentences": [
+      "The world was still reeling from the 1973 oil embargo."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC003",
+    "original_tag": "CH03_SC003",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Trạm xăng đóng cửa tại Frankfurt, Tây Đức năm 1973, xe Volkswagen và Mercedes đỗ dọc phố dưới mưa phùn với các can xăng rỗng xếp trên vỉa hè.",
+    "sentences": [
+      "Fuel shortages had caused lines around gas stations across North America and Western Europe."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC004",
+    "original_tag": "CH03_SC004",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "NIXON SHOCK (1971)",
+    "visual_summary": "Phòng Bầu dục Nhà Trắng ngày 15/8/1971, Tổng thống Nixon ngồi sau bàn Resolute trước máy quay đài truyền hình tuyên bố đình chỉ đổi USD ra vàng.",
+    "sentences": [
+      "Just three years earlier, President Richard Nixon had suspended the convertibility of the dollar into gold."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC005",
+    "original_tag": "CH03_SC005",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Hầm ngầm kiên cố Fort Knox tại Kentucky, cửa thép mở hé để lộ bệ đỡ kim loại trống không nơi thỏi vàng 400-ounce từng đặt, chỉ còn một tờ 100 USD đơn độc.",
+    "sentences": [
+      "For the first time in modern history, the world's primary reserve currency had no tangible backing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC006",
+    "original_tag": "CH03_SC006",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Hàng cột đá cẩm thạch của tòa nhà Bộ Tài chính Mỹ tại Washington D.C., góc nhìn hướng về mái vòm Điện Capitol, trên bệ đá đặt bản chứng chỉ nợ quốc gia.",
+    "sentences": [
+      "It was backed only by the full faith and credit of the United States government."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC007",
+    "original_tag": "CH03_SC007",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Phòng hoạch định chính sách Bộ Ngoại giao Mỹ, bàn bản đồ hắt sáng hiển thị hải trình eo biển Vùng Vịnh và các mỏ dầu Ả Rập, la bàn hàng hải bằng đồng.",
+    "sentences": [
+      "But in international trade, faith is a fragile commodity. Washington needed a physical anchor."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC008",
+    "original_tag": "CH03_SC008",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "Mỏ dầu khổng lồ Ghawar tại miền Đông Saudi Arabia, giàn bơm dầu cơ học Lufkin gật gù liên tục hút dầu thô đen óng dưới ánh mặt trời sa mạc rực rỡ.",
+    "sentences": [
+      "That anchor was black gold."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC009",
+    "original_tag": "CH03_SC009",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "JUNE 8, 1974",
+    "visual_summary": "Ngoại trưởng Henry Kissinger ngồi tại bàn hội nghị gỗ gụ cung điện hoàng gia Riyadh chuẩn bị ký kết văn kiện song phương cùng các đại biểu Saudi Arabia.",
+    "sentences": [
+      "On June 8, 1974, the two governments formally established the United States"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC010",
+    "original_tag": "CH03_SC010",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Bìa hồ sơ hiệp định bọc da thuộc dập chữ mạ vàng \"U.S.-Saudi Arabian Joint Commission on Economic Cooperation\", bên cạnh là bút máy Parker 75 bạc.",
+    "sentences": [
+      "Saudi Arabian Joint Commission on Economic Cooperation."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC011",
+    "original_tag": "CH03_SC011",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Phòng tiếp khách majlis riêng tư tại cung điện Jeddah nhìn ra Biển Đỏ lúc hoàng hôn, bộ ấm trà dallah bằng bạc và thảm dệt lụa Ba Tư quý giá.",
+    "sentences": [
+      "The core bargain was simple, elegant, and entirely unwritten in public treaties."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC012",
+    "original_tag": "CH03_SC012",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Quốc vương Faisal ngồi uy nghiêm trên ngai vàng tại Riyadh khi các sĩ quan quốc phòng Mỹ trình bản vẽ kỹ thuật tiêm kích F-15 Eagle và tên lửa Hawk.",
+    "sentences": [
+      "The United States promised absolute military protection and advanced weaponry to the House of Saud."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC013",
+    "original_tag": "CH03_SC013",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Cảng dầu nước sâu Ras Tanura bên bờ Vịnh Ba Tư, siêu tàu chở dầu VLCC khổng lồ thân đỏ đang nạp dầu thô qua các cần rót kim loại vươn dài.",
+    "sentences": [
+      "In return, Saudi Arabia agreed to price all of"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC014",
+    "original_tag": "CH03_SC014",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "USD SETTLEMENT ONLY",
+    "visual_summary": "Bản vận đơn hợp đồng xuất khẩu dầu mỏ của Bộ Dầu mỏ Saudi được đóng dấu mực xanh lục đậm dòng chữ \"SETTLEMENT EXCLUSIVELY IN U.S. DOLLARS\".",
+    "sentences": [
+      "its crude oil exports exclusively in United States dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC015",
+    "original_tag": "CH03_SC015",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Bộ trưởng Ngân khố William Simon ngồi đối thoại quyết đoán với các quan chức tài chính Saudi tại phòng họp Jeddah, giới thiệu danh mục trái phiếu Kho bạc Mỹ.",
+    "sentences": [
+      "Furthermore, the Kingdom agreed to channel its massive oil surpluses directly back into American debt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC016",
+    "original_tag": "CH03_SC016",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Phòng xử lý tài khoản quốc tế tại Ngân hàng Dự trữ Liên bang New York (33 Liberty Street), các cuộn băng từ máy tính IBM 370 quay nhịp nhàng.",
+    "sentences": [
+      "Through a special facility created by the Federal Reserve"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC017",
+    "original_tag": "CH03_SC017",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Trụ sở Cơ quan Tiền tệ Saudi Arabia (SAMA) tại Riyadh, cuốn sổ cái ghi nhận hạn mức mua Trái phiếu Mỹ bổ sung không qua đấu thầu công khai.",
+    "sentences": [
+      "the Saudi central bank purchased Treasuries through non-competitive add-on bids."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC018",
+    "original_tag": "CH03_SC018",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "PETRODOLLAR RECYCLING LOOP",
+    "visual_summary": "Sơ đồ tuần hoàn Petrodollar dạng đẳng cự: Dòng dầu từ Vùng Vịnh nuôi nhà máy châu Âu, dòng USD chảy ngược về Riyadh rồi tái đầu tư vào Bộ Tài chính Mỹ.",
+    "sentences": [
+      "This bypassed the open auction market entirely. The petrodollar recycling loop was born."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC019",
+    "original_tag": "CH03_SC019",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Tổ hợp luyện kim Thyssen tại thung lũng Ruhr, Tây Đức, các lò cao rực lửa và cuộn thép cán nóng vận hành hết công suất nhờ nhiên liệu dầu thô nhập khẩu.",
+    "sentences": [
+      "When every industrialized nation needed oil to power its factories"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC020",
+    "original_tag": "CH03_SC020",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Sàn giao dịch ngoại hối tại City of London thập niên 70, các nhà giao dịch giữ nhiều ống nghe điện thoại đổi đồng bản tệ lấy USD trên bảng tỷ giá.",
+    "sentences": [
+      "every nation had to acquire United States dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC021",
+    "original_tag": "CH03_SC021",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "NO MARKS. NO POUNDS. NO YEN.",
+    "visual_summary": "Bàn giao dịch tại Zurich, Thụy Sĩ: Các cọc tiền Mác Đức, Bảng Anh và Yên Nhật bị gạt sang một bên trước xấp tiền 100 USD và hợp đồng dầu mỏ.",
+    "sentences": [
+      "They could not pay in German marks, British pounds, or Japanese yen."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC022",
+    "original_tag": "CH03_SC022",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Cảng Yokohama, Nhật Bản thập niên 70, cần cẩu cảng bốc dỡ các container chở tivi Sony và xe hơi Toyota lên tàu hàng vượt Thái Bình Dương sang Mỹ để thu về USD.",
+    "sentences": [
+      "They had to export physical goods to America, earn dollars"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC023",
+    "original_tag": "CH03_SC023",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Trung tâm điện tín ngân hàng tại Zurich chuyển các lệnh chuyển tiền USD qua mạng cáp ngầm đại dương trực tiếp tới các tài khoản ngân hàng tại Jeddah.",
+    "sentences": [
+      "and hand those dollars over to Gulf producers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC024",
+    "original_tag": "CH03_SC024",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Hầm lưu ký ngầm của Cục Dự trữ Liên bang New York, các ngăn két sắt bằng đồng thau lưu trữ chứng chỉ trái phiếu định danh của các quỹ quốc gia Vùng Vịnh.",
+    "sentences": [
+      "And those producers promptly reinvested that money back into United States Treasuries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC025",
+    "original_tag": "CH03_SC025",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Trục không gian quyền lực Washington D.C. lúc hoàng hôn: Tòa nhà Bộ Tài chính và Điện Capitol tắm trong ánh vàng quyền uy tuyệt đối.",
+    "sentences": [
+      "This arrangement effectively transformed Washington into an unchallengeable financial monopoly."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC026",
+    "original_tag": "CH03_SC026",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Máy in tiền bảo mật công nghiệp tốc độ cao tại Cục Khắc và In ấn (BEP) ở Washington, chuyển cảnh mượt mà sang vệt sóng rẽ nước của siêu tàu chở dầu.",
+    "sentences": [
+      "America could print paper to buy real physical energy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC027",
+    "original_tag": "CH03_SC027",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Phòng điều trần Ủy ban Tài chính Thượng viện Mỹ, biểu đồ đường dốc xuống của lợi suất Trái phiếu Chính phủ Mỹ 10 năm được tài trợ bởi dòng vốn dầu mỏ.",
+    "sentences": [
+      "The exporters then lent that paper right back to Washington at low interest rates"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC028",
+    "original_tag": "CH03_SC028",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Bàn làm việc của phòng tin tức hiện đại, màn hình máy tính và điện thoại thông minh hiển thị các bài đăng mạng xã hội gây hoang mang về tiền tệ.",
+    "sentences": [
+      "funding rising domestic deficits. In recent years, internet commentators have repeated a viral claim"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC029",
+    "original_tag": "CH03_SC029",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "FACT CHECK: NO 50-YEAR EXPIRY",
+    "visual_summary": "Phòng lưu trữ hồ sơ Quốc gia tại Washington D.C., tài liệu hiệp ước 1974 được đóng dấu đỏ kiểm định pháp lý: \"VERIFIED: NO 50-YEAR EXPIRATION CLAUSE\".",
+    "sentences": [
+      "that this agreement expired after fifty years in June 2024. That claim is entirely false."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC030",
+    "original_tag": "CH03_SC030",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Bàn đọc sách của Thư viện Quốc hội Mỹ, báo cáo chính thức của Ban Nghiên cứu Quốc hội (CRS) phân tích khung pháp lý vô thời hạn của thỏa thuận 1974.",
+    "sentences": [
+      "Official records from the Congressional Research Service confirm that no sunset clause ever existed."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC031",
+    "original_tag": "CH03_SC031",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Tủ kính bảo tàng ngoại giao tại Tòa nhà Harry S. Truman, bản hiệp định hành pháp 1974 có con dấu sáp đỏ ngoại giao được chiếu sáng trang trọng.",
+    "sentences": [
+      "The 1974 framework was an open-ended executive partnership."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC032",
+    "original_tag": "CH03_SC032",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Trung tâm giám sát vận tải biển tại Dubai, màn hình kỹ thuật số hiển thị hải đồ Vịnh Ba Tư với các điểm nóng căng thẳng trên hải trình quốc tế.",
+    "sentences": [
+      "Yet the petrodollar system is facing a real crisis today."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC033",
+    "original_tag": "CH03_SC033",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Cận cảnh văn bản hiệp ước 1974 nguyên vẹn trên bàn làm việc, phía sau là màn hình hiển thị các tuyến thương mại phân nhánh mới trên thế giới.",
+    "sentences": [
+      "It is not dying from an expired contract."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC034",
+    "original_tag": "CH03_SC034",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Cảng nước sâu tự động hóa Dương Sơn (Thượng Hải), tàu chở dầu và khí đốt LNG cập cảng với màn hình giao dịch hiển thị thanh toán bằng đồng Nhân dân tệ.",
+    "sentences": [
+      "It is fracturing because the structural realities of global trade have fundamentally shifted."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC035",
+    "original_tag": "CH03_SC035",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "1974 TO 2022: 48 YEARS",
+    "visual_summary": "Hành lang biểu trưng 50 năm lịch sử tiền tệ từ 1974 đến 2022, các bảng đồng kỷ niệm kéo dài bất ngờ chạm vào màn hình cảnh báo khủng hoảng đỏ thắm.",
+    "sentences": [
+      "For five decades, the petrodollar loop hummed without interruption. But in the spring of 2022"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC036",
+    "original_tag": "CH03_SC036",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Phòng máy chủ trung tâm mạng thanh toán SWIFT tại Bỉ, màn hình đỏ rực cảnh báo phong tỏa tài sản dự trữ ngân hàng trung ương, các chuyên viên theo dõi trong im lặng.",
+    "sentences": [
+      "an unprecedented financial escalation shattered the foundation of trust that held the entire system together."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC001",
+    "original_tag": "CH04_SC001",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "FEBRUARY 2022",
+    "visual_summary": "Phòng điều hành khủng hoảng khẩn cấp trong tòa nhà Berlaymont (Ủy ban Châu Âu) tại Brussels cuối tháng 2/2022, bản đồ vệ tinh Đông Âu hiển thị trên màn hình lớn.",
+    "sentences": [
+      "In February 2022, following the outbreak of conflict in Ukraine"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC002",
+    "original_tag": "CH04_SC002",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Phòng chỉ huy Văn phòng Kiểm soát Tài sản Nước ngoài (OFAC) tại Bộ Tài chính Mỹ ở Washington, phối hợp lệnh trừng phạt tài chính trực tiếp với Frankfurt và London.",
+    "sentences": [
+      "the United States and its European allies made an unprecedented decision."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC003",
+    "original_tag": "CH04_SC003",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "$300B RESERVES FROZEN",
+    "visual_summary": "Bàn làm việc Phòng Bầu dục Nhà Trắng, sắc lệnh trừng phạt được ký bằng bút máy mực đen và đóng dấu sáp đỏ phong tỏa tài sản dự trữ ngoại hối 300 tỷ USD.",
+    "sentences": [
+      "With the stroke of a pen they froze more than three hundred billion dollars of"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC004",
+    "original_tag": "CH04_SC004",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Trụ sở Ngân hàng Trung ương Nga trên phố Neglinnaya tại Moscow trong chiều đông tuyết phủ, màn hình máy tính hiển thị các tài khoản Euroclear và Fedwire bị khóa cứng.",
+    "sentences": [
+      "foreign exchange reserves belonging to the Central Bank of Russia."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC005",
+    "original_tag": "CH04_SC005",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Phòng họp hình tròn trên tầng cao Tháp Ngân hàng Thanh toán Quốc tế (BIS) tại Basel, Thụy Sĩ nhìn ra dãy Alps, biểu tượng cho tính trung lập tiền tệ kéo dài nhiều thập kỷ.",
+    "sentences": [
+      "For decades, international finance rested on an unspoken law. No matter how fierce geopolitical disputes became"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC006",
+    "original_tag": "CH04_SC006",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Hành lang hầm vàng ngầm kiên cố của Ngân hàng Trung ương Anh (Bank of England) trên phố Threadneedle ở London, các khoang lưu ký bằng đồng khắc tên các quốc gia có chủ quyền.",
+    "sentences": [
+      "sovereign central bank reserves held in foreign jurisdictions were considered untouchable."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC007",
+    "original_tag": "CH04_SC007",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "RESERVE NEUTRALITY: SHATTERED",
+    "visual_summary": "Đại sảnh bằng đá cẩm thạch của một ngân hàng trung ương, bệ đỡ biểu trưng cho tính trung lập dự trữ xuất hiện các vết nứt quang học màu đỏ cảnh báo lan rộng khắp sàn nhà.",
+    "sentences": [
+      "They were the neutral foundation of the global monetary order. That assumption evaporated overnight."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC008",
+    "original_tag": "CH04_SC008",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "Màn hình máy trạm bảo mật SWIFT tại trung tâm vận hành La Hulpe (Bỉ) nhấp nháy hộp thoại cảnh báo màu đỏ thắm thông báo ngắt kết nối tài khoản ngân hàng trung ương Nga.",
+    "sentences": [
+      "By freezing Russia's sovereign reserves"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC009",
+    "original_tag": "CH04_SC009",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Bản đồ địa chính trị đêm toàn cầu kết nối các thủ đô không liên kết: New Delhi, Riyadh, Bắc Kinh, Jakarta và Brasilia, các tòa nhà chính phủ sáng đèn họp khẩn.",
+    "sentences": [
+      "Western capitals sent a clear message to every non-aligned capital on earth."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC010",
+    "original_tag": "CH04_SC010",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Chứng chỉ Trái phiếu Kho bạc Mỹ phôi giấy in kẽm xanh bảo mật đặt trong lồng kính, một biểu tượng ổ khóa số màu đỏ kỹ thuật số chiếu quét lên bề mặt chứng chỉ.",
+    "sentences": [
+      "Dollar reserves were no longer unconditional property."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC011",
+    "original_tag": "CH04_SC011",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Phòng điều trần Ủy ban Đối ngoại Quốc hội Mỹ tại Washington D.C., các nghị sĩ xem xét dự luật cho phép tịch thu tài sản có chủ quyền với bảng điện tử hiển thị tỷ lệ bỏ phiếu.",
+    "sentences": [
+      "They were political commitments, subject to confiscation if a sovereign government defied Western foreign policy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC012",
+    "original_tag": "CH04_SC012",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Phòng quản lý dự trữ kín đáo tại trụ sở Ngân hàng Nhân dân Trung Quốc (PBOC) trên phố Thành Phương (Bắc Kinh), các chuyên gia vĩ mô lặng lẽ phân tích mô hình tái cấu trúc tài sản.",
+    "sentences": [
+      "The reaction from global central banks was swift, quiet, and deeply structural."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC013",
+    "original_tag": "CH04_SC013",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Đại sảnh họp báo tại trụ sở Quỹ Tiền tệ Quốc tế (IMF) ở Washington D.C., bục phát biểu với micro truyền thông vẫn giữ nguyên nghi thức ngoại giao điềm đạm, không có tuyên bố tẩy chay.",
+    "sentences": [
+      "They did not announce a formal boycott of the dollar."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC014",
+    "original_tag": "CH04_SC014",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Màn hình phân tích rủi ro danh mục tại Ngân hàng Dự trữ Ấn Độ (RBI) ở Mumbai, biểu đồ cảnh báo sự sụp đổ giá trị tự thân nếu bán tháo tài sản USD đột ngột.",
+    "sentences": [
+      "Such a move would have destroyed their own balance sheets."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC015",
+    "original_tag": "CH04_SC015",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Văn phòng quỹ đầu tư quốc gia tại Singapore nhìn ra vịnh Marina, bảng thông minh hiển thị kế hoạch cơ cấu lại tài sản: giảm dần tỷ trọng giấy tờ, tăng tài sản thực và vàng.",
+    "sentences": [
+      "Instead, they began to slowly and methodically alter the composition of their national wealth."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC016",
+    "original_tag": "CH04_SC016",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Phòng nghiên cứu dữ liệu IMF tại Washington D.C., tập niên giám thống kê mở cạnh màn hình máy tính truy vấn cổng cơ sở dữ liệu COFER chính thức.",
+    "sentences": [
+      "According to official database records from the International Monetary Fund"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC017",
+    "original_tag": "CH04_SC017",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Biểu đồ hình tròn phân bổ dự trữ ngoại hối toàn cầu với phần màu xanh hải quân của đồng đô-la Mỹ được tách biệt làm nổi bật trên nền đồ họa tài chính tinh tế.",
+    "sentences": [
+      "the dollar's share of allocated global foreign exchange"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC018",
+    "original_tag": "CH04_SC018",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "USD SHARE: 57.7% (IMF COFER)",
+    "visual_summary": "Màn hình Bloomberg hiển thị đường dốc xuống của tỷ trọng dự trữ USD chạm mốc 57.7% theo dữ liệu thực chứng IMF COFER, các mốc tọa độ hiển thị sắc nét.",
+    "sentences": [
+      "reserves dropped to between 56.8 percent and 57.7 percent."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC019",
+    "original_tag": "CH04_SC019",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "2000: 71.1% ➔ TODAY: 57.7%",
+    "visual_summary": "Đồ thị so sánh lịch sử hai mốc thời gian: Cột trụ năm 2000 cao sừng sững 71.1% đối diện cột trụ hiện tại co lại còn 57.7%, minh chứng cho sự thoái lui cơ cấu.",
+    "sentences": [
+      "At the turn of the millennium, that share stood comfortably above seventy-one percent."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC020",
+    "original_tag": "CH04_SC020",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Sàn giao dịch ngoại hối Phố Wall tại New York, bảng điện tử trung tâm hiển thị USD vẫn chiếm ưu thế áp đảo về quy mô thanh khoản tức thời trước các đồng tiền khác.",
+    "sentences": [
+      "While the dollar remains the largest single reserve currency"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC021",
+    "original_tag": "CH04_SC021",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Bàn làm việc của nhà kinh tế học nhìn ra sông Thames ở London lúc hoàng hôn, các sơ đồ dòng vốn viết tay trên cửa kính truy tìm điểm đến của các dòng dự trữ rút đi.",
+    "sentences": [
+      "its long-term dominance is experiencing a steady secular decline. Where did those sovereign reserves go?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC022",
+    "original_tag": "CH04_SC022",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Xưởng đúc luyện kim của nhà máy Valcambi tại Ticino, Thụy Sĩ: Thợ luyện kim rót vàng nóng chảy từ nồi nấu kim loại vào các khuôn thỏi thép để tạo ra vàng vật chất chống cấm vận.",
+    "sentences": [
+      "The data reveals an unmistakable flight toward physical, sanction-proof assets."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC023",
+    "original_tag": "CH04_SC023",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Bốn khối thỏi vàng tiêu chuẩn xếp tầng bên trong hầm ngầm ngân hàng trung ương, mỗi khối gắn biển đồng khắc các năm 2022, 2023, 2024, 2025.",
+    "sentences": [
+      "For four consecutive years between 2022 and 2025"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC024",
+    "original_tag": "CH04_SC024",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "> 1,000 TONS GOLD / YEAR",
+    "visual_summary": "Hầm ngầm kiên cố của Ngân hàng Quốc gia Ba Lan tại Warsaw, xe nâng công nghiệp vận chuyển hàng pallet chứa các thỏi vàng 400-ounce vào phòng lưu trữ sâu dưới lòng đất.",
+    "sentences": [
+      "central banks around the world purchased more than one thousand metric tons of gold per year."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC025",
+    "original_tag": "CH04_SC025",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Bức tranh kiến trúc ghép ba thực thể thể chế: Tòa nhà PBOC Bắc Kinh, RBI Mumbai và TCMB Ankara, kết nối bằng những vệt sáng luân chuyển vàng thỏi.",
+    "sentences": [
+      "Led by institutions in China, India, Turkey, and across the Global South"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC026",
+    "original_tag": "CH04_SC026",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Lưu trữ dữ liệu của Hội đồng Vàng Thế giới tại London, đồ thị thời gian theo dõi tốc độ tích lũy vàng từ năm 1945 đến nay với đường dốc vọt đứng thẳng sau năm 2022.",
+    "sentences": [
+      "sovereign buyers accumulated gold at the fastest pace since the end of the Second World War."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC027",
+    "original_tag": "CH04_SC027",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "GOLD: ~18% OF GLOBAL RESERVES",
+    "visual_summary": "Biểu đồ vòng phân bổ tài sản dự trữ toàn cầu, dải màu vàng kim loại mở rộng đạt mức gần 18% tổng tài sản dự trữ của các ngân hàng trung ương trên thế giới.",
+    "sentences": [
+      "Physical bullion now accounts for nearly eighteen percent of total global reserve assets."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC028",
+    "original_tag": "CH04_SC028",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Thỏi vàng 400-ounce có khắc mã số và độ tinh khiết 999.9 nằm bất biến trên bệ đá granite trong hầm ngầm tại Thượng Hải, vô hiệu hóa hoàn toàn các sắc lệnh cấm vận giấy tờ.",
+    "sentences": [
+      "Gold cannot be frozen by an executive order from Washington."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC029",
+    "original_tag": "CH04_SC029",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Bức tranh tương phản: Một bên là đường cáp quang viễn thông số nối tới Brussels bị cắt đứt; bên kia là những thỏi vàng vật lý nằm tĩnh lặng ngoại tuyến không cần dây dẫn.",
+    "sentences": [
+      "It cannot be disconnected from a messaging network in Brussels."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC030",
+    "original_tag": "CH04_SC030",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Phòng mô phỏng chiến tranh kinh tế tại Washington D.C., các chuyên gia chiến lược quân sự và kinh tế quan sát điểm uốn ranh giới giữa đòn trừng phạt số và nút thắt vật lý.",
+    "sentences": [
+      "This shift marks a critical inflection point in the dynamics of modern economic warfare."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC031",
+    "original_tag": "CH04_SC031",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "LAW OF DIMINISHING RETURNS",
+    "visual_summary": "Biểu đồ toán học thể hiện Quy luật Hiệu suất Giảm dần: Đòn trừng phạt ban đầu gây sốc cực đại nhưng đường hiệu quả nhanh chóng đi ngang và mất dần tác dụng răn đe.",
+    "sentences": [
+      "Financial sanctions are governed by a law of diminishing returns."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC032",
+    "original_tag": "CH04_SC032",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Sàn giao dịch chứng khoán Moscow (MOEX) cuối tháng 2/2022, bảng chỉ số đỏ rực lao dốc, các chuyên viên tài chính đứng nhìn bảng lệnh giao dịch đóng băng trong cú sốc ban đầu.",
+    "sentences": [
+      "The first time a financial weapon is deployed, it inflicts maximum shock."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC033",
+    "original_tag": "CH04_SC033",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Trung tâm điều hành Hệ thống Thanh toán Liên ngân hàng Xuyên biên giới (CIPS) tại Thượng Hải, các kỹ sư phần mềm thiết lập mạng lưới thanh toán phi đô-la độc lập.",
+    "sentences": [
+      "But with each subsequent deployment, it forces targets and bystanders alike to build alternative financial plumbing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC034",
+    "original_tag": "CH04_SC034",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Phòng họp Bộ Tài chính Mỹ, các quan chức theo dõi bản đồ vệ tinh tình báo cho thấy các đội tàu dầu và hàng hóa vẫn luân chuyển bình thường ngoài hệ thống thanh toán USD.",
+    "sentences": [
+      "Washington discovered that its digital financial weapons were losing their coercive potency."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC035",
+    "original_tag": "CH04_SC035",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Bàn tay chuyên viên an ninh tài chính rút lui khỏi bàn phím máy tính đang phát sáng trong phòng điều hành tại Washington, bàn phím nằm trơ trọi cạnh màn hình ngừng lệnh.",
+    "sentences": [
+      "The keyboard had reached its physical limits. If the United States could no longer enforce its"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC036",
+    "original_tag": "CH04_SC036",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Dòng dữ liệu chuyển tiền điện tử xuyên Đại Tây Dương mờ dần và tan biến vào mặt biển đêm cuộn sóng dữ dội, thể hiện giới hạn bất lực của các lệnh cấm vận số hóa.",
+    "sentences": [
+      "economic will purely through digital wire transfers and banking bans"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC037",
+    "original_tag": "CH04_SC037",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Trung tâm Chỉ huy Quân sự Quốc gia (NMCC) tại Lầu Năm Góc, các sĩ quan hải quân theo dõi vị trí hải đội tàu sân bay và tàu tuần dương rải quân khắp các vùng biển hiểm yếu.",
+    "sentences": [
+      "it had to rely on the only other instrument capable of dictating global trade."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC038",
+    "original_tag": "CH04_SC038",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "THE PHYSICAL CHOKEPOINTS",
+    "visual_summary": "Nhóm tác chiến tàu sân bay Mỹ (tàu sân bay lớp Nimitz và khu trục hạm Arleigh Burke) rẽ sóng rực rỡ dưới bình minh tại eo biển Hormuz, khẳng định công cụ cưỡng chế vật lý tối thượng.",
+    "sentences": [
+      "That instrument was raw, physical naval power at the world's most critical maritime chokepoints."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC001",
+    "original_tag": "CH05_SC001",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "INTEGRATED DETERRENCE (2022)",
+    "visual_summary": "Phòng họp chiến lược tại Lầu Năm Góc ở Arlington (Virginia), bản báo cáo Chiến lược Quốc phòng 2022 bìa da đen dập nổi quốc huy vàng nằm trang trọng trên bàn gỗ lớn trước các sĩ quan tham mưu.",
+    "sentences": [
+      "In its 2022 National Defense Strategy, the Pentagon codified a doctrine known as Integrated Deterrence."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC002",
+    "original_tag": "CH05_SC002",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Màn hình tác chiến đa miền (Multi-Domain Operations) hiển thị sự đồng bộ hóa giữa vệ tinh không gian, tàu sân bay trên đại dương, và mạng lưới ngân hàng Phố Wall.",
+    "sentences": [
+      "The core concept is clear. The United States must synchronize military capabilities, economic influence"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC003",
+    "original_tag": "CH05_SC003",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Trung tâm tình báo địa kinh tế Lầu Năm Góc kết hợp Bộ Tài chính Mỹ, hiển thị đòn bẩy tài chính và sức mạnh phong tỏa hải quân song hành.",
+    "sentences": [
+      "and financial leverage across all domains of competition."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC004",
+    "original_tag": "CH05_SC004",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Sự chuyển dịch từ các màn hình ngân hàng số bị né tránh sang mô hình thực địa các tuyến hàng hải ngoài đại dương.",
+    "sentences": [
+      "When the coercive power of the financial system began to erode"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC005",
+    "original_tag": "CH05_SC005",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Toàn cảnh vệ tinh chụp từ trên cao không gian Vịnh Ba Tư, các luồng tàu chở dầu rực sáng như những động mạch huyết mạch nuôi sống thế giới.",
+    "sentences": [
+      "this doctrine pivoted toward the physical arteries of the global economy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC006",
+    "original_tag": "CH05_SC006",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "THE STRAIT OF HORMUZ",
+    "visual_summary": "Cận cảnh eo biển Hormuz trên bản đồ hải quân chiến thuật, kẹp giữa bán đảo Musandam của Oman và bờ biển hiểm trở của Iran.",
+    "sentences": [
+      "And no artery on earth carries more strategic weight than the Strait of Hormuz."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC007",
+    "original_tag": "CH05_SC007",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Tư lệnh Hạm đội 5 Hải quân Mỹ tại Trung tâm Tác chiến Hải quân ở Bahrain nhìn ra mô hình hải đồ eo biển Hormuz nối Vịnh Ba Tư với Biển Ả Rập.",
+    "sentences": [
+      "Connecting the Persian Gulf to the Arabian Sea, this passage measures just twenty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC008",
+    "original_tag": "CH05_SC008",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "21 NAUTICAL MILES WIDE",
+    "visual_summary": "Khoảng cách hẹp nghẹt thở 21 hải lý tại điểm nghẽn Hormuz giữa đảo Larak và bán đảo Musandam được đo bằng thước kẹp điện tử.",
+    "sentences": [
+      "one nautical miles across at its narrowest point."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC009",
+    "original_tag": "CH05_SC009",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "SHIPPING LANES: 2 MILES WIDE",
+    "visual_summary": "Sơ đồ Phân luồng Hàng hải (TSS) tại Hormuz: Mỗi luồng tàu chạy vào và ra chỉ rộng vỏn vẹn 2 hải lý, kẹp giữa một vùng đệm ngăn cách hẹp.",
+    "sentences": [
+      "The actual shipping lanes in each direction are barely two miles wide."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC010",
+    "original_tag": "CH05_SC010",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Đoàn siêu tàu chở dầu VLCC khổng lồ rẽ sóng nối đuôi nhau di chuyển qua eo biển dưới ánh nắng chói chang của Vùng Vịnh.",
+    "sentences": [
+      "Yet through this narrow channel flows between 20.5 and 21"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC011",
+    "original_tag": "CH05_SC011",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "21,000,000 BARRELS / DAY",
+    "visual_summary": "Bảng đo lưu lượng dầu khổng lồ tại trạm kiểm soát hàng hải Hormuz hiển thị con số 21 triệu thùng dầu mỗi ngày.",
+    "sentences": [
+      "million barrels of crude oil and petroleum products every single day."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC012",
+    "original_tag": "CH05_SC012",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "> 20% OF GLOBAL OIL",
+    "visual_summary": "Biểu đồ phân bổ năng lượng toàn cầu: Hơn 20% tổng lượng dầu mỏ tiêu thụ trên toàn thế giới phụ thuộc vào chiếc van thở Hormuz.",
+    "sentences": [
+      "That represents more than twenty percent of all liquid petroleum consumed on earth"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC013",
+    "original_tag": "CH05_SC013",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "~30% OF SEABORNE OIL",
+    "visual_summary": "Bến cảng bốc dỡ dầu biển quốc tế, minh họa tỷ trọng gần 30% dầu thương mại đường biển toàn cầu đi qua nút thắt này.",
+    "sentences": [
+      "and nearly thirty percent of all seaborne traded oil."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC014",
+    "original_tag": "CH05_SC014",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Căn cứ Hỗ trợ Hải quân Mỹ tại Bahrain (NSA Bahrain, Juffair), cờ Hải quân Mỹ tung bay trước các tàu chiến và tàu tuần tra ven biển neo đậu tại quân cảng.",
+    "sentences": [
+      "For half a century, the United States Fifth Fleet, headquartered in Bahrain, has patrolled these waters."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC015",
+    "original_tag": "CH05_SC015",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Tàu sân bay hạt nhân lớp Nimitz và tàu khu trục tên lửa lớp Arleigh Burke dẫn đầu đội tàu tuần tra song hành cùng các tàu chở dầu thương mại.",
+    "sentences": [
+      "Carrier strike groups and guided-missile destroyers maintain continuous surveillance over commercial tankers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC016",
+    "original_tag": "CH05_SC016",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Đài chỉ huy tàu chiến Hải quân Mỹ, sĩ quan hải quân nhìn qua ống nhòm hướng ra eo biển Hormuz, toát lên vẻ trang nghiêm bảo vệ an ninh quốc gia.",
+    "sentences": [
+      "On the surface, this appears to be a mission of national security."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC017",
+    "original_tag": "CH05_SC017",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Trụ sở Cơ quan Thông tin Năng lượng Mỹ (EIA) tại Washington D.C., báo cáo thống kê dòng chảy dầu mỏ toàn cầu mở sẵn trên bàn nghiên cứu.",
+    "sentences": [
+      "But when you examine trade data from the United States Energy Information Administration"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC018",
+    "original_tag": "CH05_SC018",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "THE ENERGY ASYMMETRY",
+    "visual_summary": "Sự bất đối xứng địa kinh tế gây sửng sốt: Biểu đồ năng lượng cho thấy dòng dầu Vùng Vịnh nhập về Mỹ đã thu hẹp xuống mức tối thiểu.",
+    "sentences": [
+      "an astonishing geopolitical asymmetry emerges. The United States barely consumes oil from the Persian Gulf anymore."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC019",
+    "original_tag": "CH05_SC019",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Cánh đồng dầu đá phiến lưu vực Permian tại Tây Texas, hàng loạt giàn khoan hiện đại và cụm van khai thác dầu đá phiến hoạt động tấp nập dưới trời xanh.",
+    "sentences": [
+      "Driven by the domestic shale revolution, America has become a net energy exporter."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC020",
+    "original_tag": "CH05_SC020",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "US GULF IMPORTS: < 500K BPD",
+    "visual_summary": "Đồ thị thanh khoản cho thấy nhập khẩu dầu từ Vịnh Ba Tư vào Mỹ giảm sâu dưới 500.000 thùng/ngày, chỉ chiếm tỷ lệ không đáng kể.",
+    "sentences": [
+      "United States crude imports from Gulf producers have fallen below five hundred thousand barrels per day."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC021",
+    "original_tag": "CH05_SC021",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Bản đồ hàng hải quốc tế với các dấu chấm hỏi màu vàng đặt tại ngã rẽ lối ra của eo biển Hormuz tiến ra Ấn Độ Dương.",
+    "sentences": [
+      "So where does the oil flowing through Hormuz actually go?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC022",
+    "original_tag": "CH05_SC022",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "82% FLOWS TO ASIA",
+    "visual_summary": "Mũi tên đồ họa khổng lồ màu vàng hổ phách chỉ hướng đông: Hơn 82% tổng lượng dầu Hormuz chảy thẳng về các nền kinh tế châu Á.",
+    "sentences": [
+      "Over eighty-two percent of it moves eastward toward Asia."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC023",
+    "original_tag": "CH05_SC023",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Bức tranh ghép 4 trung tâm công nghiệp châu Á: Nhà máy luyện kim Thượng Hải, tổ hợp lọc dầu Jamnagar (Ấn Độ), cảng Tokyo và nhà máy đóng tàu Ulsan (Hàn Quốc).",
+    "sentences": [
+      "It powers the industrial economies of China, India, Japan, and South Korea."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC024",
+    "original_tag": "CH05_SC024",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Tư lệnh Hạm đội 5 trên đài chỉ huy quan sát đoàn tàu dầu hướng về Trung Quốc; cảng Ninh Ba tiếp nhận hàng triệu thùng dầu mỗi ngày.",
+    "sentences": [
+      "China alone imports several million barrels of Middle Eastern crude through this waterway every single day."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC025",
+    "original_tag": "CH05_SC025",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Tàu sân bay Mỹ đang tiếp dầu và đạn dược trên biển, biểu thị chi phí vận hành khổng lồ hàng trăm triệu đô-la mỗi năm của người đóng thuế Mỹ.",
+    "sentences": [
+      "Why would the United States Navy spend hundreds of millions of dollars"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC026",
+    "original_tag": "CH05_SC026",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Nghịch lý địa chính trị: Tàu chiến Mỹ tuần tra bảo vệ an toàn cho tàu dầu của chính các đối thủ cạnh tranh chiến lược ở châu Á.",
+    "sentences": [
+      "each year safeguarding the energy lifeline of China and other Asian competitors?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC027",
+    "original_tag": "CH05_SC027",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Bản đồ địa hình bán đảo Ả Rập cho thấy sự khan hiếm cùng cực của các tuyến đường ống dẫn dầu trên bộ thay thế được đường biển.",
+    "sentences": [
+      "The answer lies in the total absence of physical alternatives."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC028",
+    "original_tag": "CH05_SC028",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Đường ống dẫn dầu bằng thép công nghiệp khổng lồ đường kính 56-inch chạy song song qua các cồn cát sa mạc Ả Rập.",
+    "sentences": [
+      "Major energy exporters have constructed bypass pipelines"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC029",
+    "original_tag": "CH05_SC029",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "BYPASS PIPELINES (PETROLINE & ADCOP)",
+    "visual_summary": "Hệ thống đường ống Đông-Tây Petroline tới cảng Yanbu và đường ống ADCOP tới cảng Fujairah bên ngoài eo biển Hormuz.",
+    "sentences": [
+      "such as Saudi Arabia's East-West Petroline and the Abu Dhabi Crude Oil Pipeline."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC030",
+    "original_tag": "CH05_SC030",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "BYPASS CAPACITY: < 4M BPD",
+    "visual_summary": "Biểu đồ so sánh năng lực: Đường ống chỉ tải tối đa 3.5 - 4 triệu thùng/ngày, hoàn toàn bất lực trước quy mô 21 triệu thùng của Hormuz.",
+    "sentences": [
+      "But these overland routes have a combined capacity of less than four million barrels per day."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC031",
+    "original_tag": "CH05_SC031",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Kịch bản mô phỏng eo biển Hormuz bị phong tỏa hoàn toàn: Cửa biển bị chặn bởi phao tiêu đỏ cảnh báo và thủy lôi nổi.",
+    "sentences": [
+      "If the Strait of Hormuz were closed"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC032",
+    "original_tag": "CH05_SC032",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "17M BPD STRANDED DEFICIT",
+    "visual_summary": "Hàng trăm siêu tàu chở dầu neo đậu bất động mắc kẹt trong Vịnh Ba Tư, 17 triệu thùng dầu mỗi ngày bị cô lập hoàn toàn.",
+    "sentences": [
+      "seventeen million barrels of oil per day would be completely stranded inside the Gulf."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC033",
+    "original_tag": "CH05_SC033",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Biểu đồ cán cân năng lượng thế giới bị thủng một khoảng trống khổng lồ tương đương 1/5 lượng tiêu thụ dầu toàn cầu.",
+    "sentences": [
+      "That deficit amounts to nearly one-fifth of global oil consumption."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC034",
+    "original_tag": "CH05_SC034",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Sàn giao dịch dầu mỏ quốc tế hỗn loạn, giá dầu Brent vọt đứng thẳng đứng, các kho dự trữ xăng dầu chiến lược bất lực.",
+    "sentences": [
+      "It would trigger an immediate supply shock that no strategic reserve could absorb."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC035",
+    "original_tag": "CH05_SC035",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Một cây xăng ngoại ô Mỹ bình yên vào buổi sáng, tương phản hoàn toàn với mục đích thực sự của hạm đội tàu sân bay ở Trung Đông.",
+    "sentences": [
+      "The United States does not patrol Hormuz to protect American consumers at the pump."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC036",
+    "original_tag": "CH05_SC036",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Phòng tình huống Nhà Trắng, các nhà hoạch định chính sách cấp cao nhìn vào màn hình hải đồ Hormuz như một đòn bẩy quyền lực tối thượng.",
+    "sentences": [
+      "It patrols Hormuz because controlling that waterway gives Washington"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC037",
+    "original_tag": "CH05_SC037",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Bản đồ lục địa Á - Âu: Tuyến cung cấp năng lượng từ Vùng Vịnh kiểm soát van thở của toàn bộ các nhà máy sản xuất khổng lồ ở Á-Âu.",
+    "sentences": [
+      "sovereign leverage over the entire manufacturing heartland of Eurasia."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC038",
+    "original_tag": "CH05_SC038",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Tàu khu trục Hải quân Mỹ lướt đi oai phong trên luồng hàng hải quốc tế, bảo đảm an toàn cho các đoàn tàu hàng.",
+    "sentences": [
+      "By guaranteeing the security of Gulf maritime transit"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC039",
+    "original_tag": "CH05_SC039",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Hình ảnh mang tính biểu tượng: Washington nắm giữ chiếc chìa khóa vàng kiểm soát cánh cổng van năng lượng của nền thương mại thế giới.",
+    "sentences": [
+      "Washington preserves its role as the ultimate gatekeeper of global trade."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC040",
+    "original_tag": "CH05_SC040",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Chiếc van kim loại công nghiệp đồ sộ kiểm soát dòng chảy dầu tại trạm bơm trung chuyển cảng Ras Tanura đang mở rộng.",
+    "sentences": [
+      "In exchange for keeping the world's primary energy valve open"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC041",
+    "original_tag": "CH05_SC041",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "DOLLAR INVOICING MANDATE",
+    "visual_summary": "Hợp đồng giao dịch dầu mỏ quốc tế với điều khoản bắt buộc thanh toán bằng USD, đóng dấu đỏ của Bộ Tài chính Mỹ.",
+    "sentences": [
+      "Washington demands that the oil flowing through it continues to be invoiced in United States dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC042",
+    "original_tag": "CH05_SC042",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Khung cảnh tháp pháo tàu chiến rẽ sóng qua làn sương sớm tại Hormuz, khẳng định bản chất vượt xa chính sách năng lượng thông thường.",
+    "sentences": [
+      "Control of Hormuz is not an energy policy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC043",
+    "original_tag": "CH05_SC043",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "THE PHYSICAL ENFORCEMENT MACHINE",
+    "visual_summary": "Bức tranh hòa quyện đỉnh cao: Thân thép tàu chiến Hải quân Mỹ nâng đỡ cỗ máy Trái phiếu Kho bạc và nợ công $40 nghìn tỷ của Washington.",
+    "sentences": [
+      "It is the physical enforcement mechanism that protects the sovereign debt machine of the United States."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC044",
+    "original_tag": "CH05_SC044",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Tàu chở dầu rời khỏi vùng nước Hormuz, rẽ sóng tiến vào vùng biển rộng lớn của Biển Ả Rập.",
+    "sentences": [
+      "Yet once that energy successfully navigates the Persian Gulf"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC045",
+    "original_tag": "CH05_SC045",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Hải trình vượt Ấn Độ Dương tiến về eo biển Malacca ở Đông Nam Á, nút thắt thứ hai thậm chí còn chật chội và hiểm hóc hơn.",
+    "sentences": [
+      "it must cross the Indian Ocean and enter a second, even narrower maritime bottleneck."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC046",
+    "original_tag": "CH05_SC046",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Hình ảnh tàu chiến Mỹ neo đơn giữa biển đêm mù sương, dự báo những giới hạn vật lý khắc nghiệt đang chờ đợi phía trước.",
+    "sentences": [
+      "And it is there that the physical limits of"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC047",
+    "original_tag": "CH05_SC047",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Hệ thống radar cảnh giới quét liên tục trên đài chỉ huy, chuẩn bị cho bài kiểm tra khắc nghiệt nhất của sức mạnh hải quân tại eo biển Malacca.",
+    "sentences": [
+      "American naval power are being tested like never before."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC001",
+    "original_tag": "CH06_SC001",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "THE STRAIT OF MALACCA",
+    "visual_summary": "Toàn cảnh eo biển Malacca nhìn từ trên cao, hàng trăm tàu chở hàng viễn dương và tàu dầu nối đuôi nhau ken đặc trên mặt nước màu lam ngọc giữa Sumatra và bán đảo Mã Lai.",
+    "sentences": [
+      "Beyond the Indian Ocean lies the world's most congested maritime chokepoint: the Strait of Malacca."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC002",
+    "original_tag": "CH06_SC002",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Hải đồ vệ tinh chi tiết thể hiện hành lang biển hẹp dài 800 km kẹp giữa bờ biển rừng rậm Sumatra (Indonesia) và dải bờ biển công nghiệp của Malaysia.",
+    "sentences": [
+      "Stretching between the Indonesian island of Sumatra and the Malay Peninsula"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC003",
+    "original_tag": "CH06_SC003",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "> 25% OF GLOBAL TRADE",
+    "visual_summary": "Đồ thị tỷ trọng thương mại toàn cầu: Hơn 25% tổng lượng hàng hóa thương mại thế giới dồn vào chiếc phễu eo biển Malacca.",
+    "sentences": [
+      "this narrow corridor carries over twenty-five percent of all traded goods on earth."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC004",
+    "original_tag": "CH06_SC004",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "15 - 16M BPD CRUDE OIL",
+    "visual_summary": "Đoàn tàu chở dầu nối đuôi nhau qua Malacca, đồng hồ lưu lượng hiển thị 15 đến 16 triệu thùng dầu thô mỗi ngày tiến về Đông Á.",
+    "sentences": [
+      "More critically, it carries between fifteen and sixteen million barrels of crude oil every single day."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC005",
+    "original_tag": "CH06_SC005",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Kênh Phillips ở phía nam Singapore, nơi các bãi cạn san hô và luồng hàng hải thu hẹp nghẹt thở chỉ còn 1.5 hải lý.",
+    "sentences": [
+      "At its narrowest juncture, the Phillips Channel south of Singapore"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC006",
+    "original_tag": "CH06_SC006",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "PHILLIPS CHANNEL: 1.5 NM",
+    "visual_summary": "Thước đo radar điện tử trên đài quan sát Singapore hiển thị bề rộng luồng tàu chỉ vỏn vẹn 1.5 hải lý (2.8 km), tương đương vài thân tàu chở dầu.",
+    "sentences": [
+      "the shipping lane narrows to just 1.5 nautical miles, barely 2.8 kilometers across."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC007",
+    "original_tag": "CH06_SC007",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Phòng tình huống quân sự tại Bắc Kinh, các sĩ quan cấp cao đứng quanh sa bàn điện tử tập trung ánh mắt vào eo biển Malacca như một tử huyệt địa chiến lược.",
+    "sentences": [
+      "For the People's Republic of China, this passage represents an acute existential vulnerability."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC008",
+    "original_tag": "CH06_SC008",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "THE MALACCA DILEMMA",
+    "visual_summary": "Bản đồ chiến lược mang tên 'Thế lưỡng nan Malacca' với chiếc cùm sắt địa kinh tế khóa chặt tuyến vận tải năng lượng hướng về bờ biển Trung Quốc.",
+    "sentences": [
+      "Chinese strategists have long termed this strategic anxiety the Malacca Dilemma."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC009",
+    "original_tag": "CH06_SC009",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Đoàn tàu siêu trọng tải chở dầu thô từ Trung Đông và Tây Phi đổ dồn về lối vào eo biển Malacca, chiếm gần 80% dầu nhập khẩu của Trung Quốc.",
+    "sentences": [
+      "Nearly eighty percent of China's maritime crude oil imports must pass through this single"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC010",
+    "original_tag": "CH06_SC010",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 1.25,
+    "text_overlay": "",
+    "visual_summary": "Cận cảnh mũi tàu chở dầu rẽ sóng luồn qua khe nước hẹp kẹp giữa các ngọn hải đăng cảnh báo.",
+    "sentences": [
+      "highly concentrated bottleneck."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC011",
+    "original_tag": "CH06_SC011",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Soái hạm USS Blue Ridge (LCC-19) của Hạm đội 7 Hải quân Mỹ tại căn cứ Yokosuka (Nhật Bản) và cơ sở hậu cần Changi tại Singapore.",
+    "sentences": [
+      "The United States Navy's Seventh Fleet, operating from bases in Japan and logistic facilities in Singapore"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC012",
+    "original_tag": "CH06_SC012",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Tàu tuần dương mang tên lửa dẫn đường lớp Ticonderoga và tàu khu trục lớp Arleigh Burke diễn tập phong tỏa trên vùng biển Đông Nam Á.",
+    "sentences": [
+      "exercises dominant maritime influence over these waters. If a major geopolitical conflict erupted"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC013",
+    "original_tag": "CH06_SC013",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Mô phỏng kịch bản phong tỏa vật lý: Chiến hạm Mỹ chốt chặn cửa ngõ Malacca, van cung cấp dầu trên biển bị ngắt dứt khoát.",
+    "sentences": [
+      "the United States possesses the physical capacity to cut China's seaborne energy supply at will."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC014",
+    "original_tag": "CH06_SC014",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Bản đồ hai đại dương: Căng thẳng dàn trải đồng thời tại Trung Đông (Vịnh Ba Tư / Biển Đỏ) và Tây Thái Bình Dương.",
+    "sentences": [
+      "Yet maintaining global dominance across two separate oceanic theatres"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC015",
+    "original_tag": "CH06_SC015",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Vết nứt trên biểu tượng huy hiệu hải quân Lầu Năm Góc, bộc lộ điểm yếu chết người trong thế bố phòng quân sự toàn cầu.",
+    "sentences": [
+      "has exposed a fatal vulnerability in America's military posture."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC016",
+    "original_tag": "CH06_SC016",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Tập ngân sách quốc phòng Mỹ khổng lồ 850 tỷ USD nằm trên bàn họp Quốc hội, tiền bạc in ra không thiếu.",
+    "sentences": [
+      "That vulnerability is not a shortage of dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC017",
+    "original_tag": "CH06_SC017",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "DEFENSE INDUSTRIAL CRISIS",
+    "visual_summary": "Bên trong nhà máy chế tạo tên lửa vắng vẻ, dây chuyền lắp ráp cơ khí chính xác đối mặt tình trạng thiếu hụt phôi đạn và công nhân lành nghề.",
+    "sentences": [
+      "It is a severe physical crisis in the defense industrial base."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC018",
+    "original_tag": "CH06_SC018",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Bầu trời đêm Biển Đỏ rực sáng pháo sáng và vệt tên lửa, tàu khu trục Mỹ cơ động đánh chặn bảo vệ luồng hàng hải thương mại qua eo Bab el-Mandeb.",
+    "sentences": [
+      "In recent naval operations across the Red Sea and the Persian Gulf"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC019",
+    "original_tag": "CH06_SC019",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Biểu đồ toán học tiêu hao bất đối xứng: Cán cân chi phí giữa vũ khí tấn công rẻ tiền và tên lửa phòng thủ đắt đỏ lệch hẳn một bên.",
+    "sentences": [
+      "American warships have faced a punishing arithmetic of asymmetric attrition."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC020",
+    "original_tag": "CH06_SC020",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Máy bay không người lái cánh tam giác Shahed-136 giá rẻ bay là là sát mặt biển đêm, động cơ cánh quạt gầm rú tiến về mục tiêu.",
+    "sentences": [
+      "Hostile non-state actors and regional adversaries deploy low-cost drones and anti"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC021",
+    "original_tag": "CH06_SC021",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "DRONES: $2,000 - $20,000",
+    "visual_summary": "Tên lửa hành trình chống hạm phóng từ xe tải cơ động trên bờ biển sa mạc, chi phí sản xuất chỉ vỏn vẹn 2.000 đến 20.000 USD mỗi quả.",
+    "sentences": [
+      "ship cruise missiles costing between two thousand and twenty thousand dollars apiece."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC022",
+    "original_tag": "CH06_SC022",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Hầm phóng tên lửa thẳng đứng Mk 41 VLS trên boong tàu khu trục Mỹ khai hỏa, tên lửa Standard Missile phóng vút lên trời đêm để đánh chặn.",
+    "sentences": [
+      "To intercept those low-cost threats and protect commercial shipping, American destroyers must fire Standard Missile interceptors"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC023",
+    "original_tag": "CH06_SC023",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "SM-2 / SM-6: $2M - $4.3M",
+    "visual_summary": "So sánh giá thành nghẹt thở: Tên lửa SM-2 và SM-6 có giá từ 1.8 đến 4.3 triệu USD mỗi lần bóp cò đánh chặn mục tiêu giá vài nghìn đô-la.",
+    "sentences": [
+      "including the SM-2 and SM-6, costing between 1.8 million and 4.3 million dollars per shot."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC024",
+    "original_tag": "CH06_SC024",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Chiếc đồng hồ cát công nghiệp bằng đồng thau đặt cạnh dây chuyền đúc phôi kim loại nguội lạnh, thời gian và năng lực sản xuất mới là điểm nghẽn thực sự.",
+    "sentences": [
+      "Money is not the primary bottleneck. Time and manufacturing capacity are."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC025",
+    "original_tag": "CH06_SC025",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Báo cáo nghiên cứu công nghiệp quốc phòng của Trung tâm Nghiên cứu Chiến lược và Quốc tế (CSIS) tại Washington D.C. mở trên bàn phân tích.",
+    "sentences": [
+      "According to defense research from the Center for Strategic and International Studies"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC026",
+    "original_tag": "CH06_SC026",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Xưởng sản xuất tên lửa SM-3 với sản lượng nhỏ giọt: Cả nước Mỹ chỉ xuất xưởng 40 đến 50 quả mỗi năm.",
+    "sentences": [
+      "American defense contractors produce only forty to fifty SM"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC027",
+    "original_tag": "CH06_SC027",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "SM-3: 40-50 / THAAD: 20-30 YR",
+    "visual_summary": "Biểu đồ sản lượng thường niên đáng báo động: Chỉ 40-50 quả SM-3 và 20-30 đạn đánh chặn THAAD được chế tạo mỗi năm.",
+    "sentences": [
+      "3 interceptors and twenty to thirty THAAD interceptor rounds per year."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC028",
+    "original_tag": "CH06_SC028",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Các ống phóng rỗng trên tàu khu trục sau đợt tác chiến kéo dài vài tuần trên Biển Đỏ, khói thuốc súng còn vương trên boong.",
+    "sentences": [
+      "A single naval skirmish lasting a few weeks can consume months"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC029",
+    "original_tag": "CH06_SC029",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Biểu đồ thời gian cho thấy vài tuần giao tranh tiêu hao sạch số đạn dược sản xuất trong cả năm trời; vũ khí tối tân không thể sản xuất hàng loạt nhanh chóng.",
+    "sentences": [
+      "or even years, of specialized domestic weapons production. These interceptors cannot be rapidly mass-produced."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC030",
+    "original_tag": "CH06_SC030",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Bên trong xưởng đúc động cơ nhiên liệu rắn: Cánh tay robot kiểm tra từng lớp hợp kim đất hiếm và phôi nhiên liệu composite đa tầng.",
+    "sentences": [
+      "They require complex solid-fuel rocket motors, rare earth alloys"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC031",
+    "original_tag": "CH06_SC031",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Kính hiển vi phóng đại chip radar dẫn đường sóng milimet phức tạp, kết nối các mắt xích cung ứng mong manh xuyên Thái Bình Dương.",
+    "sentences": [
+      "and precision microelectronics that depend on fragile global supply chains."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC032",
+    "original_tag": "CH06_SC032",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Hàng trăm tên lửa đắt đỏ phóng đi tại Biển Đỏ để che chắn cho tàu chở hàng thương mại quốc tế, rút cạn kho dự trữ phòng thủ.",
+    "sentences": [
+      "By expending hundreds of multi-million-dollar interceptors to protect commercial shipping corridors in the Middle East"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC033",
+    "original_tag": "CH06_SC033",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "STOCKPILES DRAINING (INDO-PACIFIC)",
+    "visual_summary": "Kho vũ khí chiến lược tại Guam và Hawaii trống trải dần, đạn dược dự phòng cho mặt trận Ấn Độ Dương - Thái Bình Dương bị tiêu hao.",
+    "sentences": [
+      "the Pentagon is actively draining the sovereign weapons stockpiles intended for the Indo-Pacific theatre."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC034",
+    "original_tag": "CH06_SC034",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Bộ Quốc phòng Nhật Bản tại Tokyo (Ichigaya) và Bộ Quốc phòng Hàn Quốc tại Seoul (Yongsan), các tướng lĩnh đồng minh trầm ngâm lo âu trước màn hình kho đạn.",
+    "sentences": [
+      "Allies in Tokyo and Seoul observe this dynamic with quiet dread."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC035",
+    "original_tag": "CH06_SC035",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Chiếc ô lá chắn tên lửa Aegis của Hải quân Mỹ bao phủ trên bản đồ Đông Á, đang đối mặt nguy cơ thủng lưới vì thiếu đạn.",
+    "sentences": [
+      "They rely on American missile defense umbrellas for deterrence."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC036",
+    "original_tag": "CH06_SC036",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Thực tế phũ phàng: Năng lực công nghiệp vật lý của Mỹ không thể cáng đáng nổi các cuộc tác chiến cường độ cao cùng lúc trên hai đại dương.",
+    "sentences": [
+      "But they recognize that America's physical industrial capacity cannot sustain high-intensity operations across two oceans simultaneously."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC037",
+    "original_tag": "CH06_SC037",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Trụ sở Cục Dự trữ Liên bang Mỹ tại Washington, phím bấm máy tính tạo ra hàng nghìn tỷ đô-la tín dụng số trong chớp mắt.",
+    "sentences": [
+      "Washington can print trillions of digital currency units at the click of a button."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC038",
+    "original_tag": "CH06_SC038",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "MONEY CANNOT PRINT MISSILES",
+    "visual_summary": "Sự đối lập tàn khốc: Máy in tiền không thể in ra phôi nhiên liệu tên lửa rắn hay chip bán dẫn quét mảng pha chính xác cao.",
+    "sentences": [
+      "But it cannot print advanced missile propellant or precision radar guidance chips."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC039",
+    "original_tag": "CH06_SC039",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Phòng tình huống tác chiến của các cường quốc đối thủ, các nhà chiến lược phát hiện điểm yếu dàn mỏng lực lượng của đế chế.",
+    "sentences": [
+      "Seeing this imperial overstretch and the finite limits of American naval deterrence"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC040",
+    "original_tag": "CH06_SC040",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "Góc nhìn cận cảnh đôi mắt sắc bén của nhà hoạch định chiến lược đối thủ nhìn thẳng vào bản đồ luồng hàng hải quốc tế.",
+    "sentences": [
+      "America's adversaries recognized a historic opening."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC041",
+    "original_tag": "CH06_SC041",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Không đối đầu trực diện: Tàu ngầm và tàu tuần tra đối thủ lặng lẽ tránh các cụm tàu sân bay Mỹ trên biển mở.",
+    "sentences": [
+      "They did not attempt to defeat the United States Navy head-on."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC042",
+    "original_tag": "CH06_SC042",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Sự trỗi dậy của mạng lưới hàng hải song song vô hình: Những con tàu bóng ma tắt định vị AIS lướt đi trong bóng đêm vượt ra ngoài luật chơi quốc tế.",
+    "sentences": [
+      "Instead, they built an invisible, parallel maritime network designed to bypass the rules entirely."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC001",
+    "original_tag": "CH07_SC001",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Màn hình radar vệ tinh thương mại hiển thị các vệt sáng tàu bè không tên di chuyển bí ẩn trong bóng đêm trên các vùng biển quốc tế.",
+    "sentences": [
+      "Every night on commercial satellite radars, phantom shapes move silently across the high seas."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC002",
+    "original_tag": "CH07_SC002",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Thân vỏ gỉ sét của một siêu tàu chở dầu 18 năm tuổi, tên tàu và logo doanh nghiệp bị cạo xóa sơn đè lem luốc.",
+    "sentences": [
+      "Giant oil tankers, rusting and stripped of corporate logos"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC003",
+    "original_tag": "CH07_SC003",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "THE SHADOW FLEET",
+    "visual_summary": "Đài chỉ huy tối om của tàu dầu bóng ma, bàn tay thuyền trưởng gạt công tắc tắt hệ thống nhận dạng tự động AIS; Hạm đội Bóng tối lộ diện.",
+    "sentences": [
+      "glide through international waters with their automatic identification transponders switched off. This is the Shadow Fleet."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC004",
+    "original_tag": "CH07_SC004",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Trung tâm tình báo hàng hải Lloyd's List Intelligence tại London, các chuyên viên phân tích theo dõi bản đồ di biến động tàu bóng ma toàn cầu.",
+    "sentences": [
+      "According to maritime data from Lloyd's List Intelligence"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC005",
+    "original_tag": "CH07_SC005",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "650 - 850 VESSELS (LLOYD'S)",
+    "visual_summary": "Hạm đội bóng ma ngầm đã phình to lên từ 650 đến 850 tàu, tạo thành một đạo quân hàng hải ngầm khổng lồ trên khắp đại dương.",
+    "sentences": [
+      "this clandestine armada has swelled to between 650 and 850 vessels."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC006",
+    "original_tag": "CH07_SC006",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "> 11% OF GLOBAL TANKER FLEET",
+    "visual_summary": "Biểu đồ trọng tải tàu dầu thế giới: Hạm đội bóng ma chiếm hơn 11% tổng trọng tải tàu chở dầu thô toàn cầu.",
+    "sentences": [
+      "It represents more than eleven percent of the world's entire crude tanker capacity."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC007",
+    "original_tag": "CH07_SC007",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Những con tàu 'bóng ma doanh nghiệp' già cỗi 15 đến 18 năm tuổi, máy móc rệu rã nhưng vẫn chạy hết công suất ngoài khơi xa.",
+    "sentences": [
+      "These ships are corporate ghosts. They average more than fifteen to eighteen years of age"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC008",
+    "original_tag": "CH07_SC008",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Vượt xa ngưỡng thanh lý của các hãng tàu phương Tây, các con tàu cũ kỹ được tân trang tạm bợ để chở dầu né trừng phạt.",
+    "sentences": [
+      "far beyond the retirement threshold of Western shipping companies."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC009",
+    "original_tag": "CH07_SC009",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Chứng chỉ đăng ký tàu treo cờ tiện lợi của Gabon, Panama và Liberia đặt trên bàn luật sư hàng hải, che giấu chủ sở hữu thực sự.",
+    "sentences": [
+      "They register under flags of convenience in nations like Gabon, Panama, and Liberia."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC010",
+    "original_tag": "CH07_SC010",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Tàu bóng ma hoạt động hoàn toàn độc lập: Không bảo hiểm P&I phương Tây, không tài chính ngân hàng Mỹ-Âu, không thiết bị giám sát phương Tây.",
+    "sentences": [
+      "They operate entirely without Western maritime insurance, Western financing, or Western tracking systems."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC011",
+    "original_tag": "CH07_SC011",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "SHIP-TO-SHIP (STS) TRANSFER",
+    "visual_summary": "Kỹ thuật tác chiến cốt lõi: Sang mạn dầu giữa biển khơi (Ship-to-Ship Transfer - STS), hai siêu tàu áp sát mạn nhau.",
+    "sentences": [
+      "Their primary operational technique is ship-to-ship transfer."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC012",
+    "original_tag": "CH07_SC012",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "LACONIAN GULF, GREECE",
+    "visual_summary": "Vùng biển quốc tế vịnh Laconian ngoài khơi bán đảo Peloponnese, Hy Lạp: Nơi các tàu dầu bóng ma thường xuyên sang mạn dầu Nga.",
+    "sentences": [
+      "In the international waters of the Laconian Gulf off Greece"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC013",
+    "original_tag": "CH07_SC013",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Cửa ngõ ngoài khơi eo biển Malacca gần quần đảo Riau, các tàu dầu áp sát mạn nhau trong bóng đêm dày đặc để chuyển dầu.",
+    "sentences": [
+      "and along the outer approaches to the Strait of Malacca these tankers moor side-by-side in darkness."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC014",
+    "original_tag": "CH07_SC014",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Đường ống cao su công nghiệp áp lực cao bơm hàng triệu thùng dầu thô Nga và Iran từ tàu này sang tàu khác dưới ánh đèn boong.",
+    "sentences": [
+      "They pump millions of barrels of sanctioned Russian and Iranian crude between hulls"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC015",
+    "original_tag": "CH07_SC015",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Tập vận đơn giả mạo được đóng dấu thay đổi nguồn gốc xuất xứ tại Singapore/Malaysia trước khi tàu cập cảng lọc dầu Sơn Đông, Trung Quốc.",
+    "sentences": [
+      "blending origins and falsifying paperwork before docking at refineries in Asia."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC016",
+    "original_tag": "CH07_SC016",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Từ bỏ các trung tâm thanh toán phương Tây, mạng lưới đường ray tài chính ngầm kết nối Moscow, Bắc Kinh, New Delhi và Dubai được kích hoạt.",
+    "sentences": [
+      "To settle these transactions, buyers and sellers abandoned Western clearinghouses. They built alternative financial rails."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC017",
+    "original_tag": "CH07_SC017",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "CIPS (SHANGHAI)",
+    "visual_summary": "Trung tâm vận hành Hệ thống Thanh toán Liên ngân hàng Xuyên biên giới CIPS tại Thượng Hải, các máy chủ thanh toán bù trừ Nhân dân tệ sáng đèn liên tục.",
+    "sentences": [
+      "China expanded its Cross-Border Interbank Payment System, known as CIPS."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC018",
+    "original_tag": "CH07_SC018",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "mBRIDGE PLATFORM",
+    "visual_summary": "Giao diện nền tảng tiền kỹ thuật số đa ngân hàng trung ương mBridge (BIS Innovation Hub), thanh toán trực tiếp giữa các đồng tiền số.",
+    "sentences": [
+      "Central banks experimented with mBridge, a multi-central bank digital currency platform."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC019",
+    "original_tag": "CH07_SC019",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Hợp đồng mua bán dầu thô đa tiền tệ: Các xấp tiền Nhân dân tệ, Rúp Nga và Rupee Ấn Độ đặt cạnh nhau trên bàn thương thảo dầu mỏ.",
+    "sentences": [
+      "Oil contracts were settled in Chinese yuan, Russian roubles, and Indian rupees."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC020",
+    "original_tag": "CH07_SC020",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Hội nghị thượng đỉnh BRICS tại Johannesburg hoặc Kazan, các nhà lãnh đạo nâng ly chúc mừng trật tự tiền tệ đa cực trên khán đài quốc tế.",
+    "sentences": [
+      "For advocates of rapid de-dollarization, this was heralded as the beginning of a post-American monetary order."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC021",
+    "original_tag": "CH07_SC021",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Phía sau ánh hào quang tuyên truyền: Hệ thống song phương đụng phải một bức tường đá kiên cố sừng sững không thể vượt qua.",
+    "sentences": [
+      "But beneath the rhetoric, this parallel system collided with an immovable financial barrier."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC022",
+    "original_tag": "CH07_SC022",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "THE NON-CONVERTIBILITY WALL",
+    "visual_summary": "Khái niệm cốt lõi: 'Bức Tường Bất Khả Chuyển Đổi' được khắc sâu trên phiến đá cẩm thạch đen tại một viện nghiên cứu kinh tế học.",
+    "sentences": [
+      "Economists call this the Non-Convertibility Wall."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC023",
+    "original_tag": "CH07_SC023",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Cảng dầu Vadinar tại Gujarat, Ấn Độ tiếp nhận các siêu tàu chở dầu thô Urals giá rẻ từ Nga cập cầu cảng dỡ hàng.",
+    "sentences": [
+      "When India purchased hundreds of millions of barrels of discounted Russian crude"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC024",
+    "original_tag": "CH07_SC024",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Ấn Độ kiên quyết thanh toán bằng đồng Rupee; sau vài tháng, các nhà xuất khẩu dầu Nga tích lũy hàng chục tỷ USD giá trị tiền Rupee.",
+    "sentences": [
+      "it insisted on paying in Indian rupees. Within months, Russian oil exporters accumulated tens of billions"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC025",
+    "original_tag": "CH07_SC025",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "FROZEN RUPEE VOSTRO ACCOUNTS",
+    "visual_summary": "Các tài khoản Vostro đặc biệt tại các ngân hàng thương mại Ấn Độ đầy ắp tiền Rupee nhưng không thể rút ra nước ngoài.",
+    "sentences": [
+      "of dollars worth of rupees parked inside Indian commercial banks."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC026",
+    "original_tag": "CH07_SC026",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Hàng rào kiểm soát vốn của Ngân hàng Dự trữ Ấn Độ (RBI): Đồng Rupee không được phép đổi sang USD, Euro hay vàng vật chất.",
+    "sentences": [
+      "Under Indian capital controls, those rupees could not be converted into dollars, euros, or gold."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC027",
+    "original_tag": "CH07_SC027",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Các lệnh chuyển tiền hồi hương về Moscow bị phong tỏa kỹ thuật số ngay tại biên giới ngân hàng Ấn Độ.",
+    "sentences": [
+      "They could not even be transferred back to Moscow."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC028",
+    "original_tag": "CH07_SC028",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Két sắt ngân hàng chứa đầy các cọc tiền 500 Rupee Ấn Độ, tài sản khổng lồ trên danh nghĩa nhưng bị khóa chặt trong biên giới nội địa.",
+    "sentences": [
+      "Russia was left holding massive piles of currency that could"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC029",
+    "original_tag": "CH07_SC029",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Đoàn xe tải chở thuốc tân dược và máy móc nông nghiệp xuất xưởng từ Ấn Độ sang Nga, lựa chọn chi tiêu hạn hẹp duy nhất.",
+    "sentences": [
+      "only be spent buying Indian pharmaceutical goods or domestic manufacturing machinery."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC030",
+    "original_tag": "CH07_SC030",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Bức tranh ẩn dụ: Đồng tiền bị đóng khung sau tấm kính bảo vệ có khóa xích kim loại, không thể lưu thông tự do ra thế giới.",
+    "sentences": [
+      "A currency that cannot be freely converted or"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC031",
+    "original_tag": "CH07_SC031",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "TRADE COUPON VS RESERVE CURRENCY",
+    "visual_summary": "Phán quyết kinh tế học sắc bén: Một đồng tiền không thể chuyển đổi tự do không phải là tiền tệ dự trữ, nó chỉ là một 'phiếu đổi hàng kém thanh khoản'.",
+    "sentences": [
+      "spent across global markets is not a reserve currency. It is an illiquid trade coupon."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC032",
+    "original_tag": "CH07_SC032",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "Trụ sở Cục Quản lý Ngoại hối Nhà nước Trung Quốc (SAFE) tại Bắc Kinh, đối mặt thế lưỡng nan tương tự về kiểm soát vốn.",
+    "sentences": [
+      "China faces a similar dilemma."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC033",
+    "original_tag": "CH07_SC033",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Thế khó của Bắc Kinh: Vừa muốn quốc tế hóa đồng Nhân dân tệ, vừa kiên quyết không mở cửa tài khoản vốn vì sợ bất ổn định.",
+    "sentences": [
+      "While Beijing promotes the internationalization of the renminbi, it refuses to liberalize its capital account."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC034",
+    "original_tag": "CH07_SC034",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Phòng họp Ngân hàng Nhân dân Trung Quốc, các nhà hoạch định chính sách nhận thức rõ việc mở cửa vốn sẽ châm ngòi cho làn sóng tháo chạy vốn khổng lồ.",
+    "sentences": [
+      "Chinese leaders understand that opening their capital borders would trigger massive domestic capital flight."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC035",
+    "original_tag": "CH07_SC035",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Dữ liệu chính thức từ SWIFT: Tỷ trọng đồng Nhân dân tệ trong thanh toán toàn cầu vẫn giậm chân tại chỗ dưới mức 5%.",
+    "sentences": [
+      "According to SWIFT data, the renminbi's share of global payments remains hovering under five percent"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC036",
+    "original_tag": "CH07_SC036",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "SWIFT: USD 47% VS RMB < 5%",
+    "visual_summary": "Trong khi đó, đồng USD vẫn sừng sững chiếm gần 47% tổng khối lượng giao dịch thanh toán quốc tế qua mạng SWIFT.",
+    "sentences": [
+      "while the United States dollar still anchors nearly forty-seven percent of international transaction volume."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC037",
+    "original_tag": "CH07_SC037",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Đoàn tàu bóng ma lướt qua màn đêm, luồn lách qua các lệnh cấm vận kỹ thuật số một cách dễ dàng.",
+    "sentences": [
+      "Evading Western sanctions has proven relatively easy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC038",
+    "original_tag": "CH07_SC038",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Nhưng việc tạo ra một thứ thay thế cho đại dương thanh khoản 27 nghìn tỷ USD của Trái phiếu Mỹ gần như là điều bất khả thi.",
+    "sentences": [
+      "But creating a replacement for the dollar's twenty-seven-trillion-dollar liquidity ocean has proven nearly impossible."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC039",
+    "original_tag": "CH07_SC039",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Ngai vàng tiền tệ quốc tế vẫn để trống, không có đồng tiền nào đủ sức bước lên thay thế vị trí của đồng USD.",
+    "sentences": [
+      "The world has not found a new monetary king."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC040",
+    "original_tag": "CH07_SC040",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Thế giới kinh tế phân mảnh thành các khối thương mại ma sát cao, chi phí giao dịch và rủi ro tỷ giá đội lên từng ngày.",
+    "sentences": [
+      "Instead, it has fractured into a high-friction economic standoff."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC041",
+    "original_tag": "CH07_SC041",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Thế bế tắc địa chiến lược đẩy cả Washington và các cường quốc đối thủ tiến sát vào bờ vực của một cái bẫy lịch sử.",
+    "sentences": [
+      "And this standoff is leading both Washington and its rivals"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC042",
+    "original_tag": "CH07_SC042",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Khung cảnh hoàng hôn rực lửa buông xuống trên eo biển quốc tế, dẫn nhập vào Cái Bẫy Kindleberger định mệnh của thế kỷ 21.",
+    "sentences": [
+      "into the most dangerous geopolitical trap of the twenty-first century."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC001",
+    "original_tag": "CH08_SC001",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "PLATO'S ALLEGORY OF THE CAVE",
+    "visual_summary": "Hy Lap the ky thu 4 truoc Cong nguyen: Phong dong da voi co xua duoi long dat tai vung Attica, vach da gam gao chieu sang boi ngon duoc am nong, khoi dau an du Hang dong cua Plato.",
+    "sentences": [
+      "In the fourth century BC the Greek philosopher Plato described an underground cave"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC002",
+    "original_tag": "CH08_SC002",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Nhung tu nhan bi xieng xich tu thuo nho ngoi bat dong quay mat vao buc tuong da phang trong hang toi, khong the quay dau nhin ra sau.",
+    "sentences": [
+      "where prisoners were chained to face a blank wall."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC003",
+    "original_tag": "CH08_SC003",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Phia sau ho, mot ngon lua lon bung chay ruc ro; cac nguoi bieu dien gio cao cac hinh no go va dong ve ngua, thuyen va do vat, do bong len vach da.",
+    "sentences": [
+      "Behind them, a burning fire cast flickering shadows of puppets and objects onto the stone."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC004",
+    "original_tag": "CH08_SC004",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Khong biet den the gioi ben ngoai, nhung nguoi bi giam cam tin rang nhung cai bong chap choi tren vach da chinh la hien thuc duy nhat ton tai.",
+    "sentences": [
+      "Knowing nothing else, the prisoners believed those shadows were reality itself."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC005",
+    "original_tag": "CH08_SC005",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "THE GEOPOLITICAL ILLUSION",
+    "visual_summary": "Trong nen kinh te toan cau hien dai, chung ta cung dang song trong mot hang dong an du y het nhu the.",
+    "sentences": [
+      "In modern global economics, we live inside a similar cave."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC006",
+    "original_tag": "CH08_SC006",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Khi ban nhin thay gia xang dau tang vot tai cay xang gan nha, dong ho ky thuat so nhay so vun vut duoi anh den chieu.",
+    "sentences": [
+      "When you see the price of gasoline spike at your local pump"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC007",
+    "original_tag": "CH08_SC007",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Ban nghi rang minh chi don thuan dang chung kien quy luat cung cau co ban cua thi truong hang hoa.",
+    "sentences": [
+      "you think you are looking at supply and demand."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC008",
+    "original_tag": "CH08_SC008",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Khi ban doc tin ve mot dot tang lai suat moi cua Cuc Du tru Lien bang My Fed tren cac trang tin tai chinh.",
+    "sentences": [
+      "When you read about another interest rate hike by the Federal Reserve"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC009",
+    "original_tag": "CH08_SC009",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Ban nghi rang ban dang nhin vao cuoc chien chong lam phat noi dia thuan tuy cua nuoc My.",
+    "sentences": [
+      "you think you are looking at domestic inflation."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC010",
+    "original_tag": "CH08_SC010",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Khi ban xem ban tin truyen hinh chieu canh mot tau san bay hat nhan My re song tien qua eo bien Hormuz.",
+    "sentences": [
+      "When you watch news footage of an American aircraft carrier sailing through the Strait of Hormuz"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC011",
+    "original_tag": "CH08_SC011",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "SHADOWS VS REALITY",
+    "visual_summary": "Ban nghi do chi la man pho truong suc manh quan su don thuan. Nhung do chi la nhung cai bong tren vach da hang dong.",
+    "sentences": [
+      "you think you are looking at military posturing. Those are only the shadows on the wall."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC012",
+    "original_tag": "CH08_SC012",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Ngon lua thuc su tao ra nhung cai bong ay la mot co may dia kinh te da van hanh suot nua the ky.",
+    "sentences": [
+      "The fire that casts them is a fifty-year"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC013",
+    "original_tag": "CH08_SC013",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "MARITIME CONTROL -> SOVEREIGN CREDIT",
+    "visual_summary": "Co may ay bien quyen kiem soat tuyen hang hai thanh tin dung chu quyen bat tan cho nuoc My.",
+    "sentences": [
+      "old geoeconomic machine that turns maritime transit into sovereign credit."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC014",
+    "original_tag": "CH08_SC014",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Nuoc My chua bao gio bo cong bao ve cac tuyen hang hai quoc te chi vi long vi tha hao hiep.",
+    "sentences": [
+      "The United States never defended the high seas out of altruism."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC015",
+    "original_tag": "CH08_SC015",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "My bao ve bien khoi boi vi viec kiem soat cac diem nghen thuong mai vat ly cua hanh tinh",
+    "sentences": [
+      "It defended the high seas because controlling the world's physical trade chokepoints"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC016",
+    "original_tag": "CH08_SC016",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "THE PRICE OF ADMISSION",
+    "visual_summary": "chinh la ve vao cua de van hanh mot de che toan cau bang tien di vay.",
+    "sentences": [
+      "was the price of admission for running an empire on borrowed money."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC017",
+    "original_tag": "CH08_SC017",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "De doi lay viec ganh vac toan bo chi phi duy tri uu the hai quan ap dao,",
+    "sentences": [
+      "In exchange for bearing the cost of naval dominance"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC018",
+    "original_tag": "CH08_SC018",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Washington yeu cau ca the gioi phai dinh gia nang luong bang dong USD",
+    "sentences": [
+      "Washington demanded that the world invoice its energy"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC019",
+    "original_tag": "CH08_SC019",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "va phai cat giu tien tiet kiem cua ho duoi dang Trai phieu Kho bac My.",
+    "sentences": [
+      "in dollars and store its savings in American Treasuries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC020",
+    "original_tag": "CH08_SC020",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "CHARLES KINDLEBERGER (MIT)",
+    "visual_summary": "Nha kinh te hoc Charles Kindleberger tung nhan xet rang mot nen kinh te mo toan cau luon doi hoi mot cuong quoc duy nhat",
+    "sentences": [
+      "The economist Charles Kindleberger observed that an open global economy requires a single"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC021",
+    "original_tag": "CH08_SC021",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "co du y chi va nguon luc de chi tra khoan chi phi khong lo bao tro cho cac loai hang hoa cong toan cau.",
+    "sentences": [
+      "hegemonic power willing to pay the massive costs of maintaining global public goods."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC022",
+    "original_tag": "CH08_SC022",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Cuong quoc do phai giu cho cac tuyen bien luon thong suot, va phai cung cap cac thi truong von sau rong, thanh khoan cao.",
+    "sentences": [
+      "It must keep sea lanes open. It must supply deep, liquid capital markets."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC023",
+    "original_tag": "CH08_SC023",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Va quan trong hon ca, no phai dong vai tro la nguoi cho vay cuu canh cuoi cung cua he thong tai chinh toan cau.",
+    "sentences": [
+      "It must act as the lender of last resort."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC024",
+    "original_tag": "CH08_SC024",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "THE FREE-RIDER DILEMMA",
+    "visual_summary": "The nhung, bi kich cua ke thong tri bat dau tu van de ke an khong di nho (Free-Rider Problem).",
+    "sentences": [
+      "Yet the tragedy of the hegemon begins with the free-rider problem."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC025",
+    "original_tag": "CH08_SC025",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Trong khi nuoc My phai ganh chi phi tai chinh va quan su khong lo de dam bao an ninh cho vung bien quoc te chung",
+    "sentences": [
+      "While the United States bears the staggering financial and military costs of securing the global commons"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC026",
+    "original_tag": "CH08_SC026",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "thi cac doi thu dia chinh tri lon nhat lai ung dung huong loi mien phi de tich luy thang du thuong mai khong lo.",
+    "sentences": [
+      "its greatest geopolitical competitors enjoy the benefits for free to accumulate their own trade surpluses."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC027",
+    "original_tag": "CH08_SC027",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Dong luc do da day Washington roi vao tinh trang kiet que ve mat tai khoa",
+    "sentences": [
+      "That dynamic has pushed Washington into fiscal exhaustion"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC028",
+    "original_tag": "CH08_SC028",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "$40,000,000,000,000 NATIONAL DEBT",
+    "visual_summary": "khi no cong quoc gia vuot nguong 40 nghin ty USD",
+    "sentences": [
+      "with a national debt exceeding forty trillion dollars and net"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC029",
+    "original_tag": "CH08_SC029",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "$1.1T ANNUAL NET INTEREST",
+    "visual_summary": "va chi phi tra lai no rong moi nam ngau nghien hon 1,1 nghin ty USD ngan sach.",
+    "sentences": [
+      "interest payments devouring more than 1.1 trillion dollars each year."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC030",
+    "original_tag": "CH08_SC030",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "THE KINDLEBERGER TRAP",
+    "visual_summary": "Va su kiet que do chich ngòi cho mot cai bay thuc su: Cai Bay Kindleberger.",
+    "sentences": [
+      "And that exhaustion triggers the true Kindleberger Trap."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC031",
+    "original_tag": "CH08_SC031",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Bi kich xay ra khi ke thong tri suy yeu khong con du tien de duy tri trat tu the gioi",
+    "sentences": [
+      "This tragedy occurs when the declining hegemon can no longer afford to uphold the global order"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC032",
+    "original_tag": "CH08_SC032",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "trong khi cuong quoc moi noi lai chua du nang luc",
+    "sentences": [
+      "while the rising power is neither able nor"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC033",
+    "original_tag": "CH08_SC033",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "va cung khong he muon ganh vac chi phi khong lo de thay the. Mot khoang trong quan tri tham khoc xuat hien.",
+    "sentences": [
+      "willing to shoulder the massive costs of replacing it. A catastrophic governance vacuum opens up."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC034",
+    "original_tag": "CH08_SC034",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Nuoc My khong con du suc de lam luc luong canh sat bien mien phi cho toan cau.",
+    "sentences": [
+      "The United States can no longer afford to be the world's free maritime police force."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC035",
+    "original_tag": "CH08_SC035",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Nhung neu Washington rut lui va bo roi cac eo bien, My se danh mat chiec van nang luong toan cau,",
+    "sentences": [
+      "Yet if Washington pulls back and abandons the straits, it surrenders the global energy valve"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC036",
+    "original_tag": "CH08_SC036",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "khien nhu cau mang tinh ep buoc giu gia cho dong USD lap tuc bien mat.",
+    "sentences": [
+      "causing the coercive demand that underpins the dollar to vanish."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC037",
+    "original_tag": "CH08_SC037",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Tuong lai cua trat tu tien te toan cau se khong phai la mot su sup do qua dem cua dong do la My.",
+    "sentences": [
+      "The future of the global monetary order is not an overnight dollar collapse."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC038",
+    "original_tag": "CH08_SC038",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "No cung khong phai la su thang the bat ngo cua bat ky mot dong tien doi thu nao khac.",
+    "sentences": [
+      "Nor is it the sudden triumph of a rival currency."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC039",
+    "original_tag": "CH08_SC039",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "A HIGH-FRICTION WORLD",
+    "visual_summary": "Tuong lai la mot the gioi phan manh va day ma sat.",
+    "sentences": [
+      "The future is a fragmented, high-friction world."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC040",
+    "original_tag": "CH08_SC040",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Do la mot the gioi ma thuong mai nang luong vat ly phai tra chi phi rat dat do de mua bao hiem, van chuyen",
+    "sentences": [
+      "It is a world where physical energy trade costs far more to insure, transport"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC041",
+    "original_tag": "CH08_SC041",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "va tai tro von vi nhung khoang trong an ninh tren vung bien chung.",
+    "sentences": [
+      "and finance because of security voids across the maritime commons."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC042",
+    "original_tag": "CH08_SC042",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Do la mot the gioi ma tung thung dau tho",
+    "sentences": [
+      "It is a world where every barrel of crude"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC043",
+    "original_tag": "CH08_SC043",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "va moi giao dich thuong mai deu phai cong them mot khoan phi phu troi vat ly rat lon.",
+    "sentences": [
+      "and every trade transaction demands a higher physical premium."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC044",
+    "original_tag": "CH08_SC044",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "To 100 do la My trong vi cua ban lay suc manh thuc su",
+    "sentences": [
+      "The hundred-dollar bill in your wallet derives its power"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC045",
+    "original_tag": "CH08_SC045",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "khong phai chi tu thi truong tai chinh sau rong hay he thong phap ly. O tang bac vat ly can ban nhat,",
+    "sentences": [
+      "not merely from deep financial markets or legal institutions. At the most fundamental physical level"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC046",
+    "original_tag": "CH08_SC046",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "suc manh ay duoc neo giu boi nhung vo thep khong lo cua",
+    "sentences": [
+      "it is anchored by the steel hulls of"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC047",
+    "original_tag": "CH08_SC047",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "THE NAVAL ANCHOR OF THE DOLLAR",
+    "visual_summary": "Hai quan Hoa Ky dang tuan tra tai nhung vung bien hep nhat the gioi.",
+    "sentences": [
+      "the United States Navy patrolling the world's narrowest waters."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC048",
+    "original_tag": "CH08_SC048",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Va khi chi phi de duy tri de che tren bien ay",
+    "sentences": [
+      "And as the costs of maintaining that maritime"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC049",
+    "original_tag": "CH08_SC049",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "leo thang vuot ra ngoai tam voi cua nhung coi may in tien,",
+    "sentences": [
+      "empire climb beyond the reach of the printing press"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC050",
+    "original_tag": "CH08_SC050",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "the gioi phai doi mat voi mot cau hoi day am anh van chua co loi dap.",
+    "sentences": [
+      "the world is left with a haunting, unanswered question."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC051",
+    "original_tag": "CH08_SC051",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Khi con no lon nhat the gioi khong con du tien de tuan tra dai duong,",
+    "sentences": [
+      "When the world's greatest borrower can no longer afford to patrol the oceans"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC052",
+    "original_tag": "CH08_SC052",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "ai se la nguoi tra tien de giu cho nhung ngon den toan cau tiep tuc sang?",
+    "sentences": [
+      "who is going to pay to keep the lights on?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  }
+]

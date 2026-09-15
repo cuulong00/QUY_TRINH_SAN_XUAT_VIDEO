@@ -1,0 +1,59 @@
+# chapter_05_visual.md
+
+Câu trả lời đang hiện diện ngay trong những biến động nhân sự và cơ cấu thượng tầng thời gian qua.
+
+Đa số chúng ta thường nhìn công cuộc Cách mạng tinh gọn bộ máy dưới lăng kính chính trị.
+
+Hoặc nhìn việc hướng tới chính quyền địa phương hai cấp ở các đô thị lớn dưới góc độ đó.
+
+Nhưng dưới góc độ kinh tế học thể chế, đây thực chất là một cuộc đại phẫu về năng lực thực thi của nhà nước.
+
+Để chạy những dự án hạ tầng khổng lồ với quỹ thời gian đang đếm ngược, một bộ máy nhà nước phân tán là không đủ.
+
+Việt Nam đang chuyển dịch sang mô hình Nhà nước Kiến tạo Phát triển.
+
+Mô hình này từng được áp dụng cực kỳ thành công tại Singapore và Hàn Quốc.
+
+Nó thiết lập một cấu trúc chỉ huy tập trung cao độ, nhằm giảm thiểu độ trễ hành chính và xử lý tình trạng cát cứ địa phương.
+
+Mục tiêu của sự tập trung này không gì khác ngoài việc dồn lực cho những dự án mang tính sống còn.
+
+Đó là siêu dự án đường sắt cao tốc trị giá 67 tỷ đô la.
+
+Đó là chiến lược đào tạo thần tốc 50.000 kỹ sư bán dẫn.
+
+Để những đại dự án này vận hành, bộ máy quản lý buộc phải đổi từ tư duy tiền kiểm sang lập pháp động.
+
+Cơ chế Thử nghiệm Thể chế, hay Regulatory Sandbox, ra đời chính là vì lẽ đó.
+
+Đối với đời sống hàng ngày, Sandbox có nghĩa là một môi trường an toàn cho các startup công nghệ.
+
+Họ có thể thử nghiệm mô hình kinh doanh đột phá mà không nơm nớp lo bị thổi còi phạt ngay lập tức.
+
+Bước đi mạnh mẽ nhất trong cuộc đại phẫu này là việc thể chế hóa Nghị định 73, bảo vệ cán bộ dám nghĩ dám làm.
+
+Quy định này tạo ra một hành lang pháp lý chưa từng có, gỡ trói trách nhiệm cho những người hành động vì lợi ích chung.
+
+Tuy nhiên, bất kỳ sự tập trung quyền lực hay cơ chế gỡ trói nào cũng là một con dao hai lưỡi.
+
+Nhiều chuyên gia đã đặt ra câu hỏi phản biện rất thực tế.
+
+Tinh gọn bộ máy không tự động đồng nghĩa với việc bộ máy đó sẽ hoạt động hiệu quả.
+
+Việc tập trung quyền lực cao độ, nếu thiếu đi các cơ chế giám sát minh bạch, có thể tạo ra những rủi ro lớn hơn về mặt thực thi.
+
+Hành lang bảo vệ cán bộ một mặt gỡ trói cho những lãnh đạo dám đột phá.
+
+Nhưng mặt khác, nó cũng có thể tạo ra kẽ hở nếu việc đánh giá động cơ không được kiểm soát độc lập.
+
+Hơn nữa, việc đặt mục tiêu tăng trưởng GDP lên tới 10 phần trăm mỗi năm là một thách thức cực đại.
+
+Nó đòi hỏi toàn bộ nền kinh tế phải bứt phá với một tốc độ chưa từng có.
+
+Đây là một sự đánh đổi kinh điển của mô hình Nhà nước Kiến tạo.
+
+Giữa một bên là sự dân chủ, cẩn trọng nhưng chậm chạp, và một bên là sự tập trung, quyết đoán nhưng rủi ro cao.
+
+Việt Nam không có quyền lựa chọn sự an toàn chậm chạp, bởi quả bom nhân khẩu học đã điểm nhịp tích tắc.
+
+Bộ máy đã được tinh gọn, con dao phẫu thuật đã sắc, nhưng câu hỏi cuối cùng là liệu những nhát cắt đó có mang lại sinh khí mới hay không?

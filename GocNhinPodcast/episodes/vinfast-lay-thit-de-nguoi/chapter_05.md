@@ -1,0 +1,17 @@
+Không thể phủ nhận Xanh Ép Em từng là một bể chứa tổng cầu hoàn hảo. Nó giúp nhà máy Cát Hải duy trì nhịp sản xuất trong giai đoạn đầu khi thị trường chưa kịp nóng. Nhưng khi hàng vạn chiếc taxi điện phủ kín đường phố, mặt trái bắt đầu lộ ra.
+
+Hãy nhìn vào bảng giá tại thời điểm video này. Mẫu Herio Green chạy dịch vụ có giá khoảng bốn trăm chín mươi chín triệu đồng. Mẫu Vê Ép năm Plus bán cho khách hàng cá nhân có giá năm trăm hai mươi chín triệu. Hai chiếc xe chia sẻ cùng gầm bệ, cùng cụm pin, cùng tầm vận hành. Khoảng cách giá chỉ vỏn vẹn ba mươi triệu đồng.
+
+Câu chuyện tương tự xảy ra ở phân khúc cao hơn. Limo Green dành cho dịch vụ cao cấp có giá bảy trăm bốn mươi chín triệu. Vê Ép MPV bảy bản cá nhân có giá tám trăm mười chín triệu. Cùng pin sáu mươi phẩy mười ba ki-lô-oát giờ, cùng tầm vận hành bốn trăm năm mươi ki-lô-mét, giá chênh chỉ bảy mươi triệu. Và đây là con số đáng suy ngẫm: chỉ trong nửa đầu năm hai không hai sáu, Limo Green bán được hai mươi bảy ngàn chín trăm hai mươi bảy chiếc, trong khi Vê Ép MPV bảy bán được chín ngàn một trăm bảy mươi bảy chiếc. Doanh số chênh gấp ba lần. Con số đó tự nó nói lên tất cả.
+
+Vấn đề nằm ở tâm lý. Ô tô không chỉ là một cỗ máy di chuyển. Nó còn là công cụ thể hiện vị thế cá nhân. Khi bỏ ra hàng trăm triệu đồng, khách hàng không chỉ mua tính năng. Họ đang mua sự tự hào về hình ảnh bản thân. Và lòng tự tôn đó sẽ bị thử thách khi chiếc xe mình vừa chắt chiu mua lại trông không khác gì chiếc taxi vừa bấm gọi hôm qua.
+
+VinFast không phải không nhận ra điều này. Cuối năm hai không hai bốn, ban lãnh đạo đã khai tử dịch vụ Xanh Ép Em Luxury, dòng taxi hạng sang sử dụng Vê Ép tám, và chuyển toàn bộ đội xe sang công ty cho thuê. Đó là một nhát dao cắt dứt khoát để bảo vệ hình ảnh cho Vê Ép tám bản thương mại. Nhưng ở các phân khúc thấp hơn, sự chồng chéo vẫn đang tiếp diễn.
+
+Hiện tượng này trong kinh doanh có một cái tên: Tự ăn thịt đồng loại. Khi một sản phẩm nội bộ gặm nhấm doanh số của chính sản phẩm nội bộ khác.
+
+Và đây không phải chuyện mới. Vào thập niên bảy mươi và tám mươi của thế kỷ trước, General Motors, gã khổng lồ vĩ đại nhất nước Mỹ khi ấy, cũng từng đối mặt với bài toán y hệt. GM bắt đầu chia sẻ khung gầm và thiết kế vỏ ngoài bừa bãi giữa thương hiệu bình dân Chevrolet và thương hiệu siêu sang Cadillac. Khách hàng giàu có bỏ rơi Cadillac vì không muốn lái một chiếc Chevrolet đội lốt giá cao. Sự xói mòn kéo dài hàng thập kỷ. GM buộc phải đóng cửa hàng loạt thương hiệu con trước khi lao vào vụ phá sản lịch sử năm hai không không chín.
+
+Bán xe giá rẻ thì dễ. Nhưng bán xe giá rẻ mà không làm lung lay niềm tin của khách hàng mua xe giá cao mới là bài toán định vị khó nhất trong ngành ô tô.
+
+Vậy nếu rải thảm vừa tốn kém vận hành, vừa tiềm ẩn nguy cơ tự giẫm chân... thì đổi lại, VinFast nhận được gì?

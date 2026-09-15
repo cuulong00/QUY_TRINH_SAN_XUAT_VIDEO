@@ -1,0 +1,7 @@
+# Data Passport - Chapter 04
+
+| id | data_point | value | source_file | line_number | raw_quote | status |
+|---|---|---|---|---|---|---|
+| DP-04-01 | Lãi suất liên ngân hàng kỳ 1-2 tuần cuối tháng 6/2026 | Trên 7% | `research_vault/006-tinh-hinh-lai-suat-lien-ngan-hang-ky-han-ngan-1-2-tuan-va-thanh-khoan-thi-truong.md` | L19 | "Lãi suất liên ngân hàng kỳ hạn một tuần và hai tuần tại thời điểm cuối tháng 6/2026 đang neo giữ ở mức cao, cụ thể là trên mức 7%" | verified |
+| DP-04-02 | Luật các TCTD mới khuyến khích hợp vốn tín dụng | Khuyến khích hợp vốn tín dụng | `research_vault/001-chi-tiet-ve-co-che-loai-tru-du-no-18-du-an-cua-vingroup-sun-group-masterise-khoi.md` | L41 | "Do nhu cầu vốn vay khổng lồ vượt qua giới hạn cấp tín dụng cho một khách hàng (tối đa 10-15% vốn tự có của một ngân hàng thương mại), NHNN khuyến khích các ngân hàng thương mại bắt tay hợp vốn để chia sẻ rủi ro." | verified |
+| DP-04-03 | Tiền gửi Kho bạc chủ yếu hỗ trợ Big 4 | Không tạo thay đổi lớn cho bank tư nhân | `research_vault/006-tinh-hinh-lai-suat-lien-ngan-hang-ky-han-ngan-1-2-tuan-va-thanh-khoan-thi-truong.md` | L45-L47 | "Ông cũng cho rằng việc đưa 20% tiền gửi Kho bạc Nhà nước có kỳ hạn vào công thức tính LDR gần như không tạo ra thay đổi đáng kể trong cơ cấu nguồn vốn của nhóm ngân hàng quốc doanh. Quan trọng hơn về mặt cơ chế, SMLR là tỷ lệ xử lý trên thị trường 1, trong khi LDR vẫn có thể được hỗ trợ thông qua thị trường liên ngân hàng." | verified |

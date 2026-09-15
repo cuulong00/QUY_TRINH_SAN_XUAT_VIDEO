@@ -1,0 +1,14 @@
+
+Vật liệu đó là sợi carbon. Thứ vốn chỉ xuất hiện trên thân máy bay chiến đấu và xe đua Công thức 1.
+
+Tesla không dùng sợi carbon để làm vỏ xe cho đẹp. Họ dùng nó để bọc trực tiếp lên rotor, trục quay bên trong động cơ. Hình dung như thế này: một robot chuyên dụng quấn từng dải sợi carbon đã tẩm sẵn nhựa chịu nhiệt, quấn liên tục theo hình xoắn ốc quanh rotor, với lực căng từ 100 đến 200 Newton trên mỗi dải sợi. Mỗi vòng quấn siết chặt thêm một chút. Khi hoàn tất, lớp ống bọc carbon mỏng này tạo ra một lực ép nén trước lên tới 50 đến 150 MPa, ép chặt toàn bộ nam châm vào lõi thép từ trước khi động cơ bắt đầu quay.
+
+Kết quả là khi rotor đạt tốc độ cực đại, lực ly tâm muốn kéo nam châm ra ngoài, nhưng lực nén của lớp carbon đã ép sẵn từ trước sẽ triệt tiêu hoàn toàn lực kéo đó. Nam châm không nhúc nhích.
+
+Nhưng lớp bọc carbon này còn giải quyết luôn bài toán thứ hai: nhiệt. Sợi carbon có độ dẫn điện cực thấp, thấp hơn thép hàng trăm lần. Dòng điện xoáy gần như không thể hình thành trên bề mặt ống bọc. Không có dòng điện xoáy thì không sinh nhiệt ký sinh. Nhiệt độ vận hành của rotor Tesla thấp hơn từ 20 đến 30 độ C so với động cơ dùng ống bọc kim loại truyền thống.
+
+Còn một lợi thế nữa. Vì rotor không bị giãn nở khi quay, Tesla có thể thiết kế khe hở giữa rotor và stator cực kỳ nhỏ, chỉ khoảng một nửa milimet. Khe hở càng nhỏ, từ trường tương tác càng mạnh, động cơ càng hiệu quả. Đây là một trong những lý do Tesla Model S Plaid tăng tốc từ 0 lên 100 km/h chỉ vỏn vẹn 2,1 giây.
+
+Tuy nhiên, công nghệ này có một cái giá rất đắt. Robot đặt sợi carbon AFP là thiết bị chuyên dụng của ngành hàng không vũ trụ, chi phí đầu tư dây chuyền cực lớn. Bản thân sợi carbon nguyên liệu cũng đắt hơn thép nhiều lần. Đó là lý do tại sao công nghệ này hiện chỉ xuất hiện trên dòng xe hiệu năng cao, chứ chưa thể phổ cập xuống phân khúc mà đa số người Việt mua được.
+
+Trong khi Tesla chọn con đường vật liệu hàng không vũ trụ để giữ chặt rotor từ bên ngoài, BYD lại đi theo một triết lý hoàn toàn ngược lại. Thay vì bọc thêm vật liệu đắt tiền, BYD chọn cách tái thiết kế toàn bộ cấu trúc bên trong khối động cơ. Và kết quả là một cỗ máy tích hợp mà ít ai ngờ tới.

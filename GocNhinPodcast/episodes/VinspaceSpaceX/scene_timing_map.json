@@ -1,0 +1,158 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 12.34,
+    "text_overlay": "",
+    "visual_summary": "Cứ 10 vệ tinh nhỏ được phóng lên quỹ đạo lần đầu, thì 6 chiếc thất bại. Có chiếc chết ngay khi rời bệ phóng. Có chiếc lên đến quỹ đạo rồi im lặng vĩnh viễn, không bao giờ gửi về mặt đất một tín hiệu nào.",
+    "sentences": [
+      "Cứ 10 vệ tinh nhỏ được phóng lên quỹ đạo lần đầu, thì 6 chiếc thất bại. Có chiếc chết ngay khi rời bệ phóng. Có chiếc lên đến quỹ đạo rồi im lặng vĩnh viễn, không bao giờ gửi về mặt đất một tín hiệu nào."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 12.86,
+    "text_overlay": "",
+    "visual_summary": "Và giữa bối cảnh đó, ngày 11 tháng 8 năm 2026, một công ty Việt Nam mới thành lập chưa đầy một năm vừa ký hợp đồng phóng vệ tinh với SpaceX. Công ty đó tên là VinSpace, thuộc hệ sinh thái Vingroup. Vốn điều lệ: 300 tỷ đồng.",
+    "sentences": [
+      "Và giữa bối cảnh đó, ngày 11 tháng 8 năm 2026, một công ty Việt Nam mới thành lập chưa đầy một năm vừa ký hợp đồng phóng vệ tinh với SpaceX. Công ty đó tên là VinSpace, thuộc hệ sinh thái Vingroup. Vốn điều lệ: 300 tỷ đồng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 8.66,
+    "text_overlay": "",
+    "visual_summary": "Trong khi VinFast đang lỗ hàng tỷ đô mỗi năm và đang gồng mình để đi đến điểm hòa vốn, thì Vingroup lại mở thêm một mặt trận hoàn toàn mới: vũ trụ.",
+    "sentences": [
+      "Trong khi VinFast đang lỗ hàng tỷ đô mỗi năm và đang gồng mình để đi đến điểm hòa vốn, thì Vingroup lại mở thêm một mặt trận hoàn toàn mới: vũ trụ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Vậy đây là gì? Một canh bạc liều lĩnh, hay một nước cờ đã được tính từ trước?",
+    "sentences": [
+      "Vậy đây là gì? Một canh bạc liều lĩnh, hay một nước cờ đã được tính từ trước?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 13.39,
+    "text_overlay": "",
+    "visual_summary": "Hôm nay, Góc Nhìn Podcast sẽ giải mã toàn bộ bức tranh đằng sau quyết định này. Từ chuỗi giá trị dữ liệu trị giá hàng trăm tỷ đô, đến cuộc đua không gian giữa Viettel, Starlink, Amazon Kuiper và một công ty tư nhân Việt Nam chưa đầy một tuổi.",
+    "sentences": [
+      "Hôm nay, Góc Nhìn Podcast sẽ giải mã toàn bộ bức tranh đằng sau quyết định này. Từ chuỗi giá trị dữ liệu trị giá hàng trăm tỷ đô, đến cuộc đua không gian giữa Viettel, Starlink, Amazon Kuiper và một công ty tư nhân Việt Nam chưa đầy một tuổi."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC006",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 7.87,
+    "text_overlay": "",
+    "visual_summary": "Để hiểu VinSpace, chúng ta cần hiểu một điều trước: trong ngành công nghiệp vũ trụ, người làm ra vệ tinh không phải là người kiếm được nhiều tiền nhất.",
+    "sentences": [
+      "Để hiểu VinSpace, chúng ta cần hiểu một điều trước: trong ngành công nghiệp vũ trụ, người làm ra vệ tinh không phải là người kiếm được nhiều tiền nhất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC007",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 27.03,
+    "text_overlay": "",
+    "visual_summary": "Nền kinh tế không gian toàn cầu hiện đã vượt 670 tỷ đô la Mỹ, và dự kiến sẽ tiến sát 1.000 tỷ đô vào năm 2040. Nhưng nếu tách ra xem kỹ, cấu trúc của nó rất bất ngờ. Phần thượng nguồn, tức là sản xuất linh kiện, chế tạo vệ tinh, phóng tên lửa, tất cả những thứ nghe rất hoành tráng đó, chỉ chiếm khoảng 53 tỷ Euro. Còn phần hạ nguồn, tức là khai thác dữ liệu vệ tinh, cung cấp dịch vụ viễn thông, phân tích ảnh viễn thám, lên tới 358 tỷ Euro. Gấp gần 7 lần.",
+    "sentences": [
+      "Nền kinh tế không gian toàn cầu hiện đã vượt 670 tỷ đô la Mỹ, và dự kiến sẽ tiến sát 1.000 tỷ đô vào năm 2040. Nhưng nếu tách ra xem kỹ, cấu trúc của nó rất bất ngờ. Phần thượng nguồn, tức là sản xuất linh kiện, chế tạo vệ tinh, phóng tên lửa, tất cả những thứ nghe rất hoành tráng đó, chỉ chiếm khoảng 53 tỷ Euro. Còn phần hạ nguồn, tức là khai thác dữ liệu vệ tinh, cung cấp dịch vụ viễn thông, phân tích ảnh viễn thám, lên tới 358 tỷ Euro. Gấp gần 7 lần."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC008",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Nói cách khác, vệ tinh chỉ là phương tiện. Dữ liệu mới là sản phẩm.",
+    "sentences": [
+      "Nói cách khác, vệ tinh chỉ là phương tiện. Dữ liệu mới là sản phẩm."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC009",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 21.78,
+    "text_overlay": "",
+    "visual_summary": "Và ví dụ rõ nhất chính là SpaceX, đối tác vừa ký hợp đồng với VinSpace. Cả thế giới biết đến SpaceX nhờ những quả tên lửa hạ cánh thẳng đứng. Nhưng cỗ máy in tiền thực sự của họ không phải tên lửa. Mà là Starlink, mạng lưới internet vệ tinh. Doanh thu của SpaceX năm 2025 ước tính đạt 15 đến 16 tỷ đô, và phần lớn đến từ phí thuê bao Starlink hàng tháng, không phải từ dịch vụ phóng.",
+    "sentences": [
+      "Và ví dụ rõ nhất chính là SpaceX, đối tác vừa ký hợp đồng với VinSpace. Cả thế giới biết đến SpaceX nhờ những quả tên lửa hạ cánh thẳng đứng. Nhưng cỗ máy in tiền thực sự của họ không phải tên lửa. Mà là Starlink, mạng lưới internet vệ tinh. Doanh thu của SpaceX năm 2025 ước tính đạt 15 đến 16 tỷ đô, và phần lớn đến từ phí thuê bao Starlink hàng tháng, không phải từ dịch vụ phóng."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC010",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 19.95,
+    "text_overlay": "",
+    "visual_summary": "Một ví dụ khác là Planet Labs. Công ty này vận hành hàng trăm vệ tinh nhỏ chụp ảnh Trái Đất liên tục. Nhưng họ không bán vệ tinh. Họ bán quyền truy cập vào kho dữ liệu ảnh, theo mô hình đăng ký hàng tháng giống như Netflix. Một bức ảnh chụp từ không gian có thể được bán lại hàng nghìn lần cho các quỹ đầu tư, cơ quan khí tượng, hay chính phủ.",
+    "sentences": [
+      "Một ví dụ khác là Planet Labs. Công ty này vận hành hàng trăm vệ tinh nhỏ chụp ảnh Trái Đất liên tục. Nhưng họ không bán vệ tinh. Họ bán quyền truy cập vào kho dữ liệu ảnh, theo mô hình đăng ký hàng tháng giống như Netflix. Một bức ảnh chụp từ không gian có thể được bán lại hàng nghìn lần cho các quỹ đầu tư, cơ quan khí tượng, hay chính phủ."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC011",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 8.66,
+    "text_overlay": "",
+    "visual_summary": "Đó chính là logic mà VinSpace đang đi theo. Mục tiêu cuối cùng không phải là phóng được một quả vệ tinh. Mà là kiểm soát được dòng dữ liệu từ trên cao.",
+    "sentences": [
+      "Đó chính là logic mà VinSpace đang đi theo. Mục tiêu cuối cùng không phải là phóng được một quả vệ tinh. Mà là kiểm soát được dòng dữ liệu từ trên cao."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC012",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 8.14,
+    "text_overlay": "",
+    "visual_summary": "Nếu quý vị thấy những phân tích này hữu ích, một lượt đăng ký kênh và chia sẻ video sẽ là nguồn động viên rất lớn cho đội ngũ sản xuất.",
+    "sentences": [
+      "Nếu quý vị thấy những phân tích này hữu ích, một lượt đăng ký kênh và chia sẻ video sẽ là nguồn động viên rất lớn cho đội ngũ sản xuất."
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  },
+  {
+    "id": "SC013",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 12.34,
+    "text_overlay": "",
+    "visual_summary": "Nhưng nói VinSpace muốn kiểm soát dữ liệu thì vẫn còn chung chung. Cụ thể, dữ liệu gì? Phục vụ ai? Và tại sao chiến lược này lại gắn chặt với tương lai của VinFast và cả hệ sinh thái xe điện mà Vingroup đang xây dựng?",
+    "sentences": [
+      "Nhưng nói VinSpace muốn kiểm soát dữ liệu thì vẫn còn chung chung. Cụ thể, dữ liệu gì? Phục vụ ai? Và tại sao chiến lược này lại gắn chặt với tương lai của VinFast và cả hệ sinh thái xe điện mà Vingroup đang xây dựng?"
+    ],
+    "base_english_prompt": "A cinematic realistic documentary shot"
+  }
+]

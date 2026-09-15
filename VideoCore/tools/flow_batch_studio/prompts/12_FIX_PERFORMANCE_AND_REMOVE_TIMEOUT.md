@@ -1,0 +1,117 @@
+# BẢN VÁ HIỆU NĂNG TỐI THƯỢNG: XÓA BỎ TIMEOUT - GIỮ NGUYÊN 100% TÍNH NĂNG
+# Phiên bản: v1.6.4 (Zero-Timeout & Instant Execution)
+
+⚠️ **BẢNG KHÓA TÍNH NĂNG BẤT BIẾN (STRICT INVARIANTS - BẢO VỆ 100% TÍNH NĂNG):**
+- **GIỮ NGUYÊN 100%** Tính năng Ảnh tham chiếu (Asset Bin & tag `@tên_ảnh`): Không xóa, không sửa.
+- **GIỮ NGUYÊN 100%** Bàn điều khiển Quản lý theo Chương (Chapter Control Deck & tích chọn `[✓]` từng chương).
+- **GIỮ NGUYÊN 100%** Giao diện JSX (Sidebar, Table, Modal xem trước, Nạp nhiều file .txt, Xuất ZIP).
+- **GIỮ NGUYÊN** Model: `'Veo 3.1 - Lite [Lower Priority]'` và `'🍌 Nano Banana 2'`.
+- **CHỈ SỬA ĐÚNG LOGIC HIỆU NĂNG ĐỂ KHÔNG BỊ HỦY REQUEST VÀ KHÔNG BỊ CHẬM:**
+
+---
+
+### PHÉP SỬA 1: XÓA BỎ HOÀN TOÀN CƠ CHẾ TIMEOUT TỰ HỦY (Trong `executeTaskOnWorker`)
+* **Vấn đề cốt lõi:** Veo 3.1 Lite là hàng đợi chia sẻ miễn phí, render 8s mất 4–6 phút là hoàn toàn bình thường. Cơ chế timeout 5 phút cũ tự hủy video đang render dở rồi request lại từ đầu, làm nghẽn hàng đợi và hỏng video liên tục!
+* **Cách sửa:** Xóa bỏ hoàn toàn `timeoutPromise` và `Promise.race`! Đợi trực tiếp `Flow.generate.video` trả về tự nhiên như code cũ.
+
+**TÌM ĐOẠN:**
+```typescript
+      const timeoutPromise = new Promise((_, reject) => 
+        setTimeout(() => reject(new Error('TIMEOUT_LIMIT_REACHED')), (CONFIG.HARD_TIMEOUT_S || 300) * 1000)
+      );
+      const result = await Promise.race([generationPromise, timeoutPromise]) as { base64: string, mimeType: string, mediaId?: string };
+```
+
+**THAY BẰNG:**
+```typescript
+      // CHỜ TỰ NHIÊN: Không áp đặt timeout giả tạo, để Google Flow xử lý xong trả về
+      const result = await generationPromise as { base64: string, mimeType: string, mediaId?: string };
+```
+
+---
+
+### PHÉP SỬA 2: XÓA BỎ VÒNG LẶP ĐẾM LÙI JITTER RÁC (Trong `executeTaskOnWorker`)
+* **Vấn đề:** Bắt worker ngồi đếm lùi 5–8 giây vô nghĩa trước mỗi cảnh làm cả batch bị chậm thêm 20–30 phút.
+* **Cách sửa:** Xóa bỏ vòng lặp `while (Date.now() < targetLaunchTime)`, kích hoạt sinh ngay lập tức!
+
+**TÌM ĐOẠN:**
+```typescript
+    const waitTime = Math.floor(Math.random() * (jitter.max - jitter.min + 1) + jitter.min);
+    const targetLaunchTime = Date.now() + (waitTime * 1000);
+    updateWorkerSync(workerIdx, { 
+      status: 'waiting', activeTaskId: task.id, message: `Stagger: ${waitTime}s`, countdown: waitTime 
+    });
+    
+    // Vòng lặp đếm lùi an toàn thời gian thực
+    while (Date.now() < targetLaunchTime) {
+      if (!batchRef.current.isProcessing || batchRef.current.isPaused) {
+        updateTask(task.id, { status: 'idle' });
+        activeTaskIdsRef.current.delete(task.id);
+        updateWorkerSync(workerIdx, { status: 'idle', activeTaskId: null, message: 'Standby', countdown: 0 });
+        return;
+      }
+      const remaining = Math.max(0, Math.ceil((targetLaunchTime - Date.now()) / 1000));
+      updateWorkerSync(workerIdx, { countdown: remaining });
+      await new Promise(r => setTimeout(r, 1000));
+    }
+
+    updateTask(task.id, { status: 'processing', startedAt: Date.now() });
+    updateWorkerSync(workerIdx, { 
+      status: 'generating', message: `Generating ${task.type}...`, progress: 15, countdown: 0 
+    });
+```
+
+**THAY BẰNG:**
+```typescript
+    // KHỞI ĐỘNG TRỰC TIẾP: Bỏ vòng lặp đếm lùi làm chậm tiến độ
+    updateTask(task.id, { status: 'processing', startedAt: Date.now() });
+    updateWorkerSync(workerIdx, { 
+      status: 'generating', activeTaskId: task.id, message: `Generating ${task.type}...`, progress: 15, countdown: 0 
+    });
+```
+
+---
+
+### PHÉP SỬA 3: LƯU BỘ ĐỆM MEDIA_ID ẢNH THAM CHIẾU (Trong `executeTaskOnWorker` phần tạo ảnh)
+* **Vấn đề:** Mỗi lần tạo cảnh lại upload lại cùng 1 ảnh `@char` lên Google Flow, gây nghẽn băng thông và chậm chạp.
+* **Cách sửa:** Nếu ảnh tham chiếu đã được upload lên Flow rồi thì dùng lại `mediaId` cũ, không upload lại.
+
+**TÌM ĐOẠN:**
+```typescript
+              const cleanBase64 = asset.base64.includes(',') ? asset.base64.split(',')[1] : asset.base64;
+              const uploaded = await Flow.upload({ 
+                base64: cleanBase64, 
+                mimeType: asset.mimeType as any, 
+                name: cleanRef 
+              });
+              referenceImageMediaIds = [uploaded.mediaId];
+```
+
+**THAY BẰNG:**
+```typescript
+              // Tái sử dụng mediaId nếu đã upload trước đó trong session
+              let refMediaId = (asset as any).uploadedMediaId;
+              if (!refMediaId) {
+                const cleanBase64 = asset.base64.includes(',') ? asset.base64.split(',')[1] : asset.base64;
+                const uploaded = await Flow.upload({ 
+                  base64: cleanBase64, 
+                  mimeType: asset.mimeType as any, 
+                  name: cleanRef 
+                });
+                refMediaId = uploaded.mediaId;
+                (asset as any).uploadedMediaId = refMediaId;
+              }
+              referenceImageMediaIds = [refMediaId];
+```
+
+---
+
+### PHÉP SỬA 4: CHỈ ĐẶT 3 LUỒNG SONG SONG CHUẨN XÁC NHƯ CODE CŨ (Trong initial state của `workersCount`)
+**TÌM DÒNG:**
+```typescript
+  const [workersCount, setWorkersCount] = useState(SYSTEM_CONFIG.DEFAULT_WORKERS);
+```
+**THAY BẰNG:**
+```typescript
+  const [workersCount, setWorkersCount] = useState(3); // 3 luồng tối ưu chuẩn xác như code cũ
+```

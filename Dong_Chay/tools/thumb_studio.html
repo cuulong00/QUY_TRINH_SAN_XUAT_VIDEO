@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dòng Chảy Thumbnail Generator</title>
+    <!-- Use powerful fonts close to Montserrat Black/Impact -->
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@700;900&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        body {
+            font-family: 'Be Vietnam Pro', sans-serif;
+            background: #121212;
+            color: white;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 { color: #FFD700; margin-bottom: 5px; }
+        
+        .controls {
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            width: 100%;
+            max-width: 1280px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+
+        input[type="text"], input[type="file"], select, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border-radius: 5px;
+            border: 1px solid #444;
+            background: #333;
+            color: #fff;
+            box-sizing: border-box;
+            font-family: inherit;
+        }
+
+        button {
+            background: #D32F2F;
+            font-weight: bold;
+            cursor: pointer;
+            border: none;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: 0.2s;
+        }
+        
+        button:hover { background: #FF1744; }
+
+        /* The Canvas Wrapper */
+        #thumb-container {
+            width: 1280px;
+            height: 720px;
+            background-color: #000;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 2px solid #333;
+        }
+
+        /* Overlay for text contrast if needed */
+        .overlay-gradient {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(90deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 50%);
+            z-index: 1;
+        }
+
+        /* Typography Container - Make it draggable */
+        #text-box {
+            position: absolute;
+            top: 50px;
+            left: 50px;
+            z-index: 10;
+            cursor: move;
+            max-width: 800px;
+            padding: 10px;
+        }
+
+        /* Typography Styles based on Brand Guide */
+        .headline {
+            font-weight: 900;
+            font-size: 110px;
+            line-height: 1.1;
+            text-transform: uppercase;
+            margin: 0;
+            text-shadow: 4px 4px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000, 0 10px 20px rgba(0,0,0,0.8);
+            letter-spacing: -2px;
+        }
+
+        .subtitle {
+            font-weight: 700;
+            font-size: 40px;
+            text-transform: uppercase;
+            color: #FFFFFF;
+            margin-top: 10px;
+            text-shadow: 2px 2px 0 #000, 0 5px 10px rgba(0,0,0,0.8);
+            letter-spacing: 1px;
+            background: rgba(0,0,0,0.4);
+            display: inline-block;
+            padding: 5px 15px;
+            border-radius: 4px;
+        }
+
+        /* Watermark */
+        .watermark {
+            position: absolute;
+            bottom: 25px;
+            right: 35px;
+            font-weight: 900;
+            font-size: 32px;
+            color: rgba(255, 255, 255, 0.85);
+            text-transform: uppercase;
+            z-index: 10;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.9);
+            letter-spacing: 1px;
+        }
+
+    </style>
+</head>
+<body>
+
+    <h1>⚡ X-Eco Thumbnail Studio</h1>
+    <p>Công cụ render Thumbnail chuẩn Brand (Chữ tự do kéo thả)</p>
+
+    <div class="controls">
+        <div>
+            <label>1. Tải lên Ảnh Nền (Background):</label>
+            <input type="file" id="bgInput" accept="image/*">
+        </div>
+        <div>
+            <label>2. Gradient làm tối (Đế chữ nổi hơn):</label>
+            <select id="gradientSelect" onchange="updateGradient()">
+                <option value="none">Không có (Ảnh Gốc)</option>
+                <option value="left">Tối Nửa Trái</option>
+                <option value="right">Tối Nửa Phải</option>
+                <option value="top">Tối Phía Trên</option>
+            </select>
+        </div>
+        <div>
+            <label>3. Headline (Tiêu đề chính):</label>
+            <input type="text" id="headlineInput" value="ĐỊNH MỆNH TRONG TAY 1 NGƯỜI" oninput="updateText()">
+        </div>
+        <div>
+            <label>Màu Headline:</label>
+            <select id="colorSelect" onchange="updateText()">
+                <option value="#FF1744">Đỏ Cảnh Báo (#FF1744)</option>
+                <option value="#FFD700">Vàng Gold (#FFD700)</option>
+                <option value="#FFFFFF">Trắng Tinh (#FFFFFF)</option>
+            </select>
+        </div>
+        <div>
+            <label>4. Subtitle (Tiêu đề phụ):</label>
+            <input type="text" id="subtitleInput" value="NỀN KINH TẾ MONG MANH TỘT CÙNG" oninput="updateText()">
+        </div>
+        <div style="display: flex; align-items: flex-end;">
+            <button onclick="downloadThumb()">⬇ TẢI XUỐNG THUMBNAIL</button>
+        </div>
+    </div>
+
+    <!-- The 1280x720 Canvas Area -->
+    <div id="thumb-container">
+        <div class="overlay-gradient" id="overlay" style="display: none;"></div>
+        
+        <div id="text-box">
+            <h1 class="headline" id="hlDisplay">ĐỊNH MỆNH TRONG TAY 1 NGƯỜI</h1>
+            <div class="subtitle" id="subDisplay">NỀN KINH TẾ MONG MANH TỘT CÙNG</div>
+        </div>
+
+        <div class="watermark">Dòng Chảy</div>
+    </div>
+
+    <script>
+        // Background Upload Logic
+        document.getElementById('bgInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(event) {
+                    document.getElementById('thumb-container').style.backgroundImage = `url(${event.target.result})`;
+                }
+                reader.readAsDataURL(file);
+            }
+        });
+
+        // Real-time Text Update Logic
+        function updateText() {
+            const hl = document.getElementById('headlineInput').value;
+            const sub = document.getElementById('subtitleInput').value;
+            const color = document.getElementById('colorSelect').value;
+            
+            document.getElementById('hlDisplay').innerText = hl;
+            document.getElementById('hlDisplay').style.color = color;
+            document.getElementById('subDisplay').innerText = sub;
+            
+            // Auto scale headline if too long
+            const chars = hl.length;
+            if (chars > 15) {
+                document.getElementById('hlDisplay').style.fontSize = Math.max(70, 110 - (chars - 15) * 3) + 'px';
+            } else {
+                document.getElementById('hlDisplay').style.fontSize = '110px';
+            }
+        }
+        
+        // Initial setup
+        updateText();
+
+        // Gradient overlay
+        function updateGradient() {
+            const val = document.getElementById('gradientSelect').value;
+            const overlay = document.getElementById('overlay');
+            if (val === 'none') {
+                overlay.style.display = 'none';
+            } else {
+                overlay.style.display = 'block';
+                if (val === 'left') overlay.style.background = 'linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 60%)';
+                if (val === 'right') overlay.style.background = 'linear-gradient(270deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 60%)';
+                if (val === 'top') overlay.style.background = 'linear-gradient(180deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0) 50%)';
+            }
+        }
+
+        // Drag and Drop Logic
+        const textBox = document.getElementById('text-box');
+        let isDragging = false;
+        let offsetX, offsetY;
+
+        textBox.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            offsetX = e.clientX - textBox.offsetLeft;
+            offsetY = e.clientY - textBox.offsetTop;
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (isDragging) {
+                let x = e.clientX - offsetX;
+                let y = e.clientY - offsetY;
+                textBox.style.left = x + 'px';
+                textBox.style.top = y + 'px';
+            }
+        });
+
+        document.addEventListener('mouseup', () => { isDragging = false; });
+
+        // html2canvas Export Logic
+        function downloadThumb() {
+            const container = document.getElementById('thumb-container');
+            // reset border briefly for clean capture
+            const oldBorder = container.style.border;
+            container.style.border = 'none';
+            
+            html2canvas(container, {
+                scale: 1, // 1280x720 exactly
+                useCORS: true,
+                backgroundColor: '#000'
+            }).then(canvas => {
+                container.style.border = oldBorder;
+                const link = document.createElement('a');
+                link.download = `X-Eco_Thumbnail_${Date.now()}.jpg`;
+                link.href = canvas.toDataURL('image/jpeg', 0.95);
+                link.click();
+            });
+        }
+    </script>
+</body>
+</html>

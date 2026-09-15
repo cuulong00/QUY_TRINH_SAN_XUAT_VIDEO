@@ -1,0 +1,7 @@
+# chapter_06.md
+
+Cấu trúc vật liệu đó chính là nền tảng Pin thể rắn. Báo chí thường gọi đây là một bước ngoặt công nghệ, nhưng thực chất nó là lời giải cho một bài toán hóa lý vô cùng phức tạp. Trong khi toàn thị trường đang phải thỏa hiệp với rủi ro cháy nổ và tốc độ sạc của dung dịch điện phân lỏng, Toyota chọn hướng đi hoàn toàn khác biệt. Bằng việc phát triển chất điện phân rắn gốc Sulfide, họ đang cố gắng vượt qua giới hạn vật lý của nhiệt động học.
+
+Toyota hiện đang nắm giữ hơn một ngàn bằng sáng chế trong lĩnh vực này, tạo ra một rào cản công nghệ rất lớn. Mục tiêu của họ không chỉ là rút ngắn thời gian sạc từ 10 lên 80 phần trăm trong vòng 10 phút. Tham vọng cốt lõi là đạt tới mật độ năng lượng 500 Watt-giờ trên mỗi kilôgam, giúp mở rộng tầm hoạt động lên tới 1200 km. Nếu công nghệ này được thương mại hóa thành công vào năm 2027, Toyota sẽ vô hiệu hóa hoàn toàn lợi thế về chi phí pin hiện tại của các hãng xe điện.
+
+Ở chiều ngược lại, BYD đang chịu tác động lớn từ chi phí chìm của hạ tầng hiện hữu. Việc đầu tư quá sâu vào các siêu nhà máy pin lỏng LFP khiến họ ngần ngại chuyển đổi sang công nghệ thể rắn, do lo ngại rủi ro lãng phí tài sản cố định. Cùng lúc đó, Toyota đang chuẩn bị thiết lập vị thế chiến lược bằng việc xây dựng một nhà máy Lexus thuần điện 100% vốn nước ngoài. Nhà máy này được đặt ngay tại Thượng Hải, gửi đi một thông điệp rõ ràng về năng lực cạnh tranh cốt lõi.

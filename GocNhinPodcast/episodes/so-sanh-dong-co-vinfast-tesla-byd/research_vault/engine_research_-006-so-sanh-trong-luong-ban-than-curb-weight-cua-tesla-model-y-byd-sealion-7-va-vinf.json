@@ -1,0 +1,174 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-07-17T08:49:53.463Z",
+  "session_id": "bc298b98",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/9e198a65-2f93-428a-bf47-17577efaa819"
+  },
+  "question": "So sánh trọng lượng bản thân (Curb Weight) của Tesla Model Y, BYD Sealion 7 và VinFast VF 8. Trọng lượng lớn của VF 8 (gần 2.6 tấn) ảnh hưởng thế nào đến mức tiêu hao năng lượng (Wh/km) và yêu cầu mô-men xoắn của động cơ? Hãy lập bảng so sánh 3 dòng xe, bao gồm: Trọng lượng, Công suất động cơ, Mô-men xoắn, Mức tiêu hao năng lượng thực tế theo kiểm định. Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "Thoughts\nBáo cáo Phân tích Kỹ thuật: So sánh Trọng lượng Bản thân (Curb Weight) và Ảnh hưởng Động lực học của Tesla Model Y, BYD Sealion 7 và VinFast VF 8 (Dữ liệu 2024-2026)\n1. So sánh Trọng lượng Bản thân (Curb Weight) của 3 Dòng xe\nTrọng lượng bản thân của các mẫu SUV điện phân khúc D chịu ảnh hưởng rất lớn bởi triết lý thiết kế khung gầm, công nghệ đóng gói pin và vật liệu chế tạo của mỗi nhà sản xuất:\nTesla Model Y (~1.8 tấn): Nhờ ứng dụng công nghệ đúc khuôn áp lực cực lớn Gigacasting (Giga Press) để đúc nguyên khối cấu trúc gầm xe trước và sau bằng hợp kim nhôm, Tesla đã loại bỏ được hơn 170 chi tiết kim loại riêng lẻ\n1\n2\n. Công nghệ này giúp tối ưu hóa khối lượng xe xuống mức lý tưởng khoảng 1.8 tấn\n3\n4\n.\nBYD Sealion 7 (2.15 - 2.43 tấn): BYD sử dụng công nghệ tích hợp pin trực tiếp vào khung gầm Cell-to-Body (CTB) giúp tăng độ cứng xoắn của xe lên mức vượt trội là 40.500 Nm/độ\n3\n4\n. Tuy nhiên, do mật độ năng lượng theo khối lượng của pin LFP (Blade Battery) thấp hơn pin NMC, trọng lượng Sealion 7 bị đẩy lên dải 2,155 kg - 2,435 kg tùy theo cấu hình dẫn động RWD hay AWD\nVinFast VF 8 (Hai thế hệ chuyển dịch):\nThế hệ cũ/đầu tiên (~2.5 tấn): Triết lý ban đầu tập trung tối đa vào việc bảo vệ an toàn cho hành khách bằng hệ khung gầm thép cường lực cực dày, không ưu tiên cắt giảm cân nặng, khiến trọng lượng xe chạm ngưỡng xấp xỉ 2.5 tấn (khoảng 5,700 lbs)\nThế hệ mới All-New 2026 (~1.9 tấn): Các kỹ sư VinFast đã thực hiện một bước đột phá cơ khí cơ học sườn xe và cấu trúc SDV (Software-Defined Vehicle), kết hợp thép hợp kim mỏng nhẹ chịu lực cao và cụm động cơ tích hợp 6-trong-1 để cắt giảm thành công tới 600 - 650 kg\n. Trọng lượng bản thân của xe giờ đây chỉ còn hơn 1.8 tấn đến 1.9 tấn\n2. Trọng lượng lớn ảnh hưởng thế nào đến Động lực học và Tiêu thụ Năng lượng?\nViệc một mẫu xe có trọng lượng lớn (như phiên bản VF 8 thế hệ cũ nặng gần 2.6 tấn) sẽ gây ra những tác động vật lý trực tiếp lên hệ truyền động và hiệu suất vận hành:\nYêu cầu về Mô-men xoắn của Động cơ tăng vọt: Trọng lượng xe lớn làm tăng momen quán tính khởi hành\n3\n4\n. Để thắng được lực cản quán tính ban đầu và đảm bảo khả năng tăng tốc bốc, động cơ bắt buộc phải cung cấp sức kéo cực lớn. Đây là lý do VinFast phải trang bị cấu hình động cơ đôi (AWD) cho bản VF 8 Plus thế hệ cũ với công suất 300 kW (402 hp) và mô-men xoắn cực đại lên tới 620 Nm\n. Khi trọng lượng giảm xuống còn 1.9 tấn ở bản All-New, xe chỉ cần động cơ đơn 170 kW và mô-men xoắn 330 Nm mà vẫn vận hành vô cùng linh hoạt\n11\n12\n.\nGia tăng mức tiêu hao năng lượng (Wh/km): Xe càng nặng thì động cơ càng phải tiêu thụ dòng điện tức thời cao hơn để duy trì gia tốc\n11\n12\n. VF 8 thế hệ cũ tiêu hao năng lượng rất lớn, khiến khối pin dung lượng lớn 87.7 kWh chỉ có thể đi được quãng đường khiêm tốn là 243 dặm (Plus) hoặc 264 dặm (Eco)\n18\n(tương đương mức tiêu hao thực tế cao, khoảng 206 - 224 Wh/km). Trong khi đó, bản VF 8 All-New 2026 siêu nhẹ chỉ cần viên pin 60.13 kWh đã có thể đi được 500 km NEDC\n(tương đương mức tiêu hao lý thuyết chỉ khoảng 120 Wh/km).\nTải trọng mỏi lên hệ cơ khí: Khối lượng gần 2.6 tấn di chuyển và phanh liên tục sẽ đặt áp lực tải mỏi cơ học rất lớn lên hệ thống bánh răng hành tinh giảm tốc và vòng bi chịu lực của hộp số ZF\n8\n9\n. Việc giảm cân nặng ở thế hệ mới giúp tăng đáng kể tuổi thọ mỏi của các chi tiết cơ khí này\n11\n12\n.\n3. Bảng So sánh Thông số Kỹ thuật chi tiết giữa 3 Dòng xe (2024-2026)\nLưu ý: Đối với VinFast VF 8, bảng cung cấp dữ liệu của cả 2 thế hệ (Thế hệ cũ/Plus và Thế hệ mới All-New 2026) để thể hiện rõ nét cuộc cách mạng tối ưu hóa trọng lượng.\nDòng xe / Phiên bản\nTrọng lượng bản thân (kg)\nCông suất động cơ (kW / hp)\nMô-men xoắn cực đại (Nm)\nMức tiêu hao năng lượng thực tế theo kiểm định\nTesla Model Y (Rear-Wheel Drive / 4D3)\n~1.800 kg (khoảng 1.8 tấn)\n3\n4\n220 kW / 295 hp\n21\n22\n440 Nm\n23\n~186 - 192 Wh/km (quy đổi từ mức EPA: 30-31 kWh/100 dặm)\n24\nBYD Sealion 7 (Comfort RWD)\n2.225 kg\n25\n26\n230 kW / 308 hp\n380 Nm\n25\n27\n~171 Wh/km (Tính từ pin 82.5 kWh và tầm hoạt động 300 dặm WLTP)\n25\n27\nBYD Sealion 7 (Design AWD)\n2.340 kg\n25\n26\n390 kW / 523 hp\n690 Nm\n27\n~181 Wh/km (Tính từ pin 82.5 kWh và tầm hoạt động 283 dặm WLTP)\n25\n27\nBYD Sealion 7 (Excellence AWD)\n2.435 kg\n25\n26\n390 kW / 523 hp\n690 Nm\n27\n~182 Wh/km (Tính từ pin 91.3 kWh và tầm hoạt động 312 dặm WLTP)\n25\n27\nVinFast VF 8 Plus (Thế hệ cũ / 2024)\n~2.500 - 2.585 kg\n300 kW / 402 hp\n620 Nm\n16\n17\n~224 Wh/km (Tính từ pin 87.7 kWh và tầm hoạt động 243 dặm EPA)\n18\nVinFast VF 8 All-New (Thế hệ mới 2026)\n~1.800 - 1.900 kg\n170 kW / 228 hp\n330 Nm\n~120 Wh/km (Tính từ pin LFP 60.13 kWh và tầm hoạt động 500 km NEDC)\n4. Kết luận\nSự so sánh trên cho thấy trọng lượng bản thân là rào cản vật lý cực lớn đối với xe điện hiệu năng cao. Tesla Model Y dẫn đầu về khả năng tối ưu hóa trọng lượng nhờ Gigacasting\n3\n4\n. BYD Sealion 7 chấp nhận mức trọng lượng lớn hơn do cấu trúc pin LFP Blade nặng nhưng đổi lại có độ cứng vững khung gầm CTB hoàn hảo\n6\n7\n. Đối với VinFast, việc cắt giảm thành công hơn 600 kg trọng lượng trên mẫu VF 8 All-New 2026 là một bước tiến công nghệ mang tính quyết định, giúp xe đạt mức tiêu thụ năng lượng tối ưu tiệm cận các đối thủ sừng sỏ và giải quyết triệt để bài toán động lực học của thế hệ đầu tiên\n🔋 Bạn có muốn tôi phân tích sâu hơn về công nghệ đóng gói pin Cell-to-Body (CTB) của BYD và cách thiết kế tích hợp này ảnh hưởng thế nào đến khả năng hấp thụ lực va chạm và độ an toàn của hành khách khi xảy ra va chạm không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Thông qua cụm van phân phối đa ngả điều khiển điện tử và chiller trao đổi nhiệt, ITM thu hồi lượng nhiệt dư thừa tỏa ra từ thớt tản nhiệt động cơ và bộ chuyển đổi điện tử công suất [cite: 48, 49, 50, 66]. Lượng nhiệt năng này thay vì xả bỏ ra môi trường sẽ được sườn ITM điều phối để sưởi ấm bộ pin sườn trong thời tiết giá lạnh (giúp pin đạt nhiệt độ tối ưu khi sạc nhanh) hoặc bổ trợ sưởi ấm cabin để tiết kiệm điện năng sưởi PTC [cite: 27, 48, 49, 50, 65]. Khi pin sạc nhanh sinh nhiệt lớn, chiller sẽ kích hoạt môi chất lạnh tản nhiệt cưỡng bức cho dòng glycol để hạ nhiệt độ pin nhanh chóng [cite: 65, 66]."
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Thông qua cụm van phân phối đa ngả điều khiển điện tử và chiller trao đổi nhiệt, ITM thu hồi lượng nhiệt dư thừa tỏa ra từ thớt tản nhiệt động cơ và bộ chuyển đổi điện tử công suất [cite: 48, 49, 50, 66]. Lượng nhiệt năng này thay vì xả bỏ ra môi trường sẽ được sườn ITM điều phối để sưởi ấm bộ pin sườn trong thời tiết giá lạnh (giúp pin đạt nhiệt độ tối ưu khi sạc nhanh) hoặc bổ trợ sưởi ấm cabin để tiết kiệm điện năng sưởi PTC [cite: 27, 48, 49, 50, 65]. Khi pin sạc nhanh sinh nhiệt lớn, chiller sẽ kích hoạt môi chất lạnh tản nhiệt cưỡng bức cho dòng glycol để hạ nhiệt độ pin nhanh chóng [cite: 65, 66]."
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Thông qua cụm van phân phối đa ngả điều khiển điện tử và chiller trao đổi nhiệt, ITM thu hồi lượng nhiệt dư thừa tỏa ra từ thớt tản nhiệt động cơ và bộ chuyển đổi điện tử công suất [cite: 48, 49, 50, 66]. Lượng nhiệt năng này thay vì xả bỏ ra môi trường sẽ được sườn ITM điều phối để sưởi ấm bộ pin sườn trong thời tiết giá lạnh (giúp pin đạt nhiệt độ tối ưu khi sạc nhanh) hoặc bổ trợ sưởi ấm cabin để tiết kiệm điện năng sưởi PTC [cite: 27, 48, 49, 50, 65]. Khi pin sạc nhanh sinh nhiệt lớn, chiller sẽ kích hoạt môi chất lạnh tản nhiệt cưỡng bức cho dòng glycol để hạ nhiệt độ pin nhanh chóng [cite: 65, 66]. Tác động của trọng lượng xe lên hiệu năng động cơ: Giga Press, CTB và Khung thép cường lực Trọng lượng tổng thể của xe điện là nhân tố quyết định trực tiếp đến yêu cầu mô-men xoắn cản khởi động, độ bền mỏi cơ học của bánh răng truyền động và hiệu suất tiêu thụ điện toàn sườn [cite: 8, 67]. Công nghệ đúc nguyên khối Gigacasting của Tesla (Model Y ~1.8 tấn) Tesla sử dụng hệ thống máy đúc áp lực cực lớn Giga Press để đúc nguyên khối cấu trúc gầm trước và sau bằng hợp kim nhôm, giảm hơn 170 chi tiết kim loại riêng lẻ [cite: 8]."
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Thông qua cụm van phân phối đa ngả điều khiển điện tử và chiller trao đổi nhiệt, ITM thu hồi lượng nhiệt dư thừa tỏa ra từ thớt tản nhiệt động cơ và bộ chuyển đổi điện tử công suất [cite: 48, 49, 50, 66]. Lượng nhiệt năng này thay vì xả bỏ ra môi trường sẽ được sườn ITM điều phối để sưởi ấm bộ pin sườn trong thời tiết giá lạnh (giúp pin đạt nhiệt độ tối ưu khi sạc nhanh) hoặc bổ trợ sưởi ấm cabin để tiết kiệm điện năng sưởi PTC [cite: 27, 48, 49, 50, 65]. Khi pin sạc nhanh sinh nhiệt lớn, chiller sẽ kích hoạt môi chất lạnh tản nhiệt cưỡng bức cho dòng glycol để hạ nhiệt độ pin nhanh chóng [cite: 65, 66]. Tác động của trọng lượng xe lên hiệu năng động cơ: Giga Press, CTB và Khung thép cường lực Trọng lượng tổng thể của xe điện là nhân tố quyết định trực tiếp đến yêu cầu mô-men xoắn cản khởi động, độ bền mỏi cơ học của bánh răng truyền động và hiệu suất tiêu thụ điện toàn sườn [cite: 8, 67]. Công nghệ đúc nguyên khối Gigacasting của Tesla (Model Y ~1.8 tấn) Tesla sử dụng hệ thống máy đúc áp lực cực lớn Giga Press để đúc nguyên khối cấu trúc gầm trước và sau bằng hợp kim nhôm, giảm hơn 170 chi tiết kim loại riêng lẻ [cite: 8]."
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "BYD Sealion 7 - Wikipedia",
+      "source_text": "Powertrain Electric motor Permanent magnet synchronous Power output - 170 kW (228 hp; 231 PS) - 230 kW (308 hp; 313 PS) - 390 kW (523 hp; 530 PS) Battery - 71.8 kWh BYD Blade LFP - 80.64 kWh BYD Blade LFP - 82.56 kWh BYD Blade LFP - 91.3 kWh BYD Blade LFP Plug-in charging - 11 kW ( AC ) - 150 kW ( DC ) - 230 kW ( DC , 91 kWh AWD) - 180–240 kW ( DC , China) Dimensions Wheelbase 2,930 mm (115.4 in) Length 4,830 mm (190.2 in) Width 1,925 mm (75.8 in) Height 1,620 mm (63.8 in) Kerb weight 2,155–2,435 kg (4,751–5,368 lb) The BYD Sealion 7 , also sold in China as the BYD Sealion 07 EV ( Chinese : 比亚迪海狮07 EV; pinyin : Bǐyǎdí Hǎishī 07 EV ), is a battery electric mid-size crossover SUV manufactured by BYD Auto since 2024. It is the first vehicle of the Sealion ( 海狮; Hǎishī ) family of SUVs under the Ocean Series product line-up."
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Tesla sử dụng hệ thống máy đúc áp lực cực lớn Giga Press để đúc nguyên khối cấu trúc gầm trước và sau bằng hợp kim nhôm, giảm hơn 170 chi tiết kim loại riêng lẻ [cite: 8]. Tác động cơ học: Giúp giảm trọng lượng bản thân Model Y xuống mức lý tưởng khoảng [cite: 8, 68]. Trọng lượng nhẹ làm giảm đáng kể moment quán tính của xe khi khởi hành, giảm tải trọng uốn mỏi lên trục động cơ và vòng bi chịu lực [cite: 2, 8]. Nhờ đó, Tesla chỉ cần trang bị động cơ công suất vừa phải ( ) nhưng vẫn đạt gia tốc lớn và duy trì hiệu suất năng lượng tối ưu [cite: 8, 16, 69]. Công nghệ Cell-to-Body (CTB) của BYD (Sealion 7 ~2.2 tấn)"
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Tesla sử dụng hệ thống máy đúc áp lực cực lớn Giga Press để đúc nguyên khối cấu trúc gầm trước và sau bằng hợp kim nhôm, giảm hơn 170 chi tiết kim loại riêng lẻ [cite: 8]. Tác động cơ học: Giúp giảm trọng lượng bản thân Model Y xuống mức lý tưởng khoảng [cite: 8, 68]. Trọng lượng nhẹ làm giảm đáng kể moment quán tính của xe khi khởi hành, giảm tải trọng uốn mỏi lên trục động cơ và vòng bi chịu lực [cite: 2, 8]. Nhờ đó, Tesla chỉ cần trang bị động cơ công suất vừa phải ( ) nhưng vẫn đạt gia tốc lớn và duy trì hiệu suất năng lượng tối ưu [cite: 8, 16, 69]. Công nghệ Cell-to-Body (CTB) của BYD (Sealion 7 ~2.2 tấn)"
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Công nghệ Cell-to-Body (CTB) của BYD (Sealion 7 ~2.2 tấn) BYD ứng dụng công nghệ CTB tích hợp trực tiếp các cell pin Blade siêu cứng vào cấu trúc sàn chịu lực của khung gầm xe Sealion 7 [cite: 30, 31, 32, 33, 67]. Tác động cơ học: Cấu trúc CTB giúp tăng độ cứng xoắn của khung thân lên mức vượt trội [cite: 67]. Thân xe cứng vững giúp triệt tiêu hiện tượng vặn xoắn gầm khi chịu phản lực mô-men xoắn tức thời từ động cơ quay ở tốc độ truyền xuống bánh xe [cite: 30, 31, 67]. Tuy nhiên, do mật độ năng lượng theo khối lượng của pin LFP thấp hơn pin NMC, trọng lượng Sealion 7 bị đẩy lên khoảng [cite: 31, 32, 33]. Trọng lượng lớn hơn yêu cầu BYD phải sử dụng động cơ có công suất lớn hơn ( ) để duy trì khả năng bám đuổi gia tốc [cite: 30, 31, 32]. Khung thép cường lực cải tiến của VinFast (VF 8 All-New ~1.9 tấn) Triết lý thiết kế truyền thống của VinFast tập trung vào việc bảo vệ an toàn tối đa cho hành khách thông qua hệ khung gầm thép cường lực cường độ cao chống va đập cực dày, khiến trọng lượng của xe VF 8 thế hệ đầu tiên đạt mức khá lớn khoảng"
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Công nghệ Cell-to-Body (CTB) của BYD (Sealion 7 ~2.2 tấn) BYD ứng dụng công nghệ CTB tích hợp trực tiếp các cell pin Blade siêu cứng vào cấu trúc sàn chịu lực của khung gầm xe Sealion 7 [cite: 30, 31, 32, 33, 67]. Tác động cơ học: Cấu trúc CTB giúp tăng độ cứng xoắn của khung thân lên mức vượt trội [cite: 67]. Thân xe cứng vững giúp triệt tiêu hiện tượng vặn xoắn gầm khi chịu phản lực mô-men xoắn tức thời từ động cơ quay ở tốc độ truyền xuống bánh xe [cite: 30, 31, 67]. Tuy nhiên, do mật độ năng lượng theo khối lượng của pin LFP thấp hơn pin NMC, trọng lượng Sealion 7 bị đẩy lên khoảng [cite: 31, 32, 33]. Trọng lượng lớn hơn yêu cầu BYD phải sử dụng động cơ có công suất lớn hơn ( ) để duy trì khả năng bám đuổi gia tốc [cite: 30, 31, 32]. Khung thép cường lực cải tiến của VinFast (VF 8 All-New ~1.9 tấn) Triết lý thiết kế truyền thống của VinFast tập trung vào việc bảo vệ an toàn tối đa cho hành khách thông qua hệ khung gầm thép cường lực cường độ cao chống va đập cực dày, khiến trọng lượng của xe VF 8 thế hệ đầu tiên đạt mức khá lớn khoảng"
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "I designed major sections of Vinfast, ask me anything? : r/VinFastCommunity - Reddit",
+      "source_text": "8 howardkitty94 OP â€¢ 2y ago There are very very serious life or death problems with the steering hardware and software of Vinfast vehiclesâ€¦ I wonâ€™t go any further than that as I know what I know..but itâ€™s fatal problems with itâ€¦and the very senior management knew about themâ€¦Communists do not care about the well-being of people, sacrifice is in its doctrine 37 2 more replies Continue this thread Continue this thread Ambitious-Stock-3927 â€¢ 2y ago Weighing in at 5700 bls (same weight as my 2007 Silverado duramax) the front suspension setup on this VF8 is a joke. Do you agree with me about this?"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Triết lý thiết kế truyền thống của VinFast tập trung vào việc bảo vệ an toàn tối đa cho hành khách thông qua hệ khung gầm thép cường lực cường độ cao chống va đập cực dày, khiến trọng lượng của xe VF 8 thế hệ đầu tiên đạt mức khá lớn khoảng [cite: 70, 71]. Trọng lượng lớn này đặt ra áp lực tải mỏi cơ học liên tục lên hệ truyền động bánh răng ZF khi khởi động dốc và tăng tốc tức thời [cite: 71]. Để giải quyết triệt để bài toán động lực học này, trên phiên bản VF 8 All-New (Thế hệ mới 2026), các kỹ sư VinFast đã thực hiện một bước đột phá lớn về mặt cơ khí sườn xe và cấu trúc SDV (Software-Defined Vehicle) [cite: 49, 50, 57]. Bằng việc tối ưu hóa hình học chịu lực, ứng dụng vật liệu thép hợp kim thế hệ mới mỏng nhẹ hơn nhưng có cường độ chịu kéo lớn hơn, kết hợp với việc tích hợp cụm truyền động 6-trong-1 siêu nhẹ, VinFast đã thành công cắt giảm tới trọng lượng xe so với thế hệ cũ [cite: 49, 57, 72]. Sự cắt giảm khối lượng ngoạn mục này đưa trọng lượng xe VF 8 All-New về mức lý tưởng khoảng"
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "Triết lý thiết kế truyền thống của VinFast tập trung vào việc bảo vệ an toàn tối đa cho hành khách thông qua hệ khung gầm thép cường lực cường độ cao chống va đập cực dày, khiến trọng lượng của xe VF 8 thế hệ đầu tiên đạt mức khá lớn khoảng [cite: 70, 71]. Trọng lượng lớn này đặt ra áp lực tải mỏi cơ học liên tục lên hệ truyền động bánh răng ZF khi khởi động dốc và tăng tốc tức thời [cite: 71]. Để giải quyết triệt để bài toán động lực học này, trên phiên bản VF 8 All-New (Thế hệ mới 2026), các kỹ sư VinFast đã thực hiện một bước đột phá lớn về mặt cơ khí sườn xe và cấu trúc SDV (Software-Defined Vehicle) [cite: 49, 50, 57]. Bằng việc tối ưu hóa hình học chịu lực, ứng dụng vật liệu thép hợp kim thế hệ mới mỏng nhẹ hơn nhưng có cường độ chịu kéo lớn hơn, kết hợp với việc tích hợp cụm truyền động 6-trong-1 siêu nhẹ, VinFast đã thành công cắt giảm tới trọng lượng xe so với thế hệ cũ [cite: 49, 57, 72]. Sự cắt giảm khối lượng ngoạn mục này đưa trọng lượng xe VF 8 All-New về mức lý tưởng khoảng"
+    },
+    {
+      "marker": "[16]",
+      "number": 16,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "-------------------------------------------------------------------------------- 3. Hệ truyền động và động cơ PMSM mới nhất của VinFast Động cơ PMSM công suất lớn trên các dòng xe phân khúc cao cấp VinFast đã định hình dải sản phẩm xe điện thông minh bằng hệ truyền động động cơ đồng bộ nam châm vĩnh cửu chôn sâu (IPMSM) có dải công suất lớn [cite: 44]. Trên các dòng xe phân khúc D và E như VF 8 Plus và VF 9, hệ thống được cấu hình dạng động cơ đôi (dual-motor) phân bổ trên hai trục chủ động, cung cấp tổng công suất từ ( ) đến tùy phiên bản, với mô-men xoắn cực đại đạt mức đến [cite: 44, 45, 46]. Bản VF 8 Eco sử dụng động cơ có công suất thấp hơn ở mức ( ) và mô-men xoắn [cite: 47, 48, 49, 50]."
+    },
+    {
+      "marker": "[17]",
+      "number": 17,
+      "source_name": "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "source_text": "-------------------------------------------------------------------------------- 3. Hệ truyền động và động cơ PMSM mới nhất của VinFast Động cơ PMSM công suất lớn trên các dòng xe phân khúc cao cấp VinFast đã định hình dải sản phẩm xe điện thông minh bằng hệ truyền động động cơ đồng bộ nam châm vĩnh cửu chôn sâu (IPMSM) có dải công suất lớn [cite: 44]. Trên các dòng xe phân khúc D và E như VF 8 Plus và VF 9, hệ thống được cấu hình dạng động cơ đôi (dual-motor) phân bổ trên hai trục chủ động, cung cấp tổng công suất từ ( ) đến tùy phiên bản, với mô-men xoắn cực đại đạt mức đến [cite: 44, 45, 46]. Bản VF 8 Eco sử dụng động cơ có công suất thấp hơn ở mức ( ) và mô-men xoắn [cite: 47, 48, 49, 50]."
+    },
+    {
+      "marker": "[18]",
+      "number": 18,
+      "source_name": "VinFast VF8 – Page 5",
+      "source_text": "Honda prices the base Prologue EX FWD from $47,400, with the Touring FWD coming in at $51,700, and the Elite has a base price of $57,900. If you'd like an EX or Touring model with all-wheel drive, Honda adds an additional $3,000 to the starting price. In testing by Car and Driver , the Prologue Elite was able to get to 60 mph in 5.9 seconds. They have yet to test the base models with less power, but it's obvious they will be quite slow. Now, we come to the familiar challenger in the red and yellow shorts (the colors of the Vietnamese flag): the VinFast VF8. There are just two trims available so that customers won't get confused with all sorts of packages and options: the Eco and Plus. The VF8 Eco has a base price of $47,325, and the Plus trim starts at $51,800. Both VF8 trims have dual motors with 87.7-kWh batteries, giving Eco models 349 horsepower and 369 lb-ft of torque and 402 horsepower and 457 lb-ft of torque for the Plus trims. While the Honda makes AWD an option, VinFast offers it as a standard feature on all VF8 models. The EPA says drivers can expect 264 miles for Eco models and 243 miles for Plus models between charges. According to VinFast, the VF8 will reach 60 mph in just 5.9 or 5.5 seconds for the Eco and Plus, respectively. Charging times are similar to the Honda, with about 35 minutes to charge from 10-70% on a DC fast charger."
+    },
+    {
+      "marker": "[19]",
+      "number": 19,
+      "source_name": "VINFAST INTRODUCES THE NEW-GENERATION VF 8, FEATURING COMPREHENSIVE USER EXPERIENCE ENHANCEMENTS - PR Newswire",
+      "source_text": "The vehicle is powered by an electric motor producing a maximum output of 170 kW (228 horsepower) and peak torque of 330 Nm, paired with front-wheel drive and three driving modes: Eco, Normal, and Sport. The new-generation VF 8 uses a 60.13 kWh battery pack, providing a driving range of up to 500 km on a full charge based on NEDC standards. The vehicle also supports fast charging from 10% to 70% in under 30 minutes. Notably, the new-generation VF 8 is equipped with an Integrated Thermal Management (ITM) system independently researched, developed, and patented by VinFast. The system manages cooling and heating functions for the battery, motor, electrical system, and cabin climate control in a coordinated and efficient manner. This helps maintain stable vehicle performance, improve energy efficiency, support fast charging capability, and contribute to battery and motor durability, while maintaining cabin comfort in varying weather conditions."
+    },
+    {
+      "marker": "[21]",
+      "number": 21,
+      "source_name": "Which is better between Tesla 3D7 and 4D3? - BitAuto",
+      "source_text": "车辆和载具 Performance and Price: The power of the 4D3 motor is the same as that of the 3D6 motor used in the Tesla Model Y, both at 220kW. Consequently, the zero-to-hundred acceleration performance of the rear-drive version of the Tesla Model Y is expected to improve, reaching 5.9 seconds. In terms of price, due to cost reductions, a more competitive selling price may be offered. Maintenance and Replacement: Since the 4D3 motor is more integrated, it is difficult to repair through component replacement during malfunctions, and the maintenance cost for replacing components is higher."
+    },
+    {
+      "marker": "[22]",
+      "number": 22,
+      "source_name": "Which is better between Tesla 3D7 and 4D3? - BitAuto",
+      "source_text": "车辆和载具 Performance and Price: The power of the 4D3 motor is the same as that of the 3D6 motor used in the Tesla Model Y, both at 220kW. Consequently, the zero-to-hundred acceleration performance of the rear-drive version of the Tesla Model Y is expected to improve, reaching 5.9 seconds. In terms of price, due to cost reductions, a more competitive selling price may be offered. Maintenance and Replacement: Since the 4D3 motor is more integrated, it is difficult to repair through component replacement during malfunctions, and the maintenance cost for replacing components is higher."
+    },
+    {
+      "marker": "[23]",
+      "number": 23,
+      "source_name": "Two Types of Tesla Model 3 Motors: Everything You Need to Know - Lammotor",
+      "source_text": "In motor losses, copper losses account for 65%. In flat-wire motors, the effective winding resistance decreases due to the improved slot fill rate, thereby reducing copper losses. The Model Y, equipped with a flat-wire motor, has optimized both motor volume and power density. Tesla has currently launched five motor models in China, with the maximum power of the flat-wire permanent magnet synchronous motor increasing from 202 kW to 220 kW and maximum torque from 404 Nm to 440 Nm. The rear motor of the Model Y adopts the flat-wire solution, with the flat wire's enamel weight at about 5.78 kg, ensuring better welding consistency and fullness, as well as reducing the rotor volume and weight."
+    },
+    {
+      "marker": "[24]",
+      "number": 24,
+      "source_name": "Comparison between: - 2023 Tesla Model 3 Performance AWD - EV Specifications",
+      "source_text": "EPA, CMB: 315.0 mi / 507.0 km EPA, CMB: 298.0 mi / 479.6 km Energy efficiency Information about the energy efficiency of the model in various measurement units according to EPA, NEDC, WPTL. Energy efficiency EPA, CTY: 118 MPGe EPA, CMB: 30 kWh/100 mi EPA, CMB: 113 MPGe EPA, HWY: 107 MPGe EPA, CTY: 113 MPGe EPA, CMB: 31 kWh/100 mi EPA, CMB: 109 MPGe EPA, HWY: 104 MPGe Energy class Information about the energy class of the electric car. Energy class A+ A Steering Information about the type of the steering mechanism of the model and related features."
+    },
+    {
+      "marker": "[25]",
+      "number": 25,
+      "source_name": "2025 BYD Sealion 7 - Latest Automotive News - myAutoWorld.com",
+      "source_text": "All versions of the BYD SEALION 7 are offered with excellent warranty conditions as standard, consisting of a six-year manufacturer's warranty and eight years for the battery and electric motor. Main specifications BYD SEALION 7 Items Specs ^^ Comfort RWD Design AWD Excellence AWD Dimensions (L/W/H, mm) 4,830/1,925/1,620 Kerbweight (kg) 2,225 2,340 2435 Wheelbase(mm) 2,930 Drive type RWD AWD AWD Top speed (km/h) 215 Motor power (kW) 230kW 390kW 390kW 0-62 mph acceleration time (s) 6.7 4.5 4.5 Wheel size (inch) 19 20 20 Electric range – WLTP Combined (m) 300 283 312 Trunk volume (L, rear seats up/down) 520/1,789 Seating capacity (occupants) 5 Battery type BYD Blade Battery (LFP) Rated capacity (kWh) 82.5 82.5 91.3 Charging power 150kW DC Up to 11kW AC (3 phase) 150kW DC Up to 11kW AC (3 phase) 230kW DC Up to 11kW AC (3 phase) DC charging time (30-80%, min) DC charging time (10-80%, min) 24 32 24 32 18 24 Heat Pump Standard V2L function Standard"
+    },
+    {
+      "marker": "[26]",
+      "number": 26,
+      "source_name": "BYD Announces UK Pricing and Specifications for SEALION 7",
+      "source_text": "Main Specifications BYD SEALION 7 Items Specs ^^ Comfort RWD Design AWD Excellence AWD Dimensions (L/W/H, mm) 4,830/1,925/1,620 Kerbweight (kg) 2,225 2,340 2435 Wheelbase(mm) 2,930 Drive type RWD AWD AWD Top speed (mph) 134 Motor power (kW) 230kW 390kW 390kW 0-62 mph acceleration time (s) 6.7 4.5 4.5 Wheel size (inch) 19 20 20 Electric range - WLTP Combined (m) 300 283 312 Trunk volume (L, rear seats up/down) 520/1,789 Seating capacity (occupants) 5 Battery type BYD Blade Battery (LFP) Rated capacity (kWh) 82.5 82.5 91.3 Charging power 150kW DC Up to 11kW AC (3 phase) 150kW DC Up to 11kW AC (3 phase) 230kW DC Up to 11kW AC (3 phase) DC charging time (30-80%, min) DC charging time (10-80%, min) 24 32 24 32 18 24 Heat Pump Standard V2L function Standard"
+    },
+    {
+      "marker": "[27]",
+      "number": 27,
+      "source_name": "BYD Sealion 7 - Wikipedia",
+      "source_text": "Outside China [ edit source ] | Type | Battery | Layout | Electric motor || Power | Torque | 0–100 km/h (0–62 mph) (claimed) | Range (claimed) || Calendar years | | ^^ | ^^ | ^^ | ^^ | ^^ | ^^ | ^^ | ^^ | NEDC | WLTP | ^^ | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | RWD (100 kW) | 71.8 kWh LFP Blade battery | RWD | Rear | TZ200XYT PMSM | 100 kW (134 hp; 136 PS) | 380 N⋅m (38.7 kg⋅m; 280 lb⋅ft) | 11.8 seconds | 520 km (323 mi) | 405 km (252 mi) | 2025–present (Singapore and Nepal) [34] [35] | | RWD | 82.56 kWh LFP Blade battery | RWD | Rear | TZ200XYT PMSM | 230 kW (308 hp; 313 PS) | 380 N⋅m (38.7 kg⋅m; 280 lb⋅ft) | 6.7 seconds | 567 km (352 mi) | 482 km (300 mi) | 2024–present | | AWD | 82.56 kWh LFP Blade battery | AWD | Front | YS210XYA PMSM | 160 kW (215 hp; 218 PS) | 310 N⋅m (31.6 kg⋅m; 229 lb⋅ft) | 4.5 seconds | 542 km (337 mi) | 456 km (283 mi) | 2024–present | | ^^ | ^^ | ^^ | Rear | TZ200XYT PMSM | 230 kW (308 hp; 313 PS) | 380 N⋅m (38.7 kg⋅m; 280 lb⋅ft) | ^^ | ^^ | ^^ | ^^ | | ^^ | ^^ | ^^ | Combined: || 390 kW (523 hp; 530 PS) | 690 N⋅m (70.4 kg⋅m; 509 lb⋅ft) | ^^ | ^^ | ^^ | ^^ | | AWD (Europe) | 91.3 kWh LFP Blade battery | AWD | Front | YS210XYA PMSM | 160 kW (215 hp; 218 PS) | 310 N⋅m (31.6 kg⋅m; 229 lb⋅ft) | 4.5 seconds | N/A | 502 km (312 mi) | 2024–present | | ^^ | ^^ | ^^ | Rear | TZ200XYT PMSM | 230 kW (308 hp; 313 PS) | 380 N⋅m (38.7 kg⋅m; 280 lb⋅ft) | ^^ | ^^ | ^^ | ^^ | | ^^ | ^^ | ^^ | Combined: || 390 kW (523 hp; 530 PS) | 690 N⋅m (70.4 kg⋅m; 509 lb⋅ft) | ^^ | ^^ | ^^ | ^^ | References: [15] [19] [36]"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 23,
+    "source_names": [
+      "Báo cáo Nghiên cứu Kỹ thuật: Hệ thống Động cơ Truyền động Xe điện Thế hệ mới (2025-2026)",
+      "BYD Sealion 7 - Wikipedia",
+      "I designed major sections of Vinfast, ask me anything? : r/VinFastCommunity - Reddit",
+      "VinFast VF8 – Page 5",
+      "VINFAST INTRODUCES THE NEW-GENERATION VF 8, FEATURING COMPREHENSIVE USER EXPERIENCE ENHANCEMENTS - PR Newswire",
+      "Which is better between Tesla 3D7 and 4D3? - BitAuto",
+      "Two Types of Tesla Model 3 Motors: Everything You Need to Know - Lammotor",
+      "Comparison between: - 2023 Tesla Model 3 Performance AWD - EV Specifications",
+      "2025 BYD Sealion 7 - Latest Automotive News - myAutoWorld.com",
+      "BYD Announces UK Pricing and Specifications for SEALION 7"
+    ]
+  }
+}

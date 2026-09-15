@@ -1,0 +1,155 @@
+---
+title: "[Chương 2]: Trình bày nguyên nhân vĩ mô khiến ngành công nghiệp ô tô Việt Nam trong 30 năm trước chỉ dừng ở mức nội địa hóa 10-20% và thất bại trong việc vươn lên chuỗi giá trị toàn cầu."
+type: nblm-answer
+asked_at: 2026-07-22T03:10:53.623Z
+notebook_url: "https://notebooklm.google.com/notebook/eac0581c-0b8a-44e9-938c-e8b56977435a"
+session_id: "321727fb"
+citations_count: 15
+sources:
+  - "HÃNG XE ĐIỆN VINFAST NỘI ĐỊA HÓA 84% VÀO NĂM 2026 - Auto365"
+  - "Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz"
+  - "Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026"
+  - "Không còn là lời hứa: VinFast 'đặt hàng lớn', doanh nghiệp phụ trợ Việt sẵn sàng chưa?"
+  - "VinFast công bố tỷ lệ nội địa hoá xe điện đã đạt 60%, mục tiêu đạt 84% năm 2026"
+  - "VinFast khởi tạo “cuộc chơi lớn”, đưa công nghiệp hỗ trợ Việt lên tầm cao mới - baodautu"
+  - "VinFast công bố lộ trình nội địa hoá các dòng xe điện"
+---
+
+# [Chương 2]: Trình bày nguyên nhân vĩ mô khiến ngành công nghiệp ô tô Việt Nam trong 30 năm trước chỉ dừng ở mức nội địa hóa 10-20% và thất bại trong việc vươn lên chuỗi giá trị toàn cầu.
+
+> Asked on 2026-07-22T03:10:53.623Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/eac0581c-0b8a-44e9-938c-e8b56977435a)
+
+## Answer
+
+Thoughts
+[Chương 2]: Nguyên nhân vĩ mô khiến ngành công nghiệp ô tô Việt Nam trong 30 năm trước chỉ dừng ở mức nội địa hóa thấp và thất bại trong việc vươn lên chuỗi giá trị toàn cầu
+Kể từ khi chiếc ô tô con đầu tiên được lắp ráp tại Việt Nam vào năm 1992, ngành công nghiệp ô tô nội địa đã trải qua hơn 30 năm phát triển
+1
+. Tuy nhiên, tỷ lệ nội địa hóa của các doanh nghiệp FDI lắp ráp xe động cơ đốt trong truyền thống chỉ lẹt đẹt ở mức 10% - 15% (hoặc tối đa khoảng 20% đối với linh kiện)
+1
+2
+. Con số này thấp hơn đáng kể so với mục tiêu 40% đặt ra vào năm 2020
+1
+.
+Dưới lăng kính kinh tế vĩ mô và quản trị chuỗi cung ứng, sự thất bại trong việc vươn lên nấc thang cao hơn của chuỗi giá trị toàn cầu bắt nguồn từ bốn nguyên nhân cốt lõi sau:
+1. Bẫy giá trị gia tăng thấp (CKD) và sự thiếu vắng của "nhà dẫn dắt" nội địa
+Hệ quả của mô hình lắp ráp thuần túy: Ngành công nghiệp ô tô truyền thống của Việt Nam trước đây chủ yếu vận hành theo mô hình lắp ráp CKD (lắp ráp linh kiện nhập khẩu hoàn toàn)
+3
+. Do hầu hết các linh kiện chính có giá trị thặng dư cao đều phải nhập khẩu trực tiếp từ công ty mẹ ở nước ngoài, phần lớn thặng dư kinh tế bị chuyển ra ngoại bang, khiến Việt Nam rơi vào bẫy giá trị gia tăng thấp
+3
+4
+.
+Thiếu doanh nghiệp đầu chuỗi đủ mạnh: Việt Nam thiếu các doanh nghiệp nội địa đóng vai trò "sếu đầu đàn" để dẫn dắt và định hình chuỗi cung ứng độc lập
+5
+6
+. Khi để các hãng ô tô ngoại nắm quyền dẫn dắt, quốc gia không thể tự xây dựng được nền tảng công nghiệp hỗ trợ vững chắc do các hãng này ưu tiên tối ưu hóa lợi ích của tập đoàn mẹ hơn là phát triển nội lực nước sở tại
+7
+.
+2. Chiến lược phân công chuỗi cung ứng của các tập đoàn đa quốc gia (OEMs)
+Sự phân vị địa lý có chủ đích: Khi các hãng xe lớn như Toyota, Mitsubishi, Ford, Isuzu, Hyundai, hay Daewoo đầu tư vào Việt Nam từ những năm 1990, họ đều đưa ra cam kết đạt khoảng 30% nội địa hóa sau 10-15 năm, đi kèm các hứa hẹn chuyển giao công nghệ và xuất khẩu
+8
+. Tuy nhiên, trên thực tế, các hãng ngoại này chỉ coi Việt Nam là thị trường tiêu thụ và lắp ráp thành phẩm
+5
+.
+Sự áp đảo của Thái Lan và Indonesia: Các tập đoàn đa quốc gia đã chủ động chọn Thái Lan và Indonesia làm trung tâm sản xuất phụ tùng và công nghiệp hỗ trợ cho cả khu vực Đông Nam Á
+. Vì mạng lưới phụ trợ đã được thiết lập quy mô lớn tại các quốc gia này, các nhà sản xuất ngoại không còn động lực đầu tư công nghệ hay xây dựng chuỗi cung ứng chiều sâu tại Việt Nam
+9
+. Thay vào đó, họ chỉ nhập khẩu linh kiện từ các vệ tinh có sẵn trong khu vực để lắp ráp tại Việt Nam
+9
+10
+.
+3. Bất cập trong chính sách bảo hộ và bất bình đẳng ưu đãi thuế
+Ưu ái doanh nghiệp ngoại hơn doanh nghiệp nội: Trong giai đoạn đầu thu hút đầu tư, Chính phủ đã cung cấp những chính sách ưu đãi cực kỳ lớn cho các nhà đầu tư nước ngoài
+8
+. Tuy nhiên, các hãng FDI này lại mang theo hệ sinh thái doanh nghiệp phụ trợ của riêng họ từ nước ngoài vào Việt Nam và tiếp tục được hưởng các ưu đãi tương tự
+10
+.
+Bất công về nghĩa vụ tài khóa: Trong khi các doanh nghiệp phụ trợ nước ngoài được hưởng mức thuế thu nhập doanh nghiệp ưu đãi chỉ 10%, các doanh nghiệp thuần Việt lại phải gánh chịu mức thuế cao hơn rất nhiều (ban đầu là 25%, sau đó giảm dần xuống 22% và 17%)
+10
+. Sự bất bình đẳng về thuế này đã triệt tiêu hoàn toàn cơ hội cạnh tranh và vươn lên của các nhà cung ứng trong nước
+10
+.
+Chính sách hỗ trợ dàn trải: Các chính sách hỗ trợ phát triển công nghiệp hỗ trợ của Nhà nước trong nhiều năm qua bị đánh giá là dàn trải, thiếu tập trung vào các điểm nghẽn thực tế như quỹ đất hay nguồn vốn vay lãi suất thấp, khiến các doanh nghiệp vừa và nhỏ (SMEs) khó tiếp cận để đầu tư nâng cấp công nghệ
+11
+12
+.
+4. Nút thắt quy mô thị trường nhỏ và chi phí đầu tư phụ trợ quá cao
+Rào cản chi phí và sản lượng: Thách thức lớn nhất đối với các doanh nghiệp thuần Việt khi muốn gia nhập chuỗi cung ứng ô tô là chi phí đầu tư ban đầu cho máy móc, công nghệ và khuôn đúc quá cao, trong khi giá trị đơn hàng nhận được lại quá thấp
+11
+13
+. Nhiều doanh nghiệp trong nước dù muốn khẳng định năng lực vẫn phải chấp nhận bù lỗ từ các mảng kinh doanh khác để duy trì sản xuất linh kiện ô tô
+13
+.
+Hệ sinh thái phụ trợ cực kỳ non trẻ và manh mún: Sau hơn 30 năm, cả nước chỉ có 76 doanh nghiệp nội địa tham gia cung cấp linh kiện và phụ tùng cho ngành ô tô
+1
+. Tính cả các công ty nước ngoài, tổng số doanh nghiệp sản xuất linh kiện tại Việt Nam vẫn chưa đạt mốc 400
+1
+. Để so sánh vĩ mô, con số này ở Indonesia là khoảng 1.500 và Thái Lan lên đến 2.200 doanh nghiệp
+1
+. Quy mô quá nhỏ và thiếu tính liên kết khiến các sản phẩm phụ trợ trong nước thường có giá thành cao và chất lượng khó cạnh tranh sòng phẳng với các nhà cung cấp quốc tế
+14
+15
+.
+📈 Tôi có thể xây dựng một bảng so sánh trực quan về các chỉ số vĩ mô (số lượng nhà cung cấp, tỷ lệ nội địa hóa, và chính sách thuế) giữa Việt Nam, Thái Lan và Indonesia trong giai đoạn này để làm nổi bật hơn những nút thắt của ngành ô tô nước nhà được không?
+
+## Sources
+
+### [1] HÃNG XE ĐIỆN VINFAST NỘI ĐỊA HÓA 84% VÀO NĂM 2026 - Auto365
+
+> Theo số liệu từ Bộ Công Thương, sau hơn 30 năm kể từ khi chiếc ôtô con đầu tiên được lắp ráp tại Việt Nam vào năm 1992, hiện cả nước chỉ có 76 doanh nghiệp nội địa tham gia cung cấp linh kiện và phụ tùng cho ngành ôtô. Tính cả các công ty nước ngoài, tổng số doanh nghiệp sản xuất linh kiện tại Việt Nam vẫn chưa đạt 400, trong khi con số này ở Indonesia là khoảng 1.500 và Thái Lan lên đến 2.200. Với số lượng doanh nghiệp hỗ trợ còn hạn chế, tỷ lệ nội địa hóa linh kiện tại Việt Nam chỉ đạt khoảng 20%, thấp hơn đáng kể so với mục tiêu 40% đặt ra vào năm 2020.
+
+### [2] Nội địa hóa 80% mở đường cho xe điện Việt bứt phá chuỗi cung ứng xanh - VietnamBiz
+
+> Đặc biệt, Việt Nam đã từng bước làm chủ các công nghệ cốt lõi quan trọng nhất như động cơ và pin - những thành phần chiếm giá trị cao nhất trong xe điện. Cùng với đó, các dự án đầu tư mới đang hướng tới mục tiêu đưa tỷ lệ nội địa hóa cho lĩnh vực pin lưu trữ lên mức 80-90% trong thời gian tới. So với các doanh nghiệp FDI trong lĩnh vực ô tô truyền thống vốn chỉ đạt tỷ lệ nội địa hóa 10-15% sau hàng chục năm hoạt động, tốc độ phát triển của ngành xe điện nội địa là minh chứng rõ nét cho năng lực sản xuất và khát vọng làm chủ công nghệ của Việt Nam. Việc sở hữu năng lực công nghệ, từ động cơ đến pin lưu trữ, giúp Việt Nam không chỉ giảm phụ thuộc vào nhập khẩu mà còn mở ra cơ hội xuất khẩu công nghệ sang thị trường quốc tế.
+
+### [3] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Tác động giữ lại thặng dư GDP của ngành công nghiệp ô tô nội địa Ngành công nghiệp lắp ráp ô tô CKD truyền thống của Việt Nam trước đây thường rơi vào bẫy giá trị gia tăng thấp do hầu hết các linh kiện chính có giá trị thặng dư cao đều phải nhập khẩu trực tiếp từ công ty mẹ ở nước ngoài, khiến phần lớn thặng dư kinh tế bị chuyển ra ngoại bang [cite: 6, 21]. Bằng việc tự chủ hoàn toàn các xưởng dập khung vỏ thép, xưởng sơn tĩnh điện tự động hóa, xưởng sản xuất động cơ điện hiện đại và đặc biệt là nhà máy cell pin sạc LFP tại Hà Tĩnh, VinFast đã giữ lại phần lớn giá trị gia tăng của chuỗi sản xuất ngay bên trong biên giới Việt Nam [cite: 1, 6, 11, 24].
+
+### [4] Báo cáo nghiên cứu sâu về lộ trình tự chủ công nghệ, chuỗi cung ứng và tác động vĩ mô của VinFast giai đoạn 2025 - 2026
+
+> Thương hiệu nhánh Green được cấu trúc thành một hệ sinh thái phương tiện dịch vụ toàn diện bao gồm: Minio Green (phát triển từ VF 3), Herio Green (phát triển từ VF 5), Nerio Green (phát triển từ VF e34) và Limo Green (phát triển từ VF MPV 7) [cite: 13, 17, 22, 26, 29]. Mặc dù chia sẻ chung nền tảng khung gầm, động cơ và phần mềm điều khiển với dòng xe cá nhân thương mại, các phiên bản Green được tinh chỉnh thiết kế sâu sắc để đáp ứng cường độ vận hành liên tục của xe dịch vụ [cite: 13]. Nội thất xe được thay thế bằng các vật liệu đơn giản nhưng siêu bền, dễ lau chùi, tích hợp sẵn các thiết bị chuyên dụng như đồng hồ taxi, camera giám sát hành trình bằng AI, hệ thống định vị vệ tinh chính xác và hệ thống quản lý an toàn lái xe thông minh [cite: 13, 22].
+
+### [5] Không còn là lời hứa: VinFast 'đặt hàng lớn', doanh nghiệp phụ trợ Việt sẵn sàng chưa?
+
+> Theo chuyên gia kinh tế Phạm Chi Lan, một trong những nguyên nhân lớn khiến công nghiệp phụ trợ Việt Nam nhiều năm qua chưa phát triển tương xứng là do thiếu các doanh nghiệp đầu chuỗi nội địa đủ mạnh để "dẫn dắt" chuỗi cung ứng. "Các hãng ô tô ngoại như Toyota, Mitsubishi vào Việt Nam nhưng chỉ coi đây là nơi lắp ráp, còn phụ trợ thì đặt ở Thái Lan, Indonesia… Thành ra Việt Nam không thể phát triển được công nghiệp phụ trợ dù không hề yếu kém về năng lực", bà Phạm Chi Lan nhấn mạnh.
+
+### [6] VinFast công bố tỷ lệ nội địa hoá xe điện đã đạt 60%, mục tiêu đạt 84% năm 2026
+
+> Trong khi đó, PGS-TS Bùi Quang Tuấn, Phó Chủ tịch Hội khoa học Kinh tế Việt Nam, nguyên Viện trưởng Viện Kinh tế Việt Nam, cũng cho biết ông đánh giá rất cao những nỗ lực và thành tựu mà VinFast đã đạt được. “VinFast sẽ là chim đầu đàn, đi đầu nhưng dẫn đàn chứ không đi một mình, và cả ngành công nghiệp phát triển phù hợp bối cảnh mới”, PGS-TS Bùi Quang Tuấn nói. Đại diện của VinFast tại buổi Toạ đàm nhấn mạnh, để đạt được mục tiêu nội địa hoá 84% vào năm 2026 là một thách thức không nhỏ.
+
+### [7] VinFast khởi tạo “cuộc chơi lớn”, đưa công nghiệp hỗ trợ Việt lên tầm cao mới - baodautu
+
+> Với ngành công nghiệp ô tô, bà chỉ ra, khi các nhà sản xuất ô tô nước ngoài vào Việt Nam, từ Toyota, Mitsubishi tới Ford…, các doanh nghiệp ngoại này đều dùng phụ trợ “theo cách phân công của họ”. Đơn cử doanh nghiệp của Nhật Bản dùng phụ trợ ở Thái Lan, chứ không phải Việt Nam. Bởi thế, bà khẳng định quan điểm, Việt Nam không thể có được ngành công nghiệp phụ trợ ô tô phát triển khi còn để cho các doanh nghiệp nước ngoài dẫn dắt.
+
+### [8] VinFast công bố tỷ lệ nội địa hoá xe điện đã đạt 60%, mục tiêu đạt 84% năm 2026
+
+> Mục tiêu nội địa hoá Nói về mục tiêu nội địa hoá đạt hơn 80% sau 2 năm nữa của VinFast, theo bà Phạm Chi Lan, Chuyên gia kinh tế, Nguyên Phó Chủ tịch VCCI, “tôi hoàn toàn tin làm được vì tất cả những gì VinFast đã làm được trong thời gian vừa qua. VinFast có hơn 7 năm thôi nhưng đã làm được hơn những điều các hãng đã ở Việt Nam hàng chục năm rồi”. Theo bà Phạm Chi Lan, khi những hãng sản xuất ô tô như Toyota, Isuzu, Hyundai, Daewoo, Ford vào Việt Nam từ những năm 1990, nhà đầu tư nào cũng cam kết đạt khoảng 30% nội địa hoá sau 10-15 năm, cam kết chuyển giao công nghệ, xuất khẩu. Trên cơ sở những cam kết đó, Chính phủ Việt Nam đã cung cấp những ưu đãi rất lớn cho các nhà đầu tư nước ngoài đầu tiên vào Việt Nam làm ô tô và coi như đấy là một trong những cú hích đầu tiên để đặt nền móng cho quá trình công nghiệp hóa của Việt Nam.
+
+### [9] VinFast công bố tỷ lệ nội địa hoá xe điện đã đạt 60%, mục tiêu đạt 84% năm 2026
+
+> “Điều đó giải thích cho con số doanh nghiệp phụ trợ ở Việt Nam hiện nay (theo số liệu của Bộ Công Thương) chỉ có khoảng 3.400 cho tất cả các ngành khác nhau, chưa nói đến ngành ô tô. Tỷ lệ nội địa hóa của nhà cung cấp công nghiệp phụ trợ của Thái Lan cao hơn Việt Nam rất nhiều, đơn giản là từ đầu Thái Lan đã được chọn làm nơi làm phụ trợ. Vì đã có ở Thái Lan nên họ không đầu tư vào Việt Nam nữa”, bà Phạm Chi Lan thông tin.
+
+### [10] VinFast công bố tỷ lệ nội địa hoá xe điện đã đạt 60%, mục tiêu đạt 84% năm 2026
+
+> Nhưng trên thực tế phần lớn các nhà đầu tư nước ngoài tại Việt Nam dùng các doanh nghiệp phụ trợ do các nhà sản xuất này mang từ bên ngoài vào Việt Nam, và được hưởng ưu đãi như họ. Với ưu đãi như vậy, các ngành phụ trợ ở Việt Nam không thể có cơ hội phát triển được khi các doanh nghiệp Việt vẫn chịu mức thuế cao hơn, ban đầu là 25%, sau đó 22%, rồi 17% thuế thu nhập doanh nghiệp, trong khi doanh nghiệp nước ngoài thì được ưu đãi 10%.
+
+### [11] Không còn là lời hứa: VinFast 'đặt hàng lớn', doanh nghiệp phụ trợ Việt sẵn sàng chưa?
+
+> Cần chính sách "đi trúng đích", thay vì dàn trải Một điểm chung được cả ba chuyên gia nhấn mạnh là chính sách hỗ trợ hiện nay vẫn dàn trải và thiếu hiệu quả. TS. Trương Thị Chí Bình - Phó chủ tịch Hiệp hội Công nghiệp hỗ trợ Việt Nam (VASI) - cho biết nhiều doanh nghiệp phụ trợ vẫn gặp khó khăn rất lớn trong việc tiếp cận đất đai, vốn vay lãi suất thấp để đầu tư sản xuất. "Doanh nghiệp phụ trợ chủ yếu là nhỏ và vừa, muốn vào ngành ô tô thì phải đầu tư mới, chi phí lớn, nhưng chi phí thuê đất và vay vốn hiện rất cao. Nếu không có hỗ trợ trúng vào những điểm nghẽn này thì rất khó để họ vươn lên", bà Bình phân tích.
+
+### [12] Không còn là lời hứa: VinFast 'đặt hàng lớn', doanh nghiệp phụ trợ Việt sẵn sàng chưa?
+
+> Bà Phạm Chi Lan tin rằng nếu Việt Nam không đẩy mạnh nội lực, chúng ta sẽ dễ bị tổn thương khi dòng đầu tư nước ngoài chuyển dịch. PGS. TS. Trần Đình Thiên cũng cho rằng hỗ trợ nên thông qua các doanh nghiệp đầu chuỗi như VinFast sẽ hiệu quả hơn. "Chính phủ không nên chia tiền hỗ trợ dàn trải, mà nên tạo cơ chế để VinFast – với vai trò dẫn dắt – phân bổ hỗ trợ đúng chỗ, đúng thời điểm và theo nhu cầu thật của chuỗi cung ứng", ông nói.
+
+### [13] HÃNG XE ĐIỆN VINFAST NỘI ĐỊA HÓA 84% VÀO NĂM 2026 - Auto365
+
+> Theo Hiệp hội Công nghiệp Phụ trợ Việt Nam, thách thức lớn nhất đối với các doanh nghiệp thuần Việt khi tham gia vào chuỗi cung ứng của các hãng ôtô là chi phí đầu tư quá cao so với giá trị đơn hàng nhận được. Nhiều công ty, dù muốn khẳng định năng lực, vẫn chấp nhận đầu tư, sau đó phải tìm kiếm khách hàng từ các lĩnh vực khác để bù đắp khoản lỗ từ mảng sản xuất linh kiện ôtô.
+
+### [14] VinFast công bố lộ trình nội địa hoá các dòng xe điện
+
+> Đại diện VinFast cũng đã có những chia sẻ về bối cảnh khó khăn và thách thức chung của ngành công nghiệp phụ trợ tại Việt Nam. Khó khăn thứ nhất đến từ quy mô nhỏ lẻ của các doanh nghiệp phụ trợ tại Việt Nam. Khó khăn thứ hai đến từ khả năng cạnh tranh thấp của các doanh nghiệp này. Phần lớn các sản phẩm của các doanh nghiệp hỗ trợ trong nước thường khó đáp ứng được yêu cầu về chất lượng và giá cả so với các nhà cung cấp quốc tế. Và cuối cùng là thiếu tính liên kết trong chuỗi cung ứng.
+
+### [15] VinFast công bố tỷ lệ nội địa hoá xe điện đã đạt 60%, mục tiêu đạt 84% năm 2026
+
+> Thách thức của ngành công nghiệp hỗ trợ Ngành công nghiệp hỗ trợ tại Việt Nam là ngành đóng vai trò quan trọng trong việc thúc đẩy sự phát triển của nền kinh tế, đặc biệt là các ngành sản xuất chế tạo, trong đó có công nghiệp ô tô. Lĩnh vực này vẫn đang gặp nhiều thách thức lớn. Thứ nhất là quy mô còn nhỏ lẻ khi phần lớn các doanh nghiệp hỗ trợ tại Việt Nam là doanh nghiệp vừa và nhỏ, thiếu sự đầu tư về công nghệ và năng lực sản xuất. Thứ hai là khả năng cạnh tranh thấp. Sản phẩm của các doanh nghiệp hỗ trợ trong nước thường khó đáp ứng được yêu cầu về chất lượng và giá cả so với các nhà cung cấp quốc tế. Thứ ba là thiếu liên kết trong chuỗi cung ứng. Các doanh nghiệp nội địa còn thiếu sự kết nối chặt chẽ với các doanh nghiệp lớn và chuỗi cung ứng toàn cầu.

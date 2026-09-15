@@ -1,0 +1,7 @@
+Lợi thế của Vinhomes chính là hàng nghìn héc-ta đất sạch đã hoàn tất giải phóng mặt bằng từ chu kỳ trước. Trong đó, quỹ đất sẵn sàng thi công ngay đạt khoảng sáu nghìn héc-ta. Nghĩa là, toàn bộ chi phí đền bù đã được khóa cứng ở mức giá thấp. Vinhomes sở hữu lợi thế tự nhiên vượt trội về giá vốn. Một lợi thế mà không đối thủ nào có thể tái lập ở thời điểm hiện tại.
+
+Với tài nguyên sẵn có này, họ không sợ thiếu dự án thi công. Họ có đủ dư địa để bàn giao sản phẩm liên tục trong năm đến bảy năm tới. Sự tự tin này được phản ánh trực tiếp vào kế hoạch tài chính năm 2026. Vinhomes đặt mục tiêu doanh thu kỷ lục hai trăm tám mươi lăm nghìn tỷ đồng. Và mục tiêu lợi nhuận sau thuế chạm mốc sáu mươi nghìn tỷ đồng.
+
+Để chứng minh con số này khả thi, hãy nhìn vào kết quả quý 1 năm 2026. Lợi nhuận của Vinhomes bùng nổ đạt hai mươi lăm nghìn sáu trăm hai mươi lăm tỷ đồng. Mức tăng trưởng kinh ngạc lên tới tám trăm sáu mươi sáu phần trăm so với cùng kỳ. Nguồn tiền này chảy về từ hoạt động bàn giao tấp nập tại các đại dự án.
+
+Các siêu dự án như Ocean Park hay Royal Island đóng vai trò là những dự án tạo dòng tiền chủ lực. Họ phát triển sản phẩm dựa trên lợi thế giá vốn từ chu kỳ trước và ghi nhận doanh thu theo giá trị thị trường hiện hành. Biên lợi nhuận gộp nhờ đó luôn được duy trì ở mức ổn định và tối ưu. Quyết định dừng gom đất của họ đang tạo ra thách thức lớn đối với các doanh nghiệp phát triển gia nhập sau.

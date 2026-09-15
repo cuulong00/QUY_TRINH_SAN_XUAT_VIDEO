@@ -1,0 +1,12 @@
+
+Để hiểu vì sao ba hãng xe lại đi ba con đường khác nhau, trước hết bạn cần hình dung được bài toán vật lý mà tất cả đều phải giải. Nếu bạn muốn hiểu rõ kỹ nghệ thực sự đằng sau những con số quảng cáo, hãy bấm Like và Đăng ký kênh ngay bây giờ.
+
+Bên trong mỗi khối động cơ điện có một trục quay gọi là rotor. Gắn chặt vào rotor là những thanh nam châm vĩnh cửu, thành phần tạo ra toàn bộ lực kéo của chiếc xe. Khi bạn lái xe điện chạy một trăm km/h trên cao tốc, bạn chỉ nghe thấy tiếng gió. Nhưng bên dưới sàn xe, trục quay đang xoay khoảng bảy nghìn đến chín nghìn vòng mỗi phút. Và đó mới chỉ là tốc độ đường trường. Ở chế độ tăng tốc tối đa, có những động cơ đạt mười tám nghìn vòng, thậm chí vượt ba mươi nghìn vòng mỗi phút.
+
+Ở dải tốc độ quay như vậy, mép ngoài rotor đang di chuyển với vận tốc tiệm cận tốc độ âm thanh, lên tới hai trăm năm mươi mét trên giây. Lực ly tâm sinh ra liên tục kéo giật các thanh nam châm ra phía ngoài. Nếu cấu trúc giữ không đủ chắc, nam châm sẽ văng lệch khỏi vị trí, va vào lớp vỏ tĩnh bao quanh và phá hỏng toàn bộ động cơ.
+
+Nhưng bài toán chưa dừng ở đó. Khi rotor quay nhanh, dòng điện biến thiên bên trong lõi thép sẽ tự sinh ra nhiệt. Nhiệt tích tụ đủ lâu sẽ làm các thanh nam châm mất từ tính vĩnh viễn. Động cơ vẫn quay, nhưng không còn sức kéo.
+
+Giải pháp tưởng chừng đơn giản nhất là bọc rotor bằng một ống thép dày để ép chặt nam châm. Nhưng thép dày lại cản từ trường xuyên qua, làm giảm hiệu suất và sinh ra thêm nhiệt. Đây chính là thế kẹt: giữ chặt thì mất công suất, nới lỏng thì mất an toàn.
+
+Và để thoát khỏi thế kẹt này, Tesla đã tìm đến một loại vật liệu hoàn toàn khác. Một thứ vừa nhẹ vừa cứng hơn thép gấp nhiều lần, được sinh ra trong ngành hàng không vũ trụ.

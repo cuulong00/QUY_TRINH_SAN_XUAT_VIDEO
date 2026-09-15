@@ -1,0 +1,144 @@
+# ==============================================================================
+# QUY TRINH SAN XUAT VIDEO - MASTER GITIGNORE
+# Military-grade protection: Chặn triệt để mọi file nhị phân nặng, media và bí mật
+# ==============================================================================
+
+# --- MEDIA & HEAVY ASSETS (Tuyệt đối không commit lên GitHub) ---
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+*.m4v
+
+# Audio formats
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.aac
+*.ogg
+
+# Compressed Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Images & Video Raw Caches / Source Footage
+AutoCapCut/source/
+AutoCapCut/output_drafts/
+AutoCapCut/models/
+**/source/
+**/output_drafts/
+**/videos/
+**/raw_footage/
+**/recordings/
+**/ref_images/
+**/audio/
+**/music/
+**/video/
+**/test_images/
+storage/thumbnails/*.jpg
+storage/thumbnails/*.png
+storage/logs/*.log
+Nhac_nen/
+
+# CapCut Drafts & Caches
+**/com.lveditor.draft/
+**/Cache/
+**/CEF/
+
+# --- PYTHON & RUNTIMES ---
+.venv/
+.venv*/
+**/.venv/
+**/.venv*/
+venv/
+venv*/
+**/venv/
+**/venv*/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- NODE / JS ---
+node_modules/
+**/node_modules/
+.npm/
+.next/
+.turbo/
+package-lock.json
+
+# --- AI MODEL WEIGHTS ---
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.pack
+
+# --- BROWSER / PLAYWRIGHT / SELENIUM PROFILES ---
+**/playwright_profile/
+**/*browser_profile*/
+**/chrome_debug_profile*/
+**/Chrome-Debug/
+**/Chrome-Canary-Automation/
+**/.playwright/
+
+# --- SECRETS & CREDENTIALS ---
+.env
+.env.*
+!.env.example
+*.token
+*.pem
+*.key
+*.p12
+credentials.json
+cookies.json
+oauth_tokens/
+
+# --- OS & IDE JUNK ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary directories
+scratch/
+**/scratch/
+tmp/
+**/tmp/
+temp/
+**/temp/
+**/tmp_download/
+
+# Deprecated Archive (Bản cũ tháng 5-7, đã thay bằng X-Economics)
+X-Economic/
+
+# Heavy 4K Thumbnail Renders & Working Design Files
+**/thumbnail/
+**/thumbnails/
+**/thumbnail_chuan/
+*.pptx
+*.key
+*.psd
+*.ai

@@ -1,0 +1,2401 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Rất nhiều người Việt Nam cho rằng VinFast chỉ sản xuất được mỗi cái logo."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Còn lại, từ pin đến chip, toàn bộ là mua về lắp ghép."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Mặc dù hơn bốn trăm năm mươi nghìn chiếc xe mang cái logo đó đã lăn bánh tính đến giữa năm hai"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "nghìn không trăm hai mươi sáu, dẫn đầu doanh số toàn thị trường ô tô Việt Nam hai mươi mốt tháng liên tiếp."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Phía sau mỗi chiếc xe là hai tổ hợp nhà máy tại Hải Phòng và Hà Tĩnh"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "tổng công suất thiết kế bảy trăm nghìn xe mỗi năm.",
+      "Vậy VinFast thực sự làm được những gì trên một chiếc xe?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 3,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là Góc Nhìn Podcast.",
+      "Hôm nay chúng ta sẽ bóc tách từng lớp, từ thép đến pin đến phần mềm.",
+      "Không tô hồng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 3,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Không bôi đen.",
+      "Chỉ dữ liệu kỹ thuật thực chứng.",
+      "Nhưng trước khi bước vào nhà máy"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "chúng ta cần hiểu một khái niệm mà người nào cũng nhắc nhưng ít người thực sự hiểu: tỷ lệ nội địa hóa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Con số hơn sáu mươi phần trăm mà VinFast công bố, và mục tiêu nâng lên tám mươi tư phần"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "trăm ngay trong năm hai nghìn không trăm hai mươi sáu, những con số đó được tính bằng cách nào?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC012",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Tỷ lệ nội địa hóa là một con số tưởng chừng đơn giản, nhưng ẩn sau nó là một trò chơi định nghĩa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC013",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Suốt ba mươi năm, các hãng xe nước ngoài vào Việt Nam đều cam kết nội địa hóa ba mươi phần trăm.",
+      "Toyota cam kết."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC014",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Honda cam kết.",
+      "Ford cam kết.",
+      "Kết quả thực tế?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Linh kiện C K D rời rạc được đóng thùng vận chuyển từ Thái Lan, Nhật Bản, Indonesia sang."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Công nhân Việt Nam mở thùng, bắt vít, lắp ghép"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "rồi dán nhãn \"sản xuất tại Việt Nam.\" Ngành công nghiệp phụ trợ ô tô Việt Nam sau ba thập kỷ gần như không phát triển."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC018",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Câu \"Việt Nam chưa làm nổi con ốc vít\" ra đời từ đó.",
+      "Vết hằn tâm lý này không vô lý."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC019",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "",
+    "sentences": [
+      "Nó có cơ sở lịch sử cụ thể."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC020",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Khi VinFast tuyên bố nội địa hóa hơn sáu mươi phần trăm, phản xạ đầu tiên của nhiều người là: \"Lại một con số trên giấy.\""
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC021",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng để đánh giá con số đó, trước tiên phải hiểu nó đo cái gì."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC022",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Trước năm hai nghìn không trăm hai mươi hai, Việt Nam tính tỷ lệ nội địa hóa ô tô bằng hệ"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC023",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "thống chấm điểm theo cụm linh kiện, quy định tại Quyết định hai mươi tám năm hai nghìn không trăm lẻ tư."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC024",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Cách tính này ưu ái các chi tiết cơ khí nặng như khung gầm, thân vỏ"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC025",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "nhưng bỏ qua giá trị thực của linh kiện công nghệ cao như chip và phần mềm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Tháng 10 năm hai nghìn không trăm hai mươi hai"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Bộ Khoa học và Công nghệ chính thức bãi bỏ hệ thống này theo Thông tư mười một."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Hiện tại, tỷ lệ nội địa hóa được tính theo phương pháp giá trị gia tăng nội địa"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC029",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "tức là tỷ lệ giá trị các linh kiện sản xuất trong nước so với tổng giá trị linh kiện của chiếc xe."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC030",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là phương pháp chuẩn quốc tế"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC031",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "cũng là cơ sở để xác định quy tắc xuất xứ trong các hiệp định thương mại tự do mà Việt Nam tham gia."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Theo phương pháp này, VinFast công bố đạt hơn sáu mươi phần trăm.",
+      "Nhưng cần hiểu rõ: trong cấu trúc chi phí một chiếc xe điện"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "pack pin chiếm khoảng 30 đến bốn mươi phần trăm tổng giá thành theo dữ liệu của McKinsey năm hai nghìn không trăm hai mươi lăm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Chip bán dẫn chiếm khoảng mười lăm phần trăm.",
+      "Cả hai thành phần này hiện tại VinFast vẫn nhập khẩu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Con số sáu mươi phần trăm nội địa hóa của VinFast đạt được nhờ tự chủ phần đóng gói pack pin"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "phần mềm B M S, toàn bộ cơ khí, động cơ, nội ngoại thất, và hệ thống phần mềm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng phần lõi cell pin và chip thì chưa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Nói đơn giản: VinFast tự nấu toàn bộ bữa ăn, nhưng gạo và gia vị đắt nhất vẫn phải mua từ bên ngoài."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Và VinFast không dừng lại ở sáu mươi phần trăm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Họ đặt mục tiêu nâng tỷ lệ nội địa hóa lên tám mươi tư phần trăm ngay trong năm hai nghìn không trăm hai mươi sáu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "ba mươi năm cam kết nội địa hóa, chưa bao giờ đạt."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast tuyên bố hơn sáu mươi phần trăm và nhắm tới tám mươi tư phần trăm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Giờ chúng ta sẽ bước vào bên trong nhà máy để kiểm chứng.",
+      "Bắt đầu từ tầng dễ thấy nhất: thép, robot, và mối hàn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC044",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Tại Hải Phòng, trên diện tích hơn ba trăm ba mươi lăm héc-ta"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC045",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "một tổ hợp nhà máy đang vận hành với tỷ lệ tự động hóa lên đến chín mươi phần trăm.",
+      "Hãy bắt đầu từ xưởng dập."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC046",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Cuộn thép nhập khẩu, dày không phẩy bảy milimet"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC047",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "được đưa vào hệ thống máy ép servo của Schuler, nhà sản xuất thiết bị dập hàng đầu từ Đức."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC048",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Trong chưa đầy bốn giây, cuộn thép phẳng biến thành một tấm panel ngoại thất hoàn chỉnh: cửa xe, nắp capo, cột C, khung sườn chính."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC049",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Tốc độ dập: mười bốn đến mười lăm chi tiết mỗi phút.",
+      "Từ xưởng dập, các chi tiết được chuyển sang xưởng hàn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC050",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Hơn một nghìn hai trăm robot ABB từ Thụy Sĩ thực hiện toàn bộ quy trình hàn điểm"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC051",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "bôi keo, và kiểm tra chất lượng bằng camera giám sát.",
+      "Tỷ lệ tự động hóa ở công đoạn này: một trăm phần trăm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC052",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Không có thao tác tay người.",
+      "Cứ một trăm lẻ hai giây, một khung vỏ xe hoàn chỉnh rời dây chuyền."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC053",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Hơn ba mươi lăm khung xe mỗi giờ.",
+      "Đây không phải lắp ráp C K D."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC054",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Không có thùng linh kiện rời rạc vận chuyển từ nước ngoài về để bắt vít.",
+      "VinFast mua thép cuộn, dập thành hình, hàn thành khung."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC055",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Toàn bộ quy trình diễn ra trong nước, trên thiết bị do VinFast sở hữu và vận hành."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC056",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Câu hỏi tiếp theo thường là: \"Nhưng máy móc toàn mua từ nước ngoài, thì tự chủ cái gì?\""
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC057",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Câu trả lời nằm ở sự khác biệt giữa \"mua máy để sản xuất\""
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC058",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "và \"mua sản phẩm để lắp ráp.\" Tesla mua robot KUKA từ Đức cho Gigafactory.",
+      "Hyundai mua robot Fanuc từ Nhật cho nhà máy tại Alabama."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC059",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Không người nào gọi Tesla hay Hyundai là \"hãng lắp ráp.\" Bởi vì họ sở hữu quy trình"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC060",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "kiểm soát chất lượng, và nắm toàn bộ thiết kế.",
+      "VinFast cũng vậy."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC061",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Nói gọn: VinFast sở hữu bản vẽ và kiểm soát toàn bộ công trường.",
+      "Máy xúc thuê từ Đức, nhưng tòa nhà là của họ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC062",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Thân vỏ chịu lực, tầng cơ khí nặng nhất trên chiếc xe, VinFast tự chủ.",
+      "Nhưng chiếc xe không chạy bằng thép."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC063",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Nó chạy bằng động cơ điện.",
+      "Và ở tầng này, bức tranh bắt đầu phức tạp hơn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC064",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Bên trong mỗi chiếc xe điện, phía dưới sàn xe, là một khối kim loại nặng khoảng tám mươi đến một trăm kilogram."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC065",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là động cơ điện đồng bộ nam châm vĩnh cửu, viết tắt là PMSM."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC066",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Nó thay thế toàn bộ hệ thống động cơ đốt trong, hộp số, ly hợp mà xe xăng cần."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC067",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Một khối duy nhất, xử lý mọi thứ.",
+      "VinFast lắp ráp PMSM tại Hải Phòng.",
+      "một trăm phần trăm trong nước."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC068",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Dây chuyền đến từ những tên tuổi lớn nhất ngành cơ khí châu Âu: GROB và ThyssenKrupp từ Đức"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC069",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "AVL List từ Áo, hệ thống hoàn thiện do Eisenmann và Atlas Copco thiết kế."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC070",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Quy trình quấn stator, ép rotor, cân bằng động, kiểm tra đầu ra, tất cả diễn ra trong nhà máy."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC071",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng có một ranh giới cần nói thẳng.",
+      "Bên trong rotor có những viên nam châm đất hiếm Neodymium."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC072",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Cuộn dây quấn quanh stator là dây đồng chất lượng cao.",
+      "Cả hai đều nhập khẩu một trăm phần trăm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC073",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Việt Nam chưa tự chủ được chuỗi luyện kim vật liệu này.",
+      "Và còn một chi tiết nữa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC074",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Dòng xe buýt điện EB12 mà VinFast xuất khẩu sang châu Âu, cụm trục truyền động không phải sản xuất trong nước."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC075",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là hệ thống ZF AxTrax hai, nhập nguyên cụm từ tập đoàn ZF của Đức.",
+      "Vậy VinFast có tự sản xuất động cơ không?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC076",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu nói về quy trình lắp ráp, kiểm soát chất lượng, và vận hành dây chuyền thì có, toàn bộ diễn ra trong nước."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC077",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng nếu nói về nguyên vật liệu lõi bên trong động cơ, thì chưa.",
+      "Nam châm đất hiếm và dây đồng vẫn phải nhập."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC078",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "",
+    "sentences": [
+      "Tesla cũng không khai thác đất hiếm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC079",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Toyota cũng nhập nam châm Neodymium từ Trung Quốc, quốc gia kiểm soát hơn chín mươi phần trăm sản lượng đất hiếm toàn cầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC080",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Câu hỏi đúng không phải \"đơn vị nào tự khai thác vật liệu thô?\" mà là \"bên nào"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC081",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "kiểm soát quy trình biến vật liệu thô thành sản phẩm hoàn chỉnh?\" VinFast kiểm soát quy trình đó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC082",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu bạn thấy nội dung phân tích này có giá trị, hãy nhấn Đăng ký kênh để ủng hộ chúng tôi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC083",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng phần đắt nhất trong chiếc xe điện không phải thân vỏ thép, không phải động cơ.",
+      "Mà là pin."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC084",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Và đây là nơi ranh giới trở nên phức tạp nhất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC085",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "30 đến bốn mươi phần trăm giá thành một chiếc xe điện nằm trong pin."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC086",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Đây là linh kiện đắt nhất, nặng nhất, và cũng là nơi ranh giới giữa \"tự chủ\" và \"phụ thuộc\" trở nên mờ nhất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC087",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Để hiểu VinFast tự chủ pin ở mức nào, cần phân tách thành ba tầng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC088",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Tầng một: chế tạo cell pin, tức là quá trình hóa học tạo ra từng viên pin đơn lẻ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC089",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Tầng hai: đóng gói pack pin, tức là ghép hàng ngàn cell pin thành một khối pin hoàn chỉnh có cấu trúc cơ khí"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC090",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "",
+    "sentences": [
+      "hệ thống làm mát, và mạch bảo vệ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC091",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Tầng ba: phần mềm quản lý pin B M S, quyết định pin sạc nhanh đến đâu, sống bao lâu, an toàn đến mức nào."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC092",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast tự chủ hai trong ba tầng.",
+      "Tầng hai và tầng ba."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC093",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Tháng 10 năm hai nghìn không trăm hai mươi ba, VinFast chính thức sáp nhập Vin E S"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC094",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "công ty năng lượng do chính Vingroup tách ra trước đó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC095",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Toàn bộ năng lực nghiên cứu, sản xuất, và thương mại hóa pin được gom về một mối."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC096",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Tại Vũng Áng, Hà Tĩnh, Vin E S vận hành nhà máy đóng gói pack pin với công suất một trăm nghìn pack mỗi năm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC097",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Tại đây, VinFast tự thiết kế vỏ gói pin, tích hợp cell pin, và phát triển phần mềm B M S."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC098",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng tầng một, chế tạo cell pin, VinFast chưa hoàn toàn tự chủ.",
+      "Cell pin trên các dòng xe VinFast hiện tại đến từ CÁT EO"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC099",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "nhà sản xuất pin lớn nhất thế giới, và Gotion High-Tech từ Trung Quốc.",
+      "VinFast đang từng bước thay đổi điều này."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC100",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Tại Vũng Áng, một nhà máy cell pin liên doanh giữa Gotion (năm mươi mốt phần trăm) và Vin E S (bốn mươi chín"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC101",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "phần trăm) đã đi vào vận hành thương mại từ đầu năm hai nghìn không trăm hai mươi lăm, xuất xưởng hàng triệu cell pin."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC102",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Công suất thiết kế năm Giga-oát giờ mỗi năm, tương đương khoảng ba mươi triệu cell pin."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC103",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Tuy nhiên, cần lưu ý: đây là liên doanh do đối tác Trung Quốc nắm cổ phần chi phối"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC104",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "không phải VinFast tự chủ một trăm phần trăm công nghệ chế tạo cell.",
+      "Để đánh giá khách quan nhất những gì VinFast đang làm"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC105",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "chúng ta cần đặt họ lên bàn cân với hai gã khổng lồ: Tesla và B Y D."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC106",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng trước khi so sánh, cần nhìn nhận một yếu tố công bằng: Thời gian."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC107",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "Tesla được thành lập từ năm hai nghìn không trăm lẻ ba."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC108",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "B Y D làm pin từ 1995 và làm ô tô từ hai nghìn không trăm lẻ ba."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC109",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Trong khi đó, VinFast mới chỉ bàn giao chiếc xe điện đầu tiên vào cuối năm hai nghìn không trăm hai mươi mốt."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC110",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "So với những gã khổng lồ đó, VinFast về mặt tuổi đời chỉ là một đứa trẻ đứng cạnh những người trưởng thành."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC111",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng, đây là một đứa trẻ lớn quá nhanh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC112",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Việc một hãng xe non trẻ đạt được tỷ lệ nội địa hóa thực tế quanh mốc sáu mươi phần trăm"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC113",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "và sở hữu một chuỗi sản xuất khép kín đồ sộ chỉ trong vài năm ngắn ngủi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC114",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Tự thân nó đã là một thành tựu công nghiệp đáng được ghi nhận sòng phẳng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC115",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Với tuổi đời và xuất phát điểm đó, chiến lược tự chủ của VinFast khác biệt thế nào so với Tesla và B Y D?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC116",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Hãy lấy câu chuyện về pin làm ví dụ.",
+      "B Y D đã đi đến tận cùng của chuỗi cung ứng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC117",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Họ tự chủ toàn bộ, từ khai thác mỏ, luyện kim, sản xuất cell pin, đến đóng gói pack và viết phần mềm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC118",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là mô hình cực đoan nhất ngành xe điện.",
+      "VinFast chưa ở tầng đó.",
+      "Nhưng Tesla thì sao?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC119",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Hãng xe điện tiên phong thế giới có tự sản xuất pin không?",
+      "Câu trả lời là: có làm, nhưng chủ yếu vẫn đi mua."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC120",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Tesla tự sản xuất một lượng nhỏ cell pin tại Mỹ, nhưng hai dòng xe bán chạy nhất của họ là"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC121",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Model 3 và Model Y vẫn nhập khẩu hoàn toàn cell pin L F P từ chính CÁT EO của Trung Quốc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC122",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Mô hình của Tesla hiện tại rất giống VinFast: mua cell pin thô từ bên ngoài"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC123",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "nhưng tự tay đóng gói pack pin và tự viết phần mềm B M S lõi để làm chủ công nghệ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC124",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Vậy nếu cell pin bên nào cũng đi mua, thì điều gì tạo ra sự khác biệt?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC125",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Câu trả lời nằm ở một phần mềm vô hình đang quyết định tuổi thọ và hiệu suất của từng cell pin đó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC126",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "",
+    "sentences": [
+      "Và phần mềm này, VinFast tự viết."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC127",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Hãy hình dung pack pin trên chiếc xe điện của bạn là một tòa nhà chín mươi sáu tầng xây bằng hàng ngàn viên gạch."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC128",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Việc bên nào sản xuất viên gạch là điều quan trọng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC129",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng chính người thiết kế kết cấu tòa nhà mới quyết định nó đứng vững hay sụp đổ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC130",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "B M S, viết tắt của Battery Management System, là kiến trúc sư đó.",
+      "Mỗi pack pin trên xe VinFast chứa hàng ngàn cell pin nhỏ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC131",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Mỗi cell có đặc tính hóa học riêng, phản ứng khác nhau với nhiệt độ, dòng điện, và tốc độ sạc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC132",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "B M S là phần mềm theo dõi trạng thái từng cell theo thời gian thực."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC133",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Thuật toán S O C, viết tắt của State of Charge, đo chính xác mức pin còn lại."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC134",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Hệ thống cân bằng cell điều phối điện áp giữa các cell để tránh cell yếu bị quá tải."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC135",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Mạch quản lý nhiệt kiểm soát nhiệt độ toàn khối pin.",
+      "Ba chức năng này quyết định ba điều khán giả quan tâm nhất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC136",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Pin sống bao lâu.",
+      "Sạc nhanh đến đâu.",
+      "Và xe có an toàn không khi sạc qua đêm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC137",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "B M S trên xe VinFast do VinFast tự phát triển.",
+      "Toàn bộ thuật toán viết trong nước."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC138",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Khi bạn cắm sạc chiếc V F năm tại trạm V-GREEN, phần mềm B M S đang tính toán nhiệt độ từng cell"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC139",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "cân bằng dòng điện, tối ưu tuổi thọ pin cho bạn.",
+      "Phần mềm đó viết tại Việt Nam."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC140",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Và VinFast không dừng ở thế hệ pin hiện tại."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC141",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Công nghệ pin sạc siêu nhanh X F C hợp tác cùng StoreDot từ Israel, cho phép sạc từ mười phần"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC142",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "trăm lên tám mươi phần trăm trong mười phút, hiện đang trong giai đoạn thử nghiệm để chuẩn bị thương mại hóa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC143",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Song song đó, VinFast đầu tư chiến lược vào ProLogium từ Đài Loan để nghiên cứu pin thể rắn thế hệ mới"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC144",
+    "chapter": "06",
+    "sentence_count": 4,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "với công nghệ tản nhiệt tự thân M A B.",
+      "Cell pin nhập khẩu.",
+      "Chip nhập khẩu.",
+      "Đất hiếm nhập khẩu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC145",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Vậy phần nào thực sự thuộc về VinFast?",
+      "Câu trả lời nằm ở thứ bạn không thể chạm bằng tay.",
+      "Phần mềm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC146",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Trong kỷ nguyên xe điện, phần mềm mới là linh hồn định hình chiếc xe.",
+      "Không phải thép, không phải sơn, không phải mối hàn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC147",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Mà là phần mềm.",
+      "Và đây chính là tầng mà VinFast kiểm soát nhiều nhất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC148",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Hệ thống hỗ trợ lái A ĐÁT tiêu chuẩn trên xe VinFast đạt cấp độ hai."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC149",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Để lên cấp hai cộng cộng, hãng cùng Autobrains thử nghiệm kiến trúc chỉ dùng bảy camera và vệ tinh, không Li-đa."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC150",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Không cần bản đồ độ phân giải cao đắt đỏ, giúp tối ưu phần cứng và giảm giá thành."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC151",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Kiến trúc này đang được thử nghiệm trên hai dòng xe V F tám và V F chín."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC152",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Tuy nhiên, nếu L2++ tối ưu chi phí bằng cách bỏ Li-đa, thì cấp độ 4 lại là câu chuyện khác."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC153",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Tại sự kiện COMPUTEX hai nghìn không trăm hai mươi sáu"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC154",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast công bố hợp tác ba bên với NVIDIA và Autobrains phát triển nền tảng Robotaxi L4."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC155",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Hệ thống này chạy trên cấu hình phần cứng khổng lồ NVIDIA DRIVE Hyperion 10, tích hợp đầy đủ Li-đa"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC156",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "radar và đặc biệt là công nghệ \"Agentic AI\" – trí tuệ nhân tạo dạng tác nhân có khả năng tự suy luận tình huống."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC157",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Trợ lý ảo ViVi, phát triển bởi VinBigData, nhận diện giọng Việt đa vùng miền với độ chính xác chín mươi tám phần trăm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC158",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Bạn nói giọng Huế, giọng Nghệ An, giọng Cần Thơ, ViVi đều hiểu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC159",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Hãy tự hỏi: hãng xe nào trên thế giới bỏ tiền R&D để xây hệ thống nhận diện giọng Việt?",
+      "Không một hãng xe nào."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC160",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Toyota không làm.",
+      "Hyundai không làm.",
+      "Đây là lợi thế bản địa hóa mà không thể nhập khẩu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC161",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Phiên bản ViVi ba phẩy không đã tích hợp ViGPT, mô hình ngôn ngữ lớn cho phép đàm thoại tự nhiên ngay trong xe."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC162",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "",
+    "sentences": [
+      "Không chỉ ra lệnh, mà trò chuyện."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC163",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Và Vin A I, viện nghiên cứu trí tuệ nhân tạo của Vingroup, đã đưa vào xe những giải pháp đáng chú ý."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC164",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Jellyview: quan sát toàn cảnh ba trăm sáu mươi độ, xóa điểm mù bằng hình ảnh xuyên thấu gầm xe."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC165",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "MirrorSense: chỉnh gương chiếu hậu tự động bằng trí tuệ nhân tạo, tích hợp thẳng vào chip Snapdragon của Qualcomm"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC166",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "giành giải đổi mới sáng tạo tại CES hai nghìn không trăm hai mươi tư."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC167",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Hệ thống giám sát người lái D M S dùng camera hồng ngoại phát hiện buồn ngủ, mất tập trung theo thời gian thực."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC168",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "Và O T A, cập nhật phần mềm từ xa, vá lỗi, nâng cấp tính năng mà không cần đưa xe đến đại lý."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC169",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu đặt lên bàn cân, chiến lược phần mềm của VinFast nằm ở đâu so với Tesla và B Y D?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC170",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "visual_summary": "",
+    "sentences": [
+      "Tesla là ông vua phần mềm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC171",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Họ tự viết hệ điều hành, tự phát triển thuật toán tự lái F S D từ dữ liệu khổng lồ"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC172",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "và thậm chí tự thiết kế luôn cả chip xử lý lõi.",
+      "Tesla không phụ thuộc vào bất kỳ bên nào."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC173",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "visual_summary": "",
+    "sentences": [
+      "B Y D thì ngược lại."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC174",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Trong nhiều năm, B Y D vô đối về cơ khí và pin nhưng bị chê là phần mềm đi sau thời đại."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC175",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Gần đây, họ phải bắt tay mua giải pháp phần mềm từ DJI và dùng chip nước ngoài để lấp khoảng trống."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC176",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "",
+    "sentences": [
+      "VinFast chọn con đường đứng giữa.",
+      "Về phần mềm trải nghiệm và thuật toán, VinFast tự làm để nắm giữ linh hồn chiếc xe."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC177",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng về phần cứng để chạy các phần mềm đó, họ chọn đứng trên vai những gã khổng lồ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC178",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là lý do toàn bộ chip trên xe VinFast đều nhập một trăm phần trăm.",
+      "Qualcomm cung cấp chip khoang lái."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC179",
+    "chapter": "07",
+    "sentence_count": 4,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "NVIDIA cung cấp chip tự hành.",
+      "N X P cung cấp cảm biến.",
+      "Bosch cung cấp chip A ĐÁT.",
+      "Renesas cung cấp S o C."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC180",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Năm nhà cung cấp chip, toàn bộ từ nước ngoài.",
+      "Nói cách khác: VinFast viết nhạc, nhưng nhạc cụ là của người khác."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC181",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Phần mềm thuộc về VinFast.",
+      "Phần cứng chạy phần mềm đó thì không.",
+      "Đến đây, bức tranh đã rõ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC182",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Đã đến lúc ghép tất cả lại để nhìn toàn cảnh: VinFast thực sự làm chủ những gì, và phần nào vẫn phải đi mua?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC183",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Tựu trung lại: VinFast tự làm khung gầm, đóng gói pin, viết phần mềm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC184",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng những nguyên vật liệu lõi đắt đỏ nhất như cell pin, chip và đất hiếm, họ vẫn phải mua."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC185",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Nói thẳng: những linh kiện đắt nhất trên chiếc xe không do VinFast sản xuất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC186",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "",
+    "sentences": [
+      "Nhưng nếu nhìn rộng ra toàn ngành, chúng ta sẽ thấy một quy luật."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC187",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Ngay cả B Y D, hãng xe tích hợp dọc cực đoan nhất thế giới"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC188",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "",
+    "sentences": [
+      "tự thiết kế được chip nhưng vẫn phải đi thuê đúc silicon."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC189",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "Không có nhà sản xuất xe điện nào trên hành tinh này tự chủ một trăm phần trăm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC190",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "",
+    "sentences": [
+      "Mọi hãng xe đều phải phụ thuộc vào chuỗi cung ứng toàn cầu.",
+      "Đó không phải điểm yếu của riêng VinFast."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC191",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "",
+    "sentences": [
+      "Đó là kiến trúc chung của toàn ngành công nghiệp.",
+      "Và như đã nói, VinFast dẫu chỉ là một đứa trẻ đi sau"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC192",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "nhưng lại đang thiết lập luật chơi với tốc độ của một người khổng lồ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC193",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "",
+    "sentences": [
+      "Vậy câu hỏi đúng không phải \"VinFast tự làm bao nhiêu phần trăm?\" Câu hỏi đúng là: \"VinFast kiểm soát những nút giá trị nào?\""
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC194",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Họ đã hoàn toàn làm chủ hệ thống cơ khí, công đoạn đóng gói pack pin"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC195",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "và quan trọng nhất là toàn bộ kiến trúc phần mềm cốt lõi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC196",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "",
+    "sentences": [
+      "Những linh kiện đắt đỏ phải nhập khẩu như cell pin hay chip bán dẫn, thực chất chỉ là nguồn vật liệu chuẩn hóa toàn cầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC197",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "",
+    "sentences": [
+      "CÁT EO cung cấp pin cho cả Tesla lẫn VinFast.",
+      "Qualcomm bán chip cho cả B M W và VinFast."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC198",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Khi nguyên liệu đầu vào của các hãng là như nhau"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC199",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "sự khác biệt đẳng cấp sẽ nằm ở việc bên nào sở hữu phần mềm để điều khiển thứ nguyên liệu đó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC200",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu bạn đang cân nhắc mua xe VinFast, đừng hỏi \"xe này hàng Tàu hay hàng Việt?\" Hãy hỏi"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC201",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "",
+    "sentences": [
+      "phần nào tạo ra trải nghiệm lái hàng ngày của mình, và bên nào kiểm soát phần đó?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC202",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "",
+    "sentences": [
+      "Nếu bạn thấy góc nhìn phân tích này hữu ích"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC203",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "hãy nhấn Đăng ký kênh để chúng ta tiếp tục đồng hành trong những video tiếp theo."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC204",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "",
+    "sentences": [
+      "Trở lại câu hỏi từ đầu video: VinFast có thực sự chỉ sản xuất được cái logo?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC205",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Đến đây, có lẽ bạn đã nhận ra đó là một tư duy lỗi thời."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC206",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "",
+    "sentences": [
+      "Trong kỷ nguyên xe điện, quyền lực không thuộc về kẻ cố rèn ra từng con ốc hay đúc từng mạch điện."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC207",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Quyền lực thuộc về người làm chủ tuyệt đối quy trình sản xuất"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC208",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "nắm giữ linh hồn phần mềm và biết cách chi phối chuỗi cung ứng toàn cầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC209",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "",
+    "sentences": [
+      "Cái logo chữ V, suy cho cùng, chính là bảo chứng cho quyền lực đó."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC210",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "",
+    "sentences": [
+      "Mượn phần cứng của thế giới để làm chủ trải nghiệm cốt lõi."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC211",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "",
+    "sentences": [
+      "Theo bạn, đó là một nước cờ khôn ngoan, hay một sự mạo hiểm vĩ cuồng?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC212",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "",
+    "sentences": [
+      "Hãy để lại góc nhìn của bạn dưới phần bình luận."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  }
+]

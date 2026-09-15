@@ -1,0 +1,131 @@
+---
+title: "Hãy so sánh quy mô chuỗi cung ứng cơ khí hỗ trợ nội địa của VinFast (số lượng nhà cung ứng, tỷ lệ nội địa hóa, ưu đãi thuê đất/bao tiêu) với chuỗi cung ứng của các doanh nghiệp FDI như Toyota Việt Nam."
+type: nblm-answer
+asked_at: 2026-07-10T09:13:29.457Z
+notebook_url: "https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63"
+session_id: "4db567e9"
+citations_count: 15
+sources:
+  - "Dân Việt mua 322 nghìn xe ôtô năm 2019 - Báo Lao Động"
+  - "Các loại thuế xe ô tô tại Việt Nam & cách tính thuế khi mua xe - Lexus"
+  - "Giá Các Loại Xe Ô Tô Nhập Khẩu Vào Việt Nam Có Đắt Không? - Katavina"
+  - "Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan"
+  - "Nghị định 116/2017/NĐ-CP của Chính phủ về việc quy định điều kiện sản xuất, lắp ráp, nhập khẩu và kinh doanh dịch vụ bảo hành, bảo dưỡng ô tô | VCCI"
+  - "Nghị định 116/2017/NĐ-CP điều kiện sản xuất lắp ráp nhập khẩu ô tô - LuatVietnam"
+  - "Những sự kiện ô tô, xe máy đáng chú ý trong năm 2018 | Báo Dân trí"
+  - "Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions"
+  - "Sôi động thị trường xe máy điện"
+---
+
+# Hãy so sánh quy mô chuỗi cung ứng cơ khí hỗ trợ nội địa của VinFast (số lượng nhà cung ứng, tỷ lệ nội địa hóa, ưu đãi thuê đất/bao tiêu) với chuỗi cung ứng của các doanh nghiệp FDI như Toyota Việt Nam.
+
+> Asked on 2026-07-10T09:13:29.457Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/c088d628-3c91-4e1b-8b4b-2b6f67d3ae63)
+
+## Answer
+
+Thoughts
+Hiện tại, các tài liệu trong sổ tay của bạn không cung cấp số liệu chi tiết để so sánh trực tiếp quy mô chuỗi cung ứng cơ khí hỗ trợ nội địa của VinFast với Toyota Việt Nam (chẳng hạn như số lượng nhà cung ứng cơ khí cụ thể, tỷ lệ nội địa hóa chính xác của từng hãng tại Việt Nam, hay các chính sách ưu đãi thuê đất và cam kết bao tiêu).
+Tuy nhiên, dựa trên các tài liệu hiện có, dưới đây là bức tranh tổng quan về chiến lược sản xuất, lắp ráp, mạng lưới dịch vụ và định hướng nội địa hóa của hai thương hiệu này:
+1. Toyota Việt Nam và Khối FDI: Tối ưu hóa chuỗi cung ứng khu vực và mạng lưới tiêu chuẩn
+Chiến lược cân bằng giữa lắp ráp (CKD) và nhập khẩu (CBU): Toyota Việt Nam (chiếm 25,9% thị phần ô tô năm 2019) khéo léo kết hợp giữa duy trì dây chuyền lắp ráp trong nước cho các mẫu xe chiến lược và nhập khẩu nguyên chiếc các dòng xe khác từ Thái Lan, Indonesia để hưởng thuế suất 0%
+1
+.
+Tỷ lệ nội địa hóa nội khối ASEAN: Để được hưởng mức thuế nhập khẩu 0% theo Hiệp định ATIGA, các dòng xe nhập khẩu CBU của Toyota từ Đông Nam Á bắt buộc phải đáp ứng tỷ lệ nội địa hóa nội khối từ 40% trở lên
+2
+3
+. Các quốc gia sản xuất lớn trong khu vực như Thái Lan hay Indonesia đã hỗ trợ cực kỳ hiệu quả để nền công nghiệp ô tô của họ đạt được tiêu chuẩn nội địa hóa này nhằm xuất khẩu sang Việt Nam
+4
+.
+Hưởng lợi từ cơ chế bảo hộ linh kiện lắp ráp: Ở mảng sản xuất trong nước, các hãng xe như Toyota được hỗ trợ bởi Nghị định 125/2017/NĐ-CP với mức thuế suất ưu đãi 0% đối với linh kiện nhập khẩu phục vụ lắp ráp xe dưới 9 chỗ (dung tích dưới 2.000cc)
+5
+. Cơ chế này áp dụng các điều kiện ngặt nghèo về tiêu chuẩn khí thải và sản lượng cam kết tối thiểu của mẫu xe cũng như toàn nhà máy nhằm tập trung nguồn lực cho các tổ hợp sản xuất lớn
+5
+.
+Mạng lưới đại lý và dịch vụ hậu mãi rộng khắp: Khối liên doanh FDI sở hữu hệ thống cơ sở bảo dưỡng, sửa chữa ô tô trải rộng cả nước và dễ dàng thay thế linh kiện, phụ tùng
+6
+. Các trung tâm này được xây dựng và chứng nhận đáp ứng đầy đủ các yêu cầu khắt khe về mặt bằng, trang thiết bị, nhân lực và quản lý chất lượng theo Tiêu chuẩn quốc gia TCVN 11794 quy định tại Nghị định 116
+7
+8
+.
+2. VinFast: Khởi đầu từ việc tiếp quản cơ sở FDI và tự chủ thiết lập hệ sinh thái
+Khởi đầu bằng việc tiếp quản nhà xưởng FDI: VinFast thiết lập bước đi đầu tiên trong chuỗi sản xuất ô tô bằng việc tiếp quản toàn bộ nhà máy sản xuất của GM Việt Nam tại Thanh Trì (Hà Nội) để đầu tư và triển khai sản xuất dòng xe cỡ nhỏ mua bản quyền từ GM (sau này là dòng xe Fadil)
+9
+10
+.
+Hạ tầng sạc và đổi pin tự chủ quy mô lớn: Khác với các hãng xe FDI chủ yếu dựa vào mạng lưới bảo dưỡng dịch vụ truyền thống
+6
+, VinFast tập trung đầu tư xây dựng một hệ sinh thái hạ tầng sạc khổng lồ với hơn 150.000 cổng sạc ô tô phủ khắp 63 tỉnh thành
+11
+. Ở phân khúc xe hai bánh, hãng cũng lên kế hoạch xây dựng 150.000 trạm đổi pin trên quy mô toàn quốc
+12
+13
+. Hệ thống hạ tầng sạc độc quyền này đóng vai trò như một rào cản ngăn chặn sự bành trướng của các hãng xe điện ngoại bang khác do họ chưa có hạ tầng sạc công cộng tại Việt Nam
+11
+14
+.
+Thách thức thuế quan đối với linh kiện xe điện lắp ráp: Tài liệu lưu ý một rào cản chung cho các dòng xe điện lắp ráp trong nước (không chỉ riêng VinFast) là phụ tùng, linh kiện nhập khẩu từ các quốc gia ngoài khối ASEAN (ví dụ như pin hay động cơ điện từ Trung Quốc hoặc châu Âu) sẽ không được miễn thuế nhập khẩu, gây khó khăn cho việc tối ưu giá thành sản phẩm
+15
+.
+🔍 Bạn có muốn tôi thực hiện nghiên cứu trên web để thu thập các số liệu báo cáo chính xác về số lượng nhà cung ứng nội địa, tỷ lệ nội địa hóa thực tế của VinFast so với Toyota Việt Nam, cũng như các chính sách ưu đãi thuê đất tại khu công nghiệp Đình Vũ (Hải Phòng) của VinFast không?
+
+## Sources
+
+### [1] Dân Việt mua 322 nghìn xe ôtô năm 2019 - Báo Lao Động
+
+> Tính chung cả năm 2019, thị trường Việt Nam tiêu thụ 322.322 xe, tăng gần 12% so với 2018. Trong đó, ôtô du lịch tăng 20%; xe thương mại giảm 5,6% và xe chuyên dụng giảm 27%. Về xuất xứ, doanh số xe nhập khẩu đạt 132.872 xe, tăng 82%; doanh số xe lắp ráp đạt 189.450 xe, giảm 12% so với năm trước đó. Thaco chiếm 30% thị phần với doanh số 91.710 xe. Toyota Việt Nam tiêu thụ được 79.328 xe (không kể Lexus), chiếm 25,9% thị phần. Các hãng Honda; Ford và Mitsubishi lần lượt chiếm 10,8%; 10,5% và 10%. Hãng xe Việt VinFast bán được 2.657 xe Chevrolet trong năm 2019.
+
+### [2] Các loại thuế xe ô tô tại Việt Nam & cách tính thuế khi mua xe - Lexus
+
+> Mức thuế nhập khẩu xe ô tô được phân thành 2 loại gồm: Trong ASEAN Ngoài ASEAN - Trên 40% tỷ lệ nội địa hóa: Thuế 0% - Dưới 40% tỷ lệ nội địa hóa: Thuế 40% (Nội địa hóa 40% là sản xuất được 40% linh kiện ở trong nước) Áp dụng mức thuế suất từ 56- 74% Mức thuế nhập khẩu xe ô tô được chia làm 2 loại là trong ASEAN và ngoài ASEAN Xem thêm: Niên hạn sử dụng xe ô tô theo quy định mới nhất 2025 Bằng B2 lái xe gì ? Thủ tục học và nội dung thi bằng B2 thế nào? Không bằng lái xe phạt bao nhiêu tiền theo luật mới 2025?
+
+### [3] Giá Các Loại Xe Ô Tô Nhập Khẩu Vào Việt Nam Có Đắt Không? - Katavina
+
+> * Siêu xe Chevrolet Corvette C8 nhập khẩu từ Mỹ với giá lăn bánh gần 7 tỷ đồng Giá các loại xe ô tô nhập khẩu sẽ bao gồm tiền thuế nhập khẩu, thuế tiêu thụ đặc biệt, tiền thuế giá trị gia tăng và thuế trước bạ của xe. Thuế nhập khẩu Trước năm 2018, dòng xe du lịch từ 9 chỗ trở xuống nằm trong khu vực ASEAN thì mức thuế là 30%, khu vực bên ngoài từ 70 đến 80%. Từ năm 2018, các xe ô tô có tỉ lệ nội địa hóa từ 40% sẽ không bị đánh loại thuế này. Với những dòng ô tô nhập khẩu từ các quốc gia ngoài ASEAN thì mức thuế nhập khẩu được giảm xuống theo nghị định 17/2020 của Chính phủ.
+
+### [4] Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan
+
+> Quy trình kiểm định theo từng lô hàng: Thay vì tiến hành kiểm tra chất lượng theo mẫu đại diện cho một kiểu loại xe nhập khẩu như trước đây, Nghị định 116 yêu cầu tất cả các lô xe nhập khẩu về Việt Nam đều phải lấy mẫu thử nghiệm khí thải và an toàn kỹ thuật theo từng lô.[4] Quy trình này kéo dài thời gian thông quan từ vài ngày lên đến hàng tháng, làm gia tăng đáng kể chi phí lưu kho bãi, chi phí tài chính và rủi ro thương mại cho doanh nghiệp nhập khẩu.[4] Giấy chứng nhận chất lượng kiểu loại ô tô nhập khẩu (VTA): Doanh nghiệp bắt buộc phải cung cấp giấy VTA được cấp bởi cơ quan, tổ chức có thẩm quyền ở nước ngoài.[4] Đây là một yêu cầu cực kỳ phức tạp vì chính phủ các nước như Mỹ, Nhật Bản hay EU không có thông lệ cấp loại giấy chứng nhận này cho xe sản xuất riêng cho thị trường xuất khẩu như Việt Nam.[4] Ngược lại, Thái Lan và Indonesia nhờ sự can thiệp nhanh chóng của chính phủ nước họ đã sớm hoàn thiện thủ tục cấp VTA cho các mẫu xe xuất sang Việt Nam.[4] Phải đến cuối năm 2018, các doanh nghiệp nhập khẩu từ Mỹ và châu Âu mới tìm được giải pháp tương đương để tái khởi động việc đưa xe mới về nước.[4]
+
+### [5] Báo cáo phân tích thị trường ô tô xe máy Việt Nam giai đoạn 2017 - 2019: Động lực liên doanh, chính sách thuế bảo hộ và rào cản phi thuế quan
+
+> Được ban hành nhằm sửa đổi, bổ sung Biểu thuế xuất khẩu và Biểu thuế nhập khẩu ưu đãi, Nghị định 125/2017/NĐ-CP đóng vai trò như một bộ lọc thuế quan tinh vi [3, 4]: Ưu đãi thuế suất 0% cho linh kiện nhập khẩu: Nhằm hỗ trợ trực tiếp cho các doanh nghiệp lắp ráp nội địa (CKD), chính sách này áp dụng mức thuế nhập khẩu ưu đãi 0% trong vòng 5 năm (từ 2018 đến 2022) đối với các linh kiện nhập khẩu phục vụ sản xuất, lắp ráp xe du lịch dưới 9 chỗ ngồi có dung tích xi-lanh dưới 2.000cc.[4] Tuy nhiên, cơ chế hoàn thuế này đi kèm các điều kiện kiểm soát nghiêm ngặt về tiêu chuẩn khí thải, mức tiêu hao nhiên liệu dưới 7 lít/100 km, và đặc biệt là yêu cầu khắt khe về sản lượng cam kết tối thiểu áp dụng cho từng mẫu xe cũng như tổng sản lượng chung của nhà máy.[4] Quy định này loại bỏ các đơn vị lắp ráp nhỏ lẻ, tập trung nguồn lực hỗ trợ cho các tổ hợp sản xuất lớn. Tăng thuế nhập khẩu đối với ô tô đã qua sử dụng: Để ngăn chặn dòng xe cũ giá rẻ tràn vào thị trường phá vỡ cấu trúc giá của xe mới, Nghị định 125 quy định mức thuế hỗn hợp cực cao cho xe đã qua sử dụng.[4] Đối với các dòng xe cũ dung tích từ 1.000cc đến 1.500cc, thuế nhập khẩu được tính bằng cách lấy giá tính thuế nhân với mức thuế suất của dòng xe mới cùng loại rồi cộng thêm một khoản thuế tuyệt đối cố định là 10.000 USD/xe.[4] Biện pháp này triệt tiêu hoàn toàn biên lợi nhuận của các doanh nghiệp kinh doanh xe cũ nhập khẩu, đưa hoạt động này vào thế đóng băng.[4]
+
+### [6] Giá Các Loại Xe Ô Tô Nhập Khẩu Vào Việt Nam Có Đắt Không? - Katavina
+
+> * Honda CRV nhập khẩu Thái Lan từ 983 triệu và Mazda CX-5 lắp ráp từ 899 triệu 2.1. Đánh giá xe lắp ráp trong nước Cùng một phiên bản, một thương hiệu và dòng xe nhưng những chiếc xe lắp ráp trong nước luôn có giá bán rẻ hơn so với xe nhập khẩu. Sự chênh lệch này có thể lên đến vài trăm triệu tùy thuộc vào từng dòng xe. Những dòng xe lắp ráp trong nước phù hợp với người tiêu dùng Việt về mặt tài chính, giảm bớt áp lực khi mua và sử dụng ô tô. Khi khách hàng mua xe lắp ráp trong nước thì việc bảo hành, bảo dưỡng dễ dàng hơn bởi mạng lưới trung tâm, đại lý của các thương hiệu phủ khắp 3 miền. Thêm nữa, việc thay thế, mua linh kiện – phụ tùng cũng dễ dàng hơn.
+
+### [7] Nghị định 116/2017/NĐ-CP của Chính phủ về việc quy định điều kiện sản xuất, lắp ráp, nhập khẩu và kinh doanh dịch vụ bảo hành, bảo dưỡng ô tô | VCCI
+
+> Nghị định 116/2017/NĐ-CP của Chính phủ về việc quy định điều kiện sản xuất, lắp ráp, nhập khẩu và kinh doanh dịch vụ bảo hành, bảo dưỡng ô tô | VCCI
+
+### [8] Nghị định 116/2017/NĐ-CP điều kiện sản xuất lắp ráp nhập khẩu ô tô - LuatVietnam
+
+> Đang theo dõi Có đội ngũ nhân lực và hệ thống quản lý chất lượng đảm bảo chất lượng cho việc bảo hành, bảo dưỡng ô tô. Các điều kiện nêu trên của cơ sở bảo hành, bảo dưỡng ô tô phải đáp ứng các yêu cầu về mặt bằng, trang thiết bị, dụng cụ, nhân lực, hệ thống quản lý chất lượng đối với cơ sở bảo dưỡng, sửa chữa ô tô theo các loại ô tô tương ứng tại Tiêu chuẩn quốc gia TCVN 11794 Tiêu chuẩn cơ sở bảo dưỡng, sửa chữa ô tô và các phương tiện tương tự. Đang theo dõi Có cam kết về việc hỗ trợ kỹ thuật và cung cấp linh kiện, phụ kiện phục vụ việc bảo hành, bảo dưỡng ô tô của:
+
+### [9] Những sự kiện ô tô, xe máy đáng chú ý trong năm 2018 | Báo Dân trí
+
+> Với doanh số bán xăng E5 không đạt kỳ vọng, có doanh nghiệp xăng dầu đã kiến nghị Bộ Công thương "khai tử" luôn cả xăng A95 , trong khi một số doanh nghiệp kinh doanh xăng dầu đầu mối đề xuất thêm chính sách ưu đãi cho riêng xăng E5. Tuy nhiên, tất cả đều không được thông qua. 7. Hiện tượng VinFast VinFast trở thành cái tên được nhắc tới nhiều nhất trong lĩnh vực ô tô Việt Nam sau khi hãng công bố các dự án sản xuất xe máy điện và ô tô. Cũng trong năm 2018, VinFast đã kí kết thỏa thuận tiếp nhận hệ thống đại lí hiện tại của GM Việt Nam và trở thành nhà phân phối độc quyền các sản phẩm và dịch vụ mang nhãn hiệu Chevrolet tại thị trường Việt Nam từ năm 2019 tới đây.
+
+### [10] Những sự kiện ô tô, xe máy đáng chú ý trong năm 2018 | Báo Dân trí
+
+> Ngoài ra, VinFast sẽ nhận chuyển nhượng và tiếp quản toàn bộ nhà máy của GM tại Tứ Hiệp, Thanh Trì, Hà Nội, để tiếp tục đầu tư, triển khai sản xuất dòng xe cỡ nhỏ hoàn toàn mới mà công ty mua bản quyền từ GM (mang thương hiệu VinFast). Lần đầu tiên một thương hiệu ô tô Việt Nam xuất hiện cùng các tên tuổi lớn trong một sự kiện chuyên ngành quốc tế (Ảnh: VinFast) Vào tháng 10/2018, lần đầu tiên Việt Nam đã có một hãng xe tham gia Paris Motor Show - một trong những triển lãm ô tô lâu đời và uy tín nhất thế giới.
+
+### [11] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Không chỉ vậy, VinFast còn sở hữu lợi thế hạ tầng vượt trội khi đã phủ kín hơn 150.000 trạm sạc trên toàn quốc – một yếu tố then chốt quyết định hành vi mua xe điện tại Việt Nam. Việc mở rộng sản xuất tại Hà Tĩnh với các mẫu phổ thông VF 3, VF 5 và chiến lược cho thuê xe dài hạn càng củng cố vị thế “đầu tàu” trong công cuộc điện hoá giao thông của thị trường xe điện Việt. Thế nhưng, thị trường xe điện không chỉ dành riêng cho người tiên phong. Làn sóng xe điện Trung Quốc đang âm thầm bành trướng và được dự báo sẽ bùng nổ mạnh mẽ trong năm 2025. Những thương hiệu như BYD, Haima, GAC Aion… liên tục tung ra nhiều mẫu xe mới có giá thành cạnh tranh và thiết kế bắt mắt. Tuy nhiên, bài toán trạm sạc vẫn là rào cản lớn khiến các hãng xe nước ngoài chưa thể “cắm rễ” sâu tại thị trường Việt.
+
+### [12] Sôi động thị trường xe máy điện
+
+> Thị phần xe máy điện trong tổng doanh số tiêu thụ xe máy toàn thị trường đã tăng từ 5,4% năm 2019 lên khoảng 12% năm 2022, dự kiến tiếp tục tăng nhanh trong thời gian tới. Nhiều chuyên gia dự báo đến năm 2035, xe điện có thể chiếm 75% thị phần xe 2 bánh nhờ chính sách ưu đãi và phát triển hạ tầng. Tin liên quan VinFast lắp 50.000 trạm đổi pin xe máy điện, chỉ 9.000 đồng 1 lần đổi (NLĐO) - VinFast triển khai 150.000 trạm đổi pin xe máy điện và ra mắt các dòng xe máy điện đổi pin trên quy mô toàn quốc.
+
+### [13] Sôi động thị trường xe máy điện
+
+> Trong khi đó, kế hoạch xây dựng 150.000 trạm đổi pin cho xe máy điện của VinFast sẽ tạo áp lực lớn với những hãng xe nhỏ. Nếu không có giải pháp đột phá, các hãng xe không những không thể tăng thị phần mà còn khó tránh mất đi thị phần đang có. Tăng cường hỗ trợ đại lý, khách hàng Chủ trương hạn chế xe máy xăng tại Hà Nội và TP HCM đang thúc đẩy nhu cầu thị trường xe điện tăng vọt. Tuy nhiên, để tận dụng thời cơ, nhà sản xuất phải có chiến lược rõ ràng, đủ tầm và lâu dài. Ông Hoàng Mạnh Tân, Phó Tổng Giám đốc Tập đoàn Sơn Hà, cho hay để cạnh tranh, công ty đang tiếp tục duy trì tốt hoạt động của các đại lý, hỗ trợ giá để giữ hoạt động kinh doanh ổn định, thay vì vội vàng mở rộng thị phần bởi phải chờ chính sách cụ thể từ phía nhà nước.
+
+### [14] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Vấn đề hạ tầng trạm sạc xe điện tiếp tục là điểm nghẽn then chốt. Hiện tại, VinFast là hãng duy nhất có mạng lưới trạm sạc trải dài toàn quốc. Một số tên tuổi khác như Dat Bike chỉ mới bắt đầu triển khai thí điểm tại TP.HCM. Phần lớn người dùng xe máy điện vẫn sạc tại nhà – giải pháp tạm thời nhưng thiếu tính bền vững, đặc biệt tại các khu nhà cũ, nơi hệ thống điện và an toàn cháy nổ còn nhiều rủi ro. Trong khi đó, chính sách hỗ trợ xe máy điện của Nhà nước vẫn đang ở mức khởi điểm. Khác với ôtô điện được miễn lệ phí trước bạ đến năm 2027, xe máy điện chưa có ưu đãi cụ thể. Tuy nhiên, theo thông tin mới nhất từ Hà Nội, thành phố đang đề xuất cơ chế thu đổi 450.000 xe máy xăng trong khu vực vành đai 1. Dự thảo bao gồm việc miễn toàn bộ chi phí chuyển đổi như lệ phí trước bạ, phí đăng ký xe mới, đồng thời tích hợp quy hoạch các khu vực sạc xe điện vào hạ tầng đô thị.
+
+### [15] Thị trường xe điện Việt Nam đang “nóng” chưa từng có - Net Zero Solutions
+
+> Ở thị trường xe điện nội địa, VinFast vẫn đang giữ vị thế dẫn đầu Trong khi đó, các hãng xe như Hyundai (với Ioniq 5) hay GM – liên doanh Wuling Mini EV – cũng đang đẩy mạnh lắp ráp trong nước để giảm chi phí và tận dụng chính sách thuế. Tuy nhiên, một trở ngại khác xuất hiện: phụ tùng, linh kiện nhập khẩu từ các nước ngoài ASEAN không được miễn thuế, khiến giá thành sản phẩm khó lòng cạnh tranh. Thêm vào đó, hệ sinh thái công nghệ và dịch vụ hậu mãi cho xe điện tại Việt Nam vẫn còn non trẻ, tạo ra rào cản vô hình cho cả nhà sản xuất và người tiêu dùng.

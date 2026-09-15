@@ -1,0 +1,36 @@
+# Music Application Guide — bong-toi-triet-ly
+
+Tài liệu hướng dẫn áp dụng **Bản Nhạc Nền Thương Hiệu Duy Nhất (The Signature Theme)** của kênh vào kịch bản cụ thể của tập phim **"Bóng Tối Triết Lý"** (bong-toi-triet-ly).
+
+---
+
+## 1. Bản Nhạc Gốc Sử Dụng
+Sử dụng duy nhất bản nhạc 3 phút được sinh từ Prompt gốc trong tài liệu [brand_soundtrack_specification.md](file:///Users/pro16/Documents/VideoProject/KenhTamLy/00_core/brand_soundtrack_specification.md). 
+
+---
+
+## 2. Bản Đồ Áp Dụng Chi Tiết Cho Từng Chương (Editor Timeline Map)
+
+Biên tập viên thực hiện cắt ghép bản nhạc gốc 3 phút vào các mốc thời gian của kịch bản [final_voiceover.md](file:///Users/pro16/Documents/VideoProject/KenhTamLy/episodes/bong-toi-triet-ly/final_voiceover.md) như sau:
+
+### 📍 ĐOẠN 1: HOOK (Chương 1: Từ đầu đến hết giới thiệu kênh)
+- **Đoạn kịch bản:** *"Phía sau cánh cửa phòng khách... va chạm trực diện với ý chí sinh tồn của cơ thể vật lý."*
+- **Khúc nhạc áp dụng:** **Khúc 1: Intro (0:00 - 0:35)** của bản nhạc gốc.
+- **Cách dựng:** Đặt volume ở mức `-18dB`. Khi MC kết thúc phần giới thiệu kênh và chuyển sang đọc disclaimer, cho nhạc fade out dần về `-24dB`.
+- **Khoảng lặng chốt (Audio Ducking):** Tắt nhạc hoàn toàn trong 2 giây sau câu thoại: *"đó không phải sự giác ngộ. Đó là một trạng thái vô cảm lạnh lùng được ngụy trang tinh vi bằng triết học."*
+
+### 📍 ĐOẠN 2: THÂN BÀI - PHÂN TÍCH KHOA HỌC (Chương 1, 2, 3, 4 & 5)
+- **Đoạn kịch bản:** *"Dưới góc độ thần kinh học... căng cứng cơ vai gáy kinh niên, mất ngủ và kiệt sức."*
+- **Khúc nhạc áp dụng:** **Khúc 2: Verse (0:35 - 1:45)** của bản nhạc gốc.
+- **Cách dựng:** Sao chép và loop (lặp lại) liên tục Khúc 2 dưới toàn bộ giọng đọc phân tích cơ chế thần kinh, hạch hạnh nhân, vỏ não trước trán, và định luật entropy. Âm lượng duy trì cực nhỏ ở mức `-26dB` để giữ không gian tập trung tối đa cho người nghe.
+
+### 📍 ĐOẠN 3: ĐẨY CAO TRÀO / NGHỊCH LÝ (Cuối Chương 3, 4 & 5)
+- **Đoạn kịch bản:** Các đoạn reveal biến chứng nặng như *"Hố sâu của sự trống rỗng"*, *"Sự bất lực học được"* và *"Đau cơ thể hóa thực thể"*.
+- **Khúc nhạc áp dụng:** **Khúc 3: Bridge (1:45 - 2:30)** của bản nhạc gốc.
+- **Cách dựng:** Đè Khúc 3 lên timeline khi nội dung đẩy kịch tính và mâu thuẫn nhận thức lên đỉnh điểm. Âm lượng đẩy nhẹ lên `-22dB`. Các âm trầm (sub-bass swells) sẽ làm tăng sức nặng tâm lý cho lời bình.
+
+### 📍 ĐOẠN 4: GIẢI PHÁP & KẾT LUẬN (Chương 6)
+- **Đoạn kịch bản:** *"Sự bình an chỉ xuất hiện khi bạn tôn trọng các giới hạn tiến hóa... tự tại giữa lòng đời."*
+- **Khúc nhạc áp dụng:** **Khúc 4: Chorus (2:30 - 3:00)** của bản nhạc gốc.
+- **Cách dựng:** Ngay khi bắt đầu Chương 6, cho tiếng chuông xoay Tây Tạng trong Khúc 4 ngân vang thật rõ ở mức `-18dB`, sau đó giữ nhạc nền synth pad ấm áp chạy xuyên suốt các bước giải pháp ở mức `-22dB`.
+- **Đoạn Outro kết video:** Chạy nốt đoạn Outro (tiếng chuông xoay ngân xa và tiếng gió) nhỏ dần đến hết khi video kết thúc.

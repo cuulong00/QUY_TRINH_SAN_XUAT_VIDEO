@@ -1,0 +1,214 @@
+# 07_outline.md
+
+episode_slug: vinfast-vs-proton
+total_chapters: 10
+
+chapter_01:
+  title:
+  analytical_function:
+  tension_level: # Chỉ số độ căng thẳng (0-10) - Hồi 1 (Hook) thường bắt đầu từ 7-8 để hút khán giả
+  conceptual_step: # Bước leo thang nhận thức vĩ mô (Conceptual Ladder Step) của chương
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_02:
+  title:
+  analytical_function:
+  tension_level: # Duy trì hoặc hạ nhẹ (5-7) để giải nghĩa logic nền tảng
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_03:
+  title:
+  analytical_function:
+  tension_level:
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_04:
+  title:
+  analytical_function:
+  tension_level:
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_05:
+  title:
+  analytical_function:
+  tension_level:
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_06:
+  title:
+  analytical_function:
+  tension_level:
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_07:
+  title:
+  analytical_function:
+  tension_level:
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_08:
+  title:
+  analytical_function:
+  tension_level:
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_09:
+  title:
+  analytical_function:
+  tension_level: # Đỉnh điểm kịch tính Hồi II/Hồi III (Climax: 9-10) - Bóc trần sự thật đắt giá hoặc mâu thuẫn lớn nhất
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:
+
+chapter_10:
+  title:
+  analytical_function:
+  tension_level: # Giải tỏa và chiêm nghiệm (6-7) - Đúc rút bài học vĩ mô và mở ra suy ngẫm dài hạn
+  conceptual_step:
+  key_question_answered:
+  core_claim:
+  required_case_study_or_data:
+  evidence_type:
+  emotional_target:
+  primary_open_loop_served:
+  re_hook_line:
+  bridge_in:
+  bridge_out:
+  voiceover_note:
+  visual_mode:
+  target_words:
+  novelty_delta:
+  objection_handled:
+  risk_if_removed:

@@ -1,0 +1,68 @@
+<!--
+DOCUMENT PROVENANCE & EXECUTION LINEAGE:
+- Output Document: episodes/the-petrodollar-paradox/chapter_06_visual.md
+- Activated Persona: The Master Cinematic Visual Director (.agents/personas/the_visual_storyteller.md) & The Scene Architect (.agents/personas/the_scene_architect.md)
+- Activated Skill: visual-prompter (.agents/skills/visual_prompter/SKILL.md) & scene-timing-builder (.agents/skills/scene_timing_builder/SKILL.md)
+- Source Documents Consulted:
+  * episodes/the-petrodollar-paradox/chapter_06.md
+  * episodes/the-petrodollar-paradox/scene_timing_map.json
+  * episodes/the-petrodollar-paradox/visual_storyboard_blueprint.md
+- Execution Timestamp: 2026-09-10 13:20
+-->
+
+# Chapter 06 Visual Script — The Malacca Dilemma & Asymmetric Attrition
+
+Bản kịch bản phân đoạn thị giác 3 tầng giải phẫu cho Chương 6 (The Malacca Dilemma & The Industrial Attrition Trap), đồng bộ toán học 1-1 với 42 phân cảnh trong `scene_timing_map.json`.
+
+- **Vũ trụ Mỹ thuật:** Geopolitical Noir & Maritime Attrition.
+- **Bảng màu Sâu lắng & Sang trọng:** Humid Maritime Grey-Slate (`#334155`, `#1E293B`), Emerald Transit Green (`#26A69A`), Missile Burn Crimson (`#EF5350`), Warm Ivory Cream (`#FAF7EE`), Luminous High-Clarity Editorial Lighting.
+- **Độ chuẩn xác Địa danh & Khí tài:** Nêu đích danh địa danh thực tế (Eo biển Malacca, Kênh Phillips phía nam Singapore, Cảng Keppel & Pasir Panjang Singapore, Căn cứ Hải quân Yokosuka Nhật Bản, Căn cứ Hải quân Changi, Biển Đỏ & Eo biển Bab el-Mandeb, Nhà máy tên lửa Tucson Arizona, Căn cứ Hải quân Guam, Bộ Quốc phòng Ichigaya Tokyo, Bộ Quốc phòng Yongsan Seoul) và trang thiết bị khí tài (Soái hạm USS Blue Ridge LCC-19, Tàu khu trục Arleigh Burke, Bệ phóng thẳng đứng Mk 41 VLS, Tên lửa đánh chặn RIM-66 SM-2 & RIM-174 SM-6 & RIM-161 SM-3, Khí tài THAAD, Máy bay không người lái tự sát Shahed-136, Tên lửa hành trình di động ven biển, Động cơ tên lửa nhiên liệu rắn, Chip vi mạch bán dẫn radar mảng pha).
+- **Tỷ lệ Typography:** 9/42 cảnh có chữ (21.4%), định vị góc dưới bên trái cách mép đáy 25%.
+- **Nhân vật & Quần chúng:** Sĩ quan tác chiến Hạm đội 7, kỹ sư chế tạo tên lửa, tướng lĩnh đồng minh Nhật - Hàn, hoa tiêu tàu dầu quốc tế.
+
+---
+
+| Mã Scene | Thời Lượng | Câu Thoại Tiếng Anh Gốc | Bối Cảnh Vật Lý Đời Thường, Địa Danh & Khí Tài Chuẩn Xác | Text Overlay (Selective Lower-Left 25%) | Luồng Tạo Hình |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| **CH06_SC001** | 6.25s | Beyond the Indian Ocean lies the world's most congested maritime chokepoint: the Strait of Malacca. | Toàn cảnh eo biển Malacca nhìn từ trên cao, hàng trăm tàu chở hàng viễn dương và tàu dầu nối đuôi nhau ken đặc trên mặt nước màu lam ngọc giữa Sumatra và bán đảo Mã Lai. | `THE STRAIT OF MALACCA` | **T2V** |
+| **CH06_SC002** | 4.58s | Stretching between the Indonesian island of Sumatra and the Malay Peninsula | Hải đồ vệ tinh chi tiết thể hiện hành lang biển hẹp dài 800 km kẹp giữa bờ biển rừng rậm Sumatra (Indonesia) và dải bờ biển công nghiệp của Malaysia. | `Không` | **T2V** |
+| **CH06_SC003** | 5.42s | this narrow corridor carries over twenty-five percent of all traded goods on earth. | Đồ thị tỷ trọng thương mại toàn cầu: Hơn 25% tổng lượng hàng hóa thương mại thế giới dồn vào chiếc phễu eo biển Malacca. | `> 25% OF GLOBAL TRADE` | **T2V** |
+| **CH06_SC004** | 6.67s | More critically, it carries between fifteen and sixteen million barrels of crude oil every single day. | Đoàn tàu chở dầu nối đuôi nhau qua Malacca, đồng hồ lưu lượng hiển thị 15 đến 16 triệu thùng dầu thô mỗi ngày tiến về Đông Á. | `15 - 16M BPD CRUDE OIL` | **T2V** |
+| **CH06_SC005** | 4.17s | At its narrowest juncture, the Phillips Channel south of Singapore | Kênh Phillips ở phía nam Singapore, nơi các bãi cạn san hô và luồng hàng hải thu hẹp nghẹt thở chỉ còn 1.5 hải lý. | `Không` | **T2V** |
+| **CH06_SC006** | 5.42s | the shipping lane narrows to just 1.5 nautical miles, barely 2.8 kilometers across. | Thước đo radar điện tử trên đài quan sát Singapore hiển thị bề rộng luồng tàu chỉ vỏn vẹn 1.5 hải lý (2.8 km), tương đương vài thân tàu chở dầu. | `PHILLIPS CHANNEL: 1.5 NM` | **T2V** |
+| **CH06_SC007** | 5.42s | For the People's Republic of China, this passage represents an acute existential vulnerability. | Phòng tình huống quân sự tại Bắc Kinh, các sĩ quan cấp cao đứng quanh sa bàn điện tử tập trung ánh mắt vào eo biển Malacca như một tử huyệt địa chiến lược. | `Không` | **T2V** |
+| **CH06_SC008** | 4.58s | Chinese strategists have long termed this strategic anxiety the Malacca Dilemma. | Bản đồ chiến lược mang tên 'Thế lưỡng nan Malacca' với chiếc cùm sắt địa kinh tế khóa chặt tuyến vận tải năng lượng hướng về bờ biển Trung Quốc. | `THE MALACCA DILEMMA` | **T2V** |
+| **CH06_SC009** | 5.83s | Nearly eighty percent of China's maritime crude oil imports must pass through this single | Đoàn tàu siêu trọng tải chở dầu thô từ Trung Đông và Tây Phi đổ dồn về lối vào eo biển Malacca, chiếm gần 80% dầu nhập khẩu của Trung Quốc. | `Không` | **T2V** |
+| **CH06_SC010** | 1.25s | highly concentrated bottleneck. | Cận cảnh mũi tàu chở dầu rẽ sóng luồn qua khe nước hẹp kẹp giữa các ngọn hải đăng cảnh báo. | `Không` | **T2V** |
+| **CH06_SC011** | 6.67s | The United States Navy's Seventh Fleet, operating from bases in Japan and logistic facilities in Singapore | Soái hạm USS Blue Ridge (LCC-19) của Hạm đội 7 Hải quân Mỹ tại căn cứ Yokosuka (Nhật Bản) và cơ sở hậu cần Changi tại Singapore. | `Không` | **T2V** |
+| **CH06_SC012** | 5.42s | exercises dominant maritime influence over these waters. If a major geopolitical conflict erupted | Tàu tuần dương mang tên lửa dẫn đường lớp Ticonderoga và tàu khu trục lớp Arleigh Burke diễn tập phong tỏa trên vùng biển Đông Nam Á. | `Không` | **T2V** |
+| **CH06_SC013** | 6.25s | the United States possesses the physical capacity to cut China's seaborne energy supply at will. | Mô phỏng kịch bản phong tỏa vật lý: Chiến hạm Mỹ chốt chặn cửa ngõ Malacca, van cung cấp dầu trên biển bị ngắt dứt khoát. | `Không` | **T2V** |
+| **CH06_SC014** | 3.75s | Yet maintaining global dominance across two separate oceanic theatres | Bản đồ hai đại dương: Căng thẳng dàn trải đồng thời tại Trung Đông (Vịnh Ba Tư / Biển Đỏ) và Tây Thái Bình Dương. | `Không` | **T2V** |
+| **CH06_SC015** | 3.75s | has exposed a fatal vulnerability in America's military posture. | Vết nứt trên biểu tượng huy hiệu hải quân Lầu Năm Góc, bộc lộ điểm yếu chết người trong thế bố phòng quân sự toàn cầu. | `Không` | **T2V** |
+| **CH06_SC016** | 3.33s | That vulnerability is not a shortage of dollars. | Tập ngân sách quốc phòng Mỹ khổng lồ 850 tỷ USD nằm trên bàn họp Quốc hội, tiền bạc in ra không thiếu. | `Không` | **T2V** |
+| **CH06_SC017** | 4.58s | It is a severe physical crisis in the defense industrial base. | Bên trong nhà máy chế tạo tên lửa vắng vẻ, dây chuyền lắp ráp cơ khí chính xác đối mặt tình trạng thiếu hụt phôi đạn và công nhân lành nghề. | `DEFENSE INDUSTRIAL CRISIS` | **T2V** |
+| **CH06_SC018** | 5.0s | In recent naval operations across the Red Sea and the Persian Gulf | Bầu trời đêm Biển Đỏ rực sáng pháo sáng và vệt tên lửa, tàu khu trục Mỹ cơ động đánh chặn bảo vệ luồng hàng hải thương mại qua eo Bab el-Mandeb. | `Không` | **T2V** |
+| **CH06_SC019** | 4.17s | American warships have faced a punishing arithmetic of asymmetric attrition. | Biểu đồ toán học tiêu hao bất đối xứng: Cán cân chi phí giữa vũ khí tấn công rẻ tiền và tên lửa phòng thủ đắt đỏ lệch hẳn một bên. | `Không` | **T2V** |
+| **CH06_SC020** | 4.58s | Hostile non-state actors and regional adversaries deploy low-cost drones and anti | Máy bay không người lái cánh tam giác Shahed-136 giá rẻ bay là là sát mặt biển đêm, động cơ cánh quạt gầm rú tiến về mục tiêu. | `Không` | **T2V** |
+| **CH06_SC021** | 5.0s | ship cruise missiles costing between two thousand and twenty thousand dollars apiece. | Tên lửa hành trình chống hạm phóng từ xe tải cơ động trên bờ biển sa mạc, chi phí sản xuất chỉ vỏn vẹn 2.000 đến 20.000 USD mỗi quả. | `DRONES: $2,000 - $20,000` | **T2V** |
+| **CH06_SC022** | 6.67s | To intercept those low-cost threats and protect commercial shipping, American destroyers must fire Standard Missile interceptors | Hầm phóng tên lửa thẳng đứng Mk 41 VLS trên boong tàu khu trục Mỹ khai hỏa, tên lửa Standard Missile phóng vút lên trời đêm để đánh chặn. | `Không` | **T2V** |
+| **CH06_SC023** | 6.25s | including the SM-2 and SM-6, costing between 1.8 million and 4.3 million dollars per shot. | So sánh giá thành nghẹt thở: Tên lửa SM-2 và SM-6 có giá từ 1.8 đến 4.3 triệu USD mỗi lần bóp cò đánh chặn mục tiêu giá vài nghìn đô-la. | `SM-2 / SM-6: $2M - $4.3M` | **T2V** |
+| **CH06_SC024** | 4.58s | Money is not the primary bottleneck. Time and manufacturing capacity are. | Chiếc đồng hồ cát công nghiệp bằng đồng thau đặt cạnh dây chuyền đúc phôi kim loại nguội lạnh, thời gian và năng lực sản xuất mới là điểm nghẽn thực sự. | `Không` | **T2V** |
+| **CH06_SC025** | 5.0s | According to defense research from the Center for Strategic and International Studies | Báo cáo nghiên cứu công nghiệp quốc phòng của Trung tâm Nghiên cứu Chiến lược và Quốc tế (CSIS) tại Washington D.C. mở trên bàn phân tích. | `Không` | **T2V** |
+| **CH06_SC026** | 3.75s | American defense contractors produce only forty to fifty SM | Xưởng sản xuất tên lửa SM-3 với sản lượng nhỏ giọt: Cả nước Mỹ chỉ xuất xưởng 40 đến 50 quả mỗi năm. | `Không` | **T2V** |
+| **CH06_SC027** | 4.58s | 3 interceptors and twenty to thirty THAAD interceptor rounds per year. | Biểu đồ sản lượng thường niên đáng báo động: Chỉ 40-50 quả SM-3 và 20-30 đạn đánh chặn THAAD được chế tạo mỗi năm. | `SM-3: 40-50 / THAAD: 20-30 YR` | **T2V** |
+| **CH06_SC028** | 4.58s | A single naval skirmish lasting a few weeks can consume months | Các ống phóng rỗng trên tàu khu trục sau đợt tác chiến kéo dài vài tuần trên Biển Đỏ, khói thuốc súng còn vương trên boong. | `Không` | **T2V** |
+| **CH06_SC029** | 5.83s | or even years, of specialized domestic weapons production. These interceptors cannot be rapidly mass-produced. | Biểu đồ thời gian cho thấy vài tuần giao tranh tiêu hao sạch số đạn dược sản xuất trong cả năm trời; vũ khí tối tân không thể sản xuất hàng loạt nhanh chóng. | `Không` | **T2V** |
+| **CH06_SC030** | 3.75s | They require complex solid-fuel rocket motors, rare earth alloys | Bên trong xưởng đúc động cơ nhiên liệu rắn: Cánh tay robot kiểm tra từng lớp hợp kim đất hiếm và phôi nhiên liệu composite đa tầng. | `Không` | **T2V** |
+| **CH06_SC031** | 4.17s | and precision microelectronics that depend on fragile global supply chains. | Kính hiển vi phóng đại chip radar dẫn đường sóng milimet phức tạp, kết nối các mắt xích cung ứng mong manh xuyên Thái Bình Dương. | `Không` | **T2V** |
+| **CH06_SC032** | 6.25s | By expending hundreds of multi-million-dollar interceptors to protect commercial shipping corridors in the Middle East | Hàng trăm tên lửa đắt đỏ phóng đi tại Biển Đỏ để che chắn cho tàu chở hàng thương mại quốc tế, rút cạn kho dự trữ phòng thủ. | `Không` | **T2V** |
+| **CH06_SC033** | 5.83s | the Pentagon is actively draining the sovereign weapons stockpiles intended for the Indo-Pacific theatre. | Kho vũ khí chiến lược tại Guam và Hawaii trống trải dần, đạn dược dự phòng cho mặt trận Ấn Độ Dương - Thái Bình Dương bị tiêu hao. | `STOCKPILES DRAINING (INDO-PACIFIC)` | **T2V** |
+| **CH06_SC034** | 4.58s | Allies in Tokyo and Seoul observe this dynamic with quiet dread. | Bộ Quốc phòng Nhật Bản tại Tokyo (Ichigaya) và Bộ Quốc phòng Hàn Quốc tại Seoul (Yongsan), các tướng lĩnh đồng minh trầm ngâm lo âu trước màn hình kho đạn. | `Không` | **T2V** |
+| **CH06_SC035** | 3.75s | They rely on American missile defense umbrellas for deterrence. | Chiếc ô lá chắn tên lửa Aegis của Hải quân Mỹ bao phủ trên bản đồ Đông Á, đang đối mặt nguy cơ thủng lưới vì thiếu đạn. | `Không` | **T2V** |
+| **CH06_SC036** | 6.67s | But they recognize that America's physical industrial capacity cannot sustain high-intensity operations across two oceans simultaneously. | Thực tế phũ phàng: Năng lực công nghiệp vật lý của Mỹ không thể cáng đáng nổi các cuộc tác chiến cường độ cao cùng lúc trên hai đại dương. | `Không` | **T2V** |
+| **CH06_SC037** | 5.83s | Washington can print trillions of digital currency units at the click of a button. | Trụ sở Cục Dự trữ Liên bang Mỹ tại Washington, phím bấm máy tính tạo ra hàng nghìn tỷ đô-la tín dụng số trong chớp mắt. | `Không` | **T2V** |
+| **CH06_SC038** | 5.0s | But it cannot print advanced missile propellant or precision radar guidance chips. | Sự đối lập tàn khốc: Máy in tiền không thể in ra phôi nhiên liệu tên lửa rắn hay chip bán dẫn quét mảng pha chính xác cao. | `MONEY CANNOT PRINT MISSILES` | **T2V** |
+| **CH06_SC039** | 5.0s | Seeing this imperial overstretch and the finite limits of American naval deterrence | Phòng tình huống tác chiến của các cường quốc đối thủ, các nhà chiến lược phát hiện điểm yếu dàn mỏng lực lượng của đế chế. | `Không` | **T2V** |
+| **CH06_SC040** | 2.5s | America's adversaries recognized a historic opening. | Góc nhìn cận cảnh đôi mắt sắc bén của nhà hoạch định chiến lược đối thủ nhìn thẳng vào bản đồ luồng hàng hải quốc tế. | `Không` | **T2V** |
+| **CH06_SC041** | 4.58s | They did not attempt to defeat the United States Navy head-on. | Không đối đầu trực diện: Tàu ngầm và tàu tuần tra đối thủ lặng lẽ tránh các cụm tàu sân bay Mỹ trên biển mở. | `Không` | **T2V** |
+| **CH06_SC042** | 5.83s | Instead, they built an invisible, parallel maritime network designed to bypass the rules entirely. | Sự trỗi dậy của mạng lưới hàng hải song song vô hình: Những con tàu bóng ma tắt định vị AIS lướt đi trong bóng đêm vượt ra ngoài luật chơi quốc tế. | `Không` | **T2V** |

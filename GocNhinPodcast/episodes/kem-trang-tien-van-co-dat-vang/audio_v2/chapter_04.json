@@ -1,0 +1,5298 @@
+{
+  "chapter": "chapter_04",
+  "duration": 245.92,
+  "language": "vi",
+  "language_probability": 1,
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.94,
+      "text": "Tháng 10 năm 2014, một cơn địa chấn rung chuyển thị trường tài chính Việt Nam.",
+      "words": [
+        {
+          "word": "Tháng",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.931
+        },
+        {
+          "word": "10",
+          "start": 0.42,
+          "end": 0.68,
+          "probability": 1.0
+        },
+        {
+          "word": "năm",
+          "start": 0.68,
+          "end": 0.98,
+          "probability": 0.986
+        },
+        {
+          "word": "2014,",
+          "start": 0.98,
+          "end": 1.92,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 2.62,
+          "end": 2.94,
+          "probability": 0.997
+        },
+        {
+          "word": "cơn",
+          "start": 2.94,
+          "end": 3.22,
+          "probability": 0.999
+        },
+        {
+          "word": "địa",
+          "start": 3.22,
+          "end": 3.52,
+          "probability": 0.999
+        },
+        {
+          "word": "chấn",
+          "start": 3.52,
+          "end": 3.8,
+          "probability": 0.977
+        },
+        {
+          "word": "rung",
+          "start": 3.8,
+          "end": 4.12,
+          "probability": 0.851
+        },
+        {
+          "word": "chuyển",
+          "start": 4.12,
+          "end": 4.4,
+          "probability": 0.999
+        },
+        {
+          "word": "thị",
+          "start": 4.4,
+          "end": 4.64,
+          "probability": 1.0
+        },
+        {
+          "word": "trường",
+          "start": 4.64,
+          "end": 4.92,
+          "probability": 1.0
+        },
+        {
+          "word": "tài",
+          "start": 4.92,
+          "end": 5.22,
+          "probability": 0.999
+        },
+        {
+          "word": "chính",
+          "start": 5.22,
+          "end": 5.46,
+          "probability": 1.0
+        },
+        {
+          "word": "Việt",
+          "start": 5.46,
+          "end": 5.68,
+          "probability": 1.0
+        },
+        {
+          "word": "Nam.",
+          "start": 5.68,
+          "end": 5.94,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.34,
+      "end": 11.32,
+      "text": "Chủ tịch Ngân hàng Đại Dương, ông Hà Văn Thắm, bị cơ quan điều tra khởi tố và bắt tạm giam.",
+      "words": [
+        {
+          "word": "Chủ",
+          "start": 6.34,
+          "end": 6.72,
+          "probability": 1.0
+        },
+        {
+          "word": "tịch",
+          "start": 6.72,
+          "end": 6.86,
+          "probability": 1.0
+        },
+        {
+          "word": "Ngân",
+          "start": 6.86,
+          "end": 7.04,
+          "probability": 0.924
+        },
+        {
+          "word": "hàng",
+          "start": 7.04,
+          "end": 7.18,
+          "probability": 0.996
+        },
+        {
+          "word": "Đại",
+          "start": 7.18,
+          "end": 7.36,
+          "probability": 0.995
+        },
+        {
+          "word": "Dương,",
+          "start": 7.36,
+          "end": 7.56,
+          "probability": 0.744
+        },
+        {
+          "word": "ông",
+          "start": 7.82,
+          "end": 8.06,
+          "probability": 0.999
+        },
+        {
+          "word": "Hà",
+          "start": 8.06,
+          "end": 8.22,
+          "probability": 0.989
+        },
+        {
+          "word": "Văn",
+          "start": 8.22,
+          "end": 8.38,
+          "probability": 0.998
+        },
+        {
+          "word": "Thắm,",
+          "start": 8.38,
+          "end": 8.62,
+          "probability": 0.976
+        },
+        {
+          "word": "bị",
+          "start": 8.88,
+          "end": 9.04,
+          "probability": 1.0
+        },
+        {
+          "word": "cơ",
+          "start": 9.04,
+          "end": 9.26,
+          "probability": 0.993
+        },
+        {
+          "word": "quan",
+          "start": 9.26,
+          "end": 9.44,
+          "probability": 1.0
+        },
+        {
+          "word": "điều",
+          "start": 9.44,
+          "end": 9.6,
+          "probability": 1.0
+        },
+        {
+          "word": "tra",
+          "start": 9.6,
+          "end": 9.84,
+          "probability": 1.0
+        },
+        {
+          "word": "khởi",
+          "start": 9.84,
+          "end": 10.14,
+          "probability": 1.0
+        },
+        {
+          "word": "tố",
+          "start": 10.14,
+          "end": 10.4,
+          "probability": 0.999
+        },
+        {
+          "word": "và",
+          "start": 10.4,
+          "end": 10.7,
+          "probability": 1.0
+        },
+        {
+          "word": "bắt",
+          "start": 10.7,
+          "end": 10.92,
+          "probability": 1.0
+        },
+        {
+          "word": "tạm",
+          "start": 10.92,
+          "end": 11.1,
+          "probability": 0.999
+        },
+        {
+          "word": "giam.",
+          "start": 11.1,
+          "end": 11.32,
+          "probability": 0.968
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.74,
+      "end": 15.12,
+      "text": "Chỉ trong một đêm, cỗ máy tài chính nghìn tỷ sụp đổ hoàn toàn.",
+      "words": [
+        {
+          "word": "Chỉ",
+          "start": 11.74,
+          "end": 12.12,
+          "probability": 1.0
+        },
+        {
+          "word": "trong",
+          "start": 12.12,
+          "end": 12.3,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 12.3,
+          "end": 12.46,
+          "probability": 1.0
+        },
+        {
+          "word": "đêm,",
+          "start": 12.46,
+          "end": 12.66,
+          "probability": 1.0
+        },
+        {
+          "word": "cỗ",
+          "start": 12.98,
+          "end": 13.1,
+          "probability": 0.964
+        },
+        {
+          "word": "máy",
+          "start": 13.1,
+          "end": 13.3,
+          "probability": 0.998
+        },
+        {
+          "word": "tài",
+          "start": 13.3,
+          "end": 13.5,
+          "probability": 1.0
+        },
+        {
+          "word": "chính",
+          "start": 13.5,
+          "end": 13.72,
+          "probability": 1.0
+        },
+        {
+          "word": "nghìn",
+          "start": 13.72,
+          "end": 14.02,
+          "probability": 0.968
+        },
+        {
+          "word": "tỷ",
+          "start": 14.02,
+          "end": 14.26,
+          "probability": 0.998
+        },
+        {
+          "word": "sụp",
+          "start": 14.26,
+          "end": 14.56,
+          "probability": 0.958
+        },
+        {
+          "word": "đổ",
+          "start": 14.56,
+          "end": 14.66,
+          "probability": 0.994
+        },
+        {
+          "word": "hoàn",
+          "start": 14.66,
+          "end": 14.9,
+          "probability": 1.0
+        },
+        {
+          "word": "toàn.",
+          "start": 14.9,
+          "end": 15.12,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.56,
+      "end": 21.34,
+      "text": "Toàn bộ tài sản liên quan đến hệ sinh thái Ocean Group lập tức bị phong tỏa để phục vụ công tác điều tra.",
+      "words": [
+        {
+          "word": "Toàn",
+          "start": 15.56,
+          "end": 15.88,
+          "probability": 1.0
+        },
+        {
+          "word": "bộ",
+          "start": 15.88,
+          "end": 16.06,
+          "probability": 1.0
+        },
+        {
+          "word": "tài",
+          "start": 16.06,
+          "end": 16.26,
+          "probability": 1.0
+        },
+        {
+          "word": "sản",
+          "start": 16.26,
+          "end": 16.5,
+          "probability": 1.0
+        },
+        {
+          "word": "liên",
+          "start": 16.5,
+          "end": 16.74,
+          "probability": 1.0
+        },
+        {
+          "word": "quan",
+          "start": 16.74,
+          "end": 16.96,
+          "probability": 1.0
+        },
+        {
+          "word": "đến",
+          "start": 16.96,
+          "end": 17.22,
+          "probability": 1.0
+        },
+        {
+          "word": "hệ",
+          "start": 17.22,
+          "end": 17.44,
+          "probability": 1.0
+        },
+        {
+          "word": "sinh",
+          "start": 17.44,
+          "end": 17.72,
+          "probability": 1.0
+        },
+        {
+          "word": "thái",
+          "start": 17.72,
+          "end": 17.92,
+          "probability": 1.0
+        },
+        {
+          "word": "Ocean",
+          "start": 17.92,
+          "end": 18.28,
+          "probability": 0.997
+        },
+        {
+          "word": "Group",
+          "start": 18.28,
+          "end": 18.62,
+          "probability": 0.999
+        },
+        {
+          "word": "lập",
+          "start": 18.62,
+          "end": 19.06,
+          "probability": 0.999
+        },
+        {
+          "word": "tức",
+          "start": 19.06,
+          "end": 19.26,
+          "probability": 1.0
+        },
+        {
+          "word": "bị",
+          "start": 19.26,
+          "end": 19.44,
+          "probability": 1.0
+        },
+        {
+          "word": "phong",
+          "start": 19.44,
+          "end": 19.68,
+          "probability": 1.0
+        },
+        {
+          "word": "tỏa",
+          "start": 19.68,
+          "end": 20.02,
+          "probability": 0.999
+        },
+        {
+          "word": "để",
+          "start": 20.02,
+          "end": 20.2,
+          "probability": 1.0
+        },
+        {
+          "word": "phục",
+          "start": 20.2,
+          "end": 20.46,
+          "probability": 1.0
+        },
+        {
+          "word": "vụ",
+          "start": 20.46,
+          "end": 20.66,
+          "probability": 1.0
+        },
+        {
+          "word": "công",
+          "start": 20.66,
+          "end": 20.86,
+          "probability": 1.0
+        },
+        {
+          "word": "tác",
+          "start": 20.86,
+          "end": 21.02,
+          "probability": 1.0
+        },
+        {
+          "word": "điều",
+          "start": 21.02,
+          "end": 21.12,
+          "probability": 1.0
+        },
+        {
+          "word": "tra.",
+          "start": 21.12,
+          "end": 21.34,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.14,
+      "end": 26.24,
+      "text": "Cổ máy thâu tóm bất động sản đang băng băng về đích đột ngột phanh gấp.",
+      "words": [
+        {
+          "word": "Cổ",
+          "start": 22.14,
+          "end": 22.62,
+          "probability": 0.729
+        },
+        {
+          "word": "máy",
+          "start": 22.62,
+          "end": 22.78,
+          "probability": 1.0
+        },
+        {
+          "word": "thâu",
+          "start": 22.78,
+          "end": 22.96,
+          "probability": 0.982
+        },
+        {
+          "word": "tóm",
+          "start": 22.96,
+          "end": 23.22,
+          "probability": 0.999
+        },
+        {
+          "word": "bất",
+          "start": 23.22,
+          "end": 23.44,
+          "probability": 0.999
+        },
+        {
+          "word": "động",
+          "start": 23.44,
+          "end": 23.56,
+          "probability": 0.717
+        },
+        {
+          "word": "sản",
+          "start": 23.56,
+          "end": 23.88,
+          "probability": 1.0
+        },
+        {
+          "word": "đang",
+          "start": 23.88,
+          "end": 24.28,
+          "probability": 0.997
+        },
+        {
+          "word": "băng",
+          "start": 24.28,
+          "end": 24.58,
+          "probability": 0.998
+        },
+        {
+          "word": "băng",
+          "start": 24.58,
+          "end": 24.86,
+          "probability": 1.0
+        },
+        {
+          "word": "về",
+          "start": 24.86,
+          "end": 25.08,
+          "probability": 0.565
+        },
+        {
+          "word": "đích",
+          "start": 25.08,
+          "end": 25.28,
+          "probability": 0.995
+        },
+        {
+          "word": "đột",
+          "start": 25.28,
+          "end": 25.56,
+          "probability": 1.0
+        },
+        {
+          "word": "ngột",
+          "start": 25.56,
+          "end": 25.82,
+          "probability": 1.0
+        },
+        {
+          "word": "phanh",
+          "start": 25.82,
+          "end": 26.02,
+          "probability": 0.994
+        },
+        {
+          "word": "gấp.",
+          "start": 26.02,
+          "end": 26.24,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 26.24,
+      "end": 33.08,
+      "text": "Thương vụ chuyển nhượng cổ phần công ty cổ phần trang tiền bị đình trệ tuyệt đối trong vòng xoáy tố tụng.",
+      "words": [
+        {
+          "word": "Thương",
+          "start": 26.24,
+          "end": 27.04,
+          "probability": 0.963
+        },
+        {
+          "word": "vụ",
+          "start": 27.04,
+          "end": 27.28,
+          "probability": 0.999
+        },
+        {
+          "word": "chuyển",
+          "start": 27.28,
+          "end": 27.62,
+          "probability": 0.998
+        },
+        {
+          "word": "nhượng",
+          "start": 27.62,
+          "end": 27.86,
+          "probability": 0.98
+        },
+        {
+          "word": "cổ",
+          "start": 27.86,
+          "end": 28.16,
+          "probability": 0.968
+        },
+        {
+          "word": "phần",
+          "start": 28.16,
+          "end": 28.44,
+          "probability": 0.994
+        },
+        {
+          "word": "công",
+          "start": 28.44,
+          "end": 28.7,
+          "probability": 0.942
+        },
+        {
+          "word": "ty",
+          "start": 28.7,
+          "end": 28.88,
+          "probability": 1.0
+        },
+        {
+          "word": "cổ",
+          "start": 28.88,
+          "end": 29.1,
+          "probability": 0.999
+        },
+        {
+          "word": "phần",
+          "start": 29.1,
+          "end": 29.28,
+          "probability": 1.0
+        },
+        {
+          "word": "trang",
+          "start": 29.28,
+          "end": 29.54,
+          "probability": 0.844
+        },
+        {
+          "word": "tiền",
+          "start": 29.54,
+          "end": 29.84,
+          "probability": 0.999
+        },
+        {
+          "word": "bị",
+          "start": 29.84,
+          "end": 30.18,
+          "probability": 0.999
+        },
+        {
+          "word": "đình",
+          "start": 30.18,
+          "end": 30.42,
+          "probability": 0.992
+        },
+        {
+          "word": "trệ",
+          "start": 30.42,
+          "end": 30.68,
+          "probability": 0.983
+        },
+        {
+          "word": "tuyệt",
+          "start": 30.68,
+          "end": 31.02,
+          "probability": 1.0
+        },
+        {
+          "word": "đối",
+          "start": 31.02,
+          "end": 31.3,
+          "probability": 1.0
+        },
+        {
+          "word": "trong",
+          "start": 31.3,
+          "end": 31.6,
+          "probability": 1.0
+        },
+        {
+          "word": "vòng",
+          "start": 31.6,
+          "end": 31.84,
+          "probability": 1.0
+        },
+        {
+          "word": "xoáy",
+          "start": 31.84,
+          "end": 32.18,
+          "probability": 0.997
+        },
+        {
+          "word": "tố",
+          "start": 32.18,
+          "end": 32.38,
+          "probability": 0.995
+        },
+        {
+          "word": "tụng.",
+          "start": 32.38,
+          "end": 33.08,
+          "probability": 0.988
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 33.43,
+      "end": 40.59,
+      "text": "Đến tháng 6 năm 2015, hai bên buộc phải ký phụ lục hợp đồng để chính thức dừng việc chuyển nhượng.",
+      "words": [
+        {
+          "word": "Đến",
+          "start": 33.43,
+          "end": 33.89,
+          "probability": 0.999
+        },
+        {
+          "word": "tháng",
+          "start": 33.89,
+          "end": 34.09,
+          "probability": 1.0
+        },
+        {
+          "word": "6",
+          "start": 34.09,
+          "end": 34.39,
+          "probability": 1.0
+        },
+        {
+          "word": "năm",
+          "start": 34.39,
+          "end": 34.61,
+          "probability": 0.997
+        },
+        {
+          "word": "2015,",
+          "start": 34.61,
+          "end": 35.63,
+          "probability": 1.0
+        },
+        {
+          "word": "hai",
+          "start": 36.29,
+          "end": 36.47,
+          "probability": 0.97
+        },
+        {
+          "word": "bên",
+          "start": 36.47,
+          "end": 36.69,
+          "probability": 0.998
+        },
+        {
+          "word": "buộc",
+          "start": 36.69,
+          "end": 37.07,
+          "probability": 1.0
+        },
+        {
+          "word": "phải",
+          "start": 37.07,
+          "end": 37.35,
+          "probability": 1.0
+        },
+        {
+          "word": "ký",
+          "start": 37.35,
+          "end": 37.67,
+          "probability": 1.0
+        },
+        {
+          "word": "phụ",
+          "start": 37.67,
+          "end": 37.97,
+          "probability": 0.989
+        },
+        {
+          "word": "lục",
+          "start": 37.97,
+          "end": 38.19,
+          "probability": 0.997
+        },
+        {
+          "word": "hợp",
+          "start": 38.19,
+          "end": 38.41,
+          "probability": 1.0
+        },
+        {
+          "word": "đồng",
+          "start": 38.41,
+          "end": 38.65,
+          "probability": 1.0
+        },
+        {
+          "word": "để",
+          "start": 38.65,
+          "end": 39.01,
+          "probability": 1.0
+        },
+        {
+          "word": "chính",
+          "start": 39.01,
+          "end": 39.29,
+          "probability": 1.0
+        },
+        {
+          "word": "thức",
+          "start": 39.29,
+          "end": 39.59,
+          "probability": 1.0
+        },
+        {
+          "word": "dừng",
+          "start": 39.59,
+          "end": 39.91,
+          "probability": 0.999
+        },
+        {
+          "word": "việc",
+          "start": 39.91,
+          "end": 40.15,
+          "probability": 1.0
+        },
+        {
+          "word": "chuyển",
+          "start": 40.15,
+          "end": 40.37,
+          "probability": 1.0
+        },
+        {
+          "word": "nhượng.",
+          "start": 40.37,
+          "end": 40.59,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 40.85,
+      "end": 47.35,
+      "text": "Khoản tiền gần 500 tỷ đồng tạm ứng từ năm 2010 không thể thu hồi, trở thành nợ khó đòi.",
+      "words": [
+        {
+          "word": "Khoản",
+          "start": 40.85,
+          "end": 41.37,
+          "probability": 0.992
+        },
+        {
+          "word": "tiền",
+          "start": 41.37,
+          "end": 41.63,
+          "probability": 1.0
+        },
+        {
+          "word": "gần",
+          "start": 41.63,
+          "end": 41.91,
+          "probability": 1.0
+        },
+        {
+          "word": "500",
+          "start": 41.91,
+          "end": 42.27,
+          "probability": 1.0
+        },
+        {
+          "word": "tỷ",
+          "start": 42.27,
+          "end": 42.51,
+          "probability": 0.999
+        },
+        {
+          "word": "đồng",
+          "start": 42.51,
+          "end": 42.69,
+          "probability": 1.0
+        },
+        {
+          "word": "tạm",
+          "start": 42.69,
+          "end": 42.97,
+          "probability": 0.961
+        },
+        {
+          "word": "ứng",
+          "start": 42.97,
+          "end": 43.17,
+          "probability": 1.0
+        },
+        {
+          "word": "từ",
+          "start": 43.17,
+          "end": 43.37,
+          "probability": 1.0
+        },
+        {
+          "word": "năm",
+          "start": 43.37,
+          "end": 43.55,
+          "probability": 1.0
+        },
+        {
+          "word": "2010",
+          "start": 43.55,
+          "end": 44.43,
+          "probability": 0.999
+        },
+        {
+          "word": "không",
+          "start": 44.43,
+          "end": 45.05,
+          "probability": 0.929
+        },
+        {
+          "word": "thể",
+          "start": 45.05,
+          "end": 45.27,
+          "probability": 1.0
+        },
+        {
+          "word": "thu",
+          "start": 45.27,
+          "end": 45.45,
+          "probability": 0.999
+        },
+        {
+          "word": "hồi,",
+          "start": 45.45,
+          "end": 45.71,
+          "probability": 0.999
+        },
+        {
+          "word": "trở",
+          "start": 46.07,
+          "end": 46.23,
+          "probability": 1.0
+        },
+        {
+          "word": "thành",
+          "start": 46.23,
+          "end": 46.47,
+          "probability": 1.0
+        },
+        {
+          "word": "nợ",
+          "start": 46.47,
+          "end": 46.81,
+          "probability": 1.0
+        },
+        {
+          "word": "khó",
+          "start": 46.81,
+          "end": 47.11,
+          "probability": 1.0
+        },
+        {
+          "word": "đòi.",
+          "start": 47.11,
+          "end": 47.35,
+          "probability": 0.835
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 47.65,
+      "end": 52.51,
+      "text": "Tính cả lãi phát sinh, nghĩa vụ hoàn trả đã đội lên tới 586 tỷ đồng.",
+      "words": [
+        {
+          "word": "Tính",
+          "start": 47.65,
+          "end": 48.17,
+          "probability": 1.0
+        },
+        {
+          "word": "cả",
+          "start": 48.17,
+          "end": 48.37,
+          "probability": 1.0
+        },
+        {
+          "word": "lãi",
+          "start": 48.37,
+          "end": 48.61,
+          "probability": 0.981
+        },
+        {
+          "word": "phát",
+          "start": 48.61,
+          "end": 48.81,
+          "probability": 0.999
+        },
+        {
+          "word": "sinh,",
+          "start": 48.81,
+          "end": 49.07,
+          "probability": 0.999
+        },
+        {
+          "word": "nghĩa",
+          "start": 49.41,
+          "end": 49.57,
+          "probability": 0.904
+        },
+        {
+          "word": "vụ",
+          "start": 49.57,
+          "end": 49.69,
+          "probability": 1.0
+        },
+        {
+          "word": "hoàn",
+          "start": 49.69,
+          "end": 49.91,
+          "probability": 0.998
+        },
+        {
+          "word": "trả",
+          "start": 49.91,
+          "end": 50.17,
+          "probability": 0.999
+        },
+        {
+          "word": "đã",
+          "start": 50.17,
+          "end": 50.35,
+          "probability": 1.0
+        },
+        {
+          "word": "đội",
+          "start": 50.35,
+          "end": 50.61,
+          "probability": 0.947
+        },
+        {
+          "word": "lên",
+          "start": 50.61,
+          "end": 50.81,
+          "probability": 1.0
+        },
+        {
+          "word": "tới",
+          "start": 50.81,
+          "end": 51.03,
+          "probability": 0.999
+        },
+        {
+          "word": "586",
+          "start": 51.03,
+          "end": 52.13,
+          "probability": 0.996
+        },
+        {
+          "word": "tỷ",
+          "start": 52.13,
+          "end": 52.33,
+          "probability": 1.0
+        },
+        {
+          "word": "đồng.",
+          "start": 52.33,
+          "end": 52.51,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 52.51,
+      "end": 57.67,
+      "text": "Tập đoàn Mẹ OCH buộc phải trích lập giữ phòng toàn bộ khoản tiền này trên sổ sách.",
+      "words": [
+        {
+          "word": "Tập",
+          "start": 52.51,
+          "end": 53.25,
+          "probability": 0.941
+        },
+        {
+          "word": "đoàn",
+          "start": 53.25,
+          "end": 53.47,
+          "probability": 1.0
+        },
+        {
+          "word": "Mẹ",
+          "start": 53.47,
+          "end": 53.71,
+          "probability": 0.768
+        },
+        {
+          "word": "OCH",
+          "start": 53.71,
+          "end": 54.21,
+          "probability": 0.949
+        },
+        {
+          "word": "buộc",
+          "start": 54.21,
+          "end": 54.65,
+          "probability": 0.987
+        },
+        {
+          "word": "phải",
+          "start": 54.65,
+          "end": 54.89,
+          "probability": 1.0
+        },
+        {
+          "word": "trích",
+          "start": 54.89,
+          "end": 55.09,
+          "probability": 0.997
+        },
+        {
+          "word": "lập",
+          "start": 55.09,
+          "end": 55.33,
+          "probability": 1.0
+        },
+        {
+          "word": "giữ",
+          "start": 55.33,
+          "end": 55.57,
+          "probability": 0.811
+        },
+        {
+          "word": "phòng",
+          "start": 55.57,
+          "end": 55.77,
+          "probability": 0.991
+        },
+        {
+          "word": "toàn",
+          "start": 55.77,
+          "end": 56.09,
+          "probability": 1.0
+        },
+        {
+          "word": "bộ",
+          "start": 56.09,
+          "end": 56.29,
+          "probability": 1.0
+        },
+        {
+          "word": "khoản",
+          "start": 56.29,
+          "end": 56.53,
+          "probability": 0.999
+        },
+        {
+          "word": "tiền",
+          "start": 56.53,
+          "end": 56.79,
+          "probability": 1.0
+        },
+        {
+          "word": "này",
+          "start": 56.79,
+          "end": 56.99,
+          "probability": 1.0
+        },
+        {
+          "word": "trên",
+          "start": 56.99,
+          "end": 57.23,
+          "probability": 1.0
+        },
+        {
+          "word": "sổ",
+          "start": 57.23,
+          "end": 57.43,
+          "probability": 0.999
+        },
+        {
+          "word": "sách.",
+          "start": 57.43,
+          "end": 57.67,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 58.51,
+      "end": 62.29,
+      "text": "Nhưng vũng lầy pháp lý bao quanh khu đất vàng vẫn chưa dừng lại ở đó.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 58.51,
+          "end": 58.95,
+          "probability": 0.995
+        },
+        {
+          "word": "vũng",
+          "start": 58.95,
+          "end": 59.13,
+          "probability": 0.923
+        },
+        {
+          "word": "lầy",
+          "start": 59.13,
+          "end": 59.29,
+          "probability": 0.975
+        },
+        {
+          "word": "pháp",
+          "start": 59.29,
+          "end": 59.51,
+          "probability": 0.999
+        },
+        {
+          "word": "lý",
+          "start": 59.51,
+          "end": 59.69,
+          "probability": 0.999
+        },
+        {
+          "word": "bao",
+          "start": 59.69,
+          "end": 59.91,
+          "probability": 1.0
+        },
+        {
+          "word": "quanh",
+          "start": 59.91,
+          "end": 60.27,
+          "probability": 0.999
+        },
+        {
+          "word": "khu",
+          "start": 60.27,
+          "end": 60.45,
+          "probability": 0.998
+        },
+        {
+          "word": "đất",
+          "start": 60.45,
+          "end": 60.63,
+          "probability": 0.999
+        },
+        {
+          "word": "vàng",
+          "start": 60.63,
+          "end": 60.93,
+          "probability": 0.997
+        },
+        {
+          "word": "vẫn",
+          "start": 60.93,
+          "end": 61.27,
+          "probability": 0.997
+        },
+        {
+          "word": "chưa",
+          "start": 61.27,
+          "end": 61.59,
+          "probability": 1.0
+        },
+        {
+          "word": "dừng",
+          "start": 61.59,
+          "end": 61.79,
+          "probability": 0.999
+        },
+        {
+          "word": "lại",
+          "start": 61.79,
+          "end": 61.95,
+          "probability": 1.0
+        },
+        {
+          "word": "ở",
+          "start": 61.95,
+          "end": 62.05,
+          "probability": 1.0
+        },
+        {
+          "word": "đó.",
+          "start": 62.05,
+          "end": 62.29,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 63.22,
+      "end": 68.72,
+      "text": "Từ trước khi biến cố xảy ra, toàn bộ cổ phần của công ty cổ phần trang tiền đã được đem đi thế chấp.",
+      "words": [
+        {
+          "word": "Từ",
+          "start": 63.22,
+          "end": 63.66,
+          "probability": 1.0
+        },
+        {
+          "word": "trước",
+          "start": 63.66,
+          "end": 63.86,
+          "probability": 1.0
+        },
+        {
+          "word": "khi",
+          "start": 63.86,
+          "end": 64.06,
+          "probability": 0.999
+        },
+        {
+          "word": "biến",
+          "start": 64.06,
+          "end": 64.28,
+          "probability": 1.0
+        },
+        {
+          "word": "cố",
+          "start": 64.28,
+          "end": 64.42,
+          "probability": 0.998
+        },
+        {
+          "word": "xảy",
+          "start": 64.42,
+          "end": 64.7,
+          "probability": 0.999
+        },
+        {
+          "word": "ra,",
+          "start": 64.7,
+          "end": 64.9,
+          "probability": 1.0
+        },
+        {
+          "word": "toàn",
+          "start": 65.22,
+          "end": 65.38,
+          "probability": 1.0
+        },
+        {
+          "word": "bộ",
+          "start": 65.38,
+          "end": 65.56,
+          "probability": 1.0
+        },
+        {
+          "word": "cổ",
+          "start": 65.56,
+          "end": 65.78,
+          "probability": 0.999
+        },
+        {
+          "word": "phần",
+          "start": 65.78,
+          "end": 66.04,
+          "probability": 0.989
+        },
+        {
+          "word": "của",
+          "start": 66.04,
+          "end": 66.24,
+          "probability": 1.0
+        },
+        {
+          "word": "công",
+          "start": 66.24,
+          "end": 66.48,
+          "probability": 0.947
+        },
+        {
+          "word": "ty",
+          "start": 66.48,
+          "end": 66.62,
+          "probability": 1.0
+        },
+        {
+          "word": "cổ",
+          "start": 66.62,
+          "end": 66.86,
+          "probability": 0.993
+        },
+        {
+          "word": "phần",
+          "start": 66.86,
+          "end": 67.06,
+          "probability": 0.995
+        },
+        {
+          "word": "trang",
+          "start": 67.06,
+          "end": 67.32,
+          "probability": 0.929
+        },
+        {
+          "word": "tiền",
+          "start": 67.32,
+          "end": 67.6,
+          "probability": 1.0
+        },
+        {
+          "word": "đã",
+          "start": 67.6,
+          "end": 67.86,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 67.86,
+          "end": 68.02,
+          "probability": 0.999
+        },
+        {
+          "word": "đem",
+          "start": 68.02,
+          "end": 68.2,
+          "probability": 1.0
+        },
+        {
+          "word": "đi",
+          "start": 68.2,
+          "end": 68.34,
+          "probability": 1.0
+        },
+        {
+          "word": "thế",
+          "start": 68.34,
+          "end": 68.5,
+          "probability": 0.994
+        },
+        {
+          "word": "chấp.",
+          "start": 68.5,
+          "end": 68.72,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 69.38,
+      "end": 75.48,
+      "text": "Doanh nghiệp dùng khối tài sản này để bảo đảm cho các khoản vay và lô trái phiếu lớn tại ngân hàng PV Combank.",
+      "words": [
+        {
+          "word": "Doanh",
+          "start": 69.38,
+          "end": 69.56,
+          "probability": 0.998
+        },
+        {
+          "word": "nghiệp",
+          "start": 69.56,
+          "end": 69.74,
+          "probability": 1.0
+        },
+        {
+          "word": "dùng",
+          "start": 69.74,
+          "end": 69.98,
+          "probability": 1.0
+        },
+        {
+          "word": "khối",
+          "start": 69.98,
+          "end": 70.26,
+          "probability": 1.0
+        },
+        {
+          "word": "tài",
+          "start": 70.26,
+          "end": 70.46,
+          "probability": 1.0
+        },
+        {
+          "word": "sản",
+          "start": 70.46,
+          "end": 70.66,
+          "probability": 1.0
+        },
+        {
+          "word": "này",
+          "start": 70.66,
+          "end": 70.9,
+          "probability": 1.0
+        },
+        {
+          "word": "để",
+          "start": 70.9,
+          "end": 71.2,
+          "probability": 1.0
+        },
+        {
+          "word": "bảo",
+          "start": 71.2,
+          "end": 71.42,
+          "probability": 1.0
+        },
+        {
+          "word": "đảm",
+          "start": 71.42,
+          "end": 71.64,
+          "probability": 1.0
+        },
+        {
+          "word": "cho",
+          "start": 71.64,
+          "end": 71.82,
+          "probability": 1.0
+        },
+        {
+          "word": "các",
+          "start": 71.82,
+          "end": 71.98,
+          "probability": 1.0
+        },
+        {
+          "word": "khoản",
+          "start": 71.98,
+          "end": 72.26,
+          "probability": 1.0
+        },
+        {
+          "word": "vay",
+          "start": 72.26,
+          "end": 72.54,
+          "probability": 0.851
+        },
+        {
+          "word": "và",
+          "start": 72.54,
+          "end": 72.88,
+          "probability": 1.0
+        },
+        {
+          "word": "lô",
+          "start": 72.88,
+          "end": 73.18,
+          "probability": 0.999
+        },
+        {
+          "word": "trái",
+          "start": 73.18,
+          "end": 73.44,
+          "probability": 1.0
+        },
+        {
+          "word": "phiếu",
+          "start": 73.44,
+          "end": 73.68,
+          "probability": 0.997
+        },
+        {
+          "word": "lớn",
+          "start": 73.68,
+          "end": 74.0,
+          "probability": 1.0
+        },
+        {
+          "word": "tại",
+          "start": 74.0,
+          "end": 74.28,
+          "probability": 1.0
+        },
+        {
+          "word": "ngân",
+          "start": 74.28,
+          "end": 74.46,
+          "probability": 0.951
+        },
+        {
+          "word": "hàng",
+          "start": 74.46,
+          "end": 74.58,
+          "probability": 1.0
+        },
+        {
+          "word": "PV",
+          "start": 74.58,
+          "end": 75.0,
+          "probability": 0.978
+        },
+        {
+          "word": "Combank.",
+          "start": 75.0,
+          "end": 75.48,
+          "probability": 0.44
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 75.48,
+      "end": 81.46,
+      "text": "Khi chủ đầu tư mất khả năng thanh toán, cơ chế xử lý tài sản bảo đảm của ngân hàng lập tức kích hoạt.",
+      "words": [
+        {
+          "word": "Khi",
+          "start": 75.48,
+          "end": 76.26,
+          "probability": 0.983
+        },
+        {
+          "word": "chủ",
+          "start": 76.26,
+          "end": 76.42,
+          "probability": 0.999
+        },
+        {
+          "word": "đầu",
+          "start": 76.42,
+          "end": 76.52,
+          "probability": 0.993
+        },
+        {
+          "word": "tư",
+          "start": 76.52,
+          "end": 76.74,
+          "probability": 1.0
+        },
+        {
+          "word": "mất",
+          "start": 76.74,
+          "end": 77.0,
+          "probability": 1.0
+        },
+        {
+          "word": "khả",
+          "start": 77.0,
+          "end": 77.16,
+          "probability": 1.0
+        },
+        {
+          "word": "năng",
+          "start": 77.16,
+          "end": 77.3,
+          "probability": 1.0
+        },
+        {
+          "word": "thanh",
+          "start": 77.3,
+          "end": 77.54,
+          "probability": 0.999
+        },
+        {
+          "word": "toán,",
+          "start": 77.54,
+          "end": 77.82,
+          "probability": 0.999
+        },
+        {
+          "word": "cơ",
+          "start": 78.24,
+          "end": 78.38,
+          "probability": 0.995
+        },
+        {
+          "word": "chế",
+          "start": 78.38,
+          "end": 78.6,
+          "probability": 1.0
+        },
+        {
+          "word": "xử",
+          "start": 78.6,
+          "end": 78.82,
+          "probability": 0.999
+        },
+        {
+          "word": "lý",
+          "start": 78.82,
+          "end": 78.94,
+          "probability": 1.0
+        },
+        {
+          "word": "tài",
+          "start": 78.94,
+          "end": 79.2,
+          "probability": 1.0
+        },
+        {
+          "word": "sản",
+          "start": 79.2,
+          "end": 79.44,
+          "probability": 1.0
+        },
+        {
+          "word": "bảo",
+          "start": 79.44,
+          "end": 79.74,
+          "probability": 0.999
+        },
+        {
+          "word": "đảm",
+          "start": 79.74,
+          "end": 80.02,
+          "probability": 1.0
+        },
+        {
+          "word": "của",
+          "start": 80.02,
+          "end": 80.24,
+          "probability": 1.0
+        },
+        {
+          "word": "ngân",
+          "start": 80.24,
+          "end": 80.42,
+          "probability": 0.959
+        },
+        {
+          "word": "hàng",
+          "start": 80.42,
+          "end": 80.6,
+          "probability": 1.0
+        },
+        {
+          "word": "lập",
+          "start": 80.6,
+          "end": 80.88,
+          "probability": 1.0
+        },
+        {
+          "word": "tức",
+          "start": 80.88,
+          "end": 81.06,
+          "probability": 1.0
+        },
+        {
+          "word": "kích",
+          "start": 81.06,
+          "end": 81.26,
+          "probability": 0.999
+        },
+        {
+          "word": "hoạt.",
+          "start": 81.26,
+          "end": 81.46,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "start": 82.72,
+      "end": 91.64,
+      "text": "Năm 2019, PV Combank chính thức nhận bàn giao gần 6 triệu cổ phần để cấn trừ nghĩa vụ nợ trái phiếu hơn 736 tỷ đồng.",
+      "words": [
+        {
+          "word": "Năm",
+          "start": 82.72,
+          "end": 83.16,
+          "probability": 0.999
+        },
+        {
+          "word": "2019,",
+          "start": 83.16,
+          "end": 83.6,
+          "probability": 1.0
+        },
+        {
+          "word": "PV",
+          "start": 84.46,
+          "end": 84.68,
+          "probability": 0.785
+        },
+        {
+          "word": "Combank",
+          "start": 84.68,
+          "end": 85.36,
+          "probability": 0.451
+        },
+        {
+          "word": "chính",
+          "start": 85.36,
+          "end": 85.68,
+          "probability": 1.0
+        },
+        {
+          "word": "thức",
+          "start": 85.68,
+          "end": 85.88,
+          "probability": 1.0
+        },
+        {
+          "word": "nhận",
+          "start": 85.88,
+          "end": 86.1,
+          "probability": 1.0
+        },
+        {
+          "word": "bàn",
+          "start": 86.1,
+          "end": 86.32,
+          "probability": 0.988
+        },
+        {
+          "word": "giao",
+          "start": 86.32,
+          "end": 86.58,
+          "probability": 0.996
+        },
+        {
+          "word": "gần",
+          "start": 86.58,
+          "end": 86.86,
+          "probability": 1.0
+        },
+        {
+          "word": "6",
+          "start": 86.86,
+          "end": 87.16,
+          "probability": 0.999
+        },
+        {
+          "word": "triệu",
+          "start": 87.16,
+          "end": 87.38,
+          "probability": 1.0
+        },
+        {
+          "word": "cổ",
+          "start": 87.38,
+          "end": 87.6,
+          "probability": 0.999
+        },
+        {
+          "word": "phần",
+          "start": 87.6,
+          "end": 87.84,
+          "probability": 0.989
+        },
+        {
+          "word": "để",
+          "start": 87.84,
+          "end": 88.12,
+          "probability": 1.0
+        },
+        {
+          "word": "cấn",
+          "start": 88.12,
+          "end": 88.38,
+          "probability": 0.997
+        },
+        {
+          "word": "trừ",
+          "start": 88.38,
+          "end": 88.66,
+          "probability": 0.999
+        },
+        {
+          "word": "nghĩa",
+          "start": 88.66,
+          "end": 88.92,
+          "probability": 0.987
+        },
+        {
+          "word": "vụ",
+          "start": 88.92,
+          "end": 89.12,
+          "probability": 1.0
+        },
+        {
+          "word": "nợ",
+          "start": 89.12,
+          "end": 89.34,
+          "probability": 1.0
+        },
+        {
+          "word": "trái",
+          "start": 89.34,
+          "end": 89.56,
+          "probability": 0.999
+        },
+        {
+          "word": "phiếu",
+          "start": 89.56,
+          "end": 89.88,
+          "probability": 1.0
+        },
+        {
+          "word": "hơn",
+          "start": 89.88,
+          "end": 90.2,
+          "probability": 1.0
+        },
+        {
+          "word": "736",
+          "start": 90.2,
+          "end": 91.2,
+          "probability": 1.0
+        },
+        {
+          "word": "tỷ",
+          "start": 91.2,
+          "end": 91.46,
+          "probability": 0.999
+        },
+        {
+          "word": "đồng.",
+          "start": 91.46,
+          "end": 91.64,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 92.0,
+      "end": 99.76,
+      "text": "Trên bảng cân đối kế toán, giá trị nợ xấu gắn chặt với mảnh đất số 35 trang tiền được chốt ở con số 747 tỷ đồng.",
+      "words": [
+        {
+          "word": "Trên",
+          "start": 92.0,
+          "end": 92.44,
+          "probability": 1.0
+        },
+        {
+          "word": "bảng",
+          "start": 92.44,
+          "end": 92.62,
+          "probability": 0.998
+        },
+        {
+          "word": "cân",
+          "start": 92.62,
+          "end": 92.8,
+          "probability": 0.99
+        },
+        {
+          "word": "đối",
+          "start": 92.8,
+          "end": 92.94,
+          "probability": 0.992
+        },
+        {
+          "word": "kế",
+          "start": 92.94,
+          "end": 93.16,
+          "probability": 0.97
+        },
+        {
+          "word": "toán,",
+          "start": 93.16,
+          "end": 93.44,
+          "probability": 0.999
+        },
+        {
+          "word": "giá",
+          "start": 93.9,
+          "end": 94.1,
+          "probability": 1.0
+        },
+        {
+          "word": "trị",
+          "start": 94.1,
+          "end": 94.26,
+          "probability": 1.0
+        },
+        {
+          "word": "nợ",
+          "start": 94.26,
+          "end": 94.44,
+          "probability": 1.0
+        },
+        {
+          "word": "xấu",
+          "start": 94.44,
+          "end": 94.72,
+          "probability": 0.952
+        },
+        {
+          "word": "gắn",
+          "start": 94.72,
+          "end": 94.98,
+          "probability": 1.0
+        },
+        {
+          "word": "chặt",
+          "start": 94.98,
+          "end": 95.22,
+          "probability": 1.0
+        },
+        {
+          "word": "với",
+          "start": 95.22,
+          "end": 95.38,
+          "probability": 1.0
+        },
+        {
+          "word": "mảnh",
+          "start": 95.38,
+          "end": 95.58,
+          "probability": 0.999
+        },
+        {
+          "word": "đất",
+          "start": 95.58,
+          "end": 95.76,
+          "probability": 1.0
+        },
+        {
+          "word": "số",
+          "start": 95.76,
+          "end": 95.98,
+          "probability": 1.0
+        },
+        {
+          "word": "35",
+          "start": 95.98,
+          "end": 96.42,
+          "probability": 1.0
+        },
+        {
+          "word": "trang",
+          "start": 96.42,
+          "end": 96.74,
+          "probability": 0.807
+        },
+        {
+          "word": "tiền",
+          "start": 96.74,
+          "end": 97.0,
+          "probability": 0.999
+        },
+        {
+          "word": "được",
+          "start": 97.0,
+          "end": 97.18,
+          "probability": 0.995
+        },
+        {
+          "word": "chốt",
+          "start": 97.18,
+          "end": 97.48,
+          "probability": 0.998
+        },
+        {
+          "word": "ở",
+          "start": 97.48,
+          "end": 97.7,
+          "probability": 0.999
+        },
+        {
+          "word": "con",
+          "start": 97.7,
+          "end": 97.9,
+          "probability": 1.0
+        },
+        {
+          "word": "số",
+          "start": 97.9,
+          "end": 98.18,
+          "probability": 1.0
+        },
+        {
+          "word": "747",
+          "start": 98.18,
+          "end": 99.22,
+          "probability": 1.0
+        },
+        {
+          "word": "tỷ",
+          "start": 99.22,
+          "end": 99.58,
+          "probability": 1.0
+        },
+        {
+          "word": "đồng.",
+          "start": 99.58,
+          "end": 99.76,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 99.76,
+      "end": 106.56,
+      "text": "Con số khổng lồ này biến khu đất kim cương thành một khối tài sản tranh chấp bị khóa cứng trong kết sắt ngân hàng.",
+      "words": [
+        {
+          "word": "Con",
+          "start": 99.76,
+          "end": 100.52,
+          "probability": 0.972
+        },
+        {
+          "word": "số",
+          "start": 100.52,
+          "end": 100.7,
+          "probability": 1.0
+        },
+        {
+          "word": "khổng",
+          "start": 100.7,
+          "end": 100.96,
+          "probability": 1.0
+        },
+        {
+          "word": "lồ",
+          "start": 100.96,
+          "end": 101.1,
+          "probability": 0.997
+        },
+        {
+          "word": "này",
+          "start": 101.1,
+          "end": 101.3,
+          "probability": 1.0
+        },
+        {
+          "word": "biến",
+          "start": 101.3,
+          "end": 101.6,
+          "probability": 1.0
+        },
+        {
+          "word": "khu",
+          "start": 101.6,
+          "end": 101.76,
+          "probability": 0.997
+        },
+        {
+          "word": "đất",
+          "start": 101.76,
+          "end": 101.94,
+          "probability": 1.0
+        },
+        {
+          "word": "kim",
+          "start": 101.94,
+          "end": 102.1,
+          "probability": 0.66
+        },
+        {
+          "word": "cương",
+          "start": 102.1,
+          "end": 102.42,
+          "probability": 0.998
+        },
+        {
+          "word": "thành",
+          "start": 102.42,
+          "end": 102.8,
+          "probability": 0.993
+        },
+        {
+          "word": "một",
+          "start": 102.8,
+          "end": 103.06,
+          "probability": 0.996
+        },
+        {
+          "word": "khối",
+          "start": 103.06,
+          "end": 103.34,
+          "probability": 1.0
+        },
+        {
+          "word": "tài",
+          "start": 103.34,
+          "end": 103.58,
+          "probability": 1.0
+        },
+        {
+          "word": "sản",
+          "start": 103.58,
+          "end": 103.82,
+          "probability": 1.0
+        },
+        {
+          "word": "tranh",
+          "start": 103.82,
+          "end": 104.12,
+          "probability": 0.999
+        },
+        {
+          "word": "chấp",
+          "start": 104.12,
+          "end": 104.3,
+          "probability": 0.999
+        },
+        {
+          "word": "bị",
+          "start": 104.3,
+          "end": 104.6,
+          "probability": 0.996
+        },
+        {
+          "word": "khóa",
+          "start": 104.6,
+          "end": 105.04,
+          "probability": 0.995
+        },
+        {
+          "word": "cứng",
+          "start": 105.04,
+          "end": 105.26,
+          "probability": 1.0
+        },
+        {
+          "word": "trong",
+          "start": 105.26,
+          "end": 105.7,
+          "probability": 1.0
+        },
+        {
+          "word": "kết",
+          "start": 105.7,
+          "end": 106.06,
+          "probability": 0.794
+        },
+        {
+          "word": "sắt",
+          "start": 106.06,
+          "end": 106.22,
+          "probability": 0.849
+        },
+        {
+          "word": "ngân",
+          "start": 106.22,
+          "end": 106.38,
+          "probability": 0.985
+        },
+        {
+          "word": "hàng.",
+          "start": 106.38,
+          "end": 106.56,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "start": 107.46,
+      "end": 116.42,
+      "text": "Để thu hồi dòng vốn tín dụng, ngân hàng liên tục tổ chức các đợt đấu giá công khai từ năm 2021 đến năm 2023.",
+      "words": [
+        {
+          "word": "Để",
+          "start": 107.46,
+          "end": 107.94,
+          "probability": 0.999
+        },
+        {
+          "word": "thu",
+          "start": 107.94,
+          "end": 108.1,
+          "probability": 0.999
+        },
+        {
+          "word": "hồi",
+          "start": 108.1,
+          "end": 108.36,
+          "probability": 1.0
+        },
+        {
+          "word": "dòng",
+          "start": 108.36,
+          "end": 108.6,
+          "probability": 1.0
+        },
+        {
+          "word": "vốn",
+          "start": 108.6,
+          "end": 108.82,
+          "probability": 1.0
+        },
+        {
+          "word": "tín",
+          "start": 108.82,
+          "end": 109.08,
+          "probability": 0.96
+        },
+        {
+          "word": "dụng,",
+          "start": 109.08,
+          "end": 109.38,
+          "probability": 1.0
+        },
+        {
+          "word": "ngân",
+          "start": 109.7,
+          "end": 109.86,
+          "probability": 0.985
+        },
+        {
+          "word": "hàng",
+          "start": 109.86,
+          "end": 110.04,
+          "probability": 1.0
+        },
+        {
+          "word": "liên",
+          "start": 110.04,
+          "end": 110.4,
+          "probability": 1.0
+        },
+        {
+          "word": "tục",
+          "start": 110.4,
+          "end": 110.58,
+          "probability": 1.0
+        },
+        {
+          "word": "tổ",
+          "start": 110.58,
+          "end": 110.9,
+          "probability": 1.0
+        },
+        {
+          "word": "chức",
+          "start": 110.9,
+          "end": 111.16,
+          "probability": 1.0
+        },
+        {
+          "word": "các",
+          "start": 111.16,
+          "end": 111.48,
+          "probability": 1.0
+        },
+        {
+          "word": "đợt",
+          "start": 111.48,
+          "end": 111.76,
+          "probability": 1.0
+        },
+        {
+          "word": "đấu",
+          "start": 111.76,
+          "end": 111.98,
+          "probability": 0.98
+        },
+        {
+          "word": "giá",
+          "start": 111.98,
+          "end": 112.2,
+          "probability": 1.0
+        },
+        {
+          "word": "công",
+          "start": 112.2,
+          "end": 112.44,
+          "probability": 1.0
+        },
+        {
+          "word": "khai",
+          "start": 112.44,
+          "end": 112.76,
+          "probability": 0.999
+        },
+        {
+          "word": "từ",
+          "start": 112.76,
+          "end": 113.04,
+          "probability": 1.0
+        },
+        {
+          "word": "năm",
+          "start": 113.04,
+          "end": 113.28,
+          "probability": 0.998
+        },
+        {
+          "word": "2021",
+          "start": 113.28,
+          "end": 114.34,
+          "probability": 1.0
+        },
+        {
+          "word": "đến",
+          "start": 114.34,
+          "end": 115.02,
+          "probability": 0.993
+        },
+        {
+          "word": "năm",
+          "start": 115.02,
+          "end": 115.26,
+          "probability": 0.999
+        },
+        {
+          "word": "2023.",
+          "start": 115.26,
+          "end": 116.42,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 116.94,
+      "end": 121.64,
+      "text": "Ở đợt đầu tiên, mức giá khởi điểm được đưa ra là gần 793 tỷ đồng.",
+      "words": [
+        {
+          "word": "Ở",
+          "start": 116.94,
+          "end": 117.42,
+          "probability": 0.999
+        },
+        {
+          "word": "đợt",
+          "start": 117.42,
+          "end": 117.58,
+          "probability": 1.0
+        },
+        {
+          "word": "đầu",
+          "start": 117.58,
+          "end": 117.74,
+          "probability": 1.0
+        },
+        {
+          "word": "tiên,",
+          "start": 117.74,
+          "end": 117.96,
+          "probability": 1.0
+        },
+        {
+          "word": "mức",
+          "start": 118.3,
+          "end": 118.44,
+          "probability": 1.0
+        },
+        {
+          "word": "giá",
+          "start": 118.44,
+          "end": 118.66,
+          "probability": 1.0
+        },
+        {
+          "word": "khởi",
+          "start": 118.66,
+          "end": 119.02,
+          "probability": 1.0
+        },
+        {
+          "word": "điểm",
+          "start": 119.02,
+          "end": 119.26,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 119.26,
+          "end": 119.46,
+          "probability": 0.999
+        },
+        {
+          "word": "đưa",
+          "start": 119.46,
+          "end": 119.7,
+          "probability": 1.0
+        },
+        {
+          "word": "ra",
+          "start": 119.7,
+          "end": 119.9,
+          "probability": 1.0
+        },
+        {
+          "word": "là",
+          "start": 119.9,
+          "end": 120.08,
+          "probability": 0.999
+        },
+        {
+          "word": "gần",
+          "start": 120.08,
+          "end": 120.28,
+          "probability": 1.0
+        },
+        {
+          "word": "793",
+          "start": 120.28,
+          "end": 121.24,
+          "probability": 0.992
+        },
+        {
+          "word": "tỷ",
+          "start": 121.24,
+          "end": 121.48,
+          "probability": 0.999
+        },
+        {
+          "word": "đồng.",
+          "start": 121.48,
+          "end": 121.64,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "start": 122.1,
+      "end": 128.2,
+      "text": "Không có bên nào mua, ngân hàng buộc phải hạ giá xuống 764 tỷ rồi 760 tỷ đồng.",
+      "words": [
+        {
+          "word": "Không",
+          "start": 122.1,
+          "end": 122.42,
+          "probability": 0.999
+        },
+        {
+          "word": "có",
+          "start": 122.42,
+          "end": 122.58,
+          "probability": 1.0
+        },
+        {
+          "word": "bên",
+          "start": 122.58,
+          "end": 122.68,
+          "probability": 0.919
+        },
+        {
+          "word": "nào",
+          "start": 122.68,
+          "end": 122.84,
+          "probability": 1.0
+        },
+        {
+          "word": "mua,",
+          "start": 122.84,
+          "end": 123.1,
+          "probability": 1.0
+        },
+        {
+          "word": "ngân",
+          "start": 123.46,
+          "end": 123.7,
+          "probability": 1.0
+        },
+        {
+          "word": "hàng",
+          "start": 123.7,
+          "end": 123.9,
+          "probability": 1.0
+        },
+        {
+          "word": "buộc",
+          "start": 123.9,
+          "end": 124.2,
+          "probability": 1.0
+        },
+        {
+          "word": "phải",
+          "start": 124.2,
+          "end": 124.38,
+          "probability": 1.0
+        },
+        {
+          "word": "hạ",
+          "start": 124.38,
+          "end": 124.6,
+          "probability": 1.0
+        },
+        {
+          "word": "giá",
+          "start": 124.6,
+          "end": 124.86,
+          "probability": 1.0
+        },
+        {
+          "word": "xuống",
+          "start": 124.86,
+          "end": 125.16,
+          "probability": 1.0
+        },
+        {
+          "word": "764",
+          "start": 125.16,
+          "end": 125.94,
+          "probability": 0.965
+        },
+        {
+          "word": "tỷ",
+          "start": 125.94,
+          "end": 126.46,
+          "probability": 1.0
+        },
+        {
+          "word": "rồi",
+          "start": 126.46,
+          "end": 126.94,
+          "probability": 0.697
+        },
+        {
+          "word": "760",
+          "start": 126.94,
+          "end": 127.78,
+          "probability": 0.999
+        },
+        {
+          "word": "tỷ",
+          "start": 127.78,
+          "end": 128.0,
+          "probability": 1.0
+        },
+        {
+          "word": "đồng.",
+          "start": 128.0,
+          "end": 128.2,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "start": 128.2,
+      "end": 132.8,
+      "text": "Nhưng sau 3 lần giảm giá, thị trường vẫn hoàn toàn không có người nộp hồ sơ.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 128.2,
+          "end": 128.96,
+          "probability": 0.937
+        },
+        {
+          "word": "sau",
+          "start": 128.96,
+          "end": 129.2,
+          "probability": 1.0
+        },
+        {
+          "word": "3",
+          "start": 129.2,
+          "end": 129.42,
+          "probability": 0.588
+        },
+        {
+          "word": "lần",
+          "start": 129.42,
+          "end": 129.62,
+          "probability": 1.0
+        },
+        {
+          "word": "giảm",
+          "start": 129.62,
+          "end": 129.9,
+          "probability": 1.0
+        },
+        {
+          "word": "giá,",
+          "start": 129.9,
+          "end": 130.14,
+          "probability": 1.0
+        },
+        {
+          "word": "thị",
+          "start": 130.4,
+          "end": 130.68,
+          "probability": 1.0
+        },
+        {
+          "word": "trường",
+          "start": 130.68,
+          "end": 130.9,
+          "probability": 1.0
+        },
+        {
+          "word": "vẫn",
+          "start": 130.9,
+          "end": 131.06,
+          "probability": 1.0
+        },
+        {
+          "word": "hoàn",
+          "start": 131.06,
+          "end": 131.36,
+          "probability": 1.0
+        },
+        {
+          "word": "toàn",
+          "start": 131.36,
+          "end": 131.64,
+          "probability": 1.0
+        },
+        {
+          "word": "không",
+          "start": 131.64,
+          "end": 131.9,
+          "probability": 1.0
+        },
+        {
+          "word": "có",
+          "start": 131.9,
+          "end": 132.12,
+          "probability": 1.0
+        },
+        {
+          "word": "người",
+          "start": 132.12,
+          "end": 132.26,
+          "probability": 1.0
+        },
+        {
+          "word": "nộp",
+          "start": 132.26,
+          "end": 132.48,
+          "probability": 0.996
+        },
+        {
+          "word": "hồ",
+          "start": 132.48,
+          "end": 132.6,
+          "probability": 0.991
+        },
+        {
+          "word": "sơ.",
+          "start": 132.6,
+          "end": 132.8,
+          "probability": 0.991
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "start": 133.66,
+      "end": 138.72,
+      "text": "Một vị trí đắc địa cách bờ hồ hoàn kiếm vài bước chân bỗng nhiên rơi vào cảnh ế ẩm kéo dài.",
+      "words": [
+        {
+          "word": "Một",
+          "start": 133.66,
+          "end": 134.14,
+          "probability": 1.0
+        },
+        {
+          "word": "vị",
+          "start": 134.14,
+          "end": 134.26,
+          "probability": 1.0
+        },
+        {
+          "word": "trí",
+          "start": 134.26,
+          "end": 134.44,
+          "probability": 1.0
+        },
+        {
+          "word": "đắc",
+          "start": 134.44,
+          "end": 134.62,
+          "probability": 0.994
+        },
+        {
+          "word": "địa",
+          "start": 134.62,
+          "end": 134.82,
+          "probability": 0.999
+        },
+        {
+          "word": "cách",
+          "start": 134.82,
+          "end": 135.04,
+          "probability": 0.997
+        },
+        {
+          "word": "bờ",
+          "start": 135.04,
+          "end": 135.24,
+          "probability": 0.985
+        },
+        {
+          "word": "hồ",
+          "start": 135.24,
+          "end": 135.42,
+          "probability": 0.992
+        },
+        {
+          "word": "hoàn",
+          "start": 135.42,
+          "end": 135.68,
+          "probability": 0.943
+        },
+        {
+          "word": "kiếm",
+          "start": 135.68,
+          "end": 135.96,
+          "probability": 1.0
+        },
+        {
+          "word": "vài",
+          "start": 135.96,
+          "end": 136.18,
+          "probability": 1.0
+        },
+        {
+          "word": "bước",
+          "start": 136.18,
+          "end": 136.32,
+          "probability": 0.997
+        },
+        {
+          "word": "chân",
+          "start": 136.32,
+          "end": 136.54,
+          "probability": 1.0
+        },
+        {
+          "word": "bỗng",
+          "start": 136.54,
+          "end": 136.98,
+          "probability": 0.971
+        },
+        {
+          "word": "nhiên",
+          "start": 136.98,
+          "end": 137.16,
+          "probability": 0.999
+        },
+        {
+          "word": "rơi",
+          "start": 137.16,
+          "end": 137.4,
+          "probability": 1.0
+        },
+        {
+          "word": "vào",
+          "start": 137.4,
+          "end": 137.56,
+          "probability": 1.0
+        },
+        {
+          "word": "cảnh",
+          "start": 137.56,
+          "end": 137.8,
+          "probability": 0.997
+        },
+        {
+          "word": "ế",
+          "start": 137.8,
+          "end": 138.04,
+          "probability": 0.99
+        },
+        {
+          "word": "ẩm",
+          "start": 138.04,
+          "end": 138.24,
+          "probability": 0.999
+        },
+        {
+          "word": "kéo",
+          "start": 138.24,
+          "end": 138.46,
+          "probability": 1.0
+        },
+        {
+          "word": "dài.",
+          "start": 138.46,
+          "end": 138.72,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 139.4,
+      "end": 144.64,
+      "text": "Giới đầu tư ngần ngại vì mảnh đất 35 trang tiền là đất thuê trả tiền hàng năm của nhà nước,",
+      "words": [
+        {
+          "word": "Giới",
+          "start": 139.4,
+          "end": 139.6,
+          "probability": 0.995
+        },
+        {
+          "word": "đầu",
+          "start": 139.6,
+          "end": 139.72,
+          "probability": 0.997
+        },
+        {
+          "word": "tư",
+          "start": 139.72,
+          "end": 139.84,
+          "probability": 0.999
+        },
+        {
+          "word": "ngần",
+          "start": 139.84,
+          "end": 140.08,
+          "probability": 0.969
+        },
+        {
+          "word": "ngại",
+          "start": 140.08,
+          "end": 140.34,
+          "probability": 1.0
+        },
+        {
+          "word": "vì",
+          "start": 140.34,
+          "end": 140.7,
+          "probability": 0.979
+        },
+        {
+          "word": "mảnh",
+          "start": 140.7,
+          "end": 140.96,
+          "probability": 0.998
+        },
+        {
+          "word": "đất",
+          "start": 140.96,
+          "end": 141.18,
+          "probability": 1.0
+        },
+        {
+          "word": "35",
+          "start": 141.18,
+          "end": 141.6,
+          "probability": 0.999
+        },
+        {
+          "word": "trang",
+          "start": 141.6,
+          "end": 141.9,
+          "probability": 0.873
+        },
+        {
+          "word": "tiền",
+          "start": 141.9,
+          "end": 142.18,
+          "probability": 1.0
+        },
+        {
+          "word": "là",
+          "start": 142.18,
+          "end": 142.48,
+          "probability": 0.999
+        },
+        {
+          "word": "đất",
+          "start": 142.48,
+          "end": 142.7,
+          "probability": 1.0
+        },
+        {
+          "word": "thuê",
+          "start": 142.7,
+          "end": 143.02,
+          "probability": 1.0
+        },
+        {
+          "word": "trả",
+          "start": 143.02,
+          "end": 143.38,
+          "probability": 0.981
+        },
+        {
+          "word": "tiền",
+          "start": 143.38,
+          "end": 143.64,
+          "probability": 1.0
+        },
+        {
+          "word": "hàng",
+          "start": 143.64,
+          "end": 143.86,
+          "probability": 1.0
+        },
+        {
+          "word": "năm",
+          "start": 143.86,
+          "end": 144.1,
+          "probability": 1.0
+        },
+        {
+          "word": "của",
+          "start": 144.1,
+          "end": 144.28,
+          "probability": 1.0
+        },
+        {
+          "word": "nhà",
+          "start": 144.28,
+          "end": 144.4,
+          "probability": 1.0
+        },
+        {
+          "word": "nước,",
+          "start": 144.4,
+          "end": 144.64,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 144.86,
+      "end": 146.56,
+      "text": "không phải đất sở hữu vĩnh viễn.",
+      "words": [
+        {
+          "word": "không",
+          "start": 144.86,
+          "end": 145.12,
+          "probability": 1.0
+        },
+        {
+          "word": "phải",
+          "start": 145.12,
+          "end": 145.34,
+          "probability": 1.0
+        },
+        {
+          "word": "đất",
+          "start": 145.34,
+          "end": 145.58,
+          "probability": 1.0
+        },
+        {
+          "word": "sở",
+          "start": 145.58,
+          "end": 145.82,
+          "probability": 1.0
+        },
+        {
+          "word": "hữu",
+          "start": 145.82,
+          "end": 146.06,
+          "probability": 0.999
+        },
+        {
+          "word": "vĩnh",
+          "start": 146.06,
+          "end": 146.32,
+          "probability": 1.0
+        },
+        {
+          "word": "viễn.",
+          "start": 146.32,
+          "end": 146.56,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "start": 147.04,
+      "end": 152.72,
+      "text": "Việc xin cấp phép xây cao ốc ngay vùng lõi lịch sử sau một đại án là một thách thức vô cùng khắc nghiệt.",
+      "words": [
+        {
+          "word": "Việc",
+          "start": 147.04,
+          "end": 147.46,
+          "probability": 1.0
+        },
+        {
+          "word": "xin",
+          "start": 147.46,
+          "end": 147.68,
+          "probability": 1.0
+        },
+        {
+          "word": "cấp",
+          "start": 147.68,
+          "end": 147.88,
+          "probability": 1.0
+        },
+        {
+          "word": "phép",
+          "start": 147.88,
+          "end": 148.1,
+          "probability": 1.0
+        },
+        {
+          "word": "xây",
+          "start": 148.1,
+          "end": 148.36,
+          "probability": 0.999
+        },
+        {
+          "word": "cao",
+          "start": 148.36,
+          "end": 148.6,
+          "probability": 0.985
+        },
+        {
+          "word": "ốc",
+          "start": 148.6,
+          "end": 148.74,
+          "probability": 0.998
+        },
+        {
+          "word": "ngay",
+          "start": 148.74,
+          "end": 149.02,
+          "probability": 1.0
+        },
+        {
+          "word": "vùng",
+          "start": 149.02,
+          "end": 149.26,
+          "probability": 1.0
+        },
+        {
+          "word": "lõi",
+          "start": 149.26,
+          "end": 149.52,
+          "probability": 1.0
+        },
+        {
+          "word": "lịch",
+          "start": 149.52,
+          "end": 149.72,
+          "probability": 1.0
+        },
+        {
+          "word": "sử",
+          "start": 149.72,
+          "end": 149.98,
+          "probability": 1.0
+        },
+        {
+          "word": "sau",
+          "start": 149.98,
+          "end": 150.36,
+          "probability": 0.998
+        },
+        {
+          "word": "một",
+          "start": 150.36,
+          "end": 150.54,
+          "probability": 0.995
+        },
+        {
+          "word": "đại",
+          "start": 150.54,
+          "end": 150.72,
+          "probability": 0.987
+        },
+        {
+          "word": "án",
+          "start": 150.72,
+          "end": 150.98,
+          "probability": 0.998
+        },
+        {
+          "word": "là",
+          "start": 150.98,
+          "end": 151.26,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 151.26,
+          "end": 151.4,
+          "probability": 1.0
+        },
+        {
+          "word": "thách",
+          "start": 151.4,
+          "end": 151.58,
+          "probability": 1.0
+        },
+        {
+          "word": "thức",
+          "start": 151.58,
+          "end": 151.76,
+          "probability": 0.999
+        },
+        {
+          "word": "vô",
+          "start": 151.76,
+          "end": 152.08,
+          "probability": 1.0
+        },
+        {
+          "word": "cùng",
+          "start": 152.08,
+          "end": 152.26,
+          "probability": 1.0
+        },
+        {
+          "word": "khắc",
+          "start": 152.26,
+          "end": 152.5,
+          "probability": 0.999
+        },
+        {
+          "word": "nghiệt.",
+          "start": 152.5,
+          "end": 152.72,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 153.46,
+      "end": 157.94,
+      "text": "Phải đến cuối năm 2023, thế bế tắc mới được tháo gỡ.",
+      "words": [
+        {
+          "word": "Phải",
+          "start": 153.46,
+          "end": 153.94,
+          "probability": 0.999
+        },
+        {
+          "word": "đến",
+          "start": 153.94,
+          "end": 154.08,
+          "probability": 1.0
+        },
+        {
+          "word": "cuối",
+          "start": 154.08,
+          "end": 154.34,
+          "probability": 1.0
+        },
+        {
+          "word": "năm",
+          "start": 154.34,
+          "end": 154.52,
+          "probability": 1.0
+        },
+        {
+          "word": "2023,",
+          "start": 154.52,
+          "end": 155.54,
+          "probability": 0.998
+        },
+        {
+          "word": "thế",
+          "start": 156.32,
+          "end": 156.4,
+          "probability": 0.996
+        },
+        {
+          "word": "bế",
+          "start": 156.4,
+          "end": 156.66,
+          "probability": 0.998
+        },
+        {
+          "word": "tắc",
+          "start": 156.66,
+          "end": 156.88,
+          "probability": 0.999
+        },
+        {
+          "word": "mới",
+          "start": 156.88,
+          "end": 157.24,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 157.24,
+          "end": 157.48,
+          "probability": 1.0
+        },
+        {
+          "word": "tháo",
+          "start": 157.48,
+          "end": 157.74,
+          "probability": 0.991
+        },
+        {
+          "word": "gỡ.",
+          "start": 157.74,
+          "end": 157.94,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "start": 158.94,
+      "end": 165.0,
+      "text": "PVCombank ký hợp đồng chuyển nhượng khối cổ phần với mức giá chạm đáy là 747,2 tỷ đồng.",
+      "words": [
+        {
+          "word": "PVCombank",
+          "start": 158.94,
+          "end": 159.42,
+          "probability": 0.62
+        },
+        {
+          "word": "ký",
+          "start": 159.42,
+          "end": 159.8,
+          "probability": 0.992
+        },
+        {
+          "word": "hợp",
+          "start": 159.8,
+          "end": 160.04,
+          "probability": 0.997
+        },
+        {
+          "word": "đồng",
+          "start": 160.04,
+          "end": 160.22,
+          "probability": 1.0
+        },
+        {
+          "word": "chuyển",
+          "start": 160.22,
+          "end": 160.52,
+          "probability": 0.996
+        },
+        {
+          "word": "nhượng",
+          "start": 160.52,
+          "end": 160.74,
+          "probability": 0.991
+        },
+        {
+          "word": "khối",
+          "start": 160.74,
+          "end": 160.98,
+          "probability": 0.999
+        },
+        {
+          "word": "cổ",
+          "start": 160.98,
+          "end": 161.14,
+          "probability": 0.994
+        },
+        {
+          "word": "phần",
+          "start": 161.14,
+          "end": 161.4,
+          "probability": 0.983
+        },
+        {
+          "word": "với",
+          "start": 161.4,
+          "end": 161.78,
+          "probability": 0.997
+        },
+        {
+          "word": "mức",
+          "start": 161.78,
+          "end": 162.04,
+          "probability": 1.0
+        },
+        {
+          "word": "giá",
+          "start": 162.04,
+          "end": 162.38,
+          "probability": 1.0
+        },
+        {
+          "word": "chạm",
+          "start": 162.38,
+          "end": 162.7,
+          "probability": 0.959
+        },
+        {
+          "word": "đáy",
+          "start": 162.7,
+          "end": 163.0,
+          "probability": 0.999
+        },
+        {
+          "word": "là",
+          "start": 163.0,
+          "end": 163.22,
+          "probability": 0.938
+        },
+        {
+          "word": "747",
+          "start": 163.22,
+          "end": 164.14,
+          "probability": 1.0
+        },
+        {
+          "word": ",2",
+          "start": 164.14,
+          "end": 164.64,
+          "probability": 0.998
+        },
+        {
+          "word": "tỷ",
+          "start": 164.64,
+          "end": 164.82,
+          "probability": 0.999
+        },
+        {
+          "word": "đồng.",
+          "start": 164.82,
+          "end": 165.0,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 165.4,
+      "end": 168.9,
+      "text": "Bên mua giải ngân trả trước 250 tỷ đồng tiền mặt.",
+      "words": [
+        {
+          "word": "Bên",
+          "start": 165.4,
+          "end": 165.84,
+          "probability": 0.996
+        },
+        {
+          "word": "mua",
+          "start": 165.84,
+          "end": 166.06,
+          "probability": 0.997
+        },
+        {
+          "word": "giải",
+          "start": 166.06,
+          "end": 166.28,
+          "probability": 0.993
+        },
+        {
+          "word": "ngân",
+          "start": 166.28,
+          "end": 166.52,
+          "probability": 1.0
+        },
+        {
+          "word": "trả",
+          "start": 166.52,
+          "end": 166.84,
+          "probability": 1.0
+        },
+        {
+          "word": "trước",
+          "start": 166.84,
+          "end": 167.06,
+          "probability": 0.997
+        },
+        {
+          "word": "250",
+          "start": 167.06,
+          "end": 167.8,
+          "probability": 1.0
+        },
+        {
+          "word": "tỷ",
+          "start": 167.8,
+          "end": 168.3,
+          "probability": 1.0
+        },
+        {
+          "word": "đồng",
+          "start": 168.3,
+          "end": 168.52,
+          "probability": 1.0
+        },
+        {
+          "word": "tiền",
+          "start": 168.52,
+          "end": 168.72,
+          "probability": 0.992
+        },
+        {
+          "word": "mặt.",
+          "start": 168.72,
+          "end": 168.9,
+          "probability": 0.958
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 169.3,
+      "end": 173.58,
+      "text": "Số tiền còn lại gần 500 tỷ đồng được cơ cấu thành một khoản nợ trả chậm.",
+      "words": [
+        {
+          "word": "Số",
+          "start": 169.3,
+          "end": 169.66,
+          "probability": 0.999
+        },
+        {
+          "word": "tiền",
+          "start": 169.66,
+          "end": 169.84,
+          "probability": 1.0
+        },
+        {
+          "word": "còn",
+          "start": 169.84,
+          "end": 170.02,
+          "probability": 1.0
+        },
+        {
+          "word": "lại",
+          "start": 170.02,
+          "end": 170.3,
+          "probability": 1.0
+        },
+        {
+          "word": "gần",
+          "start": 170.3,
+          "end": 170.64,
+          "probability": 0.998
+        },
+        {
+          "word": "500",
+          "start": 170.64,
+          "end": 171.06,
+          "probability": 1.0
+        },
+        {
+          "word": "tỷ",
+          "start": 171.06,
+          "end": 171.34,
+          "probability": 1.0
+        },
+        {
+          "word": "đồng",
+          "start": 171.34,
+          "end": 171.56,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 171.56,
+          "end": 171.74,
+          "probability": 1.0
+        },
+        {
+          "word": "cơ",
+          "start": 171.74,
+          "end": 171.98,
+          "probability": 1.0
+        },
+        {
+          "word": "cấu",
+          "start": 171.98,
+          "end": 172.26,
+          "probability": 1.0
+        },
+        {
+          "word": "thành",
+          "start": 172.26,
+          "end": 172.44,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 172.44,
+          "end": 172.58,
+          "probability": 0.999
+        },
+        {
+          "word": "khoản",
+          "start": 172.58,
+          "end": 172.86,
+          "probability": 0.998
+        },
+        {
+          "word": "nợ",
+          "start": 172.86,
+          "end": 173.08,
+          "probability": 0.999
+        },
+        {
+          "word": "trả",
+          "start": 173.08,
+          "end": 173.32,
+          "probability": 0.999
+        },
+        {
+          "word": "chậm.",
+          "start": 173.32,
+          "end": 173.58,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 174.36,
+      "end": 176.66,
+      "text": "Trong suốt hơn một thập kỷ dự án đình trệ,",
+      "words": [
+        {
+          "word": "Trong",
+          "start": 174.36,
+          "end": 174.84,
+          "probability": 1.0
+        },
+        {
+          "word": "suốt",
+          "start": 174.84,
+          "end": 175.04,
+          "probability": 1.0
+        },
+        {
+          "word": "hơn",
+          "start": 175.04,
+          "end": 175.24,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 175.24,
+          "end": 175.4,
+          "probability": 0.999
+        },
+        {
+          "word": "thập",
+          "start": 175.4,
+          "end": 175.6,
+          "probability": 1.0
+        },
+        {
+          "word": "kỷ",
+          "start": 175.6,
+          "end": 175.84,
+          "probability": 0.999
+        },
+        {
+          "word": "dự",
+          "start": 175.84,
+          "end": 176.08,
+          "probability": 0.996
+        },
+        {
+          "word": "án",
+          "start": 176.08,
+          "end": 176.24,
+          "probability": 1.0
+        },
+        {
+          "word": "đình",
+          "start": 176.24,
+          "end": 176.42,
+          "probability": 0.97
+        },
+        {
+          "word": "trệ,",
+          "start": 176.42,
+          "end": 176.66,
+          "probability": 0.947
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "start": 176.9,
+      "end": 181.8,
+      "text": "nhiều người tin rằng khu đất không bị giải phóng mặt bằng là nhờ sự ưu ái bảo tồn văn hóa.",
+      "words": [
+        {
+          "word": "nhiều",
+          "start": 176.9,
+          "end": 177.18,
+          "probability": 1.0
+        },
+        {
+          "word": "người",
+          "start": 177.18,
+          "end": 177.32,
+          "probability": 1.0
+        },
+        {
+          "word": "tin",
+          "start": 177.32,
+          "end": 177.5,
+          "probability": 1.0
+        },
+        {
+          "word": "rằng",
+          "start": 177.5,
+          "end": 177.74,
+          "probability": 1.0
+        },
+        {
+          "word": "khu",
+          "start": 177.74,
+          "end": 178.08,
+          "probability": 0.999
+        },
+        {
+          "word": "đất",
+          "start": 178.08,
+          "end": 178.3,
+          "probability": 1.0
+        },
+        {
+          "word": "không",
+          "start": 178.3,
+          "end": 178.62,
+          "probability": 1.0
+        },
+        {
+          "word": "bị",
+          "start": 178.62,
+          "end": 178.82,
+          "probability": 1.0
+        },
+        {
+          "word": "giải",
+          "start": 178.82,
+          "end": 179.02,
+          "probability": 1.0
+        },
+        {
+          "word": "phóng",
+          "start": 179.02,
+          "end": 179.18,
+          "probability": 1.0
+        },
+        {
+          "word": "mặt",
+          "start": 179.18,
+          "end": 179.34,
+          "probability": 0.998
+        },
+        {
+          "word": "bằng",
+          "start": 179.34,
+          "end": 179.58,
+          "probability": 0.988
+        },
+        {
+          "word": "là",
+          "start": 179.58,
+          "end": 179.92,
+          "probability": 1.0
+        },
+        {
+          "word": "nhờ",
+          "start": 179.92,
+          "end": 180.16,
+          "probability": 1.0
+        },
+        {
+          "word": "sự",
+          "start": 180.16,
+          "end": 180.36,
+          "probability": 1.0
+        },
+        {
+          "word": "ưu",
+          "start": 180.36,
+          "end": 180.66,
+          "probability": 0.995
+        },
+        {
+          "word": "ái",
+          "start": 180.66,
+          "end": 180.86,
+          "probability": 0.999
+        },
+        {
+          "word": "bảo",
+          "start": 180.86,
+          "end": 181.1,
+          "probability": 1.0
+        },
+        {
+          "word": "tồn",
+          "start": 181.1,
+          "end": 181.34,
+          "probability": 0.999
+        },
+        {
+          "word": "văn",
+          "start": 181.34,
+          "end": 181.52,
+          "probability": 1.0
+        },
+        {
+          "word": "hóa.",
+          "start": 181.52,
+          "end": 181.8,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "start": 182.71,
+      "end": 187.99,
+      "text": "Nhưng về mặt thủ tục kinh tế, việc dự án chưa thể triển khai chịu sự chi phối trực tiếp",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 182.71,
+          "end": 183.19,
+          "probability": 0.981
+        },
+        {
+          "word": "về",
+          "start": 183.19,
+          "end": 183.33,
+          "probability": 0.999
+        },
+        {
+          "word": "mặt",
+          "start": 183.33,
+          "end": 183.51,
+          "probability": 1.0
+        },
+        {
+          "word": "thủ",
+          "start": 183.51,
+          "end": 183.71,
+          "probability": 0.996
+        },
+        {
+          "word": "tục",
+          "start": 183.71,
+          "end": 183.89,
+          "probability": 1.0
+        },
+        {
+          "word": "kinh",
+          "start": 183.89,
+          "end": 184.11,
+          "probability": 0.999
+        },
+        {
+          "word": "tế,",
+          "start": 184.11,
+          "end": 184.35,
+          "probability": 1.0
+        },
+        {
+          "word": "việc",
+          "start": 184.79,
+          "end": 184.93,
+          "probability": 0.997
+        },
+        {
+          "word": "dự",
+          "start": 184.93,
+          "end": 185.15,
+          "probability": 0.999
+        },
+        {
+          "word": "án",
+          "start": 185.15,
+          "end": 185.37,
+          "probability": 1.0
+        },
+        {
+          "word": "chưa",
+          "start": 185.37,
+          "end": 185.59,
+          "probability": 1.0
+        },
+        {
+          "word": "thể",
+          "start": 185.59,
+          "end": 185.85,
+          "probability": 1.0
+        },
+        {
+          "word": "triển",
+          "start": 185.85,
+          "end": 186.13,
+          "probability": 0.999
+        },
+        {
+          "word": "khai",
+          "start": 186.13,
+          "end": 186.41,
+          "probability": 1.0
+        },
+        {
+          "word": "chịu",
+          "start": 186.41,
+          "end": 186.71,
+          "probability": 0.946
+        },
+        {
+          "word": "sự",
+          "start": 186.71,
+          "end": 187.01,
+          "probability": 0.986
+        },
+        {
+          "word": "chi",
+          "start": 187.01,
+          "end": 187.27,
+          "probability": 0.663
+        },
+        {
+          "word": "phối",
+          "start": 187.27,
+          "end": 187.55,
+          "probability": 0.999
+        },
+        {
+          "word": "trực",
+          "start": 187.55,
+          "end": 187.79,
+          "probability": 1.0
+        },
+        {
+          "word": "tiếp",
+          "start": 187.79,
+          "end": 187.99,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "start": 187.99,
+      "end": 194.99,
+      "text": "từ tiến trình xử lý tài sản bảo đảm và các quy trình pháp lý liên quan đến khoản nợ xấu 747 tỷ đồng tại ngân hàng.",
+      "words": [
+        {
+          "word": "từ",
+          "start": 187.99,
+          "end": 188.21,
+          "probability": 0.997
+        },
+        {
+          "word": "tiến",
+          "start": 188.21,
+          "end": 188.53,
+          "probability": 0.998
+        },
+        {
+          "word": "trình",
+          "start": 188.53,
+          "end": 188.75,
+          "probability": 0.998
+        },
+        {
+          "word": "xử",
+          "start": 188.75,
+          "end": 189.01,
+          "probability": 1.0
+        },
+        {
+          "word": "lý",
+          "start": 189.01,
+          "end": 189.15,
+          "probability": 1.0
+        },
+        {
+          "word": "tài",
+          "start": 189.15,
+          "end": 189.41,
+          "probability": 1.0
+        },
+        {
+          "word": "sản",
+          "start": 189.41,
+          "end": 189.65,
+          "probability": 1.0
+        },
+        {
+          "word": "bảo",
+          "start": 189.65,
+          "end": 189.93,
+          "probability": 0.996
+        },
+        {
+          "word": "đảm",
+          "start": 189.93,
+          "end": 190.21,
+          "probability": 1.0
+        },
+        {
+          "word": "và",
+          "start": 190.21,
+          "end": 190.45,
+          "probability": 0.999
+        },
+        {
+          "word": "các",
+          "start": 190.45,
+          "end": 190.63,
+          "probability": 1.0
+        },
+        {
+          "word": "quy",
+          "start": 190.63,
+          "end": 190.79,
+          "probability": 1.0
+        },
+        {
+          "word": "trình",
+          "start": 190.79,
+          "end": 191.01,
+          "probability": 1.0
+        },
+        {
+          "word": "pháp",
+          "start": 191.01,
+          "end": 191.25,
+          "probability": 1.0
+        },
+        {
+          "word": "lý",
+          "start": 191.25,
+          "end": 191.41,
+          "probability": 1.0
+        },
+        {
+          "word": "liên",
+          "start": 191.41,
+          "end": 191.73,
+          "probability": 1.0
+        },
+        {
+          "word": "quan",
+          "start": 191.73,
+          "end": 191.95,
+          "probability": 1.0
+        },
+        {
+          "word": "đến",
+          "start": 191.95,
+          "end": 192.11,
+          "probability": 1.0
+        },
+        {
+          "word": "khoản",
+          "start": 192.11,
+          "end": 192.37,
+          "probability": 0.933
+        },
+        {
+          "word": "nợ",
+          "start": 192.37,
+          "end": 192.63,
+          "probability": 0.999
+        },
+        {
+          "word": "xấu",
+          "start": 192.63,
+          "end": 192.89,
+          "probability": 0.768
+        },
+        {
+          "word": "747",
+          "start": 192.89,
+          "end": 193.93,
+          "probability": 1.0
+        },
+        {
+          "word": "tỷ",
+          "start": 193.93,
+          "end": 194.25,
+          "probability": 0.999
+        },
+        {
+          "word": "đồng",
+          "start": 194.25,
+          "end": 194.45,
+          "probability": 1.0
+        },
+        {
+          "word": "tại",
+          "start": 194.45,
+          "end": 194.65,
+          "probability": 0.999
+        },
+        {
+          "word": "ngân",
+          "start": 194.65,
+          "end": 194.83,
+          "probability": 0.964
+        },
+        {
+          "word": "hàng.",
+          "start": 194.83,
+          "end": 194.99,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "start": 195.86,
+      "end": 201.78,
+      "text": "Tình trạng pháp lý phong tỏa tài sản sau đại án đã vô tình tạo ra một khoảng thời gian gián đoạn kéo dài.",
+      "words": [
+        {
+          "word": "Tình",
+          "start": 195.86,
+          "end": 196.3,
+          "probability": 0.981
+        },
+        {
+          "word": "trạng",
+          "start": 196.3,
+          "end": 196.5,
+          "probability": 1.0
+        },
+        {
+          "word": "pháp",
+          "start": 196.5,
+          "end": 196.7,
+          "probability": 1.0
+        },
+        {
+          "word": "lý",
+          "start": 196.7,
+          "end": 196.88,
+          "probability": 1.0
+        },
+        {
+          "word": "phong",
+          "start": 196.88,
+          "end": 197.14,
+          "probability": 0.999
+        },
+        {
+          "word": "tỏa",
+          "start": 197.14,
+          "end": 197.46,
+          "probability": 0.999
+        },
+        {
+          "word": "tài",
+          "start": 197.46,
+          "end": 197.66,
+          "probability": 0.999
+        },
+        {
+          "word": "sản",
+          "start": 197.66,
+          "end": 198.0,
+          "probability": 1.0
+        },
+        {
+          "word": "sau",
+          "start": 198.0,
+          "end": 198.4,
+          "probability": 0.998
+        },
+        {
+          "word": "đại",
+          "start": 198.4,
+          "end": 198.58,
+          "probability": 0.968
+        },
+        {
+          "word": "án",
+          "start": 198.58,
+          "end": 198.84,
+          "probability": 0.998
+        },
+        {
+          "word": "đã",
+          "start": 198.84,
+          "end": 199.0,
+          "probability": 0.999
+        },
+        {
+          "word": "vô",
+          "start": 199.0,
+          "end": 199.28,
+          "probability": 1.0
+        },
+        {
+          "word": "tình",
+          "start": 199.28,
+          "end": 199.48,
+          "probability": 1.0
+        },
+        {
+          "word": "tạo",
+          "start": 199.48,
+          "end": 199.78,
+          "probability": 1.0
+        },
+        {
+          "word": "ra",
+          "start": 199.78,
+          "end": 199.96,
+          "probability": 1.0
+        },
+        {
+          "word": "một",
+          "start": 199.96,
+          "end": 200.12,
+          "probability": 0.999
+        },
+        {
+          "word": "khoảng",
+          "start": 200.12,
+          "end": 200.4,
+          "probability": 1.0
+        },
+        {
+          "word": "thời",
+          "start": 200.4,
+          "end": 200.66,
+          "probability": 1.0
+        },
+        {
+          "word": "gian",
+          "start": 200.66,
+          "end": 200.9,
+          "probability": 1.0
+        },
+        {
+          "word": "gián",
+          "start": 200.9,
+          "end": 201.16,
+          "probability": 0.961
+        },
+        {
+          "word": "đoạn",
+          "start": 201.16,
+          "end": 201.36,
+          "probability": 1.0
+        },
+        {
+          "word": "kéo",
+          "start": 201.36,
+          "end": 201.56,
+          "probability": 1.0
+        },
+        {
+          "word": "dài.",
+          "start": 201.56,
+          "end": 201.78,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "start": 202.26,
+      "end": 207.46,
+      "text": "Chừng nào việc xử lý nợ tín dụng chưa hoàn tất, chừng đó dự án xây dựng mới chưa thể tiến hành.",
+      "words": [
+        {
+          "word": "Chừng",
+          "start": 202.26,
+          "end": 202.6,
+          "probability": 0.849
+        },
+        {
+          "word": "nào",
+          "start": 202.6,
+          "end": 202.8,
+          "probability": 1.0
+        },
+        {
+          "word": "việc",
+          "start": 202.8,
+          "end": 203.02,
+          "probability": 1.0
+        },
+        {
+          "word": "xử",
+          "start": 203.02,
+          "end": 203.28,
+          "probability": 1.0
+        },
+        {
+          "word": "lý",
+          "start": 203.28,
+          "end": 203.38,
+          "probability": 1.0
+        },
+        {
+          "word": "nợ",
+          "start": 203.38,
+          "end": 203.62,
+          "probability": 1.0
+        },
+        {
+          "word": "tín",
+          "start": 203.62,
+          "end": 203.92,
+          "probability": 0.989
+        },
+        {
+          "word": "dụng",
+          "start": 203.92,
+          "end": 204.18,
+          "probability": 1.0
+        },
+        {
+          "word": "chưa",
+          "start": 204.18,
+          "end": 204.42,
+          "probability": 1.0
+        },
+        {
+          "word": "hoàn",
+          "start": 204.42,
+          "end": 204.66,
+          "probability": 1.0
+        },
+        {
+          "word": "tất,",
+          "start": 204.66,
+          "end": 204.88,
+          "probability": 0.999
+        },
+        {
+          "word": "chừng",
+          "start": 205.12,
+          "end": 205.3,
+          "probability": 0.989
+        },
+        {
+          "word": "đó",
+          "start": 205.3,
+          "end": 205.52,
+          "probability": 0.999
+        },
+        {
+          "word": "dự",
+          "start": 205.52,
+          "end": 205.74,
+          "probability": 1.0
+        },
+        {
+          "word": "án",
+          "start": 205.74,
+          "end": 205.92,
+          "probability": 1.0
+        },
+        {
+          "word": "xây",
+          "start": 205.92,
+          "end": 206.12,
+          "probability": 1.0
+        },
+        {
+          "word": "dựng",
+          "start": 206.12,
+          "end": 206.3,
+          "probability": 1.0
+        },
+        {
+          "word": "mới",
+          "start": 206.3,
+          "end": 206.52,
+          "probability": 1.0
+        },
+        {
+          "word": "chưa",
+          "start": 206.52,
+          "end": 206.82,
+          "probability": 1.0
+        },
+        {
+          "word": "thể",
+          "start": 206.82,
+          "end": 207.02,
+          "probability": 1.0
+        },
+        {
+          "word": "tiến",
+          "start": 207.02,
+          "end": 207.26,
+          "probability": 1.0
+        },
+        {
+          "word": "hành.",
+          "start": 207.26,
+          "end": 207.46,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "start": 207.86,
+      "end": 212.04,
+      "text": "Để tối ưu hóa nguồn thu và tránh lãng phí mặt bằng trong giai đoạn chờ xử lý,",
+      "words": [
+        {
+          "word": "Để",
+          "start": 207.86,
+          "end": 208.22,
+          "probability": 0.998
+        },
+        {
+          "word": "tối",
+          "start": 208.22,
+          "end": 208.42,
+          "probability": 0.999
+        },
+        {
+          "word": "ưu",
+          "start": 208.42,
+          "end": 208.62,
+          "probability": 0.999
+        },
+        {
+          "word": "hóa",
+          "start": 208.62,
+          "end": 208.8,
+          "probability": 0.995
+        },
+        {
+          "word": "nguồn",
+          "start": 208.8,
+          "end": 209.02,
+          "probability": 1.0
+        },
+        {
+          "word": "thu",
+          "start": 209.02,
+          "end": 209.2,
+          "probability": 0.999
+        },
+        {
+          "word": "và",
+          "start": 209.2,
+          "end": 209.6,
+          "probability": 1.0
+        },
+        {
+          "word": "tránh",
+          "start": 209.6,
+          "end": 209.9,
+          "probability": 1.0
+        },
+        {
+          "word": "lãng",
+          "start": 209.9,
+          "end": 210.16,
+          "probability": 1.0
+        },
+        {
+          "word": "phí",
+          "start": 210.16,
+          "end": 210.36,
+          "probability": 1.0
+        },
+        {
+          "word": "mặt",
+          "start": 210.36,
+          "end": 210.56,
+          "probability": 1.0
+        },
+        {
+          "word": "bằng",
+          "start": 210.56,
+          "end": 210.8,
+          "probability": 0.997
+        },
+        {
+          "word": "trong",
+          "start": 210.8,
+          "end": 211.06,
+          "probability": 1.0
+        },
+        {
+          "word": "giai",
+          "start": 211.06,
+          "end": 211.3,
+          "probability": 1.0
+        },
+        {
+          "word": "đoạn",
+          "start": 211.3,
+          "end": 211.46,
+          "probability": 1.0
+        },
+        {
+          "word": "chờ",
+          "start": 211.46,
+          "end": 211.68,
+          "probability": 0.965
+        },
+        {
+          "word": "xử",
+          "start": 211.68,
+          "end": 211.86,
+          "probability": 1.0
+        },
+        {
+          "word": "lý,",
+          "start": 211.86,
+          "end": 212.04,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "start": 212.4,
+      "end": 217.42,
+      "text": "đơn vị quản lý tiếp tục duy trì hợp đồng cho công ty cổ phần kem tràng tiền thuê lại địa điểm.",
+      "words": [
+        {
+          "word": "đơn",
+          "start": 212.4,
+          "end": 212.56,
+          "probability": 0.997
+        },
+        {
+          "word": "vị",
+          "start": 212.56,
+          "end": 212.72,
+          "probability": 1.0
+        },
+        {
+          "word": "quản",
+          "start": 212.72,
+          "end": 213.04,
+          "probability": 0.998
+        },
+        {
+          "word": "lý",
+          "start": 213.04,
+          "end": 213.22,
+          "probability": 1.0
+        },
+        {
+          "word": "tiếp",
+          "start": 213.22,
+          "end": 213.48,
+          "probability": 1.0
+        },
+        {
+          "word": "tục",
+          "start": 213.48,
+          "end": 213.66,
+          "probability": 1.0
+        },
+        {
+          "word": "duy",
+          "start": 213.66,
+          "end": 213.86,
+          "probability": 1.0
+        },
+        {
+          "word": "trì",
+          "start": 213.86,
+          "end": 214.12,
+          "probability": 1.0
+        },
+        {
+          "word": "hợp",
+          "start": 214.12,
+          "end": 214.38,
+          "probability": 1.0
+        },
+        {
+          "word": "đồng",
+          "start": 214.38,
+          "end": 214.58,
+          "probability": 1.0
+        },
+        {
+          "word": "cho",
+          "start": 214.58,
+          "end": 214.8,
+          "probability": 1.0
+        },
+        {
+          "word": "công",
+          "start": 214.8,
+          "end": 215.02,
+          "probability": 0.934
+        },
+        {
+          "word": "ty",
+          "start": 215.02,
+          "end": 215.2,
+          "probability": 1.0
+        },
+        {
+          "word": "cổ",
+          "start": 215.2,
+          "end": 215.48,
+          "probability": 0.989
+        },
+        {
+          "word": "phần",
+          "start": 215.48,
+          "end": 215.72,
+          "probability": 0.976
+        },
+        {
+          "word": "kem",
+          "start": 215.72,
+          "end": 215.96,
+          "probability": 0.949
+        },
+        {
+          "word": "tràng",
+          "start": 215.96,
+          "end": 216.16,
+          "probability": 0.776
+        },
+        {
+          "word": "tiền",
+          "start": 216.16,
+          "end": 216.44,
+          "probability": 0.999
+        },
+        {
+          "word": "thuê",
+          "start": 216.44,
+          "end": 216.82,
+          "probability": 1.0
+        },
+        {
+          "word": "lại",
+          "start": 216.82,
+          "end": 217.04,
+          "probability": 1.0
+        },
+        {
+          "word": "địa",
+          "start": 217.04,
+          "end": 217.24,
+          "probability": 1.0
+        },
+        {
+          "word": "điểm.",
+          "start": 217.24,
+          "end": 217.42,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "start": 217.94,
+      "end": 221.72,
+      "text": "Nhờ đó, không gian phục vụ kem truyền thống vẫn được duy trì liên tục.",
+      "words": [
+        {
+          "word": "Nhờ",
+          "start": 217.94,
+          "end": 218.2,
+          "probability": 0.996
+        },
+        {
+          "word": "đó,",
+          "start": 218.2,
+          "end": 218.42,
+          "probability": 1.0
+        },
+        {
+          "word": "không",
+          "start": 218.84,
+          "end": 218.96,
+          "probability": 1.0
+        },
+        {
+          "word": "gian",
+          "start": 218.96,
+          "end": 219.2,
+          "probability": 1.0
+        },
+        {
+          "word": "phục",
+          "start": 219.2,
+          "end": 219.4,
+          "probability": 0.999
+        },
+        {
+          "word": "vụ",
+          "start": 219.4,
+          "end": 219.54,
+          "probability": 1.0
+        },
+        {
+          "word": "kem",
+          "start": 219.54,
+          "end": 219.76,
+          "probability": 1.0
+        },
+        {
+          "word": "truyền",
+          "start": 219.76,
+          "end": 220.02,
+          "probability": 1.0
+        },
+        {
+          "word": "thống",
+          "start": 220.02,
+          "end": 220.24,
+          "probability": 1.0
+        },
+        {
+          "word": "vẫn",
+          "start": 220.24,
+          "end": 220.56,
+          "probability": 1.0
+        },
+        {
+          "word": "được",
+          "start": 220.56,
+          "end": 220.78,
+          "probability": 1.0
+        },
+        {
+          "word": "duy",
+          "start": 220.78,
+          "end": 221.02,
+          "probability": 1.0
+        },
+        {
+          "word": "trì",
+          "start": 221.02,
+          "end": 221.3,
+          "probability": 1.0
+        },
+        {
+          "word": "liên",
+          "start": 221.3,
+          "end": 221.54,
+          "probability": 1.0
+        },
+        {
+          "word": "tục.",
+          "start": 221.54,
+          "end": 221.72,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "start": 222.56,
+      "end": 225.66,
+      "text": "Nhưng việc duy trì tạm thời không thể kéo dài mãi mãi.",
+      "words": [
+        {
+          "word": "Nhưng",
+          "start": 222.56,
+          "end": 223.04,
+          "probability": 0.896
+        },
+        {
+          "word": "việc",
+          "start": 223.04,
+          "end": 223.2,
+          "probability": 1.0
+        },
+        {
+          "word": "duy",
+          "start": 223.2,
+          "end": 223.36,
+          "probability": 1.0
+        },
+        {
+          "word": "trì",
+          "start": 223.36,
+          "end": 223.58,
+          "probability": 1.0
+        },
+        {
+          "word": "tạm",
+          "start": 223.58,
+          "end": 223.86,
+          "probability": 1.0
+        },
+        {
+          "word": "thời",
+          "start": 223.86,
+          "end": 224.08,
+          "probability": 1.0
+        },
+        {
+          "word": "không",
+          "start": 224.08,
+          "end": 224.36,
+          "probability": 0.998
+        },
+        {
+          "word": "thể",
+          "start": 224.36,
+          "end": 224.6,
+          "probability": 1.0
+        },
+        {
+          "word": "kéo",
+          "start": 224.6,
+          "end": 224.86,
+          "probability": 1.0
+        },
+        {
+          "word": "dài",
+          "start": 224.86,
+          "end": 225.12,
+          "probability": 1.0
+        },
+        {
+          "word": "mãi",
+          "start": 225.12,
+          "end": 225.36,
+          "probability": 1.0
+        },
+        {
+          "word": "mãi.",
+          "start": 225.36,
+          "end": 225.66,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "start": 225.98,
+      "end": 230.72,
+      "text": "Khi bền mua hoàn tất nghĩa vụ tài chính để chính thức tiếp nhận quyền quản lý công ty ôm đất,",
+      "words": [
+        {
+          "word": "Khi",
+          "start": 225.98,
+          "end": 226.46,
+          "probability": 0.999
+        },
+        {
+          "word": "bền",
+          "start": 226.46,
+          "end": 226.7,
+          "probability": 0.675
+        },
+        {
+          "word": "mua",
+          "start": 226.7,
+          "end": 226.94,
+          "probability": 0.858
+        },
+        {
+          "word": "hoàn",
+          "start": 226.94,
+          "end": 227.18,
+          "probability": 1.0
+        },
+        {
+          "word": "tất",
+          "start": 227.18,
+          "end": 227.38,
+          "probability": 0.999
+        },
+        {
+          "word": "nghĩa",
+          "start": 227.38,
+          "end": 227.58,
+          "probability": 0.987
+        },
+        {
+          "word": "vụ",
+          "start": 227.58,
+          "end": 227.72,
+          "probability": 1.0
+        },
+        {
+          "word": "tài",
+          "start": 227.72,
+          "end": 227.96,
+          "probability": 1.0
+        },
+        {
+          "word": "chính",
+          "start": 227.96,
+          "end": 228.2,
+          "probability": 1.0
+        },
+        {
+          "word": "để",
+          "start": 228.2,
+          "end": 228.56,
+          "probability": 0.991
+        },
+        {
+          "word": "chính",
+          "start": 228.56,
+          "end": 228.84,
+          "probability": 1.0
+        },
+        {
+          "word": "thức",
+          "start": 228.84,
+          "end": 229.06,
+          "probability": 1.0
+        },
+        {
+          "word": "tiếp",
+          "start": 229.06,
+          "end": 229.22,
+          "probability": 1.0
+        },
+        {
+          "word": "nhận",
+          "start": 229.22,
+          "end": 229.46,
+          "probability": 1.0
+        },
+        {
+          "word": "quyền",
+          "start": 229.46,
+          "end": 229.72,
+          "probability": 1.0
+        },
+        {
+          "word": "quản",
+          "start": 229.72,
+          "end": 229.9,
+          "probability": 0.996
+        },
+        {
+          "word": "lý",
+          "start": 229.9,
+          "end": 230.04,
+          "probability": 1.0
+        },
+        {
+          "word": "công",
+          "start": 230.04,
+          "end": 230.18,
+          "probability": 0.994
+        },
+        {
+          "word": "ty",
+          "start": 230.18,
+          "end": 230.34,
+          "probability": 1.0
+        },
+        {
+          "word": "ôm",
+          "start": 230.34,
+          "end": 230.56,
+          "probability": 0.991
+        },
+        {
+          "word": "đất,",
+          "start": 230.56,
+          "end": 230.72,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "start": 231.08,
+      "end": 233.18,
+      "text": "giai đoạn xử lý nợ xấu sẽ khép lại.",
+      "words": [
+        {
+          "word": "giai",
+          "start": 231.08,
+          "end": 231.24,
+          "probability": 0.999
+        },
+        {
+          "word": "đoạn",
+          "start": 231.24,
+          "end": 231.36,
+          "probability": 1.0
+        },
+        {
+          "word": "xử",
+          "start": 231.36,
+          "end": 231.62,
+          "probability": 1.0
+        },
+        {
+          "word": "lý",
+          "start": 231.62,
+          "end": 231.82,
+          "probability": 1.0
+        },
+        {
+          "word": "nợ",
+          "start": 231.82,
+          "end": 232.04,
+          "probability": 0.999
+        },
+        {
+          "word": "xấu",
+          "start": 232.04,
+          "end": 232.36,
+          "probability": 0.989
+        },
+        {
+          "word": "sẽ",
+          "start": 232.36,
+          "end": 232.74,
+          "probability": 1.0
+        },
+        {
+          "word": "khép",
+          "start": 232.74,
+          "end": 232.96,
+          "probability": 0.998
+        },
+        {
+          "word": "lại.",
+          "start": 232.96,
+          "end": 233.18,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "start": 233.48,
+      "end": 239.48,
+      "text": "Và bước ngoặt định mệnh đó đã diễn ra vào ngày 22 tháng 4 năm 2026.",
+      "words": [
+        {
+          "word": "Và",
+          "start": 233.48,
+          "end": 233.96,
+          "probability": 0.998
+        },
+        {
+          "word": "bước",
+          "start": 233.96,
+          "end": 234.16,
+          "probability": 0.997
+        },
+        {
+          "word": "ngoặt",
+          "start": 234.16,
+          "end": 234.36,
+          "probability": 0.844
+        },
+        {
+          "word": "định",
+          "start": 234.36,
+          "end": 234.58,
+          "probability": 1.0
+        },
+        {
+          "word": "mệnh",
+          "start": 234.58,
+          "end": 234.82,
+          "probability": 0.999
+        },
+        {
+          "word": "đó",
+          "start": 234.82,
+          "end": 235.04,
+          "probability": 1.0
+        },
+        {
+          "word": "đã",
+          "start": 235.04,
+          "end": 235.3,
+          "probability": 1.0
+        },
+        {
+          "word": "diễn",
+          "start": 235.3,
+          "end": 235.66,
+          "probability": 1.0
+        },
+        {
+          "word": "ra",
+          "start": 235.66,
+          "end": 235.92,
+          "probability": 1.0
+        },
+        {
+          "word": "vào",
+          "start": 235.92,
+          "end": 236.34,
+          "probability": 1.0
+        },
+        {
+          "word": "ngày",
+          "start": 236.34,
+          "end": 236.54,
+          "probability": 1.0
+        },
+        {
+          "word": "22",
+          "start": 236.54,
+          "end": 237.06,
+          "probability": 1.0
+        },
+        {
+          "word": "tháng",
+          "start": 237.06,
+          "end": 237.36,
+          "probability": 0.997
+        },
+        {
+          "word": "4",
+          "start": 237.36,
+          "end": 237.62,
+          "probability": 1.0
+        },
+        {
+          "word": "năm",
+          "start": 237.62,
+          "end": 238.02,
+          "probability": 0.996
+        },
+        {
+          "word": "2026.",
+          "start": 238.02,
+          "end": 239.48,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "start": 240.08,
+      "end": 243.02,
+      "text": "Dòng tiền nào đã giải tỏa nghĩa vụ nợ cho khu đất vàng?",
+      "words": [
+        {
+          "word": "Dòng",
+          "start": 240.08,
+          "end": 240.44,
+          "probability": 0.982
+        },
+        {
+          "word": "tiền",
+          "start": 240.44,
+          "end": 240.66,
+          "probability": 0.997
+        },
+        {
+          "word": "nào",
+          "start": 240.66,
+          "end": 240.82,
+          "probability": 0.994
+        },
+        {
+          "word": "đã",
+          "start": 240.82,
+          "end": 241.0,
+          "probability": 1.0
+        },
+        {
+          "word": "giải",
+          "start": 241.0,
+          "end": 241.22,
+          "probability": 0.999
+        },
+        {
+          "word": "tỏa",
+          "start": 241.22,
+          "end": 241.52,
+          "probability": 0.994
+        },
+        {
+          "word": "nghĩa",
+          "start": 241.52,
+          "end": 241.7,
+          "probability": 1.0
+        },
+        {
+          "word": "vụ",
+          "start": 241.7,
+          "end": 241.84,
+          "probability": 1.0
+        },
+        {
+          "word": "nợ",
+          "start": 241.84,
+          "end": 242.12,
+          "probability": 1.0
+        },
+        {
+          "word": "cho",
+          "start": 242.12,
+          "end": 242.34,
+          "probability": 1.0
+        },
+        {
+          "word": "khu",
+          "start": 242.34,
+          "end": 242.56,
+          "probability": 0.989
+        },
+        {
+          "word": "đất",
+          "start": 242.56,
+          "end": 242.72,
+          "probability": 0.997
+        },
+        {
+          "word": "vàng?",
+          "start": 242.72,
+          "end": 243.02,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "start": 243.28,
+      "end": 245.74,
+      "text": "Chúng ta sẽ cùng giải mã ở chương tiếp theo.",
+      "words": [
+        {
+          "word": "Chúng",
+          "start": 243.28,
+          "end": 243.74,
+          "probability": 1.0
+        },
+        {
+          "word": "ta",
+          "start": 243.74,
+          "end": 243.88,
+          "probability": 1.0
+        },
+        {
+          "word": "sẽ",
+          "start": 243.88,
+          "end": 244.06,
+          "probability": 0.999
+        },
+        {
+          "word": "cùng",
+          "start": 244.06,
+          "end": 244.28,
+          "probability": 1.0
+        },
+        {
+          "word": "giải",
+          "start": 244.28,
+          "end": 244.52,
+          "probability": 0.995
+        },
+        {
+          "word": "mã",
+          "start": 244.52,
+          "end": 244.74,
+          "probability": 0.832
+        },
+        {
+          "word": "ở",
+          "start": 244.74,
+          "end": 245.08,
+          "probability": 0.99
+        },
+        {
+          "word": "chương",
+          "start": 245.08,
+          "end": 245.34,
+          "probability": 0.823
+        },
+        {
+          "word": "tiếp",
+          "start": 245.34,
+          "end": 245.56,
+          "probability": 0.999
+        },
+        {
+          "word": "theo.",
+          "start": 245.56,
+          "end": 245.74,
+          "probability": 1.0
+        }
+      ]
+    }
+  ]
+}

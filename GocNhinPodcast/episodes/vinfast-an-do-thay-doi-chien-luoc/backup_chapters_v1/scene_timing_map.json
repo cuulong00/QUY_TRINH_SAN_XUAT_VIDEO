@@ -1,0 +1,3230 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "text_overlay": "",
+    "visual_summary": "Trong giới sản xuất ô tô toàn cầu",
+    "sentences": [
+      "Trong giới sản xuất ô tô toàn cầu"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "thị trường Ấn Độ từ lâu đã được ví như một chiếc cối xay khổng lồ và tàn nhẫn.",
+    "sentences": [
+      "thị trường Ấn Độ từ lâu đã được ví như một chiếc cối xay khổng lồ và tàn nhẫn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Nơi đây từng nghiền nát tham vọng của những đế chế hàng đầu thế giới, từ Ford cho đến General Motors.",
+    "sentences": [
+      "Nơi đây từng nghiền nát tham vọng của những đế chế hàng đầu thế giới, từ Ford cho đến General Motors."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Quy luật sinh tồn ở vùng đất này cực kỳ khắc nghiệt",
+    "sentences": [
+      "Quy luật sinh tồn ở vùng đất này cực kỳ khắc nghiệt"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "chỉ cần sai lầm một chút về bài toán chi phí, bạn sẽ bị đào thải không thương tiếc.",
+    "sentences": [
+      "chỉ cần sai lầm một chút về bài toán chi phí, bạn sẽ bị đào thải không thương tiếc."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, chính tại cối xay khắc nghiệt ấy, một tân binh đến từ Việt Nam lại vừa tạo nên một bất ngờ khó tin.",
+    "sentences": [
+      "Thế nhưng, chính tại cối xay khắc nghiệt ấy, một tân binh đến từ Việt Nam lại vừa tạo nên một bất ngờ khó tin."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Tháng 8 năm 2026, doanh số xe điện của VinFast bất ngờ tăng vọt lên gần 2.200 chiếc, chiếm hơn 7% thị phần.",
+    "sentences": [
+      "Tháng 8 năm 2026, doanh số xe điện của VinFast bất ngờ tăng vọt lên gần 2.200 chiếc, chiếm hơn 7% thị phần."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Họ vượt qua cả ông lớn Maruti Suzuki để đứng vững ở vị trí thứ tư toàn quốc",
+    "sentences": [
+      "Họ vượt qua cả ông lớn Maruti Suzuki để đứng vững ở vị trí thứ tư toàn quốc"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "trong khi cả nghìn chiếc xe Green SM Limo phủ xanh thủ đô New Delhi.",
+    "sentences": [
+      "trong khi cả nghìn chiếc xe Green SM Limo phủ xanh thủ đô New Delhi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Giữa vòng vây của Tata Motors chiếm 44% thị phần và liên minh MG bám đuổi quyết liệt",
+    "sentences": [
+      "Giữa vòng vây của Tata Motors chiếm 44% thị phần và liên minh MG bám đuổi quyết liệt"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "đà bứt phá của VinFast giống như một kỳ tích.",
+    "sentences": [
+      "đà bứt phá của VinFast giống như một kỳ tích."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, ngay giữa lúc đang trên đà thắng thế, một bức thư nội bộ từ VinFast lại khiến cả thị trường ngỡ ngàng.",
+    "sentences": [
+      "Thế nhưng, ngay giữa lúc đang trên đà thắng thế, một bức thư nội bộ từ VinFast lại khiến cả thị trường ngỡ ngàng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Họ bất ngờ yêu cầu hơn 300 nhà cung cấp linh kiện tại Ấn Độ lập tức dừng hoạt động cho cả VF 3",
+    "sentences": [
+      "Họ bất ngờ yêu cầu hơn 300 nhà cung cấp linh kiện tại Ấn Độ lập tức dừng hoạt động cho cả VF 3"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "text_overlay": "",
+    "visual_summary": "VF 6 và VF 7.",
+    "sentences": [
+      "VF 6 và VF 7."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Liệu hào quang của những con số tăng trưởng kỷ lục có đang che",
+    "sentences": [
+      "Liệu hào quang của những con số tăng trưởng kỷ lục có đang che"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "giấu một miệng vực tài chính mà chỉ người trong cuộc mới thấu suốt?",
+    "sentences": [
+      "giấu một miệng vực tài chính mà chỉ người trong cuộc mới thấu suốt?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Hay bên trong chiếc cối xay từng chôn vùi cả Ford lẫn GM",
+    "sentences": [
+      "Hay bên trong chiếc cối xay từng chôn vùi cả Ford lẫn GM"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "người Việt Nam vừa nhìn ra một quy luật sinh tử nằm ngoài mọi bản báo cáo thị trường?",
+    "sentences": [
+      "người Việt Nam vừa nhìn ra một quy luật sinh tử nằm ngoài mọi bản báo cáo thị trường?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Đó không phải là một tin đồn thất thiệt.",
+    "sentences": [
+      "Đó không phải là một tin đồn thất thiệt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Giữa tháng 7 năm 2026, văn bản nội bộ từ VinFast đã thực sự được gửi",
+    "sentences": [
+      "Giữa tháng 7 năm 2026, văn bản nội bộ từ VinFast đã thực sự được gửi"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "tới bàn làm việc của hơn ba trăm giám đốc chuỗi cung ứng khắp Ấn Độ.",
+    "sentences": [
+      "tới bàn làm việc của hơn ba trăm giám đốc chuỗi cung ứng khắp Ấn Độ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Mệnh lệnh được đưa ra cực kỳ ngắn gọn và dứt khoát",
+    "sentences": [
+      "Mệnh lệnh được đưa ra cực kỳ ngắn gọn và dứt khoát"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Tạm dừng toàn bộ hoạt động phát triển linh kiện cho cả ba mẫu xe.",
+    "sentences": [
+      "Tạm dừng toàn bộ hoạt động phát triển linh kiện cho cả ba mẫu xe."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Đi kèm với đó là yêu cầu các đối tác lập tức nộp lại bảng",
+    "sentences": [
+      "Đi kèm với đó là yêu cầu các đối tác lập tức nộp lại bảng"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "kê khai chi phí khuôn dập và nghiên cứu kỹ thuật để tiến hành bồi hoàn.",
+    "sentences": [
+      "kê khai chi phí khuôn dập và nghiên cứu kỹ thuật để tiến hành bồi hoàn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Đối với giới công nghiệp ô tô Nam Á, đây chẳng khác nào một hồi còi báo động khẩn cấp.",
+    "sentences": [
+      "Đối với giới công nghiệp ô tô Nam Á, đây chẳng khác nào một hồi còi báo động khẩn cấp."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Bởi trong ngành xe, việc đột ngột dừng hợp đồng linh kiện ngay trước thềm sản xuất lớn thường chỉ báo hiệu một điều",
+    "sentences": [
+      "Bởi trong ngành xe, việc đột ngột dừng hợp đồng linh kiện ngay trước thềm sản xuất lớn thường chỉ báo hiệu một điều"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC028",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "text_overlay": "",
+    "visual_summary": "Dự án đã vỡ trận.",
+    "sentences": [
+      "Dự án đã vỡ trận."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Hàng loạt trang tin tài chính quốc tế lập tức đặt dấu hỏi về tương lai của tổ hợp Thoothukudi.",
+    "sentences": [
+      "Hàng loạt trang tin tài chính quốc tế lập tức đặt dấu hỏi về tương lai của tổ hợp Thoothukudi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, chiếc còi báo động ấy lại vang lên giữa lúc cỗ máy thương mại",
+    "sentences": [
+      "Thế nhưng, chiếc còi báo động ấy lại vang lên giữa lúc cỗ máy thương mại"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC031",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "của VinFast đang đạt tốc độ nhanh nhất kể từ khi bước chân vào Ấn Độ.",
+    "sentences": [
+      "của VinFast đang đạt tốc độ nhanh nhất kể từ khi bước chân vào Ấn Độ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC032",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Tổ hợp tại bang Tamil Nadu không hề đóng cửa như những lời đồn đoán.",
+    "sentences": [
+      "Tổ hợp tại bang Tamil Nadu không hề đóng cửa như những lời đồn đoán."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC033",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Hơn ba nghìn năm trăm công nhân địa phương vẫn đang làm việc nhịp nhàng trên các dây chuyền lắp ráp.",
+    "sentences": [
+      "Hơn ba nghìn năm trăm công nhân địa phương vẫn đang làm việc nhịp nhàng trên các dây chuyền lắp ráp."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC034",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Trên băng chuyền cơ khí, những tấm thép dập thân vỏ xe vẫn được robot hàn gắp nối liên tục.",
+    "sentences": [
+      "Trên băng chuyền cơ khí, những tấm thép dập thân vỏ xe vẫn được robot hàn gắp nối liên tục."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC035",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Những chuyến tàu biển từ Cát Hải vẫn đều đặn cập cảng Tuticorin",
+    "sentences": [
+      "Những chuyến tàu biển từ Cát Hải vẫn đều đặn cập cảng Tuticorin"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC036",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "mang theo các bộ linh kiện hoàn chỉnh để duy trì nhịp độ bán hàng.",
+    "sentences": [
+      "mang theo các bộ linh kiện hoàn chỉnh để duy trì nhịp độ bán hàng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC037",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Cột mốc mười nghìn xe xuất xưởng đã được vượt qua",
+    "sentences": [
+      "Cột mốc mười nghìn xe xuất xưởng đã được vượt qua"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC038",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "và những chiếc xe mới vẫn tiếp tục lăn bánh ra khỏi nhà máy mỗi ngày.",
+    "sentences": [
+      "và những chiếc xe mới vẫn tiếp tục lăn bánh ra khỏi nhà máy mỗi ngày."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC039",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Chính sự tương phản kỳ lạ ấy đã biến bức thư tháng 7 thành một nước cờ gây chấn động.",
+    "sentences": [
+      "Chính sự tương phản kỳ lạ ấy đã biến bức thư tháng 7 thành một nước cờ gây chấn động."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC040",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Nếu nhà máy vẫn chạy và xe vẫn bán tốt",
+    "sentences": [
+      "Nếu nhà máy vẫn chạy và xe vẫn bán tốt"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC041",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "điều gì đã khiến hãng xe Việt Nam chủ động bấm nút phanh khẩn cấp với chuỗi cung ứng tại chỗ?",
+    "sentences": [
+      "điều gì đã khiến hãng xe Việt Nam chủ động bấm nút phanh khẩn cấp với chuỗi cung ứng tại chỗ?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC042",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Con số chi phí ngầm nào đã khiến họ thà chấp nhận đền bù tiền khuôn dập",
+    "sentences": [
+      "Con số chi phí ngầm nào đã khiến họ thà chấp nhận đền bù tiền khuôn dập"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC043",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "còn hơn là đặt mua linh kiện nội địa giá đắt?",
+    "sentences": [
+      "còn hơn là đặt mua linh kiện nội địa giá đắt?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC044",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Câu trả lời nằm ở bản chất nghiệt ngã của chiếc cối xay Ấn Độ",
+    "sentences": [
+      "Câu trả lời nằm ở bản chất nghiệt ngã của chiếc cối xay Ấn Độ"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC045",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "nơi từng chôn vùi những đế chế hùng mạnh nhất thế giới.",
+    "sentences": [
+      "nơi từng chôn vùi những đế chế hùng mạnh nhất thế giới."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Thị trường ô tô Ấn Độ từ lâu đã được giới phân tích",
+    "sentences": [
+      "Thị trường ô tô Ấn Độ từ lâu đã được giới phân tích"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "quốc tế mệnh danh là nghĩa địa của những gã khổng lồ phương Tây.",
+    "sentences": [
+      "quốc tế mệnh danh là nghĩa địa của những gã khổng lồ phương Tây."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Cả Ford lẫn General Motors đều từng bước vào vùng đất này với tư thế của những đế chế trăm năm tuổi.",
+    "sentences": [
+      "Cả Ford lẫn General Motors đều từng bước vào vùng đất này với tư thế của những đế chế trăm năm tuổi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC049",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, sau gần ba thập kỷ kiên trì, General Motors đã phải ngậm ngùi bán xới hai nhà máy để tháo chạy vào năm 2017.",
+    "sentences": [
+      "Thế nhưng, sau gần ba thập kỷ kiên trì, General Motors đã phải ngậm ngùi bán xới hai nhà máy để tháo chạy vào năm 2017."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC050",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Bốn năm sau, đến lượt Ford chính thức tuyên bố đóng cửa toàn bộ hoạt động sản xuất",
+    "sentences": [
+      "Bốn năm sau, đến lượt Ford chính thức tuyên bố đóng cửa toàn bộ hoạt động sản xuất"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC051",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "chấp nhận xóa sổ hơn hai tỷ đô la thua lỗ.",
+    "sentences": [
+      "chấp nhận xóa sổ hơn hai tỷ đô la thua lỗ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC052",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Bài học xương máu mà hai tập đoàn Mỹ để lại cho ngành xe hơi toàn cầu vô cùng cay đắng.",
+    "sentences": [
+      "Bài học xương máu mà hai tập đoàn Mỹ để lại cho ngành xe hơi toàn cầu vô cùng cay đắng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC053",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Khách hàng Ấn Độ không mua xe vì thương hiệu bóng bẩy hay những di sản hào nhoáng từ quá khứ.",
+    "sentences": [
+      "Khách hàng Ấn Độ không mua xe vì thương hiệu bóng bẩy hay những di sản hào nhoáng từ quá khứ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC054",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Họ là những người tiêu dùng thực dụng bậc nhất hành tinh, luôn tôn thờ triết lý tối ưu giá trị đến từng đồng rupee.",
+    "sentences": [
+      "Họ là những người tiêu dùng thực dụng bậc nhất hành tinh, luôn tôn thờ triết lý tối ưu giá trị đến từng đồng rupee."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC055",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Bất kỳ hãng xe nào mang nguyên xi dải sản phẩm toàn cầu sang áp",
+    "sentences": [
+      "Bất kỳ hãng xe nào mang nguyên xi dải sản phẩm toàn cầu sang áp"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC056",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "đặt mà không tối ưu được giá thành bản địa đều phải trả giá đắt.",
+    "sentences": [
+      "đặt mà không tối ưu được giá thành bản địa đều phải trả giá đắt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC057",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Bước sang kỷ nguyên xe điện, chiếc cối xay ấy không hề bớt đi sự khắc nghiệt, mà còn trở nên tàn bạo hơn gấp bội.",
+    "sentences": [
+      "Bước sang kỷ nguyên xe điện, chiếc cối xay ấy không hề bớt đi sự khắc nghiệt, mà còn trở nên tàn bạo hơn gấp bội."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC058",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Báo cáo đăng ký xe Vahan tháng 8 năm 2026 ghi nhận toàn thị trường tiêu thụ hơn ba mươi nghìn xe điện du lịch.",
+    "sentences": [
+      "Báo cáo đăng ký xe Vahan tháng 8 năm 2026 ghi nhận toàn thị trường tiêu thụ hơn ba mươi nghìn xe điện du lịch."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC059",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, gần 43% chiếc bánh thị phần lại nằm trọn trong tay một thế lực bản địa duy nhất: Tata Motors.",
+    "sentences": [
+      "Thế nhưng, gần 43% chiếc bánh thị phần lại nằm trọn trong tay một thế lực bản địa duy nhất: Tata Motors."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC060",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Nhờ kiểm soát từ trạm sạc đến chuỗi linh kiện",
+    "sentences": [
+      "Nhờ kiểm soát từ trạm sạc đến chuỗi linh kiện"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC061",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Tata dựng lên pháo đài thép với dải xe giá rẻ trải dài từ Tiago đến Punch.",
+    "sentences": [
+      "Tata dựng lên pháo đài thép với dải xe giá rẻ trải dài từ Tiago đến Punch."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC062",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Ở vị trí thứ hai, Mahindra bám đuổi quyết liệt với 21% thị phần nhờ sự thống trị ở phân khúc SUV điện gầm cao.",
+    "sentences": [
+      "Ở vị trí thứ hai, Mahindra bám đuổi quyết liệt với 21% thị phần nhờ sự thống trị ở phân khúc SUV điện gầm cao."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC063",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Trong khi đó, liên minh JSW MG lại tung ra một đòn đánh thuê pin đầy hiểm hóc.",
+    "sentences": [
+      "Trong khi đó, liên minh JSW MG lại tung ra một đòn đánh thuê pin đầy hiểm hóc."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC064",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Mẫu xe MG Windsor của họ cán mốc kỷ lục 75.000 xe sau chưa đầy hai năm",
+    "sentences": [
+      "Mẫu xe MG Windsor của họ cán mốc kỷ lục 75.000 xe sau chưa đầy hai năm"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC065",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "nhờ mức giá tách pin chỉ từ 9,99 lakh, tức khoảng ba trăm triệu đồng. Bằng cách thu phí thuê pin theo quãng đường lăn bánh",
+    "sentences": [
+      "nhờ mức giá tách pin chỉ từ 9,99 lakh, tức khoảng ba trăm triệu đồng.",
+      "Bằng cách thu phí thuê pin theo quãng đường lăn bánh"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC066",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "MG đã gỡ bỏ hoàn toàn rào cản chi phí ban đầu cho người tiêu dùng. Đối mặt với những đối thủ sừng sỏ đó",
+    "sentences": [
+      "MG đã gỡ bỏ hoàn toàn rào cản chi phí ban đầu cho người tiêu dùng.",
+      "Đối mặt với những đối thủ sừng sỏ đó"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC067",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "vị trí thứ tư toàn quốc của VinFast với hơn 7% thị phần là một kết quả đáng ghi nhận.",
+    "sentences": [
+      "vị trí thứ tư toàn quốc của VinFast với hơn 7% thị phần là một kết quả đáng ghi nhận."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC068",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, dưới lăng kính tài chính",
+    "sentences": [
+      "Thế nhưng, dưới lăng kính tài chính"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC069",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "con số hơn hai nghìn xe mỗi tháng vẫn đặt hãng xe Việt Nam vào một tình thế cực kỳ chông chênh.",
+    "sentences": [
+      "con số hơn hai nghìn xe mỗi tháng vẫn đặt hãng xe Việt Nam vào một tình thế cực kỳ chông chênh."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC070",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Nếu lao vào cuộc đua hạ giá để tranh giành phân khúc bình dân",
+    "sentences": [
+      "Nếu lao vào cuộc đua hạ giá để tranh giành phân khúc bình dân"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC071",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "họ sẽ nhanh chóng kiệt quệ dòng tiền trước tiềm lực của các tập đoàn bản địa.",
+    "sentences": [
+      "họ sẽ nhanh chóng kiệt quệ dòng tiền trước tiềm lực của các tập đoàn bản địa."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC072",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Nhưng nếu muốn nội địa hóa để hạ giá thành, họ lại vấp phải cơ chế hợp đồng vô cùng khắt khe của ngành xe hơi.",
+    "sentences": [
+      "Nhưng nếu muốn nội địa hóa để hạ giá thành, họ lại vấp phải cơ chế hợp đồng vô cùng khắt khe của ngành xe hơi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC073",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Dù một chiếc xe điện đã tinh giản chỉ còn khoảng mười nghìn linh kiện",
+    "sentences": [
+      "Dù một chiếc xe điện đã tinh giản chỉ còn khoảng mười nghìn linh kiện"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC074",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "không một hãng xe nào có thể tự mình sản xuất toàn bộ.",
+    "sentences": [
+      "không một hãng xe nào có thể tự mình sản xuất toàn bộ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC075",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Hơn ba trăm nhà cung ứng tại Ấn Độ chính là các tập đoàn phụ trợ chuyên sản xuất bó dây điện",
+    "sentences": [
+      "Hơn ba trăm nhà cung ứng tại Ấn Độ chính là các tập đoàn phụ trợ chuyên sản xuất bó dây điện"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC076",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "cụm phanh hay dập các tấm thân vỏ cho VinFast.",
+    "sentences": [
+      "cụm phanh hay dập các tấm thân vỏ cho VinFast."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC077",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Khi mới bước vào thị trường, hợp đồng cung ứng ban đầu được ký dựa trên cam kết sản lượng dự phóng rất lớn.",
+    "sentences": [
+      "Khi mới bước vào thị trường, hợp đồng cung ứng ban đầu được ký dựa trên cam kết sản lượng dự phóng rất lớn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC078",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Dựa vào cam kết bao tiêu đó",
+    "sentences": [
+      "Dựa vào cam kết bao tiêu đó"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC079",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "các nhà cung ứng mới chấp nhận bỏ hàng triệu đô la chế tạo những bộ khuôn dập chuyên dụng.",
+    "sentences": [
+      "các nhà cung ứng mới chấp nhận bỏ hàng triệu đô la chế tạo những bộ khuôn dập chuyên dụng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC080",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Đổi lại, chi phí làm khuôn được phân bổ trên số lượng xe lớn, giúp đơn giá mỗi linh kiện duy trì ở mức rất rẻ.",
+    "sentences": [
+      "Đổi lại, chi phí làm khuôn được phân bổ trên số lượng xe lớn, giúp đơn giá mỗi linh kiện duy trì ở mức rất rẻ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC081",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, khi sản lượng thực tế năm đầu chưa đạt kỳ vọng",
+    "sentences": [
+      "Thế nhưng, khi sản lượng thực tế năm đầu chưa đạt kỳ vọng"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC082",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "điều khoản hợp đồng lập tức tạo ra một sức ép tài chính nghẹt thở.",
+    "sentences": [
+      "điều khoản hợp đồng lập tức tạo ra một sức ép tài chính nghẹt thở."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC083",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Nếu tiếp tục mua linh kiện, nhà cung ứng buộc phải dội ngược chi phí làm khuôn vào từng sản phẩm để tránh thua lỗ.",
+    "sentences": [
+      "Nếu tiếp tục mua linh kiện, nhà cung ứng buộc phải dội ngược chi phí làm khuôn vào từng sản phẩm để tránh thua lỗ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC084",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Điều đó sẽ khiến đơn giá linh kiện nội địa bị đội lên cao phi lý",
+    "sentences": [
+      "Điều đó sẽ khiến đơn giá linh kiện nội địa bị đội lên cao phi lý"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC085",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "đắt hơn nhiều so với việc nhập khẩu từ Việt Nam. Đứng trước nguy cơ đó, bức thư tháng 7 của VinFast thực chất",
+    "sentences": [
+      "đắt hơn nhiều so với việc nhập khẩu từ Việt Nam.",
+      "Đứng trước nguy cơ đó, bức thư tháng 7 của VinFast thực chất"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC086",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "là việc kích hoạt điều khoản đơn phương dừng dự án theo hợp đồng.",
+    "sentences": [
+      "là việc kích hoạt điều khoản đơn phương dừng dự án theo hợp đồng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC087",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Họ chấp nhận đối soát tài chính để bồi hoàn các chi phí làm khuôn dở dang cho đối tác.",
+    "sentences": [
+      "Họ chấp nhận đối soát tài chính để bồi hoàn các chi phí làm khuôn dở dang cho đối tác."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC088",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Thà bồi hoàn để tạm dừng một chương trình tốn kém",
+    "sentences": [
+      "Thà bồi hoàn để tạm dừng một chương trình tốn kém"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC089",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "còn hơn đưa vào sản xuất hàng loạt những bộ linh kiện làm tổn hại biên lợi nhuận.",
+    "sentences": [
+      "còn hơn đưa vào sản xuất hàng loạt những bộ linh kiện làm tổn hại biên lợi nhuận."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC090",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Nếu quý vị thấy những thông tin này hữu ích",
+    "sentences": [
+      "Nếu quý vị thấy những thông tin này hữu ích"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC091",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "một lượt đăng ký kênh và chia sẻ nội dung sẽ là nguồn động viên rất lớn đối với đội ngũ sản xuất.",
+    "sentences": [
+      "một lượt đăng ký kênh và chia sẻ nội dung sẽ là nguồn động viên rất lớn đối với đội ngũ sản xuất."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC092",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Nhưng nếu không thể mua linh kiện giá rẻ tại chỗ",
+    "sentences": [
+      "Nhưng nếu không thể mua linh kiện giá rẻ tại chỗ"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC093",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "làm sao một hãng xe có thể tồn tại trong chiếc cối xay từng nghiền nát cả Ford lẫn GM?",
+    "sentences": [
+      "làm sao một hãng xe có thể tồn tại trong chiếc cối xay từng nghiền nát cả Ford lẫn GM?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC094",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "text_overlay": "",
+    "visual_summary": "Bí mật nằm ở một nghịch lý logistics",
+    "sentences": [
+      "Bí mật nằm ở một nghịch lý logistics"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC095",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Một hải trình vượt Ấn Độ Dương hóa ra lại an toàn và kinh tế hơn việc chở hàng trên chính đất Ấn.",
+    "sentences": [
+      "Một hải trình vượt Ấn Độ Dương hóa ra lại an toàn và kinh tế hơn việc chở hàng trên chính đất Ấn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC096",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Trong chiến lược công nghiệp ô tô truyền thống",
+    "sentences": [
+      "Trong chiến lược công nghiệp ô tô truyền thống"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC097",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "một nhà máy mới thường được đặt gần các thủ phủ phụ trợ nội địa để tận dụng chuỗi cung ứng tại chỗ.",
+    "sentences": [
+      "một nhà máy mới thường được đặt gần các thủ phủ phụ trợ nội địa để tận dụng chuỗi cung ứng tại chỗ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC098",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng tại Ấn Độ, VinFast lại chọn một nước cờ địa kinh tế hoàn toàn khác biệt.",
+    "sentences": [
+      "Thế nhưng tại Ấn Độ, VinFast lại chọn một nước cờ địa kinh tế hoàn toàn khác biệt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC099",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Họ đặt đại bản doanh tại Thoothukudi, một vùng duyên hải ở cực nam bang Tamil Nadu, nằm sát cạnh cảng nước sâu quốc tế Tuticorin.",
+    "sentences": [
+      "Họ đặt đại bản doanh tại Thoothukudi, một vùng duyên hải ở cực nam bang Tamil Nadu, nằm sát cạnh cảng nước sâu quốc tế Tuticorin."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC100",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Khu liên hợp rộng 408 mẫu Anh này có tổng vốn thực chi giai đoạn 1 là 1.200 crore rupee, tức khoảng 145 triệu đô la.",
+    "sentences": [
+      "Khu liên hợp rộng 408 mẫu Anh này có tổng vốn thực chi giai đoạn 1 là 1.200 crore rupee, tức khoảng 145 triệu đô la."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC101",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Nhà máy được thiết kế với công suất 50.000 xe mỗi năm, tạo ra việc làm cho hơn 3.500 lao động địa phương.",
+    "sentences": [
+      "Nhà máy được thiết kế với công suất 50.000 xe mỗi năm, tạo ra việc làm cho hơn 3.500 lao động địa phương."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC102",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Nhiều chuyên gia từng đặt câu hỏi",
+    "sentences": [
+      "Nhiều chuyên gia từng đặt câu hỏi"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC103",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Việc chở linh kiện vượt hơn ba nghìn hải lý từ Việt Nam sang liệu có phải là một gánh nặng chi phí?",
+    "sentences": [
+      "Việc chở linh kiện vượt hơn ba nghìn hải lý từ Việt Nam sang liệu có phải là một gánh nặng chi phí?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC104",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "text_overlay": "",
+    "visual_summary": "Câu trả lời nằm ở một thực tế nghiệt ngã",
+    "sentences": [
+      "Câu trả lời nằm ở một thực tế nghiệt ngã"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC105",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Hạ tầng logistics nội địa của Ấn Độ từ lâu đã là một rào cản khổng lồ đối với các nhà sản xuất.",
+    "sentences": [
+      "Hạ tầng logistics nội địa của Ấn Độ từ lâu đã là một rào cản khổng lồ đối với các nhà sản xuất."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC106",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Chi phí vận tải trên đất liền ngốn tới 13% đến 14% GDP của quốc gia này",
+    "sentences": [
+      "Chi phí vận tải trên đất liền ngốn tới 13% đến 14% GDP của quốc gia này"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC107",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "cao gần gấp đôi mức trung bình của các nước phát triển. Hệ thống đường sá phân mảnh và các trạm kiểm soát xuyên bang rườm",
+    "sentences": [
+      "cao gần gấp đôi mức trung bình của các nước phát triển.",
+      "Hệ thống đường sá phân mảnh và các trạm kiểm soát xuyên bang rườm"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC108",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "rà khiến những chuyến hàng đường bộ thường xuyên bị ách tắc kéo dài.",
+    "sentences": [
+      "rà khiến những chuyến hàng đường bộ thường xuyên bị ách tắc kéo dài."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC109",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Chính điểm nghẽn ấy đã biến tuyến hàng hải xuyên Ấn Độ Dương thành một lợi thế cạnh tranh sống còn.",
+    "sentences": [
+      "Chính điểm nghẽn ấy đã biến tuyến hàng hải xuyên Ấn Độ Dương thành một lợi thế cạnh tranh sống còn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC110",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Tổ hợp Cát Hải tại Hải Phòng nằm ngay cửa ngõ cảng nước sâu Lạch Huyện",
+    "sentences": [
+      "Tổ hợp Cát Hải tại Hải Phòng nằm ngay cửa ngõ cảng nước sâu Lạch Huyện"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC111",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "trong khi nhà máy Thoothukudi chỉ cách cầu cảng quốc tế vài cây số.",
+    "sentences": [
+      "trong khi nhà máy Thoothukudi chỉ cách cầu cảng quốc tế vài cây số."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC112",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Một chuyến tàu container chở linh kiện đồng bộ rẽ sóng đại dương chỉ mất từ 7 đến 10 ngày để cập bến an toàn.",
+    "sentences": [
+      "Một chuyến tàu container chở linh kiện đồng bộ rẽ sóng đại dương chỉ mất từ 7 đến 10 ngày để cập bến an toàn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC113",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Tuyến đường biển này hoạt động như một băng chuyền logistics khép kín",
+    "sentences": [
+      "Tuyến đường biển này hoạt động như một băng chuyền logistics khép kín"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC114",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "né tránh hoàn toàn mạng lưới đường bộ đắt đỏ và rủi ro của Ấn Độ.",
+    "sentences": [
+      "né tránh hoàn toàn mạng lưới đường bộ đắt đỏ và rủi ro của Ấn Độ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC115",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Nhờ lợi thế cảng biển đó, phương thức lắp ráp CKD trở thành một thỏa hiệp vận hành đầy khôn ngoan của hãng xe Việt Nam.",
+    "sentences": [
+      "Nhờ lợi thế cảng biển đó, phương thức lắp ráp CKD trở thành một thỏa hiệp vận hành đầy khôn ngoan của hãng xe Việt Nam."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC116",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Thay vì vội vã đổ tiền xây dựng toàn bộ chuỗi cung ứng tại chỗ",
+    "sentences": [
+      "Thay vì vội vã đổ tiền xây dựng toàn bộ chuỗi cung ứng tại chỗ"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC117",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "họ nhập trọn bộ linh kiện rời từ tổ hợp Cát Hải sang Ấn Độ.",
+    "sentences": [
+      "họ nhập trọn bộ linh kiện rời từ tổ hợp Cát Hải sang Ấn Độ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC118",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Cát Hải lúc này đã là một cỗ máy sản xuất hàng trăm nghìn xe mỗi năm",
+    "sentences": [
+      "Cát Hải lúc này đã là một cỗ máy sản xuất hàng trăm nghìn xe mỗi năm"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC119",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "nơi khung gầm và hệ thống pin đã đạt điểm tối ưu chi phí quy mô.",
+    "sentences": [
+      "nơi khung gầm và hệ thống pin đã đạt điểm tối ưu chi phí quy mô."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC120",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Phương thức CKD giúp hãng xe hạ thuế nhập khẩu xuống mức 15%, né tránh bức tường thuế 70% đến 110% của xe nguyên chiếc.",
+    "sentences": [
+      "Phương thức CKD giúp hãng xe hạ thuế nhập khẩu xuống mức 15%, né tránh bức tường thuế 70% đến 110% của xe nguyên chiếc."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC121",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Đồng thời, chất lượng xe vẫn đồng đều và đạt chuẩn an toàn 5 sao Bharat NCAP.",
+    "sentences": [
+      "Đồng thời, chất lượng xe vẫn đồng đều và đạt chuẩn an toàn 5 sao Bharat NCAP."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC122",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Trong những năm đầu bước vào một thị trường khốc liệt",
+    "sentences": [
+      "Trong những năm đầu bước vào một thị trường khốc liệt"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC123",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "phương thức CKD là tấm khiên vững chắc nhất để bảo vệ bảng cân đối kế toán.",
+    "sentences": [
+      "phương thức CKD là tấm khiên vững chắc nhất để bảo vệ bảng cân đối kế toán."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC124",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Cùng lúc đó, VinFast âm thầm dồn lực xây dựng mạng lưới thực",
+    "sentences": [
+      "Cùng lúc đó, VinFast âm thầm dồn lực xây dựng mạng lưới thực"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC125",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "địa với hơn 60 đại lý 3S phủ rộng khắp các thành phố lớn.",
+    "sentences": [
+      "địa với hơn 60 đại lý 3S phủ rộng khắp các thành phố lớn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC126",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Họ chủ động bắt tay với các đối tác bản địa uy tín như myTVS để làm trạm dịch vụ",
+    "sentences": [
+      "Họ chủ động bắt tay với các đối tác bản địa uy tín như myTVS để làm trạm dịch vụ"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC127",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "và BatX Energies để chuẩn bị hạ tầng thu hồi pin.",
+    "sentences": [
+      "và BatX Energies để chuẩn bị hạ tầng thu hồi pin."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC128",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, nhập khẩu linh kiện dù hiệu quả đến đâu cũng chỉ là bước đệm để duy trì nhịp độ bán hàng.",
+    "sentences": [
+      "Thế nhưng, nhập khẩu linh kiện dù hiệu quả đến đâu cũng chỉ là bước đệm để duy trì nhịp độ bán hàng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC129",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Nếu việc nhập hàng từ Việt Nam sang đã rẻ như vậy",
+    "sentences": [
+      "Nếu việc nhập hàng từ Việt Nam sang đã rẻ như vậy"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC130",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "tại sao việc cố gắng tự dập linh kiện tại Ấn Độ lại biến thành một hố đen tài chính?",
+    "sentences": [
+      "tại sao việc cố gắng tự dập linh kiện tại Ấn Độ lại biến thành một hố đen tài chính?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC131",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Công thức toán học tàn nhẫn nào đằng sau những khối khuôn dập đã buộc mẫu xe quốc dân VF 3 phải ngậm ngùi lùi bước?",
+    "sentences": [
+      "Công thức toán học tàn nhẫn nào đằng sau những khối khuôn dập đã buộc mẫu xe quốc dân VF 3 phải ngậm ngùi lùi bước?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC132",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Trong ngành công nghiệp ô tô, có một quy luật tàn nhẫn chi phối mọi bài toán kinh doanh. Đó là chi phí làm khuôn dập.",
+    "sentences": [
+      "Trong ngành công nghiệp ô tô, có một quy luật tàn nhẫn chi phối mọi bài toán kinh doanh.",
+      "Đó là chi phí làm khuôn dập."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC133",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Để dập ra vỏ xe hay cánh cửa, nhà sản xuất phải chi hàng triệu đô la cho những bộ khuôn thép đặc chủng.",
+    "sentences": [
+      "Để dập ra vỏ xe hay cánh cửa, nhà sản xuất phải chi hàng triệu đô la cho những bộ khuôn thép đặc chủng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC134",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "text_overlay": "",
+    "visual_summary": "Khoản đầu tư này là chi phí cố định.",
+    "sentences": [
+      "Khoản đầu tư này là chi phí cố định."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC135",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Nếu một dòng xe bán được hàng trăm nghìn chiếc, tiền khuôn chia ra chỉ còn vài chục đô la mỗi xe.",
+    "sentences": [
+      "Nếu một dòng xe bán được hàng trăm nghìn chiếc, tiền khuôn chia ra chỉ còn vài chục đô la mỗi xe."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC136",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Nhưng nếu sản lượng chỉ có vài nghìn chiếc, mỗi linh kiện sẽ phải gánh một khoản khấu hao khổng lồ.",
+    "sentences": [
+      "Nhưng nếu sản lượng chỉ có vài nghìn chiếc, mỗi linh kiện sẽ phải gánh một khoản khấu hao khổng lồ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC137",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Hơn 300 nhà cung cấp linh kiện tại Ấn Độ hiểu rất rõ điều đó.",
+    "sentences": [
+      "Hơn 300 nhà cung cấp linh kiện tại Ấn Độ hiểu rất rõ điều đó."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC138",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Họ không thể tự bỏ tiền làm khuôn nếu hãng xe không cam kết sản lượng tối thiểu ít nhất 25.000 xe mỗi năm.",
+    "sentences": [
+      "Họ không thể tự bỏ tiền làm khuôn nếu hãng xe không cam kết sản lượng tối thiểu ít nhất 25.000 xe mỗi năm."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC139",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Để bảo vệ mình, họ buộc phải dội chi phí khấu hao vào giá bán linh kiện.",
+    "sentences": [
+      "Để bảo vệ mình, họ buộc phải dội chi phí khấu hao vào giá bán linh kiện."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC140",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Kết quả là linh kiện dập tại Ấn Độ đắt hơn rất nhiều so với linh kiện chở từ Hải Phòng sang.",
+    "sentences": [
+      "Kết quả là linh kiện dập tại Ấn Độ đắt hơn rất nhiều so với linh kiện chở từ Hải Phòng sang."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC141",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "text_overlay": "",
+    "visual_summary": "Đó là lý do tháng 7 năm 2026",
+    "sentences": [
+      "Đó là lý do tháng 7 năm 2026"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC142",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "VinFast phát thông cáo nội bộ dừng chương trình phát triển linh kiện cho cả ba mẫu xe: VF 3, VF 6 và VF 7.",
+    "sentences": [
+      "VinFast phát thông cáo nội bộ dừng chương trình phát triển linh kiện cho cả ba mẫu xe: VF 3, VF 6 và VF 7."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC143",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Hãng chấp nhận bồi hoàn tiền khuôn dập, chi phí thử nghiệm và cả nguyên vật liệu thô đã thu mua để dứt khoát cắt lỗ.",
+    "sentences": [
+      "Hãng chấp nhận bồi hoàn tiền khuôn dập, chi phí thử nghiệm và cả nguyên vật liệu thô đã thu mua để dứt khoát cắt lỗ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC144",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Quyết định này lập tức định đoạt số phận của mẫu xe mini VF 3.",
+    "sentences": [
+      "Quyết định này lập tức định đoạt số phận của mẫu xe mini VF 3."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC145",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Khi ấy, VinFast mới chỉ mở bán hai dòng xe gầm cao là VF 6 và VF 7.",
+    "sentences": [
+      "Khi ấy, VinFast mới chỉ mở bán hai dòng xe gầm cao là VF 6 và VF 7."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC146",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Còn VF 3 vẫn đang trong giai đoạn chuẩn bị linh kiện.",
+    "sentences": [
+      "Còn VF 3 vẫn đang trong giai đoạn chuẩn bị linh kiện."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC147",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Tại Ấn Độ, phân khúc xe mini đã bị chốt chặn bởi hai đối thủ sừng sỏ.",
+    "sentences": [
+      "Tại Ấn Độ, phân khúc xe mini đã bị chốt chặn bởi hai đối thủ sừng sỏ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC148",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Chiếc MG Comet giá chỉ từ 4,99 lakh rupee, khoảng 150 triệu đồng nhờ thuê pin",
+    "sentences": [
+      "Chiếc MG Comet giá chỉ từ 4,99 lakh rupee, khoảng 150 triệu đồng nhờ thuê pin"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC149",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "và Tata Tiago giá khoảng 7,99 lakh rupee, tức gần 240 triệu đồng.",
+    "sentences": [
+      "và Tata Tiago giá khoảng 7,99 lakh rupee, tức gần 240 triệu đồng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC150",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Theo các chuyên gia ước tính, giá xuất xưởng của VF 3 có thể dao động từ 7",
+    "sentences": [
+      "Theo các chuyên gia ước tính, giá xuất xưởng của VF 3 có thể dao động từ 7"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC151",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "5 đến 10 lakh rupee, tức khoảng 225 đến gần 300 triệu đồng.",
+    "sentences": [
+      "5 đến 10 lakh rupee, tức khoảng 225 đến gần 300 triệu đồng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC152",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Nếu cố dập khuôn ở quy mô nhỏ, chi phí đội lên sẽ biến chiếc xe thành một gánh nặng tài chính.",
+    "sentences": [
+      "Nếu cố dập khuôn ở quy mô nhỏ, chi phí đội lên sẽ biến chiếc xe thành một gánh nặng tài chính."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC153",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Một mẫu xe mới toanh mà giá lại đắt hơn đối thủ bản địa chắc chắn sẽ thất bại.",
+    "sentences": [
+      "Một mẫu xe mới toanh mà giá lại đắt hơn đối thủ bản địa chắc chắn sẽ thất bại."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC154",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Vì vậy, VinFast dứt khoát dừng kế hoạch đưa VF 3 vào thị trường. Rút lui khỏi phân khúc xe giá rẻ",
+    "sentences": [
+      "Vì vậy, VinFast dứt khoát dừng kế hoạch đưa VF 3 vào thị trường.",
+      "Rút lui khỏi phân khúc xe giá rẻ"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC155",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "VinFast dồn toàn lực cho hai mẫu xe cao cấp đang bán tốt là VF 6 và VF 7.",
+    "sentences": [
+      "VinFast dồn toàn lực cho hai mẫu xe cao cấp đang bán tốt là VF 6 và VF 7."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC156",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Hai mẫu xe này tiếp tục được nhập linh kiện rời từ Cát Hải sang lắp ráp.",
+    "sentences": [
+      "Hai mẫu xe này tiếp tục được nhập linh kiện rời từ Cát Hải sang lắp ráp."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC157",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Với mức giá từ 18 đến 28 lakh rupee, tức khoảng 540 đến hơn 800 triệu đồng",
+    "sentences": [
+      "Với mức giá từ 18 đến 28 lakh rupee, tức khoảng 540 đến hơn 800 triệu đồng"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC158",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "biên lợi nhuận của chúng đủ dày để bù đắp chi phí vận tải biển.",
+    "sentences": [
+      "biên lợi nhuận của chúng đủ dày để bù đắp chi phí vận tải biển."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC159",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Đồng thời, vào ngày 5 tháng 6 năm 2026, hãng bắt tay với Routematic tung ra 1.000 xe Green SM Limo tại New Delhi.",
+    "sentences": [
+      "Đồng thời, vào ngày 5 tháng 6 năm 2026, hãng bắt tay với Routematic tung ra 1.000 xe Green SM Limo tại New Delhi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC160",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Nước cờ này giúp họ vừa tạo ra dòng tiền định kỳ từ khách hàng doanh nghiệp",
+    "sentences": [
+      "Nước cờ này giúp họ vừa tạo ra dòng tiền định kỳ từ khách hàng doanh nghiệp"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC161",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "vừa tối ưu công suất hoạt động cho nhà máy. Thế nhưng, phương thức lắp ráp CKD chỉ là tấm khiên phòng thủ trong ngắn hạn.",
+    "sentences": [
+      "vừa tối ưu công suất hoạt động cho nhà máy.",
+      "Thế nhưng, phương thức lắp ráp CKD chỉ là tấm khiên phòng thủ trong ngắn hạn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC162",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Nếu cứ nhập linh kiện mãi, xe của VinFast sẽ bị loại khỏi các gói trợ giá khổng lồ của Chính phủ Ấn Độ.",
+    "sentences": [
+      "Nếu cứ nhập linh kiện mãi, xe của VinFast sẽ bị loại khỏi các gói trợ giá khổng lồ của Chính phủ Ấn Độ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC163",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Đồng thời, họ sẽ đụng phải chiếc thòng lọng chính sách SMEC",
+    "sentences": [
+      "Đồng thời, họ sẽ đụng phải chiếc thòng lọng chính sách SMEC"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC164",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "nơi buộc tỷ lệ nội địa hóa phải đạt 50% trong vòng 5 năm để mở rộng thị trường.",
+    "sentences": [
+      "nơi buộc tỷ lệ nội địa hóa phải đạt 50% trong vòng 5 năm để mở rộng thị trường."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC165",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Tháng 3 năm 2024, Chính phủ Ấn Độ ban hành một chính sách xe điện mới mang tên SMEC.",
+    "sentences": [
+      "Tháng 3 năm 2024, Chính phủ Ấn Độ ban hành một chính sách xe điện mới mang tên SMEC."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC166",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Chính sách này mở ra một đặc quyền chưa từng có cho các tập đoàn ô tô toàn cầu.",
+    "sentences": [
+      "Chính sách này mở ra một đặc quyền chưa từng có cho các tập đoàn ô tô toàn cầu."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC167",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Họ được phép nhập khẩu xe nguyên chiếc với mức thuế chỉ 15%, thay vì phải chịu mức thuế bảo hộ từ 70 đến 110%.",
+    "sentences": [
+      "Họ được phép nhập khẩu xe nguyên chiếc với mức thuế chỉ 15%, thay vì phải chịu mức thuế bảo hộ từ 70 đến 110%."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC168",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Mỗi hãng xe được cấp hạn ngạch tối đa 8.000 chiếc mỗi năm cho các dòng xe cao cấp.",
+    "sentences": [
+      "Mỗi hãng xe được cấp hạn ngạch tối đa 8.000 chiếc mỗi năm cho các dòng xe cao cấp."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC169",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, New Delhi không bao giờ ban phát những bữa trưa miễn phí.",
+    "sentences": [
+      "Thế nhưng, New Delhi không bao giờ ban phát những bữa trưa miễn phí."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC170",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Đổi lại mức thuế 15%, hãng xe phải cam kết rót tối thiểu 500 triệu USD",
+    "sentences": [
+      "Đổi lại mức thuế 15%, hãng xe phải cam kết rót tối thiểu 500 triệu USD"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC171",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "khoảng 12.500 tỷ đồng, để xây nhà máy tại Ấn Độ trong 3 năm.",
+    "sentences": [
+      "khoảng 12.500 tỷ đồng, để xây nhà máy tại Ấn Độ trong 3 năm."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC172",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Quan trọng hơn, họ phải ký một bản cam kết nội địa hóa vô cùng ngặt nghèo.",
+    "sentences": [
+      "Quan trọng hơn, họ phải ký một bản cam kết nội địa hóa vô cùng ngặt nghèo."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC173",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Tỷ lệ giá trị gia tăng nội địa, gọi tắt là DVA, phải đạt tối thiểu 25% sau 3 năm và 50% sau 5 năm.",
+    "sentences": [
+      "Tỷ lệ giá trị gia tăng nội địa, gọi tắt là DVA, phải đạt tối thiểu 25% sau 3 năm và 50% sau 5 năm."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC174",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Khoản chênh lệch thuế được miễn giảm không phải là tiền tặng không.",
+    "sentences": [
+      "Khoản chênh lệch thuế được miễn giảm không phải là tiền tặng không."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC175",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Doanh nghiệp phải nộp một bức thư bảo lãnh ngân hàng đối ứng có giá trị tương đương toàn bộ số tiền thuế được ưu đãi.",
+    "sentences": [
+      "Doanh nghiệp phải nộp một bức thư bảo lãnh ngân hàng đối ứng có giá trị tương đương toàn bộ số tiền thuế được ưu đãi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC176",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Nếu sau 5 năm không đạt mốc nội địa hóa 50%",
+    "sentences": [
+      "Nếu sau 5 năm không đạt mốc nội địa hóa 50%"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC177",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Chính phủ Ấn Độ sẽ kích hoạt bảo lãnh để thu hồi toàn bộ số tiền thuế đó.",
+    "sentences": [
+      "Chính phủ Ấn Độ sẽ kích hoạt bảo lãnh để thu hồi toàn bộ số tiền thuế đó."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC178",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Thoạt nghe, mốc nội địa hóa 50% trong 5 năm có vẻ là một mục tiêu khả thi.",
+    "sentences": [
+      "Thoạt nghe, mốc nội địa hóa 50% trong 5 năm có vẻ là một mục tiêu khả thi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC179",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Thế nhưng, với một chiếc xe điện, đây lại là một tử huyệt kỹ thuật chết người.",
+    "sentences": [
+      "Thế nhưng, với một chiếc xe điện, đây lại là một tử huyệt kỹ thuật chết người."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC180",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Trong cơ cấu chi phí sản xuất xe điện, bộ pin và động cơ kéo chiếm tới 60% giá trị chiếc xe.",
+    "sentences": [
+      "Trong cơ cấu chi phí sản xuất xe điện, bộ pin và động cơ kéo chiếm tới 60% giá trị chiếc xe."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC181",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Nghịch lý nằm ở chỗ, Ấn Độ hiện phải nhập khẩu tới 95% tế bào pin và gần như toàn bộ chip quản lý.",
+    "sentences": [
+      "Nghịch lý nằm ở chỗ, Ấn Độ hiện phải nhập khẩu tới 95% tế bào pin và gần như toàn bộ chip quản lý."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC182",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Chuỗi cung ứng tại chỗ chỉ có thể đáp ứng những phần cơ khí như khung gầm, vỏ thép và ghế ngồi.",
+    "sentences": [
+      "Chuỗi cung ứng tại chỗ chỉ có thể đáp ứng những phần cơ khí như khung gầm, vỏ thép và ghế ngồi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC183",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Nếu VinFast tiếp tục nhập trọn gói cụm pin và động cơ từ Hải Phòng sang",
+    "sentences": [
+      "Nếu VinFast tiếp tục nhập trọn gói cụm pin và động cơ từ Hải Phòng sang"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC184",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "tỷ lệ nội địa hóa thực tế chỉ đạt quanh mức 15 đến 20%.",
+    "sentences": [
+      "tỷ lệ nội địa hóa thực tế chỉ đạt quanh mức 15 đến 20%."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC185",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Họ cầm chắc phần thua trong việc chạm tới cột mốc 50% theo yêu cầu của luật pháp.",
+    "sentences": [
+      "Họ cầm chắc phần thua trong việc chạm tới cột mốc 50% theo yêu cầu của luật pháp."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC186",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Thực tế này đẩy VinFast vào một thế cờ tiến thoái lưỡng nan. Nếu cứ kéo dài việc lắp ráp linh kiện nhập khẩu",
+    "sentences": [
+      "Thực tế này đẩy VinFast vào một thế cờ tiến thoái lưỡng nan.",
+      "Nếu cứ kéo dài việc lắp ráp linh kiện nhập khẩu"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC187",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "xe của họ sẽ bị loại khỏi gói trợ giá PM E-Drive trị giá gần 33.000 tỷ đồng.",
+    "sentences": [
+      "xe của họ sẽ bị loại khỏi gói trợ giá PM E-Drive trị giá gần 33.000 tỷ đồng."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC188",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Mất trợ giá, xe VinFast sẽ hoàn toàn thất thế về giá trước các đối thủ bản địa như Tata hay Mahindra.",
+    "sentences": [
+      "Mất trợ giá, xe VinFast sẽ hoàn toàn thất thế về giá trước các đối thủ bản địa như Tata hay Mahindra."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC189",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Còn nếu muốn hưởng ưu đãi xe nguyên chiếc của chính sách SMEC",
+    "sentences": [
+      "Còn nếu muốn hưởng ưu đãi xe nguyên chiếc của chính sách SMEC"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC190",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "họ phải đối mặt với rủi ro mất trắng khoản bảo lãnh ngân hàng khổng lồ.",
+    "sentences": [
+      "họ phải đối mặt với rủi ro mất trắng khoản bảo lãnh ngân hàng khổng lồ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC191",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Nhưng nếu vội vã xây nhà máy sản xuất pin và dập vỏ xe tại chỗ",
+    "sentences": [
+      "Nhưng nếu vội vã xây nhà máy sản xuất pin và dập vỏ xe tại chỗ"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC192",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "sản lượng ô tô ban đầu chưa đầy 25.000 xe sẽ khiến chi phí khuôn mẫu vỡ trận.",
+    "sentences": [
+      "sản lượng ô tô ban đầu chưa đầy 25.000 xe sẽ khiến chi phí khuôn mẫu vỡ trận."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC193",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Nhập khẩu linh kiện thì không đạt chuẩn nội địa hóa, còn tự làm mọi thứ tại chỗ thì chi phí quá đắt đỏ.",
+    "sentences": [
+      "Nhập khẩu linh kiện thì không đạt chuẩn nội địa hóa, còn tự làm mọi thứ tại chỗ thì chi phí quá đắt đỏ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC194",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Làm thế nào để một hãng xe ngoại quốc có thể vượt qua chiếc bẫy chính sách ngặt nghèo này?",
+    "sentences": [
+      "Làm thế nào để một hãng xe ngoại quốc có thể vượt qua chiếc bẫy chính sách ngặt nghèo này?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC195",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Câu trả lời của VinFast đã làm kinh ngạc toàn bộ giới quan sát công nghiệp tại Ấn Độ.",
+    "sentences": [
+      "Câu trả lời của VinFast đã làm kinh ngạc toàn bộ giới quan sát công nghiệp tại Ấn Độ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC196",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Đó là một nước cờ xoay trục trị giá 840 triệu USD",
+    "sentences": [
+      "Đó là một nước cờ xoay trục trị giá 840 triệu USD"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC197",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "tương đương hơn 21.000 tỷ đồng, bắt đầu từ 1 triệu chiếc xe hai bánh.",
+    "sentences": [
+      "tương đương hơn 21.000 tỷ đồng, bắt đầu từ 1 triệu chiếc xe hai bánh."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC198",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Đứng trước chiếc thòng lọng nội địa hóa của New Delhi, phần lớn các hãng xe ngoại quốc đều chọn cách co cụm phòng thủ.",
+    "sentences": [
+      "Đứng trước chiếc thòng lọng nội địa hóa của New Delhi, phần lớn các hãng xe ngoại quốc đều chọn cách co cụm phòng thủ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC199",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Họ hoặc là trì hoãn tiến độ, hoặc vận động hành lang để xin chính phủ nới lỏng thời hạn.",
+    "sentences": [
+      "Họ hoặc là trì hoãn tiến độ, hoặc vận động hành lang để xin chính phủ nới lỏng thời hạn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC200",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Nhưng VinFast lại chọn một cách tiếp cận hoàn toàn khác biệt.",
+    "sentences": [
+      "Nhưng VinFast lại chọn một cách tiếp cận hoàn toàn khác biệt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC201",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Họ không tìm cách né tránh luật chơi, mà tìm cách thay đổi hoàn toàn quy mô của bàn cờ.",
+    "sentences": [
+      "Họ không tìm cách né tránh luật chơi, mà tìm cách thay đổi hoàn toàn quy mô của bàn cờ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC202",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Bước ngoặt chiến lược xuất hiện khi chính quyền bang Tamil Nadu chính thức phê duyệt mở rộng Giai đoạn 2 cho tổ hợp Thoothukudi.",
+    "sentences": [
+      "Bước ngoặt chiến lược xuất hiện khi chính quyền bang Tamil Nadu chính thức phê duyệt mở rộng Giai đoạn 2 cho tổ hợp Thoothukudi."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC203",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Khoản đầu tư trị giá 7.000 crore rupee, tức gần 840 triệu USD và hơn 21.000 tỷ đồng",
+    "sentences": [
+      "Khoản đầu tư trị giá 7.000 crore rupee, tức gần 840 triệu USD và hơn 21.000 tỷ đồng"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC204",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "được trích từ gói cam kết dài hạn 2 tỷ USD.",
+    "sentences": [
+      "được trích từ gói cam kết dài hạn 2 tỷ USD."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC205",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Với thêm 500 mẫu Anh đất sạch tại khu công nghiệp SIPCOT, nhà máy không chỉ nâng công suất ô tô lên 200.000 xe mỗi năm.",
+    "sentences": [
+      "Với thêm 500 mẫu Anh đất sạch tại khu công nghiệp SIPCOT, nhà máy không chỉ nâng công suất ô tô lên 200.000 xe mỗi năm."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC206",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Điểm đột phá thực sự nằm ở việc bổ sung dây chuyền sản xuất 1 triệu chiếc xe máy điện và 2.000 chiếc xe buýt điện.",
+    "sentences": [
+      "Điểm đột phá thực sự nằm ở việc bổ sung dây chuyền sản xuất 1 triệu chiếc xe máy điện và 2.000 chiếc xe buýt điện."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC207",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Tại sao lại là xe hai bánh? Câu trả lời nằm ở bài toán năng lượng sống còn của quốc gia tỷ dân.",
+    "sentences": [
+      "Tại sao lại là xe hai bánh?",
+      "Câu trả lời nằm ở bài toán năng lượng sống còn của quốc gia tỷ dân."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC208",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Mỗi năm, Ấn Độ phải chi tới 150 tỷ USD để nhập khẩu 87% nhu cầu dầu mỏ. Để thoát khỏi gánh nặng ngoại tệ",
+    "sentences": [
+      "Mỗi năm, Ấn Độ phải chi tới 150 tỷ USD để nhập khẩu 87% nhu cầu dầu mỏ.",
+      "Để thoát khỏi gánh nặng ngoại tệ"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC209",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "cơ quan hoạch định NITI Aayog đặt mục tiêu điện hóa tới 80% lượng xe hai bánh vào năm 2030.",
+    "sentences": [
+      "cơ quan hoạch định NITI Aayog đặt mục tiêu điện hóa tới 80% lượng xe hai bánh vào năm 2030."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC210",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Đây là thị trường khổng lồ tiêu thụ gần 20 triệu xe mỗi năm, trong đó xe máy điện vừa vượt mốc 1,4 triệu chiếc.",
+    "sentences": [
+      "Đây là thị trường khổng lồ tiêu thụ gần 20 triệu xe mỗi năm, trong đó xe máy điện vừa vượt mốc 1,4 triệu chiếc."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC211",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Chiến trường xe hai bánh điện tại Ấn Độ cũng đang chứng kiến một cuộc đổi ngôi ngoạn mục.",
+    "sentences": [
+      "Chiến trường xe hai bánh điện tại Ấn Độ cũng đang chứng kiến một cuộc đổi ngôi ngoạn mục."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC212",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "Kỳ lân công nghệ Ola Electric từng nắm tới 40% thị phần nhưng vừa rơi tự do xuống còn hơn 7%.",
+    "sentences": [
+      "Kỳ lân công nghệ Ola Electric từng nắm tới 40% thị phần nhưng vừa rơi tự do xuống còn hơn 7%."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC213",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Những sự cố cháy pin và khủng hoảng bảo hành khiến người tiêu dùng quay sang các hãng xe truyền thống như TVS và Bajaj.",
+    "sentences": [
+      "Những sự cố cháy pin và khủng hoảng bảo hành khiến người tiêu dùng quay sang các hãng xe truyền thống như TVS và Bajaj."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC214",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "text_overlay": "",
+    "visual_summary": "Khoảng trống niềm tin này mở toang cơ hội cho VinFast đưa các dòng xe bền bỉ như Feliz hay Evo vào thị trường.",
+    "sentences": [
+      "Khoảng trống niềm tin này mở toang cơ hội cho VinFast đưa các dòng xe bền bỉ như Feliz hay Evo vào thị trường."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC215",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Mô hình cho thuê pin linh hoạt kết hợp với mạng lưới giao",
+    "sentences": [
+      "Mô hình cho thuê pin linh hoạt kết hợp với mạng lưới giao"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC216",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "hàng công nghệ sẽ là vũ khí đánh thẳng vào phân khúc bình dân.",
+    "sentences": [
+      "hàng công nghệ sẽ là vũ khí đánh thẳng vào phân khúc bình dân."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC217",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Dưới góc nhìn công nghiệp, 1 triệu chiếc xe máy điện chính là chiếc phao cứu sinh cho bài toán tỷ lệ nội địa hóa.",
+    "sentences": [
+      "Dưới góc nhìn công nghiệp, 1 triệu chiếc xe máy điện chính là chiếc phao cứu sinh cho bài toán tỷ lệ nội địa hóa."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC218",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Bang Tamil Nadu vốn sản xuất tới 70% lượng xe máy điện toàn quốc",
+    "sentences": [
+      "Bang Tamil Nadu vốn sản xuất tới 70% lượng xe máy điện toàn quốc"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC219",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "với chuỗi cung ứng bản địa đã đạt tỷ lệ nội địa hóa 76%.",
+    "sentences": [
+      "với chuỗi cung ứng bản địa đã đạt tỷ lệ nội địa hóa 76%."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC220",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Dù khung vỏ khác nhau, xe máy và ô tô lại dùng chung cụm điện tử công suất, dây dẫn và dây chuyền đóng gói pin.",
+    "sentences": [
+      "Dù khung vỏ khác nhau, xe máy và ô tô lại dùng chung cụm điện tử công suất, dây dẫn và dây chuyền đóng gói pin."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC221",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Sản lượng khổng lồ của xe hai bánh sẽ gánh chi phí khấu hao",
+    "sentences": [
+      "Sản lượng khổng lồ của xe hai bánh sẽ gánh chi phí khấu hao"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC222",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "giúp tổ hợp đạt mốc 50% giá trị nội địa mà không bị sa lầy vào chi phí khuôn ô tô.",
+    "sentences": [
+      "giúp tổ hợp đạt mốc 50% giá trị nội địa mà không bị sa lầy vào chi phí khuôn ô tô."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC223",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Hơn nữa, hãng còn đón đầu gói trợ cấp PM E-Drive gần 33.000 tỷ đồng",
+    "sentences": [
+      "Hơn nữa, hãng còn đón đầu gói trợ cấp PM E-Drive gần 33.000 tỷ đồng"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC224",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "nơi chính phủ ưu tiên dòng tiền cho xe buýt và xe hai bánh.",
+    "sentences": [
+      "nơi chính phủ ưu tiên dòng tiền cho xe buýt và xe hai bánh."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC225",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Bằng cách đa dạng hóa danh mục, VinFast đã tự giải phóng mình khỏi thế kẹt của một xưởng lắp ráp ô tô đơn thuần.",
+    "sentences": [
+      "Bằng cách đa dạng hóa danh mục, VinFast đã tự giải phóng mình khỏi thế kẹt của một xưởng lắp ráp ô tô đơn thuần."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC226",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Nhưng giải quyết được bài toán chi phí ở cửa nhà máy mới chỉ là một nửa chặng đường.",
+    "sentences": [
+      "Nhưng giải quyết được bài toán chi phí ở cửa nhà máy mới chỉ là một nửa chặng đường."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC227",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Một chiếc xe dù rẻ đến đâu cũng sẽ trở thành thảm họa nếu không",
+    "sentences": [
+      "Một chiếc xe dù rẻ đến đâu cũng sẽ trở thành thảm họa nếu không"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC228",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "thể sống sót qua cái nóng thiêu đốt và những mùa mưa lũ Nam Á.",
+    "sentences": [
+      "thể sống sót qua cái nóng thiêu đốt và những mùa mưa lũ Nam Á."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC229",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Và đó là lúc, một cuộc cách mạng cơ khí âm thầm phải bắt đầu.",
+    "sentences": [
+      "Và đó là lúc, một cuộc cách mạng cơ khí âm thầm phải bắt đầu."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC230",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "text_overlay": "",
+    "visual_summary": "Nhìn thẳng vào phương trình chi phí",
+    "sentences": [
+      "Nhìn thẳng vào phương trình chi phí"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC231",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "quyết định tạm dừng nội địa hóa linh kiện tháng 7 năm 2026 không phải là một sự thoái lui.",
+    "sentences": [
+      "quyết định tạm dừng nội địa hóa linh kiện tháng 7 năm 2026 không phải là một sự thoái lui."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC232",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "Đó là thời điểm VinFast nhận ra nút thắt lớn nhất",
+    "sentences": [
+      "Đó là thời điểm VinFast nhận ra nút thắt lớn nhất"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC233",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Sự lệch pha giữa bản vẽ xe toàn cầu và năng lực thực tế của chuỗi cung ứng bản địa.",
+    "sentences": [
+      "Sự lệch pha giữa bản vẽ xe toàn cầu và năng lực thực tế của chuỗi cung ứng bản địa."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC234",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "text_overlay": "",
+    "visual_summary": "Khi mang những mẫu xe toàn cầu như VF 3, VF 6 hay VF 7 sang",
+    "sentences": [
+      "Khi mang những mẫu xe toàn cầu như VF 3, VF 6 hay VF 7 sang"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC235",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "các nhà cung ứng Ấn Độ buộc phải đầu tư những bộ khuôn dập vô cùng đắt đỏ. Với sản lượng ban đầu còn khiêm tốn",
+    "sentences": [
+      "các nhà cung ứng Ấn Độ buộc phải đầu tư những bộ khuôn dập vô cùng đắt đỏ.",
+      "Với sản lượng ban đầu còn khiêm tốn"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC236",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "chi phí khấu hao dội ngược vào từng linh kiện khiến giá thành sản xuất tại chỗ trở nên đắt đỏ một cách phi lý.",
+    "sentences": [
+      "chi phí khấu hao dội ngược vào từng linh kiện khiến giá thành sản xuất tại chỗ trở nên đắt đỏ một cách phi lý."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC237",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Trước những thông tin đồn đoán, VinFast đã chính thức lên tiếng bác bỏ việc dừng hoạt động.",
+    "sentences": [
+      "Trước những thông tin đồn đoán, VinFast đã chính thức lên tiếng bác bỏ việc dừng hoạt động."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC238",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Dây chuyền tại Thoothukudi vẫn tiếp tục lắp ráp CKD từ tổ hợp Cát Hải để bảo",
+    "sentences": [
+      "Dây chuyền tại Thoothukudi vẫn tiếp tục lắp ráp CKD từ tổ hợp Cát Hải để bảo"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC239",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "vệ vị trí Top 4 thị phần và phục vụ hơn 60 đại lý trên toàn quốc.",
+    "sentences": [
+      "vệ vị trí Top 4 thị phần và phục vụ hơn 60 đại lý trên toàn quốc."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC240",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Nhưng ở tầm nhìn dài hạn, hãng đã công bố một bước chuyển dịch lớn.",
+    "sentences": [
+      "Nhưng ở tầm nhìn dài hạn, hãng đã công bố một bước chuyển dịch lớn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC241",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Đó là chuyển từ việc thích ứng các mẫu xe toàn cầu sang thiết kế các dòng xe điện chuyên biệt cho thị trường Ấn Độ.",
+    "sentences": [
+      "Đó là chuyển từ việc thích ứng các mẫu xe toàn cầu sang thiết kế các dòng xe điện chuyên biệt cho thị trường Ấn Độ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC242",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Đây chính là lời giải căn cơ cho bài toán chi phí.",
+    "sentences": [
+      "Đây chính là lời giải căn cơ cho bài toán chi phí."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC243",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "Muốn linh kiện nội địa thực sự rẻ, các kỹ sư không thể ép nhà xưởng chạy theo những bản vẽ xa lạ.",
+    "sentences": [
+      "Muốn linh kiện nội địa thực sự rẻ, các kỹ sư không thể ép nhà xưởng chạy theo những bản vẽ xa lạ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC244",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "text_overlay": "",
+    "visual_summary": "Họ phải thiết kế chiếc xe tương lai từ chính máy móc",
+    "sentences": [
+      "Họ phải thiết kế chiếc xe tương lai từ chính máy móc"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC245",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "vật liệu và dung sai sẵn có của hơn 300 nhà cung cấp bản xứ.",
+    "sentences": [
+      "vật liệu và dung sai sẵn có của hơn 300 nhà cung cấp bản xứ."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC246",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "Đó là giải pháp pin LFP bền nhiệt cho mùa hè 50 độ C",
+    "sentences": [
+      "Đó là giải pháp pin LFP bền nhiệt cho mùa hè 50 độ C"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC247",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "chuẩn chống nước mùa ngập lụt, cùng hệ thống treo bền bỉ trên đường phố Nam Á.",
+    "sentences": [
+      "chuẩn chống nước mùa ngập lụt, cùng hệ thống treo bền bỉ trên đường phố Nam Á."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC248",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Khi kết hợp thiết kế may đo này với quy mô 1 triệu xe máy điện từ Giai đoạn 2",
+    "sentences": [
+      "Khi kết hợp thiết kế may đo này với quy mô 1 triệu xe máy điện từ Giai đoạn 2"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC249",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "text_overlay": "",
+    "visual_summary": "bài toán kinh tế quy mô sẽ được kích hoạt toàn diện. Chuỗi cung ứng có đủ sản lượng để hạ giá thành",
+    "sentences": [
+      "bài toán kinh tế quy mô sẽ được kích hoạt toàn diện.",
+      "Chuỗi cung ứng có đủ sản lượng để hạ giá thành"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC250",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "text_overlay": "",
+    "visual_summary": "giúp tổ hợp Thoothukudi tiến tới mục tiêu nội địa hóa 50% theo quy định mà không bị gãy dòng tiền.",
+    "sentences": [
+      "giúp tổ hợp Thoothukudi tiến tới mục tiêu nội địa hóa 50% theo quy định mà không bị gãy dòng tiền."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC251",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Hơn thế nữa, nằm sát cảng nước sâu quốc tế và thủ phủ điện gió Tamil Nadu",
+    "sentences": [
+      "Hơn thế nữa, nằm sát cảng nước sâu quốc tế và thủ phủ điện gió Tamil Nadu"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC252",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "nhà máy còn được định vị là một cứ điểm xuất khẩu xanh.",
+    "sentences": [
+      "nhà máy còn được định vị là một cứ điểm xuất khẩu xanh."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC253",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Việc sản xuất xe điện phát thải thấp tại đây là tấm hộ chiếu giúp",
+    "sentences": [
+      "Việc sản xuất xe điện phát thải thấp tại đây là tấm hộ chiếu giúp"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC254",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "hãng né mức thuế phạt carbon CBAM tới 35% khi sang thị trường châu Âu.",
+    "sentences": [
+      "hãng né mức thuế phạt carbon CBAM tới 35% khi sang thị trường châu Âu."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC255",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "text_overlay": "",
+    "visual_summary": "Đây chính là bài học lịch sử mà Maruti Suzuki đã kiên trì",
+    "sentences": [
+      "Đây chính là bài học lịch sử mà Maruti Suzuki đã kiên trì"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC256",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "text_overlay": "",
+    "visual_summary": "theo đuổi suốt 4 thập kỷ để đạt tỷ lệ nội địa hóa 90%.",
+    "sentences": [
+      "theo đuổi suốt 4 thập kỷ để đạt tỷ lệ nội địa hóa 90%."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC257",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "text_overlay": "",
+    "visual_summary": "Hãng xe Nhật Bản thành công không phải nhờ áp đặt công nghệ từ Tokyo",
+    "sentences": [
+      "Hãng xe Nhật Bản thành công không phải nhờ áp đặt công nghệ từ Tokyo"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC258",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "mà nhờ kiên nhẫn may đo từng chi tiết cơ khí cùng các nhà xưởng bản địa.",
+    "sentences": [
+      "mà nhờ kiên nhẫn may đo từng chi tiết cơ khí cùng các nhà xưởng bản địa."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC259",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Sau những va vấp ban đầu, bài toán tại Ấn Độ giờ đây đã rõ ràng hơn.",
+    "sentences": [
+      "Sau những va vấp ban đầu, bài toán tại Ấn Độ giờ đây đã rõ ràng hơn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC260",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Một hãng xe không thể tiếp tục đổ tiền làm khuôn dập khi thị trường chưa đủ lớn.",
+    "sentences": [
+      "Một hãng xe không thể tiếp tục đổ tiền làm khuôn dập khi thị trường chưa đủ lớn."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC261",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "text_overlay": "",
+    "visual_summary": "Họ cũng không thể mang nguyên xi những thứ xa lạ để ép người tiêu dùng bản địa chấp nhận.",
+    "sentences": [
+      "Họ cũng không thể mang nguyên xi những thứ xa lạ để ép người tiêu dùng bản địa chấp nhận."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC262",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "text_overlay": "",
+    "visual_summary": "Hành trình phía trước của VinFast tại quốc gia tỷ dân chắc chắn sẽ còn vô vàn biến số.",
+    "sentences": [
+      "Hành trình phía trước của VinFast tại quốc gia tỷ dân chắc chắn sẽ còn vô vàn biến số."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC263",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "text_overlay": "",
+    "visual_summary": "Liệu bước lùi chiến thuật này có giúp họ cắm rễ và trụ vững ở một trong những thị trường khốc liệt nhất thế giới?",
+    "sentences": [
+      "Liệu bước lùi chiến thuật này có giúp họ cắm rễ và trụ vững ở một trong những thị trường khốc liệt nhất thế giới?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC264",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "text_overlay": "",
+    "visual_summary": "Hay đây mới chỉ là khúc dạo đầu cho những bài kiểm tra nghiệt ngã hơn đang đón đợi ở phía trước?",
+    "sentences": [
+      "Hay đây mới chỉ là khúc dạo đầu cho những bài kiểm tra nghiệt ngã hơn đang đón đợi ở phía trước?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC265",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "text_overlay": "",
+    "visual_summary": "Câu trả lời xin dành lại cho sự quan sát và đánh giá của chính quý vị.",
+    "sentences": [
+      "Câu trả lời xin dành lại cho sự quan sát và đánh giá của chính quý vị."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC266",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "text_overlay": "",
+    "visual_summary": "Nội dung video được nghiên cứu và biên tập độc lập từ các báo cáo chính sách, dữ liệu thị trường và nguồn tin công khai.",
+    "sentences": [
+      "Nội dung video được nghiên cứu và biên tập độc lập từ các báo cáo chính sách, dữ liệu thị trường và nguồn tin công khai."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC267",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "text_overlay": "",
+    "visual_summary": "Mọi thông tin chỉ mang tính chất chia sẻ kiến thức kinh tế và góc nhìn tham khảo",
+    "sentences": [
+      "Mọi thông tin chỉ mang tính chất chia sẻ kiến thức kinh tế và góc nhìn tham khảo"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "SC268",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "text_overlay": "",
+    "visual_summary": "không cấu thành lời khuyên đầu tư dưới mọi hình thức.",
+    "sentences": [
+      "không cấu thành lời khuyên đầu tư dưới mọi hình thức."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  }
+]

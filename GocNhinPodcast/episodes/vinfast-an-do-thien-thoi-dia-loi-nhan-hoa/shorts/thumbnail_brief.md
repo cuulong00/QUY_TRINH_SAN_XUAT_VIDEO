@@ -1,0 +1,37 @@
+# Shorts Thumbnail Brief — VinFast Ấn Độ: Thiên thời - Địa lợi - Nhân hòa
+
+- **Episode Slug:** vinfast-an-do-thien-thoi-dia-loi-nhan-hoa
+- **Format:** Vertical 9:16 (YouTube Shorts Cover)
+- **Video Title:** VinFast Ấn Độ: Thiên thời - Địa lợi - Nhân hòa
+- **Status:** Shorts Thumbnail Prompts Corrected (Fully Adapted from Long-form Option A with Burnt Orange-Red Font and Proper Vietnamese Accents)
+
+---
+
+## I. Yêu cầu Bố cục & Thiết kế (Visual Direction)
+
+*   **Tỷ lệ khung hình:** Dọc `9:16` trực tiếp.
+*   **Focal Point (Điểm hội tụ thị giác):** Một nhóm các cô gái Ấn Độ mặc trang phục rực rỡ đang tranh nhau, chen chúc lên chiếc taxi Xanh SM màu xanh cyan lục bảo đặc trưng. Phía trong xe, ở vị trí ghế lái bên phải (tay lái nghịch - RHD), tỷ phú Phạm Nhật Vượng làm tài xế đang mỉm cười chào đón họ.
+*   **Headline chữ (Adapted from Option A):** 
+    *   Dòng 1: `ẤN ĐỘ`
+    *   Dòng 2: `TRANH NHAU ĐI XANH SM` (Sử dụng đúng từ "Xanh SM" viết hoa chữ X và SM, tiếng Việt có dấu đầy đủ)
+*   **Màu sắc chữ:** Màu đỏ sặc sỡ dạng **Cam Cháy** (`vibrant burnt orange-red` / `#FF4500` hoặc `#E64A19`), chữ dạng khối đặc (solid matte/glossy metal) có độ tương phản cực kỳ cao, không phát sáng neon.
+*   **Độ rõ nét (Legibility):** Chữ overlay được căn trái hoặc đặt ở nửa trên khung hình, có bóng đổ đen dày (`heavy black drop-shadow`) hoặc viền đen sắc nét (`thick crisp black outline`) để nổi bật hoàn toàn khỏi nền. Mảng nền phía sau chữ được làm mờ tối giản.
+
+---
+
+## II. 5 Phiên Bản Prompt Tạo Ảnh Dọc 9:16 Cập Nhật (A/B Testing)
+
+### Phiên bản S1 (Chuẩn Brand GocNhinPodcast - Cập nhật màu Cam Cháy)
+> A dramatic vertical 9:16 cinematic YouTube Shorts thumbnail. In the background, a dynamic and colorful crowd of beautiful Indian women in traditional and modern Indian clothing is eagerly rushing and competing to get into a modern electric taxi. The taxi is painted in a vibrant, signature electric cyan (teal-cyan) color, with the white text "Xanh SM" printed boldly on the side door. Sitting in the driver's seat on the right side of this right-hand drive taxi, a middle-aged Vietnamese man resembling Pham Nhat Vuong with short black hair and friendly features is smiling and welcoming them. In the upper-left area, a prominent, highly legible text overlay is stacked vertically: the first line reads "ẤN ĐỘ" in solid pure white color, and the second line reads "TRANH NHAU ĐI XANH SM" (with capital letter "X" and capitalized "SM" in white bold font) in a vibrant, solid burnt orange-red color (#FF4500). Both lines have a thick crisp black outline and are placed against a darkened, low-contrast, blurred portion of the background for maximum legibility on mobile feeds. Dramatic studio lighting with deep shadows, gold highlights. Symmetrical composition. No watermarks, no neon text, no glowing effects, no abstract metaphors.
+
+### Phiên bản S2 (Tự do tối ưu CTR - Chữ 3D Thép mạ Crom bóng: 'ẤN ĐỘ' màu Vàng Gold, 'TRANH NHAU ĐI XANH SM' màu Cam Cháy Glossy)
+> A dramatic vertical 9:16 cinematic YouTube Shorts thumbnail. In the background, a lively crowd of Indian women in colorful attire is eagerly rushing toward a modern electric cyan (teal-cyan) SUV taxi cab with the white brand name "Xanh SM" displayed on its side. Inside the right-hand drive vehicle, in the driver's seat on the right, a friendly middle-aged Vietnamese businessman resembling Pham Nhat Vuong with neat short hair is smiling and looking out the window, welcoming them. In the upper part on the left, a massive, highly legible 3D text overlay is stacked vertically: the first line reads "ẤN ĐỘ" in a glossy solid gold metal color (#FFD700), and the second line reads "TRANH NHAU ĐI XANH SM" (with capital letter "X" and capitalized "SM", and correct Vietnamese accents) in solid, glossy burnt orange-red metallic font (#E64A19). Both lines have a thick, crisp black outline and a heavy black drop-shadow. The background behind the text is darkened and simplified. Warm dramatic street lighting, intense focal point, high contrast. No glowing neon, no abstract shapes, no watermarks.
+
+### Phiên bản S3 (Tự do tối ưu CTR - 'ẤN ĐỘ' màu Trắng Tuyết, 'TRANH NHAU ĐI XANH SM' màu Cam Cháy Matte)
+> A dramatic vertical 9:16 cinematic YouTube Shorts thumbnail. A wide-angle shot shows a crowd of Indian ladies in vibrant traditional dresses eagerly trying to board a shiny electric cyan (teal-cyan) taxi featuring the bold white words "Xanh SM" on the door. Sitting in the driver's seat on the right side of the vehicle, a friendly middle-aged Vietnamese man resembling Pham Nhat Vuong with short black hair is smiling and welcoming the passengers. On the upper left side of the screen, a massive, highly legible 3D typography text overlay is stacked vertically: the first line reads "ẤN ĐỘ" in a clean solid snow-white color, and the second line reads "TRANH NHAU ĐI XANH SM" (with capital letter "X" and capitalized "SM", and correct Vietnamese accents) in a heavy, solid matte burnt orange-red (#FF4500) metal font. Both lines feature a thick sharp black outline and a strong drop-shadow. The text area is placed over a darkened, low-detail vignette background. High contrast, warm cinematic lighting, editorial style. No glowing neon text, no abstract shapes.
+
+### Phiên bản S4 (Tự do tối ưu CTR - 'ẤN ĐỘ' màu Trắng, 'TRANH NHAU ĐI XANH SM' màu Đỏ tươi Cảnh báo)
+> A dramatic vertical 9:16 cinematic YouTube Shorts thumbnail. A busy street scene in Delhi, India, where a group of Indian women is actively crowding around a modern electric cyan (teal-cyan) taxi marked with "Xanh SM" in bold white. Inside the car on the right-hand side, a middle-aged Vietnamese man resembling Pham Nhat Vuong is in the driver's seat, smiling and gesturing welcome. In the upper-left, a massive, blocky, highly legible text overlay is stacked vertically: the first line reads "ẤN ĐỘ" in solid white color, and the second line reads "TRANH NHAU ĐI XANH SM" (with capital letter "X" and capitalized "SM", and correct Vietnamese accents) in a solid vibrant burnt orange-red (#FF3D00) color. Both lines use a heavy geometric sans-serif typeface with a thick, crisp black outline and heavy black drop-shadow. The background panel behind the text is darkened for extreme contrast. Powerful street look, dramatic lighting. No neon glow, no watermarks.
+
+### Phiên bản S5 (Tự do tối ưu CTR - 'ẤN ĐỘ' màu Vàng Gold, 'TRANH NHAU ĐI XANH SM' màu Cam Cháy Titanium)
+> A dramatic vertical 9:16 cinematic YouTube Shorts thumbnail. In the background, a crowd of Indian women with realistic Asian features eagerly surrounds a fleet of vibrant electric cyan (teal-cyan) SUV taxis featuring the white text "Xanh SM" on the side. Sitting in the driver's seat on the right side of the leading taxi, a friendly middle-aged Vietnamese man resembling Pham Nhat Vuong with short black hair is smiling and welcoming them. In the upper part, a prominent, highly legible 3D text overlay is stacked vertically: the first line reads "ẤN ĐỘ" in a solid bright gold color (#FFD700), and the second line reads "TRANH NHAU ĐI XANH SM" (with capital letter "X" and capitalized "SM", and correct Vietnamese accents) in a solid, heavy blocky titanium-metal font coated in deep burnt orange-red lacquer (#E64A19). Both lines have a thick sharp black outline and a solid black drop-shadow. The text is placed against a darkened, low-detail, blurred vignette background to ensure legibility at small sizes. Cold cinematic color grading with dramatic shadows. No neon text, no glowing effects, no watermarks.

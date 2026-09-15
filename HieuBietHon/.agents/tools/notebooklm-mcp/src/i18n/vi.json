@@ -1,0 +1,120 @@
+{
+  "$schema": "./locale-schema.json",
+  "locale": "vi",
+  "name": "Vietnamese",
+  "description": "Vietnamese UI selectors for NotebookLM",
+
+  "tabs": {
+    "sources": "Nguồn",
+    "discussion": "Thảo luận",
+    "studio": "Studio"
+  },
+
+  "buttons": {
+    "addSource": "Thêm nguồn",
+    "addNote": "Thêm ghi chú",
+    "newNote": "Ghi chú mới",
+    "insert": "Chèn",
+    "add": "Thêm",
+    "upload": "Tải lên",
+    "delete": "Xóa",
+    "remove": "Loại bỏ",
+    "confirm": "Xác nhận",
+    "yes": "Có",
+    "cancel": "Hủy",
+    "close": "Đóng",
+    "save": "Lưu",
+    "done": "Xong",
+    "create": "Tạo",
+    "download": "Tải xuống",
+    "generate": "Tạo ra"
+  },
+
+  "sourceTypes": {
+    "uploadFiles": "Tải tệp lên",
+    "website": "Trang web",
+    "link": "Đường liên kết",
+    "url": "URL",
+    "pastedText": "Văn bản sao chép",
+    "drive": "Drive",
+    "youtube": "YouTube"
+  },
+
+  "placeholders": {
+    "pasteUrl": "Dán",
+    "enterUrl": "Nhập",
+    "pasteLinks": "liên kết"
+  },
+
+  "sourceNames": {
+    "pastedText": "Văn bản đã dán"
+  },
+
+  "contentTypes": {
+    "audio": "Âm thanh",
+    "video": "Video",
+    "presentation": "Bản trình bày",
+    "slides": "Trang slide",
+    "infographic": "Đồ họa thông tin",
+    "report": "Báo cáo",
+    "briefing": "Tài liệu tóm tắt",
+    "dataTable": "Bảng dữ liệu",
+    "table": "Bảng"
+  },
+
+  "contentOptions": {
+    "videoStyles": {
+      "classroom": "Lớp học",
+      "documentary": "Tài liệu",
+      "animated": "Hoạt hình",
+      "corporate": "Doanh nghiệp",
+      "cinematic": "Điện ảnh",
+      "minimalist": "Tối giản"
+    },
+    "videoFormats": {
+      "brief": "Tóm tắt",
+      "explainer": "Giải thích"
+    },
+    "presentationStyles": {
+      "detailedSlideshow": "Trình chiếu chi tiết",
+      "presenterNotes": "Ghi chú người thuyết trình"
+    },
+    "presentationLengths": {
+      "short": "Ngắn",
+      "default": "Mặc định"
+    },
+    "infographicFormats": {
+      "horizontal": "Ngang",
+      "vertical": "Dọc"
+    },
+    "reportFormats": {
+      "summary": "Tóm tắt",
+      "detailed": "Chi tiết"
+    }
+  },
+
+  "dialogs": {
+    "selectLanguage": "Chọn ngôn ngữ",
+    "language": "Ngôn ngữ"
+  },
+
+  "actions": {
+    "openInSheets": "Mở trong Trang tính",
+    "openInSlides": "Mở trong Trang trình bày",
+    "deepDive": "Nghiên cứu sâu",
+    "audioOverview": "Tóm tắt âm thanh",
+    "addToSources": "Thêm vào nguồn",
+    "convertToSource": "Chuyển thành nguồn"
+  },
+
+  "status": {
+    "generating": "Đang tạo...",
+    "processing": "Đang xử lý...",
+    "ready": "Sẵn sàng"
+  },
+
+  "errors": {
+    "error": "Lỗi",
+    "rateLimitReached": "Bạn đã đạt đến hạn mức hàng ngày"
+  }
+}

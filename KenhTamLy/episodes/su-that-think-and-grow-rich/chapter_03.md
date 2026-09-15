@@ -1,0 +1,15 @@
+Trong chương mười ba sách Nghĩ Giàu và Làm Giàu, Napoleon Hill nêu một giả thuyết. Ông cho rằng bộ não người vừa là trạm phát, vừa là trạm thu sóng tư duy. Hill lập luận như sau. Giống như máy vô tuyến điện, nếu tập trung nghĩ về giàu sang đủ mạnh, bộ não sẽ phát sóng năng lượng vào vũ trụ. Từ đó, nó thu hút cơ hội và nguồn lực vật lý tương ứng quay trở lại. Điều này đã trở thành nền tảng lý thuyết cho toàn bộ trào lưu Luật hấp dẫn và biểu hiện hóa sau này.
+
+Nhưng dưới lăng kính của vật lý học và sinh học thần kinh thực chứng, cơ cấu sinh học của chúng ta vận hành theo một cách hoàn toàn khác.
+
+Năm 1924, bác sĩ Hans Berger lần đầu tiên ghi lại được dòng điện của bộ não người bằng phương pháp điện não đồ (EEG). Phát kiến vĩ đại này chứng minh rằng tế bào thần kinh giao tiếp với nhau bằng các tín hiệu điện sinh học. Tuy nhiên, sóng não được đo bằng điện não đồ thực chất chỉ là những dao động điện thế cực kỳ nhỏ trên da đầu. Chúng sinh ra từ sự dịch chuyển đồng bộ của các ion tích điện dương như Natri và Canxi qua màng tế bào của hàng triệu nơ-ron ở vỏ não. Sự chuyển dịch ion này tạo thành các lưỡng cực dòng điện cục bộ.
+
+Theo các định luật điện từ học, dòng điện này quả thực có sinh ra một từ trường. Nhưng cường độ từ trường của bộ não người cực kỳ yếu, chỉ dao động từ mười femtotesla đến một picotesla. Để dễ hình dung sự nhỏ bé này, từ trường của Trái Đất mà chúng ta đang sống mạnh khoảng ba mươi đến sáu mươi microtesla. Nghĩa là, từ trường sinh ra từ suy nghĩ của bộ não yếu hơn từ trường Trái Đất từ ba mươi triệu đến sáu mươi triệu lần. Thậm chí, từ trường của một chiếc nam châm dán tủ lạnh loại nhỏ cũng mạnh hơn từ trường của não bộ hàng tỷ lần.
+
+Theo quy luật vật lý của bức xạ từ, cường độ từ trường này suy giảm cực kỳ nhanh chóng theo khoảng cách. Nó hoàn toàn bị giới hạn bởi hộp sọ dày của con người. Khi dòng điện ion cố thoát ra khỏi xương sọ, nó lập tức biến mất. Nó bị hòa lẫn vào tiếng ồn điện từ khổng lồ của môi trường xung quanh. Thiết bị hiện đại không thể đo từ trường não ở khoảng cách vài mét. Trừ khi bạn dùng phòng cách âm từ tính siêu việt. Kèm theo máy đo MEG khổng lồ được làm lạnh bằng heli lỏng để chặn toàn bộ từ trường môi trường.
+
+Vì thế, ý tưởng dùng sóng não để thu hút tiền bạc là điều bất khả thi về vật lý. Hộp sọ của bạn là một bức tường vật lý ngăn cách tuyệt đối dòng điện ion nội môi với không gian bên ngoài.
+
+Cố ép bản thân phát sóng ý nghĩ đẩy ta vào nỗ lực cực đoan. Triết lý cổ xưa gọi đây là Hữu Vi cực đoan. Bộ não phải làm việc nặng nề để đàn áp những suy nghĩ tự nhiên, tạo ra áp lực nhận thức top-down làm cạn kiệt năng lượng của vỏ não trước trán. Ta tưởng mình kết nối với vũ trụ. Nhưng thực chất, ta chỉ đang tự làm kiệt quệ hệ thần kinh trong sự cô lập của hộp sọ. Ngược lại, minh triết cổ xưa chỉ ra hành động hiệu quả nhất nằm ở Vô Vi. Nghĩa là làm mà như không làm. Hành động tự diễn ra trôi chảy nhờ thích nghi môi trường, thay vì cố điều khiển vũ trụ bằng ảo tưởng.
+
+Nhưng nếu sóng não không thể thu hút vật chất, tại sao mơ mộng vẫn mang lại cảm giác hưng phấn dễ chịu? Câu trả lời nằm ở cơ chế Dopamine ảo.

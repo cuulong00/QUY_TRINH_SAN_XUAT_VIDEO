@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Quyết định đặc cách cho vay lớn nhất lịch sử ngành ngân hàng Việt Nam vừa được ban hành."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Chiếc búa gỗ vĩ mô đại diện cho chính sách nhà nước giáng mạnh xuống nền slate tối, tạo ra các làn sóng chấn động màu xanh lục bảo (tín dụng) lan tỏa rộng khắp bản đồ tài chính.",
+    "base_english_prompt": "A steady cinematic shot showing a heavy golden policy gavel striking a dark slate surface, sending glowing emerald green shockwaves outward across a dark digital financial grid, 60-30-10 color palette"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Công văn năm ba tám sáu mở toang room tín dụng cho mười tám siêu dự án."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cổng sắt khổng lồ màu xám tối mang nhãn khắc 'CREDIT GATE 5386' từ từ mở rộng sang hai bên, giải phóng một luồng ánh sáng vàng kim mạnh mẽ chiếu sáng 18 bóng đen dự án hạ tầng đang vươn cao ở phía xa.",
+    "base_english_prompt": "A slow camera panning showing a massive dark iron gate labeled \"CREDIT GATE 5386\" opening slowly, bright golden light beaming from inside to illuminate 18 abstract skyscraper silhouettes in the background, deep noir shadows, glowing gold highlights"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Tổng nhu cầu vốn của danh mục này lên tới hơn bảy trăm năm mươi hai nghìn tỷ đồng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Con số phát sáng trắng kem '752,000 BILLION' nổi bật trên không gian tối vĩ mô, được nâng đỡ bởi các cột tài chính cách điệu màu vàng đồng xếp chồng chồng lớp lớp.",
+    "base_english_prompt": "A steady shot showing the glowing warm cream text \"752,000 BILLION\" in elegant thin sans-serif font centered in the upper third, supported by towering golden abstract column structures, dark warm charcoal background, clean outlines"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Con số này tương đương với gần bốn phần trăm tổng số tiền cho vay của toàn hệ thống."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu đồ tròn đồ họa tối giản nổi trên nền tối; một lát cắt mảnh 4% phát sáng màu vàng đồng chói lọi, tương phản hoàn hảo với phần còn lại chìm sâu trong bóng tối xám xịt của hệ thống.",
+    "base_english_prompt": "A subtle slow pan showing a dark slate pie chart, with a tiny 4% slice glowing intensely in amber gold while the remaining 96% is cast in deep shadow, dark warm charcoal background, clean silver gray details"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Một dòng vốn khổng lồ chuẩn bị đổ vào các công trình hạ tầng chiến lược quốc gia."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một dòng thác năng lượng màu xanh lục bảo cuồn cuộn chảy mạnh, chia nhánh đổ vào các mô hình công trình cầu cảng, đường cao tốc màu vàng đồng lấp lánh.",
+    "base_english_prompt": "A slow camera panning showing a rushing river of glowing emerald green energy dividing into pathways to power golden wireframe models of bridges and highways, dark charcoal background"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "duration_sec": 3.94,
+    "sentences": [
+      "Đó là tuyến đường sắt tốc độ cao Hà Nội đi Quảng Ninh của Vinspeed."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Tàu cao tốc 2D tối giản lướt nhanh trên đường ray màu vàng đồng phát sáng, kết nối các nút đô thị cách điệu mang nhãn 'NORTHERN NODE' và 'EASTERN NODE' hiển thị ở góc màn hình.",
+    "base_english_prompt": "A steady shot of a stylized 2D bullet train speeding on a glowing gold rail track connecting minimalist city nodes labeled \"NORTHERN NODE\" and \"EASTERN NODE\" displayed in thin white font, dark navy background, clean outlines"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Là siêu dự án đường sắt Bến Thành đi Cần Giờ trị giá hơn một trăm lẻ hai nghìn tỷ đồng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bản đồ địa hình tối giản Nam Bộ, hiển thị tuyến đường ray màu vàng đồng phát sáng nối 'METRO TERMINAL' và 'PORT REGION', bên trên là con số '102,000 BILLION' phát sáng nhẹ nhàng.",
+    "base_english_prompt": "A subtle slow pan showing an abstract map of southern delta region with a glowing gold transit line between \"METRO TERMINAL\" and \"PORT REGION\", glowing text \"102,000 BILLION\" centered in the upper third, dark grey backdrop"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "duration_sec": 4.2,
+    "sentences": [
+      "Là cảng hàng không quốc tế Gia Bình đạt tiêu chuẩn 4F cao nhất thế giới."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Tháp kiểm soát không lưu 2D tối giản màu vàng đồng, một máy bay cất cánh vút lên bầu trời đêm xám xanh, góc phải hiển thị nhãn chữ 'AIRPORT 4F'.",
+    "base_english_prompt": "A steady shot showing a minimalist golden airport control tower and an ascending airplane silhouette, with the English text \"AIRPORT 4F\" aligned to the bottom-right corner, dark navy sky background, clean lines"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Và cả cụm hạ tầng khổng lồ phục vụ hội nghị APEC hai nghìn không trăm hai bảy tại Phú Quốc."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đồ họa hòn đảo phát sáng sắc màu vàng đồng, phía trên lơ lửng biểu tượng hội nghị 2D tối giản mang nhãn 'SUMMIT 2027' trên phông nền đại dương tối.",
+    "base_english_prompt": "A slow camera panning showing a stylized golden outline of an island, with a geometric logo labeled \"SUMMIT 2027\" floating above, deep indigo gradient background"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "duration_sec": 1.57,
+    "sentences": [
+      "Theo cơ chế đặc cách mới."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một văn bản chính sách cuộn tròn, được niêm phong bằng sáp nóng màu xanh lục bảo nổi bật dấu sao vàng ở trung tâm.",
+    "base_english_prompt": "A subtle slow zoom-in showing a formal government decree document sealed with a star-embossed emerald green wax seal, dark warm charcoal background"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Toàn bộ khoản cho vay hằng năm của mười tám dự án này sẽ không bị tính vào hạn mức tín dụng chung."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Vòng tròn rào cản màu đỏ mang nhãn 'CREDIT LIMIT' bị nứt vỡ thành nhiều mảnh, tạo khoảng trống cho các luồng hạt ánh sáng xanh lục tự do chảy tràn ra ngoài.",
+    "base_english_prompt": "A slow camera panning showing a red neon circle labeled 'CREDIT LIMIT' cracking open, allowing green data particles to flow outwards unrestricted, dark charcoal background"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Các ngân hàng được tự do cho vay mà không lo sợ bị phạt vượt trần room."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Sợi dây xích sắt xám đen quấn quanh tòa nhà ngân hàng lớn bỗng nứt nẻ và vỡ vụn dưới sức ép của luồng sáng xanh lục bảo phát ra từ bên trong.",
+    "base_english_prompt": "A steady shot showing heavy iron chains around a stylized bank building cracking and falling away, glowing green light radiating from the windows, dark slate backdrop"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Truyền thông lập tức đưa tin hào hứng về một đợt bơm tiền hỗ trợ vĩ mô mạnh mẽ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hình ảnh lướt nhanh của các bài báo vĩ mô với các dòng tít lớn 'LIQUIDITY INFUSION', 'ROOM EXPANSION' màu xanh lục tươi tắn, biểu thị bầu không khí lạc quan.",
+    "base_english_prompt": "A steady shot of abstract newspaper sheets floating in, with prominent green headlines reading 'LIQUIDITY INFUSION' and 'ROOM EXPANSION', dark grey background"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Nhưng có một nghịch lý cốt lõi mà các bản tin tài chính ít khi bóc tách."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cảnh tượng chìm vào bóng tối sâu thẳm, một chiếc bập bênh cơ học tài chính bị nghiêng đổ lệch hẳn về phía có biểu tượng cảnh báo màu đỏ chói.",
+    "base_english_prompt": "A steady shot showing a mechanical scale tilting deeply to one side, one tray holding a green document, the other tray empty with a blinking crimson red warning light, dark matte background"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Hạn mức room tín dụng thực chất chỉ là một con số giới hạn trên giấy tờ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một mảnh giấy mỏng phẳng dẹt lơ lửng giữa lưới tọa độ xám xịt, có nhãn 'ADMINISTRATIVE LIMIT', chỉ mang tính thủ tục giấy tờ.",
+    "base_english_prompt": "A subtle slow pan showing a flat grey blueprint document labeled 'ADMINISTRATIVE LIMIT' floating on a dark coordinate grid, minimalist outline style"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "duration_sec": 3.67,
+    "sentences": [
+      "Nó giống như một tấm giấy phép chi tiêu được cấp trên phê duyệt."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một dấu mộc màu đỏ lớn mang chữ 'SPENDING PERMIT' đóng cộp lên tờ giấy trắng mỏng lơ lửng giữa màn đêm vĩ mô.",
+    "base_english_prompt": "A steady shot showing a giant mechanical stamp pressing the red text 'SPENDING PERMIT' onto a floating blank sheet of paper, dark background, conceptual design"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Nhưng tấm giấy phép đó không tự sinh ra tiền mặt thực tế trong két sắt của các ngân hàng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Két sắt ngân hàng bằng kim loại xám mở toang, bên trong khô khốc, hoàn toàn trống rỗng không có tiền mặt, chỉ có ánh sáng đỏ nhạt quét qua đáy két.",
+    "base_english_prompt": "A steady shot of an open heavy steel vault door, showing a completely empty dark interior with a single sweeping red searchlight, high contrast chiaroscuro"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Ngân hàng muốn giải ngân tiền tươi thóc thật thì buộc phải có nguồn tiền gửi thực tế tương ứng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một dòng tiền giấy màu xanh lục bảo chảy qua một phễu lọc thủy tinh lớn để rót đầy vào hộc tiền của ngân hàng, biểu thị dòng tiền tươi thực tế.",
+    "base_english_prompt": "A slow camera panning showing a stream of green banknotes flowing through a clean glass funnel into a banking deposit box, dark warm charcoal background"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Được phép cho vay và có tiền để cho vay là hai bài toán hoàn toàn khác nhau."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Màn hình phân đôi bằng một vạch xám mỏng: bên trái là biểu tượng giấy phép 'PERMIT' xanh lục, bên phải là chiếc két rỗng màu đỏ cảnh báo.",
+    "base_english_prompt": "A steady shot showing a split-screen layout: the left half features a green document labeled 'PERMIT', the right half displays an empty vault with a red outline, dark grey background"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Nhu cầu vốn vay khổng lồ này lớn tới mức vượt qua khả năng của bất kỳ ngân hàng đơn lẻ nào."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Tòa nhà ngân hàng đơn độc màu xám xịt bị rạn nứt dưới sức đè của một khối đá vàng khổng lồ mang nhãn 'INFRASTRUCTURE DEBT' trĩu nặng.",
+    "base_english_prompt": "A steady shot showing a single bank building silhouette cracking under the weight of a massive golden slab labeled 'INFRASTRUCTURE DEBT', dark slate background"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Đó là lý do nhà điều hành khuyến khích các ngân hàng bắt tay cùng cho vay để chia sẻ rủi ro."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Nhiều ngân hàng nhỏ liên kết với nhau bằng một mạng lưới dây cáp phát sáng xanh lục để cùng chung tay gánh đỡ khối vàng khổng lồ.",
+    "base_english_prompt": "A slow camera panning showing multiple stylized bank buildings connected by glowing emerald green cables to support a massive golden beam, dark navy background"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "duration_sec": 3.15,
+    "sentences": [
+      "Nước đi này mở ra không gian cho hạ tầng quốc gia."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Các mô hình cây cầu treo và xa lộ 2D màu vàng vươn rộng ra vô tận trên phông nền đen vĩ mô, biểu thị hạ tầng phát triển.",
+    "base_english_prompt": "A steady shot showing minimalist golden vector lines forming expanding highway bridges and tunnels, dark slate backdrop, clean contours"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Nhưng nó cũng gián tiếp làm hẹp cơ hội tiếp cận dòng vốn của phần còn lại của nền kinh tế."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường ống dẫn vốn chính phình to chảy về phía hạ tầng, khiến các đường ống dẫn vốn nhỏ xung quanh bị thắt nút và chuyển sang màu xám khô cằn.",
+    "base_english_prompt": "A slow camera panning showing smaller pipeline branches shrinking and turning grey as the main glowing green pipeline expands, dark charcoal background"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Khi dòng tiền lớn tập trung về các đại dự án, túi tiền của doanh nghiệp nhỏ sẽ bị ảnh hưởng ra sao?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Silhouettte một nhà máy nhỏ SMEs khô cằn dưới một đám mây xám xịt, những đồng tiền xanh lục nhỏ nhoi bốc hơi bay biến lên không trung.",
+    "base_english_prompt": "A steady shot showing a small factory silhouette labeled 'SME' under a dry cloud, tiny green currency signs evaporating into a dark crimson sky"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Nếu bạn muốn hiểu dòng chảy tiền tệ vĩ mô thực tế phía sau các quyết định chính sách, hãy đăng ký kênh."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Nút đăng ký kênh 'SUBSCRIBE' màu xanh lục bảo với đường viền vàng mỏng xuất hiện thanh lịch giữa màn hình tối vĩ mô chuyển động chậm.",
+    "base_english_prompt": "A subtle slow zoom-in showing a minimalist 'SUBSCRIBE' button in forest green with a thin gold border, dark background, cinematic typography"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Để hiểu tại sao có giấy phép cho vay nhưng ngân hàng vẫn khát tiền, chúng ta phải nhìn vào số liệu thực tế."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một bảng điều khiển điện tử hiển thị lưới đồ thị tài chính chuyển động, các con số dữ liệu nhảy liên tục trong tông màu xám tối và xanh lục bảo.",
+    "base_english_prompt": "A steady shot of a digital economic dashboard displaying moving financial graphs, with green indices flashing, dark slate backdrop, technical style"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Đó là những con số biết nói về trạng thái tiền mặt của hệ thống ngân hàng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hình ảnh quả tim cơ học đại diện cho hệ thống tài chính đang co bóp nhịp nhàng, các van bơm chất lỏng màu lục và đỏ đan chéo phức tạp.",
+    "base_english_prompt": "A slow camera panning showing a stylized mechanical heart representing the financial system, with glowing green and red fluid tubes pulsing, dark background"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "duration_sec": 6.56,
+    "sentences": [
+      "Cuối tháng năm năm hai nghìn không trăm hai mươi sáu, tiền cho vay toàn hệ thống tăng năm phẩy bảy mươi mốt phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cột tăng trưởng tín dụng màu xanh lục bảo vươn cao vượt bậc, dán nhãn văn bản tiếng Anh 'CREDIT GROWTH: +5.71%' màu trắng sáng sắc nét.",
+    "base_english_prompt": "A steady shot showing a towering green bar graph labeled 'CREDIT: +5.71%' in thin white sans-serif font, dark charcoal backdrop"
+  },
+  {
+    "id": "SC029",
+    "chapter": "02",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Trong khi đó, tiền gửi từ người dân và doanh nghiệp chỉ tăng hai phẩy chín mươi tám phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một cột ngắn hơn hẳn màu đỏ nhạt mọc bên cạnh, ghi nhãn chữ 'DEPOSITS: +2.98%', thể hiện sự mất cân đối rõ rệt.",
+    "base_english_prompt": "A steady shot of a short red bar graph appearing next to the tall green one, labeled 'DEPOSITS: +2.98%', dark slate background"
+  },
+  {
+    "id": "SC030",
+    "chapter": "02",
+    "duration_sec": 4.2,
+    "sentences": [
+      "Tốc độ cho vay đang chạy nhanh gấp đôi tốc độ gửi tiền của xã hội."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu tượng hai mũi tên chạy đua song song: mũi tên xanh tín dụng lao đi vút nhanh, mũi tên đỏ tiền gửi lê bước chậm chạp.",
+    "base_english_prompt": "A steady shot showing a fast-moving green arrow racing ahead of a slow-crawling red arrow on a dark track, minimalist graphic novel style"
+  },
+  {
+    "id": "SC031",
+    "chapter": "02",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Sự lệch pha này tích tụ qua nhiều tháng, tạo ra khoảng trống tiền mặt khổng lồ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hai đường đồ thị rẽ hướng xa nhau, để lại khoảng trống ở giữa sụt lún thành một hố sâu chứa đầy các hạt ánh sáng màu đỏ crimson cảnh báo.",
+    "base_english_prompt": "A slow camera panning showing two diverging line charts, the space between them collapsing into a deep crimson chasm, dark navy background"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Số tiền ngân hàng cho vay đã vượt lượng tiền gửi thực tế tới hai phẩy năm triệu tỷ đồng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Con số lớn phát sáng màu đỏ crimson 'LIQUIDITY GAP: 2.5T' nứt rạn trên phông nền tối vĩ mô đầy căng thẳng.",
+    "base_english_prompt": "A steady shot of bold glowing red text \"GAP: 2.5T\" displayed in a clean bold sans-serif font centered in the upper third, dark digital grid backdrop"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Đây là khoản thâm hụt tiền tươi cực lớn mà các nhà băng phải tự xoay xở bù đắp."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bản đồ mạng lưới tài chính ghi chữ 'FINANCIAL WEB' bị bao trùm bởi các ống dẫn khô cằn màu xám viền đỏ crimson.",
+    "base_english_prompt": "A slow camera panning showing an abstract financial web labeled \"FINANCIAL WEB\", with empty grey pipelines fading under a red warning glow, dark background"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Nghĩa là hệ thống ngân hàng đang cho vay vượt quá rất xa số tiền họ thực sự có."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bể chứa tiền gửi 'DEPOSITS' vơi sát đáy, nhưng vòi bơm nợ vẫn hoạt động hết công suất hút dòng tiền chảy ra ngoài.",
+    "base_english_prompt": "A steady shot showing a minimalist glass container labeled 'DEPOSITS' nearly empty, with a heavy hose pumping fluid outwards, dark charcoal backdrop"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "duration_sec": 3.67,
+    "sentences": [
+      "Điều này đẩy tỷ lệ cho vay trên huy động, gọi tắt là LDR."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Ký tự 'LDR' màu trắng sắc nét hiện lên, bên cạnh là một thanh trượt kỹ thuật đang chạy sát về vùng cảnh báo nguy hiểm.",
+    "base_english_prompt": "A steady shot showing the letters 'LDR' in thin white font next to an indicator line creeping towards a crimson hazard zone, dark slate background"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Chạm mức kỷ lục khoảng một trăm mười lăm phần trăm, vượt xa giới hạn an toàn tám mươi lăm phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Con số '115%' nhấp nháy đỏ crimson rực rỡ vượt qua vạch giới hạn an toàn 85% trên bảng điện tử hiển thị áp lực thanh khoản.",
+    "base_english_prompt": "A steady shot showing a digital counter reaching \"115%\" and glowing red, bypassing a safety threshold marked at \"85%\", dark background, alarm indicators"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Con số này cao hơn nhiều so với mức một trăm linh chín phần trăm của năm ngoái."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hai cột LDR lịch sử đứng cạnh nhau: '2024: 106%' màu xám và '2025: 109%' màu hồng nhạt dưới bóng tối vĩ mô.",
+    "base_english_prompt": "A subtle slow pan showing two historical pillars labeled '2024: 106%' and '2025: 109%' in grey and light red, dark navy background"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Và mức một trăm linh sáu phần trăm của năm trước đó nữa, nghịch lý ở đây là gì?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cột thứ ba '2026: 115%' màu đỏ rực mọc lên cao vút. Cảnh tượng chuyển sang một dấu chấm hỏi lớn phát sáng màu xanh lục bảo lơ lửng.",
+    "base_english_prompt": "A slow camera panning showing a third tall red column '2026: 115%' rising, transitioning to a large neon-green question mark over an empty vault silhouette, dark background"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Nieu người thấy lãi suất tiền gửi của dân cư vẫn ở mức thấp thì nghĩ rằng ngân hàng đang thừa tiền."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Người dân silhouette xếp hàng gửi tiền vào ngân hàng dưới ánh đèn vàng ấm áp, tạo cảm giác yên bình giả tạo.",
+    "base_english_prompt": "A steady shot showing shadow outlines of citizens carrying small cash blocks into a brightly lit bank building, warm gold lighting, dark grey backdrop"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "duration_sec": 3.94,
+    "sentences": [
+      "Nhưng thực tế, mặt bằng lãi suất huy động thấp chỉ là cái vỏ bọc."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bức tường băng màu xanh nhạt bao quanh ngân hàng nứt toác, để lộ lõi lò sưởi màu đỏ rực nóng bỏng bên trong đang thiếu nước.",
+    "base_english_prompt": "A steady shot of a bank building covered in a cracked thin ice layer, revealing a glowing red thermal core inside, dark charcoal background"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Hệ thống ngân hàng thực chất đang khát dòng tiền gửi dài hạn một cách trầm trọng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bàn tay ngân hàng khô khốc vươn lên cố gắng hứng chịu các giọt nước màu vàng 'LONG-TERM FUNDS' hiếm hoi rơi xuống từ không trung.",
+    "base_english_prompt": "A slow camera panning showing mechanical hands reaching up for scarce glowing gold droplets labeled 'LONG-TERM FUNDS', dark navy background"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Họ đang phải xoay vòng nguồn tiền ngắn hạn để tài trợ cho các tài sản dài hạn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đồng hồ cát quay tròn dồn dập, trút tiền ngắn hạn xanh lục đắp vào móng cột dài hạn màu vàng đang rạn nứt.",
+    "base_english_prompt": "A steady shot of a fast-turning hourglass shifting green coins onto the base of a cracking golden structural column, dark slate backdrop"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Khi mười tám siêu dự án hạ tầng xuất hiện với nhu cầu vay kéo dài nhiều năm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "18 cột mốc phát sáng màu vàng đồng mọc lên như những ngọn tháp chọc trời trên bản đồ phẳng xám đen vĩ mô.",
+    "base_english_prompt": "A slow camera panning showing 18 golden obelisks rising simultaneously from a dark flat grid map, representing long-term assets, slow aerial pan"
+  },
+  {
+    "id": "SC044",
+    "chapter": "02",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Áp lực chuẩn bị lượng tiền khổng lồ lập tức đè nặng lên bảng cân đối kế toán."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu đồ kế toán 'BALANCE SHEET' với cột nợ dài hạn màu vàng khổng lồ đè trĩu và uốn cong thanh đòn ngang cân đối.",
+    "base_english_prompt": "A steady shot showing a scale labeled 'BALANCE SHEET' bending under a massive golden block of 'LONG-TERM LIABILITIES', dark grey background"
+  },
+  {
+    "id": "SC045",
+    "chapter": "02",
+    "duration_sec": 6.56,
+    "sentences": [
+      "Sự khan hiếm nguồn vốn dài hạn này buộc các ngân hàng phải giữ lãi suất cho vay dài hạn cá nhân ở mức cao."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biển báo lãi suất '%' lớn màu đỏ rực bị xích chặt trên đỉnh tháp cao, hệ thống ròng rọc kéo xuống đều bị kẹt cứng.",
+    "base_english_prompt": "A steady shot of a giant red '%' symbol chained to the top of a steel scaffold, refusing to descend, dark navy background, warning tone"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Đó là lý do vì sao lãi suất vay mua nhà của bạn vẫn neo cao dù lãi suất tiền gửi lẹt đẹt."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cặp vợ chồng silhouette đứng nhìn ngôi nhà nhỏ màu xám dưới chân một cột lãi suất màu đỏ cao vút tỏa ánh sáng đe dọa.",
+    "base_english_prompt": "A slow camera panning showing shadow figures of a family looking up at a giant glowing red interest rate sign hovering over their home, dark grey background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Lãi suất cho vay thế chấp thực tế đã vọt lên mức mười hai đến mười bốn phần trăm một năm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bảng hiển thị lãi suất kỹ thuật số hiển thị con số 'MORTGAGE RATE: 12% - 14%' nhấp nháy màu đỏ crimson.",
+    "base_english_prompt": "A steady shot of a digital interest rate board flashing \"MORTGAGE RATE: 12% - 14%\" in bold crimson red, dark slate background"
+  },
+  {
+    "id": "SC047b",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Màn hình hiển thị biểu tượng bình luận 'COMMENT' phát sáng màu xanh lục bảo mảnh dẻ bên dưới hình ảnh chiếc chìa khóa vàng.",
+    "sentences": [
+      "Nếu cũng đang vay mua nhà, lãi suất thực tế của bạn là bao nhiêu, hãy chia sẻ ở phần bình luận nhé."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing emerald green comment icon labeled \"COMMENT\" in clean bold typography, centered in the lower third, dark slate background, warm cream details"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Vậy nhà điều hành đã làm gì để giải cứu các ngân hàng khỏi chiếc vòng kim cô kỹ thuật này?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Chiếc chìa khóa vàng phát sáng lơ lửng giữa màn đêm vĩ mô, biểu thị giải pháp điều phối chính sách kỹ thuật sắp xuất hiện.",
+    "base_english_prompt": "A subtle slow zoom-in showing a detailed golden key icon floating on a dark navy coordinate grid, clean outlines, high contrast"
+  },
+  {
+    "id": "SC049",
+    "chapter": "03",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Trước áp lực thanh khoản đè nặng lên các ngân hàng, Ngân hàng Nhà nước đã phải ra tay."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bàn tay lớn nét vẽ trắng hạ xuống xoay các núm điều khiển trên bảng mạch kỹ thuật vĩ mô, đèn xanh lục bảo sáng lên.",
+    "base_english_prompt": "A slow camera panning showing a stylized hand adjusting white knobs on a complex dark control panel, activating green circuits, dark background"
+  },
+  {
+    "id": "SC050",
+    "chapter": "03",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Nhà điều hành quyết định nới lỏng đồng thời hai quy định kiểm soát lớn nhất hệ thống."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hai nút thắt dây thừng xám siết quanh ngân hàng được nới rộng ra, giải phóng luồng sáng màu xanh lục bảo dễ thở hơn.",
+    "base_english_prompt": "A steady shot showing two dark rope knots binding a column of light getting untied, releasing emerald green energy, dark slate backdrop"
+  },
+  {
+    "id": "SC051",
+    "chapter": "03",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Đầu tiên là Thông tư hai mươi lăm, chính thức có hiệu lực từ ngày một tháng bảy."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Tiêu đề 'CIRCULAR 25' màu xanh lục bảo hiện lên, nền là tờ lịch hiển thị mốc thời gian 'JULY 1' sắc nét.",
+    "base_english_prompt": "A steady shot of a digital calendar displaying 'JULY 1' with glowing green text 'CIRCULAR 25' sliding in, dark navy background"
+  },
+  {
+    "id": "SC052",
+    "chapter": "03",
+    "duration_sec": 6.82,
+    "sentences": [
+      "Quy định này nâng trần tỷ lệ vốn ngắn hạn cho vay trung và dài hạn từ ba mươi phần trăm lên bốn mươi phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Thanh đo chỉ số kỹ thuật 'SMLR' dịch chuyển vạch chỉ mức từ '30%' sang '40%' màu xanh lá cây rực rỡ.",
+    "base_english_prompt": "A steady shot showing a scale pointer moving from '30%' to '40%' in bright green, labeled 'SMLR LIMIT', dark charcoal background"
+  },
+  {
+    "id": "SC053",
+    "chapter": "03",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Nói cách khác, ngân hàng được phép lấy nhiều tiền gửi ngắn hạn hơn của người dân để đem cho vay dài hạn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dòng hạt tiền xanh lục đổ vào cột móng bê tông màu vàng, khiến cột vươn cao lên nhưng cấu trúc nền móng có vẻ lung lay.",
+    "base_english_prompt": "A slow camera panning showing green currency streams converting into a tall gold architectural pillar, dark background, conceptual economics"
+  },
+  {
+    "id": "SC054",
+    "chapter": "03",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Đây là một bước đảo chiều chính sách quan trọng sau nhiều năm liên tục siết chặt."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường mũi tên xanh lục uốn cong xoay chiều 180 độ hướng lên trên sau chuỗi ngày cắm đầu suy giảm dưới đáy tối.",
+    "base_english_prompt": "A steady shot showing a thick green arrow making a U-turn upwards against a background of declining grey lines, high contrast"
+  },
+  {
+    "id": "SC055",
+    "chapter": "03",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Trước đó, để đảm bảo an toàn, tỷ lệ này bị siết dần từ bốn mươi lăm phần trăm xuống ba mươi phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Các bậc thang chỉ số hạ dần từ mức '45%' xuống '30%' chìm trong vùng bóng tối màu đỏ mờ nhạt cảnh báo.",
+    "base_english_prompt": "A slow camera panning showing steps stepping down from '45%' to '30%' with red glow indicators, dark navy background"
+  },
+  {
+    "id": "SC056",
+    "chapter": "03",
+    "duration_sec": 2.36,
+    "sentences": [
+      "Tại sao phải đảo chiều chính sách lúc này?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Vòng quay bánh răng khổng lồ của cỗ máy thời gian vĩ mô xoay ngược hướng, biểu thị điểm đảo chiều vĩ mô lớn.",
+    "base_english_prompt": "A steady shot of massive mechanical clockwork gears shifting rotation direction, glowing gold and silver accents, dark backdrop"
+  },
+  {
+    "id": "SC057",
+    "chapter": "03",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Bởi vì hệ thống ngân hàng đang đối mặt với một căn bệnh kinh niên kéo dài."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Mô hình tháp nguồn vốn ngân hàng với khối chân đế màu xám phình cực to, đại diện cho thực tế tiền gửi ngắn hạn.",
+    "base_english_prompt": "A slow camera panning showing a structural pyramid representing capital allocation, with a heavily disproportionate base, dark grey and silver tones"
+  },
+  {
+    "id": "SC058",
+    "chapter": "03",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Hơn tám mươi phần trăm nguồn tiền gửi của người dân chỉ có kỳ hạn ngắn dưới một năm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu đồ hình tròn hiển thị vùng diện tích khổng lồ 80-90% tô màu xanh lá, ghi chú chữ 'SHORT-TERM (<12M)'.",
+    "base_english_prompt": "A steady shot of a large pie chart showing a massive green slice labeled '80-90% SHORT-TERM DEPOSITS', dark charcoal background"
+  },
+  {
+    "id": "SC059",
+    "chapter": "03",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Trong khi các đại dự án hạ tầng lớn lại yêu cầu dòng vốn dài hạn từ mười đến hai mươi năm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường chân trời kéo dài với cột mốc vàng phát sáng ghi chữ '10-20 YEARS' ở điểm cuối xa xăm trên bản đồ tối.",
+    "base_english_prompt": "A slow camera panning showing a long road leading towards a glowing gold horizon labeled '10-20 YEARS', dark navy backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC060",
+    "chapter": "03",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Việc nới trần lên bốn mươi phần trăm thực chất là chấp nhận cho ngân hàng lệch pha dòng tiền trên sổ sách."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hai bánh răng lệch cỡ kết nối gượng ép với nhau dưới một dấu niêm phong màu xanh lục bảo, biểu thị hợp pháp hóa lệch pha sổ sách.",
+    "base_english_prompt": "A steady shot of two mismatched mechanical gears locked together by a green wax seal labeled 'APPROVED', dark warm charcoal background"
+  },
+  {
+    "id": "SC061",
+    "chapter": "03",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Điều này giúp giải phóng không gian cho các khoản vay dài hạn của siêu dự án."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cánh cửa lồng sắt mở bung, phóng thích luồng sáng vàng đồng đại diện cho dòng vốn chảy vào các siêu dự án hạ tầng.",
+    "base_english_prompt": "A steady shot showing a dark metallic cage door swinging open to release a fast-moving golden light beam, dark slate backdrop"
+  },
+  {
+    "id": "SC062",
+    "chapter": "03",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Song hành với đó, Thông tư không tám cũng được kích hoạt để nới tỷ lệ cho vay trên huy động."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Chữ 'CIRCULAR 08' màu xanh lục xuất hiện, bên cạnh là biểu tượng chiếc van xả dòng tiền từ Kho bạc Nhà nước.",
+    "base_english_prompt": "A slow camera panning showing the glowing green text 'CIRCULAR 08', with golden liquid streams joining the main pipeline network, dark navy background"
+  },
+  {
+    "id": "SC063",
+    "chapter": "03",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Các ngân hàng lớn được phép tính một phần tiền gửi của Kho bạc Nhà nước vào nguồn vốn huy động."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dòng chảy vốn màu xanh lục bảo chảy từ khối 'TREASURY FUNDS' vào két sắt của các ngân hàng thương mại lớn.",
+    "base_english_prompt": "A slow camera panning showing a stream of emerald green capital flowing from a block labeled \"TREASURY FUNDS\" into commercial bank vaults, dark grey background"
+  },
+  {
+    "id": "SC064",
+    "chapter": "03",
+    "duration_sec": 3.94,
+    "sentences": [
+      "Quyết định này gián tiếp nới lỏng rào cản thanh khoản cho các ngân hàng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Rào cản kim loại màu đỏ xám mở hé ra một lối đi hẹp cho các dòng hạt ánh sáng xanh lục bảo.",
+    "base_english_prompt": "A steady shot showing a mechanical grey barrier shifting slightly to create a passage for green light particles, dark charcoal backdrop"
+  },
+  {
+    "id": "SC065",
+    "chapter": "03",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Nước đi này giúp hạ nhiệt ngay lập tức tỷ lệ cho vay trên tiền gửi của các nhà băng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Con số '-0.6% TO -0.8% LDR' phát sáng vàng đồng hiện lên thanh mảnh trên phông nền đồ thị lưới tối giản.",
+    "base_english_prompt": "A steady shot of the glowing thin gold text '-0.6% to -0.8% LDR' overlaying a faint financial grid, dark background, clean styling"
+  },
+  {
+    "id": "SC066",
+    "chapter": "03",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Tuy nhiên, chiếc phao này chỉ phát huy tác dụng chủ yếu tại nhóm ngân hàng lớn của nhà nước."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bốn tòa tháp ngân hàng lớn mang sao vàng quốc doanh ngập trong dòng tiền Kho bạc xanh lục, để lại xung quanh bóng tối xám xịt.",
+    "base_english_prompt": "A slow camera panning showing four large bank towers glowing in emerald green, while smaller peripheral banks remain in dark grey shadow, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC067",
+    "chapter": "03",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Các ngân hàng tư nhân nắm giữ dư nợ bất động sản lớn gần như không được hưởng lợi."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Các ngân hàng tư nhân bị vướng trong đống lưới màu đỏ rực mang nhãn 'REAL ESTATE DEBT', nằm ngoài dòng vốn giá rẻ.",
+    "base_english_prompt": "A steady shot showing smaller bank silhouettes tangled in a glowing crimson mesh labeled 'REAL ESTATE DEBT', dark charcoal background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC068",
+    "chapter": "03",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Tuy nhiên, việc nới lỏng các trần tỷ lệ kỹ thuật này không tự sinh ra một đồng tiền mặt mới nào."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Những bản vẽ thiết kế tờ tiền phẳng lơ lửng, chỉ là các nét vẽ rỗng không thể biến thành tiền mặt thực thể.",
+    "base_english_prompt": "A steady shot showing transparent wireframe money outlines floating in a dark vacuum, representing a lack of physical cash, dark slate backdrop"
+  },
+  {
+    "id": "SC069",
+    "chapter": "03",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Nó chỉ cho phép các nhà băng chấp nhận rủi ro thiếu hụt dòng tiền cao hơn để tiếp tục giải ngân."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Chiếc bập bênh tài chính chao đảo mạnh, nâng khối nợ vàng đồng siêu dự án bằng cách chấp nhận rủi ro lệch kỳ hạn ở đầu bên kia.",
+    "base_english_prompt": "A slow camera panning showing a highly tilted balance scale supporting a heavy golden block, bank icons beneath it glowing in warning red, dark background"
+  },
+  {
+    "id": "SC070",
+    "chapter": "03",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Việc dùng tiền ngắn hạn cho vay dài hạn giống như việc bạn đi vay nóng để xây nhà."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Ngôi nhà gỗ nhỏ được dựng móng bằng các khối cát lún dễ vỡ ghi nhãn 'SHORT-TERM FUNDS', rung lắc nhẹ dưới tác động vĩ mô.",
+    "base_english_prompt": "A steady shot showing a model house built on crumbling grey sand blocks labeled 'SHORT-TERM DEPOSIT', dark navy background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC071",
+    "chapter": "03",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Nó khiến hệ thống cực kỳ nhạy cảm với bất kỳ biến động lãi suất nào trong tương lai."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Tia chớp màu đỏ crimson đánh xuống mô hình ngôi nhà móng yếu, biểu thị độ nhạy cảm cao với biến động lãi suất.",
+    "base_english_prompt": "A steady shot of a red lightning bolt striking a fragile structural house model, creating cracks, dark charcoal background, high contrast"
+  },
+  {
+    "id": "SC072",
+    "chapter": "03",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Vậy khi các rào cản kỹ thuật đã được tháo gỡ, các ngân hàng phải giành giật tiền mặt thực tế thế nào?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đấu trường tài chính vĩ mô tối tăm, xuất hiện hai luồng sáng xanh lục bảo đối chọi gay gắt để giành lấy dòng tiền mặt.",
+    "base_english_prompt": "A slow camera panning showing competing green energy beams colliding in an abstract dark colosseum, dark background, slow camera zoom"
+  },
+  {
+    "id": "SC073",
+    "chapter": "04",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Lãi suất liên ngân hàng có thời điểm đã vọt lên mức đỉnh điểm mười một phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đồ thị kỹ thuật số hiển thị đường spike dốc đứng nhấp nháy chữ đỏ 'INTERBANK RATE: 11%'.",
+    "base_english_prompt": "A steady shot of a glowing red line charting a steep vertical spike on a dark grid, with text \"INTERBANK RATE: 11%\" at the peak, dark navy background"
+  },
+  {
+    "id": "SC074",
+    "chapter": "04",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Luật mới siết giới hạn cho vay xuống mười ba và mười chín phần trăm vốn tự có."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Sách luật 2D tối giản mở ra hiển thị các nhãn số 'LIMIT: 13%' và 'LIMIT: 19%' đóng khung đỏ cảnh báo.",
+    "base_english_prompt": "A steady shot of a stylized law book silhouette displaying numbers \"LIMIT: 13%\" and \"LIMIT: 19%\" highlighted in glowing red boxes, dark slate background"
+  },
+  {
+    "id": "SC075",
+    "chapter": "04",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Đây là mức chi phí rất cao đối với các khoản vay mượn lẫn nhau giữa các nhà băng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Các bao tiền vàng lớn bị khóa chặt sau lớp lưới thép kiểm soát giá vốn đắt đỏ của các giao dịch bán buôn hệ thống.",
+    "base_english_prompt": "A slow camera panning showing glowing golden sacks locked inside a high-security steel vault with red laser beams, dark slate background"
+  },
+  {
+    "id": "SC076",
+    "chapter": "04",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Nó phản ánh trực tiếp trạng thái căng thẳng tiền mặt cuối ngày của các nhà băng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Ống dẫn tài chính chảy luồng năng lượng đỏ rực khi bóng chiều hoàng hôn buông xuống đô thị Việt Nam vĩ mô.",
+    "base_english_prompt": "A steady shot showing glowing red fluid surging through dark bank pipe networks against the silhouette of a stylized Asian city at dusk, moody lighting, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC077",
+    "chapter": "04",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Bởi vì khi các giới hạn kỹ thuật được nới lỏng, nhu cầu giải ngân thực tế bắt đầu tăng tốc."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Các mũi tên màu xanh lá cây đại diện cho dòng giải ngân lao thẳng xuống công trường đại dự án có các cần cẩu vàng.",
+    "base_english_prompt": "A slow camera panning showing green motion arrows descending rapidly onto golden construction site crane models, dark slate backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC078",
+    "chapter": "04",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Các ngân hàng phải đối mặt với áp lực cân đối dòng tiền mặt thực tế hàng ngày cực kỳ lớn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bộ đếm số dư tiền mặt nhấp nháy đỏ báo lỗi liên tục khi dòng tiền mặt bị rút đi hàng ngày.",
+    "base_english_prompt": "A steady shot showing a digital account register ticking downward with red exclamation marks, falling green currency symbols, dark navy background"
+  },
+  {
+    "id": "SC079",
+    "chapter": "04",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Điều này chứng minh rằng kỳ vọng nới trần tỷ lệ an toàn sẽ giúp giảm ngay lãi suất vay là thiếu cơ sở."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường đồ thị lãi suất cho vay nằm ngang lì lợm, các mũi tên nới lỏng đập vào rồi vỡ vụn vô hiệu.",
+    "base_english_prompt": "A steady shot showing a flat stubborn red line labeled 'LOAN RATE', with green impact arrows shattering against its boundary, dark background"
+  },
+  {
+    "id": "SC080",
+    "chapter": "04",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Khi giá vốn ngân hàng đi vay đã vượt mức bảy phần trăm, lãi suất cho bạn vay không thể rẻ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dòng tiền đắt đỏ từ kho lớn 'WHOLESALE >7%' chảy sang mô hình ngôi nhà nhỏ mang nhãn 'RETAIL DEAR', thể hiện sự truyền dẫn chi phí.",
+    "base_english_prompt": "A subtle slow pan showing money flow moving from a major vault labeled 'WHOLESALE >7%' to a small residential house labeled 'RETAIL DEAR', dark charcoal background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC081",
+    "chapter": "04",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Đó là lý do lãi suất vay mua nhà thả nổi của bạn vẫn neo ở mức cao."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hợp đồng vay thế chấp bất động sản bị xích chặt bằng ổ khóa đỏ rực, thể hiện lãi suất vay cá nhân neo cao.",
+    "base_english_prompt": "A steady shot of a paper home loan contract locked with a heavy red steel padlock on a dark slate surface, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC082",
+    "chapter": "04",
+    "duration_sec": 3.94,
+    "sentences": [
+      "Áp lực tiền tươi không chỉ dừng lại ở bài toán thanh khoản hàng ngày."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Một bức tường bê tông khổng lồ màu xám đen khắc chữ nổi 'CREDIT LAW' chặn đứng dòng chảy tiền mặt vĩ mô.",
+    "base_english_prompt": "A steady shot showing a cold massive concrete wall rising up, labeled 'CREDIT LAW' in white steel letters, dark navy background"
+  },
+  {
+    "id": "SC083",
+    "chapter": "04",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Nó còn va phải một bức tường pháp lý khác của Luật Các tổ chức tín dụng mới."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bức tường 'CREDIT LAW' chia nhỏ một rương tiền vàng lớn thành từng ngăn nhỏ hạn chế.",
+    "base_english_prompt": "A slow camera panning showing a concrete wall partitioning a large golden treasury box into tiny restricted compartments, dark grey background"
+  },
+  {
+    "id": "SC084",
+    "chapter": "04",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Luật mới siết giới hạn cho vay một dự án chỉ quanh mức mười phần trăm vốn tự có của ngân hàng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Thước đo kỹ thuật tụt giảm về mốc '10-15% CAPITAL LIMIT' với đường cắt đỏ dứt khoát, biểu thị giới hạn pháp lý mới.",
+    "base_english_prompt": "A steady shot showing a scale sliding down to the '10-15% CAPITAL LIMIT' mark under a red sharp line, dark slate backdrop"
+  },
+  {
+    "id": "SC085",
+    "chapter": "04",
+    "duration_sec": 6.56,
+    "sentences": [
+      "Với những siêu dự án có nhu cầu vốn lên tới hàng chục nghìn tỷ đồng, rào cản này là không thể tự vượt qua."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Mô hình siêu dự án vàng khổng lồ bị rào kín bởi hàng rào lưới điện đỏ rực, ngăn ngân hàng giải ngân vượt mức.",
+    "base_english_prompt": "A slow camera panning showing a massive golden skyscraper complex isolated behind a glowing red security fence, dark background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC086",
+    "chapter": "04",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Một ngân hàng thương mại dù thừa room tín dụng cũng không được phép cho vay một mình."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu tượng ngân hàng đơn độc đứng nhìn siêu dự án khổng lồ lấp lánh ở phía xa ngoài tầm với dưới màn đêm vĩ mô.",
+    "base_english_prompt": "A steady shot showing a single bank building silhouette cast in a long shadow towards a distant giant golden construct, dark navy backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC087",
+    "chapter": "04",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Để giải bài toán này, Ngân hàng Nhà nước khuyến khích các ngân hàng bắt tay hợp vốn cùng cho vay."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Nhiều bàn tay ngân hàng đồ họa đan chặt nhau tạo thành vòng tròn nâng đỡ khối dự án hạ tầng vàng rực.",
+    "base_english_prompt": "A slow camera panning showing close-ups of stylized hands connecting to form a secure network circle, supporting a golden infrastructure block, dark background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC088",
+    "chapter": "04",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Đây thực chất là cuộc chơi phân tán rủi ro và chia sẻ áp lực thanh khoản."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Khối nợ hạ tầng vàng khổng lồ tự động phân tách thành các mảnh nhỏ phân bổ đều về các két sắt liên kết.",
+    "base_english_prompt": "A steady shot showing a large golden block splitting into smaller glowing shards that distribute to multiple safe vaults, dark grey background"
+  },
+  {
+    "id": "SC089",
+    "chapter": "04",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Tuy nhiên, cơ chế hợp vốn chỉ giúp giải quyết ranh giới pháp lý về giới hạn cho vay."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bức tường 'CREDIT LAW' biến mất nhưng két sắt trống rỗng phía sau vẫn khô cạn dòng tiền tươi.",
+    "base_english_prompt": "A steady shot showing a legal wall dissolving to reveal an empty vault with a red warning glow inside, dark backdrop"
+  },
+  {
+    "id": "SC090",
+    "chapter": "04",
+    "duration_sec": 3.94,
+    "sentences": [
+      "Bản thân nó không tạo thêm nguồn tiền mặt thực tế nào cho hệ thống."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bể chứa nước tiền mặt đứng yên, mực chất lỏng tĩnh lặng không hề dâng lên bất kỳ phân ly nào.",
+    "base_english_prompt": "A steady shot of a dry concrete reservoir showing static water levels, glowing red warning symbol at the bottom, dark slate background"
+  },
+  {
+    "id": "SC091",
+    "chapter": "04",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Hơn nữa, nguồn tiền gửi Kho bạc Nhà nước mới được bổ sung chủ yếu nằm tại nhóm ngân hàng lớn của nhà nước."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dòng tiền Kho bạc màu xanh lục bảo chỉ chảy về 4 ngân hàng lớn có gắn sao vàng quốc doanh.",
+    "base_english_prompt": "A slow camera panning showing a bright green flow of money channeled exclusively into four towering state bank buildings, dark navy backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC092",
+    "chapter": "04",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Các ngân hàng tư nhân hầu như không tiếp cận được nguồn vốn giá rẻ này để cải thiện tỷ lệ an toàn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Các tòa nhà ngân hàng tư nhân nằm trong bóng tối xám đen, đứng trơ trọi bên ngoài luồng chảy tiền rẻ.",
+    "base_english_prompt": "A steady shot of smaller private banks in shadow, bypassed by the glowing green money stream, dark charcoal background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC093",
+    "chapter": "04",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Họ buộc phải tự thân vận động trong trận chiến giành giật thanh khoản tiền tươi kỳ hạn dài."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Ngân hàng tư nhân tranh đấu giành các sợi cáp thanh khoản màu xanh lá kéo dài, không khí căng thẳng vĩ mô.",
+    "base_english_prompt": "A steady shot of bank building outlines pulling glowing green liquidity cords, high tension, dark background, slow camera zoom"
+  },
+  {
+    "id": "SC094",
+    "chapter": "04",
+    "duration_sec": 6.56,
+    "sentences": [
+      "Nếu bạn muốn thấu hiểu dòng chảy tiền tệ vĩ mô thực tế phía sau các quyết định chính sách, hãy nhấn đăng ký kênh."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu tượng 'LIKE' và 'SHARE' nét vẽ xanh lục và vàng đồng mỏng hiện lên thanh thoát trên phông nền tối vĩ mô.",
+    "base_english_prompt": "A subtle slow zoom-in showing glowing green 'LIKE' and 'SHARE' icons with thin gold outlines, dark slate background, minimalist style"
+  },
+  {
+    "id": "SC095",
+    "chapter": "04",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Nước đi tự thân vận động này đẩy các ngân hàng vào một cuộc đua huy động vốn dài hạn đắt đỏ khác."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường chạy marathon vĩ mô, các ngân hàng cố sức bứt tốc chạy dưới những dấu chấm cảm cảnh báo đỏ rực.",
+    "base_english_prompt": "A slow camera panning showing bank symbols running on a dark running track under giant red exclamation marks, dark background"
+  },
+  {
+    "id": "SC096",
+    "chapter": "04",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Đó là cuộc đua phát hành trái phiếu và chứng chỉ tiền gửi dài hạn với mức lãi suất đầy áp lực."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cơn mưa trái phiếu giấy màu vàng đồng phát sáng rơi xuống dập dồn như ma trận dữ liệu lên các ngân hàng.",
+    "base_english_prompt": "A steady shot showing glowing gold papers labeled 'BOND' falling like a dense matrix shower over banking silhouettes, dark charcoal backdrop"
+  },
+  {
+    "id": "SC097",
+    "chapter": "05",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Để giải quyết bài toán tiền tươi dài hạn, các ngân hàng buộc phải tìm đến các nguồn vốn bổ trợ khác."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Rễ cây tài chính vĩ mô màu xanh phát sáng cắm sâu xuống lòng đất tối để tìm các nguồn nước vàng thanh khoản.",
+    "base_english_prompt": "A slow camera panning showing glowing green root networks extending deep into dark charcoal soil to find underground gold pools, dark slate background"
+  },
+  {
+    "id": "SC098",
+    "chapter": "05",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Vũ khí chính được tung ra lúc này là phát hành trái phiếu doanh nghiệp kỳ hạn dài."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bức tường khiên lớn ghép từ các tờ trái phiếu vàng 'BANK BOND' dựng lên che chở trước tòa nhà ngân hàng tư nhân.",
+    "base_english_prompt": "A steady shot of a bank building shielded by a huge golden shield wall made of overlapping bond papers, dark navy background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC099",
+    "chapter": "05",
+    "duration_sec": 6.82,
+    "sentences": [
+      "Năm tháng đầu năm hai nghìn không trăm hai mươi sáu, trái phiếu doanh nghiệp bùng nổ, vượt một trăm hai mươi bảy nghìn tỷ đồng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dòng chữ phát sáng 'BOND EMISSION: 127T' hiện lên kèm theo biểu đồ cột tăng trưởng 5 tháng dốc đứng.",
+    "base_english_prompt": "A steady cinematic shot of glowing gold text \"BOND EMISSION: 127T\" in thin sans-serif font over a sharp upward line graph, dark slate backdrop"
+  },
+  {
+    "id": "SC100",
+    "chapter": "05",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Riêng trong tháng năm, lượng phát hành tăng tốc cực đại khi đạt hơn bốn mươi nghìn tỷ đồng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bảng số liệu nhấp nháy dòng chữ phát sáng 'MAY EMISSION: 40T' màu vàng đồng nổi bật.",
+    "base_english_prompt": "A subtle slow pan showing a digital display board with the amber text \"MAY EMISSION: 40T\" flashing gently, dark warm charcoal background"
+  },
+  {
+    "id": "SC101",
+    "chapter": "05",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Nước đi này đưa nhóm ngân hàng vượt qua bất động sản để dẫn đầu toàn thị trường về quy mô phát hành."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cột chỉ số ngân hàng màu xanh vươn cao vượt qua cột bất động sản màu xám chìm nghỉm phía dưới bảng đấu vĩ mô.",
+    "base_english_prompt": "A slow camera panning showing a green bar graph with a bank icon overtaking a grey bar with a building icon at a gold finish line, dark background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC102",
+    "chapter": "05",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Họ đang phải bỏ tiền ra để mua lại thanh khoản kỳ hạn dài từ xã hội."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hầm chứa ngân hàng thu nhận những quả cầu ánh sáng xanh lục đại diện cho dòng tiền mặt trung dài hạn từ người dân silhouette.",
+    "base_english_prompt": "A steady shot showing a bank vault exchanging grey tokens for sparkling green energy spheres with a crowd silhouette, dark background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC103",
+    "chapter": "05",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Tuy nhiên, cái giá để mua thanh khoản dài hạn này đang ngày một đắt đỏ hơn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đồng tiền vàng bị nung nóng đỏ rực dưới lực ép của máy ép thủy lực đen ngòm, biểu thị chi phí vốn tăng cao cực hạn.",
+    "base_english_prompt": "A steady shot of a golden coin glowing with red heat under a heavy hydraulic press, dark slate backdrop, high tension"
+  },
+  {
+    "id": "SC104",
+    "chapter": "05",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Lãi suất phát hành trái phiếu ngân hàng tư nhân đã vọt lên mức tám đến chín phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Chữ số cảnh báo 'BOND INTEREST: 8.3% - 9.0%' màu đỏ crimson hiển thị sắc nét trên bảng điều khiển kim loại tối.",
+    "base_english_prompt": "A subtle slow pan showing bold glowing red text \"BOND RATE: 8.3% - 9.0%\" on a dark brushed metal dashboard, modern financial typography"
+  },
+  {
+    "id": "SC105",
+    "chapter": "05",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Ngân hàng Việt Á thậm chí phải chấp nhận mức lãi suất phát hành chạm ngưỡng chín phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Chữ số cảnh báo 'BOND RATE: 9.0%' hiển thị sắc nét trên bảng điều khiển kim loại tối.",
+    "base_english_prompt": "A subtle slow pan showing bold glowing red text \"BOND RATE: 9.0%\" on a dark brushed metal dashboard, modern financial typography"
+  },
+  {
+    "id": "SC106",
+    "chapter": "05",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Các ngân hàng khác như VPBank, HDBank hay OCB cũng neo ở mức quanh tám phẩy sáu phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Ba logo VPBank, HDBank, OCB đứng cạnh nhau dưới ánh sáng cam ấm của mức lãi suất '8.6%'.",
+    "base_english_prompt": "A steady shot of three bank blocks aligned under a glowing amber sign showing '8.6%', dark navy background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC107",
+    "chapter": "05",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Ngay cả nhóm Big 4 quốc doanh vốn thừa tiền gửi cũng phải tăng lãi suất trái phiếu lên khoảng tám phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bốn tòa nhà quốc doanh sao vàng treo biển báo lãi suất trái phiếu '8.0%' màu cam cảnh báo đầy trăn trở.",
+    "base_english_prompt": "A slow camera panning showing four large green state banks putting up signs showing '8.0% BOND RATE', dark grey background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC108",
+    "chapter": "05",
+    "duration_sec": 4.2,
+    "sentences": [
+      "Đây là mức chi phí vốn vô cùng lớn đối với các ngân hàng thương mại."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Trụ đá đỏ khổng lồ ghi chữ 'COST OF CAPITAL' đè trĩu nặng xuống móng của các ngân hàng thương mại Việt Nam.",
+    "base_english_prompt": "A steady shot showing a heavy dark red pillar labeled 'COST OF CAPITAL' pressing down on bank foundations, dark navy backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC109",
+    "chapter": "05",
+    "duration_sec": 6.82,
+    "sentences": [
+      "Khi giá mua buôn tiền gửi dài hạn đạt mức tám đến chín phần trăm, chi phí vốn toàn hệ thống bị đẩy lên rất cao."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Lưới điện tài chính vĩ mô chuyển dần sang màu cam và đỏ nóng, biểu thị chi phí vốn lan tỏa gây áp lực lên toàn hệ thống.",
+    "base_english_prompt": "A slow camera panning showing an abstract financial network grid glowing with hot orange and red currents, dark background, global pressure visual"
+  },
+  {
+    "id": "SC110",
+    "chapter": "05",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Tại sao họ không chọn cách vay dòng vốn quốc tế với chi phí có vẻ rẻ hơn?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Quả địa cầu tối giản quay chậm, các đường bay kết nối vốn ra quốc tế bị gạch chéo bằng dấu đỏ 'X'.",
+    "base_english_prompt": "A steady shot showing a dark rotating globe, with dotted transit lines connecting to international markets blocked by red 'X' signs, minimalist 2D style"
+  },
+  {
+    "id": "SC111",
+    "chapter": "05",
+    "duration_sec": 3.67,
+    "sentences": [
+      "Thực tế, cánh cửa vay ngoại tệ cũng đang bị thu hẹp đáng kể."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cánh cửa sắt khổng lồ đóng sập lại mang nhãn 'USD CAPITAL', chỉ còn khe sáng đỏ mỏng biểu thị kênh vay ngoại tệ bị nghẽn.",
+    "base_english_prompt": "A steady shot of a heavy steel vault door labeled 'USD CAPITAL' closing shut, leaving only a sliver of red light, dark background"
+  },
+  {
+    "id": "SC112",
+    "chapter": "05",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Fed vẫn neo lãi suất ở đỉnh từ năm phẩy hai mươi lăm đến năm phẩy năm mươi phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Tòa tháp Fed Mỹ đứng vững như khối đá xám, nhãn số phát sáng 'FED RATE' hiện lên ở đỉnh.",
+    "base_english_prompt": "A slow camera panning showing a stylized federal reserve building silhouette with bold text \"FED RATE\" glowing in gold, dark grey sky"
+  },
+  {
+    "id": "SC113",
+    "chapter": "05",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Mức lãi suất này cộng thêm chi phí bảo hiểm rủi ro tỷ giá khiến dòng vốn quốc tế trở nên đắt đỏ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dòng đô la xanh lục chảy về nước bị vướng vào hàng rào dây thép gai đỏ mang nhãn 'FX HEDGE COST' (chi phí tỷ giá).",
+    "base_english_prompt": "A steady shot of green USD bills getting tangled in sharp red wire nets labeled 'FX HEDGE COST', dark slate backdrop"
+  },
+  {
+    "id": "SC114",
+    "chapter": "05",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Áp lực tỷ giá đè nặng khi cán cân thương mại thâm hụt nhập siêu kỷ lục gần mười bảy tỷ đô-la."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đồ thị cán cân thương mại nghiêng lệch sâu, chỉ số 'EXCHANGE RATE' nhấp nháy đỏ crimson cảnh báo.",
+    "base_english_prompt": "A steady shot showing a tilted balance scale with the text \"EXCHANGE RATE\" flashing in red under financial stress, dark slate background"
+  },
+  {
+    "id": "SC115",
+    "chapter": "05",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Các ngân hàng buộc phải dựa vào nguồn lực nội địa và chấp nhận chi phí vốn cao."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Ngân hàng cắm rễ sâu vào vũng nước vàng kim nội địa, quay lưng lại với dòng vốn ngoại tệ xám xịt.",
+    "base_english_prompt": "A slow camera panning showing a bank building pulling its roots back to focus on a glowing domestic gold pool, dark charcoal background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC116",
+    "chapter": "05",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Hệ quả trực tiếp là biên lợi nhuận ròng của các ngân hàng bị bào mòn nghiêm trọng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Khối gỗ 'NIM' màu xanh lục bị các lát dao cắt màu đỏ bào mòn mỏng dính, thể hiện biên lợi nhuận bị thu hẹp.",
+    "base_english_prompt": "A steady shot of a block labeled 'NIM' (Net Interest Margin) getting shaved down by red blade lines, dark navy background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC117",
+    "chapter": "05",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Để bảo vệ lợi nhuận, họ không còn cách nào khác ngoài việc duy trì lãi suất cho vay dài hạn ở mức cao."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cột chỉ số lãi suất cho vay dài hạn đứng sững không chịu hạ nhiệt, bảo vệ dòng tiền chảy vào két ngân hàng.",
+    "base_english_prompt": "A steady shot showing a towering red pillar of 'LONG-TERM LOAN RATE' held up by steel supports to shield a bank treasury, dark background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC118",
+    "chapter": "05",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Một lần nữa, người trả tiền cuối cùng cho cuộc đua này chính là những người đi vay thông thường."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bóng đen người dân oằn lưng gánh đồng tiền vàng nặng trĩu mang nhãn 'INTEREST BURDEN' trên vai đi trong đêm.",
+    "base_english_prompt": "A steady shot of the silhouette of a person carrying a giant heavy gold coin marked 'INTEREST', bending under its weight, dark grey background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC119",
+    "chapter": "05",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Những nỗ lực phòng thủ thanh khoản của ngân hàng đang gián tiếp tạo ra một sự đánh đổi lớn cho nền kinh tế."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bập bênh vĩ mô khổng lồ: một bên nâng siêu dự án vàng kim, bên kia đè bẹp doanh nghiệp nhỏ SMEs xuống đất tối.",
+    "base_english_prompt": "A slow camera panning showing a giant conceptual seesaw, one side holding infrastructure, the other holding small businesses, tilting sharply, dark background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC120",
+    "chapter": "05",
+    "duration_sec": 6.56,
+    "sentences": [
+      "Dòng tiền khổng lồ bị hút về các siêu dự án sẽ để lại khoảng trống nào cho hàng triệu doanh nghiệp vừa và nhỏ?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Phễu vàng khổng lồ hút hết dòng tiền mặt, bỏ mặc khu đất SMEs khô hạn nứt nẻ và chuyển xám.",
+    "base_english_prompt": "A steady shot showing a huge golden funnel drawing all cash to a massive project site, leaving a dusty barren plot labeled 'SMEs', dark backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC121",
+    "chapter": "06",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Mọi sự nới lỏng giới hạn an toàn hôm nay đều đi kèm một cái giá phải trả ngày mai."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đồng hồ cát tài chính trút dòng cát xanh lục bảo xuống đáy hóa thành đống cát nợ màu đỏ rực khổng lồ dâng cao.",
+    "base_english_prompt": "A steady shot showing an hourglass shifting green sand down into a glowing crimson pile of debt, dark slate background, slow dolly in"
+  },
+  {
+    "id": "SC122",
+    "chapter": "06",
+    "duration_sec": 3.94,
+    "sentences": [
+      "Vĩ mô kinh tế luôn là trò chơi của những sự đánh đổi khốc liệt."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Bàn cờ vua vĩ mô tối giản bằng đá đen, các quân cờ đại diện cho chính sách (vàng và đỏ) di chuyển kịch tính.",
+    "base_english_prompt": "A steady shot of a macro-economic chessboard with glowing gold and red pieces, dark matte background, clean geometric lines"
+  },
+  {
+    "id": "SC123",
+    "chapter": "06",
+    "duration_sec": 6.56,
+    "sentences": [
+      "Quyết định ưu tiên dòng vốn cho mười tám siêu dự án hạ tầng chắc chắn sẽ tạo ra hiệu ứng lấn át tín dụng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Nam châm điện khổng lồ màu vàng hút toàn bộ dòng sắt tiền mặt xanh lục về hướng bản đồ 18 đại dự án.",
+    "base_english_prompt": "A slow camera panning showing a giant golden electromagnet pulling all glowing green currency notes towards a project map, dark navy background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC124",
+    "chapter": "06",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Khi hàng trăm nghìn tỷ tiền tươi được nắn về các đại công trình, phần còn lại sẽ bị thu hẹp."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Vòng tròn sáng vốn của phần còn lại bị co hẹp dần, chìm vào góc tối chỉ còn một đốm đỏ nhỏ cảnh báo.",
+    "base_english_prompt": "A steady shot of a shrinking green sphere of capital getting squeezed into a tight red point, dark charcoal background"
+  },
+  {
+    "id": "SC125",
+    "chapter": "06",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Các doanh nghiệp vừa và nhỏ sẽ phải đối mặt với rào cản tiếp cận vốn lớn hơn và chi phí đắt đỏ hơn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Silhouette nhà máy SMEs đứng sau hàng rào dây thép gai điện màu đỏ chói mang nhãn 'CAPITAL BARRIER' (rào cản vốn).",
+    "base_english_prompt": "A steady shot showing the silhouette of a small factory behind a massive red electric wire fence labeled 'CAPITAL BARRIER', dark backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC126",
+    "chapter": "06",
+    "duration_sec": 6.82,
+    "sentences": [
+      "Để giải quyết bài toán thiếu hụt thanh khoản ngắn hạn, Ngân hàng Nhà nước buộc phải bơm tiền mặt hằng ngày qua thị trường mở."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cổng trung tâm NHNN 'OMO' truyền luồng năng lượng xanh lục bảo cứu trợ thanh khoản ngắn hạn cho các ngân hàng thương mại.",
+    "base_english_prompt": "A slow camera panning showing a glowing green energy pipeline extending from a central hub labeled 'OMO' to commercial banks, dark navy background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC127",
+    "chapter": "06",
+    "duration_sec": 6.82,
+    "sentences": [
+      "Tuy nhiên, việc duy trì lượng nội tệ dồi dào trong hệ thống sẽ gián tiếp làm tăng áp lực mất giá lên đồng nội tệ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu đồ trượt dốc của tỷ giá hối đoái, chỉ số 'EXCHANGE RATE' chao đảo nghiêng đổ.",
+    "base_english_prompt": "A steady shot of a stylized line chart showing a downward trend labeled \"EXCHANGE RATE\" in amber yellow, dark charcoal background"
+  },
+  {
+    "id": "SC128",
+    "chapter": "06",
+    "duration_sec": 3.41,
+    "sentences": [
+      "Đặc biệt là khi Fed vẫn giữ nguyên mức lãi suất neo cao."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Chỉ số 'FED RATE: 5.5%' treo sừng sững trên đỉnh đồ thị vĩ mô đen thẫm.",
+    "base_english_prompt": "A steady shot of a minimalist 2D dashboard, with \"FED RATE: 5.5%\" indicator locked at the top, dark background"
+  },
+  {
+    "id": "SC129",
+    "chapter": "06",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Bức tranh vĩ mô này gửi đi một thông điệp rõ ràng cho chiến lược tài chính của bạn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "La bàn tài chính cổ điển màu vàng đồng xoay chậm rãi trên phông slate tối, dừng kim chỉ ở chữ 'PRESERVATION' (phòng vệ).",
+    "base_english_prompt": "A steady shot of a golden financial compass rotating slowly, aligning its needle to point at 'PRESERVATION', dark slate background"
+  },
+  {
+    "id": "SC130",
+    "chapter": "06",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Nếu bạn muốn tiếp tục thấu hiểu dòng chảy tiền tệ vĩ mô, hãy đăng ký kênh."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Nút 'SUBSCRIBE' phát sáng màu xanh lục bảo nổi bật trên phông nền đồ thị tài chính di chuyển chậm rãi.",
+    "base_english_prompt": "A steady shot showing a glowing emerald green \"SUBSCRIBE\" bar centered on a slowly panning dark financial chart background, clean typography"
+  },
+  {
+    "id": "SC131",
+    "chapter": "06",
+    "duration_sec": 5.51,
+    "sentences": [
+      "Với doanh nghiệp nhỏ, chìa khóa lúc này là tối ưu dòng tiền ngắn hạn, hạn chế nợ vay dài hạn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Sơ đồ vĩ mô 'CASHFLOW' hiện lên màu xanh lục, đồng thời gạch bỏ chéo dòng chữ đỏ 'DEBT'.",
+    "base_english_prompt": "A steady shot showing a minimalist 2D flow chart, with \"CASHFLOW\" in green, crossing out \"DEBT\" in red, dark background"
+  },
+  {
+    "id": "SC132",
+    "chapter": "06",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Bạn cần chủ động tìm kiếm các nguồn vốn thay thế hoặc thương lượng kéo dài thời hạn thanh toán với đối tác."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Silhouette nhà máy SMEs kết nối đường ống dẫn vốn mới với các khối vốn thay thế màu vàng đồng phát sáng xung quanh.",
+    "base_english_prompt": "A slow camera panning showing a small factory outline branching out pipelines to alternative gold capital blocks, dark slate backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC133",
+    "chapter": "06",
+    "duration_sec": 6.56,
+    "sentences": [
+      "Đối với người vay cá nhân, viễn cảnh lãi suất cho vay dài hạn neo cao là một thực tế bắt buộc phải chấp nhận."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Hợp đồng tín dụng cá nhân hiển thị mức lãi suất thả nổi cao màu đỏ rực, người vay silhouette oằn vai chấp nhận.",
+    "base_english_prompt": "A steady shot showing a stylized hand reviewing a loan agreement with high interest figures marked in red, dark charcoal backdrop, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC134",
+    "chapter": "06",
+    "duration_sec": 6.82,
+    "sentences": [
+      "Hãy xây dựng các kịch bản dự phòng tài chính cá nhân với mức lãi suất thả nổi cao hơn từ một đến hai phần trăm."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Biểu đồ cột dự phòng tài chính dâng cao để hấp thụ cú sốc tăng lãi suất thêm '+1% TO +2%' màu đỏ.",
+    "base_english_prompt": "A steady shot of a minimalist 2D chart, showing cash buffer bar growing to absorb a '+1% to +2%' interest rate spike in crimson, dark navy background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC135",
+    "chapter": "06",
+    "duration_sec": 6.3,
+    "sentences": [
+      "Nhìn rộng hơn, áp lực thanh khoản của hệ thống ngân hàng nội địa vẫn có cơ hội được giải tỏa trong dài hạn."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cơn bão mây đỏ vĩ mô trôi đi chậm rãi, mở ra những tia nắng xanh lục bảo chiếu sáng hệ thống ngân hàng hồi phục.",
+    "base_english_prompt": "A slow camera panning showing dark red storm clouds parting to let emerald green sunlight shine through, dark background, slow camera zoom, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC136",
+    "chapter": "06",
+    "duration_sec": 6.82,
+    "sentences": [
+      "Khi các dự án hạ tầng lớn hoàn thành và đi vào vận hành ổn định, chúng sẽ bắt đầu tạo ra dòng tiền thực tế."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường sắt cao tốc vàng đồng hoàn thiện đi vào hoạt động ổn định, bắt đầu bơm dòng tiền vàng chảy ngược về xã hội.",
+    "base_english_prompt": "A steady shot of a completed golden railway bridge with trains running, initiating a steady flow of gold coins, dark slate background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC137",
+    "chapter": "06",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Nhưng lãi suất ngoại tệ năm phẩy năm phần trăm và tỷ giá neo cao đã khóa chặt cánh cửa đảo nợ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Khóa xích sắt thắt chặt quanh bản đồ huy động vốn, nhãn tỷ giá 'EXCHANGE RATE' khóa đỏ rực.",
+    "base_english_prompt": "A steady shot showing a large padlock locking a coordinate grid with glowing red numbers, dark charcoal background"
+  },
+  {
+    "id": "SC138",
+    "chapter": "06",
+    "duration_sec": 5.25,
+    "sentences": [
+      "Những tập đoàn lớn như Vingroup phải tự lực bằng mục tiêu lợi nhuận ba mươi lăm nghìn tỷ đồng."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dòng USD xanh lục chảy về nước, đẩy lùi và thay thế các khối nợ nội tệ màu đỏ nóng trong két sắt.",
+    "base_english_prompt": "A slow camera panning showing green USD currency bills replacing hot red debt blocks inside a vault, dark grey background"
+  },
+  {
+    "id": "SC139",
+    "chapter": "06",
+    "duration_sec": 4.46,
+    "sentences": [
+      "Hạ tầng quốc gia cần được xây dựng để tạo động lực tăng trưởng cho tương lai."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Mô hình chiếc cầu treo lớn màu vàng kim rực sáng kiêu hãnh vươn tới chân trời, tượng trưng cho động lực vĩ mô tương lai.",
+    "base_english_prompt": "A steady shot of a beautiful golden suspension bridge extending toward a bright horizon, dark charcoal background, cinematic, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC140",
+    "chapter": "06",
+    "duration_sec": 4.2,
+    "sentences": [
+      "Nhưng dòng tiền vĩ mô không vận hành theo mệnh lệnh hành chính trên giấy tờ."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Tờ giấy nghị định hành chính 'DECREE' bốc cháy chậm chạp thành tro bụi khi cố gượng ép dòng chảy tiền mặt vĩ mô.",
+    "base_english_prompt": "A steady shot showing a paper document labeled 'DECREE' disintegrating in glowing red embers fading away, dark navy background, conceptual economics"
+  },
+  {
+    "id": "SC141",
+    "chapter": "06",
+    "duration_sec": 4.72,
+    "sentences": [
+      "Hạn mức room tín dụng có thể được đặc cách loại trừ bằng những văn bản chính thức."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Dấu mộc 'EXEMPT' (đặc cách) màu đỏ đóng lên văn bản room tín dụng, các vạch biên giới hạn nới rộng ra một cách hình thức.",
+    "base_english_prompt": "A steady shot of a red ink stamp pressing 'EXEMPT' on a credit room chart, boundary lines shifting outward, dark background"
+  },
+  {
+    "id": "SC142",
+    "chapter": "06",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Nhưng tiền tươi thóc thật thì không thể tự sinh ra nếu thiếu những nguồn tích lũy thực tế từ xã hội."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cây tài chính vĩ mô đâm hoa kết trái tạo ra những quả cầu vàng tiền mặt nhờ có nguồn tích lũy sâu trong lòng đất xã hội.",
+    "base_english_prompt": "A steady shot of a stylized tree of wealth blooming with golden coins from deep social roots, dark charcoal background, culturally authentic stylized Asian elements, warm organic tones"
+  },
+  {
+    "id": "SC143",
+    "chapter": "06",
+    "duration_sec": 4.99,
+    "sentences": [
+      "Cuộc chiến thanh khoản của hệ thống ngân hàng vẫn diễn ra âm thầm sau những đại công trường."
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Cánh cửa két sắt khổng lồ đóng hờ hé mở, phát ánh sáng vàng kim chiếu lên bản vẽ thiết kế công trình hạ tầng vĩ mô.",
+    "base_english_prompt": "A slow camera panning showing a massive vault door slightly ajar, casting golden light onto blueprint drawings of infrastructure, dark background"
+  },
+  {
+    "id": "SC144",
+    "chapter": "06",
+    "duration_sec": 6.04,
+    "sentences": [
+      "Khi giấy phép chi tiêu mở toang, liệu ngân hàng có đủ tiền tươi để hiện thực hóa các bản vẽ vĩ mô?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường xu hướng đỏ rực cắt xéo dốc thẳng xuống qua lưới đồ thị vĩ mô đen thẫm, biểu thị cái giá đánh đổi khốc liệt.",
+    "base_english_prompt": "A slow camera panning showing a long red decline trend line slicing through an abstract economic graph grid, dark background, slow dolly out"
+  },
+  {
+    "id": "SC145",
+    "chapter": "06",
+    "duration_sec": 5.77,
+    "sentences": [
+      "Hay chúng ta sẽ phải chứng kiến một sự đánh đổi lớn hơn của cả nền kinh tế trong những năm tới?"
+    ],
+    "sentence_count": 1,
+    "visual_summary": "Đường xu hướng đỏ rực cắt xéo dốc thẳng xuống qua lưới đồ thị vĩ mô đen thẫm, biểu thị cái giá đánh đổi khốc liệt.",
+    "base_english_prompt": "A slow camera panning showing a long red decline trend line slicing through an abstract economic graph grid, dark background, slow dolly out"
+  }
+]

@@ -1,0 +1,7 @@
+Năm trăm hai mươi bảy tỷ đô la mỹ. Đó là quy mô GDP danh nghĩa mà Việt Nam dự kiến chạm tới trong năm hai nghìn không trăm hai mươi sáu. Philippines? Năm trăm mười hai tỷ. Lần đầu tiên, Việt Nam chính thức vượt mặt.
+
+Nhưng con số tổng không nói hết câu chuyện. Tốc độ mới là thứ đáng chú ý. Nửa đầu năm hai nghìn không trăm hai mươi sáu, kinh tế Việt Nam tăng tám phẩy mười tám phần trăm. Cao nhất Đông Nam Á. Trong khi đó, Philippines phải hạ mục tiêu tăng trưởng xuống dưới bốn phẩy năm phần trăm. Khoảng cách không chỉ lớn. Nó đang nới rộng.
+
+Vì sao? Vì hai quốc gia này kiếm tiền bằng hai cách hoàn toàn khác nhau. Việt Nam chọn sản xuất. Xuất khẩu. Xây nhà máy thật, làm hàng hóa thật. Chúng ta dùng vốn nước ngoài để dựng lên các tổ hợp chế tạo, từ điện thoại Samsung đến giày dép Nike. Mỗi kiện hàng rời cảng Hải Phòng là một đồng GDP thực chất được tích lũy. Tính theo sức mua tương đương, nền kinh tế này đã vượt mốc hai nghìn tỷ đô la mỹ.
+
+Philippines đi đường khác. Họ không xây nhà máy. Họ mở cửa hàng. Nền kinh tế nước bạn sống chủ yếu bằng dịch vụ và tiêu dùng nội địa. Nghe có vẻ ổn. Nhưng có một vấn đề rất cơ bản. Sức mạnh nội tại của một nền kinh tế không chỉ đo bằng những gì người dân tiêu dùng bên trong biên giới. Mà quan trọng hơn, là những gì quốc gia đó sản xuất và bán ra ngoài biên giới. Vậy những thế lực nào đang nắm giữ các ngành dịch vụ hái ra tiền ở Philippines? Câu trả lời sẽ khiến bạn hiểu vì sao nước bạn bị bỏ lại. Đó là một thế lực vô cùng đặc biệt.

@@ -1,0 +1,45 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-25T13:09:03.978Z",
+  "session_id": "7c18b329",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/93de1710-a368-413a-a718-b3ca87422838"
+  },
+  "question": "Nêu các con số thực tế về tăng trưởng tín dụng và tăng trưởng huy động của toàn hệ thống ngân hàng tính đến cuối tháng 5/2026. Chênh lệch dư nợ tín dụng và huy động thực tế là bao nhiêu?",
+  "answer": {
+    "text": "Thoughts\nTính đến cuối tháng 5/2026, tăng trưởng tín dụng toàn hệ thống đạt 5,71% so với đầu năm, trong khi tăng trưởng huy động vốn chỉ đạt 2,98%\n1\n. Sự chênh lệch này cho thấy nhu cầu vốn của nền kinh tế đang tăng nhanh hơn đáng kể so với khả năng tạo lập nguồn vốn mới của hệ thống ngân hàng\n1\n.\nVề số liệu thực tế, Chứng khoán Rồng Việt (VDSC) ước tính chênh lệch giữa dư nợ tín dụng và huy động thực tế trên thị trường 1 hiện đã vượt 2,5 triệu tỷ đồng\n1\n. Khoảng cách quá lớn này đã đẩy tỷ lệ cho vay trên huy động (LDR) của toàn hệ thống tăng lên khoảng 115%, cao hơn nhiều so với mức 109% vào cuối năm 2025 và 106% vào cuối năm 2024\n1\n. Điều này cho thấy rào cản thực sự của các ngân hàng hiện nay không còn là room tín dụng mà là việc tìm kiếm nguồn vốn thực tế để giải ngân\n2\n3\n.\n📊 Bạn có muốn tôi tạo một biểu đồ so sánh chi tiết để trực quan hóa sự chênh lệch và xu hướng tỷ lệ LDR của hệ thống ngân hàng qua các năm không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?",
+      "source_text": "Tuy nhiên, những diễn biến gần đây cho thấy bài toán của hệ thống ngân hàng đang dần thay đổi. Theo số liệu của NHNN, đến cuối tháng 5/2026, tăng trưởng tín dụng toàn hệ thống đạt 5,71% so với đầu năm, trong khi tăng trưởng huy động vốn chỉ đạt 2,98%. Khoảng cách giữa tín dụng và huy động liên tục được nới rộng kể từ cuối năm 2025, cho thấy nhu cầu vốn của nền kinh tế đang tăng nhanh hơn đáng kể so với khả năng tạo lập nguồn vốn mới của hệ thống ngân hàng. Chứng khoán Rồng Việt (VDSC) ước tính, chênh lệch giữa dư nợ tín dụng và huy động trên thị trường 1 hiện đã vượt 2,5 triệu tỷ đồng. Điều này khiến tỷ lệ cho vay trên huy động (LDR) của toàn hệ thống tăng lên khoảng 115%, cao hơn đáng kể so với mức 109% vào cuối năm 2025 và 106% vào cuối năm 2024."
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?",
+      "source_text": "Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise? Quang Hưng | 25-06-2026- 14:46 PM | Tài chính - ngân hàng Chia sẻ 0 Nghe đọc bài 7:34 0.5x 0.75x 1.00x 1.25x 1.5x Nữ miền Bắc Nam miền Bắc Nam miền Nam Nữ miền Nam Ngân hàng Nhà nước đã mở cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise, nhưng thách thức lớn nhất của hệ thống ngân hàng hiện không còn là hạn mức tín dụng. 24-06-2026 Nới LDR, mở room tín dụng, tăng trần cho vay dài hạn: Ngân hàng Nhà nước đang... 20-06-2026 Vì sao Ngân hàng Nhà nước không bơm mạnh tiền qua kênh OMO để hỗ trợ... 17-06-2026 Nóng: Ngân hàng Nhà nước muốn nới trần vốn ngắn hạn cho vay trung dài hạn lên..."
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?",
+      "source_text": "Nhìn từ góc độ thanh khoản, đây là diễn biến đáng chú ý hơn nhiều so với câu chuyện room tín dụng. Bởi dù được cấp thêm hạn mức tín dụng hay được loại trừ khỏi room tín dụng, các ngân hàng vẫn phải có nguồn vốn thực tế để giải ngân. Nói cách khác, bài toán hiện nay không còn là ngân hàng có được phép cho vay hay không, mà là lấy nguồn vốn ở đâu để cho vay! Đặc biệt với 18 dự án trọng điểm của Vingroup, Sun Group và Masterise, nhu cầu vốn không chỉ lớn về quy mô mà còn có đặc điểm là thời gian vay kéo dài nhiều năm. Điều này đồng nghĩa với việc hệ thống ngân hàng phải chuẩn bị lượng vốn trung và dài hạn rất lớn để đáp ứng nhu cầu tài trợ."
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 3,
+    "source_names": [
+      "Ngân hàng lấy tiền đâu để cho vay 18 dự án của Vingroup, Sun Group và Masterise?"
+    ]
+  }
+}

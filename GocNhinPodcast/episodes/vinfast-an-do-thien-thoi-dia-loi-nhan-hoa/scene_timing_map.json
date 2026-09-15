@@ -1,0 +1,802 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chỉ ba ngày sau khi ra mắt tại vùng thủ đô Delhi và các thành phố vệ tinh, ứng dụng Green SM đã đứng đầu lượt tải về trên App Store Ấn Độ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cơn sốt người dân chen chúc trải nghiệm xe taxi điện giá rẻ đang phủ sóng vùng thủ đô.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Thế nhưng, đằng sau sự đón nhận nồng nhiệt đó là một chiến lược tích hợp dọc vô cùng táo bạo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Một vòng lặp công nghiệp được thiết kế để giải quyết những thách thức lớn về quy mô và thị trường của hãng xe Việt.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đây là Góc Nhìn Podcast.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Hôm nay, chúng ta sẽ phân tích canh bạc vĩ mô của VinFast tại Ấn Độ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chúng ta sẽ làm rõ sự kết hợp giữa chính sách bảo hộ bản địa, mô hình tích hợp dọc và các bài học quản trị dòng tiền.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tại trung tâm thành phố New Delhi, trải nghiệm di chuyển của hành khách đang có sự thay đổi lớn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Thay vì xe ba bánh Tuk-Tuk truyền thống, một chiếc SUV bảy chỗ rộng rãi đỗ ngay trước mặt.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là chiếc xe điện VinFast Limo Green mới ra mắt.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khoang xe rộng rãi, máy lạnh hoạt động liên tục và tài xế phục vụ chuyên nghiệp.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tuy nhiên, khi hành khách thanh toán, hóa đơn chỉ hiển thị mức cước 8 Rupee cho mỗi km.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Con số này chỉ tương đương khoảng 2.400 đồng Việt Nam.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Mức giá này rẻ đến mức phi lý khi đặt cạnh chiếc xe điện có giá bán lẻ tới 24,49 Lakh Rupee.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tức là khoảng 740 triệu đồng tiền Việt.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Làm sao một mô hình dịch vụ cao cấp có thể chịu lỗ vận hành sâu đến như vậy?",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu chỉ nhìn bề ngoài, đây trông giống như một chương trình ưu đãi cước phí thâm nhập thị trường.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhiều người sẽ nghĩ Vingroup đang làm từ thiện hoặc chấp nhận bù lỗ vô bờ bến.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng thực tế kinh tế học vĩ mô lại phức tạp hơn thế nhiều.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cước taxi rẻ không phải để làm thương hiệu đơn thuần.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nó là chất bôi trơn được tính toán để kích hoạt cả một vòng lặp công nghiệp khép kín.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Green SM gia nhập Ấn Độ với tư cách là người bao tiêu sản lượng khổng lồ cho nhà máy Tamil Nadu.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Green SM mua sỉ xe để giúp nhà máy đạt công suất tối ưu.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Từ đó hạ giá thành sản xuất trên mỗi đơn vị sản phẩm xuống mức thấp nhất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đồng thời, mỗi chiếc taxi chạy trên đường phố chính là một showroom di động.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khách hàng được trải nghiệm thực tế xe điện mà tập đoàn không tốn một đồng quảng cáo nào.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đây là chiến lược thâm nhập thị trường sâu sắc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC028",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nó giải quyết đồng thời cả bài toán niềm tin khách hàng lẻ lẫn bài toán công suất nhà máy.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tuy nhiên, cỗ máy tích hợp dọc này đòi hỏi một nguồn vốn đầu tư ban đầu khổng lồ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Và khi đối thủ sừng sỏ nhất là BluSmart tự gục ngã từ bên trong, Green SM đã nhìn thấy cơ hội vàng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC031",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Vậy cuộc khủng hoảng dòng tiền đó đã diễn ra thế nào, và nó dọn đường cho hãng xe Việt ra sao?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC032",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu bạn muốn bóc tách cơ chế tài chính thực tế phía sau những con số, hãy đăng ký kênh để không bỏ lỡ phân tích tiếp theo ngay sau đây.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Khi các rào cản pháp lý và chi phí tại Mỹ trở nên quá đắt đỏ, bài toán sinh tồn của hãng xe Việt bắt buộc phải thay đổi. Tháng 5 năm 2026, chính quyền bang North Carolina kiện đòi thu hồi 712 ha đất nhà máy tại Chatham County. Nước đi pháp lý này buộc tập đoàn phải hoãn kế hoạch sản xuất tại Mỹ đến tối thiểu là năm 2028.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Dưới áp lực đó, VinFast Auto chịu khoản lỗ ròng hoạt động lên tới hai mươi tám phẩy một nghìn tỷ đồng chỉ riêng trong quý một năm 2026. Con số này tương đương khoảng một phẩy mười hai tỷ USD. Đối với các doanh nghiệp, gánh nặng nợ vay cũng tương tự như các khoản vay mua nhà hay thế chấp sổ đỏ của bạn.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Khi dòng thu không đủ bù đắp chi phí lãi vay, áp lực thanh toán sẽ đè nặng lên từng quyết định sống còn. Để giải cứu dòng tiền, họ thực hiện một cú bẻ lái chiến lược. Tập đoàn chuyển hướng dòng tiền đầu tư về khu vực châu Á.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Trọng tâm mới này đổ dồn vào hai quốc gia có quy mô dân số khổng lồ là Ấn Độ và Indonesia. Đây là hai thị trường có dư địa phát triển xe điện cực kỳ lớn. Các chính phủ tại đây đang đẩy mạnh chính sách xanh hóa giao thông bằng nhiều ưu đãi thuế.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 13,
+    "visual_summary": "Hơn thế nữa, đây là các quốc gia sử dụng hệ thống tay lái nghịch. Phân khúc này chiếm tới ba mươi lăm phần trăm dân số toàn cầu. Một thị trường khổng lồ đang mở ra cho hãng xe Việt.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Tại vùng đất này, các đối thủ Nhật Bản sừng sỏ như Toyota hay Honda vẫn đang thống trị. Tuy nhiên, họ không thể lập tức chuyển dịch sang xe thuần điện. Những gã khổng lồ này đang bị vướng bận bởi di sản khổng lồ của xe xăng và xe lai hybrid.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Họ sở hữu mạng lưới nhà máy sản xuất cũ và hệ thống đại lý truyền thống đồ sộ. Sự chuyển đổi quá nhanh sẽ tự ăn thịt thị phần của chính họ. Rào cản tự thân đó tạo ra một độ trễ lớn trong chuyển dịch công nghệ.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 14,
+    "visual_summary": "Đây chính là thời cơ vàng để VinFast chớp lấy cơ hội. Nước đi tốc độ này phản chiếu tư duy thực dụng sâu sắc trong quản trị vốn. Thay vì đối đầu tại phương Tây, doanh nghiệp lựa chọn nơi đối thủ đang chậm chân.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Đi tắt đón đầu bằng dải sản phẩm thuần điện là một chiến lược vô cùng nhạy bén và hợp lý. Tại đây, dòng tiền của VinFast tìm thấy một bệ đỡ chính sách vững chắc, giúp thiết lập lá chắn bảo hộ trước các đối thủ khác. Theo bạn, nước đi chuyển dịch thần tốc này là một chiến lược khôn ngoan hay một sự liều lĩnh khi bỏ dở thị trường Mỹ?",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 13,
+    "visual_summary": "Hãy để lại bình luận phía dưới để chúng ta cùng thảo luận. Còn bây giờ, lá chắn chính sách đó hoạt động thế nào để ngăn chặn các đối thủ Trung Quốc? Chúng ta sẽ phân tích trong chương tiếp theo.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC043",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Ấn Độ vốn nổi tiếng là một trong những thị trường ô tô bảo hộ nghiêm ngặt nhất thế giới. Thuế nhập khẩu dành cho xe nguyên chiếc thông thường lên tới 70% đối với xe có giá trị dưới 40.000 USD. Và chạm mốc 110% đối với các dòng xe cao cấp trên ngưỡng này.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC044",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Rào cản thuế quan khổng lồ này khiến các hãng xe ngoại quốc cực kỳ khó tiếp cận người tiêu dùng Ấn Độ. Tuy nhiên, chính phủ của Thủ tướng Narendra Modi đã mở ra một lối đi riêng. Đó là chính sách ưu đãi đặc biệt mang tên SPMEPCI.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC045",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 9,
+    "visual_summary": "Quy định mới cho phép giảm thuế nhập khẩu xuống mức chỉ còn 15% trong vòng 5 năm. Đây là một ưu thế cạnh tranh rất lớn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC046",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Tuy nhiên, tấm vé giảm thuế này đi kèm những điều kiện vô cùng khắt khe. Nhà sản xuất phải cam kết đầu tư tối thiểu 500 triệu USD vào nước này. Họ cũng phải cam kết tỷ lệ nội địa hóa đạt ít nhất 25% vào năm thứ ba.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC047",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Và tăng lên 50% vào năm thứ năm hoạt động. Chính sách này chỉ áp dụng cho xe điện nhập khẩu có giá trị khai báo tại cảng từ 35.000 USD trở lên. Và hạn ngạch nhập khẩu giới hạn tối đa ở mức 8.000 xe mỗi năm.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC048",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "VinFast đã nhanh chóng chớp lấy cơ hội này bằng cam kết xây dựng nhà máy tại bang Tamil Nadu.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC049",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Nước đi chính sách này của Ấn Độ không chỉ là để thu hút vốn đầu tư ngoại. Đứng sau nó là một bàn cờ địa chính trị vô cùng sắc bén. Ấn Độ đã dựng lên những rào cản ngăn chặn sự bành trướng của xe điện Trung Quốc.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC050",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Theo quy định Press Note 3, các khoản đầu tư từ các nước có chung đường biên giới bị siết chặt tối đa. Hệ quả trực tiếp là đề xuất liên doanh trị giá 1 tỷ USD của BYD đã bị bác bỏ thẳng thừng vào tháng 7 năm 2023. Một hãng xe lớn khác là SAIC cũng bị điều tra gắt gao.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC051",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Họ buộc phải bán lại cổ phần cho đối tác địa phương để tiếp tục tồn tại.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC052",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Lá chắn chính trị này vô tình tạo ra một sân chơi thông thoáng cho VinFast. Hãng xe Việt tránh được cuộc chiến dìm giá trực diện với các đối thủ Trung Quốc. Tại thị trường nội địa Ấn Độ, gã khổng lồ Tata Motors cũng đang lung lay.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC053",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Thị phần xe điện của Tata Motors đã sụt giảm mạnh từ 70% xuống chỉ còn 39%. Cơ hội đang mở rộng cho những người chơi mới có chiến lược khôn ngoan.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC054",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Điều này phản ánh một bài học lớn về việc nhận diện cơ hội chính sách. Việc đọc vị các dòng thuế nhập khẩu giúp tối ưu hóa chi phí cho doanh nghiệp. Tận dụng chính sách công để đi tắt đón đầu luôn là công thức của những người đi sau.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC055",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Nhưng để thâm nhập thành công vào thị trường Nam Á, hãng xe Việt phải đối mặt với một thách thức kỹ thuật lớn. Làm thế nào họ giải được bài toán đó khi nhà máy Tamil Nadu đi vào hoạt động? Câu trả lời nằm ở một vòng lặp công nghiệp và những showroom di động đặc biệt, sẽ được làm rõ trong chương sau.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC056",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Nhiều nhà phân tích tài chính hoài nghi việc VinFast bán xe cho Green SM chỉ là phương án luân chuyển dòng vốn nội bộ. Họ e ngại đây chỉ là giao dịch nội bộ nhằm làm đẹp doanh thu của hãng xe. Tuy nhiên, nếu nhìn từ lăng kính sản xuất công nghiệp, câu chuyện lại hoàn toàn khác.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC057",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Bán xe cho đội taxi nội bộ không phải là thủ thuật tài chính ngắn hạn. Nó là bước đệm bắt buộc để giải bài toán quy mô sản xuất tối thiểu của nhà máy. Hãy hình dung bạn đang điều hành một xưởng sản xuất cơ khí nhỏ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC058",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Nếu bạn chỉ có vài khách hàng lẻ tẻ, giá thành trên mỗi sản phẩm làm ra sẽ cực kỳ cao. Nhưng nếu có một đối tác lớn cam kết bao tiêu tám mươi phần trăm sản lượng ngay từ đầu, bạn sẽ tự tin nhập sỉ linh kiện. Từ đó, giá thành sản xuất trên mỗi đơn vị sản phẩm của bạn sẽ giảm sâu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC059",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Đây chính là vai trò sinh tử của hạm đội taxi Green SM. Họ đóng vai trò bao tiêu sản lượng sỉ tức thời cho tổ hợp nhà máy tại Thoothukudi, bang Tamil Nadu. Tổ hợp này có quy mô lên tới bốn trăm mẫu đất sạch do chính quyền bang bàn giao.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC060",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Công suất thiết kế giai đoạn một đạt năm mươi nghìn xe mỗi năm và có khả năng mở rộng lên tới một trăm năm mươi nghìn xe. Đến tháng sáu năm 2026, nhà máy đã nhanh chóng cán mốc xuất xưởng chiếc xe thứ mười nghìn. Đồng thời, Vingroup công bố đầu tư bổ sung năm trăm triệu đô-la Mỹ để mở rộng sản xuất xe buýt, xe máy điện và cell pin.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC061",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 23,
+    "visual_summary": "Quy mô sản xuất sỉ này giúp hạ chi phí đầu tư và chi phí vận hành trên mỗi chiếc xe điện. Bên cạnh việc bao tiêu sản lượng, Green SM còn đóng vai trò là một phòng trưng bày di động. Khán giả thường hoài nghi: \"Nếu chỉ bán xe cho hãng taxi nhà thì ai sẽ mua xe cá nhân?\" Câu trả lời nằm ở chiến lược trải nghiệm thực tế để thúc đẩy bán lẻ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC062",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Thay vì chi hàng triệu đô-la cho các chiến dịch quảng cáo truyền thống. VinFast đưa hàng ngàn chiếc xe điện chạy dịch vụ phủ kín các đường phố New Delhi. Mỗi chuyến đi của hành khách Ấn Độ trên xe Green SM chính là một lượt lái thử thực tế.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC063",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Họ được trực tiếp trải nghiệm sự êm ái, công nghệ an toàn và sự tiện lợi của xe điện. Sự quen thuộc này sẽ tự nhiên chuyển hóa thành nhu cầu mua xe cá nhân sau đó. Quy mô bán sỉ tạo ra mức giá bán lẻ cạnh tranh.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC064",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Nhưng để tối ưu hóa chi phí sản xuất toàn cầu, VinFast còn sở hữu một vũ khí kỹ thuật khác. Nếu bạn thấy những phân tích về mô hình gọi xe và sản xuất này hữu ích, hãy tặng video một nút thích và chia sẻ cho bạn bè. Sự ủng hộ của bạn giúp kênh tiếp tục phát triển các nội dung chất lượng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC065",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 10,
+    "visual_summary": "Vậy vũ khí kỹ thuật đó là gì và nó đã giúp hãng tối ưu hóa chi phí ra sao? Chúng ta sẽ cùng tìm hiểu trong chương tiếp theo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC066",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 24,
+    "visual_summary": "Sản xuất xe vô lăng bên phải, hay còn gọi là xe tay lái nghịch, là một bài toán kỹ thuật vô cùng đắt đỏ đối với bất kỳ hãng xe nào trên thế giới. Hiện nay, khoảng ba mươi lăm phần trăm dân số thế giới đang sử dụng hệ thống giao thông đi bên trái đường. Điều này tương đương với hơn bảy mươi lăm quốc gia, bao gồm các thị trường ô tô lớn như Ấn Độ hay Indonesia.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC067",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Để chuyển đổi một mẫu xe sang tay lái nghịch, nhà sản xuất phải tái thiết kế lại toàn bộ hệ thống lái. Cơ cấu truyền động và bảng điều khiển cũng phải thay đổi hoàn toàn. Các linh kiện an toàn như túi khí, cảm biến và camera cũng phải được định vị lại.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC068",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Điều này đẩy chi phí nghiên cứu và chế tạo khuôn mẫu lên mức khổng lồ. Nếu chỉ tập trung phát triển cho từng thị trường riêng lẻ, doanh nghiệp sẽ nhanh chóng rơi vào bẫy chi phí cố định quá cao. Để giải quyết nút thắt này, VinFast chọn giải pháp đồng bộ hóa sản phẩm tay lái nghịch trên quy mô toàn cầu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC069",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Toàn bộ quá trình nghiên cứu và thiết kế các biến thể xe điện tay lái nghịch được thực hiện một lần tại Hải Phòng. Bản thiết kế này sau đó được chuyển giao đồng thời cho hai nhà máy lắp ráp ở nước ngoài. Nhà máy Subang tại Indonesia chuyên lắp ráp xe phục vụ Đông Nam Á.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC070",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Trong khi đó, tổ hợp nhà máy tại Tamil Nadu chuyên cung cấp xe cho thị trường Ấn Độ và xuất khẩu sang Trung Đông. Sự đồng bộ này giúp doanh nghiệp tiết kiệm tới năm mươi phần trăm chi phí nghiên cứu và phát triển. Bên cạnh tối ưu hóa thiết kế, quy mô đơn hàng sỉ chính là vũ khí giúp doanh nghiệp thương lượng giá linh kiện với các nhà cung ứng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC071",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 23,
+    "visual_summary": "Bằng cách dùng hạm đội taxi Green SM bao tiêu sản lượng lớn tại New Delhi và Jakarta, hãng xe tạo ra đơn đặt hàng linh kiện ổn định. Các nhà cung cấp linh kiện sẵn sàng giảm giá bán sỉ các bộ trục lái và bảng điều khiển đặc thù. Nhờ đó, giá bán của mẫu xe V-F M-P-V bảy tại Ấn Độ đạt mức cạnh tranh trực tiếp với các hãng xe nội địa.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC072",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 25,
+    "visual_summary": "Tuy nhiên, chiến lược bành trướng thần tốc thông qua các đối tác liên minh luôn đi kèm những rủi ro vận hành khó lường. Tại Philippines, Green SM áp dụng mô hình nhượng quyền thương mại kết hợp với hãng Xentro Motors để đưa mười tám nghìn năm trăm xe vào hoạt động. Nước đi này giúp doanh nghiệp giải phóng chi phí đầu tư trực tiếp nhờ gói vay ba mươi hai phẩy bốn triệu đô-la Mỹ từ Ngân hàng Quốc gia Philippines.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC073",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 25,
+    "visual_summary": "Ngược lại, tại Indonesia, một sự cố tai nạn tàu hỏa đâm trúng xe taxi Green SM xảy ra tại Bekasi vào tháng tư năm 2026. Cách xử lý khủng hoảng thiếu đồng cảm của đội ngũ truyền thông địa phương đã châm ngòi cho làn sóng tẩy chay dữ dội từ cộng đồng. Bài học xương máu ở đây là một sự cố cục bộ có thể tàn phá uy tín thương hiệu toàn cầu nếu thiếu sự đồng bộ trong quản trị.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC074",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Khi thương hiệu gặp rủi ro uy tín, dòng tiền vận hành sẽ lập tức bị tắc nghẽn. Vậy khi đối thủ lớn nhất tại New Delhi tự sụp đổ từ bên trong, Green SM đã tận dụng thời cơ như thế nào để thâu tóm thị trường dịch vụ? Chúng ta sẽ phân tích cuộc chiến tranh giành tài xế trong chương tiếp theo.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC075",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 21,
+    "visual_summary": "Trong bất kỳ ngành kinh doanh dịch vụ gọi xe nào, tài sản quan trọng nhất không phải là những chiếc xe bóng bẩy. Tài sản quyết định sự tồn vong của hệ thống chính là đội ngũ tài xế. Khi hãng taxi điện từng giữ vị trí độc tôn tại Ấn Độ là BluSmart tự đào mồ chôn mình, hãng xe Việt đã lập tức nhận ra cơ hội vàng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC076",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Cuộc khủng hoảng của BluSmart không bắt nguồn từ áp lực cạnh tranh trên đường phố. Nó bắt đầu từ một vụ bê bối quản trị nghiêm trọng ở thượng tầng của tập đoàn sở hữu. Tháng tư năm 2025, Ủy ban Chứng khoán và Giao dịch Ấn Độ tiến hành điều tra hai nhà sáng lập của hãng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC077",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 12,
+    "visual_summary": "Đó là anh em nhà Jaggi. Cơ quan quản lý phát hiện họ đã biển thủ khoảng hai tỷ sáu trăm hai mươi triệu Rupee. Con số này tương đương với ba mươi mốt phẩy năm triệu đô-la Mỹ.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC078",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Số tiền này vốn là các khoản vay phát triển xe điện được huy động từ ngân hàng quốc doanh. Các nhà sáng lập đã chuyển dịch trái phép nguồn vốn này sang tài khoản cá nhân để chi trả cho các tiêu dùng xa xỉ. Vụ bê bối tài chính này đã kích hoạt một phản ứng dây chuyền tàn khốc.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC079",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Nhà cung cấp trạm sạc cắt dịch vụ và đối tác xiết nợ. Hãng xe điện mất thanh khoản hoàn toàn và ứng dụng gọi xe bị đình chỉ hoạt động. Hệ quả là toàn bộ hạm đội bảy nghìn năm trăm xe điện của BluSmart bị đắp chiếu hoàn toàn khi doanh nghiệp sụp đổ.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC080",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Hàng ngàn tài xế xe điện tại khu vực New Delhi đột ngột rơi vào cảnh bơ vơ, mất nguồn thu nhập chính. Trong bối cảnh đó, thương hiệu Green SM Limo chính thức ra mắt vào ngày năm tháng sáu năm 2026. Hãng xe Việt đã thực hiện một chiến dịch chiêu mộ tài xế quy mô lớn và thần tốc.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC081",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Họ đưa ra gói lương cứng cam kết từ ba mươi lăm nghìn đến bốn mươi nghìn Rupee mỗi tháng. Con số này tương đương từ mười phẩy sáu triệu đến mười hai phẩy một triệu đồng Việt Nam. Ngoài ra, tài xế còn được hưởng các chính sách bảo hiểm y tế đầy đủ.",
+    "base_english_prompt": "A giant glowing golden protective hand saving a modern city from destruction"
+  },
+  {
+    "id": "SC082",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Đây là mức thu nhập vô cùng hấp dẫn và ổn định đối với những người lao động tự do tại Ấn Độ. Nước đi này giải quyết trực tiếp nỗi lo sinh kế của họ. Nhiều người sẽ đặt câu hỏi liệu Green SM có đủ sức đối đầu với gã khổng lồ Uber.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC083",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Thực tế, Uber vẫn là thế lực thống trị với đội xe xăng truyền thống cực kỳ hùng hậu. Tuy nhiên, ở phân khúc gọi xe điện cao cấp tự sở hữu, Green SM vẫn nắm giữ lợi thế tuyệt đối về chất lượng dịch vụ đồng bộ. Hãng xe Việt không chiến thắng đối thủ bằng cuộc chiến dìm giá cước đè bẹp trực tiếp.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC084",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Họ giành lấy thị trường nhờ tận dụng sự sụp đổ từ bên trong của đối thủ do quản lý dòng tiền sai lầm. Đối với các chủ doanh nghiệp, việc thâu tóm nhân sự chất lượng cao khi đối thủ ngã ngựa chính là bài học quản trị vô giá. Nhưng để duy trì gói lương cứng hấp dẫn này cho hàng ngàn tài xế, doanh nghiệp cần một nguồn vốn khổng lồ.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC085",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 17,
+    "visual_summary": "Nguồn vốn khổng lồ đó sẽ được huy động từ đâu khi dòng vốn nội địa đang gánh chịu áp lực nợ vay lớn? Câu trả lời nằm ở một bàn cờ tài chính quốc tế và kế hoạch niêm yết công khai lớn chưa từng có, sẽ được bóc tách trong chương tiếp theo.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC086",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Đối với các doanh nghiệp lớn, mục tiêu tối thượng luôn là duy trì sự thông suốt của dòng tiền lưu thông. Vingroup thấu hiểu sâu sắc trực giác này khi gánh trên vai hàng trăm nghìn tỷ đồng nợ vay. Tập đoàn bắt buộc phải thực hiện những bước dịch chuyển tài sản vô cùng táo bạo trên sổ sách kế toán.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC087",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 21,
+    "visual_summary": "Họ đã chuyển giao khoản nợ lên tới một trăm tám mươi hai nghìn tỷ đồng của nhà máy Hải Phòng ra khỏi VinFast Auto. Đây là nước đi làm sạch bảng cân đối kế toán trước mắt các định chế tài chính quốc tế. Nhờ đó, tập đoàn dọn đường cho lối thoát thanh khoản duy nhất: ván bài niêm yết công khai của hãng xe dịch vụ Green SM.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC088",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Vào ngày 28 tháng 2 năm 2026, Vingroup công bố sáp nhập Green SM với Công ty Cổ phần Thương mại và Dịch vụ Green Future. Sau khi sáp nhập, vốn điều lệ của Green SM đã tăng vọt lên mức bốn mươi ba nghìn bốn trăm tỷ đồng. Con số này tương đương khoảng một phẩy sáu tỷ USD.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC089",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Trong đó, tỷ phú Phạm Nhật Vượng trực tiếp nắm giữ bốn mươi chín phẩy không tư phần trăm cổ phần. Thực thể hợp nhất khổng lồ này được thiết kế để chuẩn bị cho lộ trình niêm yết công khai trên sàn chứng khoán nước ngoài vào năm 2027. Định giá mục tiêu kỳ vọng của đợt gọi vốn ngoại này lên tới hai mươi tỷ USD.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC090",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Vòng lặp công nghiệp khép kín thực chất không chỉ phục vụ việc sản xuất và tiêu thụ xe điện. Nó là quy trình xây dựng một câu chuyện tăng trưởng đẹp mắt để thuyết phục các quỹ đầu tư quốc tế. Khi Green SM bao tiêu lượng lớn xe từ VinFast Auto, doanh thu nội bộ trên sổ sách của hãng xe sẽ tăng trưởng mạnh.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC091",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 24,
+    "visual_summary": "Đây là tiền đề để làm đẹp hồ sơ tài chính phục vụ đợt niêm yết công khai. Tuy nhiên, nếu đợt gọi vốn ngoại trị giá hai mươi tỷ USD này bị trì hoãn, vòng lặp tài chính nội bộ sẽ nhanh chóng trở thành bẫy thanh khoản. Đối với các nhà quản lý, bài học ở đây là tài sản lớn chỉ thực sự an toàn khi nó được giải phóng thanh khoản thông qua thị trường vốn thực chất.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC092",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 14,
+    "visual_summary": "Từ ván bài dòng tiền của tập đoàn lớn, doanh nghiệp vừa và nhỏ rút ra bài học gì để bảo vệ dòng vốn? Chúng ta sẽ phân tích bộ khung quản trị vốn lưu động trong chương kết thúc ngay sau đây.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC093",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Những bài học từ ván bài dòng tiền của Vingroup không chỉ dành riêng cho các tập đoàn đa quốc gia. Đây là bộ khung tham chiếu thực tiễn cho mọi chủ doanh nghiệp vừa và nhỏ trong việc quản trị nguồn vốn. Tại thị trường xe điện lớn nhất thế giới, hai hãng xe Trung Quốc đã niêm yết công khai tại Hồng Kông nhờ chiến lược tối ưu hóa rất khác biệt.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC094",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Đầu tiên là mô hình của hãng Cao-Cao Chuxing do tập đoàn Geely hậu thuẫn. Họ thiết kế riêng các dòng xe Maple tám mươi V và Cao-Cao sáu mươi cho dịch vụ gọi xe. Bằng cách loại bỏ hoàn toàn các trang bị thừa thãi, họ giảm được ba mươi ba đến bốn mươi phần trăm tổng chi phí sở hữu.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC095",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Chi phí vận hành trên mỗi km giảm sâu xuống mức không phẩy năm mươi ba và không phẩy bốn mươi bảy Nhân dân tệ. Một đại diện khác là Ruqi Mobility của tập đoàn G-A-C lại chọn mô hình nhẹ tài sản. Thay vì tự mua xe, họ liên kết với các đại lý và bên thứ ba để chia sẻ gánh nặng khấu hao.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC096",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Ruqi Mobility cũng cấp phép công nghệ lái tự động của Pô-ni-Ai để vận hành xe tự lái thương mại. Chiến lược linh hoạt này giúp doanh nghiệp đạt doanh thu năm phẩy hai mươi chín tỷ Nhân dân tệ vào năm 2025. Biên lợi nhuận gộp cũng chuyển biến tích cực lên mức dương mười một phẩy tám mươi tám phần trăm.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC097",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 24,
+    "visual_summary": "Nhìn lại Green SM tại Ấn Độ, doanh nghiệp đang chọn con đường nặng tài sản cực đoan hơn khi tự sở hữu toàn bộ đội xe và tự xây dựng hạ tầng sạc. Mô hình này đòi hỏi chi phí đầu tư ban đầu khổng lồ. Và khi dòng vốn nội địa chịu áp lực lớn từ khoản lỗ ròng hai mươi tám phẩy một nghìn tỷ đồng, canh bạc này bắt buộc phải chạy đua với thời gian.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC098",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 23,
+    "visual_summary": "Đối với các chủ doanh nghiệp, bài học lớn nhất là việc cân bằng giữa tốc độ mở rộng và khả năng chịu đựng của dòng tiền ròng. Bạn không thể bành trướng quy mô nếu không có một bệ đỡ thanh khoản thực chất ở phía sau. Quay trở lại hình ảnh những chiếc xe taxi điện màu xanh mới tinh đang bon bon đón khách tại vùng thủ đô Delhi và các thành phố vệ tinh.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC099",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Sự hào nhoáng của ứng dụng đứng đầu App Store không đơn thuần là một câu chuyện thành công công nghệ. Đằng sau những chuyến xe giá rẻ phục vụ người dân Ấn Độ là cả một hệ mạch máu tài chính. Nó đang gồng mình lưu thông dưới áp lực của hàng trăm nghìn tỷ đồng nợ vay.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC100",
+    "chapter": "08",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Liệu hệ mạch máu ấy có thể hoàn thành sứ mệnh gọi vốn ngoại để tự giải cứu trước khi nguồn lực nội bộ kiệt quệ? Câu trả lời không nằm ở vị trí quán quân trên bảng xếp hạng tải về. Nó phụ thuộc hoàn toàn vào kết quả thực chất của cuộc viễn chinh đầy rủi ro này.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  }
+]

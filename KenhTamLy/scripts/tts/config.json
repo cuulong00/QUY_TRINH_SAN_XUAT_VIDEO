@@ -1,0 +1,14 @@
+{
+  "app_id": "4a5c79a2-82b9-4e01-ade9-37d2ee49d4f7",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzM0NDY3MTN9.MbdyyDitl5XaqCb-d0mgR6fpEwkcxwCgfUwsbwTv2g8",
+  "voice_code": "n_hanoi_male_nhabaohoangnam_news_vc",
+  "voice_name": "Nhà báo Hoàng Nam",
+  "voice_ownership": "community",
+  "api_base": "https://vbee.vn/api",
+  "audio_type": "mp3",
+  "speed_rate": 1.0,
+  "bitrate": 128,
+  "silence_between_chapters_ms": 2000,
+  "poll_interval_ms": 5000,
+  "poll_max_retries": 120
+}

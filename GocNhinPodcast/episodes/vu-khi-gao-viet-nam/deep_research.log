@@ -1,0 +1,49 @@
+[2026-09-05 23:07:05] === BẮT ĐẦU PIPELINE NOTEBOOKLM DEEP RESEARCH TỰ ĐỘNG ===
+[2026-09-05 23:07:07] Phát hiện Query đang chạy: Vietnam rice export 2023 2024 2025 Philippines import India ban lifted FAO USDA
+[2026-09-05 23:07:07] Đang chờ hoàn thành và import toàn bộ nguồn cho: Vietnam rice export 2023 2024 2025 Philippines import India ban lifted FAO USDA...
+[2026-09-05 23:13:55] ✓ Đã hoàn thành và import thành công cho: Vietnam rice export 2023 2024 2025 Philippines import India ban lifted FAO USDA
+[2026-09-05 23:13:55] Kết quả: {
+  "status": "completed",
+  "query": "Vietnam rice export 2023 2024 2025 Philippines import India ban lifted FAO USDA",
+  "sources_found": 70,
+  "sources": [
+    {
+      "url": "",
+      "title": "The Geopolitics of Global Rice Trade (2023–2025): Vietnam’s Premium Transition, the Philippine Regulatory Seesaw, and India’s Liberalization Impacts",
+      "result_type": 5,
+      "research_task_id": "e3197a82-3db2-4fa4-a27f-55c772e410a8",
+      "report_markdown": "# The Geopolitics of Global Rice Tr
+[2026-09-05 23:13:55] 
+--- Bắt đầu Query 2: Nghị quyết 120 NQ-CP ĐBSCL thuận thiên Quyết định 1490 một triệu ha lúa chất lượng cao phát thải thấp Luật Đất đai 2024 hạn mức ---
+[2026-09-05 23:13:58] Khởi động kết quả (code=0): {
+  "status": "started",
+  "task_id": "ChAxYTA0YjJkMjRhMTllZjlmEAgaBGI4MzQqA3Vzdw",
+  "poll_task_id": "5885298d-7c12-454e-bb23-899accdfc748"
+}
+
+[2026-09-05 23:13:58] Đang chờ hoàn thành và import toàn bộ nguồn cho: Query 2...
+[2026-09-05 23:14:00] ⚠ Có cảnh báo/lỗi khi wait: code=1, err=
+[2026-09-05 23:14:05] 
+--- Bắt đầu Query 3: Siêu cống Cái Lớn Cái Bé chi phí logistics ĐBSCL 30% Cảng nước sâu Trần Đề Mekong River Commission kênh Phù Nam Techo ---
+[2026-09-05 23:14:08] Khởi động kết quả (code=0): {
+  "status": "started",
+  "task_id": "ChAxYWFhMDA2Y2YzZDNjZjdlEAgaBGRmM2UqA3Vzdw",
+  "poll_task_id": "b4944abd-afd8-45ff-b6b1-bf81a0b9ca74"
+}
+
+[2026-09-05 23:14:08] Đang chờ hoàn thành và import toàn bộ nguồn cho: Query 3...
+[2026-09-05 23:14:10] ⚠ Có cảnh báo/lỗi khi wait: code=1, err=
+[2026-09-05 23:14:15] 
+--- Bắt đầu Query 4: Việt Nam giúp Cuba trồng lúa 5 giai đoạn giống CT16 chuyên gia nông nghiệp Việt Nam Mozambique Sierra Leone Senegal Hợp tác Nam Nam FAO ---
+[2026-09-05 23:14:18] Khởi động kết quả (code=0): {
+  "status": "started",
+  "task_id": "ChBhZWQ0OTJmMWUzMDJhYzFiEAgaBDhiNzgqA3Vzdw",
+  "poll_task_id": "ce50c892-f6ba-4423-82fe-4d59063bc3b6"
+}
+
+[2026-09-05 23:14:18] Đang chờ hoàn thành và import toàn bộ nguồn cho: Query 4...
+[2026-09-05 23:14:21] ⚠ Có cảnh báo/lỗi khi wait: code=1, err=
+[2026-09-05 23:14:26] 
+=== TỔNG KẾT TẤT CẢ NGUỒN TRONG MASTER NOTEBOOK ===
+[2026-09-05 23:14:29] ✓ TỔNG SỐ NGUỒN ĐÃ NẠP: 70 nguồn tài liệu sạch.
+[2026-09-05 23:14:29] === HOÀN TẤT PIPELINE DEEP RESEARCH ===

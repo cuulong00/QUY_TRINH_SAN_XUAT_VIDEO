@@ -1,0 +1,96 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-06-10T08:30:43.542Z",
+  "session_id": "a8014d29",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/1ff29234-3f66-42df-8f55-15d6b2c88321"
+  },
+  "question": "Chi tiết thương vụ tái cấu trúc tháng 5/2026 của VinFast Auto: cơ cấu chuyển nhượng mảng sản xuất VFTP cho đối tác tư nhân, giá trị chuyển nhượng 13.309,6 tỷ VND, và việc chuyển giao 182.000 tỷ VND nợ vay ra khỏi bảng cân đối kế toán của mảng thương hiệu (VF Auto). Mô tả cơ chế vận hành của mô hình Asset-Light mới và cam kết mua xe cost-plus 105%. Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.",
+  "answer": {
+    "text": "BÁO CÁO CHI TIẾT THƯƠNG VỤ TÁI CẤU TRÚC VÀ CHUYỂN ĐỔI MÔ HÌNH ASSET-LIGHT CỦA VINFAST AUTO (THÁNG 5/2026)\n1. Căn cứ pháp lý Các số liệu và cơ chế tái cấu trúc được trích xuất trực tiếp từ các văn bản pháp lý ban hành năm 2026, bao gồm: Báo cáo Form 6-K nộp lên Ủy ban Chứng khoán Mỹ (SEC) ngày 12/05/2026, Bản Cáo bạch gửi cổ đông (Proxy Statement) năm 2026, Hợp đồng Mua bán Cổ phần (Share Purchase Agreement - Phụ lục G) và Thỏa thuận Sản xuất (Manufacturing Agreement - Phụ lục H)\n2. Cơ cấu chuyển nhượng mảng sản xuất VFTP Thương vụ được thực thi qua việc chia tách Công ty Cổ phần Sản xuất và Kinh doanh VinFast (VFTP) thành hai pháp nhân độc lập\n. Pháp nhân mới là Công ty Cổ phần VinFast Việt Nam (VFVN) sẽ nắm giữ toàn bộ \"tài sản mềm\" cốt lõi như sở hữu trí tuệ, R&D toàn cầu, mạng lưới bán hàng và các công ty con quốc tế\n. VFTP cũ giữ lại hạ tầng sản xuất thâm dụng vốn (tổ hợp nhà máy Hải Phòng, Hà Tĩnh), cổ phần dự án năng lượng VinEG và các thỏa thuận đầu tư bất động sản\nVinFast Auto Ltd. tiến hành thoái 100% vốn cổ phần phổ thông tại VFTP cho nhóm nhà đầu tư tư nhân\n. Nhóm mua bao gồm: Công ty Cổ phần Nghiên cứu và Phát triển Đầu tư Tương Lai (chiếm 49,0%), Công ty TNHH Phát triển Thương mại và Đầu tư Ngọc Quý (chiếm 46,5%) và ông Phạm Nhật Vượng giữ vai trò nhà đầu tư thiểu số (chiếm 4,4%)\n. Thông qua các đợt chuyển nhượng nội bộ dự kiến tiếp theo, Đầu tư Tương Lai sẽ trở thành cổ đông kiểm soát nắm 95,5% cổ phần và ông Vượng sẽ duy trì tỷ lệ sở hữu dưới 5% tại VFTP\n16\n17\n.\n3. Giá trị chuyển nhượng và xử lý nợ vay Tổng giá trị chuyển nhượng cổ phần VFTP là 13.309,6 tỷ VND (khoảng 530 triệu USD), được xác định trên cơ sở định giá trị giá sổ sách của tài sản thuần hợp nhất phân bổ cho VFTP sau chia tách tính đến ngày 31/03/2026 (theo chuẩn mực kế toán VAS)\n. Dòng tiền này sẽ được dùng để tất toán khoản kỳ phiếu nợ (P-Note) trị giá 10.162,3 tỷ VND (404,8 triệu USD), phần thặng dư khoảng 125 triệu USD được giữ lại để tài trợ cho hoạt động R&D và phát triển thương hiệu toàn cầu\nVề cấu trúc nợ, VFTP sẽ tiếp tục kế thừa và chịu trách nhiệm đối với toàn bộ các khoản nợ tài chính hiện hữu với bên thứ ba\n. Tổng dư nợ và các nghĩa vụ tài chính chuyển giao ra khỏi bảng cân đối kế toán của mảng thương hiệu (VinFast Auto Ltd.) ước tính lên tới 182.000 tỷ VND (tương đương 6,9 - 7,0 tỷ USD) tính đến ngày 31/03/2026\n. Cơ chế chuyển giao khối nợ khổng lồ này giúp VinFast Auto Ltd. về cơ bản sẽ sạch nợ, loại bỏ chi phí khấu hao lớn và xóa bỏ áp lực thanh toán khoản nợ 34.615,9 tỷ VND đáo hạn ngay trong năm 2026\n4. Cơ chế vận hành mô hình Asset-Light và Cam kết Cost-plus 105% Việc tái cấu trúc định hình lại VinFast theo mô hình \"nhẹ tài sản\" (Asset-Light), trong đó VFVN đóng vai trò công ty công nghệ chuyên quản trị thương hiệu và sở hữu trí tuệ, còn VFTP đóng vai trò là nhà sản xuất gia công theo hợp đồng (OEM)\n. Mối quan hệ vận hành được ràng buộc bởi Thỏa thuận Sản xuất và Cung ứng (Manufacturing Agreement) không độc quyền ký kết năm 2026, quy định VFTP phải sản xuất xe điện bám sát các thiết kế, thông số kỹ thuật và tiêu chuẩn chất lượng nghiêm ngặt do VFVN cung cấp\nGiao dịch mua bán xe giữa VFVN và VFTP được định giá theo nguyên tắc giá vốn cộng biên lợi nhuận (cost-plus)\n. Cụ thể, giá cung ứng (Supply Price) được tạm tính bằng 105% tổng chi phí sản xuất xe (Vehicle Cost)\n. Cấu trúc chi phí này bao gồm định mức vật liệu thực tế, chi phí sản xuất trực tiếp, chi phí khấu hao/bảo hành (giới hạn tối đa 3%) và các chi phí sản xuất khác\n. Cơ chế tài chính này đảm bảo mang lại cho pháp nhân gia công VFTP một biên lợi nhuận mục tiêu ổn định ở mức 5%, đồng thời giúp mảng thương hiệu VinFast chuyển đổi các định phí sản xuất khổng lồ thành biến phí linh hoạt, tạo tiền đề để hướng tới mục tiêu hòa vốn và có lợi nhuận vào năm 2027",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Announcement of the proposed corporate restructuring transaction - SEC.gov",
+      "source_text": "EX-99.1 2 vfsex99-1.htm EXHIBIT 99.1 Exhibit 99.1 On May 12, 2026, VinFast Auto Ltd. (“VinFast” or the “Company”) announced plans to split certain assets of VinFast Trading and Production JSC (“VFTP”), a subsidiary of the Company, into a newly formed entity (the “Split”) and subsequently divest all ordinary shares held by the Company in VFTP (the “Share Transfer”, collectively with the Split, the “Proposed Transactions”). The Proposed Transactions will result in the separation and transfer of the Company's manufacturing operations in Vietnam to other parties."
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "Proxy Statement - SEC.gov",
+      "source_text": "In connection with the Share Transfer, the Company proposes to undertake the two following related corporate transactions: 1. The Split, being a Split of certain assets, operations and business undertakings of VFTP, a subsidiary of the Company, into a newly formed Vietnam-incorporated entity, VFVN. Following the Split, VFTP will retain assets, operations and business undertakings associated with the Company's manufacturing business in Vietnam, while VFVN will hold assets, operations and business undertakings related to (i) VinFast's global research and development activities, intellectual property, after-sales operations (and related functions), and sales businesses, and (ii) shares in VinFast Commercial and Services Trading LLC, VinFast Engineering Australia Pty Ltd, and VinFast Germany GmbH. VFTP will hold the assets associated with the manufacturing business in Vietnam, shares in VinEG Green Energy Solutions JSC and an investment cooperation and business opportunity exploration agreement relating to real estate projects and will continue to assume all financial indebtedness owed by VFTP to unrelated third-party creditors, subject to the relevant creditors' approval. VFTP will also retain short-term trade receivables related to a non-interest-bearing promissory note with a principal amount of VND10,162.3 billion (US$404.8 million) (the “ P-Note ”), which was issued to replace the remaining outstanding balance under the original promissory notes of approximately VND50,000.0 billion (the “ Legacy P-Notes ”). The Legacy P-Notes were originally issued by the Company to Vingroup and VIG in January 2022 as part of a corporate reorganization undertaken by VinFast prior to its public listing in the U.S. As of the date of this Proxy Statement, the entire principal amount of the P-Note remained outstanding. For more information regarding the assets and liabilities to be retained by VFVN and VFTP, see Appendix B of this Proxy Statement for details. For more information regarding the Legacy P-Notes, refer to the Company's Annual Report on Form 20-F filed with the Commission on April 30, 2026."
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.",
+      "source_text": "Ngược lại, thực thể VFTP cũ sẽ chỉ giữ lại các tài sản vật lý thâm dụng vốn cao bao gồm tổ hợp nhà máy sản xuất ô tô tại Hải Phòng, cổ phần tại Công ty Cổ phần Giải pháp Năng lượng VinES (VinEG Green Energy Solutions) và các thỏa thuận hợp tác đầu tư bất động sản.[4, 7, 8] Ngay sau cuộc phân tách, VinFast thực hiện chuyển nhượng toàn bộ 100% cổ phần phổ thông của mình tại VFTP cho một nhóm nhà đầu tư do Công ty Cổ phần Nghiên cứu và Phát triển Đầu tư Tương Lai dẫn đầu, với tổng giá trị giao dịch đạt khoảng 13.309,6 tỷ VND (tương đương 530 triệu USD).[4, 7, 10] Trong số tiền thu được, VinFast dự kiến dùng khoảng 404,8 triệu USD để hoàn trả và tất toán các kỳ phiếu nợ (promissory notes) đã phát hành cho VFTP trước đó, phần còn lại khoảng 125,4 triệu USD sẽ được giữ lại dưới dạng tiền mặt phục vụ hoạt động R&D, công nghệ và phát triển thương hiệu toàn cầu.[8, 10]"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "Announcement of the proposed corporate restructuring transaction - SEC.gov",
+      "source_text": "Following the Split, pursuant to a share purchase agreement entered into on May 12, 2026 between the Company and a group of purchasers (the “Purchasers”) led by Future Investment Research and Development Joint Stock Company and including Mr. Pham Nhat Vuong, the Company's Managing Director and CEO as a minority investor, the Company intends to transfer all of its interest in VFTP to the Purchasers for an aggregate consideration of approximately VND13,309.6 billion (approximately US$530 million) (the “Purchase Price”). The Purchase Price was determined through negotiations between the parties on an arm's-length basis and was agreed based on the book value of the consolidated net assets according to Vietnamese Accounting Standard to be allocated to VFTP following the Split, as of March 31, 2026 1 . This is in line with the valuation range, and exceeds the mid-point valuation of VND2,653 billion (US$106 million) derived by Grant Thornton (Vietnam) Advisory Company Limited in its Independent Financial Advisor's Opinion using a discounted cash flow methodology. Completion of the Share Transfer is subject to the satisfaction or waiver of the closing conditions set forth in the Share Purchase Agreement. VFVN and VFTP will also enter into a manufacturing and supply agreement (the “Manufacturing Agreement”) under which VFTP will produce VinFast-branded vehicles in Vietnam, in accordance with the designs, technical specifications and standards provided by VFVN."
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "Proxy Statement - SEC.gov",
+      "source_text": "Q: What is being voted on at the EGM? A: At the EGM, shareholders will be asked to vote on the Share Transfer, being a transfer and sale by the Company of all of its ordinary shares in VFTP to the Purchasers (being Tuong Lai, Ngoc Quy and Mr. Pham), for the Purchase Price, which is aggregate consideration of approximately VND13,309.6 billion (approximately US$530 million). See “ Proxy Statement to Shareholders – The Proposed Transactions – The Share Transfer and the Share Purchase Agreement – The Purchase Price ” for more information. Upon completion of the Share Transfer, the Company will not hold any equity interest in VFTP."
+    },
+    {
+      "marker": "[16]",
+      "number": 16,
+      "source_name": "Proxy Statement - SEC.gov",
+      "source_text": "18 The Company understands, based on information provided by the Purchasers and their affiliates, that following the Share Transfer, certain transfers of VFTP securities are intended to be effected among the Purchasers and their affiliates, subject to applicable regulatory approvals, pursuant to which Tuong Lai would be the sole controlling shareholder of VFTP, holding approximately 95.5% of the VFTP Ordinary Shares and Mr. Pham would hold less than 5% of the VFTP Ordinary Shares. Thereafter, the Company understands that Tuong Lai's intention is to conduct a further corporate reorganization or combination involving itself and VFTP, resulting in a single remaining business entity that would assume and continue VFTP's responsibilities, obligations and rights under the Manufacturing Agreement."
+    },
+    {
+      "marker": "[17]",
+      "number": 17,
+      "source_name": "Re-Engineering the EV Paradigm: Strategic De-Leveraging, Asset-Light Transformation, and Infrastructure Ecosystem Expansion of VinFast Auto",
+      "source_text": "Following the completion of these initial transactions, a series of planned internal transfers is designed to consolidate ownership, ultimately making Future Investment the absolute controlling shareholder with a 95.5% stake in VFTP, with Pham Nhat Vuong maintaining a personal minority holding of under 5%.[10, 17] -------------------------------------------------------------------------------- Balance Sheet Restructuring and Consolidated Debt Eradication The primary strategic driver behind this restructuring is a massive de-leveraging of VinFast’s consolidated balance sheet.[10] By selling the VFTP entity, the buyer consortium agrees not only to pay the $530 million cash purchase price but also to directly assume the vast majority of VinFast's financial liabilities.[7, 10]"
+    },
+    {
+      "marker": "[25]",
+      "number": 25,
+      "source_name": "Re-Engineering the EV Paradigm: Strategic De-Leveraging, Asset-Light Transformation, and Infrastructure Ecosystem Expansion of VinFast Auto",
+      "source_text": "The Transfer of $7 Billion in Liabilities As of March 31, 2026, the total debt and financial obligations tied to the manufacturing segment of VFTP were estimated at approximately 182,000 billion VND (~$6.9 billion to $7.0 billion).[7, 10, 18] This encompasses bank borrowings, corporate bonds, finance leases, and capital-expenditure-related payables.[10] Upon the finalization of the transaction, expected in the third quarter of 2026, this enormous debt burden is transferred entirely to the private purchasing group.[2, 7]"
+    },
+    {
+      "marker": "[27]",
+      "number": 27,
+      "source_name": "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.",
+      "source_text": "Cơ chế tài chính của thương vụ thoái vốn và cấu trúc nợ Động lực tài chính quan trọng nhất đằng sau việc thoái vốn khỏi VFTP là giải phóng bảng cân đối kế toán khỏi áp lực nợ nần.[1] Bằng việc chuyển nhượng mảng sản xuất vật lý, nhóm mua mới (bao gồm tỷ phú Phạm Nhật Vượng tham gia với vai trò nhà đầu tư thiểu số) đã đồng thời tiếp quản toàn bộ các khoản nợ tài chính và nghĩa vụ nợ phải trả hiện hữu của VFTP đối với các chủ nợ bên thứ ba, ước tính lên tới khoảng 182 nghìn tỷ VND (tương đương khoảng 6,9 tỷ USD).[1, 7, 11] Việc loại bỏ gánh nặng nợ khổng lồ này ra khỏi báo cáo tài chính hợp nhất của VinFast Auto Ltd. giúp công ty cải thiện đáng kể các chỉ số an toàn tài chính, giảm chi phí lãi vay và giảm thiểu rủi ro thắt chặt dòng tiền.[1, 8] Trước thời điểm thực hiện giao dịch, cổ phiếu VinFast giao dịch trên sàn NASDAQ (mã VFS) ở mức giá 3,89 USD, tương đương vốn hóa thị trường khoảng 9,101 tỷ USD, trong khi nợ ròng tại ngày 31 tháng 12 năm 2025 ghi nhận ở mức âm 6,874 tỷ USD.[10]"
+    },
+    {
+      "marker": "[32]",
+      "number": 32,
+      "source_name": "Proxy Statement - SEC.gov",
+      "source_text": "For the avoidance of doubt, the Proposed Transactions do not affect any of the Company's subsidiaries other than VFTP and its subsidiaries, nor do they affect the Company's international business operations (including the Company's continued ownership and operation of its manufacturing facilities in India and Indonesia), which will continue to be held by the Company and operated in the ordinary course of business. Q: Why is the Company proposing the Proposed Transactions? A: VinFast is an innovative, full-scale mobility platform focused primarily on designing and manufacturing high-quality electric vehicles, e-scooters and e-buses. The Proposed Transactions are part of the Company's broader strategic initiative to streamline its operating structure and transition toward a more capital-efficient, asset-light operating model in Vietnam. Following the Proposed Transactions, the Company's capital-intensive manufacturing activities in Vietnam, which are well established and in operation, will become an independent, third-party owned and operated manufacturing platform. The Company will retain and focus on the development of its VinFast brand through its core competencies including product research and development, technology, brand building and sales activities in Vietnam and globally."
+    },
+    {
+      "marker": "[36]",
+      "number": 36,
+      "source_name": "Proxy Statement - SEC.gov",
+      "source_text": "25 1.3 The Manufacturing Agreement In connection with the Proposed Transactions, VFVN shall enter into a manufacturing and supply agreement (the “ Manufacturing Agreement ”) with VFTP, pursuant to which VFTP shall manufacture VinFast-branded vehicles for VFVN, in accordance with the designs, technical specifications and standards set by VFVN. The engagement will be on a non-exclusive basis. In the event VFTP receives third-party purchase orders that may affect production capacity, VFTP shall use commercially reasonable efforts to allocate production capacity in a manner that enables it to satisfy VFVN's binding supply commitments duly made in accordance with the Manufacturing Agreement. The price payable by VFVN for each vehicle manufactured and supplied by VFTP shall be determined on a cost-plus basis and shall be provisionally equal to one hundred and five percent (105%) of the vehicle cost, enabling recovery of vehicle cost and a target margin of approximately 5% of vehicle cost. Vehicle cost means the total of (i) the Actual Production Cost (means the actual production cost of the relevant vehicle, including bill of materials (BOM), and manufacturing costs (including but not limited to direct/indirect labor, utility, production consumables) both of which shall be consistent with the cost levels provided by VFVN to VFTP provided that the aggregate cost of MBOM for each Vehicle model shall not exceed one point five percent (1.5%) above the corresponding cost provided by VFVN, and the aggregate manufacturing cost shall not exceed five percent (5%) above the corresponding cost level so provided, (ii) the Depreciation and Warranty Cost (means the depreciation and warranty costs, provisionally capped at 3% of the Actual Production Cost), (iii) Other Production Cost (means other production costs, provisionally capped at 3% of the total of the Actual Production Cost and the Depreciation and Warranty Cost), and (iv) all other costs necessary if any and mutually agreed by both Parties."
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 11,
+    "source_names": [
+      "Announcement of the proposed corporate restructuring transaction - SEC.gov",
+      "Proxy Statement - SEC.gov",
+      "Tái cấu trúc chuỗi giá trị và phân tích chiến lược chuyển dịch nhẹ tài sản của VinFast Auto Ltd.",
+      "Re-Engineering the EV Paradigm: Strategic De-Leveraging, Asset-Light Transformation, and Infrastructure Ecosystem Expansion of VinFast Auto"
+    ]
+  }
+}

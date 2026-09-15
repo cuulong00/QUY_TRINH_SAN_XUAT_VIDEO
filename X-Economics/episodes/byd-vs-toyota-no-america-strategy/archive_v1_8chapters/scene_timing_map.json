@@ -1,0 +1,5385 @@
+[
+  {
+    "id": "CH01_SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 1.25,
+    "text_overlay": "",
+    "visual_summary": "Four trillion dollars.",
+    "sentences": [
+      "Four trillion dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "More than fourteen million jobs.",
+    "sentences": [
+      "More than fourteen million jobs."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "And an entire century of undisputed Western dominance.",
+    "sentences": [
+      "And an entire century of undisputed Western dominance."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "That entire order is unraveling at a speed no economist predicted.",
+    "sentences": [
+      "That entire order is unraveling at a speed no economist predicted."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Germany was stunned when Volkswagen considered closing factories on its home soil.",
+    "sentences": [
+      "Germany was stunned when Volkswagen considered closing factories on its home soil."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Detroit retreated into protectionism after record-breaking losses on electric vehicles.",
+    "sentences": [
+      "Detroit retreated into protectionism after record-breaking losses on electric vehicles."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Even fierce Japanese rivals like Nissan and Honda formed an emergency alliance just to survive.",
+    "sentences": [
+      "Even fierce Japanese rivals like Nissan and Honda formed an emergency alliance just to survive."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Amid the rubble of these fallen giants, Toyota stands as the last titan.",
+    "sentences": [
+      "Amid the rubble of these fallen giants, Toyota stands as the last titan."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Yet the challenger hunting them from Shenzhen refuses to follow the historical playbook.",
+    "sentences": [
+      "Yet the challenger hunting them from Shenzhen refuses to follow the historical playbook."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "They have no intention of breaking into the American fortress.",
+    "sentences": [
+      "They have no intention of breaking into the American fortress."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Instead, they carry their own fleet of cargo ships.",
+    "sentences": [
+      "Instead, they carry their own fleet of cargo ships."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "They buy up factories abandoned by Ford.",
+    "sentences": [
+      "They buy up factories abandoned by Ford."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "And they deploy super-hybrid engines capable of driving over fifteen hundred kilometers on a single tank.",
+    "sentences": [
+      "And they deploy super-hybrid engines capable of driving over fifteen hundred kilometers on a single tank."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Their target is the remaining eighty-two percent of the global market.",
+    "sentences": [
+      "Their target is the remaining eighty-two percent of the global market."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "The battle for the throne of the world's largest industry has officially begun.",
+    "sentences": [
+      "The battle for the throne of the world's largest industry has officially begun."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "At international financial forums, Western reporters always ask BYD the exact same question.",
+    "sentences": [
+      "At international financial forums, Western reporters always ask BYD the exact same question."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "When will you enter the United States?",
+    "sentences": [
+      "When will you enter the United States?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "The answer they received was neither a military masterplan nor diplomatic lobbying.",
+    "sentences": [
+      "The answer they received was neither a military masterplan nor diplomatic lobbying."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "BYD Executive Vice President Stella Li offered a calm smile.",
+    "sentences": [
+      "BYD Executive Vice President Stella Li offered a calm smile."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "We have no plans to come to the United States.",
+    "sentences": [
+      "We have no plans to come to the United States."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "We do not need the US market to grow.",
+    "sentences": [
+      "We do not need the US market to grow."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "The global market out there is enormous.",
+    "sentences": [
+      "The global market out there is enormous."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "To Wall Street analysts, that statement was an open challenge to American prestige.",
+    "sentences": [
+      "To Wall Street analysts, that statement was an open challenge to American prestige."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "For nearly a century, North America was the sacred prize.",
+    "sentences": [
+      "For nearly a century, North America was the sacred prize."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "To rule the global automotive industry, you had to capture the American consumer.",
+    "sentences": [
+      "To rule the global automotive industry, you had to capture the American consumer."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "To block low-cost competitors, Washington built an unprecedented legislative fortress.",
+    "sentences": [
+      "To block low-cost competitors, Washington built an unprecedented legislative fortress."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Section 301 tariffs were raised to one hundred percent on Chinese electric vehicles.",
+    "sentences": [
+      "Section 301 tariffs were raised to one hundred percent on Chinese electric vehicles."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC028",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "The Inflation Reduction Act stripped tax credits from any vehicle connected to Chinese supply chains.",
+    "sentences": [
+      "The Inflation Reduction Act stripped tax credits from any vehicle connected to Chinese supply chains."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "The Commerce Department went further with its BIS ICTS security rule.",
+    "sentences": [
+      "The Commerce Department went further with its BIS ICTS security rule."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "The regulation bans connected vehicle software by twenty twenty-seven and hardware by twenty thirty.",
+    "sentences": [
+      "The regulation bans connected vehicle software by twenty twenty-seven and hardware by twenty thirty."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC031",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "The ban applies to any corporate entity linked to Chinese ownership",
+    "sentences": [
+      "The ban applies to any corporate entity linked to Chinese ownership"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC032",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "even for cars assembled in Mexico or Europe.",
+    "sentences": [
+      "even for cars assembled in Mexico or Europe."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC033",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Politicians in Washington believed this regulatory wall would suffocate BYD's global ambitions.",
+    "sentences": [
+      "Politicians in Washington believed this regulatory wall would suffocate BYD's global ambitions."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC034",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Yet the cost of protectionism falls squarely on American drivers.",
+    "sentences": [
+      "Yet the cost of protectionism falls squarely on American drivers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC035",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Without low-cost competition, the US market lost its pricing discipline.",
+    "sentences": [
+      "Without low-cost competition, the US market lost its pricing discipline."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC036",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "The average new vehicle transaction price in America surged to nearly forty-eight thousand dollars.",
+    "sentences": [
+      "The average new vehicle transaction price in America surged to nearly forty-eight thousand dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC037",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "America is turning into an expensive, isolated industrial sanctuary.",
+    "sentences": [
+      "America is turning into an expensive, isolated industrial sanctuary."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC038",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "While Washington built walls, strategists in Shenzhen looked at a completely different math equation.",
+    "sentences": [
+      "While Washington built walls, strategists in Shenzhen looked at a completely different math equation."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC039",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Every year, the entire US auto market absorbs fifteen to sixteen million vehicles.",
+    "sentences": [
+      "Every year, the entire US auto market absorbs fifteen to sixteen million vehicles."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC040",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "The global market sells nearly ninety million cars annually.",
+    "sentences": [
+      "The global market sells nearly ninety million cars annually."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC041",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "In that total pie, America represents less than eighteen percent.",
+    "sentences": [
+      "In that total pie, America represents less than eighteen percent."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC042",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "China's domestic market alone buys over thirty million cars each year",
+    "sentences": [
+      "China's domestic market alone buys over thirty million cars each year"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC043",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "nearly double the size of the United States.",
+    "sentences": [
+      "nearly double the size of the United States."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC044",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "The remaining eighty-two percent represents more than seventy-four million vehicles every year.",
+    "sentences": [
+      "The remaining eighty-two percent represents more than seventy-four million vehicles every year."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC045",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "That massive territory spans Southeast Asia, Latin America, the Middle East, and Europe.",
+    "sentences": [
+      "That massive territory spans Southeast Asia, Latin America, the Middle East, and Europe."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC046",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Over six billion people live across these regions.",
+    "sentences": [
+      "Over six billion people live across these regions."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC047",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "They cannot afford forty-eight thousand dollars for a full-size Detroit truck.",
+    "sentences": [
+      "They cannot afford forty-eight thousand dollars for a full-size Detroit truck."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC048",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "They need durable, fuel-efficient transportation priced for their actual income.",
+    "sentences": [
+      "They need durable, fuel-efficient transportation priced for their actual income."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC049",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "By walking away from America's eighteen percent, BYD chose expansion over confrontation.",
+    "sentences": [
+      "By walking away from America's eighteen percent, BYD chose expansion over confrontation."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC050",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "They focused all firepower on capturing the eighty-two percent outside Washington's reach.",
+    "sentences": [
+      "They focused all firepower on capturing the eighty-two percent outside Washington's reach."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC051",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "What is actually happening outside that tariff wall?",
+    "sentences": [
+      "What is actually happening outside that tariff wall?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC052",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "While America retreats behind high domestic prices, traditional industrial allies in Europe enjoy no such luxury.",
+    "sentences": [
+      "While America retreats behind high domestic prices, traditional industrial allies in Europe enjoy no such luxury."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC053",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "A structural cost crisis is tearing legacy giants apart from within.",
+    "sentences": [
+      "A structural cost crisis is tearing legacy giants apart from within."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH01_SC054",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "The first catastrophic fracture appeared at the heart of German manufacturing: The House of Volkswagen.",
+    "sentences": [
+      "The first catastrophic fracture appeared at the heart of German manufacturing: The House of Volkswagen."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC001",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "If you drive through Wolfsburg on an autumn afternoon",
+    "sentences": [
+      "If you drive through Wolfsburg on an autumn afternoon"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC002",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "you can feel an eerie silence hanging over the city.",
+    "sentences": [
+      "you can feel an eerie silence hanging over the city."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC003",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "It blankets the historic heart of German industry. Wolfsburg is the global headquarters of Volkswagen.",
+    "sentences": [
+      "It blankets the historic heart of German industry.",
+      "Wolfsburg is the global headquarters of Volkswagen."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC004",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "For nearly a century, this industrial capital embodied European post",
+    "sentences": [
+      "For nearly a century, this industrial capital embodied European post"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC005",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "war recovery, precision mechanical engineering, and absolute social security.",
+    "sentences": [
+      "war recovery, precision mechanical engineering, and absolute social security."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC006",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "In September twenty twenty-four, a historic shockwave rocked Germany.",
+    "sentences": [
+      "In September twenty twenty-four, a historic shockwave rocked Germany."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC007",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "For the first time since nineteen thirty-seven, Volkswagen made a stunning announcement.",
+    "sentences": [
+      "For the first time since nineteen thirty-seven, Volkswagen made a stunning announcement."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC008",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "They were considering closing two to three assembly plants on German soil.",
+    "sentences": [
+      "They were considering closing two to three assembly plants on German soil."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC009",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "They accompanied that announcement with an unprecedented step.",
+    "sentences": [
+      "They accompanied that announcement with an unprecedented step."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC010",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "They unilaterally tore up a thirty-year job security agreement with the powerful IG Metall union.",
+    "sentences": [
+      "They unilaterally tore up a thirty-year job security agreement with the powerful IG Metall union."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC011",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "That historic pact had guaranteed employment for hundreds of thousands of autoworkers through twenty twenty-nine.",
+    "sentences": [
+      "That historic pact had guaranteed employment for hundreds of thousands of autoworkers through twenty twenty-nine."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC012",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "This eighty-seven-year shock was not a temporary managerial stumble.",
+    "sentences": [
+      "This eighty-seven-year shock was not a temporary managerial stumble."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC013",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "It was the clinical symptom of a deep structural illness.",
+    "sentences": [
+      "It was the clinical symptom of a deep structural illness."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC014",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Germany lost access to cheap Russian pipeline gas after twenty twenty-two. Industrial electricity rates spiked immediately.",
+    "sentences": [
+      "Germany lost access to cheap Russian pipeline gas after twenty twenty-two.",
+      "Industrial electricity rates spiked immediately."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Meanwhile, heavy domestic wage structures and strict European Union",
+    "sentences": [
+      "Meanwhile, heavy domestic wage structures and strict European Union"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "emissions mandates tightened the regulatory vice around factory floors.",
+    "sentences": [
+      "emissions mandates tightened the regulatory vice around factory floors."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Worse, their single largest cash engine on the other side of the planet fractured.",
+    "sentences": [
+      "Worse, their single largest cash engine on the other side of the planet fractured."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC018",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "For decades, China served as the golden goose funding over forty percent of Volkswagen global profits.",
+    "sentences": [
+      "For decades, China served as the golden goose funding over forty percent of Volkswagen global profits."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC019",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Chinese consumers once viewed the interlaced V and",
+    "sentences": [
+      "Chinese consumers once viewed the interlaced V and"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC020",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "W badge as an unquestioned emblem of middle-class prestige.",
+    "sentences": [
+      "W badge as an unquestioned emblem of middle-class prestige."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC021",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "In the digital era, the market shifted violently. The market share of German brands in China",
+    "sentences": [
+      "In the digital era, the market shifted violently.",
+      "The market share of German brands in China"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC022",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "collapsed from above twenty percent to under fourteen percent.",
+    "sentences": [
+      "collapsed from above twenty percent to under fourteen percent."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC023",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Young Chinese buyers no longer cared about the solid door",
+    "sentences": [
+      "Young Chinese buyers no longer cared about the solid door"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC024",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "thud of a Passat or the precision of a dual-clutch transmission.",
+    "sentences": [
+      "thud of a Passat or the precision of a dual-clutch transmission."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC025",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "They demanded fluid digital cockpits, responsive software, and aggressive pricing.",
+    "sentences": [
+      "They demanded fluid digital cockpits, responsive software, and aggressive pricing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC026",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Those were features engineers in Wolfsburg simply could not deliver at competitive unit costs.",
+    "sentences": [
+      "Those were features engineers in Wolfsburg simply could not deliver at competitive unit costs."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "The industrial tragedy did not end at German borders.",
+    "sentences": [
+      "The industrial tragedy did not end at German borders."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Across the Atlantic, Detroit endured an unprecedented financial nightmare.",
+    "sentences": [
+      "Across the Atlantic, Detroit endured an unprecedented financial nightmare."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC029",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Ford had attempted to lead the electric transition by establishing a standalone division called Model e.",
+    "sentences": [
+      "Ford had attempted to lead the electric transition by establishing a standalone division called Model e."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC030",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "The result was a catastrophic capital drain. Across twenty twenty-three and twenty twenty-four",
+    "sentences": [
+      "The result was a catastrophic capital drain.",
+      "Across twenty twenty-three and twenty twenty-four"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC031",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Ford electric vehicle business burned through more than ten billion dollars.",
+    "sentences": [
+      "Ford electric vehicle business burned through more than ten billion dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC032",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Every electric F-150 Lightning leaving the factory line represented a painful corporate bleed.",
+    "sentences": [
+      "Every electric F-150 Lightning leaving the factory line represented a painful corporate bleed."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Ford absorbed losses ranging from forty thousand to more",
+    "sentences": [
+      "Ford absorbed losses ranging from forty thousand to more"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC034",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "than one hundred thousand dollars on every single vehicle delivered.",
+    "sentences": [
+      "than one hundred thousand dollars on every single vehicle delivered."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Unable to sustain these bleeding wounds, Detroit chose a strategic retreat.",
+    "sentences": [
+      "Unable to sustain these bleeding wounds, Detroit chose a strategic retreat."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Ford and General Motors quietly scaled back battery projects.",
+    "sentences": [
+      "Ford and General Motors quietly scaled back battery projects."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "They delayed electric programs and retreated into the safety of their domestic market.",
+    "sentences": [
+      "They delayed electric programs and retreated into the safety of their domestic market."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Protected by a one hundred percent tariff wall, they retreated safely.",
+    "sentences": [
+      "Protected by a one hundred percent tariff wall, they retreated safely."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "They survived by selling full-size gas trucks for eighty thousand dollars.",
+    "sentences": [
+      "They survived by selling full-size gas trucks for eighty thousand dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "The decay spread throughout the Western automotive landscape.",
+    "sentences": [
+      "The decay spread throughout the Western automotive landscape."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Stellantis saw its net profits plummet nearly fifty percent, triggering large",
+    "sentences": [
+      "Stellantis saw its net profits plummet nearly fifty percent, triggering large"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "scale job cuts across manufacturing plants in France and Italy.",
+    "sentences": [
+      "scale job cuts across manufacturing plants in France and Italy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "In Japan, Nissan tumbled into an existential crisis, slashing nine thousand jobs globally.",
+    "sentences": [
+      "In Japan, Nissan tumbled into an existential crisis, slashing nine thousand jobs globally."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "Nissan and Honda swallowed generational rivalries.",
+    "sentences": [
+      "Nissan and Honda swallowed generational rivalries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "The fierce competitors formed an emergency alliance just to survive the low-cost onslaught.",
+    "sentences": [
+      "The fierce competitors formed an emergency alliance just to survive the low-cost onslaught."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "The four-trillion-dollar industrial order of the twentieth century is collapsing.",
+    "sentences": [
+      "The four-trillion-dollar industrial order of the twentieth century is collapsing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "The legacy kings that ruled the automotive world",
+    "sentences": [
+      "The legacy kings that ruled the automotive world"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC048",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "for one hundred years are trapped in structural decline.",
+    "sentences": [
+      "for one hundred years are trapped in structural decline."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC049",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "They are either forming panicked partnerships or hiding inside domestic sanctuaries.",
+    "sentences": [
+      "They are either forming panicked partnerships or hiding inside domestic sanctuaries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC050",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "If you value independent, data-driven macroeconomic investigations",
+    "sentences": [
+      "If you value independent, data-driven macroeconomic investigations"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC051",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "subscribing to X-Economics is the most direct way to support our research team.",
+    "sentences": [
+      "subscribing to X-Economics is the most direct way to support our research team."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC052",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Yet amid the ashes of these stumbling empires, one solitary citadel stands completely unbreached.",
+    "sentences": [
+      "Yet amid the ashes of these stumbling empires, one solitary citadel stands completely unbreached."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC053",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "They steadfastly refused to chase the pure battery craze.",
+    "sentences": [
+      "They steadfastly refused to chase the pure battery craze."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC054",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "They hold sufficient cash reserves to purchase competitors outright",
+    "sentences": [
+      "They hold sufficient cash reserves to purchase competitors outright"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH02_SC055",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "while generating the largest operating profit in automotive history. That undefeated final boss is Toyota.",
+    "sentences": [
+      "while generating the largest operating profit in automotive history.",
+      "That undefeated final boss is Toyota."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC001",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "For the past five years one man in Nagoya has been portrayed by",
+    "sentences": [
+      "For the past five years",
+      "one man in Nagoya has been portrayed by"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC002",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Western financial media as a symbol of stubborn conservatism.",
+    "sentences": [
+      "Western financial media as a symbol of stubborn conservatism."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC003",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "That man is Akio Toyoda, the chairman of Toyota.",
+    "sentences": [
+      "That man is Akio Toyoda, the chairman of Toyota."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC004",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "When the Western world went crazy over electric vehicles",
+    "sentences": [
+      "When the Western world went crazy over electric vehicles"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC005",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Wall Street once valued Tesla higher than the rest of the auto industry combined.",
+    "sentences": [
+      "Wall Street once valued Tesla higher than the rest of the auto industry combined."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC006",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Amid that speculative fever, Akio Toyoda chose to swim against the tide.",
+    "sentences": [
+      "Amid that speculative fever, Akio Toyoda chose to swim against the tide."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC007",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "He stubbornly refused to bet Toyota's entire future on pure electric cars.",
+    "sentences": [
+      "He stubbornly refused to bet Toyota's entire future on pure electric cars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC008",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "He openly declared that battery electric vehicles would never exceed thirty percent of global market share.",
+    "sentences": [
+      "He openly declared that battery electric vehicles would never exceed thirty percent of global market share."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC009",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Instead, he poured billions into hybrid technology and advanced internal combustion engines. Western investors were furious.",
+    "sentences": [
+      "Instead, he poured billions into hybrid technology and advanced internal combustion engines.",
+      "Western investors were furious."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC010",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "They accused him of dragging his feet and sabotaging a green future.",
+    "sentences": [
+      "They accused him of dragging his feet and sabotaging a green future."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC011",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "By twenty twenty-four, the old Western giants were drowning in losses.",
+    "sentences": [
+      "By twenty twenty-four, the old Western giants were drowning in losses."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC012",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Now, Akio Toyoda can look across the industry with a quiet smile.",
+    "sentences": [
+      "Now, Akio Toyoda can look across the industry with a quiet smile."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC013",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Toyota's financial results are not just strong. They defy belief.",
+    "sentences": [
+      "Toyota's financial results are not just strong.",
+      "They defy belief."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC014",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "In the last fiscal year, Toyota sold eleven point zero nine million vehicles globally.",
+    "sentences": [
+      "In the last fiscal year, Toyota sold eleven point zero nine million vehicles globally."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC015",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "This marked their fourth consecutive year as the undisputed number one automaker on Earth.",
+    "sentences": [
+      "This marked their fourth consecutive year as the undisputed number one automaker on Earth."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC016",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "That single tally exceeded BYD's total volume by nearly six point five million cars.",
+    "sentences": [
+      "That single tally exceeded BYD's total volume by nearly six point five million cars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC017",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Annual revenue topped a record three hundred billion dollars.",
+    "sentences": [
+      "Annual revenue topped a record three hundred billion dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC018",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "The most terrifying number was buried at the bottom of the balance sheet.",
+    "sentences": [
+      "The most terrifying number was buried at the bottom of the balance sheet."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC019",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Net profit hit an all-time record of thirty-four point five billion dollars.",
+    "sentences": [
+      "Net profit hit an all-time record of thirty-four point five billion dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC020",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "That was a doubling in profit in a single year.",
+    "sentences": [
+      "That was a doubling in profit in a single year."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC021",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Consider thirty-four point five billion dollars in perspective.",
+    "sentences": [
+      "Consider thirty-four point five billion dollars in perspective."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC022",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "That single figure exceeded the combined operating earnings of the European auto sector.",
+    "sentences": [
+      "That single figure exceeded the combined operating earnings of the European auto sector."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC023",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "It was more than eight times BYD's entire annual",
+    "sentences": [
+      "It was more than eight times BYD's entire annual"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC024",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "net profit of four point one six billion dollars.",
+    "sentences": [
+      "net profit of four point one six billion dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC025",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "The fundamental gap is not just about raw sales volume.",
+    "sentences": [
+      "The fundamental gap is not just about raw sales volume."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC026",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "It is about cash generation on every set of wheels that rolls off the lot.",
+    "sentences": [
+      "It is about cash generation on every set of wheels that rolls off the lot."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC027",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Inside China, BYD is locked in a brutal price war.",
+    "sentences": [
+      "Inside China, BYD is locked in a brutal price war."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC028",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "To protect its market share, it must slash prices below fifteen thousand dollars.",
+    "sentences": [
+      "To protect its market share, it must slash prices below fifteen thousand dollars."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC029",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "As a result, BYD scrapes together an estimated net",
+    "sentences": [
+      "As a result, BYD scrapes together an estimated net"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC030",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "profit of just twelve hundred and fifty dollars per car.",
+    "sentences": [
+      "profit of just twelve hundred and fifty dollars per car."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC031",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Toyota runs a cash machine called the hybrid.",
+    "sentences": [
+      "Toyota runs a cash machine called the hybrid."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC032",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Over thirty-seven percent of Toyota's global deliveries are hybrid vehicles.",
+    "sentences": [
+      "Over thirty-seven percent of Toyota's global deliveries are hybrid vehicles."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC033",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Buyers around the world willingly pay a premium for",
+    "sentences": [
+      "Buyers around the world willingly pay a premium for"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC034",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "the proven reliability of a Camry or Corolla hybrid.",
+    "sentences": [
+      "the proven reliability of a Camry or Corolla hybrid."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC035",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "For every car driving off a dealer lot",
+    "sentences": [
+      "For every car driving off a dealer lot"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC036",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Toyota pockets roughly thirty-five hundred dollars in net profit.",
+    "sentences": [
+      "Toyota pockets roughly thirty-five hundred dollars in net profit."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC037",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "That is nearly three times what BYD makes per vehicle.",
+    "sentences": [
+      "That is nearly three times what BYD makes per vehicle."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC038",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Behind that profit machine lies a war chest of cash and short",
+    "sentences": [
+      "Behind that profit machine lies a war chest of cash and short"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC039",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "term investments exceeding sixty billion dollars. Toyota's balance sheet looks like an armored fortress.",
+    "sentences": [
+      "term investments exceeding sixty billion dollars.",
+      "Toyota's balance sheet looks like an armored fortress."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC040",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "This cash pile allows the company to survive any global economic shock.",
+    "sentences": [
+      "This cash pile allows the company to survive any global economic shock."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC041",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Toyota commands a dealer network and supply chain forged over",
+    "sentences": [
+      "Toyota commands a dealer network and supply chain forged over"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC042",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "sixty years across more than one hundred and seventy countries.",
+    "sentences": [
+      "sixty years across more than one hundred and seventy countries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC043",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "From the Sahara Desert to the Amazon basin",
+    "sentences": [
+      "From the Sahara Desert to the Amazon basin"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC044",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "the Toyota Hilux and Land Cruiser are the gold standard for basic survival.",
+    "sentences": [
+      "the Toyota Hilux and Land Cruiser are the gold standard for basic survival."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC045",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "This is not a competitor you can topple with splashy marketing or slick tech slogans.",
+    "sentences": [
+      "This is not a competitor you can topple with splashy marketing or slick tech slogans."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC046",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Yet inside that fortress, the very first hairline fractures are quietly appearing.",
+    "sentences": [
+      "Yet inside that fortress, the very first hairline fractures are quietly appearing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC047",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "In the North American stronghold",
+    "sentences": [
+      "In the North American stronghold"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC048",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Toyota's quarterly operating profit recently suffered a sharp seventy-eight point five percent drop.",
+    "sentences": [
+      "Toyota's quarterly operating profit recently suffered a sharp seventy-eight point five percent drop."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC049",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Surging dealer incentives and ballooning warranty costs eroded margins.",
+    "sentences": [
+      "Surging dealer incentives and ballooning warranty costs eroded margins."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC050",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "In developing markets, ordinary families cannot afford an expensive hybrid SUV.",
+    "sentences": [
+      "In developing markets, ordinary families cannot afford an expensive hybrid SUV."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC051",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "It is in these frontier territories that Toyota's fortress has",
+    "sentences": [
+      "It is in these frontier territories that Toyota's fortress has"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC052",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "begun to feel the cold breath of an apex predator. Toyota is not Volkswagen or Ford.",
+    "sentences": [
+      "begun to feel the cold breath of an apex predator.",
+      "Toyota is not Volkswagen or Ford."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC053",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Toyota represents the absolute peak of lean manufacturing and capital discipline from the twentieth century.",
+    "sentences": [
+      "Toyota represents the absolute peak of lean manufacturing and capital discipline from the twentieth century."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC054",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "To take down an empire selling eleven million cars and banking thirty",
+    "sentences": [
+      "To take down an empire selling eleven million cars and banking thirty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC055",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "four billion dollars in profit, normal business playbooks will not work.",
+    "sentences": [
+      "four billion dollars in profit, normal business playbooks will not work."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC056",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "To threaten this fortress without touching American soil",
+    "sentences": [
+      "To threaten this fortress without touching American soil"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC057",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "BYD had to build a different kind of weapon.",
+    "sentences": [
+      "BYD had to build a different kind of weapon."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC058",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "It required manufacturing power unlike anything Western economists had ever witnessed. This was not financial engineering.",
+    "sentences": [
+      "It required manufacturing power unlike anything Western economists had ever witnessed.",
+      "This was not financial engineering."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC059",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "It was a brutal cost dissection down to the atomic level.",
+    "sentences": [
+      "It was a brutal cost dissection down to the atomic level."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC060",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "The secret of that industrial machine was exposed when",
+    "sentences": [
+      "The secret of that industrial machine was exposed when"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH03_SC061",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Swiss bank analysts decided to tear down a BYD car bolt by bolt.",
+    "sentences": [
+      "Swiss bank analysts decided to tear down a BYD car",
+      "bolt by bolt."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC001",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "In the autumn of twenty twenty-three, analysts at the investment bank UBS did something unusual.",
+    "sentences": [
+      "In the autumn of twenty twenty-three, analysts at the investment bank UBS did something unusual."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC002",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "They bought a brand-new BYD Seal sedan and brought it into a Swiss laboratory.",
+    "sentences": [
+      "They bought a brand-new BYD Seal sedan and brought it into a Swiss laboratory."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC003",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "There, they carefully dismantled every single bolt, circuit board, and battery cell.",
+    "sentences": [
+      "There, they carefully dismantled every single bolt, circuit board, and battery cell."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC004",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "The resulting teardown report ran hundreds of pages. It sent shockwaves through Western automotive boardrooms.",
+    "sentences": [
+      "The resulting teardown report ran hundreds of pages.",
+      "It sent shockwaves through Western automotive boardrooms."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC005",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "What Western engineers discovered was not a cheap, clumsy copy.",
+    "sentences": [
+      "What Western engineers discovered was not a cheap, clumsy copy."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC006",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "It was an industrial architecture alien to traditional capitalist manufacturing.",
+    "sentences": [
+      "It was an industrial architecture alien to traditional capitalist manufacturing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC007",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "For a century, automakers like Volkswagen, Ford, and Toyota operated as master assemblers.",
+    "sentences": [
+      "For a century, automakers like Volkswagen, Ford, and Toyota operated as master assemblers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC008",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "They produced only thirty to thirty-five percent of components in-house.",
+    "sentences": [
+      "They produced only thirty to thirty-five percent of components in-house."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC009",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "The rest was outsourced to thousands of tier-one suppliers like Bosch, Continental, and Denso.",
+    "sentences": [
+      "The rest was outsourced to thousands of tier-one suppliers like Bosch, Continental, and Denso."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC010",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Even Tesla, the symbol of Silicon Valley disruption",
+    "sentences": [
+      "Even Tesla, the symbol of Silicon Valley disruption"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC011",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "controlled only sixty-eight percent of parts on the Model 3.",
+    "sentences": [
+      "controlled only sixty-eight percent of parts on the Model 3."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC012",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "When UBS finished stripping the BYD Seal, they uncovered a staggering figure.",
+    "sentences": [
+      "When UBS finished stripping the BYD Seal, they uncovered a staggering figure."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC013",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Seventy-five percent of all components in that vehicle were manufactured directly by BYD.",
+    "sentences": [
+      "Seventy-five percent of all components in that vehicle were manufactured directly by BYD."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC014",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Ninety percent of the total value-added of the car was generated on Chinese soil.",
+    "sentences": [
+      "Ninety percent of the total value-added of the car was generated on Chinese soil."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC015",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "BYD does not buy headlights; it casts them.",
+    "sentences": [
+      "BYD does not buy headlights; it casts them."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC016",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "It does not buy air conditioning units; it builds its own compressors.",
+    "sentences": [
+      "It does not buy air conditioning units; it builds its own compressors."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC017",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "It does not outsource instrument clusters or seating; it operates its own foam and display factories.",
+    "sentences": [
+      "It does not outsource instrument clusters or seating; it operates its own foam and display factories."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC018",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "The true kinetic weapon sat in the Blade Battery pack, engineered by its subsidiary, FinDreams.",
+    "sentences": [
+      "The true kinetic weapon sat in the Blade Battery pack, engineered by its subsidiary, FinDreams."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC019",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "In an electric car, the battery pack accounts for thirty",
+    "sentences": [
+      "In an electric car, the battery pack accounts for thirty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC020",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "five to forty percent of total vehicle cost.",
+    "sentences": [
+      "five to forty percent of total vehicle cost."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC021",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Western automakers buy battery packs at one hundred and",
+    "sentences": [
+      "Western automakers buy battery packs at one hundred and"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC022",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "ten to one hundred and thirty dollars per kilowatt-hour.",
+    "sentences": [
+      "ten to one hundred and thirty dollars per kilowatt-hour."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC023",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "BYD produces its own Blade Battery packs at fifty-five dollars per kilowatt-hour.",
+    "sentences": [
+      "BYD produces its own Blade Battery packs at fifty-five dollars per kilowatt-hour."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC024",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "That was thirty-six percent cheaper than even battery giant CATL.",
+    "sentences": [
+      "That was thirty-six percent cheaper than even battery giant CATL."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC025",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "BYD pushed integration further by inventing an integrated eight-in-one electric powertrain.",
+    "sentences": [
+      "BYD pushed integration further by inventing an integrated eight-in-one electric powertrain."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC026",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "Instead of assembling separate motors, inverters",
+    "sentences": [
+      "Instead of assembling separate motors, inverters"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC027",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "and gearboxes with complex wiring harnesses, BYD cast them as a single module.",
+    "sentences": [
+      "and gearboxes with complex wiring harnesses, BYD cast them as a single module."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC028",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "This design reduced vehicle weight by twenty percent",
+    "sentences": [
+      "This design reduced vehicle weight by twenty percent"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC029",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "saved fifteen percent in packaging volume, and cut thousands in harness costs. They deployed Cell-to-Body engineering.",
+    "sentences": [
+      "saved fifteen percent in packaging volume, and cut thousands in harness costs.",
+      "They deployed Cell-to-Body engineering."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC030",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "The battery pack housing serves directly as the structural floor of the vehicle.",
+    "sentences": [
+      "The battery pack housing serves directly as the structural floor of the vehicle."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC031",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "This completely eliminated redundant metal crossmembers.",
+    "sentences": [
+      "This completely eliminated redundant metal crossmembers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC032",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "This brutal cost dissection produced a mathematical equation Western rivals could not match.",
+    "sentences": [
+      "This brutal cost dissection produced a mathematical equation Western rivals could not match."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC033",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "The total bill of materials for the BYD Seal was thirty",
+    "sentences": [
+      "The total bill of materials for the BYD Seal was thirty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC034",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "five percent lower than that of Germany's Volkswagen ID.4.",
+    "sentences": [
+      "five percent lower than that of Germany's Volkswagen ID.4."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC035",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "It was even fifteen percent cheaper than a Tesla Model 3 assembled in Shanghai.",
+    "sentences": [
+      "It was even fifteen percent cheaper than a Tesla Model 3 assembled in Shanghai."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC036",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "This cost dominance created an intriguing profit paradox.",
+    "sentences": [
+      "This cost dominance created an intriguing profit paradox."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC037",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "In the domestic Chinese market, cutthroat price wars leave only razor-thin operating margins.",
+    "sentences": [
+      "In the domestic Chinese market, cutthroat price wars leave only razor-thin operating margins."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC038",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "On export vessels, the entire financial game inverts. Because its domestic baseline cost is exceptionally low",
+    "sentences": [
+      "On export vessels, the entire financial game inverts.",
+      "Because its domestic baseline cost is exceptionally low"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC039",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "BYD prices cars overseas fifty to eighty percent higher.",
+    "sentences": [
+      "BYD prices cars overseas fifty to eighty percent higher."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC040",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Even after paying foreign tariffs and oceanic freight",
+    "sentences": [
+      "Even after paying foreign tariffs and oceanic freight"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC041",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "BYD still pockets roughly twenty-nine hundred dollars in net profit per car.",
+    "sentences": [
+      "BYD still pockets roughly twenty-nine hundred dollars in net profit per car."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC042",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "That overseas profit margin is nearly three times its domestic return.",
+    "sentences": [
+      "That overseas profit margin is nearly three times its domestic return."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC043",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "It acts as an oxygen tank sustaining its domestic price war.",
+    "sentences": [
+      "It acts as an oxygen tank sustaining its domestic price war."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC044",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Yet inside this seemingly flawless machine, UBS teardown engineers detected a critical vulnerability.",
+    "sentences": [
+      "Yet inside this seemingly flawless machine, UBS teardown engineers detected a critical vulnerability."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC045",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "When peeling back the electronic architecture, engineers spotted a notable blind spot.",
+    "sentences": [
+      "When peeling back the electronic architecture, engineers spotted a notable blind spot."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC046",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "For premium models, the central computing cockpit and autonomous",
+    "sentences": [
+      "For premium models, the central computing cockpit and autonomous"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC047",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "driving still rely on chips from Qualcomm and Nvidia.",
+    "sentences": [
+      "driving still rely on chips from Qualcomm and Nvidia."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC048",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Although BYD partners with domestic suppliers like Horizon Robotics as a buffer",
+    "sentences": [
+      "Although BYD partners with domestic suppliers like Horizon Robotics as a buffer"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC049",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "high-end semiconductor dependence remains an open risk.",
+    "sentences": [
+      "high-end semiconductor dependence remains an open risk."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC050",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "BYD's seventy-five percent self-reliance is a genuine revolution in mechanical integration and cost physics.",
+    "sentences": [
+      "BYD's seventy-five percent self-reliance is a genuine revolution in mechanical integration and cost physics."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC051",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "It explains why BYD can undercut Western rivals on showroom floors while maintaining positive operating margins.",
+    "sentences": [
+      "It explains why BYD can undercut Western rivals on showroom floors while maintaining positive operating margins."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC052",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Yet possessing a hyper-efficient cost engine at home is only half the battle.",
+    "sentences": [
+      "Yet possessing a hyper-efficient cost engine at home is only half the battle."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC053",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "How do you project that machine across oceans to conquer the eighty-two percent world?",
+    "sentences": [
+      "How do you project that machine across oceans to conquer the eighty-two percent world?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC054",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "These are regions where charging grids are fragile and governments are erecting defensive tariff barriers.",
+    "sentences": [
+      "These are regions where charging grids are fragile and governments are erecting defensive tariff barriers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC055",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "To crack that geopolitical puzzle",
+    "sentences": [
+      "To crack that geopolitical puzzle"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC056",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "BYD launched an expansion campaign unlike anything seen in modern industrial history.",
+    "sentences": [
+      "BYD launched an expansion campaign unlike anything seen in modern industrial history."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC057",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "It was a campaign of reverse colonization, seizing abandoned American auto plants.",
+    "sentences": [
+      "It was a campaign of reverse colonization, seizing abandoned American auto plants."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC058",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "And it was powered by a super hybrid engine capable of driving twenty",
+    "sentences": [
+      "And it was powered by a super hybrid engine capable of driving twenty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH04_SC059",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "one hundred kilometers without touching a plug.",
+    "sentences": [
+      "one hundred kilometers without touching a plug."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC001",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "If any location captures the tectonic shift in global industrial power, it is Camaçari.",
+    "sentences": [
+      "If any location captures the tectonic shift in global industrial power, it is Camaçari."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC002",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "This sprawling manufacturing complex sits in the state of Bahia, Brazil.",
+    "sentences": [
+      "This sprawling manufacturing complex sits in the state of Bahia, Brazil."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC003",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "In twenty twenty-one, Ford made an agonizing decision.",
+    "sentences": [
+      "In twenty twenty-one, Ford made an agonizing decision."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC004",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "After more than a century of manufacturing in Brazil",
+    "sentences": [
+      "After more than a century of manufacturing in Brazil"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC005",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "the American giant closed its local assembly lines. The vast Camaçari industrial park went dark.",
+    "sentences": [
+      "the American giant closed its local assembly lines.",
+      "The vast Camaçari industrial park went dark."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC006",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Tens of thousands of autoworkers lost their livelihoods",
+    "sentences": [
+      "Tens of thousands of autoworkers lost their livelihoods"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC007",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "turning the site into a monument to Latin American deindustrialization.",
+    "sentences": [
+      "turning the site into a monument to Latin American deindustrialization."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC008",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Three years later, the gates of Camaçari roared back to life.",
+    "sentences": [
+      "Three years later, the gates of Camaçari roared back to life."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC009",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "This time, the executives arriving were not from Detroit. They were from Shenzhen.",
+    "sentences": [
+      "This time, the executives arriving were not from Detroit.",
+      "They were from Shenzhen."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC010",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "BYD committed five point five billion reais, over one billion US dollars",
+    "sentences": [
+      "BYD committed five point five billion reais, over one billion US dollars"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC011",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "to take over and modernize the abandoned complex. They promised more than ten thousand local jobs.",
+    "sentences": [
+      "to take over and modernize the abandoned complex.",
+      "They promised more than ten thousand local jobs."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC012",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Brazilian President Lula da Silva welcomed BYD leadership as economic saviors of the Northeast.",
+    "sentences": [
+      "Brazilian President Lula da Silva welcomed BYD leadership as economic saviors of the Northeast."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC013",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "It was a striking historical tableau.",
+    "sentences": [
+      "It was a striking historical tableau."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC014",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "A Chinese automaker was seizing industrial ruins vacated by an American icon",
+    "sentences": [
+      "A Chinese automaker was seizing industrial ruins vacated by an American icon"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC015",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "right inside Washington's traditional sphere of influence.",
+    "sentences": [
+      "right inside Washington's traditional sphere of influence."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC016",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Acquiring the plant was merely the opening gambit in an intricate industrial chess match.",
+    "sentences": [
+      "Acquiring the plant was merely the opening gambit in an intricate industrial chess match."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC017",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "To protect domestic assemblers, Brazil reinstated import tariffs on electric vehicles up to thirty-five percent.",
+    "sentences": [
+      "To protect domestic assemblers, Brazil reinstated import tariffs on electric vehicles up to thirty-five percent."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC018",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "BYD did not lobby or complain.",
+    "sentences": [
+      "BYD did not lobby or complain."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC019",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Instead, they pushed local component sourcing at Camaçari above fifty percent.",
+    "sentences": [
+      "Instead, they pushed local component sourcing at Camaçari above fifty percent."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC020",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Under Mercosur trade pact rules, that local content threshold classifies those vehicles as domestic.",
+    "sentences": [
+      "Under Mercosur trade pact rules, that local content threshold classifies those vehicles as domestic."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC021",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "They can be shipped to Argentina and Mexico at zero percent tariffs",
+    "sentences": [
+      "They can be shipped to Argentina and Mexico at zero percent tariffs"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC022",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "effectively neutralizing regional trade barriers. In Europe, BYD executed the exact same playbook.",
+    "sentences": [
+      "effectively neutralizing regional trade barriers.",
+      "In Europe, BYD executed the exact same playbook."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC023",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "To bypass Brussels's punitive forty percent import duties, BYD selected Hungary.",
+    "sentences": [
+      "To bypass Brussels's punitive forty percent import duties, BYD selected Hungary."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC024",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "They broke ground on their first European passenger car hub in Szeged",
+    "sentences": [
+      "They broke ground on their first European passenger car hub in Szeged"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC025",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "anchoring industrial interests with Viktor Orbán's government.",
+    "sentences": [
+      "anchoring industrial interests with Viktor Orbán's government."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC026",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Yet BYD's quiet infiltration of developed markets had begun years earlier through an unexpected Trojan horse",
+    "sentences": [
+      "Yet BYD's quiet infiltration of developed markets had begun years earlier through an unexpected Trojan horse"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC027",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "the electric municipal bus. From London to Tokyo",
+    "sentences": [
+      "the electric municipal bus.",
+      "From London to Tokyo"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC028",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "over one hundred thousand BYD electric buses operate across four hundred major cities.",
+    "sentences": [
+      "over one hundred thousand BYD electric buses operate across four hundred major cities."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC029",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Electric buses allowed BYD to build relationships with transit authorities and install grid infrastructure.",
+    "sentences": [
+      "Electric buses allowed BYD to build relationships with transit authorities and install grid infrastructure."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC030",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "They forged municipal ties years before selling their first passenger car to local consumers.",
+    "sentences": [
+      "They forged municipal ties years before selling their first passenger car to local consumers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC031",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "To transport its vehicles globally without vulnerability to chartered shipping bottlenecks, BYD did something unprecedented.",
+    "sentences": [
+      "To transport its vehicles globally without vulnerability to chartered shipping bottlenecks, BYD did something unprecedented."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC032",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "When daily charter rates for specialized car carriers spiked past one hundred and fifteen thousand dollars",
+    "sentences": [
+      "When daily charter rates for specialized car carriers spiked past one hundred and fifteen thousand dollars"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC033",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 1.25,
+    "text_overlay": "",
+    "visual_summary": "BYD stepped in.",
+    "sentences": [
+      "BYD stepped in."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC034",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "They allocated five billion yuan to commission eight massive, purpose-built roll-on roll-off transport ships.",
+    "sentences": [
+      "They allocated five billion yuan to commission eight massive, purpose-built roll-on roll-off transport ships."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC035",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Vessels like BYD Explorer Number One and BYD Shenzhen",
+    "sentences": [
+      "Vessels like BYD Explorer Number One and BYD Shenzhen"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC036",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "carry between seven thousand and nine thousand vehicles per voyage.",
+    "sentences": [
+      "carry between seven thousand and nine thousand vehicles per voyage."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC037",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "This sovereign armada provides export capacity of more than one million cars annually.",
+    "sentences": [
+      "This sovereign armada provides export capacity of more than one million cars annually."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC038",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "It secures an unbroken logistics pipeline from Shenzhen to Rotterdam and Santos.",
+    "sentences": [
+      "It secures an unbroken logistics pipeline from Shenzhen to Rotterdam and Santos."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC039",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "In Southeast Asia, BYD invested eighteen billion baht into its Rayong plant in Thailand.",
+    "sentences": [
+      "In Southeast Asia, BYD invested eighteen billion baht into its Rayong plant in Thailand."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC040",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "That move struck directly at the heart of Japan's five-decade dominance",
+    "sentences": [
+      "That move struck directly at the heart of Japan's five-decade dominance"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC041",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "pushing Chinese EV market share in Thailand toward forty-seven percent.",
+    "sentences": [
+      "pushing Chinese EV market share in Thailand toward forty-seven percent."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC042",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Yet the primary weapon conquering the eighty-two percent world is not a pure battery electric vehicle.",
+    "sentences": [
+      "Yet the primary weapon conquering the eighty-two percent world is not a pure battery electric vehicle."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC043",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Over one billion consumers across the Global South live in",
+    "sentences": [
+      "Over one billion consumers across the Global South live in"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC044",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "areas with fragile electrical grids and virtually zero highway chargers.",
+    "sentences": [
+      "areas with fragile electrical grids and virtually zero highway chargers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC045",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Trying to sell pure electric cars there would hand an effortless victory to Toyota's rugged Hilux.",
+    "sentences": [
+      "Trying to sell pure electric cars there would hand an effortless victory to Toyota's rugged Hilux."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC046",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "To bypass this bottleneck, BYD launched its fifth-generation DM-i super hybrid powertrain.",
+    "sentences": [
+      "To bypass this bottleneck, BYD launched its fifth-generation DM-i super hybrid powertrain."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC047",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Featuring engine thermal efficiency exceeding forty-six percent",
+    "sentences": [
+      "Featuring engine thermal efficiency exceeding forty-six percent"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC048",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "it claims a theoretical test-cycle range of twenty-one hundred kilometers. In real-world mixed driving",
+    "sentences": [
+      "it claims a theoretical test-cycle range of twenty-one hundred kilometers.",
+      "In real-world mixed driving"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC049",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "owners comfortably achieve fifteen hundred to eighteen hundred kilometers on a single tank.",
+    "sentences": [
+      "owners comfortably achieve fifteen hundred to eighteen hundred kilometers on a single tank."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC050",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Even in real-world conditions, that is double the range of a standard gasoline or hybrid vehicle.",
+    "sentences": [
+      "Even in real-world conditions, that is double the range of a standard gasoline or hybrid vehicle."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC051",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Drivers in emerging markets can commute for an entire month",
+    "sentences": [
+      "Drivers in emerging markets can commute for an entire month"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC052",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "on one tank without ever searching for a charging plug.",
+    "sentences": [
+      "on one tank without ever searching for a charging plug."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC053",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Its operating cost undercuts Japanese rivals by a wide margin.",
+    "sentences": [
+      "Its operating cost undercuts Japanese rivals by a wide margin."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC054",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Combining factories, buses, ships, and hybrids, BYD captured vast territories ignored by the West.",
+    "sentences": [
+      "Combining factories, buses, ships, and hybrids, BYD captured vast territories ignored by the West."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC055",
+    "chapter": "05",
+    "sentence_count": 2,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "On the surface, this relentless expansion appears unstoppable. Yet as global conquest seemed within grasp",
+    "sentences": [
+      "On the surface, this relentless expansion appears unstoppable.",
+      "Yet as global conquest seemed within grasp"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC056",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "critical stress fractures began spidering across BYD's empire from within.",
+    "sentences": [
+      "critical stress fractures began spidering across BYD's empire from within."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC057",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "An army of nearly one million workers, an aggressive cash flow squeeze",
+    "sentences": [
+      "An army of nearly one million workers, an aggressive cash flow squeeze"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC058",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "and a collapsing used-car market are bearing down on the company.",
+    "sentences": [
+      "and a collapsing used-car market are bearing down on the company."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC059",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Now we enter the climax of our investigation",
+    "sentences": [
+      "Now we enter the climax of our investigation"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH05_SC060",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "to expose the structural vulnerabilities of this rising giant.",
+    "sentences": [
+      "to expose the structural vulnerabilities of this rising giant."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC001",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Behind the glittering showroom launches lies an unyielding law of heavy industry.",
+    "sentences": [
+      "Behind the glittering showroom launches lies an unyielding law of heavy industry."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC002",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Every hyper-growth machine eventually faces an unforgiving financial invoice.",
+    "sentences": [
+      "Every hyper-growth machine eventually faces an unforgiving financial invoice."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC003",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "To understand BYD's real bottlenecks, we cannot rely on online hype.",
+    "sentences": [
+      "To understand BYD's real bottlenecks, we cannot rely on online hype."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC004",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "We must step onto the factory floor and open its audited financial statements.",
+    "sentences": [
+      "We must step onto the factory floor and open its audited financial statements."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC005",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "The first structural vulnerability stems from its colossal workforce.",
+    "sentences": [
+      "The first structural vulnerability stems from its colossal workforce."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC006",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "By late twenty twenty-four, BYD's headcount surged to nine hundred and sixty-eight thousand nine hundred employees.",
+    "sentences": [
+      "By late twenty twenty-four, BYD's headcount surged to nine hundred and sixty-eight thousand nine hundred employees."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC007",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "That is more workers than Toyota, Ford, and General Motors combined.",
+    "sentences": [
+      "That is more workers than Toyota, Ford, and General Motors combined."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC008",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "This reflects the core philosophy of founder Wang Chuanfu: deploy labor",
+    "sentences": [
+      "This reflects the core philosophy of founder Wang Chuanfu: deploy labor"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC009",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "intensive human engineering to replace costly Western robotics.",
+    "sentences": [
+      "intensive human engineering to replace costly Western robotics."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC010",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Yet the economic productivity of this human army conceals a severe paradox.",
+    "sentences": [
+      "Yet the economic productivity of this human army conceals a severe paradox."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC011",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "BYD generates only one-sixth the revenue per employee compared to Toyota.",
+    "sentences": [
+      "BYD generates only one-sixth the revenue per employee compared to Toyota."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC012",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Inside China, low labor costs once overwhelmed rivals.",
+    "sentences": [
+      "Inside China, low labor costs once overwhelmed rivals."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC013",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "When BYD exports that model abroad, the cost equation unravels.",
+    "sentences": [
+      "When BYD exports that model abroad, the cost equation unravels."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC014",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "In Europe and South America, wages and social benefits are much higher.",
+    "sentences": [
+      "In Europe and South America, wages and social benefits are much higher."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC015",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Local labor unions refuse the brutal overtime common in Shenzhen.",
+    "sentences": [
+      "Local labor unions refuse the brutal overtime common in Shenzhen."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC016",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Tooling amortization also squeezes satellite factories overseas.",
+    "sentences": [
+      "Tooling amortization also squeezes satellite factories overseas."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC017",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "When manufacturing millions of units in China, fixed tooling costs are flattened across immense volume.",
+    "sentences": [
+      "When manufacturing millions of units in China, fixed tooling costs are flattened across immense volume."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC018",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "In Brazil or Hungary, local production volumes are modest.",
+    "sentences": [
+      "In Brazil or Hungary, local production volumes are modest."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC019",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "The tooling depreciation per vehicle balloons significantly, rapidly eroding the low-cost miracle.",
+    "sentences": [
+      "The tooling depreciation per vehicle balloons significantly, rapidly eroding the low-cost miracle."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC020",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Yet labor costs are not the gravest threat to BYD's balance sheet.",
+    "sentences": [
+      "Yet labor costs are not the gravest threat to BYD's balance sheet."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC021",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "The true ticking time bomb sits inside its supplier payables. To finance its brutal price cuts",
+    "sentences": [
+      "The true ticking time bomb sits inside its supplier payables.",
+      "To finance its brutal price cuts"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC022",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "BYD stretched its Days Payable Outstanding to one hundred and fifty-five days.",
+    "sentences": [
+      "BYD stretched its Days Payable Outstanding to one hundred and fifty-five days."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC023",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "By comparison, Toyota settles supplier invoices in roughly forty-five days.",
+    "sentences": [
+      "By comparison, Toyota settles supplier invoices in roughly forty-five days."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC024",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "In effect, BYD turned tens of thousands of component suppliers into interest-free lending facilities.",
+    "sentences": [
+      "In effect, BYD turned tens of thousands of component suppliers into interest-free lending facilities."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC025",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "It used billions in vendor cash as working capital to bankroll its retail discounts.",
+    "sentences": [
+      "It used billions in vendor cash as working capital to bankroll its retail discounts."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC026",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "That liquidity maneuver cannot continue indefinitely. To prevent cascading vendor bankruptcies, Chinese regulators intervened.",
+    "sentences": [
+      "That liquidity maneuver cannot continue indefinitely.",
+      "To prevent cascading vendor bankruptcies, Chinese regulators intervened."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC027",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "They introduced a sixty-day cap on supplier payment cycles for major enterprises.",
+    "sentences": [
+      "They introduced a sixty-day cap on supplier payment cycles for major enterprises."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC028",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "That regulatory tightening dealt an immediate blow to BYD's cash flow.",
+    "sentences": [
+      "That regulatory tightening dealt an immediate blow to BYD's cash flow."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC029",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "In the first half of twenty twenty-four, operating cash flow tumbled from nearly eighty",
+    "sentences": [
+      "In the first half of twenty twenty-four, operating cash flow tumbled from nearly eighty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC030",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "two billion yuan to just fourteen billion. Meanwhile, total inventory swelled to an all",
+    "sentences": [
+      "two billion yuan to just fourteen billion.",
+      "Meanwhile, total inventory swelled to an all"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC031",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "time record of more than one hundred and sixty billion yuan.",
+    "sentences": [
+      "time record of more than one hundred and sixty billion yuan."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC032",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "You cannot slash sticker prices when regulators clamp down on supplier credit lines.",
+    "sentences": [
+      "You cannot slash sticker prices when regulators clamp down on supplier credit lines."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC033",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Simultaneously, BYD's global supply chain revealed acute points of friction.",
+    "sentences": [
+      "Simultaneously, BYD's global supply chain revealed acute points of friction."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC034",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "High-end cockpit computing remains reliant on Western silicon, posing continuous geopolitical risks.",
+    "sentences": [
+      "High-end cockpit computing remains reliant on Western silicon, posing continuous geopolitical risks."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC035",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Its planned manufacturing hub in Mexico was shelved indefinitely amid intense tariff threats from Washington.",
+    "sentences": [
+      "Its planned manufacturing hub in Mexico was shelved indefinitely amid intense tariff threats from Washington."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC036",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "In overseas showrooms, after-sales networks are strained.",
+    "sentences": [
+      "In overseas showrooms, after-sales networks are strained."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC037",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Owners report waiting two to three months for replacement parts shipped from Shenzhen.",
+    "sentences": [
+      "Owners report waiting two to three months for replacement parts shipped from Shenzhen."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC038",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Several major automotive insurers have raised premiums steeply or declined coverage entirely.",
+    "sentences": [
+      "Several major automotive insurers have raised premiums steeply or declined coverage entirely."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC039",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Yet the most damaging wound struck directly at consumer confidence: the used-car resale cliff.",
+    "sentences": [
+      "Yet the most damaging wound struck directly at consumer confidence: the used-car resale cliff."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC040",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "BYD's relentless price reductions on new models completely crushed secondary market values.",
+    "sentences": [
+      "BYD's relentless price reductions on new models completely crushed secondary market values."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC041",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "After two to three years of driving",
+    "sentences": [
+      "After two to three years of driving"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC042",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "a BYD electric car often sheds forty to fifty percent of its initial value.",
+    "sentences": [
+      "a BYD electric car often sheds forty to fifty percent of its initial value."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC043",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "A Toyota Hilux retains seventy-five to eighty percent of its value over that same duration.",
+    "sentences": [
+      "A Toyota Hilux retains seventy-five to eighty percent of its value over that same duration."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC044",
+    "chapter": "06",
+    "sentence_count": 2,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Why do electric vehicles depreciate so fast? The answer lies in battery replacement costs.",
+    "sentences": [
+      "Why do electric vehicles depreciate so fast?",
+      "The answer lies in battery replacement costs."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC045",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Once a vehicle exits its warranty period",
+    "sentences": [
+      "Once a vehicle exits its warranty period"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC046",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "a replacement battery pack can cost up to half the car's original price.",
+    "sentences": [
+      "a replacement battery pack can cost up to half the car's original price."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC047",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Many independent used-car dealers refuse used battery electric vehicles due to degradation risks.",
+    "sentences": [
+      "Many independent used-car dealers refuse used battery electric vehicles due to degradation risks."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC048",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Global consumers are calculating the cold financial reality.",
+    "sentences": [
+      "Global consumers are calculating the cold financial reality."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC049",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "The modest fuel savings gained each month cannot compensate",
+    "sentences": [
+      "The modest fuel savings gained each month cannot compensate"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC050",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "for losing tens of thousands of dollars on resale.",
+    "sentences": [
+      "for losing tens of thousands of dollars on resale."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC051",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "A massive payroll, tight credit, chip exposure, and steep depreciation collide.",
+    "sentences": [
+      "A massive payroll, tight credit, chip exposure, and steep depreciation collide."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC052",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Together, these forces expose a sobering reality.",
+    "sentences": [
+      "Together, these forces expose a sobering reality."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC053",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "You can leverage scale and vendor debt to accelerate rapidly in the short run.",
+    "sentences": [
+      "You can leverage scale and vendor debt to accelerate rapidly in the short run."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC054",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "If your product loses half its value after two years",
+    "sentences": [
+      "If your product loses half its value after two years"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC055",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "you are building an empire on shifting sands.",
+    "sentences": [
+      "you are building an empire on shifting sands."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC056",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "As the challenger grapples with these structural cracks, Toyota has not been idle.",
+    "sentences": [
+      "As the challenger grapples with these structural cracks, Toyota has not been idle."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC057",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "The Japanese titan is sitting on a thirty-four billion dollar cash mountain.",
+    "sentences": [
+      "The Japanese titan is sitting on a thirty-four billion dollar cash mountain."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC058",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "It has been quietly engineering an ultimate counter-strike: the solid-state battery.",
+    "sentences": [
+      "It has been quietly engineering an ultimate counter-strike: the solid-state battery."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH06_SC059",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "This breakthrough technology threatens to render today's battery gigafactories obsolete overnight.",
+    "sentences": [
+      "This breakthrough technology threatens to render today's battery gigafactories obsolete overnight."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC001",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "For years, Western tech media relentlessly criticized one executive in Nagoya: Akio Toyoda.",
+    "sentences": [
+      "For years, Western tech media relentlessly criticized one executive in Nagoya: Akio Toyoda."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC002",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Critics labeled him an outdated dinosaur. They warned that Toyota was repeating Nokia's tragic collapse",
+    "sentences": [
+      "Critics labeled him an outdated dinosaur.",
+      "They warned that Toyota was repeating Nokia's tragic collapse"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC003",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "by refusing to bet everything on battery electric vehicles.",
+    "sentences": [
+      "by refusing to bet everything on battery electric vehicles."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC004",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "In traditional Japanese corporate culture, quiet deliberation is rarely a sign of weakness.",
+    "sentences": [
+      "In traditional Japanese corporate culture, quiet deliberation is rarely a sign of weakness."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC005",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "While the automotive world engaged in a suicidal price war, Toyota chose a fundamentally different path.",
+    "sentences": [
+      "While the automotive world engaged in a suicidal price war, Toyota chose a fundamentally different path."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC006",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "They quietly laid an industrial trap designed for the next decade.",
+    "sentences": [
+      "They quietly laid an industrial trap designed for the next decade."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC007",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "That strategy began with the multi-pathway doctrine Akio Toyoda defended against mounting pressure.",
+    "sentences": [
+      "That strategy began with the multi-pathway doctrine Akio Toyoda defended against mounting pressure."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC008",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Instead of sinking billions into liquid-electrolyte battery factories, Toyota did the exact opposite.",
+    "sentences": [
+      "Instead of sinking billions into liquid-electrolyte battery factories, Toyota did the exact opposite."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC009",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "They milked unprecedented cash flow from their global hybrid lineup.",
+    "sentences": [
+      "They milked unprecedented cash flow from their global hybrid lineup."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC010",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "That hybrid cash engine delivered over thirty-four billion dollars in annual profit.",
+    "sentences": [
+      "That hybrid cash engine delivered over thirty-four billion dollars in annual profit."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC011",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Toyota channeled that capital into advanced laboratory research: all-solid-state battery technology.",
+    "sentences": [
+      "Toyota channeled that capital into advanced laboratory research: all-solid-state battery technology."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC012",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "While competitors fought for market share with cheap cells",
+    "sentences": [
+      "While competitors fought for market share with cheap cells"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC013",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Toyota accumulated over one thousand solid-state battery patents.",
+    "sentences": [
+      "Toyota accumulated over one thousand solid-state battery patents."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC014",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "That represents the largest intellectual property portfolio in advanced battery chemistry on Earth.",
+    "sentences": [
+      "That represents the largest intellectual property portfolio in advanced battery chemistry on Earth."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC015",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "In late twenty twenty-three, Toyota formalized a partnership with petroleum refiner Idemitsu Kosan.",
+    "sentences": [
+      "In late twenty twenty-three, Toyota formalized a partnership with petroleum refiner Idemitsu Kosan."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC016",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Their goal was commercializing sulfide solid-state electrolytes by twenty twenty-seven.",
+    "sentences": [
+      "Their goal was commercializing sulfide solid-state electrolytes by twenty twenty-seven."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC017",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Why is solid-state battery technology considered an industry disruption?",
+    "sentences": [
+      "Why is solid-state battery technology considered an industry disruption?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC018",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "The answer lies in the fundamental physics of electrochemical energy storage.",
+    "sentences": [
+      "The answer lies in the fundamental physics of electrochemical energy storage."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC019",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "BYD's acclaimed Blade Battery relies on Lithium Iron Phosphate chemistry, commonly known as LFP.",
+    "sentences": [
+      "BYD's acclaimed Blade Battery relies on Lithium Iron Phosphate chemistry, commonly known as LFP."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC020",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "LFP chemistry is durable and exceptionally cheap to manufacture.",
+    "sentences": [
+      "LFP chemistry is durable and exceptionally cheap to manufacture."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC021",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Yet it faces an insurmountable physical ceiling in energy density.",
+    "sentences": [
+      "Yet it faces an insurmountable physical ceiling in energy density."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC022",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "LFP cells plateau between two hundred and two hundred and fifty watt-hours per kilogram.",
+    "sentences": [
+      "LFP cells plateau between two hundred and two hundred and fifty watt-hours per kilogram."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC023",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "To deliver five hundred kilometers of highway driving",
+    "sentences": [
+      "To deliver five hundred kilometers of highway driving"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC024",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "BYD must install a battery pack weighing over half a ton.",
+    "sentences": [
+      "BYD must install a battery pack weighing over half a ton."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC025",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "That excess weight dulls driving dynamics, wears out tires, and strains suspension components.",
+    "sentences": [
+      "That excess weight dulls driving dynamics, wears out tires, and strains suspension components."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC026",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Toyota's solid-state chemistry targets up to five hundred watt-hours per kilogram.",
+    "sentences": [
+      "Toyota's solid-state chemistry targets up to five hundred watt-hours per kilogram."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC027",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "That is double the energy density of today's best commercial LFP cells.",
+    "sentences": [
+      "That is double the energy density of today's best commercial LFP cells."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC028",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "It allows a vehicle to achieve one thousand to twelve hundred kilometers of real",
+    "sentences": [
+      "It allows a vehicle to achieve one thousand to twelve hundred kilometers of real"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC029",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "world driving on a single charge.",
+    "sentences": [
+      "world driving on a single charge."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC030",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Even more significant, recharging from ten to eighty percent takes approximately ten minutes.",
+    "sentences": [
+      "Even more significant, recharging from ten to eighty percent takes approximately ten minutes."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC031",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "That matches the time required to fill a conventional gasoline tank.",
+    "sentences": [
+      "That matches the time required to fill a conventional gasoline tank."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC032",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Crucially, solid-state batteries eliminate flammable liquid electrolytes entirely.",
+    "sentences": [
+      "Crucially, solid-state batteries eliminate flammable liquid electrolytes entirely."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC033",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "This eradicates thermal runaway fire risks, the primary anxiety lingering among global electric vehicle buyers.",
+    "sentences": [
+      "This eradicates thermal runaway fire risks, the primary anxiety lingering among global electric vehicle buyers."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC034",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Here lies a brutal dilemma of industrial manufacturing.",
+    "sentences": [
+      "Here lies a brutal dilemma of industrial manufacturing."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC035",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "BYD poured billions into constructing dozens of liquid-electrolyte gigafactories across China.",
+    "sentences": [
+      "BYD poured billions into constructing dozens of liquid-electrolyte gigafactories across China."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC036",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "They employed hundreds of thousands of workers to optimize existing wet-cell battery lines.",
+    "sentences": [
+      "They employed hundreds of thousands of workers to optimize existing wet-cell battery lines."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC037",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "In high-technology transitions, early heavy investments often become the greatest stranded liabilities.",
+    "sentences": [
+      "In high-technology transitions, early heavy investments often become the greatest stranded liabilities."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC038",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "This road contains significant engineering hurdles.",
+    "sentences": [
+      "This road contains significant engineering hurdles."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC039",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "Around twenty twenty-seven, Toyota's solid-state cells will debut only in low-volume luxury Lexus models.",
+    "sentences": [
+      "Around twenty twenty-seven, Toyota's solid-state cells will debut only in low-volume luxury Lexus models."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC040",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Mass commercialization of millions of affordable units remains unlikely before twenty thirty.",
+    "sentences": [
+      "Mass commercialization of millions of affordable units remains unlikely before twenty thirty."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC041",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Meanwhile, Chinese battery champions are deploying ultra-fast charging and manganese-doped chemistries to defend the mass market.",
+    "sentences": [
+      "Meanwhile, Chinese battery champions are deploying ultra-fast charging and manganese-doped chemistries to defend the mass market."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC042",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "Toyota's gambit is not built for overnight victory.",
+    "sentences": [
+      "Toyota's gambit is not built for overnight victory."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC043",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "They willingly accept slower early adoption to preserve their balance sheet.",
+    "sentences": [
+      "They willingly accept slower early adoption to preserve their balance sheet."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC044",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "They allow rivals to exhaust their capital building out early market infrastructure.",
+    "sentences": [
+      "They allow rivals to exhaust their capital building out early market infrastructure."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC045",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "When solid-state chemistry matures, Toyota plans to deploy it across its global dealer footprint.",
+    "sentences": [
+      "When solid-state chemistry matures, Toyota plans to deploy it across its global dealer footprint."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC046",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "This is the art of patient Japanese counter-strategy. They avoid competing in a low-margin price war",
+    "sentences": [
+      "This is the art of patient Japanese counter-strategy.",
+      "They avoid competing in a low-margin price war"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC047",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "preparing instead for the definitive contest of the next decade.",
+    "sentences": [
+      "preparing instead for the definitive contest of the next decade."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC048",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Beyond the ruthless calculations of costs, tariffs, and battery chemistry, a grander geopolitical reality is emerging.",
+    "sentences": [
+      "Beyond the ruthless calculations of costs, tariffs, and battery chemistry, a grander geopolitical reality is emerging."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC049",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Who will ultimately control the industry when this four trillion dollar struggle concludes?",
+    "sentences": [
+      "Who will ultimately control the industry when this four trillion dollar struggle concludes?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH07_SC050",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "How will global trade endure when the automotive world fractures into two incompatible economic spheres?",
+    "sentences": [
+      "How will global trade endure when the automotive world fractures into two incompatible economic spheres?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC001",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "To witness the handover between two industrial centuries, look at a Bangkok intersection.",
+    "sentences": [
+      "To witness the handover between two industrial centuries, look at a Bangkok intersection."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC002",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "It is evening rush hour under heavy tropical rain.",
+    "sentences": [
+      "It is evening rush hour under heavy tropical rain."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC003",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "A battered Toyota Hilux pickup inches forward in the congested traffic.",
+    "sentences": [
+      "A battered Toyota Hilux pickup inches forward in the congested traffic."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC004",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Its body panels are caked in dried site dust",
+    "sentences": [
+      "Its body panels are caked in dried site dust"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC005",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "yet its diesel engine idles with the steady rhythm of a machine running for a decade.",
+    "sentences": [
+      "yet its diesel engine idles with the steady rhythm of a machine running for a decade."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC006",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Right beside it sits a brand-new BYD Shark super hybrid pickup.",
+    "sentences": [
+      "Right beside it sits a brand-new BYD Shark super hybrid pickup."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC007",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Its ambient LED light bars gleam through the downpour",
+    "sentences": [
+      "Its ambient LED light bars gleam through the downpour"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC008",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "its digital cockpit illuminated by a rotating touchscreen. It moves forward in near-total electric silence.",
+    "sentences": [
+      "its digital cockpit illuminated by a rotating touchscreen.",
+      "It moves forward in near-total electric silence."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC009",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Those two trucks sit side by side at a red traffic light.",
+    "sentences": [
+      "Those two trucks sit side by side at a red traffic light."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC010",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "They embody two entirely irreconcilable industrial universes.",
+    "sentences": [
+      "They embody two entirely irreconcilable industrial universes."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC011",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "On one side stands the peak of twentieth-century mechanical endurance.",
+    "sentences": [
+      "On one side stands the peak of twentieth-century mechanical endurance."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC012",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "On the other sits the rising tide of twenty-first-century software and battery engineering.",
+    "sentences": [
+      "On the other sits the rising tide of twenty-first-century software and battery engineering."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC013",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "Looking at that Bangkok intersection, the statement made by Stella Li becomes clear.",
+    "sentences": [
+      "Looking at that Bangkok intersection, the statement made by Stella Li becomes clear."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC014",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "When BYD announced in early twenty twenty",
+    "sentences": [
+      "When BYD announced in early twenty twenty"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC015",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "four that it had no plans to enter the United States",
+    "sentences": [
+      "four that it had no plans to enter the United States"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC016",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Western media dismissed it as a retreat.",
+    "sentences": [
+      "Western media dismissed it as a retreat."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC017",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Pundits assumed the company was folding under one hundred percent tariffs.",
+    "sentences": [
+      "Pundits assumed the company was folding under one hundred percent tariffs."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC018",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "Seen through the lens of global geoeconomics, that statement was not an admission of defeat.",
+    "sentences": [
+      "Seen through the lens of global geoeconomics, that statement was not an admission of defeat."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC019",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "It was the opening salvo signaling the end of Western-centric globalization.",
+    "sentences": [
+      "It was the opening salvo signaling the end of Western-centric globalization."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC020",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "The world's four trillion dollar automotive industry is no longer a unified marketplace.",
+    "sentences": [
+      "The world's four trillion dollar automotive industry is no longer a unified marketplace."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC021",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "It has fractured into two parallel universes. In the first universe",
+    "sentences": [
+      "It has fractured into two parallel universes.",
+      "In the first universe"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC022",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "the United States and parts of Western Europe are transforming into expensive industrial sanctuaries.",
+    "sentences": [
+      "the United States and parts of Western Europe are transforming into expensive industrial sanctuaries."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC023",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.08,
+    "text_overlay": "",
+    "visual_summary": "Shielded behind steep protective tariffs",
+    "sentences": [
+      "Shielded behind steep protective tariffs"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC024",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "legacy automakers have secured breathing room to protect their eighteen percent market share.",
+    "sentences": [
+      "legacy automakers have secured breathing room to protect their eighteen percent market share."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC025",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.92,
+    "text_overlay": "",
+    "visual_summary": "Yet that protection carries a steep cost.",
+    "sentences": [
+      "Yet that protection carries a steep cost."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC026",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.25,
+    "text_overlay": "",
+    "visual_summary": "American consumers now pay an average of nearly forty-eight thousand dollars for a new automobile.",
+    "sentences": [
+      "American consumers now pay an average of nearly forty-eight thousand dollars for a new automobile."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC027",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "They are cut off from the affordable smart mobility proliferating beyond their borders.",
+    "sentences": [
+      "They are cut off from the affordable smart mobility proliferating beyond their borders."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC028",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Meanwhile, the eighty-two percent world is writing its own rules.",
+    "sentences": [
+      "Meanwhile, the eighty-two percent world is writing its own rules."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC029",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.33,
+    "text_overlay": "",
+    "visual_summary": "It is across these emerging markets that the",
+    "sentences": [
+      "It is across these emerging markets that the"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC030",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "definitive struggle between BYD and Toyota will be decided.",
+    "sentences": [
+      "definitive struggle between BYD and Toyota will be decided."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC031",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "BYD brings a manufacturing engine with thirty-five percent lower baseline costs.",
+    "sentences": [
+      "BYD brings a manufacturing engine with thirty-five percent lower baseline costs."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC032",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.42,
+    "text_overlay": "",
+    "visual_summary": "It commands seventy-five percent in-house integration and operates its own maritime shipping lanes.",
+    "sentences": [
+      "It commands seventy-five percent in-house integration and operates its own maritime shipping lanes."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC033",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Yet it carries the weight of nearly one million workers and a steep secondary depreciation cliff.",
+    "sentences": [
+      "Yet it carries the weight of nearly one million workers and a steep secondary depreciation cliff."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC034",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "Across the asphalt, Toyota is far from a fading titan.",
+    "sentences": [
+      "Across the asphalt, Toyota is far from a fading titan."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC035",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Toyota remains atop global manufacturing with over eleven million vehicles delivered annually.",
+    "sentences": [
+      "Toyota remains atop global manufacturing with over eleven million vehicles delivered annually."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC036",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "It holds a thirty-four billion dollar cash fortress and a dominant patent portfolio in solid-state chemistry.",
+    "sentences": [
+      "It holds a thirty-four billion dollar cash fortress and a dominant patent portfolio in solid-state chemistry."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC037",
+    "chapter": "08",
+    "sentence_count": 2,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "These two industrial titans are locked in a high-stakes standoff. If you found this investigation insightful",
+    "sentences": [
+      "These two industrial titans are locked in a high-stakes standoff.",
+      "If you found this investigation insightful"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC038",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "consider subscribing to the channel to support our upcoming documentary projects.",
+    "sentences": [
+      "consider subscribing to the channel to support our upcoming documentary projects."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC039",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "Tariff walls may buy legacy automakers a few years of survival.",
+    "sentences": [
+      "Tariff walls may buy legacy automakers a few years of survival."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC040",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 6.67,
+    "text_overlay": "",
+    "visual_summary": "Yet economic history demonstrates that trade barriers cannot hold back the laws of industrial gravity indefinitely.",
+    "sentences": [
+      "Yet economic history demonstrates that trade barriers cannot hold back the laws of industrial gravity indefinitely."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC041",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 2.5,
+    "text_overlay": "",
+    "visual_summary": "When the traffic light turns green",
+    "sentences": [
+      "When the traffic light turns green"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC042",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "both trucks press their accelerators and move forward into the night.",
+    "sentences": [
+      "both trucks press their accelerators and move forward into the night."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC043",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "The driver in the old Toyota still trusts the",
+    "sentences": [
+      "The driver in the old Toyota still trusts the"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC044",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.17,
+    "text_overlay": "",
+    "visual_summary": "diesel engine that has supported his family for ten years.",
+    "sentences": [
+      "diesel engine that has supported his family for ten years."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC045",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.83,
+    "text_overlay": "",
+    "visual_summary": "The driver in the new BYD enjoys digital luxury at an accessible monthly price.",
+    "sentences": [
+      "The driver in the new BYD enjoys digital luxury at an accessible monthly price."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC046",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 3.75,
+    "text_overlay": "",
+    "visual_summary": "Which driver represents the true trajectory of human mobility?",
+    "sentences": [
+      "Which driver represents the true trajectory of human mobility?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC047",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 4.58,
+    "text_overlay": "",
+    "visual_summary": "As global trade fractures behind protective barriers, one fundamental question remains.",
+    "sentences": [
+      "As global trade fractures behind protective barriers, one fundamental question remains."
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  },
+  {
+    "id": "CH08_SC048",
+    "chapter": "08",
+    "sentence_count": 1,
+    "duration_sec": 5.0,
+    "text_overlay": "",
+    "visual_summary": "Is industrial civilization advancing toward shared progress, or retreating into isolated islands?",
+    "sentences": [
+      "Is industrial civilization advancing toward shared progress, or retreating into isolated islands?"
+    ],
+    "base_english_prompt": "A 2D cinematic editorial noir illustration"
+  }
+]

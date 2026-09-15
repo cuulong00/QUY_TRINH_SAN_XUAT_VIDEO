@@ -1,0 +1,23 @@
+Ngón tay bạn đang lướt trên app kiểm tra kèo. Trận tiếp theo bắt đầu sau ba tiếng. Tim đập nhanh hơn. Bàn tay hơi ướt mồ hôi. Không phải vì bạn sợ. Mà vì bạn thèm.
+
+Đây là khoảnh khắc mà triết lý cần trở thành hành động.
+
+Bước đầu tiên gọi là tái cấu trúc nhận thức. Đây là phương pháp từ liệu pháp hành vi nhận thức CBT, có bằng chứng thực chứng mạnh mẽ trong việc điều chỉnh sai lệch nhận thức ở người cá cược. Cách làm rất cụ thể.
+
+Trước trận đấu, bạn nói với chính mình một câu: "Kết quả trận này là ngẫu nhiên và nằm ngoài tầm kiểm soát của mình. Việc mình phân tích dữ liệu không thay đổi quỹ đạo đường bóng trên sân."
+
+Nghe đơn giản. Nhưng khi bạn nói câu đó, một thứ xảy ra bên trong não bộ. Vỏ não trước trán phía bên, vùng d l P F C, được kích hoạt. Nó thuộc Mạng lưới kiểm soát có ý thức. Và khi mạng lưới này hoạt động, nó ức chế trực tiếp Mạng trạng thái mặc định, vùng não kích hoạt khi tâm trí lang thang, nuối tiếc quá khứ, lo âu tương lai. Bạn không chỉ đang "tự nhủ." Bạn đang dùng một phần não để tắt một phần não khác.
+
+Và khi kết quả bất lợi xảy ra, bạn thực hiện bước thứ hai: tái khung kết quả sát nút. Bạn nói: "Đây là một trận thua hoàn toàn. Không có suýt thắng. Vùng r A C C của mình đang cố đánh lừa mình." Bạn đang gọi tên cơ chế. Và khoa học chứng minh rằng hành vi gọi tên cảm xúc, trong tâm lý học gọi là Affect Labeling, kích hoạt vỏ não trước trán và làm dịu hạch hạnh nhân. Bạn không kìm nén cảm xúc. Bạn đặt tên cho nó. Và bằng cách đặt tên, bạn lấy lại quyền kiểm soát.
+
+Nhưng có một phương pháp thứ hai sâu hơn. Phương pháp này không chiến đấu với Wanting. Nó đánh thức Liking.
+
+Nó gọi là Chánh niệm giác quan. Thưởng thức phi sở hữu.
+
+Thay vì nhìn vào bảng tỷ số, bạn nhìn vào quỹ đạo hình học của đường chuyền. Nhịp điệu phối hợp giữa các cầu thủ. Kỹ thuật xử lý bóng. Không phải của đội bạn. Của cả hai đội. Bạn rút sự chú ý khỏi kết quả và neo nó vào vẻ đẹp đang diễn ra.
+
+Khi bạn làm điều đó, Mạng lưới chú ý hướng ngoại kích hoạt. Thùy đảo và vỏ não cảm giác sơ cấp bật lên. Và Mạng trạng thái mặc định tắt. Bạn không còn phóng chiếu kết quả tương lai. Dopamine trở về trạng thái ổn định. Và điều kỳ diệu xảy ra: các điểm nóng khoái cảm bắt đầu hoạt động. Opioid nội sinh và G A B A được giải phóng. Bạn thực sự cảm nhận được niềm vui. Không phải cơn thèm rỗng. Mà là sự thỏa mãn thật.
+
+Tự hỏi bản thân trước mỗi trận đấu: "Mình đang xem vì mình muốn chiếm đoạt một kết quả, hay mình thực sự thích bóng đá vì nghệ thuật của nó?"
+
+Nếu câu trả lời là "muốn", bạn đang ở hệ thống Wanting. Dừng lại. Hít thở. Neo vào giác quan. Bạn có thể chuyển sang Liking. Không cần ý chí phi thường. Chỉ cần nhận ra.

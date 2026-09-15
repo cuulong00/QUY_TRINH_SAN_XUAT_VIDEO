@@ -1,0 +1,19 @@
+{
+  "id": "ken_burns_push_in",
+  "name": "Subtle Ken Burns Push-In",
+  "type": "motion",
+  "description": "Chuyển động zoom nhẹ nhàng từ 1.0x lên 1.12x trên trục thời gian để tranh vẽ hoặc clip tĩnh luôn sống động.",
+  "source_reference": "cutcli-cookbook/examples/20-knowledge-science-card",
+  "keyframes": [
+    {
+      "time_ratio": 0.0,
+      "scale": 1.0,
+      "easing": "ease-out"
+    },
+    {
+      "time_ratio": 1.0,
+      "scale": 1.12,
+      "easing": "linear"
+    }
+  ]
+}

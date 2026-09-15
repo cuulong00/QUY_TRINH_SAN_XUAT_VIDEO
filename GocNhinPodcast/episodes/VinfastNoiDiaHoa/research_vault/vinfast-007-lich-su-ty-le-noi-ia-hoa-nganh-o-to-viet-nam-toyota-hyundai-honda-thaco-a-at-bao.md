@@ -1,0 +1,177 @@
+---
+title: "Lịch sử tỷ lệ nội địa hóa ngành ô tô Việt Nam: Toyota, Hyundai, Honda, Thaco đã đạt bao nhiêu % sau bao nhiêu năm hoạt động tại VN? So với VinFast."
+type: nblm-answer
+asked_at: 2026-07-22T03:21:12.388Z
+notebook_url: "https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1"
+session_id: "4f59a68f"
+citations_count: 15
+sources:
+  - "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026"
+  - "Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới"
+  - "THACO INDUSTRIES phát triển Trung tâm sản xuất linh kiện phụ tùng mang tầm khu vực"
+  - "Noidiahoa-gocnhinpodcast.md"
+---
+
+# Lịch sử tỷ lệ nội địa hóa ngành ô tô Việt Nam: Toyota, Hyundai, Honda, Thaco đã đạt bao nhiêu % sau bao nhiêu năm hoạt động tại VN? So với VinFast.
+
+> Asked on 2026-07-22T03:21:12.388Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1)
+
+## Answer
+
+Thoughts
+Lịch sử phát triển của ngành công nghiệp ô tô Việt Nam đã trải qua hơn 3 thập kỷ, bắt đầu từ các liên doanh lắp ráp CKD thế hệ đầu tiên vào đầu những năm 1990
+1
+. Mặc dù đã có thời gian hoạt động rất dài, tỷ lệ nội địa hóa của các hãng xe truyền thống tại Việt Nam vẫn có sự phân hóa mạnh mẽ và thường gặp khó khăn trong việc gia tăng tỷ lệ do rào cản về quy mô thị trường tiêu thụ nội địa còn nhỏ
+1
+.
+Dưới đây là chi tiết tỷ lệ nội địa hóa của các hãng xe lớn so với sự bứt phá của VinFast dựa trên các nguồn tài liệu:
+I. Tỷ lệ nội địa hóa của các hãng xe lớn tại Việt Nam
+Hãng xe
+Thời gian hoạt động tại Việt Nam
+Tỷ lệ nội địa hóa đạt được
+Chi tiết cấu trúc nội địa hóa
+Toyota
+Hàng chục năm (là một trong những liên doanh ô tô lâu đời nhất từ thập niên 1990)
+2
+3
+.
+Trung bình khoảng 40% đối với hầu hết các dòng xe lắp ráp trong nước
+2
+. Riêng mẫu sedan cỡ B Toyota Vios đạt tỷ lệ cao nhất là 43% (tính theo phương pháp giá trị gia tăng nội địa ASEAN)
+2
+3
+.
+Sở hữu danh sách 58 nhà cung cấp linh kiện vệ tinh (trong đó có 12 nhà cung cấp thuần Việt), chế tạo khoảng 1.000 chi tiết linh kiện nội địa hóa
+2
+.
+Thaco (Trường Hải)
+Đầu tư vào lĩnh vực cơ khí chế tạo và công nghiệp hỗ trợ từ rất sớm để bổ trợ mảng lắp ráp. Sau 22 năm, hãng đã hình thành Trung tâm sản xuất linh kiện phụ tùng tại Chu Lai
+4
+.
+35% – 40% đối với các mẫu xe du lịch lắp ráp (Kia, Mazda)
+2
+. Vượt mức 50% đối với mảng xe thương mại (xe tải, xe khách), giúp hãng đủ điều kiện xuất khẩu nguyên chiếc sang ASEAN
+2
+.
+Chủ động tự sản xuất nhiều loại linh kiện phức tạp như ghế ngồi, linh kiện nội - ngoại thất, kính, dây điện, nhíp, thân vỏ ô tô, mâm xe, ống xả, máy lạnh du lịch/xe tải
+5
+6
+.
+Hyundai (TC Motor)
+Nhiều năm hoạt động lắp ráp xe du lịch tại Việt Nam
+7
+8
+.
+Dao động trung bình từ 20% đến 40% tùy thuộc vào từng dòng xe cụ thể
+2
+.
+Tập trung nội địa hóa các linh kiện có kích thước lớn hoặc chi phí vận chuyển cao như ghế ngồi, hệ thống dây điện và các chi tiết nhựa ngoại thất
+2
+.
+Honda
+Hàng chục năm vận hành nhà máy sản xuất tại Việt Nam
+3
+.
+Duy trì ở mức thấp, dao động quanh ngưỡng 20% đến 30% đối với mảng ô tô lắp ráp (mặc dù mảng xe máy đạt tỷ lệ rất cao trên 90%)
+2
+.
+Chủ yếu lắp ráp linh kiện dạng CKD (Completely Knocked Down) với hàm lượng phụ tùng nội địa hóa ô tô còn hạn chế
+2
+9
+.
+II. So sánh đối chiếu với VinFast: Sự bứt phá thần tốc
+Trong khi các thương hiệu ngoại và liên doanh truyền thống mất hàng thập kỷ để đạt mức nội địa hóa trung bình 20% – 40%
+2
+3
+, VinFast đã tạo nên một bước nhảy vọt mang tính cấu trúc:
+Thời gian hoạt động ngắn: VinFast được thành lập năm 2017, bắt đầu vận hành nhà máy từ năm 2019
+10
+11
+, và mới chỉ chính thức chuyển hướng hoàn toàn sang sản xuất xe thuần điện từ năm 2022 (tuổi đời thực sự trong ngành EV chỉ vài năm)
+12
+.
+Tỷ lệ nội địa hóa vượt trội: Tính đến cuối năm 2024, tỷ lệ nội địa hóa của xe điện VinFast đã đạt từ 60% đến 64%
+10
+13
+. Hãng đặt mục tiêu bứt phá nâng tỷ lệ này lên thêm 20%, đạt 80% – 84% vào năm 2026
+10
+13
+.
+Chiến lược cốt lõi tạo nên sự khác biệt:
+Làm chủ cơ khí và thân vỏ quy mô lớn: Tổ hợp nhà máy 335 ha tại Hải Phòng của VinFast được trang bị xưởng dập công nghệ Schuler (Đức) và xưởng hàn thân vỏ với 1.200 robot ABB tự động hóa 100%
+13
+14
+, giúp hãng tự dập, hàn khung gầm và vỏ xe tại chỗ
+13
+. Hãng cũng tự quấn dây và gia công động cơ điện (e-Motor) trong nước
+13
+.
+Tự chủ nguồn cung năng lượng (Pin): Pin chiếm từ 30% đến 40% tổng chi phí một chiếc xe điện
+13
+. VinFast đã khép kín chuỗi cung ứng bằng cách đưa nhà máy liên doanh sản xuất cell pin LFP VinES-Gotion tại Hà Tĩnh vào vận hành thương mại từ Quý 3 năm 2024
+. Việc tự sản xuất cell pin trực tiếp tại Việt Nam để thay thế nhập khẩu từ CATL hay LG Chem là nhân tố quyết định nhất giúp VinFast tăng mạnh hàm lượng nội địa hóa lên mức mục tiêu 84% vào năm 2026
+13
+.
+💡 Bạn có muốn tìm hiểu chi tiết hơn về cách tổ hợp sản xuất pin liên doanh VinES-Gotion tại Hà Tĩnh giúp VinFast đáp ứng tiêu chuẩn RVC 40% của Hiệp định ATIGA để hưởng thuế suất xuất khẩu 0% sang thị trường ASEAN không?
+
+## Sources
+
+### [1] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> -------------------------------------------------------------------------------- Phân tích lịch sử công nghiệp ô tô Việt Nam, tỷ lệ nội địa hóa và chính sách thuế tiêu dùng Bối cảnh lịch sử và tỷ lệ nội địa hóa của các nhà sản xuất ô tô lớn Ngành công nghiệp ô tô Việt Nam có lịch sử phát triển hơn 3 thập kỷ, bắt đầu từ các liên doanh lắp ráp CKD thế hệ đầu tiên vào đầu những năm 1990. Mặc dù Chính phủ đã ban hành nhiều chiến lược phát triển công nghiệp hỗ trợ, tỷ lệ nội địa hóa thực tế của các doanh nghiệp ô tô lớn tại Việt Nam vẫn có sự phân hóa mạnh mẽ do rào cản về quy mô thị trường tiêu thụ nội địa còn nhỏ [cite: 60].
+
+### [2] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Toyota Việt Nam: Là liên doanh ô tô có lịch sử lâu đời, tính đến các báo cáo gần nhất, tỷ lệ nội địa hóa trung bình đối với hầu hết các dòng xe lắp ráp trong nước của hãng đạt khoảng 40% [cite: 61]. Riêng mẫu xe sedan cỡ B Toyota Vios đạt tỷ lệ nội địa hóa cao nhất là 43% khi tính toán theo phương pháp giá trị gia tăng nội địa của ASEAN [cite: 61]. Toyota hiện sở hữu danh sách 58 nhà cung cấp linh kiện vệ tinh, trong đó có 12 nhà cung cấp thuần Việt, chế tạo khoảng 1.000 chi tiết linh kiện nội địa hóa [cite: 61]. Thaco (Trường Hải): Là doanh nghiệp tiên phong xây dựng tổ hợp công nghiệp hỗ trợ cơ khí quy mô lớn tại Khu kinh tế mở Chu Lai [cite: 60, 62]. Thaco đã đạt tỷ lệ nội địa hóa trung bình từ 35% đến 40% đối với các mẫu xe du lịch lắp ráp (như Kia, Mazda) [cite: 60]. Riêng đối với mảng xe thương mại (xe tải, xe khách), tỷ lệ nội địa hóa của Thaco vượt mức 50%, cho phép hãng xuất khẩu xe nguyên chiếc sang các thị trường Đông Nam Á [cite: 60]. Hyundai (TC Motor): Đạt tỷ lệ nội địa hóa trung bình dao động trong khoảng từ 20% đến 40% tùy thuộc vào từng dòng xe cụ thể. Hãng tập trung nội địa hóa các linh kiện có kích thước lớn hoặc chi phí vận chuyển cao như ghế ngồi, hệ thống dây điện và các chi tiết nhựa ngoại thất. Honda Việt Nam: Đạt tỷ lệ nội địa hóa rất cao đối với mảng sản xuất xe máy (lên đến hơn 90%), nhưng đối với mảng ô tô lắp ráp, tỷ lệ nội địa hóa của hãng vẫn duy trì ở mức thấp, dao động quanh ngưỡng 20% đến 30%.
+
+### [3] Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới
+
+> Trước khi Geleximco và tập đoàn Chery của Trung Quốc bắt tay xây dựng nhà máy lắp ráp ôtô các thương hiệu Omoda và Jaecoo tại Việt Nam, nhiều hãng xe quốc tế đã chọn nước ta làm địa chỉ thiết lập nhà máy. Chẳng hạn, Toyota , Honda , Suzuki, Isuzu hay Mercedes-Benz đã có hàng chục năm vận hành nhà máy tại Việt Nam. Nhiều cái tên trong số này hiện sở hữu tỷ lệ nội địa hóa khá cao. Tính đến tháng 2/2023, hầu hết ôtô thương hiệu Toyota lắp ráp tại Việt Nam có tỷ lệ nội địa hóa 40%. Riêng với Toyota Vios , tỷ lệ nội địa hóa trên mẫu sedan cỡ B lên đến 43% nếu tính theo công thức giá trị gia tăng của ASEAN. Toyota Vios có tỷ lệ nội địa hóa trên 40%. Ảnh: TMV.
+
+### [4] THACO INDUSTRIES phát triển Trung tâm sản xuất linh kiện phụ tùng mang tầm khu vực
+
+> THACO INDUSTRIES đang đẩy mạnh đầu tư vào lĩnh vực công nghiệp hỗ trợ (CNHT), hình thành Trung tâm sản xuất linh kiện phụ tùng (LKPT) mang tầm khu vực, gia tăng tỷ lệ nội địa hóa, góp phần tạo lợi thế cho ngành công nghiệp ô tô của đất nước và tham gia sâu vào chuỗi cung ứng toàn cầu. Các dự án mới của THACO INDUSTRIES được khánh thành và đưa vào hoạt động đầu năm 2025 Không ngừng mở rộng quy mô, nâng cấp công nghệ Đầu tư vào lĩnh vực cơ khí chế tạo và CNHT từ rất sớm để bổ trợ ngành sản xuất lắp ráp ô tô của THACO, sau 22 năm, cùng với Trung tâm cơ khí, THACO INDUSTRIES đã hình thành Trung tâm sản xuất LKPT tại Chu Lai (Quảng Nam) có tổng vốn đầu tư 550 triệu USD, gồm 12 nhà máy với công nghệ hiện đại, đạt tiêu chuẩn quốc tế.
+
+### [5] Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới
+
+> Danh sách các nhà cung cấp của Toyota tính đến tháng 2/2023 sở hữu 58 cái tên, trong đó có đến 12 nhà cung cấp thuần Việt. Tổng số sản phẩm nội địa hóa trên ôtô Toyota đạt 1.000 sản phẩm các loại. Thaco hiện là cái tên phụ trách lắp ráp ôtô của nhiều thương hiệu quốc tế tại Việt Nam, bao gồm Kia, Mazda, Peugeot và cả BMW. Thaco cũng là đơn vị đã có thể chủ động nhiều loại linh kiện và phụ tùng ôtô, như ghế, linh kiện nội thất, kính, dây điện, nhíp; linh kiện composite; sản xuất khuôn, máy lạnh xe du lịch, máy lạnh xe tải, bus; linh kiện nhựa; thân vỏ ôtô...
+
+### [6] THACO INDUSTRIES phát triển Trung tâm sản xuất linh kiện phụ tùng mang tầm khu vực
+
+> Máy dập 6.300 tấn tại Nhà máy Sản xuất Linh kiện khung thân vỏ ô tô Dây chuyền dập liên hợp tại Nhà máy Sản xuất Linh kiện khung thân vỏ ô tô THACO INDUSTRIES hiện là đối tác của các thương hiệu ô tô lớn như Kia, Mazda, BMW, Peugeot, Hyundai, Toyota, Isuzu… về cung ứng LKPT. Các sản phẩm gồm: linh kiện khung thân vỏ (linh kiện thân vỏ, thùng xe, khung xương táp lô, nhíp…), linh kiện nội - ngoại thất (ghế, cản xe, kính, la phông trần, táp-pi sàn, linh kiện nhựa nội - ngoại thất…), linh kiện hệ thống động lực (mâm xe, thùng nhiên liệu, ống xả…), linh kiện hệ thống điện - điện lạnh (cụm dây điện, máy lạnh, dàn két nóng…); đồng thời xuất khẩu sang các thị trường Bắc Mỹ, Úc, Đức, Hàn Quốc, Nhật Bản, Ba Lan và các nước ASEAN.
+
+### [7] Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới
+
+> Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? | Znews.vn Bạn có thể chuyển sang phiên bản mobile rút gọn của Tri thức trực tuyến nếu mạng chậm. Đóng Tạp chí tri thức trực tuyến Xuất bản Kinh doanh Sức khỏe Thể thao Đời sống Công nghệ Giải trí Lifestyle M Xuất bản Kinh doanh Công nghệ Đời sống Tác giả Sức khỏe Giải trí Thể thao Thế giới sách Du lịch Lifestyle Xe Cuốn sách tôi đọc Văn hóa đọc Xã hội Cải chính Nghiên cứu xuất bản Pháp luật Thế giới Giáo dục
+
+### [8] Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới
+
+> Xe Ôtô Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? Phúc Hậu Thứ hai, 13/10/2025 18:58 (GMT+7) 18:58 13/10/2025 Tỷ lệ nội địa hóa của một số hãng xe tại Việt Nam không thấp như một số ý kiến. Có hãng đặt mục tiêu nâng tỷ lệ này lên 80% ngay trong năm tới. Theo báo cáo của Cục Thống kê - Bộ Tài chính, sản lượng ôtô nội địa tại Việt Nam trong 3 quý đầu năm ước đạt 338.400 xe, tăng trưởng hơn 52% so với cùng kỳ năm ngoái. Hoạt động lắp ráp ôtô trong nước ngày một phát triển, nhưng vị thế ngành công nghiệp ôtô Việt Nam nhìn chung chưa thật sự cao và còn tiềm năng lớn.
+
+### [9] Noidiahoa-gocnhinpodcast.md
+
+> Luận điệu "hàng Tàu dán nhãn" xuất phát từ việc người tiêu dùng chưa phân biệt rõ giữa ba khái niệm: nhập khẩu nguyên chiếc (CBU), lắp ráp linh kiện dạng CKD (Completely Knocked Down) và sản xuất công nghiệp với chuỗi cung ứng toàn cầu. Trên thực tế, ngành ô tô hiện đại không còn tồn tại khái niệm một quốc gia tự sản xuất 100% mọi linh kiện phức tạp mà là sự tích hợp chuỗi giá trị toàn cầu. Về mặt tiêu chuẩn kỹ thuật và độ an toàn thực tế, chất lượng sản phẩm VinFast đã được xác nhận qua các quy trình kiểm thử độc lập quốc tế. Tại khu vực Đông Nam Á, các mẫu xe điện của VinFast như VF 8 đã đạt chứng nhận an toàn 5 sao tối đa từ Chương trình Đánh giá Xe mới Đông Nam Á (ASEAN NCAP) với các tiêu chí khắt khe về bảo vệ người lớn, trẻ em và hệ thống hỗ trợ an toàn1. Bên cạnh các bài kiểm tra phòng thí nghiệm, năng lực an toàn và độ tin cậy hệ thống của xe VinFast cũng đã trải qua thử thách thực tế trong các sự cố giao thông phức tạp. Điển hình là vụ tai nạn giao thông liên quan đến xe taxi điện Green SM (sử dụng xe VinFast) tại điểm giao cắt đường sắt ở Bekasi Timur, Indonesia4. Trong phiên điều trần của Ủy ban V Quốc hội Indonesia và báo cáo từ Ủy ban An toàn Giao thông Quốc gia Indonesia (KNKT), kết quả điều tra chính thức xác định chiếc xe VinFast không gặp bất kỳ lỗi hệ thống hay sự cố kỹ thuật nào4. Nguyên nhân sự cố được xác định xuất phát từ bất cập của hệ thống tín hiệu đường sắt hạ tầng địa phương và yếu tố tâm lý của tài xế4. Sự kiện này là một bằng chứng thực tế chứng minh rằng hệ thống điện tử, phanh và cấu trúc an toàn thụ động của xe VinFast đáp ứng đầy đủ các tiêu chuẩn vận hành an toàn khắt khe tại các thị trường quốc tế1.
+
+### [10] Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới
+
+> Thaco cũng cung ứng linh kiện OEM cho nhiều hãng ôtô và xe máy tại Việt Nam như Hyundai, Toyota, Isuzu, Piaggio cùng với loạt doanh nghiệp FDI khác, thậm chí đã xuất khẩu sang các thị trường nước ngoài bao gồm Mỹ, Canada, Nhật Bản, Hàn Quốc, Australia... Cuối năm 2024, VinFast cho biết tỷ lệ nội địa hóa của ôtô điện thương hiệu đã đạt hơn 60%, trong đó có thân vỏ, động cơ, trần xe hay bộ giảm xóc. VinFast đặt mục tiêu nâng tỷ lệ này lên thêm 20%, dự kiến đạt tỷ lệ nội địa hóa 80% vào năm 2026. VinFast cho biết tỷ lệ nội địa hóa trên ôtô của hãng hiện đạt trên 60%. Ảnh: VinFast.
+
+### [11] Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới
+
+> Việc VinFast sở hữu tỷ lệ nội địa hóa hơn 60% là đáng ghi nhận, bởi hãng này chính thức thành lập vào năm 2017, nhà máy chỉ bắt đầu đi vào hoạt động từ năm 2019. Sau khoảng 6 năm, VinFast đã đạt tỷ lệ nội địa hóa trên 60%, phản ánh nỗ lực của hãng trong gia tăng tỷ lệ nội địa hóa. Cơ sở nào để gia tăng tỷ lệ nội địa hóa Tỷ lệ nội địa hóa có thể xem là một trong những yếu tố giúp ngành công nghiệp ôtô của một quốc gia "tăng hạng". Ở Indonesia và Thái Lan, có khoảng 90% linh kiện, phụ tùng trên ôtô được sản xuất trong nước.
+
+### [12] Noidiahoa-gocnhinpodcast.md
+
+> So Sánh Đa Chiều: VinFast, Tesla Và BYD Về Tuổi Đời, Xuất Thân Và Chuỗi Cung Ứng Sự khác biệt về tỷ lệ nội địa hóa và mô hình sản xuất giữa VinFast, Tesla và BYD bắt nguồn từ lịch sử thành lập, nền tảng khởi đầu và hệ sinh thái công nghiệp phụ trợ của từng quốc gia. Thành lập năm 1995 với xuất thân là một nhà sản xuất pin điện thoại di động và năng lượng, BYD tham gia vào ngành sản xuất ô tô từ năm 200319. Với gần 30 năm kinh nghiệm trong lĩnh vực hóa học pin và hơn 20 năm làm ô tô, BYD lựa chọn mô hình tích hợp dọc tuyệt đối (Vertical Integration)19. BYD tự sản xuất khoảng 75% linh kiện cấu thành chiếc xe ngay trong nội bộ tập đoàn, từ việc khai thác mỏ Lithium, sản xuất Pin Blade, tự thiết kế bán dẫn/chip IGBT (BYD Semiconductor), đến sản xuất động cơ và hệ thống truyền động 8-trong-119. BYD hầu như không phụ thuộc vào các nhà cung ứng Tier-1 bên ngoài, giúp hãng kiểm soát tối đa chi phí và chủ động nguồn cung21. Tesla được thành lập năm 2003 tại Thung lũng Silicon với bản chất là một công ty công nghệ và phần mềm23. Mặc dù nhà máy Fremont tại Mỹ có tỷ lệ tự làm linh kiện nhất định, điểm sáng về tỷ lệ nội địa hóa của Tesla lại nằm ở nhà máy Gigafactory Thượng Hải, nơi đạt tỷ lệ nội địa hóa linh kiện vượt quá 95%23. Tesla đạt được con số 95% này không phải nhờ tự sản xuất toàn bộ linh kiện trong nhà máy, mà nhờ đặt đại bản doanh vào giữa hệ sinh thái công nghiệp phụ trợ ô tô phát triển của vùng Đồng bằng sông Dương Tử27. Hơn 400 nhà cung cấp Trung Quốc đã cung ứng trực tiếp linh kiện cho Tesla, trong đó hơn 60 nhà cung ứng đã tham gia vào chuỗi cung ứng toàn cầu của hãng23. Tesla tập trung nguồn lực nội bộ vào thiết kế kiến trúc xe, phần mềm tự lái (FSD), chip AI và công nghệ đúc nguyên khối (Megacasting). VinFast được thành lập năm 2017 với xuất thân từ Vingroup – một tập đoàn đa ngành khởi đầu từ bất động sản và dịch vụ29. VinFast chính thức chuyển hướng hoàn toàn sang sản xuất xe thuần điện từ năm 2022, nghĩa là tuổi đời thực sự trong ngành xe điện chỉ mới đạt khoảng vài năm29. Khởi đầu tại một quốc gia chưa có nền công nghiệp phụ trợ ô tô phát triển (tỷ lệ nội địa hóa chung của Việt Nam trước đó chỉ khoảng 20%), VinFast áp dụng mô hình tích hợp hệ thống toàn cầu kết hợp tự sản xuất nội địa8. Mức 60% - 64% hiện tại và hướng tới 84% năm 2026 thể hiện tốc độ dịch chuyển từ việc phụ thuộc vào chuỗi cung ứng quốc tế sang tự chủ sản xuất trong nước7.
+
+### [13] Noidiahoa-gocnhinpodcast.md
+
+> Bản Chất Tỷ Lệ Nội Địa Hóa 60% - 64% Và Lộ Trình Đạt 84% Đến Năm 2026 Để hiểu đúng về tỷ lệ nội địa hóa, cần làm rõ công thức tính toán trong ngành ô tô. Tỷ lệ nội địa hóa không tính bằng số lượng chi tiết đơn lẻ mà được cấu thành từ giá trị gia tăng, hàm lượng công nghệ và chi phí sản xuất thực hiện tại nội địa. Đến cuối năm 2024, VinFast công bố đã đạt tỷ lệ nội địa hóa từ hơn 60% đến 64% trên các dòng xe điện, tạo ra sự thay đổi lớn so với mức trung bình chỉ khoảng 20% của ngành công nghiệp phụ trợ Việt Nam trước đây7. Con số 60% - 64% hiện tại có nghĩa là VinFast đã làm chủ và trực tiếp sản xuất các cấu phần có khối lượng, kích thước và chi phí sản xuất lớn nhất ngay tại Tổ hợp nhà máy Hải Phòng7. Xưởng dập công nghệ Schuler (Đức) và Xưởng hàn thân vỏ với 1.200 robot ABB tự động hóa 100% đảm nhiệm việc tự sản xuất toàn bộ kết cấu khung gầm và mảng dập thân vỏ12. Quá trình cơ khí hóa, quấn dây và lắp ráp động cơ điện (e-Motor) được thực hiện tại xưởng sản xuất động cơ riêng biệt trong tổ hợp10. Các bộ phận như ghế ngồi, trần xe, bảng điều khiển, vành xe, hệ thống phanh, giảm xóc, các chi tiết nhựa, hệ thống đèn xe và công đoạn đóng gói khối pin (Battery Pack) cũng đều được hoàn thiện trong nước7. Lộ trình nâng tỷ lệ nội địa hóa từ mức 60% - 64% hiện tại lên 84% vào năm 2026 đòi hỏi VinFast phải nội địa hóa các linh kiện có giá trị kinh tế và giá trị công nghệ cao nhất – nơi tập trung cấu thành chi phí của một chiếc xe điện7. Pin chiếm từ 30% đến 40% tổng giá trị chiếc xe điện. Để nâng tỷ lệ nội địa hóa thêm khoảng 20%, nhân tố quyết định là việc đưa các nhà máy sản xuất cell pin (như nhà máy sản xuất cell pin LFP hợp tác với Gotion tại Hà Tĩnh) đi vào vận hành thương mại quy mô lớn10. Việc tự sản xuất cell pin tại Việt Nam thay vì nhập khẩu cell từ các đối tác CATL hay LG Chem sẽ đóng góp mức tăng trưởng tỷ lệ nội địa hóa cao nhất15. Song song đó, VinFast mở rộng quy mô Xưởng Thiết bị điện tử tại Hải Phòng để tự sản xuất các bo mạch điều khiển động cơ, hệ thống quản lý pin (BMS) và các cụm điều khiển thông minh nội địa12. Hãng cũng tiến tới sản xuất nội địa hóa toàn bộ các chi tiết phanh lái, kính gương, các cụm cơ cấu treo cao cấp và tối ưu hóa chuỗi cung ứng vật liệu đầu vào trong nước7.
+
+### [14] Noidiahoa-gocnhinpodcast.md
+
+> Chiến Lược "Đứng Trên Vai Người Khổng Lồ" Và Lộ Trình Tự Chủ Công Nghệ Một chiếc xe điện thông minh hiện đại chứa đựng từ 20.000 đến 30.000 linh kiện và được bảo hộ bởi hàng chục nghìn bằng sáng chế đăng ký rải rác ở các lĩnh vực: hóa học vật liệu pin, điện tử công suất, thuật toán điều khiển động cơ, phần mềm ADAS, thiết kế khí động học và an toàn va chạm. Nếu một thương hiệu bắt đầu hoàn toàn từ con số 0 và quyết định tự nghiên cứu toàn bộ các công nghệ cốt lõi để không sử dụng linh kiện mua ngoài hay hợp tác chuyển giao, doanh nghiệp đó sẽ mất khoảng 15 đến 20 năm chỉ để xây dựng hạ tầng R&D, thử nghiệm và tích lũy đủ số lượng bằng sáng chế nền tảng trước khi thương mại hóa chiếc xe đầu tiên. Trong bối cảnh ngành ô tô thế giới chuyển dịch nhanh chóng, việc mất 15 đến 20 năm đồng nghĩa với sự thất bại chắc chắn trước khi sản phẩm kịp ra mắt. Ngay cả tập đoàn công nghệ Apple sau một thập kỷ nghiên cứu dự án xe điện Titan với ngân sách hàng tỷ USD cũng đã phải tuyên bố hủy bỏ kế hoạch vì sự phức tạp của chuỗi cung ứng và rào cản công nghệ cơ khí - điện tử. Nhận thức rõ bài toán thời gian và rào cản công nghệ, VinFast chọn phương pháp luận chiến lược mà các thương hiệu như Hyundai hay Kia từng thực hiện thành công: "Đứng trên vai người khổng lồ" để rút ngắn thời gian phát triển33. Tiến trình này được thực hiện bài bản qua ba giai đoạn chiến lược liền mạch33. Ở giai đoạn đầu tiên, VinFast tiến hành mua bản quyền và hợp tác với các tập đoàn Tier-1 hàng đầu thế giới17. Hãng hợp tác với các Studio lừng danh Ý như Pininfarina và Italdesign để tạo dựng ngôn ngữ thiết kế17; thuê Magna Steyr tư vấn kỹ thuật tích hợp hệ thống17; mua bản quyền nền tảng từ BMW32; ký kết hợp tác toàn diện với Bosch và ZF để cung cấp phần mềm, ECU, hệ thống phanh17; và hợp tác với CATL, Gotion, LG Chem để cung ứng cell pin tiêu chuẩn15. Chuyển sang giai đoạn thứ hai, VinFast tập trung tích hợp hệ thống và tự chủ sản xuất quy mô lớn33. Hãng thâu tóm quy trình, xây dựng Tổ hợp nhà máy 335 ha tại Hải Phòng với mức độ tự động hóa cao để làm chủ kỹ thuật dập, hàn, sơn và lắp ráp12. Từ nền tảng này, VinFast từng bước nội địa hóa các linh kiện có dung lượng thị trường lớn, nâng tỷ lệ nội địa hóa từ mức 20% ban đầu lên 60% - 64% và đặt mục tiêu 84%7. Ở giai đoạn thứ ba, VinFast đẩy mạnh đầu tư R&D nội bộ và sáng tạo công nghệ độc quyền33. Hãng đã đầu tư hơn 1 tỷ USD cho hoạt động R&D35, kết hợp với các công ty công nghệ thuộc Vingroup như VinAI và VinBigData để phát triển các tính năng trợ lý ảo tiếng Việt, hệ thống quan sát toàn cảnh và thuật toán xử lý hình ảnh30. Đồng thời, VinFast thành lập Viện Nghiên cứu ADAS/AD tại Đức quy tụ các chuyên gia quốc tế để tự chủ phát triển hệ thống lái tự động Level 2 hiện tại và hướng tới Level 3/Level 4 trong tương lai18. Bằng việc kết hợp nguồn lực quốc tế với khả năng thực thi nhanh chóng tại nội địa, VinFast rút ngắn thời gian phát triển xe từ 5 năm xuống còn chưa đầy 2 năm, tạo ra năng lực cạnh tranh bình đẳng về mặt công nghệ với các hãng xe có lịch sử lâu đời.
+
+### [15] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Dự án liên doanh sản xuất pin VinES-Gotion tại Vũng Áng và lộ trình tự chủ nguồn cung Để hiện thực hóa chiến lược tự chủ chuỗi cung ứng năng lượng và tối ưu hóa cơ cấu giá thành sản phẩm xe điện, Tập đoàn Vingroup đã triển khai dự án xây dựng tổ hợp sản xuất cell pin xe điện quy mô lớn tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh [cite: 28, 29, 30]. Dự án này được vận hành dưới hình thức liên doanh giữa VinES Energy Solutions (thành viên Vingroup, nắm giữ 49% cổ phần) và Gotion High-Tech (nhà sản xuất pin hàng đầu thế giới của Trung Quốc, nắm giữ 51% cổ phần) [cite: 28, 31]. Dự án chính thức được khởi công xây dựng vào ngày 18 tháng 11 năm 2022 trên khu đất quy hoạch CN4-5 thuộc Khu công nghiệp trung tâm Vũng Áng với diện tích 14 ha [cite: 29, 32, 33]. Tổng mức vốn đầu tư của dự án đạt hơn 6.329 tỷ đồng (tương đương khoảng 275 triệu USD) [cite: 29, 32, 33].

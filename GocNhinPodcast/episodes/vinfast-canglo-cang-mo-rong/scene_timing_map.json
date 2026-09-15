@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản đồ thế giới tối giản làm bằng những đường nét đứt, với biểu tượng chữ V phát sáng đỏ ở trung tâm Hà Nội, các mũi tên đỏ mở rộng hướng ra Ấn Độ và Indonesia.",
+    "sentences": [
+      "Tại sao VinFast năm nào cũng báo lỗ kỷ lục, nhưng lại vẫn không ngừng mở rộng nhà máy ra nước ngoài?"
+    ],
+    "base_english_prompt": "A slow camera panning showing a minimalist world map made of dark warm charcoal lines with a glowing crimson coral red letter V emblem pulsing in Hanoi, as red dotted vector lines stretch outward across the oceans towards India and Indonesia. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Cận cảnh bóng đen của một người đàn ông Việt Nam đang nhìn đăm chiêu vào màn hình điện thoại phát ra ánh sáng đỏ nhạt, phản chiếu các dấu chấm hỏi màu kem.",
+    "sentences": [
+      "Đây đang là câu hỏi lớn gây tranh cãi dữ dội trong dư luận suốt thời gian qua."
+    ],
+    "base_english_prompt": "A steady close-up shot showing the solid black silhouette of a Vietnamese man with Asian features staring intently at a glowing phone screen in a dark room, with tiny glowing warm cream question marks floating around him. Dark warm charcoal background, warm cream outlines, subtle glowing crimson coral red highlights reflecting on his face, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một đường biểu đồ màu đỏ rực dốc ngược đi xuống, cắt ngang qua những dải đồ họa tối màu của bảng cân đối kế toán.",
+    "sentences": [
+      "Con số lỗ ròng năm 2025 của hãng xe này chạm mốc đáng báo động"
+    ],
+    "base_english_prompt": "A slow camera panning showing a minimalist financial chart with a sharp glowing crimson coral red line plunging downwards, cutting through neat grids of dark olive green database columns. Muted dark olive green background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Dòng chữ tiếng Anh NET LOSS: 120T VND hiển thị ở chính giữa màn hình với phông chữ sans-serif tối giản trên nền kết cấu tài liệu báo cáo kiểm toán bị xé rách.",
+    "sentences": [
+      "lên tới hơn 120.000 tỷ đồng theo chuẩn báo cáo kiểm toán."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English text \"NET LOSS: 120T VND\" in clean bold minimal sans-serif font centered in the upper third, set against a background of abstract paper texture of an audit report with glowing crimson coral red stamps. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một chiếc cân tài chính bằng kim loại màu đen bị lệch hẳn sang một bên, trên đĩa cân nặng hiển thị chữ GROSS LOSS phát sáng đỏ, đĩa bên kia trống rỗng.",
+    "sentences": [
+      "Bên cạnh đó, khoản lỗ gộp cũng phình to vượt ngưỡng 38.000 tỷ đồng theo chuẩn kế toán Mỹ."
+    ],
+    "base_english_prompt": "A steady shot showing a classic heavy iron balance scale tipped heavily to one side, with a glowing crimson coral red weight on it containing the English text \"GROSS LOSS\" in a clean sans-serif font. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Các trang báo tài chính màu kem chồng chất lên nhau, trôi nổi trong không gian tối tăm, với các tiêu đề tiếng Anh dạng CRISIS và DEFICIT màu đỏ lòe nhấp nháy.",
+    "sentences": [
+      "Những tiêu đề báo chí giật tít hoang mang xuất hiện dồn dập trên các trang tin tài chính."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple layers of abstract financial newspaper clippings floating in a dark void, with bold English headlines like \"DEFICIT\" and \"WARNING\" flashing in red. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Bóng đen của một chiếc xe ô tô hiện đại nằm cô độc dưới một ngọn đèn đường mờ ảo trong đêm tối, xung quanh là làn khói mờ ảo màu kem nhạt.",
+    "sentences": [
+      "Nhiều người lập tức đặt câu hỏi hoài nghi về khả năng sinh tồn của thương hiệu ô tô Việt."
+    ],
+    "base_english_prompt": "A steady shot showing the sleek black silhouette of a modern electric car parked lonely under a single dim streetlamp, surrounded by swirling warm cream fog in the dark. Dark warm charcoal background, warm cream outlines, subtle glowing crimson coral red highlights on the car taillights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Hình ảnh đồ họa của một nhà máy công nghiệp khổng lồ với các cột khói tối giản vươn lên, bóng một nhóm kỹ sư đang chỉ tay về phía trước.",
+    "sentences": [
+      "Họ tự hỏi tại sao một doanh nghiệp đang gánh khoản lỗ khổng lồ như vậy lại liên tục khánh thành nhà máy mới"
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive modern factory facade with clean architectural line art, as towering metal structures rise into the dark sky with minimal light lines. Dark warm charcoal background, warm cream outlines, subtle glowing crimson coral red accents on the factory windows, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một chuỗi ba biểu tượng địa điểm màu đỏ rực cắm xuống bản đồ đứt nét tại vị trí Ấn Độ, Indonesia và Kazakhstan, mỗi địa điểm hiện tên tiếng Anh không dấu tương ứng.",
+    "sentences": [
+      "từ bang Tamil Nadu của Ấn Độ, vùng Tây Java của Indonesia cho đến tận thành phố Almaty của Kazakhstan."
+    ],
+    "base_english_prompt": "A slow camera panning across a minimalist abstract map showing three glowing crimson coral red location pins dropping onto \"TAMIL NADU\", \"WEST JAVA\", and \"ALMATY\" in clean sans-serif text. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một mũi tên đồ họa màu đỏ vươn thẳng lên trên, xuyên qua các lớp mây đen tích tụ của thị trường.",
+    "sentences": [
+      "Thậm chí, đà tăng trưởng doanh số của hãng vẫn tiếp tục bùng nổ trong nửa đầu năm 2026"
+    ],
+    "base_english_prompt": "A subtle slow pan right showing a glowing crimson coral red arrow surging upward at a steep angle, piercing through dark storm clouds represented by layered charcoal paper cutouts. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Chữ số lớn 100,000 EVs hiển thị sáng rực màu kem ở chính giữa màn hình, xung quanh là hàng trăm bóng xe ô tô nhỏ màu xám bạc xếp thành hàng lối ngay ngắn.",
+    "sentences": [
+      "với lũy kế lượng xe điện bàn giao trên toàn cầu riêng 5 tháng đầu năm 2026 đã đạt gần 100.000 xe."
+    ],
+    "base_english_prompt": "A steady shot showing the bold English text \"100,000 EVs\" in a clean modern sans-serif font centered in the upper third, with rows of silver-gray electric car silhouettes lined up below in a structured pattern. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một bàn cờ vua tối giản bằng gỗ tối màu, một quân cờ vua màu đỏ đại diện cho Vingroup đang đi một nước đi bất ngờ, phá vỡ trật tự của các quân cờ màu kem thông thường.",
+    "sentences": [
+      "Nhìn từ bên ngoài, chuỗi hành động này có vẻ là một chiến lược liều lĩnh và phi logic của tập đoàn mẹ Vingroup."
+    ],
+    "base_english_prompt": "A slow camera panning showing a dark minimalist chessboard where a single glowing crimson coral red king piece stands out of alignment from the neat lines of cream-colored chess pieces. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Cận cảnh các bánh răng cơ khí bằng thép màu đen khổng lồ đang khớp vào nhau và quay đều đặn một cách lạnh lùng, bất chấp bụi sáng đỏ xung quanh bay lơ lửng.",
+    "sentences": [
+      "Thế nhưng, thế giới công nghiệp nặng không vận hành bằng những cảm xúc ngắn hạn của thị trường."
+    ],
+    "base_english_prompt": "A steady close-up shot showing massive heavy metal gears interlocking and rotating slowly in a dark factory environment, with a cold industrial atmosphere. Dark warm charcoal background, warm cream outlines, subtle glowing crimson coral red embers floating in the air, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Các công thức toán học và biểu đồ kinh tế phức tạp được vẽ bằng những nét đứt màu kem mảnh mai trên một mặt phẳng tối, phát sáng đỏ nhẹ ở các điểm giao nhau.",
+    "sentences": [
+      "Đằng sau nghịch lý càng lỗ càng mở rộng là một quy luật toán học tàn khốc của nền kinh tế quy mô."
+    ],
+    "base_english_prompt": "A slow camera panning showing abstract mathematical equations and coordinate graphs glowing in warm cream on a dark charcoal grid, with intersection points flashing in red. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một khối sắt lớn màu đen đại diện cho DEPRECIATION đang từ từ hạ xuống, đè nén lên các khối hộp màu kem yếu ớt phía dưới.",
+    "sentences": [
+      "Trong cuộc chơi công nghiệp nặng, đi chậm và tìm kiếm sự an toàn chắc chắn sẽ bị nghiền nát bởi khấu hao tĩnh."
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive dark iron hydraulic press labeled \"DEPRECIATION\" in clean sans-serif font slowly descending upon fragile warm cream cubical structures. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning light reflections, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Con đường duy nhất để thoát khỏi thung lũng chết là phải bành trướng sản lượng vượt ngưỡng hòa vốn.",
+    "sentences": [
+      "Con đường duy nhất để thoát khỏi thung lũng chết là phải bành trướng sản lượng vượt ngưỡng hòa vốn."
+    ],
+    "base_english_prompt": "A slow camera panning showing a narrow glowing crimson coral red path winding upward out of a deep dark charcoal canyon towards a bright horizon. Dark warm charcoal background, warm cream outlines, glowing crimson coral red path, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một sơ đồ khối cấu trúc doanh nghiệp tối giản bằng các dải màu đen đang tự động sắp xếp lại, các đường nối chuyển màu đỏ rực rỡ.",
+    "sentences": [
+      "Đó là lý do tập đoàn mẹ quyết định tái cấu trúc toàn diện"
+    ],
+    "base_english_prompt": "A subtle slow pan right showing an abstract geometric organizational chart composed of charcoal blocks shifting and rearranging itself, with glowing lines connecting the blocks. Dark warm charcoal background, warm cream outlines, glowing crimson coral red lines, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một khối lập phương màu đỏ rực ghi chữ DEBT: 182T đang bị cắt rời và trượt ra khỏi một khối kiến trúc tài chính màu kem lớn.",
+    "sentences": [
+      "tách khoản nợ sản xuất khổng lồ trị giá 182.000 tỷ đồng ra khỏi bảng cân đối."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing crimson coral red block labeled with the English text \"DEBT: 182T\" sliding away and separating from a larger warm cream building structure. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Một bệ đỡ cơ khí lớn đang nâng nhẹ một khối nhà máy Hải Phòng lên cao, trong khi quả tạ nặng nề AMORTIZATION được hạ nhẹ xuống mặt đất.",
+    "sentences": [
+      "Bằng cách chuyển giao nhà máy và chuyển đổi mô hình hoạt động, họ hướng tới mục tiêu giảm bớt gánh nặng chi phí khấu hao."
+    ],
+    "base_english_prompt": "A slow camera panning showing a clean vector schematic of a factory being raised by a modern mechanical crane, as a heavy black weight labeled \"AMORTIZATION\" is lowered gently. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Một chiếc micrô thu âm cổ điển màu đen đặt trang trọng trên bàn gỗ tối màu, phát ra các sóng âm thanh dạng vòng tròn đồng tâm màu đỏ và kem ấm áp.",
+    "sentences": [
+      "Chào mừng các bạn đã quay trở lại với Góc Nhìn Podcast."
+    ],
+    "base_english_prompt": "A steady shot showing a retro studio microphone in solid black silhouette standing on a wooden table, with warm cream concentric soundwaves expanding into the dark air. Dark warm charcoal background, warm cream outlines, glowing crimson coral red accent lights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Một khối đa diện hình lập phương màu đen lớn với biểu tượng chữ V phát sáng đỏ ở giữa đang từ từ xoay nhẹ, để lộ các cấu trúc dữ liệu vàng kem bên trong.",
+    "sentences": [
+      "Hôm nay, chúng ta sẽ cùng giải mã nghịch lý tài chính độc đáo của VinFast"
+    ],
+    "base_english_prompt": "A slow camera panning showing a large mysterious black geometric puzzle cube with a glowing red letter V on one side rotating, revealing intricate gold and cream interior circuits. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Hai logo trừu tượng tối giản đại diện cho Samsung và Amazon xếp cạnh nhau trên một nền gạch tài liệu tài chính cổ.",
+    "sentences": [
+      "cùng các bài học kinh tế vĩ mô kinh điển từ Samsung và Amazon để hiểu bản chất cuộc chơi quy mô."
+    ],
+    "base_english_prompt": "A subtle slow pan left showing two abstract minimalist corporate logos: a clean oval frame and a glowing curved arrow, placed side-by-side on a textured dark wall with grids. Dark warm charcoal background, warm cream outlines, glowing crimson coral red accents, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một cuốn sổ tay ghi chép màu kem mở sẵn trên bàn, trên trang giấy vẽ các biểu đồ dòng chảy tài chính vĩ mô tối giản bằng mực đen sắc nét.",
+    "sentences": [
+      "Nếu bạn thấy những phân tích độc lập này mang lại giá trị cho mình"
+    ],
+    "base_english_prompt": "A steady shot showing an open notebook with detailed hand-drawn economic charts and notes on its warm cream pages, lying on a dark textured wooden desk. Dark warm charcoal background, warm cream outlines, subtle red highlight lines, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Biểu tượng nút Subscribe tiếng Anh SUBSCRIBE nổi bật màu đỏ gạch, xung quanh là biểu tượng quả chuông màu kem phát sáng nhấp nháy nhẹ.",
+    "sentences": [
+      "một lượt đăng ký kênh chính là sự khích lệ lớn để đội ngũ biên tập tiếp tục hoàn thiện các nội dung tiếp theo."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English word \"SUBSCRIBE\" inside a clean minimalist red button, with a glowing warm cream bell icon pulsing beside it. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một thấu kính kính hiển vi lớn đang tập trung chiếu một chùm sáng đỏ rực xuống một đống tài liệu báo cáo tài chính tối sầm phía dưới.",
+    "sentences": [
+      "Nhưng trước khi đi sâu vào bản chất kinh tế học của trò chơi bành trướng, chúng ta cần nhìn thẳng vào số lỗ"
+    ],
+    "base_english_prompt": "A steady shot showing a glowing beam of crimson light focused through a glass lens onto a pile of dark financial documents, creating a sharp red spotlight effect. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Các sợi chỉ đỏ rực sáng đại diện cho dòng tiền luồn lách chảy qua các ống dẫn cơ khí bằng kim loại màu đen, hướng sâu vào lòng đất tối.",
+    "sentences": [
+      "kỷ lục ngay trong báo cáo tài chính của hãng xe này để xem bản chất dòng tiền thực sự đang chảy đi đâu."
+    ],
+    "base_english_prompt": "A slow camera panning showing glowing crimson red fluid streams pulsing and flowing through complex industrial pipe networks on a dark wall. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản in báo cáo tài chính tài liệu tối sầm, một bàn tay bóng đen đang đặt mạnh một chiếc dấu mộc màu đỏ rực có khắc chữ tiếng Anh GROSS LOSS xuống trang giấy.",
+    "sentences": [
+      "Con số lỗ gộp hơn 38.000 tỷ đồng của VinFast trong năm 2025 đang là tâm điểm hoang mang của dư luận."
+    ],
+    "base_english_prompt": "A steady close-up shot showing a dark silhouette of a hand placing a glowing crimson coral red stamp on a financial document, leaving the clean English word \"GROSS LOSS\" in bold sans-serif. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một biểu đồ thanh dọc tối giản biểu thị sự tăng trưởng của khoản lỗ gộp, với thanh năm 2025 cao hơn năm trước 52% và phát sáng đỏ.",
+    "sentences": [
+      "Nhìn bề ngoài, khoản lỗ gộp theo chuẩn kế toán Mỹ này đã tăng hơn 52% so với mức của năm trước đó."
+    ],
+    "base_english_prompt": "A subtle slow pan right showing two minimalist bar charts labeled \"2024\" and \"2025\" in clean sans-serif font, where the 2025 bar is 52 percent taller and glows with a warning red light. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC029",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Hình ảnh bóng đen của một chiếc xe ô tô bị bao vây bởi các mảnh vỡ hình học sắc nhọn màu than.",
+    "sentences": [
+      "Nhưng nếu chỉ nhìn vào con số tuyệt đối này để kết luận hãng xe đang sụp đổ"
+    ],
+    "base_english_prompt": "A steady shot showing a solid black silhouette of a modern electric car surrounded by sharp geometric shards of dark charcoal floating in space, creating an intense atmosphere. Dark warm charcoal background, warm cream outlines, subtle glowing crimson coral red embers, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC030",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Một thấu kính lúp chiếu sáng rực một khu vực nhỏ, để lộ một dải sáng màu xanh ngọc nằm ẩn dưới lớp nền màu đỏ tối.",
+    "sentences": [
+      "bạn sẽ bỏ sót một tín hiệu tài chính cực kỳ quan trọng."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a magnifying lens revealing a tiny glowing turquoise key symbol hidden beneath dark textured layers of financial charts. Dark warm charcoal background, warm cream outlines, glowing turquoise and crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC031",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một chiếc lò xo đồ họa cơ học đang nén và bật ngược hướng lên trên, mang theo biểu đồ dốc dương.",
+    "sentences": [
+      "Thực tế, biên lợi nhuận gộp cả năm của VinFast lại ghi nhận mức cải thiện mạnh mẽ lên tới 14"
+    ],
+    "base_english_prompt": "A slow camera panning showing a minimalist graphic diagram of a heavy metal coil spring compressing and preparing to launch upward, with abstract numerical indicators glowing in cream. Dark warm charcoal background, warm cream outlines, glowing crimson coral red accents, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Hai trị số tỷ lệ phần trăm âm -57.4% và -42.5% hiển thị ở nửa trên màn hình, với một đường vector màu xanh lục nối hai điểm lại theo chiều hướng lên.",
+    "sentences": [
+      "9 điểm phần trăm, tăng từ mức âm 57,4% của năm 2024 lên âm 42,5% vào năm 2025."
+    ],
+    "base_english_prompt": "A steady shot showing the bold English text \"-57.4%\" and \"-42.5%\" in modern clean sans-serif font centered in the upper third, connected by a rising green vector line with a tiny arrow. Muted dark olive green background, warm cream outlines, glowing electric sage green and crimson highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bản vẽ kiến trúc 2D kỹ thuật một nhà máy ô tô phức tạp, hiển thị bằng nét vẽ kem tối giản.",
+    "sentences": [
+      "Để hiểu nghịch lý này, hãy phân tích cấu trúc chi phí của một nhà máy ô tô công nghiệp nặng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a highly detailed 2D blueprint of an automotive assembly line with neat schematic lines and machinery drawings. Dark warm charcoal background, warm cream outlines, subtle glowing red indicators, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một chiếc hộp hình học lớn được phân chia rõ ràng làm đôi, một bên là khối đá đè nặng (Fixed Costs), bên kia là những hạt cát chuyển động (Variable Costs).",
+    "sentences": [
+      "Trong ngành sản xuất ô tô, chi phí sản xuất được chia làm hai loại cơ bản: định phí và biến phí."
+    ],
+    "base_english_prompt": "A steady shot showing an abstract conceptual cube split into two distinct halves: one half contains a solid heavy rock and the other contains flowing geometric particles. Dark warm charcoal background, warm cream outlines, glowing crimson coral red and turquoise lights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Các biểu tượng đồ họa tối giản về cuộn thép, cell pin và các linh kiện cơ khí di chuyển liên tục trên băng chuyền màu kem sáng.",
+    "sentences": [
+      "Biến phí là những chi phí thay đổi trực tiếp theo số lượng xe sản xuất, như thép, pin, linh kiện và nhân công trực tiếp."
+    ],
+    "base_english_prompt": "A subtle slow pan right showing clean flat icons of steel rolls, battery cells, and gears moving along a minimalist mechanical belt in a stylized factory setting. Dark warm charcoal background, warm cream outlines, subtle glowing turquoise accents, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Một khối lập phương bằng sắt đen khổng lồ ghi chữ FIXED COST đè nặng vững chãi trên một nền đất nứt nẻ.",
+    "sentences": [
+      "Định phí là những chi phí cố định khổng lồ mà doanh nghiệp phải trả trước"
+    ],
+    "base_english_prompt": "A steady shot showing a massive, towering black iron block labeled with the English text \"FIXED COST\" in bold sans-serif, casting a deep shadow on a cracked surface. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning lights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Một dải băng chuyền sản xuất trống rỗng quay đều đặn dưới ánh đèn đỏ mờ ảo, không có sản phẩm nào trên đó.",
+    "sentences": [
+      "bất kể có sản xuất được chiếc xe nào hay không."
+    ],
+    "base_english_prompt": "A steady shot showing an empty, dark industrial conveyor belt moving slowly through a dim factory corridor under a faint glowing red safety light. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bóng đen của khu nhà xưởng Hải Phòng khổng lồ dưới một bầu trời xám xịt, bao phủ bởi một đám mây màu đỏ của chi phí đè nặng.",
+    "sentences": [
+      "Trước đây, khi trực tiếp sở hữu tổ hợp Hải Phòng, VinFast đã gánh khoản định phí vô cùng nặng nề."
+    ],
+    "base_english_prompt": "A slow camera panning showing a sprawling industrial complex silhouette representing the Hai Phong factory under a heavy dark charcoal sky with glowing red cloud outlines. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Cận cảnh một hàng dài các cánh tay robot hàn tự động đang phun ra những luồng tia lửa điện sáng rực trong bóng tối nhà máy.",
+    "sentences": [
+      "Tổ hợp rộng 335 héc ta vận hành với tỷ lệ tự động hóa lên tới 90% nhờ hệ thống hơn 1.200 robot a bê bê."
+    ],
+    "base_english_prompt": "A slow camera panning showing a row of modern industrial robotic arms welding in a dark automated factory, with bright warm cream sparks flying in a high contrast setting. Dark warm charcoal background, warm cream outlines, subtle glowing crimson coral red light reflections, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Một chiếc đồng hồ cát tối giản xoay ngược, cát bên trong chảy xuống là những đồng xu tài chính nhỏ phát sáng đỏ nhạt.",
+    "sentences": [
+      "Mỗi cánh tay robot hiện đại này được hạch toán khấu hao đều đặn hàng năm."
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist glass hourglass where the sand is made of glowing crimson coral red coins slowly falling through the narrow gap. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một cánh tay robot đứng yên trong bóng tối, một bảng điện tử bên cạnh liên tục nhảy số nợ khấu hao màu đỏ mà không đổi tần suất.",
+    "sentences": [
+      "Dù robot đó đứng yên hay hoạt động liên tục, chi phí khấu hao tĩnh đó vẫn được ghi nhận không đổi."
+    ],
+    "base_english_prompt": "A steady shot showing a stationary robotic arm in the shadows next to a glowing red digital ledger screen showing constant repeating debit figures. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Một vòi rót công nghiệp nhỏ giọt từng giọt nước sáng đỏ xuống một thung lũng đá đen tối tăm.",
+    "sentences": [
+      "Nếu nhà máy Hải Phòng chỉ sản xuất nhỏ giọt vài nghìn chiếc xe mỗi năm"
+    ],
+    "base_english_prompt": "A steady shot showing a large metallic pipe dripping single glowing crimson droplets of fluid into a dark empty industrial container below. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC043",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một chiếc xe ô tô điện nhỏ bé màu kem đang gồng mình chống đỡ một khối tạ đá đen khổng lồ ghi chữ DEPRECIATION ở trên.",
+    "sentences": [
+      "toàn bộ gánh nặng định phí khấu hao khổng lồ đó sẽ đè nặng lên số lượng sản phẩm ít ỏi."
+    ],
+    "base_english_prompt": "A steady shot showing a small electric car outline struggling to support a giant, heavy stone block labeled \"DEPRECIATION\" in bold cream letters. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC044",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mức giá số tiền vọt lên cao trên thước đo cơ học, một đường màu đỏ rực vượt hẳn ra ngoài giới hạn đo lường.",
+    "sentences": [
+      "Kết quả là giá vốn đơn vị của mỗi chiếc xe sẽ bị đội lên mức không tưởng, vượt xa giá bán thực tế."
+    ],
+    "base_english_prompt": "A subtle slow pan right showing a classic circular dial gauge where the needle is pushed into the red warning zone, with the English word \"COST\" glowing brightly. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC045",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bức tường tối tăm nứt vỡ để lộ những luồng sáng rực rỡ từ dây chuyền sản xuất nhộn nhịp.",
+    "sentences": [
+      "Nhưng câu chuyện sẽ thay đổi hoàn toàn khi sản lượng bắt đầu bứt phá."
+    ],
+    "base_english_prompt": "A slow camera panning showing a dark textured wall cracking open to reveal a massive, glowing, busy assembly line filled with moving machinery parts. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC046",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Chữ số 197,000 EVs hiển thị trên màn hình với dòng chuyển động các cụm xe điện xuất phát từ nhà máy Hải Phòng.",
+    "sentences": [
+      "Trong năm 2025, sản lượng ô tô điện bàn giao của VinFast đã tăng gấp đôi, đạt mốc gần 197.000 xe."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"197,000 EVs\" in a clean bold modern sans-serif font centered in the upper third, with a fast-moving flow of electric car outlines underneath. Dark warm charcoal background, warm cream outlines, subtle red taillight glows, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC047",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Hàng trăm bóng xe máy điện nối tiếp nhau chạy thành một dải sáng màu xanh ngọc uốn lượn trên đường phố Hà Nội về đêm.",
+    "sentences": [
+      "Lượng xe máy điện giao cho khách hàng cũng bứt phá mạnh mẽ, đạt hơn 406.000 xe."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple silhouettes of electric scooters moving in a fast stream through a stylized Vietnamese city street at night. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC048",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Các chồng tiền và báo cáo tài liệu phát ra ánh sáng vàng kem rực rỡ, biểu thị sự tăng trưởng doanh thu mạnh mẽ.",
+    "sentences": [
+      "Nhờ đó, doanh thu bán xe đạt hơn 84.800 tỷ đồng, đưa tổng doanh thu hợp nhất đạt hơn 90.000 tỷ đồng."
+    ],
+    "base_english_prompt": "A subtle slow pan left showing towering neat stacks of financial ledger books with clean golden light glowing from the pages, symbolizing massive revenue growth. Dark warm charcoal background, warm cream outlines, subtle glowing red accents, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC049",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một giọt màu đỏ đậm rơi xuống một cốc nước và tan loãng ra thành màu đỏ hồng nhạt dần.",
+    "sentences": [
+      "Khi sản lượng tăng mạnh, khoản định phí khấu hao tĩnh khổng lồ lập tức được pha loãng trên số lượng sản phẩm lớn."
+    ],
+    "base_english_prompt": "A steady close-up shot showing a dark red ink droplet falling into a clear fluid, dispersing and diluting into faint abstract patterns. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC050",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một chiếc xe điện màu kem thanh thoát lăn bánh nhẹ nhàng, rũ bỏ một khối đá nợ phía sau trượt xuống dốc.",
+    "sentences": [
+      "Gánh nặng khấu hao trên mỗi chiếc xe điện xuất xưởng lập tức giảm đi đáng kể"
+    ],
+    "base_english_prompt": "A steady shot showing a sleek warm cream electric car outline driving smoothly forward as a heavy block of stone rolls away behind it. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC051",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Khoảng cách giữa hai đường biểu đồ tài chính (doanh thu và chi phí) thu hẹp dần sát lại nhau.",
+    "sentences": [
+      "và đây chính là nguyên nhân cốt lõi giúp biên lợi nhuận gộp đà âm của VinFast thu hẹp nhanh chóng."
+    ],
+    "base_english_prompt": "A slow camera panning showing two glowing line graphs on a dark ledger sheet converging closer together, representing the narrowing of financial losses. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC052",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Hai bàn tay bóng đen đang trao đổi một văn bản hợp đồng tối giản có đóng dấu đỏ OUTSOURCE.",
+    "sentences": [
+      "Đặc biệt, cuộc tái cấu trúc mảng sản xuất vào giữa năm 2026 giúp hãng chuyển sang mô hình thuê ngoài."
+    ],
+    "base_english_prompt": "A steady shot showing two dark silhouettes of hands exchanging a clean document labeled with the English word \"OUTSOURCE\" in bold sans-serif. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC053",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Khối thép nặng nề tĩnh bỗng tan chảy biến thành các chuỗi bánh răng chuyển động linh hoạt màu ngọc lục bảo.",
+    "sentences": [
+      "Nó cho phép VinFast biến định phí khấu hao tĩnh của nhà máy thành biến phí gia công linh hoạt"
+    ],
+    "base_english_prompt": "A subtle slow pan right showing a heavy dark block melting into clean glowing turquoise liquid streams that turn into rotating gears on a conveyor. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC054",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một khung kết cấu giàn thép lắp ghép gọn nhẹ, vững chắc nhưng thanh thoát trên nền tối.",
+    "sentences": [
+      "từ đó tạo ra một cấu trúc tài chính gọn nhẹ hơn để tăng hiệu quả pha loãng định phí."
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist geometric metal truss structure assembling itself cleanly, light and sturdy in design. Dark warm charcoal background, warm cream outlines, subtle glowing red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC055",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bóng đen của một người chủ đứng trước một quầy hàng bán lẻ trống khách trong đêm tối.",
+    "sentences": [
+      "Nếu bạn đang làm chủ một doanh nghiệp hay một cửa hàng bán lẻ"
+    ],
+    "base_english_prompt": "A steady shot showing a solid black silhouette of a Vietnamese shopkeeper standing inside a small street-side shop with empty shelves in Hanoi. Dark warm charcoal background, warm cream outlines, subtle red warm light from a streetlamp, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC056",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một tập tài liệu tiền thuê nhà ghi chữ RENT màu đỏ rực đặt trước cửa hàng đóng kín.",
+    "sentences": [
+      "bạn sẽ hiểu rõ cơ chế này dưới dạng chi phí thuê mặt bằng tĩnh hàng tháng."
+    ],
+    "base_english_prompt": "A steady shot showing a paper ledger labeled with the English word \"RENT\" in bold red on a wooden desk next to a closed door, casting long shadows. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC057",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một tờ hóa đơn thanh toán tiền thuê nhà màu kem không thay đổi trị số, bất kể các lượt người bóng đen chạy qua lại biến động liên tục ở nền.",
+    "sentences": [
+      "Dù cửa hàng của bạn vắng khách hay đông khách, tiền mặt bằng cố định vẫn phải trả đủ."
+    ],
+    "base_english_prompt": "A subtle slow pan left showing a fixed paper bill labeled \"MONTHLY RENT\" on a clipboard, while blurred silhouettes of people pass by in the background. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC058",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Hàng trăm chiếc hộp sản phẩm màu kem xếp chồng lên nhau, đẩy xẹp hơi quả tạ màu đỏ của chi phí mặt bằng xuống.",
+    "sentences": [
+      "Khi bạn tăng được doanh số bán ra, gánh nặng tiền thuê mặt bằng trên mỗi sản phẩm sẽ lập tức thu hẹp lại."
+    ],
+    "base_english_prompt": "A slow camera panning showing stacks of warm cream product boxes piling up high, pressing down and flattening a red weight labeled \"RENT COST\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC059",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một dòng thác xe điện màu kem cuồn cuộn chảy ra từ cổng tổ hợp Hải Phòng, đẩy lùi màn đêm đen.",
+    "sentences": [
+      "Với VinFast, việc tăng sản lượng để pha loãng khấu hao là con đường bắt buộc để cứu nhà máy Hải Phòng."
+    ],
+    "base_english_prompt": "A slow camera panning showing a powerful stream of warm cream electric cars rushing out of a huge industrial gate, illuminated by red emergency lights. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC060",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một đường đồ họa chi phí cận biên đi xuống dốc, chạm vào một vạch đích màu kem ghi chữ BREAK-EVEN.",
+    "sentences": [
+      "Càng bán được nhiều xe, giá vốn cận biên của hãng càng giảm mạnh và tiệm cận về điểm hòa vốn sản xuất."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing crimson line descending on a chart grid until it touches a flat cream line labeled with the English text \"BREAK-EVEN\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC061",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một vết nứt lớn màu đỏ chạy dọc qua một sơ đồ cấu trúc hoàn hảo.",
+    "sentences": [
+      "Tuy nhiên, cái bẫy lớn nhất của trò chơi bành trướng quy mô này nằm ở chỗ"
+    ],
+    "base_english_prompt": "A steady shot showing a clean geometric pattern of cubes suddenly cracked by a glowing crimson coral red fissure running through the center. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC062",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một chiếc xe ô tô điện đang húc phải một bức trần kính dày đặc màu đen ghi chữ LIMIT.",
+    "sentences": [
+      "Làm sao để duy trì được đầu ra sản lượng khổng lồ đó khi dung lượng thị trường trong nước bắt đầu chạm trần?"
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a warm cream electric car outline stopped underneath a massive, heavy glass ceiling labeled with the English word \"LIMIT\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC063",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản vẽ kỹ thuật 2D hiển thị sơ đồ MES tối giản, một điểm chấm màu xanh ngọc nằm ở đáy đường cong chi phí hình chữ U.",
+    "sentences": [
+      "Câu trả lời nằm ở khái niệm Quy mô hiệu quả tối thiểu trong kinh tế học công nghiệp.",
+      "Nói đơn giản"
+    ],
+    "base_english_prompt": "A steady shot showing a U-shaped average cost curve plotted on a dark charcoal grid, with a glowing turquoise dot sitting at the bottom of the curve representing the Minimum Efficient Scale. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC064",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Cận cảnh một chiếc piston chuyển động nhịp nhàng, một thước đo kỹ thuật kế bên hiển thị chữ OPTIMIZE phát sáng xanh lục.",
+    "sentences": [
+      "đây là ngưỡng sản lượng bắt buộc mà một nhà máy phải đạt được để tối ưu chi phí cận biên trên từng sản phẩm."
+    ],
+    "base_english_prompt": "A steady shot showing a detailed view of a mechanical piston pumping smoothly inside a dark engine room, with a digital overlay showing the English text \"OPTIMIZE\" glowing in electric sage green. Dark warm charcoal background, warm cream outlines, glowing electric sage green highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC065",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Dòng chữ tiếng Anh MES: 150,000 - 200,000 hiển thị sáng rực trên nền một bãi xe khổng lồ gồm hàng ngàn bóng xe hơi màu xám xếp ngay ngắn.",
+    "sentences": [
+      "Trong ngành sản xuất ô tô toàn cầu, ngưỡng hòa vốn tối thiểu này thường dao động từ 150.000 đến 200.000 xe mỗi năm, nguyên"
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"MES: 150,000 - 200,000\" in clean sans-serif font centered in the upper third, with rows of minimalist car silhouettes fading into the deep background. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC066",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Một nhà thiết kế bóng đen đang vẽ các phác thảo xe ô tô 3D trên màn hình máy tính phát sáng xanh lục, các bản vẽ kỹ thuật lơ lửng xung quanh.",
+    "sentences": [
+      "nhân là do chi phí thiết kế, nghiên cứu phát triển a n đê và thiết lập chuỗi cung ứng ban đầu là vô cùng lớn."
+    ],
+    "base_english_prompt": "A slow camera panning showing a solid black silhouette of a designer drawing a sleek 3D car blueprint on a glowing tablet screen, with complex vector diagrams floating in the background. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC067",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Bản đồ Việt Nam màu đen, khu vực thị trường xe du lịch có một miếng bánh đồ họa 36% phát sáng xanh ngọc nổi bật.",
+    "sentences": [
+      "Nhìn vào bối cảnh trong nước, VinFast đã giành chiến thắng vang dội với khoảng 36% thị phần xe du lịch cả nước vào năm 2025."
+    ],
+    "base_english_prompt": "A subtle slow pan right showing a clean pie chart graphic of Vietnam's passenger car market, where a 36 percent slice glows intensely in turquoise, next to a minimalist map of Vietnam. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC068",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một chiếc xe điện màu xanh ngọc bứt phá vượt qua bóng đen của ba chiếc xe xăng truyền thống trên một cung đường cong điện ảnh.",
+    "sentences": [
+      "Hãng đã nhanh chóng vượt qua nhiều ông lớn xe xăng ngoại quốc lâu đời để chiếm vị thế dẫn đầu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a sleek electric car silhouette with a glowing turquoise trail overtaking three heavy classic car silhouettes on a dark winding highway. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC069",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một vòng tròn nhỏ màu kem đại diện cho dung lượng thị trường Việt Nam bị cô lập giữa một khoảng tối mênh mông.",
+    "sentences": [
+      "Thế nhưng, toàn bộ dung lượng thị trường ô tô Việt Nam bao gồm"
+    ],
+    "base_english_prompt": "A steady shot showing a glowing warm cream ring labeled with the English text \"VIETNAM MARKET\" in clean sans-serif font, floating isolated in a vast dark empty space. Dark warm charcoal background, warm cream outlines, subtle glowing red sparks, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC070",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Con số 500,000 - 600,000 hiển thị lớn ở trung tâm vòng tròn màu kem nhỏ bé đó.",
+    "sentences": [
+      "cả xe xăng lẫn xe điện chỉ đạt khoảng 500.000 đến 600.000 xe mỗi năm."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"500,000 - 600,000\" in bold sans-serif font centered in the upper third, inside a small warm cream circle graphic. Dark warm charcoal background, warm cream outlines, subtle glowing crimson highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC071",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Một chiếc lưới khổng lồ màu đỏ rực chụp gọn lấy vòng tròn thị trường Việt Nam nhỏ bé.",
+    "sentences": [
+      "Điều này có nghĩa là ngay cả khi thâu tóm toàn bộ thị trường trong nước"
+    ],
+    "base_english_prompt": "A steady shot showing a red stylized net grid closing completely around a small warm cream sphere in the center of the screen. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC072",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Một bóng đen công nhân đang vận hành bảng điều khiển nhà máy, các chỉ số kim chỉ thị báo động màu đỏ do thiếu tải.",
+    "sentences": [
+      "hãng vẫn gặp khó khăn trong việc duy trì sản lượng tối ưu công suất."
+    ],
+    "base_english_prompt": "A steady shot showing a solid black silhouette of a Vietnamese worker looking at a factory control panel where multiple warning gauges display low pressure indicators in red. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC073",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một đĩa cân cơ học bị đè bẹp hẳn bởi một khối lượng lớn ghi chữ ICE VEHICLES màu đen, đĩa bên kia chỉ có một hạt mầm xe điện phát sáng xanh.",
+    "sentences": [
+      "Hơn nữa, trong miếng bánh 600.000 xe đó, xe xăng truyền thống vẫn đang chiếm tỷ trọng áp đảo"
+    ],
+    "base_english_prompt": "A steady shot showing a balance scale where a giant dark charcoal block labeled \"ICE\" completely outweighs a tiny glowing turquoise leaf representing \"EV\". Dark warm charcoal background, warm cream outlines, glowing turquoise and red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC074",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một khe hẹp phát sáng xanh ngọc mỏng manh giữa hai bức tường đá đen khổng lồ áp sát nhau.",
+    "sentences": [
+      "miếng bánh dành cho xe điện thực tế còn chật hẹp hơn rất nhiều."
+    ],
+    "base_english_prompt": "A steady shot showing a tiny, narrow vertical crevice glowing with turquoise light between two massive, towering dark charcoal walls closing in on each other. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC075",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Một chiếc ao nhỏ bé màu kem chật chội, bên trên phủ bóng đen khổng lồ của một nhà xưởng công nghiệp.",
+    "sentences": [
+      "Ao làng Việt Nam quá nhỏ bé để nuôi sống một tổ hợp"
+    ],
+    "base_english_prompt": "A subtle slow pan right showing a tiny abstract cream-colored pond outline on the ground, dwarfed by the massive shadow of a towering factory facade. Dark warm charcoal background, warm cream outlines, subtle glowing red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC076",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bản vẽ kiến trúc nâng cấp công suất lớn của nhà máy Hải Phòng với hình vẽ 1.200 robot ABB đang dàn hàng.",
+    "sentences": [
+      "nhà máy ô tô có công suất thiết kế lớn như tại Hải Phòng."
+    ],
+    "base_english_prompt": "A slow camera panning across a clean technical blueprint diagram illustrating massive factory expansion pipelines and assembly lines with robotic arm icons. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC077",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một ổ khóa bằng sắt lớn màu đỏ rực khóa chặt hai bánh răng sản xuất khiến chúng không thể quay.",
+    "sentences": [
+      "Nếu chỉ ở lại trong nước, VinFast sẽ bị khóa chặt sản lượng ở mức dưới ngưỡng hòa vốn dài hạn."
+    ],
+    "base_english_prompt": "A steady shot showing a heavy dark padlock with a glowing crimson coral red shackle locking two large machinery gears together, preventing them from rotating. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC078",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một tia laser màu xanh ngọc cắt đôi ổ khóa sắt và phá vỡ bức tường giới hạn.",
+    "sentences": [
+      "Để bứt phá khỏi ranh giới này, hãng đặt mục tiêu đầy tham vọng cho cả năm 2026."
+    ],
+    "base_english_prompt": "A steady shot showing a sharp glowing turquoise laser beam cutting cleanly through a thick metal chain link, with sparks flying in a high contrast setting. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC079",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Dòng chữ lớn 300,000 EVs phát sáng xanh ngọc trên nền quả địa cầu đứt nét đang tự xoay.",
+    "sentences": [
+      "Đó là bàn giao ít nhất 300.000 xe ô tô điện trên thị trường toàn cầu"
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"300,000 EVs\" in a clean modern sans-serif font centered in the upper third, overlaid on a rotating abstract minimalist globe. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC080",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Số lượng lớn 1,000,000 E-scooters rực rỡ, xung quanh là dải sáng các chiếc xe máy điện màu xanh lục di chuyển.",
+    "sentences": [
+      "đồng thời nhắm tới mốc phân phối khoảng 1 triệu chiếc xe máy điện."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"1,000,000 E-SCOOTERS\" in a bold clean sans-serif font centered in the upper third, with glowing turquoise wave patterns below. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC081",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Dây chuyền sản xuất xe máy điện hoạt động tấp nập, các tia sáng xanh ngọc chạy dọc theo thân xe.",
+    "sentences": [
+      "Nỗ lực này được tiếp sức sau khi hãng cán mốc xuất xưởng chiếc xe máy điện"
+    ],
+    "base_english_prompt": "A slow camera panning showing a conveyor line inside an assembly plant where electric scooter frames are moving smoothly, glowing with clean energy lines. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC082",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Huy hiệu số lớn 1,000,000th màu vàng kem phát sáng lấp lánh trên nền bối cảnh lễ khánh thành tối giản của nhà máy.",
+    "sentences": [
+      "thứ 1 triệu vào ngày mười hai tháng sáu năm hai nghìn không trăm hai mươi sáu."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English text \"1,000,000th\" in a clean gold and cream sans-serif font centered in the upper third, set against a dark clean stage backdrop. Dark warm charcoal background, warm cream outlines, subtle glowing turquoise indicators, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC083",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Logo cười Amazon màu kem tối giản bên cạnh một sơ đồ dòng tiền đi ngang màu đỏ kéo dài suốt 20 năm.",
+    "sentences": [
+      "Bài học này tương tự cách gã khổng lồ công nghệ Amazon chấp nhận chịu lỗ ròng kéo dài trong gần 20 năm đầu hoạt động."
+    ],
+    "base_english_prompt": "A subtle slow pan left showing an abstract minimalist representation of the Amazon smile logo on a dark wall, with a long horizontal red timeline marked with \"20 YEARS\". Dark warm charcoal background, warm cream outlines, subtle glowing red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC084",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Một nhà kho Fulfillment khổng lồ tối giản bằng các nét vẽ vector, hàng chục chiếc xe tải chở hàng màu xám bạc ra vào liên tục.",
+    "sentences": [
+      "Jeff Bezos không ngần ngại chi mạnh dòng tiền để xây dựng mạng lưới kho bãi phun phin men xen tơ khổng lồ trên toàn cầu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive modern warehouse facade with neat lines of trucks loading cargo in a dark high-tech shipping hub. Dark warm charcoal background, warm cream outlines, subtle glowing turquoise accent lights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC085",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một chiếc hộp bưu phẩm màu kem trượt nhẹ nhàng trên một chiếc máng trượt phát sáng xanh ngọc mượt mà.",
+    "sentences": [
+      "Một khi hạ tầng của Amazon đạt tới quy mô hiệu quả tối thiểu, chi phí giao hàng trên từng đơn hàng giảm"
+    ],
+    "base_english_prompt": "A steady close-up shot showing a warm cream cardboard package sliding smoothly down a high-tech glowing turquoise sorting chute in a dark robotic facility. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC086",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một bức tường thành vững chãi bằng ánh sáng xanh ngọc lục bảo dựng lên trước các bóng đen đối thủ đang đứng nhìn bất lực.",
+    "sentences": [
+      "xuống mức cực thấp, tạo ra một rào cản chi phí khổng lồ chặn đứng mọi đối thủ cạnh tranh mới gia nhập."
+    ],
+    "base_english_prompt": "A steady shot showing a towering, solid glowing turquoise light barrier rising from the dark ground, blocking abstract shadow shapes in the background. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC087",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản đồ Việt Nam sáng lên hàng ngàn đốm sáng màu xanh ngọc đại diện cho trạm sạc.",
+    "sentences": [
+      "VinFast cũng đang áp dụng chiến lược quy mô này bằng cách phủ kín mạng lưới trạm sạc trên khắp Việt Nam."
+    ],
+    "base_english_prompt": "A slow camera panning showing an abstract map of Vietnam where thousands of tiny turquoise dots illuminate simultaneously, creating a dense interconnected network. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC088",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Một chiếc xe ô tô điện của đối thủ ngoại quốc bị chặn lại bởi một cổng trạm sạc khóa chặt bằng dải sáng xanh lục.",
+    "sentences": [
+      "Sự phủ sóng độc quyền này tạo ra rào cản cạnh tranh cực"
+    ],
+    "base_english_prompt": "A steady shot showing a foreign electric car silhouette blocked by a glowing turquoise barricade gate shaped like a charging station plug. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC089",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Chiếc xe điện của VinFast di chuyển tự do bên trong vùng ranh giới sáng xanh ngọc Việt Nam, nhưng ranh giới đó đang bị giới hạn bởi đường biên giới tối sầm.",
+    "sentences": [
+      "lớn chặn đứng các hãng xe điện ngoại bang bước vào thị trường Việt.",
+      "Nhưng trạm sạc chỉ giúp hãng khóa chặt thị trường trong nước."
+    ],
+    "base_english_prompt": "A steady shot showing a warm cream electric car outline driving inside a protected dome of turquoise light, representing the locked domestic market boundaries. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC090",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bàn tay bóng đen kéo một sợi dây cáp thép màu xanh ngọc để nhấc tổ hợp Hải Phòng lên khỏi đầm lầy màu đỏ.",
+    "sentences": [
+      "Muốn gom đủ sản lượng để cứu dự án Hải Phòng thoát khỏi gánh nặng khấu hao"
+    ],
+    "base_english_prompt": "A slow camera panning showing a stylized factory being pulled upward out of a dark red canyon by strong glowing turquoise power cables. Dark warm charcoal background, warm cream outlines, glowing turquoise and red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC091",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Quả địa cầu đứt nét xoay nhanh, các luồng sáng xanh ngọc phát ra từ Việt Nam phóng ra đại dương.",
+    "sentences": [
+      "VinFast bắt buộc phải tìm kiếm đầu ra từ thế giới."
+    ],
+    "base_english_prompt": "A subtle slow pan right showing abstract vector streams of turquoise light emanating from Southeast Asia and expanding across a rotating minimal wireframe globe. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC092",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Chiếc xe điện đang phóng nhanh ra biển lớn thì đâm phải một tấm chắn kính đen dày đặc ghi chữ TARIFFS.",
+    "sentences": [
+      "Tuy nhiên, khi đưa xe điện ra khỏi biên giới Việt Nam, hãng lập tức đập mặt vào những bức tường bảo hộ vô hình."
+    ],
+    "base_english_prompt": "A steady shot showing a warm cream electric car silhouette stopping abruptly in front of a giant vertical slab of dark glass with the English text \"TARIFFS\" engraved. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC093",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một chiếc xe hơi nguyên chiếc màu kem bị chặn lại hoàn toàn bởi một bức tường gạch đen vững chãi, trên tường khắc dòng chữ IMPORT TARIFF màu đỏ rực.",
+    "sentences": [
+      "Bức tường đó chính là hàng rào thuế quan nhập khẩu xe nguyên chiếc cực kỳ khắc nghiệt."
+    ],
+    "base_english_prompt": "A steady shot showing a warm cream electric car outline blocked by a massive, towering dark brick wall with the English text \"IMPORT TARIFF\" engraved on it. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC094",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bản đồ Ấn Độ tối giản, một chiếc búa hải quan lớn khắc chữ 70%-100% DUTY đang giáng xuống một chiếc xe hơi màu kem.",
+    "sentences": [
+      "Tại Ấn Độ, mức thuế quan đánh vào xe nhập khẩu nguyên chiếc từ Việt Nam lên tới 70% đến 100%."
+    ],
+    "base_english_prompt": "A steady shot showing a giant dark gavel labeled with the English text \"70%-100% DUTY\" in clean sans-serif font descending over a minimalist outline map of India. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC095",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Một tấm khiên bảo vệ khổng lồ màu xanh ngọc che chắn cho một nhóm xe ô tô bản địa tối giản phía sau.",
+    "sentences": [
+      "Đây là biện pháp bảo hộ cực đoan của chính phủ bản địa nhằm ưu tiên các hãng ô tô trong nước.",
+      "Đồng thời"
+    ],
+    "base_english_prompt": "A steady shot showing a massive glowing turquoise shield protecting a line of minimalist car silhouettes in the background. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC096",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Bóng đen của hàng trăm công nhân đang xây dựng nền móng nhà máy mới bằng kết cấu giàn thép màu kem.",
+    "sentences": [
+      "họ muốn ép các hãng xe ngoại bang phải đầu tư xây dựng nhà máy địa phương hóa để tạo việc làm cho người dân."
+    ],
+    "base_english_prompt": "A slow camera panning showing multiple silhouettes of workers assembling a large steel frame of a new factory structure under a dark sky. Dark warm charcoal background, warm cream outlines, subtle glowing turquoise accents, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC097",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Chiếc xe điện màu kem thanh thoát từ từ lăn bánh rời khỏi chiếc tàu chở hàng container lớn tại cảng Hải Phòng.",
+    "sentences": [
+      "Một chiếc xe điện rời cảng Hải Phòng có giá thành cạnh tranh"
+    ],
+    "base_english_prompt": "A slow camera panning showing a warm cream electric car rolling down a ramp of a massive cargo ship docked at a port with crane silhouettes in the background. Dark warm charcoal background, warm cream outlines, subtle glowing turquoise accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC098",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một con số tỷ lệ nhân đôi rực đỏ hiển thị kế bên chiếc xe điện nhỏ bé bị đè nặng bởi hóa đơn thuế quan khổng lồ.",
+    "sentences": [
+      "nhưng khi cập bến Ấn Độ sẽ lập tức bị đội giá gấp đôi."
+    ],
+    "base_english_prompt": "A steady shot showing a small electric car silhouette on one side of a scale, while the other side rises quickly with a giant red document labeled \"DOUBLE PRICE\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC099",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Chiếc xe điện màu kem bị cô lập hoàn toàn phía sau một hàng rào gai tối tăm, trong khi các dòng xe đối thủ bản địa di chuyển tấp nập phía trước.",
+    "sentences": [
+      "Nước đi này triệt tiêu hoàn toàn cơ hội cạnh tranh với các đối thủ bản địa như Tata hay Mahindra."
+    ],
+    "base_english_prompt": "A steady shot showing a single car silhouette trapped behind a thick dark wire fence, while other car silhouettes drive freely on the open road ahead. Dark warm charcoal background, warm cream outlines, subtle glowing red indicators, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC100",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Bức tường gạch đen bị nứt vỡ từ phía sau bởi một băng chuyền linh kiện ô tô CKD đang vươn qua.",
+    "sentences": [
+      "Để vượt qua bức tường này, VinFast bắt buộc phải xây dựng các nhà máy lắp ráp linh kiện tại nước sở tại."
+    ],
+    "base_english_prompt": "A slow camera panning showing a conveyor line carrying loose car parts emerging directly through a broken section of a dark wall. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC101",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Sơ đồ tháo rời các bộ khung vỏ, động cơ, pin xe điện hiển thị dạng nét vẽ kem gọn gàng.",
+    "sentences": [
+      "Việc nhập khẩu linh kiện rời hoàn toàn dưới dạng cê ca đê giúp hãng lách qua rào cản thuế quan."
+    ],
+    "base_english_prompt": "A steady shot showing a detailed 3D exploded view diagram of an electric car chassis, battery pack, and panels, floating as clean lines in space. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC102",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Trị số TARIFF: 0% màu xanh lục hiển thị lớn ở vị trí chính giữa màn hình với con dấu ưu đãi thông quan tối giản.",
+    "sentences": [
+      "Nhờ đó, VinFast được áp mức thuế ưu đãi tiệm cận 0% đối với linh kiện nhập khẩu."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English text \"TARIFF: 0%\" in a clean bold green sans-serif font centered in the upper third, set against a minimalist customs document background. Dark warm charcoal background, warm cream outlines, glowing electric sage green highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC103",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Hình vẽ rễ cây bằng ánh sáng xanh ngọc của nhà máy Tamil Nadu bám sâu vào lòng đất Ấn Độ kết nối với các cụm công nghiệp xung quanh.",
+    "sentences": [
+      "Đồng thời, nhà máy tại Tamil Nadu giúp VinFast cắm rễ vào hệ sinh thái linh kiện ô tô sẵn có của Ấn Độ."
+    ],
+    "base_english_prompt": "A slow camera panning showing a stylized factory structure with root-like glowing turquoise lines spreading deep into the ground and connecting to surrounding gear icons. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC104",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một chiếc kim đồng hồ chạy nhanh ngược chiều để biểu thị sự tối ưu hóa thời gian giao hàng, kế bên là biểu tượng chi phí đi xuống.",
+    "sentences": [
+      "Sự địa phương hóa này giúp giảm chi phí sản xuất và rút ngắn thời gian giao hàng."
+    ],
+    "base_english_prompt": "A steady shot showing a clean minimalist clock face where the hands rotate rapidly in reverse, alongside a descending vector arrow glowing in turquoise. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC105",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Tuy nhiên, việc vận chuyển hàng nghìn thùng linh kiện CKD qua đường biển cũng đối mặt với thách thức logistics lớn.",
+    "sentences": [
+      "Tuy nhiên, việc vận chuyển hàng nghìn thùng linh kiện cê ca đê qua đường biển cũng đối mặt với thách thức logistics lớn."
+    ],
+    "base_english_prompt": "A steady shot showing a massive cargo container ship sailing through rough dark seas, with large warm cream container boxes stacked on deck. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC106",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Tờ lịch tháng 5 năm 2026 lật qua, phát ra ánh sáng vàng kem dịu mắt.",
+    "sentences": [
+      "Bất chấp khó khăn đó, vào cuối tháng năm năm hai nghìn không trăm hai mươi sáu"
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist paper calendar page marked with \"MAY 2026\" flipping over, under a soft focus spotlight. Dark warm charcoal background, warm cream outlines, subtle glowing turquoise indicators, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC107",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Con số 10,000th EV phát sáng rực màu xanh ngọc phía sau bóng đen chiếc xe điện đầu tiên xuất xưởng tại Tamil Nadu.",
+    "sentences": [
+      "nhà máy Tamil Nadu đã xuất xưởng chiếc xe thứ 10.000.",
+      "Cột mốc này chứng minh chuỗi lắp ráp địa phương đang vận hành ổn định."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing the English text \"10,000th EV\" in clean modern sans-serif font centered in the upper third, behind a sleek electric car silhouette at a factory gate. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC108",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 0.52,
+    "visual_summary": "Một ngọn lửa năng lượng nhỏ bùng lên phát sáng xanh lục báo hiệu sự tăng tốc.",
+    "sentences": [
+      "Thậm chí"
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist abstract vector spark igniting and glowing with intense turquoise light in the dark. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC109",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Bản hồ sơ tài liệu ghi chữ PHASE II mở ra, để lộ sơ đồ thiết kế dây chuyền xe máy và xe buýt điện mới.",
+    "sentences": [
+      "hãng đã nộp hồ sơ xin phê duyệt mở rộng Giai đoạn 2 để sản xuất thêm xe máy điện và xe buýt điện tại đây."
+    ],
+    "base_english_prompt": "A slow camera panning showing a blueprint labeled with the English text \"PHASE II\" in clean bold sans-serif, displaying drawings of electric scooters and transit buses. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC110",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Cột mốc số 50,000 / YEAR nổi bật bên cạnh bản đồ đất nước Indonesia đứt nét màu xanh ngọc.",
+    "sentences": [
+      "Tại Indonesia, nhà máy Subang cũng khánh thành với công suất thiết kế giai đoạn đầu đạt 50.000 xe mỗi năm."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"50,000 / YEAR\" in clean sans-serif font centered in the upper third, next to a glowing turquoise outline map of Indonesia. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC111",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Một bóng đen trạm gác biên giới lạnh lùng với thanh chắn màu đỏ rực hạ xuống chắn ngang con đường.",
+    "sentences": [
+      "Rào cản thuế quan tương tự cũng xuất hiện tại những thị trường ít ai ngờ tới."
+    ],
+    "base_english_prompt": "A steady shot showing a dark silhouette of a customs checkpoint gate with a glowing crimson red barrier bar lowered across a dark highway road. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC112",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Tờ lịch ngày 23/06/2026 hiện lên sắc nét, đánh dấu một cột mốc quan trọng.",
+    "sentences": [
+      "Ngày hai mươi ba tháng sáu năm hai nghìn không trăm hai mươi sáu"
+    ],
+    "base_english_prompt": "A steady shot showing a clean minimalist desk calendar displaying the date \"JUNE 23, 2026\" under a dramatic spotlight casting deep shadows. Dark warm charcoal background, warm cream outlines, subtle glowing turquoise indicators, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC113",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản đồ thành phố Almaty đứt nét màu kem, hàng loạt chiếc xe taxi xanh ngọc (GSM) xuất hiện lấp đầy các tuyến đường.",
+    "sentences": [
+      "hệ sinh thái Vingroup mở thêm mặt trận mới khi triển khai dịch vụ taxi điện tại thành phố Almaty của Kazakhstan."
+    ],
+    "base_english_prompt": "A slow camera panning showing a clean abstract road map of Almaty city with multiple small glowing turquoise car icons moving along the grids. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC114",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Con số ,000,000 hiển thị dạng typography điện ảnh lớn phát sáng màu xanh ngọc ở trung tâm màn hình.",
+    "sentences": [
+      "Dự án này có cam kết đầu tư lên tới 100 triệu đô la Mỹ"
+    ],
+    "base_english_prompt": "A steady shot showing the English text \",000,000\" in bold clean sans-serif font centered in the upper third, glowing with a soft turquoise aura in the dark. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC115",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Một hàng dài 500 chiếc xe điện xanh ngọc xếp ngay ngắn đi qua cửa hải quan Kazakhstan.",
+    "sentences": [
+      "và đội xe 500 chiếc vê ép sáu ê cô tiên phong trên đường phố.",
+      "Nhưng ngay khi lô xe đầu tiên nhập khẩu vào Kazakhstan"
+    ],
+    "base_english_prompt": "A slow camera panning showing a long queue of minimalist electric SUV silhouettes crossing a grand border gate in Central Asia. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC116",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Con số VAT: 16% màu đỏ rực đè nặng lên hồ sơ hải quan lô xe nhập khẩu.",
+    "sentences": [
+      "hãng phải chịu mức thuế vê a tê 16% mới áp dụng từ đầu năm 2026."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"VAT: 16%\" in bold sans-serif font centered in the upper third, glowing red as it stamps onto an import declaration document. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC117",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một chỉ số chi phí nhảy vọt lên cao cắt ngang qua vạch 0% cũ.",
+    "sentences": [
+      "Mức thuế này chấm dứt thời kỳ ưu đãi 0% trước đó và đẩy chi phí đầu vào tăng đột biến."
+    ],
+    "base_english_prompt": "A steady shot showing a financial chart where a flat green line labeled \"0% TAX\" is broken by a sudden sharp vertical red spike going upward. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC118",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Hai sơ đồ song song đại diện cho Ấn Độ và Kazakhstan hiển thị kết nối logic lắp ráp CKD để lách thuế quan.",
+    "sentences": [
+      "Kịch bản này lặp lại chính xác bài học tại Ấn Độ: muốn tồn tại lâu dài"
+    ],
+    "base_english_prompt": "A subtle slow pan left showing two abstract schematic map segments of India and Kazakhstan connected by glowing turquoise vector link lines. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC119",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Hai nhà đàm phán bắt tay nhau trước một bản thiết kế nhà máy lắp ráp CKD tại Almaty.",
+    "sentences": [
+      "buộc phải đàm phán lắp ráp nội địa hóa ngay tại nước sở tại."
+    ],
+    "base_english_prompt": "A steady shot showing two dark silhouettes of business representatives shaking hands over a table with factory blueprints under a dim spotlight. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC120",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một chuỗi ba bức tường thành bằng đá đen dựng lên nối tiếp nhau ngăn cản con đường tiến lên của xe điện.",
+    "sentences": [
+      "Từ Ấn Độ đến Indonesia rồi đến Kazakhstan, mỗi thị trường mới nổi đều dựng lên một rào cản thuế quan riêng."
+    ],
+    "base_english_prompt": "A slow camera panning showing three heavy stone walls constructed one after another on a dark ground, blocking the path forward. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC121",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một nhánh dòng tiền màu đỏ bị ngắt điện để dồn toàn bộ năng lượng sang nhánh khác màu xanh ngọc.",
+    "sentences": [
+      "Và để vượt qua từng rào cản đó, VinFast buộc phải hy sinh dòng tiền ở các mặt trận khác."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing power circuit where red energy lines fade and turn dark, while another major turquoise line brightens intensely. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC122",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Bản vẽ thiết kế nhà máy Chatham (Mỹ) bị đóng dấu đỏ POSTPONED TO 2028 và mờ dần vào bóng tối.",
+    "sentences": [
+      "Hãng đã quyết định hoãn tiến độ vận hành nhà máy Chatham tại Mỹ sang năm 2028."
+    ],
+    "base_english_prompt": "A steady shot showing a blueprint layout of the North Carolina factory with the bold English stamp \"POSTPONED TO 2028\" in crimson red. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC123",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một chiếc kéo cơ học tối giản cắt đứt một tập tài liệu chi phí đầu tư khổng lồ CAPEX.",
+    "sentences": [
+      "Quyết định này giúp cắt giảm ngay lập tức hàng tỷ đô la Mỹ chi phí đầu tư xây dựng ngắn hạn."
+    ],
+    "base_english_prompt": "A steady close-up shot showing minimalist metal scissors cutting through a paper ledger labeled with the English word \"CAPEX\". Dark warm charcoal background, warm cream outlines, subtle glowing red accents, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC124",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một chiếc khiên bảo vệ màu xanh ngọc vững chãi che chắn cho dòng tiền bên trong trước những bông tuyết đen bao phủ.",
+    "sentences": [
+      "Trong bối cảnh mùa đông xe điện tại các nước phương Tây đang kéo dài, bảo vệ thanh khoản là ưu tiên hàng đầu."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing turquoise dome protecting a floating pile of cream banknotes from dark falling snow particles in the dark. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC125",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Một chiếc dây cáp treo mỏng manh bằng ánh sáng xanh ngọc bắc qua một vực thẳm đá đen sâu hoắm.",
+    "sentences": [
+      "Nhưng trò chơi bành trướng quy mô bằng nhà máy cê ca đê tại các nước mới nổi vẫn chứa đựng nhiều rủi ro sinh tử."
+    ],
+    "base_english_prompt": "A steady shot showing a single glowing turquoise wire rope stretched across a deep dark charcoal gorge under a windy, stormy sky. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC126",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Cận cảnh một bình truyền năng lượng cơ học khổng lồ đang bơm dòng chất lỏng phát sáng đỏ vào một hệ thống phức tạp.",
+    "sentences": [
+      "Vì để duy trì dòng tiền khổng lồ cho cuộc chơi dài hơi này"
+    ],
+    "base_english_prompt": "A steady close-up shot showing a large industrial pump injecting glowing red liquid energy into a dark complex hydraulic network. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC127",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Bóng đen của chiếc xe điện VinFast đang đứng trước một đấu trường rộng lớn tối sầm dưới ánh trăng mờ ảo.",
+    "sentences": [
+      "VinFast đang phải đối đầu trực diện với một quy luật đào thải tàn khốc."
+    ],
+    "base_english_prompt": "A subtle slow zoom-out showing a sleek car silhouette parked at the entrance of a massive, dark, empty stone colosseum in the night. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC128",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Hai bóng xe ô tô lớn đang lao thẳng vào nhau ở tốc độ cao trên một cầu vượt tối sầm dưới bầu trời sấm sét.",
+    "sentences": [
+      "Quy luật đó chính là Trò chơi gà tơ vĩ mô trong kinh tế học công nghiệp nặng"
+    ],
+    "base_english_prompt": "A steady shot showing two massive dark car silhouettes speeding directly towards each other on a narrow black bridge under stormy clouds. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC129",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Điểm va chạm của hai chiếc xe tạo ra một vụ nổ lớn bằng những tia sáng hình học đỏ rực, lọc bỏ các nét thừa xung quanh.",
+    "sentences": [
+      "nơi các đối thủ lớn lao thẳng vào nhau và chấp nhận thua lỗ để thanh lọc thị trường."
+    ],
+    "base_english_prompt": "A steady shot showing a dramatic geometric explosion of glowing red shards at the center of the screen, clearing away surrounding dust lines. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC130",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một chiếc xe điện màu kem vững chãi đi xuyên qua đống đổ nát, trong khi chiếc xe đối thủ bị chệch hướng lao xuống vực.",
+    "sentences": [
+      "Kẻ thắng cuộc là kẻ chịu đựng tổn thất lâu nhất, buộc đối thủ phải chệch hướng hoặc phá sản."
+    ],
+    "base_english_prompt": "A slow camera panning showing a single cream electric car silhouette driving forward through falling charcoal debris, while a broken car outline slides off-road. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC131",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Logo hình elip của Samsung phát sáng vàng kem trên nền một tấm wafer silic tối giản khổng lồ.",
+    "sentences": [
+      "Samsung đã từng dùng công thức tàn khốc này để giành ngôi vương ngành bán dẫn toàn cầu."
+    ],
+    "base_english_prompt": "A steady shot showing a large silicon wafer grid with a pulsing warm cream oval emblem representing Samsung in the center. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC132",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Bản đồ Nhật Bản tối giản thu nhỏ lại vào bóng tối, các nhà máy tại đây đóng cửa và tắt ngấm đèn.",
+    "sentences": [
+      "Trong đợt suy thoái năm 1993, khi các công ty Nhật Bản thu hẹp quy mô phòng thủ bằng cách cắt giảm đầu tư"
+    ],
+    "base_english_prompt": "A subtle slow pan left showing an outline map of Japan fading into darkness, with tiny factory icons turning off their lights one-by-one. Dark warm charcoal background, warm cream outlines, subtle glowing red indicators, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC133",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Dây chuyền sản xuất wafer của Samsung hoạt động rực sáng màu xanh ngọc, các cánh tay robot đưa các tấm wafer vào lò hấp.",
+    "sentences": [
+      "Samsung lại đi ngược số đông, tiếp tục bơm tiền đầu tư các nhà máy tấm wafer thế hệ mới."
+    ],
+    "base_english_prompt": "A slow camera panning showing automated machinery loading glowing turquoise silicon wafers onto a fast-moving high-tech conveyor line. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC134",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Con số DRAM: -86% hiển thị lớn và rơi tự do xuống nền tối, xung quanh là hàng ngàn con chip nhỏ rơi rụng.",
+    "sentences": [
+      "Đến cuộc khủng hoảng tài chính 2008, khi giá chip di ram lao dốc tới 86% do cung vượt cầu"
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"DRAM: -86%\" in a clean bold sans-serif font falling rapidly down, surrounded by falling minimalist computer chip icons. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC135",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Các ống phun kim loại của nhà máy Samsung liên tục đúc ra hàng triệu con chip DRAM lấp lánh dải sáng xanh ngọc.",
+    "sentences": [
+      "Samsung tiếp tục tăng mạnh vốn đầu tư lên mức kỷ lục để nâng sản lượng và hạ giá bán."
+    ],
+    "base_english_prompt": "A slow camera panning showing high-speed robotic systems manufacturing microchips on a massive scale, with turquoise laser beams scanning the lines. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC136",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một đường biểu đồ giá bán màu đỏ cắm xuống sâu dưới vạch nét đứt chi phí trung bình màu kem.",
+    "sentences": [
+      "Nước đi ngược chu kỳ này đã dìm giá bán xuống dưới chi phí sản xuất trung bình của ngành."
+    ],
+    "base_english_prompt": "A steady shot showing a financial line graph where a solid red line drops far below a dotted cream horizontal line labeled \"AVG COST\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC137",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một dòng chất lỏng phát sáng xanh ngọc từ bể chứa PROFITS lớn bên cạnh đổ vào để lấp đầy hố sâu DRAM LOSS màu đỏ.",
+    "sentences": [
+      "Họ dùng lợi nhuận từ mảng khác để bù đắp khoản lỗ khổng lồ của mảng di ram."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing turquoise stream pouring from a vat labeled \"PROFITS\" into a dark red void labeled \"DRAM LOSS\" to balance the levels. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC138",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Logo của Qimonda bị vỡ vụn và rơi vào hố sâu tối tăm, bên cạnh mốc năm 2009.",
+    "sentences": [
+      "Kết quả là hãng sản xuất di ram lớn thứ năm thế giới là ki mon da của Đức tuyên bố phá sản vào năm 2009."
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist geometric letter Q emblem cracking and dissolving into charcoal dust, with the date \"2009\" in the background. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC139",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Logo Elpida vỡ vụn tương tự, để lộ một két sắt trống rỗng phát sáng đỏ mờ ảo bên cạnh mốc năm 2012.",
+    "sentences": [
+      "Hãng khổng lồ el pi da me mo ri của Nhật Bản cũng cạn tiền và sụp đổ vào năm 2012."
+    ],
+    "base_english_prompt": "A steady shot showing another minimalist brand logo shattering into fragments against a dark wall, next to the English text \"2012\" in clean sans-serif. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC140",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Chiếc xe điện VinFast màu kem đơn độc lăn bánh trên một mặt băng nứt nẻ dưới trời tuyết tối tăm.",
+    "sentences": [
+      "Hôm nay, VinFast đang tiến vào các thị trường lớn với một tâm thế tương tự trong mùa đông xe điện."
+    ],
+    "base_english_prompt": "A subtle slow pan right showing a warm cream electric car silhouette driving across a vast dark frozen lake with glowing ice cracks. Dark warm charcoal background, warm cream outlines, subtle red taillight glow, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC141",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Ba bóng đen khổng lồ đại diện cho các đối thủ vây quanh chiếc xe điện màu kem nhỏ bé.",
+    "sentences": [
+      "Nhưng đối thủ của họ tại Ấn Độ không phải là những kẻ dễ bị bắt nạt."
+    ],
+    "base_english_prompt": "A steady shot showing three massive, sharp geometric blocks in solid black rising from the ground, casting deep shadows over a small cream car. Dark warm charcoal background, warm cream outlines, subtle red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC142",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Hai logo đại diện cho Tata và Mahindra phát sáng đỏ sẫm trên một mạng lưới chuỗi cung ứng linh kiện nội địa Ấn Độ dày đặc.",
+    "sentences": [
+      "Đó là Tata Motors và Mahindra, những hãng đã làm chủ hoàn toàn chuỗi cung ứng linh kiện nội địa."
+    ],
+    "base_english_prompt": "A slow camera panning showing a dense industrial supply network map of India, with two prominent circular emblems pulsing with red light. Dark warm charcoal background, warm cream outlines, glowing red highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC143",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản đồ Ấn Độ rực sáng hàng ngàn đốm sáng nhỏ màu đỏ đại diện cho hệ thống đại lý dịch vụ dày đặc.",
+    "sentences": [
+      "Họ có mạng lưới đại lý phủ kín cả nước và rất hiểu thị hiếu xe giá rẻ của người dân Ấn."
+    ],
+    "base_english_prompt": "A slow camera panning showing a map of India slowly covered by a dense matrix of glowing red dots, representing an established dealer network. Dark warm charcoal background, warm cream outlines, glowing red highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC144",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Hai thực thể cơ khí lớn JSW và Chery bắt tay và ghép nối thành một liên minh lắp ráp xe.",
+    "sentences": [
+      "Chưa kể liên doanh mới ji ét kép mô tơ hợp tác cùng Chery cũng"
+    ],
+    "base_english_prompt": "A steady shot showing two dark metallic cogwheels locking together, labeled with the English text \"JSW\" and \"CHERY\" in clean minimal font. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC145",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Ba bóng đen của ba chiếc SUV cỡ lớn hiển thị dưới tấm bạt phủ màu kem sang trọng hé mở.",
+    "sentences": [
+      "đang rục rịch ra mắt 3 dòng ét u vi điện lớn cuối năm 2026."
+    ],
+    "base_english_prompt": "A steady shot showing three massive SUV car silhouettes partially covered by dark drapes, under three dramatic spotlights in a dark showroom. Dark warm charcoal background, warm cream outlines, subtle red highlight lines, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC146",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Tại Indonesia, BYD và Wuling đang kiểm soát cuộc chơi nhờ ưu thế chuỗi cung ứng cell pin tự chủ của Trung Quốc.",
+    "sentences": [
+      "Tại Indonesia, BYD và Wuling đang kiểm soát cuộc chơi nhờ ưu thế chuỗi cung ứng cell pin tự chủ của Trung Quốc."
+    ],
+    "base_english_prompt": "A slow camera panning showing automated machinery assembling rows of lithium battery cells labeled with the English text \"LFP CELL\". Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC147",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Bản đồ Indonesia bị chia cắt bởi vô số hòn đảo tối tăm tách biệt, các cột sạc điện cô độc đứng giữa biển.",
+    "sentences": [
+      "Việc xây dựng hạ tầng trạm sạc tại quốc gia vạn đảo Indonesia cũng gặp rào cản địa lý và tài chính vô cùng lớn."
+    ],
+    "base_english_prompt": "A slow camera panning across a minimalist map of the Indonesian archipelago with wide ocean gaps between islands, and isolated charging station icons. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC148",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản thiết kế động cơ EREV với sự kết hợp của khối pin và động cơ xăng phụ trợ phát sáng xanh ngọc.",
+    "sentences": [
+      "Để đối phó rào cản này, VinFast đã chính thức thương mại hóa dòng xe điện mở rộng phạm vi ê rét"
+    ],
+    "base_english_prompt": "A steady shot showing a detailed engineering layout of an EREV powertrain, showing the connection between a battery pack and a small generator. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, futuristic cyber-minimalism, high-tech engineering background, glowing data streams, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC149",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Chiếc xe điện VF 8 EREV màu kem lăn bánh mượt mà đi qua vùng trạm sạc trống trải mà không cần dừng lại, dải sáng xanh ngọc kéo dài phía sau.",
+    "sentences": [
+      "tiêu biểu là phiên bản vê ép tám ê rét vừa được giới thiệu để giải quyết nỗi lo về trạm sạc."
+    ],
+    "base_english_prompt": "A slow camera panning showing a sleek SUV silhouette labeled \"VF 8 EREV\" driving smoothly past empty charging stations into the horizon. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC150",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Con số LOCALIZATION: 80% hiển thị lớn và tăng dần trên bảng chỉ thị kỹ thuật tại Tamil Nadu.",
+    "sentences": [
+      "Đồng thời, VinFast bắt buộc phải nâng nhanh tỷ lệ nội địa hóa lên mức 70% đến 80% tại Tamil Nadu."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"LOCALIZATION: 80%\" in bold green sans-serif centered in the upper third, on a factory monitor interface screen. Dark warm charcoal background, warm cream outlines, glowing electric sage green highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC151",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một chiếc container chở hàng lênh đênh trên biển lớn giữa Hải Phòng và Ấn Độ, xung quanh là sóng gió lớn.",
+    "sentences": [
+      "Nếu vẫn phải nhập khẩu hầu hết linh kiện từ Việt Nam hay Trung Quốc về lắp ráp cê ca đê"
+    ],
+    "base_english_prompt": "A steady shot showing a lone cargo container labeled \"PARTS\" floating on a dark turbulent sea, with waves drawn in high contrast ink. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC152",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Đồng tiền xu màu kem bị một dòng xoáy cơ học logistics màu đỏ mài mòn vỡ vụn dần.",
+    "sentences": [
+      "biên lợi nhuận gộp tại chỗ vẫn sẽ bị chi phí logistics và vận chuyển bào mòn."
+    ],
+    "base_english_prompt": "A steady close-up shot showing a warm cream coin being slowly eroded and worn down by a dark red grinding wheel labeled \"LOGISTICS\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC153",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Ngọn lửa đỏ rực thiêu rụi các xấp tiền giấy màu kem trong một chiếc lò sưởi cơ khí tối sầm.",
+    "sentences": [
+      "Tuy nhiên, muốn trụ lại trong cuộc chiến chích cừn gêm đốt tiền khốc liệt này"
+    ],
+    "base_english_prompt": "A steady shot showing paper bank notes labeled \"CASH\" slowly burning and turning to ash inside a dark heavy iron industrial furnace. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC154",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Một chiếc bình oxy y tế bằng kim loại khổng lồ phát sáng màu xanh ngọc kết nối trực tiếp vào biểu tượng chữ V của hãng xe.",
+    "sentences": [
+      "doanh nghiệp cần một bình oxy khổng lồ để duy trì hơi thở."
+    ],
+    "base_english_prompt": "A steady shot showing a giant metal oxygen tank labeled \"LIQUIDITY\" glowing in turquoise, with tubes connected to a central letter V emblem. Dark warm charcoal background, warm cream outlines, glowing turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC155",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một chiếc bình năng lượng lớn phát sáng cam đất nung đang truyền dẫn các luồng sáng nhiệt đới nối sang một hệ thống cơ khí bên cạnh.",
+    "sentences": [
+      "Bình oxy đó chính là cơ chế bù chéo hệ sinh thái vĩ mô"
+    ],
+    "base_english_prompt": "A steady shot showing a large industrial power reservoir glowing in terracotta orange, sending light streams into a nearby mechanical engine block. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC156",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Hình vẽ đồ họa một cánh diều máy bay Airbus khổng lồ bằng các dải sáng màu kem đang bay vút lên bầu trời châu Âu tối sẫm.",
+    "sentences": [
+      "một mô hình tài chính kinh điển từng nâng đỡ cánh diều công nghiệp Airbus của châu Âu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a massive abstract airplane silhouette resembling an Airbus rising majestically into a dark sky, outlined in glowing warm cream. Dark warm charcoal background, warm cream outlines, subtle glowing terracotta orange accents, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC157",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bản đồ châu Âu tối giản bị bao phủ bởi bóng đen của một chiếc máy bay Boeing khổng lồ của Mỹ từ phía Tây.",
+    "sentences": [
+      "Nhận thấy châu Âu sẽ mãi phụ thuộc công nghệ vào Mỹ nếu không tự xây dựng hãng máy bay nội địa"
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist outline map of Europe shadowed by a giant dark airplane silhouette incoming from the West. Dark warm charcoal background, warm cream outlines, subtle red warning lights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC158",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Bốn dải ruy-băng ánh sáng đại diện cho 4 quốc gia châu Âu đan xen và gắn kết lại với nhau tại mốc năm 1970.",
+    "sentences": [
+      "chính phủ các nước Pháp, Đức, Anh và Tây Ban Nha đã liên kết tạo ra liên doanh Airbus vào năm 1970."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"1970\" in bold clean sans-serif font centered in the upper third, with four distinct colored ribbons of light intertwining below. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC159",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Bản phác thảo một tuabin động cơ phản lực Airbus lớn đè nặng lên các khối đồ họa chi phí R&D BILL.",
+    "sentences": [
+      "Airbus phải gánh chi phí nghiên cứu phát triển a n đê vô cùng khổng lồ của các dòng máy bay đầu tiên."
+    ],
+    "base_english_prompt": "A slow camera panning showing a complex jet engine blueprint overlaid on a giant stack of ledgers labeled with the English word \"R&D\". Dark warm charcoal background, warm cream outlines, subtle red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC160",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Các ống truyền dẫn tiền tệ phát sáng cam đất nung liên tục đổ vào bể chứa của dự án Airbus.",
+    "sentences": [
+      "Liên minh chính phủ châu Âu đã liên tục rót vốn hỗ trợ dưới dạng lon chình eit."
+    ],
+    "base_english_prompt": "A steady close-up shot showing multiple glowing lines of fluid gold energy feeding into a central reservoir labeled with the English text \"LAUNCH AID\". Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC161",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Một sợi dây thừng bằng ánh sáng màu kem lỏng lẻo trói quanh một chồng tài liệu khoản vay LOANS.",
+    "sentences": [
+      "Đây thực chất là các khoản vay ưu đãi có hoàn lại nhưng với điều kiện vô cùng lỏng lẻo."
+    ],
+    "base_english_prompt": "A steady shot showing a pile of paper documents labeled \"SOFT LOANS\" loosely bound by a thin glowing warm cream rope in the dark. Dark warm charcoal background, warm cream outlines, subtle glowing orange lights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC162",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mỹ liên tục kiện liên minh châu Âu lên WTO suốt 17 năm ròng rã.",
+    "sentences": [
+      "Mỹ liên tục kiện liên minh châu Âu lên vê tê ô suốt 17 năm ròng rã."
+    ],
+    "base_english_prompt": "A steady shot showing a judge's gavel silhouette striking a stand, with the bold English text \"WTO: 17 YEARS\" glowing in the background. Dark warm charcoal background, warm cream outlines, glowing red highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC163",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một chiếc máy bay Airbus màu kem lướt nhẹ nhàng bay dưới vạch giới hạn chi phí REAL COST màu đỏ rực.",
+    "sentences": [
+      "Họ cáo buộc các khoản hỗ trợ phi thị trường này giúp Airbus hạ giá bán máy bay dưới giá vốn thực tế."
+    ],
+    "base_english_prompt": "A steady shot showing an airplane silhouette flying underneath a horizontal glowing red line labeled with the English text \"REAL COST\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC164",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Liên minh châu Âu lập tức kiện ngược Mỹ tài trợ ngầm cho Boeing qua các hợp đồng của Lầu Năm Góc.",
+    "sentences": [
+      "Liên minh châu Âu lập tức kiện ngược Mỹ tài trợ ngầm cho Boeing qua các hợp đồng của Lầu Năm Góc."
+    ],
+    "base_english_prompt": "A steady shot showing a minimalist graphic outline of the Pentagon building, with two conflicting energy beams crossing over it. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC165",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Cuộc chiến pháp lý dai dẳng này kéo dài đến tận năm 2021 mới tạm thời đình chiến.",
+    "sentences": [
+      "Cuộc chiến pháp lý dai dẳng này kéo dài đến tận năm 2021 mới tạm thời đình chiến."
+    ],
+    "base_english_prompt": "A steady shot showing two glowing swords silhouettes planted side-by-side in the dark soil, with the date \"2021\" glowing in clean sans-serif text. Dark warm charcoal background, warm cream outlines, subtle glowing orange lights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC166",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Chiếc máy bay Airbus màu kem vươn thẳng lên bầu trời, vượt qua chiếc máy bay Boeing màu xám sẫm bị tụt lại phía sau.",
+    "sentences": [
+      "Nhờ sự kiên trì bù lỗ suốt 3 thập kỷ từ chính phủ, Airbus mới đạt sản lượng hòa vốn để vượt qua Boeing."
+    ],
+    "base_english_prompt": "A slow camera panning showing a bright warm cream airplane silhouette climbing at a steep angle, surpassing a dark grey airplane silhouette below. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC167",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Cổng tòa nhà kho bạc nhà nước Việt Nam đóng kín với thanh chắn cấm màu đỏ gạch của WTO.",
+    "sentences": [
+      "Nhưng tại Việt Nam, VinFast không thể nhận các gói tài trợ tài khóa trực tiếp từ chính phủ do các"
+    ],
+    "base_english_prompt": "A steady shot showing a closed classic stone treasury gate silhouette with a glowing red diagonal block bar over it. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC168",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một cuốn sách ghi chữ WTO RULES mở sẵn, xích chặt các tập tài liệu trợ cấp màu đỏ.",
+    "sentences": [
+      "ràng buộc chặt chẽ từ cam kết của Việt Nam khi gia nhập tổ chức thương mại thế giới vê tê ô."
+    ],
+    "base_english_prompt": "A steady shot showing an open book labeled with the English text \"WTO RULES\" in clean sans-serif, with thin metal chains binding red folders. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC169",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một chiếc ô lớn che chở cho một tổ hợp nhà máy sản xuất VinFast phía dưới khỏi các tia sét đỏ từ đám mây bão quốc tế.",
+    "sentences": [
+      "Để tránh các vụ kiện chống trợ cấp quốc tế, tập đoàn mẹ Vingroup đang đóng vai trò như một chính phủ thu nhỏ."
+    ],
+    "base_english_prompt": "A steady shot showing a large warm cream umbrella silhouette sheltering a factory model from red lightning bolts striking from above. Dark warm charcoal background, warm cream outlines, glowing red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC170",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Dòng tiền thặng dư từ mảng bất động sản Vinhomes được liên tục chuyển dịch để bù đắp các khoản lỗ cho mảng ô tô.",
+    "sentences": [
+      "Dòng tiền thặng dư từ mảng bất động sản Vinhome được liên tục chuyển dịch để bù đắp các khoản lỗ cho mảng ô tô."
+    ],
+    "base_english_prompt": "A slow camera panning showing neat rows of glowing high-rise building silhouettes sending warm orange light lines toward a modern electric car model. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC171",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Một tờ giấy ghi nợ màu đỏ DEBT: 80T tan chảy thành một chứng chỉ cổ phần màu cam EQUITY phát sáng.",
+    "sentences": [
+      "Tập đoàn mẹ cam kết hỗ trợ tối đa khi chuyển đổi khoản vay hiện hữu 80.000 tỷ đồng thành cổ phần ưu đãi."
+    ],
+    "base_english_prompt": "A steady shot showing a dark paper bill labeled \"DEBT: 80T\" transforming into a glowing terracotta orange certificate labeled \"EQUITY\" in sans-serif. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC172",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Con số B GRANT phát sáng cam ấm ở chính giữa màn hình bên cạnh chữ ký biểu tượng tối giản.",
+    "sentences": [
+      "Cá nhân nhà sáng lập cũng cam kết tài trợ không hoàn lại thêm 50.000 tỷ đồng cho VinFast."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"B GRANT\" in clean bold sans-serif font centered in the upper third, alongside a minimalist handwritten signature graphic. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC173",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Một ranh giới đứt nét phân chia chiếc xe điện VinFast sang một bên sạch nợ, bên kia là đống nợ 182k tỷ.",
+    "sentences": [
+      "Đỉnh điểm là quyết định tách khoản nợ sản xuất trị giá 182.000 tỷ đồng ra khỏi bảng cân đối của VinFast Auto"
+    ],
+    "base_english_prompt": "A steady shot showing a dotted line dividing the screen: one side contains a car outline and the other contains a red block labeled \"182T DEBT\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC174",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "bằng cách chuyển giao tổ hợp sản xuất Hải Phòng cho một đơn vị độc lập để chuyển sang mô hình thuê ngoài sản xuất.",
+    "sentences": [
+      "bằng cách chuyển giao tổ hợp sản xuất Hải Phòng cho một đơn vị độc lập để chuyển sang mô hình thuê ngoài sản xuất."
+    ],
+    "base_english_prompt": "A slow camera panning showing a factory icon sliding away from a corporate emblem and connecting to a third-party assembly line structure. Dark warm charcoal background, warm cream outlines, subtle glowing red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC175",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Khối nợ màu đỏ lớn vẫn nằm nguyên ở nền sâu dưới bóng đen của tập đoàn mẹ Vingroup.",
+    "sentences": [
+      "Nước đi tài chính này không làm khoản nợ khổng lồ biến mất khỏi hệ thống của tập đoàn mẹ Vingroup."
+    ],
+    "base_english_prompt": "A steady shot showing a massive red glowing cube in the deep background, while the shadow of a large corporate tower stands firmly in front of it. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC176",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Nhưng nó giúp thực thể niêm yết trên sàn Nasdaq làm sạch cấu trúc tài chính và loại bỏ chi phí khấu hao tĩnh.",
+    "sentences": [
+      "Nhưng nó giúp thực thể niêm yết trên sàn Nasdaq làm sạch cấu trúc tài chính và loại bỏ chi phí khấu hao tĩnh."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"NASDAQ\" in bold clean sans-serif centered in the upper third, next to a clean transparent ledger sheet glowing in warm orange. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC177",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Một bảng cân đối kế toán sạch sẽ là chìa khóa quyết định để hãng tiếp tục gọi dòng vốn ngoại bang.",
+    "sentences": [
+      "Một bảng cân đối kế toán sạch sẽ là chìa khóa quyết định để hãng tiếp tục gọi dòng vốn ngoại bang."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing terracotta orange key unlocking a massive safe door, revealing streams of turquoise light inside. Dark warm charcoal background, warm cream outlines, glowing terracotta orange and turquoise highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC178",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Chiếc xe điện màu kem đi qua một cây cầu ánh sáng màu cam bắc ngang qua thung lũng định phí tối tăm.",
+    "sentences": [
+      "Sự bù chéo này giúp doanh nghiệp bám trụ qua thung lũng chết của định phí trước khi đạt quy mô tối thiểu."
+    ],
+    "base_english_prompt": "A slow camera panning showing a warm cream electric car silhouette driving across a glowing terracotta orange bridge over a pitch-black valley. Dark warm charcoal background, warm cream outlines, glowing terracotta orange highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC179",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Chiếc bình oxy màu cam bắt đầu xuất hiện những vết nứt phát ánh sáng đỏ cảnh báo dưới sức ép của cơn bão.",
+    "sentences": [
+      "Tuy nhiên, bình oxy của hệ sinh thái cũng có giới hạn vật lý của nó khi nền kinh tế gặp cơn gió ngược."
+    ],
+    "base_english_prompt": "A steady shot showing a metal tank silhouette showing fine red cracks under the pressure of a strong wind carrying dark charcoal particles. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC180",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Cận cảnh trang đầu tiên của báo cáo kiểm toán có đóng dấu đỏ AUDIT REPORT 2025 nổi bật dưới ánh đèn noir.",
+    "sentences": [
+      "Giới hạn đó hiện rõ trong báo cáo kiểm toán độc lập năm 2025."
+    ],
+    "base_english_prompt": "A steady close-up shot showing the cover of an audit report document labeled \"AUDIT REPORT 2025\" in bold sans-serif, with a red stamp. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC181",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Số lớn 120,000 BILLION VND phát sáng đỏ gay gắt giữa một cơn xoáy dữ liệu tài chính tối tăm.",
+    "sentences": [
+      "Với khoản lỗ ròng chạm mốc hơn 120.000 tỷ đồng chỉ trong vòng một năm tài chính theo chuẩn báo cáo kiểm toán"
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"120,000B VND LOSS\" in bold sans-serif font centered in the upper third, surrounded by dark swirling lines on a ledger page. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC182",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Dòng chữ tiếng Anh GOING CONCERN RISK hiển thị màu đỏ ở góc dưới của một trang báo cáo kiểm toán màu kem bị xé góc.",
+    "sentences": [
+      "các kiểm toán viên quốc tế đã liên tục đưa ra cảnh báo về khả năng hoạt động liên tục của VinFast."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"GOING CONCERN RISK\" in clean bold red sans-serif font centered in the upper third, on a torn sheet of paper. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC183",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Một chiếc bình thủy tinh đựng nước thanh khoản LIQUIDITY bị nứt làm đôi, nước màu kem rò rỉ chảy ra ngoài.",
+    "sentences": [
+      "Khi nợ ngắn hạn vượt quá tài sản ngắn hạn, rủi ro đứt gãy thanh khoản luôn chực chờ."
+    ],
+    "base_english_prompt": "A steady close-up shot showing a cracked glass jar labeled with the English word \"LIQUIDITY\", as warm cream liquid leaks out onto a dark desk. Dark warm charcoal background, warm cream outlines, glowing crimson coral red warning highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC184",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Một dải mũi tên dòng tiền đi lùi màu đỏ luồn lách qua các bánh răng nhà máy Hải Phòng.",
+    "sentences": [
+      "Dòng tiền từ hoạt động kinh doanh liên tục âm trong giai đoạn bành trướng quy mô lớn"
+    ],
+    "base_english_prompt": "A slow camera panning showing a series of red arrows pointing backward on a conveyor line of a massive factory silhouette. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC185",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Quả tạ sắt đen INTEREST và SHORT-TERM DEBT đè bẹp biểu đồ tăng trưởng vốn.",
+    "sentences": [
+      "đi kèm với đó là gánh nặng nợ ngắn hạn và chi phí lãi vay đè nặng lên chi phí tài chính."
+    ],
+    "base_english_prompt": "A steady shot showing two heavy dark iron weights labeled \"INTEREST\" and \"DEBT\" crushing a delicate line graph outline below them. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC186",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Một chiếc phao tròn cứu sinh màu đỏ phát sáng rực rỡ trôi nổi cứu một thực thể VFS đang chìm trong biển tối.",
+    "sentences": [
+      "Lúc này, cam kết tài trợ dòng tiền từ tập đoàn mẹ và cá nhân nhà sáng lập là chiếc phao cứu sinh duy nhất."
+    ],
+    "base_english_prompt": "A steady shot showing a glowing crimson coral red lifebuoy ring floating in dark turbulent waters, with a faint letter V logo in the center. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC187",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Một bàn tay màu kem ký vào văn bản cam kết pháp lý SUPPORT COMMITMENT phát sáng đỏ bảo vệ.",
+    "sentences": [
+      "Thỏa thuận tài trợ vốn và cam kết hỗ trợ tài chính là điểm tựa pháp lý giữ cho doanh nghiệp không bị đứt dòng tiền."
+    ],
+    "base_english_prompt": "A steady close-up shot showing a hand signing a document with the English text \"FINANCIAL SUPPORT\" glowing in red ink on a wooden table. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC188",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Bóng đen của một hội trường đại hội cổ đông lớn tại Mỹ, ban chủ tọa đứng dưới ánh đèn sân khấu sáng kem.",
+    "sentences": [
+      "Đặc biệt, tại Đại hội cổ đông thường niên của VinFast Auto vào ngày"
+    ],
+    "base_english_prompt": "A steady shot showing the silhouette of a speaker on a stage in front of a large screen displaying charts to a seated audience in a conference hall. Dark warm charcoal background, warm cream outlines, subtle red highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC189",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Con số ngày JONE 25, 2026 hiển thị lớn và sắc nét trên màn hình led đại hội.",
+    "sentences": [
+      "hai mươi lăm tháng sáu năm hai nghìn không trăm hai mươi sáu tại Mỹ."
+    ],
+    "base_english_prompt": "A steady shot showing the English text \"JUNE 25, 2026\" in clean bold sans-serif font centered in the upper third, on a massive glowing screen on a dark stage. Dark warm charcoal background, warm cream outlines, subtle glowing red warnings, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC190",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Cánh cổng sàn giao dịch tài chính lớn mở ra, đón các luồng sáng đầu tư màu đỏ và kem đổ vào.",
+    "sentences": [
+      "Ban lãnh đạo hãng đã củng cố các quyền hạn tài chính để sẵn sàng huy động thêm dòng vốn ngoại bang khi cần thiết."
+    ],
+    "base_english_prompt": "A slow camera panning showing grand doors of a stock exchange building opening to reveal streams of glowing cream and red light. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC191",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Hai cột đá màu kem vững chãi hiện lên trong bóng đêm đại diện cho hai bài học lớn.",
+    "sentences": [
+      "Từ câu chuyện càng lỗ càng mở rộng của VinFast, chúng ta rút ra hai bài học đắt giá về quản trị vốn."
+    ],
+    "base_english_prompt": "A steady shot showing two tall, minimalist stone pillars rising from a dark ground, illuminated by a warm spotlight from the side. Dark warm charcoal background, warm cream outlines, subtle red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC192",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Một chiếc bệ đỡ bằng đá khối vững chãi nâng đỡ toàn bộ mô hình nhà máy Hải Phòng.",
+    "sentences": [
+      "Thứ nhất, tăng trưởng quy mô trong công nghiệp nặng bắt buộc phải dựa trên một bệ đỡ tài chính tĩnh cực kỳ vững chắc."
+    ],
+    "base_english_prompt": "A steady shot showing a massive stone pedestal supporting a glowing factory model, standing firmly against wind and dark smoke. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC193",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Một chiếc cầu gỗ mỏng manh đại diện cho nợ ngắn hạn SHORT-TERM DEBT bị nứt vỡ khi xe tải đi qua.",
+    "sentences": [
+      "Doanh nghiệp không thể hoàn toàn phụ thuộc vào các khoản nợ ngắn hạn"
+    ],
+    "base_english_prompt": "A steady shot showing a fragile wooden suspension bridge labeled \"SHORT DEBT\" cracking as a heavy truck silhouette crosses it. Dark warm charcoal background, warm cream outlines, glowing red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC194",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Chiếc đồng hồ đo lãi suất INTEREST RATE kịch kim cảnh báo màu đỏ.",
+    "sentences": [
+      "có chi phí lãi vay cao để tài trợ cho các dự án dài hạn."
+    ],
+    "base_english_prompt": "A steady shot showing an industrial gauge with a needle in the red danger zone, labeled with the English word \"INTEREST\" in sans-serif. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC195",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Hai bàn tay cùng siết chặt một bánh răng sản xuất bản địa.",
+    "sentences": [
+      "Thứ hai, bành trướng quy mô sang nước ngoài phải đi kèm địa phương hóa"
+    ],
+    "base_english_prompt": "A steady shot showing two hands of different skin tones joining together to hold a large industrial gear, in a clean line art style. Dark warm charcoal background, warm cream outlines, subtle red highlights, modern international geopolitics theme, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC196",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mức giá số tiền chi phí nguyên vật liệu BOM COST hạ thấp xuống trên biểu đồ đồ họa tối giản.",
+    "sentences": [
+      "chuỗi cung ứng bản địa để hạ chi phí nguyên vật liệu be o em."
+    ],
+    "base_english_prompt": "A steady shot showing a digital counter labeled with the English text \"BOM COST\" rapidly ticking down, next to a downward green arrow. Dark warm charcoal background, warm cream outlines, glowing electric sage green highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC197",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Đồng xu biên gộp màu kem bị một làn gió bão cát logistics mài mòn tan biến vào hư không.",
+    "sentences": [
+      "Nếu không thể tự chủ linh kiện tại chỗ mà vẫn nhập khẩu lắp ráp, biên gộp sẽ bị chi phí logistics bào mòn hoàn toàn."
+    ],
+    "base_english_prompt": "A steady shot showing a warm cream coin dissolving into a swirling storm of dark dust labeled with the English word \"LOGISTICS\". Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC198",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Chiếc xe điện màu kem hướng đầu về phía cuối con đường hẹp phát sáng đỏ qua thung lũng tối.",
+    "sentences": [
+      "Liệu chiến lược dồn lực bành trướng quốc tế có giúp VinFast vượt qua thung lũng chết thành công"
+    ],
+    "base_english_prompt": "A slow camera panning showing a warm cream electric car silhouette driving toward a distant crimson light at the end of a long dark tunnel. Dark warm charcoal background, warm cream outlines, glowing red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC199",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Một chiếc dây xích sắt đen khổng lồ đè nặng, quấn quanh biểu tượng chữ V của hệ sinh thái đang phát sáng đỏ mờ nhạt.",
+    "sentences": [
+      "hay gánh nặng nợ nần sẽ kéo sụp cả một hệ sinh thái công nghiệp đang trong giai đoạn chuyển mình?"
+    ],
+    "base_english_prompt": "A steady shot showing a giant iron chain wrapped around a glowing red letter V emblem, under a dramatic dark lightning sky. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC200",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bóng đen của nhiều người Việt Nam đang ngồi quây quần thảo luận sôi nổi trong một không gian quán cà phê vỉa hè tối giản ấm cúng.",
+    "sentences": [
+      "Hãy để lại góc nhìn của bạn ở phần bình luận bên dưới để chúng ta cùng thảo luận."
+    ],
+    "base_english_prompt": "A steady shot showing silhouettes of Vietnamese people sitting at low tables on a street sidewalk in Hanoi under a warm hanging lantern. Dark warm charcoal background, warm cream outlines, subtle glowing red accents, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC201",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Biểu tượng nút Đăng ký màu đỏ SUBSCRIBE và quả chuông phát sáng màu kem đung đưa nhẹ nhàng.",
+    "sentences": [
+      "Đừng quên đăng ký kênh và nhấn nút chuông thông báo để không bỏ lỡ những phân tích chính sách kinh tế tiếp theo."
+    ],
+    "base_english_prompt": "A subtle slow zoom-in showing a minimal red button labeled \"SUBSCRIBE\" with a glowing warm cream bell icon vibrating next to it in the dark. Dark warm charcoal background, warm cream outlines, glowing crimson coral red highlights, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  },
+  {
+    "id": "SC202",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Logo Góc Nhìn Podcast màu kem phát sáng nhẹ nhàng ở tâm màn hình rồi mờ dần vào bóng tối sâu thẵm.",
+    "sentences": [
+      "Xin chào và hẹn gặp lại các bạn trong những video sau."
+    ],
+    "base_english_prompt": "A steady shot showing the minimalist text logo \"Goc Nhin Podcast\" in clean sans-serif centered on the screen, slowly fading into a dark void. Dark warm charcoal background, warm cream outlines, subtle red highlights, culturally authentic Vietnamese elements, warm organic tones, cinematic editorial illustration style, minimalist graphic novel aesthetic, clean ink outlines, dramatic chiaroscuro lighting, deep noir shadows, highly detailed atmospheric background, 8-second continuous documentary video --ar 16:9"
+  }
+]

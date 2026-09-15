@@ -1,0 +1,226 @@
+---
+title: "Sự khác biệt thần kinh học giữa 'Wanting' (thèm khát, mong đợi) và 'Liking' (thích thú, thỏa mãn) trong cờ bạc và cá độ thể thao. Vai trò của Dopamine và Reward Uncertainty (sự không chắc chắn của phần thưởng) là gì? Định dạng bảng so sánh giữa Wanting và Liking."
+type: nblm-answer
+asked_at: 2026-07-06T07:25:27.687Z
+notebook_url: "https://notebooklm.google.com/notebook/d88daa94-be32-4440-a813-5a9b27868e83"
+session_id: "cc24ee6a"
+citations_count: 18
+sources:
+  - "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá"
+  - "and Behavioral Addictions"
+  - "Reward Prediction Error: The Dopamine Surprise Signal - Neurosity"
+---
+
+# Sự khác biệt thần kinh học giữa 'Wanting' (thèm khát, mong đợi) và 'Liking' (thích thú, thỏa mãn) trong cờ bạc và cá độ thể thao. Vai trò của Dopamine và Reward Uncertainty (sự không chắc chắn của phần thưởng) là gì? Định dạng bảng so sánh giữa Wanting và Liking.
+
+> Asked on 2026-07-06T07:25:27.687Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/d88daa94-be32-4440-a813-5a9b27868e83)
+
+## Answer
+
+Thoughts
+Trong tâm lý học hành vi và thần kinh học hiện đại, Incentive-Sensitization Theory (Thuyết nhạy cảm hóa khuyến khích) của Kent Berridge và Terry Robinson đã chứng minh sự phân tách hoàn toàn về mặt sinh học thần kinh giữa hai hệ thống động lực độc lập trong não bộ
+1. Sự phân tách Thần kinh học giữa "Wanting" và "Liking"
+"Wanting" (Thèm khát, Thúc đẩy hành vi): Hệ thống này chịu trách nhiệm gán "sự nổi bật khuyến khích" (incentive salience) lên các kích thích liên quan đến phần thưởng (như giao diện ứng dụng cá cược, âm thanh nhà cái, bảng tỷ lệ kèo)
+1
+. Khi hệ thống này bị kích hoạt, nó biến các tín hiệu môi trường thành "nam châm động lực", thôi thúc người chơi thực hiện hành vi đặt cược một cách cưỡng chế dưới dạng vô thức
+1
+.
+"Liking" (Thích thú, Thỏa mãn thực tế): Hệ thống này hoàn toàn độc lập với "Wanting", chịu trách nhiệm tạo ra trải nghiệm cảm xúc dễ chịu, hân hoan và khoái cảm thực sự khi tiêu thụ phần thưởng (ví dụ: khoảnh khắc thắng cược)
+6
+. Trải nghiệm này được điều phối bởi các mạng lưới giải phẫu siêu nhỏ gọi là "điểm nóng khoái cảm" (hedonic hotspots)
+7
+8
+.
+Trong quá trình nghiện tiến triển, sự mất cân bằng giữa hai hệ thống này xảy ra
+9
+. Sự kích thích liên tục của các đợt giải phóng dopamine làm cho hệ thống "Wanting" bị nhạy cảm hóa (sensitized) mạnh mẽ, khiến người chơi đối mặt với những xung năng đặt cược khổng lồ, không thể kiểm soát
+9
+. Ngược lại, hệ thống "Liking" trải qua quá trình thích nghi tiêu cực (down-regulation), làm giảm khả năng cảm nhận niềm vui thực sự từ chiến thắng
+9
+10
+.
+Điều này giải thích nghịch lý lớn nhất của người chơi cá độ lâu năm: Họ điên cuồng khao khát đặt cược ("Wanting" cực đại) nhưng không còn cảm nhận được niềm vui sướng khi thắng cược ("Liking" suy giảm)
+9
+11
+.
+2. Vai trò của Dopamine và Reward Uncertainty (Sự không chắc chắn của phần thưởng)
+Vai trò của Dopamine:
+Không phải chất truyền dẫn của sự thỏa mãn: Dopamine không trực tiếp tạo ra cảm giác hạnh phúc hay khoái cảm thực tế ("Liking")
+12
+13
+. Thay vào đó, dopamine là chất truyền dẫn chính điều phối hệ thống "Wanting"
+và hoạt động như một công cụ mã hóa Sai số dự báo phần thưởng (Reward Prediction Error - RPE)
+12
+15
+.
+Mã hóa RPE (Sai số dự báo phần thưởng): Hoạt động của dopamine phản ứng theo thuật toán
+16
+17
+:
+RPE=R
+received
+​
+−R
+predicted
+​
+Khi kết quả tốt hơn mong đợi (RPE>0), dopamine bùng phát mạnh mẽ (burst) để củng cố và ghi nhớ hành vi
+. Khi kết quả tệ hơn mong đợi (RPE<0), dopamine bị sụt giảm (dip), tạo cảm giác thất vọng
+16
+21
+. Ở người chơi cá độ, sự kích thích nhân tạo này viết lại hệ thống RPE, biến các kích thích cá cược thành tín hiệu ưu tiên hàng đầu của não bộ
+Vai trò của Reward Uncertainty (Sự bất định của phần thưởng):
+Pha tăng dần kéo dài (Sustained Ramping): Tế bào thần kinh dopamine thể hiện hai pha phản ứng: pha phân cực ngắn (phasic) xuất hiện ngay khi có kích thích báo trước, và pha tăng dần kéo dài (sustained, ramping) xuất hiện trong khoảng trì hoãn chờ nhận thưởng thực tế
+24
+.
+Cực đại tại điểm bất định tuyệt đối (P=0.5): Hoạt động ramping này đạt mức cực đại khi tính không chắc chắn của phần thưởng là cao nhất (xác suất P=0.5)
+24
+. Sử dụng công thức Shannon Entropy (H(X)) đối với các kết quả nhị phân
+25
+:
+H(X)=−[Plog
+2
+​
+(P)+(1−P)log
+2
+​
+(1−P)]
+Khi P=0.5, entropy đạt giá trị cực đại là 1.0, biểu thị trạng thái không chắc chắn tuyệt đối
+25
+. Lúc này, dòng dopamine duy trì tăng dần đạt đỉnh điểm, giữ não bộ trong trạng thái kích thích cực hạn và thúc đẩy mạnh mẽ hành vi mạo hiểm
+25
+. Cá độ bóng đá khai thác triệt để cơ chế này bằng các tỷ lệ cược (odds) liên tục dao động xung quanh mốc cân bằng 50/50
+25
+.
+Nguyên lý củng cố ngắt quãng (Intermittent Reinforcement): Theo nguyên lý của B.F. Skinner, phần thưởng phân phối theo lịch trình tỷ lệ biến đổi (ngẫu nhiên, không thể đoán trước) là lịch trình củng cố hành vi bền bỉ và khó dập tắt nhất
+26
+. Sự bất định liên tục của trận đấu bóng đá khiến mỗi trận thắng bất ngờ hoạt động như một đợt bùng phát dopamine cực đại (RPE>0), trong khi các trận thua liên tiếp không làm dập tắt hành vi vì não bộ đã quen với chế độ phân phối bất định, coi thất bại chỉ là bước đệm tạm thời trước đợt bùng phát tiếp theo
+18
+.
+3. Bảng so sánh chi tiết giữa "Wanting" và "Liking"
+6
+Đặc tính so sánh
+Hệ thống "Wanting" (Incentive Salience)
+Hệ thống "Liking" (Hedonic Impact)
+Bản chất tâm lý
+Động lực thúc đẩy, định hướng hành vi tìm kiếm mục tiêu
+6
+.
+Trải nghiệm cảm xúc dễ chịu, hân hoan khi tiêu thụ phần thưởng
+6
+.
+Chất truyền dẫn thần kinh
+Dopamine (đặc biệt là dòng mesolimbic)
+6
+.
+Opioids nội sinh, GABA, Endocannabinoids
+6
+.
+Vị trí giải phẫu chủ đạo
+Vùng trần trung não (VTA), Thể vân bụng (Ventral Striatum), Nhân áp sườn
+6
+12
+.
+Cầu nhạt bụng (Ventral Pallidum Hotspot), Vỏ cortex trán ổ mắt (OFC), Thùy đảo
+6
+27
+.
+Tác động của chất hóa học (Thử nghiệm)
+Việc khóa thụ thể GABA
+A
+​
+bằng Bicuculline kích thích chọn lọc hành vi tìm kiếm mà không tăng khoái cảm thực tế
+6
+7
+.
+Tiêm vi lượng DAMGO (chất chủ vận opioid) vào lõi cầu nhạt bụng làm tăng gấp đôi phản ứng khoái cảm thực tế
+6
+7
+.
+Phản ứng khi trạng thái nghiện tiến triển
+Nhạy cảm hóa (Sensitization): Ngày càng nhạy bén và phản ứng mãnh liệt trước kích thích có điều kiện
+6
+9
+.
+Thích nghi tiêu cực (Down-regulation)/Dung nạp: Khả năng cảm nhận khoái cảm suy giảm dần
+Mối liên hệ lâm sàng & Hành vi
+Thúc đẩy hành vi tái phát mạnh mẽ dưới tác động của stress hoặc kích thích từ môi trường
+6
+.
+Giảm sút nghiêm trọng dẫn đến trạng thái vô cảm và trầm cảm lâm sàng
+6
+.
+🧩 Bạn có muốn tôi tạo một bộ câu hỏi trắc nghiệm (quiz) tương tác để bạn có thể tự ôn tập và kiểm tra lại những kiến thức thần kinh học thú vị này không?
+
+## Sources
+
+### [1] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Sự phân tách giữa Wanting và Liking trong cơ chế nghiện Một trong những phát hiện mang tính cách mạng của dịch tễ học thần kinh là sự phân tách hoàn toàn giữa hai hệ thống động lực: "Wanting" (thèm khát, thúc đẩy hành vi) và "Liking" (sự thỏa mãn, thích thú thực sự khi tiêu thụ phần thưởng) được đề xuất bởi Kent Berridge và Terry Robinson thông qua Thuyết nhạy cảm hóa khuyến khích (Incentive-Sensitization Theory).[1, 6, 12] Hệ thống "Wanting" (Incentive Salience) được điều phối chủ yếu bởi mạng lưới dopaminergic mesolimbic rộng lớn.[6, 13] Khi hệ thống này hoạt động, nó gán "sự nổi bật khuyến khích" (incentive salience) lên các kích thích liên quan đến phần thưởng (như âm thanh ứng dụng, biểu tượng nhà cái, bảng tỷ lệ kèo), biến chúng thành các "nam châm động lực" thu hút sự chú ý một cách vô thức và thôi thúc hành vi đặt cược.[6, 13] Trong trạng thái này, các kích thích có điều kiện có thể thúc đẩy hành vi tiếp cận cưỡng chế, tương tự như hiện tượng những người nghiện ma túy điên cuồng tìm kiếm các hạt bột trắng dù biết chúng không phải là chất kích thích.[13] Động lực thèm khát này còn được kích hoạt mạnh mẽ thông qua hiện tượng Chuyển giao công cụ Pavlov (Pavlovian-Instrumental Transfer - PIT), nơi các tín hiệu môi trường kích thích xung năng tìm kiếm phần thưởng vắng mặt.[13]
+
+### [6] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Đặc tính so sánh Hệ thống "Wanting" (Incentive Salience) Hệ thống "Liking" (Hedonic Impact) Bản chất tâm lý Động lực thúc đẩy, định hướng hành vi tìm kiếm mục tiêu.[6, 13] Trải nghiệm cảm xúc dễ chịu, hân hoan khi tiêu thụ phần thưởng.[6, 13] Chất truyền dẫn thần kinh Dopamine (đặc biệt là dòng mesolimbic).[6, 13] Opioids nội sinh, GABA, Endocannabinoids.[6, 13] Vị trí giải phẫu chủ đạo Vùng trần trung não (VTA), Thể vân bụng (Ventral Striatum), Nhân áp sườn.[5, 6] Cầu nhạt bụng (Ventral Pallidum Hotspot), Vỏ não trán ổ mắt (OFC), Thùy đảo.[6, 13] Tác động của chất hóa học Bicuculline kích thích chọn lọc hành vi tìm kiếm mà không tăng khoái cảm.[13] DAMGO tại vùng lõi cầu nhạt bụng làm tăng gấp đôi phản ứng khoái cảm thực tế.[13] Phản ứng khi nghiện tiến triển Nhạy cảm hóa (Sensitization): Ngày càng nhạy bén trước kích thích có điều kiện.[2, 6] Thích nghi tiêu cực (Down-regulation): Khả năng cảm nhận khoái cảm suy giảm dần.[2, 6, 12] Mối liên hệ lâm sàng Thúc đẩy hành vi tái phát dưới tác động của stress hoặc kích thích môi trường.[6] Giảm sút nghiêm trọng dẫn đến trạng thái vô cảm và trầm cảm lâm sàng.[2, 13]
+
+### [7] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Ngược lại, hệ thống "Liking" (Hedonic Impact) hoàn toàn độc lập với dopamine và được khu trú trong các cấu trúc giải phẫu siêu nhỏ gọi là "điểm nóng khoái cảm" (hedonic hotspots) nằm ở thể vân bụng, vỏ não trán ổ mắt (OFC), thùy đảo và đặc biệt là cầu nhạt bụng (ventral pallidum).[6, 12, 13] Hệ thống này sử dụng các chất truyền dẫn thần kinh thuộc nhóm opioid nội sinh, GABA và endocannabinoid để tạo ra trải nghiệm thỏa mãn thực sự khi thắng cược.[6, 13] Thử nghiệm lâm sàng cho thấy việc tiêm vi lượng DAMGO (chất chủ vận opioid) vào cầu nhạt bụng làm tăng gấp đôi phản ứng "Liking" và "Wanting", trong khi tiêm ở vùng phía trước cấu trúc này lại gây ức chế cả hai.[13] Đáng chú ý, việc khóa thụ thể GABAA bằng bicuculline ở cầu nhạt bụng chỉ kích thích duy nhất phản ứng "Wanting" mà không hề làm thay đổi cảm giác "Liking" thực tế.[13]
+
+### [8] and Behavioral Addictions
+
+> such as opioids, endocannabinoids, and orexin, but not dopamine, can enhance “liking” reactions to the hedonic impact of sweetness pleasure. These small zones, located in distinct sites within larger brain structures, are called hedonic hotspots because of their unique capacity to cause hedonic enhancements of sweetness pleasure (Berridge & Robinson, 2003; Smith & Berridge, 2007). Thus far, identified hedonic hotspots include subregions, such as the the rostrodorsal quadrant of the medial shell of nucleus accumbens (Peciña & Berridge, 2005; Castro, Terry &
+
+### [9] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Trong quá trình tiến triển của rối loạn cá cược, sự kích thích liên tục và không thể dự đoán của các đợt giải phóng dopamine làm thay đổi độ nhạy bén của các thụ thể.[1, 2, 6] Hệ thống "Wanting" bị nhạy cảm hóa mạnh mẽ (sensitized), khiến các kích thích liên quan đến cá độ kích hoạt những xung năng đặt cược khổng lồ, không thể kiểm soát.[2, 6, 14] Ngược lại, hệ thống "Liking" trải qua quá trình thích nghi tiêu cực (down-regulation), làm giảm khả năng cảm nhận niềm vui thực sự khi thắng cược.[2, 6, 12] Sự mất cân bằng này giải thích hiện tượng giao thoa nhạy cảm (cross-sensitization), nơi việc lạm dụng chất kích thích làm tăng độ nhạy cảm của não bộ trước các tín hiệu cá cược.[2] Do con người khó phân biệt được hai trạng thái này một cách chủ quan (thường mặc định rằng "nếu không muốn thì chứng tỏ không thích"), họ tiếp tục lún sâu vào hành vi cá cược để giải tỏa cơn khát động lực do hệ thống dopamine bị nhạy cảm hóa đơn độc tạo ra.[2, 6]
+
+### [10] and Behavioral Addictions
+
+> been shown to be extremely long-lasting, and independent of the brain systems responsible for the pleasure or “liking” associated with many of these rewards. As a result, exposure to drugs and their cues, even after years of abstinence, can trigger bouts of intense desire and craving for the drug that may lead to relapse. As such, addiction is a chronic relapsing disorder characterized by excessive “wanting” for the drug and its cues, even in the absence of corresponding changes in “liking”. “Wanting” and “Liking”
+
+### [11] and Behavioral Addictions
+
+> what they “like,” and “like” what they “want,” after mesolimbic sensitiza- tion a person can at times develop excessive motivation for rewards known to evoke only moderate amounts of expected pleasure. In some cases, this might even generate excessive craving for rewards which have in the past been repeatedly paired with unpleasant consequences. Such is the case in the transition from recreational drug use to addiction, and a similar process may operate with behavioral addictions as well. Addiction can cause an individual to perform irrational behavior when
+
+### [12] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Vai trò của Dopamine và sự không chắc chắn của phần thưởng Hệ thống dopaminergic trung não-đồi thị (mesolimbic dopamine system), xuất phát từ vùng trần trung não (VTA) và chiếu tới thể vân bụng (ventral striatum) cùng nhân áp sườn (nucleus accumbens), là trục trung tâm điều phối động lực và hành vi tìm kiếm phần thưởng.[1, 5, 6] Dopamine từ lâu đã bị hiểu nhầm là chất truyền dẫn thần kinh trực tiếp tạo ra cảm giác hạnh phúc hoặc thỏa mãn.[1, 6, 7] Tuy nhiên, các nghiên cứu điện sinh lý học hiện đại chỉ ra rằng dopamine thực chất hoạt động như một công cụ mã hóa sự không chắc chắn và sai số dự báo phần thưởng (Reward Prediction Error - RPE).[4, 5, 8]
+
+### [13] and Behavioral Addictions
+
+> and their cues that triggers intense motivation and cravings leading to relapse – not any baseline hyperactivity or constant drive in these brain mesolimbic structures. Dopamine as “Wanting,” not “Liking” It was once popularly thought that dopamine mediates the pleasure of rewards. However, a majority of the traditional experimental designs that gave rise to that idea by their nature confounded measures of pleasure with motivation. For instance, blocking or depleting dopamine levels in the brains of rats renders them unwilling to eat, which was initially
+
+### [15] Reward Prediction Error: The Dopamine Surprise Signal - Neurosity
+
+> Reward Prediction Error: The Dopamine Surprise Signal | Neurosity Quiz Tech Specs Developers Blog Get CROWN Open Menu Quiz Tech Specs Developers Blog Get CROWN Get Help Close Menu Guide The Algorithm That Runs Your Motivation By AJ Keller, CEO at Neurosity • February 2026 Reward prediction error is the difference between expected and received rewards, encoded by dopamine neurons, that serves as the brain's primary learning and motivation signal. In the 1990s, a neuroscientist recording from single neurons in a monkey's brain discovered something that would reshape our understanding of how the brain learns. Dopamine neurons don't fire for rewards. They fire for surprises. This simple algorithm, computing the gap between what you expected and what you got, turns out to be the computational principle underlying virtually all learning, habit formation, and motivation in the human brain.
+
+### [16] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Dưới góc độ sinh học thần kinh hiện đại, hiện tượng này được giải thích hoàn hảo bằng thuật toán Sai số dự báo phần thưởng (RPE) hoạt động trong các tế bào thần kinh dopamine trung não.[7, 8, 20] Sai số này được tính bằng công thức: Trong các nghiên cứu ghi nhận điện sinh học của Wolfram Schultz trên khỉ, khi một kích thích (ánh sáng) báo trước phần thưởng (nước trái cây), phản ứng của dopamine dịch chuyển từ thời điểm nhận nước sang thời điểm ánh sáng xuất hiện.[7] Nếu phần thưởng xuất hiện chính xác như dự báo, tế bào thần kinh dopamine duy trì hoạt động nền mà không giải phóng thêm chất truyền dẫn.[7, 8] Nếu phần thưởng bị giữ lại, tế bào dopamine sẽ giảm tần số bắn xung xuống dưới mức nền (dopamine dip), tạo ra trạng thái thất vọng sinh học.[7, 8]
+
+### [17] Reward Prediction Error: The Dopamine Surprise Signal - Neurosity
+
+> TD learning was independently developed from work in reinforcement learning theory. But when Wolfram Schultz published his dopamine findings, the convergence was jaw-dropping. The algorithm that computer scientists had designed for optimal learning was essentially identical to the algorithm that evolution had built into the dopamine system over hundreds of millions of years. This wasn't a loose analogy. The mathematical formalization of reward prediction error (RPE = actual reward minus predicted reward) is literally the same equation used in TD learning. The dopamine system implements, in biological hardware, the same algorithm that powers modern reinforcement learning AI.
+
+### [18] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Khi học tập tiến triển, các phản ứng của dopamine đối với kích thích được chia thành hai phần: phần đầu phản ánh tính mới của kích thích (giảm dần khi quen thuộc) và phần sau mã hóa giá trị phần thưởng nhận được từ tần suất trải nghiệm thực tế.[21] Do kết quả trận đấu bóng đá luôn bất định, người chơi liên tục nhận được củng cố ngắt quãng.[21] Mỗi lần giành chiến thắng bất ngờ đóng vai trò như một đợt bùng phát dopamine cực đại (RPE>0).[7, 8] Ngược lại, các trận thua liên tiếp không dẫn đến việc dập tắt hành vi bởi vì não bộ đã quen với chế độ phân phối phần thưởng bất định, coi thất bại chỉ là bước đệm tạm thời trước đợt bùng phát dopamine tiếp theo.[7, 20, 21]
+
+### [21] Reward Prediction Error: The Dopamine Surprise Signal - Neurosity
+
+> The Negative Prediction Error: The Disappointment Signal When something is worse than expected, dopamine neurons briefly pause their firing, dropping below the baseline rate. This pause typically lasts 100-200 milliseconds and can involve a near-complete cessation of activity. The negative prediction error does the opposite of the positive one. Instead of strengthening the synaptic connections that led to the outcome, it weakens them. The brain learns: "whatever just happened, do less of it." This is how you learn to avoid bad restaurants, steer clear of unreliable people, and abandon strategies that don't work. Every disappointment is a teaching moment, encoded as a dopamine dip that updates your predictions to avoid the same mistake.
+
+### [24] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Trong các nghiên cứu kinh điển của Fiorillo và cộng sự (2003), hoạt động của các tế bào thần kinh dopamine được chứng minh là thể hiện hai pha phản ứng hoàn toàn khác biệt: pha phân cực ngắn (phasic) và pha tăng dần kéo dài (sustained, ramping).[4, 9, 10] Pha phân cực ngắn kích hoạt ngay lập tức sau khi xuất hiện một kích thích có điều kiện (CS) báo trước phần thưởng, tỷ lệ thuận với giá trị mong đợi của phần thưởng đó.[9, 10] Ngược lại, pha tăng dần kéo dài xuất hiện trong khoảng thời gian trì hoãn giữa kích thích báo trước và thời điểm nhận phần thưởng thực tế.[4, 9, 10] Hoạt động của pha này biến thiên theo xác suất nhận thưởng (P), đạt mức cực đại khi tính không chắc chắn của phần thưởng là cao nhất (P=0.5).[4, 9, 10]
+
+### [25] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Để mô tả toán học tính không chắc chắn của thông tin phần thưởng, các nhà nghiên cứu sử dụng công thức Shannon Entropy ( ) đối với các kết quả nhị phân: Khi xác suất nhận thưởng , entropy đạt giá trị cực đại là , biểu thị trạng thái không chắc chắn tuyệt đối.[4, 9] Ở trạng thái này, dòng dopamine duy trì tăng dần (ramping) đạt đỉnh điểm, giữ não bộ trong trạng thái kích thích cực hạn, tăng cường sự chú ý và thúc đẩy mạnh mẽ hành vi mạo hiểm.[4, 11] Sự không chắc chắn này hoạt động như một tín hiệu "cần kiểm soát" (need for control), kích hoạt cơ chế giám sát môi trường để tối ưu hóa việc học hỏi và định hình trí nhớ dài hạn.[10, 11] Cá độ bóng đá khai thác triệt để cơ chế này khi các tỷ lệ cược (odds) liên tục dao động xung quanh mốc cân bằng giữa hai khả năng thắng/thua, đưa người chơi vào trạng thái sinh học có lượng dopamine duy trì cao nhất.[4, 10]
+
+### [26] Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá
+
+> Thí nghiệm của B.F. Skinner về "Củng cố ngắt quãng" (Intermittent Reinforcement) Cơ chế sinh học giúp duy trì thói quen cá độ bóng đá bất chấp những tổn thất tài chính liên tục có nguồn gốc sâu xa từ nguyên lý "Củng cố ngắt quãng" (Intermittent Reinforcement) do nhà tâm lý học hành vi B.F. Skinner phát hiện. Trong các thí nghiệm với hộp Skinner, động vật được huấn luyện nhấn cần gạt để nhận thức ăn theo các lịch trình khác nhau. Skinner phát hiện ra rằng khi phần thưởng được cung cấp theo lịch trình tỷ lệ biến đổi (variable ratio schedule - nhận thưởng sau một số lần nhấn ngẫu nhiên, không thể đoán trước), hành vi nhấn gạt của sinh vật trở nên cực kỳ bền bỉ và khó dập tắt nhất, ngay cả khi phần thưởng đã bị ngừng cung cấp hoàn toàn.
+
+### [27] and Behavioral Addictions
+
+> Berridge, 2016; Castro & Berridge, 2014; Peciña & Berridge, 2000), the posterior half of ventral pallidum (whose hotspot is crucial for ‘liking’) (Smith & Berridge, 2005; Ho & Berridge, 2013; Cromwell & Berridge, 1993), cortical subregions such as medial orbitofrontal cortex and pos- terior insula (Georgiadis & Kringelbach, 2012; Castro & Berridge, 2017), and the parabrachial nucleus of the brainstem pons (Söderpalm and Berridge, 2000) (Figure 3.1a). These hedonic hotspots seem to function as a cooperative network that requires a unanimous vote to engender a

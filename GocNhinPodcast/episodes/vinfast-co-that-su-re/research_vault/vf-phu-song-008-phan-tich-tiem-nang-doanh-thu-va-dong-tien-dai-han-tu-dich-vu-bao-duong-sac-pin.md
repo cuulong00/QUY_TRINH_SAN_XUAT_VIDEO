@@ -1,0 +1,156 @@
+---
+title: "Phân tích tiềm năng doanh thu và dòng tiền dài hạn từ dịch vụ bảo dưỡng, sạc pin, thuê pin và phụ tùng thay thế của VinFast đối với lượng xe khổng lồ (gần 460.000 xe) đang lưu thông trên đường. Bức tranh tài chính của VinFast ở giai đoạn cuối chu kỳ sản phẩm sẽ được cải thiện thế nào từ tệp khách hàng hiện hữu này? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-09T15:33:15.354Z
+notebook_url: "https://notebooklm.google.com/notebook/703f6053-3d8c-4528-ae98-d2d63197e32a"
+session_id: "dda0ab28"
+citations_count: 18
+sources:
+  - "10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ"
+  - "Miễn lệ phí trước bạ đến năm 2030, người mua xe điện tiết kiệm cả trăm triệu đồng"
+  - "Phí thuê pin hàng tháng tại VinFast Tây Ninh - Cập nhật chi tiết 2024"
+  - "Strategic Dynamics of Electric Vehicle Adoption in Vietnam: Consumer Psychology, the Urban Footprint of Xanh SM, and Quantitative Lifecycle Cost Economics"
+  - "Chính sách bán Pin và cho thuê Pin ô tô điện VinFast"
+  - "Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực"
+  - "Chi phí sạc xe điện Vinfast có đắt không? Đơn giá mới nhất 2026"
+  - "So sánh chi phí vận hành của VF5 với các xe trong cùng phân khúc ..."
+  - "VinFast bán hơn 24.700 ô tô điện trong tháng 4/2026 - VOV"
+  - "Đăng ký lắp trạm sạc xe điện Vinfast tại Hà Nội"
+  - "Vì sao bảo dưỡng xe điện tốn ít hơn một nửa so với xe xăng: đáp án ..."
+  - "Gỡ bỏ rào cản từ “bán xe cũ” tới “mua xe mới”, VinFast ghi bàn quyết định trên thị trường xe 2024"
+  - "Ưu nhược điểm các dòng xe điện chạy đô thị - Cộng đồng VinFast Toàn cầu"
+  - "VinFast bán được gần 200.000 xe ô tô điện, thu về gần 3,6 tỷ USD ..."
+  - "VinFast thu hơn 23.000 tỷ một quý - Báo Mới"
+---
+
+# Phân tích tiềm năng doanh thu và dòng tiền dài hạn từ dịch vụ bảo dưỡng, sạc pin, thuê pin và phụ tùng thay thế của VinFast đối với lượng xe khổng lồ (gần 460.000 xe) đang lưu thông trên đường. Bức tranh tài chính của VinFast ở giai đoạn cuối chu kỳ sản phẩm sẽ được cải thiện thế nào từ tệp khách hàng hiện hữu này? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-09T15:33:15.354Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/703f6053-3d8c-4528-ae98-d2d63197e32a)
+
+## Answer
+
+BÁO CÁO PHÂN TÍCH: TIỀM NĂNG DOANH THU HẬU MÃI VÀ DÒNG TIỀN DÀI HẠN CỦA VINFAST TỪ TỆP 460.000 XE LƯU THÔNG
+1. Cơ sở hạ tầng khách hàng và Căn cứ pháp lý Với khoảng gần 460.000 xe ô tô điện đang lăn bánh tại thị trường Việt Nam (tính đến đầu năm 2026), VinFast đã thiết lập được một tệp khách hàng đủ lớn để chuyển đổi mô hình kinh doanh từ "chỉ bán phần cứng" sang "thu phí hệ sinh thái vòng đời"
+1
+.
+Căn cứ pháp lý thúc đẩy quy mô: Nghị định 202/2026/NĐ-CP (ban hành ngày 08/06/2026, sửa đổi Nghị định 10/2022/NĐ-CP).
+Tác động: Chính phủ chính thức kéo dài chính sách áp dụng mức thu lệ phí trước bạ lần đầu 0% đối với ô tô điện chạy pin đến hết ngày 31/12/2030
+2
+. Quyết sách này bảo chứng cho đà tăng trưởng liên tục của tệp khách hàng dùng xe điện, từ đó khuếch đại tiềm năng dòng tiền hậu mãi trong dài hạn
+2
+.
+2. Phân tích tiềm năng dòng tiền từ hệ sinh thái dịch vụ (Giai đoạn 2024 - 2026)
+2.1. Dòng tiền từ dịch vụ cho thuê pin (Recurring Revenue) Mô hình cho thuê pin là một "con gà đẻ trứng vàng" mang lại dòng tiền đều đặn hàng tháng, không bị ảnh hưởng bởi biến động doanh số bán xe mới.
+Cơ cấu doanh thu: Mức phí thuê pin trải dài từ 900.000 VNĐ/tháng (đối với VF 3) lên tới 8.400.000 VNĐ/tháng (đối với VF 9 đi trên 3.500 km)
+Tiềm năng dài hạn: Dù hãng phải trích lập dự phòng thay pin miễn phí khi dung lượng dưới 70%
+5
+6
+, nguồn thu từ hàng trăm ngàn hợp đồng thuê pin mỗi tháng tạo ra dòng tiền mặt (cash flow) khổng lồ, ổn định và có tính dự báo cao.
+2.2. Doanh thu sạc pin công cộng: Lợi thế độc quyền VinFast sở hữu hệ sinh thái trạm sạc chiếm 99% thị phần toàn quốc
+7
+, tạo ra lợi thế rào cản độc quyền tự nhiên.
+Mô hình thu phí: Đơn giá sạc là 3.210 VNĐ/kWh (đã gồm VAT) cùng phụ phí sạc quá giờ 1.100 VNĐ/phút
+8
+.
+Tầm nhìn cuối chu kỳ: Dù VinFast đang áp dụng chiến lược khuyến mãi miễn phí sạc pin (kéo dài đến tháng 6/2027 hoặc tháng 2/2029 tùy dòng xe)
+9
+10
+, đây là bước đi "chịu đấm ăn xôi" để thâu tóm người dùng. Khi các gói ưu đãi này kết thúc, tệp gần nửa triệu xe buộc phải sử dụng trạm sạc V-Green trả phí, tạo ra một nguồn thu tái diễn khổng lồ.
+Chia sẻ rủi ro vốn: Thông qua mô hình trạm sạc nhượng quyền V-Green (chia sẻ doanh thu 750 VNĐ/kWh trong 10 năm cho đối tác)
+11
+, VinFast tận dụng được vốn xã hội hóa để mở rộng hạ tầng nhưng vẫn nắm trọn vẹn doanh thu cốt lõi từ chênh lệch giá điện.
+2.3. Dịch vụ bảo dưỡng và Phụ tùng thay thế
+Đặc thù xe điện: Chi phí bảo dưỡng định kỳ xe điện rất rẻ (ví dụ: VF 5 chỉ tốn khoảng 2,4 triệu VNĐ cho 100.000 km, tức khoảng 300.000 VNĐ/lần bảo dưỡng) do không có động cơ đốt trong phức tạp
+12
+.
+Bù đắp bằng quy mô (Volume-based): Sự hao hụt doanh thu trên từng đầu xe được bù đắp hoàn toàn bằng số lượng (Volume). Với mạng lưới hơn 300 xưởng dịch vụ phủ khắp toàn quốc (tính đến cuối 2024)
+13
+, doanh thu từ các phụ tùng tiêu hao hao mòn thường xuyên (lốp, má phanh, cần gạt nước)
+14
+cùng dịch vụ sửa chữa đồng sơn, thay thế linh kiện do va chạm từ nửa triệu xe sẽ là nền tảng tài chính cực lớn hỗ trợ mạng lưới đại lý.
+3. Tác động đến bức tranh tài chính dài hạn (Cuối chu kỳ sản phẩm)
+Ở giai đoạn cuối chu kỳ sản phẩm của các thế hệ xe đầu tiên, bức tranh tài chính của VinFast sẽ chứng kiến sự chuyển dịch từ "bán phần cứng" sang "khai thác hệ sinh thái", cụ thể:
+Cải thiện biên lợi nhuận (Gross Margin): Báo cáo tài chính cho thấy biên lợi nhuận gộp của VinFast đang cải thiện rất mạnh, từ mức âm 79,1% trong quý 4/2024 lên âm 39,9% trong quý 4/2025
+15
+. Việc chuyển sang khai thác thu phí dịch vụ sạc, pin và phụ tùng—những hạng mục có biên lợi nhuận cao hơn bán xe mới—sẽ giúp cải thiện cấu trúc lợi nhuận tổng thể.
+Mô hình kinh doanh tinh gọn tài sản (Asset-light): Theo chiến lược tái cấu trúc năm 2026, VinFast Việt Nam chuyển nhượng 2 nhà máy và khoảng 182.000 tỷ đồng nghĩa vụ nợ, chuyển sang mô hình thuê ngoài sản xuất
+16
+17
+. Việc dỡ bỏ áp lực khấu hao và chi phí tài chính kết hợp với dòng tiền dương ổn định từ hệ sinh thái nửa triệu xe hiện hữu sẽ là đòn bẩy quyết định giúp hãng xe điện rút ngắn thời gian hòa vốn, hướng tới mục tiêu bắt đầu có lãi ròng vào năm 2027
+18
+19
+.
+
+## Sources
+
+### [1] 10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ
+
+> Thị trường Xe Chuyển động Tiêu dùng Những định chế tài chính hàng đầu Hàn Quốc đổ bộ Việt Nam Xây dựng IFC: Cuộc chuyển mình của cả hệ sinh thái tài chính Tín dụng tư nhân: 'Bóng ma' khủng hoảng tài chính mới Thị trường 10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ Bảo Minh - 14/01/2026 06:30 (GMT+7) (VNF) - Trong danh sách 10 hãng xe bán nhiều ô tô nhất 2025, hãng xe điện VinFast lập kỷ lục doanh số khi bàn giao tổng cộng 175.099 xe cho khách hàng trong năm qua. Theo số liệu báo cáo bán hàng từ Hiệp hội các nhà sản xuất ô tô Việt Nam (VAMA), TC Group và hãng xe điện VinFast, kết thúc năm 2025, các đơn vị nêu trên đã bán được tổng cộng 495.395 xe của toàn thị trường ô tô Việt Nam trong năm qua.
+
+### [2] Miễn lệ phí trước bạ đến năm 2030, người mua xe điện tiết kiệm cả trăm triệu đồng
+
+> Lý tưởng sống Nói thẳng Tin độc quyền Thị trường Liên hệ Thông tin toà soạn Liên hệ quảng cáo 1 Kinh tế Miễn lệ phí trước bạ đến năm 2030, người mua xe điện tiết kiệm cả trăm triệu đồng Minh Phong 09/06/2026 12:49 GMT+7 Nghe đọc bài 3:13 0.5x 0.75x 1.00x 1.25x 1.5x Giọng nữ Chia sẻ (NLĐO)- Chính phủ chính thức gia hạn miễn lệ phí trước bạ cho ô tô điện chạy pin đến hết năm 2030. Chính phủ vừa ban hành Nghị định 202 ngày 8-6 sửa đổi, bổ sung một số điều của Nghị định 10 năm 2022 quy định về lệ phí trước bạ, trong đó tiếp tục áp dụng mức thu lệ phí trước bạ lần đầu 0% đối với ô tô điện chạy pin đến hết ngày 31-12-2030. Theo nghị định, việc phân loại xe điện được thực hiện theo quy định của Bộ trưởng Bộ Xây dựng.
+
+### [3] Phí thuê pin hàng tháng tại VinFast Tây Ninh - Cập nhật chi tiết 2024
+
+> Chính sách thuê pin VF 3 từ 18/08/2024 cho tới khi có thông báo mới Dòng xe Thuê pin Từ 1.500 km trở xuống Thuê pin Từ trên 1.500 km tới 2.500 km Thuê pin Trên 2.500 km Phí cọc thuê pin VF 3 900.000 1.200.000 2.500.000 7.000.000 Chính sách thuê pin từ 05/06/2024 cho các dòng xe Ô tô điện tới khi có thông báo mới (Chính sách cọc pin cho các dòng xe giữ nguyên) Dòng xe Thuê pin Từ 1.500 km trở xuống Thuê pin Từ trên 1.500 km tới 2.500 km Thuê pin Trên 2.500 km Phí cọc thuê pin VF 3 900.000 1.200.000 2.000.000 7.000.000
+
+### [5] Strategic Dynamics of Electric Vehicle Adoption in Vietnam: Consumer Psychology, the Urban Footprint of Xanh SM, and Quantitative Lifecycle Cost Economics
+
+> VinES (Lithium Iron Phosphate / Ternary Lithium) VinFast VF e34 Gotion / SDI (Lithium-Ion Pack Options) VinFast VF 7 (Eco) VinES Lithium Pack VinFast VF 7 (Plus) CATL (High-Density Chemistry) VinFast VF 8 (Eco) SDI Lithium Pack VinFast VF 8 (Plus) CATL High-Capacity Pack -------------------------------------------------------------------------------- Battery Subscription Tariff Schemes To lower initial purchase costs and protect buyers from battery degradation risks, VinFast offers a battery subscription model. Under this agreement, VinFast replaces the battery pack free of charge if its maximum charging capacity falls below 70%.[21] Vehicle Model Monthly Rate: (VND) [22, 23, 24] Monthly Rate: (VND) [22, 23, 24] Monthly Rate: (VND) [22, 23, 24] Escrow Battery Deposit (VND) [22, 23, 24] VF 3 (Cap: ) (Over ) VF 5
+
+### [6] Chính sách bán Pin và cho thuê Pin ô tô điện VinFast
+
+> Chế tài khi Khách hàng nợ phí thuê pin VinFast sẽ chặn sạc pin của Khách hàng 50% cho tháng đầu, từ tháng 2 chặn 70% dung lượng pin (SOC). Khi Khách hàng thanh toán xong công nợ, hệ thống sẽ tự động mở khóa và Khách hàng có thể sạc bình thường. Thay thế/sửa chữa/bảo dưỡng pin cho Khách hàng 1. Pin cho thuê sẽ được thay thế/sửa chữa/bảo dưỡng miễn phí trong các trường hợp: Pin hỏng/lỗi do Nhà sản xuất. Bảo dưỡng (nếu có) miễn phí. Trạng thái tiếp nhận sạc của pin xuống dưới 70%. 2. Nếu pin hỏng do lỗi Khách hàng thì Khách hàng sẽ phải đền bù chi phí sửa chữa/thay thế pin. Chi phí sửa chữa/thay thế sẽ được niêm yết trên Website và các xưởng dịch vụ VinFast.
+
+### [7] Phân tích toàn diện thị trường ô tô Việt Nam giai đoạn 2020 - 2026: Tiến trình chuyển dịch cơ cấu, động lực xe điện và tái định hình thị phần các hãng xe chủ lực
+
+> Hệ quả trực tiếp là các phân khúc xe xăng truyền thống giá rẻ như xe hạng A (Hyundai i10, Kia Morning) và xe hạng B (Hyundai Accent, Toyota Vios) vốn là động lực doanh số chính của các hãng xe Nhật, Hàn đã bị suy giảm nghiêm trọng do chi phí vận hành và chi phí sở hữu ban đầu của xe điện tối ưu hơn rất nhiều.[3, 32] Bức tường rào cản hạ tầng sạc công cộng Hạ tầng trạm sạc là yếu tố then chốt tạo nên vị thế độc tôn của VinFast.[2, 39] Với việc nắm giữ gần 99% thị phần trạm sạc công cộng được phủ rộng khắp cả nước từ các tuyến cao tốc đến các trung tâm đô thị, VinFast đã thiết lập một rào cản gia nhập thị trường cực kỳ lớn đối với bất kỳ thương hiệu xe thuần điện ngoại nhập nào.[2]
+
+### [8] Chi phí sạc xe điện Vinfast có đắt không? Đơn giá mới nhất 2026
+
+> 1. Chi phí sạc xe điện Vinfast mới nhất 2025 Hãng Vinfast hiện đang áp dụng phí sạc xe điện Vinfast mới nhất cho mỗi lần sạc là 3.210 đồng/kWh (đã bao gồm VAT). Chi phí này tương đương với đơn giá điện sinh hoạt bậc 5, vì thế hãng sẽ không tính thêm bất cứ khoản phí nào khác. Đối với trường hợp đã sạc đầy nhưng khách hàng vẫn chưa rút sạc cắm thì phí sạc sẽ cộng thêm 1.100 đồng/phút (tính từ phút thứ 31 trở đi). Lưu ý: Phí sạc xe điện Vinfast ở trên có thể sẽ thay đổi dựa vào biến động của giá điện thị trường cũng như thông báo mới của Bộ công thương. Chính vì thế trước khi mua, sử dụng xe điện Vinfast, khách hàng nên tìm hiểu kỹ để bản thân có đáp án chính xác nhất.
+
+### [9] So sánh chi phí vận hành của VF5 với các xe trong cùng phân khúc ...
+
+> 2. Chi phí tiêu thụ nhiên liệu Sở hữu động cơ điện công suất tối đa 100kW, mô men xoắn cực đại 135 Nm, VinFast VF 5 Plus có khả năng tăng tốc từ 0 – 100km/h trong vòng 12 giây. Đặc biệt, khi sử dụng xe điện trong thời điểm hiện tại, Vinfast đang có chính sách miễn phí sạc đến 30/6/2027. Chính sách hỗ trợ rất nhiều cho người dùng. Chi phí sạc điện cho VINFAST VF5 PLUS Tính trung bình quãng đường di chuyển của 1 xe ô tô trong 1 tháng khoảng 3.000km. Với quảng đường này chi phí sạc điện cho Vinfast VF5 là 0 ĐỒNG vì đang có chính sách miễn phí sạc đến 30/6/2027 Chi phí nhiên liệu cho các dòng xe xăng hạng A Trung bình mức tiêu hao nhiên liệu trung bình 1 tháng của xe xăng hạng A hiện tại là 7 lít/100km, theo đơn giá xăng RON 95-V hiện nay (tháng 03/2025) là 20.000 VNĐ/lít thì chi phí nhiên liệu cho quãng đường 3.000km là:
+
+### [10] VinFast bán hơn 24.700 ô tô điện trong tháng 4/2026 - VOV
+
+> Để giúp khách hàng dễ dàng tiếp cận và chuyển đổi sang sở hữu các dòng xe điện thông minh, VinFast đang triển khai nhiều chương trình ưu đãi hấp dẫn như hỗ trợ 6-10% giá niêm yết tùy từng mẫu xe, hỗ trợ mua xe trả góp với lãi suất cố định trong 3 năm đầu, mua xe với 0 đồng vốn đối ứng, hay hỗ trợ 3% giá xe khi khách hàng chuyển từ xe xăng sang xe điện. Chủ sở hữu ô tô điện VinFast cũng sẽ được hỗ trợ sạc pin miễn phí tại các trạm sạc V-Green đến hết ngày 10/2/2029. [ Lộ diện ngoại hình VinFast VF 8 phiên bản nâng cấp
+
+### [11] Đăng ký lắp trạm sạc xe điện Vinfast tại Hà Nội
+
+> VÌ SAO CẦN LẮP TRẠM SẠC XE ĐIỆN VINFAST 2025 Xe điện đang dần trở nên không thể thiếu trong cuộc sống hiện đại ngày nay, không chỉ giảm thiểu phát thải, ô nhiễm đáng kể, mà quan trọng hơn sẽ giúp các nhà đầu tư được hưởng lợi thế trực tiếp sau: DOANH THU ỔN ĐỊNH Nhà đầu tư, Quý đối tác khách hàng được chia sẻ doanh thu là 750đ/1kWh sạc trong 10 năm. LỢI ÍCH KÉP Kết hợp doanh thu từ chia sẻ lợi nhuận 750đ/kWh và lợi nhuận chênh lệch giá điện, giúp tăng khả năng thu hồi vồi hơn. LỢI NHUẬN TỪ CHÊNH LỆCH GIÁ ĐIỆN
+
+### [12] Vì sao bảo dưỡng xe điện tốn ít hơn một nửa so với xe xăng: đáp án ...
+
+> Nguồn tổng hợp: Toyota Việt Nam, VinFast, VnExpress, GenK (2025-2026) VinFast VF5 có chu kỳ bảo dưỡng 15.000 km. Trong 100.000 km, xe trải qua 6 lần bảo dưỡng. Theo chia sẻ của chủ xe Phạm Khánh Sơn với báo VnExpress sau 1 năm sử dụng, mỗi lần bảo dưỡng tốn khoảng 300.000 đồng do xe điện không cần thay dầu động cơ, không có bugi để thay, không có hộp số tự động phức tạp như xe xăng. Tổng chi phí bảo dưỡng VF5 trong 100.000 km đạt khoảng 2,4 triệu đồng. Chênh lệch riêng phần bảo dưỡng định kỳ là 22,3 triệu đồng, tương đương xe xăng đắt hơn xe điện 90%.
+
+### [13] Gỡ bỏ rào cản từ “bán xe cũ” tới “mua xe mới”, VinFast ghi bàn quyết định trên thị trường xe 2024
+
+> Ngoài trạm sạc, hệ thống xưởng dịch vụ của VinFast cũng đang phát triển với tốc độ nhanh chóng. Từ nay đến cuối năm, VinFast dự kiến vận hành thêm 150 xưởng dịch vụ trên toàn quốc, ưu tiên các địa phương có lượng xe điện lớn như Hà Nội, TP. Hồ Chí Minh, Bắc Ninh… Dự kiến đến cuối năm 2024, tổng số xưởng dịch vụ của VinFast và “người đồng hành” GSM sẽ vượt 300 cơ sở. Bên cạnh đó, các chính sách hậu mãi cực tốt cho khách hàng như cam kết cung cấp phụ tùng trong vòng 24 giờ, bảo hành chính hãng lên tới 10 năm, cứu hộ 24/7 trong suốt thời gian bảo hành… giúp người dùng yên tâm hoàn toàn trong suốt quá trình sử dụng xe.
+
+### [14] Ưu nhược điểm các dòng xe điện chạy đô thị - Cộng đồng VinFast Toàn cầu
+
+> Search for: Trang chủ Tin tức Tin VinFast Tin Cộng đồng Đời sống Thị trường xe điện Công nghệ Du lịch Ảnh đẹp Cộng đồng Hỏi – Đáp Chăm xe – Chơi xe Tâm sự Tin tức Lux & Fadil Thư viện Home › Cộng đồng › Phong cách sống › Ưu nhược điểm các dòng xe điện chạy đô thị Phong cách sống Ưu nhược điểm các dòng xe điện chạy đô thị Doanh Phạm Doanh Phạm 0 VF Points Khách Danh dự 09/12/2022 lúc 15:50 Ưu điểm của các mẫu xe ô tô điện chạy trong đô thị – Khả năng hạn chế phát thải và an toàn với môi trường Xe điện được đánh giá là tương lai của ngành công nghiệp sản xuất ô tô, khi đang dần giải quyết được bài toán ô nhiễm môi trường. Đặc biệt, các hãng sản xuất không ngừng cải tiến để mang đến các mẫu xe ô tô điện đi trong đô thị có khả năng hạn chế phát thải và đảm bảo an toàn. EDF Energy – một công ty tổng hợp Năng lượng của Anh, thống kê được mỗi năm một chiếc xe xăng thải trực tiếp ra môi trường gần 5.400kg khí CO2, con số này ở xe điện là 1.800kg. Có thể thấy, lượng khí thải CO2 (bao gồm cả phát thải trực tiếp và phát thải gián tiếp) ra môi trường từ xe điện thấp hơn khoảng 70% so với các dòng xe xăng truyền thống. Đây là yếu tố để khách hàng có thể cân nhắc nên mua ô tô điện hay xăng. – Không tiêu thụ nhiên liệu từ xăng, dầu Với đặc điểm không phụ thuộc vào nhiên liệu xăng dầu, ô tô điện là một phương án khả thi cho bài toán chi phí vận hành. Khi so sánh về chi phí vận hành giữa xe điện và xe xăng, nhiều chuyên gia đã nhận định xe điện sẽ tiết kiệm hơn. Cụ thể, mức tiêu hao nhiên liệu trung bình của xe xăng hạng C là 7,8 lít/100km. Theo giá xăng trung bình tháng 3/2022, chi phí nhiên liệu để đi 500km sẽ khoảng trên 1 triệu đồng. Trong khi đó, công suất tiêu thụ của ô tô điện là 13,4 kWh/100km. Tính toán theo giá điện bậc 5 do Bộ Công Thương, chủ xe chỉ cần chi trả xấp xỉ 200.000 đồng cho 500km di chuyển. – Khả năng vận hành mượt mà, ổn định Xe điện sở hữu khả năng giảm tốc mượt mà nhờ mô-men xoắn tức thì được tạo ra từ khối động cơ điện trên xe. Xe vận hành ổn định, vào cua êm và ít rung lắc hơn so với xe xăng. Bên cạnh đó, hệ thống pin được trang bị phía dưới gầm xe, giúp hạ trọng tâm xe và tăng khả năng bám đường, đảm bảo an toàn trong những trường hợp phanh gấp hoặc vào cua. – Quy trình bảo dưỡng đơn giản, chi phí thấp So với xe xăng, quy trình bảo dưỡng ô tô điện khá đơn giản. Các bộ phận cần bảo dưỡng chỉ tập trung chủ yếu ở pin và động cơ. Ngoài ra còn có một số hạng mục cần chú ý khi bảo dưỡng ô tô điện như: má phanh, lốp xe, cần gạt nước kính chắn gió…. Tuy nhiên, nhìn chung, chi phí bảo dưỡng định kỳ của xe điện không quá tốn kém nên các chủ xe cũng có thể an tâm khi vận hành và “nuôi xe” trong tương lai.
+
+### [15] VinFast bán được gần 200.000 xe ô tô điện, thu về gần 3,6 tỷ USD ...
+
+> Biên lợi nhuận gộp trong quý IV/2025 ở mức âm 39,9%, cải thiện đáng kể so với âm 79,1% trong quý IV/2024 và âm 56,2% trong quý III/2025. Biên lợi nhuận gộp cả năm 2025 ở mức âm 42,5%, cải thiện so với âm 57,4% trong năm 2024. Không chỉ Việt Nam, t ại các thị trường trọng điểm khác ở châu Á như Ấn Độ, Indonesia và Philippines, VinFast tiếp tục mở rộng thị phần. Chỉ từ tháng 9/2025 khi bắt đầu kinh doanh tại Ấn Độ, hãng đã tăng bốn bậc từ vị trí số 8 vào tháng 10/2025 lên vị trí số 4 vào tháng 12/2025, và duy trì vị trí này cho đến tháng 2/2026.
+
+### [16] VinFast thu hơn 23.000 tỷ một quý - Báo Mới
+
+> Sau quá trình tái cấu trúc, VinFast dự kiến chuyển nhượng toàn bộ phần vốn tại VFTP cho nhóm nhà đầu tư do Future Investment Research and Development JSC (CTCP Nghiên cứu Đầu tư và Phát triển Tương lai) dẫn dắt. Nhóm này có sự tham gia của ông Phạm Nhật Vượng với vai trò nhà đầu tư thiểu số. Giá trị thương vụ vào khoảng 13.310 tỷ đồng, tương đương khoảng 530 triệu USD. Theo lãnh đạo doanh nghiệp, bản chất của kế hoạch tái cấu trúc là CTCP Nghiên cứu Đầu tư và Phát triển Tương lai cùng ông Phạm Nhật Vượng sẽ mua lại hai nhà máy của VinFast tại Hải Phòng và Hà Tĩnh với giá hơn 13.300 tỷ đồng, đồng thời tiếp nhận phần lớn nghĩa vụ nợ và các khoản phải trả của VinFast Việt Nam, tổng cộng khoảng 182.000 tỷ đồng tính đến cuối quý I năm nay.
+
+### [17] VinFast thu hơn 23.000 tỷ một quý - Báo Mới
+
+> Sau giao dịch, VinFast Việt Nam sẽ chuyển sang mô hình thuê ngoài hoạt động sản xuất trong nước, trong khi hãng vẫn giữ lại hoạt động sản xuất toàn cầu. Các phần còn lại không thuộc phạm vi giao dịch vẫn thuộc VinFast và tiếp tục vận hành bình thường. Theo đại diện hãng xe, mô hình mới sẽ giúp VinFast giảm đáng kể áp lực chi phí tài chính và khấu hao - hai yếu tố ảnh hưởng lớn tới kết quả kinh doanh nhiều năm qua. Sau tái cấu trúc, VinFast Việt Nam dự kiến không còn dư nợ đáng kể trên bảng cân đối kế toán.
+
+### [18] VinFast thu hơn 23.000 tỷ một quý - Báo Mới
+
+> VinFast hiện đặt mục tiêu có lãi từ năm 2027. Thông qua đợt tái cấu trúc này, hãng xe điện kỳ vọng rút ngắn thời gian hòa vốn và xây dựng mô hình vận hành bền vững hơn trong dài hạn. Thủy Tiên VinFast VFTP VinFast Việt Nam xe điện Phạm Nhật Vượng cùng kỳ thị trường quốc tế doanh thu năm tái cấu trúc Nguồn Znews: https://znews.vn/vinfast-thu-hon-23000-ty-mot-quy-post1658068.html TIN KHÁC 'Cá voi' bắt đáy Bitcoin 3 giờ VinFast phát triển taxi tự lái cấp độ 4, nhắm đến thị trường Đông Nam Á
+
+### [19] VinFast thu hơn 23.000 tỷ một quý - Báo Mới
+
+> VinFast hiện đặt mục tiêu có lãi từ năm 2027. Thông qua đợt tái cấu trúc này, hãng xe điện kỳ vọng rút ngắn thời gian hòa vốn và xây dựng mô hình vận hành bền vững hơn trong dài hạn. Thủy Tiên VinFast VFTP VinFast Việt Nam xe điện Phạm Nhật Vượng cùng kỳ thị trường quốc tế doanh thu năm tái cấu trúc Nguồn Znews: https://znews.vn/vinfast-thu-hon-23000-ty-mot-quy-post1658068.html TIN KHÁC 'Cá voi' bắt đáy Bitcoin 3 giờ VinFast phát triển taxi tự lái cấp độ 4, nhắm đến thị trường Đông Nam Á

@@ -1,0 +1,7430 @@
+{
+  "status": "success",
+  "sourceBackend": "youtubei-player",
+  "videoId": "54RT6QuLBhg",
+  "url": "https://www.youtube.com/watch?v=54RT6QuLBhg",
+  "language": "vi",
+  "fetchedAt": "2026-04-13T00:25:17.049Z",
+  "segments": [
+    {
+      "index": 0,
+      "text": "Trước khi bắt đầu hành trình, hãy lưu ý",
+      "start": 40,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 1,
+      "text": "rằng mọi hình ảnh ở đây đều là ẩn dụ",
+      "start": 1920,
+      "duration": 4439,
+      "lang": "vi"
+    },
+    {
+      "index": 2,
+      "text": "nghệ thuật, nội dung mang tính chất tham",
+      "start": 4040,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 3,
+      "text": "khảo và khai mở tư duy, không nhằm thay",
+      "start": 6359,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 4,
+      "text": "thế cho tư vấn tâm lý chuyên môn hay bất",
+      "start": 8599,
+      "duration": 5841,
+      "lang": "vi"
+    },
+    {
+      "index": 5,
+      "text": "kỳ hình thức trị liệu nào.",
+      "start": 10639,
+      "duration": 3801,
+      "lang": "vi"
+    },
+    {
+      "index": 6,
+      "text": "Giải mã tâm lý,",
+      "start": 14799,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 7,
+      "text": "những người lười biếng nhưng đầy tham",
+      "start": 17080,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 8,
+      "text": "vọng.",
+      "start": 18640,
+      "duration": 3000,
+      "lang": "vi"
+    },
+    {
+      "index": 9,
+      "text": "Có một kiểu người luôn sống trong cảm",
+      "start": 24320,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 10,
+      "text": "giác mâu thuẫn với chính mình. Bên trong",
+      "start": 25800,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 11,
+      "text": "họ là những hình ảnh rất lớn về tương",
+      "start": 27920,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 12,
+      "text": "lai, về con người mà họ có thể trở",
+      "start": 29519,
+      "duration": 4801,
+      "lang": "vi"
+    },
+    {
+      "index": 13,
+      "text": "thành, nhưng bên ngoài cuộc sống của họ",
+      "start": 31640,
+      "duration": 5320,
+      "lang": "vi"
+    },
+    {
+      "index": 14,
+      "text": "lại đứng yên, trí trệ, thậm chí là rượu",
+      "start": 34320,
+      "duration": 4239,
+      "lang": "vi"
+    },
+    {
+      "index": 15,
+      "text": "rã.",
+      "start": 36960,
+      "duration": 3360,
+      "lang": "vi"
+    },
+    {
+      "index": 16,
+      "text": "Họ không thiếu tham vọng nhưng cũng",
+      "start": 38559,
+      "duration": 4241,
+      "lang": "vi"
+    },
+    {
+      "index": 17,
+      "text": "không thể hành động. Và theo thời gian,",
+      "start": 40320,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 18,
+      "text": "điều còn lại chỉ là sự xấu hổ và tự",
+      "start": 42800,
+      "duration": 4759,
+      "lang": "vi"
+    },
+    {
+      "index": 19,
+      "text": "trách. Tôi từng nghĩ đây đơn giản là sự",
+      "start": 44600,
+      "duration": 5840,
+      "lang": "vi"
+    },
+    {
+      "index": 20,
+      "text": "lười biếng. Nhưng càng đi sâu tôi càng",
+      "start": 47559,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 21,
+      "text": "nhận ra đây là một cấu trúc tâm lý phức",
+      "start": 50440,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 22,
+      "text": "tạp đã được tâm lý học chiều sâu nhận",
+      "start": 52480,
+      "duration": 5360,
+      "lang": "vi"
+    },
+    {
+      "index": 23,
+      "text": "diện từ rất lâu. Trong nội dung này, tôi",
+      "start": 54600,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 24,
+      "text": "sẽ chỉ ra ba mô hình tâm lý nền tảng",
+      "start": 57840,
+      "duration": 3280,
+      "lang": "vi"
+    },
+    {
+      "index": 25,
+      "text": "định hình kiểu người lười biếng nhưng",
+      "start": 59600,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 26,
+      "text": "đầy tham vọng. Và vì sao mọi lời khuyên",
+      "start": 61120,
+      "duration": 4359,
+      "lang": "vi"
+    },
+    {
+      "index": 27,
+      "text": "về năng suất đều thất bại nếu bạn không",
+      "start": 63440,
+      "duration": 4719,
+      "lang": "vi"
+    },
+    {
+      "index": 28,
+      "text": "hiểu điều này? Nếu bạn cảm thấy những",
+      "start": 65479,
+      "duration": 4561,
+      "lang": "vi"
+    },
+    {
+      "index": 29,
+      "text": "nội dung này mang lại cho bạn một góc",
+      "start": 68159,
+      "duration": 4401,
+      "lang": "vi"
+    },
+    {
+      "index": 30,
+      "text": "nhìn mới, một chút hiểu mình hơn hoặc",
+      "start": 70040,
+      "duration": 4079,
+      "lang": "vi"
+    },
+    {
+      "index": 31,
+      "text": "đơn giản là một khoảnh khắc được chạm",
+      "start": 72560,
+      "duration": 3559,
+      "lang": "vi"
+    },
+    {
+      "index": 32,
+      "text": "vào điều gì đó thật hơn bên trong thì",
+      "start": 74119,
+      "duration": 3881,
+      "lang": "vi"
+    },
+    {
+      "index": 33,
+      "text": "bạn có thể ủng hộ góc tối tâm lý học",
+      "start": 76119,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 34,
+      "text": "bằng cách nhấn like và đăng ký. Sự ủng",
+      "start": 78000,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 35,
+      "text": "hộ của bạn không chỉ giúp kênh tiếp tục",
+      "start": 80880,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 36,
+      "text": "tồn tại mà còn giúp những nội dung tử tế",
+      "start": 82520,
+      "duration": 4720,
+      "lang": "vi"
+    },
+    {
+      "index": 37,
+      "text": "có chiều sâu này được lan tỏa đến nhiều",
+      "start": 85200,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 38,
+      "text": "người hơn. Mỗi lượt like, mỗi lượt đăng",
+      "start": 87240,
+      "duration": 4720,
+      "lang": "vi"
+    },
+    {
+      "index": 39,
+      "text": "ký là một hành động rất nhỏ. Nhưng nó",
+      "start": 89960,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 40,
+      "text": "giúp những giá trị này được nhân bản và",
+      "start": 91960,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 41,
+      "text": "tiếp tục được cho đi một cách lớn lao",
+      "start": 93920,
+      "duration": 4519,
+      "lang": "vi"
+    },
+    {
+      "index": 42,
+      "text": "hơn bạn tưởng.",
+      "start": 95600,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 43,
+      "text": "Và mô hình tâm lý lười biếng đầy tham",
+      "start": 98439,
+      "duration": 3320,
+      "lang": "vi"
+    },
+    {
+      "index": 44,
+      "text": "vọng.",
+      "start": 100159,
+      "duration": 4081,
+      "lang": "vi"
+    },
+    {
+      "index": 45,
+      "text": "Mô hình đầu tiên rất dễ nhận ra đó là",
+      "start": 101759,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 46,
+      "text": "bạn có những tầm nhìn rất lớn về tương",
+      "start": 104240,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 47,
+      "text": "lai. Những hình ảnh rõ ràng về việc mình",
+      "start": 105920,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 48,
+      "text": "sẽ trở thành ai, sẽ đạt được điều gì.",
+      "start": 108079,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 49,
+      "text": "Nhưng bạn không thể duy trì nỗ lực liên",
+      "start": 110600,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 50,
+      "text": "tục quá vài tuần. Năng lượng khởi đầu",
+      "start": 112240,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 51,
+      "text": "thì mạnh nhưng nó nhanh chóng cạn kiệt,",
+      "start": 114439,
+      "duration": 5320,
+      "lang": "vi"
+    },
+    {
+      "index": 52,
+      "text": "để lại sự gián đoạn và rang dở.",
+      "start": 116799,
+      "duration": 4721,
+      "lang": "vi"
+    },
+    {
+      "index": 53,
+      "text": "Phạn có những ước mơ lớn.",
+      "start": 119759,
+      "duration": 3320,
+      "lang": "vi"
+    },
+    {
+      "index": 54,
+      "text": "Bạn hình dung được sự thành công của bản",
+      "start": 121520,
+      "duration": 3599,
+      "lang": "vi"
+    },
+    {
+      "index": 55,
+      "text": "thân. Bạn tưởng tượng cuộc sống mình",
+      "start": 123079,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 56,
+      "text": "muốn rõ ràng đến mức cảm thấy nó gần như",
+      "start": 125119,
+      "duration": 4441,
+      "lang": "vi"
+    },
+    {
+      "index": 57,
+      "text": "là hiện thực. Nhưng khi đến lúc thực sự",
+      "start": 127439,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 58,
+      "text": "bắt tay vào làm việc, bạn lại chun bước.",
+      "start": 129560,
+      "duration": 5080,
+      "lang": "vi"
+    },
+    {
+      "index": 59,
+      "text": "Bạn chờ đợi, bạn tự nhủ, ngày mai sẽ",
+      "start": 132200,
+      "duration": 5560,
+      "lang": "vi"
+    },
+    {
+      "index": 60,
+      "text": "khác và ngày mai đến, bạn lại làm y hệt",
+      "start": 134640,
+      "duration": 4959,
+      "lang": "vi"
+    },
+    {
+      "index": 61,
+      "text": "như cũ.",
+      "start": 137760,
+      "duration": 3119,
+      "lang": "vi"
+    },
+    {
+      "index": 62,
+      "text": "Bạn không phải là người duy nhất như",
+      "start": 139599,
+      "duration": 4321,
+      "lang": "vi"
+    },
+    {
+      "index": 63,
+      "text": "vậy. Có cả một nhóm người giống hệt bạn,",
+      "start": 140879,
+      "duration": 5521,
+      "lang": "vi"
+    },
+    {
+      "index": 64,
+      "text": "tham vọng nhưng lười biếng, đầy ý tưởng",
+      "start": 143920,
+      "duration": 5039,
+      "lang": "vi"
+    },
+    {
+      "index": 65,
+      "text": "nhưng lại dậm chân tại chỗ.",
+      "start": 146400,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 66,
+      "text": "Và điều tồi tệ nhất là bạn biết mình có",
+      "start": 148959,
+      "duration": 4801,
+      "lang": "vi"
+    },
+    {
+      "index": 67,
+      "text": "khả năng làm được nhiều hơn thế, bạn chỉ",
+      "start": 151080,
+      "duration": 6280,
+      "lang": "vi"
+    },
+    {
+      "index": 68,
+      "text": "không thể tự mình hành động.",
+      "start": 153760,
+      "duration": 5440,
+      "lang": "vi"
+    },
+    {
+      "index": 69,
+      "text": "Dấu hiệu thứ hai là một sự ám ảnh giai",
+      "start": 157360,
+      "duration": 3440,
+      "lang": "vi"
+    },
+    {
+      "index": 70,
+      "text": "dẳng với việc tìm kiếm hệ thống hoàn",
+      "start": 159200,
+      "duration": 3759,
+      "lang": "vi"
+    },
+    {
+      "index": 71,
+      "text": "hảo, phương pháp năng suất lý tưởng,",
+      "start": 160800,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 72,
+      "text": "chiến lược tối ưu, khuôn khổ đúng đắn.",
+      "start": 162959,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 73,
+      "text": "Bạn tin rằng chỉ cần tìm ra công thức",
+      "start": 165800,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 74,
+      "text": "phù hợp, mọi thứ sẽ tự động vào guồng và",
+      "start": 167599,
+      "duration": 5041,
+      "lang": "vi"
+    },
+    {
+      "index": 75,
+      "text": "thành công sẽ đến.",
+      "start": 170480,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 76,
+      "text": "Bạn có một hình dung quá rõ ràng về",
+      "start": 172640,
+      "duration": 3599,
+      "lang": "vi"
+    },
+    {
+      "index": 77,
+      "text": "thành công đến nỗi bất cứ điều gì kém",
+      "start": 174319,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 78,
+      "text": "hơn đều cảm thấy như thất bại. Vì vậy,",
+      "start": 176239,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 79,
+      "text": "bạn chờ đợi.",
+      "start": 179080,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 80,
+      "text": "Bạn chờ đợi cho đến khi có kế hoạch hoàn",
+      "start": 181000,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 81,
+      "text": "hảo. Bạn chờ đợi cho đến khi cảm thấy",
+      "start": 182680,
+      "duration": 4919,
+      "lang": "vi"
+    },
+    {
+      "index": 82,
+      "text": "sẵn sàng. Nhưng sự hoàn hảo không bao",
+      "start": 185120,
+      "duration": 5479,
+      "lang": "vi"
+    },
+    {
+      "index": 83,
+      "text": "giờ đến. Sự sẵn sàng không bao giờ đến.",
+      "start": 187599,
+      "duration": 5041,
+      "lang": "vi"
+    },
+    {
+      "index": 84,
+      "text": "Và trong khi bạn chờ đợi, cuộc sống cứ",
+      "start": 190599,
+      "duration": 4401,
+      "lang": "vi"
+    },
+    {
+      "index": 85,
+      "text": "trôi qua. Chủ nghĩa hoàn hảo không phải",
+      "start": 192640,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 86,
+      "text": "là việc đặt ra tiêu chuẩn cao. Chủ nghĩa",
+      "start": 195000,
+      "duration": 4720,
+      "lang": "vi"
+    },
+    {
+      "index": 87,
+      "text": "hoàn hảo là nỗi sợ hãi được ngụy trang",
+      "start": 197440,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 88,
+      "text": "dưới vỏ bọc sự xuất sắc.",
+      "start": 199720,
+      "duration": 4799,
+      "lang": "vi"
+    },
+    {
+      "index": 89,
+      "text": "Và dấu hiệu thứ ba là bạn liên tục rơi",
+      "start": 202080,
+      "duration": 4519,
+      "lang": "vi"
+    },
+    {
+      "index": 90,
+      "text": "vào những chu kỳ mặc cảm dữ dội về sự",
+      "start": 204519,
+      "duration": 3561,
+      "lang": "vi"
+    },
+    {
+      "index": 91,
+      "text": "bất lực của chính mình trong việc hành",
+      "start": 206599,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 92,
+      "text": "động. Cụ thể hơn, bạn luân phiên giữa",
+      "start": 208080,
+      "duration": 5159,
+      "lang": "vi"
+    },
+    {
+      "index": 93,
+      "text": "hai trạng thái cực đoan. Một bên là",
+      "start": 211360,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 94,
+      "text": "những ảo tưởng đầy mê hoặc về thành công",
+      "start": 213239,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 95,
+      "text": "trong tương lai và bên còn lại là sự tự",
+      "start": 214920,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 96,
+      "text": "khinh miệt sâu sắc đối với sự trệ ở hiện",
+      "start": 217239,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 97,
+      "text": "tại.",
+      "start": 219280,
+      "duration": 3000,
+      "lang": "vi"
+    },
+    {
+      "index": 98,
+      "text": "Phạn đang nghĩ rằng mình không đủ kỷ",
+      "start": 220799,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 99,
+      "text": "luật. Bạn đang nghĩ rằng những người",
+      "start": 222280,
+      "duration": 4319,
+      "lang": "vi"
+    },
+    {
+      "index": 100,
+      "text": "thành công có một phẩm chất đặc biệt nào",
+      "start": 224640,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 101,
+      "text": "đó mà bạn không có. Bạn đã nghĩ rằng nếu",
+      "start": 226599,
+      "duration": 5161,
+      "lang": "vi"
+    },
+    {
+      "index": 102,
+      "text": "chỉ cần có thêm động lực, mọi thứ sẽ",
+      "start": 229560,
+      "duration": 5679,
+      "lang": "vi"
+    },
+    {
+      "index": 103,
+      "text": "thay đổi. Nhưng thực tế không phải vậy.",
+      "start": 231760,
+      "duration": 6160,
+      "lang": "vi"
+    },
+    {
+      "index": 104,
+      "text": "Động lực là một cảm xúc. Cảm xúc đến rồi",
+      "start": 235239,
+      "duration": 5148,
+      "lang": "vi"
+    },
+    {
+      "index": 105,
+      "text": "đi. Bạn không thể xây dựng cuộc sống chỉ",
+      "start": 237920,
+      "duration": 4679,
+      "lang": "vi"
+    },
+    {
+      "index": 106,
+      "text": "[âm nhạc] dựa trên động lực.",
+      "start": 240387,
+      "duration": 3533,
+      "lang": "vi"
+    },
+    {
+      "index": 107,
+      "text": "Bạn hoặc là người hùng trong câu chuyện",
+      "start": 242599,
+      "duration": 3321,
+      "lang": "vi"
+    },
+    {
+      "index": 108,
+      "text": "tương lai của chính mình, hoặc là một kẻ",
+      "start": 243920,
+      "duration": 5399,
+      "lang": "vi"
+    },
+    {
+      "index": 109,
+      "text": "hoàn toàn vô giá trị, không có vùng xám,",
+      "start": 245920,
+      "duration": 5800,
+      "lang": "vi"
+    },
+    {
+      "index": 110,
+      "text": "không có trạng thái trung gian.",
+      "start": 249319,
+      "duration": 4361,
+      "lang": "vi"
+    },
+    {
+      "index": 111,
+      "text": "Nhưng điều đáng chú ý là mô hình này",
+      "start": 251720,
+      "duration": 3519,
+      "lang": "vi"
+    },
+    {
+      "index": 112,
+      "text": "không phải là một thói quen xấu ở trong",
+      "start": 253680,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 113,
+      "text": "bạn mà thực chất là một hội chứng đã",
+      "start": 255239,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 114,
+      "text": "được công nhận trong tâm lý học chiều",
+      "start": 257680,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 115,
+      "text": "sâu gắn liền với những lo âu mang tính",
+      "start": 259079,
+      "duration": 4481,
+      "lang": "vi"
+    },
+    {
+      "index": 116,
+      "text": "sinh tồn của cái tôi.",
+      "start": 261280,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 117,
+      "text": "Nếu bạn thực sự hiểu bản chất của hiện",
+      "start": 263560,
+      "duration": 3440,
+      "lang": "vi"
+    },
+    {
+      "index": 118,
+      "text": "tượng này, cách bạn nhìn chính mình sẽ",
+      "start": 265160,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 119,
+      "text": "thay đổi hoàn toàn. Bạn sẽ nhận ra đây",
+      "start": 267000,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 120,
+      "text": "không phải là vấn đề của ý chí hay kỷ",
+      "start": 270000,
+      "duration": 3320,
+      "lang": "vi"
+    },
+    {
+      "index": 121,
+      "text": "luật.",
+      "start": 271800,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 122,
+      "text": "Và một khi bạn hiểu được cấu trúc đó,",
+      "start": 273320,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 123,
+      "text": "bạn sẽ có cơ hội tìm ra giải pháp thực",
+      "start": 275440,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 124,
+      "text": "sự thay vì cứ lặp đi lặp lại những mẹo",
+      "start": 277320,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 125,
+      "text": "tăng năng suất vốn được thiết kế trong",
+      "start": 279600,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 126,
+      "text": "một kiểu tâm lý hoàn toàn khác.",
+      "start": 281479,
+      "duration": 4801,
+      "lang": "vi"
+    },
+    {
+      "index": 127,
+      "text": "Thực tế, hầu hết các lời khuyên về năng",
+      "start": 284160,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 128,
+      "text": "suất hiện đại trở nên vô nghĩa khi bạn",
+      "start": 286280,
+      "duration": 3639,
+      "lang": "vi"
+    },
+    {
+      "index": 129,
+      "text": "nhận ra rằng chúng ngầm giả định một cấu",
+      "start": 288120,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 130,
+      "text": "trúc tâm lý mà bạn không có.",
+      "start": 289919,
+      "duration": 5280,
+      "lang": "vi"
+    },
+    {
+      "index": 131,
+      "text": "Chẳng hạn, lời khuyên quen thuộc nhất là",
+      "start": 292680,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 132,
+      "text": "hãy xác định mục tiêu rõ ràng và hình",
+      "start": 295199,
+      "duration": 4081,
+      "lang": "vi"
+    },
+    {
+      "index": 133,
+      "text": "dung thành công mỗi ngày.",
+      "start": 297000,
+      "duration": 3919,
+      "lang": "vi"
+    },
+    {
+      "index": 134,
+      "text": "Lời khuyên này chỉ có hiệu quả với những",
+      "start": 299280,
+      "duration": 3639,
+      "lang": "vi"
+    },
+    {
+      "index": 135,
+      "text": "người đã sở hữu một bản ngã tương đối ổn",
+      "start": 300919,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 136,
+      "text": "định, có khả năng duy trì nỗ lực mà",
+      "start": 302919,
+      "duration": 4361,
+      "lang": "vi"
+    },
+    {
+      "index": 137,
+      "text": "không cần đến ảo tưởng bù đắp. Nhưng với",
+      "start": 304919,
+      "duration": 4521,
+      "lang": "vi"
+    },
+    {
+      "index": 138,
+      "text": "người có cấu trúc tự ái, họ không thể để",
+      "start": 307280,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 139,
+      "text": "chịu đựng cảm giác chưa đủ tốt ở bản",
+      "start": 309440,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 140,
+      "text": "thân. Vì vậy, tâm lý phải phát triển các",
+      "start": 311120,
+      "duration": 5400,
+      "lang": "vi"
+    },
+    {
+      "index": 141,
+      "text": "chiến lược phòng vệ để sinh tồn.",
+      "start": 313800,
+      "duration": 4119,
+      "lang": "vi"
+    },
+    {
+      "index": 142,
+      "text": "Việc hình dung thành công có thể không",
+      "start": 316520,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 143,
+      "text": "kích hoạt hành động mà ngược lại nó nuôi",
+      "start": 317919,
+      "duration": 4400,
+      "lang": "vi"
+    },
+    {
+      "index": 144,
+      "text": "dưỡng ảo tưởng vĩ đại khiến thế giới",
+      "start": 320400,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 145,
+      "text": "tưởng tượng trở nên thỏa mãn hơn cả hiện",
+      "start": 322319,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 146,
+      "text": "thực và do đó làm suy yếu động lực hành",
+      "start": 324160,
+      "duration": 5879,
+      "lang": "vi"
+    },
+    {
+      "index": 147,
+      "text": "động. Một ví dụ khác là lời khuyên hãy",
+      "start": 326520,
+      "duration": 5640,
+      "lang": "vi"
+    },
+    {
+      "index": 148,
+      "text": "tìm động lực nội tại. Hãy làm việc khi",
+      "start": 330039,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 149,
+      "text": "bạn cảm thấy được truyền cảm hứng.",
+      "start": 332160,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 150,
+      "text": "Cách tiếp cận này giả định rằng cảm xúc",
+      "start": 334960,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 151,
+      "text": "hứng khởi là một tín hiệu đáng tin cậy",
+      "start": 337000,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 152,
+      "text": "để hành động. Nhưng đối với kiểu cấu",
+      "start": 338840,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 153,
+      "text": "trúc lười biếng nhưng đầy tham vọng, cảm",
+      "start": 340840,
+      "duration": 5520,
+      "lang": "vi"
+    },
+    {
+      "index": 154,
+      "text": "xúc lại chính là liều thuốc gây tê liệt.",
+      "start": 343120,
+      "duration": 5199,
+      "lang": "vi"
+    },
+    {
+      "index": 155,
+      "text": "Khi không có cảm hứng, họ không hành",
+      "start": 346360,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 156,
+      "text": "động. Khi có cảm hứng, họ lại tiêu thụ",
+      "start": 348319,
+      "duration": 4121,
+      "lang": "vi"
+    },
+    {
+      "index": 157,
+      "text": "nó trong tưởng tượng thay vì trong lao",
+      "start": 350680,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 158,
+      "text": "động thực tế.",
+      "start": 352440,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 159,
+      "text": "Vì vậy, lời khuyên này vô tình cùng cố",
+      "start": 354400,
+      "duration": 5359,
+      "lang": "vi"
+    },
+    {
+      "index": 160,
+      "text": "vòng luần quẩn giữa mơ mộng và trì hoãn.",
+      "start": 356520,
+      "duration": 5320,
+      "lang": "vi"
+    },
+    {
+      "index": 161,
+      "text": "Rồi đến những hệ thống như dậy sớm hơn,",
+      "start": 359759,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 162,
+      "text": "xây dựng thói quen buổi sáng hoàn hảo",
+      "start": 361840,
+      "duration": 5040,
+      "lang": "vi"
+    },
+    {
+      "index": 163,
+      "text": "hay tối ưu hóa từng giờ trong ngày.",
+      "start": 363919,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 164,
+      "text": "Những hệ thống này được thiết kế cho",
+      "start": 366880,
+      "duration": 3439,
+      "lang": "vi"
+    },
+    {
+      "index": 165,
+      "text": "những người có khả năng chịu đựng sự",
+      "start": 368759,
+      "duration": 3761,
+      "lang": "vi"
+    },
+    {
+      "index": 166,
+      "text": "không hoàn hảo mà không sụp đổ về mặt",
+      "start": 370319,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 167,
+      "text": "giá trị bản thân.",
+      "start": 372520,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 168,
+      "text": "Nhưng với người có cấu trúc tự thân mong",
+      "start": 374599,
+      "duration": 3440,
+      "lang": "vi"
+    },
+    {
+      "index": 169,
+      "text": "manh, mỗi lần không hoàn thành được thói",
+      "start": 376160,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 170,
+      "text": "quen lý tưởng lại trở thành bằng chứng",
+      "start": 378039,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 171,
+      "text": "cho cảm giác vô giá trị, từ đó kích hoạt",
+      "start": 380080,
+      "duration": 4959,
+      "lang": "vi"
+    },
+    {
+      "index": 172,
+      "text": "xấu hổ, tự căm ghét và cuối cùng là sự",
+      "start": 382479,
+      "duration": 5041,
+      "lang": "vi"
+    },
+    {
+      "index": 173,
+      "text": "rút lui hoàn toàn. Ngay cả những lời",
+      "start": 385039,
+      "duration": 4641,
+      "lang": "vi"
+    },
+    {
+      "index": 174,
+      "text": "khuyên có vẻ khoa học hơn như chia nhỏ",
+      "start": 387520,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 175,
+      "text": "mục tiêu, theo dõi tiến độ, đo lường",
+      "start": 389680,
+      "duration": 5440,
+      "lang": "vi"
+    },
+    {
+      "index": 176,
+      "text": "hiệu suất cũng thường thất bại.",
+      "start": 392160,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 177,
+      "text": "Không phải vì chúng sai mà vì chúng giả",
+      "start": 395120,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 178,
+      "text": "định rằng thất bại chỉ là dữ liệu trung",
+      "start": 397080,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 179,
+      "text": "lập. Trong khi đó, với cấu trúc tâm lý",
+      "start": 399160,
+      "duration": 5200,
+      "lang": "vi"
+    },
+    {
+      "index": 180,
+      "text": "này, mỗi chỉ số không đạt được lại được",
+      "start": 401840,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 181,
+      "text": "vô thức diễn giải như một sự phủ nhận",
+      "start": 404360,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 182,
+      "text": "bản thân, một sự lật mặt ảo tưởng vĩ",
+      "start": 406039,
+      "duration": 3641,
+      "lang": "vi"
+    },
+    {
+      "index": 183,
+      "text": "đại.",
+      "start": 408120,
+      "duration": 3440,
+      "lang": "vi"
+    },
+    {
+      "index": 184,
+      "text": "Kết quả là người ta tránh né hệ thống đo",
+      "start": 409680,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 185,
+      "text": "lường không phải vì lười mà vì họ đang",
+      "start": 411560,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 186,
+      "text": "tự bảo vệ cấu trúc bản ngã mong manh của",
+      "start": 414160,
+      "duration": 4759,
+      "lang": "vi"
+    },
+    {
+      "index": 187,
+      "text": "mình. Và cuối cùng là lời khuyên phổ",
+      "start": 416120,
+      "duration": 6120,
+      "lang": "vi"
+    },
+    {
+      "index": 188,
+      "text": "biến nhất, bạn chỉ cần kỷ luật hơn.",
+      "start": 418919,
+      "duration": 5560,
+      "lang": "vi"
+    },
+    {
+      "index": 189,
+      "text": "Đây có lẽ là ví dụ rõ ràng nhất của lỗi",
+      "start": 422240,
+      "duration": 5399,
+      "lang": "vi"
+    },
+    {
+      "index": 190,
+      "text": "phân loại. Kỷ luật trong nghĩa tâm lý",
+      "start": 424479,
+      "duration": 5241,
+      "lang": "vi"
+    },
+    {
+      "index": 191,
+      "text": "học không thể tồn tại nếu không có một",
+      "start": 427639,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 192,
+      "text": "cái tôi đủ ổn định để chịu đựng sự khó",
+      "start": 429720,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 193,
+      "text": "chịu mà không sụp đổ về mặt giá trị. Khi",
+      "start": 431919,
+      "duration": 4241,
+      "lang": "vi"
+    },
+    {
+      "index": 194,
+      "text": "bạn yêu cầu kỷ luật từ một cấu trúc chưa",
+      "start": 434520,
+      "duration": 3480,
+      "lang": "vi"
+    },
+    {
+      "index": 195,
+      "text": "được tích hợp, bạn không thúc đẩy sự",
+      "start": 436160,
+      "duration": 3759,
+      "lang": "vi"
+    },
+    {
+      "index": 196,
+      "text": "phát triển mà đang kích hoạt cơ chế",
+      "start": 438000,
+      "duration": 4919,
+      "lang": "vi"
+    },
+    {
+      "index": 197,
+      "text": "phòng vệ dẫn đến tê liệt, trì hoãn và tự",
+      "start": 439919,
+      "duration": 4720,
+      "lang": "vi"
+    },
+    {
+      "index": 198,
+      "text": "trừng phạt.",
+      "start": 442919,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 199,
+      "text": "Vì vậy, vấn đề không nằm ở chỗ. Những",
+      "start": 444639,
+      "duration": 4960,
+      "lang": "vi"
+    },
+    {
+      "index": 200,
+      "text": "lời khuyên này là sai lầm. Vấn đề là",
+      "start": 447120,
+      "duration": 4079,
+      "lang": "vi"
+    },
+    {
+      "index": 201,
+      "text": "chúng được thiết kế cho một kiểu tâm lý",
+      "start": 449599,
+      "duration": 3521,
+      "lang": "vi"
+    },
+    {
+      "index": 202,
+      "text": "khác cho những người không cần dùng ảo",
+      "start": 451199,
+      "duration": 5120,
+      "lang": "vi"
+    },
+    {
+      "index": 203,
+      "text": "tưởng để duy trì lòng tự trọng.",
+      "start": 453120,
+      "duration": 5040,
+      "lang": "vi"
+    },
+    {
+      "index": 204,
+      "text": "Khi áp dụng chúng cho người lười biếng",
+      "start": 456319,
+      "duration": 3761,
+      "lang": "vi"
+    },
+    {
+      "index": 205,
+      "text": "nhưng đầy tham vọng, kết quả không phải",
+      "start": 458160,
+      "duration": 4400,
+      "lang": "vi"
+    },
+    {
+      "index": 206,
+      "text": "là cải thiện mà là thất bại, lặp đi lặp",
+      "start": 460080,
+      "duration": 6000,
+      "lang": "vi"
+    },
+    {
+      "index": 207,
+      "text": "lại và cảm giác xấu hổ ngày càng sâu.",
+      "start": 462560,
+      "duration": 5319,
+      "lang": "vi"
+    },
+    {
+      "index": 208,
+      "text": "Điều đang diễn ra trong kiểu người này",
+      "start": 466080,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 209,
+      "text": "là một dạng phân tách trong tâm lý. Cơ",
+      "start": 467879,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 210,
+      "text": "chế cốt lõi của nó là một cơ chế phòng",
+      "start": 470280,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 211,
+      "text": "vệ nhằm chống lại nỗi sợ sâu xa về sự",
+      "start": 472199,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 212,
+      "text": "thiếu năng lực.",
+      "start": 474520,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 213,
+      "text": "Phạn khao khát sự vĩ đại nhưng lại không",
+      "start": 476360,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 214,
+      "text": "muốn đối mặt với rủi ro thật sự của việc",
+      "start": 478440,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 215,
+      "text": "nỗ lực nghiêm túc.",
+      "start": 480360,
+      "duration": 3559,
+      "lang": "vi"
+    },
+    {
+      "index": 216,
+      "text": "Bạn muốn mang danh tính của một người",
+      "start": 482479,
+      "duration": 3120,
+      "lang": "vi"
+    },
+    {
+      "index": 217,
+      "text": "tham vọng nhưng không muốn chấp nhận",
+      "start": 483919,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 218,
+      "text": "nguy cơ thất bại vốn luôn đi kèm với",
+      "start": 485599,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 219,
+      "text": "hành động thực.",
+      "start": 487599,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 220,
+      "text": "Giới tâm lý học đã nhận diện mô hình lời",
+      "start": 489479,
+      "duration": 3881,
+      "lang": "vi"
+    },
+    {
+      "index": 221,
+      "text": "biếng nhưng đầy tham vọng này từ nhiều",
+      "start": 491440,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 222,
+      "text": "thập kỷ trước. Và ngày nay nó xuất hiện",
+      "start": 493360,
+      "duration": 5239,
+      "lang": "vi"
+    },
+    {
+      "index": 223,
+      "text": "ở hàng triệu người bởi vì đó là một phản",
+      "start": 496240,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 224,
+      "text": "ứng có thể dự đoán được trước những thất",
+      "start": 498599,
+      "duration": 3641,
+      "lang": "vi"
+    },
+    {
+      "index": 225,
+      "text": "bại nhất định trong quá trình phát triển",
+      "start": 500560,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 226,
+      "text": "tâm lý.",
+      "start": 502240,
+      "duration": 3399,
+      "lang": "vi"
+    },
+    {
+      "index": 227,
+      "text": "Thách thức lớn nhất mà các nhà phân tâm",
+      "start": 503960,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 228,
+      "text": "học từng đối mặt là những bệnh nhân thật",
+      "start": 505639,
+      "duration": 4041,
+      "lang": "vi"
+    },
+    {
+      "index": 229,
+      "text": "sự muốn thành công nhưng lại không thể",
+      "start": 507680,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 230,
+      "text": "duy trì nỗ lực lâu dài.",
+      "start": 509680,
+      "duration": 4599,
+      "lang": "vi"
+    },
+    {
+      "index": 231,
+      "text": "Quan điểm phổ biến lúc bấy giờ cho rằng",
+      "start": 512240,
+      "duration": 3599,
+      "lang": "vi"
+    },
+    {
+      "index": 232,
+      "text": "những người không làm việc đơn giản là",
+      "start": 514279,
+      "duration": 3721,
+      "lang": "vi"
+    },
+    {
+      "index": 233,
+      "text": "thiếu đạo đức lao động hoặc có vấn đề về",
+      "start": 515839,
+      "duration": 4841,
+      "lang": "vi"
+    },
+    {
+      "index": 234,
+      "text": "nhân cách. Nhưng dần dần các nhà phân",
+      "start": 518000,
+      "duration": 5640,
+      "lang": "vi"
+    },
+    {
+      "index": 235,
+      "text": "tâm học bắt đầu nhận ra một quy luật.",
+      "start": 520680,
+      "duration": 5040,
+      "lang": "vi"
+    },
+    {
+      "index": 236,
+      "text": "Họ gặp những bệnh nhân có trí tuệ cao,",
+      "start": 523640,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 237,
+      "text": "có hoài bão rõ ràng, có khả năng tư duy",
+      "start": 525720,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 238,
+      "text": "tốt nhưng lại hoàn toàn bất lực trong",
+      "start": 528000,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 239,
+      "text": "việc duy trì hiệu suất làm việc.",
+      "start": 529920,
+      "duration": 4880,
+      "lang": "vi"
+    },
+    {
+      "index": 240,
+      "text": "Và rồi họ nhận ra rằng đây không phải là",
+      "start": 532560,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 241,
+      "text": "vấn đề nhân cách. Những trường hợp này",
+      "start": 534800,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 242,
+      "text": "cho thấy đây là một cấu trúc tâm lý.",
+      "start": 537320,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 243,
+      "text": "Nhưng để hiểu nó, họ cần truy ngược lại",
+      "start": 539600,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 244,
+      "text": "nguyên nhân sâu xa đã tạo ra cấu trúc",
+      "start": 541760,
+      "duration": 5040,
+      "lang": "vi"
+    },
+    {
+      "index": 245,
+      "text": "đó. Và chính tại đây, tâm lý học chiều",
+      "start": 543680,
+      "duration": 5760,
+      "lang": "vi"
+    },
+    {
+      "index": 246,
+      "text": "sâu bắt đầu làm sáng tỏ vấn đề. Ham muốn",
+      "start": 546800,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 247,
+      "text": "có ý thức, không bao giờ đủ sức vượt qua",
+      "start": 549440,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 248,
+      "text": "sự kháng cự vô thức.",
+      "start": 551640,
+      "duration": 5400,
+      "lang": "vi"
+    },
+    {
+      "index": 249,
+      "text": "Vậy rốt cuộc điều gì đã xảy ra?",
+      "start": 553920,
+      "duration": 5760,
+      "lang": "vi"
+    },
+    {
+      "index": 250,
+      "text": "Thơ chế vận hành sau mô hình tập lý. Các",
+      "start": 557040,
+      "duration": 4359,
+      "lang": "vi"
+    },
+    {
+      "index": 251,
+      "text": "nhà phân tích dần xác định được cơ chế",
+      "start": 559680,
+      "duration": 4399,
+      "lang": "vi"
+    },
+    {
+      "index": 252,
+      "text": "các hành vi tâm lý đang vận hành phía",
+      "start": 561399,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 253,
+      "text": "sau mô hình tâm lý mà tôi đã chia sẻ ở",
+      "start": 564079,
+      "duration": 3601,
+      "lang": "vi"
+    },
+    {
+      "index": 254,
+      "text": "trên.",
+      "start": 566160,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 255,
+      "text": "Khi chúng ta tiếp tục, bạn sẽ bắt đầu",
+      "start": 567680,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 256,
+      "text": "nhận diện được cơ chế phòng vệ ái kỷ,",
+      "start": 569560,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 257,
+      "text": "chủ nghĩa hoàn hảo như một hình thức tự",
+      "start": 571680,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 258,
+      "text": "bảo vệ và sự phân tách giữa xấu hổ và",
+      "start": 573279,
+      "duration": 4401,
+      "lang": "vi"
+    },
+    {
+      "index": 259,
+      "text": "cái tôi ngạo mạn.",
+      "start": 575680,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 260,
+      "text": "Giờ đây, để bạn thực sự hiểu vì sao",
+      "start": 577680,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 261,
+      "text": "nhiều người thông minh, có năng lực tư",
+      "start": 579800,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 262,
+      "text": "duy, có tham vọng rõ ràng nhưng vẫn",
+      "start": 581560,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 263,
+      "text": "không thể thực hiện được điều mình muốn,",
+      "start": 583839,
+      "duration": 3321,
+      "lang": "vi"
+    },
+    {
+      "index": 264,
+      "text": "chúng ta cần nhìn vào những nghiên cứu",
+      "start": 585680,
+      "duration": 3599,
+      "lang": "vi"
+    },
+    {
+      "index": 265,
+      "text": "tâm lý học chiều sâu đã được thực hiện",
+      "start": 587160,
+      "duration": 4119,
+      "lang": "vi"
+    },
+    {
+      "index": 266,
+      "text": "từ rất sớm.",
+      "start": 589279,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 267,
+      "text": "Khi các nhà phân tích lâm sàng quan sát,",
+      "start": 591279,
+      "duration": 3601,
+      "lang": "vi"
+    },
+    {
+      "index": 268,
+      "text": "thấy những bệnh nhân liên tục né tránh",
+      "start": 593120,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 269,
+      "text": "nỗ lực thực sự, họ không vội kết luận đó",
+      "start": 594880,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 270,
+      "text": "là sự lười biếng đơn thuần mà đặt ra một",
+      "start": 597200,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 271,
+      "text": "câu hỏi, hành vi né tránh này đang phục",
+      "start": 599440,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 272,
+      "text": "vụ cho chức năng tâm lý nào?",
+      "start": 601640,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 273,
+      "text": "Điều họ phát hiện ra là những người này",
+      "start": 604200,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 274,
+      "text": "đang vô thức bảo vệ một hình ảnh bản",
+      "start": 605920,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 275,
+      "text": "thân vĩ đại bằng cách tránh né các thử",
+      "start": 607600,
+      "duration": 4799,
+      "lang": "vi"
+    },
+    {
+      "index": 276,
+      "text": "thách thực tế. Họ duy trì ảo tưởng về sự",
+      "start": 609800,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 277,
+      "text": "vĩ đại trong tương lai bằng cách không",
+      "start": 612399,
+      "duration": 4281,
+      "lang": "vi"
+    },
+    {
+      "index": 278,
+      "text": "hành động trong hiện tại.",
+      "start": 614440,
+      "duration": 4720,
+      "lang": "vi"
+    },
+    {
+      "index": 279,
+      "text": "Sự lười biếng trong trường hợp này không",
+      "start": 616680,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 280,
+      "text": "phải là thiếu động lực mà trở thành một",
+      "start": 619160,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 281,
+      "text": "cơ chế phòng vệ, chống lại khả năng phải",
+      "start": 621160,
+      "duration": 4359,
+      "lang": "vi"
+    },
+    {
+      "index": 282,
+      "text": "đối diện với một sự thật rằng họ có thể",
+      "start": 623200,
+      "duration": 5120,
+      "lang": "vi"
+    },
+    {
+      "index": 283,
+      "text": "chỉ là những con người bình thường.",
+      "start": 625519,
+      "duration": 4681,
+      "lang": "vi"
+    },
+    {
+      "index": 284,
+      "text": "Tham vọng vì thế được giữ lại trong thế",
+      "start": 628320,
+      "duration": 3800,
+      "lang": "vi"
+    },
+    {
+      "index": 285,
+      "text": "giới của tưởng tượng, nơi nó không bao",
+      "start": 630200,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 286,
+      "text": "giờ bị kiểm nghiệm. và do đó không bao",
+      "start": 632120,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 287,
+      "text": "giờ bị bác bỏ.",
+      "start": 634160,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 288,
+      "text": "Cơ chế thứ hai mà các nhà phân tích xác",
+      "start": 636160,
+      "duration": 3359,
+      "lang": "vi"
+    },
+    {
+      "index": 289,
+      "text": "định được xuất hiện dưới hình thức mà",
+      "start": 637800,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 290,
+      "text": "nhiều người lầm tưởng là cầu toàn. Các",
+      "start": 639519,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 291,
+      "text": "bệnh nhân thường nói rằng họ chỉ cần",
+      "start": 641720,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 292,
+      "text": "điều kiện hoàn hảo trước khi bắt đầu.",
+      "start": 643360,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 293,
+      "text": "Nhưng khi quan sát sâu hơn, các nhà phân",
+      "start": 645560,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 294,
+      "text": "tích nhận ra đây không phải là một sở",
+      "start": 647560,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 295,
+      "text": "thích cá nhân mà là một cơ chế phòng vệ",
+      "start": 649279,
+      "duration": 4601,
+      "lang": "vi"
+    },
+    {
+      "index": 296,
+      "text": "mang tính cấu trúc. Chức năng cốt lõi",
+      "start": 651560,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 297,
+      "text": "của nó là bảo vệ bản thân khỏi tổn",
+      "start": 653880,
+      "duration": 4399,
+      "lang": "vi"
+    },
+    {
+      "index": 298,
+      "text": "thương tự ái bằng cách chỉ cho phép mình",
+      "start": 655920,
+      "duration": 4359,
+      "lang": "vi"
+    },
+    {
+      "index": 299,
+      "text": "tạo ra những sản phẩm hoàn hạo. Bởi vì",
+      "start": 658279,
+      "duration": 4041,
+      "lang": "vi"
+    },
+    {
+      "index": 300,
+      "text": "đối với một cái tôi được lý tưởng hóa,",
+      "start": 660279,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 301,
+      "text": "việc tạo ra thứ gì đó tầm thường là",
+      "start": 662320,
+      "duration": 5440,
+      "lang": "vi"
+    },
+    {
+      "index": 302,
+      "text": "không thể chấp nhận được về mặt tâm lý.",
+      "start": 664639,
+      "duration": 4681,
+      "lang": "vi"
+    },
+    {
+      "index": 303,
+      "text": "Điều này vận hành theo một logic rất",
+      "start": 667760,
+      "duration": 4639,
+      "lang": "vi"
+    },
+    {
+      "index": 304,
+      "text": "kín. Nếu điều kiện chưa hoàn hảo, bạn sẽ",
+      "start": 669320,
+      "duration": 5319,
+      "lang": "vi"
+    },
+    {
+      "index": 305,
+      "text": "không bao giờ bắt đầu. Và nếu bạn không",
+      "start": 672399,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 306,
+      "text": "bao giờ bắt đầu, bạn cũng sẽ không bao",
+      "start": 674639,
+      "duration": 3961,
+      "lang": "vi"
+    },
+    {
+      "index": 307,
+      "text": "giờ bị chỉ trích.",
+      "start": 676639,
+      "duration": 4121,
+      "lang": "vi"
+    },
+    {
+      "index": 308,
+      "text": "Cơ chế này hiệu quả bởi vì nó duy trì",
+      "start": 678600,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 309,
+      "text": "khả năng hoàn hảo trong tưởng tượng. và",
+      "start": 680760,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 310,
+      "text": "đồng thời bảo vệ bạn khỏi việc phải đối",
+      "start": 682600,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 311,
+      "text": "mặt với những giới hạn của bản thân",
+      "start": 684600,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 312,
+      "text": "trong thực tế.",
+      "start": 686360,
+      "duration": 3479,
+      "lang": "vi"
+    },
+    {
+      "index": 313,
+      "text": "Chính vì những cơ chế như vậy mà ngày",
+      "start": 688320,
+      "duration": 3280,
+      "lang": "vi"
+    },
+    {
+      "index": 314,
+      "text": "nay những người lười biếng nhưng đầy",
+      "start": 689839,
+      "duration": 3961,
+      "lang": "vi"
+    },
+    {
+      "index": 315,
+      "text": "tham vọng cũng như những người sáng tạo",
+      "start": 691600,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 316,
+      "text": "nhưng không bao giờ đạt được thành tựu",
+      "start": 693800,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 317,
+      "text": "trọn vẹn ngày càng trở nên phổ biến.",
+      "start": 695200,
+      "duration": 5079,
+      "lang": "vi"
+    },
+    {
+      "index": 318,
+      "text": "Họ sống trong cảm giác thất vọng kéo",
+      "start": 698560,
+      "duration": 4519,
+      "lang": "vi"
+    },
+    {
+      "index": 319,
+      "text": "dài, bế tắc nội tâm, đặc biệt trong bối",
+      "start": 700279,
+      "duration": 5201,
+      "lang": "vi"
+    },
+    {
+      "index": 320,
+      "text": "cảnh xã hội hiện đại. Và khi chúng ta đã",
+      "start": 703079,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 321,
+      "text": "hiểu được cấu trúc tâm lý này, có thể",
+      "start": 705480,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 322,
+      "text": "thấy rõ rằng những quan niệm văn hóa",
+      "start": 707399,
+      "duration": 3801,
+      "lang": "vi"
+    },
+    {
+      "index": 323,
+      "text": "truyền thống hoàn toàn bỏ qua chiều sâu",
+      "start": 709360,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 324,
+      "text": "của vấn đề.",
+      "start": 711200,
+      "duration": 3639,
+      "lang": "vi"
+    },
+    {
+      "index": 325,
+      "text": "Quan điểm cũ dựa trên một phán xét mang",
+      "start": 713000,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 326,
+      "text": "tính đạo đức cho rằng những người không",
+      "start": 714839,
+      "duration": 4641,
+      "lang": "vi"
+    },
+    {
+      "index": 327,
+      "text": "làm việc chăm chỉ đơn giản là lười biếng",
+      "start": 716839,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 328,
+      "text": "và thiếu nhân cách.",
+      "start": 719480,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 329,
+      "text": "Trong khi đó, văn hóa năng suất hiện đại",
+      "start": 721600,
+      "duration": 3919,
+      "lang": "vi"
+    },
+    {
+      "index": 330,
+      "text": "và những người xây dựng ảnh hưởng trong",
+      "start": 724120,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 331,
+      "text": "lĩnh vực này lại cần bán ra các giải",
+      "start": 725519,
+      "duration": 4401,
+      "lang": "vi"
+    },
+    {
+      "index": 332,
+      "text": "pháp nên họ buộc phải khiến vấn đề trông",
+      "start": 727680,
+      "duration": 6159,
+      "lang": "vi"
+    },
+    {
+      "index": 333,
+      "text": "có vẻ đơn giản và dễ khắc phục. Vì vậy,",
+      "start": 729920,
+      "duration": 5880,
+      "lang": "vi"
+    },
+    {
+      "index": 334,
+      "text": "họ phát triển những câu chuyện hời hợt",
+      "start": 733839,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 335,
+      "text": "được đóng gói dưới dạng các kỹ thuật",
+      "start": 735800,
+      "duration": 5080,
+      "lang": "vi"
+    },
+    {
+      "index": 336,
+      "text": "hình thành thói quen hay tạo động lực.",
+      "start": 737399,
+      "duration": 4961,
+      "lang": "vi"
+    },
+    {
+      "index": 337,
+      "text": "Nhưng điều quan trọng nhất mà bạn cần",
+      "start": 740880,
+      "duration": 3440,
+      "lang": "vi"
+    },
+    {
+      "index": 338,
+      "text": "biết là hàng triệu người đang mắc kẹt",
+      "start": 742360,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 339,
+      "text": "trong cấu trúc tâm lý này và những giải",
+      "start": 744320,
+      "duration": 4319,
+      "lang": "vi"
+    },
+    {
+      "index": 340,
+      "text": "pháp bề mặt đó không chạm được vào gốc",
+      "start": 746320,
+      "duration": 4400,
+      "lang": "vi"
+    },
+    {
+      "index": 341,
+      "text": "dễ của vấn đề.",
+      "start": 748639,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 342,
+      "text": "Thực tế, một số ước tính cho thấy khoảng",
+      "start": 750720,
+      "duration": 5239,
+      "lang": "vi"
+    },
+    {
+      "index": 343,
+      "text": "từ 15 đến 20% những người thông minh, có",
+      "start": 752839,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 344,
+      "text": "học thức đang mang trong mình hội chứng",
+      "start": 755959,
+      "duration": 4601,
+      "lang": "vi"
+    },
+    {
+      "index": 345,
+      "text": "lười biếng nhưng đầy tham vọng.",
+      "start": 757760,
+      "duration": 4639,
+      "lang": "vi"
+    },
+    {
+      "index": 346,
+      "text": "Điều này gây ra mức độ đau khổ tâm lý",
+      "start": 760560,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 347,
+      "text": "rất lớn. Bởi vì nếu bạn bị mắc kẹt trong",
+      "start": 762399,
+      "duration": 4321,
+      "lang": "vi"
+    },
+    {
+      "index": 348,
+      "text": "vòng luẩn quận này, đã thử mọi phương",
+      "start": 764800,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 349,
+      "text": "pháp nhưng vẫn thất bại, bạn sẽ không",
+      "start": 766720,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 350,
+      "text": "thể hiểu nổi tại sao mình cứ lặp lại",
+      "start": 768839,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 351,
+      "text": "cùng một kết quả không như ý. Vậy làm",
+      "start": 770760,
+      "duration": 5960,
+      "lang": "vi"
+    },
+    {
+      "index": 352,
+      "text": "thế nào để lý giải được điều đó?",
+      "start": 773760,
+      "duration": 5120,
+      "lang": "vi"
+    },
+    {
+      "index": 353,
+      "text": "Cũng chính từ sự bế tắc này, tâm lý học",
+      "start": 776720,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 354,
+      "text": "buộc phải đi xa hơn bề mặt hành vi để",
+      "start": 778880,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 355,
+      "text": "chạm vào tầng cấu trúc.",
+      "start": 781360,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 356,
+      "text": "Từ giữa thế kỷ 20, những nhà tâm lý học",
+      "start": 783680,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 357,
+      "text": "như Henz Cohut và Otto Kenberg bắt đầu",
+      "start": 786040,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 358,
+      "text": "nghiên cứu một cách hệ thống nhân cách",
+      "start": 788680,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 359,
+      "text": "ái kỷ không như một thói xấu mà như một",
+      "start": 790199,
+      "duration": 4361,
+      "lang": "vi"
+    },
+    {
+      "index": 360,
+      "text": "cấu trúc tự thân được hình thành trong",
+      "start": 792600,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 361,
+      "text": "tiến trình phát triển sớm.",
+      "start": 794560,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 362,
+      "text": "Câu hỏi trung tâm của họ không phải là",
+      "start": 796880,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 363,
+      "text": "vì sao con người lười biếng mà là vì sao",
+      "start": 798760,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 364,
+      "text": "có những cá nhân thông minh đầy tham",
+      "start": 801079,
+      "duration": 4481,
+      "lang": "vi"
+    },
+    {
+      "index": 365,
+      "text": "vọng lại không thể duy trì nỗ lực bền bỉ",
+      "start": 803000,
+      "duration": 5680,
+      "lang": "vi"
+    },
+    {
+      "index": 366,
+      "text": "dù rất khao khát thành tựu. Và điều nổi",
+      "start": 805560,
+      "duration": 5040,
+      "lang": "vi"
+    },
+    {
+      "index": 367,
+      "text": "bật xuyên suốt các công trình này là một",
+      "start": 808680,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 368,
+      "text": "nhận định nhất quán. Cấu trúc đó có",
+      "start": 810600,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 369,
+      "text": "nguồn gốc rất cụ thể từ thời thơ ấu, từ",
+      "start": 812600,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 370,
+      "text": "những lệch lạc tinh vi trong quá trình",
+      "start": 814920,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 371,
+      "text": "hình thành bản ngã.",
+      "start": 816320,
+      "duration": 5480,
+      "lang": "vi"
+    },
+    {
+      "index": 372,
+      "text": "Và đây chính là điểm mấu chốt.",
+      "start": 818480,
+      "duration": 4919,
+      "lang": "vi"
+    },
+    {
+      "index": 373,
+      "text": "Những thất bại phát triển nhất định",
+      "start": 821800,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 374,
+      "text": "khiến cho cái tôi non trẻ không đủ khả",
+      "start": 823399,
+      "duration": 3800,
+      "lang": "vi"
+    },
+    {
+      "index": 375,
+      "text": "năng xây dựng một cảm giác giá trị bản",
+      "start": 825560,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 376,
+      "text": "thân ổn định, buộc nó phải dựa vào những",
+      "start": 827199,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 377,
+      "text": "hình ảnh tự thân được phóng đại.",
+      "start": 829240,
+      "duration": 5279,
+      "lang": "vi"
+    },
+    {
+      "index": 378,
+      "text": "Dung cho rằng tự ngã tức toàn thể đời",
+      "start": 831839,
+      "duration": 4521,
+      "lang": "vi"
+    },
+    {
+      "index": 379,
+      "text": "sống tâm lý của con người không được",
+      "start": 834519,
+      "duration": 3361,
+      "lang": "vi"
+    },
+    {
+      "index": 380,
+      "text": "phản chiếu đúng cách từ môi trường phát",
+      "start": 836360,
+      "duration": 3399,
+      "lang": "vi"
+    },
+    {
+      "index": 381,
+      "text": "triển khiến cái tôi buộc phải tự dựng",
+      "start": 837880,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 382,
+      "text": "lên một hình ảnh thay thế để bám víu và",
+      "start": 839759,
+      "duration": 4121,
+      "lang": "vi"
+    },
+    {
+      "index": 383,
+      "text": "tồn tại.",
+      "start": 842040,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 384,
+      "text": "Hệ quả tất yếu là nhu cầu phải né tránh",
+      "start": 843880,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 385,
+      "text": "các bài kiểm tra thực tế bởi thực tế",
+      "start": 846240,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 386,
+      "text": "luôn mang theo khả năng phá vỡ hình ảnh",
+      "start": 848800,
+      "duration": 3800,
+      "lang": "vi"
+    },
+    {
+      "index": 387,
+      "text": "lý tưởng đó.",
+      "start": 850600,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 388,
+      "text": "Điều mà nhiều người không nhận ra là trẻ",
+      "start": 852600,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 389,
+      "text": "em trải qua những thiếu hụt cụ thể trong",
+      "start": 854600,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 390,
+      "text": "quá trình nuôi dạy sẽ phát triển cấu",
+      "start": 856440,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 391,
+      "text": "trúc tự ái như một dạng chấn thương phát",
+      "start": 858240,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 392,
+      "text": "triển. Hoặc là cha mẹ lý tưởng hóa con",
+      "start": 860120,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 393,
+      "text": "cái một cách quá mức, liên tục phản",
+      "start": 863160,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 394,
+      "text": "chiếu cho đứa trẻ một hình ảnh đặc biệt",
+      "start": 865040,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 395,
+      "text": "xuất chúng, nhưng lại không hỗ trợ việc",
+      "start": 867120,
+      "duration": 4719,
+      "lang": "vi"
+    },
+    {
+      "index": 396,
+      "text": "xây dựng năng lực thực tế tương ứng.",
+      "start": 869079,
+      "duration": 4841,
+      "lang": "vi"
+    },
+    {
+      "index": 397,
+      "text": "Hoặt khác, cha mẹ có thể không đáp ứng",
+      "start": 871839,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 398,
+      "text": "những nhu cầu cảm xúc căn bản, không ghi",
+      "start": 873920,
+      "duration": 3919,
+      "lang": "vi"
+    },
+    {
+      "index": 399,
+      "text": "nhận kịp thời, không nhìn thấy đời sống",
+      "start": 875959,
+      "duration": 3921,
+      "lang": "vi"
+    },
+    {
+      "index": 400,
+      "text": "nội tâm của con khiến đứa trẻ không được",
+      "start": 877839,
+      "duration": 4281,
+      "lang": "vi"
+    },
+    {
+      "index": 401,
+      "text": "xác nhận trong bản chất thật của mình và",
+      "start": 879880,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 402,
+      "text": "buộc phải rút lui vào thế giới tưởng",
+      "start": 882120,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 403,
+      "text": "tượng như một nơi chú ẩn tâm lý.",
+      "start": 883880,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 404,
+      "text": "Hệ quả sâu sắc nhất của cả hai con đường",
+      "start": 886920,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 405,
+      "text": "này là đứa trẻ không bao giờ xây dựng",
+      "start": 888680,
+      "duration": 3800,
+      "lang": "vi"
+    },
+    {
+      "index": 406,
+      "text": "được một hình ảnh bản thân vừa toàn diện",
+      "start": 890680,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 407,
+      "text": "vừa sát với thực tế. Thay vào đó, một",
+      "start": 892480,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 408,
+      "text": "cấu trúc phân tách dần hình thành, một",
+      "start": 895440,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 409,
+      "text": "cái tôi lý tưởng sống trong tưởng tượng",
+      "start": 897320,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 410,
+      "text": "và một cái tôi yếu ớt, xấu hổ bị đẩy vào",
+      "start": 899160,
+      "duration": 4919,
+      "lang": "vi"
+    },
+    {
+      "index": 411,
+      "text": "vùng bóng tối.",
+      "start": 902120,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 412,
+      "text": "Dưới góc nhìn dung, phần bị từ chối này",
+      "start": 904079,
+      "duration": 4481,
+      "lang": "vi"
+    },
+    {
+      "index": 413,
+      "text": "không biến mất mà trở thành cái bóng",
+      "start": 906279,
+      "duration": 4721,
+      "lang": "vi"
+    },
+    {
+      "index": 414,
+      "text": "mang theo toàn bộ cảm giác bất toàn, bất",
+      "start": 908560,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 415,
+      "text": "lực và xấu hổ.",
+      "start": 911000,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 416,
+      "text": "Một mô hình phát triển thường gặp khác",
+      "start": 913160,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 417,
+      "text": "là trường hợp đứa trẻ trải nghiệm sự bỏ",
+      "start": 915000,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 418,
+      "text": "rơi về mặt cảm xúc, từ đó tạo ra những",
+      "start": 916800,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 419,
+      "text": "ảo tưởng bù đắp ngày càng tinh vi.",
+      "start": 919199,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 420,
+      "text": "Khi một đứa trẻ lớn lên trong sự thiếu",
+      "start": 922040,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 421,
+      "text": "thốn tình cảm, nó dần rút lui vào những",
+      "start": 923759,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 422,
+      "text": "thế giới tưởng tượng phức tạp. Người nó",
+      "start": 926000,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 423,
+      "text": "được là đặc biệt, là quan trọng, là có",
+      "start": 927959,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 424,
+      "text": "giá trị. Bởi chỉ trong không gian ấy,",
+      "start": 930440,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 425,
+      "text": "bản ngã mới có thể tránh né nỗi đau của",
+      "start": 932759,
+      "duration": 3200,
+      "lang": "vi"
+    },
+    {
+      "index": 426,
+      "text": "việc không được nhìn nhận trong thực",
+      "start": 934720,
+      "duration": 2760,
+      "lang": "vi"
+    },
+    {
+      "index": 427,
+      "text": "tại.",
+      "start": 935959,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 428,
+      "text": "Theo thời gian, đứa trẻ học được rằng",
+      "start": 937480,
+      "duration": 3919,
+      "lang": "vi"
+    },
+    {
+      "index": 429,
+      "text": "thực tại bên ngoài không mang lại cho nó",
+      "start": 939639,
+      "duration": 4281,
+      "lang": "vi"
+    },
+    {
+      "index": 430,
+      "text": "sự công nhận nào. Và khi sự bù đắp bằng",
+      "start": 941399,
+      "duration": 4081,
+      "lang": "vi"
+    },
+    {
+      "index": 431,
+      "text": "tưởng tượng trở thành con đường duy nhất",
+      "start": 943920,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 432,
+      "text": "để duy trì lòng tự trọng, điều tất yếu",
+      "start": 945480,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 433,
+      "text": "xảy ra là thế giới tưởng tượng bên trong",
+      "start": 947639,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 434,
+      "text": "trở nên hấp dẫn hơn nhiều. so với thế",
+      "start": 949720,
+      "duration": 3799,
+      "lang": "vi"
+    },
+    {
+      "index": 435,
+      "text": "giới thực bên ngoài.",
+      "start": 951480,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 436,
+      "text": "Khi toàn bộ cấu trúc tâm lý được sắp xếp",
+      "start": 953519,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 437,
+      "text": "xoay quanh ảo tường đó, bạn sẽ thấy một",
+      "start": 955319,
+      "duration": 4721,
+      "lang": "vi"
+    },
+    {
+      "index": 438,
+      "text": "khuôn mẫu rất đặc trưng. Có những đứa",
+      "start": 957639,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 439,
+      "text": "trẻ có thể dành hàng giờ, thậm chí hàng",
+      "start": 960040,
+      "duration": 4919,
+      "lang": "vi"
+    },
+    {
+      "index": 440,
+      "text": "ngày để mơ mộng hão huyền về thành công,",
+      "start": 962279,
+      "duration": 5680,
+      "lang": "vi"
+    },
+    {
+      "index": 441,
+      "text": "sự công nhận và vị thế trong tương lai.",
+      "start": 964959,
+      "duration": 4521,
+      "lang": "vi"
+    },
+    {
+      "index": 442,
+      "text": "Khi con người sống chủ yếu trong thế",
+      "start": 967959,
+      "duration": 3320,
+      "lang": "vi"
+    },
+    {
+      "index": 443,
+      "text": "giới tưởng tượng, những nỗ lực trong đời",
+      "start": 969480,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 444,
+      "text": "sống thực dần trở nên trống rỗng và vô",
+      "start": 971279,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 445,
+      "text": "nghĩa khi đem so sánh.",
+      "start": 973600,
+      "duration": 4479,
+      "lang": "vi"
+    },
+    {
+      "index": 446,
+      "text": "Kết quả là một sự phân tách sâu sắc,",
+      "start": 976079,
+      "duration": 3961,
+      "lang": "vi"
+    },
+    {
+      "index": 447,
+      "text": "hình thành giữa cảm giác vĩ đại trong ảo",
+      "start": 978079,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 448,
+      "text": "tưởng và trải nghiệm bất lực trong thực",
+      "start": 980040,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 449,
+      "text": "tế. Và chính sự phân tách này tạo ra một",
+      "start": 982079,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 450,
+      "text": "khuôn mẫu gần như hoàn hảo cho kiểu tâm",
+      "start": 984720,
+      "duration": 5280,
+      "lang": "vi"
+    },
+    {
+      "index": 451,
+      "text": "lý lười biếng nhưng đầy tham vọng.",
+      "start": 987000,
+      "duration": 4880,
+      "lang": "vi"
+    },
+    {
+      "index": 452,
+      "text": "Điều quan trọng cần hiểu là việc đắm",
+      "start": 990000,
+      "duration": 3759,
+      "lang": "vi"
+    },
+    {
+      "index": 453,
+      "text": "chìm trong thế giới tưởng tượng ban đầu",
+      "start": 991880,
+      "duration": 4759,
+      "lang": "vi"
+    },
+    {
+      "index": 454,
+      "text": "không phải là điều bệnh lý. Trái lại, nó",
+      "start": 993759,
+      "duration": 4601,
+      "lang": "vi"
+    },
+    {
+      "index": 455,
+      "text": "giúp đứa trẻ vượt qua những đau khổ tâm",
+      "start": 996639,
+      "duration": 4081,
+      "lang": "vi"
+    },
+    {
+      "index": 456,
+      "text": "lý không thể chịu đựng nổi.",
+      "start": 998360,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 457,
+      "text": "Nếu một đứa trẻ phải sống trong sự bỏ bê",
+      "start": 1000720,
+      "duration": 3799,
+      "lang": "vi"
+    },
+    {
+      "index": 458,
+      "text": "hoặc thiếu thốn tình cảm, thế giới tưởng",
+      "start": 1002600,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 459,
+      "text": "tượng sẽ cung cấp sự bù đắp tâm lý cần",
+      "start": 1004519,
+      "duration": 5201,
+      "lang": "vi"
+    },
+    {
+      "index": 460,
+      "text": "thiết để nó có thể tiếp tục tồn tại.",
+      "start": 1006480,
+      "duration": 5359,
+      "lang": "vi"
+    },
+    {
+      "index": 461,
+      "text": "Tuy nhiên, vấn đề này sinh khi thế giới",
+      "start": 1009720,
+      "duration": 4359,
+      "lang": "vi"
+    },
+    {
+      "index": 462,
+      "text": "tưởng tượng đó không còn là nơi chú ẩn",
+      "start": 1011839,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 463,
+      "text": "tạm thời mà trở thành cấu trúc bản ngã",
+      "start": 1014079,
+      "duration": 3961,
+      "lang": "vi"
+    },
+    {
+      "index": 464,
+      "text": "trung tâm.",
+      "start": 1016319,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 465,
+      "text": "Khi điều này xảy ra, con người không còn",
+      "start": 1018040,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 466,
+      "text": "có thể vận hành trong thực tại như một",
+      "start": 1020319,
+      "duration": 3921,
+      "lang": "vi"
+    },
+    {
+      "index": 467,
+      "text": "người trưởng thành. Trong những trường",
+      "start": 1022360,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 468,
+      "text": "hợp nghiêm trọng, cá nhân có thể bị mắc",
+      "start": 1024240,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 469,
+      "text": "kẹt vĩnh viễn trong thế giới ảo tưởng",
+      "start": 1026559,
+      "duration": 3961,
+      "lang": "vi"
+    },
+    {
+      "index": 470,
+      "text": "của mình.",
+      "start": 1028280,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 471,
+      "text": "Bạn là kiểu người đầy tham vọng, nhưng",
+      "start": 1030520,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 472,
+      "text": "rồi bạn bị mắc kẹt trong một khuôn mẫu",
+      "start": 1032319,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 473,
+      "text": "tâm lý đã được hình thành từ 30 năm",
+      "start": 1034360,
+      "duration": 4719,
+      "lang": "vi"
+    },
+    {
+      "index": 474,
+      "text": "trước. Và chính sự trì trệ trong quá",
+      "start": 1036679,
+      "duration": 4400,
+      "lang": "vi"
+    },
+    {
+      "index": 475,
+      "text": "trình phát triển đó tạo ra những rối",
+      "start": 1039079,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 476,
+      "text": "loạn chức năng rõ rệt ở tuổi trưởng",
+      "start": 1041079,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 477,
+      "text": "thành.",
+      "start": 1042839,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 478,
+      "text": "Cơ chế thứ ba trong cấu trúc này và cũng",
+      "start": 1045079,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 479,
+      "text": "là cơ chế dễ nhận diện nhất chính là chu",
+      "start": 1047319,
+      "duration": 4801,
+      "lang": "vi"
+    },
+    {
+      "index": 480,
+      "text": "kỳ tự đại xấu hổ.",
+      "start": 1049559,
+      "duration": 3801,
+      "lang": "vi"
+    },
+    {
+      "index": 481,
+      "text": "Chính người mang cấu trúc này thường",
+      "start": 1052120,
+      "duration": 3160,
+      "lang": "vi"
+    },
+    {
+      "index": 482,
+      "text": "nhận thức rất rõ rằng họ luôn dao động",
+      "start": 1053360,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 483,
+      "text": "giữa hai cực đối lập. Một bên là cảm",
+      "start": 1055280,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 484,
+      "text": "giác mình được định sẵn để trở nên vĩ",
+      "start": 1057320,
+      "duration": 4239,
+      "lang": "vi"
+    },
+    {
+      "index": 485,
+      "text": "đại và bên còn lại là cảm giác hoàn toàn",
+      "start": 1059120,
+      "duration": 4439,
+      "lang": "vi"
+    },
+    {
+      "index": 486,
+      "text": "vô giá trị.",
+      "start": 1061559,
+      "duration": 3881,
+      "lang": "vi"
+    },
+    {
+      "index": 487,
+      "text": "Không có sự thỏa hiệp, không có khả năng",
+      "start": 1063559,
+      "duration": 4841,
+      "lang": "vi"
+    },
+    {
+      "index": 488,
+      "text": "tự đánh giá một cách thực tế và ổn định.",
+      "start": 1065440,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 489,
+      "text": "Khi ảo tưởng vĩ đại không thể duy trì",
+      "start": 1068400,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 490,
+      "text": "được nữa, họ sụp đổ vào trạng thái xấu",
+      "start": 1070120,
+      "duration": 5480,
+      "lang": "vi"
+    },
+    {
+      "index": 491,
+      "text": "hổ sâu sắc và tự căm ghét chính mình.",
+      "start": 1072240,
+      "duration": 5280,
+      "lang": "vi"
+    },
+    {
+      "index": 492,
+      "text": "Đây chính là khoảnh khắc mà cấu trúc",
+      "start": 1075600,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 493,
+      "text": "phong vệ tạm thời thất bại và thực tế",
+      "start": 1077520,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 494,
+      "text": "bắt đầu xâm nhập.",
+      "start": 1079760,
+      "duration": 3399,
+      "lang": "vi"
+    },
+    {
+      "index": 495,
+      "text": "Trong cấu trúc tự thân của người mang",
+      "start": 1081840,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 496,
+      "text": "đặc điểm ái kỷ không có gì thật sự ổn",
+      "start": 1083159,
+      "duration": 5681,
+      "lang": "vi"
+    },
+    {
+      "index": 497,
+      "text": "định. Vì vậy, như bạn có thể thấy, ba cơ",
+      "start": 1085400,
+      "duration": 5600,
+      "lang": "vi"
+    },
+    {
+      "index": 498,
+      "text": "chế này không vận hành riêng lẻ mà kết",
+      "start": 1088840,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 499,
+      "text": "nối với nhau thành một hệ thống phòng vệ",
+      "start": 1091000,
+      "duration": 3240,
+      "lang": "vi"
+    },
+    {
+      "index": 500,
+      "text": "tích hợp.",
+      "start": 1092600,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 501,
+      "text": "Và đó là lý do vì sao mọi lời khuyên về",
+      "start": 1094240,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 502,
+      "text": "năng suất đều hoàn toàn thất bại với",
+      "start": 1096200,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 503,
+      "text": "nhóm người này. Ngay cả khi bề ngoài họ",
+      "start": 1098080,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 504,
+      "text": "có vẻ như chỉ cần thêm kỷ luật hay những",
+      "start": 1100520,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 505,
+      "text": "thói quen tốt hơn.",
+      "start": 1102640,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 506,
+      "text": "Điều cốt lõi cần được hiểu là họ mang",
+      "start": 1104760,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 507,
+      "text": "trong mình một cấu trúc tâm lý khiến cho",
+      "start": 1106799,
+      "duration": 3681,
+      "lang": "vi"
+    },
+    {
+      "index": 508,
+      "text": "việc nỗ lực bền bỉ trở thành điều bất",
+      "start": 1108440,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 509,
+      "text": "khả thi về mặt tâm lý.",
+      "start": 1110480,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 510,
+      "text": "Để làm rõ điều này, hãy cùng tôi xem xét",
+      "start": 1112880,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 511,
+      "text": "một ví dụ điển hình được ghi nhận trong",
+      "start": 1115320,
+      "duration": 4880,
+      "lang": "vi"
+    },
+    {
+      "index": 512,
+      "text": "tài liệu phân tâm học. Trong nghiên cứu",
+      "start": 1117440,
+      "duration": 4599,
+      "lang": "vi"
+    },
+    {
+      "index": 513,
+      "text": "trường hợp này, bệnh nhân thể hiện đầy",
+      "start": 1120200,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 514,
+      "text": "đủ cả ba cơ chế. Những ảo tưởng vĩ đại",
+      "start": 1122039,
+      "duration": 4561,
+      "lang": "vi"
+    },
+    {
+      "index": 515,
+      "text": "về bản thân, trạng thái tê liệt do chủ",
+      "start": 1124400,
+      "duration": 4279,
+      "lang": "vi"
+    },
+    {
+      "index": 516,
+      "text": "nghĩa cầu toàn cùng với các chu kỳ luân",
+      "start": 1126600,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 517,
+      "text": "phiên giữa tự đại và xấu hổ.",
+      "start": 1128679,
+      "duration": 4841,
+      "lang": "vi"
+    },
+    {
+      "index": 518,
+      "text": "Đây là một người thông minh bị mắc kẹt",
+      "start": 1131520,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 519,
+      "text": "trong vòng luần quẩn này suốt hàng thập",
+      "start": 1133520,
+      "duration": 3159,
+      "lang": "vi"
+    },
+    {
+      "index": 520,
+      "text": "kỷ.",
+      "start": 1135080,
+      "duration": 3360,
+      "lang": "vi"
+    },
+    {
+      "index": 521,
+      "text": "Liệu pháp tâm lý dần hé lộ những thất",
+      "start": 1136679,
+      "duration": 3360,
+      "lang": "vi"
+    },
+    {
+      "index": 522,
+      "text": "bại trong quá trình phát triển thời thơ",
+      "start": 1138440,
+      "duration": 3560,
+      "lang": "vi"
+    },
+    {
+      "index": 523,
+      "text": "ấu và thông qua nhiều năm làm việc phân",
+      "start": 1140039,
+      "duration": 4441,
+      "lang": "vi"
+    },
+    {
+      "index": 524,
+      "text": "tích, hai phần bản ngã bị chia tách mới",
+      "start": 1142000,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 525,
+      "text": "có thể từng bước được tích hợp lại.",
+      "start": 1144480,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 526,
+      "text": "Các tài liệu lâm sàng đã ghi nhận những",
+      "start": 1147240,
+      "duration": 3799,
+      "lang": "vi"
+    },
+    {
+      "index": 527,
+      "text": "phương pháp điều trị cụ thể cho kiểu cấu",
+      "start": 1149039,
+      "duration": 4681,
+      "lang": "vi"
+    },
+    {
+      "index": 528,
+      "text": "trúc này. Những điều bạn cần hiểu là",
+      "start": 1151039,
+      "duration": 4241,
+      "lang": "vi"
+    },
+    {
+      "index": 529,
+      "text": "không thể giải quyết những vấn đề này",
+      "start": 1153720,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 530,
+      "text": "chỉ bằng ý chí hay bằng các hệ thống",
+      "start": 1155280,
+      "duration": 5320,
+      "lang": "vi"
+    },
+    {
+      "index": 531,
+      "text": "năng suất.",
+      "start": 1157440,
+      "duration": 3160,
+      "lang": "vi"
+    },
+    {
+      "index": 532,
+      "text": "Vì sao thất bại khi thực hiện các giải",
+      "start": 1161039,
+      "duration": 3921,
+      "lang": "vi"
+    },
+    {
+      "index": 533,
+      "text": "pháp hành vi?",
+      "start": 1162960,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 534,
+      "text": "Vậy tại sao những người lười biếng nhưng",
+      "start": 1164960,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 535,
+      "text": "đầy tham vọng cứ liên tục thử đi thử lại",
+      "start": 1166679,
+      "duration": 4401,
+      "lang": "vi"
+    },
+    {
+      "index": 536,
+      "text": "những giải pháp hành vi cũ kỹ dù chúng",
+      "start": 1168840,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 537,
+      "text": "chưa bao giờ thực sự hiệu quả?",
+      "start": 1171080,
+      "duration": 4959,
+      "lang": "vi"
+    },
+    {
+      "index": 538,
+      "text": "Câu trả lời là vì họ không hiểu rằng đây",
+      "start": 1173600,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 539,
+      "text": "là một cấu trúc tâm lý.",
+      "start": 1176039,
+      "duration": 4681,
+      "lang": "vi"
+    },
+    {
+      "index": 540,
+      "text": "Văn hóa hiện đại yêu cầu con người phải",
+      "start": 1178440,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 541,
+      "text": "nhìn nhận vấn đề này như một vấn đề hành",
+      "start": 1180720,
+      "duration": 4839,
+      "lang": "vi"
+    },
+    {
+      "index": 542,
+      "text": "vi chứ không phải là vấn đề tâm lý. Cách",
+      "start": 1182520,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 543,
+      "text": "tiếp cận đó là cần thiết để duy trì",
+      "start": 1185559,
+      "duration": 3761,
+      "lang": "vi"
+    },
+    {
+      "index": 544,
+      "text": "ngành công nghiệp năng suất và tự lực",
+      "start": 1187320,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 545,
+      "text": "cánh sinh.",
+      "start": 1189320,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 546,
+      "text": "Tuy nhiên, mô hình tâm lý này lại tồn",
+      "start": 1191039,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 547,
+      "text": "tại ở khắp mọi nơi, trong mọi quốc gia",
+      "start": 1193159,
+      "duration": 4241,
+      "lang": "vi"
+    },
+    {
+      "index": 548,
+      "text": "và mọi nền văn hóa, có những kiểu nuôi",
+      "start": 1195240,
+      "duration": 5200,
+      "lang": "vi"
+    },
+    {
+      "index": 549,
+      "text": "dậy con cái tương đồng. Vì vậy, câu hỏi",
+      "start": 1197400,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 550,
+      "text": "thực sự đặt ra không phải là liệu bạn có",
+      "start": 1200440,
+      "duration": 4320,
+      "lang": "vi"
+    },
+    {
+      "index": 551,
+      "text": "đủ kỷ luật hay không mà là bạn sẽ tiếp",
+      "start": 1202640,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 552,
+      "text": "tục giải quyết vấn đề này theo hướng",
+      "start": 1204760,
+      "duration": 4799,
+      "lang": "vi"
+    },
+    {
+      "index": 553,
+      "text": "hành vi hay theo hướng tâm lý.",
+      "start": 1206280,
+      "duration": 5800,
+      "lang": "vi"
+    },
+    {
+      "index": 554,
+      "text": "Sự lựa chọn nằm ở chính bạn, đó là quyết",
+      "start": 1209559,
+      "duration": 5120,
+      "lang": "vi"
+    },
+    {
+      "index": 555,
+      "text": "định về mức độ can thiệp nào là phù hợp",
+      "start": 1212080,
+      "duration": 5079,
+      "lang": "vi"
+    },
+    {
+      "index": 556,
+      "text": "với bản chất của vấn đề. Bạn có thể tiếp",
+      "start": 1214679,
+      "duration": 4641,
+      "lang": "vi"
+    },
+    {
+      "index": 557,
+      "text": "tục thử các hệ thống tăng hiệu suất và",
+      "start": 1217159,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 558,
+      "text": "các kỹ thuật hình thành thói quen.",
+      "start": 1219320,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 559,
+      "text": "Nhưng con đường đó thường chỉ dẫn đến",
+      "start": 1222080,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 560,
+      "text": "những thất bại, lặp đi lặp lại và cảm",
+      "start": 1223600,
+      "duration": 5199,
+      "lang": "vi"
+    },
+    {
+      "index": 561,
+      "text": "giác xấu hổ ngày càng gia tăng.",
+      "start": 1226000,
+      "duration": 4960,
+      "lang": "vi"
+    },
+    {
+      "index": 562,
+      "text": "Bởi vì các can thiệp hành vi không thể",
+      "start": 1228799,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 563,
+      "text": "giải quyết được các cấu trúc tâm lý và",
+      "start": 1230960,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 564,
+      "text": "chúng hoàn toàn bỏ qua tầng vô thức.",
+      "start": 1233159,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 565,
+      "text": "Chúng phục vụ cho ngành công nghiệp tự",
+      "start": 1235640,
+      "duration": 3279,
+      "lang": "vi"
+    },
+    {
+      "index": 566,
+      "text": "lực nhưng không phục vụ cho những người",
+      "start": 1237039,
+      "duration": 4801,
+      "lang": "vi"
+    },
+    {
+      "index": 567,
+      "text": "mang cấu trúc nhân cách ái kỷ.",
+      "start": 1238919,
+      "duration": 4681,
+      "lang": "vi"
+    },
+    {
+      "index": 568,
+      "text": "Con đường thay thế là tìm kiếm liệu pháp",
+      "start": 1241840,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 569,
+      "text": "tâm lý chuyên sâu, làm việc với những",
+      "start": 1243600,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 570,
+      "text": "nhà lâm sàng được đào tạo bài bản về cấu",
+      "start": 1245440,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 571,
+      "text": "trúc ái kỷ và bắt đầu một quá trình lâu",
+      "start": 1247320,
+      "duration": 4359,
+      "lang": "vi"
+    },
+    {
+      "index": 572,
+      "text": "dài nhằm tích hợp các phần bản ngã đã bị",
+      "start": 1249400,
+      "duration": 5040,
+      "lang": "vi"
+    },
+    {
+      "index": 573,
+      "text": "chia tách. Chỉ khi đó mô hình này mới",
+      "start": 1251679,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 574,
+      "text": "thực sự có thể được giải quyết.",
+      "start": 1254440,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 575,
+      "text": "Vì vậy, có thể nói rằng cách tiếp cận",
+      "start": 1256919,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 576,
+      "text": "thuần hành vi là một lỗi phân loại bởi",
+      "start": 1259000,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 577,
+      "text": "vì bạn đang áp dụng sai loại giải pháp",
+      "start": 1261080,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 578,
+      "text": "cho bản chất của vấn đề. Và điều đáng",
+      "start": 1262840,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 579,
+      "text": "chú ý là nền văn hóa hiện đại lại được",
+      "start": 1265120,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 580,
+      "text": "hưởng lợi từ việc con người không nhận",
+      "start": 1267440,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 581,
+      "text": "ra rằng đây là một vấn đề tâm lý.",
+      "start": 1269000,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 582,
+      "text": "Ngành công nghiệp năng suất họ thu lợi",
+      "start": 1272440,
+      "duration": 4119,
+      "lang": "vi"
+    },
+    {
+      "index": 583,
+      "text": "từ những nỗ lực thất bại lặp đi lặp lại",
+      "start": 1274240,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 584,
+      "text": "trong khi cộng đồng trị liệu chuyên sâu",
+      "start": 1276559,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 585,
+      "text": "thì nhỏ, tốn kém và khó tiếp cận. Chính",
+      "start": 1278120,
+      "duration": 5880,
+      "lang": "vi"
+    },
+    {
+      "index": 586,
+      "text": "vì thế, hiểu biết này vẫn thường bị che",
+      "start": 1281799,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 587,
+      "text": "giấu khỏi số đông.",
+      "start": 1284000,
+      "duration": 4679,
+      "lang": "vi"
+    },
+    {
+      "index": 588,
+      "text": "Vì vậy, có thể nói rằng chúng ta đang",
+      "start": 1286159,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 589,
+      "text": "đứng trước một khoảnh khắc mang tính",
+      "start": 1288679,
+      "duration": 3321,
+      "lang": "vi"
+    },
+    {
+      "index": 590,
+      "text": "nhận thức, [âm nhạc] một điểm rẽ nơi bạn",
+      "start": 1290039,
+      "duration": 4441,
+      "lang": "vi"
+    },
+    {
+      "index": 591,
+      "text": "buộc phải lựa chọn. Hoặc bạn tiếp tục tự",
+      "start": 1292000,
+      "duration": 4400,
+      "lang": "vi"
+    },
+    {
+      "index": 592,
+      "text": "trách mình vì thiếu kỷ luật, tiếp tục",
+      "start": 1294480,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 593,
+      "text": "tin rằng vấn đề nằm ở ý chí cá nhân hoặc",
+      "start": 1296400,
+      "duration": 5159,
+      "lang": "vi"
+    },
+    {
+      "index": 594,
+      "text": "bạn bắt đầu hiểu rằng mình đang mang một",
+      "start": 1299480,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 595,
+      "text": "cấu trúc tâm lý cần đến sự can thiệp tâm",
+      "start": 1301559,
+      "duration": 4720,
+      "lang": "vi"
+    },
+    {
+      "index": 596,
+      "text": "lý học chiều sâu và rằng việc tiếp tục",
+      "start": 1303960,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 597,
+      "text": "áp dụng các phương pháp hành vi chỉ có",
+      "start": 1306279,
+      "duration": 3681,
+      "lang": "vi"
+    },
+    {
+      "index": 598,
+      "text": "thể dẫn đến những thất bại lặp đi lặp",
+      "start": 1308000,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 599,
+      "text": "lại. Hãy nhìn vào bất kỳ trường hợp nào",
+      "start": 1309960,
+      "duration": 4839,
+      "lang": "vi"
+    },
+    {
+      "index": 600,
+      "text": "của những người thực sự đã giải quyết",
+      "start": 1313240,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 601,
+      "text": "được mô hình này, bất kỳ câu chuyện",
+      "start": 1314799,
+      "duration": 3281,
+      "lang": "vi"
+    },
+    {
+      "index": 602,
+      "text": "thành công nào trong trị liệu tâm lý",
+      "start": 1316640,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 603,
+      "text": "chuyên sâu. Điều gì xuất hiện ở tất cả",
+      "start": 1318080,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 604,
+      "text": "những trường hợp đó?",
+      "start": 1320640,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 605,
+      "text": "không phải là những hệ thống thói quen",
+      "start": 1322840,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 606,
+      "text": "tinh vi hơn mà là công việc tâm lý nhằm",
+      "start": 1324360,
+      "duration": 5960,
+      "lang": "vi"
+    },
+    {
+      "index": 607,
+      "text": "trực tiếp xử lý các cơ chế vô thức. Và",
+      "start": 1327200,
+      "duration": 4839,
+      "lang": "vi"
+    },
+    {
+      "index": 608,
+      "text": "công việc đó đòi hỏi nhiều năm gắn bó",
+      "start": 1330320,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 609,
+      "text": "với trị liệu, đòi hỏi việc đối diện với",
+      "start": 1332039,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 610,
+      "text": "những ký ức đau buồn từ thời thơ ấu và",
+      "start": 1334080,
+      "duration": 4079,
+      "lang": "vi"
+    },
+    {
+      "index": 611,
+      "text": "bao gồm quá trình tích hợp, những phần",
+      "start": 1336279,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 612,
+      "text": "của bản thân đã bị chia tách từ rất sớm.",
+      "start": 1338159,
+      "duration": 5361,
+      "lang": "vi"
+    },
+    {
+      "index": 613,
+      "text": "Cho đến hiện tại, đây vẫn là phương pháp",
+      "start": 1341200,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 614,
+      "text": "tương đối hiệu quả nhất đối với kiểu cấu",
+      "start": 1343520,
+      "duration": 5639,
+      "lang": "vi"
+    },
+    {
+      "index": 615,
+      "text": "trúc nhân cách đặc thủ này. Và tại đây,",
+      "start": 1345640,
+      "duration": 6279,
+      "lang": "vi"
+    },
+    {
+      "index": 616,
+      "text": "một câu hỏi thường được đặt ra.",
+      "start": 1349159,
+      "duration": 4481,
+      "lang": "vi"
+    },
+    {
+      "index": 617,
+      "text": "Nếu đây là một cấu trúc tâm lý được hình",
+      "start": 1351919,
+      "duration": 3921,
+      "lang": "vi"
+    },
+    {
+      "index": 618,
+      "text": "thành từ thời thơ ấu, liệu nó có thể",
+      "start": 1353640,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 619,
+      "text": "được giải quyết một cách triệt để hay",
+      "start": 1355840,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 620,
+      "text": "không?",
+      "start": 1357480,
+      "duration": 3000,
+      "lang": "vi"
+    },
+    {
+      "index": 621,
+      "text": "Can thiệp trị liệu phù hợp.",
+      "start": 1361120,
+      "duration": 5480,
+      "lang": "vi"
+    },
+    {
+      "index": 622,
+      "text": "Và sau đây chúng ta sẽ cùng nhau đi vào",
+      "start": 1364400,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 623,
+      "text": "giải pháp giúp chuyển hóa mô thức những",
+      "start": 1366600,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 624,
+      "text": "người đầy tham vọng nhưng lười biếng.",
+      "start": 1368320,
+      "duration": 4719,
+      "lang": "vi"
+    },
+    {
+      "index": 625,
+      "text": "Nếu đây là một cấu trúc tâm lý được hình",
+      "start": 1371360,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 626,
+      "text": "thành từ thời thơ ấu, liệu nó có thể",
+      "start": 1373039,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 627,
+      "text": "được giải quyết một cách triệt để hay",
+      "start": 1375240,
+      "duration": 3160,
+      "lang": "vi"
+    },
+    {
+      "index": 628,
+      "text": "không?",
+      "start": 1376880,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 629,
+      "text": "Câu trả lời là có.",
+      "start": 1378400,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 630,
+      "text": "Nhưng không phải thông qua nỗ lực tự",
+      "start": 1381000,
+      "duration": 3320,
+      "lang": "vi"
+    },
+    {
+      "index": 631,
+      "text": "thân hay các phương pháp tự lực cánh",
+      "start": 1382360,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 632,
+      "text": "sinh. Nó đòi hỏi sự can thiệp trị liệu",
+      "start": 1384320,
+      "duration": 6080,
+      "lang": "vi"
+    },
+    {
+      "index": 633,
+      "text": "phù hợp đúng mức và có chiều sâu.",
+      "start": 1386960,
+      "duration": 5319,
+      "lang": "vi"
+    },
+    {
+      "index": 634,
+      "text": "Vậy tại sao những người lười biếng nhưng",
+      "start": 1390400,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 635,
+      "text": "đầy tham vọng lại không thể tự cải thiện",
+      "start": 1392279,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 636,
+      "text": "bản thân bằng ý chí hay bằng những hệ",
+      "start": 1394559,
+      "duration": 3801,
+      "lang": "vi"
+    },
+    {
+      "index": 637,
+      "text": "thống tốt hơn?",
+      "start": 1396440,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 638,
+      "text": "Bởi vì bạn không thể chủ động vượt qua",
+      "start": 1398360,
+      "duration": 4799,
+      "lang": "vi"
+    },
+    {
+      "index": 639,
+      "text": "những cấu trúc phòng vệ vô thức.",
+      "start": 1400640,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 640,
+      "text": "Trên thực tế tâm lý, bạn đang đối diện",
+      "start": 1403159,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 641,
+      "text": "với những cơ chế được hình thành từ thời",
+      "start": 1405400,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 642,
+      "text": "thơ ấu, vận hành ngoài ý thức, có chức",
+      "start": 1407000,
+      "duration": 4720,
+      "lang": "vi"
+    },
+    {
+      "index": 643,
+      "text": "năng bảo vệ tâm lý, ngay cả khi chúng",
+      "start": 1409520,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 644,
+      "text": "gây ra đau khổ. Và chính những đau khổ",
+      "start": 1411720,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 645,
+      "text": "đó đã ăn sâu vào cấu trúc nhân cách của",
+      "start": 1413720,
+      "duration": 5120,
+      "lang": "vi"
+    },
+    {
+      "index": 646,
+      "text": "bạn. Điều mọi người cần hiểu là đây",
+      "start": 1415640,
+      "duration": 5120,
+      "lang": "vi"
+    },
+    {
+      "index": 647,
+      "text": "không phải là vấn đề của sự yếu đuối hay",
+      "start": 1418840,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 648,
+      "text": "thiếu kỷ luật. Và nếu bạn tiếp cận một",
+      "start": 1420760,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 649,
+      "text": "vấn đề mang bản chất tâm lý như thể nó",
+      "start": 1423120,
+      "duration": 4439,
+      "lang": "vi"
+    },
+    {
+      "index": 650,
+      "text": "chỉ là một vấn đề hành vi, bạn sẽ thất",
+      "start": 1425400,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 651,
+      "text": "bại hết lần này đến lần khác, đồng thời",
+      "start": 1427559,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 652,
+      "text": "làm cho cảm giác xấu hổ ngày càng trở",
+      "start": 1429880,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 653,
+      "text": "nên trầm trọng hơn.",
+      "start": 1431760,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 654,
+      "text": "Trên thực tế, một người liên tục thử hết",
+      "start": 1433880,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 655,
+      "text": "hệ thống năng suất này đến hệ thống",
+      "start": 1436200,
+      "duration": 4479,
+      "lang": "vi"
+    },
+    {
+      "index": 656,
+      "text": "khác, mỗi lần đều nỗ lực hết sức, nhưng",
+      "start": 1438080,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 657,
+      "text": "vẫn thất bại và cuối cùng đi đến kết",
+      "start": 1440679,
+      "duration": 3961,
+      "lang": "vi"
+    },
+    {
+      "index": 658,
+      "text": "luận rằng bản thân mình có một khiếm",
+      "start": 1442720,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 659,
+      "text": "khuyết nào đó, rằng mình là một trường",
+      "start": 1444640,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 660,
+      "text": "hợp đặc biệt có vấn đề.",
+      "start": 1446559,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 661,
+      "text": "Nhưng điều đang thực sự xảy ra là họ",
+      "start": 1449120,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 662,
+      "text": "đang dùng các công cụ hành vi để giải",
+      "start": 1451159,
+      "duration": 4361,
+      "lang": "vi"
+    },
+    {
+      "index": 663,
+      "text": "quyết một cấu trúc tâm lý.",
+      "start": 1452960,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 664,
+      "text": "Và tôi cũng không nói rằng mọi người",
+      "start": 1455520,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 665,
+      "text": "lười biếng nhưng tham vọng đều cần đến",
+      "start": 1457320,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 666,
+      "text": "trị liệu tâm lý. Nhưng đối với những",
+      "start": 1459120,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 667,
+      "text": "người mang cấu trúc tự ái thực sự, mô",
+      "start": 1461200,
+      "duration": 3479,
+      "lang": "vi"
+    },
+    {
+      "index": 668,
+      "text": "hình này sẽ không bao giờ được giải",
+      "start": 1463200,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 669,
+      "text": "quyết nếu khía cạnh tâm lý không được xử",
+      "start": 1464679,
+      "duration": 3761,
+      "lang": "vi"
+    },
+    {
+      "index": 670,
+      "text": "lý.",
+      "start": 1466880,
+      "duration": 3320,
+      "lang": "vi"
+    },
+    {
+      "index": 671,
+      "text": "Và nếu bạn tiếp tục cố gắng áp dụng các",
+      "start": 1468440,
+      "duration": 3280,
+      "lang": "vi"
+    },
+    {
+      "index": 672,
+      "text": "giải pháp hành vi cho những vấn đề tâm",
+      "start": 1470200,
+      "duration": 3599,
+      "lang": "vi"
+    },
+    {
+      "index": 673,
+      "text": "lý mang tính cấu trúc, kết cục rất rõ",
+      "start": 1471720,
+      "duration": 4319,
+      "lang": "vi"
+    },
+    {
+      "index": 674,
+      "text": "ràng, bạn sẽ mãi mắc kẹt trong vòng lặp",
+      "start": 1473799,
+      "duration": 4441,
+      "lang": "vi"
+    },
+    {
+      "index": 675,
+      "text": "đó cùng với cảm giác xấu hổ ngày càng",
+      "start": 1476039,
+      "duration": 4041,
+      "lang": "vi"
+    },
+    {
+      "index": 676,
+      "text": "sâu sắc.",
+      "start": 1478240,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 677,
+      "text": "Ở một khía cạnh nào đó, đây chính là",
+      "start": 1480080,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 678,
+      "text": "điểm giao thoa giữa tri thức chuyên môn",
+      "start": 1482120,
+      "duration": 3799,
+      "lang": "vi"
+    },
+    {
+      "index": 679,
+      "text": "và sự thiếu hiểu biết của văn hóa đại",
+      "start": 1484200,
+      "duration": 4359,
+      "lang": "vi"
+    },
+    {
+      "index": 680,
+      "text": "chúng. Mô hình này đã được nhận diện và",
+      "start": 1485919,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 681,
+      "text": "nghiên cứu trong tâm lý học hơn một thế",
+      "start": 1488559,
+      "duration": 3921,
+      "lang": "vi"
+    },
+    {
+      "index": 682,
+      "text": "kỷ nhưng văn hóa phổ thông lại không",
+      "start": 1490120,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 683,
+      "text": "tiếp cận được chiều sâu tâm lý này.",
+      "start": 1492480,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 684,
+      "text": "Đó là khoảng cách giữa tâm lý học chiều",
+      "start": 1495360,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 685,
+      "text": "sâu và những lời khuyên tự giúp bản thân",
+      "start": 1497039,
+      "duration": 5921,
+      "lang": "vi"
+    },
+    {
+      "index": 686,
+      "text": "mang tính hời hợt. Và thật không may đó",
+      "start": 1499399,
+      "duration": 5280,
+      "lang": "vi"
+    },
+    {
+      "index": 687,
+      "text": "chính là thực tế mà chúng ta đang sống",
+      "start": 1502960,
+      "duration": 3480,
+      "lang": "vi"
+    },
+    {
+      "index": 688,
+      "text": "trong đó.",
+      "start": 1504679,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 689,
+      "text": "Vì vậy, dù tâm lý học đã phát triển,",
+      "start": 1506440,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 690,
+      "text": "những hiểu biết tinh vi và các phương",
+      "start": 1509039,
+      "duration": 3281,
+      "lang": "vi"
+    },
+    {
+      "index": 691,
+      "text": "pháp điều trị hiệu quả, phần lớn những",
+      "start": 1510440,
+      "duration": 4200,
+      "lang": "vi"
+    },
+    {
+      "index": 692,
+      "text": "người lười biếng nhưng đầy tham vọng vẫn",
+      "start": 1512320,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 693,
+      "text": "không bao giờ tiếp cận được kiến thức",
+      "start": 1514640,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 694,
+      "text": "này. Và rồi điều gì xảy ra khi một người",
+      "start": 1516000,
+      "duration": 5159,
+      "lang": "vi"
+    },
+    {
+      "index": 695,
+      "text": "cuối cùng cũng khám phá ra lời giải",
+      "start": 1519480,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 696,
+      "text": "thích mang tính tâm lý cho cuộc đấu",
+      "start": 1521159,
+      "duration": 4721,
+      "lang": "vi"
+    },
+    {
+      "index": 697,
+      "text": "tranh của mình? Thường đó là một cảm",
+      "start": 1523080,
+      "duration": 4959,
+      "lang": "vi"
+    },
+    {
+      "index": 698,
+      "text": "giác nhẹ nhõm sâu sắc xen lẫn với nỗi",
+      "start": 1525880,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 699,
+      "text": "buồn.",
+      "start": 1528039,
+      "duration": 3520,
+      "lang": "vi"
+    },
+    {
+      "index": 700,
+      "text": "Họ cảm thấy nhẹ nhõm vì cuối cùng cũng",
+      "start": 1529600,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 701,
+      "text": "có một lời giải thích và đồng thời cũng",
+      "start": 1531559,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 702,
+      "text": "đau buồn vì nhận ra bao nhiêu năm tháng",
+      "start": 1533440,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 703,
+      "text": "đã trôi qua trong sự hiểu lầm.",
+      "start": 1535559,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 704,
+      "text": "Nếu con người hiểu rằng đây là một cấu",
+      "start": 1538200,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 705,
+      "text": "trúc tâm lý chứ không phải là một khiếm",
+      "start": 1540159,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 706,
+      "text": "khuyết về tính cách hay đạo đức cá nhân",
+      "start": 1542240,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 707,
+      "text": "thì hàng triệu người đã có thể tìm đến",
+      "start": 1544320,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 708,
+      "text": "sự giúp đỡ phù hợp. Vậy nếu một người",
+      "start": 1546480,
+      "duration": 4799,
+      "lang": "vi"
+    },
+    {
+      "index": 709,
+      "text": "nhận ra rằng mình đang mang cấu trúc tâm",
+      "start": 1549240,
+      "duration": 3799,
+      "lang": "vi"
+    },
+    {
+      "index": 710,
+      "text": "lý lười biếng nhưng đầy tham vọng và",
+      "start": 1551279,
+      "duration": 5400,
+      "lang": "vi"
+    },
+    {
+      "index": 711,
+      "text": "mang màu sắc tự ái thì họ nên làm gì?",
+      "start": 1553039,
+      "duration": 5281,
+      "lang": "vi"
+    },
+    {
+      "index": 712,
+      "text": "Câu trả lời trung thực bắt đầu từ bước",
+      "start": 1556679,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 713,
+      "text": "đầu tiên đó là chấp nhận rằng đây là một",
+      "start": 1558320,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 714,
+      "text": "cấu trúc tâm lý chứ không phải một vấn",
+      "start": 1560840,
+      "duration": 4719,
+      "lang": "vi"
+    },
+    {
+      "index": 715,
+      "text": "đề hành vi. Sự thấu hiểu đúng bản chất",
+      "start": 1563120,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 716,
+      "text": "của vấn đề chính là điều cho phép lựa",
+      "start": 1565559,
+      "duration": 4321,
+      "lang": "vi"
+    },
+    {
+      "index": 717,
+      "text": "chọn hình thức can thiệp phù hợp. Những",
+      "start": 1567640,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 718,
+      "text": "người thực sự giải quyết được mô hình",
+      "start": 1569880,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 719,
+      "text": "này thường là những người chấp nhận rằng",
+      "start": 1571360,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 720,
+      "text": "họ cần sự giúp đỡ về mặt tâm lý, tìm đến",
+      "start": 1573640,
+      "duration": 4519,
+      "lang": "vi"
+    },
+    {
+      "index": 721,
+      "text": "các nhà trị liệu được đào tạo chuyên sâu",
+      "start": 1576360,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 722,
+      "text": "về cấu trúc tự ái và cam kết gắn bó với",
+      "start": 1578159,
+      "duration": 5361,
+      "lang": "vi"
+    },
+    {
+      "index": 723,
+      "text": "quá trình trị liệu trong nhiều năm.",
+      "start": 1580880,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 724,
+      "text": "Về mặt lâm sàng, trọng tâm của quá trình",
+      "start": 1583520,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 725,
+      "text": "này là tích hợp sự phân tách giữa cái",
+      "start": 1585720,
+      "duration": 5839,
+      "lang": "vi"
+    },
+    {
+      "index": 726,
+      "text": "tôi tự cao và cái tôi tự ti thấp kém.",
+      "start": 1587480,
+      "duration": 6160,
+      "lang": "vi"
+    },
+    {
+      "index": 727,
+      "text": "Người tham gia trị liệu cần quay trở lại",
+      "start": 1591559,
+      "duration": 3801,
+      "lang": "vi"
+    },
+    {
+      "index": 728,
+      "text": "nguồn gốc thời thơ ấu của các cơ chế",
+      "start": 1593640,
+      "duration": 3800,
+      "lang": "vi"
+    },
+    {
+      "index": 729,
+      "text": "phòng vệ, đối diện với thực tế đau đớn",
+      "start": 1595360,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 730,
+      "text": "của những thất bại trong quá trình phát",
+      "start": 1597440,
+      "duration": 3440,
+      "lang": "vi"
+    },
+    {
+      "index": 731,
+      "text": "triển và từng bước xây dựng một hình ảnh",
+      "start": 1598960,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 732,
+      "text": "bản thân toàn diện và thực tế hơn, ngay",
+      "start": 1600880,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 733,
+      "text": "cả khi đó là một quá trình đầy thử thách",
+      "start": 1603159,
+      "duration": 4561,
+      "lang": "vi"
+    },
+    {
+      "index": 734,
+      "text": "về mặt cảm xúc.",
+      "start": 1605640,
+      "duration": 4279,
+      "lang": "vi"
+    },
+    {
+      "index": 735,
+      "text": "Về lâu dài, điều này cho phép con người",
+      "start": 1607720,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 736,
+      "text": "phát triển một ý thức thống nhất về bản",
+      "start": 1609919,
+      "duration": 3201,
+      "lang": "vi"
+    },
+    {
+      "index": 737,
+      "text": "thân.",
+      "start": 1611559,
+      "duration": 3201,
+      "lang": "vi"
+    },
+    {
+      "index": 738,
+      "text": "Họ có thể duy trì nỗ lực một cách hiệu",
+      "start": 1613120,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 739,
+      "text": "quả mà không rơi vào vòng xoáy xấu hổ và",
+      "start": 1614760,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 740,
+      "text": "phủ nhận bản thân. Họ có thể đối diện",
+      "start": 1617159,
+      "duration": 4441,
+      "lang": "vi"
+    },
+    {
+      "index": 741,
+      "text": "với thực tế mà không cần đến những ảo",
+      "start": 1619520,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 742,
+      "text": "tưởng mang tính phòng vệ.",
+      "start": 1621600,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 743,
+      "text": "Nhưng trong ngắn hạn, họ phải chấp nhận",
+      "start": 1623880,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 744,
+      "text": "rằng mình đang mang một cấu trúc tâm lý",
+      "start": 1625760,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 745,
+      "text": "cần được điều chỉnh ở cấp độ tâm lý học",
+      "start": 1627880,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 746,
+      "text": "chiều sâu. Điều đó đồng nghĩa với việc",
+      "start": 1629640,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 747,
+      "text": "tìm kiếm và cam kết tham gia trị liệu",
+      "start": 1631960,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 748,
+      "text": "dài hạn phù hợp, chấp nhận sự khó chịu",
+      "start": 1633760,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 749,
+      "text": "khi phải đối diện với những ký ức đau",
+      "start": 1635960,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 750,
+      "text": "buồn từ thời thơ ấu và từ bỏ hy vọng về",
+      "start": 1637520,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 751,
+      "text": "các giải pháp hành vi nhanh chóng.",
+      "start": 1639960,
+      "duration": 4959,
+      "lang": "vi"
+    },
+    {
+      "index": 752,
+      "text": "Đây là con đường thực tế bởi vì không",
+      "start": 1642760,
+      "duration": 3919,
+      "lang": "vi"
+    },
+    {
+      "index": 753,
+      "text": "thể giải quyết các vấn đề tâm lý mang",
+      "start": 1644919,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 754,
+      "text": "tính cấu trúc chỉ bằng ý chí.",
+      "start": 1646679,
+      "duration": 4561,
+      "lang": "vi"
+    },
+    {
+      "index": 755,
+      "text": "Nếu bạn tiếp tục tìm cách sửa chữa nhanh",
+      "start": 1649399,
+      "duration": 4121,
+      "lang": "vi"
+    },
+    {
+      "index": 756,
+      "text": "các vấn đề hành vi, bạn sẽ mãi bị mắc",
+      "start": 1651240,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 757,
+      "text": "kẹt và lãng phí hàng thập kỷ cho những",
+      "start": 1653520,
+      "duration": 5480,
+      "lang": "vi"
+    },
+    {
+      "index": 758,
+      "text": "giải pháp không hiệu quả.",
+      "start": 1655279,
+      "duration": 5681,
+      "lang": "vi"
+    },
+    {
+      "index": 759,
+      "text": "Phương pháp trị liệu của các dung tự làm",
+      "start": 1659000,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 760,
+      "text": "việc với chính mình ở tầng vô thức.",
+      "start": 1660960,
+      "duration": 5719,
+      "lang": "vi"
+    },
+    {
+      "index": 761,
+      "text": "Thật ra ngoài trị liệu tâm lý, bạn vẫn",
+      "start": 1664000,
+      "duration": 4519,
+      "lang": "vi"
+    },
+    {
+      "index": 762,
+      "text": "có thể tự làm việc với chính mình ở tầng",
+      "start": 1666679,
+      "duration": 4041,
+      "lang": "vi"
+    },
+    {
+      "index": 763,
+      "text": "vô thức. Nhưng điều quan trọng đầu tiên",
+      "start": 1668519,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 764,
+      "text": "cần nói cho rõ là đây không phải con",
+      "start": 1670720,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 765,
+      "text": "đường của sự thay đổi nhanh chóng hay",
+      "start": 1672799,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 766,
+      "text": "những bước nhảy vọt cũng không phải thứ",
+      "start": 1674760,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 767,
+      "text": "tự chữa lành nhẹ nhàng mà người ta",
+      "start": 1676679,
+      "duration": 3681,
+      "lang": "vi"
+    },
+    {
+      "index": 768,
+      "text": "thường hứa hẹn.",
+      "start": 1678440,
+      "duration": 4119,
+      "lang": "vi"
+    },
+    {
+      "index": 769,
+      "text": "Các Dung từng nói không có sự tỉnh thức",
+      "start": 1680360,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 770,
+      "text": "nào mà không phải trả giá bằng nỗi đau.",
+      "start": 1682559,
+      "duration": 4761,
+      "lang": "vi"
+    },
+    {
+      "index": 771,
+      "text": "Và nếu bạn mang cấu trúc lười biếng",
+      "start": 1685600,
+      "duration": 3559,
+      "lang": "vi"
+    },
+    {
+      "index": 772,
+      "text": "nhưng đầy tham vọng, cái giá đó thường",
+      "start": 1687320,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 773,
+      "text": "là việc bạn phải từ bỏ ảo tưởng rằng",
+      "start": 1689159,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 774,
+      "text": "mình có thể sửa mình mà không cần chạm",
+      "start": 1691240,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 775,
+      "text": "vào những gì đau đớn nhất. Vấn đề của",
+      "start": 1693039,
+      "duration": 5401,
+      "lang": "vi"
+    },
+    {
+      "index": 776,
+      "text": "bạn không nằm ở ý chí. Dùng gọi đây là",
+      "start": 1695840,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 777,
+      "text": "sự mất cân bằng giữa cái tôi ý thức và",
+      "start": 1698440,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 778,
+      "text": "tự ngã. Khi cái tôi ngày càng phình to",
+      "start": 1700480,
+      "duration": 4400,
+      "lang": "vi"
+    },
+    {
+      "index": 779,
+      "text": "bằng tham vọng và tưởng tượng nhưng tự",
+      "start": 1702960,
+      "duration": 3280,
+      "lang": "vi"
+    },
+    {
+      "index": 780,
+      "text": "ngã không được nuôi dưỡng bằng trải",
+      "start": 1704880,
+      "duration": 3480,
+      "lang": "vi"
+    },
+    {
+      "index": 781,
+      "text": "nghiệm thực, tâm lý sẽ tự tạo ra những",
+      "start": 1706240,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 782,
+      "text": "cơ chế vô thức để ngăn bạn hành động.",
+      "start": 1708360,
+      "duration": 4439,
+      "lang": "vi"
+    },
+    {
+      "index": 783,
+      "text": "Không phải vì bạn lười mà vì vô thức",
+      "start": 1710880,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 784,
+      "text": "hiểu rằng hành động thực tế có thể làm",
+      "start": 1712799,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 785,
+      "text": "sụp đổ hình ảnh bản thân mà bạn đã bám",
+      "start": 1714840,
+      "duration": 4880,
+      "lang": "vi"
+    },
+    {
+      "index": 786,
+      "text": "víu để tồn tại.",
+      "start": 1717000,
+      "duration": 4960,
+      "lang": "vi"
+    },
+    {
+      "index": 787,
+      "text": "Nếu không có trị liệu, cách duy nhất để",
+      "start": 1719720,
+      "duration": 4439,
+      "lang": "vi"
+    },
+    {
+      "index": 788,
+      "text": "tiếp cận tầng này là tạo ra những điều",
+      "start": 1721960,
+      "duration": 5079,
+      "lang": "vi"
+    },
+    {
+      "index": 789,
+      "text": "kiện để vô thức tự lộ diện.",
+      "start": 1724159,
+      "duration": 4681,
+      "lang": "vi"
+    },
+    {
+      "index": 790,
+      "text": "Dùng gọi đó là việc để cho cái vô thức",
+      "start": 1727039,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 791,
+      "text": "được lên tiếng thay vì liên tục áp đặt",
+      "start": 1728840,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 792,
+      "text": "đạo đức hay kỷ luật lên nó. Và bước đầu",
+      "start": 1730880,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 793,
+      "text": "tiên luôn là học cách quan sát bản thân",
+      "start": 1733440,
+      "duration": 4599,
+      "lang": "vi"
+    },
+    {
+      "index": 794,
+      "text": "mà không lập tức can thiệp.",
+      "start": 1735640,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 795,
+      "text": "Mỗi lần bạn chuẩn bị làm một việc quan",
+      "start": 1738039,
+      "duration": 3161,
+      "lang": "vi"
+    },
+    {
+      "index": 796,
+      "text": "trọng nhưng lại rơi vào trạng thái trì",
+      "start": 1739600,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 797,
+      "text": "hoãn, mệt mỏi, tê liệt hay chán trường",
+      "start": 1741200,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 798,
+      "text": "vô cớ, hãy dừng lại và nhìn thẳng vào",
+      "start": 1743799,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 799,
+      "text": "khoảnh khắc đó. Không cố gắng sửa chữa,",
+      "start": 1745960,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 800,
+      "text": "không ép mình vào khuôn khổ, không chỉ",
+      "start": 1748720,
+      "duration": 3559,
+      "lang": "vi"
+    },
+    {
+      "index": 801,
+      "text": "trích.",
+      "start": 1750720,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 802,
+      "text": "Dung nhấn mạnh rằng điều bạn kháng cự sẽ",
+      "start": 1752279,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 803,
+      "text": "tồn tại giai dằng hơn. điều bạn nhìn",
+      "start": 1754440,
+      "duration": 4239,
+      "lang": "vi"
+    },
+    {
+      "index": 804,
+      "text": "thẳng và bắt đầu chuyển hóa. Chính việc",
+      "start": 1756399,
+      "duration": 4081,
+      "lang": "vi"
+    },
+    {
+      "index": 805,
+      "text": "được nhìn thấy đã làm suy yếu cơ chế",
+      "start": 1758679,
+      "duration": 3441,
+      "lang": "vi"
+    },
+    {
+      "index": 806,
+      "text": "phòng vệ.",
+      "start": 1760480,
+      "duration": 3319,
+      "lang": "vi"
+    },
+    {
+      "index": 807,
+      "text": "Công việc thứ hai là làm việc nghiêm túc",
+      "start": 1762120,
+      "duration": 3520,
+      "lang": "vi"
+    },
+    {
+      "index": 808,
+      "text": "với thế giới tưởng tượng. Bởi vì đối với",
+      "start": 1763799,
+      "duration": 3641,
+      "lang": "vi"
+    },
+    {
+      "index": 809,
+      "text": "kiểu cấu trúc này, tưởng tượng không",
+      "start": 1765640,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 810,
+      "text": "phải là thói quen xấu mà là một chiến",
+      "start": 1767440,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 811,
+      "text": "lược sinh tồn tâm lý từ thời thơ ấu.",
+      "start": 1769480,
+      "duration": 5720,
+      "lang": "vi"
+    },
+    {
+      "index": 812,
+      "text": "Dung gọi đó là sự bù trừ của tâm thức.",
+      "start": 1771880,
+      "duration": 5080,
+      "lang": "vi"
+    },
+    {
+      "index": 813,
+      "text": "Khi thực tại không phản chiếu đủ giá trị",
+      "start": 1775200,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 814,
+      "text": "của bạn, vô thức tạo ra những hình ảnh",
+      "start": 1776960,
+      "duration": 4959,
+      "lang": "vi"
+    },
+    {
+      "index": 815,
+      "text": "vĩ đại để bảo vệ lòng tự trọng. Vấn đề",
+      "start": 1778919,
+      "duration": 5120,
+      "lang": "vi"
+    },
+    {
+      "index": 816,
+      "text": "không phải là bạn mơ mộng mà là bạn đồng",
+      "start": 1781919,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 817,
+      "text": "nhất hoàn toàn với những hình ảnh đó.",
+      "start": 1784039,
+      "duration": 4961,
+      "lang": "vi"
+    },
+    {
+      "index": 818,
+      "text": "Vì vậy, thay vì cố gắng cắt bỏ tưởng",
+      "start": 1786919,
+      "duration": 4681,
+      "lang": "vi"
+    },
+    {
+      "index": 819,
+      "text": "tượng, hãy đối thoại với nó. Khi bạn",
+      "start": 1789000,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 820,
+      "text": "thấy mình mơ về thành công, quyền lực",
+      "start": 1791600,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 821,
+      "text": "hay sự công nhận, hãy hỏi một cách",
+      "start": 1793559,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 822,
+      "text": "nghiêm túc hình ảnh này đang che chắn",
+      "start": 1795360,
+      "duration": 5439,
+      "lang": "vi"
+    },
+    {
+      "index": 823,
+      "text": "cho nỗi sợ nào? Câu hỏi đó, nếu được lặp",
+      "start": 1797279,
+      "duration": 5481,
+      "lang": "vi"
+    },
+    {
+      "index": 824,
+      "text": "lại đủ lâu sẽ đưa bạn về những ký ức rất",
+      "start": 1800799,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 825,
+      "text": "sớm. Nơi bản ngã non trẻ của bạn đã học",
+      "start": 1802760,
+      "duration": 4799,
+      "lang": "vi"
+    },
+    {
+      "index": 826,
+      "text": "rằng chỉ khi trở nên đặc biệt bạn mới",
+      "start": 1805159,
+      "duration": 4281,
+      "lang": "vi"
+    },
+    {
+      "index": 827,
+      "text": "đáng được yêu.",
+      "start": 1807559,
+      "duration": 3441,
+      "lang": "vi"
+    },
+    {
+      "index": 828,
+      "text": "Công việc thứ ba là đối diện với bóng",
+      "start": 1809440,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 829,
+      "text": "tối không phải bằng suy nghĩ mà bằng",
+      "start": 1811000,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 830,
+      "text": "trải nghiệm sống.",
+      "start": 1813360,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 831,
+      "text": "Dùng định nghĩa bóng tối là tất cả những",
+      "start": 1815480,
+      "duration": 4400,
+      "lang": "vi"
+    },
+    {
+      "index": 832,
+      "text": "gì bị bản ngã chối bỏ vì chúng không phù",
+      "start": 1817519,
+      "duration": 4721,
+      "lang": "vi"
+    },
+    {
+      "index": 833,
+      "text": "hợp với hình ảnh lý tưởng.",
+      "start": 1819880,
+      "duration": 4399,
+      "lang": "vi"
+    },
+    {
+      "index": 834,
+      "text": "Với bạn, bóng tối thường mang hình dạng",
+      "start": 1822240,
+      "duration": 5159,
+      "lang": "vi"
+    },
+    {
+      "index": 835,
+      "text": "của sự tầm thường, thất bại, giới hạn và",
+      "start": 1824279,
+      "duration": 5681,
+      "lang": "vi"
+    },
+    {
+      "index": 836,
+      "text": "cảm giác mình không ai cả. Cách duy nhất",
+      "start": 1827399,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 837,
+      "text": "để tích hợp bóng tối là đi vào những",
+      "start": 1829960,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 838,
+      "text": "trải nghiệm không có hào quang, lao động",
+      "start": 1832039,
+      "duration": 4281,
+      "lang": "vi"
+    },
+    {
+      "index": 839,
+      "text": "đều đạn, công việc khiêm nhường, trách",
+      "start": 1834080,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 840,
+      "text": "nhiệm không được càng ngợi.",
+      "start": 1836320,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 841,
+      "text": "Không phải để trừng phạt mình mà để hệ",
+      "start": 1838600,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 842,
+      "text": "thần kinh học lại rằng bạn vẫn tồn tại,",
+      "start": 1840519,
+      "duration": 6400,
+      "lang": "vi"
+    },
+    {
+      "index": 843,
+      "text": "vẫn có giá trị ngay cả khi không vĩ đại.",
+      "start": 1843159,
+      "duration": 5921,
+      "lang": "vi"
+    },
+    {
+      "index": 844,
+      "text": "Dung nói rất rõ, không ai trở nên giác",
+      "start": 1846919,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 845,
+      "text": "ngộ bằng cách tưởng tượng ra ánh sáng mà",
+      "start": 1849080,
+      "duration": 4199,
+      "lang": "vi"
+    },
+    {
+      "index": 846,
+      "text": "bằng cách làm cho bóng tối trở nên có ý",
+      "start": 1851399,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 847,
+      "text": "thức.",
+      "start": 1853279,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 848,
+      "text": "Công việc thứ tư và cũng là đau nhất là",
+      "start": 1854799,
+      "duration": 4561,
+      "lang": "vi"
+    },
+    {
+      "index": 849,
+      "text": "học cách ở lại với sự xấu hổ mà không",
+      "start": 1857399,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 850,
+      "text": "trốn chạy.",
+      "start": 1859360,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 851,
+      "text": "Với cấu trúc tự ái, xấu hổ là điểm sụp",
+      "start": 1861159,
+      "duration": 4961,
+      "lang": "vi"
+    },
+    {
+      "index": 852,
+      "text": "đổ của bản ngã. Hoặc bạn bay lên trong",
+      "start": 1863519,
+      "duration": 4601,
+      "lang": "vi"
+    },
+    {
+      "index": 853,
+      "text": "tự đại, hoặc bạn rơi xuống trong tự",
+      "start": 1866120,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 854,
+      "text": "khinh.",
+      "start": 1868120,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 855,
+      "text": "Nhưng tự ngã không nằm ở hai cực đó. Tự",
+      "start": 1869720,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 856,
+      "text": "ngã chỉ bắt đầu xuất hiện khi bạn có thể",
+      "start": 1872159,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 857,
+      "text": "ở lại trong vùng giữa, nơi bạn không cần",
+      "start": 1873840,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 858,
+      "text": "phải là người phi thường, nhưng cũng",
+      "start": 1876000,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 859,
+      "text": "không tự kết án mình là vô giá trị.",
+      "start": 1877679,
+      "duration": 5401,
+      "lang": "vi"
+    },
+    {
+      "index": 860,
+      "text": "Dùng gọi đây là tiến trình cá nhân hóa,",
+      "start": 1880760,
+      "duration": 4039,
+      "lang": "vi"
+    },
+    {
+      "index": 861,
+      "text": "nơi con người học cách chấp nhận sự thật",
+      "start": 1883080,
+      "duration": 3839,
+      "lang": "vi"
+    },
+    {
+      "index": 862,
+      "text": "về chính mình mà không cần đến ảo tưởng",
+      "start": 1884799,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 863,
+      "text": "phòng vệ.",
+      "start": 1886919,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 864,
+      "text": "Nếu bạn bước vào con đường tâm linh,",
+      "start": 1888639,
+      "duration": 4920,
+      "lang": "vi"
+    },
+    {
+      "index": 865,
+      "text": "điều này lại càng cân cẩn trọng.",
+      "start": 1890559,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 866,
+      "text": "Dung từng cảnh báo rất gay gắt về hiện",
+      "start": 1893559,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 867,
+      "text": "tượng dùng tâm linh để né tránh tâm lý,",
+      "start": 1895480,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 868,
+      "text": "thứ mà ngày nay người ta gọi là tâm linh",
+      "start": 1897639,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 869,
+      "text": "né tránh.",
+      "start": 1899639,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 870,
+      "text": "Thiền chánh niệm hay vô ngã chỉ thực sự",
+      "start": 1901480,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 871,
+      "text": "có giá trị khi chúng làm lộ rõ hơn các",
+      "start": 1903799,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 872,
+      "text": "cơ chế phòng vệ chứ không phải che phủ",
+      "start": 1906000,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 873,
+      "text": "chúng bằng những khái niệm đẹp đẽ.",
+      "start": 1908039,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 874,
+      "text": "Tâm linh không tích hợp bóng tối sẽ chỉ",
+      "start": 1910120,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 875,
+      "text": "làm bản ngã tinh vi hơn, không làm con",
+      "start": 1912240,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 876,
+      "text": "người trọn vẹn hơn.",
+      "start": 1914600,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 877,
+      "text": "Và đến đây, tôi cần nói một sự thật",
+      "start": 1916760,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 878,
+      "text": "không dễ nghe.",
+      "start": 1918880,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 879,
+      "text": "Tất cả những con đường này đều chậm, đều",
+      "start": 1920840,
+      "duration": 5880,
+      "lang": "vi"
+    },
+    {
+      "index": 880,
+      "text": "khó và đều rủi ro hơn trị liệu. Bởi vì",
+      "start": 1923000,
+      "duration": 5440,
+      "lang": "vi"
+    },
+    {
+      "index": 881,
+      "text": "bạn đang tự mình bước vào vùng vô thức",
+      "start": 1926720,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 882,
+      "text": "mà không có người giữ khung an toàn.",
+      "start": 1928440,
+      "duration": 4079,
+      "lang": "vi"
+    },
+    {
+      "index": 883,
+      "text": "Dung từng thừa nhận rằng chính ông cũng",
+      "start": 1930600,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 884,
+      "text": "cần các mối quan hệ phản chiếu sâu sắc",
+      "start": 1932519,
+      "duration": 3640,
+      "lang": "vi"
+    },
+    {
+      "index": 885,
+      "text": "để không bị cuốn trôi trong quá trình",
+      "start": 1934600,
+      "duration": 3079,
+      "lang": "vi"
+    },
+    {
+      "index": 886,
+      "text": "này.",
+      "start": 1936159,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 887,
+      "text": "Nhưng nếu bạn chưa thể trị liệu, điều",
+      "start": 1937679,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 888,
+      "text": "tối thiểu bạn có thể làm là ngừng tự",
+      "start": 1939559,
+      "duration": 3681,
+      "lang": "vi"
+    },
+    {
+      "index": 889,
+      "text": "hành hạ mình bằng những giải pháp hành",
+      "start": 1941639,
+      "duration": 3481,
+      "lang": "vi"
+    },
+    {
+      "index": 890,
+      "text": "vi nông cạn.",
+      "start": 1943240,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 891,
+      "text": "Bạn không cần trở nên xuất sắc, bạn",
+      "start": 1945120,
+      "duration": 4840,
+      "lang": "vi"
+    },
+    {
+      "index": 892,
+      "text": "không cần sửa mình cho nhanh.",
+      "start": 1947360,
+      "duration": 4919,
+      "lang": "vi"
+    },
+    {
+      "index": 893,
+      "text": "Điều bạn cần là hiểu rằng sự trí trệ của",
+      "start": 1949960,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 894,
+      "text": "bạn từng là một cách thích nghi của tâm",
+      "start": 1952279,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 895,
+      "text": "lý.",
+      "start": 1954120,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 896,
+      "text": "Khi bạn nhìn nó bằng con mắt đó, vô thức",
+      "start": 1955679,
+      "duration": 4561,
+      "lang": "vi"
+    },
+    {
+      "index": 897,
+      "text": "bắt đầu bớt đối kháng. Và khi vô thức",
+      "start": 1957880,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 898,
+      "text": "không còn phải bảo vệ bạn bằng sự tê",
+      "start": 1960240,
+      "duration": 3720,
+      "lang": "vi"
+    },
+    {
+      "index": 899,
+      "text": "liệt, sự chuyển hóa thực sự mới có cơ",
+      "start": 1961960,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 900,
+      "text": "hội xảy ra.",
+      "start": 1963960,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 901,
+      "text": "Như Dung đã viết, cho đến khi bạn làm",
+      "start": 1965880,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 902,
+      "text": "cho vô thức trở nên có ý thức, nó sẽ",
+      "start": 1967840,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 903,
+      "text": "điều khiển đời bạn và bạn sẽ gọi đó là",
+      "start": 1969960,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 904,
+      "text": "số phận.",
+      "start": 1972360,
+      "duration": 4439,
+      "lang": "vi"
+    },
+    {
+      "index": 905,
+      "text": "Dấu hiệu cho thấy bạn đang thực sự chạm",
+      "start": 1974720,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 906,
+      "text": "vào tầng vô thức chứ không chỉ tự thuyết",
+      "start": 1976799,
+      "duration": 3921,
+      "lang": "vi"
+    },
+    {
+      "index": 907,
+      "text": "phục mình.",
+      "start": 1978840,
+      "duration": 3360,
+      "lang": "vi"
+    },
+    {
+      "index": 908,
+      "text": "Dấu hiệu đầu tiên thường không phải là",
+      "start": 1980720,
+      "duration": 4640,
+      "lang": "vi"
+    },
+    {
+      "index": 909,
+      "text": "sự nhẹ nhõm mà là sự khó chịu mơ hồ. Khi",
+      "start": 1982200,
+      "duration": 5079,
+      "lang": "vi"
+    },
+    {
+      "index": 910,
+      "text": "bạn bắt đầu chạm vào tầng vô thức, bạn",
+      "start": 1985360,
+      "duration": 3600,
+      "lang": "vi"
+    },
+    {
+      "index": 911,
+      "text": "không thấy mình mạnh mẽ hơn hay tích cực",
+      "start": 1987279,
+      "duration": 4201,
+      "lang": "vi"
+    },
+    {
+      "index": 912,
+      "text": "hơn mà ngược lại bạn thấy mình bớt chắc",
+      "start": 1988960,
+      "duration": 4079,
+      "lang": "vi"
+    },
+    {
+      "index": 913,
+      "text": "chắn về những câu chuyện từng dùng để",
+      "start": 1991480,
+      "duration": 3559,
+      "lang": "vi"
+    },
+    {
+      "index": 914,
+      "text": "định nghĩa bản thân. Những lời giải",
+      "start": 1993039,
+      "duration": 3681,
+      "lang": "vi"
+    },
+    {
+      "index": 915,
+      "text": "thích quen thuộc như tôi chỉ cần kỷ luật",
+      "start": 1995039,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 916,
+      "text": "hơn, tôi chưa đủ động lực hay tôi sinh",
+      "start": 1996720,
+      "duration": 5760,
+      "lang": "vi"
+    },
+    {
+      "index": 917,
+      "text": "ra đã như vậy bắt đầu mất hiệu lực.",
+      "start": 1999279,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 918,
+      "text": "Dùng từng nói rằng khi vô thức bắt đầu",
+      "start": 2002480,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 919,
+      "text": "trồi lên, bản ngã sẽ trải nghiệm điều đó",
+      "start": 2004200,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 920,
+      "text": "như một sự mất phương hướng. Bạn không",
+      "start": 2006639,
+      "duration": 4601,
+      "lang": "vi"
+    },
+    {
+      "index": 921,
+      "text": "còn biết chắc mình là ai và chính sự mơ",
+      "start": 2008960,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 922,
+      "text": "hồ, đó là dấu hiệu cho thấy một cấu trúc",
+      "start": 2011240,
+      "duration": 4159,
+      "lang": "vi"
+    },
+    {
+      "index": 923,
+      "text": "cũ đang nứt ra.",
+      "start": 2013240,
+      "duration": 4559,
+      "lang": "vi"
+    },
+    {
+      "index": 924,
+      "text": "Dấu hiệu thứ hai là sự suy yếu của những",
+      "start": 2015399,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 925,
+      "text": "ảo tưởng vĩ đại nhưng không kèm theo",
+      "start": 2017799,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 926,
+      "text": "khoái cảm tự hành hạ.",
+      "start": 2019679,
+      "duration": 4281,
+      "lang": "vi"
+    },
+    {
+      "index": 927,
+      "text": "Bạn bắt đầu nhận ra rằng mình không còn",
+      "start": 2022039,
+      "duration": 3801,
+      "lang": "vi"
+    },
+    {
+      "index": 928,
+      "text": "mơ mộng dữ dội về những phiên bản phi",
+      "start": 2023960,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 929,
+      "text": "thường của bản thân như trước. Điều quan",
+      "start": 2025840,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 930,
+      "text": "trọng là sự suy yếu này không đến từ",
+      "start": 2028080,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 931,
+      "text": "thất vọng mà đến từ việc những tưởng",
+      "start": 2029760,
+      "duration": 5080,
+      "lang": "vi"
+    },
+    {
+      "index": 932,
+      "text": "tượng đó bỗng trở nên trống rỗng.",
+      "start": 2031760,
+      "duration": 5200,
+      "lang": "vi"
+    },
+    {
+      "index": 933,
+      "text": "Dung gọi đây là khoảnh khắc mà hình ảnh",
+      "start": 2034840,
+      "duration": 5240,
+      "lang": "vi"
+    },
+    {
+      "index": 934,
+      "text": "tự ngã lý tưởng mất năng lượng tâm lý.",
+      "start": 2036960,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 935,
+      "text": "Bạn không còn cần phải liên tục nghĩ về",
+      "start": 2040080,
+      "duration": 3599,
+      "lang": "vi"
+    },
+    {
+      "index": 936,
+      "text": "thành công tương lai để chịu đựng hiện",
+      "start": 2041760,
+      "duration": 4120,
+      "lang": "vi"
+    },
+    {
+      "index": 937,
+      "text": "tại. Và dù điều này ban đầu tạo ra một",
+      "start": 2043679,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 938,
+      "text": "khoảng trống khó chịu, nó cũng là dấu",
+      "start": 2045880,
+      "duration": 3440,
+      "lang": "vi"
+    },
+    {
+      "index": 939,
+      "text": "hiệu cho thấy bóng tối đang được tích",
+      "start": 2047840,
+      "duration": 2999,
+      "lang": "vi"
+    },
+    {
+      "index": 940,
+      "text": "hợp.",
+      "start": 2049320,
+      "duration": 3880,
+      "lang": "vi"
+    },
+    {
+      "index": 941,
+      "text": "Dấu hiệu thứ ba là bạn bắt đầu ở lại lâu",
+      "start": 2050839,
+      "duration": 4481,
+      "lang": "vi"
+    },
+    {
+      "index": 942,
+      "text": "hơn với xấu hổ thay vì lập tức trốn",
+      "start": 2053200,
+      "duration": 4879,
+      "lang": "vi"
+    },
+    {
+      "index": 943,
+      "text": "chạy. Trước đây, mỗi lần thất bại hay",
+      "start": 2055320,
+      "duration": 4960,
+      "lang": "vi"
+    },
+    {
+      "index": 944,
+      "text": "trì hoãn, bạn hoặc tự đại hóa bản thân",
+      "start": 2058079,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 945,
+      "text": "bằng tưởng tượng hoặc rơi vào tự khinh",
+      "start": 2060280,
+      "duration": 3799,
+      "lang": "vi"
+    },
+    {
+      "index": 946,
+      "text": "dữ dội.",
+      "start": 2062359,
+      "duration": 4121,
+      "lang": "vi"
+    },
+    {
+      "index": 947,
+      "text": "Khi vô thức được chạm tới, chu kỳ đó bắt",
+      "start": 2064079,
+      "duration": 5441,
+      "lang": "vi"
+    },
+    {
+      "index": 948,
+      "text": "đầu chậm lại. Bạn vẫn cảm thấy xấu hổ",
+      "start": 2066480,
+      "duration": 4599,
+      "lang": "vi"
+    },
+    {
+      "index": 949,
+      "text": "nhưng nó không còn hoàn toàn nuốt chừng",
+      "start": 2069520,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 950,
+      "text": "bạn. Bạn có thể cảm nhận nó trong cơ",
+      "start": 2071079,
+      "duration": 5280,
+      "lang": "vi"
+    },
+    {
+      "index": 951,
+      "text": "thể, trong ngực, trong bụng mà không cần",
+      "start": 2073520,
+      "duration": 4839,
+      "lang": "vi"
+    },
+    {
+      "index": 952,
+      "text": "phải lập tức giải thích, biện minh hay",
+      "start": 2076359,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 953,
+      "text": "thoát ra.",
+      "start": 2078359,
+      "duration": 3480,
+      "lang": "vi"
+    },
+    {
+      "index": 954,
+      "text": "Dùng xem khả năng chịu đựng cảm xúc mâu",
+      "start": 2080200,
+      "duration": 3159,
+      "lang": "vi"
+    },
+    {
+      "index": 955,
+      "text": "thuẫn là một tiêu chí quan trọng của",
+      "start": 2081839,
+      "duration": 3961,
+      "lang": "vi"
+    },
+    {
+      "index": 956,
+      "text": "tiến trình cá nhân hóa. Khi bạn có thể",
+      "start": 2083359,
+      "duration": 4881,
+      "lang": "vi"
+    },
+    {
+      "index": 957,
+      "text": "chịu được xấu hổ mà không sụp đổ, tự ngã",
+      "start": 2085800,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 958,
+      "text": "bắt đầu có chỗ đứng.",
+      "start": 2088240,
+      "duration": 3960,
+      "lang": "vi"
+    },
+    {
+      "index": 959,
+      "text": "Dấu hiệu thứ tư là động lực hành động",
+      "start": 2090480,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 960,
+      "text": "thay đổi về chất. Bạn không làm việc vì",
+      "start": 2092200,
+      "duration": 4439,
+      "lang": "vi"
+    },
+    {
+      "index": 961,
+      "text": "sợ bị vô dụng, cũng không vì muốn chứng",
+      "start": 2094480,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 962,
+      "text": "minh mình vĩ đại. Có những ngày bạn làm",
+      "start": 2096639,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 963,
+      "text": "rất ít nhưng việc ít đó lại không kéo",
+      "start": 2098960,
+      "duration": 4639,
+      "lang": "vi"
+    },
+    {
+      "index": 964,
+      "text": "theo sự căm ghét bản thân.",
+      "start": 2101079,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 965,
+      "text": "Dùng gọi đây là sự dịch chuyển từ động",
+      "start": 2103599,
+      "duration": 3161,
+      "lang": "vi"
+    },
+    {
+      "index": 966,
+      "text": "lực của bản ngã sang động lực của tự",
+      "start": 2105240,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 967,
+      "text": "ngã. Hành động không còn nhằm bảo vệ",
+      "start": 2106760,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 968,
+      "text": "hình ảnh mà bắt đầu gắn với cảm giác phù",
+      "start": 2109000,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 969,
+      "text": "hợp nội tại dù cảm giác đó còn yếu và",
+      "start": 2111200,
+      "duration": 5919,
+      "lang": "vi"
+    },
+    {
+      "index": 970,
+      "text": "không ổn định. Dấu hiệu thứ năm là giấc",
+      "start": 2113800,
+      "duration": 6600,
+      "lang": "vi"
+    },
+    {
+      "index": 971,
+      "text": "mơ bắt đầu thay đổi. Với nhiều người,",
+      "start": 2117119,
+      "duration": 6000,
+      "lang": "vi"
+    },
+    {
+      "index": 972,
+      "text": "đây là chỉ báo rõ ràng nhất. Giấc mơ trở",
+      "start": 2120400,
+      "duration": 5439,
+      "lang": "vi"
+    },
+    {
+      "index": 973,
+      "text": "nên sống động hơn, kỳ lạ hơn và đôi khi",
+      "start": 2123119,
+      "duration": 5041,
+      "lang": "vi"
+    },
+    {
+      "index": 974,
+      "text": "gây khó chịu. Bạn có thể mơ thấy mình",
+      "start": 2125839,
+      "duration": 5000,
+      "lang": "vi"
+    },
+    {
+      "index": 975,
+      "text": "thất bại, bị phơi bày, bị đuổi khỏi nơi",
+      "start": 2128160,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 976,
+      "text": "nào đó hoặc mơ về những hình ảnh không",
+      "start": 2130839,
+      "duration": 4361,
+      "lang": "vi"
+    },
+    {
+      "index": 977,
+      "text": "còn mang tính anh hùng.",
+      "start": 2132960,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 978,
+      "text": "Dung xem giấc mơ là ngôn ngữ trực tiếp",
+      "start": 2135200,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 979,
+      "text": "của vô thức. Khi vô thức bắt đầu được",
+      "start": 2137440,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 980,
+      "text": "lắng nghe, nó sẽ nói nhiều hơn và không",
+      "start": 2139560,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 981,
+      "text": "phải lúc nào cũng nói những điều dễ",
+      "start": 2142240,
+      "duration": 3000,
+      "lang": "vi"
+    },
+    {
+      "index": 982,
+      "text": "chịu.",
+      "start": 2143720,
+      "duration": 3879,
+      "lang": "vi"
+    },
+    {
+      "index": 983,
+      "text": "Dấu hiệu thứ sáu là bạn bớt ám ảnh với",
+      "start": 2145240,
+      "duration": 5280,
+      "lang": "vi"
+    },
+    {
+      "index": 984,
+      "text": "việc mình đang tiến bộ hay thụt lùi.",
+      "start": 2147599,
+      "duration": 4760,
+      "lang": "vi"
+    },
+    {
+      "index": 985,
+      "text": "Khi còn mắc kẹt trong tự thuyết phục,",
+      "start": 2150520,
+      "duration": 3920,
+      "lang": "vi"
+    },
+    {
+      "index": 986,
+      "text": "bạn liên tục đo lường bản thân. Hôm nay",
+      "start": 2152359,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 987,
+      "text": "mình tốt hơn hôm qua trưa, tuần này mình",
+      "start": 2154440,
+      "duration": 4560,
+      "lang": "vi"
+    },
+    {
+      "index": 988,
+      "text": "có kỷ luật hơn không. Khi chạm vào tầng",
+      "start": 2156599,
+      "duration": 5961,
+      "lang": "vi"
+    },
+    {
+      "index": 989,
+      "text": "vô thức, mối quan tâm đó dần mất đi.",
+      "start": 2159000,
+      "duration": 6160,
+      "lang": "vi"
+    },
+    {
+      "index": 990,
+      "text": "Không phải vì bạn bỏ cuộc, bạn thờ ơ mà",
+      "start": 2162560,
+      "duration": 4799,
+      "lang": "vi"
+    },
+    {
+      "index": 991,
+      "text": "vì bạn bắt đầu cảm nhận rằng sự chuyển",
+      "start": 2165160,
+      "duration": 4919,
+      "lang": "vi"
+    },
+    {
+      "index": 992,
+      "text": "hóa không diễn ra theo đường thẳng.",
+      "start": 2167359,
+      "duration": 4641,
+      "lang": "vi"
+    },
+    {
+      "index": 993,
+      "text": "Dung nhấn mạnh rằng tiến trình cá nhân",
+      "start": 2170079,
+      "duration": 3921,
+      "lang": "vi"
+    },
+    {
+      "index": 994,
+      "text": "hóa là một chuyển động xoán ốc, nơi ta",
+      "start": 2172000,
+      "duration": 4160,
+      "lang": "vi"
+    },
+    {
+      "index": 995,
+      "text": "nhiều lần quay lại những điểm cũ nhưng",
+      "start": 2174000,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 996,
+      "text": "với mức độ ý thức khác.",
+      "start": 2176160,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 997,
+      "text": "Dấu hiệu thứ bảy là sự xuất hiện của",
+      "start": 2178520,
+      "duration": 4960,
+      "lang": "vi"
+    },
+    {
+      "index": 998,
+      "text": "lòng trắc ẩn dành cho chính mình.",
+      "start": 2180640,
+      "duration": 4800,
+      "lang": "vi"
+    },
+    {
+      "index": 999,
+      "text": "Không phải kiểu tự an ủi, không phải sự",
+      "start": 2183480,
+      "duration": 4080,
+      "lang": "vi"
+    },
+    {
+      "index": 1000,
+      "text": "bao dung giả tạo, mà là một cảm giác rất",
+      "start": 2185440,
+      "duration": 4879,
+      "lang": "vi"
+    },
+    {
+      "index": 1001,
+      "text": "tỉnh táo rằng à hóa ra mình đã phải sống",
+      "start": 2187560,
+      "duration": 4960,
+      "lang": "vi"
+    },
+    {
+      "index": 1002,
+      "text": "như thế để tồn tại.",
+      "start": 2190319,
+      "duration": 4441,
+      "lang": "vi"
+    },
+    {
+      "index": 1003,
+      "text": "Khi điều này xảy ra, bạn không còn cần",
+      "start": 2192520,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 1004,
+      "text": "phải căm ghét sự trí trệ của mình và",
+      "start": 2194760,
+      "duration": 4680,
+      "lang": "vi"
+    },
+    {
+      "index": 1005,
+      "text": "cũng không cần phải tôn vinh nó. Bạn bắt",
+      "start": 2196960,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 1006,
+      "text": "đầu nhìn nó như một chương trong lịch sử",
+      "start": 2199440,
+      "duration": 3800,
+      "lang": "vi"
+    },
+    {
+      "index": 1007,
+      "text": "tâm lý của mình chứ không phải bản án",
+      "start": 2201240,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 1008,
+      "text": "cho toàn bộ con người bạn.",
+      "start": 2203240,
+      "duration": 4480,
+      "lang": "vi"
+    },
+    {
+      "index": 1009,
+      "text": "Dung từng viết rằng dấu hiệu của sự",
+      "start": 2205720,
+      "duration": 3680,
+      "lang": "vi"
+    },
+    {
+      "index": 1010,
+      "text": "chuyển hóa thật sự không phải là cảm",
+      "start": 2207720,
+      "duration": 3840,
+      "lang": "vi"
+    },
+    {
+      "index": 1011,
+      "text": "giác hạnh phúc mà là sự mở rộng của ý",
+      "start": 2209400,
+      "duration": 4600,
+      "lang": "vi"
+    },
+    {
+      "index": 1012,
+      "text": "thức. Bạn thấy nhiều hơn, chịu được",
+      "start": 2211560,
+      "duration": 4360,
+      "lang": "vi"
+    },
+    {
+      "index": 1013,
+      "text": "nhiều hơn và không còn cần phải trốn",
+      "start": 2214000,
+      "duration": 5319,
+      "lang": "vi"
+    },
+    {
+      "index": 1014,
+      "text": "khỏi chính mình nhanh như trước.",
+      "start": 2215920,
+      "duration": 5679,
+      "lang": "vi"
+    },
+    {
+      "index": 1015,
+      "text": "Nếu bạn đang trải qua những điều này dù",
+      "start": 2219319,
+      "duration": 4841,
+      "lang": "vi"
+    },
+    {
+      "index": 1016,
+      "text": "rất mờ nhạt, rất chậm thì có khả năng",
+      "start": 2221599,
+      "duration": 4121,
+      "lang": "vi"
+    },
+    {
+      "index": 1017,
+      "text": "bạn không còn chỉ tự thuyết phục mình",
+      "start": 2224160,
+      "duration": 3159,
+      "lang": "vi"
+    },
+    {
+      "index": 1018,
+      "text": "nữa.",
+      "start": 2225720,
+      "duration": 3599,
+      "lang": "vi"
+    },
+    {
+      "index": 1019,
+      "text": "Bạn đang thực sự bước vào vùng mà vô",
+      "start": 2227319,
+      "duration": 3561,
+      "lang": "vi"
+    },
+    {
+      "index": 1020,
+      "text": "thức bắt đầu tham gia vào cuộc sống ý",
+      "start": 2229319,
+      "duration": 3040,
+      "lang": "vi"
+    },
+    {
+      "index": 1021,
+      "text": "thức.",
+      "start": 2230880,
+      "duration": 3719,
+      "lang": "vi"
+    },
+    {
+      "index": 1022,
+      "text": "Cảm ơn bạn đã ở lại đến những phút cuối",
+      "start": 2232359,
+      "duration": 4401,
+      "lang": "vi"
+    },
+    {
+      "index": 1023,
+      "text": "và đã đồng hành cùng góc tối tâm lý học",
+      "start": 2234599,
+      "duration": 3760,
+      "lang": "vi"
+    },
+    {
+      "index": 1024,
+      "text": "trong hành trình trạm đến những vùng sâu",
+      "start": 2236760,
+      "duration": 4240,
+      "lang": "vi"
+    },
+    {
+      "index": 1025,
+      "text": "kín nhất của nội tâm con người.",
+      "start": 2238359,
+      "duration": 4161,
+      "lang": "vi"
+    },
+    {
+      "index": 1026,
+      "text": "Không phải ai cũng đủ kiên nhẫn để lắng",
+      "start": 2241000,
+      "duration": 3480,
+      "lang": "vi"
+    },
+    {
+      "index": 1027,
+      "text": "nghe và không phải ai cũng sẵn sàng đối",
+      "start": 2242520,
+      "duration": 4040,
+      "lang": "vi"
+    },
+    {
+      "index": 1028,
+      "text": "diện với chính mình.",
+      "start": 2244480,
+      "duration": 4839,
+      "lang": "vi"
+    },
+    {
+      "index": 1029,
+      "text": "Việc bạn ở đây lắng nghe đến cuối đã là",
+      "start": 2246560,
+      "duration": 4440,
+      "lang": "vi"
+    },
+    {
+      "index": 1030,
+      "text": "một dấu hiệu cho thấy bạn đang nghiêm",
+      "start": 2249319,
+      "duration": 3841,
+      "lang": "vi"
+    },
+    {
+      "index": 1031,
+      "text": "túc với đời sống bên trong của mình.",
+      "start": 2251000,
+      "duration": 4280,
+      "lang": "vi"
+    },
+    {
+      "index": 1032,
+      "text": "Mong rằng những gì bạn vừa nghe không",
+      "start": 2253160,
+      "duration": 4520,
+      "lang": "vi"
+    },
+    {
+      "index": 1033,
+      "text": "chỉ dừng lại ở sự hiểu mà sẽ tiếp tục âm",
+      "start": 2255280,
+      "duration": 4319,
+      "lang": "vi"
+    },
+    {
+      "index": 1034,
+      "text": "thầm làm việc trong bạn theo cách của",
+      "start": 2257680,
+      "duration": 3639,
+      "lang": "vi"
+    },
+    {
+      "index": 1035,
+      "text": "riêng bạn.",
+      "start": 2259599,
+      "duration": 4000,
+      "lang": "vi"
+    },
+    {
+      "index": 1036,
+      "text": "Và nếu một ngày nào đó bạn cảm thấy cần",
+      "start": 2261319,
+      "duration": 4921,
+      "lang": "vi"
+    },
+    {
+      "index": 1037,
+      "text": "quay lại, góc tối vẫn ở đây, không phán",
+      "start": 2263599,
+      "duration": 4961,
+      "lang": "vi"
+    },
+    {
+      "index": 1038,
+      "text": "xét, không thúc ép, chỉ lặng lẽ đồng",
+      "start": 2266240,
+      "duration": 4671,
+      "lang": "vi"
+    },
+    {
+      "index": 1039,
+      "text": "hành.",
+      "start": 2268560,
+      "duration": 4371,
+      "lang": "vi"
+    },
+    {
+      "index": 1040,
+      "text": "[âm nhạc]",
+      "start": 2270911,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1041,
+      "text": "[âm nhạc]",
+      "start": 2276151,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1042,
+      "text": ">> [âm nhạc]",
+      "start": 2285976,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1043,
+      "text": "[âm nhạc]",
+      "start": 2310211,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1044,
+      "text": "[âm nhạc]",
+      "start": 2314796,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1045,
+      "text": "[âm nhạc]",
+      "start": 2320036,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1046,
+      "text": "[âm nhạc]",
+      "start": 2327896,
+      "duration": 4304,
+      "lang": "vi"
+    },
+    {
+      "index": 1047,
+      "text": ">> Ch",
+      "start": 2329200,
+      "duration": 3000,
+      "lang": "vi"
+    },
+    {
+      "index": 1048,
+      "text": "[âm nhạc]",
+      "start": 2336411,
+      "duration": 2021,
+      "lang": "vi"
+    },
+    {
+      "index": 1049,
+      "text": ">> [âm nhạc]",
+      "start": 2346236,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1050,
+      "text": "[âm nhạc]",
+      "start": 2355407,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1051,
+      "text": "[âm nhạc]",
+      "start": 2368507,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1052,
+      "text": "[âm nhạc]",
+      "start": 2374402,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1053,
+      "text": ">> A Di [âm nhạc]",
+      "start": 2379800,
+      "duration": 3400,
+      "lang": "vi"
+    },
+    {
+      "index": 1054,
+      "text": "Đà",
+      "start": 2381040,
+      "duration": 2160,
+      "lang": "vi"
+    },
+    {
+      "index": 1055,
+      "text": ">> [âm nhạc]",
+      "start": 2392087,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1056,
+      "text": "[âm nhạc]",
+      "start": 2398637,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1057,
+      "text": "[âm nhạc]",
+      "start": 2403877,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1058,
+      "text": "[âm nhạc]",
+      "start": 2409117,
+      "duration": 2020,
+      "lang": "vi"
+    },
+    {
+      "index": 1059,
+      "text": ">> Yeah.",
+      "start": 2412319,
+      "duration": 2241,
+      "lang": "vi"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# chapter_07_visual.md — Kịch Bản Visual Storyboard Matrix
+## Tập phim: VIỆT NAM THAM VỌNG BIẾN PHÚ QUỐC THÀNH "SINGAPORE THỨ HAI" CỦA CHÂU Á
+### CHƯƠNG 7: KẾT BÀI — BÀN CỜ ĐỊA CHÍNH TRỊ & KHÁT VỌNG VƯƠN MÌNH
+
+---
+
+| Scene ID | [THOẠI] (Cắt chuẩn $\le 26$ từ/cảnh) | [BỐI CẢNH] (100% Vật lý thực tế, bám sát Blueprint & Cast Sheet) | [TEXT OVERLAY] (Chuẩn 3D trực diện, chỉ 20-25% cảnh) |
+| :--- | :--- | :--- | :--- |
+| **CH07_SC001** | Cách Phú Quốc hơn một trăm cây số về phía tây nam, giữa vùng biển mở của Vịnh Thái Lan, có một quần đảo mang tên Thổ Châu. | Toàn cảnh góc cao nhìn từ biển mở về quần đảo Thổ Châu xanh biếc giữa làn nước biển trong vắt của Vịnh Thái Lan dưới ánh nắng rực rỡ. | `"QUẦN ĐẢO THỔ CHÂU (100KM TÂY NAM)"` |
+| **CH07_SC002a** | Nơi đây vừa được phê duyệt bổ sung vào Quy hoạch hệ thống cảng hàng không quốc gia. | Văn phòng Cục Hàng không Việt Nam trong ánh sáng tự nhiên, cán bộ quy hoạch đang trải bản đồ bổ sung quy hoạch cảng hàng không toàn quốc. | Không |
+| **CH07_SC002b** | Một sân bay cấp Bốn C với tổng mức đầu tư dự kiến hai mươi tám nghìn tám trăm tỷ đồng. | Sa bàn kiến trúc chi tiết của Sân bay Thổ Chu cấp 4C với đường băng bê tông kiên cố vươn dọc theo địa hình đảo, nhà ga điều hành hiện đại. | `"SÂN BAY THỔ CHU — 28.800 TỶ"` |
+| **CH07_SC002c** | Quy mô đó lớn hơn cả sân bay Điện Biên hay Côn Đảo. Trên một quần đảo tiền tiêu mà dân số chỉ đếm bằng đầu ngón tay. | Cột mốc chủ quyền thiêng liêng trên đảo Thổ Chu với quốc kỳ Việt Nam tung bay trong gió biển, phía xa là ngọn hải đăng và biển trời bao la. | Không |
+| **CH07_SC003a** | Sân bay Thổ Chu không phải sân bay dân sự thuần túy. | Đường băng sân bay Thổ Chu nhìn thẳng ra biển mở, máy bay tuần thám hàng hải cánh bằng đang đỗ trên sân đỗ bê tông kiên cố. | Không |
+| **CH07_SC003b** | Nó được thiết kế khai thác lưỡng dụng, vừa phục vụ hàng không dân dụng, vừa là căn cứ cơ động lực lượng quân sự. | Phối cảnh đường lăn sân bay lưỡng dụng: một bên là máy bay vận tải dân sự ATR-72 đón khách, một bên là máy bay vận tải tuần thám biển CASA C-295. | `"HẠ TẦNG LƯỠNG DỤNG (DUAL-USE)"` |
+| **CH07_SC004** | Đặt thông tin đó cạnh bức tranh tổng thể, mọi thứ bắt đầu xếp vào đúng chỗ. | Cố vấn chính sách kinh tế và sĩ quan hải quân người Việt đứng trước bản đồ chiến lược biển đảo Tây Nam trong phòng tác chiến ngập tràn ánh sáng. | Không |
+| **CH07_SC005a** | Phú Quốc nằm ở vị trí tây nam cực của Việt Nam, gần đường hàng hải quốc tế hơn bất kỳ thành phố nào trên đất liền. | Bản đồ hàng hải khu vực Đông Nam Á, thể hiện rõ luồng tàu thương mại quốc tế từ eo biển Malacca qua Vịnh Thái Lan đi ngang qua Phú Quốc. | Không |
+| **CH07_SC005b** | Toàn bộ khối tài sản hàng trăm nghìn tỷ đồng đang được tích tụ tại đặc khu này cần được bảo vệ. | Toàn cảnh Phú Quốc lung linh dưới ánh nắng vàng: sân bay T2, các cảng biển, chuỗi resort và khu phi thuế quan đang vận hành sầm uất. | Không |
+| **CH07_SC005c** | Không chỉ bằng luật pháp, mà bằng năng lực phòng thủ thực tế. | Tàu tuần tra của lực lượng Cảnh sát biển Việt Nam rẽ sóng tuần tra bảo vệ ngư trường và hải phận xung quanh đảo Phú Quốc dưới trời nắng đẹp. | Không |
+| **CH07_SC006a** | Sân bay Thổ Chu tạo ra chiều sâu phòng ngự chiến lược. | Sơ đồ cánh cung phòng thủ chiến lược kết nối Phú Quốc - Thổ Chu - Cà Mau tạo thành thế chân vạc vững chắc trên bản đồ biển đảo. | `"CHIỀU SÂU CHIẾN LƯỢC VỊNH THÁI LAN"` |
+| **CH07_SC006b** | Nó cho phép triển khai lực lượng nhanh chóng trên một vành đai rộng hơn, | Biên đội tàu hộ vệ tên lửa hiện đại của Hải quân Nhân dân Việt Nam lướt sóng tuần tra trên vùng biển phía nam Vịnh Thái Lan. | Không |
+| **CH07_SC006c** | thay vì dồn toàn bộ vào một điểm duy nhất là Phú Quốc. | Toàn cảnh không gian biển đảo liên hoàn từ Thổ Chu đến Phú Quốc nhìn từ vệ tinh với các tuyến hàng hải thông suốt. | Không |
+| **CH07_SC007** | Kinh tế và quốc phòng ở đây không phải hai bài toán riêng biệt. Chúng là hai mặt của cùng một quyết định. | Phòng chỉ huy điều hành chiến lược, các tài liệu kinh tế đặc khu và phương án an ninh biển đảo được đặt song song trên bàn làm việc. | Không |
+| **CH07_SC008a** | Giờ hãy nhìn lại toàn bộ câu chuyện từ đầu. Một trăm ba mươi bảy nghìn tỷ đồng. | Bức tranh tổng hợp 4 góc thể hiện 4 công trình biểu tượng: Đường băng T2, Tàu điện đô thị, Cảng An Thới và Cáp điện biển 220kV. | `"137.000 TỶ ĐỒNG — VỊ THẾ VIỆT NAM"` |
+| **CH07_SC008b** | Con số đó không phải để tổ chức một hội nghị. Không phải để xây thêm resort. | Đại sảnh Trung tâm Hội nghị Quốc tế APEC tràn ngập đại biểu các nền kinh tế hàng đầu thế giới đang thảo luận hợp tác kinh tế. | Không |
+| **CH07_SC008c** | Nó là giá của việc kiến tạo một vị thế mới cho Việt Nam trên bản đồ kinh tế và địa chính trị châu Á. | Toàn cảnh Đảo Ngọc Phú Quốc rực rỡ ánh bình minh, các công trình hạ tầng hiện đại vươn mình ra biển lớn kiêu hãnh. | Không |
+| **CH07_SC009a** | Cơ chế pháp lý đã được thiết kế. Hạ tầng kết nối đang thành hình. | Tòa nhà hành chính công hiện đại với các văn bản cơ chế đặc thù và các chuyến tàu điện đang lăn bánh trên đường ray mới. | Không |
+| **CH07_SC009b** | Cỗ máy kinh tế đã có bản vẽ. Vành đai phòng thủ đã được tính toán. | Phối cảnh tổng thể từ trên cao: khu phi thuế quan nhộn nhịp mua sắm, cảng biển đón tàu hàng và ngọn hải đăng sừng sững canh giữ biển trời. | Không |
+| **CH07_SC010a** | Câu hỏi không còn là liệu Phú Quốc có trở thành Singapore thứ hai hay không. | Cố vấn chính sách và Kỹ sư trưởng đứng cạnh nhau bên ban công ngắm nhìn toàn cảnh thành phố đảo vươn mình trong nắng sớm. | Không |
+| **CH07_SC010b** | Câu hỏi là nếu Việt Nam không làm điều này bây giờ, bên nào sẽ lấp vào khoảng trống đó trong Vịnh Thái Lan. | Bức tranh toàn cảnh hùng vĩ: Đảo Phú Quốc và Vịnh Thái Lan ngập tràn ánh nắng rực rỡ, tàu thuyền quốc tế qua lại tấp nập trên vùng biển hòa bình. | Không |

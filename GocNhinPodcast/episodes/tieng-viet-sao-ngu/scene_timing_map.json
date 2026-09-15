@@ -1,0 +1,778 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Một nghịch lý âm thầm đang diễn ra trong các doanh nghiệp hiện đại.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chưa bao giờ ngôn từ được sản xuất nhanh và chuẩn ngữ pháp như hiện nay.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng cũng chưa bao giờ việc hiểu nhau lại trở nên xa xỉ đến thế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sự trơn tru nhân tạo đang tạo ra một dạng tiếng ồn mới.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đó là tiếng ồn của sự vô nghĩa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Năm hai nghìn hai mươi lăm, từ điển Merriam-Webster chọn slop làm từ của năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Từ này dùng để chỉ làn sóng nội dung AI chất lượng thấp đang làm nghẽn các hộp thư.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khi việc viết một văn bản dài chỉ mất vài giây, ngôn từ lập tức mất giá.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chúng ta đang bị bao vây bởi những email bóng bẩy nhưng không có thông tin.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sự lãng phí này có thể lượng hóa bằng những con số khổng lồ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Tại Mỹ, giao tiếp kém hiệu quả gây thiệt hại từ một phẩy hai đến hai nghìn tỷ đô la mỗi năm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Trên quy mô toàn cầu, sự thiếu gắn kết của nhân viên làm tiêu hao tám phẩy chín nghìn tỷ đô la.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Trong đó, bốn trăm ba mươi tám tỷ đô la bốc hơi trực tiếp do giao tiếp nội bộ yếu kém.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Đây là những tổn thất thực tế, ảnh hưởng trực tiếp đến hiệu quả của mọi tổ chức.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC015",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nguyên nhân cốt lõi đến từ cơ chế vận hành của trí tuệ nhân tạo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC016",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Các mô hình ngôn ngữ lớn hoạt động bằng cách dự đoán từ tiếp theo theo xác suất thống kê.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC017",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chúng học từ hàng triệu trang báo cáo cũ và email công sở mà con người đã viết.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC018",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "AI không hiểu nghĩa của những từ nó tạo ra.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC019",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nó chỉ nhân bản và khuếch đại sáo ngữ của quá khứ với tốc độ cực nhanh.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC020",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Hệ quả là một vòng lặp vô hồn trong giao tiếp văn phòng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC021",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Người gửi dùng AI để kéo dài báo cáo cho có vẻ chuyên nghiệp.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC022",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Người nhận lại dùng AI để tóm tắt văn bản đó thành vài dòng ngắn gọn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC023",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Cuối cùng, các thuật toán đang tự trò chuyện với nhau qua trung gian là con người.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC024",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Khi sự hoàn hảo ngôn từ trở nên miễn phí, nó không còn là thước đo năng lực chuyên môn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC025",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nó trở thành tín hiệu của sự lười biếng tư duy.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC026",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nhưng tại sao cỗ máy doanh nghiệp vẫn tiếp tục dung túng thứ ngôn ngữ rỗng tuếch này?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC027",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Sáo ngữ không đơn thuần là lỗi hành văn.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC028",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nó là một chiếc khiên tự vệ địa vị xã hội đắc lực.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC029",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Chúng ta sẽ bóc tách cơ chế tự vệ này ở các phần tiếp theo của tập phim.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC030",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Nếu muốn hiểu cách dòng thông tin vận hành phía sau các báo cáo, bạn hãy nhấn đăng ký kênh Góc Nhìn Podcast.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC031",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5,
+    "visual_summary": "Bây giờ, hãy nhìn thẳng vào cái giá cụ thể mà bạn đang phải trả mỗi ngày.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC032",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Tổn thất hàng nghìn tỷ đô la ở quy mô vĩ mô nghe có vẻ xa vời. Nhưng khi đi sâu vào từng doanh nghiệp, khoản thuế này trở thành một dòng chảy rò rỉ liên tục. Sự mơ hồ trong giao tiếp thường bị coi là một phiền toái nhỏ về mặt cảm xúc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC033",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Thực tế, nó đang trực tiếp cắt đi một phần lợi nhuận hữu hình của tổ chức.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC034",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Nghiên cứu của Kickresume chỉ ra tổn thất này tăng dần theo quy mô doanh nghiệp. Các doanh nghiệp lớn với mười nghìn nhân sự đang mất trung bình từ bốn mươi đến hơn sáu mươi triệu đô la mỗi năm. Ngay cả các doanh nghiệp tầm trung với một nghìn nhân viên cũng đứng trước rủi ro thất thoát khoảng sáu triệu đô la.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC035",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 12,
+    "visual_summary": "Với doanh nghiệp nhỏ dưới một trăm người, con số này vẫn là hơn năm trăm bốn mươi nghìn đô la hàng năm. Không một tổ chức nào có thể đứng ngoài sự rò rỉ âm thầm này.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC036",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Tại Anh Quốc, thiệt hại tích lũy của toàn nền kinh tế lên tới hai trăm năm mươi bảy tỷ Bảng mỗi năm. Khi dòng thông tin bị nghẽn, mọi quyết định vận hành đều phải trả phí phụ trội. Bốn trăm tập đoàn lớn nhất tại Mỹ và Anh mất hơn ba mươi bảy tỷ đô la mỗi năm chỉ vì rào cản truyền thông.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC037",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Một dự án bị hiểu sai hướng, một quyết định chậm trễ, tất cả đều quy đổi trực tiếp thành chi phí mặt bằng và nhân công.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC038",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Tuy nhiên, tổn thất lớn nhất của doanh nghiệp lại không nằm ở những giờ làm việc vô nghĩa. Nó nằm ở việc mất đi những nhân sự chất lượng nhất. Văn hóa giao tiếp mơ hồ và ngập tràn sáo ngữ luôn đi kèm với tỷ lệ nghỉ việc cao.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC039",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Theo Hiệp hội Quản trị Nhân sự Hoa Kỳ, chi phí để tuyển dụng và thay thế một nhân sự rất đắt đỏ. Nó dao động từ một trăm đến một trăm năm mươi phần trăm mức lương hàng năm của vị trí đó. Với các vai trò quản lý cấp cao, con số này có thể lên tới hai trăm phần trăm lương năm.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC040",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Người giỏi ra đi không phải vì họ không chịu được áp lực của công việc thực tế. Họ ra đi vì kiệt sức khi phải đối phó với một hệ thống giao tiếp sáo rỗng và thiếu minh bạch. Sự mơ hồ ngôn từ tạo ra một môi trường làm việc bất an cho những người làm thật.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC041",
+    "chapter": "02",
+    "sentence_count": 2,
+    "duration_sec": 13,
+    "visual_summary": "Trong khi đó, những kẻ nói rỗng lại dễ dàng ngụy trang địa vị bằng văn mẫu bóng bẩy. Cơ cấu này xua đuổi tài năng thực chất, và giữ lại những người chấp nhận sự ngu ngốc chức năng.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC042",
+    "chapter": "02",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Dòng tiền của doanh nghiệp bị tước đoạt để duy trì một sự đồng thuận giả tạo trên bề mặt. Nhưng đối với cá nhân bạn, thứ thuế này còn lấy đi những tài nguyên quý giá hơn thế nhiều. Khoản thuế đó đang trực tiếp rút cạn thời gian sống và cơ hội thăng tiến của chính bạn.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC043",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 15,
+    "visual_summary": "Thế giới công sở hiện đại đang vận hành một nghi thức dịch thuật vô hình. Nhân sự dành nhiều giờ đồng hồ không phải để tạo ra giá trị thực chất. Họ dùng thời gian để giải mã ý muốn ẩn sau những email bóng bẩy của đồng nghiệp.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC044",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6,
+    "visual_summary": "Sự trơn tru hình thức đã biến công việc thành một trò chơi đoán chữ kéo dài.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC045",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Các nhà kinh tế học hành vi coi đây là một khoản thuế thời gian đắt đỏ. Trung bình, một nhân viên văn phòng bị tước đi gần tám tiếng mỗi tuần chỉ để xử lý những thông tin mơ hồ. Con số này tương đương mười chín phần trăm thời lượng làm việc, tức gần một ngày công mỗi tuần.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC046",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Mỗi năm, sự lãng phí thầm lặng này tích tụ thành gần bốn trăm giờ làm việc vô nghĩa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC047",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Nếu quy đổi ra tiền mặt, khoản thuế này lấy đi của doanh nghiệp hơn mười hai nghìn đô la trên mỗi nhân sự hàng năm. Ở những vị trí chuyên gia phức tạp, thiệt hại thực tế dao động từ mười nghìn đến năm mươi lăm nghìn đô la. Đây là phần giá trị bị thiêu rụi trong lò lửa của sự trơn tru rỗng tuếch, thay vì được dùng để tăng lương.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC048",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Hơn một nửa số nhân sự thừa nhận họ mất từ ba mươi phút đến hai tiếng mỗi ngày chỉ để làm rõ các chỉ thị mập mờ. Họ phải đoán xem sếp thực sự muốn gì sau những câu chữ bóng bẩy của các bản thông báo. Hậu quả là gần ba mươi phần trăm người lao động trễ hạn chót vì giao tiếp kém hiệu quả.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC049",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Sáo ngữ cũng làm giảm niềm tin nội bộ một cách âm thầm. Những thuật ngữ quá phức tạp khiến não bộ mất nhiều công sức để xử lý. Khi đối mặt với thứ ngôn từ xa lạ có chủ ý, nhân viên bắt đầu nghi ngờ năng lực bản thân.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC050",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 9,
+    "visual_summary": "Họ trở nên e ngại phản biện và ít đặt câu hỏi hơn. Các phòng ban dần khép kín và hạn chế chia sẻ thông tin thực chất.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC051",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Áp lực này đè nặng nhất lên thế hệ lao động trẻ. Tám mươi lăm phần trăm nhân sự cấp thấp đánh giá sáo ngữ công sở mang lại tác động tiêu cực. Họ thấy rõ sự vô nghĩa của các cụm từ như tối ưu hóa sự phối hợp hay trì hoãn quyết định.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC052",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Nhưng vì ở thế yếu, họ chọn im lặng và dùng lại chính thứ ngôn ngữ đó để tự vệ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC053",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Nhiều người phải ở lại văn phòng muộn không phải vì khối lượng công việc quá tải. Họ tăng ca để sửa báo cáo cho đúng chuẩn văn mẫu, sao cho câu chữ trông an toàn nhất. Năng lượng làm việc thực tế bị lãng phí để duy trì một sự trôi chảy hình thức.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC054",
+    "chapter": "03",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Nghịch lý là, cả nhân viên lẫn quản lý đều nhận thức được sự lãng phí này. Nhưng cỗ máy công sở vẫn tiêu tốn hàng triệu giờ làm việc cho các câu chữ vô nghĩa. Bởi vì trong một hệ thống ưu tiên sự an toàn hơn hiệu suất, sáo ngữ là chiếc khiên bảo vệ địa vị đắc lực.",
+    "base_english_prompt": "An ordinary worker looking stressed as glowing data numbers evaporate from their wallet"
+  },
+  {
+    "id": "SC055",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Biệt ngữ phức tạp thường được mặc định là biểu hiện của một bộ óc uyên bác. Chúng ta có xu hướng tin rằng người nói những lời khó hiểu nhất là người thông minh nhất. Nhưng các nghiên cứu khoa học hành vi lại phơi bày một quỹ đạo hoàn toàn ngược lại.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC056",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Kẻ lo sợ về địa vị và năng lực thường có xu hướng trốn sau những thuật ngữ đao to búa lớn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC057",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Hiện tượng này được các nhà xã hội học gọi là sự bù đắp địa vị bằng ngôn từ. Nghiên cứu của nhóm tác giả Brown phân tích hơn tám nghìn hai trăm đề tài khoa học trong bảy năm. Trong môi trường học thuật có tính cạnh tranh cao, một mô hình lặp lại xuất hiện.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC058",
+    "chapter": "04",
+    "sentence_count": 2,
+    "duration_sec": 14,
+    "visual_summary": "Tác giả đến từ các trường đại học có danh tiếng thấp sử dụng nhiều biệt ngữ phức tạp hơn đáng kể. Khi không có một bệ đỡ thương hiệu đủ mạnh, họ dùng ngôn từ để tự thổi phồng vị thế của mình.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC059",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Cơ chế bù đắp này hoạt động như một phản xạ tự nhiên để bảo vệ bản thân. Hãy nhìn vào một thực nghiệm hành vi trên các sinh viên thạc sĩ quản trị kinh doanh. Khi tin rằng mình đang trình bày trước các nhà đầu tư dày dạn, nỗi sợ bị đánh giá thấp lập tức kích hoạt.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC060",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 9,
+    "visual_summary": "Tỷ lệ chọn biệt ngữ kinh doanh phức tạp ở nhóm này tăng vọt từ hai mươi chín phần trăm lên bốn mươi mốt phần trăm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC061",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 16,
+    "visual_summary": "Sáo ngữ lúc này đóng vai trò như một lớp ngụy trang nhận thức. Nó biến một ý tưởng đơn giản thành phức tạp để tránh những phản biện trực diện từ người nghe. Người thực sự tự tin thường chọn cách nói đơn giản nhất để đối phương thấu hiểu.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC062",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Kẻ bất an lại chọn cách diễn đạt rắc rối để người khác không thể phát hiện ra giới hạn của mình.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC063",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Tuy nhiên, ngôn ngữ nhóm hẹp không phải lúc nào cũng mang tính độc hại. Trong nội bộ một nhóm chuyên môn, sự đồng điệu ngôn từ giúp tăng tính kết nối giữa các thành viên. Nó hoạt động như một tín hiệu nhận diện đồng đội, giúp công việc phối hợp trôi chảy hơn.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC064",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Nhưng khi thứ ngôn ngữ này được mang ra ngoài để gác cổng nhận thức, nó trở thành công cụ loại trừ xã hội.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC065",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Ở cấp quản lý, sáo ngữ được triển khai như một chiến lược tu từ lảng tránh trách nhiệm giải trình. Để né tránh các câu hỏi về tiến độ, họ dùng ngôn từ để làm chệch hướng sự chú ý. Thất bại được mô tả là đang tối ưu hóa hoạt động, và quyết định chậm trễ được dán nhãn rà soát chiến lược.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC066",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Chiếc mặt nạ địa vị nay đã biến thành chiếc khiên chắn an toàn trước mọi lỗi lầm.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC067",
+    "chapter": "04",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Doanh nghiệp chấp nhận sự mập mờ này vì nó duy trì một trật tự bề ngoài ít tranh cãi. Nhưng ranh giới giữa việc giữ an toàn vị trí và sự tê liệt vận hành của cả tổ chức rất mong manh. Đó là lúc cỗ máy doanh nghiệp bước vào trạng thái vô thức tập thể nguy hiểm.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC068",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Sự đồng thuận dễ dàng trong các cuộc họp phòng ban thường không phải là dấu hiệu của hiệu suất cao. Khi mọi người gật đầu đồng ý trước một bản kế hoạch đầy thuật ngữ mơ hồ, họ đang ở trong trạng thái vô thức tập thể. Họ lựa chọn im lặng phản biện để kết thúc cuộc họp đúng giờ và tránh tranh luận.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC069",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Các nhà xã hội học gọi hiện tượng này là sự ngu ngốc chức năng của tổ chức. Đó là khi nhân sự chủ động từ bỏ năng lực tư duy phản biện để tập trung hoàn thành các nhiệm vụ hẹp được giao. Họ tránh đặt câu hỏi về ý nghĩa cốt lõi của công việc để đổi lấy sự yên ổn ngắn hạn.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC070",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Hệ thống khuyến khích sự im lặng này vì nó giúp duy trì sự đồng thuận bề nổi.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC071",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 21,
+    "visual_summary": "Tuy nhiên, quy trình chuẩn hóa và ngôn ngữ khuôn mẫu không hoàn toàn là chất độc của doanh nghiệp. Trong các môi trường sản xuất nặng hay y tế, giao tiếp thiếu chuẩn hóa gây ra bảy mươi lăm phần trăm sự trì trệ. Tại những nơi này, văn mẫu hoạt động như một chiếc lưới an toàn bảo vệ hệ thống khỏi những sai sót của con người.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC072",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 21,
+    "visual_summary": "Trong ngành hàng không, phi công và kỹ sư buộc phải sử dụng ngôn ngữ kỹ thuật được kiểm soát nghiêm ngặt. Tiêu chuẩn quốc tế ASD-STE100 áp đặt các cấu trúc ngữ pháp cứng nhắc và quy định mỗi từ chỉ được phép có duy nhất một nghĩa. Mục tiêu là đảm bảo không có bất kỳ sự mơ hồ hay hiểu lầm nào có thể dẫn đến tai họa.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC073",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Sự độc hại chỉ bắt đầu khi chúng ta xóa nhòa ranh giới giữa hai thế giới này. Chúng ta mang sự cứng nhắc của các quy trình lắp ráp cơ học để áp đặt lên các quyết định chiến lược cần sự linh hoạt. Khi buộc nhân sự phải báo cáo bằng những bộ khuôn mẫu xơ cứng, doanh nghiệp đang triệt tiêu năng lực phản biện.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC074",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Họ đổi lấy sự an toàn vị trí ngắn hạn bằng sự tê liệt nhận thức dài hạn của cả tổ chức.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC075",
+    "chapter": "05",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Sự dung túng cho cái bẫy ngu ngốc chức năng này giờ đây đã tìm thấy một đồng minh công nghệ mạnh mẽ. Trí tuệ nhân tạo tạo sinh đang công nghiệp hóa sáo ngữ với tốc độ và quy mô vượt xa con người. Nó biến sự trơn tru rỗng tuếch thành một dòng thác slop khổng lồ làm nghẽn mọi kênh giao tiếp.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC076",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Một văn bản do trí tuệ nhân tạo tạo ra luôn sở hữu một cấu trúc hoàn hảo và từ vựng mượt mà. Nhưng khi đọc kỹ, người xem sẽ nhận ra nó hoàn toàn trống rỗng và không chứa thông tin cụ thể nào. Dòng thác slop này hiện nay đang được tự động hóa ở quy mô công nghiệp để lấp đầy giao tiếp văn phòng.",
+    "base_english_prompt": "A high-tech electric vehicle driving on a modern futuristic highway"
+  },
+  {
+    "id": "SC077",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 21,
+    "visual_summary": "Trí tuệ nhân tạo tạo sinh hoạt động bằng cách tối ưu hóa xác suất thống kê để dự đoán từ tiếp theo. Nó kế thừa kho dữ liệu khổng lồ chứa hàng thập kỷ báo cáo và email sáo rỗng của giới doanh nghiệp. AI không tạo ra tri thức mới, nó chỉ nhân bản và khuếch đại sự rỗng tuếch có sẵn với tốc độ cực nhanh.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC078",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Tác hại của cỗ máy nhân bản này vượt xa những email phiền toái trong hộp thư của bạn. Thang đo CBSR công bố năm hai nghìn hai mươi sáu đã đo lường mức độ tiếp thu sáo ngữ doanh nghiệp. Kết quả cho thấy những người dễ bị ấn tượng bởi sáo ngữ công sở có tư duy phân tích và trí thông minh linh hoạt kém.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC079",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Họ đưa ra những quyết định tồi tệ hơn nhiều khi đối mặt với các tình huống thực tế tại nơi làm việc.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC080",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Chuyên gia an ninh mạng Marin Ivezic cảnh báo rằng AI đang tạo ra sáo ngữ cấp công nghiệp. Thứ ngôn từ bóng bẩy, tự tin này cực kỳ khó phát hiện đối với các nhà quản trị thiếu chuyên môn. Trong các lĩnh vực kỹ thuật phức tạp như bảo mật mạng hay chiến lược lượng tử, sự mơ hồ này là một hiểm họa thực tế.",
+    "base_english_prompt": "Ghost city of empty unfinished apartment buildings towering in dark shadows"
+  },
+  {
+    "id": "SC081",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Khi ban điều hành phân bổ ngân sách dựa trên những bài trình bày bóng bẩy nhưng rỗng nghĩa, rủi ro hệ thống tăng vọt.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC082",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 21,
+    "visual_summary": "Việc lạm dụng AI để soạn thảo báo cáo dẫn đến một sự chuyển giao nhận thức tự nguyện của con người. Chúng ta chỉ còn đóng vai trò kiểm tra lỗi chính tả của máy móc thay vì tự mình suy nghĩ độc lập. Xuất hiện một hiện tượng kỳ lạ là cả người viết lẫn người đọc đều giao phó ngôn ngữ cho cùng một thuật toán.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC083",
+    "chapter": "06",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Cuối cùng, năng lực tư duy độc lập của con người bị xói mòn sâu sắc trong trò chơi xác suất này.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC084",
+    "chapter": "06",
+    "sentence_count": 3,
+    "duration_sec": 22,
+    "visual_summary": "Khi sự hoàn hảo nhân tạo có thể được tạo ra dễ dàng và miễn phí, giá trị của sự mượt mà lập tức biến mất. Để nổi bật và giành được niềm tin thực sự, chúng ta buộc phải lựa chọn một quỹ đạo hoàn toàn ngược lại. Đó là giá trị của sự chân thật có tì vết, đến từ những trải nghiệm sống thực tế của chính chúng ta.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC085",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 18,
+    "visual_summary": "Sự chân thật có tì vết thường bị hiểu nhầm là một khái niệm lãng mạn vô hại. Nhưng nó đặt ra một câu hỏi thực tế là nếu sự mượt mà không còn giá trị, điều gì sẽ thay thế? Mọi bức thư ứng tuyển sao chép mẫu, mọi bài phát biểu bóng bẩy đều đang bị nghi ngờ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC086",
+    "chapter": "07",
+    "sentence_count": 2,
+    "duration_sec": 12,
+    "visual_summary": "Người nghe không còn cảm nhận được sự tôn trọng từ những câu chữ trơn tru đó nữa. Thay vào đó, họ nhìn thấy sự lười biếng và việc chuyển giao nhận thức cho thuật toán.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC087",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 17,
+    "visual_summary": "Trong một thế giới bão hòa bởi rác thông tin AI, sự tin cậy trở thành tài nguyên vô giá. Để giành được lòng tin, con người buộc phải tìm đến một chiến lược sinh tồn ngược lại. Các chuyên gia quản trị gọi đó là sức mạnh của sự chân thật có tì vết.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC088",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Đó là những câu chữ chứa đựng dấu ấn cá nhân, có phần thô ráp nhưng phản chiếu thực tế.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC089",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 20,
+    "visual_summary": "Đây không phải là một lý thuyết truyền thông, mà là nhu cầu thực tế của thế hệ lao động mới. Khảo sát của General Electric và Ipsos chỉ ra bốn mươi phần trăm nhân sự trẻ muốn nhận thông tin chân thực từ lãnh đạo. Họ không cần những thông cáo trơn tru được viết bởi các phòng ban quan hệ công chúng hay AI.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC090",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Họ cần sự trung thực, ngay cả khi nó đi kèm với những hạn chế thực tế của tổ chức.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC091",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Để giải phóng bản thân khỏi bẫy sáo ngữ, nguyên tắc cốt lõi của Paul Graham là viết như nói. Hãy diễn đạt các ý tưởng phức tạp bằng những từ ngữ bình dị nhất khi bạn trò chuyện với bạn bè. Nếu một câu chữ nghe quá trang trọng hoặc không giống giọng nói tự nhiên, hãy loại bỏ nó.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC092",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Sự trang trọng khuôn mẫu không còn là thước đo năng lực, nó là tấm màn che đậy sự thiếu tự tin.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC093",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Việc thanh lọc ngôn từ này không đơn thuần là câu chuyện sửa lỗi hành văn. Nhà văn George Orwell từng cảnh báo rằng ngôn ngữ cẩu thả và tư duy yếu kém tạo thành một vòng lặp nguy hại. Ngôn từ sáo rỗng khiến não bộ lười suy nghĩ, và tư duy lười biếng lại tiếp tục sản sinh câu chữ vô nghĩa.",
+    "base_english_prompt": "A dramatic red downward financial chart plunging into a dark void with glowing numbers"
+  },
+  {
+    "id": "SC094",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 7,
+    "visual_summary": "Khi bạn chấp nhận dùng văn mẫu của người khác, bạn tự nguyện nhường quyền tư duy cho họ.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC095",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Cuộc chiến chống lại sáo ngữ là cuộc chiến giành lại tự do nhận thức và quyền làm chủ thời gian. Mỗi khi bạn viết một câu rõ ràng và chân thực, bạn đang lấy lại thời lượng sống bị đánh cắp. Bạn đang khẳng định sự hiện diện của một trí tuệ con người thực sự giữa dòng thác slop nhân tạo.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC096",
+    "chapter": "07",
+    "sentence_count": 3,
+    "duration_sec": 19,
+    "visual_summary": "Sáng thứ Hai tới, bạn có thể lại đối diện với một email dài bóng bẩy của đối tác. Bạn có thể chọn dùng AI để tóm tắt nó lại trong vài giây để tiết kiệm thời gian. Nhưng câu hỏi thực sự còn lại là chúng ta sẽ tiếp tục đóng vai những người gác cổng thụ động cho thuật toán.",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC097",
+    "chapter": "07",
+    "sentence_count": 1,
+    "duration_sec": 8,
+    "visual_summary": "Hay sẽ dũng cảm dừng lại để bắt đầu một cuộc đối thoại chân thực bằng chính tiếng nói có tì vết của con người?",
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  }
+]

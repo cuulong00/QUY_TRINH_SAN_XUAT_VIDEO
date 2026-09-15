@@ -1,0 +1,74 @@
+<!--
+DOCUMENT PROVENANCE & EXECUTION LINEAGE:
+- Output Document: episodes/the-petrodollar-paradox/chapter_05_visual.md
+- Activated Persona: The Master Cinematic Visual Director (.agents/personas/the_visual_storyteller.md) & The Scene Architect (.agents/personas/the_scene_architect.md)
+- Activated Skill: visual-prompter (.agents/skills/visual_prompter/SKILL.md) & scene-timing-builder (.agents/skills/scene_timing_builder/SKILL.md)
+- Source Documents Consulted:
+  * episodes/the-petrodollar-paradox/chapter_05.md
+  * episodes/the-petrodollar-paradox/scene_timing_map.json
+  * episodes/the-petrodollar-paradox/visual_storyboard_blueprint.md
+  * episodes/the-petrodollar-paradox/ref_images/@us_navy_admiral.jpg
+- Execution Timestamp: 2026-09-10 13:15
+-->
+
+# Chapter 05 Visual Script — The Strait of Hormuz (The 21-Million-Barrel Asymmetry)
+
+Bản kịch bản phân đoạn thị giác 3 tầng giải phẫu cho Chương 5 (The Strait of Hormuz Climax Part 1), đồng bộ toán học 1-1 với 47 phân cảnh trong `scene_timing_map.json`.
+
+- **Vũ trụ Mỹ thuật:** Geopolitical Noir & Naval Geoeconomics.
+- **Bảng màu Sâu lắng & Sang trọng:** Deep Persian Gulf Teal-Slate (`#0F172A`, `#1E293B`), Industrial Dark Steel, Glowing Petroleum Amber (`#F59E0B`, `#C5A059`), Warm Ivory Cream (`#FAF7EE`), Luminous High-Clarity Editorial Lighting.
+- **Độ chuẩn xác Địa danh & Khí tài:** Nêu đích danh địa danh thực tế (Eo biển Hormuz, Bán đảo Musandam Oman, Đảo Larak Iran, Căn cứ Hải quân NSA Bahrain tại Juffair Manama, Mỏ đá phiến Permian Basin West Texas, Trạm hóa lỏng LNG Sabine Pass Louisiana, Tổ hợp lọc dầu Jamnagar Ấn Độ, Cảng Ninh Ba-Chu Sơn & Thanh Đảo Trung Quốc, Vịnh Tokyo Nhật Bản, Cụm hóa dầu Ulsan Hàn Quốc, Đường ống Đông-Tây Petroline Yanbu, Đường ống ADCOP cảng Fujairah) và trang thiết bị khí tài (Tàu sân bay hạt nhân USS Dwight D. Eisenhower CVN-69, Tiêm kích F/A-18 Super Hornet, Tàu khu trục tên lửa lớp Arleigh Burke, Radar mảng pha quét AN/SPY-1D, Siêu tàu chở dầu thô VLCC 2 triệu thùng, Cần nạp dầu áp lực cảng Ras Tanura).
+- **Tỷ lệ Typography:** 10/47 cảnh có chữ (21.3%), định vị góc dưới bên trái cách mép đáy 25%.
+- **Nhân vật Biểu tượng:** Đô đốc Tư lệnh Hạm đội 5 / NAVCENT tại Bahrain (`@us_navy_admiral.jpg`).
+
+---
+
+| Mã Scene | Thời Lượng | Câu Thoại Tiếng Anh Gốc | Bối Cảnh Vật Lý Đời Thường, Địa Danh & Khí Tài Chuẩn Xác | Text Overlay (Selective Lower-Left 25%) | Luồng Tạo Hình |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| **CH05_SC001** | 6.25s | In its 2022 National Defense Strategy, the Pentagon codified a doctrine known as Integrated Deterrence. | Phòng họp chiến lược tại Lầu Năm Góc ở Arlington (Virginia), bản báo cáo Chiến lược Quốc phòng 2022 bìa da đen dập nổi quốc huy vàng nằm trang trọng trên bàn gỗ lớn trước các sĩ quan tham mưu. | `INTEGRATED DETERRENCE (2022)` | **T2V** |
+| **CH05_SC002** | 5.83s | The core concept is clear. The United States must synchronize military capabilities, economic influence | Màn hình tác chiến đa miền (Multi-Domain Operations) hiển thị sự đồng bộ hóa giữa vệ tinh không gian, tàu sân bay trên đại dương, và mạng lưới ngân hàng Phố Wall. | `Không` | **T2V** |
+| **CH05_SC003** | 3.33s | and financial leverage across all domains of competition. | Trung tâm tình báo địa kinh tế Lầu Năm Góc kết hợp Bộ Tài chính Mỹ, hiển thị đòn bẩy tài chính và sức mạnh phong tỏa hải quân song hành. | `Không` | **T2V** |
+| **CH05_SC004** | 4.58s | When the coercive power of the financial system began to erode | Sự chuyển dịch từ các màn hình ngân hàng số bị né tránh sang mô hình thực địa các tuyến hàng hải ngoài đại dương. | `Không` | **T2V** |
+| **CH05_SC005** | 4.58s | this doctrine pivoted toward the physical arteries of the global economy. | Toàn cảnh vệ tinh chụp từ trên cao không gian Vịnh Ba Tư, các luồng tàu chở dầu rực sáng như những động mạch huyết mạch nuôi sống thế giới. | `Không` | **T2V** |
+| **CH05_SC006** | 5.83s | And no artery on earth carries more strategic weight than the Strait of Hormuz. | Cận cảnh eo biển Hormuz trên bản đồ hải quân chiến thuật, kẹp giữa bán đảo Musandam của Oman và bờ biển hiểm trở của Iran. | `THE STRAIT OF HORMUZ` | **T2V** |
+| **CH05_SC007** | 5.42s | Connecting the Persian Gulf to the Arabian Sea, this passage measures just twenty | Tư lệnh Hạm đội 5 Hải quân Mỹ tại Trung tâm Tác chiến Hải quân ở Bahrain nhìn ra mô hình hải đồ eo biển Hormuz nối Vịnh Ba Tư với Biển Ả Rập. | `Không` | **I2V** (`@us_navy_admiral.jpg`) |
+| **CH05_SC008** | 3.33s | one nautical miles across at its narrowest point. | Khoảng cách hẹp nghẹt thở 21 hải lý tại điểm nghẽn Hormuz giữa đảo Larak và bán đảo Musandam được đo bằng thước kẹp điện tử. | `21 NAUTICAL MILES WIDE` | **T2V** |
+| **CH05_SC009** | 5.0s | The actual shipping lanes in each direction are barely two miles wide. | Sơ đồ Phân luồng Hàng hải (TSS) tại Hormuz: Mỗi luồng tàu chạy vào và ra chỉ rộng vỏn vẹn 2 hải lý, kẹp giữa một vùng đệm ngăn cách hẹp. | `SHIPPING LANES: 2 MILES WIDE` | **T2V** |
+| **CH05_SC010** | 4.17s | Yet through this narrow channel flows between 20.5 and 21 | Đoàn siêu tàu chở dầu VLCC khổng lồ rẽ sóng nối đuôi nhau di chuyển qua eo biển dưới ánh nắng chói chang của Vùng Vịnh. | `Không` | **T2V** |
+| **CH05_SC011** | 4.58s | million barrels of crude oil and petroleum products every single day. | Bảng đo lưu lượng dầu khổng lồ tại trạm kiểm soát hàng hải Hormuz hiển thị con số 21 triệu thùng dầu mỗi ngày. | `21,000,000 BARRELS / DAY` | **T2V** |
+| **CH05_SC012** | 5.42s | That represents more than twenty percent of all liquid petroleum consumed on earth | Biểu đồ phân bổ năng lượng toàn cầu: Hơn 20% tổng lượng dầu mỏ tiêu thụ trên toàn thế giới phụ thuộc vào chiếc van thở Hormuz. | `> 20% OF GLOBAL OIL` | **T2V** |
+| **CH05_SC013** | 3.75s | and nearly thirty percent of all seaborne traded oil. | Bến cảng bốc dỡ dầu biển quốc tế, minh họa tỷ trọng gần 30% dầu thương mại đường biển toàn cầu đi qua nút thắt này. | `~30% OF SEABORNE OIL` | **T2V** |
+| **CH05_SC014** | 6.67s | For half a century, the United States Fifth Fleet, headquartered in Bahrain, has patrolled these waters. | Căn cứ Hỗ trợ Hải quân Mỹ tại Bahrain (NSA Bahrain, Juffair), cờ Hải quân Mỹ tung bay trước các tàu chiến và tàu tuần tra ven biển neo đậu tại quân cảng. | `Không` | **T2V** |
+| **CH05_SC015** | 5.0s | Carrier strike groups and guided-missile destroyers maintain continuous surveillance over commercial tankers. | Tàu sân bay hạt nhân lớp Nimitz và tàu khu trục tên lửa lớp Arleigh Burke dẫn đầu đội tàu tuần tra song hành cùng các tàu chở dầu thương mại. | `Không` | **T2V** |
+| **CH05_SC016** | 5.0s | On the surface, this appears to be a mission of national security. | Đài chỉ huy tàu chiến Hải quân Mỹ, sĩ quan hải quân nhìn qua ống nhòm hướng ra eo biển Hormuz, toát lên vẻ trang nghiêm bảo vệ an ninh quốc gia. | `Không` | **T2V** |
+| **CH05_SC017** | 5.42s | But when you examine trade data from the United States Energy Information Administration | Trụ sở Cơ quan Thông tin Năng lượng Mỹ (EIA) tại Washington D.C., báo cáo thống kê dòng chảy dầu mỏ toàn cầu mở sẵn trên bàn nghiên cứu. | `Không` | **T2V** |
+| **CH05_SC018** | 6.67s | an astonishing geopolitical asymmetry emerges. The United States barely consumes oil from the Persian Gulf anymore. | Sự bất đối xứng địa kinh tế gây sửng sốt: Biểu đồ năng lượng cho thấy dòng dầu Vùng Vịnh nhập về Mỹ đã thu hẹp xuống mức tối thiểu. | `THE ENERGY ASYMMETRY` | **T2V** |
+| **CH05_SC019** | 5.42s | Driven by the domestic shale revolution, America has become a net energy exporter. | Cánh đồng dầu đá phiến lưu vực Permian tại Tây Texas, hàng loạt giàn khoan hiện đại và cụm van khai thác dầu đá phiến hoạt động tấp nập dưới trời xanh. | `Không` | **T2V** |
+| **CH05_SC020** | 6.67s | United States crude imports from Gulf producers have fallen below five hundred thousand barrels per day. | Đồ thị thanh khoản cho thấy nhập khẩu dầu từ Vịnh Ba Tư vào Mỹ giảm sâu dưới 500.000 thùng/ngày, chỉ chiếm tỷ lệ không đáng kể. | `US GULF IMPORTS: < 500K BPD` | **T2V** |
+| **CH05_SC021** | 4.17s | So where does the oil flowing through Hormuz actually go? | Bản đồ hàng hải quốc tế với các dấu chấm hỏi màu vàng đặt tại ngã rẽ lối ra của eo biển Hormuz tiến ra Ấn Độ Dương. | `Không` | **T2V** |
+| **CH05_SC022** | 3.75s | Over eighty-two percent of it moves eastward toward Asia. | Mũi tên đồ họa khổng lồ màu vàng hổ phách chỉ hướng đông: Hơn 82% tổng lượng dầu Hormuz chảy thẳng về các nền kinh tế châu Á. | `82% FLOWS TO ASIA` | **T2V** |
+| **CH05_SC023** | 5.0s | It powers the industrial economies of China, India, Japan, and South Korea. | Bức tranh ghép 4 trung tâm công nghiệp châu Á: Nhà máy luyện kim Thượng Hải, tổ hợp lọc dầu Jamnagar (Ấn Độ), cảng Tokyo và nhà máy đóng tàu Ulsan (Hàn Quốc). | `Không` | **T2V** |
+| **CH05_SC024** | 6.67s | China alone imports several million barrels of Middle Eastern crude through this waterway every single day. | Tư lệnh Hạm đội 5 trên đài chỉ huy quan sát đoàn tàu dầu hướng về Trung Quốc; cảng Ninh Ba tiếp nhận hàng triệu thùng dầu mỗi ngày. | `Không` | **I2V** (`@us_navy_admiral.jpg`) |
+| **CH05_SC025** | 5.0s | Why would the United States Navy spend hundreds of millions of dollars | Tàu sân bay Mỹ đang tiếp dầu và đạn dược trên biển, biểu thị chi phí vận hành khổng lồ hàng trăm triệu đô-la mỗi năm của người đóng thuế Mỹ. | `Không` | **T2V** |
+| **CH05_SC026** | 5.0s | each year safeguarding the energy lifeline of China and other Asian competitors? | Nghịch lý địa chính trị: Tàu chiến Mỹ tuần tra bảo vệ an toàn cho tàu dầu của chính các đối thủ cạnh tranh chiến lược ở châu Á. | `Không` | **T2V** |
+| **CH05_SC027** | 4.17s | The answer lies in the total absence of physical alternatives. | Bản đồ địa hình bán đảo Ả Rập cho thấy sự khan hiếm cùng cực của các tuyến đường ống dẫn dầu trên bộ thay thế được đường biển. | `Không` | **T2V** |
+| **CH05_SC028** | 2.92s | Major energy exporters have constructed bypass pipelines | Đường ống dẫn dầu bằng thép công nghiệp khổng lồ đường kính 56-inch chạy song song qua các cồn cát sa mạc Ả Rập. | `Không` | **T2V** |
+| **CH05_SC029** | 5.42s | such as Saudi Arabia's East-West Petroline and the Abu Dhabi Crude Oil Pipeline. | Hệ thống đường ống Đông-Tây Petroline tới cảng Yanbu và đường ống ADCOP tới cảng Fujairah bên ngoài eo biển Hormuz. | `BYPASS PIPELINES (PETROLINE & ADCOP)` | **T2V** |
+| **CH05_SC030** | 6.67s | But these overland routes have a combined capacity of less than four million barrels per day. | Biểu đồ so sánh năng lực: Đường ống chỉ tải tối đa 3.5 - 4 triệu thùng/ngày, hoàn toàn bất lực trước quy mô 21 triệu thùng của Hormuz. | `BYPASS CAPACITY: < 4M BPD` | **T2V** |
+| **CH05_SC031** | 2.92s | If the Strait of Hormuz were closed | Kịch bản mô phỏng eo biển Hormuz bị phong tỏa hoàn toàn: Cửa biển bị chặn bởi phao tiêu đỏ cảnh báo và thủy lôi nổi. | `Không` | **T2V** |
+| **CH05_SC032** | 5.83s | seventeen million barrels of oil per day would be completely stranded inside the Gulf. | Hàng trăm siêu tàu chở dầu neo đậu bất động mắc kẹt trong Vịnh Ba Tư, 17 triệu thùng dầu mỗi ngày bị cô lập hoàn toàn. | `17M BPD STRANDED DEFICIT` | **T2V** |
+| **CH05_SC033** | 4.17s | That deficit amounts to nearly one-fifth of global oil consumption. | Biểu đồ cán cân năng lượng thế giới bị thủng một khoảng trống khổng lồ tương đương 1/5 lượng tiêu thụ dầu toàn cầu. | `Không` | **T2V** |
+| **CH05_SC034** | 5.42s | It would trigger an immediate supply shock that no strategic reserve could absorb. | Sàn giao dịch dầu mỏ quốc tế hỗn loạn, giá dầu Brent vọt đứng thẳng đứng, các kho dự trữ xăng dầu chiến lược bất lực. | `Không` | **T2V** |
+| **CH05_SC035** | 5.83s | The United States does not patrol Hormuz to protect American consumers at the pump. | Một cây xăng ngoại ô Mỹ bình yên vào buổi sáng, tương phản hoàn toàn với mục đích thực sự của hạm đội tàu sân bay ở Trung Đông. | `Không` | **T2V** |
+| **CH05_SC036** | 3.75s | It patrols Hormuz because controlling that waterway gives Washington | Phòng tình huống Nhà Trắng, các nhà hoạch định chính sách cấp cao nhìn vào màn hình hải đồ Hormuz như một đòn bẩy quyền lực tối thượng. | `Không` | **T2V** |
+| **CH05_SC037** | 3.75s | sovereign leverage over the entire manufacturing heartland of Eurasia. | Bản đồ lục địa Á - Âu: Tuyến cung cấp năng lượng từ Vùng Vịnh kiểm soát van thở của toàn bộ các nhà máy sản xuất khổng lồ ở Á-Âu. | `Không` | **T2V** |
+| **CH05_SC038** | 3.33s | By guaranteeing the security of Gulf maritime transit | Tàu khu trục Hải quân Mỹ lướt đi oai phong trên luồng hàng hải quốc tế, bảo đảm an toàn cho các đoàn tàu hàng. | `Không` | **T2V** |
+| **CH05_SC039** | 4.58s | Washington preserves its role as the ultimate gatekeeper of global trade. | Hình ảnh mang tính biểu tượng: Washington nắm giữ chiếc chìa khóa vàng kiểm soát cánh cổng van năng lượng của nền thương mại thế giới. | `Không` | **T2V** |
+| **CH05_SC040** | 4.17s | In exchange for keeping the world's primary energy valve open | Chiếc van kim loại công nghiệp đồ sộ kiểm soát dòng chảy dầu tại trạm bơm trung chuyển cảng Ras Tanura đang mở rộng. | `Không` | **T2V** |
+| **CH05_SC041** | 6.67s | Washington demands that the oil flowing through it continues to be invoiced in United States dollars. | Hợp đồng giao dịch dầu mỏ quốc tế với điều khoản bắt buộc thanh toán bằng USD, đóng dấu đỏ của Bộ Tài chính Mỹ. | `DOLLAR INVOICING MANDATE` | **T2V** |
+| **CH05_SC042** | 3.33s | Control of Hormuz is not an energy policy. | Khung cảnh tháp pháo tàu chiến rẽ sóng qua làn sương sớm tại Hormuz, khẳng định bản chất vượt xa chính sách năng lượng thông thường. | `Không` | **T2V** |
+| **CH05_SC043** | 6.67s | It is the physical enforcement mechanism that protects the sovereign debt machine of the United States. | Bức tranh hòa quyện đỉnh cao: Thân thép tàu chiến Hải quân Mỹ nâng đỡ cỗ máy Trái phiếu Kho bạc và nợ công $40 nghìn tỷ của Washington. | `THE PHYSICAL ENFORCEMENT MACHINE` | **T2V** |
+| **CH05_SC044** | 3.75s | Yet once that energy successfully navigates the Persian Gulf | Tàu chở dầu rời khỏi vùng nước Hormuz, rẽ sóng tiến vào vùng biển rộng lớn của Biển Ả Rập. | `Không` | **T2V** |
+| **CH05_SC045** | 5.83s | it must cross the Indian Ocean and enter a second, even narrower maritime bottleneck. | Hải trình vượt Ấn Độ Dương tiến về eo biển Malacca ở Đông Nam Á, nút thắt thứ hai thậm chí còn chật chội và hiểm hóc hơn. | `Không` | **T2V** |
+| **CH05_SC046** | 3.75s | And it is there that the physical limits of | Hình ảnh tàu chiến Mỹ neo đơn giữa biển đêm mù sương, dự báo những giới hạn vật lý khắc nghiệt đang chờ đợi phía trước. | `Không` | **T2V** |
+| **CH05_SC047** | 3.75s | American naval power are being tested like never before. | Hệ thống radar cảnh giới quét liên tục trên đài chỉ huy, chuẩn bị cho bài kiểm tra khắc nghiệt nhất của sức mạnh hải quân tại eo biển Malacca. | `Không` | **T2V** |

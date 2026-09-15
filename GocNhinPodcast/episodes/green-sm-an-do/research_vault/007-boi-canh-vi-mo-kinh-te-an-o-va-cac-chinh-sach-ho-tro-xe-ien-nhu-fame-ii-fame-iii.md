@@ -1,0 +1,175 @@
+---
+title: "Bối cảnh vĩ mô kinh tế Ấn Độ và các chính sách hỗ trợ xe điện (như FAME-II, FAME-III, PLI) ảnh hưởng trực tiếp đến GSM và VinFast như thế nào? Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-08T14:06:03.475Z
+notebook_url: "https://notebooklm.google.com/notebook/77f7625f-786b-4055-8bb0-972ad7bb24d2"
+session_id: "523126c6"
+citations_count: 16
+sources:
+  - "India's New EV Policy Introduces Conditional Import Duty Reduction; Set To Benefit Tesla, Vinfast - carandbike"
+  - "India's new EV policy to help launch many eco-friendly premium-quality SUVs: VinFast Auto"
+  - "Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar"
+  - "The Vingroup-VinFast Industrial Loop: A Strategic Analysis of GSM’s Sovereign Entry into India’s EV Shared Mobility Sector"
+  - "Tamil Nadu EV Policy - What are the 10 important incentives? - saspartners"
+  - "Tamil Nadu EV Policy: Discover Subsidies, Tax Waivers, and Incentives - Revolt Motors"
+---
+
+# Bối cảnh vĩ mô kinh tế Ấn Độ và các chính sách hỗ trợ xe điện (như FAME-II, FAME-III, PLI) ảnh hưởng trực tiếp đến GSM và VinFast như thế nào? Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-08T14:06:03.475Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/77f7625f-786b-4055-8bb0-972ad7bb24d2)
+
+## Answer
+
+Báo cáo Phân tích: Tác động của Bối cảnh Vĩ mô và Chính sách Xe điện Ấn Độ đối với VinFast và GSM (2024 - 2026)
+Môi trường vĩ mô và các chính sách hỗ trợ xe điện (EV) tại Ấn Độ đóng vai trò là "bệ phóng" mang tính sống còn đối với chiến lược thâm nhập và mở rộng của hệ sinh thái Vingroup (VinFast, V-Green, và GSM). Chính phủ liên bang và các bang tại Ấn Độ đã thiết lập một hệ thống ưu đãi kép, tác động trực tiếp đến cả chuỗi cung ứng (sản xuất) và lực cầu (vận hành thương mại).
+1. Chính sách Xe điện Quốc gia Mới (Ban hành tháng 3/2024)
+Chính sách này được thiết kế để biến Ấn Độ thành trung tâm sản xuất EV toàn cầu, tác động trực tiếp đến chiến lược định giá và ra mắt sản phẩm của VinFast:
+Giảm thuế nhập khẩu đột phá: Chính phủ Ấn Độ đã hạ mức thuế nhập khẩu đối với ô tô điện nguyên chiếc (CBU) có giá trị CIF từ 35.000 USD trở lên từ mức 70-100% xuống chỉ còn 15% trong vòng 5 năm
+1
+2
+.
+Điều kiện ràng buộc (Hoàn toàn khớp với VinFast): Để hưởng mức thuế này, nhà sản xuất phải cam kết đầu tư tối thiểu 500 triệu USD, thiết lập nhà máy nội địa trong vòng 3 năm và đạt tỷ lệ nội địa hóa (DVA) 25% vào năm thứ 3 và 50% vào năm thứ 5
+1
+3
+. VinFast đã đáp ứng xuất sắc điều kiện này khi cam kết đầu tư 500 triệu USD cho giai đoạn 1 nhà máy tại Thoothukudi (Tamil Nadu)
+4
+5
+.
+Tác động: VinFast được phép nhập khẩu tối đa 40.000 xe EV (tương đương 8.000 xe/năm) với mức thuế thấp
+3
+. Điều này cho phép VinFast đưa các dòng SUV cao cấp vào Ấn Độ với giá cạnh tranh ngay cả khi nhà máy nội địa chưa đạt công suất tối đa, giúp GSM có nguồn cung xe chất lượng cao tức thì để triển khai dịch vụ taxi.
+2. Lực đẩy khổng lồ từ Chính sách Xe điện Bang Tamil Nadu (2023 - Cập nhật 2026)
+Việc VinFast chọn Tamil Nadu làm "đại bản doanh" sản xuất giúp toàn bộ vòng lặp công nghiệp Vingroup hưởng lợi tối đa từ các chính sách trợ cấp sâu rộng nhất Ấn Độ:
+Tác động Phía Cung (Supply-Side) đối với VinFast:
+Hoàn thuế và Trợ cấp vốn: VinFast được hoàn 100% thuế SGST (Thuế Hàng hóa và Dịch vụ cấp bang) cho xe sản xuất và bán trong bang lên đến 15 năm
+6
+7
+. Đồng thời, hãng nhận được trợ cấp vốn 15% - 20% cho đầu tư tài sản cố định vào sản xuất xe và pin
+6
+7
+.
+Tối ưu hóa Chi phí Vận hành (OPEX) nhà máy: Miễn 100% thuế điện cho các cơ sở sản xuất trong 5 năm, trợ cấp 10 - 50% chi phí đất đai
+. Doanh nghiệp còn được nhận hỗ trợ việc làm với mức hoàn trả quỹ hưu trí (EPF) lên tới 48.000 Rupee cho mỗi nhân sự mới trong năm đầu
+10
+11
+.
+Tác động Phía Cầu (Demand-Side) đối với GSM (Green SM Limo):
+Miễn 100% Thuế Đường bộ (Gia hạn đến 2027): Đây là bản cập nhật quan trọng nhất trong năm 2026. Tamil Nadu đã chính thức gia hạn việc miễn 100% thuế đường bộ cho tất cả xe điện (cả xe cá nhân và xe thương mại) đến hết ngày 31 tháng 12 năm 2027
+. Điều này giúp GSM tiết kiệm từ 10-15% giá trị xe so với việc mua xe động cơ đốt trong (ICE)
+15
+16
+.
+Trợ cấp Tiền mặt Trực tiếp cho Taxi Điện: Khác với người mua cá nhân, GSM (vận hành đội xe biển số vàng thương mại) đủ điều kiện nhận trợ cấp tiền mặt trực tiếp. Đối với dòng xe 4 bánh thương mại (như VinFast VF MPV 7), GSM có thể nhận khoản trợ cấp 10.000 Rupee/kWh, tối đa lên tới 150.000 Rupee/xe (áp dụng cho 3.000 xe đầu tiên)
+17
+. Khoản tiền này giúp GSM giảm mạnh chi phí đầu tư (CAPEX) khi xây dựng hạm đội mục tiêu 10.000 chiếc
+18
+.
+3. Chương trình PM E-DRIVE và Tác động Hạ tầng (2026)
+Chương trình PM E-DRIVE (thay thế/tiếp nối cho các khuôn khổ FAME trước đây) định hình lại cách chính phủ trung ương phân bổ trợ cấp:
+Cắt giảm với xe cá nhân, tập trung vào thương mại và hạ tầng: Đáng chú ý, PM E-DRIVE hiện không trợ cấp tiền mặt cho xe ô tô điện cá nhân
+19
+. Tuy nhiên, xe 2 bánh, 3 bánh thương mại và hệ thống hạ tầng sạc lại được hưởng lợi lớn
+20
+.
+Hỗ trợ mạng lưới sạc V-Green: Các chính sách khuyến khích từ trung ương và bang (như trợ cấp 25% vốn lên tới 2 lakh Rupee cho 200 trạm đổi pin/sạc nhanh đầu tiên tại Tamil Nadu) tạo điều kiện vô cùng thuận lợi cho liên minh hạ tầng sạc V-Green và ChargeZone
+6
+. Việc mở rộng trạm sạc nhanh 60 kW DC giúp đội xe GSM giải quyết bài toán thời gian sạc (downtime), tối ưu hoá doanh thu chạy xe hàng ngày.
+Bảng Tóm tắt Tương quan Chính sách và Tác động Thực tế (2024 - 2026)
+Tên Chính sách / Cấp độ
+Cốt lõi của Chính sách
+Tác động Trực tiếp đến VinFast & GSM
+India's New EV Policy (Quốc gia - 2024)
+Cắt giảm thuế nhập khẩu xe CBU xuống 15% trong 5 năm với hạn ngạch 8.000 xe/năm
+1
+3
+.
+VinFast nhập khẩu xe nguyên chiếc giá rẻ trong giai đoạn đầu xây nhà máy; GSM có ngay nguồn xe chất lượng triển khai dịch vụ gọi xe.
+PM E-DRIVE Scheme (Quốc gia - Cập nhật 2026)
+Dừng trợ cấp xe con cá nhân; dồn lực cho xe thương mại nhẹ và hạ tầng trạm sạc
+19
+20
+.
+GSM và V-Green tận dụng các ưu đãi để đẩy nhanh việc xây dựng mạng lưới trạm sạc nhanh dùng chung trên toàn quốc.
+TN EV Policy: Trợ cấp Phía Cung (Bang - 2023/2026)
+Hoàn SGST 15 năm; trợ cấp vốn 15-20%; miễn thuế điện, giảm giá đất
+6
+.
+Giúp VinFast sản xuất xe với giá thành rẻ (chi phí OPEX và CAPEX nhà máy giảm sâu), tạo nguồn cung rẻ cho GSM mua sỉ
+6
+7
+.
+TN EV Policy: Trợ cấp Phía Cầu (Bang - Cập nhật 2026)
+Miễn 100% thuế đường bộ & trước bạ đến hết 2027; trợ cấp tiền mặt 1,5 Lakh/xe thương mại
+12
+17
+.
+GSM tiết kiệm hàng chục triệu USD khi xây dựng đội xe thương mại; tạo lợi thế biên lợi nhuận để duy trì giá cước siêu rẻ 8 Rupee/km
+12
+17
+.
+
+## Sources
+
+### [1] India's New EV Policy Introduces Conditional Import Duty Reduction; Set To Benefit Tesla, Vinfast - carandbike
+
+> In a decision that is likely to lure big names from the global electric vehicle (EV) industry to the country, the Indian government has announced a condition reduction in import duty on EVs. Under a new e-vehicle policy, the government will slash import duty from 100 per cent to just 15 per cent for imported electric vehicles with a cost, insurance, and freight (CIF) value of USD 35,000 (Rs 29 lakh) and above, provided their respective manufacturers commit to making a minimum investment of USD 500 million (approx. Rs 4,150 crore) to set up local manufacturing within a three-year period.
+
+### [2] India's new EV policy to help launch many eco-friendly premium-quality SUVs: VinFast Auto
+
+> The companies that would set up manufacturing facilities for EV passenger cars will be allowed to import a limited number of cars at lower customs/import duty of 15 per cent on vehicles costing USD 35,000 and above for five years from the date of issuance of the approval letter by the government. At present, cars imported as completely built units attract customs duty ranging from 70-100 per cent, depending on the engine size and cost, insurance and freight value less or above USD 40,000. The policy seeks to promote India as a manufacturing destination for EVs and attract investment from reputed global EV manufacturers.
+
+### [3] India's New EV Policy Introduces Conditional Import Duty Reduction; Set To Benefit Tesla, Vinfast - carandbike
+
+> Also Read: Tesla India Plant Could Be Set Up In Gujarat - Report As per the policy, EV manufacturers are mandated to establish production facilities within three years and commence commercial production of electric vehicles in the country. Additionally, they must achieve a domestic value addition (DVA) of 25 per cent by the third year and of at least 50 per cent within five years. The reduction in import duty will help Tesla price its imported products competitively. During this period, the government will permit the import of a maximum of 40,000 EVs at the lowered import duty, roughly amounting to 8,000 EVs a year, with the carrying-over of unutilised annual import limits being allowed, provided a manufacturer's total investment amounts to USD 800 million (Rs 6,629 crore) or more. The total duty waived off for imported EVs will be limited to the investment made by its manufacturer, or Rs 6,484 crore (equal to incentives offered under the PLI scheme) whichever is lower. Companies failing to meet the prescribed DVA and investment criteria will face invocation of bank guarantees.
+
+### [4] India's New EV Policy Introduces Conditional Import Duty Reduction; Set To Benefit Tesla, Vinfast - carandbike
+
+> Also Read: VinFast Breaks Ground On EV Manufacturing Facility In India This move is set to pave the way for Tesla's India entry, with the EV giant having lobbied hard for a drop in duty on imported EVs before formalising its India plans. All of its offerings – including the Model 3, Model S, Model X, Model Y and the Cybertruck – cost well over USD 30,000. Tesla is reportedly working on a more affordable EV, dubbed 'Project Redwood', which could eventually be produced in India. The announcement is also likely to benefit Vietnam's Vinfast Auto, which recently inked an MoU with the Tamil Nadu government and broke ground at its upcoming EV manufacturing facility in Thoothukudi, which will have an annual capacity of 150,000 units.
+
+### [5] India's new EV policy to help launch many eco-friendly premium-quality SUVs: VinFast Auto
+
+> Advt "This forward-looking policy helps us introduce a wide variety of smart, green, premium-quality SUVs, at inclusive prices, along with outstanding aftersales policies," he added. Chau further said, "With a long-term growth commitment in India, we have pledged an expenditure of USD 500 million, which includes the electric vehicle manufacturing facility in Tamil Nadu." In February this year, VinFast -- a major competitor to American EV had stated that it would invest INR 4,000 crore over the next five years in the initial phase, which will generate 3,500 jobs in the Tuticorin region.
+
+### [6] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> Meanwhile, traditional manufacturing hubs like Coimbatore and Tiruppur are seeing their robust MSME sectors push for government support to transition from producing agricultural pumps to manufacturing advanced EV electric motors . By bringing production local, the state policy naturally drops vehicle costs over time due to localized supply chains and reduced import duties. The policy offers massive incentives to the companies building the vehicles: Capital Subsidy: A 15% subsidy on eligible investments for EV and battery component manufacturers setting up shop in the state. SGST Reimbursement: 100% reimbursement of State Goods and Services Tax (SGST) on EVs manufactured and sold within the state for up to 15 years. Electricity Tax Exemption: A 100% exemption on electricity tax for manufacturing plants, significantly lowering operational overhead. Battery Swapping Infrastructure: A 25% capital subsidy (up to ₹2 lakh) for businesses setting up the first 200 public battery swapping stations, solving downtime issues for commercial delivery fleets.
+
+### [7] The Vingroup-VinFast Industrial Loop: A Strategic Analysis of GSM’s Sovereign Entry into India’s EV Shared Mobility Sector
+
+> -------------------------------------------------------------------------------- Tamil Nadu as the Industrial Anchor The foundation of GSM’s long-term cost competitiveness and fleet vehicle supply in India is VinFast’s manufacturing facility in Thoothukudi, Tamil Nadu.[11, 13, 32] VinFast has committed a total of $2 billion to its Indian operations, with an initial $500 million allocated to the first phase of the Thoothukudi facility over five years.[11, 33, 34] The facility broke ground on February 25, 2024, spanning a 400-acre site in the State Industries Promotion Corporation of Tamil Nadu (SIPCOT) industrial estate.[33] On August 5, 2025, VinFast officially inaugurated the assembly plant, subsequently rolling out its 10,000th vehicle in less than a year of active production.[32, 35] The plant features integrated body, paint, and assembly shops, alongside a quality control center and logistics hub.[32] It has an initial production capacity of 50,000 units annually, scalable to 150,000 units.[32, 35]
+
+### [10] Tamil Nadu EV Policy - What are the 10 important incentives? - saspartners
+
+> For private land in “C” districts, a 50% subsidy will be offered on the cost of land as per guideline value up to an extent of 50 acres and subject to land cost not exceeding 20% of EFA and a cap of Rs. 2 cr. provided that at least 70% of the land is used for manufacturing operations. In case the investor chooses to avail of the land cost subsidy, the land will be excluded from Eligible Fixed Assets for the purpose of the Investment Promotion Subsidy. Employment Incentive Projects will be provided with an employment incentive in the form of the reimbursement of the employer's contribution to the EPF for all new jobs created during the policy period. This incentive shall be paid for a period of one year and shall not exceed Rs.48,000 per employee for residents of Tamil Nadu.
+
+### [11] Tamil Nadu EV Policy: Discover Subsidies, Tax Waivers, and Incentives - Revolt Motors
+
+> Land Subsidy and Employment Incentive Land cost subsidy (15% or even 50% in southern districts) when land is allotted from government agencies, and a fixed EPF/employee-based incentive (e.g., ~INR 48,000 per employee for one year) for jobs generated by EV investment entities. EV Parks & MSME Support Exclusive EV parks with common facilities; additional capital subsidy for MSME manufacturers (e-vehicle component or charging infrastructure). Demand-Side Incentives: For Users and Fleets What's Offered to Buyers & Shared Mobility
+
+### [12] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> The state's approach is designed around heavy tax cuts for personal vehicles rather than handing out upfront cash. Private buyers receive hefty tax waivers that directly slash thousands of rupees off the purchase price. Commercial operators, fleet owners, and logistics companies, on the other hand, do qualify for direct cash payouts per vehicle. This comprehensive guide breaks down exactly how the Tamil Nadu Electric Vehicle Subsidy framework functions in the real world. Critical 2026 Update: The Government of Tamil Nadu has officially extended the 100% Road Tax Exemption for all battery-operated electric vehicles (both transport and non-transport) for two more years, valid until December 31, 2027.
+
+### [15] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> Standard internal combustion engine (ICE) road tax in the state usually ranges from 10% to 15% of the vehicle's ex-showroom price. Removing this entirely results in massive upfront savings at the time of invoicing. Free Registration & GST Benefits Alongside the road tax waiver, private buyers receive a 100% exemption on registration fees for all battery electric vehicles (BEVs). This lets you skip standard Regional Transport Office (RTO) charges entirely. Furthermore, the national GST structure heavily favors electric mobility. The GST on electric vehicles is set at a flat 5%. In stark contrast, traditional ICE vehicles face a steep 28% GST, often compounded with additional luxury or engine-capacity cesses.
+
+### [16] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> When you combine the low GST with zero road tax and zero registration fees, the “on-road” price of an EV sits much closer to its “ex-showroom” price than any petrol counterpart. How Much Do Private Buyers Actually Save Upfront? To put these percentages into perspective, let's look at the actual cash savings when buying different vehicle classes in Tamil Nadu. Vehicle Type Ex-Showroom Price Approx. ICE Road Tax (10-15%) EV Road Tax Your Upfront Saving Premium Electric Scooter ₹1,50,000 ₹12,000 – ₹15,000 ₹0 ₹12,000+ Electric Car (Mid-range) ₹15,00,000 ₹1,50,000 – ₹2,25,000 ₹0 ₹1.5L – ₹2.25L Luxury Electric SUV ₹40,00,000 ₹6,00,000 ₹0 ₹6.0L
+
+### [17] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> These cash payouts are capped and apply exclusively to commercial transport vehicles. You can easily identify these vehicles on the road as they feature yellow number plates. Commercial Vehicle Type Subsidy Rate Maximum Subsidy Quota (Vehicles per year) Commercial E-2W (Delivery) ₹10,000/kWh Up to ₹30,000 First 6,000 Commercial E-3W (Autos/Load) ₹10,000/kWh Up to ₹40,000 First 15,000 Commercial E-4W (Cabs/Taxis) ₹10,000/kWh Up to ₹1,50,000 First 3,000 Electric Buses ₹20,000/kWh Up to ₹10,000,000 First 300 Retrofitting Old Vehicles: The government recognizes that not every auto driver can afford a brand-new electric chassis. To bridge this gap, Tamil Nadu offers incentives for retrofitting older ICE commercial vehicles into EVs, provided the conversion kits meet stringent Automotive Research Association of India (ARAI) safety standards.
+
+### [18] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> How to Avail the Tamil Nadu EV Benefits in 2026 ¶ Private Buyers: You do not need to fill out separate refund applications. The 100% road tax and registration fee waivers are applied automatically at the Regional Transport Office (RTO) software level. When purchasing from an authorized dealer, the on-road price quote should reflect zero road tax right from the initial estimate. The dealer handles the RTO registration via the Vahan portal. Commercial Buyers: To claim the cash subsidy, buyers must ensure the vehicle is explicitly registered under the transport category (yellow board). The authorized dealer usually facilitates the state subsidy claim via the transport portal, subject to the yearly state quota limits outlined in the policy.
+
+### [19] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> The PM E-DRIVE scheme does not currently subsidize private electric cars. The state's road tax waiver acts as your primary saving mechanism if you are buying a personal four-wheeler. Why Tamil Nadu is the “EV Capital of India” (Manufacturing Incentives) ¶ The 2023 policy is heavily skewed toward making the state a global EV manufacturing hub. The state is already home to massive production plants for Ola Electric, Ather Energy, TVS Motor Company, and Hyundai. Recent industry developments highlight the success of this strategy. Global players like VinFast have pledged massive investments (upwards of $500 million) and are actively expanding their Tamil Nadu facilities to target electric bus and two-wheeler production alongside their premium SUVs.
+
+### [20] Tamil Nadu Electric Vehicle Policy: Tax Exemption Till 2027 - Ecozaar
+
+> Electric Two-Wheelers (E-2W): Buyers can receive up to a ₹5,000 subsidy (calculated at ₹2,500/kWh) for vehicles priced under ₹1.5 lakh. Subsidies for this category apply strictly to vehicles registered on or before July 31, 2026. Electric Three-Wheelers (E-3W): E-rickshaws and e-carts qualify for up to ₹25,000 to ₹50,000 depending on the exact weight and battery category. This remains valid until March 31, 2028. (Note: Subsidies for the L5 category of three-wheelers successfully met their national target and closed early in December 2025).

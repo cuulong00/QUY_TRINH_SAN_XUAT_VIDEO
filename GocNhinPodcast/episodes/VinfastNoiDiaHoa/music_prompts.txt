@@ -1,0 +1,77 @@
+================================================================================
+GÓC NHÌN PODCAST — AUDIO LANDSCAPE & MUSIC COMPOSITION SPECIFICATION
+MODEL TARGET: Google DeepMind Lyria 3 Pro Preview (`lyria-3-pro-preview`)
+EPISODE: VinFast Nội Địa Hóa — Bóc Tách ChuỖi Cung Ứng & 5 Cụm Công Nghệ
+AUDIO ARCHITECT: The Cinematic Sonic Alchemist
+================================================================================
+
+--------------------------------------------------------------------------------
+1. NGHIÊN CỨU KỸ THUẬT VỀ MÔ HÌNH LYRIA-3-PRO-PREVIEW (GOOGLE DEEPMIND)
+--------------------------------------------------------------------------------
+- Tên mô hình: `lyria-3-pro-preview` (Thuộc họ mô hình âm nhạc thế hệ mới của Google DeepMind).
+- Thời lượng tối đa 1 lần sinh (Max Output Duration): 3 phút (180 giây).
+- Khả năng kiểm soát cấu trúc: Hỗ trợ các nhãn thẻ cấu trúc dạng ngoặc vuông:
+  [Intro], [Instrumental], [Movement], [Build], [Break], [Outro], [Transition].
+- Khóa thanh âm (Voiceover Safety): Bắt buộc phải khai báo [Instrumental only, no vocals, no speech] để tránh mô hình tự chèn giọng hát hay âm thanh rác đè lên lời thoại podcast.
+- Phương pháp triển khai cho Video 16 phút 44 giây:
+  + CÁCH 1 (Single Master Track Loop): Sinh 1 bản nhạc 3 phút có đầu [Intro] và cuối [Outro] lặp hoàn hảo (Seamless Loop) để kéo dài suốt 16m 44s.
+  + CÁCH 2 (5-Part Modular Sequence): Sinh 5 bản nhạc 3 phút độc lập (tổng 15-16 phút) tương ứng 5 cụm nội dung của video, gộp nối mượt mà (cross-fade) trên phần mềm dựng phim.
+
+--------------------------------------------------------------------------------
+2. CÁCH 1: MASTER 3-MINUTE SEAMLESS LOOP PROMPT (LYRIA-3-PRO-PREVIEW)
+--------------------------------------------------------------------------------
+[STYLE & GENRE]: Macro-economic editorial noir soundtrack, industrial minimalism, documentary soundscape.
+[MOOD & EMOTION]: Analytical, restrained tension, serious, precise, cold futuristic realism.
+[INSTRUMENTATION]: Low analog sub-bass (40-60Hz pulse), cold metallic synth pads, sparse acoustic piano notes spaced far apart, low cello resonance, precision clockwork micro-percussion.
+[TEMPO & RHYTHM]: Slow steady pacing at 86 BPM, precise industrial heartbeat rhythm.
+[STRUCTURE & TAGS]:
+[Intro] Low organic sub-bass pulse, distant atmospheric synth haze.
+[Instrumental] Cold cinematic synth pads layer over sparse low cello chords.
+[Movement] Clockwork micro-percussion enters with precision, steady 86 BPM pulse.
+[Outro] Soft fading low sub-bass tail resolving into seamless loop point.
+[VOCAL STYLE]: Instrumental background track, no vocals, no singing, no spoken words.
+[NEGATIVE PROMPTS]: No vocals, no drums kit, no dubstep drops, no brass fanfares, no electric guitar, no aggressive EDM, no melody clutter between 200Hz-3.8kHz.
+
+--------------------------------------------------------------------------------
+3. CÁCH 2: BỘ 5 PROMPTS CẤU TRÚC THEO CHẶNG (3 PHÚT / PROMPT TƯƠNG ỨNG 16M 44S)
+--------------------------------------------------------------------------------
+
+--- TRACK 1: CHƯƠNG 1 & 2 (0:00 - 4:14 | HOOK & RVC METRIC) ---
+[Prompt Lyria 3 Pro]:
+[Intro] Deep uẩn uẩn sub-bass drone, metallic clockwork ticking at 86 BPM.
+[Instrumental] Restrained editorial noir tension, cold low synth pads, sparse low cello resonance.
+[Movement] Sub-bass thudding pulse mimicking heavy press-machine rhythm, staccato string harmonics.
+[Outro] Sustained low cello note fading into dark atmosphere.
+[Vocal]: Instrumental background track, no vocals, no speech.
+
+--- TRACK 2: CHƯƠNG 3 (4:14 - 6:12 | TESLA & BYD BENCHMARK) ---
+[Prompt Lyria 3 Pro]:
+[Intro] Atmospheric low synth haze, delicate piano notes spaced 4 seconds apart.
+[Instrumental] Cold macro-economic atmosphere, dark ambient soundscape, low cello resonance.
+[Movement] Subtle rhythmic pulse building clean analytical transparency for voiceover.
+[Outro] Fading ambient synth pad with clean tail.
+[Vocal]: Instrumental background track, no vocals.
+
+--- TRACK 3: CHƯƠNG 4 (6:12 - 8:42 | BATTERY PACK & BMS CODE) ---
+[Prompt Lyria 3 Pro]:
+[Intro] Precision digital micro-glitch texture, muted electronic synth pulse at 86 BPM.
+[Instrumental] High-tech cleanroom ambiance, intricate synth arpeggio, warm sub-bass foundation.
+[Movement] Steady algorithmic rhythm reflecting BMS code execution and thermal liquid cooling flow.
+[Outro] Clean digital pulse resolving smoothly.
+[Vocal]: Instrumental background track, no vocals.
+
+--- TRACK 4: CHƯƠNG 5 & 6 (8:42 - 13:48 | VŨNG ÁNG CELL PLANT & VMCU BRAIN) ---
+[Prompt Lyria 3 Pro]:
+[Intro] Warm sub-bass swell, expanding resonant synth pad.
+[Instrumental] Industrial energy charging, futuristic neural network synth textures, rising harmonic clarity.
+[Movement] Layered data pulses representing ViVi 1.6B ViGPT, VinAI MirrorSense, VMCU central nervous system.
+[Outro] High-tech atmospheric harmonic swell lingering softly.
+[Vocal]: Instrumental background track, no vocals.
+
+--- TRACK 5: CHƯƠNG 7 (13:48 - 16:44 | SMARTPHONE-ON-WHEELS & RESOLUTION) ---
+[Prompt Lyria 3 Pro]:
+[Intro] Deep resonant cello swell, broad atmospheric soundscape.
+[Instrumental] Solemn yet forward-looking industrial tone, Apple/TSMC smartphone-on-wheels metaphor vibe.
+[Movement] Dignified, spacious harmonic resolution preserving full clarity for final call to judgment.
+[Outro] Long quiet sub-bass tail fading completely into silence.
+[Vocal]: Instrumental background track, no vocals.

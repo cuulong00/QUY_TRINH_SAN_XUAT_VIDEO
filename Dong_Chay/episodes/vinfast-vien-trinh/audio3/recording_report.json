@@ -1,0 +1,86 @@
+{
+  "slug": "vinfast-vien-trinh",
+  "timestamp": "2026-05-06T10:17:55.985Z",
+  "voiceCode": "n_hanoi_male_tuanduonghanoi_zero_shot_news_vc",
+  "chunks": [
+    {
+      "chunk": 1,
+      "title": "chapter_01_part1",
+      "status": "skipped",
+      "file": "01_chapter_01_part1.mp3"
+    },
+    {
+      "chunk": 2,
+      "title": "chapter_01",
+      "status": "skipped",
+      "file": "02_chapter_01.mp3"
+    },
+    {
+      "chunk": 3,
+      "title": "chapter_02",
+      "status": "skipped",
+      "file": "03_chapter_02.mp3"
+    },
+    {
+      "chunk": 4,
+      "title": "chapter_03_part4",
+      "status": "skipped",
+      "file": "04_chapter_03_part4.mp3"
+    },
+    {
+      "chunk": 5,
+      "title": "chapter_03",
+      "status": "skipped",
+      "file": "05_chapter_03.mp3"
+    },
+    {
+      "chunk": 6,
+      "title": "chapter_04_part6",
+      "status": "skipped",
+      "file": "06_chapter_04_part6.mp3"
+    },
+    {
+      "chunk": 7,
+      "title": "chapter_04",
+      "status": "success",
+      "file": "07_chapter_04.mp3"
+    },
+    {
+      "chunk": 8,
+      "title": "chapter_05_part8",
+      "status": "skipped",
+      "file": "08_chapter_05_part8.mp3"
+    },
+    {
+      "chunk": 9,
+      "title": "chapter_05",
+      "status": "skipped",
+      "file": "09_chapter_05.mp3"
+    },
+    {
+      "chunk": 10,
+      "title": "chapter_06_part10",
+      "status": "success",
+      "file": "10_chapter_06_part10.mp3"
+    },
+    {
+      "chunk": 11,
+      "title": "chapter_06",
+      "status": "success",
+      "file": "11_chapter_06.mp3"
+    },
+    {
+      "chunk": 12,
+      "title": "chapter_07_part12",
+      "status": "success",
+      "file": "12_chapter_07_part12.mp3"
+    },
+    {
+      "chunk": 13,
+      "title": "chapter_07",
+      "status": "success",
+      "file": "13_chapter_07.mp3"
+    }
+  ],
+  "elapsedMinutes": 0.6
+}

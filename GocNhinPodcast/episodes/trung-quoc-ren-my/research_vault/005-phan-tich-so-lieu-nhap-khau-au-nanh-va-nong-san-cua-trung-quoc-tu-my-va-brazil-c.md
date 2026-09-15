@@ -1,0 +1,127 @@
+---
+title: "Phân tích số liệu nhập khẩu đậu nành và nông sản của Trung Quốc từ Mỹ và Brazil. Cam kết mua nông sản Mỹ của Trung Quốc trong giai đoạn 2025-2028 cụ thể ra sao? Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-19T13:53:08.874Z
+notebook_url: "https://notebooklm.google.com/notebook/20d1657e-39ca-4dd0-944d-bbc86fc36584"
+session_id: "6b6737d7"
+citations_count: 3
+sources:
+  - "Địa Chính Trị Mỹ - Trung.md"
+  - "朱颖：全球化阴暗面——依赖关系武器化 - 联合早报"
+---
+
+# Phân tích số liệu nhập khẩu đậu nành và nông sản của Trung Quốc từ Mỹ và Brazil. Cam kết mua nông sản Mỹ của Trung Quốc trong giai đoạn 2025-2028 cụ thể ra sao? Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-19T13:53:08.874Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/20d1657e-39ca-4dd0-944d-bbc86fc36584)
+
+## Answer
+
+Thoughts
+An ninh lương thực là ưu tiên cao nhất của Trung Quốc để duy trì ổn định chính trị, trong bối cảnh nước này đối mặt với thâm hụt thương mại nông nghiệp nghiêm trọng vượt quá 124,5 tỷ USD vào năm 2024
+1
+. Dưới đây là báo cáo phân tích chuyên sâu về số liệu nhập khẩu nông sản, đậu nành của Trung Quốc từ Mỹ và Brazil, cùng chi tiết các cam kết thu mua nông sản Mỹ giai đoạn 2025–2028.
+Thực Trạng Nhập Khẩu Đậu Nành và Nông Sản Của Trung Quốc (2024–2026)
+Nghịch lý sản lượng và thâm hụt thức ăn chăn nuôi: Dù sản lượng ngũ cốc trong nước của Trung Quốc đạt mức kỷ lục hơn 700 triệu tấn trong các năm 2024 và 2025, quốc gia này vẫn đối mặt với tình trạng thâm hụt nghiêm trọng đối với các loại thức ăn chăn nuôi và protein động vật
+1
+. Điều này đẩy mức thâm hụt thương mại nông nghiệp của Trung Quốc lên tới hơn 124,5 tỷ USD vào năm 2024
+1
+.
+Đậu nành là mặt hàng cốt lõi: Đậu nành là mắt xích sinh tử trong chuỗi cung ứng thực phẩm của Trung Quốc, đóng vai trò là nguồn thức ăn chăn nuôi cho ngành công nghiệp sản xuất thịt heo và dầu ăn
+1
+. Trung Quốc hiện tiêu thụ tới hơn 60% tổng lượng đậu nành giao dịch trên toàn thế giới
+1
+.
+Sự thống trị của nguồn cung Brazil: Trong nỗ lực đa dạng hóa nguồn cung để giảm rủi ro trừng phạt, Trung Quốc đã tích cực tăng tỷ trọng nhập khẩu từ Nam Mỹ
+1
+. Tính đến giai đoạn 2024–2026, Brazil là nhà cung cấp lớn nhất, chiếm hơn 71% thị phần nhập khẩu đậu nành của Trung Quốc
+1
+.
+Sự phụ thuộc không thể cắt đứt vào Hoa Kỳ: Mặc dù nguồn cung Brazil chiếm đa số, Trung Quốc hoàn toàn không thể cắt đứt sự phụ thuộc vào nguồn cung từ Mỹ
+1
+. Hoa Kỳ hiện vẫn nắm giữ khoảng 21,1% thị phần xuất khẩu đậu nành sang Trung Quốc
+1
+.
+Cam Kết Mua Nông Sản Mỹ Của Trung Quốc Giai Đoạn 2025–2028
+Thỏa thuận bắt buộc tại Busan: Theo các cam kết thương mại đạt được tại Busan, Trung Quốc đã buộc phải đồng ý nối lại việc thu mua nông sản từ Mỹ
+1
+.
+Lộ trình cam kết mua đậu nành Mỹ cụ thể:
+Năm 2025: Trung Quốc cam kết nối lại việc mua đậu nành Mỹ với khối lượng 12 triệu tấn
+1
+.
+Giai đoạn 2026–2028: Trung Quốc cam kết nhập khẩu ít nhất 25 triệu tấn mỗi năm từ Mỹ
+1
+.
+So sánh bối cảnh lịch sử: Các cam kết giai đoạn 2025–2028 cho thấy sự phục hồi một phần hạn ngạch nông sản sau thời kỳ đứt gãy nghiêm trọng do chiến tranh thương mại
+1
+2
+. Trước đó, vào năm 2017, Trung Quốc là khách hàng lớn nhất tiêu thụ tới 60% lượng đậu nành xuất khẩu của Mỹ (đạt 31,7 triệu tấn)
+3
+. Tuy nhiên, do các đòn thuế quan đáp trả, sản lượng này đã sụt giảm mạnh 74% xuống chỉ còn 8,3 triệu tấn vào năm 2018, biến nông dân Mỹ thành "犧牲品" (nạn nhân) của cuộc chiến
+3
+.
+Giới hạn tự chủ và rủi ro xã hội: Cam kết thu mua nông sản Mỹ phản ánh thực tế Trung Quốc hoàn toàn không có khả năng tự chủ lương thực ngắn hạn nếu xảy ra một cuộc cấm vận thương mại toàn diện từ phía Mỹ
+1
+. Bất kỳ sự gián đoạn nguồn cung đậu nành nào từ Mỹ cũng sẽ lập tức đẩy giá thịt heo và thực phẩm trong nước tăng vọt, đe dọa trực tiếp đến ổn định xã hội
+1
+.
+Bảng Tổng Hợp Số Liệu Nhập Khẩu và Cam Kết Mua Nông Sản (2024–2028)
+Chỉ số / Mặt hàng nông sản
+Thực trạng thị phần thực tế (2024–2026)
+Cam kết thu mua (2025–2028)
+Hệ quả hệ thống & Cơ chế rủi ro
+Đậu nành Brazil
+Chiếm hơn 71% thị phần nhập khẩu của Trung Quốc
+1
+.
+Không có hạn ngạch bắt buộc.
+Là trụ cột đa dạng hóa nhưng không đủ thay thế hoàn toàn nguồn cung từ Mỹ
+1
+.
+Đậu nành Hoa Kỳ
+Chiếm khoảng 21,1% thị phần nhập khẩu của Trung Quốc
+1
+.
+—
+Đóng vai trò cân bằng cung - cầu cốt lõi cho thị trường nội địa Trung Quốc
+1
+.
+Sản lượng Đậu nành Mỹ cam kết
+—
+Năm 2025: 12 triệu tấn;<br>2026–2028: Ít nhất 25 triệu tấn/năm
+1
+.
+Thỏa thuận Busan buộc Trung Quốc tái nhập khẩu quy mô lớn nông sản Mỹ nhằm xoa dịu áp lực thuế quan
+1
+.
+Sản lượng Ngũ cốc nội địa Trung Quốc
+Đạt kỷ lục hơn 700 triệu tấn/năm
+1
+.
+—
+Đảm bảo lương thực cơ bản nhưng vẫn thâm hụt nặng protein động vật và thức ăn chăn nuôi
+1
+.
+Cán cân thương mại nông nghiệp (Trung Quốc)
+Thâm hụt hơn 124,5 tỷ USD (2024)
+1
+.
+—
+Phản ánh nhu cầu nhập khẩu protein chăn nuôi khổng lồ của nền kinh tế Trung Quốc
+1
+.
+🎨 Bạn có muốn tôi trực tiếp chỉnh sửa và tích hợp phần phân tích an ninh lương thực và nông sản này vào bản báo cáo chiến lược địa tài chính hiện có trong bảng Studio của bạn để tạo ra một hồ sơ đánh giá toàn diện về sức chịu đựng của Trung Quốc trước Mỹ không?
+
+## Sources
+
+### [1] Địa Chính Trị Mỹ - Trung.md
+
+> An ninh lương thực và sự phụ thuộc vào nông nghiệp Hoa Kỳ An ninh lương thực luôn được Đảng Cộng sản Trung Quốc đặt ở vị trí ưu tiên cao nhất cho sự ổn định chính trị trong nước2. Mặc dù sản lượng ngũ cốc trong nước đã đạt mức kỷ lục hơn 700 triệu tấn trong các năm 2024 và 2025, Trung Quốc vẫn phải đối mặt với tình trạng thâm hụt nghiêm trọng đối với các loại thức ăn chăn nuôi và protein động vật, dẫn đến mức thâm hụt thương mại nông nghiệp lên tới hơn 124,5 tỷ USD vào năm 202417. Đậu nành là mặt hàng cốt lõi trong chuỗi cung ứng lương thực của Trung Quốc, được sử dụng làm thức ăn chăn nuôi cho ngành công nghiệp sản xuất thịt heo và dầu ăn19. Trung Quốc hiện tiêu thụ tới hơn 60% tổng lượng đậu nành giao dịch trên toàn thế giới19. Dù đã tích cực đa dạng hóa nguồn cung sang Brazil (nước hiện cung cấp hơn 71% lượng đậu nành nhập khẩu của Trung Quốc)19, Bắc Kinh vẫn không thể cắt đứt sự phụ thuộc vào nguồn cung từ Hoa Kỳ (nước cung cấp khoảng 21,1% thị phần)19. Theo các cam kết thương mại đạt được tại Busan, Trung Quốc đã buộc phải đồng ý nối lại việc mua đậu nành Mỹ với khối lượng 12 triệu tấn vào năm 2025 và ít nhất 25 triệu tấn mỗi năm cho giai đoạn 2026-202819. Sự ràng buộc này cho thấy Trung Quốc hoàn toàn không có khả năng tự chủ lương thực ngắn hạn nếu xảy ra một cuộc cấm vận thương mại toàn diện từ phía Mỹ, bởi bất kỳ sự gián đoạn nguồn cung đậu nành nào cũng sẽ lập tức đẩy giá thịt heo và thực phẩm trong nước tăng vọt, đe dọa trực tiếp đến sự ổn định xã hội19.
+
+### [2] 朱颖：全球化阴暗面——依赖关系武器化 - 联合早报
+
+> 国际关系史上一直存在一国利用依赖关系对付另一个国家的事例，比如，英国在第一次世界大战前，几乎垄断了与国际贸易相关的通信基础设施，并制定了广泛的计划，利用这种垄断去破坏对手的经济，将全球贸易体系武器化。今天是高举全球化旗帜的时代，近几年出现的“依赖关系武器化”事例，无疑对全球化蒙上消极的阴影，使不少国家开始对全球化产生的依赖关系产生警惕。 日本经济产业部7月1日宣布，从7月4日开始限制向韩国出口用于电视、智能手机中有机发光二极管（OLED）显示器部件所必须用到的氟聚酰亚胺、半导体制造过程中所必须使用的光刻胶和高纯度氟化氢等三个产品。据韩国国际贸易联合会统计，韩国从日本进口的光刻胶和氟化聚酰亚胺，分别占进口总量的91.9%和93.7%。这就是说，韩国半导体产业高度依赖日本，日本在两国关系紧张时刻使用了“依赖关系武器化”。 乍看，安倍好像在模仿特朗普，仔细观察，芯片和大豆在中美贸易战里都被“依赖关系武器化”。往前追溯，俄罗斯也一直频繁使用“依赖关系武器化”，本文不细说俄罗斯，回到芯片和大豆上来。 手机和通信设备都是全球供应链的产物，根据2018年华为所披露的92家核心供货商名单，美国供应商占33家，其中包括提供芯片的英特尔、赛灵思、高通、博通等。如果这些企业向华为断供，将把华为置于极度困境中，肯定会影响华为朝全球供应链高端攀升的步伐。华为是中国引以为傲的企业，美国打击华为旨在遏制中国在5G领域的优势。
+
+### [3] 朱颖：全球化阴暗面——依赖关系武器化 - 联合早报
+
+> 中国以大豆为报复手段，打击特朗普的选民基础。中国是美国大豆最大的买家，美国对华出口占美国大豆总出口量的60%。2017年美国对华出口大豆为3170万吨，2018年降至830万吨，下降了74%。2019年6月，美国农业部长珀杜承认，美国农民是中美贸易战的“牺牲品”。 大阪峰会再次演绎芯片和大豆的“依赖关系武器化”。中国选择在两国元首会面之前向美国购买54万吨大豆，这是自2018年3月以来，中国所购入的最大数量。大阪峰会缓和了中美贸易战的紧张气氛，特朗普宣布说，美国企业可以向华为出售他们的器材，但条件是不会对美国国家安全构成威胁。 7月中旬，中国购买了5万多吨美国高粱，同时取消进口9853吨美国大豆。中国应该是向美国承诺购买更多的大豆，因为依据7月11日特朗普的说法，中国尚未履行承诺购买美国农产品，这令美国感到失望。中国停止购买美国大豆的原因，一定是美国没有实质上解禁华为。 “依赖关系武器化”让全世界看到了相互依赖的脆弱性，一旦彼此关系恶化，依赖关系就被当作武器来制裁对方。依赖关系应该促进合作，但也导致警惕性，并成为摩擦的手段。中国的稀土再次凸显“依赖关系武器化”的特性。2010年中日因钓鱼岛（日本称尖阁诸岛）的主权纠纷，使用稀土制裁日本。欧盟和美国为此事在世界贸易组织起诉中国，2013年和2014年世贸组织两次裁定中国违规。最近，稀土再次成为舆论关注的一个焦点。

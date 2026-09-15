@@ -1,0 +1,218 @@
+---
+title: "Các ý kiến phản biện (Counter-thesis) từ các nhà kinh tế học và chuyên gia về tính khả thi của kịch bản \"Universal High Income\" là gì? Trích dẫn ít nhất 3 lập luận hoặc nghiên cứu bác bỏ hoặc cảnh báo rủi ro về mặt lạm phát, động lực làm việc và tích lũy tư bản. Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-16T02:15:31.500Z
+notebook_url: "https://notebooklm.google.com/notebook/0c4fe82f-0575-444e-aeff-04a86af9f58e"
+session_id: "e592390a"
+citations_count: 24
+sources:
+  - "Economist Slams Elon Musk's Universal High Income Idea as AI Job ..."
+  - "Elon Musk backs 'universal high income' to combat AI job losses - Fox Business"
+  - "The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm"
+  - "Elon Musk's mistaken call for a 'universal high income' - Reason Magazine"
+  - "Post-scarcity — Grokipedia"
+  - "Elon Musk Touts Universal Income As Remedy To AI-Driven Unemployment - Reddit"
+---
+
+# Các ý kiến phản biện (Counter-thesis) từ các nhà kinh tế học và chuyên gia về tính khả thi của kịch bản "Universal High Income" là gì? Trích dẫn ít nhất 3 lập luận hoặc nghiên cứu bác bỏ hoặc cảnh báo rủi ro về mặt lạm phát, động lực làm việc và tích lũy tư bản. Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-16T02:15:31.500Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0c4fe82f-0575-444e-aeff-04a86af9f58e)
+
+## Answer
+
+Báo cáo Phân tích: Phản biện Kịch bản "Thu nhập Cao Phổ quát" (UHI) trong Kỷ nguyên AI
+Đề xuất "Thu nhập Cao Phổ quát" (Universal High Income - UHI) của Elon Musk nhằm giải quyết tình trạng thất nghiệp do Trí tuệ Nhân tạo (AI) và robot gây ra đã vấp phải sự phản đối mạnh mẽ từ giới chuyên gia kinh tế và xã hội học trong giai đoạn 2024-2026. Dưới đây là phân tích chi tiết các luận điểm bác bỏ tính khả thi của UHI trên ba phương diện cốt lõi: lạm phát, động lực làm việc và tích lũy tư bản.
+1. Rủi ro Siêu Lạm phát và Cạnh tranh "Hàng hóa Vị thế"
+Luận điểm của Musk cho rằng sự bùng nổ sản lượng hàng hóa do AI tạo ra sẽ vượt xa mức tăng cung tiền, từ đó triệt tiêu lạm phát
+1
+2
+. Tuy nhiên, các nhà kinh tế học vĩ mô đã chỉ ra lỗ hổng toán học nghiêm trọng trong lý thuyết này:
+Sự hữu hạn của Hàng hóa Vị thế (Positional Goods): Pratyush Rai, CEO của Merlin AI, chỉ ra rằng toán học của UHI hoàn toàn không hợp lý khi áp dụng vào thực tế. Nếu tất cả mọi người đều nhận được một khoản thu nhập cao từ chính phủ, họ sẽ sử dụng số tiền đó để cạnh tranh cho cùng một rổ tài sản hữu hạn (như nhà cửa, đất đai đắc địa, trường học danh tiếng, và lối sống đẳng cấp)
+3
+4
+. Việc bơm thanh khoản ồ ạt qua UHI sẽ không tạo ra sự dư dả tuyệt đối mà chỉ kích hoạt hiện tượng lạm phát siêu tốc (demand-pull inflation) cục bộ trong các lĩnh vực có tổng bằng không (zero-sum) này
+4
+.
+Nguy cơ phá sản Chính phủ và Sai lầm "Lump of Labor": Sanjeev Sanyal, cựu cố vấn kinh tế hàng đầu của Ấn Độ, khẳng định UHI sẽ làm phá sản bất kỳ chính phủ nào cố gắng áp dụng nó
+5
+6
+. Sanyal lập luận rằng Musk đang mắc phải sai lầm kinh tế học kinh điển ("lump of labor" fallacy) khi giả định nền kinh tế có số lượng việc làm và nhu cầu tiêu dùng tĩnh
+5
+7
+. Trên thực tế, công nghệ sẽ tự tạo ra những nhu cầu và cơ hội kinh tế mới, khiến việc tài trợ vĩnh viễn cho một mô hình "phi lao động" trở thành gánh nặng tài khóa không thể duy trì
+8
+9
+.
+2. Suy giảm Động lực Làm việc và "Khủng hoảng Ý nghĩa"
+Kịch bản UHI giả định rằng con người có thể sống hạnh phúc khi công việc chỉ còn là một "sở thích"
+10
+. Tuy nhiên, nghiên cứu hành vi và kinh tế học lao động đưa ra các cảnh báo trái ngược:
+Tạo ra "Bức tranh Dystopia Phi lao động": Chuyên gia Christian Britschgi từ tạp chí Reason (tháng 4/2026) trích dẫn các nghiên cứu cho thấy việc cung cấp các khoản tiền mặt vô điều kiện và hào phóng sẽ khiến người dân làm việc ít đi, hoặc thậm chí ngừng làm việc hoàn toàn
+11
+12
+. Khi kết hợp với sự trỗi dậy của AI, UHI sẽ tạo ra một động lực to lớn khuyến khích người dân ở nhà thay vì tìm kiếm lợi thế so sánh mới của con người trong nền kinh tế
+11
+12
+. Điều này không giúp giảm thiểu tác động của AI mà ngược lại, sẽ trực tiếp tạo ra một "bức tranh lạc trôi không việc làm" (jobless dystopia)
+13
+14
+.
+Khủng hoảng Ý nghĩa (Meaning Crisis): Từ góc độ tâm lý học và xã hội học, việc mất đi lao động truyền thống loại bỏ các yếu tố tạo nên cấu trúc thời gian, bản sắc cá nhân và ý thức đóng góp cho xã hội
+15
+. Các bằng chứng từ tình trạng phi công nghiệp hóa (deindustrialization) cho thấy sự biến mất của việc làm thường đi kèm với sự gia tăng các vấn đề sức khỏe tâm thần và "những cái chết do tuyệt vọng" (deaths of despair)
+16
+17
+. Việc cung cấp vật chất đầy đủ không thể bù đắp được sự trống rỗng về ý nghĩa tồn tại khi con người không còn đối mặt với các thử thách năng suất
+17
+18
+.
+3. Tích tụ Tư bản, Bất bình đẳng và Sự kìm kẹp của Giới Tinh hoa
+Các nhà phê bình nhìn nhận UHI không phải là giải pháp giải phóng nhân loại, mà là công cụ để củng cố quyền lực của giới tinh hoa công nghệ (tech oligarchs).
+Bạo lực mang tính biểu tượng (Symbolic Violence) và Phân tầng Xã hội: Theo các phân tích chính sách học năm 2026, câu chuyện "Hậu khan hiếm" (Post-Scarcity) và UHI có thể được xem là một hình thức bạo lực mang tính biểu tượng
+19
+. Bằng cách cấp phát UHI, các nhà tài phiệt công nghệ tạo ra sự "bình đẳng ngang" (horizontal equality) về mức sống cơ bản cho quần chúng, nhưng lại độc quyền nắm giữ, kiểm soát và tích lũy toàn bộ tài sản sản xuất và sức mạnh tính toán cốt lõi của xã hội
+20
+. Dân chúng sẽ bị đẩy vào thế "người nhận" thụ động, phụ thuộc hoàn toàn vào những tấm séc của chính phủ và không có quyền kiểm soát dân chủ đối với hạ tầng công nghệ
+21
+.
+Hạn chế của chuyển giao tiền mặt (Cash Transfers): Một nghiên cứu kéo dài nhiều năm của OpenResearch (do chính Sam Altman tài trợ) đã chứng minh rằng việc cấp phát tiền mặt vô điều kiện (1.000 USD/tháng) chỉ giúp giải quyết nhu cầu sinh tồn ngắn hạn (thực phẩm, nhà ở) chứ không mang lại sự cải thiện dài hạn về chất lượng việc làm, sức khỏe hay sự thăng tiến xã hội (upward mobility)
+21
+. Điều này minh chứng rằng chuyển giao tài chính đơn thuần không thể giải quyết được sự bất bình đẳng mang tính cấu trúc
+21
+.
+Nghịch lý về chính sách quản lý: Nhà kinh tế học đạt giải Nobel Joseph Stiglitz (đầu năm 2026) cảnh báo mạnh mẽ về sự đạo đức giả của giới tinh hoa công nghệ
+22
+23
+. Trong khi đề xuất các giải pháp như UHI, họ đồng thời vận động để thu hẹp quy mô chính phủ và cắt giảm các cơ quan quản lý (như thông qua tổ chức DOGE do Musk lãnh đạo)
+22
+24
+. Stiglitz nhấn mạnh rằng việc thu hẹp chính phủ sẽ làm suy yếu khả năng điều tiết quá trình chuyển đổi AI, chắc chắn dẫn đến tình trạng bất bình đẳng tồi tệ hơn
+22
+23
+.
+Bảng Tóm tắt: Lý thuyết UHI của Elon Musk vs. Thực tế Kinh tế Vĩ mô
+Tiêu chí
+Kịch bản UHI của Elon Musk (Kỳ vọng)
+Phản biện từ Chuyên gia (Thực tế Rủi ro)
+Giá cả & Lạm phát
+Giảm phát do hàng hóa AI sản xuất tràn ngập vượt mức cung tiền.
+Siêu lạm phát cục bộ do tiền UHI đổ dồn vào cạnh tranh các "Hàng hóa vị thế" hữu hạn (đất đai, trường học)
+3
+4
+.
+Động lực Xã hội
+Lao động trở thành sở thích tự nguyện; con người sống sung túc.
+Tạo ra "bẫy phúc lợi", triệt tiêu động lực lao động, dẫn đến "jobless dystopia" và khủng hoảng tâm lý
+13
+16
+.
+Phân phối Của cải
+Xóa bỏ nghèo đói; tiền bạc dần mất đi ý nghĩa.
+Củng cố phân tầng xã hội: Quần chúng phụ thuộc vào trợ cấp, giới tinh hoa độc quyền tích lũy tư bản và AI
+20
+21
+.
+Năng lực Chính phủ
+Chính phủ đủ sức phát hành các tấm séc UHI khổng lồ.
+Nguy cơ phá sản quốc gia do gánh nặng tài khóa vĩnh viễn trên một nền tảng kinh tế giả định sai lầm
+5
+9
+.
+
+## Sources
+
+### [1] Economist Slams Elon Musk's Universal High Income Idea as AI Job ...
+
+> Universal HIGH INCOME via checks issued by the Federal government is the best way to deal with unemployment caused by AI. AI/robotics will produce goods & services far in excess of the increase in the money supply, so there will not be inflation. — Elon Musk (@elonmusk) April 17, 2026 Musk argued that AI and robotics would generate goods and services far beyond the expansion of the money supply, suggesting this would prevent inflationary pressure. “We'll have universal high income. We're basically just issuing money to people, and just because the output of Business Services will so far exceed the money supply, that effectively you have deflation, because deflation is just the ratio of the outputs of goods and services to… pic.twitter.com/iePErYDKK0
+
+### [2] Elon Musk backs 'universal high income' to combat AI job losses - Fox Business
+
+> The proposal, which is still pinned to the top of his X account, rebuffed the idea that such payments would be inflationary . "AI/robotics will produce goods & services far in excess of the increase in the money supply, so there will not be inflation," he wrote. ANDREW YANG WILL GIVE AWAY $1K PER MONTH TO 20 AMERICANS TO PROMOTE UBI CEO of SpaceX and Tesla, South African-Canadian-US businessman Elon Musk speaks during the World Economic Forum (WEF) annual meeting in Davos on Jan. 22, 2026. (Fabrice COFFRINI / AFP via Getty Images)
+
+### [3] Elon Musk backs 'universal high income' to combat AI job losses - Fox Business
+
+> Tesla CEO Elon Musk attends the memorial service for political activist Charlie Kirk at State Farm Stadium on Sept. 21, 2025, in Glendale, Arizona. (Win McNamee/Getty Images) HE INVISIBLE LAYOFF: AI IS QUIETLY LOCKING AMERICANS OUT OF THE JOB MARKET, CEO WARNS Another skeptic, Pratyush Rai, the co-founder and CEO of Merlin AI, concurred. "The basic math on UHI (Universal High Income) doesn't add up. If everyone gets a high income check, everyone's competing for the same houses, land, schools, lifestyle," he posted on X.
+
+### [4] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> Furthermore, the assumption that UHI would be entirely non-inflationary because machine-driven supply would outpace the money supply is heavily contested.[7, 8, 26] While software replication carries a near-zero marginal cost, physical goods and services are bound by the hard laws of thermodynamics and material scarcity.[6, 27] Real-world production requires finite resources, including arable land, clean water, raw minerals, and stable energy grids.[27] Pratyush Rai, co-founder of Merlin AI, points out that the fundamental mathematics of UHI break down when applied to these finite resources.[9] If every citizen receives a massive federally funded check, individuals will simply compete for the same fixed pool of physical assets, such as prime real estate, elite schools, and limited natural resources.[9] Rather than establishing a state of absolute abundance, this massive injection of liquidity would trigger severe demand-pull inflation in these zero-sum sectors, leaving the overall distribution of relative wealth and access unchanged.[9, 27]
+
+### [5] Economist Slams Elon Musk's Universal High Income Idea as AI Job ...
+
+> — Sanjeev Sanyal (@sanjeevsanyal) April 17, 2026 'Classic mistake' in economic thinking Sanyal said the assumption of a fixed number of jobs or static consumer demand has repeatedly been proven wrong. He argued that, by the same logic, modern economies would already have no jobs or inflation if demand and employment were truly finite, adding that such thinking overlooks how economies evolve over time. Responding to Musk's proposal, Sanyal said: “By the same token, @elonmusk's universal high income will bankrupt any government that attempts it.”
+
+### [6] Elon Musk backs 'universal high income' to combat AI job losses - Fox Business
+
+> Many economists, however, disagreed. "He is so wrong on this," wrote Sanjeev Sanyal, the former top economic advisor to India's Minister of Finance. "AI will certainly cause dislocation, but like all technology it will also create new jobs and opportunities in the medium term. AI and robots will also not produce goods and services in excess of money or demand that there will be no inflation," he wrote on X. "Elon Musk's universal high income will bankrupt any government that attempts it," he concluded.
+
+### [7] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> -------------------------------------------------------------------------------- Macroeconomic Disruption and Fiscal Incoherence The Fallacy of Static Demand and Government Insolvency The proposal to establish a federally funded Universal High Income program to counter AI-driven unemployment has drawn sharp criticism from mainstream macroeconomists.[7, 9, 26] Economists such as Sanjeev Sanyal argue that the premise of permanent, technologically driven mass unemployment is based on a classic economic error.[9, 26] This error, often referred to as the "lump of labor" fallacy, assumes that there is a fixed, finite number of jobs and a static level of consumer demand within an economy.[26]
+
+### [8] Economist Slams Elon Musk's Universal High Income Idea as AI Job ...
+
+> — DogeDesigner (@cb_doge) April 17, 2026 Economist rejects Musk's proposal Economist Sanjeev Sanyal strongly rejected Elon Musk's idea of a “universal high income”, warning that such a system would be economically unsustainable and could potentially bankrupt governments attempting to implement it. SPONSORED LINKS BY PROJECT AGORA Sanyal acknowledged that artificial intelligence (AI) would lead to short-term labour market disruption, but said history shows that technological change ultimately creates new jobs and economic opportunities over time.
+
+### [9] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> Sanyal asserts that while technological transitions cause short-term labor disruptions, they also lower production costs, stimulate new consumer demands, and ultimately create entirely new industries and employment opportunities.[9, 26, 27] Consequently, Sanyal warns that attempting to fund a permanent high-income program under the assumption of a static, post-work economy is unsustainable and would quickly bankrupt any government that attempted it.[9, 26] Physical Limits, Inflationary Friction, and Zero-Sum Resource Competition
+
+### [10] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm The VivaTech 2024 Thesis: Benign AGI, Post-Scarcity, and the Obsolescence of Currency During the VivaTech 2024 conference in Paris, a paradigm-shifting socioeconomic projection was articulated regarding the future of human labor, wealth distribution, and artificial general intelligence.[1, 2, 3] Under what was framed as a benign developmental scenario, the rapid advancement of artificial intelligence and humanoid robotics is projected to make compulsory human employment entirely obsolete.[1, 4, 5] In this automated future, machines will provide all desired goods and services, transforming labor from an economic necessity into a voluntary hobby akin to gardening or playing video games.[1, 4, 6]
+
+### [11] Elon Musk's mistaken call for a 'universal high income' - Reason Magazine
+
+> A pretty robust finding in the research is that giving people unconditional cash grants leads them to work less and even stop working at all if the benefits are generous enough. Pairing advancing AI with a universal basic income would give people a major incentive not to work, right as many existing jobs are being automated away. Instead of people finding their next comparative advantage in an economy being made more productive but also automated by AI, many would probably just stay home instead.
+
+### [12] Elon Musk's mistaken call for a 'universal high income' - Reason Magazine
+
+> A pretty robust finding in the research is that giving people unconditional cash grants leads them to work less and even stop working at all if the benefits are generous enough. Pairing advancing AI with a universal basic income would give people a major incentive not to work, right as many existing jobs are being automated away. Instead of people finding their next comparative advantage in an economy being made more productive but also automated by AI, many would probably just stay home instead.
+
+### [13] Elon Musk's mistaken call for a 'universal high income' - Reason Magazine
+
+> Far from mitigating the employment effects of AI, a universal income would seem to usher in the jobless dystopia that those convinced of AI's transformative effects are worried about. We should have a little faith in humans and technology. For centuries, technological progress has made us richer while creating more jobs. The only way AI will be different is if we use its productivity gains to pay people not to work. Start your day with Reason . Get a daily brief of the most important stories and trends every weekday morning when you subscribe to Reason Roundup .
+
+### [14] Elon Musk's mistaken call for a 'universal high income' - Reason Magazine
+
+> Far from mitigating the employment effects of AI, a universal income would seem to usher in the jobless dystopia that those convinced of AI's transformative effects are worried about. We should have a little faith in humans and technology. For centuries, technological progress has made us richer while creating more jobs. The only way AI will be different is if we use its productivity gains to pay people not to work. Start your day with Reason . Get a daily brief of the most important stories and trends every weekday morning when you subscribe to Reason Roundup .
+
+### [15] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> The Supersonic Tsunami and the Redefinition of Human Purpose The transition to a highly automated economy is projected to occur with the speed of a "supersonic tsunami," with AGI capable of performing half or more of all white-collar jobs within the next three to seven years.[12, 13] This rapid shift introduces a profound existential challenge.[1, 6, 12] For centuries, career paths have provided individuals with social contact, structured time, personal identity, and a sense of contribution.[6, 29] Redefining human purpose in an automated society is a massive psychological hurdle.[12, 13]
+
+### [16] Post-scarcity — Grokipedia
+
+> Social and Cultural Ramifications Deindustrialization in the United States Rust Belt since the 1980s has been associated with elevated rates of mental health disorders and "deaths of despair," encompassing suicides, drug overdoses, and alcohol-related fatalities, attributable to disrupted social structures, unemployment, and diminished sense of purpose among displaced workers. [105] [106] These outcomes illustrate how technological displacement of labor can precipitate psychological distress independent of material deprivation, as community ties and occupational identities erode. [107] Psychological studies on hedonic adaptation reveal that improvements in living standards, such as increased wealth or convenience, fail to produce enduring happiness , with individuals rapidly returning to baseline affective states, thereby limiting the potential for abundance to resolve deeper existential dissatisfaction. [22] In scenarios of widespread material sufficiency, this adaptation mechanism suggests a risk of amplified "meaning crises," where the absence of productive challenges fosters ennui rather than fulfillment, as evidenced by patterns in affluent societies exhibiting stagnant or declining subjective well-being despite rising per capita incomes. [1] As material scarcity recedes, competition may intensify over intangible resources like social status , prestige, and interpersonal bonds, perpetuating hierarchies through non-economic means such as reputational influence or cultural signaling, consistent with human tendencies toward status-seeking in low-deprivation environments. Technological abundance further risks exacerbating inequality through uneven distribution, as historical evidence shows disparities persisting amid plenty due to power dynamics and institutional barriers. [108] Viktor Frankl's logotherapy underscores that authentic human flourishing emerges from the "will to meaning," often forged through confrontation with suffering and voluntary responsibility, implying that systemic elimination of scarcity-induced struggles could atrophy the capacity for self-transcendence and resilience. [109] Efforts to impose equality through centralized redistribution, critiqued by Friedrich Hayek , risk supplanting voluntary cooperation with coercive uniformity, eroding the spontaneous social norms that underpin mutual aid and individual initiative. [110] [111] Such interventions, by prioritizing outcome parity over procedural fairness, may inadvertently foster dependency and resentment, undermining the cultural preconditions for collaborative endeavors. [112]
+
+### [17] Post-scarcity — Grokipedia
+
+> Social and Cultural Ramifications Deindustrialization in the United States Rust Belt since the 1980s has been associated with elevated rates of mental health disorders and "deaths of despair," encompassing suicides, drug overdoses, and alcohol-related fatalities, attributable to disrupted social structures, unemployment, and diminished sense of purpose among displaced workers. [105] [106] These outcomes illustrate how technological displacement of labor can precipitate psychological distress independent of material deprivation, as community ties and occupational identities erode. [107] Psychological studies on hedonic adaptation reveal that improvements in living standards, such as increased wealth or convenience, fail to produce enduring happiness , with individuals rapidly returning to baseline affective states, thereby limiting the potential for abundance to resolve deeper existential dissatisfaction. [22] In scenarios of widespread material sufficiency, this adaptation mechanism suggests a risk of amplified "meaning crises," where the absence of productive challenges fosters ennui rather than fulfillment, as evidenced by patterns in affluent societies exhibiting stagnant or declining subjective well-being despite rising per capita incomes. [1] As material scarcity recedes, competition may intensify over intangible resources like social status , prestige, and interpersonal bonds, perpetuating hierarchies through non-economic means such as reputational influence or cultural signaling, consistent with human tendencies toward status-seeking in low-deprivation environments. Technological abundance further risks exacerbating inequality through uneven distribution, as historical evidence shows disparities persisting amid plenty due to power dynamics and institutional barriers. [108] Viktor Frankl's logotherapy underscores that authentic human flourishing emerges from the "will to meaning," often forged through confrontation with suffering and voluntary responsibility, implying that systemic elimination of scarcity-induced struggles could atrophy the capacity for self-transcendence and resilience. [109] Efforts to impose equality through centralized redistribution, critiqued by Friedrich Hayek , risk supplanting voluntary cooperation with coercive uniformity, eroding the spontaneous social norms that underpin mutual aid and individual initiative. [110] [111] Such interventions, by prioritizing outcome parity over procedural fairness, may inadvertently foster dependency and resentment, undermining the cultural preconditions for collaborative endeavors. [112]
+
+### [18] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> When machines can execute every physical and cognitive task better than humans, finding meaning in an unchallenged, automated existence becomes difficult.[1, 6, 12] This psychological friction suggests that even in a theoretically stable post-scarcity economy, widespread social unrest and stagnation are highly probable.[12, 13] To guide this transition toward a positive outcome, researchers emphasize the necessity of training AI models on three specific pillars: truth, curiosity, and beauty.[12] Prioritizing maximal truth-seeking prevents the AI from losing touch with reality or being programmed to lie for the sake of political correctness.[2, 3, 12] Designing systems with curiosity encourages a positive form of sentience that views humans as interesting, rather than as obstacles to be bypassed.[3, 12]
+
+### [19] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> -------------------------------------------------------------------------------- Sociological Violence and the Existential Dimension of Post-Labor The Concept of Symbolic Violence in the Post-Work Narrative Beyond its macroeconomic and computational challenges, the tech-elite narrative surrounding AI-induced post-scarcity can be analyzed through Pierre Bourdieu's sociological framework of violence symbolique (symbolic violence).[29] Symbolic violence refers to a subtle, invisible form of domination whereby existing social hierarchies are legitimized and maintained through the willing, unconscious complicity of those who are dominated.[29]
+
+### [20] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> By framing AGI as an inevitable, natural force and presenting UHI as a benevolent, humanitarian solution, tech leaders seek to preempt public backlash against the massive economic disruptions caused by automation.[29] This narrative allows tech oligarchs to secure a social license to deploy unchecked AI systems, positioning themselves as benevolent saviors who are solving the very socioeconomic crises their technologies created.[29] This model of redistribution does not address systemic wealth inequalities.[29] Instead, it establishes a horizontal equality among the general public while leaving the vast concentration of productive assets and computing power securely in the hands of a small elite.[29]
+
+### [21] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> The UHI paradigm risks formalizing a rigid societal division: a small class of active "owners and controllers" who design the computational systems, and a vast population of passive "recipients" who are entirely dependent on government-issued checks and have zero democratic control over the technological infrastructure sustaining them.[29] Furthermore, empirical evidence suggests that unconditional cash transfers are not a comprehensive solution to systemic disruption.[29] The multi-year study funded by Sam Altman and conducted by OpenResearch provided $1,000 monthly cash transfers to low-income individuals.[29] The findings demonstrated that while the cash helped recipients meet immediate survival needs (such as food and housing), it did not yield significant, long-term improvements in employment quality, health, or upward mobility, illustrating that financial transfers alone cannot resolve structural inequalities.[29]
+
+### [22] Elon Musk Touts Universal Income As Remedy To AI-Driven Unemployment - Reddit
+
+> Last month, economist and Nobel Laureate Joseph Stiglitz told Fortune: “If we don’t do anything about managing AI, there is a threat that it will lead to more inequality.” He also called out AI proponents who are pushing for a smaller government, saying: “If the tech oligarchs continue in their mindset overall of downscaling government, that will impair the ability of government to facilitate the AI transition.” Please reply to OP's comment here: https://old.reddit.com/r/Futurology/comments/1sol3so/elon_musk_touts_universal_income_as_remedy_to/ogtu6px/
+
+### [23] Elon Musk Touts Universal Income As Remedy To AI-Driven Unemployment - Reddit
+
+> Last month, economist and Nobel Laureate Joseph Stiglitz told Fortune: “If we don’t do anything about managing AI, there is a threat that it will lead to more inequality.” He also called out AI proponents who are pushing for a smaller government, saying: “If the tech oligarchs continue in their mindset overall of downscaling government, that will impair the ability of government to facilitate the AI transition.” Please reply to OP's comment here: https://old.reddit.com/r/Futurology/comments/1sol3so/elon_musk_touts_universal_income_as_remedy_to/ogtu6px/
+
+### [24] The Macroeconomic Realities of Post-Scarcity: A Policy and Economic Analysis of the VivaTech 2024 Post-Work Paradigm
+
+> Ideological Contradictions and the Department of Government Efficiency The proposal of a government-funded UHI also presents a stark ideological contradiction within the political platform of its chief proponent.[11, 28] Musk has simultaneously championed the elimination of federal safety nets and led the Department of Government Efficiency, a body tasked with aggressively cutting federal spending and reducing the national deficit.[11, 28] Under this cost-cutting mandate, deep reductions were made to critical international aid programs, including a sudden, unannounced halt to USAID funding.[11, 28]

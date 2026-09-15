@@ -1,0 +1,1466 @@
+{
+  "status": "success",
+  "sourceBackend": "youtubei-player",
+  "videoId": "PqtggjVAi8M",
+  "url": "https://www.youtube.com/watch?v=PqtggjVAi8M",
+  "language": "en",
+  "fetchedAt": "2026-08-28T14:30:19.441Z",
+  "segments": [
+    {
+      "index": 0,
+      "text": "Memories are biological magic that enable you to experience bygone moments – over and over.",
+      "start": 480,
+      "duration": 6560,
+      "lang": "en"
+    },
+    {
+      "index": 1,
+      "text": "With them, your mind can encode, store and retrieve information about the world and yourself.",
+      "start": 7040,
+      "duration": 5920,
+      "lang": "en"
+    },
+    {
+      "index": 2,
+      "text": "But memories are not static like photos.",
+      "start": 12960,
+      "duration": 2960,
+      "lang": "en"
+    },
+    {
+      "index": 3,
+      "text": "Like dioramas made from wax, each time they’re under the",
+      "start": 15920,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 4,
+      "text": "spotlight of your attention they can melt and change a tiny bit.",
+      "start": 19280,
+      "duration": 4080,
+      "lang": "en"
+    },
+    {
+      "index": 5,
+      "text": "Which is a bit concerning because they are a huge part of what makes you, you.",
+      "start": 23360,
+      "duration": 5200,
+      "lang": "en"
+    },
+    {
+      "index": 6,
+      "text": "They are the personal lore a lot of your",
+      "start": 28560,
+      "duration": 2320,
+      "lang": "en"
+    },
+    {
+      "index": 7,
+      "text": "identity is based on – and the basis for your decisions about your future.",
+      "start": 30880,
+      "duration": 4400,
+      "lang": "en"
+    },
+    {
+      "index": 8,
+      "text": "What does it mean if they change?",
+      "start": 35280,
+      "duration": 2240,
+      "lang": "en"
+    },
+    {
+      "index": 9,
+      "text": "And more fundamentally… What IS a memory? How is a moment in time stored in squishy meat?",
+      "start": 37520,
+      "duration": 7153,
+      "lang": "en"
+    },
+    {
+      "index": 10,
+      "text": "Your Brain is Weird Madness",
+      "start": 45440,
+      "duration": 2402,
+      "lang": "en"
+    },
+    {
+      "index": 11,
+      "text": "The human brain is the most complex thing in the universe, so we need to simplify quite a bit.",
+      "start": 48800,
+      "duration": 5280,
+      "lang": "en"
+    },
+    {
+      "index": 12,
+      "text": "Scientific models work but are not a perfect reflection of reality.",
+      "start": 54080,
+      "duration": 3600,
+      "lang": "en"
+    },
+    {
+      "index": 13,
+      "text": "It's a bit like talking about elementary particles.",
+      "start": 57680,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 14,
+      "text": "But in a nutshell, what makes you think and feel is a complex system of about 86 billion neurons.",
+      "start": 60560,
+      "duration": 7200,
+      "lang": "en"
+    },
+    {
+      "index": 15,
+      "text": "Extremely complex electrochemical root systems, sending and receiving signals",
+      "start": 67760,
+      "duration": 4640,
+      "lang": "en"
+    },
+    {
+      "index": 16,
+      "text": "through synapses – tiny gaps between cells, where an electrical signal is converted into chemicals,",
+      "start": 72400,
+      "duration": 5600,
+      "lang": "en"
+    },
+    {
+      "index": 17,
+      "text": "bridges the distance, is received and converted into electricity again.",
+      "start": 78000,
+      "duration": 5360,
+      "lang": "en"
+    },
+    {
+      "index": 18,
+      "text": "This is how neurons talk to each other.",
+      "start": 83360,
+      "duration": 2320,
+      "lang": "en"
+    },
+    {
+      "index": 19,
+      "text": "And it's a busy conversation because a typical neuron is connected with up to 10,000 others.",
+      "start": 85680,
+      "duration": 6000,
+      "lang": "en"
+    },
+    {
+      "index": 20,
+      "text": "Together they’re a network of hundreds of trillions of connections.",
+      "start": 91680,
+      "duration": 4000,
+      "lang": "en"
+    },
+    {
+      "index": 21,
+      "text": "A hundred times more than galaxies in the observable universe.",
+      "start": 95680,
+      "duration": 4480,
+      "lang": "en"
+    },
+    {
+      "index": 22,
+      "text": "From these connections the magic of your existence emerges.",
+      "start": 100160,
+      "duration": 4000,
+      "lang": "en"
+    },
+    {
+      "index": 23,
+      "text": "To create purpose in this chaos some connections need to grow stronger.",
+      "start": 104160,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 24,
+      "text": "Whenever two neurons fire at the same time their",
+      "start": 108400,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 25,
+      "text": "synapses change and their connection gets stronger.",
+      "start": 111520,
+      "duration": 3520,
+      "lang": "en"
+    },
+    {
+      "index": 26,
+      "text": "They become buddies if you want, and when their buddy calls they join in.",
+      "start": 115040,
+      "duration": 4400,
+      "lang": "en"
+    },
+    {
+      "index": 27,
+      "text": "If we zoom out, patterns emerge.",
+      "start": 119440,
+      "duration": 2320,
+      "lang": "en"
+    },
+    {
+      "index": 28,
+      "text": "Dozens or thousands of neurons organize into local columns.",
+      "start": 121760,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 29,
+      "text": "These columns are very basic information processing units",
+      "start": 126000,
+      "duration": 3280,
+      "lang": "en"
+    },
+    {
+      "index": 30,
+      "text": "that process a tiny piece of all the input coming in from your senses:",
+      "start": 129280,
+      "duration": 3760,
+      "lang": "en"
+    },
+    {
+      "index": 31,
+      "text": "like dark and light, a location in space, how a texture feels, the sound of words and so on.",
+      "start": 133040,
+      "duration": 6240,
+      "lang": "en"
+    },
+    {
+      "index": 32,
+      "text": "You have columns for sound, images, touch etc, all located in different parts of your brain.",
+      "start": 139280,
+      "duration": 6160,
+      "lang": "en"
+    },
+    {
+      "index": 33,
+      "text": "These columns are the gears of the biological machine that is your cortex.:",
+      "start": 145440,
+      "duration": 5040,
+      "lang": "en"
+    },
+    {
+      "index": 34,
+      "text": "It’s the fundamental hardware you emerge from.",
+      "start": 150480,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 35,
+      "text": "Everything you see, hear, or feel causes the gears",
+      "start": 153600,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 36,
+      "text": "to move – which means your neurons to fire together.",
+      "start": 156720,
+      "duration": 3440,
+      "lang": "en"
+    },
+    {
+      "index": 37,
+      "text": "But for you to have a coherent experience,",
+      "start": 160160,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 38,
+      "text": "these very different gears need to be connected together.",
+      "start": 162320,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 39,
+      "text": "Any moment you perceive is made from different parts.",
+      "start": 165680,
+      "duration": 3040,
+      "lang": "en"
+    },
+    {
+      "index": 40,
+      "text": "As you are watching this video, your eyes activate columns for vision and color in",
+      "start": 168720,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 41,
+      "text": "your visual cortex, your ears transmit information to your auditory cortex,",
+      "start": 172960,
+      "duration": 4400,
+      "lang": "en"
+    },
+    {
+      "index": 42,
+      "text": "language areas are decoding my words, while other networks keep track of your body and emotions.",
+      "start": 177360,
+      "duration": 5440,
+      "lang": "en"
+    },
+    {
+      "index": 43,
+      "text": "All these signals are processed in deeper areas of your brain that evaluate them,",
+      "start": 183360,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 44,
+      "text": "boosting what seems important right now and tuning out what doesn’t.",
+      "start": 187600,
+      "duration": 4400,
+      "lang": "en"
+    },
+    {
+      "index": 45,
+      "text": "Vastly simplifying, this concert of all these different gears connected by levers,",
+      "start": 192000,
+      "duration": 4400,
+      "lang": "en"
+    },
+    {
+      "index": 46,
+      "text": "wheels and screws comes together to create a new structure, within your brain machine: The assembly.",
+      "start": 196400,
+      "duration": 6400,
+      "lang": "en"
+    },
+    {
+      "index": 47,
+      "text": "A new pattern of synchronized activity within the grand architecture of your brain.",
+      "start": 202800,
+      "duration": 5440,
+      "lang": "en"
+    },
+    {
+      "index": 48,
+      "text": "This assembly of very different neurons firing together,",
+      "start": 208240,
+      "duration": 2720,
+      "lang": "en"
+    },
+    {
+      "index": 49,
+      "text": "is what gives you the experience of being a human being in this moment.",
+      "start": 210960,
+      "duration": 4080,
+      "lang": "en"
+    },
+    {
+      "index": 50,
+      "text": "So the assembly active in your brain right now is you watching this video,",
+      "start": 215040,
+      "duration": 4000,
+      "lang": "en"
+    },
+    {
+      "index": 51,
+      "text": "hearing my voice and learning about memories.",
+      "start": 219040,
+      "duration": 2720,
+      "lang": "en"
+    },
+    {
+      "index": 52,
+      "text": "But this is only activity without permanent substance,",
+      "start": 221760,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 53,
+      "text": "like ripples on a pond, nothing will remain.",
+      "start": 225120,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 54,
+      "text": "Without memories you will forever be trapped in the present.",
+      "start": 228000,
+      "duration": 3680,
+      "lang": "en"
+    },
+    {
+      "index": 55,
+      "text": "To become a being that transcends time, you need to etch these fleeting,",
+      "start": 231680,
+      "duration": 4320,
+      "lang": "en"
+    },
+    {
+      "index": 56,
+      "text": "sensory inputs, these temporary moments, into something physical that will remain.",
+      "start": 236000,
+      "duration": 5440,
+      "lang": "en"
+    },
+    {
+      "index": 57,
+      "text": "And how does your brain decide what becomes permanent? With a deadly competition.",
+      "start": 241440,
+      "duration": 5314,
+      "lang": "en"
+    },
+    {
+      "index": 58,
+      "text": "How To Store The Past",
+      "start": 247808,
+      "duration": 1617,
+      "lang": "en"
+    },
+    {
+      "index": 59,
+      "text": "In reality there is not just one assembly active in your brain.",
+      "start": 250320,
+      "duration": 3200,
+      "lang": "en"
+    },
+    {
+      "index": 60,
+      "text": "Your brain can’t process everything in the outer and inner world with full attention,",
+      "start": 253520,
+      "duration": 3840,
+      "lang": "en"
+    },
+    {
+      "index": 61,
+      "text": "so different assemblies are fighting for dominance.",
+      "start": 257360,
+      "duration": 2560,
+      "lang": "en"
+    },
+    {
+      "index": 62,
+      "text": "The details are complicated, but at any moment,",
+      "start": 259920,
+      "duration": 2480,
+      "lang": "en"
+    },
+    {
+      "index": 63,
+      "text": "one assembly is winning and deemed the most important by your brain.",
+      "start": 262400,
+      "duration": 4400,
+      "lang": "en"
+    },
+    {
+      "index": 64,
+      "text": "This is what you are aware of right now.",
+      "start": 266800,
+      "duration": 2560,
+      "lang": "en"
+    },
+    {
+      "index": 65,
+      "text": "In your brain, the assembly processing the sentence I’m",
+      "start": 269360,
+      "duration": 2720,
+      "lang": "en"
+    },
+    {
+      "index": 66,
+      "text": "speaking to you seems to be the most active and wins.",
+      "start": 272080,
+      "duration": 3680,
+      "lang": "en"
+    },
+    {
+      "index": 67,
+      "text": "Your brain thinks this matters and you are forming a new memory!",
+      "start": 275760,
+      "duration": 4000,
+      "lang": "en"
+    },
+    {
+      "index": 68,
+      "text": "Two things are happening right now:",
+      "start": 279760,
+      "duration": 1680,
+      "lang": "en"
+    },
+    {
+      "index": 69,
+      "text": "The neurons of the winning assembly are bathed in chemicals that make them more susceptible",
+      "start": 281440,
+      "duration": 4640,
+      "lang": "en"
+    },
+    {
+      "index": 70,
+      "text": "to change and tie them closer together, strengthening the synapses between them.",
+      "start": 286080,
+      "duration": 4720,
+      "lang": "en"
+    },
+    {
+      "index": 71,
+      "text": "And the memory center and librarian of your brain – the hippocampus – is activated.",
+      "start": 290800,
+      "duration": 5440,
+      "lang": "en"
+    },
+    {
+      "index": 72,
+      "text": "The details here are super complicated and the exact process isn't fully understood yet.",
+      "start": 296240,
+      "duration": 5440,
+      "lang": "en"
+    },
+    {
+      "index": 73,
+      "text": "But in a nutshell, your hippocampus creates a blueprint,",
+      "start": 301680,
+      "duration": 3200,
+      "lang": "en"
+    },
+    {
+      "index": 74,
+      "text": "saving the rough configuration of the assembly.",
+      "start": 304880,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 75,
+      "text": "The assembly is saved and put on an index with all your other",
+      "start": 307760,
+      "duration": 3440,
+      "lang": "en"
+    },
+    {
+      "index": 76,
+      "text": "memories that are associated with what was going on in this moment.",
+      "start": 311200,
+      "duration": 3280,
+      "lang": "en"
+    },
+    {
+      "index": 77,
+      "text": "Like “everytime I was confused by something in a kurzgesagt video”.",
+      "start": 314480,
+      "duration": 4720,
+      "lang": "en"
+    },
+    {
+      "index": 78,
+      "text": "Finally you have a memory!",
+      "start": 319200,
+      "duration": 1920,
+      "lang": "en"
+    },
+    {
+      "index": 79,
+      "text": "An activation pattern of millions of neurons, spanning many different regions of your brain.",
+      "start": 321120,
+      "duration": 5280,
+      "lang": "en"
+    },
+    {
+      "index": 80,
+      "text": "Activating any part of the pattern now makes the whole assembly fire – now you",
+      "start": 326400,
+      "duration": 5072,
+      "lang": "en"
+    },
+    {
+      "index": 81,
+      "text": "are able to relive a moment of the past that is gone forever in the real world.",
+      "start": 331472,
+      "duration": 4528,
+      "lang": "en"
+    },
+    {
+      "index": 82,
+      "text": "But this new memory is very fragile and still pretty temporary.",
+      "start": 336000,
+      "duration": 4000,
+      "lang": "en"
+    },
+    {
+      "index": 83,
+      "text": "Your hippocampus holds its blueprint,",
+      "start": 340000,
+      "duration": 2000,
+      "lang": "en"
+    },
+    {
+      "index": 84,
+      "text": "but without reinforcement, the assembly will fade and the synapses will be weakened again.",
+      "start": 342000,
+      "duration": 5280,
+      "lang": "en"
+    },
+    {
+      "index": 85,
+      "text": "This is why you forget most moments of your life,",
+      "start": 347280,
+      "duration": 3040,
+      "lang": "en"
+    },
+    {
+      "index": 86,
+      "text": "why you don’t remember how your coffee tasted 43 weeks ago on a Monday.",
+      "start": 350320,
+      "duration": 4720,
+      "lang": "en"
+    },
+    {
+      "index": 87,
+      "text": "You experience most of your life only once, in the moment you live it.",
+      "start": 355136,
+      "duration": 3601,
+      "lang": "en"
+    },
+    {
+      "index": 88,
+      "text": "And you don’t just forget what happens to you – you also forget what happens in the world.",
+      "start": 359280,
+      "duration": 4880,
+      "lang": "en"
+    },
+    {
+      "index": 89,
+      "text": "Most news stories disappear within days,",
+      "start": 364160,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 90,
+      "text": "and often you never even saw the full picture in the first place.",
+      "start": 366320,
+      "duration": 3440,
+      "lang": "en"
+    },
+    {
+      "index": 91,
+      "text": "This is why we’ve partnered with Ground News,",
+      "start": 369760,
+      "duration": 2400,
+      "lang": "en"
+    },
+    {
+      "index": 92,
+      "text": "a media literacy tool whose mission we fully support.",
+      "start": 372160,
+      "duration": 3600,
+      "lang": "en"
+    },
+    {
+      "index": 93,
+      "text": "Their app and website let you compare coverage,",
+      "start": 375760,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 94,
+      "text": "explore context and see how stories spread over time.",
+      "start": 378640,
+      "duration": 3760,
+      "lang": "en"
+    },
+    {
+      "index": 95,
+      "text": "You can even see how bias shapes the narrative.",
+      "start": 382400,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 96,
+      "text": "Take this study on Alzheimer’s risk in women.",
+      "start": 385520,
+      "duration": 2480,
+      "lang": "en"
+    },
+    {
+      "index": 97,
+      "text": "More than 40 articles were published on it: some focus on how menopause shrinks parts of the brain,",
+      "start": 388000,
+      "duration": 5120,
+      "lang": "en"
+    },
+    {
+      "index": 98,
+      "text": "others highlight the benefits of hormone therapy.",
+      "start": 393120,
+      "duration": 2640,
+      "lang": "en"
+    },
+    {
+      "index": 99,
+      "text": "You’re actively weighing different aspects – and that",
+      "start": 395760,
+      "duration": 2560,
+      "lang": "en"
+    },
+    {
+      "index": 100,
+      "text": "deeper engagement helps your brain to remember.",
+      "start": 398320,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 101,
+      "text": "Most importantly, Ground News reveals \"blind spots\" – stories that only one side is covering,",
+      "start": 401200,
+      "duration": 5520,
+      "lang": "en"
+    },
+    {
+      "index": 102,
+      "text": "showing you what your usual news feed is hiding.",
+      "start": 406720,
+      "duration": 2720,
+      "lang": "en"
+    },
+    {
+      "index": 103,
+      "text": "As information bubbles become the norm, thinking critically about the news is no longer optional.",
+      "start": 409440,
+      "duration": 6000,
+      "lang": "en"
+    },
+    {
+      "index": 104,
+      "text": "And Ground News makes it easier to do just that.",
+      "start": 415440,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 105,
+      "text": "Try it via the QR code on the screen or go to ground.news/nutshell.",
+      "start": 418800,
+      "duration": 4960,
+      "lang": "en"
+    },
+    {
+      "index": 106,
+      "text": "Our link below gives you 40% off an unlimited access subscription,",
+      "start": 423760,
+      "duration": 3920,
+      "lang": "en"
+    },
+    {
+      "index": 107,
+      "text": "and directly supports our channel.",
+      "start": 427680,
+      "duration": 2320,
+      "lang": "en"
+    },
+    {
+      "index": 108,
+      "text": "And now, back to your brand-new memory!",
+      "start": 430000,
+      "duration": 2386,
+      "lang": "en"
+    },
+    {
+      "index": 109,
+      "text": "For the past to be truly saved, the assembly needs to fight for its life.",
+      "start": 433680,
+      "duration": 4720,
+      "lang": "en"
+    },
+    {
+      "index": 110,
+      "text": "There are many ways this can happen:",
+      "start": 438400,
+      "duration": 2240,
+      "lang": "en"
+    },
+    {
+      "index": 111,
+      "text": "One of them is novelty.",
+      "start": 440640,
+      "duration": 1760,
+      "lang": "en"
+    },
+    {
+      "index": 112,
+      "text": "If you walk to the bus, listening to some mildly interesting podcast as usual,",
+      "start": 442400,
+      "duration": 4400,
+      "lang": "en"
+    },
+    {
+      "index": 113,
+      "text": "this assembly’s signal is too weak.",
+      "start": 446800,
+      "duration": 2240,
+      "lang": "en"
+    },
+    {
+      "index": 114,
+      "text": "This moment in time will be lost, like tears in rain.",
+      "start": 449040,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 115,
+      "text": "But if one day you see a crow and a squirrel fighting over a nut,",
+      "start": 453280,
+      "duration": 3440,
+      "lang": "en"
+    },
+    {
+      "index": 116,
+      "text": "only for a mouse to steal it – the assembly will fire strongly just for the novelty of it all.",
+      "start": 456720,
+      "duration": 5360,
+      "lang": "en"
+    },
+    {
+      "index": 117,
+      "text": "Another one is to reactivate the memory over and over after it is formed.",
+      "start": 462080,
+      "duration": 4080,
+      "lang": "en"
+    },
+    {
+      "index": 118,
+      "text": "Thinking about the animal fight all day and telling everyone about the",
+      "start": 466160,
+      "duration": 3200,
+      "lang": "en"
+    },
+    {
+      "index": 119,
+      "text": "strange event will etch it deeper into your brain.",
+      "start": 469360,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 120,
+      "text": "Similar to doing loads of repetition when you try to learn something.",
+      "start": 472720,
+      "duration": 3760,
+      "lang": "en"
+    },
+    {
+      "index": 121,
+      "text": "And a major way to make a memory stick is to feel emotions.",
+      "start": 476480,
+      "duration": 4640,
+      "lang": "en"
+    },
+    {
+      "index": 122,
+      "text": "Emotions are really strong mechanisms",
+      "start": 481120,
+      "duration": 2320,
+      "lang": "en"
+    },
+    {
+      "index": 123,
+      "text": "to guide our behavior that evolved hundreds of millions of years ago.",
+      "start": 483440,
+      "duration": 3600,
+      "lang": "en"
+    },
+    {
+      "index": 124,
+      "text": "They motivate you to avoid danger, seek out food and reproduce.",
+      "start": 487040,
+      "duration": 4560,
+      "lang": "en"
+    },
+    {
+      "index": 125,
+      "text": "You experience this as something feeling good or bad.",
+      "start": 491600,
+      "duration": 3200,
+      "lang": "en"
+    },
+    {
+      "index": 126,
+      "text": "Whenever you feel something strongly, your ancient brain decides that whatever is going",
+      "start": 494800,
+      "duration": 4000,
+      "lang": "en"
+    },
+    {
+      "index": 127,
+      "text": "on is important for your survival, regardless if it's wrong or not.",
+      "start": 498800,
+      "duration": 4560,
+      "lang": "en"
+    },
+    {
+      "index": 128,
+      "text": "So many of your strongest memories have strong emotional flavors.",
+      "start": 503360,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 129,
+      "text": "The humiliation when you acted dumb in front of your crush.",
+      "start": 507600,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 130,
+      "text": "The joy when you beat your dad at Mario Kart.",
+      "start": 510960,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 131,
+      "text": "The devastation when your dog died.",
+      "start": 513840,
+      "duration": 2480,
+      "lang": "en"
+    },
+    {
+      "index": 132,
+      "text": "The overwhelming love when you held your first kid.",
+      "start": 516320,
+      "duration": 3840,
+      "lang": "en"
+    },
+    {
+      "index": 133,
+      "text": "If we just made you feel something, we increased the chances that you will remember this video.",
+      "start": 520160,
+      "duration": 5040,
+      "lang": "en"
+    },
+    {
+      "index": 134,
+      "text": "Strong activation, repetition and emotions do the same thing to your memory:",
+      "start": 525200,
+      "duration": 4160,
+      "lang": "en"
+    },
+    {
+      "index": 135,
+      "text": "We said before that chemicals made the neurons able to change – well now they change drastically.",
+      "start": 529360,
+      "duration": 6400,
+      "lang": "en"
+    },
+    {
+      "index": 136,
+      "text": "Like wax warming up and melting together, the gears of the assembly grow new teeth",
+      "start": 535760,
+      "duration": 4800,
+      "lang": "en"
+    },
+    {
+      "index": 137,
+      "text": "to fit more tightly – neurons grow more synapses and fire together even better.",
+      "start": 540560,
+      "duration": 5440,
+      "lang": "en"
+    },
+    {
+      "index": 138,
+      "text": "They become closer and more solid.",
+      "start": 546000,
+      "duration": 2480,
+      "lang": "en"
+    },
+    {
+      "index": 139,
+      "text": "A lot of this happens while you sleep.",
+      "start": 548480,
+      "duration": 2240,
+      "lang": "en"
+    },
+    {
+      "index": 140,
+      "text": "Your hippocampus replays the assembly over and over, making it more solid and easier to retrieve",
+      "start": 550720,
+      "duration": 5440,
+      "lang": "en"
+    },
+    {
+      "index": 141,
+      "text": "– which also means that if you don’t sleep enough, you literally forget more of your life.",
+      "start": 556160,
+      "duration": 5120,
+      "lang": "en"
+    },
+    {
+      "index": 142,
+      "text": "Think about that when you have to study for a test next time – without proper sleep,",
+      "start": 561280,
+      "duration": 4080,
+      "lang": "en"
+    },
+    {
+      "index": 143,
+      "text": "you’ll be wasting your time.",
+      "start": 565360,
+      "duration": 1760,
+      "lang": "en"
+    },
+    {
+      "index": 144,
+      "text": "But in the end you have a proper long term memory.",
+      "start": 567120,
+      "duration": 3040,
+      "lang": "en"
+    },
+    {
+      "index": 145,
+      "text": "A diorama of hardened wax, displaying a moment of your life.",
+      "start": 570160,
+      "duration": 4480,
+      "lang": "en"
+    },
+    {
+      "index": 146,
+      "text": "A scene etched into a pattern of connection inside your brain.",
+      "start": 574640,
+      "duration": 3920,
+      "lang": "en"
+    },
+    {
+      "index": 147,
+      "text": "Now you can remember it forever! Well…",
+      "start": 578560,
+      "duration": 3009,
+      "lang": "en"
+    },
+    {
+      "index": 148,
+      "text": "Why Remembering Changes Your Memories Forever",
+      "start": 582080,
+      "duration": 3089,
+      "lang": "en"
+    },
+    {
+      "index": 149,
+      "text": "To remember you need a cue for the memory, something that is part of the original assembly.",
+      "start": 585920,
+      "duration": 4880,
+      "lang": "en"
+    },
+    {
+      "index": 150,
+      "text": "A smell, sound, word or maybe the image of an angry crow.",
+      "start": 590800,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 151,
+      "text": "Your hippocampus searches its index for the cue,",
+      "start": 595040,
+      "duration": 2560,
+      "lang": "en"
+    },
+    {
+      "index": 152,
+      "text": "hopefully finding the right stored assembly, and activates it.",
+      "start": 597600,
+      "duration": 3280,
+      "lang": "en"
+    },
+    {
+      "index": 153,
+      "text": "It fires.",
+      "start": 600880,
+      "duration": 1200,
+      "lang": "en"
+    },
+    {
+      "index": 154,
+      "text": "Your past experience is retrieved.",
+      "start": 602080,
+      "duration": 2480,
+      "lang": "en"
+    },
+    {
+      "index": 155,
+      "text": "The diorama appears in your mind and you relive seeing the crow and squirrel fighting!",
+      "start": 604560,
+      "duration": 5200,
+      "lang": "en"
+    },
+    {
+      "index": 156,
+      "text": "So far so good.",
+      "start": 609760,
+      "duration": 1520,
+      "lang": "en"
+    },
+    {
+      "index": 157,
+      "text": "But as the diorama plays for you, you start changing it.",
+      "start": 611280,
+      "duration": 3920,
+      "lang": "en"
+    },
+    {
+      "index": 158,
+      "text": "Recalling memories is not like loading a video and pressing play.",
+      "start": 615200,
+      "duration": 3840,
+      "lang": "en"
+    },
+    {
+      "index": 159,
+      "text": "Under the light of your attention parts of the wax become soft again.",
+      "start": 619040,
+      "duration": 3920,
+      "lang": "en"
+    },
+    {
+      "index": 160,
+      "text": "Moldable.",
+      "start": 622960,
+      "duration": 880,
+      "lang": "en"
+    },
+    {
+      "index": 161,
+      "text": "Which means that as you experience the memory in your mind, the neurons",
+      "start": 623840,
+      "duration": 3600,
+      "lang": "en"
+    },
+    {
+      "index": 162,
+      "text": "involved are bathed in chemicals that make them able to change their structure again.",
+      "start": 627440,
+      "duration": 5120,
+      "lang": "en"
+    },
+    {
+      "index": 163,
+      "text": "Your hippocampus organizes memories based on a few things but most importantly:",
+      "start": 632560,
+      "duration": 4320,
+      "lang": "en"
+    },
+    {
+      "index": 164,
+      "text": "the context of the experience.",
+      "start": 636880,
+      "duration": 2000,
+      "lang": "en"
+    },
+    {
+      "index": 165,
+      "text": "And the context is now very different.",
+      "start": 638880,
+      "duration": 2320,
+      "lang": "en"
+    },
+    {
+      "index": 166,
+      "text": "When you formed the memory you were tired, in a mildly bad mood before work and very surprised.",
+      "start": 641200,
+      "duration": 5520,
+      "lang": "en"
+    },
+    {
+      "index": 167,
+      "text": "Right now you are pulling the memory as you are having a night out with your friends",
+      "start": 646720,
+      "duration": 3520,
+      "lang": "en"
+    },
+    {
+      "index": 168,
+      "text": "and are telling them your hilarious story of the epic squirrel crow fight.",
+      "start": 650240,
+      "duration": 4560,
+      "lang": "en"
+    },
+    {
+      "index": 169,
+      "text": "And this new context seeps into the memory.",
+      "start": 654800,
+      "duration": 3440,
+      "lang": "en"
+    },
+    {
+      "index": 170,
+      "text": "New connections form, some synapses are weakened while others reconfigure.",
+      "start": 658240,
+      "duration": 4960,
+      "lang": "en"
+    },
+    {
+      "index": 171,
+      "text": "The diorama changes, becomes funnier and more absurd.",
+      "start": 663200,
+      "duration": 4000,
+      "lang": "en"
+    },
+    {
+      "index": 172,
+      "text": "Not because you want it to,",
+      "start": 667200,
+      "duration": 1440,
+      "lang": "en"
+    },
+    {
+      "index": 173,
+      "text": "your brain is just incorporating the new context of your life into the memory.",
+      "start": 668640,
+      "duration": 4640,
+      "lang": "en"
+    },
+    {
+      "index": 174,
+      "text": "As you finish your story, the light of your attention moves on,",
+      "start": 673280,
+      "duration": 3440,
+      "lang": "en"
+    },
+    {
+      "index": 175,
+      "text": "the diorama hardens again, now in a new form.",
+      "start": 676720,
+      "duration": 3600,
+      "lang": "en"
+    },
+    {
+      "index": 176,
+      "text": "The next time you remember the animal fight,",
+      "start": 680320,
+      "duration": 2160,
+      "lang": "en"
+    },
+    {
+      "index": 177,
+      "text": "you will remember it as way funnier than when you actually experienced it.",
+      "start": 682480,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 178,
+      "text": "And it is the same with all your memories – when you retrieve them,",
+      "start": 686720,
+      "duration": 2960,
+      "lang": "en"
+    },
+    {
+      "index": 179,
+      "text": "your brain adds new information or forgets some, and incorporates your emotions and expectations.",
+      "start": 689680,
+      "duration": 5920,
+      "lang": "en"
+    },
+    {
+      "index": 180,
+      "text": "In a sense it updates your past life to fit the narrative of your present life.",
+      "start": 695600,
+      "duration": 4720,
+      "lang": "en"
+    },
+    {
+      "index": 181,
+      "text": "Over time, even core memories can shift, combine with others, or generate entirely new elements.",
+      "start": 700320,
+      "duration": 6240,
+      "lang": "en"
+    },
+    {
+      "index": 182,
+      "text": "Your memory system is deeply intertwined with the mechanisms for learning – it was never",
+      "start": 706560,
+      "duration": 4560,
+      "lang": "en"
+    },
+    {
+      "index": 183,
+      "text": "designed to create an accurate representation of the world.",
+      "start": 711120,
+      "duration": 3440,
+      "lang": "en"
+    },
+    {
+      "index": 184,
+      "text": "So your memories are updated as you gain new experiences and information.",
+      "start": 714560,
+      "duration": 4160,
+      "lang": "en"
+    },
+    {
+      "index": 185,
+      "text": "Ironically, the more you remember something actively,",
+      "start": 718720,
+      "duration": 2800,
+      "lang": "en"
+    },
+    {
+      "index": 186,
+      "text": "the less of the original experience remains.",
+      "start": 721520,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 187,
+      "text": "This also means that just because you remember",
+      "start": 724640,
+      "duration": 2240,
+      "lang": "en"
+    },
+    {
+      "index": 188,
+      "text": "something really well it does not mean your memory is correct.",
+      "start": 726880,
+      "duration": 3760,
+      "lang": "en"
+    },
+    {
+      "index": 189,
+      "text": "It just means that its assembly is really strong and vivid.",
+      "start": 730640,
+      "duration": 3680,
+      "lang": "en"
+    },
+    {
+      "index": 190,
+      "text": "It’s not a sudden process, your identity is safe for today.",
+      "start": 734320,
+      "duration": 4240,
+      "lang": "en"
+    },
+    {
+      "index": 191,
+      "text": "It is a slow shift in the overall patterns inside your mind.",
+      "start": 738560,
+      "duration": 3680,
+      "lang": "en"
+    },
+    {
+      "index": 192,
+      "text": "You are who you are today, but your future self will be different and",
+      "start": 742240,
+      "duration": 4320,
+      "lang": "en"
+    },
+    {
+      "index": 193,
+      "text": "they will think and feel differently about the things you experience today.",
+      "start": 746560,
+      "duration": 5040,
+      "lang": "en"
+    },
+    {
+      "index": 194,
+      "text": "This is also why therapy can be so helpful.",
+      "start": 751600,
+      "duration": 3120,
+      "lang": "en"
+    },
+    {
+      "index": 195,
+      "text": "By revisiting hurtful memories in a safe context,",
+      "start": 754720,
+      "duration": 3360,
+      "lang": "en"
+    },
+    {
+      "index": 196,
+      "text": "ideally with helpful introspection, you are literally changing your brain.",
+      "start": 758080,
+      "duration": 4720,
+      "lang": "en"
+    },
+    {
+      "index": 197,
+      "text": "Literally rewiring yourself to get a chance to be happier.",
+      "start": 762800,
+      "duration": 4160,
+      "lang": "en"
+    },
+    {
+      "index": 198,
+      "text": "Because yes, your memories may be the lore of your life and the basis for your future.",
+      "start": 766960,
+      "duration": 5120,
+      "lang": "en"
+    },
+    {
+      "index": 199,
+      "text": "But it turns out, with some help you may be able to rewrite your lore and be who you want to be.",
+      "start": 772080,
+      "duration": 6071,
+      "lang": "en"
+    },
+    {
+      "index": 200,
+      "text": "And if you want to rewrite the lore of your home,",
+      "start": 782080,
+      "duration": 2880,
+      "lang": "en"
+    },
+    {
+      "index": 201,
+      "text": "new human made, original Art Prints just landed in the kurzgesagt shop.",
+      "start": 784960,
+      "duration": 4720,
+      "lang": "en"
+    },
+    {
+      "index": 202,
+      "text": "Choose a dramatic meteor shower, a tranquil lunar dreamscape or a",
+      "start": 789680,
+      "duration": 4320,
+      "lang": "en"
+    },
+    {
+      "index": 203,
+      "text": "powerful volcanic eruption – or even better, all of them.",
+      "start": 794000,
+      "duration": 4080,
+      "lang": "en"
+    },
+    {
+      "index": 204,
+      "text": "Each print is created with bold neon colors and set in a matching fluorescent acrylic frame.",
+      "start": 798080,
+      "duration": 5760,
+      "lang": "en"
+    },
+    {
+      "index": 205,
+      "text": "The sturdy frame is designed to stand solo on your desk or hang on your wall with ease – and",
+      "start": 803840,
+      "duration": 5360,
+      "lang": "en"
+    },
+    {
+      "index": 206,
+      "text": "when the light hits it just right, it radiates vivid color into your room.",
+      "start": 809200,
+      "duration": 4640,
+      "lang": "en"
+    },
+    {
+      "index": 207,
+      "text": "Get yours now and literally brighten up your space.",
+      "start": 813840,
+      "duration": 5920,
+      "lang": "en"
+    }
+  ]
+}

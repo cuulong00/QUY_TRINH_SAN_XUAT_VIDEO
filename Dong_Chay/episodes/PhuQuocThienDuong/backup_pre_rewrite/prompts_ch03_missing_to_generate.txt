@@ -1,0 +1,65 @@
+# ==============================================================================
+# TỔNG HỢP 10 PHÂN CẢNH CÒN THIẾU CẦN TẠO CỦA CHƯƠNG 3 (SC026 -> SC035)
+# Kênh Dòng Chảy — Tập phim: Phú Quốc Thiên Đường
+# Thư mục đã tạo: /Users/pro16/Downloads/phuquoc-thien-duong/ch3 (đã có SC001 -> SC025)
+# Mục đích: Chỉ cần copy 10 cảnh này để render nốt, ghép nối vào 25 video đã có.
+# ==============================================================================
+
+# [CHƯƠNG 3] CH03_SC026 — Trục đại lộ ĐT.975 mở rộng 10 làn xe (nền 62m)
+CH03_SC026 [IMAGE]: A flat 2D vector illustration set along the expanded 62-meter wide DT.975 arterial boulevard on Phu Quoc Island, Vietnam, featuring ten wide lanes with clean lane markings, central landscaped floral median strips, and smart LED street lighting. Clean bold outlines, flat colors, crisp bold text overlay centered in the upper third displaying "DT.975 BOULEVARD: 10 LANES (62M WIDTH)" --ar 16:9
+
+CH03_SC026 [VIDEO]: @CH03_SC026.png -> Starting with an aerial view down the ten-lane highway, a smooth forward tracking shot flying along the wide central median strip, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC027 — Đường dây 220kV vượt biển Kiên Bình - Phú Quốc dài 80,4 km
+CH03_SC027 [IMAGE]: A flat 2D vector illustration set from a scenic maritime perspective over the Kien Binh - Phu Quoc sea crossing, Vietnam, featuring towering galvanized steel 220kV transmission towers spanning 80.4 km across open turquoise waters. Clean bold outlines, flat colors, crisp bold text overlay aligned to the bottom-right corner displaying "220KV CROSS-SEA POWER GRID (80.4 KM)" --ar 16:9
+
+CH03_SC027 [VIDEO]: @CH03_SC027.png -> Starting with a low-angle shot from the sea surface, a slow camera pan across the magnificent line of offshore transmission towers extending to the horizon, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC028 — 169 cột tháp thép neo biển sâu, tăng công suất điện gấp 5 lần
+CH03_SC028 [IMAGE]: A flat 2D vector illustration set at an offshore 220kV steel pylon anchored in the deep sea of Kien Binh - Phu Quoc, Vietnam, featuring heavy high-voltage conductors carrying power with an infographic indicating 169 towers and a 500% capacity increase. Clean bold outlines, flat colors, crisp bold text overlay centered displaying "169 OFFSHORE TOWERS | 5X CAPACITY" --ar 16:9
+
+CH03_SC028 [VIDEO]: @CH03_SC028.png -> Starting with a close-up of the offshore tower base, the camera slowly tilts up along the towering steel lattice structure into the blue sky, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC029 — Phòng điều độ SCADA tự động hóa trạm biến áp 220kV
+CH03_SC029 [IMAGE]: A flat 2D vector illustration set inside the modern automated SCADA power substation control room on Phu Quoc Island, Vietnam, featuring Vietnamese electrical engineers with Southeast Asian features monitoring stable power distribution across international resorts and convention centers. Clean bold outlines, flat colors, crisp bold text overlay aligned to the top-right corner displaying "ENERGY SECURITY ASSURANCE" --ar 16:9
+
+CH03_SC029 [VIDEO]: @CH03_SC029.png -> Starting with a medium shot of the SCADA control screens, the camera slowly pans across the engineers verifying stable voltage across the island grid, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC030 — Toàn cảnh đại hạ tầng Phú Quốc trong ánh hoàng hôn
+CH03_SC030 [IMAGE]: A flat 2D vector illustration set from a panoramic coastal viewpoint on Phu Quoc Island, Vietnam at sunset, featuring the complete skyline of newly built transport arteries, bridges, and seaport quays bathed in warm golden light. Clean bold outlines, flat colors, dramatic chiaroscuro lighting --ar 16:9
+
+CH03_SC030 [VIDEO]: @CH03_SC030.png -> Starting with a wide panoramic view of the coastal infrastructure, a subtle slow zoom-in capturing the enduring scale of the developments, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC031 — Góc máy điện ảnh cây cầu vượt biển phản chiếu làn nước
+CH03_SC031 [IMAGE]: A flat 2D vector illustration set along a modern multi-span coastal bridge on Phu Quoc Island, Vietnam, featuring executive vehicles cruising across the smooth deck with their reflections shimmering on the calm blue water below. Clean bold outlines, flat colors, elegant cinematic composition --ar 16:9
+
+CH03_SC031 [VIDEO]: @CH03_SC031.png -> Starting with a steady side view of the bridge arches, the camera slowly pans with the moving vehicles as they travel along the coastal span, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC032 — Phòng nghiên cứu kinh tế: Ai nắm giữ phần hồn cỗ máy?
+CH03_SC032 [IMAGE]: A flat 2D vector illustration set inside an economic strategy think-tank office in Hanoi, Vietnam, featuring a Vietnamese strategic analyst standing in contemplation before a large regional development map dividing Phu Quoc Island into four distinct corporate operational zones. Clean bold outlines, flat colors, dramatic noir lighting, crisp bold text overlay centered displaying "WHO CONTROLS THE ECONOMIC ENGINE?" --ar 16:9
+
+CH03_SC032 [VIDEO]: @CH03_SC032.png -> Starting with an over-the-shoulder shot of the analyst looking at the four-zone map, a subtle slow zoom-in on the four corporate sector boundaries, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC033 — Bảng cơ cấu vốn tư nhân 504.000 tỷ không cạnh tranh triệt tiêu
+CH03_SC033 [IMAGE]: A flat 2D vector illustration set on an investment distribution board, featuring four robust structural pillars representing over 504,000 billion in registered private capital from 330 projects standing firm without destructive price competition. Clean bold outlines, flat colors, crisp bold text overlay aligned to the bottom-left corner displaying "> 504,000 BILLION PRIVATE CAPITAL" --ar 16:9
+
+CH03_SC033 [VIDEO]: @CH03_SC033.png -> Starting with a wide view of the four investment pillars, the camera slowly zooms in as the registered capital totals illuminate in gold, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC034 — Bản đồ phân chia 4 Cực lãnh địa khép kín
+CH03_SC034 [IMAGE]: A flat 2D vector illustration set on a regional zoning map of Phu Quoc Island, Vietnam, clearly delineating four distinct corporate domains: Vingroup in the North, Sun Group in the South, BIM Group in the Southwest, and IPPG on the East Coast. Clean bold outlines, flat colors, crisp bold text overlay centered in the upper third displaying "4 STRATEGIC CORPORATE REALMS" --ar 16:9
+
+CH03_SC034 [VIDEO]: @CH03_SC034.png -> Starting with a steady shot of the island map, the camera highlights each corporate territory in sequence with distinct color-coded boundaries, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# [CHƯƠNG 3] CH03_SC035 — Sơ đồ vòng tuần hoàn vốn khép kín (Bridge sang Chương 4)
+CH03_SC035 [IMAGE]: A flat 2D vector illustration set on a closed-loop economic cycle diagram, featuring dynamic luminous pathways showing international travelers and foreign currency circulating smoothly across all four island quadrants into Chapter 4. Clean bold outlines, flat colors, crisp bold text overlay centered displaying "THE CLOSED-LOOP CAPITAL CYCLE" --ar 16:9
+
+CH03_SC035 [VIDEO]: @CH03_SC035.png -> Starting with the circular capital loop graphic, the camera smoothly pans along the complete circuit around the four island quadrants, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9

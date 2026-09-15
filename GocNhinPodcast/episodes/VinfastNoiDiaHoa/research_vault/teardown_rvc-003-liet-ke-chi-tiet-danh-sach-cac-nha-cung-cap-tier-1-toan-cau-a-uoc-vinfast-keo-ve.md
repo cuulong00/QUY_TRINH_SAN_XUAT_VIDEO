@@ -1,0 +1,140 @@
+---
+title: "Liệt kê chi tiết danh sách các nhà cung cấp Tier-1 toàn cầu đã được VinFast 'kéo' về mở nhà máy ngay trong khuôn viên hoặc khu phức hợp phụ trợ tại Hải Phòng (Hiệu ứng mỏ neo). Trích xuất tên nhà cung cấp và cụm linh kiện họ phụ trách (ví dụ: ZF, Faurecia/FORVIA, Lear Corporation)."
+type: nblm-answer
+asked_at: 2026-07-22T07:16:50.237Z
+notebook_url: "https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1"
+session_id: "2c869afd"
+citations_count: 10
+sources:
+  - "VinFast 2018 Paris Motor Show Press kit"
+  - "VinFast and Böllhoff – a Vietnamese-German road to success"
+  - "Phân Tích Chuyên Sâu: Quy Tắc Xuất Xứ Thế Hệ Mới Và Chuỗi Cung Ứng Xe Điện VinFast"
+  - "0200795346 - CÔNG TY TNHH LEAR (VIỆT NAM) - MaSoThue"
+  - "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026"
+---
+
+# Liệt kê chi tiết danh sách các nhà cung cấp Tier-1 toàn cầu đã được VinFast 'kéo' về mở nhà máy ngay trong khuôn viên hoặc khu phức hợp phụ trợ tại Hải Phòng (Hiệu ứng mỏ neo). Trích xuất tên nhà cung cấp và cụm linh kiện họ phụ trách (ví dụ: ZF, Faurecia/FORVIA, Lear Corporation).
+
+> Asked on 2026-07-22T07:16:50.237Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1)
+
+## Answer
+
+Thoughts
+Mô hình phân khu công nghiệp phụ trợ Supplier Park rộng 700.000 m
+2
+nằm trực tiếp trong khuôn viên Tổ hợp sản xuất ô tô VinFast Hải Phòng là một sáng kiến mang tính chiến lược
+1
+2
+. Bằng cách tạo ra "hiệu ứng mỏ neo", VinFast đã thu hút thành công các tập đoàn công nghiệp phụ trợ cấp 1 (Tier-1) hàng đầu thế giới thiết lập nhà xưởng sản xuất tại chỗ
+3
+.
+Dưới đây là danh sách chi tiết các nhà cung cấp Tier-1 toàn cầu đã mở nhà máy tại tổ hợp Hải Phòng và cụm linh kiện họ phụ trách:
+Danh sách nhà cung cấp Tier-1 tại khu phức hợp phụ trợ VinFast Hải Phòng
+Tên nhà cung cấp
+Thực thể pháp lý tại Hải Phòng
+Vị trí định vị sản xuất
+Cụm linh kiện / Hệ thống phụ trách
+ZF Group <br>(Đức)
+Công Ty TNHH ZF Automotive Việt Nam
+4
+Phân khu Supplier Park
+4
+• Hệ thống khung gầm
+4
+<br>• Cụm trục treo trước/sau
+4
+<br>• Hệ thống lái và hệ thống giảm chấn
+4
+Lear Corporation <br>(Mỹ)
+Công Ty TNHH Lear (Việt Nam)
+4
+Nhà xưởng Supplier Park
+4
+• Hệ thống ghế ngồi ô tô hoàn chỉnh và vỏ bọc ghế
+4
+5
+<br>• Hệ thống phân phối điện năng và dây dẫn điện áp cao trên xe
+4
+5
+Faurecia (FORVIA) <br>(Pháp)
+Faurecia S.A.
+4
+Tổ hợp sản xuất VinFast Hải Phòng
+4
+• Cabin
+4
+<br>• Bảng điều khiển trung tâm (dashboards)
+4
+<br>• Các module ốp cửa nội thất
+4
+Aapico Hitech <br>(Thái Lan)
+Liên doanh Aapico - VinFast
+4
+Phân khu cơ khí phụ trợ
+4
+• Chế tạo các cấu kiện kim loại dập dính liền
+4
+<br>• Hoàn thiện và lắp ráp khung xương xe (Body-in-White / BIW)
+4
+Các đối tác liên kết công nghệ phụ trợ tiêu biểu khác tại Hải Phòng:
+Böllhoff (Đức): Hợp tác thông qua liên doanh Bollhoff Vietnam (thành lập tháng 4/2021) cung cấp các phần tử và hệ thống công nghệ liên kết chất lượng cao phục vụ trực tiếp cho dây chuyền sản xuất thân xe như: phần tử đinh tán tự xỏ và hệ thống tán đinh tự động RIVSET®, đai ốc rút RIVKLE® tạo ren trên tấm mỏng, chốt nhựa giảm chấn SNAPLOC® và công nghệ bù dung sai tự động FLEXITOL®
+6
+.
+Ý nghĩa chiến lược của mô hình Supplier Park:
+Quản lý chuỗi cung ứng tức thời (Just-In-Time - JIT): Việc các nhà sản xuất linh kiện vệ tinh nằm sát vách nhà máy lắp ráp chính giúp VinFast loại bỏ hoàn toàn rủi ro chậm trễ logistics, tối ưu hóa dòng luân chuyển bán thành phẩm và giảm lượng tồn kho
+3
+.
+Hỗ trợ tối đa hạch toán RVC (Hàm lượng Giá trị Khu vực): Khi các hãng Tier-1 vận hành trực tiếp tại Hải Phòng, toàn bộ chi phí vận hành tại chỗ của họ (gồm lương nhân công Việt Nam, chi phí điện nước, khấu hao máy móc lắp ráp tại Việt Nam, lợi nhuận của chi nhánh tại nước sở tại) đều được chuyển hóa trực tiếp thành giá trị gia tăng nội địa cho chiếc xe điện VinFast
+7
+.
+Loại bỏ chi phí trung gian phi sản xuất: Khi tính toán RVC để xuất khẩu, dòng tiền mua sắm các linh kiện cồng kềnh từ phân khu Supplier Park này được hạch toán hoàn toàn là chi phí mua nguyên vật liệu nội địa
+8
+. Nó giúp loại bỏ triệt để các chi phí không được cộng gộp khi tính RVC (như cước vận tải biển quốc tế, phí bảo hiểm hàng hải và thuế nhập khẩu linh kiện nguyên cụm)
+8
+, tạo bệ đỡ vững chắc giúp xe VinFast dễ dàng vượt qua ngưỡng RVC 40% để hưởng thuế 0% sang thị trường ASEAN
+9
+10
+.
+📊 Bạn có muốn tôi thực hiện một phân tích chi tiết về việc các chi phí vận hành lắp đặt nhà xưởng (ví dụ như tấm panel cách nhiệt PIR GP ISOFRIGO cung cấp bởi SPT Green Building tại Supplier Park Hải Phòng) đóng đóng vai trò thế nào trong việc hạch toán chi phí ròng để tối ưu hóa xuất xứ xe điện không?
+
+## Sources
+
+### [1] VinFast 2018 Paris Motor Show Press kit
+
+> Further partnerships are being progressed, in particular with a view to supporting world-class suppliers to locate facilities at the complex's 700,000 m 2 dedicated supplier park. This space will enable VinFast to support the ongoing development of the automotive supply chain in Vietnam, and increase the locally-supplied content to its factory. Several major global tier one suppliers have already committed to the supplier park, including Germany's ZF Group, Lear Corporation of the USA, and Thailand's APPICO.
+
+### [2] VinFast and Böllhoff – a Vietnamese-German road to success
+
+> In June 2017, the market-leading conglomerate also founded its own automotive division: VinFast. In a record time of 21 months, a 335 hectare "state-of-the-art" factory was established in Hai Phong, which can produce over 250,000 complete vehicles per year in the first phase. In addition, a separate supplier park and deep sea port were built in the immediate vicinity. VinFast branch offices are already located in the United States, Canada, Europe and Vietnam; a proving ground is based in Australia.
+
+### [3] Phân Tích Chuyên Sâu: Quy Tắc Xuất Xứ Thế Hệ Mới Và Chuỗi Cung Ứng Xe Điện VinFast
+
+> Trong mảng công nghệ lái tự động, VinFast áp dụng chiến lược phát triển đột phá thông qua các đối tác AI lớn toàn cầu [cite: 30, 31]. Đối với các hệ thống ADAS Cấp độ 2 hiện tại, xe được trang bị các camera và radar quét xung quanh xe để hỗ trợ các tính năng như giữ làn tự động và cảnh báo va chạm [cite: 29, 30, 32]. Nhằm đón đầu công nghệ tự hành Cấp độ 4, VinFast đã công bố hợp tác chiến lược với hãng AI Autobrains để triển khai hệ thống Agentic AI chạy trên nền tảng siêu máy tính NVIDIA DRIVE Hyperion [cite: 31, 33, 34]. Giải pháp Agentic AI này vận hành dựa trên kiến trúc ưu tiên camera (camera-first) sử dụng 7 camera tiêu chuẩn và bộ vi xử lý nhỏ gọn đạt hiệu năng 20 TOPS (trillion operations per second) [cite: 30, 35]. Khác với các hệ thống lái tự động truyền thống đòi hỏi tài nguyên tính toán cực lớn, Agentic AI triển khai các tác nhân AI chuyên biệt chỉ kích hoạt khi nhiệm vụ lái xe yêu cầu thực tế, giúp giảm tải computational overhead và loại bỏ sự phụ thuộc vào các cảm biến LiDAR hay bản đồ độ phân giải cao HD Map đắt đỏ [cite: 30, 33, 35].
+
+### [4] Phân Tích Chuyên Sâu: Quy Tắc Xuất Xứ Thế Hệ Mới Và Chuỗi Cung Ứng Xe Điện VinFast
+
+> [cite: 31, 33, 34]. Giải pháp Agentic AI này vận hành dựa trên kiến trúc ưu tiên camera (camera-first) sử dụng 7 camera tiêu chuẩn và bộ vi xử lý nhỏ gọn đạt hiệu năng 20 TOPS (trillion operations per second) [cite: 30, 35]. Khác với các hệ thống lái tự động truyền thống đòi hỏi tài nguyên tính toán cực lớn, Agentic AI triển khai các tác nhân AI chuyên biệt chỉ kích hoạt khi nhiệm vụ lái xe yêu cầu thực tế, giúp giảm tải computational overhead và loại bỏ sự phụ thuộc vào các cảm biến LiDAR hay bản đồ độ phân giải cao HD Map đắt đỏ [cite: 30, 33, 35]. Hệ thống camera-first này kết hợp cùng công nghệ định vị Air-to-Road của Autobrains giúp tạo ra một giải pháp tự hành cấp độ cao có chi phí hợp lý, phù hợp để triển khai quy mô lớn tại các đô thị phức tạp của Đông Nam Á [cite: 31, 33, 35]. -------------------------------------------------------------------------------- Chiến lược Supplier Park và quản lý nhà cung cấp Tier-1 Mô hình phân khu công nghiệp phụ trợ Supplier Park nằm trực tiếp trong khuôn viên tổ hợp Hải Phòng là một sáng kiến mang tính chiến lược của VinFast nhằm giải quyết bài toán chuỗi cung ứng tức thời (Just-In-Time - JIT) và gia tăng tỷ lệ giá trị nội địa hóa thực chất [cite: 22, 36, 37].
+
+### [5] 0200795346 - CÔNG TY TNHH LEAR (VIỆT NAM) - MaSoThue
+
+> Chi tiết: - Sản xuất các hệ thống ghế ngồi và bộ phận ghế ngồi của xe ô tô bao gồm vỏ bọc ghế ngồi - Sản xuất các hệ thống sản phẩm điện và phân phối điện của xe ô tô Cập nhật mã số thuế 0200795346 lần cuối vào 2026-07-19 19:16:18 . Bạn muốn cập nhật thông tin mới nhất? Cập nhật Nếu bạn có đề xuất tính năng giúp nâng cao hiệu suất làm việc hoặc có ý tưởng, góp ý cho hệ thống, vui lòng liên hệ .
+
+### [6] VinFast and Böllhoff – a Vietnamese-German road to success
+
+> RIVKLE® blind rivet nuts enable resilient threads on thin-walled components, the two-part SNAPLOC® plug-in system decouples vibrations and noises, whereas FLEXITOL® compensates stepless tolerances. The delivery of these elements and systems as well as the service support are carried out by an exclusive local sales partner: IESC. New established: joint venture Bollhoff Vietnam The Industries Equipment and Solution Company (IESC) has been expanding continuously since its foundation in 2008. The two locations in the north (Hanoi) and in the south (Ho Chi Minh City) of the country guarantee a nationwide presence. With 40 employees, sales of around € 6.5 million were achieved in 2019. IESC became in 2011 Böllhoff's official trading partner in Vietnam. This collaboration has been so successful in recent years that in April 2021 a joint venture between the two companies was founded: Bollhoff Vietnam.
+
+### [7] Phân Tích Chuyên Sâu: Quy Tắc Xuất Xứ Thế Hệ Mới Và Chuỗi Cung Ứng Xe Điện VinFast
+
+> nằm trực tiếp trong khuôn viên tổ hợp Hải Phòng là một sáng kiến mang tính chiến lược của VinFast nhằm giải quyết bài toán chuỗi cung ứng tức thời (Just-In-Time - JIT) và gia tăng tỷ lệ giá trị nội địa hóa thực chất [cite: 22, 36, 37]. Nhà cung cấp Tier-1 Thực thể pháp lý tại Hải Phòng Vị trí định vị sản xuất Sản phẩm & Linh kiện cung ứng ZF Group Công Ty TNHH ZF Automotive Việt Nam [cite: 36] Phân khu Supplier Park, Tổ hợp VinFast Hải Phòng [cite: 36]. Hệ thống khung gầm, cụm trục treo trước/sau, hệ thống lái và giảm chấn [cite: 38, 39]. Lear Corporation Công Ty TNHH Lear (Việt Nam) [cite: 40] Nhà xưởng Supplier Park, Tổ hợp VinFast Hải Phòng [cite: 40]. Hệ thống ghế ngồi ô tô hoàn chỉnh, vỏ bọc ghế; Hệ thống phân phối điện năng và dây dẫn điện áp cao trên xe [cite: 40].
+
+### [8] Phân Tích Chuyên Sâu: Quy Tắc Xuất Xứ Thế Hệ Mới Và Chuỗi Cung Ứng Xe Điện VinFast
+
+> Hệ thống ghế ngồi ô tô hoàn chỉnh, vỏ bọc ghế; Hệ thống phân phối điện năng và dây dẫn điện áp cao trên xe [cite: 40]. Faurecia (Forvia) Faurecia S.A. [cite: 39] Tổ hợp sản xuất VinFast Hải Phòng [cite: 32, 39]. Cabin, bảng điều khiển trung tâm (dashboards), các module ốp cửa nội thất [cite: 32]. Aapico Hitech Liên doanh Aapico - VinFast [cite: 22] Phân khu cơ khí phụ trợ, Tổ hợp VinFast Hải Phòng [cite: 22]. Chế tạo các cấu kiện kim loại dập dính liền, hoàn thiện khung xương xe (Body-in-White) [cite: 22]. Mô hình Supplier Park mang lại những lợi ích tài chính và dòng tiền to lớn dưới góc độ quy tắc xuất xứ RVC [cite: 8, 11]. Khi các tập đoàn Tier-1 như ZF hay Lear xây dựng nhà máy ngay tại Hải Phòng, toàn bộ chi phí vận hành tại chỗ của họ – bao gồm lương nhân công Việt Nam, khấu hao máy móc lắp ráp trong nước, chi phí thuê nhà xưởng tiêu chuẩn sử dụng tấm PIR GP ISOFRIGO của hãng SPT Green Building, và lợi nhuận định mức của chi nhánh trong nước – đều được chuyển hóa trực tiếp thành giá trị gia tăng nội địa [cite: 36, 37, 40].
+
+### [9] Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026
+
+> Đối với ngành công nghiệp ô tô Việt Nam và các thương hiệu mới nổi như VinFast, thách thức lớn nhất không chỉ nằm ở việc mở rộng quy mô doanh số bàn giao, mà còn nằm ở việc tối ưu hóa cấu trúc tài chính và kiểm soát hiệu quả dòng tiền hoạt động trước áp lực nợ nợ vay lớn. Việc đưa vào vận hành hiệu quả nhà máy liên doanh sản xuất pin LFP VinES-Gotion tại Hà Tĩnh đóng vai trò then chốt trong việc khép kín chuỗi cung ứng năng lượng tại chỗ. Đây chính là bệ đỡ giúp hãng đáp ứng được các tiêu chuẩn kỹ thuật nghiêm ngặt của quy tắc xuất xứ RVC 40% trong Hiệp định ATIGA để thâm nhập thị trường ASEAN với mức thuế suất ưu đãi 0%, đồng thời vượt qua các tiêu chuẩn an toàn kỹ thuật khắt khe như Euro NCAP để định vị thương hiệu thành công tại thị trường quốc tế.
+
+### [10] Phân Tích Chuyên Sâu: Quy Tắc Xuất Xứ Thế Hệ Mới Và Chuỗi Cung Ứng Xe Điện VinFast
+
+> : Nhằm tự chủ nguồn cell pin cho các dòng xe điện đô thị phổ thông (như VF 3, VF 5), VinES đã bắt tay cùng Gotion High-Tech xây dựng nhà máy liên doanh chế tạo cell pin Lithium Iron Phosphate (LFP) có tổng vốn đầu tư gần 275 triệu USD, diện tích 14 ha tại Hà Tĩnh [cite: 45, 46]. Nhà máy này có công suất thiết kế đạt 5GWh/năm, thực hiện quy trình khép kín sản xuất cell pin từ điện cực đến đóng gói hoàn thiện cụm pin [cite: 46]. Việc làm chủ công nghệ cell pin LFP giúp VinFast giảm giá thành sản phẩm, gia tăng tính chủ động trong chuỗi cung ứng năng lượng và tạo bước đột phá trong việc nâng cao tỷ lệ RVC thực tế tại Việt Nam [cite: 5, 46]. Hợp tác phát triển pin thể rắn với Prologium : Prologium là đối tác chiến lược cung cấp giải pháp pin thể rắn (solid-state battery) 100% cho VinFast [cite: 5, 45]. Công nghệ này sử dụng chất điện phân rắn thay vì chất điện phân dạng lỏng truyền thống, giúp loại bỏ hoàn toàn nguy cơ cháy nổ do quá nhiệt, đồng thời nâng mật độ năng lượng của pin lên gấp đôi, mở ra kỷ nguyên mới cho các dòng xe điện cao cấp có phạm vi hoạt động siêu dài [cite: 5, 45].

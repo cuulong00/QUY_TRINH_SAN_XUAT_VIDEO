@@ -1,0 +1,1799 @@
+[
+  {
+    "id": "CH01_SC010",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn đứng trước một cánh cửa phòng tiệc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC020",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bên trong là hàng trăm con người đang trò chuyện."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC030",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tiếng cười nói râm ran dội ra ngoài."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC040",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Ngay lập tức, cơ thể bạn phản ứng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC050",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tim bạn đập nhanh hơn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC060",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lòng bàn tay bạn đổ mồ hôi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC070",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn cảm thấy một sự đè nén ngột ngạt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC080",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn tự nhủ với bản thân: Hãy bình tĩnh lại."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC090",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hít một hơi thật sâu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC100",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cố gắng tỏ ra tự nhiên."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC110",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng bạn nhận ra, nỗ lực đó hoàn toàn vô ích."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC120",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Càng cố bình tĩnh, bạn càng thấy run rẩy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC130",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và bạn bắt đầu tự trách mình."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC140",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tại sao mình lại lập dị thế này?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC150",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tại sao giao tiếp lại khó khăn đến vậy?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC160",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tôi muốn giải oan cho bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC170",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nỗi lo sợ đó không phải lỗi nhân cách của bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC180",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó là một phản ứng sinh học đang chạy đúng thiết kế."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC190",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và nỗ lực ép cơ thể bình tĩnh chính là một sai lầm vật lý."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC200",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi adrenaline đã bơm vào máu, bạn không thể hạ nhiệt lập tức."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC210",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Giống như bạn đang cố đạp phanh khi xe đang chạy ở tốc độ trăm cây số một giờ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC220",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Thứ đang phá hủy cuộc trò chuyện không phải lo âu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC230",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đó là nỗ lực vô ích nhằm kiểm soát phán xét của người khác."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC240",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy nhìn vào chiếc la bàn bỏ túi bằng đồng này."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC250",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chiếc kim đang xoay vòng vô hướng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC260",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Giống như tâm trí bạn lúc này."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC270",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tại Harvard, các nghiên cứu đã tìm ra một nước đi ngược lại."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC280",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Thay vì bắt cơ thể tắt nguồn lo âu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC290",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ học cách định vị lại hướng đi của kim la bàn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC300",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chào bạn, đây là KenhTamLy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC310",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hôm nay, chúng ta sẽ bước xuống dưới làn da."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC320",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chúng ta sẽ giải phẫu cơ chế lo âu xã giao."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC330",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và học cách làm chủ tương tác bằng sự tự tại thực chứng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC340",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lưu ý rằng phân tích ở đây không thay thế chẩn đoán y khoa về rối loạn lo âu bệnh lý."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC350",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nếu bạn cũng từng cảm thấy bất an trước đám đông."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC360",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy bấm đăng ký kênh và nhấn thích video này."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC370",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hành động này giúp chúng tôi tiếp tục đồng hành cùng bạn trên hành trình thấu hiểu bản thân."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC010",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi bạn cảm thấy lo lắng, nhịp tim của bạn tăng vọt.",
+      "Adrenaline được bơm mạnh vào các mạch máu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC020",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phản ứng sinh học này được gọi là trạng thái kích hoạt cao.",
+      "Cơ thể bạn đang chuẩn bị cho một cuộc chiến sinh tồn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC030",
+    "sentence_count": 3,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lúc này, trực giác của bạn đưa ra một mệnh lệnh.",
+      "Hãy bình tĩnh lại.",
+      "Nhưng đây chính là điểm nút của sai lầm vật lý."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC040",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đè nén sự lo âu giống như việc bạn cố bịt miệng một chiếc nồi áp suất đang sôi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC050",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Sự kích hoạt sinh lý là một dòng năng lượng thực tế.",
+      "Về mặt sinh học, bạn không thể dập tắt nó trong vài giây."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC060",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khoa học thần kinh chỉ ra một cơ chế tàn nhẫn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC070",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Việc cố gắng ức chế cảm xúc tiêu cực tiêu tốn rất nhiều năng lượng nhận thức."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC080",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Vỏ não trước trán của bạn sẽ nhanh chóng kiệt quệ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC090",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Kết quả là bạn trở nên nói nhạt, quên ý, và đờ đẫn trước đối phương."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC100",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tại Đại học Harvard, giáo sư Alison Wood Brooks đã thực hiện một thí nghiệm thú vị vào năm 2013."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC110",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bà yêu cầu các tình nguyện viên hát một bài hát karaoke dưới áp lực lớn.",
+      "Trước khi bắt đầu, họ được chia thành các nhóm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC120",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một nhóm được yêu cầu tự nhủ: Tôi đang lo lắng.",
+      "Nhóm thứ hai tự bảo mình: Hãy bình tĩnh lại."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC130",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và nhóm thứ ba tự tuyên bố: Tôi đang phấn khích."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC140",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Kết quả đo đạc từ phần mềm hát chuyên dụng đã làm kinh ngạc các nhà khoa học."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC150",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhóm tự nhủ \"tôi phấn khích\" hát đúng nhịp và đúng tông nhạc nhất."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC160",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Trong khi đó, nhóm cố gắng \"bình tĩnh\" lại có màn biểu diễn tệ nhất."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC170",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tại sao một câu nói đơn giản lại thay đổi hoàn toàn hiệu suất sinh học?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC180",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bởi vì lo âu và phấn khích có chung một nền tảng vật lý.",
+      "Chúng đều là trạng thái kích hoạt sinh lý cao."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC190",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Sự khác biệt duy nhất nằm ở cái nhãn nhận thức bạn gán cho nó.",
+      "Lo âu là nhãn nhận thức về một mối đe dọa."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC200",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phấn khích là nhãn nhận thức về một cơ hội.",
+      "Thay vì cố gắng triệt tiêu dòng năng lượng cuồn cuộn trong máu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC210",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn chỉ cần định vị lại nó.",
+      "Hãy tự nói với bản thân: Tim tôi đang đập nhanh vì tôi đang hào hứng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC220",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn đã từng cố gắng ép mình bình tĩnh trước một cuộc họp quan trọng và thất bại chưa?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC230",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy để lại bình luận bên dưới để chúng ta cùng giải mã cơ chế phản ứng của cơ thể bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC010",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bây giờ, hãy mang cảm giác lo âu đó vào một tình huống thực tế khác."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC020",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn đang ngồi trong phòng làm việc của sếp để đàm phán tăng lương."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC030",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hạch hạnh nhân trong não bạn đang phát đi tín hiệu cảnh báo.",
+      "Cơ thể bạn muốn trốn chạy khỏi bầu không khí ngột ngạt này."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC040",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và để thoát ra càng nhanh càng tốt, bạn đưa ra một nước đi sai lầm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC050",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn vội vã đồng ý với mức đề xuất thấp đầu tiên mà sếp đưa ra."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC060",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nghiên cứu mang tên \"Nervous Nellie\" vào năm 2011 đã chỉ ra chính xác hành vi này."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC070",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Những người đàm phán đang lo âu thường đưa ra các nhượng bộ rất sớm.",
+      "Họ làm vậy không phải vì thỏa thuận đó tốt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC080",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ làm vậy để mua lấy sự giải tỏa cảm xúc tức thời cho bộ não đang hoảng loạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC090",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đàm phán lương hay thỏa thuận công việc thất bại không phải vì bạn thiếu năng lực."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC100",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó thất bại vì bạn không quản trị được bản năng trốn chạy sinh học của mình."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC110",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Làm thế nào để neo giữ lại chiếc kim la bàn đang quay cuồng này?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC120",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khoa học đàm phán cung cấp một chiếc mỏ neo vững chắc mang tên BATNA."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC130",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đây là từ viết tắt của Phương án thay thế tốt nhất cho một thỏa thuận được thương lượng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC140",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy tưởng tượng bạn có một lời mời làm việc từ một công ty khác với mức lương tương đương.",
+      "Đó chính là BATNA của bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC150",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi bạn sở hữu một phương án dự phòng vững chắc, chiếc la bàn nội tâm của bạn sẽ tự động đứng yên."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC160",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn không còn lo âu vì bạn biết mình hoàn toàn có quyền bước ra khỏi phòng đàm phán."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC170",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Sức mạnh đàm phán thực chất không đến từ sự hung dữ, mà đến từ sự tự do lựa chọn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC180",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng cuộc hội thoại xã giao không chỉ có đàm phán lương."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC190",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đôi khi, chúng ta mắc sai lầm và phải đối mặt với áp lực chuộc lỗi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC200",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và lúc đó, cái tôi tự vệ lại đẩy chúng ta vào một bẫy sâu hơn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC210",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tại sao lời xin lỗi thứ ba của bạn trong cuộc trò chuyện lại biến thành một lời bào chữa ích kỷ?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC010",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi chúng ta phạm sai lầm với một ai đó, phản xạ tự nhiên của cái tôi sẽ trỗi dậy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC020",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chúng ta thường bắt đầu bằng câu: Tôi xin lỗi.",
+      "Và ngay sau đó là một chuỗi các lời giải thích dài dòng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC030",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chúng ta làm vậy vì muốn đối phương hiểu hoàn cảnh của mình."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC040",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng thực tế, bộ não của bạn đang chơi một trò chơi ích kỷ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC050",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Sự giải thích dông dài là cách cái tôi cố gắng giảm bớt cảm giác tội lỗi của chính nó."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC060",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó không phục vụ cho việc chữa lành vết thương của nạn nhân."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC070",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Giáo sư Alison Wood Brooks đã chỉ ra một sự thật phản trực giác trong giao tiếp hàng ngày."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC080",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nếu bạn xin lỗi quá một hoặc hai lần trong một cuộc hội thoại, nó sẽ phản tác dụng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC090",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lời xin lỗi thứ ba trở đi không còn mang lại sự thành khẩn.",
+      "Nó biến thành một sự gợi nhắc tiêu cực đầy phiền phức."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC100",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Càng lặp lại lời xin lỗi, bạn càng hướng sự chú ý của đối phương quay lại lỗi lầm đó."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC110",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Để hiểu sâu hơn, hãy nhìn vào dữ liệu từ một bối cảnh cực kỳ khốc liệt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC120",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Các phiên điều trần xin đặc xá của tù nhân."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC130",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhóm nghiên cứu của Brooks đã phân tích các cuộc đối thoại xin đặc xá thực tế.",
+      "Họ phát hiện ra một điều đáng kinh ngạc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC140",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Những phạm nhân liên tục nói lời xin lỗi và thể hiện sự hối lỗi bằng lời nói không có tỷ lệ được thả cao hơn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC150",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cái lắc đầu của hội đồng đặc xá chứng minh lời xin lỗi trống rỗng không có giá trị pháp lý hay tâm lý."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC160",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Điều duy nhất giúp họ được đặc xá là gì?",
+      "Đó là việc trình bày một kế hoạch hành động thay đổi cụ thể."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC170",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ đã học được nghề gì trong tù?",
+      "Họ sẽ làm gì khi tái hòa nhập cộng đồng?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC180",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hội đồng đặc xá chỉ phản hồi với những cam kết hành động có thể đo lường được.",
+      "Nạn nhân của bạn cũng vậy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC190",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một lời xin lỗi chân thành thực chất không phải để xoa dịu quá khứ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC200",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó là bản kế hoạch hành động cụ thể cho tương lai."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC210",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy nói lời xin lỗi tối đa hai lần, rồi im lặng và hành động."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC220",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng bẫy của cái tôi không dừng lại ở lời xin lỗi.",
+      "Nó còn xuất hiện khi chúng ta gặp phải những ý kiến trái chiều."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC230a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Làm thế nào để bạn đối thoại với một người đang bảo vệ một quan điểm hoàn toàn sai lầm"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC230b",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "mà không làm bùng nổ cự cãi căng thẳng?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC010",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy tưởng tượng bạn đang ở trong một cuộc họp công việc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC020",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một đồng nghiệp đưa ra một đề xuất mà bạn thấy hoàn toàn không khả thi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC030",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phản xạ tự nhiên của bạn là cắt lời và tuyên bố ngay lập tức: Tôi không đồng ý với phương án đó."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC040",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nước đi này giống như một phát súng khơi mào cho chiến tranh."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC050",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hạch hạnh nhân trong não bộ của đối phương lập tức được kích hoạt sang chế độ tự vệ sinh học."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC060",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ sẽ ngừng lắng nghe bạn.",
+      "Thay vào đó, bộ não của họ tập trung toàn bộ năng lượng để xây dựng bức tường phòng thủ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC070",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nghiên cứu về Sự tiếp nhận đối thoại của giáo sư Julia Minson tại Harvard đã mổ xẻ chính xác cơ chế này."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC080",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi bạn bắt đầu câu nói bằng cụm từ \"Tôi không đồng ý\", đối phương sẽ cảm thấy bản sắc của họ bị đe dọa."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC090",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ không còn nhìn nhận đây là một cuộc thảo luận công việc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC100",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bộ não của họ hiểu rằng đây là một cuộc chiến sinh tồn của cái tôi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC110",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cuộc đối thoại sụp đổ không phải vì sự khác biệt quan điểm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC120",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó sụp đổ vì hạch hạnh nhân của cả hai bên đã đóng sập cánh cửa tiếp nhận."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC130",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Làm thế nào để đối thoại với một người đang bảo vệ một quan điểm sai lầm mà không cãi vã?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC140",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bí quyết nằm ở một ranh giới tinh tế mà ít người nhận ra."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC150",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đó là phân biệt giữa thừa nhận cảm xúc và đồng ý với nhận thức."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC160",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhiều người sợ rằng nếu họ thừa nhận ý kiến của đối phương, họ sẽ trở nên nhu nhược."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC170",
+    "sentence_count": 2,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ nghĩ mình đang đồng ý với cái sai.",
+      "Thực tế hoàn toàn ngược lại."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC180",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn có thể không đồng ý với suy nghĩ của họ, nhưng bạn hoàn toàn có thể xác nhận cảm xúc của họ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC190",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi đối phương đang giận dữ, hãy nói: Tôi hiểu dự án này đang mang lại áp lực rất lớn cho bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC200",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Câu nói này không có nghĩa là bạn đồng ý với phương án tồi của họ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC210",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó chỉ có nghĩa là bạn thừa nhận thực tại cảm xúc của họ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC220",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một khi cảm xúc được thừa nhận, hạch hạnh nhân của họ sẽ tự động hạ vũ khí."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC230",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bức tường tự vệ sụp đổ, và lúc đó vỏ não trước trán của họ mới sẵn sàng lắng nghe lập luận logic của bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC240a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Nhưng làm thế nào để chúng ta có đủ sự điềm tĩnh để tháo ngòi nổ cảm xúc của người"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC240b",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "khác khi chính cái tôi của chúng ta cũng đang bị kích động?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC250",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lời giải đáp nằm ở sự giao thoa kỳ diệu giữa triết học Khắc kỷ phương Tây và trí tuệ Phật giáo phương Đông."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC010",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi ai đó phán xét hoặc tấn công bạn bằng lời nói, một phản xạ tự vệ trỗi dậy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC020",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn cảm thấy nóng bừng, muốn tranh đấu đến cùng để chứng minh mình đúng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC030",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lúc này, bạn đang rơi vào ảo tưởng lớn nhất của cái tôi.",
+      "Ảo tưởng rằng bạn có thể kiểm soát suy nghĩ của người khác."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC040",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Triết học Khắc kỷ đưa ra một ranh giới giải thoát mang tên Phân đôi kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC050",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hoàng đế Marcus Aurelius từng viết rằng: Bạn có quyền kiểm soát tâm trí của mình, chứ không phải các sự kiện bên ngoài."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC060",
+    "sentence_count": 2,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phán xét của người khác là sự kiện bên ngoài.",
+      "Nó hoàn toàn nằm ngoài tầm kiểm soát của bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC070",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Trong trí tuệ phương Đông, Đức Phật dạy về tâm Vô ngã.",
+      "Khi bạn không còn bám chấp vào một cái tôi muốn chiến thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC080",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lời nói của người khác sẽ không còn đòn bẩy nào để móc vào và kéo đổ tâm trí bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC090",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Sự tự tại tối thượng không phải là bạn trở nên vô cảm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC100a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Đó là khi bạn nhìn rõ cơn bão cảm xúc của đối phương, hiểu rằng nó thuộc về họ, và"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC100b",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "điềm tĩnh đứng ngoài cuộc chiến đó."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC110",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chúng tôi không khuyên bạn buông bỏ cái tôi một cách giáo điều."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC120",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khoa học chứng minh việc xả ly cái tôi muốn thắng giúp tiết kiệm tối đa năng lượng cho vỏ não trước trán."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC130",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lúc này, bạn có thể thực hành sự thấu cảm bằng công thức Validation thực chứng của Harvard."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC140",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi ai đó đang tức giận hoặc lo lắng vì một bất đồng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC150a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Thay vì phản bác nhận thức của họ, hãy dùng câu nói: Mọi chuyện hoàn toàn có lý khi bạn"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC150b",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "cảm thấy như vậy trong hoàn cảnh này."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC160",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tiếng Anh gọi là: It makes sense that you feel this way.",
+      "about \".]\n\nCâu nói này là một nhịp cầu giải phóng nhận thức."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC170",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn không xác nhận suy nghĩ của họ là đúng.",
+      "Bạn chỉ xác nhận thực tại cảm xúc của họ là có thật và hợp lý."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC180",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi cảm nhận được sự tôn trọng này, đối phương sẽ tự động hạ vũ khí phòng vệ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC190",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và đó là lúc chiếc la bàn giao tiếp của cả hai tìm thấy trục cân bằng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC200",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng làm thế nào để chúng ta đưa tất cả những tri thức khoa học và triết học này vào đời sống hàng ngày?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC210",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy cùng thiết lập một bản kế hoạch hành động ba bước dứt khoát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC010",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Để đưa những khám phá khoa học này vào đời sống của bạn, hãy bắt đầu rèn luyện bản kế hoạch ba bước sau đây."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC020",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bước thứ nhất, tái cấu trúc nỗi sợ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC030",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mỗi khi bạn chuẩn bị bước vào một cuộc giao tiếp áp lực và cảm thấy tim đập nhanh."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC040",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy tự nói với bản thân: Tôi đang phấn khích.",
+      "Hãy dùng chính dòng adrenaline đó làm năng lượng đẩy hiệu suất của bạn lên cao."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC050",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bước thứ hai, quy tắc giới hạn lời xin lỗi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC060",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi phạm lỗi, hãy nói lời xin lỗi tối đa hai lần trong một cuộc trò chuyện."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC070",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy cắt bỏ hoàn toàn phần giải thích dài dòng của cái tôi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC080",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Thay vào đó, hãy đưa ra một cam kết hành động thay đổi cụ thể và có thể đo lường."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC090",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bước thứ ba, thừa nhận thực tại cảm xúc của đối phương."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC100",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi gặp ý kiến trái chiều, hãy dùng công thức: Điều đó hoàn toàn có lý khi bạn cảm thấy như vậy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC110",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nước đi này sẽ hóa giải hạch hạnh nhân đang cảnh giác của đối phương.",
+      "Nó mở ra không gian cho sự lắng nghe thực sự."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC120",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nếu bạn thấy những phân tích khoa học này giúp bạn nhìn nhận lại bản thân."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC130",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy nhấn đăng ký kênh để tiếp tục đồng hành cùng chúng tôi trong những số phát sóng tiếp theo."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC140",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bây giờ, hãy nhìn lại chiếc la bàn bỏ túi bằng đồng trên bàn.",
+      "Chiếc kim của nó đã ngừng dao động vô hướng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC150",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó đã tìm thấy trục định vị của riêng mình.",
+      "Chiếc la bàn đó chính là tâm trí bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC160",
+    "sentence_count": 3,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy quay lại cảnh tượng ở chương đầu tiên.",
+      "Bạn đang đứng trước một cánh cửa phòng tiệc.",
+      "Tiếng cười nói rộn rã dội ra ngoài."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC170",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Liệu bạn có bước vào không?",
+      "Lúc này, bạn hiểu rằng tim mình đang đập nhanh không phải vì nguy hiểm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC180",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đó là tín hiệu cơ thể bạn đã sẵn sàng để kết nối.",
+      "Bạn đẩy cửa bước vào."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC190",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng bạn không bước vào để trình diễn, hay để kiểm soát xem người khác có thích mình hay không."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC200",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn bước vào để lắng nghe, thừa nhận thực tại của họ, và buông bỏ sự phán xét của chính mình."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC210",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Rốt cuộc, giao tiếp xã hội không phải là đấu trường để bạn chứng minh giá trị của cái tôi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC220",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó là tấm gương soi chiếu thế giới nội tâm của chính bạn.",
+      "Liệu bạn đã sẵn sàng nhìn thẳng vào tấm gương đó chưa?"
+    ],
+    "base_english_prompt": ""
+  }
+]

@@ -1,0 +1,166 @@
+---
+title: "How does cliché language (\"văn mẫu\", corporate jargon) reduce operational efficiency and decision-making speed in organizations? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-07T00:07:32.342Z
+notebook_url: "https://notebooklm.google.com/notebook/c4ef528a-96c6-4604-aa35-2ec1744cde93"
+session_id: "fabb5b9b"
+citations_count: 20
+sources:
+  - "$6 million: The financial costs of overusing office jargon | Human ..."
+  - "The Economic Cost of Ineffective Communication in Modern Enterprise: A Macroeconomic and Organizational Analysis"
+  - "Grammarly and Harris Poll Research Estimates U.S. Businesses Lose $1.2 Trillion Annually to Poor Communication"
+  - "How to improve internal communications - Axios HQ"
+  - "Costs of Bad Communication - Eschbach"
+  - "The 2024 State of Business Communication Report: What You Need to Know - Grammarly"
+  - "The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language"
+  - "Workplace jargon hurts employee morale, collaboration, study finds - UF News"
+  - "Your workplace jargon is killing morale - Coaching Buttons"
+  - "Science Confirms What Large Corporate Survivors Already Knew - Organizational Bullshit Makes You Worse at Your Job"
+  - "The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF"
+---
+
+# How does cliché language ("văn mẫu", corporate jargon) reduce operational efficiency and decision-making speed in organizations? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-07T00:07:32.342Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/c4ef528a-96c6-4604-aa35-2ec1744cde93)
+
+## Answer
+
+BÁO CÁO: TÁC ĐỘNG CỦA SÁO NGỮ ĐẾN HIỆU SUẤT VẬN HÀNH VÀ TỐC ĐỘ RA QUYẾT ĐỊNH TRONG DOANH NGHIỆP
+1. Suy giảm hiệu suất vận hành và lãng phí tài nguyên thời gian
+Hao hụt thời gian làm việc: Lạm dụng sáo ngữ khiến thông điệp trở nên mơ hồ, buộc nhân viên phải tiêu tốn thời gian xác minh, đặt câu hỏi làm rõ trước khi có thể bắt đầu nhiệm vụ, qua đó làm chậm đáng kể tiến độ chung
+1
+2
+. Trung bình, mỗi nhân viên mất 7,47 giờ mỗi tuần (tương đương 19% thời lượng làm việc chuẩn) chỉ để xử lý các vấn đề phát sinh từ giao tiếp kém
+Sụt giảm năng suất trực tiếp: Khoảng 55% nhân sự lãng phí từ 30 phút đến 2 giờ mỗi ngày chỉ để làm rõ các chi tiết bị che mờ trong công việc
+6
+. Khoảng 28% người lao động khẳng định giao tiếp kém là nguyên nhân trực tiếp dẫn đến việc trễ thời hạn (missed deadlines)
+7
+.
+Thái độ tiêu cực đối với sáo ngữ: Khoảng 85% nhân sự cấp thấp đánh giá việc sử dụng sáo ngữ mang tính "rất tiêu cực"
+8
+9
+. Các cụm từ sáo rỗng thường bị lạm dụng để trì hoãn quyết định, tạo ảo giác về sự tiến triển mà không mang lại kết quả thực tế, điển hình như từ "circle back" bị 45% nhân viên chỉ trích
+8
+10
+.
+Căn cứ dữ liệu:
+Báo cáo The 2024 State of Business Communication Report, Grammarly & Harris Poll (2024)
+4
+11
+.
+Báo cáo The 2024 State of Internal Communications, Axios HQ (2024)
+6
+.
+Nghiên cứu của Kickresume công bố trên Human Resources Director (Tháng 4/2025)
+8
+12
+.
+2. Cản trở tốc độ và chất lượng ra quyết định
+Triệt tiêu tính trôi chảy trong xử lý thông tin (Processing Fluency): Sáo ngữ làm gián đoạn khả năng xử lý thông tin của não bộ, làm giảm sút nghiêm trọng niềm tin vào năng lực cá nhân (self-efficacy)
+13
+14
+. Khi cảm thấy bất an, nhân viên có xu hướng e ngại yêu cầu giúp đỡ hay chia sẻ thông tin với đồng nghiệp
+9
+15
+. Điều này trực tiếp tạo ra sự cô lập thông tin (silos), phá vỡ luồng phối hợp và làm chậm tốc độ ra quyết định trên toàn hệ thống
+15
+.
+Căn cứ khoa học: Bullock, O. M., & Bisbey, T., Jargon in the Workplace Reduces Processing Fluency, Self-Efficacy, and Information Seeking and Sharing, Tạp chí International Journal of Business Communication (Năm 2025, Số hiệu DOI: 10.1177/23294884251364525)
+16
+17
+.
+Làm suy yếu năng lực phân tích và chất lượng quyết định: Những cá nhân dễ dàng chấp nhận và bị ấn tượng bởi "sáo ngữ công sở" (corporate bullshit) thường có điểm số thấp hơn về năng lực tư duy phân tích và trí thông minh linh hoạt
+18
+. Đồng thời, những người này có hiệu suất ra quyết định tồi tệ hơn đáng kể trong các bài kiểm tra đánh giá tình huống tại nơi làm việc (situational judgment tests)
+18
+19
+.
+Rủi ro khuếch đại từ Trí tuệ Nhân tạo (AI): Các mô hình ngôn ngữ lớn (LLM) hiện nay có thể tự động hóa việc sản xuất hàng loạt các "sáo ngữ công nghiệp" (industrial-grade bullshit) - những đoạn văn bản chuẩn mực về cú pháp nhưng hoàn toàn trống rỗng về mặt ý nghĩa
+20
+. Việc lạm dụng AI để soạn thảo các văn bản điều hành có nguy cơ làm tràn ngập tổ chức bằng những ngôn từ sáo rỗng, gây nhiễu loạn thông tin và đe dọa sự chính xác của các quyết định quản trị
+Căn cứ khoa học: Littrell, S., The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes, Tạp chí Personality and Individual Differences, Tập 255, 113699 (Năm 2026, Số hiệu DOI: 10.1016/j.paid.2026.113699)
+23
+24
+.
+
+## Sources
+
+### [1] $6 million: The financial costs of overusing office jargon | Human ...
+
+> Large companies, or firms with roughly 10,000 employees, could lose $40 million a year due to miscommunication from office jargon. Kickresume determined the financial cost of office jargon by looking at how many hours are lost due to poor communication (7.47 hours a week) and the average private-sector wage in the United States. According to the report, complex business lingo can leave employees feeling confused and unclear about things. "These employees might need to ask for clarification before they can get started on a task, which only slows them down," the report read.
+
+### [2] The Economic Cost of Ineffective Communication in Modern Enterprise: A Macroeconomic and Organizational Analysis
+
+> Jargon as a Tool of Obfuscation and Cognitive Alienation The cost of poor communication is further compounded by the use of vague corporate jargon, buzzwords, and clichés. Rather than facilitating precise professional dialogue, corporate jargon serves to obscure meaning, reduce clarity, and alienate employees. When complex lingo replaces clear communication, employees are forced to spend critical operational time seeking clarification before they can begin tasks, slowing project velocity and introducing unnecessary labor costs.[15]
+
+### [4] Grammarly and Harris Poll Research Estimates U.S. Businesses Lose $1.2 Trillion Annually to Poor Communication
+
+> Effective communication with teams, customers, and stakeholders is pivotal as the hybrid workplace continues to evolve business demands. Among respondents, nearly three in four business leaders (72%) say their team struggled with communicating effectively over the last year, and most business leaders (82%) and employees (59%) are concerned about effective communication with remote or hybrid working models in the future. Leaders estimate teams lose the equivalent of nearly an entire workday (7.47 hours) each week to poor communication—or approximately $12,506 per employee every year.
+
+### [6] How to improve internal communications - Axios HQ
+
+> Companies that don't will struggle. Our 2024 State of Internal Communications report dug deeper into the cost poor internal communications can have on the workforce, like: Misalignment with company goals: Only 14% of employees report feeling aligned with the company's goals. This employee-company misalignment can lead to disengagement, impacting morale and productivity. Retention risks: 49% of the employees who reported a lack of alignment plan to exit their jobs within two years. Wasted productivity: 55% of employees lose between 30 minutes and 2 hours of their working day, clarifying the details needed to do their jobs. And 48% of executives are getting more involved in projects than they think they should.
+
+### [7] Costs of Bad Communication - Eschbach
+
+> Infographic Communication matters Communication problems have significant impacts across the organization—and on the bottom line. Consider: 28% of employees blame missed deadlines on poor communication. Communications expert David Grossman estimates that poor communication costs businesses around $26,000 per employee per year in lowered productivity, lost opportunity, and other business impacts. Knowledge employees (such as managers and process engineers) lose, on average, nearly one full day of productivity each week due to communication failures. A Forrester report estimates that 75% of production delays in manufacturing occur because employees are not able to communicate effectively with co-workers and supervisors.
+
+### [8] $6 million: The financial costs of overusing office jargon | Human ...
+
+> It added that the use of jargon can make employees feel "irritated and left out," which could end up affecting the individual's and the organisation's productivity. Hating office jargon According to Kickresume's research, entry-level professionals are the biggest haters of office jargon, with 85% of them rating it as "highly negative." On social media platform X, the most debated and highly criticised office jargon is "circle back" (45%), Kickresume found. Other controversial office lingo includes:
+
+### [9] The Economic Cost of Ineffective Communication in Modern Enterprise: A Macroeconomic and Organizational Analysis
+
+> According to comprehensive research on workplace lingo, entry-level employees are the most critical of jargon, with 85% of them rating its usage as "highly negative".[15] When exposed to impenetrable lingo, employees experience feelings of insecurity, self-doubt, and decreased professional confidence.[19] This psychological alienation, described as a "confidence tax," makes employees significantly less likely to ask for help, clarify requirements, or share information with colleagues.[4, 19] This hesitation leads to the creation of insular organizational silos, compounding project risks that are only discovered when they are too costly to easily correct.[4, 19]
+
+### [10] The Economic Cost of Ineffective Communication in Modern Enterprise: A Macroeconomic and Organizational Analysis
+
+> Corporate Cliché / Buzzword Negative Sentiment Metric Operational Alternative Structural Cognitive Damage "Circle back" 45% negative sentiment "Revisit the topic on" Used to delay decisions; creates an illusion of progress without accountability.[15, 20, 22] "Synergy" 30% employee disdain "Collaboration" / "Cooperation" Vague and overused; fails to define actual collaborative mechanics.[15, 20, 22] "Touch base" 18% employee disdain "Meet briefly to align on" Obscures the specific purpose and agenda of the proposed meeting.[15, 19, 22] "Low-hanging fruit" 15% employee disdain "Highly accessible tasks" Condescending to workers; oversimplifies complex or tedious tasks.[15, 22] "Bandwidth" 12% employee disdain "Capacity" / "Time availability" Reductive; treats human capacity as a machine-like metric.[15, 19, 22] "Give 110%" N/A (Highly Despised) "Best effort" / "Hard work" Logically impossible; inspires resentment and sounds condescending.[22]
+
+### [11] The 2024 State of Business Communication Report: What You Need to Know - Grammarly
+
+> The 2024 State of Business Communication Report: What You Need to Know | Grammarly Business Product Learn Features AI agents AI assistant AI at Grammarly Trust & security Superhuman Use Grammarly Docs Desktop Mobile Browser Languages Work By team size Enterprise Teams & businesses Individuals By team function Customer support Marketing IT Sales HR Education Students Institutions Pricing Resources Learn Blog Customer stories Business Events & Resources Education Events & Resources Agentic AI Grammar guide Writing guide Essay writing Career guides Help center Tools AI Writing Tools Grammar Checker Plagiarism Checker AI Detector AI Humanizer Paraphrasing Tool AI Chat Citation Generator Word Counter AI agents Resume Builder Citation Finder AI Grader Reader Reactions
+
+### [12] $6 million: The financial costs of overusing office jargon | Human ...
+
+> AUSTRALIA NEW ZEALAND ASIA CANADA UNITED STATES Employee engagement $6 million: The financial costs of overusing office jargon Which words or phrases are most despised by office workers? By Dexter Tilo 14 Apr. 2025 Share Office jargon isn't just annoying — it could also be costing organisations big bucks, according to a new report. Kickresume recently found that small companies with roughly 100 employees could be losing $546,000 annually due to miscommunication as a result of office jargon. The costs get higher as businesses grow bigger, according to the report. Mid-size firms with about 1,000 employees risk losing $6 million per year due to miscommunication.
+
+### [13] The Lexical Compensation of Status: A Sociolinguistic and Metacognitive Analysis of Organizational Jargon and Plain Language
+
+> Experimental data reveals that participants exposed to jargon-laden scientific texts report significantly lower processing fluency ( ) than those exposed to plain-language equivalents ( ).[12] Crucially, this metacognitive barrier persists even when definitions for the jargon terms are provided inline.[12, 15] The mere presence of jargon acts as an exclusionary visual cue, signaling to the reader that they do not belong in that domain and causing them to disengage entirely.[15] A study by Bullock and Bisbey ( ) published in the International Journal of Business Communication demonstrated that workplace jargon significantly impairs processing fluency, which directly reduces employee self-efficacy and decreases intentions to seek and share information, thereby dampening team morale.[13] When processing fluency is impaired, individuals undergo a cognitive cascade that leads directly to Motivated Resistance to Persuasion (MRP), a dual-mechanism defense consisting of counterarguing (generating thoughts to discredit the message) and reactance (an emotional defense against perceived threats to autonomy).[12]
+
+### [14] Workplace jargon hurts employee morale, collaboration, study finds - UF News
+
+> According to a new study, using too much jargon in the workplace can hurt employees' ability to process messages, leading them to experience negative feelings and making them feel less confident. In turn, they're less likely to reach out and ask for or share information with their colleagues. “You need people to be willing to collaborate, share ideas and look for more information if they don't understand something at work,” said Olivia Bullock , Ph.D., an assistant professor of advertising at the University of Florida and co-author of the new study. “And jargon might actually be impeding that information flow across teams.”
+
+### [15] Workplace jargon hurts employee morale, collaboration, study finds - UF News
+
+> The message packed with jargon, not surprisingly, made it harder for people to process the information, which can throw off an entire workday. “It doesn't just make them feel bad about the information they've been given. It makes them feel bad about themselves,” Bullock said. The study then asked people how they would respond to the jargon. The impenetrable language made them feel insecure and less likely to ask for help right when they needed it the most. “They weren't as willing to collaborate,” Bullock said. “If you can't ask for more information or share that information downstream, you're creating silos, and that's disrupting your workflow and environment.”
+
+### [16] Workplace jargon hurts employee morale, collaboration, study finds - UF News
+
+> Age made a difference, though. Older workers had a harder time processing jargon, but were more likely to intend to ask for more information to clarify the message. Younger employees were less likely to seek and share information when confused by jargon. “It gives credence to the idea that younger people are more vulnerable to these workplace dynamics,” Bullock said. “If you're onboarding younger employees, explain everything clearly.” Bullock and her co-author, Tiffany Bisbey, Ph.D., an assistant professor at George Washington University, published their findings Aug. 25 in the International Journal of Business Communication .
+
+### [17] Your workplace jargon is killing morale - Coaching Buttons
+
+> ¹ Bullock, O. M., & Bisbey, T. (2025). Jargon in the Workplace Reduces Processing Fluency, Self-Efficacy, and Information Seeking and Sharing. International Journal of Business Communication (Thousand Oaks, Calif.). doi.org/10.1177/23294884251364525 Jim Hall is CEO of Hallmentum , an IT executive consulting company that provides hands-on IT Leadership training, workshops, and coaching. | LinkedIn Coaching Buttons aims to publish everything under a Creative Commons Attribution ShareAlike license. Some items may be published under a different license. You are responsible to verify permissions before reusing content from this website.
+
+### [18] Science Confirms What Large Corporate Survivors Already Knew - Organizational Bullshit Makes You Worse at Your Job
+
+> The Uncomfortable Findings People who scored high on the Corporate Bullshit Receptivity Scale – those who found the generated nonsense genuinely impressive – were significantly more likely to: Score lower on measures of analytical thinking and fluid intelligence Perform worse on workplace decision-making tests (situational judgment tests, commonly used in hiring) Rate their bosses as more “transformational” and “visionary” Feel more inspired by corporate mission statements Engage in persuasive bullshitting themselves
+
+### [19] The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF
+
+> 4-item situational judgment test (SJT) adapted from a set of validated items available from the International Cognitive Ability Resource (ICAR; https://icar-project.com/). Previous studies have consistently found SJTs to be reliable predictors of actual job performance, and they are a commonly CORPORATE BULLSHIT RECEPTIVITY SCALE 28 used tool in many organizations for selection, hiring, and promotions (Christian et al., 2010; Sackett et al., 2022; Webster et al., 2020). For each SJT item, participants read a short vignette describing a typical
+
+### [20] Science Confirms What Large Corporate Survivors Already Knew - Organizational Bullshit Makes You Worse at Your Job
+
+> Merriam-Webster named “slop” as its 2025 Word of the Year, referring to the deluge of low-quality, AI-generated content clogging inboxes and feeds. This isn't a coincidence. Large language models are, by their very architecture, corporate bullshit generators. They are trained on enormous corpora of text that includes decades of annual reports, consultant slide decks, management bestsellers, and LinkedIn posts. They have internalized the syntax, rhythm, and vocabulary of corporate speak at a depth that no individual human bullshitter could ever achieve.
+
+### [23] Science Confirms What Large Corporate Survivors Already Knew - Organizational Bullshit Makes You Worse at Your Job
+
+> (Full paper: Littrell, S. (2026). The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes. Personality and Individual Differences, 255, 113699. https://doi.org/10.1016/j.paid.2026.113699) What the CBSR Actually Measures Here's the setup. Littrell built a “corporate bullshit generator” in Excel (I used AI for mine, but the principle is identical) – an algorithm that takes the syntactic structure of real Fortune 500 executive quotes and fills them with randomly selected buzzwords from annual reports and industry publications. The result: statements that are grammatically correct, stylistically authentic, and semantically meaningless.
+
+### [24] The Corporate Bullshit Receptivity Scale: Development, validation, and associations with workplace outcomes - OSF
+
+> declares no known conflict of interest. Correspondence concerning this article should be addressed to Shane Littrell, Cornell University, 214 White Hall, 123 Central Ave, Ithaca, NY 14850. Email: shane.littrell@cornell.edu, shane.littrell@utoronto.ca CORPORATE BULLSHIT RECEPTIVITY SCALE Abstract From boardrooms and brown bags to emails and earnings calls, business culture often seems overrun by “corporate bullshit,” a semantically empty and often confusing style of communication in organizational

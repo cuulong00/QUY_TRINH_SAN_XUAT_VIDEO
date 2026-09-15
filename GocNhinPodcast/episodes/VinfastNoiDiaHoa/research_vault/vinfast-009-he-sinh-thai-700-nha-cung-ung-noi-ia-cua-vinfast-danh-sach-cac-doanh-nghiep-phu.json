@@ -1,0 +1,209 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-07-22T03:26:30.555Z",
+  "session_id": "4f59a68f",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/0ee908ed-9f5d-4289-a143-a349af6c9fc1"
+  },
+  "question": "Hệ sinh thái 700 nhà cung ứng nội địa của VinFast: Danh sách các doanh nghiệp phụ trợ chính, sản phẩm cung cấp, và tác động đến nền kinh tế Việt Nam.",
+  "answer": {
+    "text": "Thoughts\nCác nguồn tài liệu hiện tại không đề cập đến khái niệm hay danh sách \"Hệ sinh thái 700 nhà cung ứng nội địa của VinFast\".\nThay vào đó, các tài liệu làm rõ rằng mạng lưới nhà cung cấp của VinFast bao gồm 1.700 đối tác toàn cầu và khoảng 800 nhà cung cấp trực tiếp\n1\n. Do xuất phát điểm của Việt Nam có nền công nghiệp phụ trợ ô tô chưa phát triển (tỷ lệ nội địa hóa trung bình trước đây chỉ khoảng 20%)\n2\n, VinFast không lựa chọn mô hình thuê ngoài hoàn toàn mà áp dụng chiến lược tích hợp hệ thống toàn cầu kết hợp tự sản xuất nội địa\n2\n.\nDưới đây là chi tiết về danh sách đối tác, mô hình tự sản xuất và những tác động kinh tế của hệ sinh thái VinFast được ghi nhận từ các tài liệu:\nI. Danh sách các đối tác công nghệ và nhà cung cấp chính\nĐể rút ngắn thời gian phát triển xe, VinFast đã áp dụng chiến lược \"đứng trên vai người khổng lồ\", hợp tác với các doanh nghiệp Tier-1 hàng đầu thế giới ở giai đoạn đầu trước khi chuyển giao công nghệ\n3\n:\nThiết kế và phát triển: Hợp tác với hai Studio danh tiếng của Ý là Pininfarina và Italdesign để tạo ngôn ngữ thiết kế\n3\n.\nTích hợp hệ thống và nền tảng: Thuê Magna Steyr tư vấn kỹ thuật tích hợp hệ thống\n3\nvà mua bản quyền nền tảng từ BMW\n3\n.\nLinh kiện cơ khí, điện tử và phần mềm: Ký hợp tác toàn diện với Bosch và ZF để cung cấp ECU, phần mềm và hệ thống phanh\n3\n.\nHệ sinh thái pin: Hợp tác cung ứng cell pin tiêu chuẩn với CATL, Gotion High-Tech và LG Chem\n3\n.\nGiải pháp lái tự động (ADAS) và AI: Thành lập viện nghiên cứu ADAS tại Đức\n3\n, hợp tác với Tensor (Mỹ) chế tạo Robocar Level 4\n4\n5\n, kết hợp với Autobrains (Israel) và NVIDIA phát triển hệ thống tự lái L4 cho Đông Nam Á\nCác công ty liên kết trong hệ sinh thái Vingroup:\nVinES Energy Solutions: Đảm nhiệm nghiên cứu, đóng gói bộ pin (Battery Pack)\n9\nvà liên doanh sản xuất cell pin\n10\n11\n.\nGotion High-Tech: Đối tác Trung Quốc nắm giữ 51% cổ phần (VinES nắm 49%) trong liên doanh sản xuất cell pin LFP tại Hà Tĩnh\n10\n12\n.\nVinRobotics: Hợp tác phát triển robot humanoid và hệ thống tự động hóa AI nhằm nâng cao năng suất và chất lượng tại các nhà máy của VinFast\n13\n14\n. Hãng cũng dự kiến là đối tác sản xuất cho VinMotion và VinDynamics\n13\n14\n.\nVinAI & VinBigData: Phát triển trợ lý ảo tiếng Việt, hệ thống quan sát toàn cảnh và các thuật toán xử lý hình ảnh cho xe\n3\n.\n(Lưu ý: Tài liệu cũng nhắc đến THACO Industries tại Chu Lai sở hữu tổ hợp 12 nhà máy cung ứng linh kiện khung vỏ, nhíp, ghế, kính, máy lạnh ô tô... cho nhiều hãng xe lớn\n15\n16\nvà cung cấp linh kiện OEM cho Hyundai, Toyota, Isuzu, Piaggio\n17\n, nhưng không nêu rõ THACO có nằm trong chuỗi cung ứng trực tiếp của VinFast hay không).\nII. Mô hình tự sản xuất nội địa đạt tỷ lệ 60% – 64%\nĐể đạt tỷ lệ nội địa hóa vượt trội 60% - 64% vào cuối năm 2024 và hướng tới 80% - 84% vào năm 2026\n9\n17\n, VinFast đã tự chủ sản xuất các cấu phần có khối lượng, kích thước và chi phí lớn nhất ngay tại Tổ hợp nhà máy Hải Phòng (335 ha)\n3\n9\n:\nThân vỏ và Khung gầm: Được dập bằng công nghệ Schuler (Đức) và hàn tự động hóa 100% bằng 1.200 robot ABB\n3\n9\n.\nĐộng cơ điện (e-Motor): Tự thực hiện toàn bộ quá trình cơ khí hóa, quấn dây và lắp ráp tại xưởng động cơ riêng biệt trong tổ hợp\n9\n.\nĐóng gói Pin: Các cell pin sau khi nhập khẩu hoặc sản xuất tại Hà Tĩnh sẽ được chuyển về xưởng pin Hải Phòng để đóng gói thành các bộ pin (Battery Pack) hoàn chỉnh\n9\n.\nNội - ngoại thất và cơ khí phụ trợ: Ghế ngồi, trần xe, bảng điều khiển, vành xe, hệ thống phanh, giảm xóc, các chi tiết nhựa và đèn xe đều được hoàn thiện trong nước\n9\n.\nIII. Tác động đến nền kinh tế Việt Nam\nSự hình thành chuỗi sản xuất và hệ sinh thái xe điện của VinFast mang lại những tác động sâu sắc đến cấu trúc kinh tế và định hướng công nghiệp của Việt Nam:\nBứt phá năng lực công nghiệp hỗ trợ quốc gia: Việc nâng tỷ lệ nội địa hóa từ mức 20% trung bình của ngành lên 60% - 64%\n2\n9\ngiúp Việt Nam chuyển dịch mạnh mẽ từ một nước thuần lắp ráp linh kiện nhập khẩu (CKD) sang tự chủ công nghệ chế tạo tinh học, cơ khí chính xác và điện tử công suất\n2\n9\n.\nKiến tạo các tổ hợp công nghiệp quy mô lớn và giải quyết việc làm:\nNhà máy liên doanh pin LFP VinES-Gotion (Hà Tĩnh): Với tổng vốn đầu tư hơn 6.329 tỷ đồng (~275 triệu USD) trên diện tích 14 ha\n, đây là nhà máy sản xuất cell pin LFP đầu tiên tại Việt Nam\n. Nhà máy đi vào vận hành từ Quý 3/2024\n23\n24\nđã tạo ra hơn 500 việc làm mới cho địa phương\n22\n24\nvà hoàn thiện chuỗi khép kín sản xuất pin tại chỗ\nNhà máy sản xuất xe điện VinFast Hà Tĩnh: Được khánh thành vào tháng 6/2025 với công suất 200.000 xe/năm\n27\n28\n, tổ hợp này góp phần gia tăng nguồn thu ngân sách tỉnh và thúc đẩy hình thành chuỗi giá trị sản xuất - cung ứng - logistics xanh tại miền Trung\n27\n.\nCộng hưởng chính sách và thúc đẩy lộ trình chuyển đổi xanh: Sự bùng nổ doanh số của VinFast (đạt kỷ lục 115.916 xe điện trong nửa đầu năm 2026 tại Việt Nam)\n29\n30\nđã cộng hưởng mạnh mẽ với các quyết sách của Chính phủ nhằm khuyến khích tiêu dùng xanh. Điển hình là việc kéo dài thời gian miễn 100% lệ phí trước bạ lần đầu đến hết năm 2030\n31\n32\nvà duy trì thuế tiêu thụ đặc biệt xe điện ở mức 3%\n33\n34\n, giúp tối ưu hóa chi phí lăn bánh cho người dân, giảm ô nhiễm môi trường và thu hút thêm các dòng vốn FDI công nghệ cao vào Việt Nam\n🔍 Tôi có thể làm cuộc nghiên cứu trên web để cập nhật danh sách các doanh nghiệp phụ trợ thuần Việt (Tier-2, Tier-3) đang cung ứng linh kiện trực tiếp cho nhà máy Hải Phòng của VinFast nếu bạn cần thông tin chi tiết hơn không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "VinFast Auto Q4 2025 Earnings Report - MarketBeat",
+      "source_text": "Le Thi Thu Thuy Chairwoman of the Board of Directors at VinFast Auto 00:55:06 From the supply chain perspective, we have developed a global supplier network of 1,700 partners and about 800 direct suppliers that are, you know, ready to supply to us. Well, I think, on your second question, beyond pricing, we differentiate through our EV ecosystem, including the rollout of the V-GREEN charging infrastructure, and the expansion of GSM ride-hailing fleet, which help build the long-term consumer confidence. Over time, our scale increases and our ecosystem matures. We expect, you know, promotions to normalize with differentiation increasingly driven by great value to money, the vehicle products, and enhanced ownership experience and after-sales service, and, of course, the best-in-class warranty coverage."
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Noidiahoa-gocnhinpodcast.md",
+      "source_text": "So Sánh Đa Chiều: VinFast, Tesla Và BYD Về Tuổi Đời, Xuất Thân Và Chuỗi Cung Ứng Sự khác biệt về tỷ lệ nội địa hóa và mô hình sản xuất giữa VinFast, Tesla và BYD bắt nguồn từ lịch sử thành lập, nền tảng khởi đầu và hệ sinh thái công nghiệp phụ trợ của từng quốc gia. Thành lập năm 1995 với xuất thân là một nhà sản xuất pin điện thoại di động và năng lượng, BYD tham gia vào ngành sản xuất ô tô từ năm 200319. Với gần 30 năm kinh nghiệm trong lĩnh vực hóa học pin và hơn 20 năm làm ô tô, BYD lựa chọn mô hình tích hợp dọc tuyệt đối (Vertical Integration)19. BYD tự sản xuất khoảng 75% linh kiện cấu thành chiếc xe ngay trong nội bộ tập đoàn, từ việc khai thác mỏ Lithium, sản xuất Pin Blade, tự thiết kế bán dẫn/chip IGBT (BYD Semiconductor), đến sản xuất động cơ và hệ thống truyền động 8-trong-119. BYD hầu như không phụ thuộc vào các nhà cung ứng Tier-1 bên ngoài, giúp hãng kiểm soát tối đa chi phí và chủ động nguồn cung21. Tesla được thành lập năm 2003 tại Thung lũng Silicon với bản chất là một công ty công nghệ và phần mềm23. Mặc dù nhà máy Fremont tại Mỹ có tỷ lệ tự làm linh kiện nhất định, điểm sáng về tỷ lệ nội địa hóa của Tesla lại nằm ở nhà máy Gigafactory Thượng Hải, nơi đạt tỷ lệ nội địa hóa linh kiện vượt quá 95%23. Tesla đạt được con số 95% này không phải nhờ tự sản xuất toàn bộ linh kiện trong nhà máy, mà nhờ đặt đại bản doanh vào giữa hệ sinh thái công nghiệp phụ trợ ô tô phát triển của vùng Đồng bằng sông Dương Tử27. Hơn 400 nhà cung cấp Trung Quốc đã cung ứng trực tiếp linh kiện cho Tesla, trong đó hơn 60 nhà cung ứng đã tham gia vào chuỗi cung ứng toàn cầu của hãng23. Tesla tập trung nguồn lực nội bộ vào thiết kế kiến trúc xe, phần mềm tự lái (FSD), chip AI và công nghệ đúc nguyên khối (Megacasting). VinFast được thành lập năm 2017 với xuất thân từ Vingroup – một tập đoàn đa ngành khởi đầu từ bất động sản và dịch vụ29. VinFast chính thức chuyển hướng hoàn toàn sang sản xuất xe thuần điện từ năm 2022, nghĩa là tuổi đời thực sự trong ngành xe điện chỉ mới đạt khoảng vài năm29. Khởi đầu tại một quốc gia chưa có nền công nghiệp phụ trợ ô tô phát triển (tỷ lệ nội địa hóa chung của Việt Nam trước đó chỉ khoảng 20%), VinFast áp dụng mô hình tích hợp hệ thống toàn cầu kết hợp tự sản xuất nội địa8. Mức 60% - 64% hiện tại và hướng tới 84% năm 2026 thể hiện tốc độ dịch chuyển từ việc phụ thuộc vào chuỗi cung ứng quốc tế sang tự chủ sản xuất trong nước7."
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "Noidiahoa-gocnhinpodcast.md",
+      "source_text": "Chiến Lược \"Đứng Trên Vai Người Khổng Lồ\" Và Lộ Trình Tự Chủ Công Nghệ Một chiếc xe điện thông minh hiện đại chứa đựng từ 20.000 đến 30.000 linh kiện và được bảo hộ bởi hàng chục nghìn bằng sáng chế đăng ký rải rác ở các lĩnh vực: hóa học vật liệu pin, điện tử công suất, thuật toán điều khiển động cơ, phần mềm ADAS, thiết kế khí động học và an toàn va chạm. Nếu một thương hiệu bắt đầu hoàn toàn từ con số 0 và quyết định tự nghiên cứu toàn bộ các công nghệ cốt lõi để không sử dụng linh kiện mua ngoài hay hợp tác chuyển giao, doanh nghiệp đó sẽ mất khoảng 15 đến 20 năm chỉ để xây dựng hạ tầng R&D, thử nghiệm và tích lũy đủ số lượng bằng sáng chế nền tảng trước khi thương mại hóa chiếc xe đầu tiên. Trong bối cảnh ngành ô tô thế giới chuyển dịch nhanh chóng, việc mất 15 đến 20 năm đồng nghĩa với sự thất bại chắc chắn trước khi sản phẩm kịp ra mắt. Ngay cả tập đoàn công nghệ Apple sau một thập kỷ nghiên cứu dự án xe điện Titan với ngân sách hàng tỷ USD cũng đã phải tuyên bố hủy bỏ kế hoạch vì sự phức tạp của chuỗi cung ứng và rào cản công nghệ cơ khí - điện tử. Nhận thức rõ bài toán thời gian và rào cản công nghệ, VinFast chọn phương pháp luận chiến lược mà các thương hiệu như Hyundai hay Kia từng thực hiện thành công: \"Đứng trên vai người khổng lồ\" để rút ngắn thời gian phát triển33. Tiến trình này được thực hiện bài bản qua ba giai đoạn chiến lược liền mạch33. Ở giai đoạn đầu tiên, VinFast tiến hành mua bản quyền và hợp tác với các tập đoàn Tier-1 hàng đầu thế giới17. Hãng hợp tác với các Studio lừng danh Ý như Pininfarina và Italdesign để tạo dựng ngôn ngữ thiết kế17; thuê Magna Steyr tư vấn kỹ thuật tích hợp hệ thống17; mua bản quyền nền tảng từ BMW32; ký kết hợp tác toàn diện với Bosch và ZF để cung cấp phần mềm, ECU, hệ thống phanh17; và hợp tác với CATL, Gotion, LG Chem để cung ứng cell pin tiêu chuẩn15. Chuyển sang giai đoạn thứ hai, VinFast tập trung tích hợp hệ thống và tự chủ sản xuất quy mô lớn33. Hãng thâu tóm quy trình, xây dựng Tổ hợp nhà máy 335 ha tại Hải Phòng với mức độ tự động hóa cao để làm chủ kỹ thuật dập, hàn, sơn và lắp ráp12. Từ nền tảng này, VinFast từng bước nội địa hóa các linh kiện có dung lượng thị trường lớn, nâng tỷ lệ nội địa hóa từ mức 20% ban đầu lên 60% - 64% và đặt mục tiêu 84%7. Ở giai đoạn thứ ba, VinFast đẩy mạnh đầu tư R&D nội bộ và sáng tạo công nghệ độc quyền33. Hãng đã đầu tư hơn 1 tỷ USD cho hoạt động R&D35, kết hợp với các công ty công nghệ thuộc Vingroup như VinAI và VinBigData để phát triển các tính năng trợ lý ảo tiếng Việt, hệ thống quan sát toàn cảnh và thuật toán xử lý hình ảnh30. Đồng thời, VinFast thành lập Viện Nghiên cứu ADAS/AD tại Đức quy tụ các chuyên gia quốc tế để tự chủ phát triển hệ thống lái tự động Level 2 hiện tại và hướng tới Level 3/Level 4 trong tương lai18. Bằng việc kết hợp nguồn lực quốc tế với khả năng thực thi nhanh chóng tại nội địa, VinFast rút ngắn thời gian phát triển xe từ 5 năm xuống còn chưa đầy 2 năm, tạo ra năng lực cạnh tranh bình đẳng về mặt công nghệ với các hãng xe có lịch sử lâu đời."
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov",
+      "source_text": "3 Based on data from the Vietnam Automobile Manufacturers' Association, TC Group and Company internal data (for VinFast only) 4 Based on Company research 5 Based on Vahan registrations among battery EV (“BEV”) brands. 6 According to the Association of Indonesia Automotive Industries (GAIKINDO). 7 According to the Chamber of Automotive Manufacturers of the Philippines (CAMPI). 3 ● VinFast is collaborating with Tensor, a pioneering AI company developing personally owned L4 autonomous robocars, as the manufacturing and industrialization partner for Tensor's robocar program. Fully functional prototypes for the program have already been tested by Tensor in multiple regions. The program is currently in the pre-production phase and is being advanced toward commercialization. VinFast is also engaged in discussions with various technology and mobility companies on robotaxi development."
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "VinFast Auto Q4 2025 Earnings Report - MarketBeat",
+      "source_text": "Anne Pham Deputy CEO of Investments at VinFast Auto 00:15:32 We also plan to expand our trials of Robocar to larger cities and international markets. We are also pleased to share that we've entered into a collaboration with Tensor, a pioneering AI company developing personally owned level four autonomous Robocars company based in California. Under this partnership, VinFast will serve as the manufacturing and industrialization partner for Tensor's Robocar program. Fully functional prototypes of the program have already been tested by Tensor across multiple regions, and the program is currently in the pre-production phase and is being advanced towards commercialization. This collaboration is compelling for both a commercial and financial standpoint, while reinforcing VinFast's strategic role in the next generation of mobility solutions. In parallel, we are also in active discussions with a number of technology and mobility companies exploring robotaxi development. We look forward to sharing further updates as these discussions progress in the coming quarters."
+    },
+    {
+      "marker": "[6]",
+      "number": 6,
+      "source_name": "VinFast Auto Q4 2025 Earnings Report - MarketBeat",
+      "source_text": "Le Thi Thu Thuy Chairwoman of the Board of Directors at VinFast Auto 00:14:01 For Europe, we plan to introduce the next generation of B SUV, the VF six model. For North America markets, we plan to bring the VF 7, a C-segment electric SUV, and to also launch our e-bus business later this year. Now I will turn it over to Anne, who will take you through the latest on VinFast technology platform. Anne Pham Deputy CEO of Investments at VinFast Auto 00:14:29 Thank you, Madam Thuy. VinFast is more than an EV manufacturer. Our mission is to make electric mobility accessible to everyone, which directly shapes how we allocate capital and make strategic investments. We are deliberately investing in owning more of our technology stack so that we can deliver more compelling features at a lower cost over time. At Mobility Day last November, we shared our autonomy roadmap for level 2+ and level 2++ towards level four, with a demonstration of a self-driving Robo-Car in partnership with Autobrains at Vinhomes Ocean Park, a project in Vietnam. A leading AI mobility company based in Israel, Autobrains has been working with us for a number of years. VinFast have taken a capital efficient approach with an in-house ADAS research institute while working with strategic technology partners for level four."
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "Noidiahoa-gocnhinpodcast.md",
+      "source_text": "Bản Chất Tỷ Lệ Nội Địa Hóa 60% - 64% Và Lộ Trình Đạt 84% Đến Năm 2026 Để hiểu đúng về tỷ lệ nội địa hóa, cần làm rõ công thức tính toán trong ngành ô tô. Tỷ lệ nội địa hóa không tính bằng số lượng chi tiết đơn lẻ mà được cấu thành từ giá trị gia tăng, hàm lượng công nghệ và chi phí sản xuất thực hiện tại nội địa. Đến cuối năm 2024, VinFast công bố đã đạt tỷ lệ nội địa hóa từ hơn 60% đến 64% trên các dòng xe điện, tạo ra sự thay đổi lớn so với mức trung bình chỉ khoảng 20% của ngành công nghiệp phụ trợ Việt Nam trước đây7. Con số 60% - 64% hiện tại có nghĩa là VinFast đã làm chủ và trực tiếp sản xuất các cấu phần có khối lượng, kích thước và chi phí sản xuất lớn nhất ngay tại Tổ hợp nhà máy Hải Phòng7. Xưởng dập công nghệ Schuler (Đức) và Xưởng hàn thân vỏ với 1.200 robot ABB tự động hóa 100% đảm nhiệm việc tự sản xuất toàn bộ kết cấu khung gầm và mảng dập thân vỏ12. Quá trình cơ khí hóa, quấn dây và lắp ráp động cơ điện (e-Motor) được thực hiện tại xưởng sản xuất động cơ riêng biệt trong tổ hợp10. Các bộ phận như ghế ngồi, trần xe, bảng điều khiển, vành xe, hệ thống phanh, giảm xóc, các chi tiết nhựa, hệ thống đèn xe và công đoạn đóng gói khối pin (Battery Pack) cũng đều được hoàn thiện trong nước7. Lộ trình nâng tỷ lệ nội địa hóa từ mức 60% - 64% hiện tại lên 84% vào năm 2026 đòi hỏi VinFast phải nội địa hóa các linh kiện có giá trị kinh tế và giá trị công nghệ cao nhất – nơi tập trung cấu thành chi phí của một chiếc xe điện7. Pin chiếm từ 30% đến 40% tổng giá trị chiếc xe điện. Để nâng tỷ lệ nội địa hóa thêm khoảng 20%, nhân tố quyết định là việc đưa các nhà máy sản xuất cell pin (như nhà máy sản xuất cell pin LFP hợp tác với Gotion tại Hà Tĩnh) đi vào vận hành thương mại quy mô lớn10. Việc tự sản xuất cell pin tại Việt Nam thay vì nhập khẩu cell từ các đối tác CATL hay LG Chem sẽ đóng góp mức tăng trưởng tỷ lệ nội địa hóa cao nhất15. Song song đó, VinFast mở rộng quy mô Xưởng Thiết bị điện tử tại Hải Phòng để tự sản xuất các bo mạch điều khiển động cơ, hệ thống quản lý pin (BMS) và các cụm điều khiển thông minh nội địa12. Hãng cũng tiến tới sản xuất nội địa hóa toàn bộ các chi tiết phanh lái, kính gương, các cụm cơ cấu treo cao cấp và tối ưu hóa chuỗi cung ứng vật liệu đầu vào trong nước7."
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026",
+      "source_text": "Dự án liên doanh sản xuất pin VinES-Gotion tại Vũng Áng và lộ trình tự chủ nguồn cung Để hiện thực hóa chiến lược tự chủ chuỗi cung ứng năng lượng và tối ưu hóa cơ cấu giá thành sản phẩm xe điện, Tập đoàn Vingroup đã triển khai dự án xây dựng tổ hợp sản xuất cell pin xe điện quy mô lớn tại Khu kinh tế Vũng Áng, tỉnh Hà Tĩnh [cite: 28, 29, 30]. Dự án này được vận hành dưới hình thức liên doanh giữa VinES Energy Solutions (thành viên Vingroup, nắm giữ 49% cổ phần) và Gotion High-Tech (nhà sản xuất pin hàng đầu thế giới của Trung Quốc, nắm giữ 51% cổ phần) [cite: 28, 31]. Dự án chính thức được khởi công xây dựng vào ngày 18 tháng 11 năm 2022 trên khu đất quy hoạch CN4-5 thuộc Khu công nghiệp trung tâm Vũng Áng với diện tích 14 ha [cite: 29, 32, 33]. Tổng mức vốn đầu tư của dự án đạt hơn 6.329 tỷ đồng (tương đương khoảng 275 triệu USD) [cite: 29, 32, 33]."
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "Gotion High-tech and VinES Vietnam base break ground at joint venture battery factory",
+      "source_text": "At the Groundbreaking ceremony, Ms. Pham Thuy Linh - CEO of VinES - said: The LFP battery cell factory is a joint venture with our partner - Gotion. It is an essential component in creating battery supply autonomy for VinFast EVs and VinES's development goal to become the preeminent energy solutions company.Located next to the VinES battery pack manufacturing in the Vung Ang Economic Zone, this new factory will complete the closed loop production of LFP Batteries in Vietnam, thereby improving localization for VinFast's EVs and optimizing production efficiency. In addition, the factory will also open up new development opportunities for the Vietnamese EV and clean energy industry.\""
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "Gotion High-tech and VinES Vietnam base break ground at joint venture battery factory",
+      "source_text": "The factory was jointly invested by Gotion High-tech, and VinES (a member of VinGroup). Gotion High-tech holds 51% of the shares and VinES holds 49%. It is the first LFP battery manufacturing plant in Vietnam. According to the plan, The project has a scale of 14 hectares with a design capacity of 5GWh/year, and is expected to be completed and put into operation by the end of 2023. To meet the demand of lithium iron phosphate batteries for VinFast new energy vehicle batteries. VinES is owned by VinGroup, Vietnam's largest private company, and is mainly responsible for power battery production.The group's VinFast, is the world's leading new energy vehicle manufacturing enterprise, whose products are widely praised in the Southeast Asia market and exported to Europe and America."
+    },
+    {
+      "marker": "[13]",
+      "number": 13,
+      "source_name": "Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov",
+      "source_text": "● As of December 31, 2025, VinFast operates four manufacturing facilities globally with a combined maximum annual capacity of approximately 600,000 EVs, consisting of 300,000 EVs p.a. in Hai Phong and 200,000 EVs p.a. in Ha Tinh (Vietnam), 50,000 EVs p.a. in Indonesia, and 50,000 EVs p.a. in India. The Company also manufactures e-scooters in Hai Phong with an annual capacity of approximately 500,000 units. ● Smart manufacturing is central to the Company's longer-term profitability. Within the Vingroup ecosystem, VinFast is working closely with an affiliated company, VinRobotics, which focuses on the development of intelligent robotics, automation systems and physical AI technologies for industrial applications. VinRobotics' platform includes industrial humanoid robots and AI-enabled automation layers designed to operate in complex factory environments, enabling higher levels of automation and productivity. VinFast's collaboration with VinRobotics focuses on improving factory productivity, quality control and operational efficiency, supporting higher utilization and increased automation as production volumes scale, and contributing to structural improvements in the Company's cost base. In the future, VinFast expects to be the manufacturing partner for VinRobotics, as well as for two other robotics companies within the Vingroup ecosystem, VinMotion and VinDynamics."
+    },
+    {
+      "marker": "[14]",
+      "number": 14,
+      "source_name": "VinFast Reports Preliminary and Unaudited Fourth Quarter and Full Year 2025 Financial Results",
+      "source_text": "Smart manufacturing is central to the Company's longer-term profitability. Within the Vingroup ecosystem, VinFast is working closely with an affiliated company, VinRobotics, which focuses on the development of intelligent robotics, automation systems and physical AI technologies for industrial applications. VinRobotics' platform includes industrial humanoid robots and AI-enabled automation layers designed to operate in complex factory environments, enabling higher levels of automation and productivity. VinFast's collaboration with VinRobotics focuses on improving factory productivity, quality control and operational efficiency, supporting higher utilization and increased automation as production volumes scale, and contributing to structural improvements in the Company's cost base."
+    },
+    {
+      "marker": "[15]",
+      "number": 15,
+      "source_name": "THACO INDUSTRIES phát triển Trung tâm sản xuất linh kiện phụ tùng mang tầm khu vực",
+      "source_text": "THACO INDUSTRIES đang đẩy mạnh đầu tư vào lĩnh vực công nghiệp hỗ trợ (CNHT), hình thành Trung tâm sản xuất linh kiện phụ tùng (LKPT) mang tầm khu vực, gia tăng tỷ lệ nội địa hóa, góp phần tạo lợi thế cho ngành công nghiệp ô tô của đất nước và tham gia sâu vào chuỗi cung ứng toàn cầu. Các dự án mới của THACO INDUSTRIES được khánh thành và đưa vào hoạt động đầu năm 2025 Không ngừng mở rộng quy mô, nâng cấp công nghệ Đầu tư vào lĩnh vực cơ khí chế tạo và CNHT từ rất sớm để bổ trợ ngành sản xuất lắp ráp ô tô của THACO, sau 22 năm, cùng với Trung tâm cơ khí, THACO INDUSTRIES đã hình thành Trung tâm sản xuất LKPT tại Chu Lai (Quảng Nam) có tổng vốn đầu tư 550 triệu USD, gồm 12 nhà máy với công nghệ hiện đại, đạt tiêu chuẩn quốc tế."
+    },
+    {
+      "marker": "[16]",
+      "number": 16,
+      "source_name": "THACO INDUSTRIES phát triển Trung tâm sản xuất linh kiện phụ tùng mang tầm khu vực",
+      "source_text": "Máy dập 6.300 tấn tại Nhà máy Sản xuất Linh kiện khung thân vỏ ô tô Dây chuyền dập liên hợp tại Nhà máy Sản xuất Linh kiện khung thân vỏ ô tô THACO INDUSTRIES hiện là đối tác của các thương hiệu ô tô lớn như Kia, Mazda, BMW, Peugeot, Hyundai, Toyota, Isuzu… về cung ứng LKPT. Các sản phẩm gồm: linh kiện khung thân vỏ (linh kiện thân vỏ, thùng xe, khung xương táp lô, nhíp…), linh kiện nội - ngoại thất (ghế, cản xe, kính, la phông trần, táp-pi sàn, linh kiện nhựa nội - ngoại thất…), linh kiện hệ thống động lực (mâm xe, thùng nhiên liệu, ống xả…), linh kiện hệ thống điện - điện lạnh (cụm dây điện, máy lạnh, dàn két nóng…); đồng thời xuất khẩu sang các thị trường Bắc Mỹ, Úc, Đức, Hàn Quốc, Nhật Bản, Ba Lan và các nước ASEAN."
+    },
+    {
+      "marker": "[17]",
+      "number": 17,
+      "source_name": "Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới",
+      "source_text": "Thaco cũng cung ứng linh kiện OEM cho nhiều hãng ôtô và xe máy tại Việt Nam như Hyundai, Toyota, Isuzu, Piaggio cùng với loạt doanh nghiệp FDI khác, thậm chí đã xuất khẩu sang các thị trường nước ngoài bao gồm Mỹ, Canada, Nhật Bản, Hàn Quốc, Australia... Cuối năm 2024, VinFast cho biết tỷ lệ nội địa hóa của ôtô điện thương hiệu đã đạt hơn 60%, trong đó có thân vỏ, động cơ, trần xe hay bộ giảm xóc. VinFast đặt mục tiêu nâng tỷ lệ này lên thêm 20%, dự kiến đạt tỷ lệ nội địa hóa 80% vào năm 2026. VinFast cho biết tỷ lệ nội địa hóa trên ôtô của hãng hiện đạt trên 60%. Ảnh: VinFast."
+    },
+    {
+      "marker": "[20]",
+      "number": 20,
+      "source_name": "Gotion High-tech and VinES Vietnam base break ground at joint venture battery factory",
+      "source_text": "Gotion High-tech and VinES Vietnam base break ground at joint venture battery factory USA - English USA - Français USA - Deutsch USA - español Latin America - español Brazil - Português USA - English News provided by Gotion High-Tech Nov 21, 2022, 00:16 ET Share this article [ ](javascript:;) [ ](javascript:;) [ ](javascript:;) [ ](javascript:;) [ ](javascript:;) Share to X Share this article [ ](javascript:;) [ ](javascript:;) [ ](javascript:;) [ ](javascript:;) Share to X HA TINH, Vietnam, Nov. 21, 2022 /PRNewswire/ -- November 18, the joint venture battery factory by Gotion High-Tech and Vietnam VinGroup was officially opened in Vietnam Ha Tinh Economic Development Zone. The project is expected to achieve annual production capacity of 5GWh, expected to be in operation by the end of 2023, which is the first LFP battery factory in Vietnam."
+    },
+    {
+      "marker": "[22]",
+      "number": 22,
+      "source_name": "VinES and Gotion High-Tech Break Ground at a 5GWh/Year LFP Battery Factory",
+      "source_text": "The facility will be the first LFP battery plant in Vietnam and will begin mass production in the third quarter of 2024 and is expected to create approximately 500 new jobs for the local community. This is an important part in Vingroup's \"3-prong\" battery strategy: (1) Buying batteries from the world's best manufacturers, (2) Cooperating with partners to produce the world's best batteries and (3) In-house battery production research and development. In December 2021, VinES started constructing a battery manufacturing and packaging factory with a scale of 8 hectares (20 acres) in the first phase, and a total investment of VND 4,000 billion. After 11 months of construction, the factory is in the final stages of completion and will begin operations in December 2022, producing Lithium batteries for VinFast electric vehicles and e-buses."
+    },
+    {
+      "marker": "[23]",
+      "number": 23,
+      "source_name": "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026",
+      "source_text": "Về mặt tiến độ triển khai thực tế, dự án đã bắt đầu giai đoạn sản xuất thử nghiệm thiết bị và lắp đặt hệ thống phòng sạch trong năm 2024, chính thức đi vào sản xuất thương mại hàng loạt từ quý 3 năm 2024 [cite: 29, 33, 36]. Đến nửa đầu năm 2025, nhà máy đã vận hành ổn định và đạt hiệu suất cao [cite: 30]. Trong 6 tháng đầu năm 2025, tổ hợp pin tại Hà Tĩnh đã chế tạo thành công hơn 14.000 bộ pack pin hoàn chỉnh (tăng gấp 7 lần so với cùng kỳ năm 2024) và sản xuất hơn 9,4 triệu cell pin LFP thành phẩm, trực tiếp giải quyết vấn đề tự chủ cung ứng cho VinFast [cite: 30]."
+    },
+    {
+      "marker": "[24]",
+      "number": 24,
+      "source_name": "Gotion building Vietnam's first LFP gigafactory - Energy-Storage.News",
+      "source_text": "Lithium iron phosphate has become an increasingly popular battery sub-chemistry for stationary energy storage systems, eroding the early market dominance of nickel manganese cobalt (NMC). While lower energy density than NMC, it is also lower cost and tied to more abundantly available cathode materials, meaning EV makers increasingly also turn to it , particularly for shorter range and lower cost vehicles. Gotion-VinES' factory will go into mass production in Q3 2024, creating around 500 jobs. It will follow VinES' own 8-hectare packing and production plant, which goes into operation next month."
+    },
+    {
+      "marker": "[27]",
+      "number": 27,
+      "source_name": "Ha Tinh's Industrial Sector Shines in the First Half of 2025 - Trung tâm DVTC & HTDN Tỉnh Hà Tĩnh",
+      "source_text": "In the first half of the year, the Vung Ang Economic Zone saw vibrant production activities. Two major battery manufacturing plants, VinES Ha Tinh and the VinES-Gotion Lithium Battery Joint Venture, operated at high and stable capacity, meeting the growing demand in the electric vehicle manufacturing industry. Deputy Prime Minister Inaugurates VinFast Electric Vehicle Manufacturing Plant in June 2025 The VinFast Electric Vehicle Manufacturing Plant in Ha Tinh, invested in by Vingroup, was inaugurated in late June and began operations, marking a significant milestone in the province's green industrial production ecosystem. With an initial design capacity of approximately 200,000 vehicles per year, the plant is expected to boost provincial tax revenues and promote the development of a production-supply-logistics value chain in the region. This aligns with Ha Tinh's vision for green growth and sustainable development as outlined in the Provincial Plan for 2021–2030, with a vision to 2050."
+    },
+    {
+      "marker": "[28]",
+      "number": 28,
+      "source_name": "VinFast Reports Preliminary and Unaudited Fourth Quarter and Full Year 2025 Financial Results",
+      "source_text": "Manufacturing Milestones: The Company's manufacturing utilization and operational efficiency continued to improve at its largest plant in Hai Phong, Vietnam. The facility celebrated the 200,000th EV of the year rolling off the assembly line on December 31, 2025, and produced nearly 26,000 EVs in December 2025 alone. In June 2025, VinFast officially inaugurated the VinFast Ha Tinh electric vehicle manufacturing plant in the Vung Ang Economic Zone, less than seven months after the project was initiated."
+    },
+    {
+      "marker": "[29]",
+      "number": 29,
+      "source_name": "VINFAST REPORTS DELIVERIES OF 17955 ELECTRIC VEHICLES IN JUNE 2026 IN VIETNAM, REACHING A RECORD OF 115916 ELECTRIC VEHICLES IN THE FIRST HALF OF 2026",
+      "source_text": "VINFAST REPORTS DELIVERIES OF 17,955 ELECTRIC VEHICLES IN JUNE 2026 IN VIETNAM, REACHING A RECORD OF 115,916 ELECTRIC VEHICLES IN THE FIRST HALF OF 2026 | VinFast VinFastVinFast VinFast Videos Our Reports News & Events Governance SEC Filings Stock Sustainability FAQs VinFast Videos Back News News VINFAST REPORTS DELIVERIES OF 17,955 ELECTRIC VEHICLES IN JUNE 2026 IN VIETNAM, REACHING A RECORD OF 115,916 ELECTRIC VEHICLES IN THE FIRST HALF OF 2026 July 11, 2026 Hanoi, July 10, 2026 – VinFast Auto Ltd. (“VinFast” or the “Company”) announced preliminary domestic Vietnam deliveries of 17,955 electric vehicles (“EVs”) for June 2026. Year to date, the Company has delivered a preliminary total of 115,916 EVs to customers in Vietnam, representing a significant increase of 72% compared to the same period last year, reaffirming its leadership in the domestic automotive market and marking the first time an automotive brand has exceeded 100,000 vehicle deliveries in the first half of a calendar year in Vietnam."
+    },
+    {
+      "marker": "[30]",
+      "number": 30,
+      "source_name": "VinFast (NASDAQ: VFS) reports 115916 EV deliveries and 72% growth in H1 2026",
+      "source_text": "(Neutral) Form Type 6-K Rhea-AI Filing Summary English Italian Spanish German Korean French Arabic VinFast Auto Ltd. reported preliminary domestic Vietnam deliveries of 17,955 electric vehicles in June 2026 and a record 115,916 EVs in the first half of 2026. This first-half volume represents a 72% increase compared to the same period last year and is described as the first time an automotive brand has exceeded 100,000 vehicle deliveries in the first half of a calendar year in Vietnam. In June, Limo Green was the top model with 3,868 deliveries, followed by VF 3 with 3,550, VF 5 and Herio Green combined with 3,364, VF 6 with 2,988, VF 7 with 1,437 and VF MPV 7 with 1,254. For the first half of 2026, Limo Green and VF 3 reached 27,927 and 23,781 deliveries, respectively. VinFast also highlighted the launch of the VF 2 compact urban EV in Vietnam, with deliveries expected to begin in September 2026, and noted that delivery figures are preliminary and one of several measures of performance."
+    },
+    {
+      "marker": "[31]",
+      "number": 31,
+      "source_name": "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026",
+      "source_text": "Chính sách Thuế tiêu thụ đặc biệt và Lệ phí trước bạ áp dụng cho xe điện tại Việt Nam Để thúc đẩy tiến trình chuyển đổi xanh và khuyến khích người tiêu dùng dịch chuyển sang các phương tiện giao thông thân thiện với môi trường, Chính phủ Việt Nam đã áp dụng một hệ thống chính sách ưu đãi thuế, phí ở mức cao nhất trong khu vực đối với xe thuần điện chạy pin (BEV) [cite: 63, 64, 65]: 1. Chính sách lệ phí trước bạ (LPTB) Đây là chính sách ưu đãi mang tính bước ngoặt cho thị trường xe điện [cite: 63, 64]. Sau khi áp dụng chính sách miễn phí hoàn toàn ở giai đoạn đầu, Chính phủ đã ban hành Nghị định số 202/2026/NĐ-CP (sửa đổi, bổ sung Nghị định số 10/2022/NĐ-CP) quy định kéo dài thời gian áp dụng mức thu lệ phí trước bạ lần đầu là 0% đối với ô tô thuần điện chạy pin (BEV) cho đến hết ngày 31 tháng 12 năm 2030 [cite: 63, 64, 66]. Quy định này có hiệu lực chính thức từ ngày 1 tháng 3 năm 2027, giúp người mua xe điện tiết kiệm trực tiếp hàng chục đến cả trăm triệu đồng chi phí lăn bánh ban đầu so với xe chạy xăng/dầu truyền thống (vốn chịu mức phí trước bạ từ 10% đến 12% tùy địa phương) [cite: 64, 65, 67]."
+    },
+    {
+      "marker": "[32]",
+      "number": 32,
+      "source_name": "Miễn lệ phí trước bạ đến năm 2030, người mua xe điện tiết kiệm cả trăm triệu đồng",
+      "source_text": "xem thêm World Cup 2026 Video Photo Longform Infographic Lý tưởng sống Nói thẳng Tin độc quyền Thị trường Liên hệ Thông tin toà soạn Dịch vụ truyền thông 1 Kinh tế Miễn lệ phí trước bạ đến năm 2030, người mua xe điện tiết kiệm cả trăm triệu đồng Minh Phong 09/06/2026 12:49 GMT+7 Chia sẻ (NLĐO)- Chính phủ chính thức gia hạn miễn lệ phí trước bạ cho ô tô điện chạy pin đến hết năm 2030. Chính phủ vừa ban hành Nghị định 202 ngày 8-6 sửa đổi, bổ sung một số điều của Nghị định 10 năm 2022 quy định về lệ phí trước bạ, trong đó tiếp tục áp dụng mức thu lệ phí trước bạ lần đầu 0% đối với ô tô điện chạy pin đến hết ngày 31-12-2030. Theo nghị định, việc phân loại xe điện được thực hiện theo quy định của Bộ trưởng Bộ Xây dựng."
+    },
+    {
+      "marker": "[33]",
+      "number": 33,
+      "source_name": "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026",
+      "source_text": "Việc phân loại đối tượng xe điện chạy pin thụ hưởng ưu đãi sẽ được thực hiện chặt chẽ theo các quy định kỹ thuật của Bộ Xây dựng [cite: 64, 67]. Các dòng xe điện hóa khác như xe lai sạc điện (PHEV) và xe điện mở rộng phạm vi (EREV) hiện vẫn phải chờ các hướng dẫn phân loại chính thức từ cơ quan quản lý để xác định mức ưu đãi áp dụng [cite: 68]. 2. Chính sách thuế tiêu thụ đặc biệt (SCT) Đối với dòng ô tô điện chạy pin từ 9 chỗ ngồi trở xuống, Quốc hội Việt Nam đã phê chuẩn duy trì mức thuế suất ưu đãi đặc biệt chỉ 3% cho đến hết ngày 31 tháng 12 năm 2030 [cite: 69, 70]. Kể từ ngày 1 tháng 1 năm 2031, mức thuế này mới bắt đầu tăng lên mức 11% [cite: 69]."
+    },
+    {
+      "marker": "[34]",
+      "number": 34,
+      "source_name": "Ô tô điện được miễn lệ phí trước bạ lần đầu đến hết 2030 - VTV.vn",
+      "source_text": "Trong đó, thuế tiêu thụ đặc biệt với xe điện dưới 9 chỗ duy trì ở mức 3% tới hết 2030. Từ năm 2031, thuế này với các loại xe điện dự kiến tăng gấp 3,5-4 lần Tin liên quan Đề xuất miễn lệ phí trước bạ ô tô điện đến hết năm 2030 VTV.vn - Bộ Tài chính đang dự thảo Nghị định sửa đổi, bổ sung một số điều của Nghị định số 10/2022/NĐ-CP ngày 15/01/2022 của Chính phủ quy định về lệ phí trước bạ."
+    },
+    {
+      "marker": "[35]",
+      "number": 35,
+      "source_name": "Miễn lệ phí trước bạ đến năm 2030, người mua xe điện tiết kiệm cả trăm triệu đồng",
+      "source_text": "Đề xuất mới về mức đóng lệ phí trước bạ, người mua xe điện hưởng lợi Bộ Tài chính cho biết, chính sách ưu đãi lệ phí trước bạ đối với ô tô điện chạy pin được triển khai từ năm 2022 nhằm góp phần giảm thiểu ô nhiễm môi trường do khí thải giao thông, khuyến khích doanh nghiệp đầu tư sản xuất, tận dụng cơ hội trong chuỗi cung ứng và thúc đẩy người dân sử dụng phương tiện thân thiện với môi trường."
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 28,
+    "source_names": [
+      "VinFast Auto Q4 2025 Earnings Report - MarketBeat",
+      "Noidiahoa-gocnhinpodcast.md",
+      "Preliminary and unaudited financial results for the fourth quarter and full year ended December 31, 2025 - SEC.gov",
+      "Báo cáo phân tích chuyên sâu: Chuỗi cung ứng xe điện toàn cầu, quy tắc xuất xứ hàng hóa, năng lực tài chính và công nghệ sản xuất pin giai đoạn 2025-2026",
+      "Gotion High-tech and VinES Vietnam base break ground at joint venture battery factory",
+      "VinFast Reports Preliminary and Unaudited Fourth Quarter and Full Year 2025 Financial Results",
+      "THACO INDUSTRIES phát triển Trung tâm sản xuất linh kiện phụ tùng mang tầm khu vực",
+      "Ôtô 'nội' tăng liên tục, tỷ lệ nội địa hóa ra sao? - Báo Mới",
+      "VinES and Gotion High-Tech Break Ground at a 5GWh/Year LFP Battery Factory",
+      "Gotion building Vietnam's first LFP gigafactory - Energy-Storage.News",
+      "Ha Tinh's Industrial Sector Shines in the First Half of 2025 - Trung tâm DVTC & HTDN Tỉnh Hà Tĩnh",
+      "VINFAST REPORTS DELIVERIES OF 17955 ELECTRIC VEHICLES IN JUNE 2026 IN VIETNAM, REACHING A RECORD OF 115916 ELECTRIC VEHICLES IN THE FIRST HALF OF 2026",
+      "VinFast (NASDAQ: VFS) reports 115916 EV deliveries and 72% growth in H1 2026",
+      "Miễn lệ phí trước bạ đến năm 2030, người mua xe điện tiết kiệm cả trăm triệu đồng",
+      "Ô tô điện được miễn lệ phí trước bạ lần đầu đến hết 2030 - VTV.vn"
+    ]
+  }
+}

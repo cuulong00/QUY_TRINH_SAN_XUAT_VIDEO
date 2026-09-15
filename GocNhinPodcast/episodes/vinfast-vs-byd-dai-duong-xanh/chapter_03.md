@@ -1,0 +1,11 @@
+Thay đổi hình dạng cuộc chơi, nghĩa là ngừng chơi theo luật của B Y D. Giới kinh tế học gọi đây là bước dịch chuyển sang Đại dương xanh (Blue Ocean Shift). Thay vì bơi cùng cá mập trong vùng nước đẫm máu, hãy tìm ra vùng biển mới nơi cá mập không tồn tại.
+
+Vậy "đại dương xanh" của VinFast nằm ở đâu? Nó nằm ở chính nơi mà B Y D tự chọn cách đứng ngoài: hạ tầng trạm sạc, dịch vụ di chuyển, và năng lượng tái tạo.
+
+Thực tế cho thấy, không chỉ ở Việt Nam, mà tại Thái Lan, Indonesia hay bất kỳ thị trường quốc tế nào, B Y D đều từ chối tự xây trạm sạc. Tại Châu Âu, họ công bố gói đầu tư hai tỷ Euro cho mạng lưới sạc siêu nhanh. Nhưng B Y D không trực tiếp bỏ tiền mua đất, xây trạm biến áp hay kéo cáp điện lực. Họ chỉ cung cấp công nghệ sạc và thiết bị pin lưu trữ năng lượng. Toàn bộ rủi ro về mặt bằng, giấy phép và đấu nối lưới điện đều được chuyển giao cho các đối tác bản địa. Mô hình tương tự được lặp lại ở Nam Phi, ở Canada, và ở mọi nơi B Y D đặt chân đến.
+
+Trong lăng kính chiến lược của B Y D, trạm sạc chỉ là một loại tiện ích đi kèm. Giống như đường nhựa hay mạng viễn thông, nó cần tồn tại để xe chạy, nhưng nó không phải là năng lực cốt lõi tạo ra lợi thế cạnh tranh dài hạn. Cách tiếp cận này giúp B Y D giữ bảng cân đối kế toán ở trạng thái tối giản, giải phóng dòng tiền để rót vào nghiên cứu và phát triển sản phẩm. Nhưng đổi lại, B Y D phải chấp nhận một cái giá. Họ không sở hữu bất kỳ rào cản hạ tầng độc quyền nào tại các thị trường quốc tế.
+
+Đây chính là khe hở chiến lược mà VinFast nhìn thấy. Nếu B Y D không xây hào, thì VinFast sẽ là người xây hào. Nhưng bài toán không đơn giản. Tại Việt Nam, VinFast đã chi hàng trăm triệu đô la để xây dựng mạng lưới một trăm năm mươi nghìn cổng sạc độc quyền. Đó là khoản đầu tư khổng lồ mà Vingroup có thể gánh chịu trên sân nhà. Nhưng lặp lại mô hình này tại nhiều quốc gia cùng lúc sẽ đốt cháy dòng tiền với tốc độ không thể chịu nổi.
+
+Vậy làm thế nào để VinFast có thể giăng lưới hệ sinh thái ra khắp thế giới mà không tự thiêu cháy bảng cân đối kế toán? Câu trả lời nằm ở khả năng thích ứng linh hoạt tại từng chiến trường.

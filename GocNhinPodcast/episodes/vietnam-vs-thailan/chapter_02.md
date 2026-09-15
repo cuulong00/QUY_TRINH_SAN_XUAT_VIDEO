@@ -1,0 +1,21 @@
+Để hiểu vì sao cuộc rượt đuổi hôm nay lại mang ý nghĩa sống còn đến vậy, chúng ta phải nhìn lại chặng đua đầu tiên trong cuộc chạy tiếp sức của dân tộc: Chặng đua của Thế hệ thứ nhất — Thế hệ Sinh Tồn. Những người đã nhận lại gia tài đất nước sau ngày ba mươi tháng tư năm một ngàn chín trăm bảy mươi lăm không phải từ một vạch xuất phát số không, mà là một con số âm trọn vẹn dưới đáy vực thẳm.
+
+Để hiểu được độ dốc kinh hoàng của con đường mà thế hệ cha ông phải leo lên, hãy làm một cuộc kiểm toán khách quan về bốn yếu tố sản xuất cốt lõi của nền kinh tế lúc bấy giờ.
+
+Đầu tiên là Vốn. Trong suốt hai mươi năm chiến tranh, cả hai miền thực chất đều vận hành bằng nguồn viện trợ khổng lồ từ bên ngoài. Miền Bắc được Liên Xô và các nước xã hội chủ nghĩa bao cấp trang thiết bị và bù đắp thâm hụt ngân sách. Miền Nam được Mỹ bơm vào từ một đến hai tỷ đô la mỗi năm để nhập khẩu xăng dầu, phân bón, xe cộ và lương thực. Khi chiến tranh kết thúc, cả hai bầu sữa ngoại tệ này đột ngột biến mất, để lộ ra hai nền kinh tế rỗng ruột. Quỹ tích lũy nội bộ của quốc gia bằng không, tỷ lệ tiết kiệm rơi vào mức âm khi người dân phải dành tới hơn tám mươi phần trăm tổng chi tiêu chỉ để mua lương thực duy trì sự sống. Cam kết viện trợ tái thiết hơn ba tỷ đô la của Mỹ bị hủy bỏ, thay vào đó là một đạo luật cấm vận thương mại khắc nghiệt cô lập Việt Nam hoàn toàn khỏi hệ thống tài chính toàn cầu.
+
+Thứ hai là Cơ sở Hạ tầng. Sau nhiều thập kỷ bom đạn cày xới, mạng lưới giao thông huyết mạch của đất nước bị hủy hoại gần như hoàn toàn. Bước vào thập niên một ngàn chín trăm tám mươi, toàn bộ lãnh thổ Việt Nam chỉ có vỏn vẹn mười phần trăm hệ thống đường bộ được trải nhựa. Hơn một phần ba số cây cầu lớn bị đánh sập. Nguồn điện thiếu hụt triền miên đến mức các nhà máy chỉ hoạt động được ba mươi đến năm mươi phần trăm công suất vì cắt điện luân phiên. Sự đứt gãy hạ tầng giao thông Bắc - Nam nghiêm trọng đến mức việc vận chuyển gạo từ vựa lúa đồng bằng sông Cửu Long ra cứu đói cho miền Bắc trở thành một bài toán nan giải và tốn kém đến cùng cực.
+
+Thứ ba là Yếu tố Con người. Chiến tranh không chỉ cướp đi sinh mạng của gần ba triệu người và để lại hơn bốn triệu thương bệnh binh, mà còn tạo ra một vết nứt nhân khẩu học sâu sắc. Xã hội rơi vào tình trạng mất cân bằng giới tính trầm trọng, với tỷ lệ một trăm mười lăm phụ nữ trên một trăm nam giới trong độ tuổi lao động vàng từ hai mươi lăm đến bốn mươi bốn tuổi. Hàng triệu gia đình thiếu vắng đi trụ cột lao động chính.
+
+Và cuối cùng là Tài nguyên. Đất đai nông nghiệp dính hàng triệu tấn bom mìn chưa nổ và chất độc hóa học. Mỏ dầu Bạch Hổ ngoài thềm lục địa phía Nam dù đã được khảo sát nhưng nằm bất động dưới đáy biển, phải mất hơn mười năm sau, đến tận năm một ngàn chín trăm tám mươi sáu, chúng ta mới hút được những giọt dầu thương mại đầu tiên. Mọi nguồn lực tiềm năng đều bị khóa chặt trong sự thiếu thốn công nghệ và vốn liếng.
+
+Ở phía bên kia bờ vịnh Thái Lan, đất nước của người láng giềng bước vào năm một ngàn chín trăm bảy mươi lăm trong một tâm thế hoàn toàn trái ngược.
+
+Thái Lan được hưởng trọn vẹn hòa bình. Họ không phải gánh chịu bất kỳ một ngày bom đạn tàn phá nào trên đất liền. Thủ đô Bangkok đã sở hữu những đại lộ cao tốc nhiều tầng, hệ thống cảng biển nước sâu và sân bay quốc tế hiện đại. Đặc biệt, khi đồng Yên tăng giá mạnh sau Hiệp ước Plaza năm một ngàn chín trăm tám mươi lăm, buộc các tập đoàn công nghiệp Nhật Bản phải ồ ạt chuyển nhà máy sang Đông Nam Á — người Thái đã nhanh chóng đón trọn dòng vốn khổng lồ này. Hàng loạt tổ hợp sản xuất ô tô của Toyota, Honda, Isuzu mọc lên, đưa Thái Lan trở thành "thủ phủ sản xuất ô tô của Đông Nam Á" và là quốc gia xuất khẩu nông sản số một thế giới.
+
+Một bên là vương quốc hòa bình thảnh thơi tích lũy của cải để cất cánh. Một bên là quốc gia kiệt quệ với đôi bàn tay trắng, loay hoay vá víu từng vết thương chiến tranh và kiếm từng bát cơm độn bo bo qua ngày.
+
+Nhưng bi kịch lịch sử của chúng ta vẫn chưa dừng lại ở đó.
+
+Vừa bước ra khỏi ba mươi năm khói lửa, khi vết thương chưa kịp liền da, đất nước lập tức bị cuốn vào một cơn bão táp sinh tử mới. Mười năm chiến tranh bảo vệ biên cương ác liệt ở cả hai đầu tổ quốc. Và một cuộc khủng hoảng kinh tế nghiệt ngã, đẩy lạm phát lên đỉnh điểm hơn bảy trăm phần trăm.

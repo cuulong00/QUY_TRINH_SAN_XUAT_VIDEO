@@ -1,0 +1,19 @@
+Đúng vậy, cái giá phải trả cho mười lăm mẫu xe không chỉ nằm ở sự giẫm chân lên nhau ngoài showroom. Khoản lỗ khổng lồ hàng chục nghìn tỷ của VinFast còn bắt nguồn từ căn bệnh bào mòn biên lợi nhuận bên trong sàn nhà máy: Bẫy Phi kinh tế quy mô.
+
+Trong quản trị sản xuất, Tính kinh tế theo quy mô nghĩa là sản xuất càng nhiều một mặt hàng thì chi phí cho mỗi đơn vị càng rẻ. Nhưng VinFast đang rơi vào chiều ngược lại: Sản xuất quy mô lớn nhưng lại quá phân mảnh, khiến chi phí phình to.
+
+Nhiều người bênh vực rằng VinFast đã tối ưu tốt bằng việc dùng chung khung gầm. Sự thật đúng là họ có dùng chung gầm bệ, thậm chí còn thuê ngoài thiết kế cho một số khung gầm từ đối tác Trung Quốc là LS Auto để giảm chi phí A En Đi ban đầu. Nhưng trong ngành ô tô, khung gầm chỉ là một nửa câu chuyện. Nỗi đau thực sự nằm ở sự đa dạng hóa thiết kế vỏ ngoài, hay tiếng lóng trong ngành gọi là các Top-hat.
+
+Khi bạn đẻ ra mười lăm kiểu dáng vỏ xe khác nhau, từ xe cỡ siêu nhỏ đến xe SUV bọc thép, dây chuyền dập và hàn thân vỏ của nhà máy Cát Hải phải liên tục chuyển đổi khuôn dập. Quá trình tháo lắp khuôn này tạo ra một hiện tượng gọi là Thời gian chết.
+
+Để dễ hình dung, hãy tưởng tượng nhà máy Cát Hải giống như một gian bếp nhà hàng. Nếu bếp chỉ nấu duy nhất món phở với số lượng mười ngàn bát mỗi ngày, đầu bếp sẽ làm việc nhắm mắt cũng xong, nguyên liệu luân chuyển liên tục, và chi phí cho mỗi bát phở sẽ giảm xuống mức tối đa. Nhưng nếu cũng gian bếp đó phải nấu cùng lúc mười lăm món ăn khác nhau: từ phở, bún chả, cho đến bít tết và lẩu bò, thì cứ nấu xong một món, đầu bếp lại phải rửa nồi, đổi dao thớt, và đi tìm gia vị mới. Thời gian đứng chờ rửa nồi đó chính là Thời gian chết.
+
+Trong nhà máy ô tô cũng vậy. Máy móc đứng im để thay khuôn, dây chuyền không chạy ra sản phẩm nào, nhưng tiền khấu hao tài sản cố định mỗi tháng vẫn trôi đi, và lương của hàng vạn công nhân vẫn phải trả. Sự phân mảnh vỏ ngoài này vô tình tạo ra một loạt các chi phí ngầm khổng lồ: từ việc phải phình to không gian kho bãi để dự trữ hàng chục loại linh kiện thân vỏ khác nhau, cho đến sự phức tạp đắt đỏ trong khâu quản lý chuỗi cung ứng. Đa dạng hóa để phủ kín thị trường là một chiến lược táo bạo, nhưng đổi lại, nó tạo ra một sức ép cực lớn lên chi phí vận hành và làm xói mòn biên lợi nhuận của hãng.
+
+Và Thời gian chết không chỉ xảy ra với máy dập thép. Nó xảy ra cả với đội ngũ kỹ sư phần mềm.
+
+Sự phân mảnh này không chỉ dừng lại ở phần cứng, mà nó cắn xé cả nguồn lực phần mềm. Đội ngũ kỹ sư của VinFast phải còng lưng viết mã, thử nghiệm và tối ưu hóa hệ điều hành cùng hệ thống trợ lái thông minh cho hàng loạt cấu hình xe khác nhau cùng một lúc. Nguồn lực A En Đi bị pha loãng đến mức cực đoan. Việc bảo trì, vá lỗi và cập nhật phần mềm định kỳ cho một dải sản phẩm khổng lồ tạo ra một gánh nặng chi phí vô cùng đắt đỏ. Đó cũng là lý do sâu xa đằng sau những lỗi vặt phần mềm trong thời gian đầu. Nó không đến từ năng lực của kỹ sư, mà là hệ quả tất yếu của việc phải vắt kiệt sức để tối ưu hóa cho quá nhiều mẫu xe.
+
+Tuy nhiên, cũng cần phải nhìn nhận công bằng. Biên lợi nhuận gộp sau điều chỉnh của VinFast đã cải thiện đáng kể, từ âm bốn mươi bảy phẩy hai phần trăm ở quý bốn năm hai ngàn không trăm hai mươi lăm lên âm hai mươi hai phẩy năm phần trăm ở quý một năm hai ngàn không trăm hai mươi sáu. Xu hướng này cho thấy nhà máy Cát Hải đang dần vận hành hiệu quả hơn khi sản lượng tăng lên. VinFast đang chảy máu, nhưng vết thương đang thu hẹp lại.
+
+Dù đang gánh chịu áp lực vận hành nặng nề, chiến lược rải thảm của VinFast đã đạt được mục tiêu cốt lõi: xây dựng bức tường phòng thủ bằng sản phẩm, khóa chặt tệp khách hàng đầu tiên tại Việt Nam, và đặt chân vào những mỏ vàng rộng lớn nhất Châu Á. Nhưng bức tường mười lăm mẫu xe càng dày thì chi phí vận hành càng nặng. Và khi áp lực từ bên trong nhà máy gặp áp lực từ bên ngoài thị trường, câu hỏi lớn nhất bây giờ là: Bước đi tiếp theo sẽ là gì?

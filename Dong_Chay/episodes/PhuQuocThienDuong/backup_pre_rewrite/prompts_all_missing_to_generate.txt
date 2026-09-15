@@ -1,0 +1,116 @@
+# ==============================================================================
+# TỔNG HỢP TẤT CẢ 23 PHÂN CẢNH CÒN THIẾU CỦA TOÀN BỘ TẬP PHIM (RENDER ĐỦ 100%)
+# Kênh Dòng Chảy — Tập phim: Phú Quốc Thiên Đường
+# Thư mục Downloads: /Users/pro16/Downloads/phuquoc-thien-duong (Đã có 182/205 video)
+# ==============================================================================
+
+# ==============================================================================
+# [CHƯƠNG 1] CÒN THIẾU 4 CẢNH (SC026 -> SC029) — ĐÃ CÓ 25/29
+# ==============================================================================
+
+CH01_SC026 [IMAGE]: A flat 2D vector illustration set at a coastal maritime radar station on a rocky promontory of Phu Quoc Island, Vietnam at dusk, featuring a rotating radar dome silhouetted against an indigo sky while a naval patrol ship cruises offshore. Clean bold outlines, flat colors, crisp bold text overlay aligned to the top-right corner displaying "MARITIME FORTRESS" --ar 16:9
+
+CH01_SC026 [VIDEO]: @CH01_SC026.png -> Starting with a low-angle shot of the radar station, a slow camera pan across the rotating antenna toward the patrol vessel on the dark blue water, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC027 [IMAGE]: A flat 2D vector illustration set inside a naval strategic command center, featuring large tactical wall screens displaying full satellite reconnaissance imagery of the Gulf of Thailand basin with shipping vectors and weather overlays. Clean bold outlines, flat colors, deep navy blue background with glowing amber indicators --ar 16:9
+
+CH01_SC027 [VIDEO]: @CH01_SC027.png -> Starting with a wide shot of the satellite command display, the camera slowly zooms in toward the Gulf of Thailand basin surrounding Phu Quoc, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC028 [IMAGE]: A flat 2D vector illustration set inside a geopolitical think-tank studio, featuring a Vietnamese strategic analyst examining impact assessment charts of the Funan Techo canal alongside master development maps of An Thoi deep seaport. Clean bold outlines, flat colors, moody analytical noir lighting --ar 16:9
+
+CH01_SC028 [VIDEO]: @CH01_SC028.png -> Starting with an over-the-shoulder view of the analyst, a subtle slow pan across the impact assessment charts on the drafting table, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH01_SC029 [IMAGE]: A flat 2D vector illustration set on the open waters of the Gulf of Thailand looking toward the horizon at sunset, featuring commercial cargo ships cutting through deep blue waves beneath a vibrant orange and purple sky. Clean bold outlines, flat colors, crisp bold text overlay centered displaying "THE GULF OF THAILAND CATALYST" --ar 16:9
+
+CH01_SC029 [VIDEO]: @CH01_SC029.png -> Starting with a wide horizon view, the camera slowly pushes in on the passing cargo vessel as the sun sets into Chapter 2, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# ==============================================================================
+# [CHƯƠNG 2] CÒN THIẾU 8 CẢNH (SC030 -> SC037) — ĐÃ CÓ 29/37
+# ==============================================================================
+
+CH02_SC030 [IMAGE]: A flat 2D vector illustration set at the tranquil tropical coast of Phu Quoc Island, Vietnam at twilight, looking out toward the peaceful horizon of the Gulf of Thailand as gentle turquoise waves lap onto fine white sand. Clean bold outlines, flat colors, serene contemplative aesthetic --ar 16:9
+
+CH02_SC030 [VIDEO]: @CH02_SC030.png -> Starting with a low-angle steady view of the gentle shoreline, the camera slowly tilts up toward the vast calm horizon, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC031 [IMAGE]: A flat 2D vector illustration set on a high-level master planning drafting board in Hanoi, Vietnam, showing architectural blueprints of multi-lane highways and airport runways being drafted in sharp silver and gold lines. Clean bold outlines, flat colors, deep slate blue background --ar 16:9
+
+CH02_SC031 [VIDEO]: @CH02_SC031.png -> Starting with a close-up on the drafting compass drawing runway alignments, the camera slowly zooms out to reveal the complete master plan, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC032 [IMAGE]: A flat 2D vector illustration set inside a government policy briefing hall in Hanoi, Vietnam, featuring official Prime Ministerial Decision 948 documents on a polished table beside an illuminated infrastructure blueprint of Phu Quoc Island. Clean bold outlines, flat colors, crisp bold text overlay centered in the upper third displaying "DECISION 948: > 137,000 BILLION" --ar 16:9
+
+CH02_SC032 [VIDEO]: @CH02_SC032.png -> Starting with a close-up of Decision 948, a subtle slow zoom-in as the 137,000 billion capital figure illuminates in gold, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC033 [IMAGE]: A flat 2D vector illustration set on a comparative regional island tourism chart, comparing the infrastructure capacities and growth projections of Phuket, Bali, and Phu Quoc Island. Clean bold outlines, flat colors, deep charcoal grey background, crisp bold text overlay aligned to the bottom-right corner displaying "PHUKET - BALI - PHU QUOC" --ar 16:9
+
+CH02_SC033 [VIDEO]: @CH02_SC033.png -> Starting with a side-by-side view of the three island metrics, the camera smoothly highlights Phu Quoc's ascending growth trajectory, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC034 [IMAGE]: A flat 2D vector illustration set on a structured public-private financing matrix, detailing the precise leverage ratio between 15% public seed funding and 85% private infrastructure capital. Clean bold outlines, flat colors, crisp bold text overlay centered displaying "15% PUBLIC SEED | 85% PRIVATE PPP" --ar 16:9
+
+CH02_SC034 [VIDEO]: @CH02_SC034.png -> Starting with a close-up of the public seed tier, the camera smoothly zooms out as the massive private capital pillar illuminates in emerald green, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC035 [IMAGE]: A flat 2D vector illustration set from a scenic aerial perspective over the coastal expressway corridor of Phu Quoc Island, Vietnam at dusk, featuring active construction cranes, elevated transit viaducts, and arterial roads glowing with work lights. Clean bold outlines, flat colors, dramatic chiaroscuro lighting --ar 16:9
+
+CH02_SC035 [VIDEO]: @CH02_SC035.png -> Starting with a wide shot of the construction corridor, a smooth slow forward tracking shot following the transit spine, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC036 [IMAGE]: A flat 2D vector illustration set inside a geopolitical strategy center, featuring a Vietnamese strategic analyst standing in contemplation before a high-resolution map of the Gulf of Thailand basin. Clean bold outlines, flat colors, moody noir lighting, deep slate blue background --ar 16:9
+
+CH02_SC036 [VIDEO]: @CH02_SC036.png -> Starting with an over-the-shoulder medium shot of the analyst, a subtle slow zoom-in on the illuminated island position, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH02_SC037 [IMAGE]: A flat 2D vector illustration set at an engineering observation platform overlooking the massive 22,000 billion Phu Quoc International Airport terminal construction site at dawn, with tower cranes turning gracefully against a golden sunrise into Chapter 3. Clean bold outlines, flat colors, crisp bold text overlay centered displaying "THE 137,000 BILLION UPGRADE" --ar 16:9
+
+CH02_SC037 [VIDEO]: @CH02_SC037.png -> Starting with a wide sunrise panorama over the airport construction site, the camera slowly tilts up to follow a rising tower crane boom as morning light breaks, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# ==============================================================================
+# [CHƯƠNG 3] CÒN THIẾU 10 CẢNH (SC026 -> SC035) — ĐÃ CÓ 25/35
+# ==============================================================================
+
+CH03_SC026 [IMAGE]: A flat 2D vector illustration set along the expanded 62-meter wide DT.975 arterial boulevard on Phu Quoc Island, Vietnam, featuring ten wide lanes with clean lane markings, central landscaped floral median strips, and smart LED street lighting. Clean bold outlines, flat colors, crisp bold text overlay centered in the upper third displaying "DT.975 BOULEVARD: 10 LANES (62M WIDTH)" --ar 16:9
+
+CH03_SC026 [VIDEO]: @CH03_SC026.png -> Starting with an aerial view down the ten-lane highway, a smooth forward tracking shot flying along the wide central median strip, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC027 [IMAGE]: A flat 2D vector illustration set from a scenic maritime perspective over the Kien Binh - Phu Quoc sea crossing, Vietnam, featuring towering galvanized steel 220kV transmission towers spanning 80.4 km across open turquoise waters. Clean bold outlines, flat colors, crisp bold text overlay aligned to the bottom-right corner displaying "220KV CROSS-SEA POWER GRID (80.4 KM)" --ar 16:9
+
+CH03_SC027 [VIDEO]: @CH03_SC027.png -> Starting with a low-angle shot from the sea surface, a slow camera pan across the magnificent line of offshore transmission towers extending to the horizon, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC028 [IMAGE]: A flat 2D vector illustration set at an offshore 220kV steel pylon anchored in the deep sea of Kien Binh - Phu Quoc, Vietnam, featuring heavy high-voltage conductors carrying power with an infographic indicating 169 towers and a 500% capacity increase. Clean bold outlines, flat colors, crisp bold text overlay centered displaying "169 OFFSHORE TOWERS | 5X CAPACITY" --ar 16:9
+
+CH03_SC028 [VIDEO]: @CH03_SC028.png -> Starting with a close-up of the offshore tower base, the camera slowly tilts up along the towering steel lattice structure into the blue sky, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC029 [IMAGE]: A flat 2D vector illustration set inside the modern automated SCADA power substation control room on Phu Quoc Island, Vietnam, featuring Vietnamese electrical engineers with Southeast Asian features monitoring stable power distribution across international resorts and convention centers. Clean bold outlines, flat colors, crisp bold text overlay aligned to the top-right corner displaying "ENERGY SECURITY ASSURANCE" --ar 16:9
+
+CH03_SC029 [VIDEO]: @CH03_SC029.png -> Starting with a medium shot of the SCADA control screens, the camera slowly pans across the engineers verifying stable voltage across the island grid, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC030 [IMAGE]: A flat 2D vector illustration set from a panoramic coastal viewpoint on Phu Quoc Island, Vietnam at sunset, featuring the complete skyline of newly built transport arteries, bridges, and seaport quays bathed in warm golden light. Clean bold outlines, flat colors, dramatic chiaroscuro lighting --ar 16:9
+
+CH03_SC030 [VIDEO]: @CH03_SC030.png -> Starting with a wide panoramic view of the coastal infrastructure, a subtle slow zoom-in capturing the enduring scale of the developments, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC031 [IMAGE]: A flat 2D vector illustration set along a modern multi-span coastal bridge on Phu Quoc Island, Vietnam, featuring executive vehicles cruising across the smooth deck with their reflections shimmering on the calm blue water below. Clean bold outlines, flat colors, elegant cinematic composition --ar 16:9
+
+CH03_SC031 [VIDEO]: @CH03_SC031.png -> Starting with a steady side view of the bridge arches, the camera slowly pans with the moving vehicles as they travel along the coastal span, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC032 [IMAGE]: A flat 2D vector illustration set inside an economic strategy think-tank office in Hanoi, Vietnam, featuring a Vietnamese strategic analyst standing in contemplation before a large regional development map dividing Phu Quoc Island into four distinct corporate operational zones. Clean bold outlines, flat colors, dramatic noir lighting, crisp bold text overlay centered displaying "WHO CONTROLS THE ECONOMIC ENGINE?" --ar 16:9
+
+CH03_SC032 [VIDEO]: @CH03_SC032.png -> Starting with an over-the-shoulder shot of the analyst looking at the four-zone map, a subtle slow zoom-in on the four corporate sector boundaries, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC033 [IMAGE]: A flat 2D vector illustration set on an investment distribution board, featuring four robust structural pillars representing over 504,000 billion in registered private capital from 330 projects standing firm without destructive price competition. Clean bold outlines, flat colors, crisp bold text overlay aligned to the bottom-left corner displaying "> 504,000 BILLION PRIVATE CAPITAL" --ar 16:9
+
+CH03_SC033 [VIDEO]: @CH03_SC033.png -> Starting with a wide view of the four investment pillars, the camera slowly zooms in as the registered capital totals illuminate in gold, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC034 [IMAGE]: A flat 2D vector illustration set on a regional zoning map of Phu Quoc Island, Vietnam, clearly delineating four distinct corporate domains: Vingroup in the North, Sun Group in the South, BIM Group in the Southwest, and IPPG on the East Coast. Clean bold outlines, flat colors, crisp bold text overlay centered in the upper third displaying "4 STRATEGIC CORPORATE REALMS" --ar 16:9
+
+CH03_SC034 [VIDEO]: @CH03_SC034.png -> Starting with a steady shot of the island map, the camera highlights each corporate territory in sequence with distinct color-coded boundaries, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC035 [IMAGE]: A flat 2D vector illustration set on a closed-loop economic cycle diagram, featuring dynamic luminous pathways showing international travelers and foreign currency circulating smoothly across all four island quadrants into Chapter 4. Clean bold outlines, flat colors, crisp bold text overlay centered displaying "THE CLOSED-LOOP CAPITAL CYCLE" --ar 16:9
+
+CH03_SC035 [VIDEO]: @CH03_SC035.png -> Starting with the circular capital loop graphic, the camera smoothly pans along the complete circuit around the four island quadrants, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9
+
+
+# ==============================================================================
+# [CHƯƠNG 5] CÒN THIẾU 1 CẢNH (SC011) — ĐÃ CÓ 33/34
+# ==============================================================================
+
+CH05_SC011 [IMAGE]: A flat 2D vector illustration set inside a high-level public security command center in Vietnam, featuring Lieutenant General Dinh Van Noi, a Vietnamese senior public security commander with resolute facial features, short cropped hair, wearing a crisp dark green formal police uniform, directing operations before a large digital situational map. Clean bold outlines, flat colors, authoritative noir lighting, crisp bold text overlay centered in the upper third displaying "LIEUTENANT GENERAL DINH VAN NOI" --ar 16:9
+
+CH05_SC011 [VIDEO]: @CH05_SC011.png -> Starting with a medium close-up of the commander observing the operational map, the camera slowly zooms out to reveal the coordinated tactical command staff, preserving all details of the reference image, 8-second continuous documentary video --ar 16:9

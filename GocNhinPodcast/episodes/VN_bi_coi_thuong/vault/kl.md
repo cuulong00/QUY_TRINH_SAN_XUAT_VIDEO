@@ -1,0 +1,1 @@
+Đúng là chúng ta có tài nguyên thiên nhiên phong phú, có dân số đông, nhưng chúng ta lại thiếu thời gian.

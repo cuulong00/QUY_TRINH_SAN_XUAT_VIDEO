@@ -1,0 +1,158 @@
+---
+title: "[Chương 1-2] Tinh gọn bộ máy: Có những con số định lượng nào về mục tiêu cắt giảm đầu mối, biên chế, chi phí hành chính trong giai đoạn 2024-2026? Quyết tâm của Trung ương được thể hiện qua các văn bản/phát ngôn cụ thể nào?"
+type: nblm-answer
+asked_at: 2026-07-20T05:36:12.307Z
+notebook_url: "https://notebooklm.google.com/notebook/0d83acca-ab53-42cc-b575-beed516fad13"
+session_id: "516aa90b"
+citations_count: 20
+sources:
+  - "Tổng hợp các văn bản về sắp xếp, tinh gọn bộ máy mới nhất - LuatVietnam"
+  - "Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026"
+  - "Nghị định 73/2023/NĐ-CP về cán bộ dám nghĩ, dám làm - Xây Dựng Chính Sách, Pháp Luật"
+  - "Chiến Lược Việt Nam Hóa Rồng.md"
+  - "Quốc hội đồng ý để tư nhân đầu tư vào đường sắt tốc độ cao Bắc - Nam"
+  - "Chủ tịch Tập đoàn Đèo Cả chia sẻ về \"siêu dự án\" đường sắt cao tốc Bắc-Nam - VOV"
+  - "Nghị định 73/2023/NĐ-CP ngày 29/9/2023 của Chính phủ quy định về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung - SỞ NỘI VỤ TỈNH HƯNG YÊN"
+  - "Nghị định 73: Kỳ vọng hóa giải lằn ranh mong manh đúng, sai - Báo Tuổi Trẻ"
+  - "Đường sắt tốc độ cao Bắc-Nam và cơ hội cho các nhà thầu trong nước \"thể hiện\""
+---
+
+# [Chương 1-2] Tinh gọn bộ máy: Có những con số định lượng nào về mục tiêu cắt giảm đầu mối, biên chế, chi phí hành chính trong giai đoạn 2024-2026? Quyết tâm của Trung ương được thể hiện qua các văn bản/phát ngôn cụ thể nào?
+
+> Asked on 2026-07-20T05:36:12.307Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/0d83acca-ab53-42cc-b575-beed516fad13)
+
+## Answer
+
+Thoughts
+Các con số định lượng về mục tiêu cắt giảm đầu mối, biên chế và chi phí hành chính (giai đoạn 2024-2026)
+Trong nỗ lực tinh gọn bộ máy và cải cách thể chế, Trung ương đã đề ra các chỉ tiêu định lượng cụ thể:
+Cắt giảm đầu mối tổ chức bên trong: Kế hoạch định hướng số 141/KH-BCĐTKNQ18 ngày 06/12/2024 yêu cầu thực hiện sắp xếp, tinh gọn tổ chức bộ máy của Chính phủ và các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ với mục tiêu giảm tối thiểu 15% - 20% đầu mối tổ chức bên trong (không bao gồm các tổ chức thuộc diện hợp nhất, sáp nhập do trùng lặp chức năng, nhiệm vụ khi hợp nhất các Bộ)
+1
+2
+.
+Số lượng đạo luật cần điều chỉnh: Quy mô cải cách sâu rộng tới mức dự kiến có 113 đạo luật chịu ảnh hưởng trực tiếp hoặc gián tiếp, đòi hỏi sửa đổi, bổ sung đồng bộ để phù hợp với cơ cấu tổ chức mới của Chính phủ và hệ thống chính trị
+Mốc thời gian quản lý biên chế dôi dư:
+Các cơ quan, ban ngành phải hoàn thành phương án đề xuất chế độ, chính sách hỗ trợ cán bộ dôi dư trước ngày 10/12/2024
+Yêu cầu hoàn thành sắp xếp đơn vị sự nghiệp công lập giáo dục trước ngày 30/08/2026
+Cắt giảm chi phí hành chính và thủ tục: Triết lý quản lý mới chuyển dịch mạnh từ "tiền kiểm" sang "hậu kiểm" hướng tới mục tiêu cắt giảm ít nhất 50% chi phí và thời gian thực hiện các thủ tục hành chính cho người dân và doanh nghiệp
+13
+.
+Sắp xếp đơn vị hành chính cấp cơ sở:
+Toàn quốc ghi nhận còn 705 đơn vị hành chính cấp xã chưa đạt chuẩn về diện tích hoặc dân số cần phải sắp xếp
+Hệ quả sau sắp xếp tại các địa phương là rất lớn, điển hình như tại tỉnh Quảng Trị đã dôi dư tới 646 cơ sở nhà, đất sau khi sáp nhập các đơn vị hành chính
+18
+.
+Quyết tâm của Trung ương qua các văn bản và phát ngôn cụ thể
+1. Các văn bản chỉ đạo chiến lược
+Quyết tâm chính trị của Đảng và Nhà nước được thể chế hóa xuyên suốt qua các văn bản pháp lý quan trọng:
+Kết luận 126-KL/TW và Kết luận 127-KL/TW của Bộ Chính tri và Ban Bí thư về một số nội dung, nhiệm vụ tiếp tục sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị
+Thông báo số 75-TB/TW của Bộ Chính trị điều chỉnh phạm vi và đối tượng áp dụng các chế độ, chính sách hỗ trợ đối với cán bộ, công chức, viên chức trong quá trình thực hiện tinh giản bộ máy
+Nghị định số 178/2024/NĐ-CP và Nghị định số 67/2025/NĐ-CP của Chính phủ quy định chi tiết về chính sách, chế độ cho các đối tượng dôi dư, đảm bảo tính nhân văn và sự đồng thuận xã hội
+Kết luận số 14-KL/TW của Bộ Chính trị và Nghị định số 73/2023/NĐ-CP của Chính phủ thiết lập hành lang pháp lý bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung, nhằm xóa bỏ tâm lý e dè, sợ sai trong bộ máy công quyền
+2. Những phát ngôn và chỉ đạo cốt lõi của Lãnh đạo Trung ương
+Tổng Bí thư Tô Lâm đã đưa ra những tuyên bố sắc bén, thay đổi triệt để tư duy quản trị:
+Định danh thể chế là "điểm nghẽn của điểm nghẽn" kìm hãm sự bứt phá và phát triển của đất nước
+13
+.
+Sử dụng hình ảnh "luật bó" để mô tả căn bệnh mãn tính của hệ thống pháp luật hiện hành và nhấn mạnh "Luật không chỉ để quản lý mà còn phải kiến tạo"
+39
+40
+.
+Yêu cầu cỗ máy hành chính quốc gia phải chuyển dịch mạnh mẽ phương thức quản lý: "chuyển mạnh từ quản lý xã hội sang quản trị và kiến tạo xã hội"
+41
+và chuyển từ cơ chế nặng về "tiền kiểm" sang "hậu kiểm" kết hợp số hóa quy trình công vụ
+42
+43
+.
+Thủ tướng Phạm Minh Chính khẳng định quyết tâm bảo vệ và thúc đẩy lực lượng thực thi:
+Yêu cầu các cơ quan chức năng: "Tạo hành lang pháp lý an toàn cho cán bộ làm việc; khuyến khích người dám nghĩ, dám làm", đồng thời quyết liệt giải phóng tư tưởng trì trệ, co cụm
+44
+45
+.
+Tại Hội nghị đối thoại nhà thầu, Thủ tướng truyền tải thông điệp mạnh mẽ: "nguồn lực bắt nguồn từ tư duy và tầm nhìn, động lực bắt nguồn từ sự đổi mới và sáng tạo, sức mạnh bắt nguồn từ nhân dân và doanh nghiệp"
+46
+47
+nhằm kêu gọi tinh thần tự lực tự cường, đưa đất nước bước vào kỷ nguyên vươn mình mới.
+📊 Bạn có muốn tôi thiết lập một bảng biểu chi tiết so sánh các nhiệm vụ tinh gọn bộ máy và chế độ chính sách đi kèm của các văn bản mới nhất này không?
+
+## Sources
+
+### [1] Tổng hợp các văn bản về sắp xếp, tinh gọn bộ máy mới nhất - LuatVietnam
+
+> (2) Thực hiện sắp xếp, tinh gọn tổ chức bộ máy của Chính phủ và tổ chức bên trong của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ (giảm tối thiểu 15%-20% đầu mối tổ chức bên trong , không bao gồm các tổ chức thuộc diện hợp nhất, sáp nhập do trùng lặp chức năng, nhiệm vụ khi thực hiện phương án hợp nhất các Bộ) trên cơ sở quan điểm, mục tiêu, nguyên tắc nêu trên, bảo đảm bám sát yêu cầu định hướng sắp xếp, tinh gọn tổ chức bộ máy của Ban Chỉ đạo Trung ương;
+
+### [2] Tổng hợp các văn bản về sắp xếp, tinh gọn bộ máy mới nhất - LuatVietnam
+
+> (2) Thực hiện sắp xếp, tinh gọn tổ chức bộ máy của Chính phủ và tổ chức bên trong của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ (giảm tối thiểu 15%-20% đầu mối tổ chức bên trong , không bao gồm các tổ chức thuộc diện hợp nhất, sáp nhập do trùng lặp chức năng, nhiệm vụ khi thực hiện phương án hợp nhất các Bộ) trên cơ sở quan điểm, mục tiêu, nguyên tắc nêu trên, bảo đảm bám sát yêu cầu định hướng sắp xếp, tinh gọn tổ chức bộ máy của Ban Chỉ đạo Trung ương;
+
+### [3] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Trọng tâm chỉ đạo của Bộ Chính trị tập trung vào việc tái cấu trúc toàn diện hệ thống chính trị, cắt giảm các đầu mối trung gian và thực hiện tinh giản biên chế một cách triệt để [cite: 1]. Nhằm bảo đảm tính nhân văn và sự đồng thuận cao trong quá trình chuyển đổi, các cơ quan ban ngành được giao nhiệm vụ phải hoàn thành phương án đề xuất chế độ, chính sách hỗ trợ cán bộ, công chức dôi dư trước ngày 10/12/2024 [cite: 1]. Quy mô của đợt cải cách này sâu rộng đến mức dự kiến sẽ có tới 113 đạo luật chịu ảnh hưởng trực tiếp hoặc gián tiếp, đòi hỏi một lộ trình sửa đổi, bổ sung đồng bộ để phù hợp với cơ cấu tổ chức mới của Chính phủ và các cơ quan thuộc hệ thống chính trị [cite: 1].
+
+### [9] Nghị định 73/2023/NĐ-CP về cán bộ dám nghĩ, dám làm - Xây Dựng Chính Sách, Pháp Luật
+
+> 10 giờ trước (Chinhphu.vn) - Chính phủ chỉ đạo tiếp tục sắp xếp, tinh gọn tổ chức bộ máy; sắp xếp đơn vị sự nghiệp, sắp xếp đơn vị hành chính cấp xã. Hoàn thành sắp xếp đơn vị sự nghiệp công lập giáo dục trước ngày 30 tháng 8 năm 2026. Xem thêm https://crm.bizfly.vn/survey-link?token=6656a220443c35003249bfff665d2fbe8ba2fd4de503af3b-fed2fb679f851835ecda5b54caf68d768ee92eee&id=665d2fbe8ba2fd4de503af3b&theme=12&view=webforms&project_id=6656a220443c35003249bfff&source=https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-so-73-2023-nd-cp-quy-dinh-ve-can-bo-dam-nghi-dam-lam-119231002122820505.htm&tags=TO%c3%80N+V%c4%82N%3a+Ngh%e1%bb%8b+%c4%91%e1%bb%8bnh+s%e1%bb%91+73%2f2023%2fN%c4%90-CP+quy+%c4%91%e1%bb%8bnh+v%e1%bb%81+c%c3%a1n+b%e1%bb%99+d%c3%a1m+ngh%c4%a9%2c+d%c3%a1m+l%c3%a0m
+
+### [13] Chiến Lược Việt Nam Hóa Rồng.md
+
+> 1.3. Kỷ Nguyên Vươn Mình Và Giải Phẫu "Điểm Nghẽn Của Điểm Nghẽn" Bước vào giai đoạn 2024-2026, Việt Nam đối mặt với sự cấp thiết phải chuyển đổi mô hình quản trị. Các nhà hoạch định chính sách cấp cao đã thẳng thắn chỉ ra ba điểm nghẽn lớn nhất kìm hãm sự bứt phá của đất nước: hạ tầng, nhân lực và thể chế. Trong đó, thể chế được định danh là "điểm nghẽn của điểm nghẽn". Đặc trưng của điểm nghẽn này bao gồm cấu trúc bộ máy hành chính cồng kềnh, hệ thống pháp luật chồng chéo, tư duy quản lý nặng về "tiền kiểm" dẫn đến cơ chế xin-cho, và tình trạng đùn đẩy trách nhiệm của cán bộ thực thi. Hậu quả là nhiều nguồn lực quốc gia bị ách tắc, các siêu dự án hạ tầng chậm tiến độ, và môi trường kinh doanh chưa đủ sức cạnh tranh toàn cầu. Tiến sĩ Jonathan Pincus, một chuyên gia kinh tế kỳ cựu từng là Kinh tế gia trưởng của Chương trình Phát triển Liên Hợp Quốc (UNDP) tại Việt Nam, đã chỉ ra một nguyên nhân sâu xa: hệ thống phân bổ nguồn lực của Việt Nam, đặc biệt là trong đầu tư công, đang ở mức độ phân tán và phi tập trung bậc nhất thế giới. Các địa phương có quy mô nhỏ nhưng lại nắm giữ quyền lực quá lớn trong việc can thiệp vào các dự án trọng điểm, tạo ra hiện tượng "trống đánh xuôi, kèn thổi ngược" giữa Trung ương và địa phương, khiến Việt Nam khó lòng dồn lực để hoàn thành dứt điểm các ưu tiên chiến lược tầm cỡ quốc gia như cách mà Trung Quốc hoặc Hàn Quốc đã làm được. Việc chuyển đổi từ cấu trúc lãnh đạo phân mảnh sang mô hình bộ máy quản trị hợp nhất (nhất thể hóa) giúp triệt tiêu các nút thắt về độ trễ hành chính, loại bỏ sự cản trở của lợi ích cục bộ địa phương, từ đó tạo ra một luồng thực thi chính sách xuyên suốt, trực tiếp thúc đẩy các siêu dự án kinh tế và hạ tầng. Quyết định bầu đồng chí Tô Lâm giữ chức vụ Tổng Bí thư và Chủ tịch nước vào năm 2024, và tái đắc cử chức vụ Chủ tịch nước nhiệm kỳ 2026-2031 tại Kỳ họp thứ nhất Quốc hội khóa XVI, cùng với việc kiện toàn bộ máy Chính phủ dưới sự điều hành của Thủ tướng kỹ trị Lê Minh Hưng, thể hiện quyết tâm chính trị mạnh mẽ nhằm hợp nhất quyền lực. Mô hình lãnh đạo này không nhằm mục đích thâu tóm quyền lực cá nhân, mà hướng tới việc cá nhân hóa trách nhiệm của người đứng đầu, tạo ra một cỗ máy nhà nước kiến tạo (developmental state) đủ năng lực tháo gỡ rào cản thể chế, chuyển mạnh phương thức quản lý từ "tiền kiểm" sang "hậu kiểm" và cắt giảm ít nhất 50% chi phí và thời gian thực hiện thủ tục hành chính.
+
+### [14] Quốc hội đồng ý để tư nhân đầu tư vào đường sắt tốc độ cao Bắc - Nam
+
+> TPHCM - Chủ tịch Quốc hội Trần Thanh Mẫn dâng hương tại Nghĩa trang Liệt sỹ Long Điền Đất Đỏ; Công viên Tượng đài, Nhà lưu niệm Anh hùng liệt sỹ Võ Thị Sáu. [ Các địa phương có đơn vị hành chính cấp xã chưa đạt tiêu chuẩn ](https://laodong.vn/thoi-su/cac-dia-phuong-co-don-vi-hanh-chinh-cap-xa-chua-dat-tieu-chuan-1737064.ldo) Toàn quốc còn 705 đơn vị hành chính cấp xã chưa đạt chuẩn về diện tích hoặc dân số, trong đó có các xã, phường tại Hải Phòng, Hưng Yên, Phú Thọ, Vĩnh Long.
+
+### [18] Chủ tịch Tập đoàn Đèo Cả chia sẻ về "siêu dự án" đường sắt cao tốc Bắc-Nam - VOV
+
+> [ Tây Ninh dành hơn 711 tỷ đồng phát triển lâm nghiệp giai đoạn 2026-2030 ](https://vov.vn/kinh-te/tay-ninh-danh-hon-711-ty-dong-phat-trien-lam-nghiep-giai-doan-2026-2030-post1316637.vov?resize=p_8,w_300) 646 cơ sở nhà, đất dôi dư sau sắp xếp đơn vị hành chính ở Quảng Trị Đóng cửa một phần mỏ titan Nam Suối Nhum, “mở đường” cho ĐT719B Đổi mới sáng tạo "đánh thức" nguồn gen quý trà hoa vàng Cúc Phương Hàng trăm dự án ở Ninh Bình vướng "nút thắt" giải phóng mặt bằng
+
+### [19] Tổng hợp các văn bản về sắp xếp, tinh gọn bộ máy mới nhất - LuatVietnam
+
+> 3 Nghị quyết 190/2025/QH15 của Quốc hội quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy Nhà nước 4 Nghị quyết 177/2025/QH15 của Quốc hội về cơ cấu số lượng thành viên Chính phủ nhiệm kỳ Quốc hội khóa XV 5 Nghị quyết 176/2025/QH15 của Quốc hội về cơ cấu tổ chức của Chính phủ nhiệm kỳ Quốc hội khóa XV 6 Kết luận 126-KL/TW của Bộ Chính trị và Ban Bí thư về một số nội dung, nhiệm vụ tiếp tục sắp xếp, tinh gọn tổ chức bộ máy của hệ thống chính trị năm 2025
+
+### [25] Nghị định 73/2023/NĐ-CP ngày 29/9/2023 của Chính phủ quy định về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung - SỞ NỘI VỤ TỈNH HƯNG YÊN
+
+> Tải Nghị định tại đây: 73_2023_nd-cp_29092023-signed-1.pdf Thanh tra Sở Tin liên quan Thông báo số 75-TB/TW ngày 07/3/2025 Kết luận của Bộ chính trị về điều chỉnh phạm vi, đối tượng áp dụng chính sách, chế độ đối với CBCCVCNLĐ và lực lượng vũ trang trong thực hiện sắp sếp tổ chức bộ máy của hệ thống chính trị Nghị định số 25/2025/NĐ-CP của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ
+
+### [29] Nghị định 73/2023/NĐ-CP ngày 29/9/2023 của Chính phủ quy định về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung - SỞ NỘI VỤ TỈNH HƯNG YÊN
+
+> Nghị định số 179/2024/NĐ-CP ngày 31/12/2024 của Chính phủ quy định chính sách thu hút, trọng dụng người có tài năng làm việc trong cơ quan, tổ chức, đơn vị của Đảng Cộng sản Việt Nam, Nhà nước, Mặt trận Tổ quốc Việt Nam và các tổ chức chính trị - xã hội Nghị định số 178/2024/NĐ-CP ngày 31/12/2024 của Chính phủ quy định về chính sách, chế độ đối với cán bộ, công chức, viên chức, người lao động và lực lượng vũ trang trong thực hiện sắp xếp tổ chức bộ máy của hệ thống chính trị
+
+### [35] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Một trong những nút thắt nội tại lớn nhất kìm hãm tốc độ thực thi các dự án đầu tư công và cải cách hành chính tại Việt Nam trong những năm qua là tâm lý "sợ sai, sợ trách nhiệm" của một bộ phận cán bộ, công chức. Nhằm hóa giải rào cản tâm lý này, Chính phủ đã ban hành Nghị định số 73/2023/NĐ-CP quy định về khuyến khích, bảo vệ cán bộ năng động, sáng tạo, dám nghĩ, dám làm, dám chịu trách nhiệm vì lợi ích chung [cite: 12, 13, 14]. Hành lang pháp lý của Nghị định 73/2023/NĐ-CP được thiết lập dựa trên các nguyên tắc và cơ chế bảo vệ rất cụ thể nhằm hóa giải lằn ranh mong manh giữa đúng và sai trong thực thi công vụ khi pháp luật chưa dự liệu hết thực tế [cite: 15, 16]:
+
+### [39] Nghị định 73: Kỳ vọng hóa giải lằn ranh mong manh đúng, sai - Báo Tuổi Trẻ
+
+> Luật không chỉ để quản lý mà còn phải kiến tạo 06/04/2026 19:54 (PLO)- Cụm từ “luật bó” mà Tổng Bí thư Tô Lâm dùng có lẽ là hình ảnh đắt nhất để mô tả căn bệnh mãn tính của hệ thống pháp luật hiện hành. Ngày Sức khỏe toàn dân: Bước chuyển vì một Việt Nam khỏe mạnh 06/04/2026 15:45 (PLO)- Ngày Sức khỏe toàn dân 7-4 không chỉ là một ngày kỷ niệm, mà phải là mốc khởi đầu cho lối sống chủ động, có trách nhiệm.
+
+### [40] Nghị định 73: Kỳ vọng hóa giải lằn ranh mong manh đúng, sai - Báo Tuổi Trẻ
+
+> Luật không chỉ để quản lý mà còn phải kiến tạo 06/04/2026 19:54 (PLO)- Cụm từ “luật bó” mà Tổng Bí thư Tô Lâm dùng có lẽ là hình ảnh đắt nhất để mô tả căn bệnh mãn tính của hệ thống pháp luật hiện hành. Ngày Sức khỏe toàn dân: Bước chuyển vì một Việt Nam khỏe mạnh 06/04/2026 15:45 (PLO)- Ngày Sức khỏe toàn dân 7-4 không chỉ là một ngày kỷ niệm, mà phải là mốc khởi đầu cho lối sống chủ động, có trách nhiệm.
+
+### [41] Quốc hội đồng ý để tư nhân đầu tư vào đường sắt tốc độ cao Bắc - Nam
+
+> Dự thảo Bộ luật Tố tụng hình sự (sửa đổi) bổ sung nhiều nội dung mới trong đó có việc tăng cường kiểm soát quyền lực; bảo đảm tốt hơn... [ Tổng Bí thư, Chủ tịch nước: Chuyển mạnh từ quản lý xã hội sang quản trị và kiến tạo xã hội ](https://laodong.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-chuyen-manh-tu-quan-ly-xa-hoi-sang-quan-tri-va-kien-tao-xa-hoi-1737069.ldo) Tổng Bí thư, Chủ tịch nước Tô Lâm yêu cầu chuyển mạnh từ quản lý xã hội sang quản trị và kiến tạo xã hội.
+
+### [42] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Song song với việc sắp xếp lại bộ máy, những chỉ đạo mang tính đột phá của Tổng Bí thư Tô Lâm đã định hình một triết lý quản lý nhà nước mới: đẩy nhanh tốc độ thực thi pháp luật bằng cách chuyển dịch mạnh mẽ từ cơ chế "tiền kiểm" sang "hậu kiểm" gắn liền với số hóa quy trình công vụ [cite: 2]. Tư duy này phản ánh nỗ lực gỡ bỏ những rào cản hành chính rườm rà vốn làm kéo dài thời gian chuẩn bị đầu tư và tăng chi phí tuân thủ của doanh nghiệp [cite: 2]. Sự chuyển dịch này được thể chế hóa rõ nét thông qua một gói chính sách quan trọng có hiệu lực đồng loạt, bao gồm Nghị quyết số 66.18/2026/NQ-CP, Nghị quyết số 66.19/2026/NQ-CP, Nghị định 217/2026/NĐ-CP, Nghị định 212/2026/NĐ-CP và Quyết định 1165/QĐ-BTC [cite: 2].
+
+### [43] Kiến tạo Thể chế, Tốc độ Hạ tầng và Chiến lược Doanh nghiệp Đầu tàu: Mô hình Phát triển của Việt Nam giai đoạn 2024-2026
+
+> Song song với việc sắp xếp lại bộ máy, những chỉ đạo mang tính đột phá của Tổng Bí thư Tô Lâm đã định hình một triết lý quản lý nhà nước mới: đẩy nhanh tốc độ thực thi pháp luật bằng cách chuyển dịch mạnh mẽ từ cơ chế "tiền kiểm" sang "hậu kiểm" gắn liền với số hóa quy trình công vụ [cite: 2]. Tư duy này phản ánh nỗ lực gỡ bỏ những rào cản hành chính rườm rà vốn làm kéo dài thời gian chuẩn bị đầu tư và tăng chi phí tuân thủ của doanh nghiệp [cite: 2]. Sự chuyển dịch này được thể chế hóa rõ nét thông qua một gói chính sách quan trọng có hiệu lực đồng loạt, bao gồm Nghị quyết số 66.18/2026/NQ-CP, Nghị quyết số 66.19/2026/NQ-CP, Nghị định 217/2026/NĐ-CP, Nghị định 212/2026/NĐ-CP và Quyết định 1165/QĐ-BTC [cite: 2].
+
+### [44] Nghị định 73/2023/NĐ-CP về cán bộ dám nghĩ, dám làm - Xây Dựng Chính Sách, Pháp Luật
+
+> Tham khảo thêm Chính phủ ban hành Nghị định khuyến khích, bảo vệ cán bộ dám nghĩ, dám làm Tham khảo thêm Thủ tướng: Tạo hành lang pháp lý an toàn cho cán bộ làm việc; khuyến khích người dám nghĩ, dám làm Tham khảo thêm Cán bộ sợ sai, không dám làm: Trước tiên lãnh đạo phải dám nghĩ, dám làm Tham khảo thêm Khẩn trương trình Chính phủ ban hành Nghị định khuyến khích cán bộ dám nghĩ, dám làm Tham khảo thêm
+
+### [45] Nghị định 73/2023/NĐ-CP về cán bộ dám nghĩ, dám làm - Xây Dựng Chính Sách, Pháp Luật
+
+> Tham khảo thêm Chính phủ ban hành Nghị định khuyến khích, bảo vệ cán bộ dám nghĩ, dám làm Tham khảo thêm Thủ tướng: Tạo hành lang pháp lý an toàn cho cán bộ làm việc; khuyến khích người dám nghĩ, dám làm Tham khảo thêm Cán bộ sợ sai, không dám làm: Trước tiên lãnh đạo phải dám nghĩ, dám làm Tham khảo thêm Khẩn trương trình Chính phủ ban hành Nghị định khuyến khích cán bộ dám nghĩ, dám làm Tham khảo thêm
+
+### [46] Đường sắt tốc độ cao Bắc-Nam và cơ hội cho các nhà thầu trong nước "thể hiện"
+
+> Thủ tướng mong muốn, tin tưởng và kêu gọi các doanh nghiệp xây dựng, trong đó có các doanh nghiệp tham gia dự án, công trình trọng điểm, quan trọng quốc gia tiếp tục phát huy tinh thần "đi lên từ bàn tay, khối óc, khung trời, cửa biển của mình", "nguồn lực bắt nguồn từ tư duy và tầm nhìn, động lực bắt nguồn từ sự đổi mới và sáng tạo, sức mạnh bắt nguồn từ nhân dân và doanh nghiệp", "biến không thành có, biến khó thành dễ, biến không thể thành có thể".
+
+### [47] Đường sắt tốc độ cao Bắc-Nam và cơ hội cho các nhà thầu trong nước "thể hiện"
+
+> Thủ tướng mong muốn, tin tưởng và kêu gọi các doanh nghiệp xây dựng, trong đó có các doanh nghiệp tham gia dự án, công trình trọng điểm, quan trọng quốc gia tiếp tục phát huy tinh thần "đi lên từ bàn tay, khối óc, khung trời, cửa biển của mình", "nguồn lực bắt nguồn từ tư duy và tầm nhìn, động lực bắt nguồn từ sự đổi mới và sáng tạo, sức mạnh bắt nguồn từ nhân dân và doanh nghiệp", "biến không thành có, biến khó thành dễ, biến không thể thành có thể".

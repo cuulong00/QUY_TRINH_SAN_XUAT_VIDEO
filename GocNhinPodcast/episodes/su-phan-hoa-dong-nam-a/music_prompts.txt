@@ -1,0 +1,163 @@
+# ================================================================================
+# GÓC NHÌN PODCAST — CINEMATIC AUDIO LANDSCAPE & MUSIC COMPOSITION SPECIFICATION
+# EPISODE: Việt Nam Đang Đi Nhanh Hay Láng Giềng Đang Chậm Lại? — Sự Thật Cuộc Đổi Ngôi Đông Nam Á 2026
+# AUDIO ARCHITECT: The Cinematic Sonic Alchemist
+# TARGET SYSTEMS: Google DeepMind Lyria 3 Pro, Suno v4, Udio v1.5, Stable Audio 2.0
+# CORE PHILOSOPHY: Supreme Restraint, Zero Vocal, Carved Mid-Range (300Hz-3.5kHz)
+# ================================================================================
+
+# --------------------------------------------------------------------------------
+# MASTER MIXING & SAFETY STANDARDS (TIÊU CHUẨN KỸ THUẬT BẮT BUỘC)
+# --------------------------------------------------------------------------------
+# 1. Voiceover Priority: Giọng đọc chính (Baritone) luôn chiếm vị trí trung tâm (-14 LUFS).
+# 2. BGM Volume: Nhạc nền luôn lùi sâu ở mức -20dB đến -24dB trong lúc có lời đọc.
+# 3. Frequency Carving: Khoét rỗng dải 300Hz - 3.5kHz trong mọi nhạc cụ để không tranh chấp với formants giọng người.
+# 4. Negative Constraints (CẤM): NO vocals, NO singing, NO spoken words, NO aggressive EDM drums, NO cheap lo-fi hiphop beats, NO heroic trumpet fanfares, NO cheesy pop melodies.
+# 5. The Law of Silence: Nhạc phải biết câm lặng (Truth Drop) tại các luận điểm chốt hạ để thính giả tiếp nhận sự thật.
+
+# ================================================================================
+# BỘ 8 BẢN NHẠC NỀN MAY ĐO HOÀN HẢO CHO 8 CHƯƠNG (THE 8-CHAPTER SUITE)
+# ================================================================================
+
+# ================================================================================
+# TRACK 01 — CHƯƠNG 1: CÚ SỐC TÍN NHIỆM 2026 — NGHỊCH LÝ CUỘC ĐỔI NGÔI
+# ================================================================================
+# Thời lượng Voiceover: 177.2 giây (~2 phút 57 giây)
+# Thời lượng Track mục tiêu: 3 phút 05 giây (Bao gồm đuôi ngân reverb fade-out)
+# Tên tác phẩm: "The Cold Flow of Capital" (Dòng Tiền Băng Lạnh)
+# Nhịp độ (Tempo): 78 BPM (Stealthy, investigative documentary pace)
+# Tone/Hòa âm: D minor / A minor modal (Lạnh lùng, hoài nghi, khách quan)
+
+[Track 1 - Specification]
+Mood: Restrained investigative tension, cold capital calculus, detached curiosity, solemn macroeconomic reality.
+Instrumentation: Low bowed acoustic cello sustain, deep analog sub-bass drone (45Hz), sparse grand piano single notes spaced 4 to 5 seconds apart, subtle clockwork tick-tock micro-percussion, faint distant synth haze.
+Dynamic Behavior: Starts with a lonely sub-bass pulse; layers a cold cello resonance as FDI numbers ($38B) are analyzed; drops to total silence for 2 seconds at the golden claim ("Dòng vốn kỷ lục... chỉ là tấm vé vào cửa"); resolves with a fading dark cello note.
+Frequency Carving: Deep mid-scoop at 500Hz-2.8kHz specifically designed to cradle a deep male documentary voiceover.
+
+[Track 1 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: A minimalist cold cinematic documentary soundtrack at 78 BPM, featuring deep sustained cello, solitary acoustic piano notes falling slowly with 4-second intervals, a deep 45Hz analog sub-bass foundation, and delicate clockwork micro-percussion. Dark, analytical, investigative atmosphere reflecting macroeconomic capital flows. Spacious mix with carved mid-range frequencies specifically engineered to stay behind a deep male voiceover. No vocals, no speech, no loud drums, no epic brass, no happy chords. Pure cerebral documentary noir.
+
+# ================================================================================
+# TRACK 02 — CHƯƠNG 2: TRẬN ĐỊA THỂ CHẾ — KỶ LUẬT THỜI CHIẾN & NĂNG LỰC TỰ CỞI TRÓI
+# ================================================================================
+# Thời lượng Voiceover: 223.9 giây (~3 phút 44 giây)
+# Thời lượng Track mục tiêu: 3 phút 50 giây
+# Tên tác phẩm: "The Bedrock of Governance" (Mỏ Neo Thể Chế)
+# Nhịp độ (Tempo): 82 BPM (Disciplined, steady, unwavering marching pulse)
+# Tone/Hòa âm: C minor / Eb major pivot (Nghiêm cẩn, kiên định, kỷ luật thép)
+
+[Track 2 - Specification]
+Mood: Stoic institutional discipline, legislative gravity, unhurried institutional stability, resolute forward momentum.
+Instrumentation: Double bass pizzicato paired with low warm cello, sparse muted wooden block percussion, subtle rhythmic analog pulse, distant noble French horn pad at the lowest dynamic level, organic acoustic string textures.
+Dynamic Behavior: Low-level rhythmic tension during political shifts in Bangkok and Manila; gradual warm harmonic opening during Vietnam 500kV circuit-3 and 3,300km expressway mobilization; sharp 80% volume ducking at "năng lực tự cởi trói".
+Frequency Carving: High-pass filtered at 35Hz, mid-range scooped at 400Hz-3.2kHz for vocal clarity.
+
+[Track 2 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: An 82 BPM disciplined cinematic documentary score, driven by muted double bass pizzicato, low warm string sustains, very sparse acoustic woodblock clicks, and an atmospheric analog synth pad. Tone is stoic, solemn, and institutional, representing legal discipline and infrastructural mobilization. Balanced dynamic range, strictly non-intrusive, leaving wide sonic headroom for speech narration. Instrumental only, no vocals, no heavy percussion, no heroic themes, no electric guitar, restrained and grounded.
+
+# ================================================================================
+# TRACK 03 — CHƯƠNG 3: TRẬN ĐỊA CÔNG NGHIỆP — MỎ NEO PHẦN CỨNG VS ẢO ẢNH TIÊU DÙNG
+# ================================================================================
+# Thời lượng Voiceover: 253.9 giây (~4 phút 14 giây)
+# Thời lượng Track mục tiêu: 4 phút 20 giây
+# Tên tác phẩm: "The Weight of Hardware" (Sức Nặng Mỏ Neo Cơ Khí)
+# Nhịp độ (Tempo): 84 BPM (Industrial mechanical pulse, unyielding, tactile)
+# Tone/Hòa âm: F minor / C minor (Khắc nghiệt, hiện thực trần trụi, sức nặng tư bản)
+
+[Track 3 - Specification]
+Mood: Gritty industrial realism, stark economic contrast, tactile weight of physical manufacturing versus empty consumerism.
+Instrumentation: Muffled industrial kick pulse (soft, like a hydraulic press in distant warehouse), cold low analog synth arpeggio, dark cello staccato, bowed metallic resonance, delicate glass marimba notes.
+Dynamic Behavior: Bleak hollow texture when describing Philippines BPO and electricity tariffs; heavy grinding cello tension during Thailand ICE auto parts crisis; focused rhythmic clarity as Vietnam electronic exports hit $165B; total silence at the semiconductor gateway punchline.
+Frequency Carving: Severe notch filter at 1kHz-3kHz, keeping upper-mids open for vocal presence.
+
+[Track 3 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: An 84 BPM industrial minimalism soundtrack for an economic documentary, featuring a soft muffled hydraulic bass pulse, dark staccato cello, cold metallic analog synthesizer textures, and sparse glassy marimba accents. Moody, analytical, and weighty, conveying the physical reality of heavy industry and supply chain hardware. High transparency, wide stereo field with hollow center channel reserved for voiceover narration. Instrumental, absolutely no singing, no EDM drops, no rock elements, precise and understated.
+
+# ================================================================================
+# TRACK 04 — CHƯƠNG 4: TRẬN ĐỊA SIÊU HẠ TẦNG & CÚ SỐC NĂNG LƯỢNG MỚI
+# ================================================================================
+# Thời lượng Voiceover: 371.0 giây (~6 phút 11 giây)
+# Thời lượng Track mục tiêu: 6 phút 20 giây (Có thể loop hoặc 2 movements nối tiếp)
+# Tên tác phẩm: "The Arteries of the Dragon" (Huyết Mạch Rồng & Cơn Khát Năng Lượng)
+# Nhịp độ (Tempo): 80 BPM (Expansive, geographical grandeur, hypnotic highway pulse)
+# Tone/Hòa âm: G minor / D minor (Rộng lớn, địa chính trị, trăn trở hạ tầng)
+
+[Track 4 - Specification]
+Mood: Vast territorial scale, strategic maritime and logistics tension, relentless infrastructural pulse, sober technological scrutiny.
+Instrumentation: Sustained warm cello ensemble, resonant sub-bass swells, subtle electrical high-voltage synth hum (ultra-low level), sparse acoustic mallet percussion, atmospheric ocean-wind analog pads.
+Dynamic Behavior: Fragmented maritime soundscape for Indonesia 17,000 islands and nickel dilemma; rhythmic expansive drive for 3,300km North-South expressway; sudden drop to dry piano when dissecting the 1-meter railway gauge vulnerability; tense holding pattern for PDP8 clean power bottleneck.
+Frequency Carving: Ducking -4dB automated across the voiceover profile, zero harsh frequencies between 1.5kHz-4kHz.
+
+[Track 4 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: A spacious 80 BPM cinematic soundscape score depicting immense infrastructure and geopolitical geography. Deep bowing cellos, expansive analog synthesizer pads, low sub-bass swells, subtle high-voltage electrical hums, and delicate rhythmic acoustic mallets. Atmospheric, sweeping yet deeply grounded and cautious. Designed exclusively as background music for analytical documentary storytelling, leaving the vocal frequency pocket completely clean and unobstructed. No vocals, no brass fanfare, no pop beats, no melodic intrusion.
+
+# ================================================================================
+# TRACK 05 — CHƯƠNG 5: TRẬN ĐỊA NỘI LỰC — NHỮNG CỘT TRỤ ĐỠ BÃO & KHÁT VỌNG TỰ CƯỜNG
+# ================================================================================
+# Thời lượng Voiceover: 267.3 giây (~4 phút 28 giây)
+# Thời lượng Track mục tiêu: 4 phút 35 giây
+# Tên tác phẩm: "The Pioneer's Burden" (Gánh Nặng Sếu Đầu Đàn)
+# Nhịp độ (Tempo): 86 BPM (Resolute, noble, earnest, building from endurance to pride)
+# Tone/Hòa âm: B minor / D major (Bi tráng, kiên cường, danh dự dân tộc không ồn ào)
+
+[Track 5 - Specification]
+Mood: Noble resilience, calculated industrial courage, heavy capital burns, patriotic technological aspiration without cheap triumphalism.
+Instrumentation: Expressive solo cello with warm low resonance, dark chamber strings, gentle warm acoustic piano chords, subtle metallic charging-pulse synth (evoking EV battery high-power charging), quiet French horn harmony far behind.
+Dynamic Behavior: Somber restraint during warning of oligarchy and financial burns; steady rising warm harmonic chords as Viettel 5G chip, Hoa Phat high-speed rail steel, and V-Green 150,000 charging ports are presented; complete silence on "người làm thuê trên chính sân nhà".
+Frequency Carving: Mid-range carved out 350Hz-3.5kHz. Master volume calibrated at -22dB LUFS under dialogue.
+
+[Track 5 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: An 86 BPM noble and reflective cinematic score featuring an expressive solo cello, warm dark string quartet, gentle acoustic grand piano chords, and faint atmospheric brass undertones. The mood captures solemn technological determination, national industrial resilience, and serious financial endurance. Warm, emotional yet strictly restrained and mature. Perfectly mixed for background podcast voiceover with ample vocal pocket. Instrumental only, strictly no singing, no fast drums, no pompous fanfares, no generic corporate chords.
+
+# ================================================================================
+# TRACK 06 — CHƯƠNG 6: BỨC TRANH ĐỊNH LƯỢNG — 60% NỘI SINH VS 40% THIÊN THỜI ĐỊA LÝ
+# ================================================================================
+# Thời lượng Voiceover: 211.2 giây (~3 phút 31 giây)
+# Thời lượng Track mục tiêu: 3 phút 40 giây
+# Tên tác phẩm: "The Scale of Humility" (Bàn Cân Khiêm Nhường)
+# Nhịp độ (Tempo): 76 BPM (Philosophical, calm, deep meditative clarity)
+# Tone/Hòa âm: E minor / G major modal (Trầm tĩnh, minh triết, thấu cảm sâu sắc)
+
+[Track 6 - Specification]
+Mood: Deep intellectual clarity, sober realism, humble introspection, transcending arrogance and inferiority complex.
+Instrumentation: Solo felt piano with soft hammer damping, low cello sustaining single pedal points, ultra-deep warm analog pad, zero drums, zero percussion, maximum acoustic room space.
+Dynamic Behavior: Absolutely unhurried; piano notes drop like water droplets into a calm lake every 5 seconds; gentle warm swell when recognizing domestic achievements; deep sub-bass drop when facing Thailand 30-year wealth gap ($8,000 GDP/capita vs $5,000); total peace at the end.
+Frequency Carving: Maximum transparency. The entire mid-frequency spectrum is preserved exclusively for the narrator.
+
+[Track 6 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: A 76 BPM deeply contemplative and minimalist documentary piano score. Soft felt-damped acoustic piano notes spaced far apart, supported by a gentle low cello pedal note and a warm transparent analog synthesizer pad. Zero percussion, zero drums. Serene, sober, and profoundly humble, conveying intellectual truth and objective economic balance. Spacious and quiet, seamlessly fading behind spoken word. Instrumental only, no vocals, no rhythm section, no bright highs, masterclass minimalism.
+
+# ================================================================================
+# TRACK 07 — CHƯƠNG 7: TẤM GƯƠNG CẢNH TỈNH — 5 TỬ HUYỆT TRÊN CON ĐƯỜNG HÓA RỒNG 2045
+# ================================================================================
+# Thời lượng Voiceover: 199.1 giây (~3 phút 19 giây)
+# Thời lượng Track mục tiêu: 3 phút 25 giây
+# Tên tác phẩm: "The Hourglass of 2045" (Đồng Hồ Cát 2045)
+# Nhịp độ (Tempo): 88 BPM (Ticking urgency, tightening historical window, relentless countdown)
+# Tone/Hòa âm: C minor ostinato (Căng thẳng kiềm chế, hồi còi báo động lịch sử)
+
+[Track 7 - Specification]
+Mood: Urgent restrained warning, irreversible ticking of time, historical destiny at stake, razor-sharp analytical tension.
+Instrumentation: High-precision analog clockwork pulse (subtle, dry), repetitive minimalist string ostinato (Philip Glass / Max Richter aesthetic), deep sub-bass heart-pulse, high-register crystalline synth note on critical downbeats.
+Dynamic Behavior: Tension builds methodically across the 5 fatal bottlenecks (OSAT packaging, engineer shortage, clean baseload, R&D 0.4%, aging demographic window 2035-2039); sudden cut to DEAD SILENCE on the final sentence: "Cơ hội lịch sử này chắc chắn sẽ không gõ cửa lần thứ hai."
+Frequency Carving: Fast sidechain compression ducking 5dB on every narrator sentence; notch EQ at 1.2kHz-3kHz.
+
+[Track 7 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: An 88 BPM tension-building minimalist orchestral score for a climactic documentary finale. Featuring a steady ticking clockwork texture, repetitive low cello and violin ostinato in the style of Max Richter, a deep rhythmic sub-bass pulse, and sparse high bell-tone accents. Serious, urgent, and relentless yet strictly restrained so it never overpowers speech. Crisp, clinical, and dramatic countdown atmosphere. Instrumental only, no vocals, no heavy rock drums, no heroic climaxes, cold ticking realism.
+
+# ================================================================================
+# TRACK 08 — CHƯƠNG 8: TUYÊN BỐ MIỄN TRỪ TRÁCH NHIỆM & KẾT THÚC
+# ================================================================================
+# Thời lượng Voiceover: ~20 giây
+# Thời lượng Track mục tiêu: 30 giây
+# Tên tác phẩm: "The Scholar's Epilogue" (Lời Kết Học Thuật)
+# Nhịp độ (Tempo): Free tempo / Rubato
+# Tone/Hòa âm: D major resolution (Thanh lịch, uy tín, kết thúc trong sự tĩnh lặng tuyệt đối)
+
+[Track 8 - Specification]
+Mood: Elegant academic closure, ethical integrity, quiet dignity, respectful fade to silence.
+Instrumentation: A single warm acoustic piano chord with rich acoustic resonance, followed by a faint low cello harmonic, slowly decaying into room silence.
+Dynamic Behavior: Soft and intimate, fading completely into total silence 2 seconds before the final outro card.
+
+[Track 8 - Prompt for Suno v4 / Udio / Lyria 3 Pro]
+Prompt: A 20-second gentle and elegant academic outro for a podcast. A single resonant grand piano chord decaying naturally with soft low cello overtones into complete silence. Dignified, warm, and transparent. Instrumental, no vocals, zero percussion, pure organic acoustic decay.

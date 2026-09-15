@@ -1,0 +1,115 @@
+---
+title: "Phân tích chi tiết doanh số bán xe VinFast cho hãng taxi GSM (Xanh SM) và các đối tác dịch vụ vận tải khác. Sự hiện diện của các dòng xe dịch vụ thương hiệu 'Green' (Limo Green, Herio Green, Nerio Green, Minio Green) đóng góp bao nhiêu phần trăm vào tổng doanh số VinFast? Tác động của đội xe taxi GSM đến độ phủ sóng nhận diện trên đường phố thế nào? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-06-09T15:21:55.007Z
+notebook_url: "https://notebooklm.google.com/notebook/703f6053-3d8c-4528-ae98-d2d63197e32a"
+session_id: "dda0ab28"
+citations_count: 11
+sources:
+  - "Cumulative Sales and Market Share Dynamics in the Vietnamese Automotive Industry: A Strategic Assessment of Hyundai, Toyota, Kia, Ford, Mazda, and VinFast (2020–2026)"
+  - "Doanh số ô tô tăng trưởng đột phá ở mọi phân khúc, xe nào chiếm ưu thế? - PLO"
+  - "10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ"
+  - "Hãng xe nào đang đứng đầu thị trường ôtô Việt? | Znews.vn"
+  - "VinFast bán hơn 24.700 ô tô điện trong tháng 4/2026 - VOV"
+  - "Doanh số SUV hạng A tháng 4/2026: Phần lớn đều lao dốc, trừ \"vua phân khúc\" VinFast VF 5 - Tinxe.vn"
+  - "Người Việt ngày càng chuộng ô tô điện, phần lớn chọn mua xe VinFast - Báo Thanh Niên"
+  - "Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Bnews.vn"
+---
+
+# Phân tích chi tiết doanh số bán xe VinFast cho hãng taxi GSM (Xanh SM) và các đối tác dịch vụ vận tải khác. Sự hiện diện của các dòng xe dịch vụ thương hiệu 'Green' (Limo Green, Herio Green, Nerio Green, Minio Green) đóng góp bao nhiêu phần trăm vào tổng doanh số VinFast? Tác động của đội xe taxi GSM đến độ phủ sóng nhận diện trên đường phố thế nào? Ưu tiên dữ liệu mới nhất (2024-2026). Mọi số liệu và căn cứ pháp lý phải ghi rõ nguồn, số hiệu văn bản, năm ban hành. Trình bày dưới dạng báo cáo chuyên nghiệp. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-06-09T15:21:55.007Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/703f6053-3d8c-4528-ae98-d2d63197e32a)
+
+## Answer
+
+BÁO CÁO PHÂN TÍCH MẢNG DOANH SỐ XE DỊCH VỤ VÀ TÁC ĐỘNG CỦA TAXI GSM (2024 - 2026)
+1. Phân tích doanh số và tỷ trọng đóng góp của các dòng xe dịch vụ thương hiệu "Green" VinFast đã thiết lập nền tảng doanh số B2B (khách hàng doanh nghiệp) vô cùng vững chắc thông qua quan hệ đối tác với đội xe taxi GSM (Xanh SM) và các hợp tác xã vận tải. Hãng phát triển riêng dải sản phẩm thương hiệu "Green" bao gồm Limo Green, Herio Green, Nerio Green, Minio Green và xe thương mại EC Van
+1
+2
+.
+Bùng nổ doanh số (2025): Dòng xe Limo Green dù mới chính thức bán ra từ tháng 8/2025 nhưng đã vươn lên thành mẫu xe chủ lực. Chỉ tính riêng tháng 12/2025, hãng đã bàn giao kỷ lục 10.981 chiếc Limo Green
+3
+4
+.
+Chiếm lĩnh thị trường (Quý 1/2026): Trong 3 tháng đầu năm, tổng doanh số VinFast đạt 53.684 xe
+5
+. Trong đó, Limo Green là mẫu xe bán chạy nhất với 12.471 xe, Minio Green đạt 3.809 xe và EC Van đạt doanh số cao kỷ lục với 1.136 xe chỉ trong tháng 3
+2
+5
+.
+Tiếp đà tăng trưởng (Tháng 4/2026): Limo Green tiếp tục dẫn đầu toàn thị trường với 6.480 xe, đưa lũy kế 4 tháng đầu năm lên mức 18.951 chiếc
+6
+7
+. Bên cạnh đó, mẫu xe cá nhân VinFast VF 5 cũng là lựa chọn phổ biến được giới tài xế taxi điện tin dùng
+8
+.
+Tỷ trọng đóng góp: Chỉ tính tổng doanh số của hai mẫu xe dịch vụ thuần túy là Limo Green (12.471 xe) và Minio Green (3.809 xe), nhóm xe này đã đạt 16.280 xe, đóng góp hơn 30,3% vào tổng lượng xe bán ra (53.684 xe) của VinFast trong Quý 1/2026
+2
+5
+. Tỷ trọng này đảm bảo cho VinFast một khối lượng sản xuất ổn định và tạo ra nguồn doanh thu khổng lồ
+1
+.
+2. Tác động của đội xe taxi GSM đến độ phủ sóng nhận diện trên đường phố Sự xuất hiện với tần suất dày đặc của xe taxi Xanh SM mang lại tác động kép đến thị trường và người tiêu dùng:
+Xóa bỏ rào cản tâm lý: Việc đưa ô tô điện vào vận hành dịch vụ công cộng giúp giới thiệu phương tiện này tới một cơ sở hành khách rất rộng lớn. Trải nghiệm thực tế khi đi taxi điện giúp người tiêu dùng gỡ bỏ những lo âu, e ngại về phạm vi hoạt động của xe (range anxiety) và tuổi thọ pin
+1
+.
+Bảo chứng về chất lượng và tính kinh tế: Tần suất hoạt động cường độ cao của xe dịch vụ là minh chứng sống động về khả năng vận hành bền bỉ, chi phí bảo dưỡng thấp cũng như tính thuận tiện của mạng lưới trạm sạc công cộng phủ sóng toàn quốc. Điều này làm thay đổi nhận thức và thúc đẩy trực tiếp nhóm khách hàng cá nhân chuyển đổi sang mua sắm ô tô điện
+8
+9
+.
+3. Căn cứ pháp lý thúc đẩy mảng xe dịch vụ Sự bứt tốc của mảng xe dịch vụ VinFast được cộng hưởng mạnh mẽ bởi hành lang pháp lý ưu đãi từ nhà nước đối với phương tiện di chuyển xanh.
+Văn bản áp dụng: Chính sách được quy định tại Nghị định 202/2026 (ban hành năm 2026).
+Nội dung hỗ trợ: Chính phủ Việt Nam chính thức kéo dài chính sách miễn 100% lệ phí trước bạ (0%) lần đầu đối với ô tô điện chạy pin đến hết năm 2030
+10
+11
+.
+Tác động thực tiễn: Quy định này giúp các doanh nghiệp kinh doanh vận tải (B2B) và tài xế tiết kiệm được hàng chục đến hàng trăm triệu đồng chi phí lăn bánh, tạo ra bài toán lợi nhuận "vốn ít, lời nhiều" vượt trội hoàn toàn so với việc đầu tư các đội xe sử dụng động cơ đốt trong truyền thống
+10
+11
+.
+
+## Sources
+
+### [1] Cumulative Sales and Market Share Dynamics in the Vietnamese Automotive Industry: A Strategic Assessment of Hyundai, Toyota, Kia, Ford, Mazda, and VinFast (2020–2026)
+
+> Following this transition, VinFast achieved rapid growth. EV sales rose to 35,000 in 2023, more than doubled to 87,000 in 2024, and reached 175,099 units in 2025.[7, 8, 14] By 2025, VinFast’s sales volume was virtually equivalent to the combined sales of its next three closest competitors.[8]
+
+### [2] Doanh số ô tô tăng trưởng đột phá ở mọi phân khúc, xe nào chiếm ưu thế? - PLO
+
+> Hai mẫu xe cỡ nhỏ hướng tới nhóm khách hàng kinh doanh dịch vụ chở hàng và chở người trong đô thị - EC Van và Minio Green - cũng ghi nhận mức doanh số tháng cao nhất kể từ khi chính thức bán ra thị trường. Cụ thể, đã có 1.136 xe EC Van và 1.969 xe Minio Green được bàn giao cho khách hàng trong tháng 3. Tính theo lũy kế từ đầu năm, Limo Green hiện là mẫu xe VinFast được ưa chuộng nhất tại thị trường Việt Nam, với tổng cộng 12.471 xe đã được bàn giao, đạt mức trung bình hơn 4.150 xe/tháng. Kế tiếp lần lượt là các mẫu: VF 3 (10.188 xe), VF 5 (8.672 xe, bao gồm Herio Green), VF 6 (6.679 xe), Minio Green (3.809 xe), VF MPV 7 (3.686 xe), VF 7 (3.514 xe)…
+
+### [3] 10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ
+
+> Các mẫu xe của VinFast hiện phủ rộng và thống trị ở tất cả các phân khúc, từ xe cỡ nhỏ cho cá nhân và gia đình trẻ như VF 3 (44.585 xe), VF 5 (43.913 xe), VF 6 (23.291 xe) đến các dòng SUV cỡ lớn hạng sang dành cho doanh nhân và gia đình như VF 7 (9.653 xe). Đặc biệt, mẫu xe Limo Green dù mới chỉ chính thức bán ra thị trường từ tháng 8, nhưng đã nhanh chóng vươn lên trở thành mẫu xe bán chạy hàng đầu phân khúc MPV 7 chỗ. Riêng trong tháng 12/2025, đã có tới 10.981 xe Limo Green được bàn giao cho khách hàng.
+
+### [4] 10 thương hiệu bán nhiều ô tô nhất 2025: VinFast 'áp đảo' các đối thủ
+
+> Các mẫu xe của VinFast hiện phủ rộng và thống trị ở tất cả các phân khúc, từ xe cỡ nhỏ cho cá nhân và gia đình trẻ như VF 3 (44.585 xe), VF 5 (43.913 xe), VF 6 (23.291 xe) đến các dòng SUV cỡ lớn hạng sang dành cho doanh nhân và gia đình như VF 7 (9.653 xe). Đặc biệt, mẫu xe Limo Green dù mới chỉ chính thức bán ra thị trường từ tháng 8, nhưng đã nhanh chóng vươn lên trở thành mẫu xe bán chạy hàng đầu phân khúc MPV 7 chỗ. Riêng trong tháng 12/2025, đã có tới 10.981 xe Limo Green được bàn giao cho khách hàng.
+
+### [5] Hãng xe nào đang đứng đầu thị trường ôtô Việt? | Znews.vn
+
+> Trong khi đó, VinFast cho biết doanh số riêng ở tháng 3 đạt 27.609 xe điện, tăng trưởng 127% so với cùng kỳ năm ngoái. Lũy kế từ đầu năm, VinFast đã hoàn tất bàn giao 53.684 ôtô điện các loại cho khách hàng, với Limo Green đang là "con gà đẻ trứng vàng" mới, doanh số đạt 12.471 xe sau 3 tháng. Created with Highcharts 8.2.2 VinFast nắm một phần ba thị trường xe Việt Cơ cấu doanh số ôtô tại Việt Nam trong 3 quý đầu năm (Số liệu: VAMA, TC Motor, VinFast) VAMA VAMA VinFast VinFast Hyundai Thành Công Hyundai Thành Công VinFast nắm một phần ba thị trường xe Việt
+
+### [6] VinFast bán hơn 24.700 ô tô điện trong tháng 4/2026 - VOV
+
+> Thứ Ba, 17:27, 12/05/2026 Copy link thành công! VOV.VN - Theo công bố kết quả kinh doanh của VinFast, tháng 4/2026 hãng xe Việt đã bán ra 24.774 xe ô tô điện, nâng tổng số xe bán ra thị trường trong 4 tháng đầu năm đạt 78.458 xe. Sau tháng 3 tăng trưởng kỷ lục, VinFast tiếp tục duy trì sức bán lớn trong tháng 4/2026. Tất cả các dòng xe VinFast đều đạt doanh số ấn tượng, trong đó dẫn đầu vẫn là mẫu xe 7 chỗ phù hợp cho cả cá nhân, gia đình và kinh doanh dịch vụ - Limo Green với 6.480 xe bán ra. Xếp thứ hai là mẫu mini-SUV VF 3 với 5.273 xe đến tay khách hàng. Tiếp theo lần lượt là VF 5 với 4.732 xe (bao gồm Herio Green) và VF 6 với 2.704 xe bán ra.
+
+### [7] VinFast bán hơn 24.700 ô tô điện trong tháng 4/2026 - VOV
+
+> Limo Green là mẫu xe bán chạy nhất của VinFast trong tháng 4/2026 với 6.480 xe 4 mẫu xe kể trên của VinFast cũng đang là 4 sản phẩm bán chạy nhất thị trường ô tô Việt Nam kể từ đầu năm. Tính đến hết tháng 4/2026, Limo Green đạt doanh số kỷ lục 18.951 chiếc, trong khi VF 3, VF 5 và VF 6 lần lượt đạt 15.461, 13.404 và 9.383 xe bán ra. Phiên bản xe đa dụng 7 chỗ dành cho gia đình VF MPV 7 ghi nhận 2.526 xe được khách hàng lựa chọn trong tháng 4, nâng tổng số xe bán ra thị trường từ đầu năm lên 6.212 xe, thuộc nhóm những mẫu xe bán tốt nhất thị trường.
+
+### [8] Doanh số SUV hạng A tháng 4/2026: Phần lớn đều lao dốc, trừ "vua phân khúc" VinFast VF 5 - Tinxe.vn
+
+> Trong tháng 4 vừa qua, VinFast VF 5 đã bán ra 4.732 xe, tăng trưởng 12,1%, bao gồm cả Herio Green. Với kết quả này, VF 5 tiếp tục dẫn đầu phân khúc SUV hạng A và lọt vào top 10 ô tô bán chạy nhất toàn thị trường. Con số này nâng doanh số cộng dồn trong 4 tháng đầu năm 2026 lên 13.404 chiếc. VinFast VF 5 VinFast VF 5 sở hữu nhiều lợi thế cạnh tranh ở thị trường Việt Nam như giá bán hợp túi tiền, chỉ từ 529 triệu đồng (đã bao gồm pin), trang bị vừa phải, chi phí sử dụng/bảo dưỡng thấp, chính sách bảo hành dài, mạng lưới trạm sạc công cộng phủ rộng toàn quốc và chương trình miễn phí sạc pin đến tháng 2/2029. Bên cạnh đó, mẫu xe này còn là lựa chọn phổ biến của cánh tài xế taxi điện ở Việt Nam.
+
+### [9] Người Việt ngày càng chuộng ô tô điện, phần lớn chọn mua xe VinFast - Báo Thanh Niên
+
+> Ảnh: Bá Hùng Đến nay, những bước tiến thần tốc của VinFast khi tung ra thị trường hàng loạt mẫu mã mới cùng với mạng lưới trạm sạc xe điện phủ rộng khắp cả nước, cùng sự gia nhập của một số thương hiệu mới… đã góp phần thay đổi suy nghĩ cũng như tâm lý của người Việt về ô tô điện . Nhận thấy tính kinh tế trong việc tiết kiệm đáng kể chi phí sử dụng so với ô tô động cơ đốt trong, trong khi khả năng vận hành êm ái, mạnh mẽ nhưng lại giảm thiểu đáng kể khí thải ra môi trường… nhiều người Việt đã chuyển sang dùng ô tô điện. Điều này đã góp phần giúp doanh số ô tô điện tại Việt Nam tăng trưởng nhanh trong khoảng 2 năm trở lại đây. Số liệu được PV Thanh Niên tổng hợp từ báo cáo bán hàng của Hiệp hội Các nhà sản xuất ô tô Việt Nam (VAMA) cũng như VinFast và TC Motor cho thấy, trong năm 2024 người Việt đã mua sắm khoảng 500.000 xe ô tô mới các loại, trong đó có gần 90.000 ô tô điện, chiếm khoảng 20% thị phần.
+
+### [10] Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Bnews.vn
+
+> Từ khóa : thị trường ô tô Việt Nam doanh số ô tô VAMA hiệp hội các nhà sản xuất ô tô xe hybrid Mitsubishi Xpander Toyota Yaris Cross Mazda CX-5 xe nhập khẩu xe lắp ráp trong nước doanh số ô tô tháng 5/2026 xu hướng điện hóa ô tô Việt Nam hybrid Tin liên quan Ô tô xe máy Miễn 100% lệ phí trước bạ ô tô điện đến hết năm 2030 11:30' Chính phủ kéo dài chính sách miễn lệ phí trước bạ lần đầu cho ô tô điện chạy pin đến hết năm 2030, tạo động lực thúc đẩy tiêu dùng, sản xuất xe điện và chuyển đổi xanh.
+
+### [11] Doanh số ô tô tại Việt Nam tăng 20%, xe hybrid bứt tốc mạnh - Bnews.vn
+
+> Từ khóa : thị trường ô tô Việt Nam doanh số ô tô VAMA hiệp hội các nhà sản xuất ô tô xe hybrid Mitsubishi Xpander Toyota Yaris Cross Mazda CX-5 xe nhập khẩu xe lắp ráp trong nước doanh số ô tô tháng 5/2026 xu hướng điện hóa ô tô Việt Nam hybrid Tin liên quan Ô tô xe máy Miễn 100% lệ phí trước bạ ô tô điện đến hết năm 2030 11:30' Chính phủ kéo dài chính sách miễn lệ phí trước bạ lần đầu cho ô tô điện chạy pin đến hết năm 2030, tạo động lực thúc đẩy tiêu dùng, sản xuất xe điện và chuyển đổi xanh.

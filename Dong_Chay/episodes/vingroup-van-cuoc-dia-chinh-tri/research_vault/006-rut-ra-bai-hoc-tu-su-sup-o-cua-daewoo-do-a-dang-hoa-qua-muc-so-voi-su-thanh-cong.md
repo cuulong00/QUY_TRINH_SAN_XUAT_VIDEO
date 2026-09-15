@@ -1,0 +1,34 @@
+---
+title: "Rút ra bài học từ sự sụp đổ của Daewoo do đa dạng hóa quá mức so với sự thành công của Samsung khi tập trung vào công nghệ lõi. Vingroup đang giống mô hình nào hơn và tại sao? Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung."
+type: nblm-answer
+asked_at: 2026-07-18T04:19:17.803Z
+notebook_url: "https://notebooklm.google.com/notebook/f6296b14-a456-47e9-b24a-a5a2b3a7dc9b"
+session_id: "826c546c"
+citations_count: 2
+sources:
+  - "Two tales of one city: Samsung, Daewoo, and lessons on large- scale transformation"
+  - "Kỷ nguyên bảo hộ công nghiệp, phân mảnh chuỗi cung ứng toàn cầu giai đoạn 2025-2026 và rủi ro hệ thống từ mô hình nhà vô địch quốc gia tại các nền kinh tế mới nổi: Nghiên cứu thực chứng trường hợp Tập đoàn Vingroup"
+---
+
+# Rút ra bài học từ sự sụp đổ của Daewoo do đa dạng hóa quá mức so với sự thành công của Samsung khi tập trung vào công nghệ lõi. Vingroup đang giống mô hình nào hơn và tại sao? Ưu tiên dữ liệu mới nhất (2024-2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi cần so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: tiêu đề H2/H3, gạch đầu dòng, bảng biểu. TUYỆT ĐỐI KHÔNG trích xuất văn bản rác, nút share mạng xã hội, hoặc boilerplate website. Chỉ giữ phần lõi nội dung.
+
+> Asked on 2026-07-18T04:19:17.803Z against [NotebookLM notebook](https://notebooklm.google.com/notebook/f6296b14-a456-47e9-b24a-a5a2b3a7dc9b)
+
+## Answer
+
+Thoughts
+BÁO CÁO PHÂN TÍCH CHUYÊN SÂU: BÀI HỌC CHUYỂN ĐỔI MÔ HÌNH CHAEBOL ĐÔNG Á VÀ ĐỊNH VỊ CHIẾN LƯỢC CỦA TẬP ĐOÀN VINGROUP (GIAI ĐOẠN 2024-2026)
+I. So sánh hai mô hình chuyển đổi kinh điển tại Đông Á: Daewoo vs. Samsung
+Cuộc khủng hoảng tài chính châu Á (1997–1999) đã để lại hai bài học quản trị kinh điển mang tính đối lập sâu sắc từ các tập đoàn gia đình (chaebol) Hàn Quốc [1]  [more_horiz]. Sự sụp đổ của Tập đoàn Daewoo và sự chuyển mình thành công của Tập đoàn Samsung thể hiện rõ nét ranh giới giữa tư duy bành trướng đa dạng hóa bằng nợ vay và kỷ luật tập trung vào công nghệ cốt lõi [4]  [more_horiz].
+1. Thất bại cấu trúc của Daewoo: Hệ quả của "Quán tính hoạt động" và đa dạng hóa bằng nợ vay
+Tập đoàn Daewoo từng vươn lên vị thế chaebol lớn thứ hai Hàn Quốc nhờ chiến lược cạnh tranh bằng sản lượng, quy mô lắp ráp cơ học giá rẻ và mối quan hệ ưu đãi
+
+## Sources
+
+### [1] Two tales of one city: Samsung, Daewoo, and lessons on large- scale transformation
+
+> formula, changing some commitments while maintaining others. This chapter will explore some lessons on how to lead a successful transformation drawn from a comparative case study of Samsung and Daewoo. 2 These two chaebol, or family- controlled confederations of diverse operating businesses, evolved over parallel histories and forged similar success formulas. Samsung and Daewoo both relied on close relationships with the government for funding and protection in the Korean market. In their early years, both groups focused on fulfilling demand in Korea, and drove volume to
+
+### [4] Kỷ nguyên bảo hộ công nghiệp, phân mảnh chuỗi cung ứng toàn cầu giai đoạn 2025-2026 và rủi ro hệ thống từ mô hình nhà vô địch quốc gia tại các nền kinh tế mới nổi: Nghiên cứu thực chứng trường hợp Tập đoàn Vingroup
+
+> Bài học lịch sử từ sự sụp đổ của Daewoo so với thành công của Samsung Sự so sánh giữa sự sụp đổ của Tập đoàn Daewoo và sự chuyển mình thành công của Tập đoàn Samsung trong cuộc khủng hoảng tài chính châu Á năm 1997-1999 mang lại những bài học kinh điển về việc quản trị nguồn lực công nghệ cốt lõi [cite: 28, 30]. Thất bại cấu trúc của Daewoo: Hệ quả của quán tính hoạt động dựa trên nợ vay Tập đoàn Daewoo, được thành lập năm 1967 bởi Kim Woo-choong, từng vươn lên vị thế chaebol lớn thứ hai Hàn Quốc nhờ chiến lược đa dạng hóa dàn trải vào các ngành công nghiệp nặng, đóng tàu, hóa chất và ô tô theo định hướng ưu tiên tín dụng của Chính phủ [cite: 28, 30]. Tuy nhiên, Daewoo đã mắc kẹt sâu sắc trong trạng thái "quán tính hoạt động" (active inertia): phản ứng trước sự thay đổi của bối cảnh bằng cách tiếp tục đẩy mạnh các phương thức cũ vốn đã mang lại thành công [cite: 28]. Khi triển khai chiến lược toàn cầu hóa "Global Management" vào năm 1993, Daewoo không tập trung đầu tư vào R&D hay xây dựng thương hiệu chất lượng cao, mà tiếp tục bành trướng quy mô sản xuất lắp ráp cơ học tại các thị trường mới nổi thông qua nợ vay ngắn hạn [cite: 28]. Daewoo duy trì khả năng cạnh tranh bằng giá rẻ và sản lượng lớn, khiến biên lợi nhuận mỏng và không có khả năng tích lũy thặng dư tài chính để tự chủ công nghệ [cite: 28].

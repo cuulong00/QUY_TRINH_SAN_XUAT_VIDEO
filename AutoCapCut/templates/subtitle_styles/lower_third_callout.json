@@ -1,0 +1,31 @@
+{
+  "id": "lower_third_callout",
+  "name": "Documentary Lower-Third Callout",
+  "category": "graphic_callout",
+  "description": "Thanh chú thích góc dưới bên trái cách đáy 25% (theo chuẩn GocNhinPodcast Lower-Left 25% Rule) cho chuyên gia, địa danh, đạo luật.",
+  "source_reference": "GocNhinPodcast/00_core/visual_style_guide.md",
+  "typography": {
+    "font_size": 10.0,
+    "color": "#26A69A",
+    "bold": true,
+    "alignment": 0,
+    "x": -0.5,
+    "y": -0.5
+  },
+  "styling": {
+    "has_border": true,
+    "border_width": 0.05,
+    "border_color": "#000000",
+    "border_alpha": 0.8,
+    "has_shadow": true,
+    "shadow_alpha": 0.7,
+    "shadow_angle": -45.0,
+    "shadow_distance": 4.0,
+    "shadow_color": "#000000",
+    "has_background": true,
+    "bg_color": "#1E293B",
+    "bg_alpha": 0.8,
+    "bg_style": 1,
+    "bg_round_radius": 0.2
+  }
+}

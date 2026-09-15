@@ -1,0 +1,117 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-07-06T07:31:17.990Z",
+  "session_id": "cc24ee6a",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/d88daa94-be32-4440-a813-5a9b27868e83"
+  },
+  "question": "Cách lý thuyết Phật giáo về Vô thường (Anicca) và Khổ (Dukkha) giải thích sự bất toại nguyện kinh niên của người cá độ khi cố gắng đi ngược lại tính ngẫu nhiên của vạn vật. Định dạng Single Voice: không so sánh nông cạn mà hòa hợp lý thuyết tiến hóa/thích nghi khoái cảm (Hedonic adaptation) với triết lý Phật giáo.",
+  "answer": {
+    "text": "Thoughts\nMặc dù các tài liệu nghiên cứu sinh học thần kinh hiện tại không trực tiếp đề cập đến thuật ngữ Phật giáo như Vô thường (Anicca) hay Khổ (Dukkha), các khám phá về hệ thống phần thưởng trong não bộ lại cung cấp một nền tảng khoa học thực chứng sắc bén để giải thích sự bất toại nguyện kinh niên của người cá độ\n1\n2\n. Khi người chơi cố gắng áp đặt ý chí và phân tích để đi ngược lại tính ngẫu nhiên của vạn vật\n3\n, họ đang trực tiếp đối đầu với các thuật toán sinh học được thiết kế để giữ họ trong trạng thái bất toại nguyện vĩnh viễn\n2\n4\n.\nDưới đây là sự hòa hợp mang tính hệ thống giữa khoa học thần kinh hiện đại và triết lý Phật giáo về hành vi cá cược:\nI. VÔ THƯỜNG (ANICCA) DƯỚI LĂNG KÍNH CỦA ENTROPY VÀ THUẬT TOÁN ĐO LƯỜNG SỰ KỲ VỌNG\nTrong Phật giáo, Vô thường (Anicca) là quy luật biến dịch vĩnh hằng của vạn vật, nơi không có trạng thái nào là tĩnh tại hay cố định. Trong bóng đá và cá cược thể thao, tính vô thường này biểu hiện qua Entropy thông tin cực đại của các sự kiện ngẫu nhiên trên sân cỏ\n4\n.\nSự bất lực trước Entropy cực đại: Sử dụng công thức Shannon Entropy đối với các kết quả nhị phân:\nH(X)=−[Plog\n2\n​\n(P)+(1−P)log\n2\n​\n(1−P)]\nKhi xác suất thắng/thua ở trạng thái cân bằng hoàn hảo (P=0.5), Entropy đạt giá trị cực đại là 1.0 — biểu thị sự bất định tuyệt đối của thực tại\n4\n.\nDopamine Ramping - Phản ứng sinh học trước sự vô thường: Não bộ con người phản ứng với sự bất định này bằng cách kích hoạt pha giải phóng dopamine tăng dần kéo dài (sustained ramping)\n4\n5\n. Dòng chảy hóa học này giữ hệ thần kinh ở trạng thái căng thẳng, tò mò và kích thích cực hạn\n4\n. Việc người chơi cố gắng bám chấp vào các \"dấu hiệu kỹ năng\" (như phân tích số liệu, phong độ, chiến thuật) thực chất là nỗ lực vô vọng của vỏ não trước trán (PFC) nhằm kiểm soát và đóng khung một thực tại vô thường\nSự hụt hẫng của Sai số dự báo phần thưởng (RPE): Theo thuật toán của các tế bào thần kinh dopamine trung não:\nRPE=R\nreceived\n​\n−R\npredicted\n​\nKhi kết quả diễn ra chính xác như dự đoán (RPE=0), tế bào dopamine chỉ duy trì hoạt động nền mà không giải phóng thêm chất truyền dẫn\n8\n. Điều này tạo ra hiện tượng thích nghi khoái cảm (hedonic adaptation): ngay cả khi thắng cược, niềm vui cũng nhanh chóng bão hòa và biến mất\n8\n. Ngược lại, khi kịch bản vô thường của trận đấu đi ngược lại kỳ vọng (như bàn thua phút bù giờ), RPE sụt giảm cực sâu dưới mức nền (dopamine dip), ném người chơi vào trạng thái sụp đổ nhận thức và hụt hẫng sinh học\n8\n.\nII. KHỔ (DUKKHA) VÀ SỰ PHÂN TÁCH \"WANTING\" – \"LIKING\" (THÍCH NGHI KHOÁI CẢM KINH NIÊN)\nKhổ (Dukkha) trong triết lý Phật giáo không chỉ là nỗi đau vật lý, mà sâu xa hơn là sự bất toại nguyện kinh niên (Khổ khổ, Hoại khổ, Hành khổ) sinh ra từ sự bám chấp và khao khát (Khát ái - Tanha). Khoa học thần kinh hiện đại đã chứng minh cơ chế của trạng thái này thông qua Thuyết nhạy cảm hóa khuyến khích (Incentive-Sensitization Theory) về sự phân tách giữa hai hệ thống động lực trong não bộ\n1\n2\n:\n[ KÍCH THÍCH CÁ ĐỘ ] (Bảng kèo, âm thanh ứng dụng, thông báo đẩy)\n│\n├───► Hệ thống \"WANTING\" (Dopaminergic Mesolimbic) ──► NHẠY CẢM HÓA (Tăng vọt)\n│     (Khao khát bám chấp, thôi thúc đặt cược cưỡng chế)\n│\n└───► Hệ thống \"LIKING\" (Hedonic Hotspots) ────────► THÍCH NGHI TIÊU CỰC (Suy kiệt)\n(Cảm giác thỏa mãn, khoái cảm thực sự khi thắng)\nSự trỗi dậy của Khát ái (\"Wanting\" bị nhạy cảm hóa): Dưới tác động của các đợt giải phóng dopamine liên tục từ việc cá cược trực tiếp (In-play) và các kích thích thị giác/thính giác từ nhà cái, hệ thống \"Wanting\" (thèm khát) bị nhạy cảm hóa mạnh mẽ (sensitized)\n2\n7\n. Các tín hiệu cá cược (odds nhấp nháy, thông báo đẩy) trở thành những \"nam châm động lực\" thu hút sự chú ý vô thức, tạo ra một lực đẩy cưỡng chế bắt buộc người chơi phải xuống tiền\n1\n.\nSự suy tàn của Thỏa mãn (\"Liking\" bị thích nghi tiêu cực): Ngược lại, hệ thống \"Liking\" (hedonic impact - khoái cảm thực sự khi tiêu thụ phần thưởng) khu trú tại các điểm nóng khoái cảm sử dụng opioids nội sinh và GABA lại bị thích nghi tiêu cực (down-regulation) do sự quá tải receptor\n2\n9\n.\nCái bẫy bất toại nguyện kinh niên: Sự mất cân bằng này tạo nên một nghịch lý tàn khốc: người chơi điên cuồng khao khát cá cược (\"Wanting\" cực đại) nhưng không còn khả năng cảm nhận niềm vui khi chiến thắng (\"Liking\" suy giảm)\n2\n. Họ tiếp tục lún sâu vào hành vi cá cược không phải để tìm kiếm hạnh phúc, mà là để giải tỏa cơn khát động lực sinh học không bao giờ được khỏa lấp\n2\n. Đây chính là biểu hiện thực chứng rõ ràng nhất của Khổ (Dukkha) — một trạng thái khao khát trống rỗng, bị mắc kẹt trong vòng lặp sinh học của chính mình.\nIII. SỰ BÁM CHẤP (UPADANA) VÀ ẢO ẢNH CỦA SỰ KIỂM SOÁT\nNguồn gốc trực tiếp dẫn đến Khổ (Dukkha) là Sự bám chấp (Upadana) — nỗ lực níu giữ các đối tượng không thực chất. Trong cá cược, sự bám chấp này được củng cố bởi Ảo tưởng kiểm soát (Illusion of Control) và các bẫy nhận thức tinh vi\n3\n:\n\"Suýt trúng\" (Near-Miss) - Công cụ nuôi dưỡng bám chấp: Thí nghiệm fMRI của Luke Clark (2009) chỉ ra rằng các kết quả suýt thắng (near-miss) kích hoạt thể vân bụng và thùy đảo trước của người chơi tương tự như một trận thắng thực tế\n10\n11\n. rACC (vỏ não đai trước phía mỏ) giám sát sai lệch, diễn dịch thất bại sát nút này thành một \"chiến thắng chưa hoàn tất\", đánh lừa người chơi rằng chiến thuật của họ gần như đã đúng\n12\n13\n.\nLoss-Chasing (Bám đuổi khoản lỗ): Do bộ não đã quen với chế độ củng cố ngắt quãng (intermittent reinforcement), nó coi thất bại chỉ là bước đệm tạm thời trước đợt bùng phát dopamine tiếp theo\n14\n15\n. Sự liên kết chức năng giữa thể vân bụng và thùy đảo trước kích hoạt trạng thái thèm khát tột độ, thôi thúc người chơi thực hiện hành vi bám đuổi khoản lỗ một cách mù quáng (loss-chasing)\n16\n. Họ bám chấp vào ảo ảnh rằng lượt cược tiếp theo sẽ giúp họ tái lập sự kiểm soát và chấm dứt nỗi đau tài chính\nKẾT LUẬN\nSự bất toại nguyện của người cá độ không phải là một thất bại tạm thời về mặt tài chính, mà là một sự bế tắc mang tính cấu trúc sinh học. Bằng việc cố gắng kiểm soát một thực tại vô thường (Anicca) thông qua cá cược\n3\n4\n, người chơi tự kích hoạt cơ chế nhạy cảm hóa ham muốn (\"Wanting\") và triệt tiêu khả năng thỏa mãn (\"Liking\")\n2\n. Khoa học thần kinh đã chứng minh: chừng nào con người còn bám chấp vào ảo ảnh kiểm soát sự ngẫu nhiên, họ sẽ còn bị giam cầm trong vòng lặp vô tận của Khổ (Dukkha) — nơi mỗi lượt cược chỉ là một nỗ lực uống nước muối để giải tỏa cơn khát của tâm trí\n2\n3\n.\n🎧 Bạn có muốn tôi chuyển hóa toàn bộ nội dung phân tích sâu sắc về mối giao thoa giữa Thần kinh học, Thuyết Nhạy cảm hóa khuyến khích và các hệ lụy tâm lý này thành một bản báo cáo tóm tắt (Tailored Report) chuyên nghiệp để bạn lưu trữ không?",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Sự phân tách giữa Wanting và Liking trong cơ chế nghiện Một trong những phát hiện mang tính cách mạng của dịch tễ học thần kinh là sự phân tách hoàn toàn giữa hai hệ thống động lực: \"Wanting\" (thèm khát, thúc đẩy hành vi) và \"Liking\" (sự thỏa mãn, thích thú thực sự khi tiêu thụ phần thưởng) được đề xuất bởi Kent Berridge và Terry Robinson thông qua Thuyết nhạy cảm hóa khuyến khích (Incentive-Sensitization Theory).[1, 6, 12] Hệ thống \"Wanting\" (Incentive Salience) được điều phối chủ yếu bởi mạng lưới dopaminergic mesolimbic rộng lớn.[6, 13] Khi hệ thống này hoạt động, nó gán \"sự nổi bật khuyến khích\" (incentive salience) lên các kích thích liên quan đến phần thưởng (như âm thanh ứng dụng, biểu tượng nhà cái, bảng tỷ lệ kèo), biến chúng thành các \"nam châm động lực\" thu hút sự chú ý một cách vô thức và thôi thúc hành vi đặt cược.[6, 13] Trong trạng thái này, các kích thích có điều kiện có thể thúc đẩy hành vi tiếp cận cưỡng chế, tương tự như hiện tượng những người nghiện ma túy điên cuồng tìm kiếm các hạt bột trắng dù biết chúng không phải là chất kích thích.[13] Động lực thèm khát này còn được kích hoạt mạnh mẽ thông qua hiện tượng Chuyển giao công cụ Pavlov (Pavlovian-Instrumental Transfer - PIT), nơi các tín hiệu môi trường kích thích xung năng tìm kiếm phần thưởng vắng mặt.[13]"
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Trong quá trình tiến triển của rối loạn cá cược, sự kích thích liên tục và không thể dự đoán của các đợt giải phóng dopamine làm thay đổi độ nhạy bén của các thụ thể.[1, 2, 6] Hệ thống \"Wanting\" bị nhạy cảm hóa mạnh mẽ (sensitized), khiến các kích thích liên quan đến cá độ kích hoạt những xung năng đặt cược khổng lồ, không thể kiểm soát.[2, 6, 14] Ngược lại, hệ thống \"Liking\" trải qua quá trình thích nghi tiêu cực (down-regulation), làm giảm khả năng cảm nhận niềm vui thực sự khi thắng cược.[2, 6, 12] Sự mất cân bằng này giải thích hiện tượng giao thoa nhạy cảm (cross-sensitization), nơi việc lạm dụng chất kích thích làm tăng độ nhạy cảm của não bộ trước các tín hiệu cá cược.[2] Do con người khó phân biệt được hai trạng thái này một cách chủ quan (thường mặc định rằng \"nếu không muốn thì chứng tỏ không thích\"), họ tiếp tục lún sâu vào hành vi cá cược để giải tỏa cơn khát động lực do hệ thống dopamine bị nhạy cảm hóa đơn độc tạo ra.[2, 6]"
+    },
+    {
+      "marker": "[3]",
+      "number": 3,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "3. Ảo tưởng kiểm soát (Illusion of Control) và công nghệ cá cược hiện đại Sự nguy hiểm của cá độ bóng đá so với các hình thức cờ bạc thuần túy may rủi như xổ số hay tài xỉu nằm ở chỗ nó tạo ra một mảnh đất màu mỡ cho sự phát triển của các nhận thức sai lệch, đặc biệt là \"Ảo tưởng kiểm soát\".[22, 23, 24] Khái niệm Illusion of Control và cách vận hành trong cá cược thể thao Khái niệm \"Ảo tưởng kiểm soát\" lần đầu tiên được Ellen Langer định nghĩa vào năm 1975 là \"sự kỳ vọng về xác suất thành công cá nhân cao hơn một cách bất hợp lý so với xác suất thực tế khách quan\".[22, 23, 25] Langer lập luận rằng ảo tưởng này xuất hiện khi con người nhầm lẫn giữa tình huống cần kỹ năng (skill situations) và tình huống hoàn toàn ngẫu nhiên (chance situations).[25, 26, 27] Sự nhầm lẫn này được kích hoạt bởi các \"dấu hiệu kỹ năng\" (skill cues) được lồng ghép vào bối cảnh ngẫu nhiên, bao gồm: quyền tự chọn, sự chủ động tham gia, tính cạnh tranh và sự quen thuộc với các yếu tố của trò chơi.[23, 26, 27]"
+    },
+    {
+      "marker": "[4]",
+      "number": 4,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Để mô tả toán học tính không chắc chắn của thông tin phần thưởng, các nhà nghiên cứu sử dụng công thức Shannon Entropy ( ) đối với các kết quả nhị phân: Khi xác suất nhận thưởng , entropy đạt giá trị cực đại là , biểu thị trạng thái không chắc chắn tuyệt đối.[4, 9] Ở trạng thái này, dòng dopamine duy trì tăng dần (ramping) đạt đỉnh điểm, giữ não bộ trong trạng thái kích thích cực hạn, tăng cường sự chú ý và thúc đẩy mạnh mẽ hành vi mạo hiểm.[4, 11] Sự không chắc chắn này hoạt động như một tín hiệu \"cần kiểm soát\" (need for control), kích hoạt cơ chế giám sát môi trường để tối ưu hóa việc học hỏi và định hình trí nhớ dài hạn.[10, 11] Cá độ bóng đá khai thác triệt để cơ chế này khi các tỷ lệ cược (odds) liên tục dao động xung quanh mốc cân bằng giữa hai khả năng thắng/thua, đưa người chơi vào trạng thái sinh học có lượng dopamine duy trì cao nhất.[4, 10]"
+    },
+    {
+      "marker": "[5]",
+      "number": 5,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Trong các nghiên cứu kinh điển của Fiorillo và cộng sự (2003), hoạt động của các tế bào thần kinh dopamine được chứng minh là thể hiện hai pha phản ứng hoàn toàn khác biệt: pha phân cực ngắn (phasic) và pha tăng dần kéo dài (sustained, ramping).[4, 9, 10] Pha phân cực ngắn kích hoạt ngay lập tức sau khi xuất hiện một kích thích có điều kiện (CS) báo trước phần thưởng, tỷ lệ thuận với giá trị mong đợi của phần thưởng đó.[9, 10] Ngược lại, pha tăng dần kéo dài xuất hiện trong khoảng thời gian trì hoãn giữa kích thích báo trước và thời điểm nhận phần thưởng thực tế.[4, 9, 10] Hoạt động của pha này biến thiên theo xác suất nhận thưởng (P), đạt mức cực đại khi tính không chắc chắn của phần thưởng là cao nhất (P=0.5).[4, 9, 10]"
+    },
+    {
+      "marker": "[7]",
+      "number": 7,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Tác động của các tính năng tương tác thời gian thực Sự bùng nổ của các nền tảng cá cược di động trực tuyến đã trang bị thêm các công cụ công nghệ tinh vi để khuếch đại ảo tưởng kiểm soát của người chơi lên những nấc thang mới.[3, 14, 23] Đáng chú ý nhất là hai tính năng: \"Cược trực tiếp\" (Live/In-play betting) và \"Rút tiền sớm\" (Cash-out).[3, 23, 25] Cược trực tiếp biến đổi căn bản cấu trúc thời gian của hành vi cờ bạc.[3] Thay vì đặt một cược duy nhất trước trận đấu và chờ đợi 90 phút (hình thức cờ bạc không liên tục), cược trực tiếp cho phép người chơi đặt cược liên tục vào mọi vi khoảnh khắc của trận đấu (thẻ vàng tiếp theo, quả phạt góc tiếp theo, cầu thủ ghi bàn tiếp theo).[3, 28] Trải nghiệm này kích hoạt dòng dopamine liên tục, không cho phép vỏ não trước trán (vùng kiểm soát lý trí và ức chế xung động) có thời gian nghỉ ngơi để phục hồi khả năng phán đoán logic.[3, 22] Tính năng này thường đi kèm với việc phát sóng trực tiếp trận đấu ngay trên ứng dụng nhà cái, thu hút người chơi ở nhóm có nguy cơ tổn hại cao duy trì sự tập trung liên tục.[28]"
+    },
+    {
+      "marker": "[8]",
+      "number": 8,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Dưới góc độ sinh học thần kinh hiện đại, hiện tượng này được giải thích hoàn hảo bằng thuật toán Sai số dự báo phần thưởng (RPE) hoạt động trong các tế bào thần kinh dopamine trung não.[7, 8, 20] Sai số này được tính bằng công thức: Trong các nghiên cứu ghi nhận điện sinh học của Wolfram Schultz trên khỉ, khi một kích thích (ánh sáng) báo trước phần thưởng (nước trái cây), phản ứng của dopamine dịch chuyển từ thời điểm nhận nước sang thời điểm ánh sáng xuất hiện.[7] Nếu phần thưởng xuất hiện chính xác như dự báo, tế bào thần kinh dopamine duy trì hoạt động nền mà không giải phóng thêm chất truyền dẫn.[7, 8] Nếu phần thưởng bị giữ lại, tế bào dopamine sẽ giảm tần số bắn xung xuống dưới mức nền (dopamine dip), tạo ra trạng thái thất vọng sinh học.[7, 8]"
+    },
+    {
+      "marker": "[9]",
+      "number": 9,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Ngược lại, hệ thống \"Liking\" (Hedonic Impact) hoàn toàn độc lập với dopamine và được khu trú trong các cấu trúc giải phẫu siêu nhỏ gọi là \"điểm nóng khoái cảm\" (hedonic hotspots) nằm ở thể vân bụng, vỏ não trán ổ mắt (OFC), thùy đảo và đặc biệt là cầu nhạt bụng (ventral pallidum).[6, 12, 13] Hệ thống này sử dụng các chất truyền dẫn thần kinh thuộc nhóm opioid nội sinh, GABA và endocannabinoid để tạo ra trải nghiệm thỏa mãn thực sự khi thắng cược.[6, 13] Thử nghiệm lâm sàng cho thấy việc tiêm vi lượng DAMGO (chất chủ vận opioid) vào cầu nhạt bụng làm tăng gấp đôi phản ứng \"Liking\" và \"Wanting\", trong khi tiêm ở vùng phía trước cấu trúc này lại gây ức chế cả hai.[13] Đáng chú ý, việc khóa thụ thể GABAA bằng bicuculline ở cầu nhạt bụng chỉ kích thích duy nhất phản ứng \"Wanting\" mà không hề làm thay đổi cảm giác \"Liking\" thực tế.[13]"
+    },
+    {
+      "marker": "[10]",
+      "number": 10,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "2. Hiệu ứng \"Suýt Trúng\" (Near-Miss Effect) và cơ chế củng cố hành vi Hiệu ứng \"Suýt Trúng\" (Near-Miss) mô tả trạng thái mà một kết quả không thành công nằm rất sát với chiến thắng. Mặc dù về mặt toán học và tài chính, đây hoàn toàn là một trận thua khiến người chơi mất trắng số tiền cược, não bộ lại xử lý thông tin này theo một cách thức kỳ lạ, biến nó thành một phần thưởng ảo để duy trì hành vi chơi.[15, 16, 17] Thí nghiệm fMRI của Luke Clark (2009) về Near-Miss Effect Nghiên cứu hình ảnh học chức năng cắt lớp (fMRI) mang tính cột mốc của Luke Clark và cộng sự (2009) đã làm sáng tỏ cơ chế sinh học thần kinh đứng sau hiệu ứng này.[15, 17, 18] Trong thí nghiệm, những người tham gia thực hiện một nhiệm vụ mô phỏng slot-machine đơn giản, tạo ra ba loại kết quả: Thắng (Win), Th Thua đậm (Full-Miss), và Suýt trúng (Near-Miss).[15, 17, 18]"
+    },
+    {
+      "marker": "[11]",
+      "number": 11,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Kết quả quét fMRI cho thấy, khi đối mặt với kết quả \"suýt trúng\", mặc dù người chơi tự báo cáo cảm thấy kém dễ chịu hơn so với \"thua đậm\", nhưng họ lại thể hiện một động lực thúc đẩy tiếp tục trò chơi mạnh mẽ hơn hẳn.[15, 17] Về mặt sinh học, kết quả suýt trúng đã kích hoạt một cách dị thường mạng lưới phần thưởng vốn chỉ dành cho các trận thắng thực sự, bao gồm thể vân bụng (ventral striatum) và thùy đảo (insula).[15, 17, 18] Thùy đảo trước hoạt động mạnh mẽ khi xảy ra kết quả suýt trúng, và mức độ kích hoạt này tương quan trực tiếp với điểm số đo lường xu hướng cờ bạc cá nhân.[15, 17]"
+    },
+    {
+      "marker": "[12]",
+      "number": 12,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Bên cạnh đó, hoạt động của vỏ não đai trước phía mỏ (rostral Anterior Cingulate Cortex - rACC) biến thiên mạnh mẽ phụ thuộc vào \"quyền kiểm soát cá nhân\" (người chơi chủ động lựa chọn biểu tượng cược thay vì máy tính tự chọn).[15, 17] Vùng rACC, chịu trách nhiệm giám sát lỗi sai và điều chỉnh hành vi, đã biến thất bại sát sao thành một tín hiệu học tập sai lệch: não bộ diễn dịch rằng chiến thuật của họ gần như đã hoàn hảo, chỉ cần thêm một chút nỗ lực ở lần thử tiếp theo là sẽ đạt được mục tiêu.[15, 16, 17]"
+    },
+    {
+      "marker": "[13]",
+      "number": 13,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Vùng não bị kích hoạt Vai trò chức năng trong não bộ Phản ứng đối với kết quả \"Suýt trúng\" Ventral Striatum (Thể vân bụng) Xử lý giá trị phần thưởng và kích hoạt phản ứng dopaminergic.[17, 18] Kích hoạt mạnh mẽ tương tự như khi thắng tiền thật, tạo ra một \"phần thưởng ảo\".[15, 17, 18] Insula (Thùy đảo) Nhận thức cảm xúc nội sinh, điều hòa thèm khát và thôi thúc hành vi.[13, 15, 17] Hoạt động mạnh mẽ; mức độ kích hoạt tương quan thuận với mức độ nghiêm trọng của thói quen cờ bạc.[15, 16, 17] rostral Anterior Cingulate Cortex (rACC) Giám sát lỗi sai, học tập từ sai sót và điều chỉnh hành vi.[15, 16, 17] Hoạt động biến thiên theo mức độ tự chủ của người chơi; biến lỗi thua sát nút thành tín hiệu thành công.[15, 17] Dopaminergic Midbrain (Não giữa) Nơi tập trung các tế bào thần kinh sản sinh dopamine.[5, 18, 19] Thể hiện mức độ phản ứng tỷ lệ thuận với điểm số nghiêm trọng SOGS của người chơi.[18, 19]"
+    },
+    {
+      "marker": "[14]",
+      "number": 14,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Thí nghiệm của B.F. Skinner về \"Củng cố ngắt quãng\" (Intermittent Reinforcement) Cơ chế sinh học giúp duy trì thói quen cá độ bóng đá bất chấp những tổn thất tài chính liên tục có nguồn gốc sâu xa từ nguyên lý \"Củng cố ngắt quãng\" (Intermittent Reinforcement) do nhà tâm lý học hành vi B.F. Skinner phát hiện. Trong các thí nghiệm với hộp Skinner, động vật được huấn luyện nhấn cần gạt để nhận thức ăn theo các lịch trình khác nhau. Skinner phát hiện ra rằng khi phần thưởng được cung cấp theo lịch trình tỷ lệ biến đổi (variable ratio schedule - nhận thưởng sau một số lần nhấn ngẫu nhiên, không thể đoán trước), hành vi nhấn gạt của sinh vật trở nên cực kỳ bền bỉ và khó dập tắt nhất, ngay cả khi phần thưởng đã bị ngừng cung cấp hoàn toàn."
+    },
+    {
+      "marker": "[15]",
+      "number": 15,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Khi học tập tiến triển, các phản ứng của dopamine đối với kích thích được chia thành hai phần: phần đầu phản ánh tính mới của kích thích (giảm dần khi quen thuộc) và phần sau mã hóa giá trị phần thưởng nhận được từ tần suất trải nghiệm thực tế.[21] Do kết quả trận đấu bóng đá luôn bất định, người chơi liên tục nhận được củng cố ngắt quãng.[21] Mỗi lần giành chiến thắng bất ngờ đóng vai trò như một đợt bùng phát dopamine cực đại (RPE>0).[7, 8] Ngược lại, các trận thua liên tiếp không dẫn đến việc dập tắt hành vi bởi vì não bộ đã quen với chế độ phân phối phần thưởng bất định, coi thất bại chỉ là bước đệm tạm thời trước đợt bùng phát dopamine tiếp theo.[7, 20, 21]"
+    },
+    {
+      "marker": "[16]",
+      "number": 16,
+      "source_name": "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá",
+      "source_text": "Khi nghiên cứu được mở rộng trên đối tượng người chơi cờ bạc thường xuyên, chỉ số mức độ nghiêm trọng SOGS (South Oaks Gambling Screen) dự đoán mức độ phản ứng cực kỳ mạnh mẽ của não giữa (midbrain) chứa các tế bào dopaminergic trước các kết quả suýt trúng, trong khi không tìm thấy mối tương quan này đối với các trận thắng thực tế.[18, 19] Phân tích tương tác sinh lý tâm thần (Psychophysiological Interaction - PPI) cho thấy sự gia tăng kết nối chức năng giữa thể vân bụng và thùy đảo hai bên tương quan thuận với mức độ nghiêm trọng của thói quen cờ bạc dưới tác động của ảo tưởng kiểm soát.[16] Sự liên kết này hoạt động như một cơ chế kích hoạt trạng thái thèm khát và thúc đẩy hành vi gỡ gạc (loss-chasing).[14, 16]"
+    }
+  ],
+  "metadata": {
+    "tags": [],
+    "extraction_success": true,
+    "citations_count": 15,
+    "source_names": [
+      "Cơ Chế Thần Kinh Học, Sự Lệch Lạc Nhận Thức Và Hệ Lụy Kinh Tế - Xã Hội Của Cá Độ Bóng Đá"
+    ]
+  }
+}

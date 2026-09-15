@@ -1,0 +1,125 @@
+[CRITICAL SURGICAL INSTRUCTION: RESTORE AUTO-DOWNLOAD PER TASK WITHOUT REGRESSION]
+
+⚠️ STRICT IMMUTABILITY CONTRACT — DO NOT MODIFY OR DELETE ANY OF THE FOLLOWING:
+1. PRESERVE THUMBNAILS & LIGHTBOX: Keep `getMediaSrc`, table thumbnail rendering, and the `previewModal` Lightbox at the bottom 100% intact.
+2. PRESERVE ZIP EXPORT: Keep `import JSZip from 'jszip';`, `isZipping`, `downloadAllAsZip()`, and the "EXPORT COMPLETED AS ZIP" button intact.
+3. PRESERVE UPDATE TASK: Keep the `imageTask` and `videoTask` properties inside `newGroups.map` inside `updateTask` intact.
+4. PRESERVE ZERO-CREDIT MODEL: `videoModel` MUST remain `'Veo 3.1 - Lite [Lower Priority]'`.
+5. PRESERVE COMPUTE SLOTS: `workersCount` MUST remain 4.
+
+[TASK DEFINITION]:
+Replace ONLY the `executeTaskOnWorker` function with the complete, hardened implementation below. Do not alter any other lines of the codebase.
+
+```tsx
+  const executeTaskOnWorker = async (workerIdx: number, task: SceneTask) => {
+    const waitTime = Math.floor(Math.random() * (jitter.max - jitter.min + 1) + jitter.min);
+    setWorkers(prev => prev.map((w, i) => i === workerIdx ? { 
+      ...w, status: 'waiting', activeTaskId: task.id, message: `Jitter: ${waitTime}s`, countdown: waitTime 
+    } : w));
+    
+    for (let i = waitTime; i > 0; i--) {
+      if (!batchRef.current.isProcessing || batchRef.current.isPaused) {
+        updateTask(task.id, { status: 'idle' });
+        setWorkers(prev => prev.map((w, idx) => idx === workerIdx ? { ...w, status: 'idle', activeTaskId: null } : w));
+        return;
+      }
+      await new Promise(r => setTimeout(r, 1000));
+      setWorkers(prev => prev.map((w, idx) => idx === workerIdx ? { ...w, countdown: i - 1 } : w));
+    }
+    updateTask(task.id, { status: 'processing', startedAt: Date.now() });
+    setWorkers(prev => prev.map((w, i) => i === workerIdx ? { 
+      ...w, status: 'generating', message: `Generating ${task.type}...`, progress: 10 
+    } : w));
+    try {
+      const cleanPrompt = sanitizePrompt(task.prompt);
+      
+      const generationPromise = task.type === 'image' 
+        ? (async () => {
+            let referenceImageMediaIds: string[] = [];
+            if (task.referenceFile) {
+              const cleanRef = task.referenceFile.replace(/^@/, '').trim();
+              const asset = assetBin.get(cleanRef) || assetBin.get('@' + cleanRef);
+              if (asset) {
+                addLog('ASSET', `Uploading reference asset @${cleanRef} to Flow...`, 'info');
+                const uploaded = await Flow.upload({ 
+                  base64: asset.base64, 
+                  mimeType: asset.mimeType as any, 
+                  name: cleanRef 
+                });
+                referenceImageMediaIds = [uploaded.mediaId];
+                addLog('ASSET', `Reference asset @${cleanRef} ready (ID: ${uploaded.mediaId})`, 'success');
+              } else {
+                addLog('WARN', `Reference @${cleanRef} not found in Asset Bin!`, 'warn');
+              }
+            }
+            return Flow.generate.image({
+              prompt: cleanPrompt,
+              modelDisplayName: imageModel,
+              aspectRatio: aspectRatio as any,
+              referenceImageMediaIds
+            });
+          })()
+        : (async () => {
+            let firstFrameImageMediaId: string | undefined;
+            if (mode === 'chained') {
+              const imgTask = batchRef.current.tasks.find(t => t.sceneId === task.sceneId && t.type === 'image');
+              firstFrameImageMediaId = imgTask?.resultMediaId;
+            }
+            return Flow.generate.video({
+              prompt: cleanPrompt,
+              modelDisplayName: videoModel,
+              aspectRatio: aspectRatio as any,
+              firstFrameImageMediaId,
+              durationSeconds: parseInt(duration) as any
+            });
+          })();
+      const timeoutPromise = new Promise((_, reject) => 
+        setTimeout(() => reject(new Error('TIMEOUT_LIMIT_REACHED')), SYSTEM_CONFIG.HARD_TIMEOUT_S * 1000)
+      );
+      const result = await Promise.race([generationPromise, timeoutPromise]) as { base64: string, mimeType: string, mediaId: string };
+      updateTask(task.id, { 
+        status: 'completed', 
+        resultMediaId: result.mediaId, 
+        resultBase64: result.base64, 
+        resultMimeType: result.mimeType,
+        completedAt: Date.now() 
+      });
+      
+      // AUTO-DOWNLOAD DELIVERABLE PER SCENE
+      const shouldDownload = 
+        (mode === 'chained' && task.type === 'video') || 
+        (mode === 'image-only' && task.type === 'image') || 
+        (mode === 'video-only' && task.type === 'video');
+      if (shouldDownload) {
+        await Flow.download({
+          base64: result.base64,
+          mimeType: result.mimeType,
+          filename: sanitizeFilename(task.sceneId, task.type, result.mimeType)
+        });
+      }
+
+      setWorkers(prev => prev.map((w, i) => i === workerIdx ? { ...w, status: 'idle', activeTaskId: null, message: 'Done' } : w));
+      addLog('WORKER', `Slot ${workerIdx + 1} completed ${task.sceneId}`, 'success');
+    } catch (err: any) {
+      const errMsg = err?.message || 'Unknown error';
+      console.error(`Task ${task.id} failed:`, errMsg);
+      if (errMsg.includes('SAFETY') || errMsg.includes('BLOCK')) {
+        updateTask(task.id, { status: 'blocked', error: 'Safety Block' });
+        addLog('WORKER', `Slot ${workerIdx + 1}: Safety block on ${task.sceneId}`, 'error');
+      } else if (errMsg.includes('429') || errMsg.includes('Quota')) {
+        handleCircuitBreaker();
+        updateTask(task.id, { status: 'failed', error: 'Rate Limited' });
+        addLog('QUEUE', `Rate limit triggered on Slot ${workerIdx + 1}`, 'error');
+      } else if (errMsg === 'TIMEOUT_LIMIT_REACHED') {
+        updateTask(task.id, { status: 'failed', error: 'Hard Timeout' });
+        addLog('WORKER', `Slot ${workerIdx + 1}: Task timed out (${task.sceneId})`, 'error');
+      } else {
+        const nextRetry = task.retryCount + 1;
+        updateTask(task.id, { status: 'failed', retryCount: nextRetry, error: errMsg });
+        addLog('WORKER', `Slot ${workerIdx + 1} failed: ${errMsg} (Retry ${nextRetry})`, 'error');
+      }
+      
+      setWorkers(prev => prev.map((w, i) => i === workerIdx ? { ...w, status: 'idle', activeTaskId: null, message: 'Task Error' } : w));
+    }
+  };
+```

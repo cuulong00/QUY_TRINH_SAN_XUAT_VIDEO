@@ -1,0 +1,796 @@
+[
+  {
+    "id": "SC001",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Đồ họa chữ tiếng Anh UNDER 200M rực sáng trên nền xám đen tối giản.",
+    "sentences": [
+      "Sự xuất hiện của những chiếc ô tô điện giá dưới hai trăm triệu đồng"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC002",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Nhân vật The Commuter suy tư đứng nhìn hai ngã rẽ sáng tối của đô thị.",
+    "sentences": [
+      "đang đặt người đi xe máy xăng đô thị trước một lựa chọn cân não."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC003",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Đồ họa bản đồ quận Hoàn Kiếm phẳng 2D với ranh giới rực sáng màu xanh dương.",
+    "sentences": [
+      "Khi lộ trình hạn chế khí thải tại các quận trung tâm bắt đầu khép lại"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC004",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Cận cảnh kim xăng xe máy xăng chỉ vạch đỏ E, biểu thị chi phí tăng.",
+    "sentences": [
+      "chi phí thực tế của việc đi xe máy xăng đang tăng lên."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC005",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Biển báo chữ tiếng Anh LOW EMISSION ZONE đóng khung bằng dải màu cam trên hè phố.",
+    "sentences": [
+      "Đề án Vùng phát thải thấp của Hà Nội vừa thí điểm tại khu vực quận Hoàn Kiếm từ ngày một tháng bảy năm 2026."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC006",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 1.05,
+    "visual_summary": "Cuộn lịch phẳng 2D lật nhanh qua các ngày, dừng ở vạch đỏ ngày 5 tháng 7.",
+    "sentences": [
+      "Chỉ bốn ngày sau"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC007",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Xe điện mini VF 2 màu đỏ xuất hiện với nhãn giá tiếng Anh 188 MILLION VND BATTERY INCLUDED rực sáng.",
+    "sentences": [
+      "VinFast đưa ra câu trả lời bằng mẫu xe điện VF 2 giá một trăm tám mươi tám triệu đồng đã bao gồm pin."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC008",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Góc nhìn từ trong cabin xe điện dưới trời mưa lớn, hạt nước trượt dài trên cửa kính.",
+    "sentences": [
+      "Một chiếc ô tô bốn bánh che mưa che nắng"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC009",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Cân đĩa so sánh trực quan chiếc xe tay ga cao cấp và xe điện mini VF 2.",
+    "sentences": [
+      "có mức giá sở hữu ban đầu chỉ nhỉnh hơn xe tay ga cao cấp trên thị trường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC010",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Xe VF 2 đỏ đỗ sát bên bóng đen của một chiếc xe máy xăng tay ga truyền thống.",
+    "sentences": [
+      "Khoảnh khắc chiếc xe điện mini xuất hiện bên cạnh những chiếc xe hai bánh truyền thống"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC011",
+    "chapter": "01",
+    "sentence_count": 2,
+    "duration_sec": 4.2,
+    "visual_summary": "Đường nét phát sáng neon xanh chia màn hình làm hai nửa: Xe máy xăng vs Xe điện mini.",
+    "sentences": [
+      "ranh giới tiêu dùng của giao thông đô thị bắt đầu thay đổi.",
+      "Đây là GocNhinPodcast."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC012",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Logo Góc Nhìn Podcast 2D rực sáng giữa không gian tối của phòng phân tích.",
+    "sentences": [
+      "Hôm nay, chúng ta sẽ giải mã cuộc dịch chuyển dòng tiền từ xe hai bánh sang xe điện mini."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC013",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Dòng chảy tiền xu phẳng chạy từ túi xe xăng sang xe điện theo đường ống dẫn sáng.",
+    "sentences": [
+      "Nếu bạn muốn hiểu cách dòng tiền thực sự vận hành phía sau những con số trên báo chí"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC014",
+    "chapter": "01",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Biểu tượng nút bấm SUBSCRIBE nhấp nháy phát sáng neon đỏ.",
+    "sentences": [
+      "hãy bấm đăng ký kênh để không bỏ lỡ các phân tích tiếp theo."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC015",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Nhân vật The Commuter kẹt giữa làn xe máy xăng khói bụi đô thị mờ mịt.",
+    "sentences": [
+      "Để hiểu tại sao xe máy xăng đang đứng trước rào cản lớn, hãy nhìn vào chi phí vận hành đô thị mỗi ngày."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC016",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Hóa đơn giấy ghi PETROL BILL rực cháy cạnh biểu tượng cờ đỏ cảnh báo.",
+    "sentences": [
+      "Chi phí xăng dầu và bảo dưỡng định kỳ đang chiếm một tỷ trọng đáng kể trong chi tiêu gia đình."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC017",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cánh cổng sắt rào cản LEZ LIMITS từ từ khép lại trên con đường đô thị xám xịt.",
+    "sentences": [
+      "Lộ trình của đề án Vùng phát thải thấp đang từng bước được hiện thực hóa"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC018",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Bóng đen ống xả xe máy xăng xả làn khói xám nặng nề đè lên nền cam cảnh báo.",
+    "sentences": [
+      "tạo áp lực thay đổi phương tiện không đạt tiêu chuẩn khí thải."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC019",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Bóng đen xe xăng phân khúc A chật vật đi trên làn đường hẹp đầy sương mù.",
+    "sentences": [
+      "Sức ép này không chỉ đè nặng lên xe hai bánh, mà đã hiển hiện rõ ở phân khúc ô tô xăng cỡ nhỏ hạng A."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC020",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Biểu đồ cột sụt giảm doanh số từ mốc 11,000 xuống mốc 6,000 xe hạng A xăng.",
+    "sentences": [
+      "Phân khúc từng là lựa chọn hàng đầu của các gia đình trẻ chạy phố, nay đang chứng kiến đà sụt giảm mạnh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC021",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Biểu đồ cột doanh số lao dốc tiếp từ mốc 6,000 về mốc 1,324 xe đầu năm 2026.",
+    "sentences": [
+      "Báo cáo số liệu bán hàng toàn thị trường cho thấy, từ mức hơn mười một nghìn xe bán ra trong năm 2023"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC022",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Chiếc xe xăng phân khúc A mờ nhạt dần rồi biến mất khỏi sơ đồ phân phối.",
+    "sentences": [
+      "doanh số xe xăng hạng A đã giảm gần một nửa, chỉ còn hơn sáu nghìn xe vào năm 2025."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC023",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Các bánh răng cơ khí xe xăng rỉ sét và dừng chuyển động đột ngột.",
+    "sentences": [
+      "Đà lao dốc tiếp diễn thảm khốc khi năm tháng đầu năm 2026"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC024",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Trục đồ thị chạm vạch đáy đỏ cảnh báo nhấp nháy chữ WARNING.",
+    "sentences": [
+      "toàn thị trường chỉ tiêu thụ được một nghìn ba trăm hai mươi tư chiếc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC025",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Các đường nét phát sáng neon định hình sơ đồ phân chia thị phần xe mới.",
+    "sentences": [
+      "Điều này cho thấy xu hướng định hình lại thị trường xe đô thị dưới tác động của các giải pháp thay thế mới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC026",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Nhân vật The Commuter phân vân đứng trước ngã ba đường màu cam xăng vs màu xanh điện.",
+    "sentences": [
+      "Bạn nghĩ sao về lộ trình chuyển đổi phương tiện này?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC027",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Đồ họa ô chat viết chữ COMMENT BELOW phát sáng trắng nhấp nháy.",
+    "sentences": [
+      "Hãy chia sẻ quan điểm của bạn ở phần bình luận để chúng ta cùng thảo luận."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC028",
+    "chapter": "02",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Ánh sáng đỏ neon từ bóng xe VF 2 tràn ngập lấp đầy khoảng trống thị phần xám xịt.",
+    "sentences": [
+      "Sự sụt giảm của xe xăng hạng A chính là khoảng trống thị trường cho các dòng xe điện mini phát huy lợi thế."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC029",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Xe điện mini VF 2 màu đỏ lướt bánh lăn nhẹ vào giữa khung hình xám tối.",
+    "sentences": [
+      "Thành viên mới trong nhóm xe điện mini là VinFast VF 2."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC030",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Con số 188 MILLION VND rực sáng làm nhòa đi ranh giới chi phí.",
+    "sentences": [
+      "Mức giá một trăm tám mươi tám triệu đồng của nó đã làm mờ ranh"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC031",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Chiếc cân thăng bằng đặt ngang màn hình phẳng 2D chứa ô tô mini và xe máy xăng.",
+    "sentences": [
+      "giới chi phí giữa xe hơi đô thị và xe máy tay ga cao cấp."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC032",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Cận cảnh bảng giá xe ga cao cấp ghi con số 150 MILLION VND rực cam.",
+    "sentences": [
+      "Một chiếc xe máy tay ga cỡ lớn hiện nay có giá từ một trăm đến một trăm năm mươi triệu đồng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC033",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Nhân vật The Commuter che mũi kẹt giữa đám khói bụi sương mù mờ mịt.",
+    "sentences": [
+      "Tuy nhiên, người đi xe máy vẫn phải đối mặt với khói bụi đô thị và thời tiết khắc nghiệt."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC034",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Từ cabin trong xe VF 2 ấm áp nhìn ra ngoài cửa kính ngập nước mưa.",
+    "sentences": [
+      "Với khoản đầu tư chênh lệch vài chục triệu đồng, xe điện mini mang lại lợi thế của một cabin bốn bánh che mưa nắng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC035",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Góc nhìn từ trên cao ngõ hẻm ngóc ngách ngoằn ngoèo rộng chưa đầy hai mét.",
+    "sentences": [
+      "Tuy nhiên, đặc thù ngõ ngách nhỏ hẹp tại Hà Nội hay thành phố Hồ Chí Minh vẫn là rào cản vật lý lớn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC036",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Thước caliper điện tử đo ngang chiều rộng con hẻm, hiển thị số 1.5 METERS.",
+    "sentences": [
+      "Với chiều rộng khoảng một mét rưỡi, VF 2 không thể đi vào các ngõ sâu dưới hai mét"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC037",
+    "chapter": "03",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Nhân vật The Commuter đi bộ lầm lũi trong ngõ hẻm hẹp tối tăm nhiều dây điện.",
+    "sentences": [
+      "và hoàn toàn không thể dắt vào nhà như xe máy.",
+      "Người dùng vẫn phải gửi xe ngoài bãi đỗ và đi bộ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC038",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Bóng đen xe hai bánh xăng đứng chắn ngang lối vào con ngõ cổ hẹp.",
+    "sentences": [
+      "Đây chính là lý do xe điện mini không thể thay thế tính cơ động tối đa của xe hai bánh."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC039",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Đồ họa động cơ điện VF 2 ghi chữ 30 kW và vạch pin xanh 210 km.",
+    "sentences": [
+      "Bên cạnh đó, công suất động cơ ba mươi ki-lô-oát và cự ly di chuyển khoảng hai trăm mười cây số theo tiêu chuẩn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC040",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Đồng hồ tốc độ điện tử khóa cứng ở con số 80 km/h phát sáng đỏ cảnh báo.",
+    "sentences": [
+      "Tuy nhiên, tốc độ tối đa giới hạn ở mức tám mươi cây số một giờ sẽ cản trở chiếc xe này vận hành đường trường."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC041",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Con đường cao tốc dài tít tắp mờ nhạt đứt đoạn biểu thị sự không tương thích.",
+    "sentences": [
+      "Nó không phù hợp cho việc đi xa hay đèo dốc dài."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC042",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Cán cân cơ khí nghiêng lệch giữa biểu tượng Tia sét và Đôi cánh.",
+    "sentences": [
+      "Đây là sự đánh đổi rõ ràng giữa tính linh hoạt của xe máy và hiệu suất che mưa nắng của ô tô điện mini."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC043",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Cận cảnh ổ cắm sạc pin gia đình trống trơn, không có phích cắm trong ngõ.",
+    "sentences": [
+      "Vậy ngoài vấn đề đỗ xe, rào cản tiếp theo của dòng xe điện siêu nhỏ này là gì?"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC044",
+    "chapter": "03",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Tòa chung cư cũ kỹ với dây điện chằng chiu chằng chịt trong đêm tối.",
+    "sentences": [
+      "Đó chính là câu chuyện tiếp cận nguồn sạc đối với những người sống ở khu vực chung cư cũ."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC045",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Các đường cáp điện tử phát sáng neon xanh kết nối các điểm nút bản đồ.",
+    "sentences": [
+      "Nút thắt về hạ tầng sạc đang được các bên tìm kiếm giải pháp thông qua việc liên kết mạng lưới."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC046",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Biển hiệu Thế Giới Di Động phẳng 2D bên cạnh biểu tượng V-Green xanh lá.",
+    "sentences": [
+      "V-Green đã thực hiện các chương trình hợp tác với các chuỗi bán lẻ lớn trong năm 2026."
+    ],
+    "base_economic_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC047",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Thợ kỹ thuật mặc đồng phục V-Green đang đấu nối cáp sạc lớn của trạm.",
+    "sentences": [
+      "Họ phối hợp với Thế Giới Di Động để sử dụng mạng lưới nhân"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC048",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Cận cảnh bàn tay Thợ kỹ thuật vặn vít trạm sạc điện, tia lửa xanh nhẹ phát ra.",
+    "sentences": [
+      "sự Thợ Điện Máy Xanh hỗ trợ bảo trì kỹ thuật cho trạm sạc."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC049",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Tủ đổi pin xe máy điện lớn tại MediaMart dán biểu tượng cấm BIKE ONLY.",
+    "sentences": [
+      "Đối với xe máy điện, dự án lắp đặt các tủ đổi pin tại hệ thống cửa hàng MediaMart mang lại sự tiện lợi lớn."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC050",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Trụ sạc nhanh DC lớn phát sáng xanh neon trong đêm tối đô thị.",
+    "sentences": [
+      "Còn với ô tô điện mini, sự an tâm đến từ mạng lưới trạm sạc nhanh DC công cộng đang liên tục được mở rộng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC051",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Xe điện mini VF 3 màu vàng vuông vắn lướt đi trên phố đêm lấp lánh.",
+    "sentences": [
+      "Đây là lộ trình tiếp nối sau khi xe điện mini VF 3 ghi nhận doanh"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC052",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Cột biểu đồ doanh số vọt cao ghi con số 44,585 UNITS rực sáng.",
+    "sentences": [
+      "số kỷ lục bốn mươi bốn nghìn năm trăm tám mươi lăm chiếc trong năm 2025."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC053",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Biểu tượng sạc pin tăng dần từ 10% lên 70% trên màn hình phẳng 2D.",
+    "sentences": [
+      "Hạ tầng liên kết này giúp người dùng xe điện mini phần nào an"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC054",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Cánh tay robot kỹ thuật đang tra dầu nhẹ nhàng vào trục bánh xe điện mini.",
+    "sentences": [
+      "tâm hơn về khả năng tiếp cận nguồn năng lượng và dịch vụ bảo dưỡng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC055",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Nút nhấn LIKE và chia sẻ phát sáng neon xanh dương trên nền đen.",
+    "sentences": [
+      "Nếu bạn thấy góc nhìn phân tích này khách quan, hãy bấm Like và chia sẻ video đến những người quan tâm."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC056",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Súng sạc DC cắm chặt vào đầu xe điện dưới trời mưa phùn đêm mờ.",
+    "sentences": [
+      "Tuy nhiên, bên cạnh hạ tầng sạc công cộng"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC057",
+    "chapter": "04",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Đồng xu đồng rơi rụng và mờ nhạt dần biểu thị sự khấu hao tài sản.",
+    "sentences": [
+      "chi phí sử dụng thực tế và bài toán khấu hao mới là thước đo cuối cùng đối với người tiêu dùng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC058",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Cán cân thăng bằng nghiêng hẳn về đĩa cân chứa xe điện mini phát sáng.",
+    "sentences": [
+      "Khi đặt hai phương tiện lên bàn cân, phép tính kinh tế học thực sự bắt đầu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC059",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Tia sét xanh chạy xẹt qua đường dây dẫn điện rực sáng trên nền xám.",
+    "sentences": [
+      "Xe điện mini sở hữu lợi thế lớn về chi phí năng lượng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC060",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Tờ tiền giấy 35,000 VND phẳng 2D rực sáng màu xanh lá.",
+    "sentences": [
+      "Nó chỉ tốn khoảng ba mươi lăm nghìn đồng tiền điện cho mỗi một trăm cây số chạy phố."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC061",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Tờ tiền giấy 60,000 VND phẳng 2D rực màu cam đỏ cạnh vòi bơm xăng.",
+    "sentences": [
+      "Mức này thấp hơn nhiều so với mức sáu mươi nghìn đồng tiền xăng của xe tay ga cao cấp."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC062",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Mặt cắt động cơ điện tối giản chuyển động trơn tru không có bu-gi hay xích.",
+    "sentences": [
+      "Lợi thế này càng được củng cố nhờ cấu tạo cơ khí đơn giản giúp chi phí bảo dưỡng định kỳ tối giản hơn xe xăng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC063",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Các đường đồ thị lằng nhằng bắt chéo nhau trên nền tối.",
+    "sentences": [
+      "Tuy nhiên, bài toán tài chính đô thị phức tạp hơn thế."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC064",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Xe VF 2 đỏ rực sáng với bảng giá 188 MILLION VND BATTERY INCLUDED.",
+    "sentences": [
+      "Với mức giá một trăm tám mươi tám triệu đồng đã bao gồm pin, chi phí sở hữu ban đầu là cực tốt."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC065",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Con ngõ hẹp uốn lượn chìm trong bóng tối dày đặc của phố cổ.",
+    "sentences": [
+      "Nhưng đối với người sống trong ngõ nhỏ"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC066",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Cổng bãi gửi xe mở ra dưới đèn pha, dán bảng giá 1 - 2 MILLION VND/MONTH.",
+    "sentences": [
+      "rào cản đỗ xe sẽ làm phát sinh chi phí gửi xe ngoài bãi từ một đến hai triệu đồng mỗi tháng."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC067",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Đồng xu vàng tiết kiệm bị cột phí cố định màu đỏ đè sập hoàn toàn.",
+    "sentences": [
+      "Khoản phí cố định này sẽ triệt tiêu hoàn toàn số tiền điện"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC068",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Nhân vật The Commuter nhìn đồng hồ ODO xe máy hiển thị số km di chuyển rất nhỏ.",
+    "sentences": [
+      "tiết kiệm được nếu nhu cầu di chuyển hàng tháng của bạn không cao."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC069",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Nhân vật The Commuter đứng phân vân giữa VF 2 đỏ dưới mưa và chiếc xe máy xăng.",
+    "sentences": [
+      "Khoảnh khắc bạn cân nhắc giữa chiếc xe hai bánh và chiếc ô tô điện mini, câu hỏi không còn là giá xe bao nhiêu."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC070",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Cận cảnh bàn tay đặt xấp tiền thanh toán lên quầy bãi gửi xe tối tăm.",
+    "sentences": [
+      "Nó là việc bạn có sẵn sàng gánh chi phí gửi xe hàng tháng"
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC071",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Xe VF 2 đỏ đỗ an toàn dưới mái che bãi gửi xe trong cơn giông bão sấm sét.",
+    "sentences": [
+      "để đổi lấy sự an toàn che mưa nắng trong cabin bốn bánh hay không."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  },
+  {
+    "id": "SC072",
+    "chapter": "05",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Bóng đen xe máy xăng lách nhanh qua khe ngõ hẹp tối tăm, rực sáng đèn pha.",
+    "sentences": [
+      "Sự linh hoạt của xe hai bánh trong ngõ hẻm vẫn là ranh giới phòng ngự vững chắc nhất."
+    ],
+    "base_english_prompt": "A dramatic cinematic macro-economic visualization, dark conceptual art"
+  }
+]

@@ -1,0 +1,2426 @@
+[
+  {
+    "id": "CH01_SC010",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một người thắng cược 5 triệu đồng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC020",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Anh ta không dừng lại."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC030",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một người thua 10 triệu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC040",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Anh ta cũng không dừng lại."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC050",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi cả thắng lẫn thua đều dẫn đến cùng một hành vi, tiếp tục đặt cược, thì vấn đề không nằm ở kết quả."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC060",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó nằm ở bên trong bộ não."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC070",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mùa World Cup 2022, số cuộc gọi đến đường dây hỗ trợ cai nghiện cờ bạc ở Anh tăng 11% chỉ trong một tháng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC080",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Từ 8.802 lên 9.742 cuộc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC090",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mỗi cuộc gọi là một người thừa nhận rằng họ đã mất kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC100",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Ở Việt Nam, câu chuyện không nằm trong đường dây nóng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC110",
+    "sentence_count": 1,
+    "duration_sec": 1.57,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó nằm trong các chuyên án."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC120",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chỉ riêng mùa World Cup vừa qua, công an Ninh Bình triệt phá đường dây cá độ giao dịch hơn 900 tỷ đồng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC130",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đà Nẵng, hơn 20 tỷ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC140",
+    "sentence_count": 1,
+    "duration_sec": 1.05,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hưng Yên, 11 tỷ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC150",
+    "sentence_count": 1,
+    "duration_sec": 1.05,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lâm Đồng, 5 tỷ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC160",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đó là những con số bị bắt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC170",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phần chìm lớn hơn gấp nhiều lần."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC180a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Đằng sau mỗi đường dây là hàng trăm gia đình mà vợ không biết chồng đang nợ bao nhiêu, cha"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC180b",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "mẹ không biết con trai đang cược bằng tiền học phí, và những cuộc ly hôn bắt đầu không phải"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC180c",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh phụ C",
+    "sentences": [
+      "bằng cãi vã mà bằng một tin nhắn đòi nợ từ số lạ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC190",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "World Cup 2026 đang ở vòng Tứ kết."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC200",
+    "sentence_count": 1,
+    "duration_sec": 1.05,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Argentina gặp Ai Cập."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC210",
+    "sentence_count": 1,
+    "duration_sec": 0.79,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mỹ gặp Bỉ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC220",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và hàng triệu chiếc điện thoại đang sáng lên lúc 2 giờ sáng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC230",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Không phải để xem bóng đá, mà để kiểm tra tỷ lệ kèo."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC240",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đây là kênh Đạo và Khoa Học."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC250",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và hôm nay, chúng ta sẽ đi vào bên trong bộ não của một người đặt cược bóng đá."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC260",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Để hiểu vì sao nó khiến bạn mở app lúc 2 giờ sáng, vì sao mỗi lần suýt trúng lại thèm khát hơn lần trước."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC270",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và quan trọng nhất: bạn có thể làm gì để trả bóng đá về cho cái đẹp thuần túy của nó."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH01_SC280",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Vậy chuyện gì xảy ra bên trong bộ não vào đúng cái phút mà mọi thứ thay đổi?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC010",
+    "sentence_count": 3,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phút 87.",
+      "Đội bạn dẫn 1-0.",
+      "Cả phòng khách im lặng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC020",
+    "sentence_count": 3,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn đang ngồi trên sofa.",
+      "Không chạy.",
+      "Không nhảy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC030",
+    "sentence_count": 2,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng tim bạn đập 94 nhịp mỗi phút.",
+      "Nhanh bằng lúc bạn chạy bộ nhẹ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC040a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Nghiên cứu của Đại học Bielefeld năm 2026 đo nhịp tim thực tế của khán giả bằng đồng hồ thông"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC040b",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "minh và phát hiện rằng chỉ riêng việc xem qua TV, cách sân vận động nửa vòng trái đất, cũng"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC040c",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh phụ C",
+    "sentences": [
+      "đủ đẩy nhịp tim lên 94 so với 79 lúc bình thường."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC050",
+    "sentence_count": 3,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và khi đội nhà ghi bàn, nhịp tim tăng vọt thêm 36% trên nền đó.",
+      "Quả phạt góc cuối cùng.",
+      "Bóng bay vào."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC060",
+    "sentence_count": 3,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Gỡ hòa.",
+      "Hai triệu đồng biến mất.",
+      "Nhưng điều kỳ lạ nhất không phải nỗi đau mất tiền."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC070",
+    "sentence_count": 3,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mà là 30 giây sau, bạn đã mở app đặt trận tiếp theo.",
+      "Hãy gọi anh ta là Tuấn.",
+      "31 tuổi, làm IT ở Hà Nội."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC080",
+    "sentence_count": 3,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tuấn bắt đầu bằng 200 nghìn một trận cho vui.",
+      "Dần dần lên 500.",
+      "Rồi 2 triệu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC090",
+    "sentence_count": 2,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mỗi lần thua, anh ta không dừng lại.",
+      "Anh ta tăng tiền."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC100",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bộ não đang nói với anh ta rằng lần trước chỉ thiếu một chút may mắn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC110",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Rằng phân tích chiến thuật đã gần hoàn hảo, chỉ cần thêm một lần nữa.",
+      "Đây không phải sự liều lĩnh.",
+      "Đây là sinh học."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC120",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bộ não con người tiến hóa để tìm quy luật."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC130",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Trong hàng triệu năm, khả năng nhận ra quy luật giúp tổ tiên chúng ta sống sót."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC140",
+    "sentence_count": 3,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Con hổ xuất hiện ở bờ suối lúc hoàng hôn.",
+      "Lần sau, đừng đến bờ suối lúc hoàng hôn.",
+      "Quy luật đó cứu mạng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC150",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng khi bộ não áp dụng cùng cơ chế đó vào bóng đá, nó tạo ra một ảo tưởng nguy hiểm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC160",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tuấn đọc phong độ 10 trận gần nhất, phân tích đội hình, so sánh chỉ số Expected Goals.",
+      "Tất cả đều là dữ liệu thật."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC170",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng bộ não đang làm một điều mà tâm lý học gọi là Gambler's Fallacy.",
+      "Nó tìm quy luật trong một chuỗi ngẫu nhiên."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC180",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó nhớ những lần phân tích đúng và quên sạch những lần sai.",
+      "Tâm lý học gọi đó là thiên kiến xác nhận."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC190",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn không phân tích để tìm sự thật.",
+      "Bạn phân tích để xác nhận điều bạn muốn tin."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC200a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Nghiên cứu của Eben và cộng sự năm 2023 trên hàng nghìn người chơi cho thấy, những ai trải qua"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC200b",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "chuỗi thắng ban đầu sẽ tự đánh giá năng lực dự báo của mình cao hơn thực tế."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC210",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng khi đối mặt với chuỗi ngẫu nhiên kéo dài, ảo tưởng đó sụp đổ hoàn toàn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC220",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Não bộ ban đầu tìm quy luật từ mẫu nhỏ, rồi bất lực trước sự ngẫu nhiên thực sự khi dữ liệu đủ lớn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC230",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tuấn mở app kiểm tra kèo trong giờ họp.",
+      "Mở lại lúc ăn tối với vợ.",
+      "Giấu điện thoại dưới bàn khi con hỏi bài."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC240",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Không phải vì anh ta ngu ngốc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC250",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mà vì bộ não anh ta đang dùng dữ liệu thật để tạo ra một ảo tưởng kiểm soát hoàn hảo."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC260",
+    "sentence_count": 2,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng chiến thuật, thông số, phong độ.",
+      "Tất cả đều là dữ liệu thật."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC270",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Vậy tại sao não bộ lại dùng dữ liệu thật để tạo ra một ảo tưởng?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH02_SC280",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Câu trả lời nằm ở một chất dẫn truyền thần kinh mà hầu hết mọi người hiểu sai về nó."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC010",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hầu hết mọi người tin rằng dopamine là chất tạo ra khoái cảm.",
+      "Não tiết dopamine, bạn vui."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC020",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đây là một hiểu lầm mà khoa học thần kinh đã bác bỏ từ lâu.",
+      "Dopamine không tạo ra niềm vui."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC030",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó tạo ra sự thèm khát.",
+      "Năm 1993, Kent Berridge và Terry Robinson công bố một phát hiện thay đổi cách chúng ta hiểu về nghiện."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC040",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ chứng minh rằng bộ não vận hành hai hệ thống hoàn toàn tách biệt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC050",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một hệ thống gọi là Wanting, sự thèm khát, khao khát, xung năng tìm kiếm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC060",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Một hệ thống gọi là Liking, niềm vui thực sự khi bạn nhận được phần thưởng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC070",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hai hệ thống này nằm ở hai vùng giải phẫu khác nhau trong não bộ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC080",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Wanting được điều phối bởi mạng lưới dopamine mesolimbic, một đường cao tốc thần kinh chạy từ não giữa đến nhân áp sườn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC090",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Liking được điều phối bởi những vùng siêu nhỏ gọi là điểm nóng khoái cảm, nằm rải rác trong vỏ não và thân não."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC100",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chúng vận hành độc lập."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC110",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và đây là điều nguy hiểm: ở người chơi cá cược lâu năm, hai hệ thống này mất cân bằng nghiêm trọng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC120",
+    "sentence_count": 1,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Dopamine liên tục bị giải phóng qua mỗi lần đặt cược, mỗi lần kiểm tra kèo, mỗi lần theo dõi trận đấu trực tiếp."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC130",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hệ thống Wanting bị nhạy cảm hóa mạnh mẽ.",
+      "Nó trở nên cực kỳ nhạy với bất kỳ tín hiệu nào liên quan đến cá cược."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC140",
+    "sentence_count": 3,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Âm thanh thông báo app.",
+      "Biểu tượng nhà cái.",
+      "Bảng tỷ lệ kèo."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC150",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tất cả trở thành nam châm kích hoạt xung năng đặt cược không thể kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC160",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Ngược lại, hệ thống Liking trải qua quá trình suy giảm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC170",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khả năng cảm nhận niềm vui thực sự từ chiến thắng giảm dần theo thời gian."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC180a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Nghịch lý lớn nhất của người cá cược lâu năm nằm ở đây: họ điên cuồng khao khát được đặt"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC180b",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "cược, nhưng không còn cảm nhận được niềm vui khi thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC190",
+    "sentence_count": 3,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cơn đói mà không món ăn nào lấp được.",
+      "Dopamine không mã hóa phần thưởng.",
+      "Nó mã hóa sai số dự báo phần thưởng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC200",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi kết quả tốt hơn kỳ vọng, dopamine tăng vọt.",
+      "Khi kết quả đúng kỳ vọng, dopamine về không."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC210",
+    "sentence_count": 2,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi kết quả tệ hơn, dopamine sụt xuống dưới mức nền.",
+      "Cơ chế này gọi là Reward Prediction Error."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC220",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nghĩ đơn giản thế này: lần đầu bạn ăn phở ở quán mới, ngon hơn kỳ vọng, dopamine tăng vọt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC230",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lần thứ 10, vẫn ngon nhưng đúng kỳ vọng, dopamine về zero.",
+      "Không phải phở dở đi.",
+      "Mà là não bộ đã hết bất ngờ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC240",
+    "sentence_count": 3,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bóng đá vận hành cùng cơ chế.",
+      "Nhưng với một twist.",
+      "Dopamine đạt mức giải phóng cực đại khi xác suất nhận thưởng ở mức 50%."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC250",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Trạng thái không chắc chắn tuyệt đối."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC260a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Bóng đá, với hàng trăm biến số không thể kiểm soát, với mỗi trận đấu là một bản phân phối"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC260b",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "xác suất gần cân bằng, chính là môi trường hoàn hảo để dopamine duy trì ở trạng thái kích thích"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC260c",
+    "sentence_count": 1,
+    "duration_sec": 0.52,
+    "visual_summary": "Mô tả phân cảnh phụ C",
+    "sentences": [
+      "cực hạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC270",
+    "sentence_count": 3,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hãy nghĩ về ngón tay Tuấn vuốt app kiểm tra tỷ lệ kèo.",
+      "Anh ta chưa cần đặt cược.",
+      "Chưa cần thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC280",
+    "sentence_count": 3,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chỉ cần nhìn con số nhảy trên màn hình.",
+      "Chỉ riêng hành vi đó đã đủ để dopamine xả.",
+      "Đó là Wanting thuần túy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC290",
+    "sentence_count": 2,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Không có Liking nào ở đó cả.",
+      "Wanting giải thích vì sao bạn thèm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC300",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng nó chưa giải thích vì sao mỗi lần thua sát nút, cơn thèm lại mạnh hơn lần trước."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH03_SC310",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Để hiểu điều đó, chúng ta cần nhìn vào một phản ứng kỳ lạ xảy ra khi quả bóng đập cột dọc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC010",
+    "sentence_count": 3,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phút 89.",
+      "Quả sút phạt ngoài vòng cấm.",
+      "Bóng đập cột dọc bật ra."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC020",
+    "sentence_count": 3,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Suýt trúng.",
+      "Về mặt tài chính, đó là một trận thua.",
+      "Bạn mất sạch tiền cược."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC030",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng bộ não bạn không xử lý nó như một trận thua."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC040",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Năm 2009, nhà thần kinh học Luke Clark và cộng sự đặt người chơi vào máy quét fMRI và cho họ chơi một trò mô phỏng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC050",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Ba loại kết quả: thắng, thua đậm, và suýt trúng.",
+      "Kết quả khiến giới khoa học kinh ngạc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC060",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi người chơi \"suýt trúng\", Ventral Striatum, vùng não xử lý giá trị phần thưởng và kích hoạt phản ứng dopamine, bùng sáng.",
+      "Mạnh mẽ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC070",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Gần như tương đương khi họ thắng thật."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC080",
+    "sentence_count": 1,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Não bộ không phân biệt \"suýt thắng\" và \"đã thắng.\"\n\nNhưng đó chưa phải phát hiện đáng sợ nhất."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC090a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Clark phát hiện thêm rằng Anterior Insula, vùng não điều phối cảm xúc nội sinh và sự thèm khát, cũng"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC090b",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "kích hoạt mạnh mẽ khi suýt trúng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC100",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và mức độ kích hoạt tại vùng này tương quan trực tiếp với điểm số đo lường xu hướng cờ bạc cá nhân."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC110",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Người chơi nào có điểm SOGS càng cao, vùng Insula phản ứng càng dữ dội."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC120",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Ở chiều sâu hơn, vỏ não đai trước phía mỏ, vùng rACC, chịu trách nhiệm giám sát lỗi sai, đã làm một việc đáng kinh ngạc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC130",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó biến thất bại sát sao thành một tín hiệu học tập."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC140a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Không phải tín hiệu \"mình đã sai.\" Mà là tín hiệu \"chiến thuật gần hoàn hảo, chỉ cần thêm một"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC140b",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "lần nữa.\" rACC đã đánh tráo ý nghĩa của thất bại, biến thua thành bằng chứng rằng bạn đang đi"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC140c",
+    "sentence_count": 1,
+    "duration_sec": 0.52,
+    "visual_summary": "Mô tả phân cảnh phụ C",
+    "sentences": [
+      "đúng hướng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC150",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và khi người chơi có quyền chủ động lựa chọn, tự chọn kèo thay vì máy tính chọn hộ, hiệu ứng này tăng lên gấp bội."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC160a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Đây chính là cơ sở sinh học thần kinh của ảo tưởng kiểm soát: bạn đang \"chọn\", nên não bạn"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC160b",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "kết luận bạn đang \"kiểm soát.\" Cơ chế này không phải là lỗi phần mềm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC170",
+    "sentence_count": 3,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó là lỗi thiết kế tiến hóa.",
+      "Giống như con bồ câu trong thí nghiệm kinh điển của B.F.",
+      "Skinner."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC180",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi phần thưởng xuất hiện ngẫu nhiên, không theo quy luật nào cả, con bồ câu không dừng mổ nút.",
+      "Nó mổ nhanh hơn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC190",
+    "sentence_count": 2,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bền bỉ hơn.",
+      "Skinner gọi đó là củng cố ngắt quãng, intermittent reinforcement."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC200",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Lịch trình trao thưởng ngẫu nhiên tạo ra hành vi bền bỉ nhất trong mọi dạng học tập hành vi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC210a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Mỗi lần quả bóng đập cột dọc ở phút bù giờ, mỗi lần đội bạn dẫn rồi bị gỡ ở"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC210b",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "giây cuối, mỗi lần \"suýt trúng\" ở trận knockout World Cup, Ventral Striatum của bạn kích hoạt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC220",
+    "sentence_count": 3,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "rACC của bạn đánh tráo ý nghĩa.",
+      "Và bạn mở app đặt trận tiếp theo.",
+      "Không phải vì bạn tin mình sẽ thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC230",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mà vì bộ não đã tạo ra một cảm giác rằng bạn \"sắp\" thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC240",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nếu bộ não bạn đang tự đánh lừa chính mình, thì câu hỏi tiếp theo là: ai đang giúp nó làm điều đó?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH04_SC250",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và câu trả lời không nằm ở bản thân trận bóng đá.",
+      "Nó nằm ở thiết kế của chiếc app trên tay bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC010",
+    "sentence_count": 3,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mở app cá cược trên điện thoại.",
+      "Bạn chọn kèo.",
+      "Bạn theo dõi phong độ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC020",
+    "sentence_count": 2,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn cạnh tranh với nhà cái.",
+      "Và bạn tin rằng mình đang kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC030",
+    "sentence_count": 1,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Năm 1975, nhà tâm lý học Ellen Langer đã chứng minh rằng đó chính xác là điều não bộ muốn bạn tin."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC040",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Langer cho hai nhóm người tham gia vào các trò chơi hoàn toàn ngẫu nhiên.",
+      "Nhóm đầu tiên được phép \"chọn\" tấm vé số của mình."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC050",
+    "sentence_count": 2,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhóm thứ hai bị phân phối ngẫu nhiên.",
+      "Kết quả giống hệt nhau về mặt xác suất."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC060",
+    "sentence_count": 1,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng những người được \"chọn\" định giá tấm vé của họ cao gấp 4 lần so với nhóm bị phân phối."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC070",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Langer gọi đó là ảo tưởng kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC080a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Khi bạn được phép thực hiện một hành động chủ động trong một tình huống ngẫu nhiên, não bộ tự"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC080b",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "động kết luận rằng hành động đó ảnh hưởng đến kết quả."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC090a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Bà xác định bốn yếu tố kích hoạt hiệu ứng này: sự lựa chọn, sự quen thuộc với nhiệm vụ,"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC090b",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "sự cạnh tranh, và mức độ tham gia chủ động."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC100",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chiếc app cá cược cung cấp cả bốn yếu tố đó cùng lúc.",
+      "Mỗi tính năng trên app không tồn tại để giúp bạn thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC110",
+    "sentence_count": 1,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó tồn tại để vỏ não trước trán của bạn tin rằng bạn đang kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC120",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cược trực tiếp biến đổi cấu trúc thời gian của hành vi cá cược."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC130",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Thay vì đặt một cược trước trận và chờ 90 phút, bạn đặt liên tục vào mọi khoảnh khắc.",
+      "Thẻ vàng tiếp theo."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC140",
+    "sentence_count": 3,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Quả phạt góc tiếp theo.",
+      "Cầu thủ ghi bàn tiếp theo.",
+      "Đây là thứ giữ Tuấn thức đến khi vợ con đã ngủ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC150",
+    "sentence_count": 3,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Không phải trận đấu.",
+      "Mà là mỗi micro-quyết định trên app.",
+      "Mỗi lần vuốt màn hình kích hoạt một đợt giải phóng dopamine mới."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC160a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Vỏ não trước trán, vùng chịu trách nhiệm kiểm soát xung động và phán đoán logic, không có thời gian"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC160b",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "phục hồi giữa các đợt kích thích."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC170",
+    "sentence_count": 3,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó bị suy kiệt.",
+      "Và rồi đến nút Cash-out.",
+      "Nút cho phép bạn rút cược trước khi trận đấu kết thúc."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC180",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó được quảng bá như một công cụ bảo vệ người chơi."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC190a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Nghiên cứu của Bennett và cộng sự năm 2024 phát hiện điều ngược lại: sự hiện diện của tính năng"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC190b",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "Cash-out làm tăng số tiền đặt cược trung bình lên 35%."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC200",
+    "sentence_count": 1,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cơ chế sinh học thần kinh giải thích hiện tượng này rõ ràng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC210",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi biết rằng mình có thể rút lui bất cứ lúc nào, não bộ giải mã tình huống là có rủi ro thấp."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC220",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Hạch hạnh nhân, bộ phận phòng vệ tự nhiên trước nguy hiểm, hạ cảnh giác.",
+      "Nó không còn gửi tín hiệu \"dừng lại\" mạnh mẽ nữa."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC230",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Kết quả là bạn cược nhiều hơn, lâu hơn, liều hơn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC240",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Không phải vì bạn dũng cảm hơn, mà vì hàng phòng vệ sinh học của bạn đã bị hạ thấp."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC250",
+    "sentence_count": 2,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phân tích bóng đá có thể nâng nhẹ tỷ lệ thắng.",
+      "Đúng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC260",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng biên lợi nhuận của nhà cái đảm bảo rằng về dài hạn, nhà cái luôn thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC270",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mọi thuật toán Cash-out đều được thiết kế để nhà cái khấu trừ tỷ lệ biên rất cao."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC280",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn không phải nhà đầu tư đang quản trị rủi ro."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC290",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn là người chơi đang bị thiết kế giao diện đánh lừa rằng mình là nhà đầu tư."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC300a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Khảo sát của YouGov trên 3.700 người trưởng thành cho thấy 32% thanh niên từ 18 đến 34 tuổi thừa"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC300b",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "nhận họ không thể tránh khỏi việc đặt cược trong các kỳ World Cup."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC310a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Nếu bạn thấy video này đang giúp bạn nhìn rõ hơn, hãy bấm Thích và Đăng ký kênh để ủng"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC310b",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "hộ chúng tôi tiếp tục sản xuất nội dung chất lượng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC320",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Chúng ta đã mổ xẻ xong cỗ máy."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC330",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Vậy câu hỏi cuối cùng là: có cách nào xem bóng đá mà không bị cỗ máy đó điều khiển?",
+      "Có."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH05_SC340",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và nó bắt đầu từ một nguyên lý mà một nhà triết học cách đây 2.000 năm đã viết ra."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC010a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Khoảng 2.000 năm trước, một người từng bị bán làm nô lệ ở Rome đã viết ra một nguyên lý"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC010b",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "đơn giản đến không ngờ: \"Có những thứ phụ thuộc vào chúng ta, và những thứ không."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC020",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Sự khôn ngoan nằm ở việc phân biệt rõ ràng giữa hai nhóm đó.\"\n\nTên ông là Epictetus."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC030",
+    "sentence_count": 1,
+    "duration_sec": 2.62,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và nguyên lý đó gọi là Phân đôi Kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC040",
+    "sentence_count": 3,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bây giờ hãy đặt nguyên lý này lên bàn mổ cùng với mọi thứ chúng ta vừa mổ xẻ.",
+      "Quả bóng.",
+      "Tỷ số."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC050",
+    "sentence_count": 3,
+    "duration_sec": 1.57,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Trọng tài.",
+      "Thời tiết.",
+      "Chấn thương."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC060",
+    "sentence_count": 3,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tất cả nằm ngoài tầm kiểm soát.",
+      "Nhận thức của bạn.",
+      "Kỳ vọng của bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC070",
+    "sentence_count": 2,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Phản ứng cảm xúc của bạn.",
+      "Tất cả nằm trong tầm kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC080a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Ảo tưởng kiểm soát mà Langer phát hiện, cỗ máy tìm quy luật mà não bộ vận hành, toàn bộ"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC080b",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "cơ chế sinh học đẩy bạn đặt cược lúc 2 giờ sáng, tất cả bắt nguồn từ một lỗi duy"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC080c",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh phụ C",
+    "sentences": [
+      "nhất: bạn đang cố kiểm soát những thứ không thuộc về bạn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC090",
+    "sentence_count": 1,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi một người xem bóng đá với ảo tưởng rằng mình có thể dự đoán kết quả, kỳ vọng trong não bộ được đặt rất cao."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC100",
+    "sentence_count": 3,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Dopamine ramping đạt đỉnh.",
+      "Entropy ở mức cực đại.",
+      "Và khi bàn thua phút bù giờ xảy ra, kỳ vọng sụp đổ đột ngột."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC110",
+    "sentence_count": 3,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Sai số dự báo phần thưởng sụt xuống dưới mức nền.",
+      "Cortisol tràn vào.",
+      "Hạch hạnh nhân kích hoạt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC120",
+    "sentence_count": 1,
+    "duration_sec": 1.84,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và xung năng gỡ gạc bùng lên."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC130a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Nhưng khi một người xem bóng đá với nhận thức rõ ràng rằng kết quả nằm ngoài tầm kiểm soát,"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC130b",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "kỳ vọng được hiệu chỉnh về gần mức zero."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC140",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Dopamine duy trì ổn định.",
+      "Khi kết quả bất lợi xảy ra, sai số dự báo ở mức tối thiểu.",
+      "Không có cú sập dopamine."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC150",
+    "sentence_count": 2,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Không có dòng thác cortisol.",
+      "Vỏ não trước trán vẫn giữ được năng lực kiểm soát xung động."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC160",
+    "sentence_count": 3,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và khoa học thần kinh xác nhận chính xác điều đó.",
+      "Trong Phật giáo, nguyên lý này có một tên gọi khác: Vô thường.",
+      "Anicca."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC170",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mọi trận đấu bóng đá là một biểu hiện hoàn hảo của vô thường."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC180",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Mỗi đường chuyền, mỗi cú sút, mỗi quyết định của trọng tài là một biến số không thể dự đoán.",
+      "Entropy ở mức cực đại."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC190",
+    "sentence_count": 2,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và Phật giáo đã nhìn thấy điều này 2.500 năm trước khoa học thần kinh.",
+      "Nhưng Phật giáo đi xa hơn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC200",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Họ chỉ ra rằng nỗi khổ không đến từ sự kiện bên ngoài.",
+      "Nó đến từ sự bám chấp vào kỳ vọng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC210",
+    "sentence_count": 3,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Tâm lý học gọi đó là Wanting.",
+      "Phật giáo gọi đó là Tham ái.",
+      "Tanha."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC220",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cơn thèm khát mà không có sự thỏa mãn.",
+      "Hệ thống dopamine mesolimbic mà Berridge phát hiện chính là cơ chế sinh học của Tanha."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC230a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Sự nhạy cảm hóa Wanting mà chúng ta mổ xẻ ở chương ba chính là cái mà Phật giáo gọi"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC230b",
+    "sentence_count": 1,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "là vòng lặp luân hồi của tham ái."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC240",
+    "sentence_count": 1,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khoa học thần kinh và triết học cổ đại đồng thuận ở một điểm: cơn đau của bạn không đến từ trận thua."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC250",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó đến từ khoảng cách giữa kỳ vọng và thực tại.",
+      "Thu hẹp khoảng cách đó, và bạn thu hẹp nỗi đau."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC260",
+    "sentence_count": 3,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng hiểu là một chuyện.",
+      "Làm được là chuyện khác.",
+      "Não bộ bạn đã bị nhạy cảm hóa."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH06_SC270",
+    "sentence_count": 2,
+    "duration_sec": 6.82,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Wanting đang ở mức cực đại.",
+      "Vậy cụ thể, bạn làm gì khi ngón tay đang lướt trên app kiểm tra kèo lúc 2 giờ sáng?"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC010",
+    "sentence_count": 3,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Ngón tay bạn đang lướt trên app kiểm tra kèo.",
+      "Trận tiếp theo bắt đầu sau 3 tiếng.",
+      "Tim đập nhanh hơn."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC020",
+    "sentence_count": 3,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bàn tay hơi ướt mồ hôi.",
+      "Không phải vì bạn sợ.",
+      "Mà vì bạn thèm."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC030",
+    "sentence_count": 2,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Đây là khoảnh khắc mà triết lý cần trở thành hành động.",
+      "Bước đầu tiên gọi là tái cấu trúc nhận thức."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC040a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Đây là phương pháp từ liệu pháp hành vi nhận thức CBT, có bằng chứng thực chứng mạnh mẽ trong"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC040b",
+    "sentence_count": 1,
+    "duration_sec": 2.89,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "việc điều chỉnh sai lệch nhận thức ở người cá cược."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC050",
+    "sentence_count": 1,
+    "duration_sec": 1.31,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Cách làm rất cụ thể."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC060",
+    "sentence_count": 1,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Trước trận đấu, bạn nói với chính mình một câu: \"Kết quả trận này là ngẫu nhiên và nằm ngoài tầm kiểm soát của mình."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC070",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Việc mình phân tích dữ liệu không thay đổi quỹ đạo đường bóng trên sân.\"\n\nNghe đơn giản."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC080",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng khi bạn nói câu đó, một thứ xảy ra bên trong não bộ.",
+      "Vỏ não trước trán phía bên, vùng dlPFC, được kích hoạt."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC090",
+    "sentence_count": 1,
+    "duration_sec": 2.36,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó thuộc Mạng lưới kiểm soát có ý thức."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC100a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Và khi mạng lưới này hoạt động, nó ức chế trực tiếp Mạng trạng thái mặc định, vùng não kích"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC100b",
+    "sentence_count": 1,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "hoạt khi tâm trí lang thang, nuối tiếc quá khứ, lo âu tương lai."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC110",
+    "sentence_count": 1,
+    "duration_sec": 4.72,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn không chỉ đang \"tự nhủ.\" Bạn đang dùng một phần não để tắt một phần não khác."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC120",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và khi kết quả bất lợi xảy ra, bạn thực hiện bước thứ hai: tái khung kết quả sát nút."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC130",
+    "sentence_count": 2,
+    "duration_sec": 3.41,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn nói: \"Đây là một trận thua hoàn toàn.",
+      "Không có suýt thắng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC140",
+    "sentence_count": 1,
+    "duration_sec": 3.94,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Vùng rACC của mình đang cố đánh lừa mình.\" Bạn đang gọi tên cơ chế."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC150a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Và khoa học chứng minh rằng hành vi gọi tên cảm xúc, trong tâm lý học gọi là Affect Labeling,"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC150b",
+    "sentence_count": 1,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "kích hoạt vỏ não trước trán và làm dịu hạch hạnh nhân."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC160",
+    "sentence_count": 3,
+    "duration_sec": 5.77,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn không kìm nén cảm xúc.",
+      "Bạn đặt tên cho nó.",
+      "Và bằng cách đặt tên, bạn lấy lại quyền kiểm soát."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC170",
+    "sentence_count": 3,
+    "duration_sec": 5.51,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nhưng có một phương pháp thứ hai sâu hơn.",
+      "Phương pháp này không chiến đấu với Wanting.",
+      "Nó đánh thức Liking."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC180",
+    "sentence_count": 2,
+    "duration_sec": 3.15,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Nó gọi là Chánh niệm giác quan.",
+      "Thưởng thức phi sở hữu."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC190",
+    "sentence_count": 2,
+    "duration_sec": 6.56,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Thay vì nhìn vào bảng tỷ số, bạn nhìn vào quỹ đạo hình học của đường chuyền.",
+      "Nhịp điệu phối hợp giữa các cầu thủ."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC200",
+    "sentence_count": 3,
+    "duration_sec": 3.67,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Kỹ thuật xử lý bóng.",
+      "Không phải của đội bạn.",
+      "Của cả hai đội."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC210",
+    "sentence_count": 1,
+    "duration_sec": 4.46,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn rút sự chú ý khỏi kết quả và neo nó vào vẻ đẹp đang diễn ra."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC220",
+    "sentence_count": 2,
+    "duration_sec": 6.3,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Khi bạn làm điều đó, Mạng lưới chú ý hướng ngoại kích hoạt.",
+      "Thùy đảo và vỏ não cảm giác sơ cấp bật lên."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC230",
+    "sentence_count": 3,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và Mạng trạng thái mặc định tắt.",
+      "Bạn không còn phóng chiếu kết quả tương lai.",
+      "Dopamine trở về trạng thái ổn định."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC240",
+    "sentence_count": 2,
+    "duration_sec": 6.04,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Và điều kỳ diệu xảy ra: các điểm nóng khoái cảm bắt đầu hoạt động.",
+      "Opioid nội sinh và GABA được giải phóng."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC250",
+    "sentence_count": 3,
+    "duration_sec": 4.99,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn thực sự cảm nhận được niềm vui.",
+      "Không phải cơn thèm rỗng.",
+      "Mà là sự thỏa mãn thật."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC260a",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ A",
+    "sentences": [
+      "Tự hỏi bản thân trước mỗi trận đấu: \"Mình đang xem vì mình muốn chiếm đoạt một kết quả, hay"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC260b",
+    "sentence_count": 1,
+    "duration_sec": 5.25,
+    "visual_summary": "Mô tả phân cảnh phụ B",
+    "sentences": [
+      "mình thực sự thích bóng đá vì nghệ thuật của nó?\" Nếu câu trả lời là \"muốn\", bạn đang ở"
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC260c",
+    "sentence_count": 1,
+    "duration_sec": 0.79,
+    "visual_summary": "Mô tả phân cảnh phụ C",
+    "sentences": [
+      "hệ thống Wanting."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC270",
+    "sentence_count": 3,
+    "duration_sec": 2.1,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Dừng lại.",
+      "Hít thở.",
+      "Neo vào giác quan."
+    ],
+    "base_english_prompt": ""
+  },
+  {
+    "id": "CH07_SC280",
+    "sentence_count": 3,
+    "duration_sec": 4.2,
+    "visual_summary": "Mô tả phân cảnh",
+    "sentences": [
+      "Bạn có thể chuyển sang Liking.",
+      "Không cần ý chí phi thường.",
+      "Chỉ cần nhận ra."
+    ],
+    "base_english_prompt": ""
+  }
+]

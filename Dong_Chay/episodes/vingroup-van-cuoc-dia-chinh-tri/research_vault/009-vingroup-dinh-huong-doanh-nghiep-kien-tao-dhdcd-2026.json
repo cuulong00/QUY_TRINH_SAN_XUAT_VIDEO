@@ -1,0 +1,33 @@
+{
+  "$schema": "https://schemas.roomi-fields.com/nblm-answer-v1.json",
+  "type": "nblm-answer",
+  "version": "1.0",
+  "asked_at": "2026-07-18T05:55:00.000Z",
+  "session_id": "826c546c",
+  "notebook": {
+    "id": null,
+    "name": null,
+    "url": "https://notebooklm.google.com/notebook/f6296b14-a456-47e9-b24a-a5a2b3a7dc9b"
+  },
+  "question": "Vingroup có tuyên bố trở thành doanh nghiệp kiến tạo tại ĐHĐCĐ năm 2026 không? Định nghĩa kiến tạo là gì?",
+  "answer": {
+    "text": "BÁO CÁO NGHIÊN CỨU BỔ SUNG: ĐỊNH HƯỚNG \"DOANH NGHIỆP KIẾN TẠO\" CỦA VINGROUP TẠI ĐHĐCĐ 2026\n\nTại Đại hội đồng cổ đông (ĐHĐCĐ) thường niên diễn ra vào ngày 22/04/2026, ban lãnh đạo Tập đoàn Vingroup đã chính thức công bố định hướng chuyển dịch chiến lược: chuyển từ mô hình \"Tập đoàn đa ngành\" sang mô hình \"Doanh nghiệp kiến tạo\" (hoặc \"Doanh nghiệp kiến tạo nền tảng phát triển cho tương lai\" / \"Kiến tạo nền tảng phát triển cho nền kinh tế\") [1][2].\n\nChi tiết định nghĩa và định hướng chiến lược:\n1. Không phải một ngành kinh doanh cụ thể: \"Kiến tạo\" là cách tiếp cận phát triển (developmental approach). Nó đại diện cho tư duy chủ động tạo ra giá trị mới, cải tiến cách làm cũ và thúc đẩy các hệ sinh thái/mô hình mới mang lại hiệu quả vượt trội so với cách làm truyền thống [3][5].\n2. Nguyên tắc năng lực cốt lõi: Chỉ tập trung nguồn lực vào những lĩnh vực mà Vingroup có thế mạnh, sở hữu năng lực cốt lõi và có khả năng làm tốt. Không phải khẩu hiệu hình thức mà là định hướng tạo ra thay đổi thực chất trong các lĩnh vực tham gia [7][5].\n3. Phân định vai trò: \"Kiến tạo\" nằm trong tầm đóng góp của doanh nghiệp để thực hiện tốt phần việc của mình, chứ không phải thay thế vai trò hoạch định kinh tế vĩ mô của Nhà nước [6][8].\n4. Các trụ cột chiến lược đi kèm: Công nghệ - Công nghiệp (VinFast thuần điện), Hạ tầng chiến lược (VinSpeed hợp tác Siemens tàu 350 km/h), BĐS (Vinhomes làm bệ đỡ tài chính), Năng lượng tái tạo (VinEnergo) [3][2].",
+    "format": "markdown"
+  },
+  "citations": [
+    {
+      "marker": "[1]",
+      "number": 1,
+      "title": "Vingroup chuyển hướng chiến lược tại ĐHĐCĐ 2026",
+      "url": "https://mekongasean.vn/vingroup-chuyen-huong-chien-luoc-dhdcd-2026",
+      "source_text": "Vingroup chính thức công bố chuyển dịch sang mô hình doanh nghiệp kiến tạo nền tảng phát triển cho tương lai..."
+    },
+    {
+      "marker": "[2]",
+      "number": 2,
+      "title": "Chủ tịch Phạm Nhật Vượng giải thích về định hướng kiến tạo",
+      "url": "https://cafef.vn/dhdcd-vingroup-2026-kien-tao-khong-phai-nganh-rieng",
+      "source_text": "Kiến tạo không phải là một ngành kinh doanh cụ thể mà là cách tiếp cận phát triển, chúng tôi làm những gì chúng tôi có thế mạnh..."
+    }
+  ]
+}

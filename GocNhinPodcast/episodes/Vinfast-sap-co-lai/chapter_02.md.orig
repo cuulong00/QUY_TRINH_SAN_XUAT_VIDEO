@@ -1,0 +1,33 @@
+# chapter_02.md
+
+Khi bạn mua một chiếc xe ô tô, số tiền bạn trả thực chất được phân bổ vào những chi phí nào?
+
+Dưới góc nhìn tài chính, dựa trên các số liệu bóc tách từ hồ sơ niêm yết SEC Form 6-K và Báo cáo kiểm toán của Ernst and Young, chi phí để tạo nên một chiếc xe điện VinFast thực chất được chia làm ba thành tố chính.
+
+Thành tố thứ nhất là tiền linh kiện phần cứng, chiếm khoảng 70 đến 80% chi phí sản xuất trực tiếp. Trong đó, hệ thống pin và quản lý pin là khoản tiền lớn nhất, chiếm 30 đến 40% giá trị chiếc xe. Tiếp theo là chi phí gia công khung vỏ, dập thép, sơn và hệ thống gầm, chiếm 25 đến 30%. Phần còn lại là tiền vi xử lý, cảm biến, phanh điện tử và các linh kiện an toàn, chiếm khoảng 18 đến 22%.
+
+Thành tố thứ hai là tiền trí tuệ, phần mềm và vận hành. Đây là chi phí nghiên cứu phát triển cho bộ não điều khiển pin BMS, thuật toán tự lái ADAS, các tính năng trí tuệ nhân tạo AI và bản quyền thiết kế. Theo chuẩn mực kế toán Mỹ US GAAP ASC 730, toàn bộ khoản tiền này hạch toán vào Chi phí vận hành chứ không nằm trong giá vốn sản xuất.
+
+Nếu chỉ tính riêng chi phí nguyên vật liệu và linh kiện trực tiếp cấu thành nên chiếc xe, thì giá vốn thực tế hoàn toàn có thể cho VinFast một biên lợi nhuận gộp dương.
+
+Ở chương trước, chúng ta đã giật mình trước hai con số lỗ ròng kỷ lục: 77.000 tỷ đồng năm 2024 và dội lên 97.000 tỷ đồng năm 2025. Tại sao doanh số bán xe tăng gấp đôi, mà khoản lỗ ròng lại dội thêm 20.000 tỷ đồng?
+
+Bóc tách con số 97.000 tỷ lỗ ròng đó ra, bên cạnh chi phí bán hàng và chi phí lãi vay, thì hố đen lớn nhất xuất phát ngay từ Giá vốn hàng bán: Khoản lỗ gộp trực tiếp ở khâu sản xuất đã bị đẩy từ 25.000 tỷ năm 2024 vọt lên 38.000 tỷ đồng năm 2025!
+
+Tức là năm 2024, cứ bán một chiếc xe giá 100 đồng, chi phí giá vốn hạch toán tạo thành chiếc xe đó lại bị dội lên tận 157 đồng.
+
+Câu trả lời cho sự phi lý này nằm ở thành tố thứ ba — kẻ thù giấu mặt nằm ngay trong Giá vốn hàng bán: Chi phí khấu hao nhà máy nhàn rỗi.
+
+Tổ hợp nhà máy Hải Phòng được VinFast đầu tư hàng tỷ đô la, thiết kế cho công suất 300.000 xe mỗi năm. Nhưng năm 2024, hãng chỉ bán được hơn 97.000 xe, tức nhà máy chỉ chạy dưới 40% công suất. Báo cáo kiểm toán chỉ ra nguyên lý kế toán tàn nhẫn theo chuẩn US GAAP ASC 330: Tiền khấu hao máy móc, tiền thuê đất và bảo trì của hơn 60% nhà máy nhàn rỗi còn lại không tự dưng mất đi. Nó bắt buộc phải phân bổ đè thẳng vào giá vốn hàng bán của 97.000 chiếc xe thực tế xuất xưởng.
+
+Hãy hình dung: Một chiếc xe vốn dĩ chi phí linh kiện làm ra chỉ 600 triệu, nhưng bị cộng thêm khoảng 350 triệu tiền "gánh nợ nuôi dây chuyền vắng khách", đẩy giá thành hạch toán lên gần 1 tỷ đồng.
+
+Đến đây, nhiều người sẽ thắc mắc: Khi VinFast bán được nhiều xe hơn, chi phí khấu hao nhà máy chia đều cho từng chiếc xe phải nhỏ đi chứ?
+
+Đúng như vậy! Khi doanh số tăng từ hơn 97.000 xe năm 2024 lên gần 197.000 xe năm 2025, chi phí khấu hao đè lên mỗi chiếc xe quả thực đã giảm bớt, giúp biên lỗ gộp thu hẹp từ âm 57,4% xuống âm 42,5%.
+
+Nhưng cạm bẫy nằm ở chỗ: Do giá bán chưa gánh nổi tổng chi phí sản xuất cố định, VinFast vẫn chịu lỗ trên từng chiếc xe. Khi nhân mức lỗ đó với quy mô bán hàng tăng gấp đôi, tổng số tiền lỗ gộp không giảm mà lại dội từ 25.000 tỷ lên 38.000 tỷ đồng! Cộng thêm chi phí tài chính và tiền lãi vay xây nhà máy, tổng số lỗ ròng đã bị kéo vọt lên con số 97.000 tỷ đồng. Doanh số tăng giúp chỉ số phần trăm lỗ trông đẹp hơn, nhưng số tiền mặt thực tế bị bào mòn mỗi ngày lại lớn hơn.
+
+Nói cách khác, nếu cứ tiếp tục vừa bán xe vừa tự gánh nhà máy và các khoản nợ vay, VinFast sẽ chạy đua với thời gian: phải bán đủ nhiều xe để vượt qua điểm hòa vốn trước khi dòng tiền cạn kiệt. Và đó chính là lý do buộc tỷ phú Phạm Nhật Vượng đến giữa năm 2026 phải thay đổi toàn bộ cấu trúc: Tách mảng sản xuất ra khỏi VinFast.
+
+Vậy phép tách đó hoạt động như thế nào, và nó thực sự thay đổi được gì trên sổ sách tài chính?

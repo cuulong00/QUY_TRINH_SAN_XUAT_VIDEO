@@ -1,0 +1,140 @@
+CH03_SC001a [IMAGE]: A wide-angle cinematic view of the corporate headquarters of Toyota and BYD facing each other under dusk skies, dark warm charcoal (#1A1A1A) background with warm cream (#FFFDF0) outlines, in a semi-realistic editorial illustration style, minimalist graphic novel aesthetic, dramatic chiaroscuro lighting, deep noir shadows --ar 16:9
+CH03_SC001a [VIDEO]: @CH03_SC001a.png -> slow panning camera shot across the two corporate headquarters preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC001b [IMAGE]: A financial media newsroom screen displaying headline graphics reading Pure EVs Dominating World glowing in soft blue neon light, in a semi-realistic editorial illustration style, dark noir shadows --ar 16:9
+CH03_SC001b [VIDEO]: @CH03_SC001b.png -> slow push-in dolly shot toward the newsroom screen preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC002 [IMAGE]: Sleek electric vehicles gliding silently down a rainy city boulevard at night, pushing traditional internal combustion engine sedans into the shadowy background, in a semi-realistic editorial illustration style, terracotta orange highlights (#FF7043) --ar 16:9
+CH03_SC002 [VIDEO]: @CH03_SC002.png -> low-angle forward tracking camera shot following the electric vehicles preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC003 [IMAGE]: A media illusion layer peeling back to reveal a real-world automotive sales structure diagram underneath, in a semi-realistic editorial illustration style, chiaroscuro contrast --ar 16:9
+CH03_SC003 [VIDEO]: @CH03_SC003.png -> slow zoom-in camera shot revealing the underlying data diagram preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC004a [IMAGE]: A sales breakdown diagram of BYD dividing vehicle volume between Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), in a semi-realistic editorial illustration style, dark warm charcoal background --ar 16:9
+CH03_SC004a [VIDEO]: @CH03_SC004a.png -> slow tilt-down camera move along the sales breakdown chart preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC004b [IMAGE]: The physical chassis of a BYD DM-i vehicle showcasing the PHEV powertrain with a mechanical clutch disk and flat Blade Battery pack, in a semi-realistic editorial illustration style, electric sage green highlights (#81C784), with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "PHEV vs HEV BATTLE" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC004b [VIDEO]: @CH03_SC004b.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC005 [IMAGE]: A technical engineering schematic of the BYD DM-i system illustrating the Electric-Priority Architecture with the primary electric traction motor highlighted, in a semi-realistic editorial illustration style, dark charcoal background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "ELECTRIC-PRIORITY ARCHITECTURE" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC005 [VIDEO]: @CH03_SC005.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC006 [IMAGE]: A BYD DM-i vehicle plugged into a home EV charging station at night, home power grid charging the flat Blade Battery pack under the floorboard, in a semi-realistic editorial illustration style, turquoise highlights (#26A69A) --ar 16:9
+CH03_SC006 [VIDEO]: @CH03_SC006.png -> slow push-in camera move toward the charging plug preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC007 [IMAGE]: A technical cutaway blueprint of the front engine bay showing a 1.5L Xiaoyun gasoline engine and fuel tank located beneath the hood, in a semi-realistic editorial illustration style, slate silver tones --ar 16:9
+CH03_SC007 [VIDEO]: @CH03_SC007.png -> slow rotation camera move around the engine bay cutaway preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC008 [IMAGE]: A BYD vehicle driving along a night highway as battery level drops and the Xiaoyun gasoline engine automatically activates smoothly, in a semi-realistic editorial illustration style, dark indigo atmosphere --ar 16:9
+CH03_SC008 [VIDEO]: @CH03_SC008.png -> smooth side tracking camera shot following the vehicle on the highway preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC009a [IMAGE]: A mechanical transmission schematic showing the gasoline engine disconnected from the wheel axle drive during low-speed urban driving, in a semi-realistic editorial illustration style, chiaroscuro lighting --ar 16:9
+CH03_SC009a [VIDEO]: @CH03_SC009a.png -> subtle zoom-in camera shot on the axle disconnect mechanism preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC009b [IMAGE]: The Xiaoyun 1.5L engine operating at high thermal efficiency acting purely as a generator feeding electrical current to the traction motor glowing in turquoise (#26A69A), in a semi-realistic editorial illustration style --ar 16:9
+CH03_SC009b [VIDEO]: @CH03_SC009b.png -> slow tracking camera shot following the electrical current flow preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC010 [IMAGE]: A close-up engineering view of a steel mechanical clutch disk locking into direct drive engagement between the gasoline engine and front wheels at 100 km/h highway speed, in a semi-realistic editorial illustration style, metallic chrome textures --ar 16:9
+CH03_SC010 [VIDEO]: @CH03_SC010.png -> slow push-in dolly shot on the mechanical clutch lock preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC011a [IMAGE]: A driver confidently navigating a long-distance scenic highway through remote terrain without range anxiety, in a semi-realistic editorial illustration style, warm organic lighting --ar 16:9
+CH03_SC011a [VIDEO]: @CH03_SC011a.png -> wide tracking camera shot along the highway preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC011b [IMAGE]: An abstract door of market growth opening wide as a flood of BYD DM-i hybrid vehicles rolls out, in a semi-realistic editorial illustration style, terracotta orange highlights (#FF7043) --ar 16:9
+CH03_SC011b [VIDEO]: @CH03_SC011b.png -> slow pan right camera move showing the market expansion preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC012 [IMAGE]: A sales milestone scoreboard displaying a record-breaking 4.6 Million BYD Vehicles sold in 2025 in bright terracotta orange typography, in a semi-realistic editorial illustration style, dark charcoal background --ar 16:9
+CH03_SC012 [VIDEO]: @CH03_SC012.png -> slow push-in camera move toward the sales scoreboard preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC013 [IMAGE]: A breakdown pie chart of BYD vehicle sales highlighting that over 50% of total volume consists of Plug-in Hybrid vehicles (PHEVs), in a semi-realistic editorial illustration style, dark warm background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "OVER 50% PHEV SALES" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC013 [VIDEO]: @CH03_SC013.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC014a [IMAGE]: A BYD electric vehicle competing side by side with a Tesla sedan on a high-speed test track, in a semi-realistic editorial illustration style, sleek lighting contrast --ar 16:9
+CH03_SC014a [VIDEO]: @CH03_SC014a.png -> dynamic low-angle tracking camera move following the competing vehicles preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC014b [IMAGE]: A market share pie chart showing the BYD PHEV segment slice expanding directly into the market share slice of traditional gasoline vehicles, in a semi-realistic editorial illustration style, chiaroscuro contrast --ar 16:9
+CH03_SC014b [VIDEO]: @CH03_SC014b.png -> slow tilt-down camera move across the market share pie chart preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC015a [IMAGE]: The 4.6 million sales volume stat graphic casting a long dramatic shadow in crimson red (#EF5350) across a financial floor, in a semi-realistic editorial illustration style, deep noir shadows --ar 16:9
+CH03_SC015a [VIDEO]: @CH03_SC015a.png -> slow push-in dolly shot toward the financial shadow preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC015b [IMAGE]: A corporate balance sheet showing financial metrics flickering warning lights in crimson red, in a semi-realistic editorial illustration style, dark charcoal background --ar 16:9
+CH03_SC015b [VIDEO]: @CH03_SC015b.png -> subtle zoom-in shot on the balance sheet warning indicators preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC016 [IMAGE]: A map of China highlighting that 77% of total BYD vehicle sales are currently trapped within the domestic market in glowing crimson red (#EF5350), in a semi-realistic editorial illustration style, dark warm background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "77% DOMESTIC MARKET DEPENDENCE" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC016 [VIDEO]: @CH03_SC016.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC017 [IMAGE]: Fierce price war discount banners displayed across domestic Chinese auto dealerships, profit margin charts compressed paper-thin, in a semi-realistic editorial illustration style, terracotta orange highlights --ar 16:9
+CH03_SC017 [VIDEO]: @CH03_SC017.png -> slow tracking camera shot past the price war banners preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC018a [IMAGE]: A financial report of BYD short-term debt surging to $9.1 Billion in early 2026 glowing in crimson red in a corporate financial hall, in a semi-realistic editorial illustration style, dark warm background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "BYD $9.1B SHORT-TERM DEBT" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC018a [VIDEO]: @CH03_SC018a.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC018b [IMAGE]: A financial working capital deficit chart showing a negative shortfall surpassing -$16 Billion highlighted in crimson warning tones, in a semi-realistic editorial illustration style --ar 16:9
+CH03_SC018b [VIDEO]: @CH03_SC018b.png -> slow tilt-down camera move along the deficit chart preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC018c [IMAGE]: A massive staging yard filled with tens of thousands of unsold vehicles valued at $22 Billion standing silently under overcast rain, in a semi-realistic editorial illustration style, dark olive background (#1E2522), with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "$22B INVENTORY SURPLUS" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC018c [VIDEO]: @CH03_SC018c.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC019a [IMAGE]: An operating cash flow chart showing a steep decline alongside domestic Chinese market saturation indicators, in a semi-realistic editorial illustration style, chiaroscuro contrast --ar 16:9
+CH03_SC019a [VIDEO]: @CH03_SC019a.png -> slow push-in camera move toward the declining cash flow graph preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC019b [IMAGE]: The BYD Explorer car carrier ship hoisting anchor and sailing out of port into open ocean waters under dramatic overcast skies, in a semi-realistic editorial illustration style, deep noir shadows --ar 16:9
+CH03_SC019b [VIDEO]: @CH03_SC019b.png -> wide slow panning camera shot following the cargo ship departure preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC020 [IMAGE]: Global shipping route lines extending from China to major seaport terminals in Europe, Southeast Asia, and South America, in a semi-realistic editorial illustration style, slate silver tones --ar 16:9
+CH03_SC020 [VIDEO]: @CH03_SC020.png -> smooth pan right camera move following the shipping route lines preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC021 [IMAGE]: The Toyota corporate headquarters tower in Japan illuminated brightly in turquoise (#26A69A) against a stable global market foundation, in a semi-realistic editorial illustration style, sleek lighting --ar 16:9
+CH03_SC021 [VIDEO]: @CH03_SC021.png -> low-angle tilt-up camera shot showing the corporate tower preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC022 [IMAGE]: A secure corporate vault illustration displaying positive operating cash flow and cash reserves surpassing $31 Billion, in a semi-realistic editorial illustration style, electric sage green highlights (#81C784) --ar 16:9
+CH03_SC022 [VIDEO]: @CH03_SC022.png -> slow push-in dolly shot toward the corporate cash reserves preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC023 [IMAGE]: A map of Japan showing domestic sales representing only a small fraction of Toyota overall global footprint, in a semi-realistic editorial illustration style, dark warm charcoal background --ar 16:9
+CH03_SC023 [VIDEO]: @CH03_SC023.png -> slow zoom-out camera move from Japan to the global map preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC024a [IMAGE]: The 11.32 million global sales stat graphic of Toyota radiating outward across international continents, in a semi-realistic editorial illustration style, silver chrome typography --ar 16:9
+CH03_SC024a [VIDEO]: @CH03_SC024a.png -> slow panning camera shot across the international sales map preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC024b [IMAGE]: A global sales distribution pie chart displaying 83% of Toyota volume coming from international markets outside Japan, in a semi-realistic editorial illustration style, electric sage green highlights (#81C784), with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "TOYOTA 83% GLOBAL SALES" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC024b [VIDEO]: @CH03_SC024b.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC025 [IMAGE]: A financial fortress illustration representing Toyota solid market strongholds in North America and emerging Asian markets, in a semi-realistic editorial illustration style, dark noir shadows --ar 16:9
+CH03_SC025 [VIDEO]: @CH03_SC025.png -> low-angle slow push-in camera shot toward the financial fortress preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC026a [IMAGE]: A close-up engineering view of Toyota e-CVT planetary gearset reflecting dramatic chiaroscuro lighting, in a semi-realistic editorial illustration style, metallic chrome textures --ar 16:9
+CH03_SC026a [VIDEO]: @CH03_SC026a.png -> slow rotation camera move around the planetary gearset preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC026b [IMAGE]: A Toyota Prius Hybrid driving smoothly through a city, illustrating the seamless integration between the gasoline engine and electric motor, in a semi-realistic editorial illustration style, slate silver tones --ar 16:9
+CH03_SC026b [VIDEO]: @CH03_SC026b.png -> smooth side tracking camera shot following the vehicle preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC027 [IMAGE]: A detailed cutaway diagram of Toyota e-CVT planetary gearset automatically regulating power split and regenerative braking power flow, in a semi-realistic editorial illustration style, turquoise highlights (#26A69A), with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "TOYOTA SELF-CHARGING HEV" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC027 [VIDEO]: @CH03_SC027.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC028a [IMAGE]: A Toyota Hybrid vehicle slowing down at a city intersection, no external charging cable required, in a semi-realistic editorial illustration style, warm cream outlines --ar 16:9
+CH03_SC028a [VIDEO]: @CH03_SC028a.png -> slow push-in camera move toward the braking vehicle preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC028b [IMAGE]: A regenerative braking energy flow diagram showing kinetic braking energy converting into electrical power to recharge a compact battery pack, in a semi-realistic editorial illustration style, electric sage green highlights (#81C784) --ar 16:9
+CH03_SC028b [VIDEO]: @CH03_SC028b.png -> slow tracking camera move along the energy recharge path preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC029 [IMAGE]: A global automotive market map unpeeling media headlines to reveal two dominant hybrid forces controlling the playing field, in a semi-realistic editorial illustration style, dark charcoal background --ar 16:9
+CH03_SC029 [VIDEO]: @CH03_SC029.png -> slow zoom-in camera shot revealing the two hybrid forces preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC030a [IMAGE]: A Toyota Hybrid car and a BYD DM-i Plug-in Hybrid car driving side by side on a global racetrack, expanding their market share footprints, in a semi-realistic editorial illustration style, dramatic lighting contrast --ar 16:9
+CH03_SC030a [VIDEO]: @CH03_SC030a.png -> low-angle forward tracking camera shot following both vehicles preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC030b [IMAGE]: An illustration of two hybrid vehicles standing prominently at the center of global automotive sales volume, in a semi-realistic editorial illustration style, slate silver tones --ar 16:9
+CH03_SC030b [VIDEO]: @CH03_SC030b.png -> slow push-in dolly shot toward the center hybrid vehicles preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC031a [IMAGE]: A head-to-head confrontation split graphic between a Plug-in Hybrid vehicle and a Self-Charging Hybrid vehicle, in a semi-realistic editorial illustration style, chiaroscuro contrast --ar 16:9
+CH03_SC031a [VIDEO]: @CH03_SC031a.png -> slow pan right camera move across the head-to-head graphic preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC031b [IMAGE]: A comparison table graphic contrasting PHEV (China) vs HEV (Japan) technical features glowing in terracotta orange and turquoise, in a semi-realistic editorial illustration style, dark warm background, with facing the camera directly, perfectly horizontal and straight 3D text overlay reading "PHEV (CHINA) vs HEV (JAPAN)" in bold clean typography with heavy black drop shadow --ar 16:9
+CH03_SC031b [VIDEO]: @CH03_SC031b.png -> steady shot preserving all details and static graphic layers of the reference image exactly without any character morphing or alterations, 8-second continuous documentary video --ar 16:9
+
+CH03_SC032a [IMAGE]: A symbolic view of the Toyota corporate throne in the distance with a BYD vehicle advancing up a steep steep infrastructure slope toward it, in a semi-realistic editorial illustration style, deep noir shadows --ar 16:9
+CH03_SC032a [VIDEO]: @CH03_SC032a.png -> slow tilt-up camera move along the steep slope preserving the details of the reference image, 8-second continuous documentary video --ar 16:9
+
+CH03_SC032b [IMAGE]: A 3S/4S service network diagram and spare parts supply chain warehouse illustration leading into Chapter 4, in a semi-realistic editorial illustration style, dark warm charcoal background --ar 16:9
+CH03_SC032b [VIDEO]: @CH03_SC032b.png -> slow zoom-in camera shot toward the 3S/4S warehouse schematic preserving the details of the reference image, 8-second continuous documentary video --ar 16:9

@@ -1,0 +1,19 @@
+Câu hỏi đó nghe có vẻ đơn giản. Nhưng nó chính là rào cản lớn nhất mà Phú Quốc phải vượt qua trước khi bất kỳ đồng đô la nào từ các quỹ tín thác hay định chế tài chính quốc tế thực sự cập bến.
+
+Singapore, Hong Kong, London, Dubai. Gần như toàn bộ các trung tâm tài chính hàng đầu thế giới đều vận hành trên nền tảng Thông luật, hay Common Law. Hệ thống này cho phép thẩm phán tạo án lệ mới. Khi một công cụ tài chính chưa từng tồn tại xuất hiện, luật pháp thích ứng gần như ngay lập tức. Cơ chế trọng tài quốc tế như Si-ác tại Singapore cho phép các bên tranh chấp tự chọn luật áp dụng, giải quyết bảo mật, nhanh gọn. Đó là tấm khiên mà giới siêu giàu toàn cầu tin tưởng tuyệt đối.
+
+Việt Nam vận hành theo hệ thống khác hoàn toàn. Dân luật. Doanh nghiệp chỉ được làm những gì luật cho phép rõ ràng bằng văn bản. Quy trình ban hành luật mới thường chậm hơn thực tiễn kinh doanh từ ba đến năm năm.
+
+Nói cách khác, đó là ngõ cụt.
+
+Năm hai ngàn không trăm mười tám, Chính phủ từng đưa dự thảo Luật Đặc khu ra Quốc hội để phá vỡ rào cản này. Nhưng nó phải tạm dừng vì những lo ngại chính đáng về thời hạn cho thuê đất chín mươi chín năm và các rủi ro an ninh. Thất bại đó buộc toàn bộ chiến lược phải thiết kế lại từ đầu.
+
+Và đây là nơi câu chuyện rẽ hướng.
+
+Thay vì một đạo luật bao trùm thay đổi cả hệ thống, Phú Quốc đang được thiết kế theo mô hình Sandbox. Một khung thử nghiệm có kiểm soát, nơi luật chơi quốc tế được phép vận hành song song ngay trên lãnh thổ Việt Nam mà không cần thay đổi hệ thống pháp luật quốc gia.
+
+Hãy hình dung thế này. Toàn bộ Việt Nam là một tòa nhà vận hành theo một bộ quy tắc. Phú Quốc là một tầng riêng trong tòa nhà đó, được phép thí điểm bộ quy tắc khác. Thừa nhận phán quyết trọng tài quốc tế. Nới lỏng kiểm soát ngoại hối. Bảo vệ quyền tài sản nhà đầu tư nước ngoài theo chuẩn quốc tế.
+
+Không dừng ở đó. Tháng sáu năm hai ngàn không trăm hai mươi sáu, đề án thí điểm Khu Thương mại Tự do mười năm tại Phú Quốc đã chính thức trình lên Chính phủ. Nghị định hai trăm hai mươi mốt ban hành năm hai ngàn không trăm hai mươi lăm mở chính sách miễn thuế thu nhập cá nhân hoàn toàn trong năm năm đầu, giảm năm mươi phần trăm trong năm năm tiếp theo cho chuyên gia quốc tế. Quyền phê duyệt đầu tư được phân cấp thẳng cho chính quyền tỉnh, cắt bỏ hàng loạt tầng nấc trung gian.
+
+Cơ chế pháp lý đã có. Nhưng một đặc khu không thể vận hành chỉ bằng giấy phép và ưu đãi thuế. Để kết nối đồng thời với Bangkok, Kuala Lumpur và Singapore chỉ trong hai giờ bay, hòn đảo này cần thứ mà nó chưa bao giờ có: một hệ thống giao thông xứng tầm đô thị quốc tế.

@@ -1,0 +1,13 @@
+# chapter_07.md
+
+Khi nhìn vào bức tranh toàn cảnh mà Toyota và Bi Oai Đi đang vẽ ra, truyền thông thường đặt câu hỏi: Liệu xe điện có phải là một bong bóng sắp vỡ, và xe lai mới là xu hướng tất yếu? Giới phân tích công nghiệp không nghĩ như vậy. Sự trỗi dậy của xe Hybrid hiện tại chỉ là một nhịp điệu điều chỉnh của thị trường. Nó đóng vai trò như một "cây cầu chuyển tiếp" giúp người dùng làm quen với điện khí hóa trong lúc hạ tầng sạc chưa theo kịp. Đích đến cuối cùng của thập kỷ tới, được bảo chứng bởi các đạo luật cấm xe xăng và rào cản vật lý đang dần được phá vỡ, vẫn là kỷ nguyên thuần điện. 
+
+Chính tại ngã rẽ này, định vị của VinFast trở nên đặc biệt rõ nét. Nếu Toyota là nhà vua phòng thủ trên cây cầu Hybrid, còn Bi Oai Đi là kẻ thách thức đang bành trướng thị phần bằng xe lai giá rẻ, thì VinFast chọn vai trò của một "kẻ nhảy vọt". Tại đại hội đồng cổ đông năm hai ngàn không trăm hai mươi sáu, lãnh đạo VinFast đã khẳng định dứt khoát: Họ sẽ không lùi bước sản xuất xe lai truyền thống để tranh giành lợi ích ngắn hạn. VinFast xác định "mãi mãi là hãng xe điện".
+
+Tuy nhiên, kiên định không đồng nghĩa với bảo thủ. Để giải quyết rào cản về phạm vi hoạt động ở các thị trường quốc tế, thay vì lắp thêm động cơ xăng để truyền động trực tiếp xuống bánh xe như Hybrid, VinFast đang nghiên cứu công nghệ e rờ e vê. Với giải pháp này, chiếc xe vẫn vận hành một trăm phần trăm bằng mô-tơ điện, nhưng mang theo một động cơ xăng cỡ nhỏ đóng vai trò như "máy phát điện khẩn cấp" để sạc cho pin. Đây là nước đi ngách tinh tế: Vừa bảo toàn triết lý thuần điện cốt lõi, vừa triệt tiêu nỗi lo hết pin giữa đường của người dùng.
+
+Hơn thế nữa, để đối đầu với các gã khổng lồ, VinFast áp dụng chiến lược R&D hoàn toàn đối lập với Bi Oai Đi. Nếu Bi Oai Đi khép kín tự sản xuất bảy mươi lăm phần trăm linh kiện để tối ưu chi phí, thì VinFast chọn cách "đứng trên vai người khổng lồ". Họ không tự làm mọi thứ từ con số không. Thay vào đó, VinFast rót vốn và bắt tay với các đối tác hàng đầu thế giới: Hợp tác với StoreDot để làm công nghệ sạc siêu tốc, đồng hành cùng ProLogium để chuẩn bị sẵn sàng cho kỷ nguyên Pin thể rắn, và tích hợp nền tảng của en vi đi a để phát triển hệ thống tự lái cấp độ bốn. 
+
+Cuộc đua giữa các thế lực ô tô, suy cho cùng, không phải là một trận chiến một mất một còn. Nó là một nỗ lực mở rộng giới hạn công nghệ của toàn nhân loại. Bất kể nền tảng nào sẽ dẫn dắt thị trường trong thập kỷ tới, thì việc VinFast dám bước ra biển lớn và chơi một ván cờ sòng phẳng với các thế lực tỷ đô đã là một dấu ấn đáng ghi nhận. 
+
+Cảm ơn các bạn đã theo dõi Góc Nhìn Podcast. Hãy nhấn nút đăng ký để không bỏ lỡ những phân tích chuyên sâu về kinh tế và công nghệ trong các tập tiếp theo. Xin chào và hẹn gặp lại.

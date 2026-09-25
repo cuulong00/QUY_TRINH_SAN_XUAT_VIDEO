@@ -1,0 +1,110 @@
+[
+  {
+    "scene_id": "CH04_SC004",
+    "thoai": "Thế nhưng, đây là một ngụy biện bù nhìn rơm điển hình.",
+    "chart_type": "Fallacy Refutation Card",
+    "core_data_and_title": "Bác bỏ ngụy biện bù nhìn rơm: STRAWMAN FALLACY REFUTATION. Không phải mọi sân golf đều cần bất động sản để tồn tại.",
+    "layout_hierarchy": "Nền Slate #1E293B, dấu gạch chéo đỏ san hô #EF5350 đè lên định kiến một chiều.",
+    "palette_and_animation": "Điểm nhấn đỏ san hô và xanh ngọc.",
+    "text_overlay": "BOTTOM LEFT | STRAWMAN FALLACY REFUTED"
+  },
+  {
+    "scene_id": "CH04_SC008",
+    "thoai": "Theo báo cáo của Tổng cục Du lịch Thái Lan, đất nước này hiện sở hữu hơn ba trăm sân golf tiêu chuẩn quốc tế.",
+    "chart_type": "Thailand National Golf Footprint Card",
+    "core_data_and_title": "Thống kê Tổng cục Du lịch Thái Lan (TAT): THAILAND: >300 CHAMPIONSHIP GOLF COURSES đang hoạt động nhộn nhịp.",
+    "layout_hierarchy": "Nền Slate #1E293B, con số 300+ hiển thị to rõ nét viền vàng hổ phách #F59E0B.",
+    "palette_and_animation": "Điểm nhấn vàng hổ phách và xanh lục.",
+    "text_overlay": "BOTTOM LEFT | THAILAND: >300 GOLF COURSES"
+  },
+  {
+    "scene_id": "CH04_SC009",
+    "thoai": "Ngành công nghiệp golf mang về cho nền kinh tế Thái Lan gần hai tỷ đô la Mỹ mỗi năm.",
+    "chart_type": "Foreign Currency Revenue Card",
+    "core_data_and_title": "Nguồn thu ngoại tệ quốc gia: THAILAND GOLF TOURISM REVENUE: ~ $2.0 BILLION USD / YEAR.",
+    "layout_hierarchy": "Nền Slate #2A323D, con số $2.0 BILLION USD màu xanh lục Emerald #10B981 phát sáng rực rỡ.",
+    "palette_and_animation": "Điểm nhấn xanh lục và vàng champagne.",
+    "text_overlay": "BOTTOM LEFT | THAILAND: ~ $2.0 BILLION USD/YEAR"
+  },
+  {
+    "scene_id": "CH04_SC011",
+    "thoai": "Theo Hiệp hội Du lịch Golf Quốc tế, một du khách thông thường chi khoảng một trăm ba mươi đô la mỗi ngày.",
+    "chart_type": "Mass Tourist Spending Card",
+    "core_data_and_title": "Mức chi tiêu khách du lịch thông thường (IAGTO data): MASS TOURIST DAILY SPENDING: ~ $130 USD / DAY.",
+    "layout_hierarchy": "Nền Slate #1E293B, cột chi tiêu phổ thông màu xám bạc làm mốc so sánh.",
+    "palette_and_animation": "Điểm nhấn xám slate và ngà kem #FAF7EE.",
+    "text_overlay": "BOTTOM LEFT | MASS TOURIST: $130 USD/DAY"
+  },
+  {
+    "scene_id": "CH04_SC012",
+    "thoai": "Nhưng một golfer quốc tế chi tiêu tới bốn trăm đô la mỗi ngày.",
+    "chart_type": "Golfer Spending Surge Card",
+    "core_data_and_title": "Chi tiêu của du khách chơi golf quốc tế: GOLFER DAILY SPENDING: $400 USD / DAY (GẤP 3 LẦN KHÁCH PHỔ THÔNG).",
+    "layout_hierarchy": "Nền Slate #2A323D, cột chi tiêu golfer cao vút màu xanh lục Emerald #10B981.",
+    "palette_and_animation": "Điểm nhấn xanh lục và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | GOLFER SPENDING: $400 USD/DAY (3X)"
+  },
+  {
+    "scene_id": "CH04_SC019",
+    "thoai": "Trong kinh tế học, giáo sư Michael Porter gọi đây là lý thuyết cụm ngành.",
+    "chart_type": "Michael Porter Cluster Theory Card",
+    "core_data_and_title": "Lý thuyết cụm ngành Michael Porter: PORTER'S CLUSTER THEORY. Sự liên kết địa lý giữa các doanh nghiệp tạo ra sức cạnh tranh toàn cầu.",
+    "layout_hierarchy": "Nền Slate #1E293B, sơ đồ kim cương liên kết 4 đỉnh phát sáng màu xanh lục #10B981.",
+    "palette_and_animation": "Điểm nhấn xanh ngọc và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | MICHAEL PORTER: CLUSTER THEORY"
+  },
+  {
+    "scene_id": "CH04_SC025",
+    "thoai": "Dữ liệu thực tế cho thấy, tỷ lệ khách quốc tế tại các sân này đạt từ sáu mươi đến bảy mươi lăm phần trăm.",
+    "chart_type": "International Customer Dominance Pie",
+    "core_data_and_title": "Cơ cấu khách hàng Vietnam Golf Coast: 60% - 75% KHÁCH QUỐC TẾ (HÀN QUỐC, NHẬT BẢN, ĐÀI LOAN).",
+    "layout_hierarchy": "Nền Slate #2A323D, mảng khách quốc tế áp đảo màu xanh lục Emerald #10B981.",
+    "palette_and_animation": "Điểm nhấn xanh lục và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | 60% - 75% INTERNATIONAL GOLFERS"
+  },
+  {
+    "scene_id": "CH04_SC029",
+    "thoai": "Khách quốc tế sẵn sàng chi trả từ một trăm hai mươi đến một trăm tám mươi đô la cho một vòng chơi.",
+    "chart_type": "International Round Pricing Card",
+    "core_data_and_title": "Giá dịch vụ vòng chơi quốc tế: INTERNATIONAL ROUND FEE: $120 - $180 USD / ROUND (3.0 - 4.5 triệu VND/vòng chơi).",
+    "layout_hierarchy": "Nền Slate #1E293B, số tiền to rõ ràng kèm icon tiền tệ.",
+    "palette_and_animation": "Điểm nhấn xanh lục và ngà kem #FAF7EE.",
+    "text_overlay": "BOTTOM LEFT | $120 - $180 USD / ROUND"
+  },
+  {
+    "scene_id": "CH04_SC030",
+    "thoai": "Nhờ công suất lấp đầy quanh năm, doanh thu mỗi sân đạt từ tám mươi đến một trăm bốn mươi tỷ đồng một năm.",
+    "chart_type": "Annual Revenue per Course Card",
+    "core_data_and_title": "Doanh thu thường niên mỗi sân miền Trung: ANNUAL REVENUE: 80 - 140 BILLION VND / YEAR nhờ công suất lấp đầy quanh năm.",
+    "layout_hierarchy": "Nền Slate #2A323D, con số doanh thu màu xanh ngọc bích #10B981 phát sáng vững chắc.",
+    "palette_and_animation": "Điểm nhấn xanh ngọc và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | REVENUE: 80 - 140 BILLION VND/YEAR"
+  },
+  {
+    "scene_id": "CH04_SC031a2",
+    "thoai": "mỗi sân tại đây tạo ra dòng tiền dương từ ba mươi đến bảy mươi tỷ đồng mỗi năm.",
+    "chart_type": "Positive Cash Flow Card",
+    "core_data_and_title": "Dòng tiền vận hành dương tự chủ: POSITIVE OPERATING CASH FLOW: +30 TO +70 BILLION VND / YEAR.",
+    "layout_hierarchy": "Nền Slate #1E293B, con số EBITDA dương màu xanh lục Emerald #10B981 phát sáng rực rỡ.",
+    "palette_and_animation": "Điểm nhấn xanh lục và vàng champagne.",
+    "text_overlay": "BOTTOM LEFT | NET CASH FLOW: +30 TO +70B VND"
+  },
+  {
+    "scene_id": "CH04_SC034",
+    "thoai": "Đây là vùng đất có giá trị nông nghiệp gần như bằng không nhưng lại là địa hình hoàn hảo cho sân golf ven biển.",
+    "chart_type": "Land Utility Transformation Card",
+    "core_data_and_title": "Chuyển hóa giá trị đất cát: NÔNG NGHIỆP TRỒNG TRỌT = 0 -> SÂN GOLF LINKS QUỐC TẾ = HÀNG TRIỆU USD NGOẠI TỆ.",
+    "layout_hierarchy": "Nền Slate #1E293B, mũi tên chuyển đổi giá trị màu xanh lục Emerald #10B981.",
+    "palette_and_animation": "Điểm nhấn xanh lục và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | BARREN SAND -> SERVICE EXPORT ENGINE"
+  },
+  {
+    "scene_id": "CH04_SC038",
+    "thoai": "Sự thành bại không nằm ở bản thân môn golf, mà nằm ở việc đặt đúng mô hình vào đúng tọa độ kinh tế.",
+    "chart_type": "Location & Model Fit Matrix",
+    "core_data_and_title": "Ma trận phù hợp mô hình & tọa độ: RIGHT MODEL AT RIGHT LOCATION. Sân links ven biển + Sân bay quốc tế + Khí hậu mùa đông ấm áp.",
+    "layout_hierarchy": "Nền Slate #2A323D, điểm giao thoa tối ưu phát sáng màu xanh lục #10B981.",
+    "palette_and_animation": "Điểm nhấn xanh lục và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | RIGHT MODEL AT RIGHT LOCATION"
+  }
+]

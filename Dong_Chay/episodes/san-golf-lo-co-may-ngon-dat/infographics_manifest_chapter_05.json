@@ -1,0 +1,74 @@
+[
+  {
+    "scene_id": "CH05_SC002",
+    "thoai": "Doanh nghiệp có thể phát hành đợt trái phiếu mới để trả lãi cho đợt trái phiếu cũ.",
+    "chart_type": "Debt Rollover Spiral Card",
+    "core_data_and_title": "Vòng tròn đảo nợ trái phiếu: NEW BOND TRANCHE -> PAY COUPON ON OLD BOND. Vòng xoáy nợ phình to theo cấp số nhân.",
+    "layout_hierarchy": "Nền Slate #1E293B, vòng tròn mũi tên màu cam cảnh báo #FF7043 xoay tròn liên tục.",
+    "palette_and_animation": "Điểm nhấn cam cảnh báo và đỏ san hô #EF5350.",
+    "text_overlay": "BOTTOM LEFT | DEBT ROLLOVER SPIRAL"
+  },
+  {
+    "scene_id": "CH05_SC004",
+    "thoai": "Thế nhưng, chu kỳ tiền tệ không bao giờ đứng yên một chỗ.",
+    "chart_type": "Monetary Cycle Swing Card",
+    "core_data_and_title": "Con lắc chu kỳ tiền tệ vĩ mô: CHEAP MONEY & LOW RATES -> MONETARY TIGHTENING & RATE HIKES.",
+    "layout_hierarchy": "Nền Slate #2A323D, con lắc dao động mạnh mẽ, vạch đo lãi suất tăng dốc đứng.",
+    "palette_and_animation": "Chuyển dịch từ xanh lục sang đỏ san hô #EF5350.",
+    "text_overlay": "BOTTOM LEFT | MONETARY CYCLE REVERSAL"
+  },
+  {
+    "scene_id": "CH05_SC008",
+    "thoai": "Chi phí duy tu mặt cỏ và trả lương nhân sự là bốn mươi tỷ đồng một năm.",
+    "chart_type": "Operating Cost Drain Card",
+    "core_data_and_title": "Chi phí duy tu và nhân sự cố định: MAINTENANCE & PAYROLL OPEX: -40 BILLION VND / YEAR. Nước tưới, phân bón, lương 300 lao động.",
+    "layout_hierarchy": "Nền Slate #1E293B, số tiền màu đỏ san hô #EF5350 kèm icon chi phí rõ nét.",
+    "palette_and_animation": "Điểm nhấn đỏ san hô trên nền kem ngà.",
+    "text_overlay": "BOTTOM LEFT | ANNUAL OPEX: -40 BILLION VND"
+  },
+  {
+    "scene_id": "CH05_SC009",
+    "thoai": "Nghĩa vụ trả lãi và gốc cho các lô trái phiếu nghìn tỷ là một trăm sáu mươi tỷ đồng nữa.",
+    "chart_type": "Debt Service Obligation Card",
+    "core_data_and_title": "Nghĩa vụ nợ trái phiếu nghìn tỷ: BOND DEBT SERVICE: -160 BILLION VND / YEAR. Lãi coupon 12% trên dư nợ trái phiếu.",
+    "layout_hierarchy": "Nền Slate #2A323D, thanh chi phí nợ cao gấp 4 lần chi phí vận hành.",
+    "palette_and_animation": "Cột nợ phát sáng màu cam cảnh báo #FF7043.",
+    "text_overlay": "BOTTOM LEFT | DEBT SERVICE: -160 BILLION VND"
+  },
+  {
+    "scene_id": "CH05_SC010",
+    "thoai": "Cộng hai khoản này lại, mỗi năm doanh nghiệp phải có hai trăm tỷ đồng tiền mặt chỉ để duy trì sự tồn tại.",
+    "chart_type": "Total Cash Drain Equation Card",
+    "core_data_and_title": "Chiếc bẫy tiền mặt thiêu đốt thanh khoản: -40B OPEX + (-160B DEBT) = -200 BILLION VND CASH DRAIN / YEAR (~550 triệu VND/ngày).",
+    "layout_hierarchy": "Nền Slate #1E293B, biểu thức toán học màu đỏ rực rỡ #EF5350.",
+    "palette_and_animation": "Con số -200 tỷ phát sáng chớp nhẹ tạo áp lực kịch tính.",
+    "text_overlay": "BOTTOM LEFT | CASH DRAIN: -200 BILLION VND/YEAR"
+  },
+  {
+    "scene_id": "CH05_SC018",
+    "thoai": "Thẻ hội viên của câu lạc bộ Koganei tại Tokyo từng chạm đỉnh kỷ lục gần bốn trăm triệu Yên vào năm 1989.",
+    "chart_type": "Koganei Peak Valuation Card",
+    "core_data_and_title": "Đỉnh cao bong bóng thẻ golf Koganei (Tokyo): KOGANEI GOLF MEMBERSHIP PEAK: 400 MILLION YEN (~$3.0 MILLION USD IN 1989).",
+    "layout_hierarchy": "Nền Slate #1E293B, con số 400 triệu Yên mạ vàng kim rực rỡ #F8D469.",
+    "palette_and_animation": "Điểm nhấn vàng kim lấp lánh rồi chững lại ở đỉnh dốc.",
+    "text_overlay": "BOTTOM LEFT | KOGANEI: 400M YEN ($3M USD) IN 1989"
+  },
+  {
+    "scene_id": "CH05_SC022",
+    "thoai": "Giá thẻ hội viên sân golf toàn quốc sụp đổ từ chín mươi đến chín mươi lăm phần trăm.",
+    "chart_type": "Nikkei Golf Membership Collapse Chart",
+    "core_data_and_title": "@nikkei_bubble_golf_chart.jpg -> Đồ thị chỉ số giá thẻ golf Nikkei 1989–1995: NIKKEI GOLF INDEX COLLAPSE: -90% TO -95% DROP.",
+    "layout_hierarchy": "Nền Slate sẫm #0F172A, đường line đỏ san hô #EF5350 cắm thẳng đứng xuống đáy.",
+    "palette_and_animation": "Đường line đỏ rơi dồn dập kèm vệt khói tan biến.",
+    "text_overlay": "BOTTOM LEFT | NIKKEI GOLF INDEX: -95% COLLAPSE"
+  },
+  {
+    "scene_id": "CH05_SC025",
+    "thoai": "Họ để lại cho hệ thống ngân hàng Nhật Bản khoản nợ xấu khổng lồ vượt quá một trăm tỷ đô la Mỹ.",
+    "chart_type": "Banking Non-Performing Loans Shock Card",
+    "core_data_and_title": "Nợ xấu ngân hàng Nhật Bản: JAPANESE BANKING BAD DEBT: > $100 BILLION USD xuất phát từ tài sản bảo đảm sân golf và bất động sản.",
+    "layout_hierarchy": "Nền Slate #1E293B, con số $100 BILLION USD hiển thị to bản viền đỏ rực rỡ #EF5350.",
+    "palette_and_animation": "Cảnh báo khủng hoảng hệ thống tài chính kéo dài.",
+    "text_overlay": "BOTTOM LEFT | GOLF BAD DEBT: > $100 BILLION USD"
+  }
+]

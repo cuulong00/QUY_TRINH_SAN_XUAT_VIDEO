@@ -42,6 +42,10 @@ AutoCapCut/models/
 **/music/
 **/video/
 **/test_images/
+**/video_stripped/
+**/audit_frames/
+**/backup/
+**/infographics/
 storage/thumbnails/*.jpg
 storage/thumbnails/*.png
 storage/logs/*.log

@@ -1,0 +1,65 @@
+[
+  {
+    "scene_id": "CH06_SC003",
+    "thoai": "Bước đi đầu tiên mang tính bước ngoặt là Nghị định số 52 năm 2020 về kinh doanh sân golf.",
+    "description": "Cổng thông tin điện tử Chính phủ: Bản chụp trang đầu Nghị định số 52/2020/NĐ-CP về kinh doanh sân golf, chữ ký của Thủ tướng và dấu mộc đỏ.",
+    "search_query": "Decree 52 2020 ND-CP golf course business Vietnam government portal",
+    "source_recommendation": "Cổng TTĐT Chính phủ / TTXVN",
+    "fair_use_processing": "Cắt 3.5s, tước audio gốc (-an), scale 104%, dán nhãn nguồn.",
+    "text_overlay": "BOTTOM LEFT | DECREE 52/2020/ND-CP"
+  },
+  {
+    "scene_id": "CH06_SC005",
+    "thoai": "Thứ nhất, nghiêm cấm tuyệt đối việc sử dụng đất trồng lúa hai vụ và đất rừng phòng hộ để làm sân golf.",
+    "description": "Cánh đồng lúa hai vụ trĩu hạt vàng óng ả tại đồng bằng Bắc Bộ đang vào mùa gặt, người nông dân lái máy gặt đập liên hợp thu hoạch lúa.",
+    "search_query": "paddy rice field harvest combine harvester protected forest Vietnam",
+    "source_recommendation": "VTV Nông nghiệp Archive",
+    "fair_use_processing": "Cắt 3.5s, tước audio gốc (-an), scale 104%, dán nhãn nguồn.",
+    "text_overlay": "BOTTOM LEFT | STRICT BAN: PADDY RICE & FORESTS"
+  },
+  {
+    "scene_id": "CH06_SC008",
+    "thoai": "Doanh nghiệp tuyệt đối không được xây dựng nhà ở thương mại để bán bên trong diện tích đất sân golf.",
+    "description": "Biển cảnh báo quy hoạch tại một dự án sân golf: CẤM XÂY DỰNG NHÀ Ở THƯƠNG MẠI TRONG PHẠM VI SÂN GOLF THEO NGHỊ ĐỊNH 52/2020/NĐ-CP.",
+    "search_query": "construction inspection golf project commercial housing ban Vietnam",
+    "source_recommendation": "Báo Xây Dựng / VTV",
+    "fair_use_processing": "Cắt 3.5s, tước audio gốc (-an), scale 104%, dán nhãn nguồn.",
+    "text_overlay": "Không."
+  },
+  {
+    "scene_id": "CH06_SC010",
+    "thoai": "Nhưng đòn giáng kinh tế quyết định nhất lại đến từ Luật Đất đai năm 2024.",
+    "description": "Hội trường Diên Hồng Nhà Quốc hội: Bảng điện tử biểu quyết hiển thị kết quả thông qua Luật Đất đai (sửa đổi) năm 2024 với tỷ lệ tán thành áp đảo.",
+    "search_query": "National Assembly passes Land Law 2024 voting electronic board Vietnam",
+    "source_recommendation": "Truyền hình Quốc hội (2024)",
+    "fair_use_processing": "Cắt 3.5s, tước audio gốc (-an), scale 104%, dán nhãn nguồn.",
+    "text_overlay": "BOTTOM LEFT | LAND LAW 2024 PASSED"
+  },
+  {
+    "scene_id": "CH06_SC019",
+    "thoai": "Doanh nghiệp không thể ôm một dự án trên giấy để chờ tăng giá đất được nữa.",
+    "description": "Đoàn thanh tra liên ngành của Ủy ban nhân dân tỉnh đi rà soát các dự án chậm tiến độ: Cán bộ cắm mốc đo đạc và lập biên bản xử phạt.",
+    "search_query": "provincial inspection team reviewing delayed land projects Vietnam",
+    "source_recommendation": "Báo Đầu Tư / VTV",
+    "fair_use_processing": "Cắt 3.5s, tước audio gốc (-an), scale 104%, dán nhãn nguồn.",
+    "text_overlay": "Không."
+  },
+  {
+    "scene_id": "CH06_SC022",
+    "thoai": "Luật chỉ làm một việc sòng phẳng là buộc doanh nghiệp phải trả đúng giá thị trường cho từng mét vuông đất công cộng.",
+    "description": "Phiên đấu giá quyền sử dụng đất công khai tại hội trường thành phố: Các nhà đầu tư giơ biển đấu giá công khai, màn hình điện tử hiển thị giá trúng minh bạch.",
+    "search_query": "public land auction auctioneer gavel bidding screen Vietnam",
+    "source_recommendation": "Báo Pháp Luật / VTV Khớp lệnh",
+    "fair_use_processing": "Cắt 3.5s, tước audio gốc (-an), scale 104%, dán nhãn nguồn.",
+    "text_overlay": "BOTTOM LEFT | PAYING TRUE MARKET VALUE"
+  },
+  {
+    "scene_id": "CH06_SC025",
+    "thoai": "Nhưng dưới góc độ tài nguyên và xã hội, một sân golf mang lại gì và lấy đi những gì của nền kinh tế?",
+    "description": "Người nông dân địa phương đứng bên bờ mương nước ngắm nhìn về phía thảm cỏ sân golf xanh mướt bên kia hàng rào, dòng nước tưới chảy qua cánh đồng.",
+    "search_query": "farmer standing near irrigation canal looking at golf course boundary",
+    "source_recommendation": "Truyền hình Nông thôn / VTV Cần Thơ",
+    "fair_use_processing": "Cắt 3.5s, tước audio gốc (-an), scale 104%, dán nhãn nguồn.",
+    "text_overlay": "Không."
+  }
+]

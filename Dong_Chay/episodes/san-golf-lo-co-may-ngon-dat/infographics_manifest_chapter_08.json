@@ -1,0 +1,65 @@
+[
+  {
+    "scene_id": "CH08_SC004a2",
+    "thoai": "công nghệ đã mở ra một lối thoát mang tính cách mạng.",
+    "chart_type": "Creative Destruction Paradigm Shift Card",
+    "core_data_and_title": "Bước ngoặt phá hủy sáng tạo: CREATIVE DESTRUCTION IN SPORTS. Công nghệ mô phỏng và Sportainment giải phóng bộ môn golf.",
+    "layout_hierarchy": "Nền Slate #1E293B, biểu tượng tia sét công nghệ phá vỡ rào cản cũ.",
+    "palette_and_animation": "Điểm nhấn xanh ngọc Cyan #00C2CB và vàng hổ phách #F59E0B.",
+    "text_overlay": "BOTTOM LEFT | CREATIVE DESTRUCTION IN SPORTS"
+  },
+  {
+    "scene_id": "CH08_SC006",
+    "thoai": "Lần đầu tiên, số người chơi golf tại các tổ hợp công nghệ và phòng tập mô phỏng tại Mỹ đạt gần ba mươi ba triệu người.",
+    "chart_type": "Tech & Simulator Participation Card",
+    "core_data_and_title": "Golf công nghệ và mô phỏng tại Mỹ: TECH & SIMULATOR GOLF: 32.9 MILLION PLAYERS.",
+    "layout_hierarchy": "Nền Slate #2A323D, con số 32.9 triệu người phát sáng màu xanh ngọc bích #10B981.",
+    "palette_and_animation": "Điểm nhấn xanh ngọc và vàng champagne.",
+    "text_overlay": "BOTTOM LEFT | TECH & SIMULATOR GOLF: 32.9M PLAYERS"
+  },
+  {
+    "scene_id": "CH08_SC007",
+    "thoai": "Con số này đã chính thức vượt qua con số hai mươi sáu triệu người chơi trên các sân cỏ truyền thống.",
+    "chart_type": "Historic Crossover Chart",
+    "core_data_and_title": "Giao cắt lịch sử: OFF-COURSE (32.9M PLAYERS) CHÍNH THỨC VƯỢT ON-COURSE TRADITIONAL (26.6M PLAYERS).",
+    "layout_hierarchy": "Nền Slate #1E293B, điểm giao cắt (Crossover Point) phát sáng chớp nhẹ.",
+    "palette_and_animation": "Đường xanh ngọc bứt phá dũng mãnh.",
+    "text_overlay": "BOTTOM LEFT | HISTORIC CROSSOVER: 32.9M VS 26.6M"
+  },
+  {
+    "scene_id": "CH08_SC009",
+    "thoai": "Thay vì một trăm héc-ta vùng ven, tổ hợp Topgolf chỉ cần khoảng năm héc-ta ngay trong lòng đô thị.",
+    "chart_type": "Urban Footprint Efficiency Card",
+    "core_data_and_title": "Hiệu quả diện tích đất: SÂN CỎ TRUYỀN THỐNG (80 - 100 HA) vs TỔ HỢP TOPGOLF ĐÔ THỊ (5 HA). TIẾT KIỆM 95% ĐẤT.",
+    "layout_hierarchy": "Nền Slate #2A323D, hai khối hộp diện tích tương phản 20:1 trực quan.",
+    "palette_and_animation": "Khối 5 ha nhỏ gọn phát sáng hiệu quả cao.",
+    "text_overlay": "BOTTOM LEFT | 5 HA URBAN FOOTPRINT (95% LAND SAVED)"
+  },
+  {
+    "scene_id": "CH08_SC013",
+    "thoai": "Nhờ doanh thu dịch vụ ăn uống chiếm hơn một nửa, biên lợi nhuận tại mỗi cơ sở Topgolf đạt tới hơn ba mươi phần trăm.",
+    "chart_type": "Topgolf Venue-Level Margin Breakdown Card (Thẻ cơ cấu biên lợi nhuận cơ sở Topgolf).",
+    "core_data_and_title": "Cơ cấu doanh thu Topgolf: F&B Ẩm thực (52%), Gameplay Thẻ tập (36%), Sự kiện (12%). BIÊN LỢI NHUẬN CƠ SỞ (VENUE-LEVEL EBITDA): >30% (Thực tế đạt 30% - 34% theo BCTC Callaway / Topgolf).",
+    "layout_hierarchy": "Nền Slate `#1E293B`, biểu đồ tròn kết hợp thẻ biên lợi nhuận rực sáng màu xanh lục `#10B981`. Dòng định danh chuẩn mực tài chính: `Biên lợi nhuận cơ sở (Venue EBITDA): >30%`.",
+    "palette_and_animation": "Thẻ Venue EBITDA >30% màu xanh lục phát sáng khẳng định tính hiệu quả vượt trội tại từng cơ sở.",
+    "text_overlay": "`BOTTOM LEFT | BIÊN LỢI NHUẬN CƠ SỞ (VENUE EBITDA): >30%`."
+  },
+  {
+    "scene_id": "CH08_SC016",
+    "thoai": "Hơn năm nghìn phòng máy phục vụ sáu mươi triệu lượt chơi mỗi năm.",
+    "chart_type": "Golfzon Massive Scale Card",
+    "core_data_and_title": "Mạng lưới Golfzon tại Hàn Quốc: 5,000+ CENTERS -> 60 MILLION ROUNDS / YEAR. ĐẤT TỰ NHIÊN TIÊU TỐN: 0 HECTARES.",
+    "layout_hierarchy": "Nền Slate #2A323D, con số 60 triệu lượt chơi hiển thị to bản sắc nét viền xanh ngọc Cyan #00C2CB.",
+    "palette_and_animation": "Con số nhảy tăng tốc mạnh mẽ.",
+    "text_overlay": "BOTTOM LEFT | 5,000 CENTERS: 60M ROUNDS/YEAR"
+  },
+  {
+    "scene_id": "CH08_SC023",
+    "thoai": "Vấn đề luôn nằm ở sự minh bạch về chi phí và tính hiệu quả trong việc phân bổ tài nguyên quốc gia.",
+    "chart_type": "National Resource Allocation Pillars Card",
+    "core_data_and_title": "3 Trụ cột First-Principles tối thượng: (1) MINH BẠCH CHI PHÍ CƠ HỘI, (2) KỶ LUẬT THỊ TRƯỜNG & PHÁP LUẬT, (3) HIỆU QUẢ SỬ DỤNG TÀI NGUYÊN.",
+    "layout_hierarchy": "Nền Slate #1E293B, 3 cột trụ đá cẩm thạch đỡ lấy biểu tượng sự thịnh vượng quốc gia.",
+    "palette_and_animation": "3 cột trụ phát sáng màu xanh lục và vàng hổ phách vững chãi.",
+    "text_overlay": "BOTTOM LEFT | RESOURCE ALLOCATION EFFICIENCY"
+  }
+]

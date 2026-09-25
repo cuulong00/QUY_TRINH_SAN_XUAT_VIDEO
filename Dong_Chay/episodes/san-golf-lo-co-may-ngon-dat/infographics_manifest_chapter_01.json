@@ -1,0 +1,65 @@
+[
+  {
+    "scene_id": "CH01_SC002",
+    "thoai": "Chi phí bảo dưỡng mặt cỏ mỗi năm ngốn thêm ba mươi đến năm mươi tỷ đồng.",
+    "chart_type": "Financial Data Card (Thẻ chi phí vận hành thường niên).",
+    "core_data_and_title": "Thẻ đồ họa tài chính 2D trên nền xám đá slate `#1E293B`. Trung tâm là con số vector `OPEX: 30 - 50 BILLION VND / YEAR` phát sáng màu đỏ san hô `#EF5350`. Xung quanh là 3 icon vector phân bổ: Nước tưới tuần hoàn (35%), Phân bón vi sinh chuyên dụng (30%), Nhân công cắt tỉa mặt cỏ (35%).",
+    "layout_hierarchy": "Nền Slate hiện đại, typography phân cấp rõ nét, các khối số liệu được khoanh vùng bằng viền đỏ cảnh báo.",
+    "palette_and_animation": "Điểm nhấn đỏ san hô `#EF5350` và ngà kem `#FAF7EE`, đồ họa tĩnh 2D sắc nét xuất bản qua Flow Nano Banana 2.",
+    "text_overlay": "`BOTTOM LEFT | OPEX: 30 - 50 BILLION VND/YEAR`."
+  },
+  {
+    "scene_id": "CH01_SC005",
+    "thoai": "Dù đông khách đến đâu, một sân 18 lỗ chỉ đón tối đa khoảng hai trăm lượt người chơi mỗi ngày.",
+    "chart_type": "Capacity Constraint Breakdown (Biểu đồ giới hạn trần công suất vật lý).",
+    "core_data_and_title": "Biểu đồ đồng hồ đo công suất (Capacity Gauge Chart) kim chỉ chạm mức kịch trần: `MAX CAPACITY: 180 - 220 ROUNDS / DAY`. Phía dưới là công thức vật lý: 12 giờ chiếu sáng $\\times$ 4 nhóm/giờ $\\times$ 4 người/nhóm.",
+    "layout_hierarchy": "Nền xám đá slate `#2A323D`, vạch công suất màu hổ phách ấm `#F59E0B`, chữ số hiển thị màu ngà kem `#FAF7EE`.",
+    "palette_and_animation": "Điểm nhấn hổ phách và đỏ cảnh báo khi chạm vạch 200 lượt.",
+    "text_overlay": "`BOTTOM LEFT | PHYSICAL CAPACITY: 180 - 220 ROUNDS/DAY`."
+  },
+  {
+    "scene_id": "CH01_SC008",
+    "thoai": "Với mức giá vé nội địa thông thường, doanh thu tiền vé mỗi năm chỉ dao động quanh mức bốn mươi đến bảy mươi tỷ đồng.",
+    "chart_type": "Domestic Revenue Ceiling Card (Thẻ trần doanh thu tiền vé nội địa thường niên).",
+    "core_data_and_title": "Thẻ tài chính dạng cột ngang: Doanh thu vé green fee nội địa đạt `DOMESTIC REVENUE: 40 - 70 BILLION VND / YEAR` so với mốc Chi phí cố định hàng năm (OpEx + Khấu hao). Cột doanh thu bị chặn đứng bởi một thanh chắn màu cam `#FF7043`.",
+    "layout_hierarchy": "Nền Slate `#1E293B`, đường kẻ gióng mốc giới hạn, các khối số liệu tương phản rõ nét.",
+    "palette_and_animation": "Điểm nhấn cam cảnh báo `#FF7043` và xanh lục `#10B981`.",
+    "text_overlay": "`BOTTOM LEFT | DOMESTIC REVENUE: 40 - 70 BILLION VND/YEAR`."
+  },
+  {
+    "scene_id": "CH01_SC011",
+    "thoai": "Báo cáo của PV-Inconess, đơn vị sở hữu sân golf Hoàng Gia tại hồ Yên Thắng, ghi nhận lỗ ròng suốt mười hai năm liên tiếp.",
+    "chart_type": "Audited Financial Loss Timeline (Biểu đồ lịch sử lỗ ròng 12 năm PV-Inconess).",
+    "core_data_and_title": "Biểu đồ thanh dọc 12 cột màu đỏ san hô `#EF5350` nằm hoàn toàn dưới trục hoành 0: `PV-INCONESS: 12 CONSECUTIVE YEARS OF NET LOSS`. Phía trên ghi chú: Sở hữu Sân golf Hoàng Gia (Royal Golf Club) tại hồ Yên Thắng (Ninh Bình).",
+    "layout_hierarchy": "Trục hoành màu xám bạc, các thanh cột lỗ ròng hiển thị rõ từ năm 2012 đến 2023, nền Slate `#1E293B`.",
+    "palette_and_animation": "Điểm nhấn đỏ san hô `#EF5350` biểu thị sự thâm hụt triền miên.",
+    "text_overlay": "`BOTTOM LEFT | PV-INCONESS: 12 CONSECUTIVE YEARS OF NET LOSS`."
+  },
+  {
+    "scene_id": "CH01_SC014",
+    "thoai": "Để hòa vốn vận hành, một sân golf cần tối thiểu ba mươi nghìn lượt chơi mỗi năm.",
+    "chart_type": "Breakeven Threshold Card (Thẻ ngưỡng hòa vốn vận hành tối thiểu).",
+    "core_data_and_title": "Thẻ dữ liệu tròn hiển thị con số mốc `BREAKEVEN THRESHOLD: 30,000 ROUNDS / YEAR`. Vòng tròn hiển thị tỷ lệ lấp đầy cần thiết là trên 65% công suất tối đa của sân.",
+    "layout_hierarchy": "Nền kem ngà `#FAF7EE` viền vàng hổ phách `#F59E0B`, chữ số to bản sắc nét kiểu Vox.",
+    "palette_and_animation": "Điểm nhấn vàng hổ phách và xanh lục.",
+    "text_overlay": "`BOTTOM LEFT | BREAKEVEN: 30,000 ROUNDS/YEAR`."
+  },
+  {
+    "scene_id": "CH01_SC020",
+    "thoai": "Sân golf trên thực tế đang vận hành dưới ba động lực hoàn toàn trái ngược nhau.",
+    "chart_type": "Tri-Model Macro Landscape (Bản đồ phân nhánh 3 mô hình kinh tế sân golf).",
+    "core_data_and_title": "Sơ đồ 3 nhánh rẽ từ gốc `GOLF COURSE ECONOMICS`: Nhánh 1 (Mô hình A: Du lịch cụm xuất khẩu dịch vụ) màu xanh ngọc `#10B981`; Nhánh 2 (Mô hình B: Mỏ neo địa tô đại đô thị) màu hổ phách `#F59E0B`; Nhánh 3 (Mô hình C: Đòn bẩy tài chính thế chấp đất) màu đỏ san hô `#EF5350`.",
+    "layout_hierarchy": "Nền Slate `#1E293B`, 3 khối hộp đối xứng rõ nét theo chuẩn La bàn 120s.",
+    "palette_and_animation": "3 nhánh phát sáng tuần tự để người xem nắm trọn tấm bản đồ dẫn đường.",
+    "text_overlay": "`BOTTOM LEFT | 3 SYSTEMIC OPERATING MODELS`."
+  },
+  {
+    "scene_id": "CH01_SC024",
+    "thoai": "Nhưng ở mô hình thứ ba, nó biến thành công cụ tài chính, dùng định giá trên giấy để thế chấp vay vốn.",
+    "chart_type": "Financial Collateral Engineering Card (Thẻ kỹ thuật tài chính thế chấp đất).",
+    "core_data_and_title": "Sơ đồ quy đổi tài sản: Bản vẽ dự án trên giấy $\\to$ Báo cáo thẩm định DCF 50 năm $\\to$ Hợp đồng thế chấp ngân hàng và Trái phiếu doanh nghiệp. Dòng chữ `MODEL C: FINANCIAL LEVERAGE & COLLATERAL` màu cam cảnh báo `#FF7043`.",
+    "layout_hierarchy": "Nền Slate `#2A323D`, mũi tên chuyển dịch tài chính, icon hợp đồng và đồng tiền.",
+    "palette_and_animation": "Điểm nhấn cam cảnh báo và đỏ san hô.",
+    "text_overlay": "`BOTTOM LEFT | MODEL C: COLLATERAL LEVERAGE`."
+  }
+]

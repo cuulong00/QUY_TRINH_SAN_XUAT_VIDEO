@@ -1,0 +1,56 @@
+[
+  {
+    "scene_id": "CH06_SC002",
+    "thoai": "Thay vì dùng mệnh lệnh cấm đoán, thể chế đã can thiệp bằng chính các công cụ kinh tế thị trường sòng phẳng.",
+    "chart_type": "Market-Based Regulatory Mechanism Card",
+    "core_data_and_title": "Can thiệp bằng công cụ thị trường: MARKET-BASED FISCAL MECHANISMS. Buộc dự án trả đúng giá thị trường của tài nguyên đất đai.",
+    "layout_hierarchy": "Nền Slate #1E293B, hai cột đối xứng rõ nét, viền vàng hổ phách #F59E0B.",
+    "palette_and_animation": "Điểm nhấn vàng hổ phách và xanh lục.",
+    "text_overlay": "BOTTOM LEFT | MARKET-BASED REGULATORY TOOLS"
+  },
+  {
+    "scene_id": "CH06_SC007",
+    "thoai": "Dự án sân golf bắt buộc phải lập độc lập.",
+    "chart_type": "Independent Planning Card",
+    "core_data_and_title": "Khóa chặt phân tách quy hoạch: STANDALONE GOLF PROJECT MANDATE. Sân golf phải lập dự án độc lập, không kèm dự án nhà ở.",
+    "layout_hierarchy": "Nền Slate #1E293B, viền xanh ngọc bích #10B981 vững chãi bao quanh khu thể thao.",
+    "palette_and_animation": "Điểm nhấn xanh ngọc và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | STANDALONE GOLF MANDATE"
+  },
+  {
+    "scene_id": "CH06_SC011",
+    "thoai": "Điều một trăm năm mươi chín của luật mới chính thức bãi bỏ khung giá đất cũ.",
+    "chart_type": "Article 159 Abolition Card",
+    "core_data_and_title": "Điều 159 Luật Đất đai 2024: ABOLITION OF GOVERNMENT LAND PRICE FRAMEWORK (BÃI BỎ KHUNG GIÁ ĐẤT CŨ). Xây dựng bảng giá đất thị trường.",
+    "layout_hierarchy": "Nền Slate #2A323D, văn bản luật bôi vàng kiểu Vox trên nền ngà kem #FAF7EE.",
+    "palette_and_animation": "Dấu gạch chéo đỏ đè lên khung giá cũ.",
+    "text_overlay": "BOTTOM LEFT | ARTICLE 159: ABOLISHING PRICE FRAMEWORK"
+  },
+  {
+    "scene_id": "CH06_SC014",
+    "thoai": "Trước đây, tiền thuê đất hàng năm cho một sân golf một trăm héc-ta thường chỉ dao động từ hai đến năm tỷ đồng.",
+    "chart_type": "Old Land Rent Baseline Card",
+    "core_data_and_title": "Tiền thuê đất cũ theo khung giá hành chính: PRE-2024 LAND RENT: 2 - 5 BILLION VND / YEAR cho 100 ha sân golf.",
+    "layout_hierarchy": "Nền Slate #1E293B, cột chi phí màu xanh ngọc bích nhỏ gọn ở góc.",
+    "palette_and_animation": "Điểm nhấn ngà kem và xanh lục.",
+    "text_overlay": "BOTTOM LEFT | OLD RENT: 2 - 5 BILLION VND/YEAR"
+  },
+  {
+    "scene_id": "CH06_SC016",
+    "thoai": "Nhưng theo bảng giá đất mới, tiền thuê đất nộp ngân sách có thể tăng vọt lên mười lăm đến ba mươi lăm tỷ đồng.",
+    "chart_type": "Surge to 15-35 Billion Card (Thẻ so sánh tiền thuê đất mới).",
+    "core_data_and_title": "Cú sốc tiền thuê đất mới: `NEW LAND RENT (LAND LAW 2024): 15 - 35 BILLION VND / YEAR (TĂNG 3–5 LẦN)`. Dòng ghi chú phụ bắt buộc trên màn hình: `*Áp dụng đối với hình thức thuê đất trả tiền hàng năm`. Chú thích: \"Các dự án đã nộp tiền thuê đất một lần cho cả vòng đời 50 năm từ trước không bị điều chỉnh ngay.\"",
+    "layout_hierarchy": "Nền Slate `#2A323D`, cột chi phí mới vươn cao với viền đỏ san hô rực rỡ `#EF5350`. Phía dưới cột số liệu hiển thị dòng chữ ghi chú nhỏ tinh tế: `*Áp dụng đối với hình thức thuê đất trả tiền hàng năm`.",
+    "palette_and_animation": "Cột chi phí đỏ dựng đứng tạo cú sốc ngân sách.",
+    "text_overlay": "`BOTTOM LEFT | NEW RENT: 15 - 35 BILLION VND/YEAR (*Áp dụng đối với hình thức thuê đất trả tiền hàng năm)`."
+  },
+  {
+    "scene_id": "CH06_SC017",
+    "thoai": "Áp lực này giáng đòn nặng nề vào các dự án trả tiền hàng năm, nuốt trọn ba mươi đến năm mươi phần trăm doanh thu.",
+    "chart_type": "Revenue Erosion Share Pie",
+    "core_data_and_title": "Ăn mòn doanh thu dự án trả tiền hàng năm: `EATS 30% - 50% ANNUAL REVENUE (ANNUAL PAYMENT PROJECTS)`.",
+    "layout_hierarchy": "Nền Slate `#1E293B`, bánh tròn doanh thu bị mảng đỏ san hô `#EF5350` chiếm trọn một nửa, ghi chú rõ đối tượng chịu lực.",
+    "palette_and_animation": "Mảng đỏ phình to nuốt chửng phần doanh thu.",
+    "text_overlay": "`BOTTOM LEFT | EATS 30% - 50% OF TOTAL REVENUE`."
+  }
+]

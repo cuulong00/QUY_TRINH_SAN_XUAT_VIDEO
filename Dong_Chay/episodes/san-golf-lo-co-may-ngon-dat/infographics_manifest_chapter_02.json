@@ -1,0 +1,56 @@
+[
+  {
+    "scene_id": "CH02_SC006",
+    "thoai": "Câu trả lời chính là biến sân golf thành một hạ tầng cảnh quan mỏ neo.",
+    "chart_type": "Amenity Anchor Conceptual Card",
+    "core_data_and_title": "Thẻ mỏ neo cảnh quan: GOLF COURSE AS AN AMENITY ANCHOR. Sân golf 18 lỗ ở lõi nâng trần giá trị cho toàn bộ khu đô thị vệ tinh.",
+    "layout_hierarchy": "Nền Slate #1E293B, biểu tượng mỏ neo vàng hổ phách #F59E0B tỏa ánh sáng xanh sang các khối nhà xung quanh.",
+    "palette_and_animation": "Điểm nhấn vàng hổ phách và xanh lục Emerald #10B981.",
+    "text_overlay": "BOTTOM LEFT | AMENITY ANCHOR INFRASTRUCTURE"
+  },
+  {
+    "scene_id": "CH02_SC008",
+    "thoai": "Họ chấp nhận bỏ ra hơn một nghìn tỷ đồng xây sân golf và gánh khoản lỗ vận hành vài tỷ mỗi năm.",
+    "chart_type": "CapEx vs Operating Loss Card",
+    "core_data_and_title": "Thẻ chi phí chấp nhận đánh đổi: CapEx xây sân: 1,000 - 1,200 tỷ VND; Lỗ vận hành: vài tỷ VND/năm.",
+    "layout_hierarchy": "Nền Slate #2A323D, hai cột chi phí màu đỏ san hô #EF5350 được đặt trong khung kiểm soát.",
+    "palette_and_animation": "Điểm nhấn đỏ san hô và xám slate.",
+    "text_overlay": "BOTTOM LEFT | CAPEX: 1,000B - 1,200B VND"
+  },
+  {
+    "scene_id": "CH02_SC011",
+    "thoai": "Giá bán của những bất động sản nhìn thẳng ra sân golf luôn cao hơn từ hai mươi đến năm mươi phần trăm.",
+    "chart_type": "Golf Premium Price Surge Chart",
+    "core_data_and_title": "Biểu đồ cột so sánh: Biệt thự thường (100%) vs Biệt thự view sân golf (+20% đến +50% GOLF PREMIUM).",
+    "layout_hierarchy": "Nền Slate #1E293B, cột giá golf view vươn cao với dải thặng dư màu vàng hổ phách #F59E0B.",
+    "palette_and_animation": "Điểm nhấn vàng hổ phách và xanh lục.",
+    "text_overlay": "BOTTOM LEFT | GOLF PREMIUM: +20% TO +50%"
+  },
+  {
+    "scene_id": "CH02_SC015",
+    "thoai": "Nếu không có sân golf, giá bán trung bình chỉ đạt khoảng bốn mươi triệu đồng một mét vuông.",
+    "chart_type": "Baseline Price Comparison Card",
+    "core_data_and_title": "Giá bán cơ sở khi không có sân golf: BASELINE PRICE: 40 MILLION VND / M2.",
+    "layout_hierarchy": "Nền Slate #2A323D, thanh đo giá ngang màu xám bạc chuẩn mực.",
+    "palette_and_animation": "Điểm nhấn xám slate và ngà kem #FAF7EE.",
+    "text_overlay": "BOTTOM LEFT | BASELINE: 40 MILLION VND/M2"
+  },
+  {
+    "scene_id": "CH02_SC016",
+    "thoai": "Nhưng khi có sân golf làm cảnh quan trung tâm, giá bán tăng thêm ba mươi phần trăm, lên năm mươi hai triệu đồng.",
+    "chart_type": "Golf Premium Surge Card",
+    "core_data_and_title": "Giá bán tăng thêm khi có sân golf: +30% SURGE -> 52 MILLION VND / M2. Thặng dư +12 triệu VND trên mỗi mét vuông sàn.",
+    "layout_hierarchy": "Nền Slate #1E293B, cột giá vọt lên 52 triệu VND phát sáng màu xanh lục #10B981.",
+    "palette_and_animation": "Điểm nhấn xanh lục và vàng hổ phách.",
+    "text_overlay": "BOTTOM LEFT | GOLF VIEW: 52 MILLION VND/M2 (+30%)"
+  },
+  {
+    "scene_id": "CH02_SC018",
+    "thoai": "Con số này thừa sức bù đắp trọn vẹn một nghìn hai trăm tỷ tiền xây sân golf ban đầu.",
+    "chart_type": "CapEx Absorption Balance Scale",
+    "core_data_and_title": "Cán cân thặng dư nuốt trọn CapEx: Thặng dư BĐS +3,600 tỷ VND đè bẹp chi phí xây sân 1,200 tỷ VND. Thặng dư ròng +2,400 tỷ VND.",
+    "layout_hierarchy": "Nền Slate #1E293B, hai đĩa cân so sánh trực quan, số liệu minh bạch 100%.",
+    "palette_and_animation": "Thặng dư xanh lục #10B981 áp đảo hoàn toàn chi phí xây sân đỏ san hô.",
+    "text_overlay": "BOTTOM LEFT | SURPLUS ABSORBS 100% CAPEX"
+  }
+]

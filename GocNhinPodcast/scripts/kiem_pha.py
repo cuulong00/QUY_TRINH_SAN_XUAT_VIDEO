@@ -146,9 +146,10 @@ class Kiem:
         for f in files:
             if not os.path.exists(f) or os.path.basename(f).startswith(('01b_', '01c_')): continue  # file do kbaudit sinh, không áp hiến chương
             t = open(f, encoding='utf-8').read()
-            if hc['tieude'] and not hc['tieude'].startswith('[') and hc['tieude'].upper() not in t.upper():
+            so = os.path.basename(f).startswith('00_')  # sổ xuyên tập: chỉ kiểm từ khóa và lăng kính
+            if not so and hc['tieude'] and not hc['tieude'].startswith('[') and hc['tieude'].upper() not in t.upper():
                 self.e('HC-TIEUDE', f, 0, f"tiêu đề «{hc['tieude'][:50]}» không xuất hiện nguyên văn")
-            if hc['cauhoi'] and not hc['cauhoi'].startswith('[') and hc['cauhoi'][:60].lower() not in t.lower():
+            if not so and hc['cauhoi'] and not hc['cauhoi'].startswith('[') and hc['cauhoi'][:60].lower() not in t.lower():
                 self.e('HC-CAUHOI', f, 0, "câu hỏi trung tâm không xuất hiện nguyên văn")
             for k in hc['tukhoa']:
                 for i, line in enumerate(t.split('\n'), 1):

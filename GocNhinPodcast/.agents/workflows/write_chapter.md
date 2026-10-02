@@ -20,6 +20,7 @@ Reminder:
   > - 🧠 **Chuyên Gia (Persona DNA) Kích Hoạt:** [Persona được chỉ định trong 08_chapter_briefs.md] + The Narrative Director (Khóa Khẩu Ngữ Oral Voice)
   > - ⚙️ **Kỹ Năng (Skill) Dẫn Đường:** `/write_chapter` (`chapter_writer/SKILL.md`)
   > - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Full Working Context):**
+  >   * `episodes/[slug]/00_hien_chuong.md` (đề bài khóa, từ khóa đã loại) và `00_bang_gia_thuyet.md` (nhãn và mã mắt xích)
   >   * `01_global_vision_synthesis.md` (Tầm nhìn tổng thể & Mỏ neo số liệu)
   >   * `episodes/[slug]/08_chapter_briefs.md` (Brief chi tiết của Chương XX)
   >   * `episodes/[slug]/09_narrative_state_tracker.md` (Vòng lặp nhận thức, Hạt giống chuyển tiếp)

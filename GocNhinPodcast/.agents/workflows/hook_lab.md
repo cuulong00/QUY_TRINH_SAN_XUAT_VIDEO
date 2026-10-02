@@ -22,7 +22,7 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
 
 1. Hỏi episode slug nếu chưa có.
 
-2. Đọc: `00_core/voice_dna.md`, `00_core/anti_ai_isms.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/07_outline.md`, `episodes/[slug]/01_global_vision_synthesis.md`.
+2. Đọc: `episodes/[slug]/00_hien_chuong.md` (tiêu đề, câu hỏi trung tâm nguyên văn, lời hứa đóng gói phải khớp; từ khóa đã loại), `episodes/[slug]/00_bang_gia_thuyet.md` (hook đặt câu hỏi, không lộ giả thuyết còn đứng), `00_core/voice_dna.md`, `00_core/anti_ai_isms.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/07_outline.md`, `episodes/[slug]/01_global_vision_synthesis.md`.
 
 3. **GIAO THỨC GHI LOG TIỀN KHỞI ĐỘNG (PRE-FLIGHT LOGGING):**
    TRƯỚC KHI tạo `04_hook_pack.md`, Agent BẮT BUỘC in hộp log ra màn hình chat:

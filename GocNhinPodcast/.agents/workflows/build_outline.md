@@ -36,7 +36,7 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
 
 1. Hỏi episode slug nếu chưa có.
 
-2. Đọc: `00_core/longform_blueprint.md`, `00_core/voice_dna.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/02_research_synthesis.md`, `episodes/[slug]/01_global_vision_synthesis.md`.
+2. Đọc: `episodes/[slug]/00_hien_chuong.md` (đề bài khóa, N1–N5, lăng kính đã chọn), `episodes/[slug]/00_bang_gia_thuyet.md` (giả thuyết còn đứng, bằng chứng BÁC còn đứng → Devil's Chapter), `00_core/longform_blueprint.md`, `00_core/voice_dna.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/02_research_synthesis.md`, `episodes/[slug]/01_global_vision_synthesis.md`.
 
 3. Đọc `00_core/reference_stories.md` để tránh dùng lại case study hoặc ẩn dụ cũ.
 

@@ -101,6 +101,8 @@ Mỗi episode PHẢI đi qua đúng trình tự sau. KHÔNG ĐƯỢC nhảy pha.
 
 
 ## Kiểm tra trạng thái episode TRƯỚC KHI viết
+
+> Mọi pha đọc `episodes/[slug]/00_hien_chuong.md` trước (đề bài khóa, chỉ đạo user, điều đã loại, hồ sơ đề tài N1–N5; khuôn `02_templates/masterpiece_pipeline/00_hien_chuong_template.md`) và `00_bang_gia_thuyet.md` (giả thuyết, ma trận bằng chứng). Agent không sửa hai file này ngoài phần được giao; cổng máy đối chiếu đầu ra từng pha với hiến chương.
 Trước khi tạo bất kỳ file nội dung nào (chapter, voiceover, hook...):
 1. Xác định episode folder `episodes/[slug]/`
 2. Kiểm tra các file đã tồn tại trong folder đó

@@ -3,7 +3,7 @@
 Áp dụng cho `episodes/**/chapter_*.md`.
 
 ## Must do
-- Trước khi viết chapter phải đọc tối thiểu: `03_brief.md`, `07_outline.md`, `08_chapter_briefs.md`, `09_narrative_state_tracker.md`, `10_compliance_report.md` nếu có, và `00_core/stance_and_judgment.md`.
+- Trước khi viết chapter phải đọc tối thiểu: `00_hien_chuong.md`, `00_bang_gia_thuyet.md`, `03_brief.md`, `07_outline.md`, `08_chapter_briefs.md`, `09_narrative_state_tracker.md`, `10_compliance_report.md` nếu có, và `00_core/stance_and_judgment.md`.
 - Đọc toàn bộ các chương đã viết (`chapter_01.md` đến `chapter_N-1.md`) trước khi viết chương N: kịch bản chỉ vài nghìn từ, đọc hết để giữ nhịp, chống lặp và gặt seed (user chốt 02/10/2026, WO-00 Q7).
 - Đọc thêm các file upstream thật sự liên quan đến chapter đang viết: `02_research_map.md`, `02_research_synthesis.md`, `04_hook_pack.md`.
 - Mỗi chapter phải có một dominant analytical function đủ rõ.

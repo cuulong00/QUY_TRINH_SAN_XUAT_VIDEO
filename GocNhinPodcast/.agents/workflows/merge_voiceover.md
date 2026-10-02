@@ -47,6 +47,7 @@ TRƯỚC KHI tạo `voiceover.md`, Agent BẮT BUỘC in hộp log ra màn hình
 > - 🧠 **Chuyên Gia (Persona DNA) Kích Hoạt:** The Quality Czar + The Voice Architect
 > - ⚙️ **Kỹ Năng (Skill) Dẫn Đường:** `/merge_voiceover` (`chapter_writer/SKILL.md`)
 > - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Input References):**
+>   * `episodes/[slug]/00_hien_chuong.md` (tiêu đề, câu hỏi trung tâm, chế độ kết N3, từ khóa đã loại — bản merge phải khớp)
 >   * `episodes/[slug]/04_hook_pack.md` (Master Hook)
 >   * `episodes/[slug]/chapter_01.md` đến `chapter_XX.md` (Toàn bộ kịch bản các chương)
 >   * `episodes/[slug]/07_outline.md` (Ngân sách từ và nhịp điệu)

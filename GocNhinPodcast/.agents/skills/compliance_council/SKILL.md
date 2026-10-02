@@ -124,6 +124,11 @@ Báo cáo compliance bắt buộc phải tuân theo cấu trúc sau:
 * **Anchoring Density & Temporal Integrity (25%):** X/10 — [Nhận xét số liệu thực chứng, logic thời gian, Footnote ID từ Vault]
 * 🎯 **Tổng Điểm Đánh Giá:** Y.Y/10 — [ĐẠT / KHÔNG ĐẠT (Ngưỡng đạt: ≥ 8.5/10 và không có điểm thành phần nào < 7.5)]
 
+## 1b. Đối Chiếu Hiến Chương Tập (`00_hien_chuong.md`)
+* **Tiêu đề và câu hỏi trung tâm:** [khớp nguyên văn? Đạt / Lệch ở đâu]
+* **Từ khóa / khung đã loại:** [0 lần xuất hiện? liệt kê nếu có]
+* **Chế độ kết (N3), lăng kính (N5), số giả thuyết (N2):** [khớp hồ sơ đề tài? bằng chứng BÁC còn đứng trong `00_bang_gia_thuyet.md` có được chương kết chung sống?]
+
 ## 2. Sát Hạch Hội Đồng Phản Biện Đa Diện (Tri-Adversarial Red Team Stress-Test)
 * **Lăng kính đã chọn (liệt kê theo hiến chương tập, tối thiểu 2):** [Tên lăng kính — Đạt / Cần sửa — Chi tiết], ...
 * **Kiểm lăng kính dòng tiền:** [Có bật không; nếu bật, đề tài có phải doanh nghiệp/thị trường vốn và luận điểm có xoay quanh sức khỏe tài chính không]

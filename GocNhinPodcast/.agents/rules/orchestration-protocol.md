@@ -11,7 +11,7 @@ Mục tiêu: session nào cũng tự biết phải làm gì, không cần user h
 
 ## Khởi động session (tự làm, không đợi nhắc)
 1. Xác định episode từ lời user. Nếu là ý tưởng mới chưa có slug → bắt đầu từ bước 0a (Scouting).
-2. Đọc dòng của episode trong `01_management/episode_registry.csv` và khối cuối của `episodes/[slug]/00_pipeline_operator_log.md`.
+2. Đọc dòng của episode trong `01_management/episode_registry.csv`, khối cuối của `episodes/[slug]/00_pipeline_operator_log.md`, và `episodes/[slug]/00_hien_chuong.md` (đề bài khóa, chỉ đạo user, hồ sơ đề tài). Chưa có hiến chương thì làm Pha 0 trước.
 3. Báo user một dòng: pha hiện tại, `gate_status`, pha hợp lệ kế tiếp, chuyên gia sẽ hóa thân.
 4. Chỉ làm đúng pha đó rồi dừng ở gate.
 

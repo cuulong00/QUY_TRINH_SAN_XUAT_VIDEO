@@ -297,3 +297,33 @@ R1 → WO-00, 01, 04 · R2 → WO-02 · R3 → WO-03 · R4 → WO-09, 10 · R5 �
 
 ## Phụ lục C. File chạm tới (để Opus ước lượng)
 `.agents/AGENTS.md`, `.agents/rules/{content-os-pipeline,orchestration-protocol,chapter-writing,claim-ledger,final-merge,editorial-quality}.md`, `.agents/workflows/{init_episode,build_global_vision,deep_research,build_brief,build_outline,hook_lab,write_chapter,generate_visual_prompts,generate_visual_prompts_plus}.md`, `.agents/skills/{strategy_council,deep_researcher,script_architect,hook_engine,chapter_writer,compliance_council,visual_prompter,visual_prompter_plus,thumbnail_prompter}/`, `.agents/skills/orchestrator/` (mới), `.agents/personas/{the_macro_strategist,the_critical_auditor,the_dialectic_architect}.md`, `.agents/CHANGELOG.md` (mới), `00_core/{content_principles,longform_blueprint,stance_and_judgment,masterpiece_quality_standard,chapter_quality_standard,retention_gate_checklist,golden_samples/golden_hook}.md`, `02_templates/masterpiece_pipeline/*` (+2 template mới), `scripts/{kiem_pha.py,kiem_dna.py}` (mới), `scripts/kg_registry/{kb_query,kb_audit,load_core}.py`, `scripts/kg_common/kb_write.py`, `scripts/claude_hooks/post_write_validate.js`.
+
+---
+
+## 8. Kế hoạch tối ưu lớp A (dữ liệu) và lớp B (quy trình, công cụ) — user duyệt 02/10 chiều
+Nguyên tắc user chốt: **rule cho agent chỉ định hướng tư duy; cơ chế và kiểm nằm ở công cụ, cổng máy, template.** Lỗi lớp C (xác suất LLM) không chữa bằng thêm luật; chỉ đo "lọt qua cổng" (sổ vấn đề, mục phân loại ba lớp).
+
+### 8.1 Lớp A — kho dữ liệu (thứ tự theo mức hại luận điểm)
+| # | Việc | Cơ chế | Khắc phục | Đo đạt |
+|---|---|---|---|---|
+| A1 | Cùng chỉ tiêu nhiều bản lệch số không cờ | Khi nạp và khi quét toàn kho: cùng thực thể + cùng thuộc tính + kỳ chồng lấn mà giá trị lệch >1% → cờ `mau_thuan` trên cả hai OBS; `kbq` in cả hai kèm chữ LỆCH | V02, V27, V31 | Quét toàn kho ra danh sách; 0 cặp không cờ |
+| A2 | Quote không đỡ statement | Cổng nạp: số và từ khóa của statement phải có trong quote; không thì giữ lại (`giu_lai`) | V30 | Quét toàn kho; mọi OBS vi phạm được sửa hoặc hạ nhãn |
+| A3 | Ngày quan sát vô lý | Tách `as_of` (kỳ chỉ tiêu) và `ngay_quan_sat`; chặn ngày quan sát > ngày nguồn; soát 31 OBS tương lai | V01 | 0 OBS ngày quan sát tương lai |
+| A4 | Suy luận trong câu dữ kiện | Cổng nạp tách trường dữ kiện thuần / diễn giải; quét 208 câu có từ suy diễn, chuyển phần diễn giải sang trường riêng | V03 | 0 câu `verified` chứa từ suy diễn |
+| A5 | Câu hỏng, không dấu | Kiểm chính tả/ngôn ngữ khi nạp | V04 | 0 câu lỗi |
+| A6 | Vault Pha 2 chưa vào kho | Đường nạp vault → web_fill qua cùng cổng (giữ URL, ngày, nguyên văn); nạp vault của gsm-chau-au và v2 | V05 | Vault R01–R06 có OBS |
+| A7 | Thiếu cạnh doanh nghiệp–thị trường | Khi nạp thực thể doanh nghiệp bắt buộc cạnh `HOAT_DONG_TREN` tới thị trường/ngành; bổ sung cho các hub hiện có | V09 | `kbq links <doanh nghiệp> 1` ra thị trường |
+
+### 8.2 Lớp B — công cụ và quy trình (những gì còn mở sau WO-01…14)
+| # | Việc | Cơ chế | Khắc phục | Đo đạt |
+|---|---|---|---|---|
+| B1 | `kbq` đổ hết, không báo cắt | Mặc định tóm tắt theo nhóm + top-N; `--trang`, `--loc`; in dòng "đã cắt, xem tiếp" khi vượt ngưỡng; mỗi số kèm kỳ/phạm vi/đơn vị | V06, V16 | `kbq facts vinfast` mặc định <150 dòng |
+| B2 | `check-evidence` danh sách phẳng | Xếp theo giả thuyết H (đọc `00_bang_gia_thuyet.md`), tách nhóm ĐỠ/BÁC, top-N; `--check-plan` đòi câu hỏi cụ thể và thử trả lời bằng kho trước | V07, V08, V26 | Trên v2: OBS ngược H2 nằm top nhóm BÁC |
+| B3 | Độ mới | `kbq` in dấu thời gian kho; `kbaudit --tu <thời điểm>` liệt kê OBS mới | V10 | Agent thấy OBS nạp sau khi bắt đầu pha |
+| B4 | Nguồn sơ cấp dài không chỉ mục | Đánh chỉ mục đoạn cho PDF/20-F đã tải (`research_raw/`), tra bằng từ khóa | V28 | Tìm "punkt 1195" ra đoạn trong 1 lệnh |
+| B5 | Template sổ dữ kiện cho gom nhiều OBS một hàng | Một hàng M một mã OBS; hàng tổng hợp mang nhãn `market_analysis` và liệt kê M thành phần; cổng `OBS-GOM` đã có | V32 | 0 hàng verified có >1 OBS |
+| B6 | Mặc định kho và registry | `KB_GRAPH` mặc định kb_v2 (cổng 🔒 user duyệt Q16); hook kiểm số cột CSV | V20, V21 | Lệnh không cần tiền tố; CSV không lệch cột |
+| B7 | Agent dừng sau lệnh dài | Lệnh nạp/trích xuất in tiến độ và trạng thái hoàn tất kiểm được (phía công cụ, không phải luật agent) | V19 | Agent không ngắt giữa chừng |
+| B8 | Cổng máy còn lỗ | Mỗi lỗi lọt → một luật cổng + một dòng fixture; đo "lọt qua cổng" mỗi pha của v2 | lớp C | Số lọt giảm theo pha |
+
+Thứ tự làm: A1, A2 (làm sai luận điểm trực tiếp) → B1, B2 (agent đọc được kho) → B5, B8 → A3–A7 → B3, B4, B6, B7. Mỗi việc: sửa trên bản sao, quét toàn kho/tập thử, commit riêng, ghi CHANGELOG (scripts) hoặc NHAT_KY_DIEU_HANH (kho).

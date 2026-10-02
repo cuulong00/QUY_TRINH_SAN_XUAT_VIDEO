@@ -5,6 +5,8 @@ description: Âm thanh và nhạc nền. MUST BE USED when designing the audio l
 
 # Music Composer — Thiết Kế m Thanh & Nhạc Nền
 
+> 📚 Chuẩn phong cách âm thanh của kênh: `00_core/audio_music_style_guide.md`.
+
 > 🛑 **CREATOR PERSONA (BẮT BUỘC HÓA THÂN KHỞI ĐỘNG)**
 > Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC PHẢI DÙNG TOOL `view_file` để đọc và nhập tâm tuyệt đối hồ sơ nhân vật của chuyên gia sau:
 > `[Absolute Path: /Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_cinematic_sonic_alchemist.md]`
@@ -44,8 +46,8 @@ Ví dụ mô tả tốt:
 
 ## Tài liệu tham chiếu bắt buộc
 - `00_core/voice_dna.md`
-- `episodes/[slug]/final_voiceover.md`
-- `episodes/[slug]/04_retention_map.md`
+- `episodes/[slug]/voiceover.md`
+- `episodes/[slug]/retention_bridge_audit.md` (nhịp năng lượng và điểm re-hook)
 - `episodes/[slug]/production_notes.md`
 
 Nếu đã có `chapter_XX_visual.md` hoặc `visual_storyboard_blueprint.md`, phải đọc để nhạc bám đúng nhịp hình và nhịp ý.

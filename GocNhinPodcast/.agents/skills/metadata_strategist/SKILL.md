@@ -20,11 +20,13 @@ Trước khi viết bất kỳ metadata nào, BẮT BUỘC đọc:
 
 ## 🛠️ Quy trình Bắt Buộc (5 Bước)
 
-### BƯỚC 0: Anti-Repetition Scan (BẮT BUỘC)
-1. Đọc TẤT CẢ file `09_youtube_metadata.md` của các episode TRƯỚC ĐÓ trong `episodes/`.
-2. Liệt kê: các pattern title, câu mở đầu description, CTA, và cấu trúc đã dùng.
-3. **NGHIÊM CẤM** lặp lại bất kỳ pattern nào đã xuất hiện ở episode trước.
-4. Mỗi video phải có giọng riêng — như thể được viết bởi một biên tập viên khác.
+### BƯỚC 0: Quét lịch sử & bằng chứng format (BẮT BUỘC)
+1. Đọc `01_management/title_performance_log.md` (kết quả thật của từng format title/thumbnail/hook) và các file `09_youtube_metadata.md` của các episode trước.
+2. Nếu tập có hồ sơ nhu cầu (`01_management/demand_evidence/<slug>.md`, xem `content_strategist` mục "Hồ sơ bằng chứng nhu cầu"), đọc các format outlier và các ca thất bại cùng format trong đó.
+3. Phân biệt hai thứ:
+   - **Format** (khung lời hứa + cơ chế tâm lý, ví dụ "X đã đổi luật chơi mà ít ai để ý"): **được dùng lại** khi có bằng chứng thắng (log kênh hoặc hồ sơ nhu cầu, lặp lại ở nhiều video chứ không phải một cú viral). Khi dùng lại phải ghi 3 dòng: cơ chế tâm lý khiến nó thắng; vì sao hợp khán giả của tập này; định dạng thực thi đi kèm (video gốc thắng nhờ cấu trúc gì, tập này có giữ cấu trúc đó không).
+   - **Câu chữ, giọng, câu mở mô tả, CTA:** vẫn cấm lặp lại episode trước. Mỗi video phải có giọng riêng.
+4. Cấm dùng một format chỉ vì quen tay khi không có bằng chứng thắng; cấm dùng format mà log kênh ghi là thua, trừ khi nêu rõ tập này khác ở điểm nào.
 
 ### BƯỚC 1: Rút Tiêu đề Video
 1. Đọc `episodes/[slug]/03_brief.md`, `episodes/[slug]/04_hook_pack.md`, và `episodes/[slug]/07_outline.md`.
@@ -35,18 +37,20 @@ Trước khi viết bất kỳ metadata nào, BẮT BUỘC đọc:
    - Từ khóa cốt lõi (mỗi title nhấn mạnh một khía cạnh khác)
 4. Tham khảo 6 công thức viral trong `youtube_seo_guide.md` như nguồn cảm hứng, KHÔNG ép 1-1.
 5. Chạy **Checklist 8 điểm** trước khi chốt.
-6. Chốt **3 biến thể cuối** tốt nhất, kèm giải thích ngắn tại sao chọn. Không dán label cứng nhắc.
+6. **Kiểm lời hứa đóng gói (BẮT BUỘC):** đối chiếu với dòng "Lời hứa đóng gói" ở `01_global_vision_synthesis.md` mục Final Verdict. Mỗi biến thể phải (a) giữ đúng một lời hứa đó, không hứa thêm điều thứ hai; (b) được `voiceover.md` giao đủ, tốt nhất là vượt; (c) đi cùng headline thumbnail thành MỘT lời hứa: người chỉ đọc title hoặc chỉ nhìn thumbnail vẫn nhận ra cùng một lời hứa. Nếu nội dung cuối đã trôi khỏi lời hứa Pha 1, báo user thay vì âm thầm đổi lời hứa.
+7. Chốt **3 biến thể cuối** tốt nhất, kèm giải thích ngắn tại sao chọn và format nào được dùng (theo Bước 0). Không dán label cứng nhắc.
 
-### BƯỚC 2: Viết Mô tả Video (Cấu trúc 6 Thành phần — NGUYÊN TẮC ZERO-SCAFFOLDING)
+### BƯỚC 2: Viết Mô tả Video (Cấu trúc 7 Thành phần — BẮT BUỘC CÓ MỤC TÀI LIỆU THAM KHẢO & ZERO-SCAFFOLDING)
 
-> 🛑 **QUY TẮC SỐNG CÒN (HARD REDLINE — ZERO-SCAFFOLDING):**
+> 🛑 **QUY TẮC SỐNG CÒN (HARD REDLINE — ZERO-SCAFFOLDING & REFERENCES MANDATE):**
 > 1. **CẤM TUYỆT ĐỐI** in các nhãn kỹ thuật/khung sườn vào văn bản mô tả, bao gồm:
 >    - `[BLOCK 1]`, `[BLOCK 2]`, `### Block 1`, `### Block 2`, `**[BLOCK 1: ...]**`, `Block 1: ...`, `Block 2: ...`
->    - `[HOOK MÔ TẢ]`, `[NỘI DUNG TÓM TẮT]`, `[TIMESTAMP]`, `[CTA]`, `[HASHTAG]`, `[DISCLAIMER]`.
+>    - `[HOOK MÔ TẢ]`, `[NỘI DUNG TÓM TẮT]`, `[TIMESTAMP]`, `[CTA]`, `[HASHTAG]`, `[DISCLAIMER]`, `[REFERENCES]`.
 > 2. Các đề mục "Thành phần 1, 2, 3..." dưới đây CHỈ là **KHUNG TƯ DUY NỘI BỘ (MENTAL CHECKLIST)** giúp Agent tổ chức nội dung.
 > 3. Toàn bộ Phần Mô Tả xuất ra PHẢI là **VĂN BẢN SẠCH 100% (CLEAN PRODUCTION TEXT)**, các đoạn phân tách tự nhiên bằng dấu xuống dòng hoặc đường kẻ ngang `---`, để người dùng có thể **BÔI ĐEN VÀ COPY TOÀN BỘ DÁN THẲNG VÀO YOUTUBE STUDIO** mà không cần phải xóa bằng tay bất kỳ chữ thừa nào!
+> 4. **BẮT BUỘC 100% PHẢI CÓ MỤC TÀI LIỆU THAM KHẢO:** Tuyệt đối KHÔNG ĐƯỢC BỎ SÓT mục `📚 NGUỒN TÀI LIỆU THAM KHẢO & CƠ SỞ DỮ LIỆU KIỂM CHỨNG:`. Đây là trụ cột uy tín học thuật tối cao của kênh, trích xuất trực tiếp từ `01_global_vision_synthesis.md`, `02_research_synthesis.md` và `research_vault/`.
 
-Dựa trên `episodes/[slug]/07_outline.md` và `voiceover.md` để viết liên tục 6 thành phần:
+Dựa trên `episodes/[slug]/07_outline.md`, `voiceover.md` và `02_research_synthesis.md` để viết liên tục 7 thành phần:
 
 **Thành phần 1: Hook Mở đầu Mô tả (2-3 dòng đầu, hiển thị trên fold trước nút 'Xem thêm'):**
 ```
@@ -73,9 +77,10 @@ Trong video này, GocNhinPodcast cùng quý khán giả giải phẫu [2-4 mắt
 ```
 
 **Thành phần 4: Lời Kêu gọi Hành động (CTA & Đăng ký Kênh):**
+Viết CTA như bước tiếp theo hữu ích nhất cho người vừa xem xong (ví dụ: tập liên quan cùng mạch lập luận, hoặc lý do đăng ký gắn với loạt chủ đề kênh đang theo), không xin suông. Tự hỏi: một biên tập viên khách quan có tự nhắc tới bước này vì nó giúp người xem không? Khối dưới đây là ví dụ, không phải câu cố định.
 ```
 ---
-💡 Nếu video này mang lại cho quý vị góc nhìn kinh tế học khách quan và tỉnh táo, xin vui lòng bấm ĐĂNG KÝ KÊNH và chia sẻ để cùng lan tỏa tri thức đến cộng đồng.
+💡 Nếu video này mang lại cho bạn góc nhìn kinh tế học khách quan và tỉnh táo, xin vui lòng bấm ĐĂNG KÝ KÊNH và chia sẻ để cùng lan tỏa tri thức đến cộng đồng.
 👉 Đăng ký kênh chính thức: https://www.youtube.com/@GocNhin_Podcast
 🔔 Bật chuông thông báo để không bỏ lỡ các tập phóng sự tài liệu chuyên sâu tiếp theo.
 ```
@@ -95,6 +100,17 @@ Mọi nội dung trên kênh Góc Nhìn Podcast được nghiên cứu và biên
 - Biên tập & Nghiên cứu: Ban Biên tập GocNhinPodcast
 - Kênh YouTube chính thức: https://www.youtube.com/@GocNhin_Podcast
 - Định dạng: Phim tài liệu đồ họa phân tích kinh tế xã hội độc lập.
+```
+
+**Thành phần 7: Nguồn Tài liệu Tham khảo & Cơ sở Dữ liệu Kiểm chứng (BẮT BUỘC KHÔNG ĐƯỢC THIẾU):**
+- Đặt ngay bên dưới thông tin sản xuất, nằm trong khối phân cách `--------------------------------------------------`.
+- Trích dẫn 6-10 nguồn tài liệu then chốt đã kiểm chứng: Báo cáo tài chính, báo cáo kiểm toán, nghị định, luật, quyết định quy hoạch, hồ sơ đăng ký doanh nghiệp, số liệu thống kê chính thức (GSO, WB, IMF, NHTSA, EVN...).
+```
+📚 NGUỒN TÀI LIỆU THAM KHẢO & CƠ SỞ DỮ LIỆU KIỂM CHỨNG:
+- [Tên văn bản / Nghị định / Luật / Quyết định chính thức]
+- [Báo cáo tài chính đã kiểm toán / Báo cáo thường niên / Hồ sơ SEC Form 10-K, 10-Q]
+- [Số liệu thống kê chuyên ngành / Báo cáo điều tra kỹ thuật chính thống]
+- [Dữ liệu hợp đồng / Quy hoạch quốc gia được phê duyệt]
 --------------------------------------------------
 ```
 
@@ -156,7 +172,7 @@ Trong tập phóng sự tài liệu chuyên sâu này, Góc Nhìn Podcast cùng 
 ...
 
 ---
-💡 Nếu video này mang lại cho quý vị góc nhìn kinh tế học khách quan và tỉnh táo, xin vui lòng bấm ĐĂNG KÝ KÊNH và chia sẻ để cùng lan tỏa tri thức đến cộng đồng.
+💡 Nếu video này mang lại cho bạn góc nhìn kinh tế học khách quan và tỉnh táo, xin vui lòng bấm ĐĂNG KÝ KÊNH và chia sẻ để cùng lan tỏa tri thức đến cộng đồng.
 👉 Đăng ký kênh chính thức: https://www.youtube.com/@GocNhin_Podcast
 🔔 Bật chuông thông báo để không bỏ lỡ các tập phóng sự tài liệu chuyên sâu tiếp theo.
 
@@ -170,6 +186,12 @@ Mọi nội dung trên kênh Góc Nhìn Podcast được nghiên cứu và biên
 - Biên tập & Nghiên cứu: Ban Biên tập GocNhinPodcast
 - Kênh YouTube chính thức: https://www.youtube.com/@GocNhin_Podcast
 - Định dạng: Phim tài liệu đồ họa phân tích kinh tế xã hội độc lập.
+
+📚 NGUỒN TÀI LIỆU THAM KHẢO & CƠ SỞ DỮ LIỆU KIỂM CHỨNG:
+- [Nghị định / Luật / Quyết định quy hoạch liên quan]
+- [Báo cáo tài chính kiểm toán / Báo cáo thường niên / Hồ sơ SEC Form 10-K, 10-Q]
+- [Báo cáo kỹ thuật / Số liệu thống kê từ cơ quan quản lý chuyên ngành]
+- [Dữ liệu thị trường quốc tế & Báo cáo độc lập]
 --------------------------------------------------
 
 ---

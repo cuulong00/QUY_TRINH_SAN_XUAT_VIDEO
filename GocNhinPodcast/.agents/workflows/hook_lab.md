@@ -4,6 +4,8 @@ description: >-
   MUST be run AFTER /build_outline and BEFORE /write_chapter (Outline-First, Hook-Last Protocol).
 ---
 
+> 📐 Khung đầu ra `04_hook_pack.md`: `02_templates/masterpiece_pipeline/04_hook_pack_template.md`; ví dụ yếu/mạnh: `.agents/examples/hook_engine_examples.md`.
+
 ## 🛑 HARD GATE TOÀN BỘ WORKFLOW NÀY
 
 Trước khi thực thi BẤT KỲ bước nào, agent PHẢI dùng tool `view_file` đọc lần lượt:
@@ -19,7 +21,7 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
 
 1. Hỏi episode slug nếu chưa có.
 
-2. Đọc: `00_core/voice_dna.md`, `00_core/anti_ai_isms.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/07_outline.md`, `episodes/[slug]/vault/00_Global_Vision_Synthesis.md`.
+2. Đọc: `00_core/voice_dna.md`, `00_core/anti_ai_isms.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/07_outline.md`, `episodes/[slug]/01_global_vision_synthesis.md`.
 
 3. **GIAO THỨC GHI LOG TIỀN KHỞI ĐỘNG (PRE-FLIGHT LOGGING):**
    TRƯỚC KHI tạo `04_hook_pack.md`, Agent BẮT BUỘC in hộp log ra màn hình chat:
@@ -30,7 +32,7 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
    > - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Input References):**
    >   * `episodes/[slug]/03_brief.md` (Chiến lược & Lời hứa cốt lõi)
    >   * `episodes/[slug]/07_outline.md` (Dàn ý Động ABT & The Grand Payoff)
-   >   * `episodes/[slug]/vault/00_Global_Vision_Synthesis.md` (Bức tranh dữ liệu toàn cảnh)
+   >   * `episodes/[slug]/01_global_vision_synthesis.md` (Bức tranh dữ liệu toàn cảnh & Bàn cờ)
    > - 🎯 **Tài Liệu Đích Xuất Ra:** `episodes/[slug]/04_hook_pack.md`
    > - 🛡️ **Rào Cản Kiểm Toán:** Outline-to-Hook Alignment — Hook phải cam kết chính xác những gì Dàn ý sẽ giải quyết, gieo đúng Open Loops, triệt tiêu 100% clickbait hứa hão.
    ```
@@ -44,7 +46,7 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
    - Output Document: episodes/[slug]/04_hook_pack.md
    - Activated Persona: The Viral Alchemist + The Critical Auditor
    - Activated Skill: hook_engine/SKILL.md (/hook_lab)
-   - Source Documents Consulted: 03_brief.md, 07_outline.md, vault/00_Global_Vision_Synthesis.md
+   - Source Documents Consulted: 03_brief.md, 07_outline.md, 01_global_vision_synthesis.md
    - Execution Timestamp: [YYYY-MM-DD HH:MM]
    -->
    ```
@@ -63,6 +65,9 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
  
     ✅ Kiểm tra CÂU MÓC GIỮA #1 (mốc ~3:30):
     [ ] Kết nối mở rộng bằng một nghịch lý lớn, bất ngờ hoặc một cú bẻ lái sắc sảo trong dữ liệu để kích hoạt sự chú ý.
+
+   ✅ Kiểm tra KHỚP LỜI HỨA ĐÓNG GÓI:
+   [ ] Câu mở nói lại đúng "Lời hứa đóng gói" ở 01_global_vision_synthesis.md, không hứa thêm điều outline không giao
 
    ✅ Kiểm tra TRÁNH AI-ISM:
    [ ] Câu mở không dùng các cụm bị cấm trong 00_core/anti_ai_isms.md

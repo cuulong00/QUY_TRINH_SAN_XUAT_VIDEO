@@ -7,6 +7,8 @@ description: >-
 
 # /merge_voiceover — Gộp Toàn Bộ Kịch Bản Thành Tệp Thoại Hoàn Chỉnh (Pha 8)
 
+> 🎯 Khi gộp, giữ đúng chế độ kết đã chọn (A lập trường / B kết mở có cấu trúc) theo `00_core/stance_and_judgment.md` §1; không làm mềm thành câu lửng lơ, không cộng dồn cụm "chúng tôi cho rằng" từ các chương.
+
 > 🛑 **CREATOR PERSONA:** `the_quality_czar` + `the_voice_architect`  
 > 🛑 **MỤC TIÊU PHA 8:** Tạo ra tệp `episodes/[slug]/voiceover.md` duy nhất, chứa 100% văn bản thoại sạch hoàn chỉnh của toàn bộ tập phim (từ Hook mở đầu đến Outro kết thúc) để làm đầu vào chuẩn cho:
 > 1. Kiểm toán Giữ chân Toàn bài (`retention_bridge_audit`)
@@ -60,8 +62,8 @@ Tính toán các chỉ số kỹ thuật và in bảng nghiệm thu ra chat:
 - **Tổng số từ thực tế ($W_{\text{actual}}$):** Đếm chính xác số từ của `voiceover.md`.
 - **Tổng số từ mục tiêu ($W_{\text{target}}$):** So sánh với ngân sách từ trong `07_outline.md`.
 - **Độ lệch ngân sách ($\Delta W$):** Đảm bảo nằm trong dung sai cho phép $\pm 10\%$.
-- **Thời lượng ước tính (@ 220 WPM):**
-  $$\text{Thời lượng (phút)} = \frac{W_{\text{actual}}}{220}$$
+- **Thời lượng ước tính (tốc độ chuẩn 223–235 từ/phút, `.agents/AGENTS.md`):**
+  $$\text{Thời lượng (phút)} \approx \frac{W_{\text{actual}}}{223} \text{ đến } \frac{W_{\text{actual}}}{235}$$
 
 ### Bước 4: Lưu Tệp
 Ghi toàn bộ văn bản thoại sạch đã thanh lọc vào `episodes/[slug]/voiceover.md`.

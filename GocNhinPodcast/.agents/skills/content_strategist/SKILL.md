@@ -5,6 +5,8 @@ description: Mastermind topic ideation using World-Class frameworks (Information
 
 # Content Strategist — Kiến Trúc Sư Nhận Thức & Chiến Lược Nội Dung
 
+> 📚 Ví dụ yếu/mạnh khi thẩm định chủ đề: `.agents/examples/content_strategy_examples.md`.
+
 > 🛑 **CREATOR PERSONA (BẮT BUỘC HÓA THÂN KHỞI ĐỘNG)**
 > Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC PHẢI DÙNG TOOL `view_file` để đọc và nhập tâm tuyệt đối hồ sơ nhân vật của chuyên gia sau:
 > `[Absolute Path: /Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_content_strategist.md]`
@@ -40,8 +42,9 @@ Bạn là "Kiến Trúc Sư Nhận Thức" của GocNhinPodcast. Nhiệm vụ c�
 *   Mỗi item gắn **tag cảm xúc** (Kinh ngạc / Kịch tính / Tự hào / Chân thực / Rủi ro...)
 *   CHỈ SAU KHI hoàn thành Kho Nguyên Liệu → mới chuyển sang Bước 1.1.
 
-### Bước 1.1: Information Mapping & Outlier Scan
-*   Phân tích từ khóa bề mặt do user cung cấp. Tưởng tượng xem các "Outlier Videos" (Video triệu view) trên YouTube đang dùng tít giật gân gì về chủ đề này.
+### Bước 1.1: Information Mapping & Bằng chứng nhu cầu
+*   Không tự tưởng tượng outlier. Giao Antigravity lập **hồ sơ bằng chứng nhu cầu** (mục cuối file này) rồi đọc hồ sơ đó. Hồ sơ chưa có thì ghi `[CHƯA CÓ BẰNG CHỨNG NHU CẦU]` và không chấm tiêu chí này.
+*   Từ hồ sơ, trả lời: khán giả đang chọn xem chủ đề này bằng ngôn ngữ nào? Họ đang ở mức nhận biết nào (biết vấn đề / biết giải pháp / chưa quan tâm tới cơ chế)? Nếu góc của kênh là một **cơ chế** khán giả chưa quan tâm (tỷ giá, trái phiếu, chuỗi cung ứng...), nó phải nối vào **kết quả** nào mà họ đã quan tâm?
 *   Liệt kê rõ: Bức tranh ngây ngô hiện tại mà truyền thông đang nhồi nhét cho khán giả là gì?
 
 ### Bước 1.2: Thiết lập Information Gap
@@ -55,7 +58,7 @@ Tạo ra **3 Góc độ Tiếp cận (Angles)**. Tiêu chí KHẮT KHE:
 
 ### Bước 1.4: M-Recommendation Deck (Pitching Chốt hạ)
 Chọn góc độ mạnh nhất và xuất báo cáo cho User:
-1. **Title Idea:** Tiêu đề (Hook mạnh, chứa Information Gap).
+1. **Title Idea:** Tiêu đề (Hook mạnh, chứa Information Gap), kèm format dự kiến lấy từ hồ sơ nhu cầu (hoặc ghi "format mới, chưa có bằng chứng").
 2. **The "Itch" (Sự ngứa ngáy nhận thức):** Câu hỏi nghịch lý khiến khán giả không thèm click không chịu được.
 3. **The High Stakes:** Hệ quả đáng kể nào đang ảnh hưởng đến dòng tiền, chiến lược, hoặc vị thế?
 4. **Macro Thesis:** Trục luận điểm vĩ mô cốt lõi.
@@ -66,7 +69,7 @@ Chọn góc độ mạnh nhất và xuất báo cáo cho User:
 *Sử dụng khi User yêu cầu tự khảo sát, tìm ý tưởng mới từ thị trường mà không cung cấp chủ đề.*
 
 ### Bước 2.1: Quét Tín Hiệu Vĩ Mô & Content Gaps
-Sử dụng công cụ Search/khảo sát trực tuyến để rà soát các biến động vĩ mô (Lãi suất, Vàng, BĐS, Chu kỳ chính trị-kinh tế). Tìm kiếm **Content Gaps** (Chủ đề nhiều người tìm nhưng đang toàn các video rác, kém chất lượng). Chọn ra 3 sự kiện thô có "Ảnh hưởng cấu trúc" lớn nhất.
+Sử dụng công cụ Search/khảo sát trực tuyến để rà soát các biến động vĩ mô (Lãi suất, Vàng, BĐS, Chu kỳ chính trị-kinh tế). Tìm kiếm **Content Gaps** (Chủ đề nhiều người tìm nhưng đang toàn các video rác, kém chất lượng). "Nhiều người tìm" phải có hồ sơ bằng chứng nhu cầu đi kèm, không suy đoán. Chọn ra 3 sự kiện thô có "Ảnh hưởng cấu trúc" lớn nhất.
 
 ### Bước 2.2: Anti-Duplication Radar (Radar Chống Trùng lặp Lịch sử)
 *BẮT BUỘC: Bạn không được nhắm mắt làm bừa. Phải rà soát tài sản cũ.*
@@ -85,6 +88,29 @@ Trình diện lên User 3 Đề xuất World-Class, mỗi đề xuất bao gồm
 3. **The High Stakes:** Hậu quả lớn nhất đang chực chờ.
 4. **Macro Thesis:** Trục luận điểm vĩ mô đanh thép.
 5. **Anti-Duplication Proof:** Bằng chứng cho thấy góc nhìn này là độc tôn, không trùng lặp lịch sử GocNhinPodcast.
+
+---
+
+## Hồ sơ bằng chứng nhu cầu (Demand Evidence Dossier)
+
+Trả lời một câu: **có bằng chứng lặp lại rằng khán giả của kênh đang chủ động chọn xem chủ đề này trên YouTube không, và bằng format nào?** Câu này khác với câu "sự kiện có đáng nói không" (lane, kho, độ nóng).
+
+**Phân công:** Antigravity tra và ghi dữ liệu thô vào `01_management/demand_evidence/<slug>.md` (giao qua mailbox, không tự kết luận). Claude kiểm mẫu rồi phán. Một đề xuất một file; tập đã có slug thì dùng slug tập.
+
+**Cách tra (tìm theo chiều sâu, có giới hạn):**
+1. **Từ khóa hạt giống:** 8–15 cụm theo ngôn ngữ khán giả Việt, gồm cả cách gọi *kết quả* họ quan tâm lẫn tên *cơ chế* (ví dụ "giá nhà" và "tín dụng bất động sản").
+2. **Tìm trên YouTube** từng cụm (ưu tiên tiếng Việt; thêm tiếng Anh chỉ để tham chiếu format). Ghi các **outlier**: video có view ≥ 3 lần trung vị 10–20 video gần nhất của chính kênh đăng nó.
+3. **Đào sâu:** với outlier mạnh, mở kênh đó ghi thêm outlier liên quan, rồi theo 1–2 tầng video đề xuất. Nhánh không ra outlier mới thì quay lại cụm tiếp theo. Dừng khi 3 cụm liên tiếp không ra outlier mới hoặc đủ khoảng 30 dòng.
+4. **Bằng chứng âm (bắt buộc):** mỗi format xuất hiện ≥ 2 lần ở outlier thì tìm thêm 2–3 video cùng format hoặc cùng chủ đề nhưng kém (≤ trung vị kênh).
+
+**Mỗi dòng ghi:** URL, tiêu đề nguyên văn, kênh, ngày đăng, views (kèm ngày đo), trung vị kênh và cách tính, hệ số outlier, loại (outlier / ca kém), thumbnail (mô tả ngắn những gì thấy được), định dạng thực thi (độ dài, kiểu dựng: người nói / đồ họa / phóng sự, số ý chính), khán giả kênh có trùng lane GocNhin không. Không thấy thì ghi "KHÔNG RÕ", không ước đoán.
+
+**Claude kết luận** (ghi vào pitch hoặc `00_topic_qualification.md`), sau khi tự mở kiểm 3 dòng ngẫu nhiên (tiêu đề, view):
+- **Mức bằng chứng:** Mạnh (≥ 3 outlier từ ≥ 2 kênh khác nhau, khán giả trùng lane) / Vừa / Yếu / Không có.
+- **Format ứng viên** + cơ chế tâm lý + định dạng thực thi đi kèm; format nào có ca kém thì ghi vì sao kém.
+- **Ngôn ngữ khán giả** dùng cho title, và **mức nhận biết** (nếu góc là cơ chế: nối vào kết quả nào).
+- **Rủi ro kéo sai khán giả:** outlier đến từ kênh ngoài lane thì không tính là bằng chứng.
+- Bằng chứng Yếu hoặc Không có không tự loại đề tài (kênh vẫn được đi trước thị trường), nhưng pitch phải nói rõ đây là cược, không phải nhu cầu đã được chứng minh.
 
 ---
 

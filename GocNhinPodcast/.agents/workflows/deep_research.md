@@ -29,7 +29,8 @@
 ```
 
 ### Bước 2: Đọc Persona & SKILL (BẮT BUỘC)
-1. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_socio_economic_researcher.md`
+1. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_industrial_economist.md`
+2. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_policy_analyst.md`
 2. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/deep_researcher/SKILL.md`
 3. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/notebooklm_librarian/SKILL.md`
 
@@ -63,6 +64,6 @@ Sau khi hoàn tất Research Map → DỪNG và chờ user duyệt trước khi 
 
 ## Tham chiếu
 - SKILL: `.agents/skills/deep_researcher/SKILL.md`
-- Persona: `.agents/personas/the_socio_economic_researcher.md`
+- Persona: `.agents/personas/the_industrial_economist.md` + `.agents/personas/the_policy_analyst.md`
 - Librarian: `.agents/skills/notebooklm_librarian/SKILL.md`
 - Core: `00_core/brand_safety_guidelines.md`

@@ -18,8 +18,8 @@ Thu thập toàn bộ dữ kiện rải rác của Episode và tổng hợp vào
 
 ## Workflow Bắt Buộc
 1. Đọc lướt và xác nhận sự tồn tại của các file cấu thành sau trong thư mục `episodes/[slug]/`:
-   - `chapter_01.md` → `chapter_XX.md` (đọc tuần tự khi thu âm — KHÔNG cần `final_voiceover.md`, file đó đã deprecated)
-   - `financial_qa.md` & `oral_qa.md` (Phiếu An Toàn)
+   - `voiceover.md` (Pha 8, bản thoại gộp duy nhất dùng để thu âm) và `chapter_01.md` → `chapter_XX.md`
+   - `retention_bridge_audit.md` (Pha 9) và `10_compliance_report.md` (Pha 10–11, phiếu an toàn)
    - `visual_storyboard_blueprint.md` & `chapter_XX_visual.md` (Kịch bản thị giác & Prompts)
    - Báo cáo Render Video (từ Skill `video_renderer`)
    - `08_thumbnail_brief.md`

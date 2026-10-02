@@ -16,13 +16,13 @@
 | **2** | `chapter_thesis` | Luận điểm cốt lõi — Chương này ta chứng minh điều gì? Tại sao? | Macro Strategist |
 | **3** | `editorial_perspective` | Góc nhìn sắc bén của GocNhinPodcast (khác biệt với tin tức thông thường). | Macro Strategist |
 | **4** | `data_verified` | Danh mục các con số thực chứng bắt buộc phải xuất hiện 100%. | Macro Strategist |
-| **5** | `counter_argument` | Luận điểm phản biện mạnh nhất (Steelman) + Cách bẻ gãy thực tế. | Macro Strategist |
+| **5** | `steelman_counter_thesis` | **[TRI-ADVERSARIAL RED TEAM — BẮT BUỘC]** Luận điểm phản biện mạnh nhất từ 1 trong 3 lăng kính (The Market Skeptic / The Institutional Realist / The Forensic Cash Auditor) + Con số/bằng chứng đối kháng từ Contested Ledger của Pha 2. Tuyệt đối CẤM phản biện yếu ớt bù nhìn rơm (Strawman). | Critical Auditor |
 | **6** | `personal_stakes_or_relevance` | Relevance Anchor — Liên hệ với bài toán chi phí/quản trị thực tế. | Macro Strategist |
 | **7** | `key_insight` | Insight bản chất đắt giá nhất chỉ chuyên gia chuyên sâu mới thấy. | Macro Strategist |
 | **8** | `chapter_signature` | Nhịp điệu câu (ngắn/dài), mật độ dữ liệu, điểm giảm tốc để suy ngẫm. | Narrative Director |
 | **9** | `personal_or_relevance_angle` | Góc chiếu thực chứng đời thường (vật thể mỏ neo, tiếng nói hiện trường). | Macro Strategist |
 | **10** | `research_vault_insights` | **Bảng POINTER chứng cứ gốc:** Tối thiểu 5 dòng chỉ rõ `Mã Footnote ID + Tên file vault + Trích dẫn nguyên văn ngắn (≤ 15 từ) + Con số thực chứng`. Chapter Writer sẽ dùng tool đọc nguyên bản gốc. Tuyệt đối CẤM dùng số dòng giả mạo. | Industrial Economist / Policy Analyst |
-| **11** | `counter_thesis_data` | Các rủi ro cụ thể từ Thesis Map Section 3 mà chương này phải tháo ngòi. | Macro Strategist / Industrial Economist |
+| **11** | `admitted_trade_offs` | **[ĐÁNH ĐỔI BẮT BUỘC & HỆ LỤY PHỤ]** Thừa nhận sòng phẳng: Ai đang hưởng lợi vs Ai đang âm thầm gánh chịu chi phí/rủi ro trong chương này? Chi phí cơ hội là gì? Đâu là sự đánh đổi cấu trúc mà mô hình/chính sách bắt buộc phải trả giá? Hệ lụy phụ (Unintended Consequences) trong 3–5 năm tới là gì? | Critical Auditor / Industrial Economist |
 | **12** | `causal_momentum` | **[KIỆT TÁC]** Động lực nhân quả nối với chương trước: Cú chuyển "THEREFORE" hay "BUT"? Tuyệt đối CẤM dùng "And Then". | Narrative Director |
 | **13** | `spine_anchor` | **[KIỆT TÁC]** Mỏ neo Sợi chỉ đỏ: Chương này mổ xẻ góc độ nào của Biến cố trung tâm? | Narrative Director |
 | **14** | `russian_doll_revelation` | **[KIỆT TÁC]** Búp bê Nga: Chương này tháo gỡ lớp vỏ bề mặt nào và làm lộ ra nghịch lý sâu hơn nào? CẤM giấu bài về chương cuối. | Narrative Director |

@@ -1,5 +1,8 @@
 # Retention Gate Checklist — Cổng Chặn Tự Động
 
+> 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
+> File này là **cổng chính thức cấp dàn ý** (Gate 1 / Gate D1) và cổng Ch.2 (Gate 2).
+
 > File này là CỔNG CHẶN bắt buộc trong pipeline sản xuất.
 > Được chạy 2 lần: sau Outline (Gate 1) và sau viết Ch.2 (Gate 2).
 > Nếu KHÔNG ĐẠT → PHẢI sửa trước khi tiếp tục.
@@ -16,10 +19,10 @@ Outline PHẢI đạt **≥ 8/10** tiêu chí sau:
 - [ ] **4.** Có Re-hook tại mốc chuyển nhịp đầu tiên (phút ~3:30 hoặc cuối Hồi 1) giữ chân khán giả?
 - [ ] **5.** Có Data Shock MỚI tại mốc chuyển giao Hồi 2 (phút ~7:00)?
 - [ ] **6.** Tổng case study quốc tế ≤ 2? Mỗi case ≤ 3 phút (trừ video tài liệu chuyên sâu Loại C)?
-- [ ] **7.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–12m; Cấp 2: 15–20m; Cấp 3: 25–35m; Cấp 4: 40–50+m), bố trí Re-hook & Data Shock tại các điểm gãy cấu trúc để bảo vệ retention?
+- [ ] **7.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–15m; Cấp 2: 16–25m; Cấp 3: 26–35m; Cấp 4: 36–45+m, theo `.agents/rules/content-os-pipeline.md`; mặc định Cấp 1–2 theo `.agents/AGENTS.md`), bố trí Re-hook & Data Shock tại các điểm gãy cấu trúc để bảo vệ retention?
 - [ ] **8.** Không có đoạn > 3 phút chỉ phân tích/framework khô khan mà không có mỏ neo thực tế (stakes / data / drama)?
 - [ ] **9.** Mỗi chương có bridge tạo chuyển động (logical data flow / narrative bridge)?
-- [ ] **10.** Outro kết thúc bằng Comment Hook (câu hỏi đóng vai trò gây tranh cãi nhẹ, thăm dò ý kiến sâu sắc hoặc chia đôi dư luận để đẩy lượng tương tác)?
+- [ ] **10.** Outro kết đúng chế độ đã chọn (`00_core/stance_and_judgment.md` §1)? Chế độ A nói thẳng lập trường kèm điều kiện có thể sai; chế độ B trao các cách đọc cạnh tranh, biến số quyết định rồi đặt câu hỏi mở nhắm đúng biến số đó. Câu hỏi mở là một phần lập luận, không phải lời xin bình luận (CTA duy nhất nằm cuối Chương 2).
 
 ### Điều kiện PASS:
 - ≥ 8/10 tiêu chí → PASS → Tiếp tục tạo Chapter Briefs
@@ -37,7 +40,7 @@ Outline PHẢI đạt **≥ 8/10** tiêu chí sau:
 Ch.2 đã viết PHẢI đạt **TẤT CẢ 5/5** tiêu chí sau:
 
 - [ ] **1.** Có mỏ neo lợi ích/sự liên quan trực tiếp:
-  - *Loại A (Đời sống/Chính sách dân sinh):* Có ít nhất 3 câu gắn với "tiền/việc/chi phí/khoản vay/thu nhập CỦA BẠN".
+  - *Loại A (Đời sống/Chính sách dân sinh):* Có liên hệ rõ tới đời sống chung (thu nhập, việc làm, chi phí, khoản vay) bằng lăng kính phổ quát ("chúng ta", "người lao động"); không ép số câu "của bạn", không bịa nhân vật cá nhân.
   - *Loại B (Doanh nghiệp/Kinh tế ngành):* Có phân tích rõ áp lực chi phí, dòng tiền, biên lợi nhuận hoặc bài toán sinh tồn của doanh nghiệp/người tiêu dùng.
   - *Loại C (Tài liệu/Địa chính trị/Lịch sử):* Có mâu thuẫn dữ liệu hoặc liên hệ trực tiếp đến vị thế kinh tế - xã hội của Việt Nam.
 - [ ] **2.** Có ít nhất 1 Zoom In (ví dụ cụ thể, tình huống thực tế hoặc dữ liệu bóc tách vi mô)?
@@ -78,10 +81,10 @@ Outline PHẢI đạt **≥ 7/9** tiêu chí sau:
 - [ ] **2.** Ch.2 = Relevance Anchor? (Tại sao điều này QUAN TRỌNG với khán giả — có thể là financial, intellectual, hoặc cultural stakes)
 - [ ] **3.** Có Data Shock hoặc Contradiction MỚI tại mốc chuyển nhịp đầu tiên (phút ~3:30)?
 - [ ] **4.** Có Data Shock MỚI tại mốc chuyển giao Hồi 2 (phút ~7:00)?
-- [ ] **5.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–12m; Cấp 2: 15–20m; Cấp 3: 25–35m; Cấp 4: 40–50+m), bố trí Re-hook & Data Shock tại các điểm gãy cấu trúc để bảo vệ retention?
+- [ ] **5.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–15m; Cấp 2: 16–25m; Cấp 3: 26–35m; Cấp 4: 36–45+m), bố trí Re-hook & Data Shock tại các điểm gãy cấu trúc để bảo vệ retention?
 - [ ] **6.** Không có đoạn > 4 phút chỉ phân tích mà không có data shock mới, comparison, hoặc case study?
 - [ ] **7.** Mỗi chương có logic flow rõ ràng (dữ liệu → phân tích → nhận định)?
-- [ ] **8.** Outro kết thúc bằng Comment Hook (câu hỏi gợi mở tư duy sâu sắc, kích thích khán giả đóng góp góc nhìn phân tích cá nhân)?
+- [ ] **8.** Outro kết đúng chế độ đã chọn (`00_core/stance_and_judgment.md` §1)? Chế độ A nói thẳng lập trường kèm điều kiện có thể sai; chế độ B trao các cách đọc cạnh tranh, biến số quyết định rồi đặt câu hỏi mở nhắm đúng biến số đó. Câu hỏi mở là một phần lập luận, không phải lời xin bình luận (CTA duy nhất nằm cuối Chương 2).
 - [ ] **9.** Có ít nhất 1 điểm nối về VN / đời sống VN (nếu chủ đề là quốc tế)?
 
 ### Điều kiện PASS:

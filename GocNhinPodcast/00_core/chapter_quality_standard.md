@@ -1,4 +1,7 @@
 # chapter_quality_standard.md — Góc Nhìn Podcast
+
+> 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
+> File này là **cổng chính thức cấp chương** (CHQB-50).
 # BỘ QUY CHUẨN ĐÁNH GIÁ CHẤT LƯỢNG TỪNG CHƯƠNG TRONG TỔNG THỂ BỨC TRANH TOÀN CẢNH
 ## (THE CHAPTER HOLISTIC QUALITY BENCHMARK — CHQB-50)
 *Thước đo kiểm toán từng chương đơn lẻ trong mối quan hệ hữu cơ với toàn bộ kịch bản*
@@ -13,7 +16,7 @@ Trong kiến trúc tự sự vĩ mô (*Macronarrative Architecture*), mỗi chư
 * Nó phải bơm tiếp xung đột và gieo hạt giống tò mò sang các chương tiếp theo (**Outbound Propulsion**).
 * Nó phải đạt **Độ Tinh Xảo Cục Bộ và Thẩm Mỹ Nghệ Thuật Điện Ảnh** (ngắt nghỉ nhịp nhàng, giàu chất gợi hình, nhạc tính và câu vàng triết lý).
 
-Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời khỏi Bức tranh Toàn cảnh (`vault/00_Global_Vision_Synthesis.md`) hoặc làm gián đoạn dòng chảy nhận thức của video thì đó là một **chương lỗi (defective chapter)**.
+Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời khỏi Bức tranh Toàn cảnh (`01_global_vision_synthesis.md`) hoặc làm gián đoạn dòng chảy nhận thức của video thì đó là một **chương lỗi (defective chapter)**.
 
 ---
 
@@ -48,9 +51,9 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 ### KHÔNG GIAN 1: ĐỊNH VỊ TOÀN CẢNH & MẠCH NỐI HỆ THỐNG (25 ĐIỂM)
 
 *   **Tiêu chuẩn 1.1: Chức Năng Giải Phẫu trong Luận Đề Toàn Cảnh (Anatomical Function) — 7 điểm:**
-    *   Chương này giữ vai trò gì trong việc giải quyết Nghịch lý Trung tâm và chứng minh Luận đề Toàn cảnh (`05_thesis_map.md`)?
+    *   Chương này giữ vai trò gì trong việc giải quyết Nghịch lý Trung tâm và chứng minh Luận đề Toàn cảnh (`07_outline.md` — luận đề biện chứng)?
     *   *Phép thử loại trừ (Elimination Test):* Nếu cắt bỏ chương này, kịch bản toàn bài có bị sụp đổ logic không? Nếu cắt bỏ mà video vẫn đứng vững $\rightarrow$ Chương là phần thịt thừa (Padding / Filler) $\rightarrow$ **0 điểm**.
-    *   Chương phải đẩy thang nhận thức của người nghe lên một tầng mới trên Đường cong Năng lượng (`06_retention_map.md`), không lặp lại tầng nhận thức của chương trước.
+    *   Chương phải đẩy thang nhận thức của người nghe lên một tầng mới trên Đường cong Năng lượng (`07_outline.md` và `retention_bridge_audit.md`), không lặp lại tầng nhận thức của chương trước.
 *   **Tiêu chuẩn 1.2: Kế Thừa Đầu Vào & Gặt Hạt Giống (Inbound Continuity & Harvest) — 6 điểm:**
     *   1–2 câu đầu chương có tiếp nhận mượt mà hạt giống chuyển tiếp (`SEED`) và trả lời/tháo gỡ câu hỏi hở (`LOOP`) từ chương trước theo đúng `09_narrative_state_tracker.md` không?
     *   *Cấm tuyệt đối:* Dùng các liên từ bắc cầu sáo mòn ("Như đã nói ở phần trước", "Ở chương trước chúng ta thấy").
@@ -83,7 +86,8 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 *   **Tiêu chuẩn 2.5: Kỷ Luật Tai Nghe & Câu Vàng Dồn Nén (Ear Constraints & The Golden Line) — 4 điểm:**
     *   **100% câu thoại trong chương phải tuyệt đối dưới 150 ký tự** (20–25 từ), cú pháp trọn vẹn chủ-vị.
     *   Cấm tuyệt đối dấu gạch ngang dài (`—`). Khử sạch 100% từ cấm AI (`anti_ai_isms.md`).
-    *   Có ít nhất 1 "câu vàng" nén tối đa chân lý vào số lượng từ tối thiểu (*Maximum Truth into Minimum Words*). Loại bỏ hoàn toàn lối ví von chợ búa, sến sẩm.
+    *   "Câu vàng" (nếu có) nén tối đa chân lý vào số lượng từ tối thiểu và phải mang thêm dữ kiện hoặc hệ quả mới, không chỉ nhắc lại ý vừa nói. Không ép có. Loại bỏ hoàn toàn lối ví von chợ búa, sến sẩm.
+    *   Đạt ngưỡng đếm dấu hiệu cấu trúc `00_core/anti_ai_isms.md` §3b ("không phải X mà là Y" ≤ 2, câu chốt không kết hai đoạn liền nhau, 0 câu mượn uy tín không tên).
 
 ---
 
@@ -157,6 +161,6 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 ### 🏆 KẾT LUẬN & PHÂN HẠNG CHẤT LƯỢNG
 * **TỔNG ĐIỂM CHƯƠNG:** **[XX] / 50 ĐIỂM**
 * **XẾP HẠNG:** 🌟 **[KIỆT TÁC MÔ-ĐUN / ĐẠT CHUẨN XUẤT SẮC / CẦN TỐI ƯU HÓA / BỊ TỪ CHỐI]**
-* **CÂU VÀNG CỦA CHƯƠNG (THE GOLDEN LINE):**
+* **CÂU VÀNG CỦA CHƯƠNG (THE GOLDEN LINE, nếu có):**
   > *"[Trích dẫn câu văn đắt giá nhất của chương nén chân lý tối đa]"*
 ```

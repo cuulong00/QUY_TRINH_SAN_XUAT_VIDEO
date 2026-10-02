@@ -1,4 +1,7 @@
 # masterpiece_quality_standard.md — Góc Nhìn Podcast
+
+> 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
+> File này là **bộ tiêu chí tham chiếu** (MSB-100): 5 Hard-Fail Gates (§4) được áp TẠI `compliance_council`, không chấm PASS/FAIL độc lập.
 # BỘ QUY CHUẨN ĐÁNH GIÁ CHẤT LƯỢNG TOÀN DIỆN (THE MASTERPIECE SCRIPT BENCHMARK — MSB-100)
 *Dành cho dòng phim tài liệu phân tích kinh tế - xã hội chuyên sâu (Cinematic Editorial Noir)*
 
@@ -122,7 +125,7 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
         *   Khi phân tích sâu: Câu dàn trải, nhiều thanh bằng mở rộng êm ả như sóng biển.
     *   Đọc lên trôi chảy, giàu nhịp điệu nói, không vấp váp, không trúc trắc.
 *   **5.3. Độ Dồn Nén Triết Lý & Câu Vàng (The Golden Line & Poetic Compression) — 5 điểm:**
-    *   Tác phẩm phải có những "câu vàng" nén tối đa chân lý vào số lượng từ tối thiểu (*Maximum Truth into Minimum Words*), tạo nên tiếng vang tư tưởng khiến người nghe phải dừng lại vài giây để suy ngẫm.
+    *   Tác phẩm phải có những "câu vàng" nén tối đa chân lý vào số lượng từ tối thiểu (*Maximum Truth into Minimum Words*), tạo nên tiếng vang tư tưởng khiến người nghe phải dừng lại vài giây để suy ngẫm. Câu vàng phải mang dữ kiện hoặc hệ quả mới; câu chốt chỉ nhắc lại ý vừa nói hoặc câu vàng gượng ép bị trừ điểm (`00_core/anti_ai_isms.md` §3b).
     *   Tạo được sức căng tương phản điện ảnh (*Chiaroscuro Tension*) giữa ánh sáng thành công rực rỡ và bóng tối rủi ro sâu thẳm.
 *   **5.4. Kỷ Luật Kỹ Thuật Tai Nghe (Acoustic Constraints) — 4 điểm:**
     *   **100% câu thoại phải tuyệt đối dưới 150 ký tự** (20–25 từ), cấu trúc hoàn chỉnh chủ-vị, không bẻ câu què cụt.

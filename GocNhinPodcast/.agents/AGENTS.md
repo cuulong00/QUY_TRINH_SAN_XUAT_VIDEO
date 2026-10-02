@@ -1,8 +1,22 @@
 # GocNhinPodcast Workspace Rules & Persisted Learnings
 
+> 🧭 **Phân vai hai hiến pháp (29/09/2026):** `.agents/AGENTS.md` giữ hằng số vận hành, vai trò agent, DNA thị giác và bài học vận hành. `.agents/rules/content-os-pipeline.md` giữ bảng 16 pha và luật của từng pha. Khi cần một hằng số, tra `AGENTS.md`; khi cần luật một pha, tra `content-os-pipeline.md`. Không định nghĩa lại nội dung của file kia. Cách nêu lập trường: `00_core/stance_and_judgment.md`.
+
+
 ## 📌 Canonical Channel DNA & Social Assets (BẮT BUỘC KHÔNG ĐƯỢC NHẬP SAI)
 - **Tên Kênh Chính Thức:** GocNhinPodcast
 - **YouTube Official Channel URL Handle:** `https://www.youtube.com/@GocNhin_Podcast` (BẮT BUỘC phải có dấu gạch dưới `_`, nghiêm cấm viết thành `@GocNhinPodcast`).
+
+## 🔢 QUY ĐỊNH BẮT BUỘC: CHUẨN VẬN HÀNH KỸ THUẬT (CANONICAL PRODUCTION CONSTANTS)
+
+> ⚠️ **NGUỒN SỰ THẬT DUY NHẤT (SINGLE SOURCE OF TRUTH) — Dùng chung cho cả Claude Code và Antigravity; toàn bộ DNA nằm trong `.agents/`:**
+> Toàn bộ skill, persona, hook và validator BẮT BUỘC tham chiếu về đây khi cần các thông số vận hành dưới. TUYỆT ĐỐI CẤM tự định nghĩa một con số khác ở bất kỳ file nào khác trong hệ thống.
+> 1. **Tốc độ đọc chuẩn (Reading Speed Constant):** `223–235 từ/phút` (≈ 3.7–3.9 từ/giây; user chốt 29/09/2026). Ngân sách từ tính theo mốc dưới để không vượt thời lượng: `Target_Word_Count = Target_Minutes × 223` ở Pha 4 (Master Outline Engine) và mọi phép tính ngân sách từ (Payload Budget) khác.
+> 2. **Ngưỡng đạt chuẩn QA (Compliance & Editorial QA Gate):** Điểm tổng **≥ 8.5/10** VÀ không trụ cột nào trong 4 trụ cột của `compliance_council` được **< 7.5/10**. Dưới ngưỡng này, kịch bản bắt buộc sửa lại trước khi merge voiceover (Pha 8).
+> 3. **Độ dài mặc định (Default Length Tier):** Mặc định khóa ở **Cấp 1–2 (8–25 phút)** — dải retention thực nghiệm tốt nhất của kênh (AVD 49–59.5%, xem `00_core/performance_benchmarks.md`). Cấp 3–4 (25–45+ phút) chỉ mở khi User phê duyệt riêng.
+> 4. **Vị trí CTA Subscribe:** Đúng **1 lần duy nhất**, cuối Chương 2, ngay trước Bridge sang Chương 3. Cấm CTA ở Chương 1 hoặc lặp lại ở chương sau (chi tiết giọng điệu: `00_core/voice_dna.md` mục 7.2).
+> 5. **The Devil's Chapter (Phản đề):** Mặc định là 1 chương độc lập ở cao trào Hồi 2 (xem mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" bên dưới). Với các định dạng ngắn (shorts, video dưới 8 phút) nơi tách riêng 1 chương làm vỡ nhịp, được phép nén phản đề thành 1 đoạn/beat rõ ràng trong thân bài, miễn là vẫn giữ đủ 3 Nhịp Steelmanning (mục 4 bên dưới) — quyết định này do `the_critical_auditor` chốt tại Pha 4 và phải nêu rõ lý do trong `07_outline.md`.
+> 6. **Mức độ duyệt tay (Manual Review Gate):** Nghiệm thu từng chương độc lập (xem mục "Nghiệm Thu Từng Chương & Khóa Hook Cứng" bên dưới) — Agent chỉ viết đúng 1 chương rồi dừng chờ User duyệt trước khi sang chương tiếp theo.
 
 ## 🎨 QUY ĐỊNH BẮT BUỘC: CANONICAL VISUAL DNA (SANG TRỌNG – TRẦM – ẤM – UY TÍN CAO – GẦN GŨI)
 
@@ -16,31 +30,52 @@
 > - **Mệnh đề bắt buộc trong Prompt tĩnh `[IMAGE]`:** `sophisticated 2D cinematic editorial illustration, warm muted color palette, luxurious deep slate and rich warm ivory cream tones (#F5F0E6, #1E293B), soft ambient amber glow, burnished bronze accents, clean refined ink outlines, luminous high-clarity institutional lighting, grounded human-centric warmth, dignified and authoritative atmosphere, approachable documentary aesthetic, 16:9`.
 > - **Mệnh đề bắt buộc trong Video `[VIDEO]`:** `preserving the warm muted cinematic palette, deep slate tones, and refined editorial illustration style exactly, gentle steady camera movement, natural ambient atmospheric dust and soft warm lighting shifts, 8-second continuous video --ar 16:9 --dur 8s`.
 
-## 🖼️ QUY ĐỊNH BẮT BUỘC: THAM CHIẾU MẪU THUMBNAIL CHUẨN KÊNH (CANONICAL THUMBNAIL BENCHMARK MANDATE)
+## 🎬 QUY ĐỊNH BẮT BUỘC: HÌNH ẢNH NHẬN DIỆN KÊNH & INTRO BẮT BUỘC DÙNG AI THIẾT KẾ ĐỘC BẢN (CHANNEL BRANDING & INTRO AI GENERATION MANDATE)
 
-> ⚠️ **BẮT BUỘC THAM CHIẾU 100% TRONG MỌI QUY TRÌNH TẠO THUMBNAIL (BRIEF, PROMPTS & RENDER):**
-> 1. **Thư Mục Mẫu Chuẩn Bất Biến (Canonical Gold Standard):**
->    - **Đường dẫn cố định:** `/Users/pro16/Documents/VideoProject/GocNhinPodcast/profile/thumbnail_chuan`
->    - **Tệp mẫu thực tế:** `BYD_PHÁ_GIÁ_DỒN_ÉP_202607290655.jpeg` và `BYD_PHÁ_GIÁ_DỒN_ÉP_202607290656.jpeg`.
->    - Khi tạo bất kỳ tài liệu nào liên quan đến Thumbnail (`08_thumbnail_brief.md`, prompt tạo ảnh Nano Banana 2.0 / Gemini 3.1 Flash/Pro Image Preview, hoặc chỉnh sửa ảnh), Agent **BẮT BUỘC PHẢI THAM CHIẾU VÀ ĐỐI CHIẾU TRỰC TIẾP** với các mẫu chuẩn này để bảo đảm tính thống nhất nhận diện và tối ưu CTR cao nhất.
+> ⚠️ **BẮT BUỘC TUÂN THỦ 100% TRÊN TOÀN BỘ HỆ SINH THÁI — KHÔNG CÓ NGOẠI LỆ:**
+> 1. **Bản Chất Của Nhận Diện Kênh & Intro Giới Thiệu:**
+>    - Kênh **Góc Nhìn Podcast** là sản phẩm trí tuệ cao cấp, mang tinh thần báo chí điện ảnh độc lập chuẩn mực quốc tế (*The Economist, Bloomberg Originals, Financial Times*).
+>    - Toàn bộ tài sản hình ảnh cốt lõi của kênh — bao gồm: **Avatar kênh, Banner kênh, Cảnh Intro mở đầu giới thiệu kênh, Cảnh Outro kết thúc, và Hình ảnh biểu tượng nhận diện** — là linh hồn và bộ mặt tối cao của thương hiệu.
+> 2. **Bắt Buộc Thiết Kế Độc Bản Bằng AI (100% Unique AI-Generated):**
+>    - Toàn bộ hình ảnh nhận diện kênh và footage Intro **BẮT BUỘC PHẢI ĐƯỢC THIẾT KẾ BẰNG CÔNG NGHỆ AI CHUYÊN SÂU** (`generate_image` / Nano Banana 2 / Imagen 3 / Veo 3.1 Lite).
+>    - Phải viết prompt chỉn chu, áp dụng nghiêm ngặt **Canonical Visual DNA** (Sang trọng, Trầm, Ấm, Uy tín cao, Gần gũi, mã màu `#1E293B` & `#F5F0E6`), tạo ra các khung hình độc bản 100%, có bản quyền sở hữu hoàn toàn, không đụng hàng với bất kỳ ai trên internet.
+> 3. ⛔ **VÙNG CẤM TUYỆT ĐỐI (REDLINE BLACKLIST):**
+>    - **CẤM TIỆT HÀNH VI ĐI TÌM ẢNH TRÊN MẠNG ĐỂ LÀM INTRO/NHẬN DIỆN KÊNH:** Tuyệt đối KHÔNG ĐƯỢC dùng Google Search, Pinterest, Unsplash hay bất kỳ trang web nào để tải ảnh trôi nổi về làm intro kênh.
+>    - Hành vi đi tìm ảnh mạng đắp vào intro giới thiệu kênh bị coi là **lối tư duy cẩu thả, vô kỷ luật, đần độn, phá hủy tính độc bản và làm hạ cấp phẩm giá của kênh**.
+>    - Bất kỳ phân cảnh intro hoặc tài sản thương hiệu nào bị phát hiện lấy từ ảnh mạng đều bị coi là **PHẾ PHẨM** và bắt buộc phải xóa bỏ ngay lập tức để AI thiết kế lại từ đầu.
+
+## 🛡️ QUY ĐỊNH BẮT BUỘC: NGUYÊN TẮC CÁCH LY AN TOÀN I2V & KHỬ CỜ ĐỎ DEEPFAKE (I2V SAFETY ISOLATION & ZERO-CELEBRITY REDLINE)
+
+> ⚠️ **BẮT BUỘC TUÂN THỦ 100% TRÊN TOÀN BỘ CÁC PROMPT VIDEO [VIDEO] VÀ ẢNH [IMAGE] (PHA 12C, 14):**
+> 1. **Bản chất kỹ thuật của rào cản Google Safety Filter:**
+>    - **Nano Banana 2 (Ảnh tĩnh):** Chấp nhận phong cách tranh vẽ minh họa báo chí 2D (`editorial illustration`), cho phép nạp ảnh tham chiếu `@filename.ext ->`.
+>    - **Veo 3.1 Lite (Video chuyển động):** Áp dụng bộ lọc chống Deepfake/Chính trị cực kỳ khắt khe. Nếu câu lệnh `[VIDEO]` nhắc lại tên người thật hoặc các hành động thể chế nhạy cảm (`swearing-in`, `testimony`, `Senate hearing`, `speaking into microphone`...), server Veo sẽ từ chối sinh video ngay lập tức (1-second failure).
+> 2. **Nguyên tắc "Pure Optical Camera Motion" (Chuyển động quang học thuần túy):**
+>    - ⛔ **CẤM TUYỆT ĐỐI ghi tên người thật trong dòng `[VIDEO]`:** Không lặp lại `Sam Altman`, `Jensen Huang`, `Donald Trump`, `Dario Amodei`, `Yuval Noah Harari`... ở dòng `[VIDEO]`.
+>    - ⛔ **CẤM TUYỆT ĐỐI các từ khóa chính trị/thể chế nhạy cảm trong `[VIDEO]`:** Cấm `solemn swearing-in ceremony`, `testimony before lawmakers`, `addressing Congress`, `Senate committee hearing`, `political rally`.
+>    - 🎯 **Cấu trúc chuẩn mực của dòng `[VIDEO]`:** Chỉ miêu tả chuyển động của ống kính và ánh sáng môi trường:
+>      `@CHXX_SCYYY.png -> preserving the warm muted cinematic palette, deep slate tones, and refined editorial illustration style exactly, [slow subtle push-in eye-level shot / gentle steady tracking shot / elegant slow pan across the room], atmospheric warm lighting shifts, natural soft ambient air particles, 8-second continuous video --ar 16:9 --dur 8s`.
+> 3. **Trong dòng `[IMAGE]`:** Ưu tiên dùng tag tham chiếu `@filename.ext ->` kết hợp chức danh nghề nghiệp khách quan (`pioneering computer scientist`, `prominent technology executive`, `distinguished keynote speaker`) thay vì nhồi nhét tên riêng và các từ ngữ kích động chính trị.
+
+## 🖼️ QUY CHUẨN THIẾT KẾ THUMBNAIL: TIÊU CHUẨN ĐỒ HỌA BÁO CHÍ CAO CẤP & TỰ DO SÁNG TẠO (EDITORIAL COVER EXCELLENCE)
+
+> ⚠️ **TÔN CHỈ TỐI CAO: CHỐNG RẬP KHUÔN ĐẦN ĐỘN — Ý NIỆM TỰ SỰ DẪN ĐƯỜNG:**
+> 1. **Bản Chất Của Thumbnail Góc Nhìn Podcast:**
+>    - Thumbnail là **tấm bìa tạp chí điện ảnh điều tra (Editorial Cover)**, mang đẳng cấp của *The Economist, Bloomberg Originals, Financial Times*. 
+>    - ⛔ **CẤM TUYỆT ĐỐI biến kênh thành "nhà máy photocopy rập khuôn":** Nghiêm cấm hành vi máy móc áp đặt mọi video vào cùng một kiểu (2 ông đứng nhìn nhau + lửa cháy ở giữa + chữ 2 dòng trên đỉnh đầu). Mỗi tập phim có linh hồn riêng, đòi hỏi một **Ý NIỆM THỊ GIÁC ĐẮT GIÁ (Visual Metaphor & Core Tension)** riêng biệt.
 >
-> 2. **Cấu Trúc Giải Phẫu Mẫu Thumbnail Chuẩn (5 Trụ Cột Bắt Buộc Kế Thừa):**
->    - **① Bố Cục Tiêu Đề 2 Tầng Ở Nửa Trên (Upper-Center Headline Dual-Layer):**
->      * **Vị trí:** Căn giữa ở nửa trên khung hình (Upper Center), đập vào mắt người xem đầu tiên trên mobile.
->      * **Dòng 1 (Headline chính):** Phông chữ sans-serif cực dày, hình học (geometric heavy bold display font), VIẾT HOA TOÀN BỘ, có dấu tiếng Việt chuẩn xác 100%. Phối màu gradient nóng rực rỡ: Vàng chanh (`#FFD600`) chuyển mượt sang Cam lửa (`#FF5722`) hoặc Đỏ cam (`#FF1744`). Viền chữ đen dày sắc nét (`thick sharp black outline`) và bóng đổ sâu (`heavy black drop-shadow`) giúp chữ tách hoàn toàn khỏi hậu cảnh.
->      * **Dòng 2 (Vế đối trọng/Đòn bẩy hành động):** Cùng phông sans-serif cực dày, VIẾT HOA TOÀN BỘ, màu trắng tinh khiết (`solid pure white #FFFFFF`), viền chữ đen dày sắc nét.
->    - **② Bố Cục Chủ Thể Đối Đầu / Liên Minh Song Phương (Dual-Flank Clash / Strategic Alliance):**
->      * **Cánh trái (Left Flank):** Chân dung nhân vật chủ chốt (Chủ tịch / Lãnh đạo / Chuyên gia) cắt nét sạch sẽ, sắc nét, diện mạo điềm đạm, uy quyền, đĩnh đạc; phía trước là sản phẩm / biểu tượng công nghiệp thực tế (xe hơi thương hiệu, siêu công trình, máy móc...).
->      * **Cánh phải (Right Flank):** Chân dung đối thủ hoặc đối tác chiến lược tương ứng, đi kèm sản phẩm / biểu tượng đại diện.
->      * **Logo thương hiệu chuẩn xác 100% ngoài đời thực:** Logo đặt ở vị trí trang trọng giữa hai bên hoặc cạnh nhân vật, tuyệt đối cấm vẽ méo mó logo hay sai tên thương hiệu.
->    - **③ Tiêu Đề Phụ Ở Chân Trang (Bottom Subtitle / Hook Bar):**
->      * **Vị trí:** Đặt cân đối ở đáy giữa khung hình (Bottom Center).
->      * **Phong cách:** Chữ trắng tinh tế, viết hoa chữ cái đầu (Titlecase), phông sans-serif hiện đại, đặt trên hoặc đi kèm đường viền mảnh ánh kim (gold/bronze accent line), tạo cảm giác sang trọng, đĩnh đạc và uy tín báo chí.
->    - **④ Ánh Sáng Kịch Tính & Không Khí Nền (Atmospheric Fire, Sparks & Contrast Noir):**
->      * Nền tối tương phản cực cao: Ánh sáng rực rỡ từ ngọn lửa bùng cháy ở hai biên, tàn lửa bay lơ lửng (`glowing embers / fiery sparks`), luồng sáng phân tách kịch tính ở trung tâm (`central vertical dividing light beam`).
->      * Triệt tiêu hoàn toàn cảm giác nhạt nhòa, mờ đục hoặc màu pastel yếu ớt.
->    - **⑤ Tối Ưu Hóa Tuyệt Đối Cho Mobile (Mobile-First Legibility):**
->      * Đảm bảo khi hiển thị ở kích thước thumbnail siêu nhỏ trên màn hình điện thoại (~120x68px), người xem vẫn đọc rõ từng chữ của Tiêu đề chính và nhận diện ngay lập tức hai nhân vật/sản phẩm đối đầu.
+> 2. **Thư Mục Đối Chuẩn (`/profile/thumbnail_chuan`):**
+>    - Thư mục này đại diện cho **ĐỘ HOÀN THIỆN KỸ THUẬT, ĐỘ SẮC NÉT QUANG HỌC VÀ TƯƠNG PHẢN DI ĐỘNG CAO NHẤT**, KHÔNG PHẢI khuôn đúc bố cục cứng:
+>      * Mẫu `BYD`: Đại diện cho trường phái đối đầu song phương 1-1 khi có 2 thế lực đối kháng thực tế.
+>      * Mẫu `Phu Quoc`: Đại diện cho trường phái sa bàn địa hình 3D kết hợp nhân vật chính sách.
+>      * Kênh khuyến khích phát triển các trường phái khác: Ẩn dụ điện ảnh (Cinematic Metaphor như bóng ma, bàn cờ, con rối), Hiện trường điều tra (Investigative / Evidence), và Bìa tạp chí tinh hoa (Hero Shot).
+>
+> 3. **Quy Chuẩn Typography Tự Do & Linh Hoạt (Dynamic Typography Freedom):**
+>    - ⛔ **CẤM FIX CỨNG MÀU SẮC VÀ BỐ CỤC CHỮ:** Tuyệt đối KHÔNG bắt buộc dòng 1 phải là vàng cam, dòng 2 phải là trắng. Không bắt buộc phải có 2 tầng hay phải có thanh subtitle ở đáy.
+>    - **Bố cục chữ linh hoạt:** Canh trái (Left-aligned), căn giữa (Centered), canh phải (Right-aligned), hoặc tích hợp trực tiếp vào bối cảnh hình ảnh (In-scene signage/panels) tùy theo trọng tâm thị giác của bức ảnh.
+>    - **Độ dài & Số dòng tự do:** Có thể là 1 từ/1 cụm từ giật gân đắt giá duy nhất (ví dụ: "BẪY 30 TỶ", "ĐỐI TÁC HAY ĐỐI THỦ?", "PHẢN TƯỚNG?"), hoặc 2 dòng ngắn gọn. Bỏ thanh phụ đề chân trang nếu làm rối mắt hoặc thừa thãi.
+>    - **Bảng màu chữ mở rộng:** Tự do sử dụng màu trắng nguyên bản, đỏ cảnh báo, vàng kim hổ phách, kim loại khối đặc 3D, hoặc phông chữ Serif báo chí đĩnh đạc miễn sao đạt độ tương phản cực đại trên nền tối.
+>    - **Yêu cầu kỹ thuật bất biến:** Chữ có dấu tiếng Việt 100% chuẩn xác, có viền đen sắc nét hoặc bóng đổ sâu để tách khỏi nền, và **bảo đảm đọc rõ mồn một trên màn hình di động siêu nhỏ (~120x68px)**.
 
 ## 🛑 QUY ĐỊNH BẮT BUỘC: NGUYÊN TẮC ZERO-SCAFFOLDING (CẤM TUYỆT ĐỐI RÒ RỈ NHÃN KHUNG SƯỜN & TEMPLATE BLOCKS VÀO THÀNH PHẨM XUẤT BẢN)
 
@@ -67,24 +102,14 @@
 > 4. **Chế Tài Vi Phạm Kỷ Luật:**
 >    - Hành vi in nguyên nhãn template/block vào thành phẩm bị coi là **lỗi cẩu thả máy móc, dốt nát và phá hủy trải nghiệm người dùng**. Bất kỳ tài liệu nào xuất hiện lỗi này đều bị coi là **PHẾ PHẨM** và bắt buộc phải xóa làm lại ngay lập tức.
 
-## 🛑 QUY ĐỊNH BẮT BUỘC: GHI NHẬN & GIÁM SÁT KHUYẾT TẬT LLM (LLM DEFECT LOGGING MANDATE)
+## ⚡ NGUYÊN TẮC PHẢN HỒI NHANH & LOẠI BỎ GHI LOG KHUYẾT TẬT RUNTIME (LEAN EXECUTION MANDATE)
 
-> ⚠️ **BẮT BUỘC TUÂN THỦ 100% TRONG TOÀN BỘ QUÁ TRÌNH TẠO KỊCH BẢN:**
-> 1. **Sổ Cái Khuyết Tật Tập (`episodes/[slug]/llm_error_log.md`):**
->    - Mỗi episode bắt buộc phải duy trì tệp `llm_error_log.md` theo cấu trúc chuẩn từ `02_templates/llm_error_log_template.md`.
->    - Toàn bộ các lỗi phát sinh từ lúc khởi tạo đến khi ra kịch bản cuối cùng phải được ghi nhận đầy đủ, tuyệt đối cấm âm thầm sửa lỗi bỏ qua việc ghi log.
-> 2. **Hệ Thống Phân Loại 6 Nhóm Khuyết Tật:**
->    - `[FORMAT_SYNTAX]`: Lỗi câu >150 ký tự, dấu em-dash (`—`), rò rỉ scaffolding `[BLOCK 1]`, lộ prompt metadata.
->    - `[VOCABULARY_TONE]`: Dính từ cấm AI (`anti_ai_isms.md`), trôi dạt văn phong hàn lâm/báo cáo, sến sẩm hoặc giật gân.
->    - `[DATA_GROUNDING]`: Ảo giác số liệu, trích dẫn sai nguồn, vi phạm ZUI, nhầm lẫn thực thể.
->    - `[LOGIC_REASONING]`: Ngụy biện bù nhìn rơm (Strawman), cắt xén cơ chế First-Principles, tư duy ngăn tủ ("And Then"), giấu bài về cuối.
->    - `[PROCESS_PROTOCOL]`: Bỏ qua Pre-Flight Log, vi phạm sandbox, quên nạp persona, dính lỗi lặp lại (Forbidden Echoes).
->    - `[HUMAN_REJECTION]`: Người dùng từ chối bản nháp, yêu cầu đổi framing, đổi ví dụ hoặc viết lại hoàn toàn.
-> 3. **Cơ Chế Kích Hoạt Ghi Log Bắt Buộc:**
->    - Khi Post-Write Audit (Pha 7) hoặc Compliance Council (Pha 10 & 11) phát hiện lỗi $\to$ Ghi ngay vào `llm_error_log.md` trước khi sửa.
->    - Khi Người dùng phản hồi yêu cầu chỉnh sửa (`/revise_chapter` hoặc chat feedback) $\to$ Bắt buộc tạo 1 entry `[HUMAN_REJECTION]` ghi rõ lý do không đạt của bản trước.
-> 4. **Vòng Lặp Cải Tiến Liên Tục (Continuous Improvement):**
->    - Dữ liệu từ `llm_error_log.md` được tổng kết vào Section 6.1 của `postmortem.md` (Pha 16) và chuyển giao vào Sổ cái trung tâm `01_management/llm_error_analytics.md` để định kỳ vá System Prompts và Skills.
+> ⚠️ **CHỈ ĐẠO CHÍNH THỨC TỪ NGƯỜI DÙNG: BÃI BỎ TOÀN BỘ VIỆC GHI LOG KHUYẾT TẬT RUNTIME (`llm_error_log.md`):**
+> 1. **Loại Bỏ Hoàn Toàn Khỏi Quy Trình Phản Hồi:** 
+>    - Tuyệt đối KHÔNG ghi chép, cập nhật số lượng lỗi, viết báo cáo RCA hay can thiệp vào tệp `llm_error_log.md` mỗi khi nhận phản hồi, chỉnh sửa kịch bản hoặc phát hiện lỗi.
+>    - Việc ghi log rườm rà làm phân tán tài nguyên, gây chậm trễ thời gian phản hồi và làm gián đoạn luồng làm việc.
+> 2. **Tập Trung 100% Vào Hành Động Thực Thi Trực Tiếp:**
+>    - Khi Người dùng phản hồi hoặc phát hiện bất kỳ lỗi nào (số liệu, câu chữ, logic, thực thể) $\to$ Agent **chỉnh sửa trực tiếp ngay vào file đích** (`chapter_XX.md`, `chapter_XX_visual.md`, `voiceover.md`...), bảo đảm tốc độ tối đa, súc tích, giải quyết dứt điểm vấn đề trong 1 bước duy nhất.
 
 ## 🛑 QUY ĐỊNH BẮT BUỘC: THỰC THI NOTEBOOKLM DEEP RESEARCH (DIRECT RPC & SANDBOX POLICY)
 
@@ -112,22 +137,38 @@
 >    - 🎯 **BẮT BUỘC tách thành 3 – 5 Prompts nạp nguồn chuyên sâu (Targeted Ingestion Prompts):** Mỗi prompt đào sâu vào MỘT trụ cột độc lập.
 >    - Toàn bộ các queries này được nạp tuần tự vào **CÙNG 1 Master Notebook duy nhất** (`-n <notebook_id> --mode deep --import-all`), giúp tích lũy 40–80 nguồn dữ liệu chuyên sâu đa tầng, không bị sót mảng nào.
 
-## 🌐 QUY ĐỊNH BẮT BUỘC: LẬP BỨC TRANH TOÀN CẢNH (GLOBAL VISION SYNTHESIS — KHUNG TƯ DUY PHỔ QUÁT 4 TẦNG)
+## 🌐 QUY ĐỊNH BẮT BUỘC: LẬP BỨC TRANH TOÀN CẢNH & BÀN CỜ HỆ THỐNG (MASTER SYSTEMIC TOPOGRAPHY & GLOBAL VISION — 4 TẦNG)
 
-> ⚠️ **BẮT BUỘC TUÂN THỦ 100% KHI TẠO `vault/00_Global_Vision_Synthesis.md` (Pha 2.5):**
+> ⚠️ **BẮT BUỘC TUÂN THỦ 100% KHI TẠO `01_global_vision_synthesis.md` (Pha 1):**
 > 1. **Triết lý Cốt Lõi: Bản Đồ Địa Hình Hiện Thực vs. Lộ Trình Dẫn Đường (The Map of Reality vs. The Guided Tour):**
->    - Bức tranh toàn cảnh là **BẢN ĐỒ ĐỊA HÌNH CỦA HIỆN THỰC KHÁCH QUAN (The Map of Reality)**: Mô tả bản chất của vùng đất đề tài (kinh tế, xã hội, điều tra, nhân vật hay công nghệ), các chủ thể, động lực sinh tồn, quy luật vận hành và hệ thống bằng chứng thực tế. Nó tồn tại khách quan, độc lập với việc kể chuyện.
+>    - Bức tranh toàn cảnh là **BẢN ĐỒ ĐỊA HÌNH CỦA HIỆN THỰC KHÁCH QUAN (The Map of Reality)**: Mô tả bản chất của vùng đất đề tài (kinh tế, xã hội, điều tra, nhân vật hay công nghệ), các chủ thể, động lực sinh tồn, quy luật vận hành và hệ thống bằng chứng thực tế. Nó tồn tại khách quan, độc lập với việc kể chuyện, do **`the_macro_strategist` (Chủ tịch Hội đồng)** chủ trì kiến tạo ngay tại Pha 1.
 >    - Dàn ý kịch bản (Outline ở Pha 4) là **LỘ TRÌNH DẪN ĐƯỜNG CHỦ QUAN (The Guided Tour)**: Quyết định số trạm dừng (số chương), nhịp điệu, cảm xúc và thời lượng (8m, 20m hay 45m).
-> 2. **Cấu trúc 4 Tầng Tư Duy Phổ Quát (Universal 4-Tier Blueprint — Áp dụng cho MỌI thể loại đề tài):**
->    - **Tầng 1 (Meta-Instructions & Redlines):** Khối YAML/JSON định vị vai trò quan sát/điều tra độc lập (Editorial Noir DNA), rào cản chính luận, blacklist từ cấm nhạy cảm chính trị, và chính sách khóa cứng số liệu mỏ neo thực chứng bất biến.
->    - **Tầng 2 (Macro Landscape & Systemic Forces — Bản Đồ Không Gian & Các Lực Lượng):** Sơ đồ ASCII toàn cảnh định vị không gian bàn cờ: Các chủ thể tham gia (Nhà nước, doanh nghiệp, người dân, dòng vốn, các nhóm lợi ích...), động lực sinh tồn/kinh tế/chính trị cốt lõi (Incentives), các dòng chảy chủ đạo (dòng tiền, quyền lực, thông tin, hàng hóa) và tương quan lực lượng.
->    - **Tầng 3 (Underlying Mechanics & Central Paradoxes — Quy Luật Vận Hành & Nghịch Lý Cốt Lõi):** Giải phẫu các mắt xích nhân quả gốc rễ (Root Causes & Causal Chains) và khoảng cách giữa kỳ vọng/bề mặt vs thực tế/bản chất. Xác định điểm gãy cấu trúc hoặc quy luật khách quan chi phối toàn bộ đề tài (quy luật chi phí, rào cản thể chế, bẫy cơ cấu, động lực tâm lý xã hội...).
->    - **Tầng 4 (Immutable Ground-Truth Data Vault — Sổ Cái Bằng Chứng Thực Chứng Bất Biến):** Bảng tra cứu mã số liệu, văn bản pháp quy, mốc thời gian, hồ sơ kiểm toán (`DATA-01` đến `DATA-XX`) đối chiếu 1-1 với nguồn tài liệu gốc trong `research_vault/`. Đây là "mỏ than dữ liệu sạch" bất biến cung cấp nhiên liệu cho toàn bộ pipeline hạ nguồn xúc dùng.
-> 3. 🛑 **VÙNG CẤM TUYỆT ĐỐI CỦA PHA 2.5 (HARD REDLINE — CHỐNG ÔM ĐỒM & CHỐNG TIỀN ĐỊNH DÀN Ý):**
+> 2. **Nguyên Tắc Chủ Thể Đa Hình Thái (Polymorphic Subject Mandate — BẮT BUỘC):**
+>    - ⛔ **CẤM TUYỆT ĐỐI BÓ HẸP CHỦ THỂ:** Chủ thể là **Tâm Chấn Nhận Thức (Cognitive Epicenter)**, không chỉ là công ty hay cá nhân. Bắt buộc phân loại chính xác thuộc 1 trong 5 Hình Thái:
+>      * (1) *Thực thể Thể chế / Pháp lý:* Nghị định, Đạo luật, Quy hoạch, Hiệp định (NĐ 100, NĐ 116, Luật Đất đai, SB 1047).
+>      * (2) *Thực thể Ý niệm / Học thuyết:* Triết lý phát triển, tư tưởng, mô hình (Sản xuất thực chất vs Địa tô, e/acc, Ngoại giao cây tre).
+>      * (3) *Hiện tượng Xã hội / Nhân khẩu:* Dân số già hóa, an sinh, tâm lý học hành vi (Viện dưỡng lão, tài xế tắt app, Tang ping).
+>      * (4) *Không gian Địa lý / Hạ tầng / Lưu vực:* Kênh đào Funan Techo, Vịnh Thái Lan, Sông Hồng, ĐSCT 67B$.
+>      * (5) *Doanh nghiệp / Tổ chức / Thị trường vốn:* Tập đoàn, Ngân hàng TW, liên minh kinh tế (Hòa Phát, THACO, Nvidia, BoJ).
+> 3. **Bộ 5 Câu Hỏi Bản Thể Học Phổ Quát (Universal 5-Question Scoping):**
+>    Trước khi lập kế hoạch nghiên cứu, Hội đồng Chiến lược bắt buộc phải trả lời 5 câu hỏi gốc rễ theo đúng ngôn ngữ tự nhiên của hình thái chủ thể:
+>    - `1. Entity Anchors`: Chủ thể trung tâm thực chất là AI/CÁI GÌ? Fact-sheet thô sơ bộ gồm những gì?
+>    - `2. Arena & Circuit`: Không gian vận động & Mạch truyền dẫn là gì? (Chuỗi giá trị kinh tế / Cán cân quyền lực / Mạch luân chuyển xã hội / Mạch tiền tệ).
+>    - `3. Incentives & Survival`: Các bên tham gia muốn gì và sợ gì? Động lực sinh tồn thực sự ẩn sau lớp vỏ ngôn từ là gì?
+>    - `4. Governing Laws & Paradoxes`: Quy luật khách quan nào đang điều khiển cuộc chơi mà các bên không thể làm trái?
+>    - `5. Contested Evidence & Dissent`: Sự thật nằm ở đâu? Con số ngầm & Phe phản biện chỉ trích điều gì?
+> 4. **Cấu trúc 4 Tầng Tư Duy Phổ Quát (Universal 4-Tier Blueprint — Áp dụng cho MỌI thể loại đề tài):**
+>    - **Tầng 1 (Meta-Instructions & Redlines):** Tuyên bố rõ Hình thái Chủ thể, Quyết định phê duyệt đề tài (Strategy Council Verdict), định vị vai trò quan sát độc lập (Editorial Noir DNA), rào cản chính luận, blacklist từ cấm.
+>    - **Tầng 2 (Macro Landscape & Systemic Forces — Bản Đồ Không Gian & Các Lực Lượng):** Sơ đồ ASCII toàn cảnh định vị không gian bàn cờ: Các chủ thể tham gia, động lực sinh tồn/kinh tế/chính trị cốt lõi (Incentives), các dòng chảy chủ đạo và tương quan lực lượng.
+>    - **Tầng 3 (Underlying Mechanics & Central Paradoxes — Quy Luật Vận Hành & Nghịch Lý Cốt Lõi):** Giải phẫu các mắt xích nhân quả gốc rễ (Root Causes) và khoảng cách giữa kỳ vọng/bề mặt vs thực tế/bản chất. Xác định điểm gãy cấu trúc và quy luật khách quan chi phối.
+>    - **Tầng 4 (Target Ground-Truth Evidence Checklist & Immutable Data Vault):** 
+>      * *Hóa giải Nghịch lý Con gà & Quả trứng:* Tại Pha 1, Tầng 4 đóng vai trò là **Danh Mục Mỏ Neo Dữ Liệu Cần Điều Tra (Target Evidence Checklist)** xác lập các chỉ tiêu định lượng, báo cáo kiểm toán cần truy lùng độc lập; TUYỆT ĐỐI CẤM Agent đoán mò hay tự bịa số liệu chi tiết khi chưa qua Deep Research.
+>      * Sau khi hoàn thành Pha 2 (Deep Research), Sổ cái `DATA-01` đến `DATA-XX` được cập nhật chính thức bằng **100% SỐ LIỆU THẬT ĐÃ KIỂM TOÁN TỪ VAULT** vào cả `02_research_map.md` và đồng bộ vào `01_global_vision_synthesis.md`.
+> 5. 🛑 **VÙNG CẤM TUYỆT ĐỐI CỦA PHA 1 (HARD REDLINE — CHỐNG ÔM ĐỒM & CHỐNG TIỀN ĐỊNH DÀN Ý):**
 >    - **TUYỆT ĐỐI CẤM xuất hiện bất kỳ từ khóa cấu trúc kịch bản nào:** `CH01`, `CHXX`, `Chương`, `Hồi`, `Hook`, `Scene`, `Voiceover Tone`, `Narrative Bridge`, `Harvest`, `Seed`.
->    - **TUYỆT ĐỐI CẤM chia chương trước Pha 4:** Việc phân chia số chương, thời lượng, nhịp điệu, cấu trúc hồi, và phân bổ quota dữ liệu vào từng chương là **ĐẶC QUYỀN ĐỘC TÔN của Pha 4 (Master Outline Engine do `the_master_script_dramaturg` phụ trách)**.
->    - **TUYỆT ĐỐI CẤM may đo rập khuôn:** Không gượng ép mọi đề tài vào một khuôn mẫu cứng nhắc (như ép phải có 3-4 trận địa hay ép phải có 7 chương). Mỗi đề tài được quyền thể hiện cơ chế và nghịch lý theo đúng bản chất hình học tự nhiên của nó (đối xứng, chu kỳ luẩn quẩn, mạng lưới nhện, hay dòng chảy thác lũ).
->    - **Chế tài vi phạm:** Mọi tệp `00_Global_Vision_Synthesis.md` xuất hiện cấu trúc chia chương kịch bản đều bị coi là **VI PHẠM KỶ LUẬT HỆ THỐNG** (làm ô nhiễm ngữ cảnh, gây thiên kiến trói tay chuyên gia dàn ý) và sẽ bị hủy bỏ để làm lại.
+>    - **TUYỆT ĐỐI CẤM chia chương trước Pha 4:** Việc phân chia số chương, thời lượng, nhịp điệu, cấu trúc hồi, và phân bổ quota dữ liệu vào từng chương là **ĐẶC QUYỀN ĐỘC TÔN của Pha 4 (Master Outline Engine do `the_dialectic_architect` phụ trách)**.
+>    - **TUYỆT ĐỐI CẤM may đo rập khuôn:** Không gượng ép mọi đề tài vào một khuôn mẫu cứng nhắc (như ép phải có 3-4 trận địa hay ép phải có 7 chương). Mỗi đề tài được quyền thể hiện cơ chế và nghịch lý theo đúng bản chất hình học tự nhiên của nó.
+>    - **Chế tài vi phạm:** Mọi tệp `01_global_vision_synthesis.md` xuất hiện cấu trúc chia chương kịch bản hoặc số liệu bịa đặt thiếu nguồn kiểm toán đều bị coi là **VI PHẠM KỶ LUẬT HỆ THỐNG** và sẽ bị hủy bỏ để làm lại.
 
 ## 🛡️ QUY ĐỊNH BẮT BUỘC: KHÓA CHUYÊN GIA & KỸ NĂNG THƯỢNG NGUỒN (CHỐNG TAM SAO THẤT BẢN TỪ GỐC)
 
@@ -136,33 +177,35 @@
 >    - Mọi sai lệch bản chất, suy diễn viển vông hay ảo giác kỹ thuật trong kịch bản thoại (Pha 7) đều có nguồn gốc từ việc **các tài liệu thượng nguồn (Nghiên cứu Pha 2, Brief Pha 3, Outline Pha 4, Chapter Briefs Pha 6) bị thả nổi, thiếu danh tính chuyên gia chuyên ngành và thiếu kiểm toán kỹ thuật**.
 >    - Khi tài liệu thượng nguồn dịch ẩu thuật ngữ kỹ thuật, đánh đồng các quy trình sản xuất khác biệt hoặc tự ý nâng cấp quan hệ thương mại (như biến tiếp xúc ban đầu thành hợp đồng ràng buộc), nó sẽ trở thành **nguồn nước bị đầu độc (Poisoning the Well)** lây lan xuống toàn bộ pipeline.
 > 2. **Ràng buộc Định danh Chuyên gia & Kỹ năng Bắt buộc:**
->    - Mọi pha tạo tài liệu bắt buộc phải gán chặt với Persona DNA và Skill chuyên môn (Pha 1: `strategy_council`; Pha 2: `deep_research` + `the_industrial_economist` + `the_policy_analyst`; Pha 3: `the_editorial_director` + `the_policy_analyst`; Pha 4 (Master Outline Engine): `the_master_script_dramaturg`; Pha 5 (Hook Lab): `the_viral_alchemist` + `the_critical_auditor`; Pha 6 (Chapter Briefs & NST): `the_narrative_director` + `the_critical_auditor`; Pha 7 (Chapter Writing): `chapter_writer`).
+>    - Mọi pha tạo tài liệu bắt buộc phải gán chặt với Persona DNA và Skill chuyên môn (Pha 1: `strategy_council` do `the_macro_strategist` làm Chủ tịch; Pha 2: `deep_research` + `the_industrial_economist` + `the_policy_analyst`; Pha 3: `the_editorial_strategist` + `the_policy_analyst`; Pha 4 (Master Outline Engine): `the_dialectic_architect`; Pha 5 (Hook Lab): `the_viral_alchemist` + `the_critical_auditor`; Pha 6 (Chapter Briefs & NST): `the_narrative_director` + `the_critical_auditor`; Pha 7 (Chapter Writing): `chapter_writer`).
 >    - Ở khâu Nghiên cứu (Pha 2): Persona kỹ thuật/kinh tế bắt buộc phải kiểm toán tính chuẩn xác của từng thuật ngữ, phân định rạch ròi giữa bản vẽ thiết kế, hồ sơ quy hoạch môi trường với dây chuyền thực tế. Tuyệt đối CẤM dịch thoát ý làm biến dạng nguyên lý cơ học hoặc pháp lý.
 >    - Ở khâu Dàn ý & Briefs: Persona `the_critical_auditor` bắt buộc phải rà soát từng luận điểm (Core Claim) và mỏ neo vật lý (Physical Anchor). Mọi giải pháp kinh tế - kỹ thuật được đề xuất phải khả thi ngoài đời thực, cấm bịa đặt các giải pháp phi vật lý hoặc vi phạm quy luật kinh tế quy mô.
-> 3. **GIAO THỨC GHI LOG TIỀN KHỞI ĐỘNG & TRUY XUẤT NGUỒN GỐC (MANDATORY PRE-FLIGHT LOG & PROVENANCE PROTOCOL):**
->    - **Quy tắc Bất Biến:** TRƯỚC KHI tạo ra bất kỳ tài liệu nào (từ Pha 1 đến Pha 16, gồm: `01_topic_qualification.md`, `02_research_map.md`, `02_research_synthesis.md`, `vault/00_Global_Vision_Synthesis.md`, `03_brief.md`, `04_hook_pack.md`, `05_thesis_map.md`, `06_retention_map.md`, `07_outline.md`, `08_chapter_briefs.md`, `09_narrative_state_tracker.md`, `chapter_XX.md`, `10_compliance_report.md`...), Agent **BẮT BUỘC PHẢI THỰC HIỆN 2 BƯỚC GHI LOG**:
+> 3. **GIAO THỚC GHI LOG TIỀN KHỞI ĐỘNG & TRUY XUẤT NGUỒN GỐC (MANDATORY PRE-FLIGHT LOG & PROVENANCE PROTOCOL):**
+>    - **Quy tắc Bất Biến:** TRƯỚC KHI tạo ra bất kỳ tài liệu nào (từ Pha 1 đến Pha 16, gồm: `01_global_vision_synthesis.md`, `02_research_map.md`, `02_research_synthesis.md`, `03_brief.md`, `04_hook_pack.md`, `05_thesis_map.md`, `06_retention_map.md`, `07_outline.md`, `08_chapter_briefs.md`, `09_narrative_state_tracker.md`, `chapter_XX.md`, `10_compliance_report.md`...), Agent **BẮT BUỘC PHẢI THỰC HIỆN 2 BƯỚC GHI LOG**:
 >      1. **Bước 1 — In Hộp Log Pre-Flight ra màn hình chat TRƯỚC KHI gọi lệnh tạo file:**
 >         ```markdown
 >         > 🚀 **[PRE-FLIGHT LOG: TIỀN KHỞI ĐỘNG TẠO TÀI LIỆU <Tên_Tài_Liệu>]**
 >         > - 🧠 **Chuyên Gia (Persona DNA) Kích Hoạt:** [Tên Persona] (`.agents/personas/[file_name].md`)
 >         > - ⚙️ **Kỹ Năng (Skill) Dẫn Đường:** [Tên Skill] (`.agents/skills/[skill_name]/SKILL.md`)
+>         > - 🔢 **Tải Trọng Token Nạp Vào (Input Context Footprint):** ~[Tổng_Tokens] tokens (Cố định hệ thống: ~45k–55k | Lịch sử hội thoại: ~[X]k | Tài liệu nạp trực tiếp qua view_file: ~[Y]k tokens từ [Z] tệp)
 >         > - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Input References):**
->         >   * `[Đường_dẫn_tài_liệu_1]` (Mục đích nạp: ...)
->         >   * `[Đường_dẫn_tài_liệu_2]` (Mục đích nạp: ...)
+>         >   * `[Đường_dẫn_tài_liệu_1]` (~[A] tokens | Mục đích nạp: ...)
+>         >   * `[Đường_dẫn_tài_liệu_2]` (~[B] tokens | Mục đích nạp: ...)
 >         > - 🎯 **Tài Liệu Đích Xuất Ra:** `episodes/[slug]/[output_file]`
 >         > - 🛡️ **Rào Cản Kiểm Toán & Tôn Chỉ First-Principles:** [Tóm tắt 1-2 dòng nguyên lý cốt lõi]
 >         ```
 >      2. **Bước 2 — Nhúng Khối Provenance Metadata ở đầu tệp tin (Áp dụng cho các tệp phân tích/kế hoạch):**
->         Đối với các tệp phân tích, chiến lược, brief, outline (`01` đến `08`, `00_Global_Vision_Synthesis.md`, `09_narrative_state_tracker.md`), BẮT BUỘC chèn khối Metadata ở đầu file:
+>         Đối với các tệp phân tích, chiến lược, brief, outline (`01` đến `08`, `01_global_vision_synthesis.md`, `09_narrative_state_tracker.md`), BẮT BUỘC chèn khối Metadata ở đầu file:
 >         ```markdown
 >         <!--
 >         DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 >         - Output Document: episodes/[slug]/[file_name]
 >         - Activated Persona: [Tên Persona] (.agents/personas/[file_name].md)
 >         - Activated Skill: [Tên Skill] (.agents/skills/[skill_name]/SKILL.md)
+>         - Input Context Footprint: ~[Tổng_Tokens] tokens (Fixed Rules: ~50k, Ingested Docs: ~[Y]k)
 >         - Source Documents Consulted:
->           * [Tài liệu nguồn 1]
->           * [Tài liệu nguồn 2]
+>           * [Tài liệu nguồn 1] (~[A] tokens)
+>           * [Tài liệu nguồn 2] (~[B] tokens)
 >         - Execution Timestamp: YYYY-MM-DD HH:MM
 >         -->
 >         ```
@@ -178,25 +221,27 @@
 
 | Tín hiệu User (Trigger Phrases) | Pha & Tệp Đầu Ra (Target Output) | Chuyên Gia Kích Hoạt (Persona DNA Path) | Kỹ Năng Dẫn Đường (Skill Path) | Tài Liệu Nguồn Bắt Buộc Đọc (Mandatory Inputs via `view_file`) | Workflow / Lệnh Thực Thi |
 |---|---|---|---|---|---|
-| "khởi tạo", "init episode", "bắt đầu episode mới", "đề tài mới", "đánh giá đề tài", "chọn chủ đề" | **Pha 1:** `01_topic_qualification.md` | `.agents/personas/the_macro_strategist.md`<br>+ `.agents/personas/the_critical_auditor.md` | `.agents/skills/strategy_council/SKILL.md` | Ý tưởng của User, tài liệu phác thảo ban đầu, hạt giống tin tức | `/init_episode` |
-| "research", "deep research", "nghiên cứu", "nghiên cứu sâu", "tìm data", "đào dữ liệu", "nạp nguồn" | **Pha 2:** `02_research_map.md` & `02_research_synthesis.md` | `.agents/personas/the_policy_analyst.md`<br>+ `.agents/personas/the_industrial_economist.md` | `.agents/skills/deep_researcher/SKILL.md`<br>+ `.agents/skills/notebooklm/SKILL.md` | `episodes/[slug]/01_topic_qualification.md`, Master Notebook ID (`.notebook_id`) | `/deep_research`<br>*(BypassSandbox: true, --mode deep)* |
-| "quy hoạch tầm nhìn", "bức tranh tổng thể", "global vision", "tầm nhìn toàn cảnh", "synthesis", "bức tranh 4 tầng" | **Pha 2.5:** `vault/00_Global_Vision_Synthesis.md` | `.agents/personas/the_macro_strategist.md`<br>+ `.agents/personas/the_editorial_strategist.md` | `.agents/skills/script_architect/SKILL.md` | `episodes/[slug]/01_topic_qualification.md`<br>`episodes/[slug]/02_research_synthesis.md`<br>`episodes/[slug]/research_vault/` | `/build_global_vision`<br>*(Bản đồ Địa hình Hiện thực 4 Tầng — CẤM chia chương)* |
-| "viết brief", "lập chiến lược", "chiến lược", "strategy brief", "tạo brief", "xây brief" | **Pha 3:** `03_brief.md` | `.agents/personas/the_editorial_strategist.md`<br>+ `.agents/personas/the_policy_analyst.md` | `.agents/skills/script_architect/SKILL.md` | `episodes/[slug]/vault/00_Global_Vision_Synthesis.md`<br>`episodes/[slug]/01_topic_qualification.md`<br>`episodes/[slug]/02_research_synthesis.md` | `/build_brief` |
-| "viết outline", "dàn ý", "xây cấu trúc", "master outline", "lập dàn ý", "cấu trúc tập" | **Pha 4:** `07_outline.md` | `.agents/personas/the_dialectic_architect.md`<br>+ `.agents/personas/the_industrial_economist.md`<br>+ `.agents/personas/the_critical_auditor.md` | `.agents/skills/script_architect/SKILL.md` | `episodes/[slug]/vault/00_Global_Vision_Synthesis.md`<br>`episodes/[slug]/03_brief.md`<br>`episodes/[slug]/02_research_synthesis.md` | `/build_outline`<br>*(Quy trình 5 Trạm Master Outline Forge & Lan can Co giãn)* |
-| "viết hook", "mở đầu video", "hook lab", "tạo hook", "chọn hook", "làm hook" | **Pha 5:** `04_hook_pack.md` | `.agents/personas/the_viral_alchemist.md`<br>+ `.agents/personas/the_critical_auditor.md` | `.agents/skills/hook_engine/SKILL.md` | `episodes/[slug]/07_outline.md`<br>`episodes/[slug]/03_brief.md`<br>`episodes/[slug]/vault/00_Global_Vision_Synthesis.md` | `/hook_lab`<br>*(May đo 3-5 Hooks bám Dàn ý)* |
-| "viết chapter brief", "brief các chương", "lập brief từng chương", "khởi tạo nst", "tạo sổ cái tự sự" | **Pha 6:** `08_chapter_briefs.md` & `09_narrative_state_tracker.md` | `.agents/personas/the_narrative_director.md`<br>+ `.agents/personas/the_critical_auditor.md` | `.agents/skills/script_architect/SKILL.md` | `episodes/[slug]/07_outline.md`<br>`episodes/[slug]/04_hook_pack.md`<br>`episodes/[slug]/03_brief.md`<br>`episodes/[slug]/vault/00_Global_Vision_Synthesis.md` | `/build_outline`<br>*(16 Trường Chuẩn hoá & NST)* |
-| "viết chương", "viết chapter", "viết tiếp", "viết kịch bản", "viết tập" | **Pha 7:** `chapter_XX.md` | Persona chỉ định tại Chapter Brief<br>+ Khóa Khẩu ngữ Oral Voice DNA | `.agents/skills/chapter_writer/SKILL.md` | `episodes/[slug]/08_chapter_briefs.md` (Brief CH_XX)<br>`episodes/[slug]/vault/00_Global_Vision_Synthesis.md`<br>`episodes/[slug]/02_research_synthesis.md`<br>`episodes/[slug]/09_narrative_state_tracker.md`<br>Toàn bộ clean script `chapter_01.md` đến `chapter_N-1.md` | `/write_chapter`<br>*(Bắt buộc in Claim Ledger ra chat)* |
+| "khởi tạo", "init episode", "bắt đầu episode mới", "đề tài mới", "đánh giá đề tài", "chọn chủ đề", "bản đồ hệ thống", "bức tranh lớn", "quy hoạch tầm nhìn" | **Pha 1:** `01_global_vision_synthesis.md` | `.agents/personas/the_macro_strategist.md` (Chủ tịch)<br>+ `.agents/personas/the_critical_auditor.md`<br>+ `.agents/personas/the_policy_analyst.md` | `.agents/skills/strategy_council/SKILL.md` | Ý tưởng của User, tài liệu phác thảo ban đầu, hạt giống tin tức | `/init_episode`<br>*(Bản đồ Địa hình Bàn cờ 4 Tầng & Phê duyệt đề tài)* |
+| "research", "deep research", "nghiên cứu", "nghiên cứu sâu", "tìm data", "đào dữ liệu", "nạp nguồn" | **Pha 2:** `02_research_map.md` & `02_research_synthesis.md` | `.agents/personas/the_policy_analyst.md`<br>+ `.agents/personas/the_industrial_economist.md`<br>+ `.agents/personas/the_capital_markets_analyst.md` *(khi đề tài thuộc Hình thái 5 — Doanh nghiệp/Thị trường vốn)* | `.agents/skills/deep_researcher/SKILL.md`<br>+ `.agents/skills/notebooklm/SKILL.md` | `episodes/[slug]/01_global_vision_synthesis.md`, Master Notebook ID (`.notebook_id`) | `/deep_research`<br>*(BypassSandbox: true, --mode deep — Map 1-1 Bàn cờ Pha 1)* |
+| "viết brief", "lập chiến lược", "chiến lược", "strategy brief", "tạo brief", "xây brief" | **Pha 3:** `03_brief.md` | `.agents/personas/the_editorial_strategist.md`<br>+ `.agents/personas/the_policy_analyst.md` | `.agents/skills/script_architect/SKILL.md` | `episodes/[slug]/01_global_vision_synthesis.md`<br>`episodes/[slug]/02_research_synthesis.md`<br>`episodes/[slug]/research_vault/` | `/build_brief` |
+| "viết outline", "dàn ý", "xây cấu trúc", "master outline", "lập dàn ý", "cấu trúc tập" | **Pha 4:** `07_outline.md` | `.agents/personas/the_dialectic_architect.md`<br>+ `.agents/personas/the_industrial_economist.md`<br>+ `.agents/personas/the_critical_auditor.md` | `.agents/skills/script_architect/SKILL.md` | `episodes/[slug]/01_global_vision_synthesis.md`<br>`episodes/[slug]/03_brief.md`<br>`episodes/[slug]/02_research_synthesis.md` | `/build_outline`<br>*(Quy trình 5 Trạm Outline Forge + Khung Định Hướng 45-60s)* |
+| "viết hook", "mở đầu video", "hook lab", "tạo hook", "chọn hook", "làm hook" | **Pha 5:** `04_hook_pack.md` | `.agents/personas/the_viral_alchemist.md`<br>+ `.agents/personas/the_critical_auditor.md` | `.agents/skills/hook_engine/SKILL.md` | `episodes/[slug]/07_outline.md`<br>`episodes/[slug]/03_brief.md`<br>`episodes/[slug]/01_global_vision_synthesis.md` | `/hook_lab`<br>*(May đo 3-5 Hooks bám Dàn ý)* |
+| "viết chapter brief", "brief các chương", "lập brief từng chương", "khởi tạo nst", "tạo sổ cái tự sự" | **Pha 6:** `08_chapter_briefs.md` & `09_narrative_state_tracker.md` | `.agents/personas/the_narrative_director.md`<br>+ `.agents/personas/the_critical_auditor.md` | `.agents/skills/script_architect/SKILL.md` | `episodes/[slug]/07_outline.md`<br>`episodes/[slug]/04_hook_pack.md`<br>`episodes/[slug]/03_brief.md`<br>`episodes/[slug]/01_global_vision_synthesis.md` | `/build_outline`<br>*(16 Trường Chuẩn hoá & NST)* |
+| "thumbnail", "làm thumbnail", "brief thumbnail", "tạo ảnh bìa", "thiết kế bìa video" | **Thumbnail Brief:** `08_thumbnail_brief.md` | `.agents/personas/the_visual_hook_director.md` | `.agents/skills/thumbnail_prompter/SKILL.md` | `episodes/[slug]/08_chapter_briefs.md`<br>`episodes/[slug]/04_hook_pack.md`<br>`profile/thumbnail_chuan/` | `thumbnail_prompter` SKILL |
+| "viết chương", "viết chapter", "viết tiếp", "viết kịch bản", "viết tập" | **Pha 7:** `chapter_XX.md` | Persona chỉ định tại Chapter Brief<br>+ Khóa Khẩu ngữ Oral Voice DNA | `.agents/skills/chapter_writer/SKILL.md` | `episodes/[slug]/08_chapter_briefs.md` (Brief CH_XX)<br>`episodes/[slug]/01_global_vision_synthesis.md`<br>`episodes/[slug]/02_research_synthesis.md`<br>`episodes/[slug]/09_narrative_state_tracker.md`<br>Toàn bộ clean script `chapter_01.md` đến `chapter_N-1.md` | `/write_chapter`<br>*(Bắt buộc in Claim Ledger ra chat)* |
 | "sửa chương", "revise", "chỉnh sửa chapter", "sửa kịch bản chương" | **Hậu Pha 7:** `chapter_XX.md` | `.agents/personas/the_critical_auditor.md`<br>+ Persona tác giả chương | `.agents/skills/chapter_writer/SKILL.md` | `episodes/[slug]/chapter_XX.md`<br>`episodes/[slug]/08_chapter_briefs.md`<br>Feedback từ User / Auditor | `/revise_chapter` |
 | "gộp voiceover", "merge", "gộp kịch bản", "gộp toàn bộ chương", "voiceover hoàn chỉnh" | **Pha 8:** `voiceover.md` | `.agents/personas/the_quality_czar.md` | `.agents/skills/chapter_writer/SKILL.md` | Toàn bộ `chapter_01.md` đến `chapter_XX.md`<br>`episodes/[slug]/04_hook_pack.md` (Selected Hook) | `/merge_voiceover` |
 | "kiểm toán retention", "audit nhịp", "retention bridge audit", "soi điểm rơi", "soi giữ chân" | **Pha 9:** `retention_bridge_audit.md` | `.agents/personas/the_critical_auditor.md` | `.agents/skills/retention_bridge_audit/SKILL.md` | `episodes/[slug]/voiceover.md`<br>`episodes/[slug]/07_outline.md` | `retention_bridge_audit` SKILL |
-| "kiểm tra", "QA", "review kịch bản", "compliance", "audit chính sách", "soi lỗi chính trị/pháp lý" | **Pha 10 & 11:** `10_compliance_report.md` | `.agents/personas/the_policy_analyst.md`<br>+ `.agents/personas/the_critical_auditor.md`<br>+ `.agents/personas/the_editorial_strategist.md` | `.agents/skills/compliance_council/SKILL.md` | `episodes/[slug]/voiceover.md`<br>`episodes/[slug]/vault/00_Global_Vision_Synthesis.md`<br>`episodes/[slug]/03_brief.md` | `compliance_council` SKILL<br>*(Term-Breath Debate)* |
+| "kiểm tra", "QA", "review kịch bản", "compliance", "audit chính sách", "soi lỗi chính trị/pháp lý" | **Pha 10 & 11:** `10_compliance_report.md` | `.agents/personas/the_policy_analyst.md`<br>+ `.agents/personas/the_critical_auditor.md`<br>+ `.agents/personas/the_editorial_strategist.md`<br>+ `.agents/personas/the_compliance_editor.md` | `.agents/skills/compliance_council/SKILL.md` | `episodes/[slug]/voiceover.md`<br>`episodes/[slug]/01_global_vision_synthesis.md`<br>`episodes/[slug]/03_brief.md` | `compliance_council` SKILL<br>*(Term-Breath Debate)* |
 | "seo", "metadata", "tiêu đề", "viết mô tả", "tags", "tối ưu youtube" | **Hậu kịch bản:** `metadata.md` | `.agents/personas/the_algorithm_whisperer.md`<br>+ `.agents/personas/the_content_strategist.md` | `.agents/skills/metadata_strategist/SKILL.md` | `episodes/[slug]/voiceover.md`<br>`episodes/[slug]/03_brief.md`<br>`episodes/[slug]/04_hook_pack.md` | `metadata_strategist` SKILL |
 | "visual blueprint", "storyboard blueprint", "đạo diễn hình ảnh", "mỏ neo thị giác", "kế hoạch thị giác" *(Chỉ khi có yêu cầu)* | **Pha 12A:** `visual_storyboard_blueprint.md` | `.agents/personas/the_visual_storyteller.md`<br>(Master Cinematic Visual Director) | `.agents/skills/visual_prompter/SKILL.md`<br>+ `02_templates/visual_storyboard_template.md` | `episodes/[slug]/voiceover.md`<br>`episodes/[slug]/07_outline.md` | `/generate_visual_prompts`<br>*(Giai đoạn 1: Tuyển vai biểu tượng & Reference Asset Manifest)* |
 | "kịch bản trung gian", "visual script", "storyboard matrix", "phân cảnh visual" *(Chỉ khi có yêu cầu)* | **Pha 12B:** `chapter_XX_visual.md` | `.agents/personas/the_scene_architect.md`<br>(Kiến Trúc Sư Phân Cảnh & Biên Kịch Thị Giác) | `.agents/skills/visual_prompter/SKILL.md` | `episodes/[slug]/chapter_XX.md`<br>`episodes/[slug]/visual_storyboard_blueprint.md` | `/generate_visual_prompts`<br>*(Giai đoạn 2: Bẻ nhịp $\le 26$ từ, Giải phẫu 3 tầng, CẤM siêu thực)* |
+| "visual plus", "kịch bản đa thức", "phân hạch tài nguyên", "xuất manifest" | **Pha 12+B:** `chapter_XX_visual_plus.md`<br>+ `broll_manifest_chapter_XX.json`<br>+ `infographics_manifest_chapter_XX.json` | `.agents/personas/the_scene_architect.md`<br>+ `.agents/personas/the_footage_hunter.md` | `.agents/skills/visual_prompter_plus/SKILL.md` | `episodes/[slug]/chapter_XX.md`<br>`episodes/[slug]/visual_storyboard_blueprint_plus.md` | `visual_prompter_plus` SKILL<br>*(Bẻ nhịp đa thức 3 luồng: AI, B-Roll, Infographic)* |
 | "tạo prompt", "viết prompt", "prompts chapter", "prompt veo", "prompt nanobanana" *(Chỉ khi có yêu cầu)* | **Pha 12C:** `prompts_chapter_XX.txt` | `.agents/personas/the_image_prompt_composer.md`<br>+ `.agents/personas/the_visual_storyteller.md` | `.agents/skills/visual_prompter/SKILL.md` | `episodes/[slug]/chapter_XX_visual.md`<br>*(🛑 CẤM nạp `chapter_XX.md` — Zero-Voiceover Isolation)* | `/generate_visual_prompts`<br>*(Giai đoạn 3: Cặp đôi I2V, Cấm dịch thoại thoát ý, Khóa chữ 25%)* |
 | "audio direction", "nhạc nền", "music cue", "sound landscape", "sound design" *(Chỉ khi có yêu cầu)* | **Pha 13:** `audio_cues.md` | `.agents/personas/the_sonic_architect.md`<br>+ `.agents/personas/the_cinematic_sonic_alchemist.md` | `.agents/skills/music_composer/SKILL.md` | `episodes/[slug]/voiceover.md`<br>`episodes/[slug]/chapter_XX_visual.md` | `music_composer` SKILL |
 | "thu âm", "TTS", "record", "chạy tts", "đọc voiceover" *(Chỉ khi có yêu cầu)* | **Thu âm:** `episodes/[slug]/audio/` | `.agents/personas/the_voice_architect.md` | `.agents/workflows/record_voiceover.md` | `episodes/[slug]/chapter_XX.md` (đã qua audit) | `/record_voiceover`<br>*(Chạy `scripts/record_voiceover.py` gọi sang `Code/TTS`)* |
-| "tạo video", "chạy batch", "batch video", "render video", "làm video", "tạo video tập" *(Chỉ khi có yêu cầu)* | **Pha 14:** `episodes/[slug]/videos/` | `.agents/personas/the_visual_storyteller.md`<br>+ `.agents/personas/the_scene_architect.md` | `.agents/skills/batch_video_generator/SKILL.md` | `episodes/[slug]/prompts_chapter_XX.txt`<br>`episodes/[slug]/ref_images/` | `/generate_videos`<br>*(Chạy `scripts/produce_episode_videos.py` kết nối Google Chrome Canary CDP 9222)* |
+| "tạo video ai", "chạy batch ai", "veo video", "render video ai" | **Pha 14A:** `episodes/[slug]/videos/ai_videos/` | `.agents/personas/the_visual_storyteller.md`<br>+ `.agents/personas/the_scene_architect.md` | `.agents/skills/batch_video_generator/SKILL.md` | `episodes/[slug]/prompts_chapter_XX.txt`<br>`episodes/[slug]/ref_images/` | `/generate_videos`<br>*(Google Chrome Canary CDP 9222 / MiniMax H3 ComfyUI)* |
+| "săn broll", "tìm broll", "hunt broll", "săn footage", "chạy footage hunter", "broll hunting", "săn tư liệu", "tư liệu thực tế" | **Pha 14B:** `episodes/[slug]/footages/` & `episodes/[slug]/videos/` | `.agents/personas/the_footage_hunter.md`<br>(Đạo Diễn Săn Tư Liệu Báo Chí Điều Tra) | `.agents/skills/footage-hunter/SKILL.md`<br>(FootageHunter V6.1 Engine) | `episodes/[slug]/broll_manifest_chapter_XX.json` | `footage-hunter` SKILL<br>*(Chạy `run_pipeline_v6.py` tự động hóa LanceDB vector search, micro-cut, LUT, audit matrix)* |
 | "handoff", "bàn giao sản xuất", "production handoff", "tổng hợp bàn giao" | **Pha 15:** `production_notes.md` | `.agents/personas/the_editorial_strategist.md` | `.agents/skills/production_handoff/SKILL.md` | `episodes/[slug]/10_compliance_report.md`<br>`episodes/[slug]/metadata.md`<br>`episodes/[slug]/voiceover.md` | `/production_handoff` |
 | "đánh giá kênh", "bắt bệnh video", "kiểm tra chỉ số", "retention", "phân tích ctr", "báo cáo kênh" | **Báo cáo Kênh:** Channel Audit | `.agents/personas/the_channel_manager.md` | `.agents/skills/channel_manager/SKILL.md` | Dữ liệu YouTube Studio Analytics | `channel_manager` SKILL |
 | "tạo shorts", "làm shorts", "cắt shorts", "short pack", "viral shorts" | **Shorts:** `episodes/[slug]/shorts/` | `.agents/personas/the_shorts_strategist.md`<br>+ `.agents/personas/the_vertical_video_maestro.md` | `.agents/skills/shorts_producer/SKILL.md` | `episodes/[slug]/voiceover.md`<br>`episodes/[slug]/04_hook_pack.md` | `/generate_shorts` |
@@ -224,7 +269,7 @@
 
 ## 🧠 QUY CHUẨN TƯ DUY VIẾT BÀI CHUYÊN GIA (EDITORIAL & NARRATIVE MINDSET)
 
-Kênh Góc Nhìn Podcast định vị là kênh phân tích kinh tế - xã hội - chính sách chuyên sâu (Cinematic Editorial Noir). Khán giả của kênh là những người thông minh, có học thức và tư duy phản biện. 
+Kênh Góc Nhìn Podcast định vị là kênh phân tích kinh tế - công nghiệp - tài chính - địa kinh tế chuyên sâu (Cinematic Editorial Noir, đẳng cấp Bloomberg Originals / The Economist). Khán giả của kênh là những người thông minh, có học thức và tư duy phản biện, quan tâm đến doanh nghiệp và thị trường vốn. 
 **Người viết kịch bản không hành xử như một chiếc máy chắp vá từ ngữ (fix code / fix case), mà phải vận hành bằng TƯ DUY BIÊN TẬP NGUYÊN BẢN (First-Principles Editorial Mindset).** Mọi kịch bản phải tuân thủ 4 trụ cột tư duy cốt lõi sau:
 
 ### 1. Tư Duy Bản Chất & Cơ Chế Thực Chứng (Substance & Mechanism First)
@@ -241,11 +286,17 @@ Kênh Góc Nhìn Podcast định vị là kênh phân tích kinh tế - xã hộ
 - Người xem tiếp nhận video theo trục thời gian một chiều (Linear Time). Phần mở đầu (Hook) chính là một **Hợp đồng nhận thức (Cognitive Contract)** ký kết với khán giả: Mọi xung đột kịch tính, câu hỏi lớn, bí ẩn hay nghịch lý được gieo ở Hook là lời hứa mà người viết bắt buộc phải giải tỏa ngay trong các phân đoạn tiếp theo.
 - Tuyệt đối không được "bỏ rơi" câu hỏi của khán giả để nói sang các chủ đề lan man khác. Mạch truyện phải giải quyết từng nút thắt theo đúng dòng tâm lý tự nhiên của người nghe: *Nêu nghịch lý ➔ Giải mã nguyên nhân trực tiếp ➔ Đào sâu cơ chế cốt lõi ➔ Mở rộng tác động hệ thống ➔ Đúc kết bài học.*
 
-### 4. Kỷ Luật Tự Phản Biện Độc Lập (Inversion & Skeptical Audit)
-- Người viết kịch bản phải luôn tự đặt mình vào vị trí của một chuyên gia kinh tế trưởng, một luật sư hoặc một nhà quan sát độc lập khó tính nhất để tự vấn:
-  * Câu văn này có đang bị "trôi" theo cảm xúc hay sa vào bẫy giật gân, nói quá?
-  * Thuật ngữ và số liệu đưa ra có đứng vững trước sự soi xét của giới chuyên môn không?
-  * Phép lập luận có nhất quán về logic nhân quả không, hay đang đánh đồng tương quan với nguyên nhân?
+### 4. Thể Chế Hóa Hội Đồng Phản Biện Đa Diện & Quy Chuẩn Steelmanning (The Tri-Adversarial Red Team & Steelmanning Mandate)
+- **Tôn chỉ Tối thượng:** Triệt tiêu hoàn toàn tư duy đơn tuyến, bệnh "Yes-Man", và sự xác nhận thiên lệch (Confirmation Bias). Mọi phân tích mô hình, chính sách hoặc chiến lược BẮT BUỘC phải chịu sự thử lửa khắt khe của **Hội đồng Phản biện Đa diện (The Tri-Adversarial Red Team Council)** do `the_critical_auditor` chủ trì:
+  1. *Lăng kính Thị trường & Chi phí cơ hội (The Market Skeptic):* Sát hạch tính hiệu quả của việc phân bổ nguồn lực. Vạch trần méo mó giá cả do trợ cấp/hành chính, rủi ro tạo doanh nghiệp xác sống (zombie firms), và chi phí cơ hội của toàn bộ nền kinh tế.
+  2. *Lăng kính Thể chế & Trắc trở thực thi (The Institutional Realist):* Sát hạch ma sát thực thi quan liêu, sự phản kháng của các nhóm lợi ích cố thủ, rủi ro bị điều tra chống bán phá giá và trả đũa thuế quan từ các đối tác thương mại quốc tế (Mỹ, EU, Trung Quốc).
+  3. *Lăng kính Kế toán Dòng tiền & Sức ép thanh khoản (The Forensic Cash Auditor):* Bóc trần ảo tưởng doanh thu danh nghĩa. Soi thẳng vào dòng tiền tự do FCF âm kéo dài, cấu trúc lấy nợ ngắn hạn nuôi tài sản dài hạn, điểm hòa vốn viển vông và nguy cơ sập bẫy thanh khoản khi chu kỳ tiền tệ đảo chiều.
+- **Quy chuẩn Steelmanning & Cấm Tuyệt Đối Ngụy Biện Bù Nhìn Rơm (Anti-Strawman Rule):**
+  * Tuyệt đối CẤM dựng lên những luận điểm đối lập ngây thơ, yếu ớt để dễ bề bác bỏ. Phản đề BẮT BUỘC phải được xây dựng ở phiên bản thông minh, sắc bén và giàu dữ liệu thực chứng nhất của phe đối lập.
+- **Bắt Buộc Có [THE DEVIL'S CHAPTER] Tại Cao Trào Hồi 2:**
+  * Kịch bản BẮT BUỘC phải dành riêng 1 chương độc lập (50–70% thời lượng, chiếm 18–24% ngân sách từ) mang nhãn `[THE DEVIL'S CHAPTER — CHƯƠNG PHẢN ĐỀ BẢN CHẤT]` để dồn nén toàn bộ phản đề thép, thử lửa toàn diện Chính đề.
+- **Tam Đoạn Luận Phản Biện 3 Nhịp (The 3-Beat Steelmanning Mandate):**
+  * Mọi phân tích luận điểm then chốt bắt buộc đi qua 3 nhịp: (1) Công kích Phản đề Thép bằng số liệu đối kháng $\rightarrow$ (2) Thừa nhận cái lý và áp lực sinh tồn khách quan của phe phản biện $\rightarrow$ (3) Hợp đề bằng quy luật khách quan và công khai thừa nhận sự đánh đổi cấu trúc (`admitted_trade_offs`).
 
 ### 5. Ba Rào Cản Tư Duy Biên Tập Chống Mờ Nhạt & Chống Văn Phong Bào Chữa (The 3 Cognitive Gates)
 - **Gate 1: Vị thế Nhà điều tra Độc lập (Third-Party Investigator):**
@@ -394,6 +445,67 @@ Kênh Góc Nhìn Podcast định vị là kênh phân tích kinh tế - xã hộ
   3. *Bước 3: Rà soát & Khắc phục Lỗi Khóa Chữ (Text Freezing):* Đối chiếu với trường `[TEXT OVERLAY]`. Mọi cảnh có chữ bắt buộc dòng `[VIDEO]` phải là `Steady camera shot` và chứa câu lệnh khóa tĩnh chống méo font. Nếu thiếu ➡️ **Bổ sung ngay**.
   4. *Bước 4: Rà soát Toán học Thời lượng & Khớp ID 1-1:* Chạy script kiểm tra độ dài câu thoại ($\le 26$ từ/cảnh) và đảm bảo 100% Scene ID khớp tuyệt đối giữa Visual Script và Prompts File. Nếu có câu quá 26 từ ➡️ **Tách sub-scenes và cập nhật ngay**.
   5. *Bước 5: Chạy Script Kiểm tra Tự Động (`check_boilerplate.py`):* Thực thi script kiểm tra cụm từ rác và lộ mã ID. Chỉ khi script báo `SUCCESS (S-Grade)`, Agent mới được bàn giao và xuất báo cáo cho người dùng.
+
+---
+
+## 🎬 QUY ĐỊNH BẮT BUỘC: QUY TRÌNH I2V+ (CHUẨN ĐẠO DIỄN ĐIỆN ẢNH ĐA THỨC — MULTIMODAL HYBRID PIPELINE)
+
+> ⚠️ **BẮT BUỘC TUÂN THỦ KHI KÍCH HOẠT NHÁNH I2V+ (PHA 12+A, 12+B, 12+C):**
+> 1. **Khóa Kỹ Năng Độc Quyền (Skill Isolation Mandate):**
+>    - Khi thực thi nhánh I2V+, Agent **BẮT BUỘC** kích hoạt duy nhất kỹ năng: **`.agents/skills/visual_prompter_plus/SKILL.md`**.
+>    - Tuyệt đối CẤM nạp hoặc sử dụng kỹ năng `visual_prompter/SKILL.md` (vốn chỉ dành cho I2V cổ điển 100% video vẽ AI).
+>
+> 2. **Bãi Bỏ Hạn Ngạch Cơ Học $\to$ Bản Thể Luận 4 Trụ Cột Nhận Thức (No Arbitrary Percentages):**
+>    - Tuyệt đối KHÔNG phân chia tỷ lệ % số học máy móc. Mọi phân cảnh được phân loại dựa trên **Nhiệm vụ Nhận thức & Trải nghiệm Cảm xúc** của khán giả:
+>      * **`B_ROLL_REAL` (Mỏ neo Niềm tin & Nhịp thở Con người):** Bắt buộc cho sự kiện lịch sử thật, buổi họp báo, đại hội cổ đông, con người lao động thật và vận hành nhà máy thật. Mang lại tính bất khả phủ nhận và sự thấu cảm da thịt (`Visceral Empathy`).
+>      * **`FORENSIC_CALLOUT` (Mỏ neo Bằng chứng Hồ sơ & Báo chí Thực chứng):** Bắt buộc khi trích dẫn bài báo chính thống, quyết định xử phạt, kết luận thanh tra, thông cáo báo chí. Mang lại cú đấm thực tế không thể chối cãi (`The Evidentiary Smoking Gun`).
+>      * **`INFOGRAPHIC_DATA` (Kính lúp Trí tuệ & Cấu trúc Vô hình):** Bắt buộc cho đối kháng định lượng, so sánh đòn bẩy D/E, mạch truyền dẫn hệ thống và bóc tách tài liệu kiểm toán. Mang lại cú khai phóng nhận thức (`The "Aha!" Moment`).
+>      * **`VEO_AI` (Linh hồn Thẩm mỹ & Hero Shots):** Khóa chặt vào các siêu ẩn dụ triết học, không gian kín nội tâm lãnh đạo, và các điểm cao trào mở/kết chương. Mang lại sức nặng hiện sinh và sự choáng ngợp điện ảnh (`Existential Awe`).
+>
+> 3. **Vùng Cấm Thép Của Veo AI & Rào Cản Báo Chí (The Hard Redlines):**
+>    - ⛔ **CẤM** dùng Veo vẽ lại các cảnh đời thường có sẵn ngoài thực tế (xe tải chạy, cánh đồng, siêu thị, nhà xưởng bình thường).
+>    - ⛔ **CẤM** dùng Veo vẽ đồ thị, núi nợ, núi tiền, cán cân hoạt hình.
+>    - ⛔ **CẤM** ghi tên người thật trong dòng `[VIDEO]` (chỉ dùng Pure Optical Camera Motion).
+>    - ⛔ **CẤM ĐƯA ẢNH BÁO CHÍ VÀO VEO AI:** Veo 3.1 Lite làm biến dạng/nát chữ tiếng Việt, không gạch chân chính xác theo nhịp thoại và gây lãng phí chi phí. Toàn bộ `FORENSIC_CALLOUT` phải dùng Python Motion Engine tiền kết xuất ra MP4 sắc nét 1080p 60fps.
+>
+> 4. **Quy Chuẩn Bằng Chứng Báo Chí & Pháp Lý Bản Quyền Sạch (Fair Use & Điều 25 Luật SHTT):**
+>    - Trích đoạn micro-quotation 3.0s – 5.5s phục vụ nghiên cứu khoa học và bình luận chính sách, giữ nguyên măng-sét báo uy tín (VnExpress, Tuổi Trẻ, CafeF, Lao Động, Bloomberg...).
+>    - ⛔ **CẤM DÍNH BẪY BẢN QUYỀN ẢNH PHÓNG SỰ:** Khi lấy ảnh bài báo, **CHỈ LẤY PHẦN TEXT (Tiêu đề, sapo, số liệu)**. Tuyệt đối làm mờ (blur/mask) hoặc crop bỏ toàn bộ ảnh chụp phóng sự của phóng viên để triệt tiêu hoàn toàn khiếu nại bản quyền hình ảnh.
+>    - Hiệu ứng thị giác: Nét gạch chân điện ảnh (Cinematic Underline) hoặc khung viền đỏ bo chữ (`#DC2626`), kết hợp âm thanh click nhẹ (`minimal_click.wav`) hoặc lướt giấy (`paper_slide.wav`).
+>
+> 5. **Bốn Nguyên Tắc Thép Cho Footage B-Roll Fair Use:**
+>    - ① *Mute Absolute:* Tước bỏ 100% audio gốc (`-an`).
+>    - ② *Micro-Cut:* Độ dài mỗi clip chỉ từ 3.0s – 5.5s (không bao giờ quá 6s).
+>    - ③ *Pixel Hash Breaking:* Scale 104% và crop nhẹ 16:9 để bẻ gãy Content ID.
+>    - ④ *On-Screen Attribution:* Dán nhãn nguồn trích dẫn minh bạch góc màn hình (`Nguồn: C-SPAN / Bloomberg / TTXVN`).
+>
+> 6. **Cấu Trúc Xuất Bản 4 Đường Ray Pha 12+C:**
+>    - Cảnh `VEO_AI` $\to$ `prompts_chapter_XX_veo.txt` (nạp Flow Tool Builder).
+>    - Cảnh `B_ROLL_REAL` $\to$ `broll_manifest_chapter_XX.json` (nạp `the_footage_hunter`).
+>    - Cảnh `INFOGRAPHIC_DATA` $\to$ `infographics_chapter_XX.json` (nạp AutoCapCut / Motion Graphics) hoặc `prompts_infographics.txt` (nạp Nano Banana 2).
+>    - Cảnh `FORENSIC_CALLOUT` $\to$ `forensic_manifest_chapter_XX.json` (nạp `render_forensic_engine.py` tiền kết xuất thành video MP4 sắc nét 100%).
+>
+> 7. **Quy Định Bắt Buộc Về Tạo Ảnh Infographic Bằng AI (Nano Banana 2 / Google Flow):**
+>    - **Triết lý Điêu Khắc Dữ Liệu (Data Sculpture):** Chuẩn mực quốc tế *Financial Times Film, Bloomberg Originals, The Economist*. Chuyển hóa số liệu thành hình học tối giản (Cán cân đối trọng, Ma trận 4 góc, Vòng tròn công suất, Bậc thang chuyển giao, Mặt cắt kỹ thuật, Vệt laser xương sống, Tảng băng chi phí).
+>    - **Bảng màu 60-30-10:** 60% negative space nền Slate sẫm `#1E293B`, 30% ngà kem `#F5F0E6`, 10% hổ phách `#FFD600` hoặc đỏ cảnh báo `#DC2626`.
+>    - **Quy tắc Single Hero Metric:** Tối đa 1 con số lớn duy nhất hoặc nhãn kỹ thuật ngắn tiếng Anh trên hình (`1,541 KM`, `5.8%`, `20% RETENTION`).
+>    - ⛔ **CẤM NHỒI TEXT TIẾNG VIỆT & TEXT SPAM:** Tuyệt đối cấm copy paste các trường `headline`, `sub_headline`, `data_points` tiếng Việt vào prompt tạo ảnh AI.
+>    - ⛔ **KHÓA CƯƠNG VỰC CHỦ QUYỀN HẢI ĐẢO THÉP (SOVEREIGN MAP MANDATE):** Bất kỳ bản đồ Việt Nam nào BẮT BUỘC phải mô tả đầy đủ: Quần đảo Hoàng Sa (`Hoang Sa / Paracel Islands`), Quần đảo Trường Sa (`Truong Sa / Spratly Islands`), Đảo Phú Quốc, Côn Đảo dưới dạng chòm vector vàng kim phát sáng trên Biển Đông; tuyệt đối cấm đường lưỡi bò phi pháp.
+>    - ⛔ **KIỂM TOÁN TÍNH TOÀN VẸN CHƯƠNG (FULL MANIFEST PARITY):** Khi xuất danh sách prompt cho toàn bộ tập phim, BẮT BUỘC quét tuần tự từ Chương 1 đến Chương cuối, đảm bảo khớp 100% số lượng phân cảnh với manifest. Tuyệt đối cấm bỏ sót Chương 1 hay bất kỳ chương nào.
+>
+> 8. **CỔNG TỰ KIỂM TOÁN HẬU KỲ BẮT BUỘC TRƯỚC KHI TRẢ VỀ KẾT QUẢ (MANDATORY POST-GENERATION ZERO-DEFECT SELF-AUDIT GATE):**
+>    - ⛔ **CẤM TUYỆT ĐỐI XUẤT XƯỞNG KHI CHƯA QUA CỔNG TỰ KIỂM TOÁN:**
+>      Sau khi tạo xong kịch bản thị giác (`chapter_XX_visual_plus.md`) và các tệp prompt (`prompts_chapter_XX_veo.txt`, `prompts_chapter_XX_infographics.txt`, `prompts_flow_images_CHXX.txt`), Agent **BẮT BUỘC PHẢI TỰ ĐỘNG ĐỌC LẠI TỪNG DÒNG, TỰ CHẠY CHECKLIST 6 TIÊU CHÍ VÀNG**, tự sửa chữa dứt điểm, và **CHỈ ĐƯỢC PHÉP TRẢ VỀ KẾT QUẢ CHO NGƯỜI DÙNG KHI TOÀN BỘ CÁC CỔNG ĐÃ PASSED 100% (ZERO-DEFECT)**.
+>    - 📋 **Checklist 6 Tiêu Chí Vàng Bắt Buộc Rà Soát:**
+>      * ① **Nhịp thoại $\le 26$ từ & Khớp 100%:** 100% phân cảnh $\le 26$ từ, khớp 100% từng từ với `chapter_XX.md`. Không được lệch, sót hay thừa một chữ nào.
+>      * ② **Khóa Nhân Chủng Học Thép (Zero Westerners):** Mọi cảnh có nhân vật người Việt Nam BẮT BUỘC gắn thẻ tham chiếu `@lanhdao_vietnam.jpg`, `@engineer_vietnam_*.jpg`, `@ceo_*.jpg` và có câu lệnh cấm người Tây: `strictly preserving authentic Vietnamese facial structure, dark eyes, neat black hair, dignified East Asian features, grounded human-centric warmth, absolutely no Caucasian or Western facial traits in Vietnamese context`. CẤM TIỆT người phương Tây trong bối cảnh Việt Nam.
+>      * ③ **Khóa Cờ Đỏ Deepfake cho dòng `[VIDEO]`:** 100% dòng `[VIDEO]` chỉ thuần chuyển động quang học của camera (`slow subtle push-in`, `gentle steady tracking`, `slow macro glide`). TUYỆT ĐỐI CẤM tên riêng người thật, tên lãnh đạo hoặc tên doanh nghiệp trong dòng `[VIDEO]`.
+>      * ④ **Khóa Cương Vực Bản Đồ Hải Đảo Thép:** Mọi phân cảnh có bản đồ Việt Nam BẮT BUỘC mô tả đầy đủ Quần đảo Hoàng Sa (`Hoang Sa / Paracel Islands`) và Quần đảo Trường Sa (`Truong Sa / Spratly Islands`) dưới dạng chòm vector vàng kim phát sáng.
+>      * ⑤ **Khóa Thẩm Mỹ Canonical DNA & Cấm Text Spam:** Bảng màu 60-30-10 nền Slate sẫm `#1E293B`, Than ấm `#212529`, Ngà kem `#F5F0E6`, Hổ phách `#FFD600`. Tối đa 1 Hero Metric. CẤM copy text tiếng Việt vào prompt tạo ảnh AI.
+>      * ⑥ **Đồng Bộ Đa Đường Ray Tuyệt Đối (100% Asset Parity):** Số lượng phân cảnh giữa `chapter_XX_visual_plus.md`, `prompts_chapter_XX_veo.txt`, và `prompts_chapter_XX_infographics.txt` phải khớp chính xác 1-1, không thừa không thiếu.
+>    - 🛠️ **Cơ Chế Khóa Bằng Code Python:** Agent bắt buộc phải viết và chạy một script Python kiểm toán tự động quét qua tất cả các file vừa tạo. Nếu script phát hiện dù chỉ 1 lỗi, Agent phải tự động sửa lại file ngay lập tức và chạy lại kiểm toán cho đến khi `All audits passed` thì mới được thông báo hoàn thành cho Người dùng.
+
+
 
 
 

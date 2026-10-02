@@ -1,9 +1,11 @@
 ---
 description: >-
   Build Master Outline Engine (Phase 4).
-  Requires completed 03_brief.md and vault/00_Global_Vision_Synthesis.md.
+  Requires completed 03_brief.md and 01_global_vision_synthesis.md.
   MUST be run after /build_brief and BEFORE /hook_lab (Outline-First, Hook-Last Protocol).
 ---
+
+> 🎯 Dàn ý ghi chế độ kết (A chốt lập trường + điều kiện có thể sai / B kết mở có cấu trúc + biến số quyết định), theo `00_core/stance_and_judgment.md` §1.
 
 ## 🛑 HARD GATE TOÀN BỘ WORKFLOW NÀY
 
@@ -22,7 +24,7 @@ NGHIÊM CẤM tạo bất kỳ outline, thesis map, hay chapter brief nào nếu
 Trước khi bắt đầu, xác nhận các file sau đều đã tồn tại:
 - `episodes/[slug]/03_brief.md` ✅
 - `episodes/[slug]/02_research_map.md` hoặc `02_research_synthesis.md` ✅
-- `episodes/[slug]/vault/00_Global_Vision_Synthesis.md` ✅
+- `episodes/[slug]/01_global_vision_synthesis.md` ✅
 
 Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workflow còn thiếu trước.
 *(Lưu ý: Theo chuẩn Outline-First Hook-Last, `04_hook_pack.md` sẽ được tạo SAU khi hoàn tất `07_outline.md`).*
@@ -33,7 +35,7 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
 
 1. Hỏi episode slug nếu chưa có.
 
-2. Đọc: `00_core/longform_blueprint.md`, `00_core/voice_dna.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/02_research_synthesis.md`, `episodes/[slug]/vault/00_Global_Vision_Synthesis.md`.
+2. Đọc: `00_core/longform_blueprint.md`, `00_core/voice_dna.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/03_brief.md`, `episodes/[slug]/02_research_synthesis.md`, `episodes/[slug]/01_global_vision_synthesis.md`.
 
 3. Đọc `00_core/reference_stories.md` để tránh dùng lại case study hoặc ẩn dụ cũ.
 
@@ -45,9 +47,9 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
    > - ⚙️ **Kỹ Năng (Skill) Dẫn Đường:** `/build_outline` (`script_architect/SKILL.md`)
    > - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Input References):**
    >   * `episodes/[slug]/03_brief.md` (Chiến lược & Lời hứa cốt lõi)
-   >   * `episodes/[slug]/vault/00_Global_Vision_Synthesis.md` (Mỏ neo dữ liệu & Tầm nhìn 4 tầng)
+   >   * `episodes/[slug]/01_global_vision_synthesis.md` (Bản đồ Bàn cờ & Tầm nhìn 4 tầng)
    > - 🎯 **Tài Liệu Đích Xuất Ra:** `episodes/[slug]/[Tên_File_Đích]`
-   > - 🛡️ **Rào Cản Kiểm Toán:** The Single Spine — 100% các chương phục vụ tháo ngòi biến cố trung tâm; cấu trúc Therefore/But; định vị The Grand Payoff; cấm giấu bài ở chương kết.
+   > - 🛡️ **Rào Cản Kiểm Toán:** The Single Spine — 100% các chương phục vụ tháo ngòi biến cố trung tâm; cấu trúc Therefore/But; định vị The Grand Payoff; cấm giấu bài ở chương kết; Orientation Frame khóa cứng cho CH01.
    ```
    Đồng thời BẮT BUỘC nhúng khối `DOCUMENT PROVENANCE & EXECUTION LINEAGE` ở đầu mỗi file markdown được tạo ra.
 
@@ -62,7 +64,7 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
    - Output Document: episodes/[slug]/07_outline.md
    - Activated Persona: The Editorial Strategist + The Dialectic Architect + The Critical Auditor
    - Activated Skill: script_architect/SKILL.md (/build_outline)
-   - Source Documents Consulted: 03_brief.md, vault/00_Global_Vision_Synthesis.md, 02_research_synthesis.md
+   - Source Documents Consulted: 03_brief.md, 01_global_vision_synthesis.md, 02_research_synthesis.md
    - Execution Timestamp: [YYYY-MM-DD HH:MM]
    -->
    ```
@@ -75,13 +77,21 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
      * **Cấp 2 (Tiêu chuẩn):** 16 – 25 phút ($W_{\text{total}} = 3.500 – 5.500\text{ từ}$ | 6 – 7 chương)
      * **Cấp 3 (Chuyên sâu):** 26 – 35 phút ($W_{\text{total}} = 5.700 – 7.700\text{ từ}$ | 7 – 9 chương)
      * **Cấp 4 (Sử thi / Đại phóng sự):** 36 – 45+ phút ($W_{\text{total}} = 8.000 – 10.000+\text{ từ}$ | 9 – 12 chương)
-   - Khóa cứng con số Tổng ngân sách từ $W_{\text{total}}$ dựa trên tốc độ đọc chuẩn thực chứng: **$V = 220\text{ từ/phút}$**.
+   - Khóa cứng con số Tổng ngân sách từ $W_{\text{total}}$ dựa trên tốc độ đọc chuẩn thực chứng: **$V = 223\text{ từ/phút}$** (mốc dưới của chuẩn 223–235 trong `.agents/AGENTS.md`).
 
    #### 🏛️ TRẠM 2: Quy Hoạch Lãnh Thổ Dữ Liệu & Kiểm Kê Tải Trọng (Payload Accounting)
-   - Bổ quả cam dữ liệu `vault/00_Global_Vision_Synthesis.md` và `research_vault/` thành các phần độc quyền, cấp quota mã `DATA-XX` không trùng lặp cho từng chương.
+   - Bổ quả cam dữ liệu `01_global_vision_synthesis.md` và `research_vault/` thành các phần độc quyền, cấp quota mã `DATA-XX` không trùng lặp cho từng chương.
    - Kiểm kê số lượng mỏ neo thực chứng ($D_i$) và số mắt xích cơ chế First-Principles ($M_i$) của mỗi chương.
 
-   #### 🏛️ TRẠM 3: Thiết Kế Sóng Nhịp Điệu Đa Tầng & Ma Trận Ngân Sách Co Giãn (Pacing Architecture)
+   #### 🏛️ TRẠM 3: Thiết Kế Sóng Nhịp Điệu, Orientation Frame & Ma Trận Ngân Sách Co Giãn (Pacing Architecture)
+   - **ORIENTATION FRAME MANDATE (Khung Định Hướng 45–60s):**
+     Trong Chương 1, ngay sau đoạn Hook (30–45s), kịch bản BẮT BUỘC phải bố trí khối:
+     `[ORIENTATION FRAME: TRAO TẤM BẢN ĐỒ TOÀN CẢNH CHO KHÁN GIẢ (45-60 GIÂY)]`.
+     Dành 150–200 từ để:
+     1. Định vị 3 thế lực cấu trúc trên bàn cờ.
+     2. Nêu bật mâu thuẫn ngầm và nghịch lý trung tâm từ `01_global_vision_synthesis.md`.
+     3. Khái quát lộ trình 3 trạm dừng chân sắp tới trong video.
+   - **CƠ CHẾ ZOOM IN $\leftrightarrow$ ZOOM OUT:** Phân bổ các điểm neo kéo người xem lên cao nhìn lại bản đồ sau các phân đoạn mổ xẻ kỹ thuật sâu.
    - Áp dụng Ma trận Tỷ trọng Vai trò tương ứng với Cấp độ thời lượng:
      * **Cấp 2 (7 Hồi chuẩn - Đối xứng chuông quanh Đỉnh Màn 2):**
        CH01 (10% | ~440 từ) ➔ CH02 (13% | ~570 từ) ➔ CH03 (15% | ~660 từ) ➔ **CH04: ĐỈNH LÕI (24% | ~1.050 từ trần)** ➔ CH05 (15% | ~660 từ) ➔ CH06 (13% | ~570 từ) ➔ CH07 (10% | ~440 từ).
@@ -115,7 +125,7 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
 
    ```
    ✅ Checklist output bắt buộc của Pha 4 (07_outline.md):
-   [ ] Xác định rõ Phân cấp Quy mô (Cấp 1 / 2 / 3 / 4) và Tổng ngân sách từ W_total (@ 220 WPM)
+   [ ] Xác định rõ Phân cấp Quy mô (Cấp 1 / 2 / 3 / 4) và Tổng ngân sách từ W_total (@ 223 từ/phút, mốc dưới của chuẩn 223–235)
    [ ] Đầy đủ Bản đồ Tổng thể kết nối 100% bằng "Therefore / But" (0% "And Then")
    [ ] Mỗi chương có đủ Bộ ba thông số Kỹ thuật: [Floor – Target – Ceiling]
    [ ] Kiểm toán Tải trọng Nhận thức (Anti-Amputation): Đảm bảo Floor >= Min_Payload_Budget

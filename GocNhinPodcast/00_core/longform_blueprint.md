@@ -13,7 +13,7 @@ Một long-form tốt phải khiến người nghe cảm thấy:
 - và đến cuối video, người xem nhận được một Grand Payoff xứng đáng: một framework nhận thức sắc sảo để nhìn nhận kinh tế, thể chế hoặc thế giới.
 
 ### Quy tắc ngân sách thời lượng (4 Cấp độ Động)
-Thời lượng được quy hoạch chủ động ngay từ khâu Brief và Master Outline theo tốc độ đọc chuẩn ($V = 220\text{ từ/phút}$):
+Thời lượng được quy hoạch chủ động ngay từ khâu Brief và Master Outline theo tốc độ đọc chuẩn ($V = 223\text{ từ/phút}$ (mốc dưới của chuẩn 223–235)):
 - **Cấp 1 — Focus Long-form (8–15 phút / 1.760–3.300 từ):** 4–5 chương. Dành cho sự kiện điểm tin phân tích, bóc tách nhanh 1 cơ chế hoặc 1 nghịch lý đơn tuyến.
 - **Cấp 2 — Standard Long-form (16–25 phút / 3.520–5.500 từ) [Sweet Spot Kênh]:** 5–8 chương. Dành cho chuyên đề phân tích kinh tế vĩ mô, chiến lược công nghiệp, bóc tách chính sách hoặc bài toán doanh nghiệp.
 - **Cấp 3 — Deep Investigation (26–35 phút / 5.720–7.700 từ):** 7–10 chương. Dành cho phim tài liệu điều tra đa chủ thể, hồ sơ chuỗi cung ứng, đại án kinh tế hoặc khảo sát thể chế sâu.
@@ -112,7 +112,7 @@ Nội dung nên có:
 - **Loại C (Documentary Toàn Cầu / Xu Hướng Dài Hạn):** Intellectual Relevance Anchor. Mở ra nghịch lý vĩ mô nhức nhối hoặc so sánh quốc tế đắt giá khiến người nghe tò mò muốn hiểu quy luật vận hành của thế giới.
 - **VỊ TRÍ ĐẶT CTA:** Đặt CTA một cách mềm mỏng ở cuối **Chương 2**, ngay trước câu chuyển tiếp (Bridge) sang Màn 2.
   - *Quy định về Giọng điệu (Tone DNA):* Tuyệt đối không dùng giọng ra lệnh, áp đặt hay thúc ép. Giọng điệu đĩnh đạc, khách quan, tôn trọng quyền lựa chọn của người nghe.
-  - *Ví dụ mẫu đạt chuẩn:* "Nếu quý vị thấy những thông tin này hữu ích, một lượt đăng ký kênh và chia sẻ nội dung sẽ là nguồn động viên rất lớn đối với đội ngũ sản xuất."
+  - *Ví dụ mẫu đạt chuẩn:* "Nếu bạn thấy những thông tin này hữu ích, một lượt đăng ký kênh và chia sẻ nội dung sẽ là nguồn động viên rất lớn đối với đội ngũ sản xuất."
 
 ---
 

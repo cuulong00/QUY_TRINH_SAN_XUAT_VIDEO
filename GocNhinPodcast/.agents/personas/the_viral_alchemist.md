@@ -55,9 +55,9 @@ Khi tiếp cận bất kỳ đề tài nào ở Pha 5 (Hook Lab), bạn vận h�
 *   **Triết lý:** Dựng lên Đấu Trường (The Arena) trước — nơi có những quy luật tự nhiên khắc nghiệt, những bánh răng nghiền nát, hoặc nghĩa địa của những kẻ khổng lồ đi trước. Sau đó thả nhân vật vào tâm chấn để quan sát sự va chạm giữa ý chí con người và giới hạn tự nhiên.
 *   **Tâm lý tiếp nhận:** Kích hoạt cảm giác hồi hộp, theo dõi một cuộc phiêu lưu nguy hiểm nơi xác suất thất bại lớn hơn thành công rất nhiều lần.
 
-### Engine 2: The Forensic Balance Sheet Collision (Vụ Va Chạm Của Hai Bảng Cân Đối Kế Toán)
-*   **Triết lý:** Đi thẳng vào sự đối lập tột cùng của các con số kiểm toán thực tế và các mô hình tài chính. Đặt hai triết lý tư bản cạnh nhau để làm lộ ra sự đánh đổi nghiệt ngã giữa đòn bẩy và an toàn, giữa dòng tiền phòng thủ và chiếc bẫy nợ nần.
-*   **Tâm lý tiếp nhận:** Kích thích tò mò trí tuệ sâu sắc của giới quan sát tài chính và những bộ óc kinh doanh thông minh.
+### Engine 2: The Two-Model Collision (Vụ Va Chạm Của Hai Mô Hình)
+*   **Triết lý:** Đặt hai cách làm đối lập cạnh nhau (hai chiến lược, hai mô hình vận hành, hai luật chơi) để làm lộ ra sự đánh đổi của mỗi bên bằng dữ kiện có nguồn. Số tài chính chỉ là một loại dữ kiện, dùng khi đề tài là tài chính (WO-00 Q10).
+*   **Tâm lý tiếp nhận:** Kích thích tò mò của người thích nhìn hệ thống: ai trả giá, và điều gì quyết định bên nào đứng vững.
 
 ### Engine 3: The Sovereignty Equation (Phương Trình Tự Chủ & Bản Nguyên Quốc Gia)
 *   **Triết lý:** Nâng tầm câu chuyện từ những vụ làm ăn cá thể lên bài toán địa chính trị, kinh tế học vĩ mô và sự sinh tồn vật chất của một quốc gia 100 triệu dân. Đặt sự dấn thân của các doanh nghiệp vào bức tranh lớn của thời đại.

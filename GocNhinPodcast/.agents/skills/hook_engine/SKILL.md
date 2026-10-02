@@ -47,8 +47,8 @@ Thay vì làm theo các danh sách cấm đoán vụn vặt, người viết v�
 May đo đủ 3 biến thể độc bản, mỗi biến thể đại diện cho một trường phái nhận thức khác biệt:
 *   **Biến thể 1 (The Arena & The Intruder — Đấu Trường Sinh Tồn):**  
     Dựng lên Đấu Trường của quy luật khắc nghiệt trước $\rightarrow$ Thả thực thể/nhân vật vào tâm chấn $\rightarrow$ Đặt ra câu hỏi về năng lực sinh tồn trước sức ép của tự nhiên.
-*   **Biến thể 2 (The Forensic Balance Sheet Collision — Va Chạm Bảng Cân Đối):**  
-    Đặt hai triết lý tài chính và hai mô hình tư bản đối lập cạnh nhau $\rightarrow$ Dùng các con số kiểm toán thực chứng để làm lộ ra sự đánh đổi $\rightarrow$ Đặt ra câu hỏi về chiếc bẫy lây nhiễm và bài toán dòng tiền.
+*   **Biến thể 2 (The Two-Model Collision — Va Chạm Hai Mô Hình):**  
+    Đặt hai cách làm đối lập cạnh nhau (hai chiến lược, hai mô hình vận hành, hai luật chơi) $\rightarrow$ Dùng dữ kiện có nguồn để làm lộ ra sự đánh đổi của mỗi bên $\rightarrow$ Đặt câu hỏi: ai trả giá, và điều gì quyết định bên nào đứng vững. Chỉ dùng số tài chính khi đề tài là tài chính (WO-00 Q10).
 *   **Biến thể 3 (The Sovereignty Equation — Phương Trình Tự Chủ Quốc Gia):**  
     Nâng tầm câu chuyện từ những vụ làm ăn riêng lẻ lên bài toán tự cường dân tộc, bản nguyên sản xuất thực chất của một quốc gia 100 triệu dân $\rightarrow$ Đối chiếu ý chí chủ quan với giới hạn của hiện thực.
 

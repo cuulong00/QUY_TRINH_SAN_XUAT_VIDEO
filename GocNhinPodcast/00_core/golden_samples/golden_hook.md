@@ -24,8 +24,8 @@ Nếu hook kết bằng câu hỏi, câu hỏi đó phải **mọc ra tự nhiê
 
 Nếu câu hỏi đủ sắc — nó tự chứng minh chiều sâu, không cần bạn thông báo trước.
 
-### 5. Gắn túi tiền / đời sống cá nhân
-Hook phải có ít nhất 1 cụm kết nối với đời sống thật: tiền, lãi vay, giá nhà, việc làm, khoản vay, tài sản, quyết định mua bán. Không có cụm này → người xem không thấy lý do ở lại.
+### 5. Điểm tựa liên quan theo loại đề tài
+Hook phải có ít nhất 1 điểm tựa cho thấy lý do ở lại, chọn theo `00_core/content_principles.md` §2: Loại A là đời sống chung (thu nhập, chi phí, việc làm, tài sản); Loại B là bài toán doanh nghiệp/quốc gia (ai thắng ai thua, luật chơi nào đang đổi); Loại C là nghịch lý hoặc cú sốc dữ liệu. Không ép "túi tiền của bạn" vào đề tài B/C.
 
 ### 6. Kết bằng lời hứa cụ thể
 Sau hook, người xem phải biết rõ: **ở lại sẽ được hiểu điều gì?** "Đọc cấu trúc", "giải mã 5 vũ khí", "3 dấu hiệu để tự đánh giá" — cụ thể, đo được. Không hứa mơ hồ ("hiểu sâu hơn", "nhận ra sự thật").
@@ -40,7 +40,7 @@ Nếu người xem tắt video ngay sau hook mà cảm thấy đã đủ hiểu 
 ```
 [ ] 15 giây đầu có data hoặc insight thật?
 [ ] Có cách đọc riêng (nghịch lý, câu hỏi sắc) nhưng chưa kết luận?
-[ ] Có gắn túi tiền / đời sống thật?
+[ ] Có điểm tựa liên quan đúng loại đề tài A/B/C?
 [ ] Câu hỏi mở (nếu có) tự nhiên từ logic, không dùng meta-announcement?
 [ ] Người xem tắt sau hook → chưa đủ hiểu → cần nghe tiếp?
 [ ] Lời hứa cụ thể (ở lại sẽ được gì)?

@@ -23,14 +23,8 @@
   * **Hệ quả Bậc 2:** *Sau 2–3 năm, các chủ thể trên thị trường sẽ thích nghi và tìm cách lách luật/né đòn như thế nào?*
   * **Hệ quả Bậc 3:** *Sau 5 năm, sự bóp méo cấu trúc này sẽ tích tụ thành rủi ro hệ thống ở đâu? Ai là người cuối cùng phải trả tiền cho khoản thâm hụt đó?*
 
-### Mô hình 2: Hội Đồng Phản Biện Đối Trọng 3 Lăng Kính (The Tri-Adversarial Red Team Council)
-Trước khi phê duyệt bất kỳ luận điểm hay phân cảnh nào, Kiểm toán viên bắt buộc phải kích hoạt 3 "quái kiệt phản biện":
-1. **The Market Skeptic (Kẻ Hoài Nghi Thị Trường & Hiệu Quả Vốn):**
-   * *Mũi khoan:* Tấn công vào các giải pháp trợ cấp hành chính, độc quyền nhóm, nguy cơ lãng phí vốn và chi phí cơ hội bị tước đoạt của khu vực tư nhân.
-2. **The Institutional Realist (Nhà Hiện Thực Thể Chế & Địa Chính Trị):**
-   * *Mũi khoan:* Vạch trần sự lệch pha giữa văn bản luật và năng lực thực thi thực tế, động lực sinh tồn của các nhóm lợi ích, và nguy cơ kích hoạt các biện pháp trả đũa thuế quan/thương mại.
-3. **The Forensic Cash Auditor (Kiểm Toán Viên Dòng Tiền & Rủi Ro Phá Sản):**
-   * *Mũi khoan:* Bóc trần thâm hụt dòng tiền tự do (FCF âm), bẫy lấy nợ ngắn hạn nuôi tài sản dài hạn, tính bất khả thi của công suất hòa vốn và nguy cơ cạn kiệt thanh khoản khi lãi suất đảo chiều.
+### Mô hình 2: Hội Đồng Phản Biện Đa Diện (Multi-Lens Red Team)
+Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các lăng kính phản biện **đã chọn trong hiến chương tập** (tối thiểu 2). Danh mục 5 lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất). Kiểm toán viên không tự thêm lăng kính dòng tiền cho đề tài chiến lược, thể chế, công nghiệp chỉ vì có số tài chính (WO-00 Q10).
 
 ### Mô hình 3: Thước Đo Khả Năng Bác Bỏ Của Popper (Popperian Falsification Heuristic)
 - Một luận điểm chỉ có giá trị khoa học khi nó có thể bị bác bỏ bởi dữ liệu thực chứng.

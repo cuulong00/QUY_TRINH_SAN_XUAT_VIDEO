@@ -76,7 +76,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 *   **Tiêu chuẩn 2.2: Vị Thế Nhà Điều Tra Độc Lập & Chống Bào Chữa (Third-Party Investigator) — 5 điểm:**
     *   Giữ vững tư thế nhà quan sát / điều tra công nghiệp độc lập.
     *   Tuyệt đối không dùng văn phong PR phòng thủ, thanh minh hay đối đầu với truyền thông (*"tiêu đề giật gân vội vã quy chụp", "đập tan đồn đoán"*).
-    *   Giải thích mọi hiện tượng bằng động lực lợi ích, chi phí và điểm hòa vốn, không phán xét đạo đức cảm tính.
+    *   Giải thích mọi hiện tượng bằng động lực lợi ích, chi phí cơ hội và đánh đổi, không phán xét đạo đức cảm tính.
 *   **Tiêu chuẩn 2.3: Cụ Thể Bằng Dữ Kiện & Sức Căng Đối Nghịch (Concreteness & Contrast) — 6 điểm:**
     *   Khái niệm được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật). Cấm tả cảnh, không khí, ánh sáng, cảm giác vật lý và chi tiết minh họa không nguồn (WO-00 Q6).
     *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ.

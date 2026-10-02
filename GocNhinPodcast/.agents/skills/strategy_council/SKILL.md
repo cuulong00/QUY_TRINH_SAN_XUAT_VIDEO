@@ -70,10 +70,7 @@ Hội đồng tiến hành tối thiểu 2 vòng tranh biện:
   * `the_viral_alchemist`: Đề xuất góc nhìn kịch tính, tìm điểm chạm gây tò mò sâu sắc dựa trên nghịch lý hệ thống vừa dựng.
   * `the_capital_markets_analyst`: Kéo bàn cờ vĩ mô xuống túi tiền và quyết định tài chính thực tế của người dân/nhà đầu tư cá nhân, chỉ ra bằng số liệu bên nào đang chịu thiệt và gánh chi phí ngầm (với đề tài Loại A; đề tài B/C dùng điểm tựa theo `00_core/content_principles.md` §2).
   * `the_policy_analyst`: Thử thách tính chính xác của cơ chế luật pháp, các văn bản quy phạm, dữ liệu kiểm toán và tương quan quốc tế.
-  * `the_critical_auditor`: **LÃNH ĐẠO BAN PHẢN BIỆN ĐỐI TRỌNG (TRI-ADVERSARIAL RED TEAM)** — Kích hoạt đồng thời 3 đòn công kích cốt tử:
-    1. *Lăng kính The Market Skeptic:* Bắt bẻ về hiệu quả vốn, lãng phí nguồn lực xã hội, bóp méo thị trường và nguy cơ tạo ra các thực thể sống bám trợ cấp.
-    2. *Lăng kính The Institutional Realist:* Bóc trần ma sát thực thi ngầm, động lực bảo vệ lợi ích cục bộ, và rủi ro trả đũa thuế quan/địa chính trị từ các đối tác quốc tế lớn.
-    3. *Lăng kính The Forensic Cash Auditor:* Soi chiếu thâm hụt dòng tiền tự do (FCF âm), bẫy lấy nợ ngắn hạn nuôi dự án dài, và tính bất khả thi của điểm hòa vốn công suất.
+  * `the_critical_auditor`: **LÃNH ĐẠO HỘI ĐỒNG PHẢN BIỆN ĐA DIỆN** — tại Pha 1 chọn tối thiểu 2 lăng kính phản biện theo nút N5 của hồ sơ đề tài, ghi vào hiến chương tập, rồi kích hoạt đồng thời; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10). Không bật lăng kính dòng tiền cho đề tài chiến lược, thể chế, công nghiệp chỉ vì có số tài chính.
   * **Quy tắc Steelmanning & Symmetric Testing:** Ban phản biện bắt buộc phải dựng lập luận công kích ở phiên bản thông minh nhất, sắc bén nhất, cấm dùng ngụy biện bù nhìn rơm (Strawman). Phản biện phải tấn công đồng đều vào tử huyệt của cả hai bên trên bàn cờ.
 * **Vòng 2 — Gọt giũa, Đồng thuận & Phê duyệt:**
   * `the_macro_strategist` phân tích lại các ý kiến, bác bỏ những đề xuất giật gân làm loãng bản chất đề tài, khóa chặt **Vector Đánh Đổi & Chi Phí Cơ Hội (Trade-offs & Opportunity Costs)**, hoàn thiện Bản đồ Địa hình Hiện thực 4 Tầng.
@@ -96,7 +93,7 @@ Tệp `01_global_vision_synthesis.md` bắt buộc chứa 3 phần:
 1. **Phần I: Biên Bản Phê Duyệt Của Hội Đồng Chiến Lược:**
    - User Intent Statement & Xác lập Hình thái Chủ thể Bản thể học (1 trong 5 Archetypes).
    - Kết quả Scoping sơ bộ (Trả lời Bộ 5 Câu Hỏi Bản Thể Học Phổ Quát).
-   - Nhật ký tranh luận đối thoại trực tiếp (Direct Dialogue Transcript) giữa 5 chuyên gia (bắt buộc có màn phản biện 3 lăng kính gay gắt từ `the_critical_auditor`).
+   - Nhật ký tranh luận đối thoại trực tiếp (Direct Dialogue Transcript) giữa 5 chuyên gia (bắt buộc có màn phản biện gay gắt từ `the_critical_auditor` qua các lăng kính đã chọn, tối thiểu 2).
    - **Khối Bắt Buộc: Bàn Cân Dữ Liệu Đối Xứng 1-1 (Symmetric Parity Framework)** — Bảng so sánh chỉ số BCTC kiểm toán, cơ cấu nợ, tử huyệt của các bên.
    - **Khối Bắt Buộc: Sổ Cái Tiến Trình Tranh Biện Lịch Sử 3 Thời Kỳ (The 3-Epoch Debate Ledger)** — Dòng chảy nhận thức qua 3 giai đoạn.
    - **Khối Bắt Buộc: THE STRONGEST OPPOSING THESIS (Bản Cáo Trạng Phản Đề Thép)** — Tổng hợp 3 luận điểm công kích mạnh mẽ nhất của phe đối lập và các số liệu bất lợi cần giải mã.

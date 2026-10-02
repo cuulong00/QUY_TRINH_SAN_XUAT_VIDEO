@@ -68,10 +68,7 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 *(Tham chiếu: PBS Frontline Journalistic Audit & The Tri-Adversarial Red Team Mandate)*
 **Câu hỏi kiểm định:**
 - **The "So What?" Test (PBS Frontline):** Từng luận điểm, cơ chế hoặc con số đưa vào có trả lời được câu hỏi: *"Khán giả nghe xong điều này thì sao? Nó làm thay đổi nhận thức của họ về bản chất thể chế/kinh tế như thế nào?"* Có tránh được việc biến kịch bản thành bản tổng hợp tin tức (News Summary)?
-- **Hội Đồng Phản Biện Tam Diện (Tri-Adversarial Red Team):** Kịch bản có chịu sự thử lửa đanh thép của 3 lăng kính đối kháng:
-  1. *The Market Skeptic:* Sát hạch méo mó phân bổ vốn, bao cấp làm lệch lạc thị trường, doanh nghiệp xác sống, chi phí cơ hội vĩ mô.
-  2. *The Institutional Realist:* Bóc trần ma sát thực thi quan liêu, nhóm lợi ích cố thủ, rủi ro trả đũa thuế quan/WTO.
-  3. *The Forensic Cash Auditor:* Soi thẳng vào bảng cân đối, dòng tiền tự do FCF âm, nợ ngắn hạn nuôi tài sản dài hạn, điểm hòa vốn viển vông.
+- **Hội Đồng Phản Biện Đa Diện:** Kịch bản có chịu thử lửa của các lăng kính đã chọn trong hiến chương tập (tối thiểu 2) không; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10).
 - **Steelmanning & Tam Đoạn Luận 3 Nhịp:** Phản đề đối lập có được xây dựng ở phiên bản mạnh nhất không? Có áp dụng cấu trúc 3 nhịp: (1) Đòn công kích Phản đề Thép $\rightarrow$ (2) Thừa nhận động lực sống còn chính đáng $\rightarrow$ (3) Hợp đề bằng quy luật khách quan và công khai thừa nhận sự đánh đổi cấu trúc (`admitted_trade_offs`)? Tuyệt đối CẤM ngụy biện bù nhìn rơm (Strawman).
 - **Anti-Moralizing (Chống phán xét đạo đức):** Hành vi của các chủ thể được giải thích bằng phân tích động lực (Incentive Analysis) và quy luật chi phí khách quan thay vì phán xét đạo đức tốt/xấu.
 

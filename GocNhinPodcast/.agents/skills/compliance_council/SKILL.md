@@ -35,11 +35,8 @@ Trước khi ký duyệt bất kỳ kịch bản nào, Hội đồng thẩm tra 
 
 ### Khóa 2: Steelmanning, Trade-Offs & Symmetric Parity (Khóa Đối Xứng & Sự Đánh Đổi)
 - **Triệt tiêu Bù Nhìn Rơm (Anti-Strawman):** Lập luận của phe phản biện phải được xây dựng ở phiên bản mạnh nhất, sắc bén nhất, có số liệu đối kháng thuyết phục nhất.
-- **Tri-Adversarial Red Team Council:** Tra vấn kịch bản qua 3 lăng kính:
-  1. *The Market Skeptic:* Bóc trần méo mó phân bổ vốn, bao cấp, doanh nghiệp xác sống, chi phí cơ hội.
-  2. *The Institutional Realist:* Ma sát quan liêu, nhóm lợi ích, rủi ro trả đũa thuế quan/thương mại quốc tế.
-  3. *The Forensic Cash Auditor:* Dòng tiền tự do FCF âm, nợ ngắn hạn nuôi tài sản dài hạn, điểm hòa vốn viển vông.
-- **Bàn Cân Đối Xứng 1-1 (Symmetric Parity):** Khi đề tài so sánh hoặc đối kháng đa thực thể, kiểm toán viên bắt buộc đối soát để bảo đảm độ sâu BCTC, cơ cấu nợ, biên lợi nhuận và tử huyệt của cả hai bên đều được mổ xẻ ngang nhau. Cấm tình trạng một bên là nhân vật chính đa chiều, bên kia là bù nhìn hời hợt.
+- **Hội đồng Phản biện Đa diện:** tra vấn kịch bản qua các lăng kính **đã chọn trong hiến chương tập** (tối thiểu 2); kiểm thêm: lăng kính dòng tiền có bị bật cho đề tài không phải tài chính không. danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10).
+- **Bàn Cân Đối Xứng 1-1 (Symmetric Parity):** Khi đề tài so sánh hoặc đối kháng đa thực thể, kiểm toán viên bắt buộc đối soát để bảo đảm độ sâu dữ kiện, cơ chế và tử huyệt của cả hai bên đều được mổ xẻ ngang nhau (BCTC, cơ cấu nợ chỉ khi đề tài là tài chính). Cấm tình trạng một bên là nhân vật chính đa chiều, bên kia là bù nhìn hời hợt.
 - **Khóa Cứng `[THE DEVIL'S CHAPTER]`:** Bắt buộc có 1 chương phản đề độc lập tại cao trào Hồi 2 (50–70% thời lượng).
 - **Thừa Nhận Đánh Đổi (`admitted_trade_offs`):** Mọi giải pháp đều phải chỉ rõ cái giá phải trả và chi phí cơ hội; cấm tô hồng giải pháp thần thánh.
 
@@ -77,7 +74,7 @@ Trước khi ký duyệt bất kỳ kịch bản nào, Hội đồng thẩm tra 
 - Tước bỏ toàn bộ tính từ cảm thán để thử thách xem luận điểm có còn đứng vững bằng sự thật hay không.
 
 ### D. Thước Đo Cân Bằng Bàn Cờ Đối Xứng (Symmetric Parity Metric)
-- Soi chiếu độ dày của dữ liệu: Khi hai đối thủ hoặc hai mô hình được đem ra so sánh, số trang dữ liệu, số lượng chỉ số tài chính (FCF, đòn bẩy, biên lãi) và mức độ đào sâu nguyên nhân gốc rễ của bên thứ hai có ngang bằng bên thứ nhất không?
+- Soi chiếu độ dày của dữ liệu: Khi hai đối thủ hoặc hai mô hình được đem ra so sánh, số dữ kiện có nguồn, số cơ chế được bóc tách và mức độ đào sâu nguyên nhân gốc rễ của bên thứ hai có ngang bằng bên thứ nhất không? (Chỉ số tài chính chỉ là một loại dữ kiện, không bắt buộc.)
 
 ### E. Kiểm Toán Tính Liền Mạch Tiến Hóa Thời Gian (Temporal & Chronological Integrity)
 - Quét các mốc thời gian: Có hiện tượng "gộp thời gian giả tạo" (ghép các sự kiện cách nhau nhiều năm thành "cùng thời điểm") để tạo kịch tính rẻ tiền không?
@@ -89,7 +86,7 @@ Trước khi ký duyệt bất kỳ kịch bản nào, Hội đồng thẩm tra 
 
 Hội đồng chấm điểm kịch bản trên thang 10 đối với 4 trụ cột (mỗi tiêu chí 25%):
 1. **Novelty & Systemic Insight (25%):** Góc nhìn có phát hiện ra khoảng trống nhận thức mới không? Có bóc tách được bản chất cỗ máy vô hình hay chỉ tóm tắt lại báo chí?
-2. **Dialectical Rigor & Symmetric Parity (25%):** Có phản biện Steelman mạnh mẽ qua 3 lăng kính Thị trường / Thể chế / Dòng tiền không? Có `[THE DEVIL'S CHAPTER]` không? Đã thừa nhận các đánh đổi sòng phẳng chưa? Cán cân đối xứng giữa các chủ thể có đạt 1-1 không?
+2. **Dialectical Rigor & Symmetric Parity (25%):** Có phản biện Steelman mạnh mẽ qua các lăng kính đã chọn trong hiến chương tập không (tối thiểu 2)? Có `[THE DEVIL'S CHAPTER]` không? Đã thừa nhận các đánh đổi sòng phẳng chưa? Cán cân đối xứng giữa các chủ thể có đạt 1-1 không?
 3. **Flow, Cadence & Authentic Gravitas (25%):** Câu từ tự nhiên như ngồi uống trà, 100% câu < 150 ký tự, nhịp thở TTS mượt mà, khử sạch melodrama giật gân và từ cấm AI.
 4. **Data Anchoring Density & Temporal Integrity (25%):** Số liệu định lượng và căn cứ pháp lý chính xác 100%, trích xuất trực tiếp từ Vault, logic thời gian trung thực, không bịa đặt số liệu.
 
@@ -122,15 +119,14 @@ Báo cáo compliance bắt buộc phải tuân theo cấu trúc sau:
 
 ## 1. Điểm số chất lượng (Quality Scores — Thang điểm 10)
 * **Novelty & Systemic Insight (25%):** X/10 — [Nhận xét chi tiết]
-* **Dialectical Rigor & Symmetric Parity (25%):** X/10 — [Nhận xét Steelman, 3 lăng kính, [THE DEVIL'S CHAPTER], trade-offs, đối xứng 1-1]
+* **Dialectical Rigor & Symmetric Parity (25%):** X/10 — [Nhận xét Steelman, các lăng kính đã chọn trong hiến chương, [THE DEVIL'S CHAPTER], trade-offs, đối xứng 1-1]
 * **Flow, Cadence & Authentic Gravitas (25%):** X/10 — [Nhận xét câu < 150 ký tự, nhịp thở TTS, sạch melodrama & AI-isms]
 * **Anchoring Density & Temporal Integrity (25%):** X/10 — [Nhận xét số liệu thực chứng, logic thời gian, Footnote ID từ Vault]
 * 🎯 **Tổng Điểm Đánh Giá:** Y.Y/10 — [ĐẠT / KHÔNG ĐẠT (Ngưỡng đạt: ≥ 8.5/10 và không có điểm thành phần nào < 7.5)]
 
 ## 2. Sát Hạch Hội Đồng Phản Biện Đa Diện (Tri-Adversarial Red Team Stress-Test)
-* **Lăng kính 1 (The Market Skeptic):** [Đạt / Cần sửa — Chi tiết]
-* **Lăng kính 2 (The Institutional Realist):** [Đạt / Cần sửa — Chi tiết]
-* **Lăng kính 3 (The Forensic Cash Auditor):** [Đạt / Cần sửa — Chi tiết]
+* **Lăng kính đã chọn (liệt kê theo hiến chương tập, tối thiểu 2):** [Tên lăng kính — Đạt / Cần sửa — Chi tiết], ...
+* **Kiểm lăng kính dòng tiền:** [Có bật không; nếu bật, đề tài có phải doanh nghiệp/thị trường vốn và luận điểm có xoay quanh sức khỏe tài chính không]
 * **Kiểm toán [THE DEVIL'S CHAPTER]:** [Xác nhận có chương độc lập tại cao trào Hồi 2]
 * **Steelmanning & Admitted Trade-Offs:** [Xác nhận không dùng Strawman, đã thừa nhận đánh đổi]
 * **Symmetric Parity Check:** [Xác nhận độ sâu phân tích 1-1 giữa các chủ thể]

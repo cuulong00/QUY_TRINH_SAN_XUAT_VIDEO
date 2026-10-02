@@ -52,7 +52,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
   * **[The Viral Alchemist]:** "[Pitching ý tưởng điểm chạm, góc nhìn kịch tính đại chúng...]"
   * **[The People's Lens]:** "[Đưa bối cảnh đời sống nhân vật, tác động túi tiền người dân...]"
   * **[The Policy Analyst]:** "[Soi chiếu vào quy định pháp lý, chính sách vĩ mô, dữ liệu kiểm toán...]"
-  * **[The Critical Auditor]:** "[Vạch trần điểm mù, cảnh báo rủi ro lập luận và ngụy biện qua 3 lăng kính Market Skeptic, Institutional Realist, Forensic Cash Auditor...]"
+  * **[The Critical Auditor]:** "[Vạch trần điểm mù, cảnh báo rủi ro lập luận và ngụy biện qua các lăng kính đã chọn cho đề tài (tối thiểu 2, xem mục 1.3)...]"
 
 * **Vòng 2 — Gọt giũa & Đồng thuận:**
   * **[The Macro Strategist]:** "[Phân tích và dùng quyền phủ quyết thanh lọc ý tưởng bề nổi...]"
@@ -104,9 +104,8 @@ immutable_data_policy:
 
 #### 1.3. Bản Cáo Trạng Phản Đề Thép (The Strongest Opposing Thesis — Tri-Adversarial Red Team)
 *(Bắt buộc xây dựng phiên bản phản biện sắc sảo, thông minh nhất từ phe đối lập trước khi tiến hành nghiên cứu sâu)*
-- **1. Phản biện Lăng kính Thị trường & Chi phí cơ hội (The Market Skeptic):** [Luận điểm phản bác mạnh nhất: Méo mó phân bổ vốn, bao cấp làm triệt tiêu cạnh tranh lành mạnh, nguy cơ tạo doanh nghiệp xác sống, chi phí cơ hội của nền kinh tế].
-- **2. Phản biện Lăng kính Thể chế & Địa chính trị (The Institutional Realist):** [Luận điểm phản bác mạnh nhất: Trắc trở thực thi bộ máy, xung đột lợi ích nội bộ, rủi ro bị điều tra chống bán phá giá / trả đũa thuế quan từ các đối tác thương mại lớn].
-- **3. Phản biện Lăng kính Kế toán Dòng tiền & Thanh khoản (The Forensic Cash Auditor):** [Luận điểm phản bác mạnh nhất: Dòng tiền hoạt động kinh doanh âm kéo dài, lấy đòn bẩy nợ vay ngắn hạn tài trợ đầu tư dài hạn, áp lực tái cấp vốn và điểm hòa vốn phi thực tế].
+- **Lăng kính đã chọn (theo nút N5 của hồ sơ đề tài, tối thiểu 2; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10)):** [Ghi tên lăng kính và lý do chọn; lăng kính dòng tiền chỉ khi đề tài là doanh nghiệp/thị trường vốn và luận điểm xoay quanh sức khỏe tài chính].
+- **Phản biện theo từng lăng kính đã chọn:** [Mỗi lăng kính một luận điểm phản bác mạnh nhất, kèm dữ kiện đối kháng có mã OBS hoặc ghi GAP].
 - **Điều kiện sụp đổ của luận điểm chính (Falsification / Kill-Condition):** [Ngưỡng dữ liệu hoặc sự kiện thực tế nào nếu xảy ra sẽ chứng minh luận điểm chủ đạo của video là sai lầm?].
 
 ---

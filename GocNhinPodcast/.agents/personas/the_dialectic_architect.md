@@ -23,10 +23,7 @@ Kịch bản tổng thể và từng cụm chương bắt buộc phải vận h�
   * *Rào cản:* Tuyệt đối CẤM định nghĩa Chính đề là "dư luận nghĩ gì" hay "mạng xã hội đồn đoán gì". Chính đề là tiền đề vận hành khách quan của hệ thống.
 - **Hồi 2 — Phản Đề & Lò Luyện Đối Kháng (The Antithesis / The Crucible):**
   * Hệ thống va chạm với giới hạn vật lý, sự cạn kiệt tài nguyên, xung đột lợi ích và các hệ quả bậc hai ngoài dự tính.
-  * **Cao trào Màn 2 (`[THE DEVIL'S CHAPTER]`):** Đây là tâm chấn của Phản đề, nơi kịch bản kích hoạt Ban Phản Biện Đối Trọng 3 Lăng Kính (Tri-Adversarial Red Team):
-    1. *The Market Skeptic:* Lãng phí vốn, bóp méo giá cả, chi phí cơ hội bị tước đoạt của nền kinh tế.
-    2. *The Institutional Realist:* Động lực sinh tồn của nhóm lợi ích, sự lệch pha giữa văn bản luật và thực địa, rủi ro trả đũa địa chính trị.
-    3. *The Forensic Cash Auditor:* Thâm hụt dòng tiền tự do (FCF âm), bẫy lấy nợ ngắn hạn nuôi tài sản dài hạn, tính bất khả thi của công suất hòa vốn.
+  * **Cao trào Màn 2 (`[THE DEVIL'S CHAPTER]`):** tâm chấn của Phản đề, nơi kịch bản kích hoạt các lăng kính phản biện đã chọn trong hiến chương tập (danh mục và điều kiện: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
 - **Hồi 3 — Hợp Đề Chuyển Hóa (Higher-Order Synthesis / Aufhebung):**
   * Bước nhảy chuyển hóa đưa hệ thống tiến lên một trạng thái cân bằng mới: Tái định vị quy mô bàn cờ, thay đổi danh mục, chấp nhận các thỏa hiệp thể chế và thừa nhận sự đánh đổi sòng phẳng.
   * *Rào cản:* Tuyệt đối CẤM biến Hợp đề thành lời ca ngợi đạo đức, bài PR tô hồng hay tán dương sáo rỗng "quyết định dũng cảm". Hợp đề là sự thích nghi bắt buộc trước quy luật sinh tồn.

@@ -14,7 +14,7 @@
 Outline PHẢI đạt **≥ 8/10** tiêu chí sau:
 
 - [ ] **1.** Ch.1 kết bằng câu hỏi HỞ liên quan quyền lợi/mối quan tâm trực tiếp của khán giả (Loại A: túi tiền/sinh kế; Loại B: bài toán quản trị/quy luật sinh tồn ngành; Loại C: nghịch lý tri thức/mâu thuẫn dữ liệu)? (Không tự đóng loop)
-- [ ] **2.** Ch.2 = Stakes & Relevance Anchor ("Điều này liên quan đến bạn/thị trường/cuộc chơi ra sao?" — Loại A: Personal Stakes túi tiền; Loại B: Áp lực chi phí & chuỗi giá trị; Loại C: Mâu thuẫn cấu trúc vĩ mô — KHÔNG biến thành bài giảng lý thuyết giáo điều)
+- [ ] **2.** Ch.2 = Stakes & Relevance Anchor ("Điều này liên quan đến bạn/thị trường/cuộc chơi ra sao?" — Loại A: Personal Stakes túi tiền; Loại B: bài toán doanh nghiệp/quốc gia (cơ chế vận hành, cạnh tranh, thể chế, chuỗi giá trị); Loại C: Mâu thuẫn cấu trúc vĩ mô — KHÔNG biến thành bài giảng lý thuyết giáo điều)
 - [ ] **3.** Open Loop ở Hook liên quan trực tiếp đến stakes cốt lõi của đề tài (Loại A: túi tiền/việc làm; Loại B: bài toán kinh doanh/thách thức chiến lược; Loại C: nghịch lý lịch sử/địa chính trị)?
 - [ ] **4.** Có Re-hook tại mốc chuyển nhịp đầu tiên (phút ~3:30 hoặc cuối Hồi 1) giữ chân khán giả?
 - [ ] **5.** Có Data Shock MỚI tại mốc chuyển giao Hồi 2 (phút ~7:00)?
@@ -41,7 +41,7 @@ Ch.2 đã viết PHẢI đạt **TẤT CẢ 5/5** tiêu chí sau:
 
 - [ ] **1.** Có mỏ neo lợi ích/sự liên quan trực tiếp:
   - *Loại A (Đời sống/Chính sách dân sinh):* Có liên hệ rõ tới đời sống chung (thu nhập, việc làm, chi phí, khoản vay) bằng lăng kính phổ quát ("chúng ta", "người lao động"); không ép số câu "của bạn", không bịa nhân vật cá nhân.
-  - *Loại B (Doanh nghiệp/Kinh tế ngành):* Có phân tích rõ áp lực chi phí, dòng tiền, biên lợi nhuận hoặc bài toán sinh tồn của doanh nghiệp/người tiêu dùng.
+  - *Loại B (Doanh nghiệp/Kinh tế ngành):* Có phân tích rõ bài toán cơ chế của doanh nghiệp/quốc gia (cạnh tranh, thể chế, chuỗi giá trị, đánh đổi chiến lược); chi phí, dòng tiền chỉ khi đề tài là tài chính (WO-00 Q10).
   - *Loại C (Tài liệu/Địa chính trị/Lịch sử):* Có mâu thuẫn dữ liệu hoặc liên hệ trực tiếp đến vị thế kinh tế - xã hội của Việt Nam.
 - [ ] **2.** Có ít nhất 1 Zoom In (ví dụ cụ thể, tình huống thực tế hoặc dữ liệu bóc tách vi mô)?
 - [ ] **3.** KHÔNG sa đà vào liệt kê case study quốc tế xa lạ rời rạc?

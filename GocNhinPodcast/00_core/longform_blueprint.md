@@ -21,15 +21,15 @@ Thời lượng được quy hoạch chủ động ngay từ khâu Brief và Mas
 
 Thời lượng KHÔNG phải giới hạn cứng ngắc. Điều cốt lõi là **5 phút đầu** có neo được sự chú ý và **từng phút tiếp theo** có cung cấp đủ giá trị nhận thức hay không.
 
-## 2. Nguyên tắc nền: PERSONAL-FIRST
+## 2. Nguyên tắc nền: ĐIỂM TỰA LIÊN QUAN SỚM (theo loại đề tài)
 Long-form mạnh không đến từ sự sâu sắc của chuyên gia.
-Nó mạnh ở chỗ người xem **thấy mình** trong video ngay từ đầu.
+Nó mạnh ở chỗ người xem thấy **lý do để ở lại** ngay từ đầu: với Loại A là thấy mình; với Loại B là thấy một bài toán doanh nghiệp/quốc gia đáng theo; với Loại C là một nghịch lý chưa có lời giải. Luật gốc: `00_core/content_principles.md` §2.
 
 ### Sai lầm chí mạng cần tránh
 Cấu trúc cũ đặt "Translation to Persona" (phần liên quan đời sống người xem) ở phần 6/8, tức khoảng phút 20-25. Người xem đã rời đi từ phút 5 vì không thấy mình trong video.
 
-### Nguyên tắc Personal-First (LINH HOẠT theo chủ đề)
-Mục tiêu cốt lõi KHÔNG THAY ĐỔI: người xem phải thấy mình liên quan trong 5 phút đầu.
+### Điểm tựa liên quan (LINH HOẠT theo chủ đề)
+Mục tiêu cốt lõi KHÔNG THAY ĐỔI: người xem phải thấy lý do ở lại trong 5 phút đầu.
 Nhưng CÁCH thực hiện phụ thuộc vào BẢN CHẤT chủ đề:
 
 #### Loại A — Chủ đề ảnh hưởng trực tiếp đời sống (GDP, lãi suất, lương, BĐS, lạm phát)
@@ -53,7 +53,8 @@ Nhưng CÁCH thực hiện phụ thuộc vào BẢN CHẤT chủ đề:
 | Bản chất chủ đề? | Tài chính cá nhân | Chiến lược doanh nghiệp/quốc gia | Xu hướng toàn cầu dài hạn |
 
 > **QUY TẮC CHUNG:**
-> - **Loại A và B:** Không bao giờ để quá 4 phút video mà không có ít nhất 1 câu kéo về đời sống cá nhân người xem (Zoom-In). Personal Stakes là nhịp thở xuyên suốt, không phải hộp cứng.
+> - **Loại A:** Không để quá 4 phút mà không có ít nhất 1 câu kéo về đời sống chung của người xem (Zoom-In bằng lăng kính phổ quát).
+> - **Loại B:** Không để quá 4 phút mà không có ít nhất 1 điểm neo bài toán doanh nghiệp/quốc gia (ai trả giá, luật chơi đổi thế nào, đối thủ phản ứng ra sao). KHÔNG ép đời sống cá nhân.
 > - **Loại C (Documentary):** KHÔNG ÉP Zoom-In cá nhân. Thay vào đó, giữ chân khán giả bằng DATA SHOCK mới, ví dụ quốc tế đắt giá, và CONTRADICTION liên tục mỗi 3-4 phút. Khán giả ở lại vì TÒ MÒ TRÍ TUỆ, không phải vì sợ mất tiền.
 
 Một video mạnh thường có 4 phẩm chất:
@@ -302,13 +303,13 @@ Một outline tốt phải đạt TẤT CẢ các tiêu chí sau:
 
 > ⚠️ **Khi nào áp dụng Playbook này?**
 > Khi brief xác nhận Loại C (documentary toàn cầu, so sánh quốc gia, phân tích xu hướng dài hạn) VÀ persona chính là Persona 5.
-> Nếu video là Loại A hoặc B → dùng Personal-First doctrine tiêu chuẩn (Section 5).
+> Nếu video là Loại A hoặc B → dùng điểm tựa liên quan theo loại (§2 và §3).
 
 ### 14.1. Thay "Personal Stakes" bằng "Intellectual Stakes"
 
 Video Loại C không ép Personal Stakes tài chính. Thay vào đó, dùng **Intellectual Stakes** — thứ khiến khán giả muốn biết câu trả lời vì TÒ MÒ, không vì SỢ MẤT TIỀN.
 
-| Personal Stakes (Loại A/B) | Intellectual Stakes (Loại C) |
+| Personal Stakes (Loại A) / Relevance Anchor bài toán doanh nghiệp (Loại B) | Intellectual Stakes (Loại C) |
 |---|---|
 | "Điều này ảnh hưởng đến khoản vay của BẠN" | "Điều này giải thích tại sao VN tụt lại" |
 | "Tiền tiết kiệm của bạn đang bị ăn mòn" | "Tại sao GDP tăng mà mức sống không tăng?" |
@@ -353,10 +354,11 @@ Thay vì Re-hook bằng "túi tiền", dùng 4 loại anchor:
 Long-form mạnh không phải vì nhiều chữ hay nhiều case study.
 Long-form mạnh vì nó làm được điều khó nhất:
 
-- giúp người nghe thấy mình trong vấn đề **ngay từ phút 2** (Loại A/B) hoặc thấy tò mò đủ để ở lại (Loại C),
+- giúp người nghe thấy lý do ở lại **ngay từ phút 2**: thấy mình trong vấn đề (Loại A), thấy một bài toán doanh nghiệp/quốc gia đáng theo (Loại B), hoặc một nghịch lý chưa có lời giải (Loại C),
 - giúp người nghe thấy vấn đề rõ hơn cách headline nói,
-- và giúp người nghe rời video với một cách đọc mới **và một bước hành động cụ thể** (Loại A/B) hoặc một góc nhìn mới về thế giới (Loại C).
+- và giúp người nghe rời video với một cách đọc mới: Loại A có thể kèm khung tự định vị; Loại B kèm bài học chiến lược và cái giá đã trả; Loại C kèm góc nhìn mới về thế giới. Không lời khuyên hành động cho B/C.
 
 Câu hỏi cuối cùng để kiểm:
-- **Loại A/B:** Nếu một người xem chỉ ở lại 5 phút đầu, họ đã thấy video này nói về CHÍNH HỌ chưa? Nếu chưa — kịch bản đã thất bại.
+- **Loại A:** Nếu một người xem chỉ ở lại 5 phút đầu, họ đã thấy video này nói về CHÍNH HỌ chưa? Nếu chưa — kịch bản đã thất bại.
+- **Loại B:** Nếu chỉ ở lại 5 phút đầu, họ đã thấy bài toán doanh nghiệp/quốc gia nào đang được đặt ra, và vì sao chưa có đáp án? Nếu chưa — kịch bản đã thất bại.
 - **Loại C:** Nếu một người xem chỉ ở lại 5 phút đầu, họ đã thấy có gì CHƯA ĐƯỢC GIẢI ĐÁP khiến họ phải ở lại không? Nếu chưa — kịch bản đã thất bại.

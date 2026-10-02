@@ -75,7 +75,7 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
 > *Sở cứ: Thomas Sowell (Basic Economics), Ronald Coase (Transaction Cost), Poynter Guidelines.*
 
 *   **2.1. Lăng kính Động lực & Đánh đổi (Incentive & Trade-off First) — 8 điểm:**
-    *   Mọi hành vi của doanh nghiệp, người tiêu dùng hay cơ quan quản lý đều phải được giải thích bằng bài toán lợi ích, rủi ro, điểm hòa vốn và dòng tiền.
+    *   Mọi hành vi của doanh nghiệp, người tiêu dùng hay cơ quan quản lý đều phải được giải thích bằng động lực lợi ích, rủi ro, chi phí cơ hội và đánh đổi (dòng tiền, điểm hòa vốn chỉ khi đề tài là tài chính).
     *   Triệt tiêu 100% việc quy kết đạo đức một chiều, không gán nhãn "đúng - sai", "tốt - xấu" cảm tính.
 *   **2.2. Chuẩn xác Tuyệt đối về Bản chất Pháp lý & Tài chính — 7 điểm:**
     *   Phân định rạch ròi giữa yếu tố pháp lý lãnh thổ địa lý với yếu tố con người/quốc tịch (không đánh đồng khái niệm).

@@ -173,7 +173,7 @@ Trước khi viết, đối chiếu `08_chapter_briefs.md` hoặc brief để x�
 > 🛑 **BẮT BUỘC ÁP DỤNG TRONG MỌI CHƯƠNG VÀ ĐẶC BIỆT TẠI [THE DEVIL'S CHAPTER]:**
 > Tuyệt đối CẤM đưa ra một luận điểm xuôi chiều, một chính sách hay một mô hình kinh doanh mà không đi qua "lửa thử vàng" của phản biện. Mọi luận điểm cốt lõi BẮT BUỘC phải được tôi luyện qua **Tam Đoạn Luận Phản Biện 3 Nhịp**:
 > 1. **Nhịp 1 — Công kích Phản Đề Thép (The Steelman Piercing Attack):** 
->    - Trình bày phản biện ở phiên bản thông minh, sắc bén và giàu dữ liệu nhất của phe đối lập (dựa trên 1 trong 3 lăng kính: Thị trường / Thể chế / Dòng tiền). 
+>    - Trình bày phản biện ở phiên bản thông minh, sắc bén và giàu dữ liệu nhất của phe đối lập (dựa trên một lăng kính đã chọn trong hiến chương tập; danh mục: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện"). 
 >    - Tuyệt đối CẤM dùng ngụy biện bù nhìn rơm (Strawman). Phải trích dẫn đích danh dữ liệu đối kháng (`DATA-XX`), báo cáo kiểm toán, hoặc quy luật chi phí cơ hội.
 >    - *Khẩu ngữ gợi ý:* *"Nhưng giới quan sát tài chính ngay lập tức đặt dấu hỏi...", "Những người hoài nghi thị trường đưa ra một con số khó chịu...", "Ở góc độ thể chế, bài toán không đơn giản như vậy..."*
 > 2. **Nhịp 2 — Thừa nhận Động lực & Tính Chính Đáng (Validate the Incentive & Reality):**

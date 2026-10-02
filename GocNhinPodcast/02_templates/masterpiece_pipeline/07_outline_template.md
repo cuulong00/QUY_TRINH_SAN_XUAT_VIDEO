@@ -63,7 +63,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - **Mỏ neo vật lý (Physical Anchor):** [Vật thể xuất hiện làm điểm tựa trực quan: hợp đồng, tờ trình, biểu đồ dữ liệu, biên bản hiện trường...].
 - **Cú chuyển nhân quả (Causal Exit):** Kết thúc bằng một câu hỏi bế tắc hoặc áp lực sinh tồn $\rightarrow$ Buộc các chủ thể phải hành động đối phó, dẫn sang chương tiếp theo bằng "THEREFORE".
 - **Key Insight:** Insight đắt giá nhất của chương mở đầu.
-- **Thách thức Phản đề Thép (Steelman Challenge):** [Thách thức từ 1 trong 3 lăng kính Thị trường / Thể chế / Dòng tiền đối với giả định khởi nguồn].
+- **Thách thức Phản đề Thép (Steelman Challenge):** [Thách thức từ một lăng kính đã chọn trong hiến chương tập đối với giả định khởi nguồn].
 - **Đánh đổi Bắt buộc (Admitted Trade-offs):** [Cái giá ban đầu hoặc rủi ro hiển hiện mà các chủ thể phải chấp nhận].
 - **Hàng rào Chống Cắt gọt (Anti-Amputation Gate):** BẮT BUỘC giải mã đủ quota [N] Data Anchors và [M] cơ chế; CẤM cắt xén cơ chế để ép ngắn dưới Floor; CẤM viết vượt trần Ceiling.
 - **⛔ Data Checklist (Bắt buộc kiểm tra 100%):**
@@ -81,7 +81,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - **Mỏ neo vật lý (Physical Anchor):** [Tài liệu pháp lý, dòng tiền, bảng cân đối, thiết bị, hiện trường...].
 - **Cú chuyển nhân quả (Causal Exit):** Đẩy thế kẹt lên đỉnh điểm, chuẩn bị cho cú bẻ lái phản biện ở CH[D].
 - **Key Insight:** Insight bản chất về chi phí ẩn, rào cản thể chế hoặc xung đột lợi ích.
-- **Thách thức Phản đề Thép (Steelman Challenge):** [Chỉ định 1 lăng kính đối kháng: The Market Skeptic HOẶC The Institutional Realist HOẶC The Forensic Cash Auditor].
+- **Thách thức Phản đề Thép (Steelman Challenge):** [Chỉ định 1 lăng kính đối kháng trong số các lăng kính đã chọn ở hiến chương tập].
 - **Đánh đổi Bắt buộc (Admitted Trade-offs):** [Sự đánh đổi cấu trúc hoặc chi phí ngầm phát sinh khi theo đuổi giải pháp].
 - **Hàng rào Chống Cắt gọt (Anti-Amputation Gate):** BẮT BUỘC giải mã đủ quota Data Anchors và cơ chế.
 - **⛔ Data Checklist (Bắt buộc kiểm tra 100%):**
@@ -93,19 +93,16 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 ### 🛡️ [THE DEVIL'S CHAPTER — CHƯƠNG PHẢN ĐỀ BẢN CHẤT] (CH[D]): [GÓC NHÌN ĐỐI LẬP & THỬ LỬA ĐA TẦNG — TRI-ADVERSARIAL RED TEAM]
 - **Thông số Kỹ thuật (Technical Budget):** Target: ~[ZZZ] từ (Dải an toàn: [Floor] – [Ceiling] từ | ~[X]m[YY]s phát sóng @ 223 từ/phút) [Chiếm [X]% tổng ngân sách tập].
 - **Tải trọng Nhận thức (Cognitive Payload):** [N] Contested Data Anchors (`CONTESTED-DATA-01`, `DATA-RỦI-RO`) | [M] Mắt xích phân tích Đánh đổi & Chi phí cơ hội.
-- **Vai trò Tự sự (Narrative Role):** **MÀN 2: PHẢN ĐỀ CỐT TỬ (ANTITHESIS)** — Người dẫn chuyện hoàn toàn lật ngược lăng kính, kích hoạt **Hội đồng Phản biện Đa diện (Tri-Adversarial Red Team)** ở phiên bản Steelman mạnh nhất. Tấn công trực diện vào tính khả thi, sự bền vững và tính chính danh của mô hình hiện tại qua 3 mũi nhọn:
-  1. *The Market Skeptic:* Bóc trần méo mó phân bổ vốn, bao cấp làm lệch lạc thị trường, nguy cơ tạo zombie enterprises.
-  2. *The Institutional Realist:* Bóc trần ma sát hành chính, xung đột lợi ích cố thủ, rủi ro đối đầu chính sách và trả đũa quốc tế.
-  3. *The Forensic Cash Auditor:* Soi bảng cân đối tài chính, dòng tiền tự do FCF âm, lấy nợ ngắn hạn nuôi tài sản dài hạn, điểm hòa vốn viển vông.
+- **Vai trò Tự sự (Narrative Role):** **MÀN 2: PHẢN ĐỀ CỐT TỬ (ANTITHESIS)** — Người dẫn chuyện hoàn toàn lật ngược lăng kính, kích hoạt **Hội đồng Phản biện Đa diện** ở phiên bản Steelman mạnh nhất, qua các lăng kính đã chọn trong hiến chương tập (tối thiểu 2; danh mục: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện"). Mỗi mũi nhọn ghi: lăng kính, bằng chứng đối kháng (mã mắt xích), và luận điểm chính phải đổi gì nếu mũi nhọn đứng vững.
 - **Động lực kết nối (Causal Momentum):** **BUT (CÚ BẺ LÁI BIỆN CHỨNG)** — Nhưng câu chuyện không hề đơn giản hay màu hồng như những gì các bên tuyên bố; sự thật trần trụi đằng sau là gì?
 - **Mục đích phân tích (Purpose):**
   1. Đưa ra bằng chứng đối kháng mạnh nhất (Contested Data) từ Báo cáo kiểm toán, chuyên gia phản biện hoặc case study thất bại.
   2. Bóc trần: Ai đang âm thầm gánh chịu chi phí và rủi ro? Chi phí cơ hội của quốc gia/xã hội là gì?
   3. Chỉ ra các hệ lụy phụ (Unintended Consequences) trong 3–5 năm tới.
-- **Mỏ neo vật lý (Physical Anchor):** [Báo cáo kiểm toán chỉ trích, bảng cân đối thâm hụt, hình ảnh hiện trường đối lập...].
+- **Mỏ neo vật lý (Physical Anchor):** [Văn bản, quyết định, số liệu đối kháng có nguồn; không bịa chi tiết].
 - **Cú chuyển nhân quả (Causal Exit):** Dồn nén xung đột đến mức nghẹt thở: Khi cả hai phía đều có lý lẽ sắt đá riêng, hệ thống rơi vào bế tắc toàn diện $\rightarrow$ Dẫn thẳng vào CH[K] Đỉnh cao trào bản chất.
 - **Key Insight:** Cái giá phải trả và rủi ro tử huyệt không thể che giấu của mô hình.
-- **Thách thức Phản đề Thép (Steelman Challenge):** [Tấn công đồng thời cả 3 lăng kính: Thị trường, Thể chế và Dòng tiền].
+- **Thách thức Phản đề Thép (Steelman Challenge):** [Tấn công đồng thời bằng mọi lăng kính đã chọn trong hiến chương tập].
 - **Đánh đổi Bắt buộc (Admitted Trade-offs):** [Bản danh sách toàn bộ các đánh đổi cấu trúc mà mô hình không thể né tránh].
 - **⛔ Data Checklist (Bắt buộc kiểm tra 100%):**
   - [ ] `CONTESTED-DATA-01`: [Con số phản biện thực chứng + File nguồn vault]

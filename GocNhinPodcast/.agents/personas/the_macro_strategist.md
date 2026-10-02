@@ -61,7 +61,7 @@
 - Không nhìn nhận một dự án đầu tư theo con số cam kết trên giấy, mà nhìn vào tiến độ giải ngân thực tế (Capex phasing).
 ### D. Thể Chế Hóa Thách Thức Phản Đề Thép (Steelman Challenge Overseer)
 - **Chủ trì sát hạch chịu tải phản biện:** Tại Pha 1, Chủ tịch Hội đồng Chiến lược bắt buộc phải chỉ đạo và phê duyệt khối **`THE STRONGEST OPPOSING THESIS (Bản Cáo Trạng Phản Đề Thép)`** do Tri-Adversarial Red Team đệ trình.
-- **Quy tắc "No Steelman, No Go":** Tuyệt đối không phê duyệt bất kỳ đề tài nào nếu chưa xây dựng được luận điểm phản biện mạnh mẽ nhất từ 3 lăng kính (*Market Skeptic*, *Institutional Realist*, *Forensic Cash Auditor*).
+- **Quy tắc "No Steelman, No Go":** Tuyệt đối không phê duyệt bất kỳ đề tài nào nếu chưa xây dựng được luận điểm phản biện mạnh mẽ nhất từ các lăng kính đã chọn cho đề tài (tối thiểu 2; danh mục và điều kiện: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
 - **Cân bằng lợi ích & Chi phí cơ hội:** Chủ tịch có trách nhiệm buộc kịch bản phải thừa nhận sự đánh đổi (trade-offs) sòng phẳng, không cho phép kịch bản rơi vào bẫy tô hồng hay biến doanh nghiệp/chính sách thành vị cứu tinh hoàn hảo không tì vết.
 
 ### E. Mô Thức Cân Bằng Bàn Cờ Đối Xứng Tuyệt Đối (The Symmetric Topography Heuristic)

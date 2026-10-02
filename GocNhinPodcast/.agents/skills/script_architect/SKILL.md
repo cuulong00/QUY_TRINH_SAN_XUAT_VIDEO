@@ -34,7 +34,7 @@ description: "Kiến trúc sư kịch bản kinh tế vĩ mô & chính sách. K�
 ### 6 Mô Hình Nhận Thức Cốt Lõi (Core Cognitive Models)
 1. **Tam Hồi Biện Chứng Hegel (The 3-Act Hegelian Dialectical Arc):**
    - **Hồi 1 — Chính Đề (The Operating Thesis):** Hook + Bàn cờ toàn cảnh (Orientation Frame 45-60s) + Mô hình chiến lược ban đầu và các giả định vận hành của hệ thống.
-   - **Hồi 2 — Phản Đề & Lò Luyện Đối Kháng (The Antithesis / The Crucible):** Giới hạn vật lý, sự cạn kiệt nguồn lực và xung đột lợi ích. **BẮT BUỘC có 1 chương độc lập tại đỉnh cao trào (50–70% thời lượng) mang nhãn `[THE DEVIL'S CHAPTER — CHƯƠNG PHẢN ĐỀ BẢN CHẤT]`** do Hội đồng Phản biện Đối trọng 3 Lăng Kính (Market Skeptic, Institutional Realist, Forensic Cash Auditor) trực tiếp tra vấn.
+   - **Hồi 2 — Phản Đề & Lò Luyện Đối Kháng (The Antithesis / The Crucible):** Giới hạn vật lý, sự cạn kiệt nguồn lực và xung đột lợi ích. **BẮT BUỘC có 1 chương độc lập tại đỉnh cao trào (50–70% thời lượng) mang nhãn `[THE DEVIL'S CHAPTER — CHƯƠNG PHẢN ĐỀ BẢN CHẤT]`** do Hội đồng Phản biện Đa diện tra vấn bằng các lăng kính đã chọn trong hiến chương tập (danh mục: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
    - **Hồi 3 — Hợp Đề Chuyển Hóa (Higher-Order Synthesis / Aufhebung):** Bước nhảy chuyển hóa mô hình, tái định vị bàn cờ và chấp nhận sự đánh đổi sòng phẳng (`admitted_trade_offs`). Tuyệt đối CẤM kết bài đạo đức hay PR ca ngợi.
 2. **Bài Test "So What?" (The "So What?" Test — PBS Frontline):**
    - Mỗi chương phải làm thay đổi mô hình tư duy (Mental Model) của người xem. Nếu một chương chỉ cung cấp thông tin mà không làm thay đổi nhận thức về mâu thuẫn trung tâm $\rightarrow$ Loại bỏ hoặc tái cấu trúc.
@@ -65,7 +65,7 @@ Dàn ý Động Biện chứng phân bổ ngân sách từ và dòng chảy nh�
 - **Topic Depth Score:** Xác định thời lượng chuẩn (Thang 4 cấp độ: 8m đến 45+m) dựa trên số trục phân tích, phản đề và tầng nhận thức.
 - **Dynamic Word-Budgeting Engine:** Phân bổ ngân sách từ theo vai trò tự sự (Narrative Role Weights) và lan can co giãn $\pm 15\%$.
 - **Orientation Frame Mandate:** Chương 1 bắt buộc dành 45–60 giây (sau Hook) để trao cho khán giả tấm bản đồ bàn cờ 3 thế lực, kèm căn cứ tin cậy (Proof: tập đứng trên nguồn gốc nào) và lộ trình dạng câu hỏi, không lộ kết luận. Chi tiết: `.agents/rules/content-os-pipeline.md` mục 12, Trạm 3.
-- **The Devil's Chapter Mandate:** Khóa cứng vị trí `[THE DEVIL'S CHAPTER]` tại cao trào Màn 2 với sự kích hoạt của 3 lăng kính phản biện.
+- **The Devil's Chapter Mandate:** Khóa cứng vị trí `[THE DEVIL'S CHAPTER]` tại cao trào Màn 2 với sự kích hoạt của các lăng kính phản biện đã chọn trong hiến chương tập (tối thiểu 2).
 - **Checklist từng chương (12 thông số bắt buộc):** `technical_budget`, `cognitive_payload`, `narrative_role`, `causal_momentum`, `purpose`, `physical_anchor`, `causal_exit`, `key_insight`, `steelman_counter_thesis`, `admitted_trade_offs`, `anti_amputation_guardrail`, `data_checklist`.
 
 ### Pha 6: Chapter Briefs Giàu & Sổ Cái Tự Sự (`08_chapter_briefs.md` & `09_narrative_state_tracker.md`)

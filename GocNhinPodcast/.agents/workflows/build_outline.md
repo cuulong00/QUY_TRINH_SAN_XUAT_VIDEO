@@ -120,7 +120,7 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
    **⛔ KIỂM TRA PHÂN LOẠI CHỦ ĐỀ (HARD GATE TỪ `03_brief.md`):**
    - Mở `episodes/[slug]/03_brief.md` và áp dụng đúng kết quả phân loại (Loại A / B / C):
      * **Loại A (Túi tiền cá nhân):** Chương 1 = Hook gắn với túi tiền; Chương 2 = Quyền lợi cá nhân; Re-hook mỗi 3-4 phút kéo về đời sống cá nhân.
-     * **Loại B (Doanh nghiệp & Thể chế):** Chương 1 = Sự tò mò trí tuệ & biến cố; Chương 2 = Cơ chế chi phí và lớp phân tích logic tiếp theo (KHÔNG ép túi tiền cá nhân); Tối đa 2 case study quốc tế, mỗi case ≤ 3 phút (luật gốc: `00_core/content_principles.md` §5); Zoom-in bài học quản trị rải đều mỗi 3-4 phút.
+     * **Loại B (Doanh nghiệp & Thể chế):** Chương 1 = Sự tò mò trí tuệ & biến cố; Chương 2 = bài toán doanh nghiệp/quốc gia (cơ chế vận hành, cạnh tranh, thể chế) và lớp phân tích logic tiếp theo (KHÔNG ép túi tiền cá nhân); Tối đa 2 case study quốc tế, mỗi case ≤ 3 phút (luật gốc: `00_core/content_principles.md` §5); Zoom-in bài học quản trị rải đều mỗi 3-4 phút.
      * **Loại C (Toàn cầu):** Chương 1 = Nghịch lý vĩ mô; Chương 2 = Relevance Anchor; Giữ chân bằng so sánh dữ liệu quốc tế (tối đa 3 case study).
 
    ```

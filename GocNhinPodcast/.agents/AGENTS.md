@@ -287,10 +287,13 @@ Kênh Góc Nhìn Podcast định vị là kênh phân tích kinh tế - công ng
 - Tuyệt đối không được "bỏ rơi" câu hỏi của khán giả để nói sang các chủ đề lan man khác. Mạch truyện phải giải quyết từng nút thắt theo đúng dòng tâm lý tự nhiên của người nghe: *Nêu nghịch lý ➔ Giải mã nguyên nhân trực tiếp ➔ Đào sâu cơ chế cốt lõi ➔ Mở rộng tác động hệ thống ➔ Đúc kết bài học.*
 
 ### 4. Thể Chế Hóa Hội Đồng Phản Biện Đa Diện & Quy Chuẩn Steelmanning (The Tri-Adversarial Red Team & Steelmanning Mandate)
-- **Tôn chỉ Tối thượng:** Triệt tiêu hoàn toàn tư duy đơn tuyến, bệnh "Yes-Man", và sự xác nhận thiên lệch (Confirmation Bias). Mọi phân tích mô hình, chính sách hoặc chiến lược BẮT BUỘC phải chịu sự thử lửa khắt khe của **Hội đồng Phản biện Đa diện (The Tri-Adversarial Red Team Council)** do `the_critical_auditor` chủ trì:
-  1. *Lăng kính Thị trường & Chi phí cơ hội (The Market Skeptic):* Sát hạch tính hiệu quả của việc phân bổ nguồn lực. Vạch trần méo mó giá cả do trợ cấp/hành chính, rủi ro tạo doanh nghiệp xác sống (zombie firms), và chi phí cơ hội của toàn bộ nền kinh tế.
-  2. *Lăng kính Thể chế & Trắc trở thực thi (The Institutional Realist):* Sát hạch ma sát thực thi quan liêu, sự phản kháng của các nhóm lợi ích cố thủ, rủi ro bị điều tra chống bán phá giá và trả đũa thuế quan từ các đối tác thương mại quốc tế (Mỹ, EU, Trung Quốc).
-  3. *Lăng kính Kế toán Dòng tiền & Sức ép thanh khoản (The Forensic Cash Auditor):* Bóc trần ảo tưởng doanh thu danh nghĩa. Soi thẳng vào dòng tiền tự do FCF âm kéo dài, cấu trúc lấy nợ ngắn hạn nuôi tài sản dài hạn, điểm hòa vốn viển vông và nguy cơ sập bẫy thanh khoản khi chu kỳ tiền tệ đảo chiều.
+- **Tôn chỉ Tối thượng:** Triệt tiêu tư duy đơn tuyến, bệnh "Yes-Man" và xác nhận thiên lệch (Confirmation Bias). Mọi phân tích mô hình, chính sách hoặc chiến lược phải chịu thử lửa của **Hội đồng Phản biện Đa diện (Multi-Lens Red Team)** do `the_critical_auditor` chủ trì. **Đây là bản gốc duy nhất của danh mục lăng kính; mọi file khác chỉ trỏ về đây.**
+**Danh mục lăng kính phản biện** (chọn ở Pha 1 theo nút N5 của hồ sơ đề tài, ghi vào hiến chương tập; tối thiểu 2 lăng kính, không mặc định lăng kính nào):
+  1. *Thị trường & Chi phí cơ hội (The Market Skeptic):* méo mó giá cả do trợ cấp/hành chính, phân bổ vốn kém, chi phí cơ hội của nền kinh tế.
+  2. *Thể chế & Thực thi (The Institutional Realist):* ma sát thực thi, nhóm lợi ích cố thủ, rủi ro điều tra, trả đũa thuế quan, luật chơi thay đổi.
+  3. *Cạnh tranh & Phản ứng của đối thủ (The Competitive Realist):* đối thủ hóa giải lợi thế bằng M&A, hợp tác, hiệu ứng mạng lưới; lợi thế được cho là bền có thật không.
+  4. *Kỹ thuật & Chuỗi cung ứng (The Supply-Chain Engineer):* giới hạn vật lý, công suất, đầu vào, logistics, công nghệ thay thế.
+  5. *Dòng tiền & Thanh khoản (The Forensic Cash Auditor):* FCF, cấu trúc nợ, điểm hòa vốn, thanh khoản. **Chỉ bật khi đề tài là doanh nghiệp hoặc thị trường vốn và luận điểm xoay quanh sức khỏe tài chính** (user chốt 02/10/2026, WO-00 Q10); không bật cho đề tài chiến lược, thể chế, công nghiệp chỉ vì có số tài chính.
 - **Quy chuẩn Steelmanning & Cấm Tuyệt Đối Ngụy Biện Bù Nhìn Rơm (Anti-Strawman Rule):**
   * Tuyệt đối CẤM dựng lên những luận điểm đối lập ngây thơ, yếu ớt để dễ bề bác bỏ. Phản đề BẮT BUỘC phải được xây dựng ở phiên bản thông minh, sắc bén và giàu dữ liệu thực chứng nhất của phe đối lập.
 - **Bắt Buộc Có [THE DEVIL'S CHAPTER] Tại Cao Trào Hồi 2:**

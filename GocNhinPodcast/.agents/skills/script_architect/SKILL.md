@@ -46,6 +46,11 @@ description: "Kiến trúc sư kịch bản kinh tế vĩ mô & chính sách. K�
    - Nút thắt kỹ thuật/kinh tế lớn nhất bắt buộc phải nổ ra ở cao trào Màn 2, giải phóng Màn 3 cho sự phân tích chuyển hóa thể chế và bài học dài hạn.
 6. **Thích Ứng Bản Thể Học Đa Hình Thái (Polymorphic Adaptation Heuristic):**
    - Cấu trúc kịch bản phải tuân theo đúng hình thái của chủ thể (Thể chế, Ý niệm, Xã hội, Không gian, Doanh nghiệp/Vốn), không gượng ép mọi đề tài vào một khuôn mẫu máy móc.
+7. **Steelman & Tam Đoạn Luận 3 Nhịp:** phản đề luôn ở dạng mạnh nhất của phe đối lập, có dữ kiện đối kháng; cấm bù nhìn rơm và phản biện hình thức một câu. Mỗi luận điểm then chốt đi qua 3 nhịp: (1) công kích bằng dữ kiện đối kháng, (2) thừa nhận cái lý và áp lực sinh tồn của phe phản biện, (3) hợp đề bằng quy luật khách quan và thừa nhận đánh đổi (`admitted_trade_offs`). Thủ tục viết và khẩu ngữ: `.agents/skills/chapter_writer/SKILL.md` §2.1. Lăng kính phản biện: theo hiến chương tập (`.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
+8. **Đánh đổi & Kết luận có điều kiện:** mọi mô hình, chính sách, chiến lược phải chỉ rõ ai hưởng lợi, ai gánh chi phí, chi phí cơ hội và hệ lụy phụ 3–5 năm; cấm kết luận nhị nguyên tốt-xấu; kết luận đi kèm điều kiện ràng buộc (thể chế, nguồn lực, bối cảnh) và điều kiện có thể sai (`00_core/stance_and_judgment.md` §6).
+9. **Đối xứng 1-1 (Symmetric Parity):** khi so sánh đa chủ thể, độ sâu dữ kiện, cơ chế và tử huyệt của mỗi bên phải ngang nhau; cấm "bên dày bên mỏng".
+
+> Đây là bản gốc duy nhất của luật cấu trúc (user chốt 02/10/2026, WO-00 Q13). Persona và rule khác chỉ trỏ về đây, không chép lại.
 
 ---
 

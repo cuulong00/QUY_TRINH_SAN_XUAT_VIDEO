@@ -253,7 +253,7 @@
 >    - Khi viết Chương $N$, Agent **BẮT BUỘC nạp toàn bộ kịch bản thoại sạch của các chương đã viết trước đó (`chapter_01.md` đến `chapter_N-1.md`)**.
 >    - Tuyệt đối không giới hạn trong 3 câu cuối. Kịch bản chỉ vài nghìn từ, đọc hết để kiểm soát nhịp điệu, chống lặp từ/lặp cấu trúc câu và tạo các liên kết gợi nhớ (callbacks) tinh tế (user chốt 02/10/2026, WO-00 Q7).
 > 2. **Khóa Khẩu Ngữ Tiền Khởi Động (Front-Loaded Oral Voice DNA):**
->    - Gemini 3.8 Flash có xu hướng hành văn trang trọng, lý tính. Do đó, ngay từ khâu viết nháp, Agent **BẮT BUỘC phải khóa chết văn phong nói**: Viết như một nhà quan sát điềm tĩnh đang ngồi uống trà trò chuyện thân mật với một người bạn thông minh. Cấm tuyệt đối văn phong báo cáo hàn lâm, tiểu luận khô khan hoặc thuyết giáo đạo lý.
+>    - Model viết thường trượt về văn trang trọng, lý tính. Do đó, ngay từ khâu viết nháp, Agent **BẮT BUỘC phải khóa chết văn phong nói**: Viết như một nhà quan sát điềm tĩnh đang ngồi uống trà trò chuyện thân mật với một người bạn thông minh. Cấm tuyệt đối văn phong báo cáo hàn lâm, tiểu luận khô khan hoặc thuyết giáo đạo lý.
 > 3. **Giao Thức Bảng Đối Soát Chứng Cứ Công Khai (Claim-to-Source Verification Ledger - BẮT BUỘC):**
 >    - Tuyệt đối CẤM kiểm toán ngầm trong suy nghĩ rồi tự tick xanh trong bóng tối.
 >    - TRƯỚC KHI tạo tệp kịch bản thoại `chapter_XX.md`, Agent **BẮT BUỘC phải in ra màn hình chat Bảng Đối Soát Chứng Cứ Công Khai (Claim-to-Source Verification Ledger)**.
@@ -294,12 +294,7 @@ Kênh Góc Nhìn Podcast định vị là kênh phân tích kinh tế - công ng
   3. *Cạnh tranh & Phản ứng của đối thủ (The Competitive Realist):* đối thủ hóa giải lợi thế bằng M&A, hợp tác, hiệu ứng mạng lưới; lợi thế được cho là bền có thật không.
   4. *Kỹ thuật & Chuỗi cung ứng (The Supply-Chain Engineer):* giới hạn vật lý, công suất, đầu vào, logistics, công nghệ thay thế.
   5. *Dòng tiền & Thanh khoản (The Forensic Cash Auditor):* FCF, cấu trúc nợ, điểm hòa vốn, thanh khoản. **Chỉ bật khi đề tài là doanh nghiệp hoặc thị trường vốn và luận điểm xoay quanh sức khỏe tài chính** (user chốt 02/10/2026, WO-00 Q10); không bật cho đề tài chiến lược, thể chế, công nghiệp chỉ vì có số tài chính.
-- **Quy chuẩn Steelmanning & Cấm Tuyệt Đối Ngụy Biện Bù Nhìn Rơm (Anti-Strawman Rule):**
-  * Tuyệt đối CẤM dựng lên những luận điểm đối lập ngây thơ, yếu ớt để dễ bề bác bỏ. Phản đề BẮT BUỘC phải được xây dựng ở phiên bản thông minh, sắc bén và giàu dữ liệu thực chứng nhất của phe đối lập.
-- **Bắt Buộc Có [THE DEVIL'S CHAPTER] Tại Cao Trào Hồi 2:**
-  * Kịch bản BẮT BUỘC phải dành riêng 1 chương độc lập (50–70% thời lượng, chiếm 18–24% ngân sách từ) mang nhãn `[THE DEVIL'S CHAPTER — CHƯƠNG PHẢN ĐỀ BẢN CHẤT]` để dồn nén toàn bộ phản đề thép, thử lửa toàn diện Chính đề.
-- **Tam Đoạn Luận Phản Biện 3 Nhịp (The 3-Beat Steelmanning Mandate):**
-  * Mọi phân tích luận điểm then chốt bắt buộc đi qua 3 nhịp: (1) Công kích Phản đề Thép bằng số liệu đối kháng $\rightarrow$ (2) Thừa nhận cái lý và áp lực sinh tồn khách quan của phe phản biện $\rightarrow$ (3) Hợp đề bằng quy luật khách quan và công khai thừa nhận sự đánh đổi cấu trúc (`admitted_trade_offs`).
+- **Luật cấu trúc đi kèm** (Steelman, 3 nhịp, Devil's Chapter ở cao trào Hồi 2, đánh đổi, kết luận có điều kiện, đối xứng 1-1): bản gốc duy nhất ở `.agents/skills/script_architect/SKILL.md` §1 (Q13). Vị trí và tỷ trọng Devil's Chapter là hằng số mục 5 ở đầu file này.
 
 ### 5. Ba Rào Cản Tư Duy Biên Tập Chống Mờ Nhạt & Chống Văn Phong Bào Chữa (The 3 Cognitive Gates)
 - **Gate 1: Vị thế Nhà điều tra Độc lập (Third-Party Investigator):**

@@ -76,7 +76,7 @@ Kịch bản chỉ vài nghìn từ, nên khi viết Chương N, Agent nạp đ�
 3.  **`09_narrative_state_tracker.md` (NST):** Bộ nhớ trạng thái động (các vòng lặp đang mở và hạt giống cần gặt).
 4.  **Toàn bộ kịch bản thoại sạch đã viết trước đó (`chapter_01.md` đến `chapter_N-1.md`):** Nạp đầy đủ để mô hình: (1) Nắm trọn vẹn mạch cảm xúc và nhịp điệu từ đầu đến cuối, (2) Triệt tiêu 100% việc lặp lại các phép ẩn dụ, cấu trúc câu hay ví dụ, (3) Cài cắm các chi tiết gợi nhớ tinh tế (callbacks).
 5.  **Tệp Phong Cách Chuyên Biệt tương ứng:** Đọc tệp phong cách nằm trong `00_core/styles/` dựa theo Thể loại (Genre) đã xác định.
-6.  **Bộ Lọc Khẩu Ngữ & DNA Kênh:** `00_core/voice_dna.md` và `00_core/anti_ai_isms.md` — **NẠP NGAY TỪ ĐẦU** để khóa chết văn phong nói, ngăn chặn hoàn toàn tật viết hàn lâm/báo cáo của Gemini 3.8 Flash.
+6.  **Bộ Lọc Khẩu Ngữ & DNA Kênh:** `00_core/voice_dna.md` và `00_core/anti_ai_isms.md` — **NẠP NGAY TỪ ĐẦU** để khóa chết văn phong nói, ngăn tật viết hàn lâm/báo cáo của model.
 
 ### Tầng 3 — REFERENCE (Chỉ mở khi CẦN tra cứu cụ thể)
 Không đọc trước. Chỉ mở khi gặp tình huống cụ thể:
@@ -184,7 +184,7 @@ Trước khi viết, đối chiếu `08_chapter_briefs.md` hoặc brief để x�
 >    - *Khẩu ngữ gợi ý:* *"Cái giá phải trả cho sự tăng tốc này là...", "Chọn con đường này thì thứ phải hy sinh là...", "Giải pháp này chỉ đứng vững khi..."* (gợi ý hướng, không chép nguyên câu; mẫu "không phải X mà là Y" và câu nghe sâu sắc bị giới hạn theo `00_core/anti_ai_isms.md` §3b)
 
 ### Bước 3: TỰ SCAN & CRITIC QUA KHỐI THINKING NGẦM (Internal Co-pilot Audit)
-Gemini 3.8 Flash tận dụng khối suy luận ngầm (Thinking Process) để tự động rà soát bản nháp dựa trên 14 tiêu chí vàng trước khi xuất tệp:
+Người viết rà soát bản nháp theo 14 tiêu chí dưới đây trước khi xuất tệp (cổng chấm chính thức do người khác và cổng máy thực hiện, xem WO-10):
 
 | # | Tiêu chí | Câu hỏi kiểm toán ngầm | Đạt? |
 |---|---|---|---|

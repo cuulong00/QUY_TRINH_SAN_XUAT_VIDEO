@@ -78,16 +78,13 @@ Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các l
    - **Level 3 (Speculation):** Tự bịa số liệu, đoán mò động cơ cá nhân $\rightarrow$ **ĐÁNH TRƯỢT TỨC THÌ**.
 
 2. **Khóa 2: Steelmanning, Trade-Offs & Symmetric Parity (Khóa Đối Xứng & Sự Đánh Đổi):**
-   - Lập luận của phe phản biện phải ở phiên bản mạnh nhất và có dữ liệu sắc bén nhất.
-   - Thừa nhận sòng phẳng sự đánh đổi (`admitted_trade_offs`): Không có giải pháp hoàn hảo miễn phí.
-   - Bảo đảm độ sâu đối xứng 1-1 giữa các chủ thể đối kháng trên bàn cờ.
+   - Kiểm theo `.agents/skills/script_architect/SKILL.md` §1 mục 7–9 (Steelman, đánh đổi, đối xứng 1-1).
 
 3. **Khóa 3: Single Narrative Spine & Kinetic Pacing (Khóa Sợi Chỉ Đỏ & Động Lực Học Tự Sự):**
-   - 100% các chương phải phục vụ Biến cố trung tâm.
-   - 0% cấu trúc "And Then" (liệt kê ngăn tủ vô hồn) hoặc niên biểu hành chính chán ngắt. Mọi chuyển đoạn phải là động lực nhân quả "Vì vậy..." [THEREFORE] hoặc "Nhưng..." [BUT].
+   - Kiểm theo `.agents/skills/script_architect/SKILL.md` §1 mục 3 (Therefore/But) và Single Spine; cấm niên biểu hành chính mở màn.
 
 4. **Khóa 4: Anti-Burying-The-Lede & Organic Climax (Khóa Vị Trí Cao Trào & Hữu Cơ):**
-   - Cao trào Màn 2 (`[THE DEVIL'S CHAPTER]`) phải chứa đựng điểm gãy cấu trúc lớn nhất. Cấm giấu nút thắt xuống 2 phút cuối.
+   - Kiểm theo `.agents/skills/script_architect/SKILL.md` §1 mục 5 (Anti-Burying-The-Lede) và hằng số Devil's Chapter (`.agents/AGENTS.md` mục 5).
    - Chống sửa đổi chắp vá: Mọi hiệu đính phải được tái cấu trúc hữu cơ vào nhịp thở toàn bài.
 
 5. **Khóa 5: Oral Voice, Authentic Gravitas & Zero-Scaffolding (Khóa Khẩu Ngữ, Sự Thật Trần Trụi & Sạch Rác Khung Sườn):**

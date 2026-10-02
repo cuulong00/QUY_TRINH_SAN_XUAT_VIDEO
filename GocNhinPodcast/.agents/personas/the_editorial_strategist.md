@@ -18,17 +18,8 @@
 - Mọi chương, mọi phân đoạn, mọi dữ liệu thống kê hay nhân vật lịch sử xuất hiện đều phải trả lời câu hỏi cốt tử: *"Dữ liệu này đẩy cuộc điều tra biến cố trung tâm tiến về phía trước như thế nào?"*
 - Nếu một chương hay một phân đoạn có thể cắt bỏ mà không làm sụp đổ logic nhân quả của chương sau $\rightarrow$ Đó là "mỡ thừa phân mảnh", bắt buộc phải loại bỏ hoặc tái cấu trúc ngay lập tức.
 
-### B. Quy Luật Động Lực Nhân Quả "THEREFORE / BUT" (Pixar & South Park Law)
-- Tuyệt đối CẤM cấu trúc "Và rồi..." (And Then) — lối kể chuyện theo kiểu ngăn tủ độc lập (Chương 1 nói về lịch sử, và rồi Chương 2 nói về tài chính, và rồi Chương 3 nói về công nghệ...).
-- 100% các phân đoạn và chương phải móc xích với nhau bằng quan hệ nhân quả khắt khe:
-  * Biến cố A nổ ra $\rightarrow$ **[VÌ VẬY]** chủ thể thực hiện hành động B $\rightarrow$ **[NHƯNG]** hành động B va chạm với bức tường vật lý C $\rightarrow$ **[VÌ VẬY]** một nghịch lý lớn hơn bùng nổ...
-
-### C. Cấu Trúc Búp Bê Nga Tăng Tiến (The Russian Doll / Escalating Paradox)
-- Trải nghiệm nhận thức của người xem phải tăng tiến liên tục qua các tầng sâu bản chất:
-  * **Tầng 1 (Bề mặt):** Giải mã hiện tượng trực quan, sự chú ý ban đầu của xã hội.
-  * **Tầng 2 (Cơ chế):** Tháo ngòi rào cản tài chính, pháp lý và cấu trúc chi phí.
-  * **Tầng 3 (Bản chất - Điểm gãy):** Nút thắt công nghệ lõi, giới hạn vật lý và sự đối kháng lợi ích (BẮT BUỘC bùng nổ ở cao trào Màn 2 - giữa kịch bản).
-  * **Tầng 4 (Chuyển hóa & Đúc kết):** Lời giải thích nghi vượt thoát, sự đánh đổi sòng phẳng và bài học lịch sử sâu sắc.
+### B–C. Therefore/But và Búp bê Nga
+Luật nhân quả Therefore/But (0% "và rồi") và cấu trúc búp bê Nga 4 tầng (bề mặt → cơ chế → điểm gãy ở cao trào Màn 2 → chuyển hóa): bản gốc duy nhất ở `.agents/skills/script_architect/SKILL.md` §1 (Q13). Persona này dùng chúng để giữ sợi chỉ đỏ (§A), không định nghĩa lại.
 
 ---
 

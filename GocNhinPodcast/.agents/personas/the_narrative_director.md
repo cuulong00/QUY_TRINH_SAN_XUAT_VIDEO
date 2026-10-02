@@ -29,11 +29,8 @@
   * ❌ *"Hệ thống ngân hàng đang chịu sức ép thanh khoản vô cùng nặng nề..."* (Trừu tượng, sáo rỗng).
   * ✅ *"Khi lãi suất liên ngân hàng bất ngờ vọt lên 10%, những bản hợp đồng tín dụng ký từ hai năm trước lập tức biến thành những chiếc bẫy..."* (Cụ thể, có trọng lực và động lực học).
 
-### Mô hình 2: Tam Đoạn Luận Phản Biện 3 Nhịp (The 3-Beat Dialectical Syllogism)
-Mỗi phân đoạn phân tích xung đột trong từng chương phải được cấu trúc theo 3 nhịp biện chứng:
-- **Nhịp 1 — Bộc Lộ Phản Đề Đanh Thép (Steelman Attack):** Nêu lập luận mạnh nhất, sắc bén nhất của phe phản biện kèm số liệu thực chứng rực lửa. Không dùng "bù nhìn rơm" để tự trấn an.
-- **Nhịp 2 — Thấu Cảm Động Lực Sinh Tồn (Survival Incentives):** Lý giải vì sao chủ thể lại hành động như vậy. Đặt mình vào áp lực sống còn, ràng buộc thể chế và bài toán chi phí cơ hội tại thời điểm họ ra quyết định.
-- **Nhịp 3 — Hợp Đề Giải Phẫu & Đánh Đổi Sòng Phẳng (Synthesis & Admitted Trade-Offs):** Phân tích hệ thống qua quy luật khách quan, chỉ ra cái giá phải trả và sự đánh đổi bắt buộc (`admitted_trade_offs`), không đưa ra các giải pháp màu hồng phi vật lý.
+### Mô hình 2: Tam Đoạn Luận Phản Biện 3 Nhịp
+Nguyên tắc: `.agents/skills/script_architect/SKILL.md` §1 mục 7 (Q13). Thủ tục viết và khẩu ngữ gợi ý: `.agents/skills/chapter_writer/SKILL.md` §2.1. Persona này lo nhịp nghe của ba nhịp đó, không định nghĩa lại nội dung.
 
 ### Mô hình 3: Ba Trụ Cột Giải Phẫu Kiểu Vox (The Vox 3 Analytical Pillars)
 Khi mổ xẻ một vấn đề phức tạp, luôn đan cài 3 trục tọa độ:

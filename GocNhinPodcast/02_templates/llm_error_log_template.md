@@ -24,7 +24,7 @@
 
 | Mã Lỗi | Thời Gian | Pha / Tệp Tin | Model & Persona | Nhóm Lỗi | Mức Độ | Trạng Thái Xử Lý |
 |---|---|---|---|---|:---:|:---:|
-| *[ERR-YYYYMMDD-CHXX-01]* | *YYYY-MM-DD* | *chapter_01.md* | *Gemini 3.8 Flash / the_industrial_economist* | *[FORMAT_SYNTAX]* | *MINOR* | *Resolved* |
+| *[ERR-YYYYMMDD-CHXX-01]* | *YYYY-MM-DD* | *chapter_01.md* | *[model] / the_industrial_economist* | *[FORMAT_SYNTAX]* | *MINOR* | *Resolved* |
 
 ---
 
@@ -41,7 +41,7 @@ MỖI KHI PHÁT HIỆN HOẶC ĐƯỢC BÁO LỖI, AGENT BẮT BUỘC THÊM 1 EN
 
 - **Thời gian ghi nhận:** YYYY-MM-DD HH:MM:SS
 - **Pha sản xuất & Tệp tin:** [Ví dụ: Pha 7 - chapter_02.md / Pha 4 - 07_outline.md / Pha 6 - 08_chapter_briefs.md]
-- **Mô hình & Chuyên gia (Persona):** [Ví dụ: Gemini 3.8 Flash (High) + the_industrial_economist]
+- **Mô hình & Chuyên gia (Persona):** [Ví dụ: [model] + the_industrial_economist]
 - **Nhóm phân loại lỗi (Category):** [FORMAT_SYNTAX | VOCABULARY_TONE | DATA_GROUNDING | LOGIC_REASONING | PROCESS_PROTOCOL | HUMAN_REJECTION]
 - **Mức độ nghiêm trọng (Severity):** [CRITICAL (Phế phẩm/vi phạm redline) | MAJOR (Sai lệch cấu trúc/dữ liệu cần viết lại) | MINOR (Lỗi câu từ/format chỉnh nhanh)]
 - **Trạng thái:** [Resolved | Pending Review | System Patch Needed]

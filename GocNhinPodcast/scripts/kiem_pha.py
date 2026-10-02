@@ -221,7 +221,7 @@ def main():
     hc = k.hien_chuong()
     for p_ in phas:
         for f in F[p_]: k.kiem_noidung(os.path.join(ep, f), p_)
-    k.kiem_hc(hc, files)
+    k.kiem_hc(hc, files + [os.path.join(ep, '00_bang_gia_thuyet.md'), os.path.join(ep, '00_so_du_kien.md')])  # hai sổ xuyên tập luôn chịu kiểm hiến chương
     if pha in ('all', '2'): k.plan(hc)
     if pha in ('all', '3'): k.chedo(hc)
     if pha in ('all', '3', '4'): k.chan_do([os.path.join(ep, '03_brief.md'), os.path.join(ep, '07_outline.md')])

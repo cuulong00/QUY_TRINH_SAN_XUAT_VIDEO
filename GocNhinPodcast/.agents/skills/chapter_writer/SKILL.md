@@ -68,9 +68,9 @@ TRƯỚC KHI viết bất kỳ chapter nào, xác nhận TẤT CẢ trong `episo
 
 Nếu BẤT KỲ file nào thiếu → **DỪNG LẠI NGAY**.
 
-## Kiến Trúc Rolling Context (Full Clean Script History — Tối Ưu Cho Gemini 3.8 Flash)
+## Kiến Trúc Rolling Context (Full Clean Script History)
 
-Để tận dụng triệt để cửa sổ 1 triệu tokens và khả năng suy luận dài hạn (Long-Horizon Reasoning) của Gemini 3.8 Flash, khi viết Chương N, Agent bắt buộc nạp các tệp sau vào ngữ cảnh làm việc:
+Kịch bản chỉ vài nghìn từ, nên khi viết Chương N, Agent nạp đủ các tệp sau vào ngữ cảnh làm việc (WO-00 Q7):
 1.  **`01_global_vision_synthesis.md`:** Bản đồ vĩ mô 4 tầng bắt buộc của cả tập phim.
 2.  **`08_chapter_briefs.md`:** Bản tóm lược và hợp đồng dữ liệu riêng của Chương N.
 3.  **`09_narrative_state_tracker.md` (NST):** Bộ nhớ trạng thái động (các vòng lặp đang mở và hạt giống cần gặt).

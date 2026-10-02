@@ -14,7 +14,7 @@ Trong kiến trúc tự sự vĩ mô (*Macronarrative Architecture*), mỗi chư
 * Nó phải tiếp nhận dòng máu dữ liệu và xung đột từ các chương trước (**Inbound Continuity**).
 * Nó phải thực hiện một chức năng giải phẫu duy nhất để chứng minh Luận đề Trung tâm (**Anatomical Function**).
 * Nó phải bơm tiếp xung đột và gieo hạt giống tò mò sang các chương tiếp theo (**Outbound Propulsion**).
-* Nó phải đạt **Độ Tinh Xảo Cục Bộ và Thẩm Mỹ Nghệ Thuật Điện Ảnh** (ngắt nghỉ nhịp nhàng, giàu chất gợi hình, nhạc tính và câu vàng triết lý).
+* Nó phải đạt **Độ Tinh Xảo Cục Bộ và Thẩm Mỹ Nghệ Thuật Điện Ảnh** (ngắt nghỉ nhịp nhàng, cụ thể bằng dữ kiện, nhạc tính; câu vàng nếu có).
 
 Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời khỏi Bức tranh Toàn cảnh (`01_global_vision_synthesis.md`) hoặc làm gián đoạn dòng chảy nhận thức của video thì đó là một **chương lỗi (defective chapter)**.
 
@@ -29,7 +29,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 3. **Thuyết Dòng Chảy Nhận Thức Liên Tục (Cognitive Continuum & Narrative State Tracking):**
    Mỗi chương phải tương tác với Bộ theo dõi trạng thái tự sự (`09_narrative_state_tracker.md`), thực hiện chính xác hai thao tác: **Gặt hạt giống (Harvest)** và **Gieo hạt giống (Seed)**.
 4. **Mỹ Học Điện Ảnh, Hùng Biện Thính Giác & Ngôn Ngữ Học (Cinematic Aesthetics & Orality - Walter J. Ong, Aristotle):**
-   100% câu thoại viết cho tai nghe, ngắt nghỉ dưới 150 ký tự, giàu nhạc điệu nói, giàu tính gợi hình thị giác (*The Mind's Eye*), không từ cấm AI.
+   100% câu thoại viết cho tai nghe, ngắt nghỉ dưới 150 ký tự, giàu nhạc điệu nói, không tả cảnh, không từ cấm AI.
 
 ---
 
@@ -77,9 +77,9 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
     *   Giữ vững tư thế nhà quan sát / điều tra công nghiệp độc lập.
     *   Tuyệt đối không dùng văn phong PR phòng thủ, thanh minh hay đối đầu với truyền thông (*"tiêu đề giật gân vội vã quy chụp", "đập tan đồn đoán"*).
     *   Giải thích mọi hiện tượng bằng động lực lợi ích, chi phí và điểm hòa vốn, không phán xét đạo đức cảm tính.
-*   **Tiêu chuẩn 2.3: Thẩm Mỹ Gợi Hình Điện Ảnh & Sức Căng Tương Phản (Cinematic Imagery & Chiaroscuro) — 6 điểm:**
-    *   Khả năng "vẽ hình trong tâm tưởng" thính giả (*The Mind's Eye*). Ngôn từ mang tính điêu khắc, gợi mở bối cảnh vật lý thực tế (chiếc cối xay khổng lồ, tiếng dập khuôn thép, bóng dáng con tàu viễn dương giữa đêm).
-    *   Tạo được sự tương phản điện ảnh gay gắt (*Chiaroscuro Tension*) giữa ánh sáng của thành tích bên ngoài và bóng tối của áp lực rủi ro bên trong.
+*   **Tiêu chuẩn 2.3: Cụ Thể Bằng Dữ Kiện & Sức Căng Đối Nghịch (Concreteness & Contrast) — 6 điểm:**
+    *   Khái niệm được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật). Cấm tả cảnh, không khí, ánh sáng, cảm giác vật lý và chi tiết minh họa không nguồn (WO-00 Q6).
+    *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ.
 *   **Tiêu chuẩn 2.4: Nhạc Tính & Tiếng Vang Ngôn Ngữ (Acoustic Cadence & Prosody) — 4 điểm:**
     *   Tận dụng thanh điệu tiếng Việt (Bằng - Trắc) để tạo nên một bản giao hưởng âm thanh: Đan xen nhịp điệu phong phú giữa câu ngắn dồn dập (thanh trắc đanh thép) và câu phân tích dàn trải (thanh bằng êm ả).
     *   Đọc lên bằng miệng nghe trôi chảy, không vấp váp, không trúc trắc.
@@ -109,7 +109,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 |:---:|:---:|---|
 | **48 – 50 điểm** | 🌟 **KIỆT TÁC MÔ-ĐUN (MASTERPIECE CHAPTER)** | Xuất sắc toàn diện, đóng khớp hoàn hảo vào bức tranh vĩ mô. Khóa bản thảo sạch ngay lập tức. |
 | **44 – 47 điểm** | 💎 **ĐẠT CHUẨN XUẤT SẮC (EXCELLENT)** | Đạt độ sâu sắc và kết nối logic cao, chỉ cần tinh chỉnh nhẹ nhịp điệu một vài câu. |
-| **40 – 43 điểm** | ⚠️ **CẦN TỐI ƯU HÓA (NEEDS REVISION)** | Số liệu đầy đủ nhưng nhịp điệu bị chùng hoặc thiếu chất gợi hình. Phải sửa trước khi duyệt. |
+| **40 – 43 điểm** | ⚠️ **CẦN TỐI ƯU HÓA (NEEDS REVISION)** | Số liệu đầy đủ nhưng nhịp điệu bị chùng hoặc khái niệm chưa được neo bằng dữ kiện cụ thể. Phải sửa trước khi duyệt. |
 | **Dưới 40 điểm** | ❌ **BỊ TỪ CHỐI (REJECTED)** | Đứt gãy dòng chảy tự sự, vi phạm lỗi tư duy hoặc nhồi nhét chữ rỗng. Bắt buộc viết lại từ đầu. |
 
 ---
@@ -142,7 +142,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 |---|:---:|:---:|---|
 | **2.1. Chuẩn xác & Phủ kín dữ liệu nguồn** | 6 | [X]/6 | [Đối chiếu danh mục DATA-XX từ Vault, độ chuẩn xác cơ chế kinh tế/pháp lý] |
 | **2.2. Vị thế Nhà điều tra Độc lập** | 5 | [X]/5 | [Kiểm tra tính khách quan, khử sạch văn phong PR thanh minh phòng thủ] |
-| **2.3. Thẩm mỹ Gợi hình & Sức căng Tương phản** | 6 | [X]/6 | [Dẫn chứng hình ảnh gợi hình điện ảnh, phép ẩn dụ đắt giá & tương phản sáng/tối] |
+| **2.3. Cụ thể bằng dữ kiện & Sức căng đối nghịch** | 6 | [X]/6 | [Dẫn chứng dữ kiện neo khái niệm; xác nhận 0 câu tả cảnh / chi tiết không nguồn] |
 | **2.4. Nhạc tính Ngôn ngữ & Tiếng vang** | 4 | [X]/4 | [Kiểm tra nhịp điệu bằng-trắc, câu ngắn dồn dập xen kẽ câu dài dàn trải] |
 | **2.5. Kỷ luật Tai nghe & Câu Vàng Dồn Nén** | 4 | [X]/4 | [Trích dẫn Câu Vàng (The Golden Line), kiểm toán 100% câu < 150 ký tự, cấm `—`] |
 | **TỔNG ĐIỂM KHÔNG GIAN 2** | **25** | **[XX] / 25** | *[Nhận xét ngắn về độ tinh xảo và chất nghệ thuật]* |

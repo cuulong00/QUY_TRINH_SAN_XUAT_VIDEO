@@ -106,7 +106,7 @@ Trước khi tạo bất kỳ file nội dung nào (chapter, voiceover, hook...)
 2. Kiểm tra các file đã tồn tại trong folder đó
 3. Xác định pha hiện tại dựa trên files đã có
 4. Chỉ thực hiện pha TIẾP THEO trong pipeline
-5. **Viết tuần tự & Nạp Toàn Bộ Lịch Sử Thoại Sạch (Full Clean Script History - Tối ưu cho Gemini 3.8 Flash):** Khi bắt đầu Pha 7 (Viết Chương), viết tuần tự từng chương một. Nhằm giải phóng 100% sức mạnh của cửa sổ ngữ cảnh 1 triệu tokens và năng lực suy luận dài hạn (Long-Horizon Reasoning) của Gemini 3.8 Flash:
+5. **Viết tuần tự & Nạp Toàn Bộ Lịch Sử Thoại Sạch (Full Clean Script History):** Khi bắt đầu Pha 7 (Viết Chương), viết tuần tự từng chương một. Kịch bản chỉ vài nghìn từ, nên nạp đủ (WO-00 Q7):
    - Agent **BẮT BUỘC nạp toàn bộ kịch bản thoại sạch (clean voiceover text) của các chương đã viết trước đó (`chapter_01.md` đến `chapter_N-1.md`)** nhằm: (1) Kiểm soát nhịp điệu và dòng chảy cảm xúc toàn bài, (2) Triệt tiêu 100% nguy cơ lặp từ, lặp cấu trúc câu, hoặc trùng lặp ví dụ/ẩn dụ, (3) Cài cắm các chi tiết gợi nhớ tinh tế (callbacks / foreshadowing) kết nối chặt chẽ giữa các chương.
    - Các tài liệu đồng nạp gồm: `01_global_vision_synthesis.md` (Mỏ Neo Tư Duy bắt buộc), `02_research_synthesis.md`, Brief của chương hiện tại từ `08_chapter_briefs.md`, và `09_narrative_state_tracker.md`.
 5.1. 🛑 **QUY ĐỊNH BẮT BUỘC: NGHIỆM THU TỪNG CHƯƠNG & KHÓA HOOK (STRICT CHAPTER-BY-CHAPTER APPROVAL & HOOK IMMUTABILITY GATE):**

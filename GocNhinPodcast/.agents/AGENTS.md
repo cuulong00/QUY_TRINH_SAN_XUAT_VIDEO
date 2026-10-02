@@ -251,7 +251,7 @@
 > ⚠️ **BẮT BUỘC TUÂN THỦ 100% KHI THỰC HIỆN PHA 7 (`chapter_writer`):**
 > 1. **Kiến Trúc Ngữ Cảnh Toàn Cảnh (Full Clean History Injection):**
 >    - Khi viết Chương $N$, Agent **BẮT BUỘC nạp toàn bộ kịch bản thoại sạch của các chương đã viết trước đó (`chapter_01.md` đến `chapter_N-1.md`)**.
->    - Tuyệt đối không giới hạn trong 3 câu cuối. Tận dụng triệt để cửa sổ 1 triệu tokens của Gemini 3.8 Flash để kiểm soát nhịp điệu, chống lặp từ/lặp cấu trúc câu và tạo các liên kết gợi nhớ (callbacks) tinh tế.
+>    - Tuyệt đối không giới hạn trong 3 câu cuối. Kịch bản chỉ vài nghìn từ, đọc hết để kiểm soát nhịp điệu, chống lặp từ/lặp cấu trúc câu và tạo các liên kết gợi nhớ (callbacks) tinh tế (user chốt 02/10/2026, WO-00 Q7).
 > 2. **Khóa Khẩu Ngữ Tiền Khởi Động (Front-Loaded Oral Voice DNA):**
 >    - Gemini 3.8 Flash có xu hướng hành văn trang trọng, lý tính. Do đó, ngay từ khâu viết nháp, Agent **BẮT BUỘC phải khóa chết văn phong nói**: Viết như một nhà quan sát điềm tĩnh đang ngồi uống trà trò chuyện thân mật với một người bạn thông minh. Cấm tuyệt đối văn phong báo cáo hàn lâm, tiểu luận khô khan hoặc thuyết giáo đạo lý.
 > 3. **Giao Thức Bảng Đối Soát Chứng Cứ Công Khai (Claim-to-Source Verification Ledger - BẮT BUỘC):**

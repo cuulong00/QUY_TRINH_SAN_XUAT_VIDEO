@@ -13,8 +13,8 @@ Người xem phải thấy một **hiện tượng đang xảy ra** trước khi
 ### 2. Data hoặc insight thật trong 15 giây đầu
 15 giây đầu phải có ít nhất 1 trong 2: con số cụ thể có context, HOẶC một nhận định chuyên gia có lập trường. Nếu 15 giây đầu chỉ setup drama mà không có substance → viết lại.
 
-### 3. Lập trường rõ ràng — không trung lập giả
-Hook phải cho thấy GocNhinPodcast có **quan điểm**. "Không ai nghiêm túc có thể gọi đó là ảo giác" mạnh hơn "một số ý kiến cho rằng...". Chuyên gia thật không ngồi hàng rào.
+### 3. Đặt câu hỏi và căng thẳng, chưa kết luận
+Hook cho thấy kênh có **cách đọc riêng** qua việc chọn nghịch lý và câu hỏi sắc, nhưng chưa nói kết luận (`00_core/stance_and_judgment.md` §8: Chương 1 đặt câu hỏi, chưa kết luận). Lập trường được "kiếm" sau bằng chứng, nói ở chương kết.
 
 ### 4. Câu hỏi mở phải từ logic, không từ template
 Nếu hook kết bằng câu hỏi, câu hỏi đó phải **mọc ra tự nhiên** từ dữ liệu vừa nêu. TUYỆT ĐỐI KHÔNG dùng các cụm meta-announcement:
@@ -39,7 +39,7 @@ Nếu người xem tắt video ngay sau hook mà cảm thấy đã đủ hiểu 
 
 ```
 [ ] 15 giây đầu có data hoặc insight thật?
-[ ] Có lập trường rõ, không trung lập giả?
+[ ] Có cách đọc riêng (nghịch lý, câu hỏi sắc) nhưng chưa kết luận?
 [ ] Có gắn túi tiền / đời sống thật?
 [ ] Câu hỏi mở (nếu có) tự nhiên từ logic, không dùng meta-announcement?
 [ ] Người xem tắt sau hook → chưa đủ hiểu → cần nghe tiếp?

@@ -60,7 +60,7 @@ NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc đọ
    [ ] Hợp đồng nhận thức (Cognitive Contract) — Lời hứa làm sáng tỏ cơ chế + Cảm xúc Grand Payoff
    [ ] Chế độ kết: A (chốt lập trường + điều kiện có thể sai) hoặc B (kết mở có cấu trúc: các cách đọc cạnh tranh + biến số quyết định), kèm lý do chọn — `00_core/stance_and_judgment.md` §1
    [ ] Phân loại chủ đề (Classification Gate) — Phân định rõ Loại A/B/C, chọn đúng Relevance Anchor
-   [ ] Giới hạn Case Study quốc tế — Tối đa 1 case đối với Loại B; không sa đà kể chuyện nước ngoài
+   [ ] Giới hạn Case Study quốc tế — theo `00_core/content_principles.md` §5 (A/B tối đa 2, C tối đa 3, mỗi case ≤ 3 phút); không sa đà kể chuyện nước ngoài
    [ ] Lăng kính độc bản (Unique Lens) — Phân tích kinh tế/thể chế/trò chơi, không sao chép báo chí
    [ ] Mỏ neo vật lý (Physical Anchor) — Vật thể thực tế sờ thấy được làm điểm tựa trực quan
    [ ] Cấu trúc tự sự tăng tiến — Khung 3 Màn nhân quả (Therefore / But) & Mô hình Búp bê Nga 4 tầng

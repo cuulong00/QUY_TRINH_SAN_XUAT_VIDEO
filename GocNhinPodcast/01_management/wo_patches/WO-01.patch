@@ -1,0 +1,274 @@
+diff -ru old/.agents/AGENTS.md new/.agents/AGENTS.md
+--- old/.agents/AGENTS.md	2026-10-02 10:23:44
++++ new/.agents/AGENTS.md	2026-10-02 10:24:47
+@@ -251,7 +251,7 @@
+ > ⚠️ **BẮT BUỘC TUÂN THỦ 100% KHI THỰC HIỆN PHA 7 (`chapter_writer`):**
+ > 1. **Kiến Trúc Ngữ Cảnh Toàn Cảnh (Full Clean History Injection):**
+ >    - Khi viết Chương $N$, Agent **BẮT BUỘC nạp toàn bộ kịch bản thoại sạch của các chương đã viết trước đó (`chapter_01.md` đến `chapter_N-1.md`)**.
+->    - Tuyệt đối không giới hạn trong 3 câu cuối. Tận dụng triệt để cửa sổ 1 triệu tokens của Gemini 3.8 Flash để kiểm soát nhịp điệu, chống lặp từ/lặp cấu trúc câu và tạo các liên kết gợi nhớ (callbacks) tinh tế.
++>    - Tuyệt đối không giới hạn trong 3 câu cuối. Kịch bản chỉ vài nghìn từ, đọc hết để kiểm soát nhịp điệu, chống lặp từ/lặp cấu trúc câu và tạo các liên kết gợi nhớ (callbacks) tinh tế (user chốt 02/10/2026, WO-00 Q7).
+ > 2. **Khóa Khẩu Ngữ Tiền Khởi Động (Front-Loaded Oral Voice DNA):**
+ >    - Gemini 3.8 Flash có xu hướng hành văn trang trọng, lý tính. Do đó, ngay từ khâu viết nháp, Agent **BẮT BUỘC phải khóa chết văn phong nói**: Viết như một nhà quan sát điềm tĩnh đang ngồi uống trà trò chuyện thân mật với một người bạn thông minh. Cấm tuyệt đối văn phong báo cáo hàn lâm, tiểu luận khô khan hoặc thuyết giáo đạo lý.
+ > 3. **Giao Thức Bảng Đối Soát Chứng Cứ Công Khai (Claim-to-Source Verification Ledger - BẮT BUỘC):**
+diff -ru old/.agents/rules/chapter-writing.md new/.agents/rules/chapter-writing.md
+--- old/.agents/rules/chapter-writing.md	2026-10-02 10:23:44
++++ new/.agents/rules/chapter-writing.md	2026-10-02 10:24:47
+@@ -4,8 +4,8 @@
+ 
+ ## Must do
+ - Trước khi viết chapter phải đọc tối thiểu: `03_brief.md`, `07_outline.md`, `08_chapter_briefs.md`, `09_narrative_state_tracker.md`, `10_compliance_report.md` nếu có, và `00_core/stance_and_judgment.md`.
+-- Chỉ đọc thêm các file upstream thật sự liên quan đến chapter đang viết: `02_research_map.md`, `02_research_synthesis.md`, `04_hook_pack.md`, hoặc 3 câu cuối của chapter liền trước để gặt seed.
+-- Không mặc định đọc lại toàn bộ chapter history nếu `09_narrative_state_tracker.md` đã đủ để tránh lặp.
++- Đọc toàn bộ các chương đã viết (`chapter_01.md` đến `chapter_N-1.md`) trước khi viết chương N: kịch bản chỉ vài nghìn từ, đọc hết để giữ nhịp, chống lặp và gặt seed (user chốt 02/10/2026, WO-00 Q7).
++- Đọc thêm các file upstream thật sự liên quan đến chapter đang viết: `02_research_map.md`, `02_research_synthesis.md`, `04_hook_pack.md`.
+ - Mỗi chapter phải có một dominant analytical function đủ rõ.
+ - Mỗi chapter phải đứng trên ít nhất một case study hoặc cụm dữ liệu thực tế có tải trọng.
+ - Mỗi chapter phải dịch evidence thành ý nghĩa, hệ quả, hoặc cách đọc sắc hơn; không dừng ở summary.
+@@ -14,9 +14,9 @@
+ - Không lặp case study, dữ liệu, hoặc cùng một insight nếu không có chủ đích rõ.
+ - Bridge phải mở movement tiếp theo một cách tự nhiên qua cơ chế Seeding & Harvesting, không được nghe như workflow scaffolding.
+ - **Chapter 1:** Hook PHẢI kết bằng câu hỏi HỞ, gắn với điểm tựa liên quan đúng loại đề tài (A: đời sống chung; B: bài toán doanh nghiệp/quốc gia; C: nghịch lý). KHÔNG tự đóng loop (Anti-Completion Rule).
+-- **Chapter 2 Contract:** BẮT BUỘC nối vĩ mô → đời sống chung của xã hội/người dân. Dùng lăng kính PHỔ QUÁT ("Chúng ta", "Xã hội hiện đại", "Tầng lớp lao động"). NGHIÊM CẤM Zoom-In cá nhân hóa cực đoan (VD: "Anh Minh 35 tuổi...").
++- **Chapter 2:** điểm tựa liên quan theo loại đề tài, luật gốc ở `00_core/content_principles.md` §2 (A: đời sống chung bằng lăng kính phổ quát; B: bài toán doanh nghiệp/quốc gia, không ép đời sống; C: nghịch lý, tò mò trí tuệ). Không bịa nhân vật cá nhân hóa ("Anh Minh 35 tuổi...").
+ - **Case Study:** Tối đa 2 case study quốc tế, mỗi case ≤ 3 phút. Không dàn hàng lịch sử.
+-- **Quy tắc 3 phút:** Không để > 3 phút liên tiếp chỉ phân tích/framework nặng mà không có liên hệ áp lực đời sống phổ quát.
++- **Quy tắc 3 phút:** theo `00_core/content_principles.md` §2 (quy tắc chung): không để > 3 phút liên tiếp chỉ phân tích mà không có con số mới, phép loại suy hoặc câu hỏi phản biện.
+ - Sau khi viết chapter phải cập nhật `09_narrative_state_tracker.md`, `10_compliance_report.md`, và `01_management/episode_registry.csv`.
+ 
+ ## Must not do
+diff -ru old/.agents/rules/content-os-pipeline.md new/.agents/rules/content-os-pipeline.md
+--- old/.agents/rules/content-os-pipeline.md	2026-10-02 10:23:52
++++ new/.agents/rules/content-os-pipeline.md	2026-10-02 10:24:47
+@@ -106,7 +106,7 @@
+ 2. Kiểm tra các file đã tồn tại trong folder đó
+ 3. Xác định pha hiện tại dựa trên files đã có
+ 4. Chỉ thực hiện pha TIẾP THEO trong pipeline
+-5. **Viết tuần tự & Nạp Toàn Bộ Lịch Sử Thoại Sạch (Full Clean Script History - Tối ưu cho Gemini 3.8 Flash):** Khi bắt đầu Pha 7 (Viết Chương), viết tuần tự từng chương một. Nhằm giải phóng 100% sức mạnh của cửa sổ ngữ cảnh 1 triệu tokens và năng lực suy luận dài hạn (Long-Horizon Reasoning) của Gemini 3.8 Flash:
++5. **Viết tuần tự & Nạp Toàn Bộ Lịch Sử Thoại Sạch (Full Clean Script History):** Khi bắt đầu Pha 7 (Viết Chương), viết tuần tự từng chương một. Kịch bản chỉ vài nghìn từ, nên nạp đủ (WO-00 Q7):
+    - Agent **BẮT BUỘC nạp toàn bộ kịch bản thoại sạch (clean voiceover text) của các chương đã viết trước đó (`chapter_01.md` đến `chapter_N-1.md`)** nhằm: (1) Kiểm soát nhịp điệu và dòng chảy cảm xúc toàn bài, (2) Triệt tiêu 100% nguy cơ lặp từ, lặp cấu trúc câu, hoặc trùng lặp ví dụ/ẩn dụ, (3) Cài cắm các chi tiết gợi nhớ tinh tế (callbacks / foreshadowing) kết nối chặt chẽ giữa các chương.
+    - Các tài liệu đồng nạp gồm: `01_global_vision_synthesis.md` (Mỏ Neo Tư Duy bắt buộc), `02_research_synthesis.md`, Brief của chương hiện tại từ `08_chapter_briefs.md`, và `09_narrative_state_tracker.md`.
+ 5.1. 🛑 **QUY ĐỊNH BẮT BUỘC: NGHIỆM THU TỪNG CHƯƠNG & KHÓA HOOK (STRICT CHAPTER-BY-CHAPTER APPROVAL & HOOK IMMUTABILITY GATE):**
+diff -ru old/.agents/skills/chapter_writer/SKILL.md new/.agents/skills/chapter_writer/SKILL.md
+--- old/.agents/skills/chapter_writer/SKILL.md	2026-10-02 10:23:44
++++ new/.agents/skills/chapter_writer/SKILL.md	2026-10-02 10:24:47
+@@ -68,9 +68,9 @@
+ 
+ Nếu BẤT KỲ file nào thiếu → **DỪNG LẠI NGAY**.
+ 
+-## Kiến Trúc Rolling Context (Full Clean Script History — Tối Ưu Cho Gemini 3.8 Flash)
++## Kiến Trúc Rolling Context (Full Clean Script History)
+ 
+-Để tận dụng triệt để cửa sổ 1 triệu tokens và khả năng suy luận dài hạn (Long-Horizon Reasoning) của Gemini 3.8 Flash, khi viết Chương N, Agent bắt buộc nạp các tệp sau vào ngữ cảnh làm việc:
++Kịch bản chỉ vài nghìn từ, nên khi viết Chương N, Agent nạp đủ các tệp sau vào ngữ cảnh làm việc (WO-00 Q7):
+ 1.  **`01_global_vision_synthesis.md`:** Bản đồ vĩ mô 4 tầng bắt buộc của cả tập phim.
+ 2.  **`08_chapter_briefs.md`:** Bản tóm lược và hợp đồng dữ liệu riêng của Chương N.
+ 3.  **`09_narrative_state_tracker.md` (NST):** Bộ nhớ trạng thái động (các vòng lặp đang mở và hạt giống cần gặt).
+diff -ru old/.agents/workflows/build_brief.md new/.agents/workflows/build_brief.md
+--- old/.agents/workflows/build_brief.md	2026-10-02 10:23:44
++++ new/.agents/workflows/build_brief.md	2026-10-02 10:24:47
+@@ -60,7 +60,7 @@
+    [ ] Hợp đồng nhận thức (Cognitive Contract) — Lời hứa làm sáng tỏ cơ chế + Cảm xúc Grand Payoff
+    [ ] Chế độ kết: A (chốt lập trường + điều kiện có thể sai) hoặc B (kết mở có cấu trúc: các cách đọc cạnh tranh + biến số quyết định), kèm lý do chọn — `00_core/stance_and_judgment.md` §1
+    [ ] Phân loại chủ đề (Classification Gate) — Phân định rõ Loại A/B/C, chọn đúng Relevance Anchor
+-   [ ] Giới hạn Case Study quốc tế — Tối đa 1 case đối với Loại B; không sa đà kể chuyện nước ngoài
++   [ ] Giới hạn Case Study quốc tế — theo `00_core/content_principles.md` §5 (A/B tối đa 2, C tối đa 3, mỗi case ≤ 3 phút); không sa đà kể chuyện nước ngoài
+    [ ] Lăng kính độc bản (Unique Lens) — Phân tích kinh tế/thể chế/trò chơi, không sao chép báo chí
+    [ ] Mỏ neo vật lý (Physical Anchor) — Vật thể thực tế sờ thấy được làm điểm tựa trực quan
+    [ ] Cấu trúc tự sự tăng tiến — Khung 3 Màn nhân quả (Therefore / But) & Mô hình Búp bê Nga 4 tầng
+diff -ru old/.agents/workflows/build_outline.md new/.agents/workflows/build_outline.md
+--- old/.agents/workflows/build_outline.md	2026-10-02 10:23:44
++++ new/.agents/workflows/build_outline.md	2026-10-02 10:24:47
+@@ -120,7 +120,7 @@
+    **⛔ KIỂM TRA PHÂN LOẠI CHỦ ĐỀ (HARD GATE TỪ `03_brief.md`):**
+    - Mở `episodes/[slug]/03_brief.md` và áp dụng đúng kết quả phân loại (Loại A / B / C):
+      * **Loại A (Túi tiền cá nhân):** Chương 1 = Hook gắn với túi tiền; Chương 2 = Quyền lợi cá nhân; Re-hook mỗi 3-4 phút kéo về đời sống cá nhân.
+-     * **Loại B (Doanh nghiệp & Thể chế):** Chương 1 = Sự tò mò trí tuệ & biến cố; Chương 2 = Cơ chế chi phí và lớp phân tích logic tiếp theo (KHÔNG ép túi tiền cá nhân); Giới hạn đúng 1 Case Study quốc tế điển hình; Zoom-in bài học quản trị rải đều mỗi 3-4 phút.
++     * **Loại B (Doanh nghiệp & Thể chế):** Chương 1 = Sự tò mò trí tuệ & biến cố; Chương 2 = Cơ chế chi phí và lớp phân tích logic tiếp theo (KHÔNG ép túi tiền cá nhân); Tối đa 2 case study quốc tế, mỗi case ≤ 3 phút (luật gốc: `00_core/content_principles.md` §5); Zoom-in bài học quản trị rải đều mỗi 3-4 phút.
+      * **Loại C (Toàn cầu):** Chương 1 = Nghịch lý vĩ mô; Chương 2 = Relevance Anchor; Giữ chân bằng so sánh dữ liệu quốc tế (tối đa 3 case study).
+ 
+    ```
+diff -ru old/00_core/chapter_quality_standard.md new/00_core/chapter_quality_standard.md
+--- old/00_core/chapter_quality_standard.md	2026-10-02 10:23:44
++++ new/00_core/chapter_quality_standard.md	2026-10-02 10:24:47
+@@ -14,7 +14,7 @@
+ * Nó phải tiếp nhận dòng máu dữ liệu và xung đột từ các chương trước (**Inbound Continuity**).
+ * Nó phải thực hiện một chức năng giải phẫu duy nhất để chứng minh Luận đề Trung tâm (**Anatomical Function**).
+ * Nó phải bơm tiếp xung đột và gieo hạt giống tò mò sang các chương tiếp theo (**Outbound Propulsion**).
+-* Nó phải đạt **Độ Tinh Xảo Cục Bộ và Thẩm Mỹ Nghệ Thuật Điện Ảnh** (ngắt nghỉ nhịp nhàng, giàu chất gợi hình, nhạc tính và câu vàng triết lý).
++* Nó phải đạt **Độ Tinh Xảo Cục Bộ và Thẩm Mỹ Nghệ Thuật Điện Ảnh** (ngắt nghỉ nhịp nhàng, cụ thể bằng dữ kiện, nhạc tính; câu vàng nếu có).
+ 
+ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời khỏi Bức tranh Toàn cảnh (`01_global_vision_synthesis.md`) hoặc làm gián đoạn dòng chảy nhận thức của video thì đó là một **chương lỗi (defective chapter)**.
+ 
+@@ -29,7 +29,7 @@
+ 3. **Thuyết Dòng Chảy Nhận Thức Liên Tục (Cognitive Continuum & Narrative State Tracking):**
+    Mỗi chương phải tương tác với Bộ theo dõi trạng thái tự sự (`09_narrative_state_tracker.md`), thực hiện chính xác hai thao tác: **Gặt hạt giống (Harvest)** và **Gieo hạt giống (Seed)**.
+ 4. **Mỹ Học Điện Ảnh, Hùng Biện Thính Giác & Ngôn Ngữ Học (Cinematic Aesthetics & Orality - Walter J. Ong, Aristotle):**
+-   100% câu thoại viết cho tai nghe, ngắt nghỉ dưới 150 ký tự, giàu nhạc điệu nói, giàu tính gợi hình thị giác (*The Mind's Eye*), không từ cấm AI.
++   100% câu thoại viết cho tai nghe, ngắt nghỉ dưới 150 ký tự, giàu nhạc điệu nói, không tả cảnh, không từ cấm AI.
+ 
+ ---
+ 
+@@ -77,9 +77,9 @@
+     *   Giữ vững tư thế nhà quan sát / điều tra công nghiệp độc lập.
+     *   Tuyệt đối không dùng văn phong PR phòng thủ, thanh minh hay đối đầu với truyền thông (*"tiêu đề giật gân vội vã quy chụp", "đập tan đồn đoán"*).
+     *   Giải thích mọi hiện tượng bằng động lực lợi ích, chi phí và điểm hòa vốn, không phán xét đạo đức cảm tính.
+-*   **Tiêu chuẩn 2.3: Thẩm Mỹ Gợi Hình Điện Ảnh & Sức Căng Tương Phản (Cinematic Imagery & Chiaroscuro) — 6 điểm:**
+-    *   Khả năng "vẽ hình trong tâm tưởng" thính giả (*The Mind's Eye*). Ngôn từ mang tính điêu khắc, gợi mở bối cảnh vật lý thực tế (chiếc cối xay khổng lồ, tiếng dập khuôn thép, bóng dáng con tàu viễn dương giữa đêm).
+-    *   Tạo được sự tương phản điện ảnh gay gắt (*Chiaroscuro Tension*) giữa ánh sáng của thành tích bên ngoài và bóng tối của áp lực rủi ro bên trong.
++*   **Tiêu chuẩn 2.3: Cụ Thể Bằng Dữ Kiện & Sức Căng Đối Nghịch (Concreteness & Contrast) — 6 điểm:**
++    *   Khái niệm được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật). Cấm tả cảnh, không khí, ánh sáng, cảm giác vật lý và chi tiết minh họa không nguồn (WO-00 Q6).
++    *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ.
+ *   **Tiêu chuẩn 2.4: Nhạc Tính & Tiếng Vang Ngôn Ngữ (Acoustic Cadence & Prosody) — 4 điểm:**
+     *   Tận dụng thanh điệu tiếng Việt (Bằng - Trắc) để tạo nên một bản giao hưởng âm thanh: Đan xen nhịp điệu phong phú giữa câu ngắn dồn dập (thanh trắc đanh thép) và câu phân tích dàn trải (thanh bằng êm ả).
+     *   Đọc lên bằng miệng nghe trôi chảy, không vấp váp, không trúc trắc.
+@@ -109,7 +109,7 @@
+ |:---:|:---:|---|
+ | **48 – 50 điểm** | 🌟 **KIỆT TÁC MÔ-ĐUN (MASTERPIECE CHAPTER)** | Xuất sắc toàn diện, đóng khớp hoàn hảo vào bức tranh vĩ mô. Khóa bản thảo sạch ngay lập tức. |
+ | **44 – 47 điểm** | 💎 **ĐẠT CHUẨN XUẤT SẮC (EXCELLENT)** | Đạt độ sâu sắc và kết nối logic cao, chỉ cần tinh chỉnh nhẹ nhịp điệu một vài câu. |
+-| **40 – 43 điểm** | ⚠️ **CẦN TỐI ƯU HÓA (NEEDS REVISION)** | Số liệu đầy đủ nhưng nhịp điệu bị chùng hoặc thiếu chất gợi hình. Phải sửa trước khi duyệt. |
++| **40 – 43 điểm** | ⚠️ **CẦN TỐI ƯU HÓA (NEEDS REVISION)** | Số liệu đầy đủ nhưng nhịp điệu bị chùng hoặc khái niệm chưa được neo bằng dữ kiện cụ thể. Phải sửa trước khi duyệt. |
+ | **Dưới 40 điểm** | ❌ **BỊ TỪ CHỐI (REJECTED)** | Đứt gãy dòng chảy tự sự, vi phạm lỗi tư duy hoặc nhồi nhét chữ rỗng. Bắt buộc viết lại từ đầu. |
+ 
+ ---
+@@ -142,7 +142,7 @@
+ |---|:---:|:---:|---|
+ | **2.1. Chuẩn xác & Phủ kín dữ liệu nguồn** | 6 | [X]/6 | [Đối chiếu danh mục DATA-XX từ Vault, độ chuẩn xác cơ chế kinh tế/pháp lý] |
+ | **2.2. Vị thế Nhà điều tra Độc lập** | 5 | [X]/5 | [Kiểm tra tính khách quan, khử sạch văn phong PR thanh minh phòng thủ] |
+-| **2.3. Thẩm mỹ Gợi hình & Sức căng Tương phản** | 6 | [X]/6 | [Dẫn chứng hình ảnh gợi hình điện ảnh, phép ẩn dụ đắt giá & tương phản sáng/tối] |
++| **2.3. Cụ thể bằng dữ kiện & Sức căng đối nghịch** | 6 | [X]/6 | [Dẫn chứng dữ kiện neo khái niệm; xác nhận 0 câu tả cảnh / chi tiết không nguồn] |
+ | **2.4. Nhạc tính Ngôn ngữ & Tiếng vang** | 4 | [X]/4 | [Kiểm tra nhịp điệu bằng-trắc, câu ngắn dồn dập xen kẽ câu dài dàn trải] |
+ | **2.5. Kỷ luật Tai nghe & Câu Vàng Dồn Nén** | 4 | [X]/4 | [Trích dẫn Câu Vàng (The Golden Line), kiểm toán 100% câu < 150 ký tự, cấm `—`] |
+ | **TỔNG ĐIỂM KHÔNG GIAN 2** | **25** | **[XX] / 25** | *[Nhận xét ngắn về độ tinh xảo và chất nghệ thuật]* |
+diff -ru old/00_core/golden_samples/golden_hook.md new/00_core/golden_samples/golden_hook.md
+--- old/00_core/golden_samples/golden_hook.md	2026-10-02 10:23:44
++++ new/00_core/golden_samples/golden_hook.md	2026-10-02 10:24:47
+@@ -13,8 +13,8 @@
+ ### 2. Data hoặc insight thật trong 15 giây đầu
+ 15 giây đầu phải có ít nhất 1 trong 2: con số cụ thể có context, HOẶC một nhận định chuyên gia có lập trường. Nếu 15 giây đầu chỉ setup drama mà không có substance → viết lại.
+ 
+-### 3. Lập trường rõ ràng — không trung lập giả
+-Hook phải cho thấy GocNhinPodcast có **quan điểm**. "Không ai nghiêm túc có thể gọi đó là ảo giác" mạnh hơn "một số ý kiến cho rằng...". Chuyên gia thật không ngồi hàng rào.
++### 3. Đặt câu hỏi và căng thẳng, chưa kết luận
++Hook cho thấy kênh có **cách đọc riêng** qua việc chọn nghịch lý và câu hỏi sắc, nhưng chưa nói kết luận (`00_core/stance_and_judgment.md` §8: Chương 1 đặt câu hỏi, chưa kết luận). Lập trường được "kiếm" sau bằng chứng, nói ở chương kết.
+ 
+ ### 4. Câu hỏi mở phải từ logic, không từ template
+ Nếu hook kết bằng câu hỏi, câu hỏi đó phải **mọc ra tự nhiên** từ dữ liệu vừa nêu. TUYỆT ĐỐI KHÔNG dùng các cụm meta-announcement:
+@@ -39,7 +39,7 @@
+ 
+ ```
+ [ ] 15 giây đầu có data hoặc insight thật?
+-[ ] Có lập trường rõ, không trung lập giả?
++[ ] Có cách đọc riêng (nghịch lý, câu hỏi sắc) nhưng chưa kết luận?
+ [ ] Có gắn túi tiền / đời sống thật?
+ [ ] Câu hỏi mở (nếu có) tự nhiên từ logic, không dùng meta-announcement?
+ [ ] Người xem tắt sau hook → chưa đủ hiểu → cần nghe tiếp?
+diff -ru old/00_core/longform_blueprint.md new/00_core/longform_blueprint.md
+--- old/00_core/longform_blueprint.md	2026-10-02 10:23:44
++++ new/00_core/longform_blueprint.md	2026-10-02 10:24:47
+@@ -142,12 +142,12 @@
+ - **Loại B:** Phân tích bước nhảy chuyển dịch chiến lược (Scale & Strategic Synthesis) — cách doanh nghiệp/hệ thống tái cấu trúc bàn cờ, tối ưu hóa quy mô và tìm kiếm điểm cân bằng mới. Tuyệt đối CẤM đưa ra "lời khuyên khởi nghiệp 3 bước" vào đề tài công nghiệp nặng.
+ - **Loại C:** Đúc kết hệ quả dài hạn (Implication), bài học lịch sử phản chiếu (Historical Mirror) và kịch bản tương lai cho Việt Nam/khu vực.
+ 
+-#### Chương Kết Bài ($CH[N]$) — Grand Payoff & High Energy CTA
+-Mục tiêu:
+-- Đóng toàn bộ Open Loops đã gieo từ Hook.
+-- Chốt lại insight cốt lõi sắc sảo nhất toàn bài — để lại một lăng kính nhận thức có sức bám dài hạn (Mental Model).
+-- Giữ năng lượng cao đến giây cuối cùng, kết bằng câu mạnh nhất, không dùng "Tóm lại...", "Cuối cùng...".
+-- CTA ngắn gọn, tự nhiên, điều hướng người xem sang video phân tích liên quan tiếp theo trên kênh.
++#### Chương Kết Bài ($CH[N]$) — Grand Payoff
++Luật gốc: `00_core/stance_and_judgment.md` §1 và §8 (chế độ kết A/B), `.agents/skills/chapter_writer/SKILL.md` mục "Chương kết". Tóm tắt:
++- Trả lời các open loop phụ đã gieo; câu hỏi lớn kết theo chế độ đã chọn (A: nói thẳng lập trường một lần kèm điều kiện có thể sai; B: trao khung §1b rồi đặt câu hỏi mở nhắm đúng biến số quyết định).
++- Để lại một lăng kính nhận thức có sức bám dài hạn; câu cuối làm người xem nhìn lại câu mở đầu theo cách khác.
++- Kết bằng câu mạnh nhất, không "Tóm lại...", "Cuối cùng...", không tóm tắt lại video.
++- Không CTA ở chương kết: CTA duy nhất nằm cuối Chương 2 (`.agents/AGENTS.md` mục 4).
+ 
+ ---
+ 
+@@ -263,21 +263,21 @@
+ Kết không phải để hô khẩu hiệu.
+ Kết là nơi gom lại toàn bộ video thành một lens nhìn vấn đề.
+ 
+-Một kết tốt nên có:
+-- 1–2 câu tóm insight cốt lõi,
+-- action framework rõ,
++Một kết tốt nên có (luật gốc: `stance_and_judgment.md` §1, §8):
++- lập trường (chế độ A) hoặc khung tự nhận định (chế độ B), nói một lần,
++- Loại A: có thể kèm khung nhận thức giúp người xem tự định vị; Loại B/C: hệ quả và bài học chiến lược, không lời khuyên hành động,
+ - một câu chốt có lực nhưng không gồng,
+-- CTA dẫn sang video tiếp theo,
++- không tóm tắt lại video, không CTA (CTA duy nhất ở cuối Chương 2).
+ 
+ KHÔNG hạ năng lượng ở phần kết. Kết bằng câu mạnh nhất, không phải câu yếu nhất.
+ 
+ ## 11. One-theme per chapter
+ Mỗi chương nên phục vụ một vai trò phân tích chính.
+ Nếu một chương vừa cố giải thích cơ chế, vừa muốn kể case, vừa muốn action plan, nó sẽ rối.
+-Mỗi chương tối đa ~2.5 phút narration.
++Độ dài mỗi chương theo ngân sách [Floor – Target – Ceiling] của `07_outline.md`, trần tuyệt đối 1.050 từ (≈ 4,7 phút); vượt trần thì tách chương (`.agents/workflows/build_outline.md` Trạm 5).
+ 
+ ## 12. Viết cho tai, không viết cho mắt
+-- Câu ngắn: 8-15 từ cho câu phân tích, 3-8 từ cho câu chốt.
++- Giới hạn cứng: mỗi câu dưới 150 ký tự (`.agents/skills/chapter_writer/SKILL.md` mục "Writing for the Ear"). Gợi ý nhịp (không bắt buộc): câu phân tích khoảng 8–15 từ, câu chốt 3–8 từ, trộn độ dài để tránh đơn điệu.
+ - Không dùng thuật ngữ hàn lâm nếu không có phép loại suy đời thường kèm theo NGAY LẬP TỨC.
+ - Cấm: "Developmental State", "Meritocratic Bureaucracy", "Institutional Checks" — trừ khi NGAY SAU ĐÓ có câu: "Nói đơn giản là..."
+ 
+@@ -293,8 +293,8 @@
+ - [ ] Tổng thời lượng và ngân sách từ đạt chuẩn theo Cấp độ đã quy hoạch trong Brief (Cấp 1 đến Cấp 4)?
+ - [ ] Không có đoạn "chỉ lý thuyết/framework" liên tiếp > 3 phút mà không có data, ví dụ hoặc logic liên hệ hỗ trợ?
+ - [ ] Mỗi chapter có bridge tạo chuyển động logic?
+-- [ ] Action hoặc Implication framework cụ thể, không bị hòa tan?
+-- [ ] Phần kết có năng lượng cao + CTA dẫn video tiếp?
++- [ ] Chương kết đúng chế độ A/B đã chọn (`stance_and_judgment.md` §1), không bị hòa tan?
++- [ ] Phần kết có năng lượng cao, không tóm tắt, không CTA?
+ 
+ ### Nếu outline không đạt ≥ 8/10 tiêu chí → phải sửa trước khi viết chapter.
+ 
+diff -ru old/00_core/masterpiece_quality_standard.md new/00_core/masterpiece_quality_standard.md
+--- old/00_core/masterpiece_quality_standard.md	2026-10-02 10:23:44
++++ new/00_core/masterpiece_quality_standard.md	2026-10-02 10:24:47
+@@ -14,7 +14,7 @@
+ 1. Độc lập, khách quan, điềm tĩnh và giàu chiều sâu trí tuệ.
+ 2. Tuyệt đối chính xác về bản chất cơ chế kinh tế, pháp lý và kỹ thuật thực nghiệm.
+ 3. Cuốn hút, kịch tính, giữ chân thính giả bằng khoa học kinh tế học chú ý.
+-4. Mang đậm **Chất Nghệ Thuật Điện Ảnh (Cinematic Artistry)**, gợi hình thị giác và giàu nhạc tính ngôn ngữ.
++4. Giàu nhạc tính ngôn ngữ nói; sức nặng đến từ dữ kiện cụ thể, không từ tả cảnh (user chốt 02/10/2026, WO-00 Q6).
+ 
+ ---
+ 
+@@ -38,7 +38,6 @@
+ 5. **Mỹ Học Điện Ảnh, Hùng Biện Thính Giác & Ngôn Ngữ Học (Cinematic Aesthetics & Orality):**
+    * *Walter J. Ong — "Orality and Literacy":* Tâm lý học của ngôn ngữ nói (*Writing for the Ear*).
+    * *NPR Sound Reporting Guidelines (Jonathan Kern):* Nhịp thở tự nhiên, câu chủ động, kiến trúc âm thanh của lời thoại.
+-   * *Nghệ thuật Tương phản Điện ảnh (Chiaroscuro Storytelling):* Đặt các thái cực sáng - tối cạnh nhau để tạo sức căng nhận thức.
+ 
+ ---
+ 
+@@ -116,9 +115,9 @@
+ ### TRỤ CỘT 5: THẨM MỸ ĐIỆN ẢNH, NHẠC TÍNH & HÙNG BIỆN THÍNH GIÁC (20 ĐIỂM)
+ > *Sở cứ: Aristotle (Lexis & Melos), Walter J. Ong (Orality and Literacy), NPR Sound Reporting Handbook.*
+ 
+-*   **5.1. Nghệ Thuật Gợi Hình Điện Ảnh (Cinematic Imagery) — 6 điểm:**
+-    *   Khả năng "vẽ hình trong tâm tưởng" thính giả (*The Mind's Eye*). Ngôn từ mang tính điêu khắc, có màu sắc, ánh sáng, chất liệu và trọng lượng vật lý của hiện trường (khối khuôn dập triệu đô, cánh tay robot hàn, container dầm mưa nắng cảng biển, chiếc cối xay công nghiệp khổng lồ).
+-    *   Tránh hoàn toàn các khái niệm trừu tượng suông sẻ không có mỏ neo hình ảnh.
++*   **5.1. Cụ Thể Bằng Dữ Kiện, Không Tả Cảnh (Concreteness Without Scenery) — 6 điểm:**
++    *   Khái niệm trừu tượng được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật được nhắc tên), không bằng tả cảnh.
++    *   Cấm tả cảnh thời tiết, không khí, ánh sáng, cảm giác vật lý và mọi chi tiết minh họa không có nguồn (luật gốc: `.agents/skills/chapter_writer/SKILL.md` mục "Writing for the Ear" điểm 7).
+ *   **5.2. Nhạc Tính & Tiếng Vang Ngôn Ngữ (Acoustic Cadence & Prosody) — 5 điểm:**
+     *   Tận dụng thanh điệu tiếng Việt (Bằng - Trắc) để tạo nên một bản giao hưởng âm thanh:
+         *   Khi kịch tính: Chuỗi câu ngắn, đanh thép, nhiều thanh trắc như tiếng gõ búa đập.
+@@ -126,7 +125,7 @@
+     *   Đọc lên trôi chảy, giàu nhịp điệu nói, không vấp váp, không trúc trắc.
+ *   **5.3. Độ Dồn Nén Triết Lý & Câu Vàng (The Golden Line & Poetic Compression) — 5 điểm:**
+     *   Tác phẩm phải có những "câu vàng" nén tối đa chân lý vào số lượng từ tối thiểu (*Maximum Truth into Minimum Words*), tạo nên tiếng vang tư tưởng khiến người nghe phải dừng lại vài giây để suy ngẫm. Câu vàng phải mang dữ kiện hoặc hệ quả mới; câu chốt chỉ nhắc lại ý vừa nói hoặc câu vàng gượng ép bị trừ điểm (`00_core/anti_ai_isms.md` §3b).
+-    *   Tạo được sức căng tương phản điện ảnh (*Chiaroscuro Tension*) giữa ánh sáng thành công rực rỡ và bóng tối rủi ro sâu thẳm.
++    *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ hay tả cảnh.
+ *   **5.4. Kỷ Luật Kỹ Thuật Tai Nghe (Acoustic Constraints) — 4 điểm:**
+     *   **100% câu thoại phải tuyệt đối dưới 150 ký tự** (20–25 từ), cấu trúc hoàn chỉnh chủ-vị, không bẻ câu què cụt.
+     *   Cấm tuyệt đối dấu gạch ngang dài (`—`). Khử sạch 100% từ cấm AI (`anti_ai_isms.md`).
+@@ -151,5 +150,5 @@
+ |:---:|:---:|---|
+ | **95 – 100** | 🌟 **KIỆT TÁC (MASTERPIECE)** | Đạt độ hoàn mỹ tuyệt đối về tư duy, cơ chế, nhịp điệu và chất nghệ thuật. Sẵn sàng sản xuất và có giá trị lưu trữ tri thức nhiều năm. |
+ | **88 – 94** | 💎 **XUẤT SẮC (EXCELLENT)** | Đầy đủ chiều sâu và hấp dẫn, chỉ cần trau chuốt nhẹ nhịp câu ở một vài đoạn. |
+-| **80 – 87** | ⚠️ **TRUNG BÌNH KHÁ (ACCEPTABLE)** | Cơ bản đạt số liệu nhưng nhịp điệu còn khô khan hoặc thiếu chất gợi hình. Bắt buộc tối ưu hóa trước khi duyệt. |
++| **80 – 87** | ⚠️ **TRUNG BÌNH KHÁ (ACCEPTABLE)** | Cơ bản đạt số liệu nhưng nhịp điệu còn khô khan hoặc khái niệm chưa được neo bằng dữ kiện cụ thể. Bắt buộc tối ưu hóa trước khi duyệt. |
+ | **Dưới 80** | ❌ **KHÔNG ĐẠT (REJECTED)** | Vi phạm lỗi tư duy, đứt gãy mạch chuyện hoặc nhồi nhét dữ liệu thô. Bắt buộc đại tu dàn ý hoặc viết lại. |

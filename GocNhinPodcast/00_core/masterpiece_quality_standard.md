@@ -14,7 +14,7 @@ Mục tiêu tối thượng là đảm bảo mọi kịch bản xuất bản đ�
 1. Độc lập, khách quan, điềm tĩnh và giàu chiều sâu trí tuệ.
 2. Tuyệt đối chính xác về bản chất cơ chế kinh tế, pháp lý và kỹ thuật thực nghiệm.
 3. Cuốn hút, kịch tính, giữ chân thính giả bằng khoa học kinh tế học chú ý.
-4. Mang đậm **Chất Nghệ Thuật Điện Ảnh (Cinematic Artistry)**, gợi hình thị giác và giàu nhạc tính ngôn ngữ.
+4. Giàu nhạc tính ngôn ngữ nói; sức nặng đến từ dữ kiện cụ thể, không từ tả cảnh (user chốt 02/10/2026, WO-00 Q6).
 
 ---
 
@@ -38,7 +38,6 @@ Bộ quy chuẩn này được kiến tạo dựa trên 5 trụ cột học thuy
 5. **Mỹ Học Điện Ảnh, Hùng Biện Thính Giác & Ngôn Ngữ Học (Cinematic Aesthetics & Orality):**
    * *Walter J. Ong — "Orality and Literacy":* Tâm lý học của ngôn ngữ nói (*Writing for the Ear*).
    * *NPR Sound Reporting Guidelines (Jonathan Kern):* Nhịp thở tự nhiên, câu chủ động, kiến trúc âm thanh của lời thoại.
-   * *Nghệ thuật Tương phản Điện ảnh (Chiaroscuro Storytelling):* Đặt các thái cực sáng - tối cạnh nhau để tạo sức căng nhận thức.
 
 ---
 
@@ -116,9 +115,9 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
 ### TRỤ CỘT 5: THẨM MỸ ĐIỆN ẢNH, NHẠC TÍNH & HÙNG BIỆN THÍNH GIÁC (20 ĐIỂM)
 > *Sở cứ: Aristotle (Lexis & Melos), Walter J. Ong (Orality and Literacy), NPR Sound Reporting Handbook.*
 
-*   **5.1. Nghệ Thuật Gợi Hình Điện Ảnh (Cinematic Imagery) — 6 điểm:**
-    *   Khả năng "vẽ hình trong tâm tưởng" thính giả (*The Mind's Eye*). Ngôn từ mang tính điêu khắc, có màu sắc, ánh sáng, chất liệu và trọng lượng vật lý của hiện trường (khối khuôn dập triệu đô, cánh tay robot hàn, container dầm mưa nắng cảng biển, chiếc cối xay công nghiệp khổng lồ).
-    *   Tránh hoàn toàn các khái niệm trừu tượng suông sẻ không có mỏ neo hình ảnh.
+*   **5.1. Cụ Thể Bằng Dữ Kiện, Không Tả Cảnh (Concreteness Without Scenery) — 6 điểm:**
+    *   Khái niệm trừu tượng được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật được nhắc tên), không bằng tả cảnh.
+    *   Cấm tả cảnh thời tiết, không khí, ánh sáng, cảm giác vật lý và mọi chi tiết minh họa không có nguồn (luật gốc: `.agents/skills/chapter_writer/SKILL.md` mục "Writing for the Ear" điểm 7).
 *   **5.2. Nhạc Tính & Tiếng Vang Ngôn Ngữ (Acoustic Cadence & Prosody) — 5 điểm:**
     *   Tận dụng thanh điệu tiếng Việt (Bằng - Trắc) để tạo nên một bản giao hưởng âm thanh:
         *   Khi kịch tính: Chuỗi câu ngắn, đanh thép, nhiều thanh trắc như tiếng gõ búa đập.
@@ -126,7 +125,7 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
     *   Đọc lên trôi chảy, giàu nhịp điệu nói, không vấp váp, không trúc trắc.
 *   **5.3. Độ Dồn Nén Triết Lý & Câu Vàng (The Golden Line & Poetic Compression) — 5 điểm:**
     *   Tác phẩm phải có những "câu vàng" nén tối đa chân lý vào số lượng từ tối thiểu (*Maximum Truth into Minimum Words*), tạo nên tiếng vang tư tưởng khiến người nghe phải dừng lại vài giây để suy ngẫm. Câu vàng phải mang dữ kiện hoặc hệ quả mới; câu chốt chỉ nhắc lại ý vừa nói hoặc câu vàng gượng ép bị trừ điểm (`00_core/anti_ai_isms.md` §3b).
-    *   Tạo được sức căng tương phản điện ảnh (*Chiaroscuro Tension*) giữa ánh sáng thành công rực rỡ và bóng tối rủi ro sâu thẳm.
+    *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ hay tả cảnh.
 *   **5.4. Kỷ Luật Kỹ Thuật Tai Nghe (Acoustic Constraints) — 4 điểm:**
     *   **100% câu thoại phải tuyệt đối dưới 150 ký tự** (20–25 từ), cấu trúc hoàn chỉnh chủ-vị, không bẻ câu què cụt.
     *   Cấm tuyệt đối dấu gạch ngang dài (`—`). Khử sạch 100% từ cấm AI (`anti_ai_isms.md`).
@@ -151,5 +150,5 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
 |:---:|:---:|---|
 | **95 – 100** | 🌟 **KIỆT TÁC (MASTERPIECE)** | Đạt độ hoàn mỹ tuyệt đối về tư duy, cơ chế, nhịp điệu và chất nghệ thuật. Sẵn sàng sản xuất và có giá trị lưu trữ tri thức nhiều năm. |
 | **88 – 94** | 💎 **XUẤT SẮC (EXCELLENT)** | Đầy đủ chiều sâu và hấp dẫn, chỉ cần trau chuốt nhẹ nhịp câu ở một vài đoạn. |
-| **80 – 87** | ⚠️ **TRUNG BÌNH KHÁ (ACCEPTABLE)** | Cơ bản đạt số liệu nhưng nhịp điệu còn khô khan hoặc thiếu chất gợi hình. Bắt buộc tối ưu hóa trước khi duyệt. |
+| **80 – 87** | ⚠️ **TRUNG BÌNH KHÁ (ACCEPTABLE)** | Cơ bản đạt số liệu nhưng nhịp điệu còn khô khan hoặc khái niệm chưa được neo bằng dữ kiện cụ thể. Bắt buộc tối ưu hóa trước khi duyệt. |
 | **Dưới 80** | ❌ **KHÔNG ĐẠT (REJECTED)** | Vi phạm lỗi tư duy, đứt gãy mạch chuyện hoặc nhồi nhét dữ liệu thô. Bắt buộc đại tu dàn ý hoặc viết lại. |

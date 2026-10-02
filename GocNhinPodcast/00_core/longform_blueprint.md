@@ -142,12 +142,12 @@ Mục tiêu:
 - **Loại B:** Phân tích bước nhảy chuyển dịch chiến lược (Scale & Strategic Synthesis) — cách doanh nghiệp/hệ thống tái cấu trúc bàn cờ, tối ưu hóa quy mô và tìm kiếm điểm cân bằng mới. Tuyệt đối CẤM đưa ra "lời khuyên khởi nghiệp 3 bước" vào đề tài công nghiệp nặng.
 - **Loại C:** Đúc kết hệ quả dài hạn (Implication), bài học lịch sử phản chiếu (Historical Mirror) và kịch bản tương lai cho Việt Nam/khu vực.
 
-#### Chương Kết Bài ($CH[N]$) — Grand Payoff & High Energy CTA
-Mục tiêu:
-- Đóng toàn bộ Open Loops đã gieo từ Hook.
-- Chốt lại insight cốt lõi sắc sảo nhất toàn bài — để lại một lăng kính nhận thức có sức bám dài hạn (Mental Model).
-- Giữ năng lượng cao đến giây cuối cùng, kết bằng câu mạnh nhất, không dùng "Tóm lại...", "Cuối cùng...".
-- CTA ngắn gọn, tự nhiên, điều hướng người xem sang video phân tích liên quan tiếp theo trên kênh.
+#### Chương Kết Bài ($CH[N]$) — Grand Payoff
+Luật gốc: `00_core/stance_and_judgment.md` §1 và §8 (chế độ kết A/B), `.agents/skills/chapter_writer/SKILL.md` mục "Chương kết". Tóm tắt:
+- Trả lời các open loop phụ đã gieo; câu hỏi lớn kết theo chế độ đã chọn (A: nói thẳng lập trường một lần kèm điều kiện có thể sai; B: trao khung §1b rồi đặt câu hỏi mở nhắm đúng biến số quyết định).
+- Để lại một lăng kính nhận thức có sức bám dài hạn; câu cuối làm người xem nhìn lại câu mở đầu theo cách khác.
+- Kết bằng câu mạnh nhất, không "Tóm lại...", "Cuối cùng...", không tóm tắt lại video.
+- Không CTA ở chương kết: CTA duy nhất nằm cuối Chương 2 (`.agents/AGENTS.md` mục 4).
 
 ---
 
@@ -263,21 +263,21 @@ Sau một đoạn phân tích nặng (tối đa 2-3 phút), BẮT BUỘC có:
 Kết không phải để hô khẩu hiệu.
 Kết là nơi gom lại toàn bộ video thành một lens nhìn vấn đề.
 
-Một kết tốt nên có:
-- 1–2 câu tóm insight cốt lõi,
-- action framework rõ,
+Một kết tốt nên có (luật gốc: `stance_and_judgment.md` §1, §8):
+- lập trường (chế độ A) hoặc khung tự nhận định (chế độ B), nói một lần,
+- Loại A: có thể kèm khung nhận thức giúp người xem tự định vị; Loại B/C: hệ quả và bài học chiến lược, không lời khuyên hành động,
 - một câu chốt có lực nhưng không gồng,
-- CTA dẫn sang video tiếp theo,
+- không tóm tắt lại video, không CTA (CTA duy nhất ở cuối Chương 2).
 
 KHÔNG hạ năng lượng ở phần kết. Kết bằng câu mạnh nhất, không phải câu yếu nhất.
 
 ## 11. One-theme per chapter
 Mỗi chương nên phục vụ một vai trò phân tích chính.
 Nếu một chương vừa cố giải thích cơ chế, vừa muốn kể case, vừa muốn action plan, nó sẽ rối.
-Mỗi chương tối đa ~2.5 phút narration.
+Độ dài mỗi chương theo ngân sách [Floor – Target – Ceiling] của `07_outline.md`, trần tuyệt đối 1.050 từ (≈ 4,7 phút); vượt trần thì tách chương (`.agents/workflows/build_outline.md` Trạm 5).
 
 ## 12. Viết cho tai, không viết cho mắt
-- Câu ngắn: 8-15 từ cho câu phân tích, 3-8 từ cho câu chốt.
+- Giới hạn cứng: mỗi câu dưới 150 ký tự (`.agents/skills/chapter_writer/SKILL.md` mục "Writing for the Ear"). Gợi ý nhịp (không bắt buộc): câu phân tích khoảng 8–15 từ, câu chốt 3–8 từ, trộn độ dài để tránh đơn điệu.
 - Không dùng thuật ngữ hàn lâm nếu không có phép loại suy đời thường kèm theo NGAY LẬP TỨC.
 - Cấm: "Developmental State", "Meritocratic Bureaucracy", "Institutional Checks" — trừ khi NGAY SAU ĐÓ có câu: "Nói đơn giản là..."
 
@@ -293,8 +293,8 @@ Một outline tốt phải đạt TẤT CẢ các tiêu chí sau:
 - [ ] Tổng thời lượng và ngân sách từ đạt chuẩn theo Cấp độ đã quy hoạch trong Brief (Cấp 1 đến Cấp 4)?
 - [ ] Không có đoạn "chỉ lý thuyết/framework" liên tiếp > 3 phút mà không có data, ví dụ hoặc logic liên hệ hỗ trợ?
 - [ ] Mỗi chapter có bridge tạo chuyển động logic?
-- [ ] Action hoặc Implication framework cụ thể, không bị hòa tan?
-- [ ] Phần kết có năng lượng cao + CTA dẫn video tiếp?
+- [ ] Chương kết đúng chế độ A/B đã chọn (`stance_and_judgment.md` §1), không bị hòa tan?
+- [ ] Phần kết có năng lượng cao, không tóm tắt, không CTA?
 
 ### Nếu outline không đạt ≥ 8/10 tiêu chí → phải sửa trước khi viết chapter.
 

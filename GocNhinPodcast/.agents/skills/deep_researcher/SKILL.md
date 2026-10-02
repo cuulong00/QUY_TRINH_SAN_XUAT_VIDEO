@@ -3,7 +3,7 @@ name: deep-researcher
 description: "Deep research protocol specialist (Direct RPC NotebookLM Engine). MUST BE USED when building research maps, verifying claims, or gathering evidence for episode briefs. Ensures deep research mode, minimum source thresholds, and cross-verification."
 ---
 
-> 📚 Kho tri thức dùng chung: làm theo mục "Kho tri thức dùng chung" trong `.agents/rules/orchestration-protocol.md` (Pha 1 hỏi kho, Pha 1b `kbaudit`, Pha 2 chỉ nghiên cứu GAP, sau Pha 2 ghi ngược vào kho).
+> 📚 Kho tri thức dùng chung: làm theo mục "Kho tri thức dùng chung" trong `.agents/rules/orchestration-protocol.md` (Pha 1 hỏi kho, Pha 1b `kbaudit`, Pha 2 chỉ nghiên cứu GAP, sau Pha 2 ghi ngược vào kho). Cách đọc kho: `.agents/skills/kb_reader/SKILL.md` (trước khi viết prompt nghiên cứu, kiểm lại bằng `kbq grep`/`facts <mã> <nhóm>` rằng kho thật sự chưa trả lời được).
 
 # Deep Researcher — Nhà Nghiên Cứu Chuyên Sâu (Góc Nhìn Podcast)
 

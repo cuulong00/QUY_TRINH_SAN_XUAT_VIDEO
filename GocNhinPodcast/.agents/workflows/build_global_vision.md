@@ -18,6 +18,7 @@ Trước khi thực thi BẤT KỲ bước nào, agent PHẢI đọc lần lư�
 2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_policy_analyst.md`
 3. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_critical_auditor.md`
 4. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/strategy_council/SKILL.md`
+5. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/kb_reader/SKILL.md` (cách đọc kho khi nhận đề tài)
 
 NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc nạp ngữ cảnh chuyên gia.
 
@@ -65,7 +66,7 @@ TRƯỚC KHI tạo tệp, Agent BẮT BUỘC in hộp log ra màn hình chat:
 ```
 
 ### Bước 2b: Bản Đồ Nền Từ Kho → Giả Thuyết Cạnh Tranh → Ma Trận (form tư duy, phần B–C–D)
-1. Hỏi kho theo thứ tự trong `.agents/rules/orchestration-protocol.md` mục "Kho tri thức dùng chung" (`kbq evidence` trước, rồi `entity`, `links`, `facts`), chạy `kbaudit`. Điền mục 1.4 của template: mọi dòng có mã OBS; ghi dấu thời điểm tra kho; điền N1 vào hiến chương.
+1. Đọc kho theo `.agents/skills/kb_reader/SKILL.md`: từ câu hỏi trung tâm ra thực thể (`find`), mở rộng theo cơ chế (`links 2`), rồi `evidence` → `between` → `facts <mã> <nhóm>` (không gọi trần), `grep` theo khái niệm; đầu ra dài ghi ra `research_raw/` và đọc theo đoạn; chủ động tìm dữ kiện ngược; chạy `kbaudit`. Điền mục 1.4 của template: mọi dòng có mã OBS; ghi dấu thời điểm tra kho; điền N1 vào hiến chương.
 2. Đặt **≥ 3 giả thuyết** cho câu hỏi trung tâm (luôn có giả thuyết "nhàm"); nếu chỉ thấy một lời giải thì ép thêm hai giả thuyết đối lập (N2). Mỗi giả thuyết ghi "dữ kiện nào sẽ bác tôi".
 3. Tạo `episodes/[slug]/00_bang_gia_thuyet.md` theo `02_templates/masterpiece_pipeline/00_bang_gia_thuyet_template.md`: hàng E từ các OBS ở bước 1, chấm `+ / − / 0` cho từng giả thuyết, liệt kê ô chưa phân biệt (mục 2b) để Pha 2 nhắm vào.
 3b. Tạo `episodes/[slug]/00_so_du_kien.md` theo `02_templates/masterpiece_pipeline/00_so_du_kien_template.md`: mọi OBS ở mục 1.4 thành hàng `M-xx` nhãn `verified_data` (kèm kỳ, phạm vi, mã E); phản biện và suy luận của hội đồng thành hàng `market_analysis` / `opinion_commentary`. Điền bảng "Chân đỡ của giả thuyết dẫn đầu".

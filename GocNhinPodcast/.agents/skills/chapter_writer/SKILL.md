@@ -58,7 +58,7 @@ description: "Chapter drafting specialist. MUST BE USED when writing or revising
 
 ## ⛔ Prerequisites Gate
 TRƯỚC KHI viết bất kỳ chapter nào, xác nhận TẤT CẢ trong `episodes/[slug]/`:
-- `00_hien_chuong.md` — đề bài khóa, từ khóa đã loại, N1–N5; `00_bang_gia_thuyet.md` — giả thuyết còn đứng và mã E để trỏ thay cho chép câu
+- `00_hien_chuong.md` — đề bài khóa, từ khóa đã loại, N1–N5; `00_bang_gia_thuyet.md` — giả thuyết còn đứng và mã E để trỏ thay cho chép câu; khi cần dữ kiện ngoài sổ, tra kho theo `.agents/skills/kb_reader/SKILL.md` (không tra thì không viết)
 - `02_research_synthesis.md` — GRS đã có và đã nạp vào ngữ cảnh
 - `03_brief.md` — đã có và đã duyệt
 - `04_hook_pack.md` — đã có hook chính thức

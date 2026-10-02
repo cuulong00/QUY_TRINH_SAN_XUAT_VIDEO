@@ -246,6 +246,24 @@ Quy tắc: muốn kết luận nguyên nhân thuộc phía agent, trước hết
 
 ---
 
+---
+
+## Phân loại gốc rễ ba lớp (user yêu cầu 02/10 chiều) — dùng để tối ưu đúng chỗ
+
+| Lớp | Bản chất | Mã vấn đề | Cách xử lý đúng | Chỉ số đo |
+|---|---|---|---|---|
+| **A. Dữ liệu** (kho sai, thiếu, mâu thuẫn) | Lỗi nằm trong kb_v2, agent nào đọc cũng mắc | V01 (ngày 2030), V02, V27, V31 (nhiều bản lệch số không cờ), V03 (suy luận trong câu nạp), V04 (câu hỏng), V05 (vault chưa vào kho), V30 (quote không đỡ statement) | Cổng nạp + lớp sự kiện/cờ mâu thuẫn (P4: WO-17, 18). Sửa một lần, toàn kho | Số OBS vi phạm sau khi quét toàn kho → 0 |
+| **B. Quy trình, công cụ, DNA** (do chúng ta thiết kế) | Lỗi tái lập với mọi agent vì luật mâu thuẫn, công cụ cắt, thiếu sổ, thiếu cổng | V06, V07, V08, V09, V10, V11, V12/V22 (nhãn là chữ), V15 (chỉ đạo chỉ trong tin), V17, V18, V19, V20, V21, V25, V28, V29; R1–R8 | Sửa cơ chế một lần (WO-01…14 đã làm), đo bằng **không tái phát** ở lượt chạy mới | Tỷ lệ tái phát lớp B ở lượt v2 = 0 (Pha 1 v2: 0 lỗi lớp B) |
+| **C. Xác suất của LLM** (luôn có tần suất nền) | Bịa chi tiết "giống nguồn"; gán sai nguồn khi chép theo cụm; trôi khỏi chỉ dẫn trong ngữ cảnh dài; thiên kiến xác nhận; tự báo lạc quan | V13, V14, V16, V23, V24, V26; lượt v2 Pha 1: 1.900/3.500 gán vào 3 OBS không chứa, "590" không nguồn, "điểm hòa vốn" lọt dù hiến chương cấm, đọc mailbox cũ dù phiếu cấm | **Không** chữa bằng thêm luật (thêm chữ "BẮT BUỘC" không đổi xác suất, chỉ làm DNA phình — R8). Chữa bằng: (1) cổng máy ở mọi pha, rẻ và quyết định; (2) người chấm độc lập; (3) cấu trúc làm lỗi lộ ra: một mắt xích một mã OBS, trỏ mã thay chép câu; (4) giảm cơ hội sai: ô ngắn, ít số trên một dòng, không gom 3–4 OBS vào một ô; (5) chấp nhận tần suất nền và đo nó | KPI = **lỗi lớp C lọt qua cổng máy tới người chấm**, không phải lỗi lớp C xuất hiện. Mục tiêu: tiến về 0 lọt; tần suất xuất hiện chỉ cần không tăng |
+
+Bằng chứng từ lượt v2 (02/10): Pha 1 có 0 lỗi lớp B (các cơ chế mới chặn đúng), 1 lỗi lớp A (kỳ 2030 của OBS Dantaxi), 4 lỗi lớp C. Cả 4 lỗi lớp C đều thuộc dạng cổng máy bắt được nếu luật cổng đủ (3 trong 4 lọt vì cổng còn lỗ: từ khóa chưa tách, sổ chưa chịu kiểm, nhiều OBS một ô). Kết luận: việc tối ưu tiếp theo nằm ở **lớp A (kho) và độ phủ của cổng máy**, không nằm ở viết thêm luật cho agent.
+
+**V32 · v2 Pha 1 · C + QUY TRÌNH (nhiều OBS một ô làm mờ quy trách)**
+- Hiện tượng: M12/E12 gom 3 OBS cho một câu chứa 2 số không có trong OBS nào; M10 gom 4 OBS, số 590 không nguồn. Cổng OBS-LECH bỏ qua vì chỉ cần một OBS trong ô khớp một số.
+- Bản chất: lớp C (gán sai nguồn khi chép theo cụm) được quy trình cho phép vì template sổ dữ kiện cho nhiều OBS một hàng.
+- Hướng xử lý: luật cấu trúc "một hàng M một mã OBS" (hàng tổng hợp thì nhãn `market_analysis` và liệt kê các M thành phần); cổng máy cảnh báo ô có >2 OBS.
+- Trạng thái: cổng đã thêm cảnh báo (02/10); template sửa ở lượt sau.
+
 ## Cách rút bài học khi kết thúc lượt chạy thử
 1. Gom các vấn đề theo tầng và theo bản chất (không theo hiện tượng). Đếm số lần lặp và mức hại: làm sai luận điểm, hay chỉ tốn vòng sửa.
 2. Mỗi bản chất ra một thay đổi cơ chế: cổng nạp, lớp sự kiện, chỉ mục khái niệm, kbq phân trang, sổ dữ kiện tập, hiến chương tập, cổng đối chiếu nguyên văn. Đối chiếu chuẩn thế giới trước (memory follow-world-standards).

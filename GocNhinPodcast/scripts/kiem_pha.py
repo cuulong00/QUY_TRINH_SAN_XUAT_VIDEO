@@ -6,6 +6,7 @@ Mỗi lỗi một dòng: [MÃ] file:dòng — mô tả. Thoát 1 nếu có lỗi
 
 Kiểm (mã lỗi ↔ sổ vấn đề):
   OBS-THIEU      mã OBS không có trong kho, hoặc không còn `current`                      (V16)
+  OBS-GOM        >2 mã OBS trong một dòng có số: tách mỗi mắt xích một mã                   (V32)
   OBS-LECH       số trong câu dẫn không có trong statement của OBS được dẫn               (V24, V27)
   SO-KHONG-NGUON số có đơn vị mà dòng không có mã OBS / M / E / vault / DATA               (V16, V23)
   SOSANH-NHAT    so sánh nhất hoặc chi tiết minh họa (trang, dấu mộc…) không có nguồn       (V23)
@@ -79,6 +80,9 @@ class Kiem:
         for i, line in enumerate(L, 1):
             if line.startswith('<!--') or line.startswith('|---') or SKIP_LINE.search(line) and not OBS.search(line):
                 pass
+            # nhiều OBS trong một dòng làm mờ quy trách số → nguồn (V32)
+            if len(OBS.findall(line)) > 2 and NUM_UNIT.search(line):
+                self.e('OBS-GOM', path, i, f"{len(OBS.findall(line))} mã OBS trong một dòng có số: tách mỗi mắt xích một mã, hoặc ghi rõ số nào thuộc mã nào")
             # OBS tồn tại + khớp số
             for m in OBS.finditer(line):
                 oid = 'OBS-' + m.group(1)

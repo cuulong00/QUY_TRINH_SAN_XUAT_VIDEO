@@ -12,7 +12,7 @@ description: "High-speed NotebookLM Direct RPC Agent Skill (powered by notebookl
 ---
 
 ## ⚡ MÔI TRƯỜNG & BIẾN MÔI TRƯỜNG CỐ ĐỊNH (BẮT BUỘC)
-* **Thư mục Profile / Session:** `NOTEBOOKLM_HOME=/Users/pro16/Documents/VideoProject/GocNhinPodcast/.notebooklm_home`
+* **Thư mục Profile / Session:** dùng hồ sơ MẶC ĐỊNH `~/.notebooklm` (KHÔNG đặt `NOTEBOOKLM_HOME`). Hồ sơ cũ `.notebooklm_home` đã hết hạn đăng nhập từ 26/09/2026. Kiểm tra: `notebooklm auth check --test --json` phải có `token_fetch: true`.
 * **Đường dẫn CLI:** `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm`
 * **Python Executable:** `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/python`
 * ⚠️ **LƯU Ý QUAN TRỌNG VỀ SANDBOX (`BypassSandbox: true`):** Khi Agent gọi lệnh `run_command` để thực thi CLI `notebooklm` hoặc Python SDK, **BẮT BUỘC phải bật `BypassSandbox: true`** để cho phép kết nối mạng ra máy chủ Google, tránh bị proxy sandbox chặn trả về lỗi giả mạo `403 Forbidden`.
@@ -36,7 +36,7 @@ description: "High-speed NotebookLM Direct RPC Agent Skill (powered by notebookl
 
 * **Cú pháp Lệnh Deep Research & Auto-Import:**
   ```bash
-  NOTEBOOKLM_HOME=/Users/pro16/Documents/VideoProject/GocNhinPodcast/.notebooklm_home \
+  
   /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
   source add-research "<Structured Research Query>" \
   -n <notebook_id> \

@@ -144,7 +144,7 @@ class Kiem:
     def kiem_hc(self, hc, files):
         if not hc: return
         for f in files:
-            if not os.path.exists(f): continue
+            if not os.path.exists(f) or os.path.basename(f).startswith(('01b_', '01c_')): continue  # file do kbaudit sinh, không áp hiến chương
             t = open(f, encoding='utf-8').read()
             if hc['tieude'] and not hc['tieude'].startswith('[') and hc['tieude'].upper() not in t.upper():
                 self.e('HC-TIEUDE', f, 0, f"tiêu đề «{hc['tieude'][:50]}» không xuất hiện nguyên văn")

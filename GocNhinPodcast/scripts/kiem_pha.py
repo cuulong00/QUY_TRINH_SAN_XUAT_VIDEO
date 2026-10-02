@@ -135,7 +135,7 @@ class Kiem:
             return m.group(1).strip().strip('[]') if m else ''
         hc = {'tieude': grab('Tiêu đề chính'), 'cauhoi': grab('Câu hỏi trung tâm')}
         hc['tukhoa'] = [c.split('|')[1].strip().strip('[]') for c in re.findall(r'\n\|([^\n]+)', t.split('## 3.')[1].split('## 4.')[0])][1:] if '## 3.' in t else []
-        hc['tukhoa'] = [k for k in hc['tukhoa'] if k and not k.startswith('-') and 'ví dụ' not in k.lower()]
+        hc['tukhoa'] = [t.strip().strip('"') for k in hc['tukhoa'] if k and not k.startswith('-') and 'ví dụ' not in k.lower() for t in re.split(r',| làm | hay ', k) if len(t.strip()) > 2 and t.strip().lower() not in ('xương sống', 'khung đề')]
         hc['dongtien'] = 'dòng tiền' in (t.split('## 4.')[1].split('## 5.')[0].lower() if '## 4.' in t else '') and 'không bật' not in t.lower()
         m = re.search(r'N2 Số lời giải hợp lý \| ([^|]+)\|', t); hc['n2'] = (m.group(1).strip() if m else '')
         m = re.search(r'## 5\..*?\n- (A|B)\b', t, re.S); hc['n3'] = m.group(1) if m else ''

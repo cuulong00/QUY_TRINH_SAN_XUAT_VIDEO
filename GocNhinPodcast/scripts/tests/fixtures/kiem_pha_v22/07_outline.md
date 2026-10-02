@@ -1,0 +1,11 @@
+# OUTLINE thử — tái tạo lỗi đã bắt tay ở tập gsm-chau-au (V12/V22/V23/V24/V26/V27)
+- *Mức nền bán lẻ:* doanh số bán lẻ của VinFast trong 2 năm 2024–2025 chỉ đạt 28 xe (`OBS-24c32faa8ad121b1`).
+- *Bolt mua Viggo* sở hữu 330 xe điện, 500 tài xế (`OBS-ccd5e3ce88c8a006`).
+- Phán quyết dày 273 trang của Hội đồng Cạnh tranh; trang 243 in đậm dấu mộc.
+- Uber thâu tóm Dantaxi — hãng taxi lớn nhất Đan Mạch với mạng lưới khoảng 1.900 xe.
+- Bãi tập kết Amager với hàng trăm xe cắm sạc qua đêm bên bờ biển Baltic.
+- **Key Insight:** Punkt 1195 chính thức xác nhận GSM là hệ sinh thái khép kín cô độc trên thị trường mở.
+- **Cú chuyển nhân quả (Causal Exit):** doanh nghiệp đổ hàng ngàn tỷ đồng đầu tư tài sản nặng để phục vụ điều gì?
+- Mỗi ngày, lãi vay của tập đoàn là 113 tỷ đồng.
+- Dòng đúng để đối chứng: 549 xe gắn biển trên 3.000 giấy phép (`OBS-8ebaf7cf7becc800`, `OBS-67409faab079ab04`).
+- **Key Insight:** `[Suy luận phân tích của tập phim]` GSM là vòng khép kín (E12, H2).

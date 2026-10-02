@@ -14,6 +14,7 @@ Mục tiêu: session nào cũng tự biết phải làm gì, không cần user h
 2. Đọc dòng của episode trong `01_management/episode_registry.csv`, khối cuối của `episodes/[slug]/00_pipeline_operator_log.md`, và `episodes/[slug]/00_hien_chuong.md` (đề bài khóa, chỉ đạo user, hồ sơ đề tài). Chưa có hiến chương thì làm Pha 0 trước.
 3. Báo user một dòng: pha hiện tại, `gate_status`, pha hợp lệ kế tiếp, chuyên gia sẽ hóa thân.
 4. Chỉ làm đúng pha đó rồi dừng ở gate.
+5. **Cổng máy trước cổng người:** trước khi Claude chấm bất kỳ pha nào, chạy `KB_GRAPH=kb_v2 scripts/kiem_pha.py <slug> --pha <n>` (mã lỗi và ý nghĩa ở đầu file script). Lỗi `OBS-THIEU`, `OBS-LECH`, `SO-KHONG-NGUON`, `NHAN-ROI`, `HC-*`, `GT-BAC`, `SO-CHANDO` là lỗi dữ kiện: trả agent kèm nguyên văn dòng lỗi, không cần hỏi user. Agent báo "đã sửa" phải kèm đầu ra chạy lại cổng. Fixture tự kiểm cổng: `scripts/tests/fixtures/kiem_pha_v22/`.
 
 ## Kho tri thức dùng chung (bắt buộc, áp dụng từ 29/09/2026)
 Cập nhật kho thường xuyên theo thực thể (web): `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/kb_entity_update/SKILL.md`. Rà và sửa lỗi kho: `.agents/skills/kb_auditor/SKILL.md`. Nạp từ research vault của một tập (Pha 2b): `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/kb_ingest/SKILL.md`. Đề xuất chủ đề hằng ngày (bản thiết kế): `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/daily_scout/SKILL.md`.

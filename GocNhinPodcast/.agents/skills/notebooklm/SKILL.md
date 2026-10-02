@@ -3,6 +3,8 @@ name: notebooklm
 description: Complete API for Google NotebookLM - full programmatic access including features not in the web UI. Create notebooks, add sources, generate all artifact types, download in multiple formats. Activates on explicit /notebooklm or intent like "create a podcast about X"
 ---
 <!-- notebooklm-py v0.8.1 -->
+> **GocNhinPodcast:** đây là tài liệu gốc của thư viện notebooklm-py (tham khảo API). Nạp nguồn và trích xuất cho tập phim / đợt kho đi qua engine dùng chung `scripts/kg_registry/kb_research_run.py` (xem `.agents/skills/notebooklm_librarian/SKILL.md`); không gọi CLI từng lệnh cho việc đó.
+
 # NotebookLM Automation
 
 Complete programmatic access to Google NotebookLM—including capabilities not exposed in the web UI. Create notebooks, add sources (URLs, YouTube, PDFs, audio, video, images), chat with content, generate all artifact types, and download results in multiple formats.

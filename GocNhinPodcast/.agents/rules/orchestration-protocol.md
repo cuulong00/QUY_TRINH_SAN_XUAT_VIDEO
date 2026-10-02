@@ -7,7 +7,7 @@ Mục tiêu: session nào cũng tự biết phải làm gì, không cần user h
 > Kỹ năng điều phối đầy đủ (phiếu giao, thứ tự chấm, trả lỗi, sống chết agent, sổ vấn đề): `.agents/skills/orchestrator/SKILL.md`. File này giữ chuỗi pha và phân công.
 
 - **Claude (tổng điều phối, "bộ não"):** chọn chủ đề, lập kế hoạch nghiên cứu, phán quyết dữ liệu (taxonomy, dữ liệu bất đồng), kiến trúc biện chứng, viết chapter, merge, chấm QA, cùng user quyết gate.
-- **NotebookLM (qua CLI, Claude gọi trực tiếp):** nạp nguồn deep research và đọc nguồn thô, trích xuất ra `research_vault/`.
+- **NotebookLM (qua engine Direct RPC `scripts/kg_registry/kb_research_run.py`):** nạp nguồn deep research và trích xuất ra `research_vault/` theo file kế hoạch; ai chạy (Antigravity hay Claude) cũng dùng cùng engine.
 - **Antigravity (tay chân web):** tra cứu và xác minh diện rộng trên web, quét đối thủ YouTube, nén file thô thành bảng.
 - **User:** duyệt gate, cung cấp số liệu YouTube Studio, chạy prompt Antigravity khi `agy` chạy nền chưa có quyền dùng công cụ.
 

@@ -210,6 +210,16 @@ Quy tắc: muốn kết luận nguyên nhân thuộc phía agent, trước hết
 - Hướng xử lý: như V02 (lớp sự kiện/chỉ tiêu gom nhiều nguồn, lệch số sinh cờ). Trước mắt: `kbq` in cả hai và đánh dấu "LỆCH" khi cùng thực thể, kỳ, thuộc tính mà khác giá trị.
 - Trạng thái: mở. Ví dụ DNA dùng bản BCTC hợp nhất (29.160 tỷ) và ghi mã.
 
+**V33 · v2 Pha 2 · QUY TRÌNH/DNA (lớp B) — agent chạy NotebookLM bằng CLI từng lệnh thay vì engine Direct RPC**
+- Hiện tượng: agent v2 tạo notebook và chạy `notebooklm source add-research … --prompt-file`, `research wait --import-all` từng lệnh (step 447–475); lệnh chờ bị timeout (step 474). User chỉ ra: quy trình đúng là bản API RPC.
+- Bản chất (đã xác minh, lớp B, không phải lỗi agent):
+  - (1) DNA tự mâu thuẫn: tiêu đề `AGENTS.md`, mô tả `notebooklm_librarian`, `deep_researcher` gọi là "Direct RPC", nhưng phần thân dạy nguyên khối lệnh CLI (`create`, `source add-research` ×5, `ask --prompt-file`); `deep_research.md` dạy CLI hoặc `mcp_notebooklm-mcp_batch_to_vault` (không tồn tại); `orchestration-protocol` ghi "NotebookLM qua CLI". Agent làm đúng theo chữ của DNA.
+  - (2) Engine chuẩn đã có từ 30/09 (`scripts/kg_registry/kb_research_run.py`: NotebookLMClient, file kế hoạch, `run_state.json` chạy tiếp được, vault đúng khuôn nạp kho) nhưng **không file DNA nào trỏ tới**. Thêm vào đó có 5 script một-lần cho từng tập cũ (`kg_direct_rpc_research.py`, `run_modular_deep_research.py`, `ingest_deep_research.py`, `batch_extract_vault.py`, `notebooklm_deep_research_pipeline.py`) với notebook id cứng và hồ sơ `.notebooklm_home` đã hết hạn — bẫy cho agent nào tìm "script RPC".
+  - (3) Điều phối: phiếu Pha 2 của Claude không kiểm skill người thực thi có khớp đường chạy chuẩn không (memory delegate-outcomes-not-commands đã dặn: đọc skill người thực thi để soát mâu thuẫn trước khi giao).
+- Hướng xử lý (đã làm 02/10): một đường chạy chuẩn, ghi ở một chỗ và mọi file trỏ về: `AGENTS.md` mục NotebookLM thêm điều 0; `deep_researcher` Bước 1–2, `notebooklm_librarian` Quy tắc 1/3 và bảng lệnh, `deep_research.md` Bước 4, `orchestration-protocol`, `skills/notebooklm` (tài liệu thư viện) đều trỏ engine; CLI chỉ còn cho kiểm tra lẻ. Agent v2 đã được chuyển sang engine giữa chừng (seq 13), giữ notebook và nguồn đã nhập.
+- Việc còn mở: chuyển 5 script một-lần sang `scripts/_archive/` (chờ user), và engine cần nhận nguồn đã nhập từ ngoài (hiện phải bỏ nguồn đó khỏi file kế hoạch).
+- Bài học hệ thống: khi có một công cụ chuẩn mới, việc chưa xong cho tới khi DNA trỏ về nó và các đường cũ bị gỡ; "công cụ có trong repo" không có nghĩa là "agent biết dùng".
+
 ## D. ĐIỀU PHỐI (Claude)
 
 **V17 · 02/10 · ĐIỀU PHỐI**

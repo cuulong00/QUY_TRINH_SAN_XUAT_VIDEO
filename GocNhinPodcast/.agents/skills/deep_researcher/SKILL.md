@@ -77,63 +77,11 @@ description: "Deep research protocol specialist (Direct RPC NotebookLM Engine). 
 
 ---
 
-### Bước 1: DEEP INGESTION (Nạp Nguồn Sâu Vào Master Notebook)
+### Bước 1–2: NẠP NGUỒN SÂU VÀ TRÍCH XUẤT RA VAULT
 
-1. **Tạo Master Notebook:**
-   ```bash
-   
-   /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
-   create "[Tên Episode]" --json
-   ```
-   *Lưu ID vào `episodes/[slug]/.notebook_id`.*
+Nạp nguồn và trích xuất của Pha 2 chạy qua **engine Direct RPC dùng chung** `scripts/kg_registry/kb_research_run.py` (gọi `NotebookLMClient` trực tiếp). Cách dùng nằm ở docstring đầu file: viết một file kế hoạch `01_management/kg_research/kb_plans/<slug>.json` (nguồn = prompt nạp, mỗi nguồn ghi mã ô/GAP; trích xuất = câu hỏi, mỗi câu một file vault), rồi chạy engine. Vì sao không gọi CLI từng lệnh: engine dùng lại `.notebook_id`, ghi `run_state.json` nên bị ngắt thì chạy lại là làm tiếp, chờ nghiên cứu sâu không bị cắt lượt, và vault ra đúng khuôn (bảng số trích dẫn) để nạp kho sau này. CLI `notebooklm` chỉ dùng cho kiểm tra lẻ: `auth check`, `list`, `source list`. Chạy cần `BypassSandbox: true`.
 
-2. **Nạp nguồn Sơ cấp (Primary Sources) nếu có:**
-   ```bash
-   notebooklm source add ./path/to/law_report.pdf -n <notebook_id>
-   ```
-
-3. **Kích hoạt CHUỖI DEEP RESEARCH PHÂN HẠCH (Tuần tự 5 Prompts vào CÙNG 1 Master Notebook):**
-   ```bash
-   # Chạy lần lượt từng Prompt chuyên sâu (BẮT BUỘC --mode deep --import-all, BypassSandbox: true)
-   
-   /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
-   source add-research "<Prompt 1: Entity Anchors & Anatomy - Fact-sheet, Lịch sử, Báo cáo chính thức>" \
-   -n <notebook_id> --mode deep --import-all --timeout 1800 --json
-
-   
-   /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
-   source add-research "<Prompt 2: Arena, Circuit & Flows - Không gian vận động, Chuỗi giá trị, Mạch truyền dẫn>" \
-   -n <notebook_id> --mode deep --import-all --timeout 1800 --json
-
-   
-   /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
-   source add-research "<Prompt 3: Incentives & Survival - Động lực sinh tồn, Áp lực vốn, Toan tính các bên>" \
-   -n <notebook_id> --mode deep --import-all --timeout 1800 --json
-
-   
-   /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
-   source add-research "<Prompt 4: Governing Laws & Paradoxes - Quy luật khách quan, Cơ chế kinh tế/pháp lý, Điểm nghẽn>" \
-   -n <notebook_id> --mode deep --import-all --timeout 1800 --json
-
-   # BẮT BUỘC CHẠY PROMPT 5 (The Dissenting, Skeptical & Failure Case Vector):
-   
-   /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
-   source add-research "<Prompt 5: Contested Evidence & Dissent - Báo cáo kiểm toán đối lập, Phản biện gay gắt, Case studies sụp đổ>" \
-   -n <notebook_id> --mode deep --import-all --timeout 1800 --json
-   ```
-   *Chờ mỗi đợt quét hoàn tất để Master Notebook tích lũy được 40–80 nguồn tài liệu đa chiều và cực kỳ chuyên sâu mà không bị sót mảng dữ liệu nào, đặc biệt là mảng dữ liệu phản biện đối kháng.*
-
----
-
-### Bước 2: BATCH EXTRACTION TO VAULT (Trích xuất Dữ liệu Chuyên sâu)
-
-1. **Khởi tạo thư mục Vault:** `episodes/[slug]/research_vault/`
-2. **Chạy Trích xuất Song song/Tuần tự:** Thực thi vòng lặp qua toàn bộ câu hỏi trích xuất trong kế hoạch bằng Python script hoặc lệnh `notebooklm ask`:
-   ```bash
-   notebooklm ask --prompt-file <query_file.txt> -n <notebook_id> --save-as-note -t "<Tiêu đề Note>" --json
-   ```
-3. Lưu từng kết quả trích xuất vào `episodes/[slug]/research_vault/XX_ten_chu_de.md` (bao gồm đầy đủ nội dung phân tích, số liệu định lượng, bảng Markdown và danh sách nguồn trích dẫn Citations).
-4. **Kiểm tra chéo & Bóc tách bất đồng (Cross-verification & Contested Evidence):** So sánh sự mâu thuẫn số liệu giữa báo cáo chính thức và báo cáo kiểm toán độc lập.
+Tư duy khi viết file kế hoạch: mỗi nguồn nạp nhắm một ô chưa phân biệt của ma trận hoặc một GAP mà kho thật sự chưa có (đã tra bằng `kb_reader`); nguồn phản biện luôn có; mỗi câu trích xuất hỏi đúng dữ kiện sẽ phân biệt hai giả thuyết, không hỏi "hãy tóm tắt". Nguồn sơ cấp sẵn có (PDF, URL văn bản gốc) thì thêm vào notebook trước khi chạy để trích xuất đọc thẳng nguyên văn.
 
 ---
 

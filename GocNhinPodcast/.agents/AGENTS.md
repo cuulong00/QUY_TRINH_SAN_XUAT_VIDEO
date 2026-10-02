@@ -115,6 +115,7 @@
 
 
 > ⚠️ **BẮT BUỘC TUÂN THỦ 100% KHI CHẠY LỆNH NOTEBOOKLM:**
+> 0. **Đường chạy chuẩn:** nạp nguồn và trích xuất của mọi tập và mọi đợt kho đi qua engine Direct RPC dùng chung `scripts/kg_registry/kb_research_run.py` (file kế hoạch → chạy tiếp được khi dở → vault đúng khuôn nạp kho). Không gọi `notebooklm source add-research` / `ask` từng lệnh, không viết script riêng cho từng tập. CLI chỉ để kiểm tra lẻ (auth, list, source list).
 > 1. **BẮT BUỘC DÙNG `BypassSandbox: true`:**
 >    - Khi Agent gọi tool `run_command` để thực thi CLI `notebooklm` hoặc các script Python kết nối máy chủ Google NotebookLM, **BẮT BUỘC PHẢI ĐẶT `BypassSandbox: true`**.
 >    - Tuyệt đối KHÔNG chạy lệnh NotebookLM với `BypassSandbox: false` (chế độ mặc định bị Sandbox chặn toàn bộ internet ra ngoài).
@@ -135,7 +136,7 @@
 > 5. **QUY TẮC PHÂN HẠCH TRUY VẤN NẠP NGUỒN (MODULAR MULTI-QUERY INGESTION - BẮT BUỘC):**
 >    - ⛔ **CẤM TUYỆT ĐỐI nhồi toàn bộ đề tài vào 1 query khổng lồ duy nhất:** Nhồi chung lý thuyết, case study quốc tế, số liệu trong nước và cải cách thể chế vào một prompt sẽ làm phân tán và loãng nguồn của Deep Crawler, gây cào nông hoặc bỏ sót mảng dữ liệu.
 >    - 🎯 **BẮT BUỘC tách thành 3 – 5 Prompts nạp nguồn chuyên sâu (Targeted Ingestion Prompts):** Mỗi prompt đào sâu vào MỘT trụ cột độc lập.
->    - Toàn bộ các queries này được nạp tuần tự vào **CÙNG 1 Master Notebook duy nhất** (`-n <notebook_id> --mode deep --import-all`), giúp tích lũy 40–80 nguồn dữ liệu chuyên sâu đa tầng, không bị sót mảng nào.
+>    - Toàn bộ các queries này được nạp tuần tự vào **CÙNG 1 Master Notebook duy nhất** (`-n <notebook_id> --mode deep --import-all`), giúp tích lũy 40–80 nguồn dữ liệu chuyên sâu đa tầng, không bị sót mảng nào. (Engine chạy các nguồn trong file kế hoạch theo thứ tự này.)
 
 ## 🌐 QUY ĐỊNH BẮT BUỘC: LẬP BỨC TRANH TOÀN CẢNH & BÀN CỜ HỆ THỐNG (MASTER SYSTEMIC TOPOGRAPHY & GLOBAL VISION — 4 TẦNG)
 

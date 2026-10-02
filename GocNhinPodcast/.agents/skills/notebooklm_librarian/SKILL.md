@@ -34,17 +34,7 @@ description: "High-speed NotebookLM Direct RPC Agent Skill (powered by notebookl
 > ⛔ **MANDATE: NGHIÊM CẤM DÙNG TÌM KIẾM NHANH/NÔNG (`--mode fast`) KHI LÀM DEEP RESEARCH CHO VIDEO.**
 > Quá trình nghiên cứu chuyên sâu bắt buộc phải dùng **`--mode deep`** để Google NotebookLM quét đa tầng qua hàng chục nguồn học thuật, báo cáo chính phủ, văn bản pháp lý, tổ chức thống kê quốc tế và bài báo phân tích chuyên sâu.
 
-* **Cú pháp Lệnh Deep Research & Auto-Import:**
-  ```bash
-  
-  /Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm \
-  source add-research "<Structured Research Query>" \
-  -n <notebook_id> \
-  --mode deep \
-  --import-all \
-  --timeout 1800 \
-  --json
-  ```
+* **Cách chạy:** Nạp nguồn và trích xuất của Pha 2 chạy qua **engine Direct RPC dùng chung** `scripts/kg_registry/kb_research_run.py` (gọi `NotebookLMClient` trực tiếp). Cách dùng nằm ở docstring đầu file: viết một file kế hoạch `01_management/kg_research/kb_plans/<slug>.json` (nguồn = prompt nạp, mỗi nguồn ghi mã ô/GAP; trích xuất = câu hỏi, mỗi câu một file vault), rồi chạy engine. Vì sao không gọi CLI từng lệnh: engine dùng lại `.notebook_id`, ghi `run_state.json` nên bị ngắt thì chạy lại là làm tiếp, chờ nghiên cứu sâu không bị cắt lượt, và vault ra đúng khuôn (bảng số trích dẫn) để nạp kho sau này. CLI `notebooklm` chỉ dùng cho kiểm tra lẻ: `auth check`, `list`, `source list`. Chạy cần `BypassSandbox: true`.
 * **Thời gian xử lý Deep Mode:** Chế độ `deep` thường kéo dài từ 2 đến 15 phút tùy độ phức tạp của đề tài. Nếu chạy nền, dùng cờ `--no-wait` và theo dõi qua `notebooklm research wait -n <notebook_id> --timeout 1800`.
 
 ---
@@ -60,7 +50,7 @@ description: "High-speed NotebookLM Direct RPC Agent Skill (powered by notebookl
 1. **Khởi tạo thư mục Vault:** `episodes/[slug]/research_vault/`
 2. **Bộ câu hỏi trích xuất (8 – 12 câu):** Bám sát Khung tuyến kịch bản (Trajectory Outline). Mỗi câu hỏi bắt buộc chèn lệnh ép Freshness:
    > *"Ưu tiên dữ liệu mới nhất (2024–2026). Bỏ qua dữ liệu cũ trước 2023 trừ khi so sánh lịch sử. Trình bày dưới dạng báo cáo chuyên nghiệp: H2/H3, bảng biểu số liệu, trích dẫn nguồn cụ thể. Không lấy văn bản rác."*
-3. **Thực thi trích xuất:** Gọi script Python hoặc vòng lặp CLI `notebooklm ask --prompt-file ... -n <notebook_id> --json` để lưu trực tiếp từng câu trả lời thành các file `research_vault/XX_topic.md`.
+3. **Thực thi trích xuất:** qua mục `extractions` của file kế hoạch, engine `scripts/kg_registry/kb_research_run.py` ghi từng câu trả lời thành `research_vault/<file>` kèm bảng số trích dẫn; không viết script trích xuất riêng cho từng tập..
 
 ---
 
@@ -76,14 +66,12 @@ notebooklm source add https://baochinhphu.vn/... -n <notebook_id>
 
 ---
 
-## 🛠️ DANH MỤC LỆNH CLI PHỔ BIẾN CHO AGENT
+## 🛠️ LỆNH CLI CHỈ ĐỂ KIỂM TRA LẺ (nạp nguồn và trích xuất dùng engine `scripts/kg_registry/kb_research_run.py`)
 
-| Hành động | Lệnh CLI (`NOTEBOOKLM_HOME` bắt buộc) |
+| Hành động | Lệnh CLI (hồ sơ mặc định `~/.notebooklm`, KHÔNG đặt `NOTEBOOKLM_HOME`) |
 | :--- | :--- |
 | **Kiểm tra Auth** | `notebooklm auth check --test` |
 | **Tạo Master Notebook** | `notebooklm create "Tên Episode" --json` |
 | **Liệt kê Notebooks** | `notebooklm list --json` |
-| **Deep Research (Sâu)** | `notebooklm source add-research "<Query>" -n <id> --mode deep --import-all --timeout 1800` |
 | **Kiểm tra Danh sách Nguồn** | `notebooklm source list -n <id> --json` |
-| **Truy vấn RAG & Lưu Note** | `notebooklm ask --prompt-file <file.txt> -n <id> --save-as-note -t "<Tiêu đề>" --json` |
 | **Sinh Artifacts (Báo cáo)** | `notebooklm generate report -n <id> --language vi` |

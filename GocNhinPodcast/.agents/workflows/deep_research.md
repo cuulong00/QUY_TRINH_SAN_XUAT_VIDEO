@@ -15,7 +15,7 @@
    - Nếu user chỉ định episode → dùng episode đó
    - Nếu không → hỏi user episode nào
 2. **ĐỌC file `episodes/[slug]/.notebook_url`** để lấy Master Notebook URL
-   - ⛔ **CẤM:** Tuyệt đối KHÔNG ĐƯỢC dùng tool `create_notebook` để tạo notebook mới mỗi khi research. Nếu đã có file `.notebook_url`, BẮT BUỘC dùng URL trong đó cho mọi tool (deep_research, ask_question).
+   - Một tập một notebook: engine `scripts/kg_registry/kb_research_run.py` tự tạo notebook khi chưa có và ghi `.notebook_id`; có rồi thì dùng lại.
    - Nếu file chưa tồn tại → HỎI user cung cấp URL notebook để lưu vào file. KHÔNG tự động tạo notebook mới.
 3. Hiển thị banner kích hoạt chuyên gia:
 
@@ -48,8 +48,8 @@ Tác nhân phải thiết lập và xuất bản tệp `episodes/[slug]/02_resea
 *🛑 CHỐNG CHẠY HỜI HỢT:* Chỉ khi kế hoạch nghiên cứu và trích xuất dữ liệu trên đã được hiển thị đầy đủ trên màn hình chat và lưu lại trên đĩa, tác nhân mới được phép thực thi các bước gọi công cụ tiếp theo.
 
 ### Bước 4: Thực thi Tương tác NotebookLM (Nạp nguồn & Trích xuất)
-1. **DEEP RESEARCH EXECUTION (Nạp nguồn phân hạch):** Chạy tuần tự các lệnh `notebooklm source add-research` (hoặc công cụ Deep Research) cho từng Prompt chuyên sâu đã thiết kế ở Bước 3, nạp dồn toàn bộ nguồn vào **CÙNG 1 Master Notebook duy nhất** (`-n <notebook_id> --mode deep --import-all`).
-2. **EXTRACTION & VERIFICATION (Trích xuất):** Chạy `mcp_notebooklm-mcp_batch_to_vault` hoặc script trích xuất để rút dữ liệu theo danh sách câu hỏi đã thiết kế, lưu vào `episodes/[slug]/research_vault/` và tiến hành đối chiếu số liệu.
+1. **NẠP NGUỒN VÀ TRÍCH XUẤT (một engine):** Nạp nguồn và trích xuất của Pha 2 chạy qua **engine Direct RPC dùng chung** `scripts/kg_registry/kb_research_run.py` (gọi `NotebookLMClient` trực tiếp). Cách dùng nằm ở docstring đầu file: viết một file kế hoạch `01_management/kg_research/kb_plans/<slug>.json` (nguồn = prompt nạp, mỗi nguồn ghi mã ô/GAP; trích xuất = câu hỏi, mỗi câu một file vault), rồi chạy engine. Vì sao không gọi CLI từng lệnh: engine dùng lại `.notebook_id`, ghi `run_state.json` nên bị ngắt thì chạy lại là làm tiếp, chờ nghiên cứu sâu không bị cắt lượt, và vault ra đúng khuôn (bảng số trích dẫn) để nạp kho sau này. CLI `notebooklm` chỉ dùng cho kiểm tra lẻ: `auth check`, `list`, `source list`. Chạy cần `BypassSandbox: true`.
+2. **ĐỐI CHIẾU:** tự mở lại nguồn gốc các câu then chốt trong vault (URL mở được, câu nguyên văn khớp, số đúng kỳ và phạm vi).
 3. **CẬP NHẬT MA TRẬN VÀ SỔ DỮ KIỆN (phần E của form tư duy):** mỗi dữ kiện mới từ vault thêm một hàng `M-xx` vào `00_so_du_kien.md` (nhãn `verified_data` chỉ khi có câu nguyên văn + URL + ngày; không thì `market_analysis`). mỗi dữ kiện mới từ vault thành một hàng E trong `00_bang_gia_thuyet.md` (nguồn `vault/R0X` + câu nguyên văn + kỳ, phạm vi), chấm `+ / − / 0`; giả thuyết có bằng chứng ngược thì thu hẹp hoặc loại, ghi dòng lịch sử. Không được xóa giả thuyết mà không có hàng E ngược.
 4. **SUPPLEMENT & SYNTHESIZE:** Tạo tệp `02_research_map.md` (Bản đồ tọa độ) và `02_research_synthesis.md` (Bản tóm tắt cơ chế vĩ mô). Synthesis kết bằng trạng thái ma trận: giả thuyết nào còn đứng, ô nào vẫn chưa phân biệt, bằng chứng BÁC nào còn đứng.
 

@@ -3,6 +3,7 @@
 Viết cho: user duyệt; Opus thực thi theo từng phiếu (WO). Fable kiểm từng phiếu trước khi trình user.
 Thay thế: `KE_HOACH_NANG_CAP_QUY_TRINH_VIET_20261002.md` (bản Opus). Bản Opus giữ lại làm phụ lục chứng cứ, không dùng để giao việc.
 Trạng thái: toàn bộ việc viết tập đang tạm dừng (user chốt 02/10). Agent GSM đã được báo dừng (tin seq 32).
+**Điều chỉnh 02/10 (chiều):** user bỏ luân phiên model, Fable làm cả hai vai với cổng máy. User giới hạn phạm vi: chỉ sửa DNA/skill liên quan nội dung chính của bài; **WO-13 (khung hình I2V) và WO-05b (cắt gọn ≥30% toàn bộ) hoãn** tới khi user yêu cầu; P4 (kho, kbq) tách thành việc riêng, không nằm trong đợt sửa DNA này. Đã xong: WO-00…12, 14 (xem `.agents/CHANGELOG.md`).
 
 ---
 

@@ -51,8 +51,8 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
    - Execution Timestamp: [YYYY-MM-DD HH:MM]
    -->
    ```
-   - Tạo 7 góc tiếp cận → 10 câu mở → chọn top 3 → chốt 1 câu mở chính + 5 câu móc giữa
-   - Chấm điểm từng câu mở: tò mò / gắn nỗi đau / tín hiệu chiều sâu / giữ chân / đúng kênh
+   - Viết 3 biến thể Master Hook theo 3 Engine của `hook_engine/SKILL.md` (Chặng 2), mỗi biến thể đủ cấu trúc 30 giây đầu (Chặng 2b: xác nhận cú bấm 0–3 giây, đối nghịch có mã M, điều được mất + câu hỏi trung tâm nguyên văn hiến chương). Chốt 1 Master Hook, 1 câu re-hook ~3:30, và các câu móc chuyển chương theo đúng số chương của `07_outline.md`.
+   - Chấm từng biến thể bằng bảng ở `04_hook_pack_template.md` mục 3 và ba phép thử (tắt tiếng, đặt cạnh thumbnail, tắt sau hook).
 
    **4 kiểm tra bắt buộc cho mỗi câu mở trước khi chọn:**
 
@@ -69,6 +69,11 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
 
    ✅ Kiểm tra KHỚP LỜI HỨA ĐÓNG GÓI:
    [ ] Câu mở nói lại đúng "Lời hứa đóng gói" ở 01_global_vision_synthesis.md, không hứa thêm điều outline không giao
+
+   ✅ Kiểm tra CẤU TRÚC 30 GIÂY ĐẦU (hook_engine Chặng 2b):
+   [ ] Câu 1–2 cùng chủ thể và điểm căng với tiêu đề/thumbnail trong hiến chương; không chào hỏi, không niên biểu
+   [ ] Có đối nghịch bằng dữ kiện có mã M; có điều được mất đúng loại A/B/C; kết bằng câu hỏi trung tâm nguyên văn + lộ trình ngắn
+   [ ] Qua phép thử tắt tiếng và đặt cạnh thumbnail
 
    ✅ Kiểm tra TRÁNH AI-ISM:
    [ ] Câu mở không dùng các cụm bị cấm trong 00_core/anti_ai_isms.md

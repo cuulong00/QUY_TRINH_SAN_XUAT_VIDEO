@@ -19,6 +19,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 > 2. Không cào bằng dung lượng; tuân thủ nghiêm ngặt Ma trận Sóng nhịp điệu tương ứng với Cấp độ thời lượng của tập (Cấp 1: 8–15m; Cấp 2: 16–25m; Cấp 3: 26–35m; Cấp 4: 36–45+m).
 > 3. **ORIENTATION FRAME MANDATE:** Chương 1 BẮT BUỘC phải dành 45–60 giây để trao Tấm Bản Đồ Bàn Cờ cho khán giả ngay sau Hook; toàn bộ kịch bản tuân thủ nhịp thở Zoom In $\leftrightarrow$ Zoom Out chống mê cung nhận thức.
 > 4. Tuyệt đối CẤM cắt xén số liệu hoặc cơ chế thực chứng để ép ngắn dưới Floor; nếu chương vượt trần 1.050 từ bắt buộc kích hoạt Quy tắc Phân hạch (Narrative Fission).
+> 5. **Trỏ mã, không chép câu:** Key Insight, Causal Exit, Mỏ neo, Data Checklist trỏ mã `M-xx` (`00_so_du_kien.md`), `E-xx`/`H-x` (`00_bang_gia_thuyet.md`); không khẳng định vượt nhãn của mã được trỏ. Chi tiết không có mã và không ghi "minh họa" là lỗi (`scripts/kiem_pha.py --pha 4`).
 
 ---
 
@@ -60,9 +61,9 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
     3. Phác thảo lộ trình 3 trạm dừng chân sắp tới trong video.
 - **Động lực kết nối (Causal Momentum):** **Gieo hạt nhân** — Biến cố khởi nguồn làm đảo lộn trạng thái cân bằng ban đầu.
 - **Mục đích phân tích (Purpose):** Đặt ra câu hỏi lớn tối thượng, bóc tách vết nứt đầu tiên giữa giả định lý thuyết và hiện thực thực tế.
-- **Mỏ neo vật lý (Physical Anchor):** [Vật thể xuất hiện làm điểm tựa trực quan: hợp đồng, tờ trình, biểu đồ dữ liệu, biên bản hiện trường...].
+- **Mỏ neo vật lý (Physical Anchor):** [vật thể có thật, có mã M hoặc OBS; không có nguồn thì ghi "minh họa" và không nêu số, địa danh, so sánh nhất].
 - **Cú chuyển nhân quả (Causal Exit):** Kết thúc bằng một câu hỏi bế tắc hoặc áp lực sinh tồn $\rightarrow$ Buộc các chủ thể phải hành động đối phó, dẫn sang chương tiếp theo bằng "THEREFORE".
-- **Key Insight:** Insight đắt giá nhất của chương mở đầu.
+- **Key Insight (trỏ mã):** `M-xx` / `E-xx` / `H-x` — một dòng theo đúng nhãn của mã; không viết lại thành khẳng định mới.
 - **Thách thức Phản đề Thép (Steelman Challenge):** [Thách thức từ một lăng kính đã chọn trong hiến chương tập đối với giả định khởi nguồn].
 - **Đánh đổi Bắt buộc (Admitted Trade-offs):** [Cái giá ban đầu hoặc rủi ro hiển hiện mà các chủ thể phải chấp nhận].
 - **Hàng rào Chống Cắt gọt (Anti-Amputation Gate):** BẮT BUỘC giải mã đủ quota [N] Data Anchors và [M] cơ chế; CẤM cắt xén cơ chế để ép ngắn dưới Floor; CẤM viết vượt trần Ceiling.
@@ -78,9 +79,9 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - **Vai trò Tự sự (Narrative Role):** Dồn nén & Nâng cấp xung đột — Triển khai giải pháp tình thế, vấp phải rào cản thể chế / chi phí / dòng tiền, mâu thuẫn leo thang.
 - **Động lực kết nối (Causal Momentum):** **THEREFORE** hoặc **BUT** — Nhân quả nối tiếp chặt chẽ từ chương trước.
 - **Mục đích phân tích (Purpose):** Phân tích cơ chế của các rào cản và tại sao nỗ lực giải quyết ở tầng bề mặt lại tự kích hoạt mâu thuẫn ở tầng sâu hơn.
-- **Mỏ neo vật lý (Physical Anchor):** [Tài liệu pháp lý, dòng tiền, bảng cân đối, thiết bị, hiện trường...].
+- **Mỏ neo vật lý (Physical Anchor):** [vật thể có thật, có mã M hoặc OBS; không có nguồn thì ghi "minh họa" và không nêu số, địa danh, so sánh nhất].
 - **Cú chuyển nhân quả (Causal Exit):** Đẩy thế kẹt lên đỉnh điểm, chuẩn bị cho cú bẻ lái phản biện ở CH[D].
-- **Key Insight:** Insight bản chất về chi phí ẩn, rào cản thể chế hoặc xung đột lợi ích.
+- **Key Insight (trỏ mã):** `M-xx` / `E-xx` / `H-x` — một dòng theo đúng nhãn của mã; không viết lại thành khẳng định mới.
 - **Thách thức Phản đề Thép (Steelman Challenge):** [Chỉ định 1 lăng kính đối kháng trong số các lăng kính đã chọn ở hiến chương tập].
 - **Đánh đổi Bắt buộc (Admitted Trade-offs):** [Sự đánh đổi cấu trúc hoặc chi phí ngầm phát sinh khi theo đuổi giải pháp].
 - **Hàng rào Chống Cắt gọt (Anti-Amputation Gate):** BẮT BUỘC giải mã đủ quota Data Anchors và cơ chế.
@@ -99,10 +100,11 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
   1. Đưa ra bằng chứng đối kháng mạnh nhất (Contested Data) từ Báo cáo kiểm toán, chuyên gia phản biện hoặc case study thất bại.
   2. Bóc trần: Ai đang âm thầm gánh chịu chi phí và rủi ro? Chi phí cơ hội của quốc gia/xã hội là gì?
   3. Chỉ ra các hệ lụy phụ (Unintended Consequences) trong 3–5 năm tới.
-- **Mỏ neo vật lý (Physical Anchor):** [Văn bản, quyết định, số liệu đối kháng có nguồn; không bịa chi tiết].
+- **Mỏ neo vật lý (Physical Anchor):** [vật thể có thật, có mã M hoặc OBS; không có nguồn thì ghi "minh họa" và không nêu số, địa danh, so sánh nhất].
 - **Cú chuyển nhân quả (Causal Exit):** Dồn nén xung đột đến mức nghẹt thở: Khi cả hai phía đều có lý lẽ sắt đá riêng, hệ thống rơi vào bế tắc toàn diện $\rightarrow$ Dẫn thẳng vào CH[K] Đỉnh cao trào bản chất.
-- **Key Insight:** Cái giá phải trả và rủi ro tử huyệt không thể che giấu của mô hình.
+- **Key Insight (trỏ mã):** `M-xx` / `E-xx` / `H-x` — một dòng theo đúng nhãn của mã; không viết lại thành khẳng định mới.
 - **Thách thức Phản đề Thép (Steelman Challenge):** [Tấn công đồng thời bằng mọi lăng kính đã chọn trong hiến chương tập].
+- **Bằng chứng BÁC và luận điểm đổi gì (bắt buộc, V26):** [mỗi mã E ngược với giả thuyết dẫn đầu trong `00_bang_gia_thuyet.md`: đặt ở đoạn nào của chương này, luận điểm chính giữ / thu hẹp / đổi thế nào, lý do]
 - **Đánh đổi Bắt buộc (Admitted Trade-offs):** [Bản danh sách toàn bộ các đánh đổi cấu trúc mà mô hình không thể né tránh].
 - **⛔ Data Checklist (Bắt buộc kiểm tra 100%):**
   - [ ] `CONTESTED-DATA-01`: [Con số phản biện thực chứng + File nguồn vault]
@@ -116,9 +118,9 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - **Vai trò Tự sự (Narrative Role):** **ĐỈNH CAO TRÀO BẢN CHẤT (CLIMAX)** — Phơi bày mâu thuẫn cấu trúc sâu xa nhất, nơi cả Chính đề lẫn Phản đề đều bế tắc trước quy luật khách quan.
 - **Động lực kết nối (Causal Momentum):** **THEREFORE** — Vì toàn bộ các giải pháp bề mặt đã bị vô hiệu hóa bởi phản đề ở CH[D], tử huyệt lớn nhất của hệ thống lộ diện hoàn toàn.
 - **Mục đích phân tích (Purpose):** **GIẢI MÃ NÚT THẮT BẢN CHẤT** — Tại sao hệ thống/mô hình lại rơi vào bế tắc trước quy luật khách quan? (Quy luật chi phí, bẫy thanh khoản, mâu thuẫn thể chế, giới hạn công nghệ...).
-- **Mỏ neo vật lý (Physical Anchor):** [Số liệu kiểm toán quyết định, bằng chứng thực địa then chốt, văn bản bước ngoặt...].
+- **Mỏ neo vật lý (Physical Anchor):** [vật thể có thật, có mã M hoặc OBS; không có nguồn thì ghi "minh họa" và không nêu số, địa danh, so sánh nhất].
 - **Cú chuyển nhân quả (Causal Exit):** Thừa nhận sự bế tắc toàn diện của lối mòn cũ $\rightarrow$ Buộc phải mở ra sự chuyển hóa mô hình, dẫn sang Hợp đề bằng "VÌ VẬY (THEREFORE)".
-- **Key Insight:** Insight bản chất đắt giá nhất của toàn bộ video.
+- **Key Insight (trỏ mã):** `M-xx` / `E-xx` / `H-x` — một dòng theo đúng nhãn của mã; không viết lại thành khẳng định mới.
 - **Hàng rào Chống Cắt gọt (Anti-Amputation Gate):** BẮT BUỘC giải mã đủ quota Data Anchors. Nếu Target vượt trần $1.050\text{ từ}$, **BẮT BUỘC KÍCH HOẠT PHÂN HẠCH (Narrative Fission)** thành 2 chương độc lập (CH[K]a & CH[K]b).
 - **⛔ Data Checklist (Bắt buộc kiểm tra 100%):**
   - [ ] `DATA-LÕI-1`: [Con số thực chứng + File nguồn trong vault]
@@ -132,9 +134,9 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - **Vai trò Tự sự (Narrative Role):** **MÀN 3: HỢP ĐỀ (SYNTHESIS)** — Điểm cân bằng mới: Giải quyết sự va đập giữa Chính đề và Phản đề; phân tích bước đi chuyển dịch, đối sánh với tiền lệ lịch sử hoặc case study quốc tế kinh điển.
 - **Động lực kết nối (Causal Momentum):** **THEREFORE** — Từ nút thắt bản chất, làm rõ cách hệ thống tái cấu trúc hoặc chịu đựng hệ quả để tìm điểm cân bằng mới.
 - **Mục đích phân tích (Purpose):** Khái quát hóa quy luật: Những kẻ đi trước đã giải quyết bài toán này ra sao? Đâu là sự đánh đổi bắt buộc để sống sót?
-- **Mỏ neo vật lý (Physical Anchor):** [Dữ liệu lịch sử, case study đối sánh, báo cáo chuyển dịch...].
+- **Mỏ neo vật lý (Physical Anchor):** [vật thể có thật, có mã M hoặc OBS; không có nguồn thì ghi "minh họa" và không nêu số, địa danh, so sánh nhất].
 - **Cú chuyển nhân quả (Causal Exit):** Khẳng định quy luật khách quan, nhưng mở ra câu hỏi trăn trở ở tương lai $\rightarrow$ Dẫn sang chương kết bằng "BUT".
-- **Key Insight:** Insight đối sánh sâu sắc: Bài học về sự thích ứng và cái giá của sự chuyển đổi.
+- **Key Insight (trỏ mã):** `M-xx` / `E-xx` / `H-x` — một dòng theo đúng nhãn của mã; không viết lại thành khẳng định mới.
 - **Hàng rào Chống Cắt gọt (Anti-Amputation Gate):** BẮT BUỘC giải mã đủ quota Data Anchors.
 - **⛔ Data Checklist (Bắt buộc kiểm tra 100%):**
   - [ ] `DATA-ZZ`: [Con số thực chứng + File nguồn trong vault]
@@ -151,9 +153,9 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
   * Nhìn lại toàn bộ hành trình dưới lăng kính đa chiều và quản trị rủi ro.
   * **KẾT LUẬN CÓ ĐIỀU KIỆN:** Tuyệt đối cấm kết luận đen-trắng tuyệt đối (người tốt - kẻ xấu, thành công rực rỡ - thất bại thảm hại). Ghi rõ chế độ kết (`00_core/stance_and_judgment.md` §1): **[A — lập trường chính + điều kiện có thể sai]** hoặc **[B — các cách đọc cạnh tranh + biến số quyết định + điều đã chắc chắn + câu hỏi mở]**. Mọi kết luận đều phải đi kèm điều kiện ràng buộc về thể chế, nguồn vốn và bối cảnh quốc tế.
   * CẤM moralizing (thuyết giáo đạo đức), CẤM lời khuyên đầu tư sáo mòn.
-- **Mỏ neo vật lý (Physical Anchor):** [Hình ảnh mang tính biểu tượng tương lai, thông số viễn cảnh dài hạn...].
+- **Mỏ neo vật lý (Physical Anchor):** [vật thể có thật, có mã M hoặc OBS; không có nguồn thì ghi "minh họa" và không nêu số, địa danh, so sánh nhất].
 - **Cú chuyển nhân quả (Causal Exit):** Đặt ra một câu hỏi mở nhức nhối để khán giả mang theo sau khi tắt video.
-- **Key Insight:** Tầm nhìn dài hạn và nguyên lý sinh tồn cốt lõi của đề tài.
+- **Key Insight (trỏ mã):** `M-xx` / `E-xx` / `H-x` — một dòng theo đúng nhãn của mã; không viết lại thành khẳng định mới.
 - **Hàng rào Chống Cắt gọt (Anti-Amputation Gate):** BẮT BUỘC giải mã đủ quota Data Anchors. CẤM tóm tắt lại kịch bản.
 - **⛔ Data Checklist (Bắt buộc kiểm tra 100%):**
   - [ ] `DATA-CUỐI-1`: [Con số thực chứng + File nguồn trong vault]

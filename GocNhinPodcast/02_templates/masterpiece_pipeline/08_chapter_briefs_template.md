@@ -13,14 +13,14 @@
 | # | Trường Thông Tin | Nội Dung Cụ Thể | Trách Nhiệm Cung Cấp |
 |---|---|---|---|
 | **1** | `purpose` | Vai trò của chương trong việc giải mã Biến cố trung tâm. | Macro Strategist |
-| **2** | `chapter_thesis` | Luận điểm cốt lõi — Chương này ta chứng minh điều gì? Tại sao? | Macro Strategist |
+| **2** | `chapter_thesis` | Luận điểm cốt lõi — Chương này ta chứng minh điều gì? Tại sao? Trỏ giả thuyết `H-x` và các mã `M-xx` chịu lực; nhãn theo sổ dữ kiện. | Macro Strategist |
 | **3** | `editorial_perspective` | Góc nhìn sắc bén của GocNhinPodcast (khác biệt với tin tức thông thường). | Macro Strategist |
 | **4** | `data_verified` | Danh mục mã `M-xx` từ `00_so_du_kien.md` bắt buộc xuất hiện trong chương (kèm nhãn); trỏ mã, không chép câu. | Macro Strategist |
 | **5** | `steelman_counter_thesis` | **[TRI-ADVERSARIAL RED TEAM — BẮT BUỘC]** Luận điểm phản biện mạnh nhất từ một lăng kính đã chọn trong hiến chương tập (danh mục: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện") + Con số/bằng chứng đối kháng từ Contested Ledger của Pha 2. Tuyệt đối CẤM phản biện yếu ớt bù nhìn rơm (Strawman). | Critical Auditor |
 | **6** | `personal_stakes_or_relevance` | Relevance Anchor — Liên hệ với bài toán chi phí/quản trị thực tế. | Macro Strategist |
-| **7** | `key_insight` | Insight bản chất đắt giá nhất chỉ chuyên gia chuyên sâu mới thấy. | Macro Strategist |
+| **7** | `key_insight` | Insight bản chất đắt giá nhất — một dòng, trỏ mã `M-xx`/`E-xx`, viết đúng nhãn của mã (suy luận thì nói là suy luận). | Macro Strategist |
 | **8** | `chapter_signature` | Nhịp điệu câu (ngắn/dài), mật độ dữ liệu, điểm giảm tốc để suy ngẫm. | Narrative Director |
-| **9** | `personal_or_relevance_angle` | Góc chiếu thực chứng đời thường (vật thể mỏ neo, tiếng nói hiện trường). | Macro Strategist |
+| **9** | `personal_or_relevance_angle` | Góc chiếu thực chứng đời thường (vật thể mỏ neo có mã M/OBS, tiếng nói hiện trường có nguồn; không bịa chi tiết cảnh). | Macro Strategist |
 | **10** | `research_vault_insights` | **Bảng POINTER chứng cứ gốc:** Tối thiểu 5 dòng chỉ rõ `Mã Footnote ID + Tên file vault + Trích dẫn nguyên văn ngắn (≤ 15 từ) + Con số thực chứng`. Chapter Writer sẽ dùng tool đọc nguyên bản gốc. Tuyệt đối CẤM dùng số dòng giả mạo. | Industrial Economist / Policy Analyst |
 | **11** | `admitted_trade_offs` | **[ĐÁNH ĐỔI BẮT BUỘC & HỆ LỤY PHỤ]** Thừa nhận sòng phẳng: Ai đang hưởng lợi vs Ai đang âm thầm gánh chịu chi phí/rủi ro trong chương này? Chi phí cơ hội là gì? Đâu là sự đánh đổi cấu trúc mà mô hình/chính sách bắt buộc phải trả giá? Hệ lụy phụ (Unintended Consequences) trong 3–5 năm tới là gì? | Critical Auditor / Industrial Economist |
 | **12** | `causal_momentum` | **[KIỆT TÁC]** Động lực nhân quả nối với chương trước: Cú chuyển "THEREFORE" hay "BUT"? Tuyệt đối CẤM dùng "And Then". | Narrative Director |
@@ -34,11 +34,11 @@
 ### BẢNG POINTER TỌA ĐỘ CHỨNG CỨ MẪU (CHO TRƯỜNG 10):
 
 ```markdown
-| # | Data Point Cụ Thể | Con Số Thực Chứng | Tên File Trong `research_vault/` | Mã Footnote ID | Trích Dẫn Gốc (≤ 15 từ) | Trạng Thái |
-|---|---|---|---|---|---|---|
-| 1 | [Data Point Cốt Lõi 1] | [Con số/Tỷ lệ % thực chứng 1] | `[ten_file_nguon_1.md]` | `[Footnote 1]` | "[trích dẫn nguyên văn ≤ 15 từ]" | BẮT BUỘC |
-| 2 | [Data Point Cốt Lõi 2] | [Con số/Tỷ lệ % thực chứng 2] | `[ten_file_nguon_2.md]` | `[Footnote 2]` | "[trích dẫn nguyên văn ≤ 15 từ]" | BẮT BUỘC |
-| 3 | [Data Point Cốt Lõi 3] | [Con số/Tỷ lệ % thực chứng 3] | `[ten_file_nguon_3.md]` | `[Footnote 3]` | "[trích dẫn nguyên văn ≤ 15 từ]" | BẮT BUỘC |
-| 4 | [Data Point Cốt Lõi 4] | [Con số/Tỷ lệ % thực chứng 4] | `[ten_file_nguon_4.md]` | `[Footnote 4]` | "[trích dẫn nguyên văn ≤ 15 từ]" | BẮT BUỘC |
-| 5 | [Data Point Cốt Lõi 5] | [Con số/Tỷ lệ % thực chứng 5] | `[ten_file_nguon_5.md]` | `[Footnote 5]` | "[trích dẫn nguyên văn ≤ 15 từ]" | BẮT BUỘC |
+| # | Mã M (`00_so_du_kien.md`) | Data Point Cụ Thể | Con Số Thực Chứng | `OBS-…` hoặc Tên File Trong `research_vault/` | Mã Footnote ID | Trích Dẫn Gốc (≤ 15 từ) | Trạng Thái |
+|---|---|---|---|---|---|---|---|
+| 1 | `M-xx` | [Data Point] | [Con số] | `OBS-…` / `[file.md]` | `[Footnote]` | \"[trích dẫn nguyên văn ≤ 15 từ]\" | BẮT BUỘC |
+| 2 | `M-xx` | [Data Point] | [Con số] | `OBS-…` / `[file.md]` | `[Footnote]` | \"[trích dẫn nguyên văn ≤ 15 từ]\" | BẮT BUỘC |
+| 3 | `M-xx` | [Data Point] | [Con số] | `OBS-…` / `[file.md]` | `[Footnote]` | \"[trích dẫn nguyên văn ≤ 15 từ]\" | BẮT BUỘC |
+| 4 | `M-xx` | [Data Point] | [Con số] | `OBS-…` / `[file.md]` | `[Footnote]` | \"[trích dẫn nguyên văn ≤ 15 từ]\" | BẮT BUỘC |
+| 5 | `M-xx` | [Data Point] | [Con số] | `OBS-…` / `[file.md]` | `[Footnote]` | \"[trích dẫn nguyên văn ≤ 15 từ]\" | BẮT BUỘC |
 ```

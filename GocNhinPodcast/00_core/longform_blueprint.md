@@ -98,6 +98,8 @@ Mục tiêu:
 > - **Chủ đề Loại B & C (curiosity-driven / thể chế / toàn cầu):** Open Loop neo vào SỰ TÒ MÒ TRÍ TUỆ / NGHỊCH LÝ CỐT LÕI. VD: "Dòng tiền đó thực chất đang chảy về đâu?" / "Vì sao một cường quốc công nghiệp lại rơi vào bẫy chi phí này?"
 > - **NGHIÊM CẤM** ép nỗi sợ mất tiền vào chủ đề curiosity-driven. Nếu bản chất chủ đề là tò mò trí tuệ thì Open Loop phải dẫn bằng tò mò và nghịch lý, KHÔNG PHẢI bằng sợ hãi.
 
+Cấu trúc 30 giây đầu và phần còn lại của Ch.1 (xác nhận cú bấm 0–3 giây, đối nghịch, điều được mất, câu hỏi trung tâm; mở-đóng-mở; re-hook 3:30): `.agents/skills/hook_engine/SKILL.md` Chặng 2b (bản gốc duy nhất).
+
 Nội dung nên có:
 - một dữ liệu hoặc contrast đủ mạnh,
 - một câu interpretive sentence cho thấy đây không phải bản tin thời sự hời hợt,

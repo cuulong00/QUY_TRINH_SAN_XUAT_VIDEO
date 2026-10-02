@@ -52,6 +52,18 @@ May đo đủ 3 biến thể độc bản, mỗi biến thể đại diện cho 
 *   **Biến thể 3 (The Sovereignty Equation — Phương Trình Tự Chủ Quốc Gia):**  
     Nâng tầm câu chuyện từ những vụ làm ăn riêng lẻ lên bài toán tự cường dân tộc, bản nguyên sản xuất thực chất của một quốc gia 100 triệu dân $\rightarrow$ Đối chiếu ý chí chủ quan với giới hạn của hiện thực.
 
+### Chặng 2b: Cấu Trúc 30 Giây Đầu Và Chương 1 (chuẩn giữ chân, WO-12)
+Người xem mới bấm vào vẫn đang thẩm định; đường giữ chân tụt mạnh nhất ở 30 giây đầu (YouTube Studio đo đoạn này ở mục Intro). Hook phải làm ba việc trong 20–30 giây, theo thứ tự:
+1. **Xác nhận cú bấm (0–3 giây):** câu đầu cùng chủ thể, cùng điểm căng với tiêu đề và thumbnail đã chốt trong `00_hien_chuong.md`. Không chào hỏi, không giới thiệu kênh, không mở bằng niên biểu ("Năm 2015…").
+2. **Đối nghịch nhìn thấy được:** điều người ta tưởng ≠ điều đang xảy ra, bằng một dữ kiện có mã M (không phóng đại, không nhãn phán xét).
+3. **Điều được mất + câu hỏi trung tâm:** ai chịu ảnh hưởng theo điểm tựa đúng loại A/B/C (`00_core/content_principles.md` §2); kết bằng câu hỏi trung tâm nguyên văn hiến chương và một lộ trình rất ngắn (video sẽ đi qua đâu), không lộ đáp án.
+Phần còn lại của Chương 1 (30 giây → ~3:30):
+- **Ngữ cảnh tối thiểu** (Orientation Frame 45–60 giây): chỉ những gì cần để hiểu bước kế.
+- **Mở, đóng, mở:** mở một câu hỏi nhỏ → trả lời nó (phần thưởng nhỏ) → mở câu kế. Không lồng câu hỏi trong câu hỏi ("muốn hiểu A phải biết B, trước B phải biết C"). Câu hỏi lớn của tập giữ mở tới cuối (Anti-Completion vẫn đúng: vòng nhỏ đóng, vòng lớn không).
+- **Báo trước phần thưởng kế tiếp** trước khi trả xong phần thưởng hiện tại; **re-hook quanh 3:30** hứa giá trị đúng loại đề tài.
+- Đổi nhịp (số liệu mới, câu hỏi phản biện, phép loại suy) mỗi 60–90 giây.
+Ba phép thử trước khi chốt Master Hook: (a) **tắt tiếng**: nhìn thumbnail + đọc 2 câu đầu, có đoán được video nói về gì không; (b) **đặt cạnh thumbnail**: cùng một câu chuyện không; (c) **tắt sau hook**: người xem tắt ngay sau hook có thấy "đủ hiểu" không — có thì hook hỏng.
+
 ### Chặng 3: Thẩm Định Thẩm Mỹ & Ký Duyệt Master Hook (Critical Aesthetic Audit)
 Trước khi lưu file `04_hook_pack.md`, tự kiểm định qua 4 chuẩn mực thẩm mỹ:
 1.  **Tính Động của Nhát Cắt Đầu Tiên:** Mở đầu bằng sự va chạm của hiện thực, tuyệt đối không mở đầu bằng sự khai báo niên biểu hay tóm tắt hành chính.

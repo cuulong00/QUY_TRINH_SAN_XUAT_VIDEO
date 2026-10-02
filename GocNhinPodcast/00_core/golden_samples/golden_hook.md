@@ -11,7 +11,7 @@
 Người xem phải thấy một **hiện tượng đang xảy ra** trước khi biết video nói về gì. Không mở bằng "Hôm nay chúng ta sẽ nói về..." hay "GDP là chủ đề..." — mở bằng thứ người xem đã cảm nhận ngoài đời (giá tăng, lãi vay thay đổi, tin tức mâu thuẫn).
 
 ### 2. Data hoặc insight thật trong 15 giây đầu
-15 giây đầu phải có ít nhất 1 trong 2: con số cụ thể có context, HOẶC một nhận định chuyên gia có lập trường. Nếu 15 giây đầu chỉ setup drama mà không có substance → viết lại.
+15 giây đầu phải có ít nhất 1 trong 2: con số cụ thể có context (mã M), HOẶC một câu diễn giải cho thấy cách đọc riêng mà chưa kết luận. Nếu 15 giây đầu chỉ setup drama mà không có substance → viết lại. Câu 1–2 phải khớp tiêu đề và thumbnail (xác nhận cú bấm trong 3 giây).
 
 ### 3. Đặt câu hỏi và căng thẳng, chưa kết luận
 Hook cho thấy kênh có **cách đọc riêng** qua việc chọn nghịch lý và câu hỏi sắc, nhưng chưa nói kết luận (`00_core/stance_and_judgment.md` §8: Chương 1 đặt câu hỏi, chưa kết luận). Lập trường được "kiếm" sau bằng chứng, nói ở chương kết.
@@ -32,6 +32,9 @@ Sau hook, người xem phải biết rõ: **ở lại sẽ được hiểu đi�
 
 ### 7. Không tự đóng loop
 Nếu người xem tắt video ngay sau hook mà cảm thấy đã đủ hiểu → hook thất bại. Hook phải kết bằng khoảng trống nhận thức mà PHẢI nghe tiếp mới lấp được.
+
+### 8. Mở, đóng, mở (phần còn lại của Chương 1)
+Sau hook: mở câu hỏi nhỏ → trả lời (phần thưởng nhỏ) → mở câu kế; không lồng câu hỏi trong câu hỏi; báo trước phần thưởng kế trước khi trả xong phần thưởng hiện tại; re-hook ~3:30. Vòng nhỏ đóng, câu hỏi lớn giữ mở. Chi tiết: `.agents/skills/hook_engine/SKILL.md` Chặng 2b.
 
 ---
 

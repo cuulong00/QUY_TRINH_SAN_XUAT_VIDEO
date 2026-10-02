@@ -42,12 +42,12 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
   > *`"[Đoạn văn thoại sạch dẫn thẳng vào xung đột đấu trường, lột tả sự đối đầu sinh tử và rạn nứt cấu trúc...]"`*
 - **Đánh giá ưu điểm:** Kịch tính điện ảnh cao, tạo cảm giác một cuộc chiến thế kỷ đang diễn ra trước mắt người xem.
 
-### OPTION 2: ENGINE 2 — THE HIDDEN ARITHMETIC OF RUIN (TOÁN HỌC NGẦM CỦA SỰ ĐỔ VỠ)
-- **Góc tiếp cận:** Đặt khán giả trước phép tính số học trần trụi: Doanh thu hào nhoáng hoặc định giá tỷ đô đối đầu trực diện với dòng tiền âm, chi phí chìm hay điểm hòa vốn bất khả thi.
+### OPTION 2: ENGINE 2 — THE TWO-MODEL COLLISION (VA CHẠM HAI MÔ HÌNH)
+- **Góc tiếp cận:** Đặt hai cách làm đối lập cạnh nhau (hai chiến lược, hai mô hình vận hành, hai luật chơi) và để dữ kiện có mã M lộ ra sự đánh đổi của mỗi bên: ai trả giá, điều gì quyết định bên nào đứng vững. Số tài chính chỉ dùng khi đề tài là tài chính (WO-00 Q10).
 - **Thời lượng:** 30–45 giây (~110–165 từ | Câu < 150 ký tự).
 - **Văn bản Hook thoại mẫu:**
-  > *`"[Đoạn văn thoại sạch đối sánh dữ liệu thực chứng A vs con số nghiệt ngã B từ Vault...]"`*
-- **Đánh giá ưu điểm:** Kích thích tò mò trí tuệ đỉnh cao, bóc trần ảo tưởng tài chính bằng logic số học không thể chối cãi.
+  > *`"[Đoạn văn thoại sạch đặt mô hình A cạnh mô hình B bằng dữ kiện có mã M...]"`*
+- **Đánh giá ưu điểm:** Kích thích tò mò của người thích nhìn hệ thống; không cần số tài chính vẫn tạo được đối nghịch.
 
 ### OPTION 3: ENGINE 3 — THE EMPIRICAL REVERSAL (CÚ ĐẢO CHIỀU THỰC CHỨNG)
 - **Góc tiếp cận:** Lật ngược hoàn toàn định kiến đám đông: Những gì truyền thông ca ngợi là kỳ tích hay chiến lược thiên tài thực chất đang dẫn đến chiếc bẫy cơ chế tàn khốc.
@@ -59,11 +59,21 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 
 ---
 
+## 2b. CẤU TRÚC 30 GIÂY ĐẦU CỦA MASTER HOOK (bắt buộc điền cho biến thể được chọn — `hook_engine` Chặng 2b)
+| Nhịp | Nội dung | Mã nguồn |
+|---|---|---|
+| 0–3 giây: xác nhận cú bấm | `[câu 1–2: cùng chủ thể và điểm căng với tiêu đề/thumbnail trong 00_hien_chuong.md; không chào hỏi, không niên biểu]` | — |
+| Đối nghịch | `[điều người ta tưởng ≠ điều đang xảy ra]` | `M-xx` |
+| Điều được mất | `[theo loại A/B/C: ai chịu ảnh hưởng, vì sao bây giờ]` | `M-xx` |
+| Kết hook | `[câu hỏi trung tâm nguyên văn hiến chương + lộ trình ngắn, không lộ đáp án]` | — |
+| Re-hook ~3:30 | `[một câu hứa giá trị chặng kế, đúng loại đề tài]` | — |
+- Phép thử: tắt tiếng `[đạt/không]` · đặt cạnh thumbnail `[đạt/không]` · tắt sau hook `[chưa đủ hiểu → đạt]`
+
 ## 3. BẢNG ĐỐI CHIẾU & LỰA CHỌN MASTER HOOK
 
 | Tiêu Chí Đánh Giá | Option 1 (Arena & Intruder) | Option 2 (Arithmetic of Ruin) | Option 3 (Empirical Reversal) |
 |---|---|---|---|
-| **Sức hút 3 giây đầu (Thumb-Stop)** | [Điểm 1-10] | [Điểm 1-10] | [Điểm 1-10] |
+| **Xác nhận cú bấm 0–3 giây (khớp thumbnail)** | [Điểm 1-10] | [Điểm 1-10] | [Điểm 1-10] |
 | **Độ khớp với Sợi Chỉ Đỏ (Spine Fit)** | [Điểm 1-10] | [Điểm 1-10] | [Điểm 1-10] |
 | **Tính xác thực số liệu (Vault Rigor)** | [Điểm 1-10] | [Điểm 1-10] | [Điểm 1-10] |
 | **Động lực đẩy sang CH02 (Momentum)** | [Điểm 1-10] | [Điểm 1-10] | [Điểm 1-10] |
@@ -80,5 +90,8 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - [ ] Không chứa từ cấm AI (`anti_ai_isms.md`) hay giật tít rẻ tiền.
 - [ ] Tuyệt đối CẤM đóng vai luật sư bào chữa cho doanh nghiệp; cấm kết luận trước theo kiểu "dư luận hiểu lầm / doanh nghiệp ra quyết định dũng cảm".
 - [ ] Câu kết thúc của Hook mở ra câu hỏi bế tắc, kết nối trực tiếp với Chương 1 qua đoạn Orientation Frame và động lực nhân quả "THEREFORE".
-- [ ] Hook nói lại đúng "Lời hứa đóng gói" ở `01_global_vision_synthesis.md`; người vừa bấm vào nhận ra mình đến đúng chỗ trong 10–15 giây đầu.
+- [ ] Hook nói lại đúng "Lời hứa đóng gói" ở `01_global_vision_synthesis.md`; người vừa bấm vào nhận ra mình đến đúng chỗ trong 3 giây đầu (câu 1–2 khớp tiêu đề/thumbnail hiến chương).
+- [ ] Không mở bằng niên biểu, không chào hỏi; hook đặt câu hỏi, chưa kết luận (`stance_and_judgment` §8); câu hỏi trung tâm nguyên văn hiến chương.
+- [ ] Mục 2b điền đủ; qua ba phép thử (tắt tiếng, đặt cạnh thumbnail, tắt sau hook); có câu re-hook ~3:30.
+- [ ] Mọi số trong hook có mã `M-xx` (`00_so_du_kien.md`).
 - [ ] **KÝ DUYỆT:** `PASS`

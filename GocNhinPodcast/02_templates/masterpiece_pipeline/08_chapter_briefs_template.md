@@ -15,7 +15,7 @@
 | **1** | `purpose` | Vai trò của chương trong việc giải mã Biến cố trung tâm. | Macro Strategist |
 | **2** | `chapter_thesis` | Luận điểm cốt lõi — Chương này ta chứng minh điều gì? Tại sao? | Macro Strategist |
 | **3** | `editorial_perspective` | Góc nhìn sắc bén của GocNhinPodcast (khác biệt với tin tức thông thường). | Macro Strategist |
-| **4** | `data_verified` | Danh mục các con số thực chứng bắt buộc phải xuất hiện 100%. | Macro Strategist |
+| **4** | `data_verified` | Danh mục mã `M-xx` từ `00_so_du_kien.md` bắt buộc xuất hiện trong chương (kèm nhãn); trỏ mã, không chép câu. | Macro Strategist |
 | **5** | `steelman_counter_thesis` | **[TRI-ADVERSARIAL RED TEAM — BẮT BUỘC]** Luận điểm phản biện mạnh nhất từ một lăng kính đã chọn trong hiến chương tập (danh mục: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện") + Con số/bằng chứng đối kháng từ Contested Ledger của Pha 2. Tuyệt đối CẤM phản biện yếu ớt bù nhìn rơm (Strawman). | Critical Auditor |
 | **6** | `personal_stakes_or_relevance` | Relevance Anchor — Liên hệ với bài toán chi phí/quản trị thực tế. | Macro Strategist |
 | **7** | `key_insight` | Insight bản chất đắt giá nhất chỉ chuyên gia chuyên sâu mới thấy. | Macro Strategist |

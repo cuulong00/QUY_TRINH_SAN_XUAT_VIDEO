@@ -107,6 +107,7 @@ Kiểm toán viên trưởng (`the_critical_auditor`) kích hoạt **Quyền Ph�
 10. 🚩 Rò rỉ nhãn khung sườn template (`[BLOCK X]`, `[HOOK]`) vào kịch bản thành phẩm.
 11. 🚩 Vi phạm ranh giới `00_core/financial_boundaries.md`: khuyến nghị mua/bán tài sản tài chính cụ thể, dự đoán giá, hoặc giọng điệu "phím hàng".
 12. 🚩 Claim thiếu nhãn taxonomy (`verified_data` / `market_analysis` / `opinion_commentary`) hoặc thiếu dòng lưu ý nội dung bắt buộc.
+13. 🚩 Số hoặc nhận định trong kịch bản không có hàng `M-xx` trong `00_so_du_kien.md`, hoặc viết vượt nhãn của hàng (suy luận viết như dữ kiện); chân đỡ của giả thuyết dẫn đầu (sổ, mục cuối) biến mất không lý do.
 
 ---
 

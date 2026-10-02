@@ -67,7 +67,7 @@ NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc đọ
    [ ] Lăng kính độc bản (Unique Lens) — Phân tích kinh tế/thể chế/trò chơi, không sao chép báo chí
    [ ] Mỏ neo vật lý (Physical Anchor) — Vật thể thực tế sờ thấy được làm điểm tựa trực quan
    [ ] Cấu trúc tự sự tăng tiến — Khung 3 Màn nhân quả (Therefore / But) & Mô hình Búp bê Nga 4 tầng
-   [ ] Bảng mỏ neo số liệu chiến lược — Data Passport: mỗi dòng có `OBS-…` hoặc file vault, kỳ/phạm vi/đơn vị, nhãn mắt xích và mã E
+   [ ] Bảng mỏ neo số liệu chiến lược — Data Passport là bản trích từ `00_so_du_kien.md`: mỗi dòng có mã M, `OBS-…` hoặc file vault, kỳ/phạm vi/đơn vị, nhãn và mã E; không tạo mã mới ngoài sổ
    [ ] Ma trận quy đổi tiền tệ — Thống nhất tỷ giá VNĐ/Ngoại tệ cho kịch bản thoại
    [ ] Ba rào cản biên tập chống bào chữa (3 Cognitive Gates) — Khóa vị thế nhà điều tra độc lập
    [ ] Truy vết Vault (Traceability Matrix) — Danh sách link đối chiếu trực tiếp về các tệp vault gốc

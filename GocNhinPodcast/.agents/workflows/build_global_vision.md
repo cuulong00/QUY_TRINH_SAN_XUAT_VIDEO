@@ -68,6 +68,7 @@ TRƯỚC KHI tạo tệp, Agent BẮT BUỘC in hộp log ra màn hình chat:
 1. Hỏi kho theo thứ tự trong `.agents/rules/orchestration-protocol.md` mục "Kho tri thức dùng chung" (`kbq evidence` trước, rồi `entity`, `links`, `facts`), chạy `kbaudit`. Điền mục 1.4 của template: mọi dòng có mã OBS; ghi dấu thời điểm tra kho; điền N1 vào hiến chương.
 2. Đặt **≥ 3 giả thuyết** cho câu hỏi trung tâm (luôn có giả thuyết "nhàm"); nếu chỉ thấy một lời giải thì ép thêm hai giả thuyết đối lập (N2). Mỗi giả thuyết ghi "dữ kiện nào sẽ bác tôi".
 3. Tạo `episodes/[slug]/00_bang_gia_thuyet.md` theo `02_templates/masterpiece_pipeline/00_bang_gia_thuyet_template.md`: hàng E từ các OBS ở bước 1, chấm `+ / − / 0` cho từng giả thuyết, liệt kê ô chưa phân biệt (mục 2b) để Pha 2 nhắm vào.
+3b. Tạo `episodes/[slug]/00_so_du_kien.md` theo `02_templates/masterpiece_pipeline/00_so_du_kien_template.md`: mọi OBS ở mục 1.4 thành hàng `M-xx` nhãn `verified_data` (kèm kỳ, phạm vi, mã E); phản biện và suy luận của hội đồng thành hàng `market_analysis` / `opinion_commentary`. Điền bảng "Chân đỡ của giả thuyết dẫn đầu".
 4. Hội đồng tranh biện (Bước 3, Phần I.2) tranh luận trên các giả thuyết, không trên một luận điểm chọn sẵn. Phản biện của mỗi lăng kính đã chọn (N5) ghi thành hàng E.
 
 ### Bước 3: Đúc Khung Tư Duy 4 Tầng Phổ Quát (The 4-Tier Blueprint)

@@ -7,6 +7,11 @@
 
 ---
 
+## 0. Bảng claim (trích từ `00_so_du_kien.md`, không tạo mã mới)
+| Mã M | Claim trong kịch bản (chương, câu) | Nhãn | Nguồn | Khớp nhãn khi viết? |
+|---|---|---|---|---|
+| | | | | |
+
 ## 1. Editorial & Brand Safety Verification
 - [ ] Không có từ ngữ giật gân, tabloid, mạt sát
 - [ ] Tuân thủ Brand Safety, tối ưu CPM (không dùng từ bạo lực, sụp đổ, tàn bạo...)

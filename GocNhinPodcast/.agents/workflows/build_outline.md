@@ -134,6 +134,8 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
    [ ] Định vị rõ ràng The Grand Payoff ở Chương kết (Phản tư & Tầm nhìn tương lai)
    [ ] Mỏ neo vật lý từ 03_brief.md xuất hiện làm điểm tựa thị giác
    [ ] Quota mã DATA-XX phân bổ độc quyền cho từng chương, không trùng lặp
+   [ ] Mỗi Key Insight, Causal Exit, câu chốt trỏ mã `M-xx` (sổ dữ kiện) hoặc `E-xx`/`H-x` (bảng giả thuyết); không khẳng định vượt nhãn của mã được trỏ
+   [ ] Bằng chứng BÁC còn đứng trong `00_bang_gia_thuyet.md` có chương chứa và dòng "luận điểm đổi gì"; chân đỡ Pha 1 (sổ dữ kiện, mục cuối) còn mặt hoặc có lý do bỏ
    [ ] Tuân thủ Quy tắc Phân hạch (Narrative Fission): Không chương nào vượt trần 1.050 từ
    ```
 

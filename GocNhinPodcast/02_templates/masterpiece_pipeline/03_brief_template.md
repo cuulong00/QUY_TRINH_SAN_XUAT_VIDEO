@@ -64,10 +64,10 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 
 ## 4. BẢNG NEO SỐ LIỆU BẤT BIẾN (DATA PASSPORT EMBEDDED)
 
-| Mã | Dữ Liệu Thực Chứng | Nguồn: `OBS-…` hoặc file `research_vault/` | Mã Footnote & Trích Dẫn Gốc (≤ 15 từ) | Kỳ, phạm vi, đơn vị | Nhãn mắt xích (`verified_data` / `market_analysis` / `opinion_commentary`) và mã E trong `00_bang_gia_thuyet.md` | Ý Nghĩa Phân Tích |
+| Mã | Dữ Liệu Thực Chứng | Nguồn: `OBS-…` hoặc file `research_vault/` | Mã Footnote & Trích Dẫn Gốc (≤ 15 từ) | Kỳ, phạm vi, đơn vị | Mã M (`00_so_du_kien.md`) · nhãn (`verified_data` / `market_analysis` / `opinion_commentary`) · mã E (`00_bang_gia_thuyet.md`) | Ý Nghĩa Phân Tích |
 |---|---|---|---|---|---|---|
-| `DATA-01` | `[Con số 1]` | `OBS-…` / `R01.md` | `[Footnote X]` - `"..."` | `[2025, hợp nhất, tỷ VND]` | `verified_data` · `E03` | `[Ý nghĩa]` |
-| `DATA-02` | `[Con số 2]` | … | … | … | `market_analysis` · `E07` | `[Ý nghĩa]` |
+| `DATA-01` | `[Con số 1]` | `OBS-…` / `R01.md` | `[Footnote X]` - `"..."` | `[2025, hợp nhất, tỷ VND]` | `M01` · `verified_data` · `E03` | `[Ý nghĩa]` |
+| `DATA-02` | `[Con số 2]` | … | … | … | `M07` · `market_analysis` · `E07` | `[Ý nghĩa]` |
 
 ---
 

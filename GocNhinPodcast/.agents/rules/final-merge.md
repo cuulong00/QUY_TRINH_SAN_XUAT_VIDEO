@@ -15,6 +15,7 @@
 - Giữ logic arc rõ ràng từ hook đến payoff.
 - Giữ thesis fidelity: bản merge cuối không được regress về một spine quen thuộc hơn nhưng nông hơn.
 - Giữ các interpretive turns đắt của từng chapter, không được làm phẳng thành prose sạch nhưng generic.
+- Đối chiếu `voiceover.md` với `00_so_du_kien.md`: mọi số có mã M; mỗi mắt xích giữ đúng tầng giọng của nhãn khi gộp; không cộng dồn câu đặt cược từ nhiều chương.
 - Đảm bảo dòng lưu ý nội dung bắt buộc xuất hiện đúng nguyên văn trong `CLAUDE.md` ("Nội dung chia sẻ góc nhìn khách quan, mang tính thảo luận và xây dựng"); ranh giới tư vấn đầu tư theo `00_core/financial_boundaries.md`.
 - Giữ đúng chế độ kết đã chọn (`00_core/stance_and_judgment.md` §1): chế độ A giữ lập trường chính, chế độ B giữ đủ khung kết mở; khi gộp không làm mềm thành câu lửng lơ và không cộng dồn các cụm "chúng tôi cho rằng" từ nhiều chương.
 - Giữ giọng voiceover-first: sắc, logic, dễ nghe, nhưng vẫn có người thật ở trong đó.

@@ -17,7 +17,8 @@
 - **Chapter 2:** điểm tựa liên quan theo loại đề tài, luật gốc ở `00_core/content_principles.md` §2 (A: đời sống chung bằng lăng kính phổ quát; B: bài toán doanh nghiệp/quốc gia, không ép đời sống; C: nghịch lý, tò mò trí tuệ). Không bịa nhân vật cá nhân hóa ("Anh Minh 35 tuổi...").
 - **Case Study:** Tối đa 2 case study quốc tế, mỗi case ≤ 3 phút. Không dàn hàng lịch sử.
 - **Quy tắc 3 phút:** theo `00_core/content_principles.md` §2 (quy tắc chung): không để > 3 phút liên tiếp chỉ phân tích mà không có con số mới, phép loại suy hoặc câu hỏi phản biện.
-- Sau khi viết chapter phải cập nhật `09_narrative_state_tracker.md`, `10_compliance_report.md`, và `01_management/episode_registry.csv`.
+- Mọi số và nhận định trong chapter trỏ về một mã `M-xx` trong `00_so_du_kien.md` và viết đúng tầng giọng của nhãn đó (`00_core/stance_and_judgment.md` §5). Mắt xích mới thì thêm dòng vào sổ trước khi viết; không viết câu nào vượt nhãn.
+- Sau khi viết chapter phải cập nhật `00_so_du_kien.md` (dòng mới, cột "Dùng ở"), `09_narrative_state_tracker.md`, `10_compliance_report.md` (bảng claim trích từ sổ), và `01_management/episode_registry.csv`.
 
 ## Must not do
 - Không viết chapter khi upstream planning files chưa đủ.

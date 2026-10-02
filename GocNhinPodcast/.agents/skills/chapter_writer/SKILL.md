@@ -142,7 +142,7 @@ Viết tự nhiên, theo dòng suy nghĩ. Tuân thủ:
 - **Mỗi đoạn phục vụ 1 ý chính duy nhất**
 - **Tuân thủ tuyệt đối 5 Nguyên tắc Tư duy Cốt lõi (brand_safety_guidelines.md §1.5):** Dịch chuyển trục xung đột sang quy luật kinh tế vĩ mô khách quan. Khử sạch các từ cấm ("đốt tiền", "cứu trợ", "ván cược", "ưu ái ngầm") bằng thuật ngữ kinh tế học toàn cầu. Đặt câu hỏi theo lăng kính giải mã "năng lực đặc biệt/sứ mệnh" thay vì nghi vấn cơ cấu.
 - **Mỗi con số phải có context** — so với gì? Trong bối cảnh nào? Ý nghĩa gì?
-- **Mỗi nhận định phải phân loại**: `verified_data` / `market_analysis` / `opinion_commentary`
+- **Mỗi nhận định đi theo nhãn của hàng `M-xx` trong `00_so_du_kien.md`** (`verified_data` nói thẳng; `market_analysis` chỉ ra đường đi từ dữ kiện; `opinion_commentary` nhận là của kênh). Không tự gán nhãn mới khi viết; mắt xích chưa có trong sổ thì thêm dòng trước. Số không có mã M không được xuất hiện trong thoại.
 - **Chuyển ý tự nhiên** bằng sự di chuyển của dữ liệu và logic — không dùng template transition
 - **KHÔNG viết tiêu đề chương trong nội dung voiceover**
 
@@ -314,7 +314,8 @@ Vị trí và số lượng CTA theo `.agents/AGENTS.md` mục "Chuẩn Vận H�
 
 ## Sau khi viết xong, cập nhật
 - `09_narrative_state_tracker.md` — ý đã nói, ví dụ đã dùng, open loops
-- `10_compliance_report.md` — claim mới phân loại
+- `00_so_du_kien.md` — mắt xích mới (nhãn, nguồn, kỳ/phạm vi), điền cột "Dùng ở" cho chương vừa viết
+- `10_compliance_report.md` — bảng claim trích từ sổ dữ kiện, không tạo mã mới
 - `07_golden_lines.md` — câu đắt nhất trong chương nếu có (không ép có)
 - **Dọn dẹp sản xuất (BẮT BUỘC):** Khi kịch bản được phê duyệt và sẵn sàng cho TTS/Voiceover, bắt buộc xóa bỏ mọi metadata, tiêu đề chương (`# Chương X: ...`), ghi chú và chú thích kỹ thuật trong tất cả các file `chapter_XX.md`. Kịch bản chỉ được phép giữ lại duy nhất phần văn bản voiceover (phần đọc) sạch sẽ nhất để không gây nhiễu cho mô hình TTS và người thu âm.
 

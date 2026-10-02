@@ -50,7 +50,7 @@ Tác nhân phải thiết lập và xuất bản tệp `episodes/[slug]/02_resea
 ### Bước 4: Thực thi Tương tác NotebookLM (Nạp nguồn & Trích xuất)
 1. **DEEP RESEARCH EXECUTION (Nạp nguồn phân hạch):** Chạy tuần tự các lệnh `notebooklm source add-research` (hoặc công cụ Deep Research) cho từng Prompt chuyên sâu đã thiết kế ở Bước 3, nạp dồn toàn bộ nguồn vào **CÙNG 1 Master Notebook duy nhất** (`-n <notebook_id> --mode deep --import-all`).
 2. **EXTRACTION & VERIFICATION (Trích xuất):** Chạy `mcp_notebooklm-mcp_batch_to_vault` hoặc script trích xuất để rút dữ liệu theo danh sách câu hỏi đã thiết kế, lưu vào `episodes/[slug]/research_vault/` và tiến hành đối chiếu số liệu.
-3. **CẬP NHẬT MA TRẬN (phần E của form tư duy):** mỗi dữ kiện mới từ vault thành một hàng E trong `00_bang_gia_thuyet.md` (nguồn `vault/R0X` + câu nguyên văn + kỳ, phạm vi), chấm `+ / − / 0`; giả thuyết có bằng chứng ngược thì thu hẹp hoặc loại, ghi dòng lịch sử. Không được xóa giả thuyết mà không có hàng E ngược.
+3. **CẬP NHẬT MA TRẬN VÀ SỔ DỮ KIỆN (phần E của form tư duy):** mỗi dữ kiện mới từ vault thêm một hàng `M-xx` vào `00_so_du_kien.md` (nhãn `verified_data` chỉ khi có câu nguyên văn + URL + ngày; không thì `market_analysis`). mỗi dữ kiện mới từ vault thành một hàng E trong `00_bang_gia_thuyet.md` (nguồn `vault/R0X` + câu nguyên văn + kỳ, phạm vi), chấm `+ / − / 0`; giả thuyết có bằng chứng ngược thì thu hẹp hoặc loại, ghi dòng lịch sử. Không được xóa giả thuyết mà không có hàng E ngược.
 4. **SUPPLEMENT & SYNTHESIZE:** Tạo tệp `02_research_map.md` (Bản đồ tọa độ) và `02_research_synthesis.md` (Bản tóm tắt cơ chế vĩ mô). Synthesis kết bằng trạng thái ma trận: giả thuyết nào còn đứng, ô nào vẫn chưa phân biệt, bằng chứng BÁC nào còn đứng.
 
 ### Bước 5: Báo cáo kết quả

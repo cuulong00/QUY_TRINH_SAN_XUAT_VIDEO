@@ -31,7 +31,7 @@
    - Scale 100% full-frame (giữ nguyên bố cục quang học) + Warm Documentary LUT.
    - On-screen Attribution góc màn hình.
 4. **Hậu kiểm Trực quan Bắt Buộc (Visual Audit Gate):**
-   - Xuất contact sheet kiểm toán toàn chương và dùng `view_file` rà soát từng khung hình trước khi bàn giao sang dựng.
+   - Xuất contact sheet kiểm toán toàn chương và rà soát từng khung hình trước khi bàn giao sang dựng.
 5. **Lằn ranh đỏ Thương hiệu Kênh & Circuit Breaker:**
    - ⛔ **CẤM TIỆT:** Dùng video mạng cho Intro, Outro, Logo, Thẻ Đăng ký kênh (bắt buộc dùng AI độc bản hoặc thiết kế đồ họa).
    - Tuyệt đối cấm mặt người phương Tây trong bối cảnh công nông nghiệp Việt Nam.

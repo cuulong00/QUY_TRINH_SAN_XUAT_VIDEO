@@ -64,7 +64,7 @@ TRƯỚC KHI viết bất kỳ chapter nào, xác nhận TẤT CẢ trong `episo
 - `07_outline.md` — đã có chapter list
 - `08_chapter_briefs.md` — đã có chapter briefs
 - `09_narrative_state_tracker.md` — NST đã khởi tạo
-- **Tất cả `chapter_XX.md` đã viết trước đó** — BẮT BUỘC đọc bằng `view_file` toàn bộ, không giới hạn 3 câu cuối (xem mục "Kiến Trúc Rolling Context" bên dưới)
+- **Tất cả `chapter_XX.md` đã viết trước đó** — BẮT BUỘC đọc  toàn bộ, không giới hạn 3 câu cuối (xem mục "Kiến Trúc Rolling Context" bên dưới)
 
 Nếu BẤT KỲ file nào thiếu → **DỪNG LẠI NGAY**.
 

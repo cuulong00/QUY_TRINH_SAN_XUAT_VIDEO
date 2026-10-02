@@ -29,10 +29,10 @@
 ```
 
 ### Bước 2: Đọc Persona & SKILL (BẮT BUỘC)
-1. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_industrial_economist.md`
-2. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_policy_analyst.md`
-2. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/deep_researcher/SKILL.md`
-3. `view_file` → `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/notebooklm_librarian/SKILL.md`
+1. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_industrial_economist.md`
+2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_policy_analyst.md`
+2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/deep_researcher/SKILL.md`
+3. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/notebooklm_librarian/SKILL.md`
 
 ### Bước 3: Lên Kế Hoạch & Thiết Kế Truy Vấn (RESEARCH PLANNING GATE)
 Tác nhân phải thiết lập và xuất bản tệp `episodes/[slug]/02_research_plan.md` chứa đầy đủ kế hoạch nghiên cứu trước khi thực hiện bất kỳ lệnh gọi công cụ nào với NotebookLM.

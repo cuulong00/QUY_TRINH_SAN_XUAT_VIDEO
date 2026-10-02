@@ -8,12 +8,13 @@ description: >-
 
 ## 🛑 HARD GATE TOÀN BỘ WORKFLOW NÀY
 
-Trước khi thực thi BẤT KỲ bước nào, agent PHẢI dùng tool `view_file` đọc lần lượt:
+Trước khi thực thi BẤT KỲ bước nào, agent PHẢI đọc lần lượt:
 
-1. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/hook_engine/SKILL.md`
-2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_macro_strategist.md`
+1. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_viral_alchemist.md`
+2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_critical_auditor.md`
+3. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/hook_engine/SKILL.md`
 
-NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành việc đọc cả hai file trên.
+NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành việc đọc cả ba file trên. (Danh sách này phải khớp persona khai báo ở Pre-flight và bảng pha `content-os-pipeline.md`; kiểm bằng `scripts/kiem_dna.py --persona`.)
 
 ---
 

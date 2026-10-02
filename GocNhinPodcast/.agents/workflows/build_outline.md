@@ -9,13 +9,14 @@ description: >-
 
 ## 🛑 HARD GATE TOÀN BỘ WORKFLOW NÀY
 
-Trước khi thực thi BẤT KỲ bước nào, agent PHẢI dùng tool `view_file` đọc lần lượt:
+Trước khi thực thi BẤT KỲ bước nào, agent PHẢI đọc lần lượt:
 
-1. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_macro_strategist.md`
-2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_narrative_director.md`
-3. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/script_architect/SKILL.md`
+1. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_editorial_strategist.md`
+2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_dialectic_architect.md`
+3. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_critical_auditor.md`
+4. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/script_architect/SKILL.md`
 
-NGHIÊM CẤM tạo bất kỳ outline, thesis map, hay chapter brief nào nếu chưa đọc đủ 3 file trên.
+NGHIÊM CẤM tạo bất kỳ outline, thesis map, hay chapter brief nào nếu chưa đọc đủ 4 file trên. (Danh sách khớp Pre-flight và bảng pha Pha 4; kiểm bằng `scripts/kiem_dna.py --persona`.)
 
 ---
 

@@ -6,7 +6,7 @@ description: "Master Systems Strategy Council. Chaired by the Chief Systems Arch
 # Socio-Political & Systems Strategy Council — Hội Đồng Chiến Lược Hệ Thống
 
 > 🛑 **EXPERT PERSONAS (BẮT BUỘC HÓA THÂN)**
-> Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC phải dùng tool `view_file` đọc lần lượt các tệp Persona của Hội đồng:
+> Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC phải đọc đọc lần lượt các tệp Persona của Hội đồng:
 > 1. `[GocNhinPodcast/.agents/personas/the_macro_strategist.md]` (👑 Chủ Tịch Hội Đồng & Tổng Công Trình Sư Hệ Thống)
 > 2. `[GocNhinPodcast/.agents/personas/the_policy_analyst.md]` (Chuyên Gia Thể Chế & Kinh Tế Công Nghiệp)
 > 3. `[GocNhinPodcast/.agents/personas/the_critical_auditor.md]` (Kiểm Toán Viên Phản Biện & Điểm Mù)

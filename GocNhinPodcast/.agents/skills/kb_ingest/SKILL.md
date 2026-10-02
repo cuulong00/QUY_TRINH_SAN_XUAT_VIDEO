@@ -49,7 +49,7 @@ Kho `kb_main` (FalkorDB) lưu **dữ kiện kiểm chứng được** (con số,
 `python3 scripts/kg_registry/annotate_vault.py` → `index_vaults.py` → `load_file.py --orders` → `make_packs.py gnp__<đợt>`. Các script này quét chung mọi tập; gặp lỗi đọc JSON vì agent khác đang chạy cùng lúc thì chờ một phút chạy lại.
 
 ## Bước 4 — Điền JSON (Antigravity)
-Theo đúng hướng dẫn đầu `part_01.md` của gói: đọc bằng view_file, xét từng câu ◆, ghi `file_fill/gnp__<đợt>__p01.json`… theo từng phần, `load_file.py --check` tới khi "KẾT QUẢ: ĐẠT". Không dùng lệnh hay script để lọc câu; file JSON ghi và sửa bằng write_to_file / replace_file_content, không bằng lệnh; loader kiểm nhật ký làm việc và từ chối cả tập nếu vi phạm. Không nạp thật.
+Theo đúng hướng dẫn đầu `part_01.md` của gói: đọc, xét từng câu ◆, ghi `file_fill/gnp__<đợt>__p01.json`… theo từng phần, `load_file.py --check` tới khi "KẾT QUẢ: ĐẠT". Không dùng lệnh hay script để lọc câu; file JSON ghi và sửa bằng write_to_file / replace_file_content, không bằng lệnh; loader kiểm nhật ký làm việc và từ chối cả tập nếu vi phạm. Không nạp thật.
 - **Bên tham gia (từ 30/09/2026):** mỗi dữ kiện có đúng một chủ thể (`object_id`), cộng trường `participants` liệt kê mọi thực thể khác trong danh mục có mặt trong dữ kiện, kèm vai trò (`ben_giao_dich`, `quan_ly`, `so_huu`, `so_sanh`, `dia_ban`, `nhac_toi`). Loader ghi cạnh `INVOLVES` để dữ kiện tra được từ mọi bên. Tổ chức, quốc gia, dự án có tên riêng và địa danh trong `places` của danh mục được loader tự nhận; ngành và thị trường phải ghi tay (tên chung, không tự nhận được).
 - Lý do: trước đây dữ kiện chỉ treo vào chủ thể, nên "VinFast bán 72% xe cho GSM" không tra được từ GSM; bài thử vault-vs-kho 30/09 cho thấy tập dùng kho bỏ sót toàn bộ bằng chứng then chốt vì thế.
 

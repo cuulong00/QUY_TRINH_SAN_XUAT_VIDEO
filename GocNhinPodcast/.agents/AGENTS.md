@@ -187,7 +187,7 @@
 >         > 🚀 **[PRE-FLIGHT LOG: TIỀN KHỞI ĐỘNG TẠO TÀI LIỆU <Tên_Tài_Liệu>]**
 >         > - 🧠 **Chuyên Gia (Persona DNA) Kích Hoạt:** [Tên Persona] (`.agents/personas/[file_name].md`)
 >         > - ⚙️ **Kỹ Năng (Skill) Dẫn Đường:** [Tên Skill] (`.agents/skills/[skill_name]/SKILL.md`)
->         > - 🔢 **Tải Trọng Token Nạp Vào (Input Context Footprint):** ~[Tổng_Tokens] tokens (Cố định hệ thống: ~45k–55k | Lịch sử hội thoại: ~[X]k | Tài liệu nạp trực tiếp qua view_file: ~[Y]k tokens từ [Z] tệp)
+>         > - 🔢 **Tải Trọng Token Nạp Vào (Input Context Footprint):** ~[Tổng_Tokens] tokens (Cố định hệ thống: ~45k–55k | Lịch sử hội thoại: ~[X]k | Tài liệu nạp trực tiếp: ~[Y]k tokens từ [Z] tệp)
 >         > - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Input References):**
 >         >   * `[Đường_dẫn_tài_liệu_1]` (~[A] tokens | Mục đích nạp: ...)
 >         >   * `[Đường_dẫn_tài_liệu_2]` (~[B] tokens | Mục đích nạp: ...)
@@ -216,10 +216,10 @@
 
 > 🛑 **NGUYÊN TẮC BẤT BIẾN CHỐNG QUÊN DNA & CHỐNG ẢO GIÁC (ZERO-ASSUMPTION GATE):**
 > 1. Khi User ra lệnh bằng ngôn ngữ tự nhiên (không dùng slash command) hoặc khi Agent tự động điều phối: **TUYỆT ĐỐI CẤM SUY ĐOÁN MƠ HỒ HOẶC TỰ Ý TẠO FILE NGAY LẬP TỨC**.
-> 2. Agent **BẮT BUỘC** tra cứu bảng điều phối 1-1 bên dưới để xác định: (a) Persona DNA nào phải kích hoạt, (b) Skill nào phải dẫn đường, (c) Danh mục tài liệu nguồn bắt buộc phải gọi `view_file` nạp vào ngữ cảnh.
-> 3. **CHẾ TÀI KIỂM TOÁN TÁC CHIẾN:** Bất kỳ thao tác tạo file nào mà TRƯỚC ĐÓ chưa từng gọi `view_file` nạp file Persona DNA (`.agents/personas/...`) và file Skill (`.agents/skills/.../SKILL.md`) trong phiên làm việc đều bị coi là **VI PHẠM KỶ LUẬT HỆ THỐNG** và sẽ bị từ chối công nhận.
+> 2. Agent **BẮT BUỘC** tra cứu bảng điều phối 1-1 bên dưới để xác định: (a) Persona DNA nào phải kích hoạt, (b) Skill nào phải dẫn đường, (c) Danh mục tài liệu nguồn bắt buộc phải đọc vào ngữ cảnh.
+> 3. **CHẾ TÀI KIỂM TOÁN TÁC CHIẾN:** Bất kỳ thao tác tạo file nào mà TRƯỚC ĐÓ chưa đọc file Persona DNA (`.agents/personas/...`) và file Skill (`.agents/skills/.../SKILL.md`) trong phiên làm việc đều bị coi là **VI PHẠM KỶ LUẬT HỆ THỐNG** và sẽ bị từ chối công nhận.
 
-| Tín hiệu User (Trigger Phrases) | Pha & Tệp Đầu Ra (Target Output) | Chuyên Gia Kích Hoạt (Persona DNA Path) | Kỹ Năng Dẫn Đường (Skill Path) | Tài Liệu Nguồn Bắt Buộc Đọc (Mandatory Inputs via `view_file`) | Workflow / Lệnh Thực Thi |
+| Tín hiệu User (Trigger Phrases) | Pha & Tệp Đầu Ra (Target Output) | Chuyên Gia Kích Hoạt (Persona DNA Path) | Kỹ Năng Dẫn Đường (Skill Path) | Tài Liệu Nguồn Bắt Buộc Đọc (Mandatory Inputs) | Workflow / Lệnh Thực Thi |
 |---|---|---|---|---|---|
 | "khởi tạo", "init episode", "bắt đầu episode mới", "đề tài mới", "đánh giá đề tài", "chọn chủ đề", "bản đồ hệ thống", "bức tranh lớn", "quy hoạch tầm nhìn" | **Pha 1:** `01_global_vision_synthesis.md` | `.agents/personas/the_macro_strategist.md` (Chủ tịch)<br>+ `.agents/personas/the_critical_auditor.md`<br>+ `.agents/personas/the_policy_analyst.md` | `.agents/skills/strategy_council/SKILL.md` | Ý tưởng của User, tài liệu phác thảo ban đầu, hạt giống tin tức | `/init_episode`<br>*(Bản đồ Địa hình Bàn cờ 4 Tầng & Phê duyệt đề tài)* |
 | "research", "deep research", "nghiên cứu", "nghiên cứu sâu", "tìm data", "đào dữ liệu", "nạp nguồn" | **Pha 2:** `02_research_map.md` & `02_research_synthesis.md` | `.agents/personas/the_policy_analyst.md`<br>+ `.agents/personas/the_industrial_economist.md`<br>+ `.agents/personas/the_capital_markets_analyst.md` *(khi đề tài thuộc Hình thái 5 — Doanh nghiệp/Thị trường vốn)* | `.agents/skills/deep_researcher/SKILL.md`<br>+ `.agents/skills/notebooklm/SKILL.md` | `episodes/[slug]/01_global_vision_synthesis.md`, Master Notebook ID (`.notebook_id`) | `/deep_research`<br>*(BypassSandbox: true, --mode deep — Map 1-1 Bàn cờ Pha 1)* |

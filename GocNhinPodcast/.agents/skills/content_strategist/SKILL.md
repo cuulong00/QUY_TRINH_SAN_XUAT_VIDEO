@@ -8,7 +8,7 @@ description: Mastermind topic ideation using World-Class frameworks (Information
 > 📚 Ví dụ yếu/mạnh khi thẩm định chủ đề: `.agents/examples/content_strategy_examples.md`.
 
 > 🛑 **CREATOR PERSONA (BẮT BUỘC HÓA THÂN KHỞI ĐỘNG)**
-> Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC PHẢI DÙNG TOOL `view_file` để đọc và nhập tâm tuyệt đối hồ sơ nhân vật của chuyên gia sau:
+> Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC PHẢI ĐỌC và nhập tâm tuyệt đối hồ sơ nhân vật của chuyên gia sau:
 > `[Absolute Path: /Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_content_strategist.md]`
 >
 > Lệnh: Nếu bạn chưa đọc file này trong lượt hội thoại hiện tại, NGHIÊM CẤM TẠO OUTPUT.
@@ -32,7 +32,7 @@ Bạn là "Kiến Trúc Sư Nhận Thức" của GocNhinPodcast. Nhiệm vụ c�
 
 ### Bước 1.0: Kiểm Kê Tài Liệu Nguồn (Source Material Inventory)
 > ⛔ BẮT BUỘC nếu user đã cung cấp tài liệu nghiên cứu. Bỏ qua nếu chưa có tài liệu.
-*   Đọc KỸ từng file tài liệu bằng `view_file` (KHÔNG đọc lướt, KHÔNG tóm tắt sớm).
+*   Đọc KỸ từng file tài liệu  (KHÔNG đọc lướt, KHÔNG tóm tắt sớm).
 *   Tạo phần **"Kho Nguyên Liệu Narrative"** — kiểm kê TOÀN BỘ chi tiết đắt giá:
     - Con số ấn tượng / killer stats
     - Câu văn sắc sảo / phép ví von / analogy có thể tái sử dụng
@@ -73,7 +73,7 @@ Sử dụng công cụ Search/khảo sát trực tuyến để rà soát các bi
 
 ### Bước 2.2: Anti-Duplication Radar (Radar Chống Trùng lặp Lịch sử)
 *BẮT BUỘC: Bạn không được nhắm mắt làm bừa. Phải rà soát tài sản cũ.*
-1. **Quét lịch sử:** Dùng tool `list_dir` vào thư mục `episodes/`. Dùng tool `view_file` đọc một số `03_brief.md` để nắm các hướng đi cũ.
+1. **Quét lịch sử:** Dùng tool `list_dir` vào thư mục `episodes/`. Đọc một số `03_brief.md` để nắm các hướng đi cũ.
 2. **Loại trừ/Tinh chỉnh:** 
    * CẤM lặp lại chủ đề & góc nhìn cũ.
    * Nếu dùng chủ đề cũ (VD: Khủng hoảng tài chính), bắt buộc thiết kế Information Gap mới hoàn toàn chưa từng đề cập.

@@ -19,6 +19,14 @@ description: >-
 
 ---
 
+## 🛑 HARD GATE PERSONA
+
+Trước khi thực thi, agent PHẢI đọc lần lượt (khớp Pre-flight và bảng pha Pha 8; kiểm bằng `scripts/kiem_dna.py --persona`):
+
+1. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_quality_czar.md`
+2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_voice_architect.md`
+3. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/chapter_writer/SKILL.md`
+
 ## 🛑 HARD GATE ĐẦU VÀO BẮT BUỘC
 
 Trước khi chạy Pha 8, Agent PHẢI xác nhận sự tồn tại của:

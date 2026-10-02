@@ -8,7 +8,7 @@ description: "Deep research protocol specialist (Direct RPC NotebookLM Engine). 
 # Deep Researcher — Nhà Nghiên Cứu Chuyên Sâu (Góc Nhìn Podcast)
 
 > 🛑 **CREATOR PERSONA (BẮT BUỘC HÓA THÂN KHỞI ĐỘNG)**
-> Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC PHẢI DÙNG TOOL `view_file` để đọc và nhập tâm tuyệt đối hồ sơ nhân vật của chuyên gia sau:
+> Trước khi thực thi bất kỳ bước nào trong Skill này, bạn BẮT BUỘC PHẢI ĐỌC và nhập tâm tuyệt đối hồ sơ nhân vật của chuyên gia sau:
 > `[Absolute Path: /Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_industrial_economist.md]`
 > `[Absolute Path: /Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_policy_analyst.md]`
 > Nếu đề tài thuộc Hình thái 5 (Doanh nghiệp/Tổ chức/Thị trường vốn), đọc thêm: `[Absolute Path: /Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_capital_markets_analyst.md]`

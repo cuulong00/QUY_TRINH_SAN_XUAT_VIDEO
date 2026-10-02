@@ -38,7 +38,7 @@ Mỗi episode PHẢI đi qua đúng trình tự sau. KHÔNG ĐƯỢC nhảy pha.
 
 | Pha | Output file | Chuyên Gia (Persona DNA) | Skill / Workflow | Trạng thái tự động |
 |---|---|---|---|---|
-| 1. Master Systemic Topography & Global Vision | `01_global_vision_synthesis.md` | `the_macro_strategist` (Chủ tịch) + `the_policy_analyst` + `the_critical_auditor` | `/init_episode` (Strategy Council — Bàn cờ 4 Tầng + Ma trận 4 Lăng kính Đối trọng + Prompt 5 Phản biện + Bản Cáo Trạng Phản Đề Thép) | Tự động |
+| 1. Master Systemic Topography & Global Vision | `01_global_vision_synthesis.md` | `the_macro_strategist` (Chủ tịch) + `the_policy_analyst` + `the_critical_auditor` | `/build_global_vision` (Strategy Council — Bàn cờ 4 Tầng + Ma trận 4 Lăng kính Đối trọng + Prompt 5 Phản biện + Bản Cáo Trạng Phản Đề Thép) | Tự động |
 | 2. Topographical Deep Research | `02_research_map.md` & `02_research_synthesis.md` | `the_policy_analyst` + `the_industrial_economist` (+ `the_capital_markets_analyst` nếu Hình thái 5 — Doanh nghiệp/Thị trường vốn) | `/deep_research` (NotebookLM Direct RPC — Contested Data & Trade-Offs Ledger) | Tự động |
 | 3. Strategy Brief | `03_brief.md` | `the_editorial_strategist` + `the_policy_analyst` | `/build_brief` | Tự động |
 | 4. Master Outline Engine (DÀN Ý TRƯỚC + BIỆN CHỨNG HEGEL) | `07_outline.md` | `the_dialectic_architect` (`the_editorial_strategist` + `the_dialectic_architect` + `the_critical_auditor`) | `/build_outline` (Biện chứng 3 Màn: Thesis ➔ Antithesis [The Devil's Chapter — Tri-Adversarial Red Team] ➔ Synthesis) | Tự động |
@@ -47,7 +47,7 @@ Mỗi episode PHẢI đi qua đúng trình tự sau. KHÔNG ĐƯỢC nhảy pha.
 | 6b. NST Initialization | `09_narrative_state_tracker.md` | `the_narrative_director` + `the_critical_auditor` | Khởi tạo Sổ cái trạng thái tự sự | Tự động |
 | 6c. Thumbnail Brief | `08_thumbnail_brief.md` | `the_visual_hook_director` | `thumbnail_prompter/SKILL.md` | Tự động |
 | 7. Chapter Writing | `chapter_XX.md` | Persona chỉ định từng chương + Khóa Khẩu Ngữ Oral Voice | `/write_chapter` (Anti-Token Syntax Ban, Tam Đoạn Luận Phản Biện 3 Nhịp) | Tự động |
-| 8. Merge Voiceover | `voiceover.md` | `the_quality_czar` | `/merge_voiceover` | Tự động |
+| 8. Merge Voiceover | `voiceover.md` | `the_quality_czar` + `the_voice_architect` | `/merge_voiceover` | Tự động |
 | 9. Retention Bridge Audit | `retention_bridge_audit.md` | `the_critical_auditor` | `retention_bridge_audit` SKILL | Tự động |
 | 10 & 11. Editorial, Compliance & Dialectical Audit | `10_compliance_report.md` | `the_policy_analyst` + `the_critical_auditor` + `the_editorial_strategist` + `the_compliance_editor` + `the_data_auditor` | `compliance_council/SKILL.md` (Term-Breath + Dialectical Rigor & Tri-Adversarial Red Team Audit 25%) | Tự động |
 | 12A. Visual Blueprint & Manifest (Classic I2V) | `visual_storyboard_blueprint.md` | `the_visual_storyteller` (Master Cinematic Visual Director) | `/generate_visual_prompts` (Stage 1) | **Chỉ chạy khi có yêu cầu** |
@@ -72,10 +72,10 @@ Mỗi episode PHẢI đi qua đúng trình tự sau. KHÔNG ĐƯỢC nhảy pha.
 
 > 🛑 **NGUYÊN TẮC BẤT BIẾN CHỐNG QUÊN DNA & CHỐNG ẢO GIÁC (ZERO-ASSUMPTION GATE):**
 > 1. Khi User ra lệnh bằng ngôn ngữ tự nhiên (không dùng slash command) hoặc khi Agent tự động điều phối: **TUYỆT ĐỐI CẤM SUY ĐOÁN MƠ HỒ HOẶC TỰ Ý TẠO FILE NGAY LẬP TỨC**.
-> 2. Agent **BẮT BUỘC** tra cứu bảng điều phối 1-1 bên dưới để xác định: (a) Persona DNA nào phải kích hoạt, (b) Skill nào phải dẫn đường, (c) Danh mục tài liệu nguồn bắt buộc phải gọi `view_file` nạp vào ngữ cảnh.
-> 3. **CHẾ TÀI KIỂM TOÁN TÁC CHIẾN:** Bất kỳ thao tác tạo file nào mà TRƯỚC ĐÓ chưa từng gọi `view_file` nạp file Persona DNA (`.agents/personas/...`) và file Skill (`.agents/skills/.../SKILL.md`) trong phiên làm việc đều bị coi là **VI PHẠM KỶ LUẬT HỆ THỐNG** và sẽ bị từ chối công nhận.
+> 2. Agent **BẮT BUỘC** tra cứu bảng điều phối 1-1 bên dưới để xác định: (a) Persona DNA nào phải kích hoạt, (b) Skill nào phải dẫn đường, (c) Danh mục tài liệu nguồn bắt buộc phải đọc vào ngữ cảnh.
+> 3. **CHẾ TÀI KIỂM TOÁN TÁC CHIẾN:** Bất kỳ thao tác tạo file nào mà TRƯỚC ĐÓ chưa đọc file Persona DNA (`.agents/personas/...`) và file Skill (`.agents/skills/.../SKILL.md`) trong phiên làm việc đều bị coi là **VI PHẠM KỶ LUẬT HỆ THỐNG** và sẽ bị từ chối công nhận.
 
-| Tín hiệu User (Trigger Phrases) | Pha & Tệp Đầu Ra (Target Output) | Chuyên Gia Kích Hoạt (Persona DNA Path) | Kỹ Năng Dẫn Đường (Skill Path) | Tài Liệu Nguồn Bắt Buộc Đọc (Mandatory Inputs via `view_file`) | Workflow / Lệnh Thực Thi |
+| Tín hiệu User (Trigger Phrases) | Pha & Tệp Đầu Ra (Target Output) | Chuyên Gia Kích Hoạt (Persona DNA Path) | Kỹ Năng Dẫn Đường (Skill Path) | Tài Liệu Nguồn Bắt Buộc Đọc (Mandatory Inputs) | Workflow / Lệnh Thực Thi |
 |---|---|---|---|---|---|
 | "khởi tạo", "init episode", "bắt đầu episode mới", "đề tài mới", "đánh giá đề tài", "chọn chủ đề", "bản đồ hệ thống", "bức tranh lớn", "quy hoạch tầm nhìn" | **Pha 1:** `01_global_vision_synthesis.md` | `.agents/personas/the_macro_strategist.md` (Chủ tịch)<br>+ `.agents/personas/the_critical_auditor.md`<br>+ `.agents/personas/the_policy_analyst.md` | `.agents/skills/strategy_council/SKILL.md` | Ý tưởng của User, tài liệu phác thảo ban đầu, hạt giống tin tức | `/init_episode`<br>*(Bàn cờ 4 Tầng + Ma trận 4 Lăng kính Đối trọng + Prompt 5 Phản biện + Bản Cáo Trạng Phản Đề Thép)* |
 | "research", "deep research", "nghiên cứu", "nghiên cứu sâu", "tìm data", "đào dữ liệu", "nạp nguồn" | **Pha 2:** `02_research_map.md` & `02_research_synthesis.md` | `.agents/personas/the_policy_analyst.md`<br>+ `.agents/personas/the_industrial_economist.md` | `.agents/skills/deep_researcher/SKILL.md`<br>+ `.agents/skills/notebooklm/SKILL.md` | `episodes/[slug]/01_global_vision_synthesis.md`, Master Notebook ID (`.notebook_id`) | `/deep_research`<br>*(Contested Data & Trade-Offs Ledger)* |
@@ -451,9 +451,9 @@ Khi làm bất kỳ bước lớn nào, đọc:
 ## Bảng Chuyên Gia Bắt Buộc Theo Pha — HARD GATE
 
 > 📋 **DATA LOADING PROTOCOL**
-> Trước khi sinh nội dung, Agent PHẢI dùng `view_file` đọc SKILL file và Persona file tương ứng. Việc đọc dữ liệu và viết nội dung CÓ THỂ diễn ra trong cùng một lượt chat — không cần tách riêng lượt báo cáo.
+> Trước khi sinh nội dung, Agent PHẢI đọc SKILL file và Persona file tương ứng. Việc đọc dữ liệu và viết nội dung CÓ THỂ diễn ra trong cùng một lượt chat — không cần tách riêng lượt báo cáo.
 
-> ⛔ ĐÂY LÀ NGUYÊN TẮC CAO NHẤT. Mỗi pha phải dùng ĐÚNG chuyên gia được chỉ định. Agent PHẢI dùng tool `view_file` đọc persona file VÀ SKILL file tương ứng trước khi tạo output. NGHIÊM CẤM tạo output nếu chưa đọc.
+> ⛔ ĐÂY LÀ NGUYÊN TẮC CAO NHẤT. Mỗi pha phải dùng ĐÚNG chuyên gia được chỉ định. Agent PHẢI đọc đọc persona file VÀ SKILL file tương ứng trước khi tạo output. NGHIÊM CẤM tạo output nếu chưa đọc.
 
 > 📢 **EXPERT CONTEXT (TÙY CHỌN):**
 > Khi chuyển chuyên gia, agent NÊN ghi ngắn gọn tên chuyên gia và pha đang thực hiện. Không bắt buộc banner đầy đủ — ưu tiên tốc độ và chất lượng output hơn hình thức.

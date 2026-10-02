@@ -12,7 +12,7 @@ description: >-
 
 ## 🛑 HARD GATE TOÀN BỘ WORKFLOW NÀY
 
-Trước khi thực thi BẤT KỲ bước nào, agent PHẢI dùng tool `view_file` đọc lần lượt các file sau:
+Trước khi thực thi BẤT KỲ bước nào, agent PHẢI đọc lần lượt các file sau:
 
 1. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_macro_strategist.md` (👑 Chief Systems Architect)
 2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_policy_analyst.md`

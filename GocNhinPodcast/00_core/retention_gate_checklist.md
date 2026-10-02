@@ -1,7 +1,7 @@
 # Retention Gate Checklist — Cổng Chặn Tự Động
 
 > 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
-> File này là **cổng chính thức cấp dàn ý** (Gate 1 / Gate D1) và cổng Ch.2 (Gate 2).
+> File này là **cổng chính thức cấp dàn ý** (Gate 1 / Gate D1) và cổng Ch.2 (Gate 2). Người chấm khác agent viết; chạy `scripts/kiem_pha.py --pha 4` trước và đính đầu ra (Q11).
 
 > File này là CỔNG CHẶN bắt buộc trong pipeline sản xuất.
 > Được chạy 2 lần: sau Outline (Gate 1) và sau viết Ch.2 (Gate 2).

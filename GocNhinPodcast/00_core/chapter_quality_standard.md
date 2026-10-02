@@ -1,7 +1,7 @@
 # chapter_quality_standard.md — Góc Nhìn Podcast
 
 > 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
-> File này là **cổng chính thức cấp chương** (CHQB-50).
+> File này là **cổng chính thức cấp chương** (CHQB-50). Người chấm khác agent viết; cổng máy `scripts/kiem_pha.py --pha 7` chạy trước và đầu ra dán vào báo cáo (Q11).
 # BỘ QUY CHUẨN ĐÁNH GIÁ CHẤT LƯỢNG TỪNG CHƯƠNG TRONG TỔNG THỂ BỨC TRANH TOÀN CẢNH
 ## (THE CHAPTER HOLISTIC QUALITY BENCHMARK — CHQB-50)
 *Thước đo kiểm toán từng chương đơn lẻ trong mối quan hệ hữu cơ với toàn bộ kịch bản*
@@ -149,7 +149,9 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 
 ---
 
-### 🛑 KIỂM TOÁN 5 ĐIỀU KIỆN LOẠI BỎ TRỰC TIẾP (HARD-FAIL GATES)
+### 🛑 KIỂM TOÁN 6 ĐIỀU KIỆN LOẠI BỔ TRỰC TIẾP (HARD-FAIL GATES)
+* [ ] **Đầu ra `scripts/kiem_pha.py --pha 7` (dán nguyên văn):** [ĐẠT / danh sách lỗi]
+* [ ] **Gate 0 (ZUI — suy diễn vô căn cứ, bịa chi tiết, viết vượt nhãn):** [Đạt / lỗi, kèm mã M hoặc OBS liên quan]
 * [x] **Gate 1 (Mạch nối tự sự):** ĐÃ ĐẠT — Gieo và gặt hạt giống mượt mà.
 * [x] **Gate 2 (Chống nhai lại số liệu):** ĐÃ ĐẠT — Không lặp lại cơ học số liệu cũ.
 * [x] **Gate 3 (Chống lạc trôi luận đề):** ĐÃ ĐẠT — Bám sát 100% chức năng giải phẫu.

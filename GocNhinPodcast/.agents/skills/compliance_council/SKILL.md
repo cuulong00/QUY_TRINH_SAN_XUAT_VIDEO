@@ -20,6 +20,7 @@ description: "Editorial & Compliance Council. Reviews script safety, legal compl
 > 5. `the_voice_architect` & `the_quality_czar` (Giám sát Kỷ luật Tai nghe & An toàn TTS)
 >
 > Nếu chưa nạp đủ các chuyên gia này trong phiên làm việc, NGHIÊM CẤM tạo báo cáo compliance.
+> **Tách vai (Q11):** hội đồng chấm là agent hoặc phiên khác với agent đã viết. Bước 0 của mọi lần chấm: chạy `KB_GRAPH=kb_v2 scripts/kiem_pha.py <slug> --pha 8` và dán đầu ra vào báo cáo; trụ cột 4 (Data Anchoring) chấm trên đầu ra đó, không chấm lại bằng cảm nhận. Cờ đỏ 13 (bịa chi tiết / vượt nhãn) là hard-fail.
 
 ---
 
@@ -118,6 +119,11 @@ Báo cáo compliance bắt buộc phải tuân theo cấu trúc sau:
 ```markdown
 # Editorial & Compliance Report — [Slug]
 
+## 0. Đầu ra cổng máy (`scripts/kiem_pha.py --pha 8`, dán nguyên văn)
+```
+[đầu ra]
+```
+
 ## 1. Điểm số chất lượng (Quality Scores — Thang điểm 10)
 * **Novelty & Systemic Insight (25%):** X/10 — [Nhận xét chi tiết]
 * **Dialectical Rigor & Symmetric Parity (25%):** X/10 — [Nhận xét Steelman, các lăng kính đã chọn trong hiến chương, [THE DEVIL'S CHAPTER], trade-offs, đối xứng 1-1]
@@ -151,6 +157,9 @@ Báo cáo compliance bắt buộc phải tuân theo cấu trúc sau:
 | 8 | Câu văn > 150 ký tự | Không | ✅ PASS |
 | 9 | Cấu trúc ngăn tủ "And Then" | Không | ✅ PASS |
 | 10 | Rò rỉ nhãn template `[BLOCK X]` | Không | ✅ PASS |
+| 11 | Ranh giới tư vấn đầu tư (`financial_boundaries.md`) | Không | ✅ PASS |
+| 12 | Claim thiếu nhãn / thiếu dòng lưu ý | Không | ✅ PASS |
+| 13 | Không có mã M / vượt nhãn / mất chân đỡ (hard-fail) | Không | ✅ PASS |
 
 **Đếm dấu hiệu cấu trúc (`00_core/anti_ai_isms.md` §3b):**
 | Chương | S1 không phải X mà là Y (≤2) | S2 câu chốt rỗng | S3/S4/S6/S7 | Đoạn có ≥2 dấu hiệu yếu | Trạng thái |

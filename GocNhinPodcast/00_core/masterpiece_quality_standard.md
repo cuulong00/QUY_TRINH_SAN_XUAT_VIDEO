@@ -141,6 +141,9 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
 3. **Gate 3 (Xuyên tạc Cơ chế):** Bóp méo bản chất pháp lý, tài chính hoặc kỹ thuật do sử dụng phép ẩn dụ cẩu thả, sai lệch.
 4. **Gate 4 (Lặp lại Dữ liệu Cơ học):** Nhai lại nguyên văn các số liệu đã xuất hiện ở Hook mà không tạo ra giá trị phân tích mới.
 5. **Gate 5 (Vi phạm Giới hạn Kỹ thuật Tai nghe):** Tồn tại câu voiceover dài quá 150 ký tự hoặc chứa dấu gạch ngang dài (`—`).
+6. **Gate 6 (Bịa chi tiết / Suy luận viết như dữ kiện):** chi tiết cụ thể (số, địa danh, so sánh nhất, mô tả vật thể, câu gán cho nguồn) không có mã `M-xx` trong `00_so_du_kien.md` hoặc mã OBS hiện hành; hoặc câu mang nhãn `market_analysis` / `opinion_commentary` được viết bằng giọng dữ kiện. Cổng máy `scripts/kiem_pha.py` bắt trước (`SO-KHONG-NGUON`, `SOSANH-NHAT`, `NHAN-ROI`, `OBS-LECH`); người chấm xác nhận.
+
+> **Ai chấm:** người chấm khác agent viết. Cổng máy chạy trước, đầu ra dán vào báo cáo. Không chấm "trong khối suy nghĩ" của người viết (user chốt 02/10/2026, WO-00 Q11).
 
 ---
 

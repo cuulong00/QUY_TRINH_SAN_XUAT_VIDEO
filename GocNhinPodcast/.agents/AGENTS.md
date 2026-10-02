@@ -16,7 +16,7 @@
 > 3. **Độ dài mặc định (Default Length Tier):** Mặc định khóa ở **Cấp 1–2 (8–25 phút)** — dải retention thực nghiệm tốt nhất của kênh (AVD 49–59.5%, xem `00_core/performance_benchmarks.md`). Cấp 3–4 (25–45+ phút) chỉ mở khi User phê duyệt riêng.
 > 4. **Vị trí CTA Subscribe:** Đúng **1 lần duy nhất**, cuối Chương 2, ngay trước Bridge sang Chương 3. Cấm CTA ở Chương 1 hoặc lặp lại ở chương sau (chi tiết giọng điệu: `00_core/voice_dna.md` mục 7.2).
 > 5. **The Devil's Chapter (Phản đề):** Mặc định là 1 chương độc lập ở cao trào Hồi 2 (xem mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" bên dưới). Với các định dạng ngắn (shorts, video dưới 8 phút) nơi tách riêng 1 chương làm vỡ nhịp, được phép nén phản đề thành 1 đoạn/beat rõ ràng trong thân bài, miễn là vẫn giữ đủ 3 Nhịp Steelmanning (mục 4 bên dưới) — quyết định này do `the_critical_auditor` chốt tại Pha 4 và phải nêu rõ lý do trong `07_outline.md`.
-> 6. **Mức độ duyệt tay (Manual Review Gate):** Nghiệm thu từng chương độc lập (xem mục "Nghiệm Thu Từng Chương & Khóa Hook Cứng" bên dưới) — Agent chỉ viết đúng 1 chương rồi dừng chờ User duyệt trước khi sang chương tiếp theo.
+> 6. **Mức độ duyệt tay (Manual Review Gate):** Nghiệm thu từng chương độc lập (xem mục "Nghiệm Thu Từng Chương & Khóa Hook Cứng" bên dưới) — Agent chỉ viết đúng 1 chương rồi dừng chờ User duyệt trước khi sang chương tiếp theo. **Thứ tự chấm mọi pha:** cổng máy `scripts/kiem_pha.py` → người chấm khác người viết (Claude hoặc agent khác) → user quyết gate. Không có khâu nào do agent viết tự cho điểm (Q11). Kỹ năng điều phối: `.agents/skills/orchestrator/SKILL.md`.
 
 ## 🎨 QUY ĐỊNH BẮT BUỘC: CANONICAL VISUAL DNA (SANG TRỌNG – TRẦM – ẤM – UY TÍN CAO – GẦN GŨI)
 

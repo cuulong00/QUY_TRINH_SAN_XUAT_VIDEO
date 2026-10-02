@@ -184,7 +184,8 @@ Trước khi viết, đối chiếu `08_chapter_briefs.md` hoặc brief để x�
 >    - Hóa giải mâu thuẫn bằng quy luật kinh tế vĩ mô và bằng chứng thực chứng, ĐỒNG THỜI công khai thừa nhận chi phí cơ hội hoặc sự đánh đổi cấu trúc (`admitted_trade_offs`). Không tô hồng giải pháp như một "phép màu toàn năng".
 >    - *Khẩu ngữ gợi ý:* *"Cái giá phải trả cho sự tăng tốc này là...", "Chọn con đường này thì thứ phải hy sinh là...", "Giải pháp này chỉ đứng vững khi..."* (gợi ý hướng, không chép nguyên câu; mẫu "không phải X mà là Y" và câu nghe sâu sắc bị giới hạn theo `00_core/anti_ai_isms.md` §3b)
 
-### Bước 3: TỰ SCAN & CRITIC QUA KHỐI THINKING NGẦM (Internal Co-pilot Audit)
+### Bước 3: TỰ RÀ TRƯỚC KHI NỘP (không phải cổng chấm)
+> Người viết tự rà để nộp bản sạch. Cổng chấm chính thức là `scripts/kiem_pha.py --pha 7` (chạy và dán đầu ra vào tin nộp) rồi người chấm khác theo `00_core/chapter_quality_standard.md`. Không tự cho điểm mình (Q11).
 Người viết rà soát bản nháp theo 14 tiêu chí dưới đây trước khi xuất tệp (cổng chấm chính thức do người khác và cổng máy thực hiện, xem WO-10):
 
 | # | Tiêu chí | Câu hỏi kiểm toán ngầm | Đạt? |
@@ -205,7 +206,7 @@ Người viết rà soát bản nháp theo 14 tiêu chí dưới đây trước 
 | 14 | **Cân Bằng Bàn Cờ Đối Xứng** | Nếu so sánh đa chủ thể, độ sâu BCTC và mức độ bóc tách của các bên có đạt tỷ lệ 1-1 không? | ☐ |
 
 ### Bước 4: HIỆU ĐÍNH HỮU CƠ & XUẤT BẢN THẢO SẠCH (Organic Self-Correction)
-Nếu phát hiện bất kỳ câu nào vi phạm (dài quá 150 ký tự, dính từ cấm AI, melodrama, mở màn bằng niên biểu hành chính, hoặc vi phạm tính đối xứng) ➡️ Mô hình **tự động tái cấu trúc hữu cơ cả đoạn văn** ngay trong khối suy luận ngầm. Tuyệt đối không chắp vá cơ học. Chỉ lưu và xuất tệp kịch bản `chapter_XX.md` khi 100% 14 tiêu chí đã ĐẠT.
+Nếu phát hiện bất kỳ câu nào vi phạm (dài quá 150 ký tự, dính từ cấm AI, melodrama, mở màn bằng niên biểu hành chính, hoặc vi phạm tính đối xứng) ➡️ Mô hình **tự động tái cấu trúc hữu cơ cả đoạn văn** ngay trong khối suy luận ngầm. Tuyệt đối không chắp vá cơ học. Lưu `chapter_XX.md`, chạy `KB_GRAPH=kb_v2 scripts/kiem_pha.py <slug> --pha 7`, sửa tới khi ra ĐẠT, rồi nộp kèm đầu ra lệnh. Việc cho điểm thuộc người chấm.
 
 
 ## Kỹ thuật mở rộng an toàn (khi chương quá ngắn)

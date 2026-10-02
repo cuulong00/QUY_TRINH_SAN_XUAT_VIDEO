@@ -1,5 +1,8 @@
 # Chapter Writer Examples — contrastive bank
 
+> ⚠️ Số liệu trong file này lấy từ tập `gdp-quy-1-2026` (đã xuất bản, quý I/2026) và chỉ để minh họa cấu trúc câu, nhịp và giọng. KHÔNG chép số sang tập khác; mọi số trong kịch bản phải có mã OBS hoặc nguồn vault riêng (WO-03).
+
+
 ## Cách dùng
 File này không phải khuôn để copy.
 Nó dùng để dạy **The Working Writer** phân biệt:

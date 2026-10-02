@@ -1,5 +1,8 @@
 # Golden Transition — Mẫu chuyển đoạn tự nhiên
 
+> ⚠️ Số liệu trong file này lấy từ tập `gdp-quy-1-2026` (đã xuất bản, quý I/2026) và chỉ để minh họa cấu trúc câu, nhịp và giọng. KHÔNG chép số sang tập khác; mọi số trong kịch bản phải có mã OBS hoặc nguồn vault riêng (WO-03).
+
+
 ## Cách dùng file này
 Transition giữa các chương/phần là nơi script dễ "lộ AI" nhất. Đây là 5 **loại tư duy chuyển đoạn** — KHÔNG phải 5 template câu. Mỗi lần chuyển đoạn phải viết mới hoàn toàn dựa trên nội dung cụ thể, chỉ cần thuộc 1 trong 5 loại tư duy này.
 

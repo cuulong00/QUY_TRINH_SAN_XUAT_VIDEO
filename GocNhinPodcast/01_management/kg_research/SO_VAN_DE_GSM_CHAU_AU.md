@@ -204,6 +204,12 @@ Quy tắc: muốn kết luận nguyên nhân thuộc phía agent, trước hết
 - Hướng xử lý: cổng nạp đối chiếu số và từ khóa giữa statement và quote. Không khớp thì chặn. Quét lại toàn kho bằng luật này.
 - Trạng thái: mở.
 
+**V31 · WO-03 · NẠP + TỔ CHỨC (hai số cho cùng chỉ tiêu, không cờ mâu thuẫn)**
+- Hiện tượng: chi phí lãi vay Vingroup năm 2025 có hai bản trong kho: 29.159.736 triệu VND (`OBS-0a95967c83f5df86`, BCTC hợp nhất trang 216) và 26.442.791 triệu VND (`OBS-947ad82ec3f10e87`, "thuyết minh chi phí tài chính"). Cùng thực thể, cùng kỳ, cùng thuộc tính `chi_phi_lai_vay`, lệch 2.717 tỷ, không có cờ mâu thuẫn. Phát hiện khi sửa ví dụ `stance_and_judgment.md` (WO-03).
+- Bản chất: kiểm mâu thuẫn khi nạp chỉ so trong cùng form, hoặc một bản thiếu qualifier `pham_vi` nên không bị coi là trùng. Cùng lớp với V02, V27.
+- Hướng xử lý: như V02 (lớp sự kiện/chỉ tiêu gom nhiều nguồn, lệch số sinh cờ). Trước mắt: `kbq` in cả hai và đánh dấu "LỆCH" khi cùng thực thể, kỳ, thuộc tính mà khác giá trị.
+- Trạng thái: mở. Ví dụ DNA dùng bản BCTC hợp nhất (29.160 tỷ) và ghi mã.
+
 ## D. ĐIỀU PHỐI (Claude)
 
 **V17 · 02/10 · ĐIỀU PHỐI**

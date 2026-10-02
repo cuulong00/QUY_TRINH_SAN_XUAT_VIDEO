@@ -20,7 +20,7 @@ Một tập có thể chốt lập trường ở các câu hỏi phụ (cơ ch�
 3. **Điều kênh đã chắc chắn** trong câu chuyện (các cơ chế đã rõ), để phần mở không kéo theo cả phần đã có câu trả lời.
 4. **Câu hỏi mở cuối cùng** hướng vào đúng biến số quyết định, không phải câu hỏi chung chung.
 
-> Ví dụ: "Nếu Vingroup còn đủ sức bù chi phí này thêm ba năm, GSM có thể thành cửa vào châu Âu thật. Nếu dòng tiền Vinhomes chững lại trước đó, châu Âu sẽ là chi phí đầu tiên bị cắt. Chỉ số đáng theo dõi là số xe đăng ký cá nhân ở Hà Lan qua từng quý. Bạn đặt cược vào kịch bản nào?"
+> Ví dụ (minh họa cấu trúc, không phải dữ kiện): "Nếu GSM giữ nhịp mở rộng ở châu Âu thêm ba năm và số xe đăng ký cá nhân tăng theo, GSM có thể thành cửa vào châu Âu thật. Nếu tập đoàn thu hẹp mở rộng nước ngoài trước đó, châu Âu là mảng đầu tiên bị cắt. Chỉ số đáng theo dõi là số xe VinFast đăng ký cá nhân ở Hà Lan qua từng quý. Bạn đặt cược vào kịch bản nào?"
 
 ## 2. Nhận định phải được "kiếm", không được "phát"
 
@@ -33,8 +33,10 @@ Nhãn phán xét ("ảo ảnh", "hủy hoại", "thảm họa", "canh bạc", "t
 
 | ❌ Nhãn | ✅ Dữ kiện mang sức nặng |
 |---|---|
-| "Đó là một ảo ảnh thương mại." | "Khoảng 1.500 chiếc đã sang châu Âu. Gần như không chiếc nào đến tay một người mua cá nhân. Người mua là GSM, cùng nằm trong nhà Vingroup." |
-| "Gánh nặng tài chính tự sát." | "Mỗi ngày, lãi vay của tập đoàn là 113 tỷ đồng." |
+| "Đó là một ảo ảnh thương mại." | "Lô tàu Sea Patris tháng 7/2026 chở khoảng 1.500 xe VF 6 sản xuất riêng cho GSM (`OBS-0a1f03ba501ff9f2`; GSM công bố hơn 1.300 xe, `OBS-a93e5b03ae44a7b6`). Trong hai năm 2024–2025, VinFast bán lẻ ở Hà Lan 28 xe (`OBS-edd9166742f77150`). Người mua lô này là GSM, cùng nằm trong Vingroup." |
+| "Gánh nặng tài chính tự sát." | "Chi phí lãi vay hợp nhất của Vingroup năm 2025 là 29.160 tỷ đồng (`OBS-0a95967c83f5df86`)." |
+
+Số trong ví dụ phải có mã OBS hiện hành. Không tự chia ra số "mỗi ngày" (phép tính kênh tự làm) và không đặt số toàn tập đoàn cạnh doanh thu một mảng hay một thị trường (lệch phạm vi, sổ vấn đề V16).
 
 ## 4. Phán xét cơ chế, không phán xét con người hay động cơ
 
@@ -49,7 +51,7 @@ Không gán cho doanh nghiệp, cơ quan hay cá nhân một tuyên bố, ý đ�
 
 | Tầng | Nhãn claim | Cách nói | Ví dụ |
 |---|---|---|---|
-| Dữ kiện | `verified_data` | Nói thẳng, không rào đón | "VinFast xác nhận với SEC rằng đội taxi là phòng lái thử di động." |
+| Dữ kiện | `verified_data` | Nói thẳng, không rào đón | "Hồ sơ VinFast nộp SEC (424B3, F-1) nói hợp tác với GSM mang lại cơ hội cho khách quốc tế lái thử và trải nghiệm xe (`OBS-70086fcb436a21a8`)." |
 | Suy luận | `market_analysis` | Chỉ ra đường đi từ số liệu tới kết luận | "Đặt hai con số này cạnh nhau…" · "Cách đọc hợp lý nhất là…" · "Nói cách khác…" |
 | Đặt cược | `opinion_commentary` | Nhận là của mình, nói rõ vì sao có thể sai | "Chúng tôi cho rằng…" · "Chỗ chúng tôi đặt cược là…" · "Góc nhìn của chúng tôi khác số đông ở chỗ…" |
 
@@ -88,4 +90,4 @@ Một nhận định an toàn khi đủ bốn điều: (1) các dữ kiện làm
 
 > ❌ "GSM không thực sự mở được con đường bán xe cho VinFast tại châu Âu. Đó là một ảo ảnh thương mại khi 100% lượng xe xuất khẩu chỉ phục vụ đội xe nội bộ."
 >
-> ✅ "Hồ sơ gửi SEC gọi đội taxi GSM là phòng lái thử di động. Nhưng một phòng lái thử chỉ có ý nghĩa khi có người bước ra mua xe. Tới giờ, gần như toàn bộ xe VinFast sang châu Âu vẫn do chính GSM đứng tên. Nên câu hỏi đáng đặt ra không còn là GSM có chạy được ở Amsterdam hay không, vì chấp nhận bù lỗ thì chạy được. Câu hỏi là bảng cân đối của Vingroup sẽ trả tiền cho phòng lái thử này trong bao lâu. Chúng tôi đặt cược rằng đó mới là phép thử thật. Và nếu năm tới số xe đăng ký cá nhân ở Hà Lan tăng rõ rệt, chúng tôi sẵn sàng nhận mình đã đọc sai."
+> ✅ "Hồ sơ VinFast nộp SEC nói hợp tác với GSM cho khách quốc tế cơ hội lái thử xe (`OBS-70086fcb436a21a8`). Nhưng một chuyến lái thử chỉ có ý nghĩa khi có người bước ra mua xe. Lô 1.500 xe VF 6 sang châu Âu tháng 7/2026 được sản xuất riêng cho GSM (`OBS-0a1f03ba501ff9f2`); hai năm trước đó VinFast bán lẻ ở Hà Lan 28 xe (`OBS-edd9166742f77150`). Nên câu hỏi đáng đặt ra không còn là GSM có chạy được ở Amsterdam hay không. Câu hỏi là đội taxi có biến khách đi xe thành người mua xe không, và luật chơi ở Đan Mạch, Hà Lan có cho GSM lợi thế nào mà Uber, Bolt không có. Chúng tôi đặt cược rằng đó mới là phép thử thật. Và nếu năm tới số xe đăng ký cá nhân ở Hà Lan tăng rõ rệt, chúng tôi sẵn sàng nhận mình đã đọc sai."

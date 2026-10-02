@@ -75,8 +75,11 @@ Hội đồng tiến hành tối thiểu 2 vòng tranh biện:
 * **Vòng 2 — Gọt giũa, Đồng thuận & Phê duyệt:**
   * `the_macro_strategist` phân tích lại các ý kiến, bác bỏ những đề xuất giật gân làm loãng bản chất đề tài, khóa chặt **Vector Đánh Đổi & Chi Phí Cơ Hội (Trade-offs & Opportunity Costs)**, hoàn thiện Bản đồ Địa hình Hiện thực 4 Tầng.
 
-### Bước 3: Lập Kế Hoạch Nghiên Cứu Địa Hình Ánh Xạ 1-1 Với 5 Câu Hỏi Bản Thể Học (Topographical Research Blueprint)
-* Không chia query nghiên cứu tùy tiện. Hội đồng thiết kế:
+### Bước 2c: Bản Đồ Nền Từ Kho → Giả Thuyết Cạnh Tranh → Ma Trận Bằng Chứng
+* Trước Bước 2, hội đồng đọc bản đồ nền từ kho (template 01 mục 1.4, mọi dòng có OBS) và đặt ≥ 3 giả thuyết cho câu hỏi trung tâm (luôn có giả thuyết "nhàm"; N2 = 1 thì ép thêm hai giả thuyết đối lập). Tranh biện Bước 2 diễn ra trên các giả thuyết này. Kết quả ghi vào `00_bang_gia_thuyet.md` (khuôn: `02_templates/masterpiece_pipeline/00_bang_gia_thuyet_template.md`). Quy trình chi tiết: `.agents/workflows/build_global_vision.md` Bước 2b.
+
+### Bước 3: Lập Kế Hoạch Nghiên Cứu Đi Từ Ma Trận Bằng Chứng (Topographical Research Blueprint)
+* Kế hoạch nhắm vào ô "chưa phân biệt" của ma trận và GAP của `kbaudit`; mỗi prompt ghi mã ô hoặc GAP; số prompt theo N1. Danh mục 5 khía cạnh dưới đây chỉ dùng để kiểm độ phủ. Hội đồng thiết kế:
   * **Bộ 5 Prompts nạp nguồn chuyên sâu (Targeted Ingestion Prompts — BẮT BUỘC ÁNH XẠ 1-1 VỚI BỘ 5 CÂU HỎI BẢN THỂ HỌC):**
     - **Prompt 1 (Entity Anchors & Anatomy):** Thu thập Fact-sheet, lịch sử, cơ cấu, các báo cáo tài chính/văn bản thể chế chính thức của thực thể trung tâm (Bắt buộc nạp BCTC kiểm toán đối xứng của mọi chủ thể).
     - **Prompt 2 (Arena, Circuit & Upstream/Downstream Flow):** Quét toàn bộ không gian vận động, mạch truyền dẫn, chuỗi giá trị và các ngành công nghiệp/hạ tầng/xã hội phụ thuộc.
@@ -97,7 +100,7 @@ Tệp `01_global_vision_synthesis.md` bắt buộc chứa 3 phần:
    - **Khối Bắt Buộc: Bàn Cân Dữ Liệu Đối Xứng 1-1 (Symmetric Parity Framework)** — Bảng so sánh chỉ số BCTC kiểm toán, cơ cấu nợ, tử huyệt của các bên.
    - **Khối Bắt Buộc: Sổ Cái Tiến Trình Tranh Biện Lịch Sử 3 Thời Kỳ (The 3-Epoch Debate Ledger)** — Dòng chảy nhận thức qua 3 giai đoạn.
    - **Khối Bắt Buộc: THE STRONGEST OPPOSING THESIS (Bản Cáo Trạng Phản Đề Thép)** — Tổng hợp 3 luận điểm công kích mạnh mẽ nhất của phe đối lập và các số liệu bất lợi cần giải mã.
-   - Quyết định phê duyệt (Strategy Council Verdict) có chữ ký của Chủ tịch `the_macro_strategist` (Áp dụng nguyên tắc "No Steelman, No Go").
+   - Quyết định phê duyệt (Strategy Council Verdict) có chữ ký của Chủ tịch `the_macro_strategist` (Áp dụng nguyên tắc "No Steelman, No Go" và "No 3 Hypotheses, No Go": chưa có ≥ 3 giả thuyết cạnh tranh trong `00_bang_gia_thuyet.md` thì không duyệt).
 2. **Phần II: Bản Đồ Địa Hình Hiện Thực 4 Tầng (Universal 4-Tier Blueprint):**
    - *Tầng 1:* System Meta-Instructions & Compliance Guardrails (Kèm tuyên bố Hình thái Chủ thể).
    - *Tầng 2:* Macro Landscape & Systemic Forces (Sơ đồ ASCII Bàn cờ + Ma trận 4 Lăng kính Đối trọng).
@@ -105,7 +108,8 @@ Tệp `01_global_vision_synthesis.md` bắt buộc chứa 3 phần:
    - *Tầng 4:* Target Ground-Truth Evidence Checklist & Immutable Data Vault:
      * *Pha 1:* Đóng vai trò là **Danh Mục Mỏ Neo Dữ Liệu Cần Điều Tra (Target Evidence Checklist)** xác lập các chỉ tiêu định lượng, báo cáo kiểm toán, dữ liệu đối chiếu cần truy lùng độc lập; TUYỆT ĐỐI CẤM đoán mò hay tự bịa số liệu khi chưa qua Deep Research.
      * *Pha 2:* Cập nhật thành Sổ cái `DATA-01` đến `DATA-XX` bất biến bằng **100% số liệu thật đã kiểm toán từ Vault**.
-3. **Phần III: Kế Hoạch Nghiên Cứu Địa Hình 1-1 Cho Pha 2 (Topographical Research Blueprint):**
+3. **Phần III: Kế Hoạch Nghiên Cứu Đi Từ Ma Trận Bằng Chứng Cho Pha 2 (Topographical Research Blueprint):**
+   - Mỗi prompt / câu trích xuất ghi mã ô ma trận `[H?↔H?]` hoặc GAP; không nghiên cứu thứ kho đã trả lời.
    - Bộ 5 Ingestion Prompts (ánh xạ 1-1 với Bộ 5 Câu hỏi Bản thể học, có Prompt 5 Phản biện bắt buộc và BCTC đối xứng).
    - Danh sách Batch Extraction Queries.
 

@@ -29,6 +29,13 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
   - *Cảm giác sau khi xem xong:* Khán giả sẽ vỡ òa nhận ra điều gì về bản chất cuộc chơi?
 - **Grand Payoff (Aufhebung):** Cú nhảy nhận thức ở Màn 3 — Giải pháp thích ứng vượt thoát và sự thừa nhận đánh đổi sòng phẳng.
 
+### 1b. Kết Luận Từ Ma Trận Bằng Chứng (phần F của form tư duy — chép từ `00_bang_gia_thuyet.md` mục 4, không viết lại)
+- **Giả thuyết còn đứng:** `H?` — vì có ít bằng chứng ngược nhất (liệt kê mã E ngược còn lại); các giả thuyết bị loại/thu hẹp và hàng E đã loại chúng.
+- **Phạm vi được khẳng định:** chỉ phần có bằng chứng phân biệt (N4). Phần chưa phân biệt được ghi là điều kiện sai, không ghi là khẳng định.
+- **Chế độ kết (N3):** A / B, lý do theo `00_core/stance_and_judgment.md` §1. Điều kiện khiến kết luận sai (§6): …
+- **Bằng chứng BÁC còn đứng mà kịch bản phải chung sống:** mã E, và luận điểm thu hẹp thế nào vì chúng.
+- Cách nghĩ (mục này) tách khỏi cách kể (mục 3): kết luận có thể nói thẳng ở đây, nhưng trong kịch bản chỉ lộ dần theo cấu trúc tò mò.
+
 ---
 
 ## 2. PHÂN LOẠI CHỦ ĐỀ (TOPIC TYPE CLASSIFICATION GATE)
@@ -57,11 +64,10 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 
 ## 4. BẢNG NEO SỐ LIỆU BẤT BIẾN (DATA PASSPORT EMBEDDED)
 
-| Mã | Dữ Liệu Thực Chứng | Nguồn Gốc File Trong `research_vault/` | Mã Footnote & Trích Dẫn Gốc (≤ 15 từ) | Ý Nghĩa Phân Tích |
-|---|---|---|---|---|
-| `DATA-01` | `[Con số 1]` | `[File nguồn 1]` | `[Footnote X]` - `"..."` | `[Ý nghĩa]` |
-| `DATA-02` | `[Con số 2]` | `[File nguồn 2]` | `[Footnote Y]` - `"..."` | `[Ý nghĩa]` |
-| `DATA-03` | `[Con số 3]` | `[File nguồn 3]` | `[Footnote Z]` - `"..."` | `[Ý nghĩa]` |
+| Mã | Dữ Liệu Thực Chứng | Nguồn: `OBS-…` hoặc file `research_vault/` | Mã Footnote & Trích Dẫn Gốc (≤ 15 từ) | Kỳ, phạm vi, đơn vị | Nhãn mắt xích (`verified_data` / `market_analysis` / `opinion_commentary`) và mã E trong `00_bang_gia_thuyet.md` | Ý Nghĩa Phân Tích |
+|---|---|---|---|---|---|---|
+| `DATA-01` | `[Con số 1]` | `OBS-…` / `R01.md` | `[Footnote X]` - `"..."` | `[2025, hợp nhất, tỷ VND]` | `verified_data` · `E03` | `[Ý nghĩa]` |
+| `DATA-02` | `[Con số 2]` | … | … | … | `market_analysis` · `E07` | `[Ý nghĩa]` |
 
 ---
 
@@ -69,7 +75,8 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 
 - **Vùng cấm nội dung:**
   * CẤM ngôn từ bào chữa, giải vây hoặc làm PR cho bất kỳ thương hiệu nào.
-  * CẤM phân cực thiện ác; mọi hành vi kinh doanh phải giải thích bằng bài toán điểm hòa vốn và rủi ro.
+  * CẤM phân cực thiện ác; mọi hành vi kinh doanh phải giải thích bằng động lực, chi phí cơ hội và đánh đổi (`script_architect` §1 mục 8).
+  * CẤM viết suy luận thành dữ kiện: mọi mắt xích trong brief mang nhãn theo `00_bang_gia_thuyet.md`; câu nào không có mã E/OBS thì không được viết như dữ kiện.
   * CẤM tư duy ngăn tủ; 100% luận điểm phải phục vụ Biến cố trung tâm.
 - **Quy chuẩn kiểm toán:** Tuân thủ 100% Bảng cấm thuật ngữ trong `01_global_vision_synthesis.md`.
 

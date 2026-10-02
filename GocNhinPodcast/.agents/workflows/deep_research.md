@@ -40,17 +40,18 @@ Tác nhân phải thiết lập và xuất bản tệp `episodes/[slug]/02_resea
 1. **Hiển thị Log Bắt Đầu Chạy:** In ra màn hình chat thông báo: *"Bắt đầu khởi chạy Pha 2: Data Mining & Verification cho tập [slug]"*.
 2. **Thiết Kế & Hiển Thị Bộ Prompts Nạp Nguồn Chuyên Sâu (Targeted Modular Ingestion Prompts):**
    - ⛔ **CẤM TUYỆT ĐỐI nhồi toàn bộ nội dung vào 1 query duy nhất** (làm phân tán và loãng nguồn của Deep Crawler).
-   - Thiết kế và hiển thị bộ **3–5 Prompts nạp nguồn chuyên sâu độc lập**, mỗi prompt tập trung cào sâu vào một mảng đề tài trọng điểm (1. Lý thuyết vĩ mô & Năng suất; 2. Case studies quốc tế; 3. Thực trạng kiểm toán trong nước; 4. Đột phá chính sách/thể chế).
+   - Đọc `episodes/[slug]/00_bang_gia_thuyet.md` mục 2b (ô chưa phân biệt) và `01b_knowledge_audit.md` (GAP). Mỗi prompt nạp nguồn nhắm một hoặc vài ô/GAP cụ thể và ghi mã `[H?↔H? | GAP-…]`. Số prompt theo nút N1 trong hiến chương (phủ cao: ít, nhắm thẳng; phủ thấp: thêm vòng gom nền). Không viết prompt cho thứ kho đã trả lời được. Prompt phản biện (khía cạnh 5) luôn bắt buộc.
 3. **Thiết kế & Hiển thị Danh sách Câu hỏi Trích xuất tối ưu (Optimized Extraction Queries):**
-   - Thiết kế và hiển thị danh sách 8-12 câu hỏi trích xuất cụ thể tương ứng với từng chương của Khung tuyến kịch bản, đính kèm nhãn chương (`Target Chapter`) và áp dụng các quy chuẩn kiểm toán.
-4. **Lưu trữ Kế hoạch:** Ghi lại toàn bộ nội dung trên vào tệp `episodes/[slug]/02_research_plan.md`.
+   - Thiết kế và hiển thị danh sách câu hỏi trích xuất, mỗi câu gắn mã ô ma trận hoặc GAP (`[H1↔H2 | GAP-L03]`), không gắn nhãn chương (Pha 2 chưa có chương). Số câu theo số ô chưa phân biệt.
+4. **Lưu trữ Kế hoạch:** Ghi lại toàn bộ nội dung trên vào tệp `episodes/[slug]/02_research_plan.md`. Chạy `KB_GRAPH=kb_v2 scripts/kbaudit --check-plan [slug]` phải ĐẠT trước khi nạp nguồn.
 
 *🛑 CHỐNG CHẠY HỜI HỢT:* Chỉ khi kế hoạch nghiên cứu và trích xuất dữ liệu trên đã được hiển thị đầy đủ trên màn hình chat và lưu lại trên đĩa, tác nhân mới được phép thực thi các bước gọi công cụ tiếp theo.
 
 ### Bước 4: Thực thi Tương tác NotebookLM (Nạp nguồn & Trích xuất)
 1. **DEEP RESEARCH EXECUTION (Nạp nguồn phân hạch):** Chạy tuần tự các lệnh `notebooklm source add-research` (hoặc công cụ Deep Research) cho từng Prompt chuyên sâu đã thiết kế ở Bước 3, nạp dồn toàn bộ nguồn vào **CÙNG 1 Master Notebook duy nhất** (`-n <notebook_id> --mode deep --import-all`).
 2. **EXTRACTION & VERIFICATION (Trích xuất):** Chạy `mcp_notebooklm-mcp_batch_to_vault` hoặc script trích xuất để rút dữ liệu theo danh sách câu hỏi đã thiết kế, lưu vào `episodes/[slug]/research_vault/` và tiến hành đối chiếu số liệu.
-3. **SUPPLEMENT & SYNTHESIZE:** Tạo tệp `02_research_map.md` (Bản đồ tọa độ) và `02_research_synthesis.md` (Bản tóm tắt cơ chế vĩ mô).
+3. **CẬP NHẬT MA TRẬN (phần E của form tư duy):** mỗi dữ kiện mới từ vault thành một hàng E trong `00_bang_gia_thuyet.md` (nguồn `vault/R0X` + câu nguyên văn + kỳ, phạm vi), chấm `+ / − / 0`; giả thuyết có bằng chứng ngược thì thu hẹp hoặc loại, ghi dòng lịch sử. Không được xóa giả thuyết mà không có hàng E ngược.
+4. **SUPPLEMENT & SYNTHESIZE:** Tạo tệp `02_research_map.md` (Bản đồ tọa độ) và `02_research_synthesis.md` (Bản tóm tắt cơ chế vĩ mô). Synthesis kết bằng trạng thái ma trận: giả thuyết nào còn đứng, ô nào vẫn chưa phân biệt, bằng chứng BÁC nào còn đứng.
 
 ### Bước 5: Báo cáo kết quả
 Sau khi hoàn tất, hiển thị tóm tắt:
@@ -58,6 +59,7 @@ Sau khi hoàn tất, hiển thị tóm tắt:
 - Số file đã tạo trong research_vault/
 - Bảng data points chính (thesis + counter-thesis)
 - Data gaps còn thiếu (nếu có)
+- Trạng thái ma trận: số giả thuyết còn đứng / đã loại; ô chưa phân biệt còn lại; kết quả `kbaudit --check-evidence` sau Pha 2
 
 ## Human Approval Gate
 Sau khi hoàn tất Research Map → DỪNG và chờ user duyệt trước khi chuyển sang pha tiếp theo.

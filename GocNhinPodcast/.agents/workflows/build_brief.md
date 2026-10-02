@@ -20,7 +20,7 @@ NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc đọ
 
 1. Hỏi episode slug nếu chưa có.
 
-2. Đọc: `00_core/voice_dna.md`, `00_core/anti_ai_isms.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/01_global_vision_synthesis.md`, `episodes/[slug]/02_research_map.md`, và `episodes/[slug]/02_research_synthesis.md`.
+2. Đọc: `episodes/[slug]/00_hien_chuong.md` (đề bài khóa, N1–N5), `episodes/[slug]/00_bang_gia_thuyet.md` (giả thuyết còn đứng, ma trận, bằng chứng BÁC), `00_core/voice_dna.md`, `00_core/anti_ai_isms.md`, `00_core/vietnam_macro_context.md`, `episodes/[slug]/01_global_vision_synthesis.md`, `episodes/[slug]/02_research_map.md`, và `episodes/[slug]/02_research_synthesis.md`.
 
 3. **GIAO THỚC GHI LOG TIỀN KHỞI ĐỘNG (PRE-FLIGHT LOGGING):**
    TRƯỚC KHI tạo `03_brief.md`, Agent BẮT BUỘC in hộp log ra màn hình chat:
@@ -55,6 +55,9 @@ NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc đọ
 
    ```
    ✅ Checklist output bắt buộc của Pha 3 (Masterpiece Strategy Brief):
+   [ ] Câu hỏi trung tâm và tiêu đề đúng nguyên văn `00_hien_chuong.md`; từ khóa đã loại không xuất hiện
+   [ ] Mục 1b: giả thuyết còn đứng chép từ `00_bang_gia_thuyet.md` mục 4 (ít bằng chứng ngược nhất), phạm vi khẳng định theo N4, bằng chứng BÁC còn đứng được nêu; chế độ kết khớp N3
+   [ ] Mọi chân đỡ của giả thuyết dẫn đầu ở Pha 1 còn mặt trong Data Passport, hoặc có dòng lý do bỏ
    [ ] Biến cố trung tâm (Central Inciting Incident) — sự kiện/văn bản cụ thể phát nổ mở màn
    [ ] Câu hỏi lớn tối thượng (Central Dramatic Question) — câu hỏi điều tra xuyên suốt kịch bản
    [ ] Hợp đồng nhận thức (Cognitive Contract) — Lời hứa làm sáng tỏ cơ chế + Cảm xúc Grand Payoff
@@ -64,7 +67,7 @@ NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc đọ
    [ ] Lăng kính độc bản (Unique Lens) — Phân tích kinh tế/thể chế/trò chơi, không sao chép báo chí
    [ ] Mỏ neo vật lý (Physical Anchor) — Vật thể thực tế sờ thấy được làm điểm tựa trực quan
    [ ] Cấu trúc tự sự tăng tiến — Khung 3 Màn nhân quả (Therefore / But) & Mô hình Búp bê Nga 4 tầng
-   [ ] Bảng mỏ neo số liệu chiến lược — Data Passport đối chiếu 1-1 với research_vault/ và 01_global_vision_synthesis.md
+   [ ] Bảng mỏ neo số liệu chiến lược — Data Passport: mỗi dòng có `OBS-…` hoặc file vault, kỳ/phạm vi/đơn vị, nhãn mắt xích và mã E
    [ ] Ma trận quy đổi tiền tệ — Thống nhất tỷ giá VNĐ/Ngoại tệ cho kịch bản thoại
    [ ] Ba rào cản biên tập chống bào chữa (3 Cognitive Gates) — Khóa vị thế nhà điều tra độc lập
    [ ] Truy vết Vault (Traceability Matrix) — Danh sách link đối chiếu trực tiếp về các tệp vault gốc

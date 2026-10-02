@@ -45,6 +45,7 @@ NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc nạp
 
 ### Bước 1: Xác định Slug & Đọc Tài Liệu Nguồn
 - Xác định `episodes/[slug]/`.
+- Đọc `episodes/[slug]/00_hien_chuong.md` trước (câu hỏi trung tâm, chỉ đạo user, điều đã loại, Hồ sơ đề tài N1–N5). Chưa có thì dừng, tạo theo `02_templates/masterpiece_pipeline/00_hien_chuong_template.md` cùng user.
 - Đọc các tệp bắt buộc:
   * `00_core/voice_dna.md`
   * `00_core/vietnam_macro_context.md`
@@ -62,6 +63,12 @@ TRƯỚC KHI tạo tệp, Agent BẮT BUỘC in hộp log ra màn hình chat:
 > - 🎯 **Tài Liệu Đích Xuất Ra:** `episodes/[slug]/01_global_vision_synthesis.md`
 > - 🛡️ **Rào Cản Kiểm Toán & Tôn Chỉ First-Principles:** The Map of Reality — Bản đồ địa hình hiện thực khách quan 4 tầng, nghiêm cấm chia chương hoặc rò rỉ thuật ngữ kịch bản.
 ```
+
+### Bước 2b: Bản Đồ Nền Từ Kho → Giả Thuyết Cạnh Tranh → Ma Trận (form tư duy, phần B–C–D)
+1. Hỏi kho theo thứ tự trong `.agents/rules/orchestration-protocol.md` mục "Kho tri thức dùng chung" (`kbq evidence` trước, rồi `entity`, `links`, `facts`), chạy `kbaudit`. Điền mục 1.4 của template: mọi dòng có mã OBS; ghi dấu thời điểm tra kho; điền N1 vào hiến chương.
+2. Đặt **≥ 3 giả thuyết** cho câu hỏi trung tâm (luôn có giả thuyết "nhàm"); nếu chỉ thấy một lời giải thì ép thêm hai giả thuyết đối lập (N2). Mỗi giả thuyết ghi "dữ kiện nào sẽ bác tôi".
+3. Tạo `episodes/[slug]/00_bang_gia_thuyet.md` theo `02_templates/masterpiece_pipeline/00_bang_gia_thuyet_template.md`: hàng E từ các OBS ở bước 1, chấm `+ / − / 0` cho từng giả thuyết, liệt kê ô chưa phân biệt (mục 2b) để Pha 2 nhắm vào.
+4. Hội đồng tranh biện (Bước 3, Phần I.2) tranh luận trên các giả thuyết, không trên một luận điểm chọn sẵn. Phản biện của mỗi lăng kính đã chọn (N5) ghi thành hàng E.
 
 ### Bước 3: Đúc Khung Tư Duy 4 Tầng Phổ Quát (The 4-Tier Blueprint)
 Tạo hoặc cập nhật `episodes/[slug]/01_global_vision_synthesis.md` với đầy đủ 4 tầng:
@@ -88,3 +95,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - [ ] Khối Sơ đồ ASCII Bàn cờ hiển thị rõ các chủ thể, dòng chảy và điểm nghẽn?
 - [ ] **HOÀN TOÀN KHÔNG CÓ** các từ khóa chia chương (`CH01`, `CHXX`, `Chương`, `Hồi`, `Hook`...)?
 - [ ] Mọi con số trong Tầng 4 đều có mã `DATA-XX` định danh?
+- [ ] Mục 1.4 có bản đồ nền từ kho, mọi dòng có `OBS-…`, có dấu thời điểm tra kho; N1 đã điền vào hiến chương?
+- [ ] `00_bang_gia_thuyet.md` có ≥ 3 giả thuyết (có giả thuyết "nhàm"), mỗi giả thuyết ghi dữ kiện bác, ma trận có ≥ 1 hàng phân biệt được (có cả `+` và `−`), mục 2b liệt kê ô chưa phân biệt?
+- [ ] Phần III: mỗi prompt và câu trích xuất ghi mã ô ma trận hoặc GAP; không có prompt cho thứ kho đã trả lời?
+- [ ] Đã chạy `KB_GRAPH=kb_v2 scripts/kbaudit --check-evidence [slug]` ngay sau Pha 1 và trả lời nhóm BÁC (V25, V26)?

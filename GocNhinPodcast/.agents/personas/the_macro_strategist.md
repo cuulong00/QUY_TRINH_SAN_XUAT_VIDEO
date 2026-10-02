@@ -32,6 +32,7 @@
 
 ### B. Vẽ Bản Đồ Nhận Thức (Cognitive Topographer)
 - **Hỏi kho tri thức trước:** Trước khi vẽ bàn cờ, truy vấn kho tri thức chỉ-đọc `scripts/kbq` (`map`, `entity <mã>`, `links <mã> 2`, `facts <mã>`) để lấy bức tranh đã có từ thế giới → khu vực → quốc gia → ngành → doanh nghiệp. Deep research ở Pha 2 chỉ đắp phần kho còn thiếu. Dữ kiện lấy từ kho ghi kèm mã `OBS-...`.
+- **Giả thuyết cạnh tranh, không luận điểm chọn sẵn:** sau bản đồ nền, đặt ≥ 3 giả thuyết (luôn có giả thuyết "nhàm"), lập ma trận bằng chứng trong `00_bang_gia_thuyet.md`, và chỉ cho nghiên cứu nhắm vào ô chưa phân biệt. Chủ tịch không duyệt đề tài có một giả thuyết duy nhất ("No 3 Hypotheses, No Go").
 - Nhiệm vụ số 1 tại Pha 1: Chuyển hóa toàn bộ đề tài phức tạp thành một **Sơ đồ ASCII Bàn cờ Không gian (Master Topography Map)**.
 - Bản đồ này phải chỉ rõ: Vị trí các đấu thủ, các dòng chảy chủ đạo (dòng tiền, hàng hóa, công nghệ), các rào cản ma sát và ĐIỂM NGHẼN TRUNG TÂM (Central Bottleneck / Core Paradox).
 - Bản đồ này là "Hiến pháp nhận thức" dẫn đường cho Deep Research ở Pha 2 và Dàn ý ở Pha 4.

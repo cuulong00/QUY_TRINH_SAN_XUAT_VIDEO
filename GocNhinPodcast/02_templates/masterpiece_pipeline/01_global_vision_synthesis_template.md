@@ -44,6 +44,20 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 4. `Governing Laws & Paradoxes:` [Quy luật khách quan nào chi phối? Nghịch lý hệ thống ở đâu?]
 5. `Contested Evidence & Dissent:` [Con số ngầm, báo cáo đối lập và sự thật kiểm toán ở đâu?]
 
+### 1.4. Bản Đồ Nền Từ Kho Tri Thức (phần B của form tư duy — BẮT BUỘC trước khi tranh biện)
+*(Nguồn duy nhất: `scripts/kbq` và `kbaudit`, lệnh theo `.agents/rules/orchestration-protocol.md` mục "Kho tri thức dùng chung". Mọi dòng có mã OBS. Hiểu biết sẵn có của model KHÔNG tính là "đã biết".)*
+| Thực thể / quan hệ | Dữ kiện nền đã có (mã OBS) | Chưa biết (→ GAP) |
+|---|---|---|
+| [thực thể trọng tâm 1] | [tóm 1 dòng + `OBS-…`] | [GAP-…] |
+| [quan hệ A ↔ B] | [`kbq evidence A B` + `OBS-…`] | |
+- Dấu thời điểm tra kho: [YYYY-MM-DD HH:MM]. Trước khi nộp Pha 1, chạy lại để lấy phần kho đổi.
+- Kết quả `kbaudit`: __% thực thể trọng tâm có dữ kiện, __ GAP P1 → điền nút N1 vào hiến chương.
+
+### 1.5. Giả Thuyết Cạnh Tranh (phần C) → `00_bang_gia_thuyet.md`
+- Đặt **tối thiểu 3 giả thuyết** trả lời câu hỏi trung tâm, trong đó luôn có giả thuyết "nhàm" (chủ thể làm đúng điều họ công bố). Nếu sau phần B chỉ thấy một lời giải (N2 = 1) thì bắt buộc ép thêm hai giả thuyết đối lập.
+- Mỗi giả thuyết ghi trước "dữ kiện nào sẽ bác tôi". Lập ma trận bằng chứng ban đầu từ các OBS ở mục 1.4. Khuôn: `02_templates/masterpiece_pipeline/00_bang_gia_thuyet_template.md`.
+- Hội đồng tranh biện (mục 2) tranh luận trên các giả thuyết này, không tranh luận trên một luận điểm đã chọn sẵn.
+
 ### 2. Nhật Ký Tranh Biện Đối Thoại Trực Tiếp (Direct Debate Transcript)
 *(Bắt buộc đối đáp trực tiếp đầy cá tính, cấm tóm tắt gián tiếp)*
 
@@ -67,6 +81,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
   - Cơ chế → kết quả: [khán giả đang ở mức nhận biết nào; nếu góc là cơ chế thì nối vào kết quả nào họ đã quan tâm]
   - Mức bằng chứng nhu cầu: [Mạnh / Vừa / Yếu / Không có]
 - **Core Paradox:** [Mâu thuẫn hệ thống cốt lõi]
+- **Giả thuyết dẫn đầu tạm thời và các giả thuyết còn sống:** [H? dẫn đầu vì ít bằng chứng ngược nhất tới giờ; H?, H? còn sống; không coi là kết luận — kết luận là việc của Pha 3 sau khi ma trận được lấp]
 - **Chủ tịch ký duyệt:** `👑 The Chief Systems Architect & Macro Strategist` (Áp dụng nguyên tắc "No Steelman, No Go")
 
 ---
@@ -105,7 +120,7 @@ immutable_data_policy:
 #### 1.3. Bản Cáo Trạng Phản Đề Thép (The Strongest Opposing Thesis — Tri-Adversarial Red Team)
 *(Bắt buộc xây dựng phiên bản phản biện sắc sảo, thông minh nhất từ phe đối lập trước khi tiến hành nghiên cứu sâu)*
 - **Lăng kính đã chọn (theo nút N5 của hồ sơ đề tài, tối thiểu 2; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10)):** [Ghi tên lăng kính và lý do chọn; lăng kính dòng tiền chỉ khi đề tài là doanh nghiệp/thị trường vốn và luận điểm xoay quanh sức khỏe tài chính].
-- **Phản biện theo từng lăng kính đã chọn:** [Mỗi lăng kính một luận điểm phản bác mạnh nhất, kèm dữ kiện đối kháng có mã OBS hoặc ghi GAP].
+- **Phản biện theo từng lăng kính đã chọn:** [Mỗi lăng kính một luận điểm phản bác mạnh nhất, kèm dữ kiện đối kháng có mã OBS hoặc ghi GAP]. Mỗi phản biện phải trỏ tới giả thuyết nó tấn công (H?) và được ghi thành hàng E trong `00_bang_gia_thuyet.md`.
 - **Điều kiện sụp đổ của luận điểm chính (Falsification / Kill-Condition):** [Ngưỡng dữ liệu hoặc sự kiện thực tế nào nếu xảy ra sẽ chứng minh luận điểm chủ đạo của video là sai lầm?].
 
 ---
@@ -181,19 +196,19 @@ immutable_data_policy:
 
 ---
 
-## PHẦN III: KẾ HOẠCH NGHIÊN CỨU ĐỊA HÌNH ÁNH XẠ 1-1 VỚI BỘ 5 CÂU HỎI BẢN THỂ HỌC (TOPOGRAPHICAL RESEARCH BLUEPRINT)
+## PHẦN III: KẾ HOẠCH NGHIÊN CỨU ĐI TỪ MA TRẬN BẰNG CHỨNG (TOPOGRAPHICAL RESEARCH BLUEPRINT)
 
-*(Các Query nạp nguồn BẮT BUỘC ánh xạ 1-1 với 5 Câu Hỏi Bản Thể Học Phổ Quát đã xác lập ở Phần I)*
+*(Nghiên cứu Pha 2 chỉ nhắm vào các ô "chưa phân biệt được" trong `00_bang_gia_thuyet.md` mục 2b và các GAP của `kbaudit`. Ô mà kho đã trả lời được thì không nghiên cứu lại. Mỗi prompt và mỗi câu trích xuất ghi mã ô (H?↔H?) hoặc mã GAP nó lấp. Số lượng prompt theo nút N1: độ phủ cao → ít prompt, nhắm thẳng; độ phủ thấp → thêm vòng gom nền trước. Danh mục 5 khía cạnh dưới đây là **danh sách kiểm độ phủ**, không phải khuôn để sinh prompt.)*
 
-### 1. Bộ 5 Targeted Ingestion Prompts cho NotebookLM (Deep Mode) — BẮT BUỘC ĐỦ 5 PROMPTS
+### 1. Prompts nạp nguồn cho NotebookLM (Deep Mode) — mỗi prompt ghi ô ma trận / GAP nó lấp; prompt phản biện (khía cạnh 5) luôn bắt buộc
 - **Prompt 1 (Entity Anchors & Anatomy):** "[Câu lệnh nghiên cứu chuyên sâu về thực thể trung tâm: Fact-sheet, lịch sử, văn bản pháp quy/báo cáo tài chính chính thức, quy mô và mốc sự kiện]"
 - **Prompt 2 (Arena, Circuit & Flows):** "[Câu lệnh nghiên cứu khảo sát toàn bộ không gian vận động, mạch truyền dẫn, chuỗi giá trị/hành lang và các thành phần phụ thuộc]"
 - **Prompt 3 (Incentives & Survival Drives):** "[Câu lệnh nghiên cứu giải phẫu động lực kinh tế/chính trị sinh tồn, mâu thuẫn lợi ích và toan tính của các bên liên quan]"
 - **Prompt 4 (Governing Laws & Structural Paradoxes):** "[Câu lệnh nghiên cứu quy luật khách quan, cơ chế chi phí/vật lý/pháp lý chi phối và các điểm nghẽn cổ chai]"
 - **Prompt 5 (Contested Evidence, Failures & Dissent — BẮT BUỘC):** "[Câu lệnh CHUYÊN BIỆT tìm kiếm: Các bài báo phản biện gay gắt nhất, tiếng nói của giới chuyên gia đối lập, báo cáo thanh tra/kiểm toán chỉ trích bất cập, các case study sụp đổ/thất bại tương tự trên thế giới, và các bài toán chi phí ngầm chưa được công bố nhằm bảo đảm Master Notebook có ít nhất 20–30% tài liệu phản biện thực chứng]"
 
-### 2. Danh Sách Câu Hỏi Trích Xuất (Batch Extraction Queries)
-- [Query 1: Giải mã mắt xích nhân quả 1...]
+### 2. Danh Sách Câu Hỏi Trích Xuất (Batch Extraction Queries) — mỗi câu ghi `[H?↔H? | GAP-…]`
+- [Query 1 `[H1↔H2]`: Dữ kiện nào phân biệt được hai giả thuyết này...]
 - [Query 2: Mổ xẻ cơ chế dẫn truyền và mạch truyền dẫn...]
 - [Query 3: Bóc tách sự bất đồng dữ liệu giữa Luồng ủng hộ và Luồng phản đối...]
 - [Query 4: Kiểm chứng các chỉ tiêu trong Target Evidence Checklist...]

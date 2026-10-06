@@ -100,7 +100,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 4. **Gate 3 (Lạc trôi Luận đề):** Viết lan man, chệch khỏi chức năng giải phẫu được quy định trong `08_chapter_briefs.md` và `vault/00_Global_Vision_Synthesis.md`.
 5. **Gate 4 (Dính Bẫy PR Bào chữa):** Dùng văn phong thanh minh, bào chữa, cãi lại dư luận thay vì phân tích cơ chế khách quan.
 6. **Gate 5 (Vi phạm Giới hạn Tai nghe):** Tồn tại bất kỳ câu nào dài quá 150 ký tự hoặc chứa dấu gạch ngang dài (`—`).
-7. **Gate 6 (Gãy Chất Chuyện Cấp Chương - Hard-Fail 11 / Phiếu B `00_core/narrative_craft_rubric.md` §4, §6):** Phiếu B của chương dưới mốc ĐẠT (có chỉ tiêu < 3, trung bình cấp chương < 4.0, hoặc IV-a Cú lật và V Vật chứng cùng <= 2); hoặc có điểm 4-5 hay 1-2 mà không trích câu dẫn chứng. Áp dụng khi người kiểm toán/Critical Auditor thẩm định độc lập (người viết dùng Phiếu B tự soi trước khi nộp bản thảo); Phiếu B đạt mốc là điều kiện cứng của CHQB-50.
+7. **Gate 6 (Gãy Chất Chuyện Cấp Chương - Hard-Fail 11 / Phiếu B `00_core/narrative_craft_rubric.md` §4, §6):** Phiếu B của chương dưới mốc ĐẠT (có chỉ tiêu < 3, trung bình cấp chương < 4.0, hoặc IV-a Cú lật và V Vật chứng cùng <= 2); hoặc có điểm 4-5 hay 1-2 mà không trích câu dẫn chứng. Áp dụng khi người kiểm toán/Critical Auditor thẩm định độc lập (người viết dùng Phiếu B tự soi rà soát câu yếu trước khi nộp bản thảo, không tự cho điểm); Phiếu B đạt mốc là điều kiện cứng của CHQB-50.
 
 ---
 

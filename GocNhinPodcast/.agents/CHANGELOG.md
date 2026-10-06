@@ -19,6 +19,8 @@ Q1 Loại B ≤2 case · Q2 Ch.2 theo loại đề tài · Q3 chương kết the
   * NC-GN-15 (sửa lỗi của Claude): phiếu NC-GN-08 đổi nhầm trần case study sang "linh hoạt"; khôi phục quyết định Q1 (`01_management/WO-00_BANG_QUYET_DINH_20261002.md`, 02/10): Loại B tối đa 2 case, mỗi case ≤ 3 phút.
   * NC-SELF-16: khớp Q11 (bỏ tự chấm): người viết và người dựng dàn ý chỉ TỰ SOI bằng Phiếu B / Phiếu A để viết, không làm cổng, không tính vào K; điều kiện qua cổng là chấm mù (Phiếu A dàn ý do người khác chấm); K lấy từ điểm chấm mù. Cùng câu chữ với Dòng Chảy.
   * NC-PAR-10, NC-DC-12: rà khoảng trống hai kênh, đồng nhất.
+  * NC-SOI-17 (hai kênh, cùng câu chữ, khớp hiến pháp "agent viết không tự cho điểm"): phần tự soi chỉ ghi chỉ tiêu yếu, câu trích, vì sao, câu sửa; không điểm, không ĐẠT/PASS (sổ vấn đề `vinfast-hao-phong-thu` V02). Sao lưu `.../soi17/`.
+  * Đường nạp: đo lại 06/10 bằng `scripts/kiem_nap.py`, hiến pháp GN tới agent đầy đủ (khoảng 6.000 ký tự, không cắt). Dòng Chảy đã nhận cùng kiến trúc (hiến pháp ngắn + 12 thẻ pha cùng tên) qua NC-NAP-18.
 - Giữ riêng GN: Loại A/B/C (`content_principles.md` §2), "chúng tôi cho rằng ≤ 4", mã H-x/E-xx/M-xx, `.agents/phases/`, `kiem_pha.py`, CHQB-50, MSB-100, `orchestrator`, `gem_scout`.
 - Quyết định của user áp dụng hôm nay: V đổi "Vật chứng so với tóm tắt", hạn chế tả cảnh có định nghĩa (thay Q6 cũ "cấm tả cảnh"); không khuôn kể chung; không chỉ tiêu chất chuyện nào chấm bằng đếm; giọng nền như trên; tự soi chỉ để viết.
 - Sao lưu: `/Users/pro16/VideoProject_backup/khung_cham_nghe_thuat_20261006/GocNhinPodcast/` và các thư mục `GocNhinPodcast_ai07`, `_nc14`, `_nc15`, `_self16`, `voice13/`.

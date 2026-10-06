@@ -94,7 +94,7 @@ Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các l
 
 6. **Khóa 6: Chấm mù Narrative Craft (thêm 06/10/2026):**
    - Chấm Phiếu A (cấp bài) và Phiếu B (cấp chương) theo `00_core/narrative_craft_rubric.md`: đọc trọn cả tập không ghi chép, rồi chấm cấp bài, rồi cấp chương, rồi đối chiếu hai cấp. Mọi điểm 4–5 và 1–2 trích câu; không chấm bằng đếm.
-   - **Cấm xem bản tự soi của người viết trước khi nộp phiếu của mình.** Điểm chính thức qua cổng là của người chấm mù (hoặc điểm thống nhất sau đối chiếu), bản tự soi chỉ để đối chiếu khi lệch > 1.
+   - **Cấm xem bản tự soi của người viết trước khi nộp phiếu của mình.** Điểm chính thức qua cổng là của người chấm mù (hoặc điểm thống nhất sau đối chiếu). Bản tự soi không có điểm, chỉ đối chiếu sau khi nộp: chỗ nào người viết thấy yếu mà chấm mù cho 4–5, hoặc ngược lại, thì đọc lại cùng người viết đúng đoạn đó và ghi kết luận.
    - Kết luận chỉ đích danh: chương, chỉ tiêu, câu lỗi, một câu viết lại mẫu; và chuyển về Pha 4 (lỗi dàn ý) hay Pha 7 (lỗi viết chương) theo bảng đối chiếu §5.
 
 ---

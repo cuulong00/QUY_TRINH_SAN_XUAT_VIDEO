@@ -13,7 +13,7 @@
   * (IV) Cú lật nhận thức: chương này lật ngược giả định nào của người nghe?
   * (V) Vật chứng neo giữ: người nghe nhìn thấy hoặc cầm nắm được vật chứng/cảnh quay cụ thể nào?
   * (VI) Chủ thể hành động: ai đang chịu sức ép và ra quyết định, có thực thể thật trong vault không?
-  Đọc IV-a Cú lật, V Vật chứng, VI Chủ thể, VII Giọng, VIII Nhịp, IX Câu cho tai và cột "đẩy câu hỏi đi bao xa"; mọi điểm 4–5 và 1–2 trích câu; cập nhật dòng gieo/gặt của Phiếu A. Tự soi để sửa câu yếu trước khi nộp, không phải điều kiện lưu file và không tính vào điểm K (chương đạt hay không do chấm mù ở Pha 10 quyết định). Không chấm chất kể chuyện bằng cách đếm số hay đếm câu hỏi.
+  Ghi chỉ tiêu nào yếu trong 6 chỉ tiêu cấp chương (IV-a Cú lật, V Vật chứng, VI Chủ thể, VII Giọng, VIII Nhịp, IX Câu cho tai), trích câu, vì sao yếu, và câu sửa; không cho điểm, không ghi ĐẠT; cập nhật dòng gieo/gặt của Phiếu A. Tự soi để sửa câu yếu trước khi nộp, không phải điều kiện lưu file và không tính vào điểm K (chương đạt hay không do chấm mù ở Pha 10 quyết định). Không chấm chất kể chuyện bằng cách đếm số hay đếm câu hỏi.
 - Chặng 1 (khung xương cơ chế) và Chặng 2 (bảng nhịp chương, rồi văn) là hai lượt riêng, mỗi lượt in sản phẩm ra chat; không viết thẳng từ bảng số liệu của brief.
 - Mỗi chapter phải có một dominant analytical function đủ rõ.
 - Mỗi chapter phải đứng trên ít nhất một case study hoặc cụm dữ liệu thực tế có tải trọng.

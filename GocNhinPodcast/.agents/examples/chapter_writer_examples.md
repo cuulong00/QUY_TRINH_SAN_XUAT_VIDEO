@@ -189,7 +189,7 @@ Vậy nếu không phải nơi xả hàng, cũng chưa phải phòng trưng bày
 
 6. Một câu hỏi điều tra mà người nghe muốn biết đáp án, và đường đi tìm đáp án qua các manh mối
 7. Ít nhất một cú lật được dàn dựng: cách hiểu thông thường đặt trước, dữ kiện làm đổi cách hiểu đặt sau
-8. Tự soi bằng Phiếu B cấp chương theo `00_core/narrative_craft_rubric.md` trước khi nộp, mọi điểm 4–5 và 1–2 có trích câu để sửa sớm; đạt mốc ĐẠT do chấm mù ở Pha 10 thẩm định (không ô nào dưới 3, trung bình ≥ 4,0, IV-a Cú lật và V Vật chứng ≥ 4). Không chấm bằng đếm: đoạn ít số vẫn có thể là đọc kết quả.
+8. Đã tự soi bằng Phiếu B cấp chương theo `00_core/narrative_craft_rubric.md` để rà soát câu yếu, trích câu và câu sửa trước khi nộp; đạt mốc ĐẠT do chấm mù ở Pha 10 thẩm định (không ô nào dưới 3, trung bình ≥ 4,0, IV-a Cú lật và V Vật chứng ≥ 4, mọi điểm 4-5 và 1-2 có trích câu). Không chấm bằng đếm: đoạn ít số vẫn có thể là đọc kết quả.
 
 > **Pair 6–8 là đoạn mẫu cho ngân hàng mẫu của `narrative_craft_rubric.md` §7:** bản Weak là mẫu điểm thấp (1–2), bản Stronger là mẫu điểm cao. Pair 6 cho V Vật chứng so với tóm tắt; Pair 7 cho IV Cú lật; Pair 8 cho I Câu hỏi kịch tính trung tâm.
 

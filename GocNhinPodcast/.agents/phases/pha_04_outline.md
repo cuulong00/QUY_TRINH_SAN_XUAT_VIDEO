@@ -6,7 +6,7 @@
 1. `00_hien_chuong.md`, `03_brief.md`, `00_bang_gia_thuyet.md`.
 2. `.agents/workflows/build_outline.md` (5 trạm) và `.agents/skills/script_architect/SKILL.md` §1 mục 10, §2 "Pha 4".
 3. `00_core/longform_blueprint.md` (nhịp dài, re-hook quanh 3:30, luật But/Therefore).
-4. `00_core/narrative_craft_rubric.md` (Phiếu A: người khác chấm outline theo 10 chỉ tiêu, người dựng tự soi thêm).
+4. `00_core/narrative_craft_rubric.md` (Phiếu A: người khác chấm outline theo 10 chỉ tiêu, người dựng tự soi rà soát câu yếu).
 5. Khuôn `02_templates/masterpiece_pipeline/07_outline_template.md`.
 6. Persona: `the_dialectic_architect.md`, `the_critical_auditor.md`. Quy chuẩn Devil's Chapter và Steelman 3 nhịp: `.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện".
 
@@ -18,7 +18,7 @@ Vault, skill viết chương, `00_core` về giọng.
 - Viết cho mỗi chương một câu "người xem nghĩ X → gặp bằng chứng Y → nghĩ lại thành Z".
 - Cắt thứ khán giả không cần (thủ tục, danh sách ngày, liệt kê rào đón); giữ cơ chế, cú lật, nghi ngờ của họ, cái giá.
 - Không chép lại số liệu vào outline; trỏ mã M.
-- Tự soi theo Phiếu A của `00_core/narrative_craft_rubric.md` trước khi nộp: mỗi chương phải có câu hỏi điều tra, vật chứng/nhân vật, xung đột/cơ chế, cú lật; không biến outline thành bản liệt kê số liệu hay mục lục video.
+- Tự soi theo Phiếu A của `00_core/narrative_craft_rubric.md` trước khi nộp (không tự cho điểm): mỗi chương phải có câu hỏi điều tra, vật chứng/nhân vật, xung đột/cơ chế, cú lật; không biến outline thành bản liệt kê số liệu hay mục lục video.
 
 ## Giới hạn
 `07_outline.md` tối đa 3.000 từ; tổng ngân sách từ bằng số phút × 223.

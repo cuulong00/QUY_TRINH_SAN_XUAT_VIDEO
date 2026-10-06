@@ -6,7 +6,7 @@
 **Bước A. Nhập vai chuyên gia: nạp DNA và skill**
 1. Persona chính mà brief chương chỉ định (`.agents/personas/`), đọc trọn.
 2. `.agents/skills/chapter_writer/SKILL.md`, đọc trọn (đặc biệt "Quy Tắc Vàng: Viết Câu Cho Tai", "Quy tắc đặc biệt theo vị trí", "CHƯƠNG KẾT" nếu là chương kết).
-3. `00_core/voice_dna.md`, `00_core/stance_and_judgment.md`, và `00_core/narrative_craft_rubric.md` (Phiếu B: tự soi 10 chỉ tiêu).
+3. `00_core/voice_dna.md`, `00_core/stance_and_judgment.md`, và `00_core/narrative_craft_rubric.md` (Phiếu B: tự soi 6 chỉ tiêu cấp chương, không ghi điểm).
 
 **Bước B. Hiểu bức tranh toàn cảnh của cả tập**
 4. `00_hien_chuong.md` (toàn bộ): đề bài, chỉ đạo user, điều đã loại, lăng kính, chế độ kết.
@@ -32,15 +32,15 @@ Chương của tập khác (không dùng làm khuôn giọng), bảng điều ph
 
 ## Tự kiểm trước khi nộp
 1. Làm hai phép thử của "Viết Câu Cho Tai" (đọc to; nghe riêng từng đoạn) cho cả chương. Viết lại mọi chỗ vấp, phải nghe lại, hay phải nhớ chương khác mới hiểu. **Sửa dù chỉ một đoạn cũng phải mở lại mục đó trước khi sửa và làm lại hai phép thử sau khi sửa.**
-2. Tự soi bằng Phiếu B (`00_core/narrative_craft_rubric.md`) và in ra chat để tự sửa các câu yếu trước khi nộp; việc tự soi không phải điều kiện qua cổng và điểm tự soi không tính vào điểm K; lưu kết quả tự soi vào Mục 1 của `11_narrative_craft_scorecard.md` để theo dõi; điều kiện qua cổng Pha 7 là cổng máy `kiem_pha.py` đạt.
+2. Tự soi bằng Phiếu B (`00_core/narrative_craft_rubric.md`) và in ra chat để tự sửa các câu yếu trước khi nộp; việc tự soi không ghi điểm, không phải điều kiện qua cổng; lưu bảng tự soi câu yếu vào Mục 1 của `11_narrative_craft_scorecard.md` để theo dõi; điều kiện qua cổng Pha 7 là cổng máy `kiem_pha.py` đạt.
 3. Mỗi con số đều có hàng M và đã mở nguồn gốc; câu suy luận viết đúng tầng giọng của nhãn.
 4. Không chương nào quá 1.050 từ; CTA chỉ ở cuối Chương 2 (hiến pháp §4).
 5. Chạy `python3 scripts/kiem_pha.py <slug> --pha 7`, sửa tới khi ĐẠT.
 
 ## Đầu ra và cập nhật
 - `chapter_XX.md`: tiêu đề và lời thoại sạch; không ghi chú quy trình, không tả cảnh, không nhãn khung.
-- `11_narrative_craft_scorecard.md`: cập nhật bảng tự soi Phiếu B của chương vào Mục 1.
+- `11_narrative_craft_scorecard.md`: cập nhật bảng tự soi câu yếu Phiếu B của chương vào Mục 1.
 - Thêm hàng mới vào `00_so_du_kien.md` nếu dùng mắt xích mới (kèm vị trí nguồn); cập nhật `09_narrative_state_tracker.md`.
 
 ## Dừng
-Báo Claude qua phiếu: nguyên văn chương, bảng tự soi Phiếu B, đầu ra cổng `kiem_pha.py`, danh sách con số kèm vị trí nguồn đã mở. **Không viết chương tiếp theo khi chưa được duyệt.**
+Báo Claude qua phiếu: nguyên văn chương, bảng tự soi câu yếu Phiếu B, đầu ra cổng `kiem_pha.py`, danh sách con số kèm vị trí nguồn đã mở. **Không viết chương tiếp theo khi chưa được duyệt.**

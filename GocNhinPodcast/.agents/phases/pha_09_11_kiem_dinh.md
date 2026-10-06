@@ -12,7 +12,7 @@
 ## Cách làm
 - Bước 0: chạy `python3 scripts/kiem_pha.py <slug> --pha 8`, dán đầu ra vào báo cáo.
 - Với mỗi con số quan trọng: mở vị trí nguồn gốc, đối chiếu câu.
-- Chấm mù Khóa 6 Narrative Craft: chấm độc lập Phiếu A (cấp bài) và Phiếu B (từng chương) theo `00_core/narrative_craft_rubric.md`, không xem bản tự soi trước khi nộp; sau khi chấm xong đối chiếu bản tự soi, nếu lệch > 1 điểm thì thảo luận thống nhất; quy đổi ra Điểm Trụ cột K (tối đa 20đ).
+- Chấm mù Khóa 6 Narrative Craft: chấm độc lập Phiếu A (cấp bài) và Phiếu B (từng chương) theo `00_core/narrative_craft_rubric.md`, không xem bản tự soi trước khi nộp; sau khi chấm xong đối chiếu danh sách chỗ yếu của tác giả, chỗ nào người viết thấy yếu mà chấm mù cho 4-5 hoặc ngược lại thì hai bên đọc lại đúng đoạn đó và ghi kết luận; quy đổi ra Điểm Trụ cột K (tối đa 20đ).
 - Đọc to những đoạn bị chấm thấp; trả lại chỗ sửa cụ thể, kèm câu đề xuất.
 
 ## Đầu ra

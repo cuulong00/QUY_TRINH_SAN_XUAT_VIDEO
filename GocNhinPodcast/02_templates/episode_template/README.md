@@ -18,7 +18,7 @@ bash scripts/new_episode.sh ten-episode
 8. Viết từng `chapter_XX.md` (Pha 7: Claim Ledger in ra chat theo PRE_FLIGHT_GATE.md, không lưu file riêng)
 9. Gộp `voiceover.md` (Pha 8)
 10. Kiểm toán `retention_bridge_audit.md` (Pha 9)
-11. Chạy `10_compliance_report.md` (Pha 10 & 11) và hoàn tất `11_narrative_craft_scorecard.md` (người khác chấm dàn ý ở Pha 4, tự soi từng chương ở Pha 7, chấm mù ở Pha 10; chuẩn `00_core/narrative_craft_rubric.md`)
+11. Chạy `10_compliance_report.md` (Pha 10 & 11) và hoàn tất `11_narrative_craft_scorecard.md` (người khác chấm dàn ý và người dựng tự soi ở Pha 4, tự soi rà soát câu yếu từng chương ở Pha 7, chấm mù ở Pha 10; chuẩn `00_core/narrative_craft_rubric.md`)
 12. Tạo `visual_storyboard_blueprint_plus.md` (toàn tập) và 5 tệp cho từng chương: `chapter_XX_ban_do_nhip.md`, `chapter_XX_video_ai.md`, `chapter_XX_broll.json`, `chapter_XX_infographic.md`, `chapter_XX_bao_chi.md` (Pha 12 — Phân cảnh theo nhịp ý tuân thủ `.agents/contracts/i2v_nhip_y.md`)
 13. `metadata.md` (SEO/YouTube metadata — hậu kịch bản)
 14. Hoàn tất `production_notes.md` (Pha 15)

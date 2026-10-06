@@ -326,7 +326,7 @@ Một kịch bản chỉ được đóng dấu phê duyệt chuyển giao sang T
 
 ## 9. Retention Checkpoint (Bắt buộc trước khi duyệt Outline)
 Danh mục soát dàn ý dưới đây dùng khi chạy Gate 1 của `00_core/retention_gate_checklist.md` (cổng chính thức của dàn ý, ngưỡng theo file đó):
-- [ ] Đã chạy Phiếu A cấp bài của `00_core/narrative_craft_rubric.md` trên `07_outline.md` (do người khác ngoài người dựng dàn ý chấm, đạt mốc ĐẠT trước khi xin user duyệt; người dựng dàn ý tự soi thêm).
+- [ ] Đã chạy Phiếu A cấp bài của `00_core/narrative_craft_rubric.md` trên `07_outline.md` (do người khác ngoài người dựng dàn ý chấm, đạt mốc ĐẠT trước khi xin user duyệt; người dựng dàn ý tự soi rà soát câu yếu, không tính điểm).
 - [ ] Khung mở đầu có La bàn nhận thức 120s (Mental Scaffolding) phác họa cỗ máy và các mắt xích chính?
 - [ ] Relevance Anchor / Personal Stakes xuất hiện trong 3 phút đầu tiên (phù hợp với loại đề tài A, B, hay C)?
 - [ ] Cấu trúc 3 Màn động rõ ràng, có `[THE DEVIL'S CHAPTER]` tại Cao trào Màn 2 (50–70% thời lượng)?

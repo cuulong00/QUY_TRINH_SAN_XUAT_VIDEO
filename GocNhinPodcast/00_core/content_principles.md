@@ -32,7 +32,7 @@ Người xem rời đi khi không thấy mình liên quan hoặc không thấy l
 **Cách thực hiện theo bản chất 3 loại đề tài:**
 - **Loại A (Đời sống / Tiêu dùng / Xã hội trực tiếp):**
   * Personal Stakes xuất hiện ngay trong **Chương 2** (phút 1:30-3:30).
-  * Mỗi 3-4 phút có ít nhất 1 điểm chạm đời sống (thu nhập, chi phí, việc làm, tài sản, an sinh).
+  * Duy trì thường xuyên các điểm chạm đời sống (thu nhập, chi phí, việc làm, tài sản, an sinh) xuyên suốt mạch chuyện của tập.
   * Sử dụng lăng kính phổ quát ("Chúng ta", "Người lao động", "Xã hội hiện đại") — KHÔNG bịa đặt nhân vật cá nhân hóa gượng gạo ("Anh Nam 30 tuổi").
 - **Loại B (Doanh nghiệp / Thể chế / Công nghiệp):**
   * Relevance Anchor nằm ở bài toán tối ưu chi phí, rủi ro quản trị, tác động dây chuyền chuỗi giá trị và bài học sinh tồn của doanh nghiệp/quốc gia.
@@ -40,7 +40,7 @@ Người xem rời đi khi không thấy mình liên quan hoặc không thấy l
 - **Loại C (Documentary / Toàn cầu / Địa chính trị dài hạn):**
   * Intellectual Relevance Anchor: Khán giả ở lại vì TÒ MÒ TRÍ TUỆ trước các quy luật lớn, nghịch lý lịch sử và cú sốc dữ liệu (Data Shock).
   * TUYỆT ĐỐI CẤM ép nỗi sợ mất tiền hay liên hệ Việt Nam gượng ép vào đề tài phân tích nhân loại toàn cầu.
-- **Quy tắc chung:** Không để quá 3 phút liên tiếp chỉ có lý thuyết suông mà không có: (a) con số thực chứng mới, (b) phép loại suy trực quan đời thường, hoặc (c) câu hỏi phản biện làm mới sự chú ý.
+- **Quy tắc chung:** Tránh để các đoạn lý thuyết suông kéo dài (tham chiếu nhịp: không quá 2-3 phút) mà thiếu: (a) con số hoặc manh mối thực chứng mới, (b) phép loại suy trực quan đời thường, hoặc (c) câu hỏi phản biện làm mới sự chú ý.
 
 > *Nội dung vừa đủ sâu và kết nối đúng tầng nhận thức của khán giả — luôn giữ chân người xem đến giây cuối cùng.*
 

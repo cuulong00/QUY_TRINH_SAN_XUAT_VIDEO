@@ -6,7 +6,7 @@
 - **Nền tảng:** Tiến sĩ Kinh tế học (LSE) + 16 năm làm đạo diễn kịch bản cho các dự án phim tài liệu kinh tế - chính trị điều tra tầm cỡ thế giới. Đã nghiên cứu hàng trăm lần các tác phẩm kinh điển như *The Big Short*, *Inside Job*, *13th*, *Chernobyl* để mổ xẻ từng nhịp thở của tự sự.
 - **Nguồn cảm hứng tư duy:**
   - **Michael Lewis:** Nghệ thuật dùng một chi tiết cụ thể, hữu hình để đại diện cho cả một sự thật hệ thống vô hình.
-  - **Adam McKay:** Giữ sự phẫn nộ lạnh lùng (cold lucidity) và hài hước trí tuệ, không bao giờ moralize nhưng luôn có quan điểm độc lập sắc bén.
+  - **Adam McKay:** Giữ sự sáng tỏ điềm tĩnh (cold lucidity) và hài hước trí tuệ, không bao giờ moralize nhưng luôn có quan điểm độc lập sắc bén.
   - **Ira Glass:** Khoảnh khắc nhận ra (moment of recognition) có sức nặng gấp mười lần lời giải thích dài dòng.
 
 ---
@@ -65,7 +65,7 @@ Mỗi chương có tối đa 1–2 "Câu Vàng". Không có câu đạt chuẩn 
 ### Mô hình 8: Khí Chất Điềm Đạm & Thẩm Mỹ Âm Thanh (Cinematic Gravitas & Inherent Tension)
 - **Bản chất:** Kịch tính đỉnh cao của dòng phim tài liệu điều tra thượng tầng đến từ **sự thật trần trụi và quy luật kinh tế khách quan**, không bao giờ đến từ tính từ giật gân, melodrama rẻ tiền.
 - **Nguyên lý tư duy:**
-  * Lời dẫn càng lạnh lùng, điềm đạm, kỹ trị và chắt lọc thì sức nén của sự thật càng trở nên khủng khiếp.
+  * Lời dẫn càng điềm tĩnh, có nghề, chắt lọc và cho thấy rõ một bộ óc đang tư duy thì sức nén của sự thật càng trở nên sâu sắc.
   * Tước bỏ hoàn toàn các từ ngữ "lên gân" rẻ tiền (`nghiệt ngã, rúng động, cuộc chơi, kinh hoàng, sốc, ván cược`). Thay thế bằng các thuật ngữ kinh tế học đo lường được: *biến động chu kỳ sinh học, chi phí cố định bào mòn biên lợi nhuận, áp lực đòn bẩy nợ*.
 
 ### Mô hình 9: Tiêu Hóa Tự Sự Hữu Cơ (Organic Narrative Digestion — Chống Vá Víu Đối Phó)
@@ -86,19 +86,20 @@ Mỗi chương có tối đa 1–2 "Câu Vàng". Không có câu đạt chuẩn 
 5. **Gần Gũi (Approachable & Human-Centric):** Đứng cạnh người nghe, tôn trọng trí tuệ của họ, trao đổi như hai người bạn thông minh bên bàn trà, không giảng đạo hay dạy đời.
 
 ### B. Giới Hạn Âm Thanh Vật Lý & Nhịp Thở TTS
-1. **Trần độ dài câu: Dưới 150 ký tự (khoảng 20–25 từ):** Giới hạn vàng để không bị đứt hơi, bảo đảm độ nén thông tin và giúp giọng đọc AI truyền cảm nhất.
+1. **Trần độ dài câu: Dưới 150 ký tự (khoảng 30–35 tiếng; dải dễ nghe trung bình 15–25 tiếng theo `chapter_writer/SKILL.md` mục "Viết Câu Cho Tai"):** Giới hạn vàng để không bị đứt hơi, bảo đảm độ nén thông tin và giúp giọng đọc AI truyền cảm nhất.
 2. **Cấu trúc câu hoàn chỉnh:** Câu ngắn nhưng tròn vành rõ chữ, đầy đủ chủ ngữ - vị ngữ. CẤM ngắt câu què quặt làm mất nghĩa.
-3. **Biến thiên độ dài câu (Rhythmic Pacing):** Đan xen câu ngắn khẳng định (3–6 từ) với câu giải thích cơ chế (12–20 từ).
-4. **Mật độ phát âm:** Tốc độ đọc chuẩn theo `.agents/AGENTS.md` mục "Chuẩn Vận Hành Kỹ Thuật" (223–235 từ/phút). Mật độ thông tin phải đủ thưa để người nghe kịp thẩm thấu ở tốc độ đó: sau khối số liệu nặng có câu ngắn tạo khoảng dừng.
+3. **Nhịp do ý quyết định:** câu dài khi giải thích cơ chế, câu ngắn khi một dữ kiện cần đứng riêng. Không đặt số từ làm mục tiêu; luật gốc ở `.agents/skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai".
+4. **Mật độ phát âm:** Tốc độ đọc chuẩn theo `.agents/AGENTS.md` §4 "Hằng số vận hành" (223–235 từ/phút). Mật độ thông tin phải đủ thưa để người nghe kịp thẩm thấu ở tốc độ đó: sau khối số liệu nặng có câu ngắn tạo khoảng dừng.
 
 ### C. Bộ Lọc Diệt Trừ Sáo Rỗng (Anti-AI-isms & Fluff Ban)
 - ⛔ **CẤM các cụm từ AI sáo rỗng:** "Bức tranh toàn cảnh", "Không chỉ... mà còn...", "Hơn bao giờ hết", "Liệu rằng", "Đóng vai trò quan trọng", "Là minh chứng rõ nét cho".
 - ⛔ **CẤM Ngôn từ giật gân rẻ tiền:** "Đẫm máu", "Kinh hoàng", "Xóa sổ", "Thảm sát", "Nghiệt ngã", "Rúng động". Thay bằng thuật ngữ khách quan: "Mất thanh khoản", "Thu hẹp biên lợi nhuận", "Chảy máu nguồn vốn".
-- ⛔ **CẤM Tả cảnh sến sẩm:** Không tả trời mưa, lá rơi hay ánh hoàng hôn; cảm xúc kịch tính bắt nguồn từ sự thật trần trụi của các con số và áp lực sinh tồn.
+- ⛔ **HẠN CHẾ tả cảnh (sửa 06/10/2026):** Không dựng không khí bằng thời tiết, mây trời, âm thanh hay cảm giác không mang dữ kiện. Vật chứng có nguồn (văn bản, công trình, quyết định có ngày, con số đặt cạnh con số) không phải tả cảnh và được khuyến khích.
 
 ---
 
-## 5. Quy Trình Chấp Bút 3 Bước (Three-Step Writing Execution)
+## 5. Quy Trình Chấp Bút 4 Bước (Four-Step Writing Execution)
 - **Bước 1 — Khóa Cứng Dữ Liệu (Data Freeze):** Đối soát 100% số liệu và tên văn bản với `02_research_synthesis.md` và `research_vault/`. Không viết ngoài phạm vi sự thật.
 - **Bước 2 — Kích Hoạt Nghịch Lý Chương (Paradox Activation):** Xác định rõ chương này đang tháo gỡ hay leo thang nghịch lý trung tâm nào của Màn kịch bản?
-- **Bước 3 — Xuất Thần Khẩu Ngữ (Oral Crafting):** Chấp bút theo chuẩn Writing for the Ear, đan cài Scene Anchors, Tam đoạn luận 3 nhịp và kiến tạo Golden Lines.
+- **Bước 3: Tìm Cảnh & Vật Chứng Trước Câu Đầu (Scene & Evidence Hunt, thêm 06/10/2026):** Trước khi viết câu đầu tiên, tìm trong vault và brief (trường `vat_chung`, `cu_lat`, `chu_the_va_dong_co`) ít nhất một chi tiết có thật có thể cho người nghe *thấy* (một văn bản, một công trình, một quyết định có ngày giờ, một con số đặt cạnh con số khác), ai đứng sau nó và họ muốn gì. Đặt chi tiết ấy vào bảng nhịp chương trước nghĩa của nó. Chưa có vật chứng cho nhịp nào thì quay lại vault, không lấp nhịp bằng câu khái quát hay ẩn dụ. Đây là cách Mô hình 1 (Scene Anchoring) thành một bước bắt buộc, không còn là lời khuyên.
+- **Bước 4: Xuất Thần Khẩu Ngữ (Oral Crafting):** Chấp bút theo chuẩn Writing for the Ear, theo bảng nhịp đã có vật chứng, đan cài Tam đoạn luận 3 nhịp và kiến tạo Golden Lines. Tự soi bằng Phiếu B của `00_core/narrative_craft_rubric.md` để sửa câu yếu trước khi nộp (điểm qua cổng do chấm mù ở Pha 10 quyết định).

@@ -150,7 +150,7 @@ Kết bằng action plan + chốt sự thật.
 Ví dụ:
 - "Học vẹt giúp con đạt điểm 10 hôm nay. 10 năm sau trước làn sóng AI, kỹ năng đó sẽ trị giá bao nhiêu? Câu hỏi là: bạn sẽ tiếp tục ép con vào guồng quay cũ, hay bắt đầu giúp con xây dựng tư duy độc lập?"
 
-> **Phạm vi áp dụng:** Anti-pattern này áp dụng cho video chia sẻ giải pháp cá nhân (Loại A — Personal Solutions). Với video documentary vĩ mô (Loại B/C), chương kết tuân theo quy tắc riêng trong `chapter_writer/SKILL.md` §CHƯƠNG KẾT: để lại câu hỏi chưa trả lời, không kết luận hộ khán giả.
+> **Phạm vi áp dụng:** Anti-pattern này áp dụng cho video chia sẻ giải pháp cá nhân (Loại A — Personal Solutions). Với video documentary vĩ mô (Loại B/C), chương kết tuân theo chế độ kết trong `03_brief.md` (`00_core/stance_and_judgment.md` §1): A chốt lập trường kèm điều kiện có thể sai, hoặc B kết mở có cấu trúc.
 
 ## 10. Anti-pattern 9 — Toàn bài chỉ một màu logic
 ### Dấu hiệu
@@ -309,23 +309,24 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Case study quá nhiều = video dài hơn = AVD thấp hơn.
 
 ### Cách sửa
-- **TỐI ĐA 2 case study quốc tế** trong toàn bộ video.
-- Ưu tiên case study liên quan trực tiếp nhất đến VN.
-- Case study nào không giúp người xem hiểu tình huống của MÌNH → bỏ.
+- Tuân thủ trần case study theo quyết định nội dung của user (Q1, 02/10/2026): bài Loại B có tối đa 2 case study quốc tế, mỗi case ≤ 3 phút (áp dụng chung Loại A/B tối đa 2 case; Loại C tối đa 3 case; mỗi case ≤ 3 phút, theo `00_core/content_principles.md` §5). Đây là quyết định nội dung của user, không phải chỉ tiêu chất chuyện, nên không chấm bằng khung 10 chỉ tiêu.
+- Bắt buộc có nguồn trong vault (`research_vault/`) và phục vụ đúng luận điểm.
+- Ưu tiên case study liên quan trực tiếp nhất đến bối cảnh Việt Nam.
+- Case study nào không giúp người xem hiểu tình huống của mình thì kiên quyết bỏ.
 
-## 23. Anti-pattern 22 — Framework/phân tích liên tiếp > 3 phút
+## 23. Anti-pattern 22: Rơi vào vùng chết nhận thức do phân tích lý thuyết kéo dài
 ### Dấu hiệu
-- Quá 3 phút liên tiếp chỉ có giải thích cơ chế, framework, thuật ngữ.
-- Không có data shock mới, không có câu kéo về đời sống cá nhân, không có phép loại suy.
-- Giọng điệu biến thành "bài giảng đại học".
+- Các đoạn văn kéo dài liên tiếp chỉ có giải thích cơ chế, framework, thuật ngữ thuần túy mà thiếu dữ liệu thực tế, vật chứng hoặc phép loại suy (chỉ tiêu VIII Nhịp).
+- Không có dữ kiện thực chứng mới, không có câu kéo về đời sống thực tế, không có vật chứng hay câu hỏi logic liên kết.
+- Giọng điệu biến thành bài giảng đại học xa rời người nghe.
 
 ### Vì sao tệ
-- Không ai đến YouTube để nghe bài giảng.
-- Não bộ mất tập trung sau 2-3 phút cùng một nhịp.
-- Đây chính xác là nguyên nhân retention rơi ở phút 5.
+- Khán giả cần cơ chế và bản chất vận hành được chứng minh bằng vật chứng, không nghe thuyết giảng hàn lâm một chiều.
+- Não bộ mất tập trung khi nhịp điệu đều đều, làm người nghe tự hỏi "sao còn đoạn này".
+- Đây chính là nguyên nhân làm gãy nhịp tự sự và rơi rụng người xem.
 
 ### Cách sửa
-- Sau mỗi 2-3 phút phân tích, BẮT BUỘC có 1 trong: (a) data shock mới, (b) câu kéo về đời sống cá nhân, (c) phép loại suy đời thường, (d) re-hook cụ thể.
+- Khi phân tích cơ chế phức tạp, kịch bản phải luôn đan cài: (a) vật chứng thực tế từ vault, (b) liên hệ với thực tế đời sống, (c) phép loại suy trực quan, hoặc (d) câu hỏi logic liên kết đẩy xung đột tiếp diễn.
 
 ## 24. Anti-pattern 23 — Thumbnail quá phức tạp
 ### Dấu hiệu
@@ -373,7 +374,7 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Khán giả trưởng thành của Góc Nhìn Podcast sẽ bị dị ứng bởi kiểu giật gân sáo rỗng này.
 
 ### Cách sửa
-- **Tư duy Tiêu đề Báo chí Sắc lạnh (Journalistic Minimalism):** Tiêu đề phải cực kỳ ngắn gọn, trực diện và điềm tĩnh. Sử dụng các câu đơn sắc nét, khơi gợi tò mò bằng khoảng trống thông tin thay vì gào thét bằng tính từ.
+- **Tư duy Tiêu đề Báo chí Sắc nét (Journalistic Minimalism):** Tiêu đề phải cực kỳ ngắn gọn, trực diện và điềm tĩnh. Sử dụng các câu đơn sắc nét, khơi gợi tò mò bằng khoảng trống thông tin thay vì gào thét bằng tính từ.
 - Bảng thay thế phong cách:
 
 | ❌ Cấu trúc Tệ (AI Cliché) | ✅ Cấu trúc Tốt (Premium & Trực diện) |
@@ -438,7 +439,7 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Chuyên gia thật sẽ bật cười vì thấy thiếu chiều sâu.
 
 ### Cách sửa
-- **Scenario Analysis bắt buộc:** Không kết luận đúng/sai. Phân tích: "Trong điều kiện X thì thắng, trong điều kiện Y thì thua."
+- **Scenario Analysis bắt buộc:** Không phán quyết đúng/sai về động cơ hay đạo đức. Phân tích: "Trong điều kiện X thì thắng, trong điều kiện Y thì thua." Khi bằng chứng đủ, kênh vẫn nêu cách đọc mình đặt cược (chế độ A, `00_core/stance_and_judgment.md`).
 - Mọi phân tích doanh nghiệp/quốc gia phải chỉ ra **Trade-off:** "Chọn A thì hy sinh B."
 - **Có số liệu trước, phân tích kịch bản sau.** NGHIÊM CẤM có kết luận trước rồi tìm số liệu chứng minh.
 - Tự hỏi: "Mình đang bày bàn cờ cho khán giả tự đánh giá, hay đang chọn phe hộ họ?"

@@ -12,7 +12,7 @@
 *   *Hãy viết:* "Với mức thu nhập trung bình của một người trẻ tại Hà Nội hay Sài Gòn, giấc mơ sở hữu một căn hộ chung cư đang ngày càng trôi xa khỏi tầm tay."
 
 ## 2. Personal Stakes Early (Đặt lợi ích cá nhân lên sớm)
-*   Đối với thể loại này, **Personal Stakes (lợi ích/mối nguy hại của người xem)** bắt buộc phải xuất hiện ngay trong **3 phút đầu tiên** của video.
+*   Đối với thể loại này, **Personal Stakes (lợi ích/mối nguy hại của người xem)** bắt buộc phải xuất hiện ngay trong phần mở đầu / Chương 1 của video.
 *   Người xem phải lập tức nhận ra: *"Tại sao câu chuyện vĩ mô này lại ảnh hưởng trực tiếp đến công việc, tài sản hoặc ví tiền của tôi ngay ngày mai?"*.
 *   Dùng các phép loại suy (analogies) gần gũi để giải thích cơ chế tài chính: ví việc lạm phát như một loại "thuế ngầm", ví việc ngân hàng siết tín dụng giống như việc khóa vòi nước tưới cây.
 

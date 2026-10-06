@@ -11,27 +11,27 @@
 
 ## GATE 1: Sau Outline (trước khi tạo Chapter Briefs)
 
-Outline PHẢI đạt **≥ 8/10** tiêu chí sau:
+Outline được đánh giá bằng bảng câu hỏi đọc duyệt sau (tham chiếu Phiếu A `00_core/narrative_craft_rubric.md`):
 
 - [ ] **1.** Ch.1 kết bằng câu hỏi HỞ liên quan quyền lợi/mối quan tâm trực tiếp của khán giả (Loại A: túi tiền/sinh kế; Loại B: bài toán quản trị/quy luật sinh tồn ngành; Loại C: nghịch lý tri thức/mâu thuẫn dữ liệu)? (Không tự đóng loop)
 - [ ] **2.** Ch.2 = Stakes & Relevance Anchor ("Điều này liên quan đến bạn/thị trường/cuộc chơi ra sao?" — Loại A: Personal Stakes túi tiền; Loại B: bài toán doanh nghiệp/quốc gia (cơ chế vận hành, cạnh tranh, thể chế, chuỗi giá trị); Loại C: Mâu thuẫn cấu trúc vĩ mô — KHÔNG biến thành bài giảng lý thuyết giáo điều)
 - [ ] **3.** Open Loop ở Hook liên quan trực tiếp đến stakes cốt lõi của đề tài (Loại A: túi tiền/việc làm; Loại B: bài toán kinh doanh/thách thức chiến lược; Loại C: nghịch lý lịch sử/địa chính trị)?
-- [ ] **4.** Có Re-hook tại mốc chuyển nhịp đầu tiên (phút ~3:30 hoặc cuối Hồi 1) giữ chân khán giả?
-- [ ] **5.** Có Data Shock MỚI tại mốc chuyển giao Hồi 2 (phút ~7:00)?
-- [ ] **6.** Tổng case study quốc tế ≤ 2? Mỗi case ≤ 3 phút (trừ video tài liệu chuyên sâu Loại C)?
-- [ ] **7.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–15m; Cấp 2: 16–25m; Cấp 3: 26–35m; Cấp 4: 36–45+m, theo `.agents/rules/content-os-pipeline.md`; mặc định Cấp 1–2 theo `.agents/AGENTS.md`), bố trí Re-hook & Data Shock tại các điểm gãy cấu trúc để bảo vệ retention?
-- [ ] **8.** Không có đoạn > 3 phút chỉ phân tích/framework khô khan mà không có mỏ neo thực tế (stakes / data / drama)?
+- [ ] **4.** Có Re-hook hoặc cú mở vấn đề mới tại mốc chuyển nhịp (tham chiếu nhịp ~3:30 hoặc cuối Hồi 1) giữ chân khán giả?
+- [ ] **5.** Có manh mối, dữ kiện hoặc nghịch lý MỚI tại khúc chuyển giao sang Hồi 2 (tham chiếu nhịp ~7:00)?
+- [ ] **6.** Tổng case study quốc tế đạt trần Q1 (Loại A/B tối đa 2 case, Loại C tối đa 3 case, mỗi case ≤ 3 phút; quyết định nội dung của user ngày 02/10/2026)? Mỗi case gắn chặt vào việc làm sáng tỏ luận điểm và có nguồn trong vault (theo `content_principles.md` §5).
+- [ ] **7.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–15m; Cấp 2: 16–25m; Cấp 3: 26–35m; Cấp 4: 36–45+m, theo `.agents/rules/content-os-pipeline.md`; mặc định Cấp 1–2 theo `.agents/AGENTS.md`), bố trí Re-hook & manh mối/dữ kiện mới tại các khúc chuyển màn để duy trì nhịp chú ý?
+- [ ] **8.** Không có đoạn kéo dài (tham chiếu > 3 phút) chỉ phân tích/framework khô khan mà không có mỏ neo thực tế (stakes / data / drama)?
 - [ ] **9.** Mỗi chương có bridge tạo chuyển động (logical data flow / narrative bridge)?
 - [ ] **10.** Outro kết đúng chế độ đã chọn (`00_core/stance_and_judgment.md` §1)? Chế độ A nói thẳng lập trường kèm điều kiện có thể sai; chế độ B trao các cách đọc cạnh tranh, biến số quyết định rồi đặt câu hỏi mở nhắm đúng biến số đó. Câu hỏi mở là một phần lập luận, không phải lời xin bình luận (CTA duy nhất nằm cuối Chương 2).
 
 ### Điều kiện PASS:
-- ≥ 8/10 tiêu chí → PASS → Tiếp tục tạo Chapter Briefs
-- < 8/10 → FAIL → Sửa outline và chạy lại Gate 1
+- Vượt qua kiểm định chất lượng theo Phiếu A (`00_core/narrative_craft_rubric.md`) do người khác ngoài người dựng dàn ý chấm, thỏa mãn các câu hỏi trên → PASS → Tiếp tục tạo Chapter Briefs
+- Chưa thỏa mãn các câu hỏi cốt lõi hoặc dưới ngưỡng chất lượng Phiếu A → FAIL → Sửa outline và chạy lại Gate 1
 
 ### Tiêu chí KHÔNG ĐƯỢC vi phạm (Hard-fail):
 - Tiêu chí #1 (Anti-Completion) — Nếu fail → outline bị reject ngay
 - Tiêu chí #2 (Ch.2 = Stakes & Relevance Anchor) — Nếu fail → outline bị reject ngay
-- Tiêu chí #6 (Max 2 case study ngoài luồng) — Nếu fail → phải cắt bớt trước khi tiếp
+- Tiêu chí #6 (Trần case study Q1) - Nếu quá số case hoặc mỗi case > 3 phút → phải cắt bớt trước khi tiếp
 
 ---
 
@@ -75,25 +75,25 @@ Gate này đảm bảo điều đó KHÔNG BAO GIỜ xảy ra nữa.
 
 ### Gate D1: Sau Outline (trước Chapter Briefs)
 
-Outline PHẢI đạt **≥ 7/9** tiêu chí sau:
+Outline được đánh giá bằng bảng câu hỏi đọc duyệt sau (tham chiếu Phiếu A `00_core/narrative_craft_rubric.md`):
 
 - [ ] **1.** Ch.1 kết bằng câu hỏi HỞ (nghịch lý trí tuệ hoặc mâu thuẫn dữ liệu — KHÔNG bắt buộc túi tiền)
 - [ ] **2.** Ch.2 = Relevance Anchor? (Tại sao điều này QUAN TRỌNG với khán giả — có thể là financial, intellectual, hoặc cultural stakes)
-- [ ] **3.** Có Data Shock hoặc Contradiction MỚI tại mốc chuyển nhịp đầu tiên (phút ~3:30)?
-- [ ] **4.** Có Data Shock MỚI tại mốc chuyển giao Hồi 2 (phút ~7:00)?
-- [ ] **5.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–15m; Cấp 2: 16–25m; Cấp 3: 26–35m; Cấp 4: 36–45+m), bố trí Re-hook & Data Shock tại các điểm gãy cấu trúc để bảo vệ retention?
-- [ ] **6.** Không có đoạn > 4 phút chỉ phân tích mà không có data shock mới, comparison, hoặc case study?
-- [ ] **7.** Mỗi chương có logic flow rõ ràng (dữ liệu → phân tích → nhận định)?
+- [ ] **3.** Có manh mối, so sánh hoặc nghịch lý MỚI tại mốc chuyển nhịp đầu tiên (tham chiếu nhịp ~3:30)?
+- [ ] **4.** Có manh mối hoặc dữ kiện bất ngờ MỚI tại mốc chuyển giao sang Hồi 2 (tham chiếu nhịp ~7:00)?
+- [ ] **5.** Phân cấp độ dài bám sát 4 Cấp độ Thời lượng (Cấp 1: 8–15m; Cấp 2: 16–25m; Cấp 3: 26–35m; Cấp 4: 36–45+m), bố trí Re-hook & manh mối mới tại các khúc chuyển màn để bảo vệ mạch chú ý?
+- [ ] **6.** Không có đoạn kéo dài (tham chiếu > 4 phút) chỉ phân tích mà không có manh mối mới, comparison, hoặc case study?
+- [ ] **7.** Mỗi chương có mạch vận động kịch tính và logic nhân quả rõ ràng (But/Therefore) thay vì liệt kê phẳng?
 - [ ] **8.** Outro kết đúng chế độ đã chọn (`00_core/stance_and_judgment.md` §1)? Chế độ A nói thẳng lập trường kèm điều kiện có thể sai; chế độ B trao các cách đọc cạnh tranh, biến số quyết định rồi đặt câu hỏi mở nhắm đúng biến số đó. Câu hỏi mở là một phần lập luận, không phải lời xin bình luận (CTA duy nhất nằm cuối Chương 2).
 - [ ] **9.** Có ít nhất 1 điểm nối về VN / đời sống VN (nếu chủ đề là quốc tế)?
 
 ### Điều kiện PASS:
-- ≥ 7/9 → PASS → Tiếp tục tạo Chapter Briefs
-- < 7/9 → FAIL → Sửa outline
+- Vượt qua kiểm định chất lượng theo Phiếu A (`00_core/narrative_craft_rubric.md`), thỏa mãn các câu hỏi trên → PASS → Tiếp tục tạo Chapter Briefs
+- Chưa thỏa mãn các câu hỏi cốt lõi hoặc dưới ngưỡng chất lượng Phiếu A → FAIL → Sửa outline
 
 ### Tiêu chí KHÔNG ĐƯỢC vi phạm (Hard-fail):
 - Tiêu chí #1 (Anti-Completion) — Hook phải mở loop
-- Tiêu chí #6 (Max 4 phút phân tích liên tiếp) — Phải có data shock/comparison
+- Tiêu chí #6 (Tránh phân tích thuần kéo dài) — Phải có manh mối/comparison đối chứng
 
 ### Gate D2: Sau Ch.2 (trước Ch.3)
 

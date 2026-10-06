@@ -37,11 +37,10 @@ Không phải:
 
 ## 4. Quy tắc câu văn
 ### Nên làm
-- ưu tiên câu ngắn đến trung bình, BẮT BUỘC giữ độ dài dưới 150 ký tự (khoảng 20-25 từ) cho mỗi câu để tương thích tối ưu với hệ thống GPU RunPod TTS local.
-- một câu chủ yếu mang một ý chính duy nhất,
-- dùng câu cực ngắn để chốt sau một đoạn phân tích,
-- đan xen câu có độ dài không đều nhau (câu cực ngắn 3-5 từ kết hợp câu trung bình 10-15 từ) để tạo nhịp thở tự nhiên của con người,
-- chủ động ngắt câu bằng dấu chấm (.) và dấu phẩy (,) dưới 150 ký tự để làm mốc nghỉ hơi tự nhiên cho AI, tránh choppy.
+- luật câu thoại đầy đủ: `.agents/skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai". Tóm tắt: câu hay nhất cho tai, không phải ngắn nhất; dưới 150 ký tự là trần kỹ thuật TTS,
+- một câu một ý, ý trọn (rõ ai làm gì), dữ kiện trước nhận xét sau,
+- câu sau nối câu trước như người ta nói chuyện, nhịp dài ngắn do ý quyết định,
+- đọc to cả đoạn trước khi nộp; chỗ nào vấp hay phải nghe lại thì viết lại.
 - sau dữ liệu phải có một câu “so what?”.
 
 ### Tránh
@@ -55,10 +54,8 @@ Ví dụ chưa tốt:
 > Theo số liệu của Tổng cục Thống kê, chỉ số giá tiêu dùng CPI năm 2024 tăng trung bình 3.63% so với cùng kỳ năm trước, trong khi lãi suất tiết kiệm bình quân kỳ hạn 12 tháng chỉ đạt 4.5%.
 
 Ví dụ tốt hơn:
-> Năm 2024, giá cả tăng trung bình 3.6%.
-> Tiền gửi tiết kiệm chỉ sinh lời khoảng 4.5%.
-> Chênh lệch nghe không lớn.
-> Nhưng với người sống bằng tiền nhàn rỗi, đó là khoảng cách đủ để thấy sức mua bị bào mòn.
+> Năm 2024, giá cả tăng trung bình 3,6%, trong khi gửi tiết kiệm một năm chỉ được khoảng 4,5%.
+> Chênh lệch ấy nghe không lớn, nhưng với người sống bằng tiền nhàn rỗi, nó đủ để thấy sức mua đang bị bào mòn.
 
 ## 5. Quy tắc đoạn văn
 Mỗi đoạn nên ngắn.
@@ -243,14 +240,14 @@ Không phải kết khiến họ được “truyền động lực” kiểu co
 
 ## 16. Checklist cuối trước khi đưa sang TTS
 1. Có câu nào quá dài khiến TTS hụt hơi không?
-2. Có đoạn nào liệt kê hơn 3 con số mà không giải nghĩa không?
+2. Có đoạn nào đọc số theo thứ tự bảng kê hay nhồi số mà không phục vụ một nhịp nhận thức rõ ràng không?
 3. Có thuật ngữ nào chưa được giải thích không?
 4. Có câu nào nghe như template AI không?
 5. Có đoạn nào announce-importance thay vì để content tự nói không?
 6. Có quá nhiều câu cùng một hình dạng không?
 7. Có đủ những câu cho thấy người viết đang thật sự có chính kiến không?
 8. Đọc lớn thành tiếng có mượt và có trí tuệ không?
-9. **⛔ CẤM TUYỆT ĐỐI dấu `—` nối ý ngắn** (VD: "kém — mà", "không phải A — mà là B"). TTS đọc dính hoặc tạo pause lạ. Thay bằng dấu chấm tách 2 câu, hoặc dùng dấu phẩy/liên từ. Chỉ giữ `—` khi chèn mệnh đề phụ dài (apposition).
+9. **⛔ CẤM TUYỆT ĐỐI dấu gạch ngang dài em-dash** trong toàn bộ kịch bản voiceover. TTS đọc dính hoặc tạo khoảng lặng bất thường làm đứt gãy nhịp nghe. Luôn tách câu bằng dấu chấm, hoặc dùng dấu phẩy, liên từ tự nhiên.
 10. **⛔ BẮT BUỘC DỌN DẸP SẠCH SẼ:** Trước khi gửi sang TTS/Voiceover, tất cả các file `chapter_XX.md` phải được xóa bỏ hoàn toàn mọi tiêu đề chương (dạng `# Chương X: ...`), chú thích, metadata, và ghi chú quy trình ở đầu và cuối file. File chỉ giữ lại duy nhất phần văn bản voiceover (phần đọc) sạch sẽ, không có bất kỳ ký tự hoặc ký hiệu kỹ thuật nào khác để tránh làm gián đoạn nhịp đọc của mô hình TTS hoặc người thu âm.
 11. **⛔ BẮT BUỘC PHIÊN ÂM TÁCH ÂM ĐƠN VỊ ĐO LƯỜNG:** Bắt buộc viết tách rời từng âm tiết tiếng Việt có dấu thanh cho toàn bộ các đơn vị đo lường: `ki lô mét`, `ki lô mét trên giờ`, `ki lô gam`, `héc ta`, `ki lô oát`, `mê ga oát`. TUYỆT ĐỐI CẤM để sót chữ viết dính liền như `kilômét`, `kilomet`, `km` hoặc dùng gạch nối `ki-lô-mét`, vì mô hình TTS sẽ bị lỗi lặp phụ âm và phát âm sai thành *"ki kô mét"*.
 

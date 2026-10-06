@@ -14,7 +14,7 @@ Mục tiêu tối thượng là đảm bảo mọi kịch bản xuất bản đ�
 1. Độc lập, khách quan, điềm tĩnh và giàu chiều sâu trí tuệ.
 2. Tuyệt đối chính xác về bản chất cơ chế kinh tế, pháp lý và kỹ thuật thực nghiệm.
 3. Cuốn hút, kịch tính, giữ chân thính giả bằng khoa học kinh tế học chú ý.
-4. Giàu nhạc tính ngôn ngữ nói; sức nặng đến từ dữ kiện cụ thể, không từ tả cảnh (user chốt 02/10/2026, WO-00 Q6).
+4. Giàu nhạc tính ngôn ngữ nói; sức nặng đến từ dữ kiện cụ thể; hạn chế tả cảnh theo định nghĩa chuẩn (user chốt 02/10/2026, WO-00 Q6; cập nhật 06/10/2026).
 
 ---
 
@@ -66,8 +66,8 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
 *   **1.2. Đường cong Gia tốc Xung đột (Escalating Stakes Arc) — 6 điểm:**
     *   Xung đột kịch tính phải tịnh tiến theo chiều sâu: Từ một hiện tượng cá biệt / một sự kiện bất thường $\rightarrow$ Xung đột chuỗi cung ứng và đối thủ $\rightarrow$ Điểm nghẽn thể chế và chính sách vĩ mô $\rightarrow$ Triết lý phát triển dài hạn.
     *   Mỗi chương mới phải đẩy mức độ nghiêm trọng và quy mô của câu chuyện lên một tầm cao hơn chương trước.
-*   **1.3. Cú lật nhận thức thực chứng (Dialectic Turn / Anagnorisis) — 6 điểm:**
-    *   Kịch bản phải có ít nhất 1–2 bước ngoặt lật ngược hoàn toàn định kiến hoặc hiểu lầm phổ thông của người nghe bằng dữ liệu thực chứng.
+*   **1.3. Cú lật nhận thức thực chứng (Dialectic Turn / Anagnorisis, Chỉ tiêu IV `00_core/narrative_craft_rubric.md`): 6 điểm**
+    *   Kịch bản phải có bước ngoặt lật ngược hoàn toàn định kiến hoặc hiểu lầm phổ thông của người nghe bằng dữ liệu thực chứng (IV-a cú lật trong chương và IV-b cao trào toàn bài). Cách hiểu cũ được dựng lên ở dạng mạnh nhất rồi bị dữ kiện mới làm sụp đổ bất ngờ.
 
 ---
 
@@ -105,43 +105,43 @@ Nhận Thức        Thực Chứng      Đề Phi Hiển     Học Chú Ý     
 *   **4.1. Gia tốc Thông tin & Chống Nhai lại Số liệu (Information Velocity) — 8 điểm:**
     *   Mỗi câu văn tiếp theo phải đẩy nhận thức của người nghe tiến về phía trước.
     *   Triệt tiêu 100% việc lặp lại cơ học các số liệu đã xuất hiện ở Hook. Dữ liệu cũ chỉ đóng vai trò là mỏ neo tương phản nền tảng, không liệt kê lại các con số trung gian gây loãng nhịp.
-*   **4.2. Điểm tựa Giữ chân & Tái kích hoạt Chú ý (Re-hooks & Pivots) — 6 điểm:**
-    *   Cứ mỗi 3–4 phút (tại ranh giới chuyển giao giữa các chương), kịch bản có cài cắm các mỏ neo tái giữ chân (Re-hook): Một bí ẩn mới, một câu hỏi thách thức, hoặc một nghịch lý chính sách mới để ngăn chặn đường cong thoát trang (Drop-off).
-*   **4.3. Điều tiết Nhịp thở Nhận thức (Cognitive Pacing) — 6 điểm:**
-    *   Không dồn dập số liệu khô khan liên tục quá 90 giây mà không có các câu diễn giải ý nghĩa thực tế hoặc hình ảnh trực quan hỗ trợ. Xen kẽ nhịp nhàng giữa dữ liệu khó và chiêm nghiệm sâu.
+*   **4.2. Điểm tựa Giữ chân & Tái kích hoạt Chú ý (Re-hooks & Pivots — tham chiếu chỉ tiêu III Gieo và gặt) — 6 điểm:**
+    *   Kịch bản duy trì liên tục sự tò mò nhận thức: Tại các khúc chuyển màn và chuyển chương (tham chiếu nhịp khoảng mỗi 3–4 phút), người nghe có còn mang câu hỏi trung tâm không hay đã bị bỏ rơi? Có cài cắm mỏ neo tái giữ chân (Re-hook: một bí ẩn mới, một câu hỏi thách thức, hoặc một nghịch lý chính sách mới) để ngăn chặn đường cong thoát trang (Drop-off)?
+*   **4.3. Điều tiết Nhịp thở Nhận thức (Cognitive Pacing — tham chiếu chỉ tiêu VIII Nhịp) — 6 điểm:**
+    *   Tránh dồn dập số liệu khô khan kéo dài mà thiếu diễn giải ý nghĩa thực tế hoặc hình ảnh trực quan hỗ trợ. Có đoạn nào người nghe sẽ hỏi "sao còn đoạn này" không? Mạch tự sự xen kẽ nhịp nhàng giữa dữ liệu khó và chiêm nghiệm sâu.
 
 ---
 
 ### TRỤ CỘT 5: THẨM MỸ ĐIỆN ẢNH, NHẠC TÍNH & HÙNG BIỆN THÍNH GIÁC (20 ĐIỂM)
 > *Sở cứ: Aristotle (Lexis & Melos), Walter J. Ong (Orality and Literacy), NPR Sound Reporting Handbook.*
 
-*   **5.1. Cụ Thể Bằng Dữ Kiện, Không Tả Cảnh (Concreteness Without Scenery) — 6 điểm:**
-    *   Khái niệm trừu tượng được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật được nhắc tên), không bằng tả cảnh.
-    *   Cấm tả cảnh thời tiết, không khí, ánh sáng, cảm giác vật lý và mọi chi tiết minh họa không có nguồn (luật gốc: `.agents/skills/chapter_writer/SKILL.md` mục "Writing for the Ear" điểm 7).
+*   **5.1. Cụ Thể Bằng Dữ Kiện, Hạn Chế Tả Cảnh (Concreteness & Limited Scenery): 6 điểm**
+    *   Khái niệm trừu tượng được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật được nhắc tên).
+    *   Hạn chế tả cảnh: không viết câu dựng không khí, thời tiết, ánh sáng, cảm giác vật lý không mang dữ kiện (rườm rà, điệu đà, không hợp khán giả nam 35-40). Vật chứng có nguồn (văn bản, quyết định có ngày, công trình, con số đặt cạnh con số) được khuyến khích và không tính là tả cảnh (`00_core/narrative_craft_rubric.md` §2).
 *   **5.2. Nhạc Tính & Tiếng Vang Ngôn Ngữ (Acoustic Cadence & Prosody) — 5 điểm:**
     *   Tận dụng thanh điệu tiếng Việt (Bằng - Trắc) để tạo nên một bản giao hưởng âm thanh:
-        *   Khi kịch tính: Chuỗi câu ngắn, đanh thép, nhiều thanh trắc như tiếng gõ búa đập.
-        *   Khi phân tích sâu: Câu dàn trải, nhiều thanh bằng mở rộng êm ả như sóng biển.
-    *   Đọc lên trôi chảy, giàu nhịp điệu nói, không vấp váp, không trúc trắc.
+        *   Nhịp do ý quyết định: câu dài khi giải thích cơ chế, câu ngắn khi một dữ kiện cần đứng riêng. Không cố tạo chuỗi câu cụt "gõ búa".
+    *   Đọc to lên nghe trôi chảy như người thật nói chuyện; người nghe hiểu ngay ở lần nghe đầu, không phải tự hỏi "ai?", "cái gì?" (`.agents/skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai").
 *   **5.3. Độ Dồn Nén Triết Lý & Câu Vàng (The Golden Line & Poetic Compression) — 5 điểm:**
     *   Tác phẩm phải có những "câu vàng" nén tối đa chân lý vào số lượng từ tối thiểu (*Maximum Truth into Minimum Words*), tạo nên tiếng vang tư tưởng khiến người nghe phải dừng lại vài giây để suy ngẫm. Câu vàng phải mang dữ kiện hoặc hệ quả mới; câu chốt chỉ nhắc lại ý vừa nói hoặc câu vàng gượng ép bị trừ điểm (`00_core/anti_ai_isms.md` §3b).
-    *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ hay tả cảnh.
+    *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ hay câu dựng không khí.
 *   **5.4. Kỷ Luật Kỹ Thuật Tai Nghe (Acoustic Constraints) — 4 điểm:**
-    *   **100% câu thoại phải tuyệt đối dưới 150 ký tự** (20–25 từ), cấu trúc hoàn chỉnh chủ-vị, không bẻ câu què cụt.
+    *   **100% câu thoại dưới 150 ký tự** (trần kỹ thuật TTS, không phải mục tiêu viết), cấu trúc hoàn chỉnh chủ-vị, không bẻ câu què cụt, không chủ ngữ ẩn.
     *   Cấm tuyệt đối dấu gạch ngang dài (`—`). Khử sạch 100% từ cấm AI (`anti_ai_isms.md`).
     *   Cấm các lối ví von bình dân, sến sẩm (như *"như tôm tươi"*, *"đỏ lửa ba ca"*) làm suy giảm thẩm mỹ tác phẩm.
 
 ---
 
-## 4. Năm Điều Kiện Loại Bỏ Ngay Lập Tức (Hard-Fail Fatal Gates)
-*Một kịch bản dù đạt điểm cao ở các phần khác nhưng vi phạm **bất kỳ 1 trong 5 điều sau** sẽ bị đánh giá **KHÔNG ĐẠT (FAIL)** ngay lập tức và buộc phải viết lại:*
+## 4. Các Điều Kiện Loại Bỏ Ngay Lập Tức (Hard-Fail Fatal Gates)
+*Một kịch bản dù đạt điểm cao ở các phần khác nhưng vi phạm **bất kỳ 1 trong các điều sau** sẽ bị đánh giá **KHÔNG ĐẠT (FAIL)** ngay lập tức và buộc phải viết lại:*
 
 1. **Gate 1 (Bẫy PR Bào chữa):** Tồn tại văn phong phòng thủ, thanh minh, cãi lại truyền thông thay vì đứng ở vị thế nhà điều tra độc lập.
 2. **Gate 2 (Đứt gãy Hợp đồng Nhận thức):** Hook gieo câu hỏi lớn nhưng thân bài lảng tránh sang vùng an toàn, không giải quyết dứt điểm.
 3. **Gate 3 (Xuyên tạc Cơ chế):** Bóp méo bản chất pháp lý, tài chính hoặc kỹ thuật do sử dụng phép ẩn dụ cẩu thả, sai lệch.
 4. **Gate 4 (Lặp lại Dữ liệu Cơ học):** Nhai lại nguyên văn các số liệu đã xuất hiện ở Hook mà không tạo ra giá trị phân tích mới.
 5. **Gate 5 (Vi phạm Giới hạn Kỹ thuật Tai nghe):** Tồn tại câu voiceover dài quá 150 ký tự hoặc chứa dấu gạch ngang dài (`—`).
-6. **Gate 6 (Bịa chi tiết / Suy luận viết như dữ kiện):** chi tiết cụ thể (số, địa danh, so sánh nhất, mô tả vật thể, câu gán cho nguồn) không có mã `M-xx` trong `00_so_du_kien.md` hoặc mã OBS hiện hành; hoặc câu mang nhãn `market_analysis` / `opinion_commentary` được viết bằng giọng dữ kiện. Cổng máy `scripts/kiem_pha.py` bắt trước (`SO-KHONG-NGUON`, `SOSANH-NHAT`, `NHAN-ROI`, `OBS-LECH`); người chấm xác nhận.
+6. **Gate 6 (Bịa chi tiết / Suy luận viết như dữ kiện):** chi tiết cụ thể (số, địa danh, so sánh nhất, mô tả vật thể, câu gán cho nguồn) không có mã `M-xx` trong `00_so_du_kien.md` trỏ về nguồn gốc mở được; hoặc câu mang nhãn `market_analysis` / `opinion_commentary` được viết bằng giọng dữ kiện. Cổng máy `scripts/kiem_pha.py` bắt trước (`SO-KHONG-NGUON`, `SOSANH-NHAT`, `NHAN-ROI`); người chấm đối chiếu câu với câu nguồn nguyên văn và xác nhận.
+7. **Gate 7 (Gãy chất chuyện cấp bài - Trụ cột K / Hard-Fail 11 `00_core/quality_rubric.md` §4, `00_core/narrative_craft_rubric.md` §6):** Kịch bản cấp bài có Chỉ tiêu I (Câu hỏi kịch tính trung tâm) hoặc Chỉ tiêu X (Kết và nghĩa) dưới 3 điểm; hoặc Trụ cột K không đạt mốc ĐẠT.
 
 > **Ai chấm:** người chấm khác agent viết. Cổng máy chạy trước, đầu ra dán vào báo cáo. Không chấm "trong khối suy nghĩ" của người viết (user chốt 02/10/2026, WO-00 Q11).
 

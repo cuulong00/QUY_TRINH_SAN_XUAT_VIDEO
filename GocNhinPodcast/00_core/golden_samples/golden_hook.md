@@ -10,8 +10,8 @@
 ### 1. Mở bằng tình trạng thật, không bằng nhãn chủ đề
 Người xem phải thấy một **hiện tượng đang xảy ra** trước khi biết video nói về gì. Không mở bằng "Hôm nay chúng ta sẽ nói về..." hay "GDP là chủ đề..." — mở bằng thứ người xem đã cảm nhận ngoài đời (giá tăng, lãi vay thay đổi, tin tức mâu thuẫn).
 
-### 2. Data hoặc insight thật trong 15 giây đầu
-15 giây đầu phải có ít nhất 1 trong 2: con số cụ thể có context (mã M), HOẶC một câu diễn giải cho thấy cách đọc riêng mà chưa kết luận. Nếu 15 giây đầu chỉ setup drama mà không có substance → viết lại. Câu 1–2 phải khớp tiêu đề và thumbnail (xác nhận cú bấm trong 3 giây).
+### 2. Vật chứng hoặc insight thật trong 15 giây đầu
+15 giây đầu phải có ít nhất 1 trong 2: một vật chứng/chi tiết cụ thể có context (hoặc con số gắn với mã M), HOẶC một câu diễn giải cho thấy cách đọc riêng mà chưa kết luận. Nếu 15 giây đầu chỉ setup drama mà không có substance → viết lại. Câu 1–2 phải khớp tiêu đề và thumbnail (xác nhận cú bấm trong 3 giây).
 
 ### 3. Đặt câu hỏi và căng thẳng, chưa kết luận
 Hook cho thấy kênh có **cách đọc riêng** qua việc chọn nghịch lý và câu hỏi sắc, nhưng chưa nói kết luận (`00_core/stance_and_judgment.md` §8: Chương 1 đặt câu hỏi, chưa kết luận). Lập trường được "kiếm" sau bằng chứng, nói ở chương kết.
@@ -41,7 +41,7 @@ Sau hook: mở câu hỏi nhỏ → trả lời (phần thưởng nhỏ) → m�
 ## Checklist nhanh trước khi chốt hook
 
 ```
-[ ] 15 giây đầu có data hoặc insight thật?
+[ ] 15 giây đầu có vật chứng, dữ kiện cụ thể hoặc insight thật?
 [ ] Có cách đọc riêng (nghịch lý, câu hỏi sắc) nhưng chưa kết luận?
 [ ] Có điểm tựa liên quan đúng loại đề tài A/B/C?
 [ ] Câu hỏi mở (nếu có) tự nhiên từ logic, không dùng meta-announcement?

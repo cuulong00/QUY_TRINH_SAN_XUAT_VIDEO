@@ -3,6 +3,8 @@ name: chapter-writer
 description: "Chapter drafting specialist. MUST BE USED when writing or revising any chapter_XX.md file. Use PROACTIVELY for all chapter drafting tasks."
 ---
 
+> 🧭 **Agent viết vào qua thẻ `.agents/phases/pha_07_viet_chuong.md`**; thẻ chỉ định đọc mục nào của skill này. Các mục khác là tham khảo.
+
 # Chapter Writer — Đạo Diễn Kịch Bản, viết từng chương
 
 > 📚 Trước khi viết chương đầu tiên của tập: chạy `.agents/skills/chapter_writer/KNOWLEDGE_DIGESTION_GATE.md` (chứng minh đã hiểu: mô hình tri thức, 5 câu hỏi phản biện, bảng cấm, expert lens), rồi mới tới `PRE_FLIGHT_GATE.md`. Hiệu chỉnh văn bằng cặp ví dụ yếu/mạnh trong `.agents/examples/chapter_writer_examples.md` và `editorial_quality_examples.md` (không chép mẫu).
@@ -14,7 +16,7 @@ description: "Chapter drafting specialist. MUST BE USED when writing or revising
 >   * Quyết định chất lượng chiều sâu, tính chuẩn xác của cơ chế, logic nhân quả, sự thật công nghiệp, kinh tế và pháp lý.
 >   * **TUYỆT ĐỐI CẤM NGỤY BIỆN BÙ NHÌN RƠM (Anti-Strawman Rule):** Cấm tự bịa ra các giả định ngây thơ của dân ngoại đạo làm hạ thấp trí thông minh khán giả và hủy hoại uy tín chuyên gia của kênh. Bắt buộc phải phản biện ở phiên bản logic mạnh nhất của đối tượng (Steelman).
 > - **SKILL (Kỹ năng thực thi `chapter-writer`):** Là **CÔNG CỤ KỸ THUẬT & CHẾ TÀI ĐẦU RA** *(How to execute?)*. 
->   * Kiểm soát kỷ luật tai nghe: 100% câu < 150 ký tự, không dấu gạch ngang dài (`—`), không từ cấm AI (`anti_ai_isms.md`), nhịp thở đàm thoại thư thái, đúng định dạng tệp `chapter_XX.md`.
+>   * Kiểm soát kỷ luật tai nghe theo mục "Viết Câu Cho Tai" (hai phép thử: đọc to, nghe riêng từng đoạn); không từ cấm AI (`anti_ai_isms.md`); đúng định dạng tệp `chapter_XX.md`. Trần 150 ký tự và lệnh cấm `—` do `kiem_pha.py` chặn bằng máy, người viết không lấy đó làm mục tiêu.
 >
 > **2. Giao thức Khóa Vai Chuyên Gia trước khi viết (Persona Binding Gate):**
 > - Trước khi viết Chương N, Agent **BẮT BUỘC nạp file Persona Chuyên Gia Thống Trị (Dominant Expert)** tương ứng từ `.agents/personas/`:
@@ -22,9 +24,9 @@ description: "Chapter drafting specialist. MUST BE USED when writing or revising
 >   * *Chương sản xuất, chuỗi cung ứng, công nghệ chế tạo, logistics:* `the_industrial_economist.md`.
 >   * *Chương mở đầu, xung đột kịch tính, nghịch lý:* `the_critical_auditor.md` + `the_narrative_director.md`.
 >
-> **3. Quy trình 2 Chặng bắt buộc trong khối suy luận ngầm (Thinking Process):**
-> - **Chặng 1 (Domain Expert Pass):** Chuyên gia tư duy xây dựng Khung xương cơ chế thực chứng (Mechanism Wireframe). Kiểm tra đối soát 1-1 với `research_vault/`. Triệt tiêu mọi giả thuyết ngây thơ, nói quá hay tâng bốc PR.
-> - **Chặng 2 (Narrative Director & Voice Architect Pass):** Chuyển thể khung xương chuyên môn đó sang văn phong nói điềm tĩnh bên bàn trà cho tai nghe. Cắt câu < 150 ký tự, giữ nhịp thở tự nhiên.
+> **3. Quy trình 2 Chặng bắt buộc — hai lượt riêng có sản phẩm in ra chat:**
+> - **Chặng 1 (Domain Expert Pass):** Chuyên gia tư duy xây dựng Khung xương cơ chế thực chứng (Mechanism Wireframe), in ra chat. Kiểm tra đối soát 1-1 với `research_vault/`. Triệt tiêu mọi giả thuyết ngây thơ, nói quá hay tâng bốc PR.
+> - **Chặng 2 (Narrative Director & Voice Architect Pass):** Lượt riêng kế tiếp, in bảng nhịp chương ra chat trước khi viết, chuyển thể sang văn phong nói điềm tĩnh bên bàn trà cho tai nghe. Mỗi đoạn trả lời câu hỏi người nghe đang có trong đầu; ý dài thì tách thành nhiều câu đủ chủ ngữ, không nén câu.
 >
 > 🚦 **GIAO THỨC GHI LOG TIỀN KHỞI ĐỘNG (BẮT BUỘC TRƯỚC KHI VIẾT FILE):**
 > TRƯỚC KHI tạo `chapter_XX.md`, Agent **BẮT BUỘC in hộp log ra màn hình chat**:
@@ -45,12 +47,12 @@ description: "Chapter drafting specialist. MUST BE USED when writing or revising
 >
 > **Quy tắc vai trò:**
 > - Luận điểm (thesis, counter-argument) đã được khóa cứng trong `chapter_briefs.md`. Không sáng tác luận điểm ngược brief.
-> - Bắt buộc khai thác mỏ neo số liệu thực tế từ `01_global_vision_synthesis.md` và `research_vault/` để làm dày nội dung.
+> - **⛔ VAULT MINING (BẮT BUỘC, sửa 06/10/2026):** Đào `vault/` và `02_research_map.md` để tìm **manh mối, vật chứng, chi tiết cụ thể, mốc thời gian, quyết định, nghịch lý** làm sáng từng nhịp chuyện. KHÔNG nhồi nhét thêm số liệu chỉ để tăng dung lượng chương: số liệu thêm vào mà không phục vụ một nhịp là lối báo cáo.
 > - Tuyệt đối không bịa số liệu hay áp dụng dữ liệu ngoài bối cảnh.
-
-> 🛑 **NGHIÊM CẤM (Lỗi DNA Cũ):** TUYỆT ĐỐI KHÔNG DÙNG ví dụ cá nhân hóa cực đoan hẹp (VD: "Anh Minh 35 tuổi thăng chức..."). Thể loại Documentary yêu cầu phân tích vĩ mô toàn cảnh. Khi liên hệ đời sống, phải dùng lăng kính PHỔ QUÁT ("Chúng ta", "Xã hội hiện đại", "Tầng lớp lao động").
-> - **Quy chuẩn Phân Đoạn Văn Bản (Chống nát vụn câu):** Tuyệt đối KHÔNG ngắt mỗi câu thành một dòng/đoạn văn riêng biệt một cách máy móc (kể cả ở Chương 1 - Hook). Dù nguyên tắc tách cảnh yêu cầu mỗi câu là 1 scene, trên văn bản script, các câu ngắn BẮT BUỘC phải được gom lại thành các đoạn văn (paragraphs) logic để đảm bảo dòng chảy văn bản mượt mà, dễ đọc cho Voiceover.
-> - **Quy chuẩn Định Dạng Tệp Kịch Bản (Không ghi thông tin vận hành):** Kịch bản chương `chapter_XX.md` chỉ chứa tiêu đề `# chapter_XX.md` và các đoạn văn kịch bản thoại sạch để làm voiceover. Tuyệt đối không đưa các mô tả hình ảnh hoặc Visual: cues vào kịch bản. Tuyệt đối không ghi bản tổng hợp "TOÀN CẢNH VIDEO", "Tuyên bố sẵn sàng", các checklists của Pre-flight Gate trực tiếp vào tệp kịch bản. Các thông tin này chỉ được in ra trong phần phản hồi chat của Agent để báo cáo tiến độ.
+> 
+> 🛑 **NGHIÊM CẤM (Lỗi DNA Cũ):** TUYỆT ĐỐI KHÔNG DÙNG nhân vật hư cấu hay ví dụ cá nhân hóa bịa (VD: "Anh Minh 35 tuổi thăng chức..."). Khi liên hệ đời sống chung, dùng lăng kính PHỔ QUÁT ("Chúng ta", "Xã hội hiện đại", "Tầng lớp lao động"). Lệnh cấm này KHÔNG cấm cảnh và chủ thể có thật: một công trình, một văn bản, một cuộc họp, một doanh nghiệp, một phát biểu có ngày giờ và nguồn trong vault đều được và nên dùng làm vật chứng cho nhịp chuyện (sửa 06/10/2026).
+> - **Quy chuẩn Phân Đoạn Văn Bản (Chống nát vụn câu):** Tuyệt đối KHÔNG ngắt mỗi câu thành một dòng/đoạn văn riêng biệt một cách máy móc (kể cả ở Chương 1 - Hook). Phân cảnh hình ảnh được thiết kế theo nhịp ý ở khâu I2V+; trên văn bản script, các câu ngắn BẮT BUỘC phải được gom lại thành các đoạn văn (paragraphs) logic để đảm bảo dòng chảy văn bản mượt mà, dễ đọc cho Voiceover.
+> - **Quy chuẩn Định Dạng Tệp Kịch Bản (Không ghi thông tin vận hành & CẤM MỌI CHÚ THÍCH/TIÊU ĐỀ):** Kịch bản chương `chapter_XX.md` chỉ chứa trực tiếp các đoạn văn kịch bản thoại sạch để làm voiceover. Tuyệt đối cấm viết tiêu đề chương dạng `# chapter_XX.md` ở đầu tệp, nhãn `[VISUAL CUE]`, hoặc bất kỳ mô tả hình ảnh, cues âm thanh nào trong tệp kịch bản chương. Toàn bộ hình ảnh, âm thanh, phân cảnh sẽ được thiết kế riêng ở Pha 12 và 12.5. Tuyệt đối không ghi bản tổng hợp "TOÀN CẢNH VIDEO", "Tuyên bố sẵn sàng", các checklists của Pre-flight Gate trực tiếp vào tệp kịch bản. Các thông tin này chỉ được in ra trong phần phản hồi chat của Agent để báo cáo tiến độ.
 > - **CẤM TUYỆT ĐỐI GỌI API BÊN NGOÀI ĐỂ VIẾT CHƯƠNG:** Nghiêm cấm viết hoặc chạy các script Python, bash hoặc các công cụ tự động gọi API của các mô hình ngôn ngữ lớn bên ngoài (như OpenAI, Gemini, Anthropic...) để viết nháp, dịch, tóm tắt hoặc biên tập chương. Agent bắt buộc phải tự dùng LLM của IDE đọc file chapter briefs trực tiếp và tự tay viết văn bản sạch cho voiceover.
 
 > 📐 **INPUT BẮT BUỘC (Nguyên liệu từ pha trước)**
@@ -58,7 +60,7 @@ description: "Chapter drafting specialist. MUST BE USED when writing or revising
 
 ## ⛔ Prerequisites Gate
 TRƯỚC KHI viết bất kỳ chapter nào, xác nhận TẤT CẢ trong `episodes/[slug]/`:
-- `00_hien_chuong.md` — đề bài khóa, từ khóa đã loại, N1–N5; `00_bang_gia_thuyet.md` — giả thuyết còn đứng và mã E để trỏ thay cho chép câu; khi cần dữ kiện ngoài sổ, tra kho theo `.agents/skills/kb_reader/SKILL.md` (không tra thì không viết)
+- `00_hien_chuong.md` — đề bài khóa, từ khóa đã loại, N1–N5; `00_bang_gia_thuyet.md` — giả thuyết còn đứng và mã E để trỏ thay cho chép câu; khi cần dữ kiện ngoài sổ, tìm trong `research_vault/` và `research_raw/` của tập rồi thêm hàng M trước khi viết (không có nguồn thì không viết)
 - `02_research_synthesis.md` — GRS đã có và đã nạp vào ngữ cảnh
 - `03_brief.md` — đã có và đã duyệt
 - `04_hook_pack.md` — đã có hook chính thức
@@ -77,7 +79,7 @@ Kịch bản chỉ vài nghìn từ, nên khi viết Chương N, Agent nạp đ�
 3.  **`09_narrative_state_tracker.md` (NST):** Bộ nhớ trạng thái động (các vòng lặp đang mở và hạt giống cần gặt).
 4.  **Toàn bộ kịch bản thoại sạch đã viết trước đó (`chapter_01.md` đến `chapter_N-1.md`):** Nạp đầy đủ để mô hình: (1) Nắm trọn vẹn mạch cảm xúc và nhịp điệu từ đầu đến cuối, (2) Triệt tiêu 100% việc lặp lại các phép ẩn dụ, cấu trúc câu hay ví dụ, (3) Cài cắm các chi tiết gợi nhớ tinh tế (callbacks).
 5.  **Tệp Phong Cách Chuyên Biệt tương ứng:** Đọc tệp phong cách nằm trong `00_core/styles/` dựa theo Thể loại (Genre) đã xác định.
-6.  **Bộ Lọc Khẩu Ngữ & DNA Kênh:** `00_core/voice_dna.md` và `00_core/anti_ai_isms.md` — **NẠP NGAY TỪ ĐẦU** để khóa chết văn phong nói, ngăn tật viết hàn lâm/báo cáo của model.
+6.  **Bộ Lọc Khẩu Ngữ & DNA Kênh:** `00_core/voice_dna.md` và `00_core/anti_ai_isms.md` — **NẠP NGAY TỪ ĐẦU** để khóa chết văn phong nói, ngăn tật viết hàn lâm/báo cáo của model; biết từ cấm và hai lớp soi/phán §3b khi viết; Bước 3 đối chiếu lại.
 
 ### Tầng 3 — REFERENCE (Chỉ mở khi CẦN tra cứu cụ thể)
 Không đọc trước. Chỉ mở khi gặp tình huống cụ thể:
@@ -90,12 +92,24 @@ Không đọc trước. Chỉ mở khi gặp tình huống cụ thể:
 BẮT BUỘC thực hiện theo `PRE_FLIGHT_GATE.md`: Trước khi viết bất kỳ chữ thoại nào vào `chapter_XX.md`, Agent bắt buộc phải in ra màn hình chat **Bảng Đối Soát Chứng Cứ Công Khai (Claim-to-Source Verification Ledger)** đối chiếu từng luận điểm với Footnote ID và trích dẫn nguyên văn từ `research_vault/`.
 
 ### Tầng 4B — POST-WRITE AUDIT & GIAO THỨC HIỆU ĐÍNH HỮU CƠ (ORGANIC REVISION)
-Sau khi viết xong chapter, Agent rà soát lại toàn bộ văn bản để đảm bảo:
-1. 100% câu thoại $< 150$ ký tự, câu chủ - vị hoàn chỉnh, nhịp thở đàm thoại điềm tĩnh như ngồi uống trà.
+Sau khi viết xong chapter, in ra **1 bảng tổng hợp ngắn gọn 5 dòng** để nghiệm thu:
+
+| Hạng mục | Kiểm tra | Đạt? |
+|---|---|---|
+| **Data từ Brief & GVS** | Mỗi dữ kiện của brief đã có chỗ: đọc trong một nhịp chuyện, hoặc ghi "lên hình" để Pha 12 đưa vào infographic. KHÔNG bắt mọi dữ kiện phải được đọc (sửa 06/10/2026: luật cũ "tất cả data anchors đã xuất hiện" đẩy chương thành chuỗi số). | ✅/❌ |
+| **Kể chuyện** | Bảng nhịp chương (Chặng 2) đã đi đủ; Phiếu B cấp chương (Bước 3b, `00_core/narrative_craft_rubric.md`) đã tự soi xong để sửa sớm, mọi điểm 4–5 và 1–2 có trích câu? | ✅/❌ |
+| **Lịch sử kịch bản** | Không trùng lặp từ ngữ, ẩn dụ hoặc cấu trúc câu với các chương trước? | ✅/❌ |
+| **Ngôn ngữ & Nhịp thở** | Qua hai phép thử của mục "Viết Câu Cho Tai"; 100% câu dưới 150 ký tự; không từ cấm AI, không dấu `—`? | ✅/❌ |
+| **Cầu nối chuyển tiếp** | Đã gặt hạt (Harvest) đầu chương và gieo hạt (Seed) cuối chương sang chương sau? | ✅/❌ |
+
+Agent rà soát lại toàn bộ văn bản để đảm bảo:
+1. Mỗi đoạn qua hai phép thử của mục "Viết Câu Cho Tai"; câu chủ - vị hoàn chỉnh, nhịp thở đàm thoại điềm tĩnh như ngồi uống trà. Trần 150 ký tự do máy kiểm.
 2. Khử sạch melodrama và tính từ giật gân rẻ tiền (`nghiệt ngã, rúng động, cuộc chơi, kinh hoàng, sốc`), tạo kịch tính bằng sự thật trần trụi và số liệu đối xứng.
 3. Sạch 100% từ cấm AI (`anti_ai_isms.md`), không có dấu gạch ngang dài (`—`).
 4. Gom từ 2-4 câu ngắn thành đoạn văn logic, cấm ngắt dòng sau mỗi câu đơn lẻ.
 5. Bảo đảm tính đối xứng và tôn trọng dòng chảy thời gian hữu cơ, không mở màn bằng niên biểu hành chính chán ngắt.
+6. Bảng nhịp chương (Chặng 2) đã đi đủ; đã tự soi bằng Phiếu B cấp chương (Bước 3b, `00_core/narrative_craft_rubric.md`) để sửa câu yếu trước khi nộp, mọi điểm 4–5 và 1–2 có trích câu.
+7. Mỗi dữ kiện của brief đã có chỗ: đọc trong một nhịp chuyện, hoặc ghi "lên hình" để đưa vào infographic. Không bắt mọi dữ kiện phải được đọc (sửa 06/10/2026).
 
 > ⚡ **GIAO THỨC HIỆU ĐÍNH HỮU CƠ (ORGANIC REVISION MANDATE — CHỐNG VÁ VÍU ĐỐI PHÓ):**
 > - Khi phát hiện lỗi hoặc nhận phản hồi từ Người dùng/Reviewer: **TUYỆT ĐỐI CẤM sửa đổi theo kiểu chắp vá cơ học (nhét một câu trả bài vào đầu đoạn làm vỡ nhịp thở và tính hữu cơ)**.
@@ -111,6 +125,24 @@ Sau khi viết xong chapter, Agent rà soát lại toàn bộ văn bản để �
 ### Bước 1: NGHĨ (trước khi gõ chữ nào) - FRONT-LOAD ORIGINALITY
 
 > ⛔ **ĐIỀU KIỆN TIÊN QUYẾT:** Bước 1 CHỈ ĐƯỢC BẮT ĐẦU sau khi đã nạp đầy đủ `01_global_vision_synthesis.md` (Bản đồ Toàn Cảnh Pha 1) và toàn bộ `chapter_01.md`...`chapter_N-1.md` theo Prerequisites Gate ở trên. Nếu thiếu bất kỳ tệp nào → QUAY LẠI Prerequisites Gate.
+>
+> **NGHIÊM CẤM VIẾT NGAY:** Agent BẮT BUỘC thực thi tuần tự 2 chặng, mỗi chặng là **một lượt riêng có sản phẩm in ra chat** (sửa 06/10/2026, đợt NARRATIVE-CRAFT):
+> - **Chặng 1** kết thúc bằng **khung xương cơ chế** in ra chat (cơ chế, động cơ các bên, phản biện mạnh nhất, dữ kiện đã đối soát vault). Chưa viết câu thoại nào.
+> - **Chặng 2** là lượt sau, bắt đầu từ khung xương ấy và in **bảng nhịp chương** trước khi viết câu đầu tiên.
+> - **Khi có nhiều agent:** Chặng 1 do persona chuyên môn của chương làm; Chặng 2 do The Narrative Director làm trong một hội thoại khác, chỉ nhận khung xương cơ chế, brief chương và bảng nhịp của outline.
+> - **Khi một mình:** bắt buộc in khung xương, rồi in bảng nhịp, rồi mới viết văn. Không viết thẳng từ bảng số liệu hay bảng pointer của brief.
+> - Lý do: khi hai chặng gộp chung một lượt, chặng có cổng đo (dữ kiện đúng) chiếm hết lượt viết; dẫn tới nguy cơ ra một bản báo cáo đúng số nhưng khô cứng.
+
+#### 🧠 CHẶNG 1: DOMAIN EXPERT PASS (Xây dựng Khung Xương Cơ Chế & Kỷ Luật Anti-Strawman)
+Chuyên gia Thống trị (Dominant Persona) chỉ huy trực tiếp:
+1. **Dựng Khung Xương Cơ Chế (Mechanism Wireframe):**
+   - Chỉ ra dòng chảy bản chất: Bản chất kinh tế/thể chế của vấn đề này là gì? Động cơ thực sự của các bên liên quan (incentives) nằm ở đâu?
+   - Định vị điểm nghẽn hoặc mâu thuẫn cốt lõi: Nút thắt chính sách, rào cản chi phí cơ hội hay sự đánh đổi cấu trúc?
+2. **Kỷ Luật Anti-Strawman Thép (Tri-Adversarial Rigor):**
+   - Tuyệt đối không được dựng lên các lập luận bù nhìn dễ dãi để tự biên tự diễn.
+   - Bắt buộc đối đầu trực diện với luận điểm phản biện mạnh nhất của phe đối lập (Steelmanning), chỉ ra logic sinh tồn và sự chính đáng của họ trước khi phản hồi bằng dữ liệu thực chứng.
+3. **Thẩm Định Số Liệu Đối Soát (Vault-Locked Data Points):**
+   - 100% số liệu sử dụng phải có trong `vault/` hoặc `02_research_map.md`. Tuyệt đối cấm bịa số liệu hay ngoại suy cảm tính.
 
 Tự trả lời BẮT BUỘC trước khi viết:
 
@@ -137,9 +169,24 @@ Tự trả lời BẮT BUỘC trước khi viết:
 - Chapter NÀY đóng góp gì vào việc *xây dựng* hoặc *giải quyết* nghịch lý trung tâm?
 - Nếu chapter này bị xóa, nghịch lý trung tâm có bị suy yếu không? Nếu không → chapter đang thừa.
 
+#### 🎙️ CHẶNG 2: NARRATIVE DIRECTOR & VOICE ARCHITECT PASS (Chuyển Thể Sang Da Thịt Thính Giác)
+> ⛔ **CHẶNG NÀY LÀ BƯỚC RIÊNG, CÓ SẢN PHẨM RIÊNG (sửa 06/10/2026).** Bắt đầu bằng một **bảng nhịp chương** in trong phần phản hồi chat (không ghi vào `chapter_XX.md`), lấy từ bản đồ nhịp của `07_outline.md` và brief chương:
+> | Nhịp | Chức năng (câu hỏi / manh mối / cú lật / hệ quả) | Vật chứng | Chủ thể muốn gì, bị cản gì | Số chính đọc (thường 1–2) | Số để hình nói |
+> Nguyên liệu cho bảng: bốn trường `cau_hoi_dieu_tra`, `vat_chung`, `cu_lat`, `chu_the_va_dong_co` của brief chương. Viết chương theo bảng này, không theo thứ tự của bảng số liệu hay tài liệu nguồn. Mẫu đối chiếu: `.agents/examples/chapter_writer_examples.md` Pair 6 và Pair 7.
+
+0. **Chuyển thể dữ liệu thành chuyện (làm TRƯỚC khi lo câu chữ):**
+   - Mỗi nhịp mở bằng điều người nghe chưa biết hoặc chưa hiểu, rồi đưa vật chứng, rồi mới nói nghĩa. Người nghe đi cùng cuộc tìm kiếm, không nghe đọc kết quả.
+   - Mỗi nhịp tối đa 1–2 con số được đọc; số còn lại để infographic nói. Không đọc liền từ ba con số trở lên trong một đoạn như đọc bảng.
+   - Mỗi chương có ít nhất một cú lật được dàn dựng: đặt cách hiểu thông thường trước, đưa dữ kiện làm đổi cách hiểu sau. Mẫu chuẩn: đoạn phòng trưng bày di động ở chương 4 tập gsm-chau-au-v4.
+   - Nguồn và ngày ban hành nằm trong sổ claim và mô tả video; lời đọc chỉ nêu tên nguồn khi tên nguồn tự làm tăng độ tin cho đúng câu đó, và không đọc ngày ban hành trừ khi chính ngày ấy là một phần câu chuyện.
+
 ### Bước 2: VIẾT nháp
 Viết tự nhiên, theo dòng suy nghĩ. Tuân thủ:
 - **Mỗi đoạn phục vụ 1 ý chính duy nhất**
+- **Quy tắc Bắt buộc cho Chương 1 (The 120-Second Landscape Orientation — BẮT BUỘC):**
+  * Sau cú Hook mở màn, kịch bản **BẮT BUỘC phải có đoạn văn mở rộng góc nhìn toàn cảnh (Zoom-Out Landscape)**, trao trọn vẹn tấm bản đồ cỗ máy và các mắt xích then chốt cho khán giả.
+  * Khán giả nghe xong Chương 1 phải định hình được: Toàn cảnh cỗ máy này ra sao và câu hỏi lớn mà video sẽ trả lời. KHÔNG đọc mục lục video ("hành trình của chúng ta đi qua ba trạm", "trạm đầu là…"): đó là lối báo cáo (sửa 06/10/2026). TUYỆT ĐỐI CẤM dội bom số liệu vụn vặt biến khán giả thành người mù trong mê cung!
+- **Mỗi con số phải có nguồn, nhưng nguồn nằm ở sổ claim, không phải ở lời đọc (sửa 06/10/2026)**: mọi số liệu phải truy được về báo cáo tài chính, văn bản pháp lý hay cơ quan thống kê trong `10_compliance_report.md` và mô tả video. Trong lời đọc, chỉ gọi tên nguồn khi tên ấy làm người nghe tin đúng câu đó hơn (một con số gây tranh cãi, một lời thừa nhận của chính cơ quan), và tránh chuỗi "theo báo cáo ngày… của…". Không đọc ngày ban hành văn bản trừ khi ngày ấy là một phần câu chuyện.
 - **Tuân thủ tuyệt đối 5 Nguyên tắc Tư duy Cốt lõi (brand_safety_guidelines.md §1.5):** Dịch chuyển trục xung đột sang quy luật kinh tế vĩ mô khách quan. Khử sạch các từ cấm ("đốt tiền", "cứu trợ", "ván cược", "ưu ái ngầm") bằng thuật ngữ kinh tế học toàn cầu. Đặt câu hỏi theo lăng kính giải mã "năng lực đặc biệt/sứ mệnh" thay vì nghi vấn cơ cấu.
 - **Mỗi con số phải có context** — so với gì? Trong bối cảnh nào? Ý nghĩa gì?
 - **Mỗi nhận định đi theo nhãn của hàng `M-xx` trong `00_so_du_kien.md`** (`verified_data` nói thẳng; `market_analysis` chỉ ra đường đi từ dữ kiện; `opinion_commentary` nhận là của kênh). Không tự gán nhãn mới khi viết; mắt xích chưa có trong sổ thì thêm dòng trước. Số không có mã M không được xuất hiện trong thoại.
@@ -152,9 +199,8 @@ Trước khi viết, đối chiếu `08_chapter_briefs.md` hoặc brief để x�
 
 #### Thể loại 1: Visual Investigative Narrative (Phong cách Johnny Harris - Điều tra Trực quan)
 - **Bẫy Nghịch Lý (The Paradox Trap):** Thiết lập ngay một nghịch lý hoặc mâu thuẫn đối lập vô lý giữa 2 sự thật ở đầu chương để kích thích tò mò.
-- **Chuyển Đổi Tiêu Cự (Narrative Zooming):** Xen kẽ liên tục giữa vĩ mô (Macro - quy luật, cơ chế) và cận cảnh (Micro - câu chuyện cụ thể, vụ bắt giữ, trải nghiệm đời thường). Tránh viết phân tích vĩ mô thuần túy liên tục quá 2 phút.
+- **Chuyển Đổi Tiêu Cự (Narrative Zooming):** Xen kẽ liên tục giữa vĩ mô (Macro - quy luật, cơ chế) và cận cảnh (Micro - câu chuyện cụ thể, vụ bắt giữ, trải nghiệm đời thường). Tránh viết phân tích vĩ mô kéo dài làm rơi nhịp kể (chỉ tiêu VIII Nhịp).
 - **Chứng Cứ Trực Thoại (Conversational Receipts):** Thiết kế lời thoại trỏ thẳng vào tài liệu gốc, bằng chứng thực tế (*"hãy nhìn vào trang số...", "dòng số...", "trên tờ tiền này..."*). Nó giúp tạo ra nhịp cắt cảnh trực quan cho editor và tăng tính thuyết phục của video.
-- **Nhịp Văn Động (Active Prose Pacing):** Sử dụng các câu cực ngắn (3-5 từ) để tạo nhịp thoại nhanh, dồn dập khi kịch tính, xen kẽ với câu trung bình để giải thích cơ chế.
 
 #### Thể loại 2: Systemic Analytical Essay (Tiểu luận Phân tích Hệ thống)
 - **Khách quan với dữ kiện (Objective Systemic Analysis):** Ngôi thứ ba khách quan. Tập trung giải mã các quy luật kinh tế/chính sách khách quan, các bài học lịch sử đối sánh vĩ mô (Chaebol, Keiretsu, Temasek...). Không định kiến, nhưng vẫn có nhận định được kiếm từ bằng chứng và nói rõ mức chắc chắn (ba tầng giọng, `00_core/stance_and_judgment.md` §5).
@@ -163,7 +209,7 @@ Trước khi viết, đối chiếu `08_chapter_briefs.md` hoặc brief để x�
 
 #### Thể loại 3: Relatable Life Playbook (Cẩm nang Đời sống & Tài chính)
 - **Đồng cảm Ngôi thứ hai (Second-Person Empathy):** Xưng hô "Bạn/Chúng ta" trực diện, chạm đúng vào nỗi lo và áp lực tài chính/đời sống thực tế của khán giả.
-- **Personal Stakes Early:** Đưa bối cảnh liên hệ túi tiền và cuộc sống của người xem vào ngay 3 phút đầu tiên của video.
+- **Personal Stakes Early:** Đưa bối cảnh liên hệ túi tiền và cuộc sống của người xem vào ngay phần mở đầu / Chương 1 của video.
 - **Hành động cụ thể (Action Plans):** Kịch bản kết thúc bằng cẩm nang hành động rõ ràng từng bước thực tế, không đưa lời khuyên chung chung.
 
 ---
@@ -174,15 +220,15 @@ Trước khi viết, đối chiếu `08_chapter_briefs.md` hoặc brief để x�
 > 🛑 **BẮT BUỘC ÁP DỤNG TRONG MỌI CHƯƠNG VÀ ĐẶC BIỆT TẠI [THE DEVIL'S CHAPTER]:**
 > Tuyệt đối CẤM đưa ra một luận điểm xuôi chiều, một chính sách hay một mô hình kinh doanh mà không đi qua "lửa thử vàng" của phản biện. Mọi luận điểm cốt lõi BẮT BUỘC phải được tôi luyện qua **Tam Đoạn Luận Phản Biện 3 Nhịp**:
 > 1. **Nhịp 1 — Công kích Phản Đề Thép (The Steelman Piercing Attack):** 
->    - Trình bày phản biện ở phiên bản thông minh, sắc bén và giàu dữ liệu nhất của phe đối lập (dựa trên một lăng kính đã chọn trong hiến chương tập; danh mục: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện"). 
->    - Tuyệt đối CẤM dùng ngụy biện bù nhìn rơm (Strawman). Phải trích dẫn đích danh dữ liệu đối kháng (`DATA-XX`), báo cáo kiểm toán, hoặc quy luật chi phí cơ hội.
->    - *Khẩu ngữ gợi ý:* *"Nhưng giới quan sát tài chính ngay lập tức đặt dấu hỏi...", "Những người hoài nghi thị trường đưa ra một con số khó chịu...", "Ở góc độ thể chế, bài toán không đơn giản như vậy..."*
-> 2. **Nhịp 2 — Thừa nhận Động lực & Tính Chính Đáng (Validate the Incentive & Reality):**
->    - Không được vội vã phủ nhận phe phản biện. Phải sòng phẳng thừa nhận tính logic, cái lý và áp lực sinh tồn khách quan của họ trong bối cảnh thực tế.
->    - *Khẩu ngữ gợi ý:* *"Sự thận trọng này hoàn toàn có cơ sở khi...", "Nỗi lo này có cơ sở trên bảng cân đối...", "Đứng ở vị thế của nhà làm chính sách, đây là rủi ro hiện hữu..."*
-> 3. **Nhịp 3 — Hợp Đề & Đánh Đổi Bắt Buộc (Resolution via Data & Admitted Trade-Offs):**
->    - Hóa giải mâu thuẫn bằng quy luật kinh tế vĩ mô và bằng chứng thực chứng, ĐỒNG THỜI công khai thừa nhận chi phí cơ hội hoặc sự đánh đổi cấu trúc (`admitted_trade_offs`). Không tô hồng giải pháp như một "phép màu toàn năng".
->    - *Khẩu ngữ gợi ý:* *"Cái giá phải trả cho sự tăng tốc này là...", "Chọn con đường này thì thứ phải hy sinh là...", "Giải pháp này chỉ đứng vững khi..."* (gợi ý hướng, không chép nguyên câu; mẫu "không phải X mà là Y" và câu nghe sâu sắc bị giới hạn theo `00_core/anti_ai_isms.md` §3b)
+>    - Trình bày phản biện ở phiên bản thông minh, sắc bén và giàu dữ liệu nhất của phe đối lập (dựa trên một lăng kính đã chọn trong hiến chương tập; danh mục: `.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện"). 
+>    - Tuyệt đối CẤM dùng ngụy biện bù nhìn rơm (Strawman). Phải trích dẫn đích danh dữ liệu đối kháng (mã M-xx trong sổ dữ kiện, báo cáo kiểm toán), hoặc quy luật chi phí cơ hội.
+    - *Khẩu ngữ gợi ý:* *"Nhưng giới quan sát tài chính ngay lập tức đặt dấu hỏi...", "Những người hoài nghi thị trường đưa ra một con số khó chịu...", "Ở góc độ thể chế, bài toán không đơn giản như vậy..."*
+ 2. **Nhịp 2 — Thừa nhận Động lực & Tính Chính Đáng (Validate the Incentive & Reality):**
+    - Không được vội vã phủ nhận phe phản biện. Phải sòng phẳng thừa nhận tính logic, cái lý và áp lực sinh tồn khách quan của họ trong bối cảnh thực tế.
+    - *Khẩu ngữ gợi ý:* *"Sự thận trọng này hoàn toàn có cơ sở khi...", "Nỗi lo này có cơ sở trên bảng cân đối...", "Đứng ở vị thế của nhà làm chính sách, đây là rủi ro hiện hữu..."*
+ 3. **Nhịp 3 — Hợp Đề & Đánh Đổi Bắt Buộc (Resolution via Data & Admitted Trade-Offs):**
+    - Hóa giải mâu thuẫn bằng quy luật kinh tế vĩ mô và bằng chứng thực chứng, ĐỒNG THỜI công khai thừa nhận chi phí cơ hội hoặc sự đánh đổi cấu trúc (`admitted_trade_offs`). Không tô hồng giải pháp như một "phép màu toàn năng".
+    - *Khẩu ngữ gợi ý:* *"Cái giá phải trả cho sự tăng tốc này là...", "Chọn con đường này thì thứ phải hy sinh là...", "Giải pháp này chỉ đứng vững khi..."* (gợi ý hướng, không chép nguyên câu; mẫu "không phải X mà là Y" và câu nghe sâu sắc cần được đọc phán theo `00_core/anti_ai_isms.md` §3b)
 
 ### Bước 3: TỰ RÀ TRƯỚC KHI NỘP (không phải cổng chấm)
 > Người viết tự rà để nộp bản sạch. Cổng chấm chính thức là `scripts/kiem_pha.py --pha 7` (chạy và dán đầu ra vào tin nộp) rồi người chấm khác theo `00_core/chapter_quality_standard.md`. Không tự cho điểm mình (Q11).
@@ -190,28 +236,39 @@ Người viết rà soát bản nháp theo 14 tiêu chí dưới đây trước 
 
 | # | Tiêu chí | Câu hỏi kiểm toán ngầm | Đạt? |
 |---|---|---|---|
-| 1 | **Tính chuyên gia & Mỏ neo** | Dữ liệu/số liệu từ Brief & Vault đã xuất hiện chính xác 100% chưa? | ☐ |
+| 1 | **Tính chuyên gia & Mỏ neo** | Mỗi dữ kiện của brief đã có chỗ: đọc trong một nhịp chuyện, hoặc ghi "lên hình" để đưa vào infographic? Không bắt mọi dữ kiện phải được đọc. Dữ liệu đọc lên chính xác 100% với Brief & Vault? | ☐ |
 | 2 | **Khẩu ngữ & Tránh AI-isms** | Đọc lên nghe như người thật ngồi uống trà hay giống AI viết báo cáo? Có dính từ cấm trong `anti_ai_isms.md` không? | ☐ |
-| 3 | **Mật độ giá trị** | Có câu nào rườm rà (padding)? Cắt đi có mất thông tin không? | ☐ |
-| 4 | **Độ dài câu & Nhịp thở** | 100% câu dưới 150 ký tự? Phân đoạn mượt mà, không bẻ câu què quặt? | ☐ |
+| 3 | **Mật độ giá trị** | Có câu nào rườm rà (padding)? Cắt đi có mất thông tin không? Không cắt mắt xích "vì sao", từ nối chỉ quan hệ thật, hay lời giới thiệu tên riêng. | ☐ |
+| 4 | **Hiểu ngay khi nghe** | Nghe riêng đoạn này, không đọc dàn ý hay chương khác, có hiểu không? Mọi tên riêng, con số, tình huống đã nói rõ tại chỗ? | ☐ |
 | 5 | **Tính khách quan & An toàn** | Không dùng từ phán xét tiêu cực, tuân thủ an toàn CPM và Brand Safety? | ☐ |
-| 6 | **Câu chốt & dấu hiệu cấu trúc** | Đếm theo `00_core/anti_ai_isms.md` §3b: "không phải X mà là Y" ≤ 2, mỗi câu chốt/câu vàng mang dữ kiện hoặc hệ quả mới, không kết hai đoạn liền nhau bằng câu chốt, 0 câu mượn uy tín không tên | ☐ |
+| 6 | **Câu chốt & dấu hiệu cấu trúc** | Soi và đọc phán theo `00_core/anti_ai_isms.md` §3b: liệt kê câu khớp S1–S7; đọc từng câu: có mang dữ kiện/hệ quả mới không và có nghe như người có nghề đang nói không (sửa nếu thấy khuôn/rỗng, giữ nếu có nghề); câu chốt mang dữ kiện hoặc hệ quả mới, không mượn uy tín không tên | ☐ |
 | 7 | **Cầu nối Seeding/Harvesting** | Đầu chương đã gặt seed của chương trước? Cuối chương đã gieo seed cho chương sau? | ☐ |
 | 8 | **Vị thế Nhà điều tra Độc lập** | Có bị dính bẫy PR thanh minh/bào chữa ("tiêu đề giật gân vội vã quy chụp", "đập tan đồn đoán") không? Đã giữ đúng tư thế nhà phân tích độc lập chưa? | ☐ |
 | 9 | **Hướng tâm Xung đột** | Nút thắt/xung đột gieo ở Hook có được tháo ngòi trực diện tại hiện trường không, hay người viết đang lảng tránh sang vùng an toàn dễ dãi? | ☐ |
-| 10 | **Gia tốc Thông tin** | Có câu nào nhai lại cơ học các con số vừa xuất hiện ở Hook không? Dữ liệu mới và góc nhìn mới có chuyển động liên tục không? | ☐ |
+| 10 | **Gia tốc Thông tin** | Mạch chuyện có chuyển động liên tục không (câu hỏi mới, manh mối mới, cú lật mới)? Không nhai lại cơ học các con số cũ và không đọc chuỗi số liệu dồn dập. | ☐ |
 | 11 | **Tri-Adversarial & Steelman** | Đã kích hoạt Tam Đoạn Luận Phản Biện 3 Nhịp chưa? Phản biện có sắc sảo, chống Strawman và thừa nhận sòng phẳng Trade-Offs không? | ☐ |
 | 12 | **Khử Melodrama & Tính Từ** | Đã loại bỏ hoàn toàn các từ ngữ giật gân rẻ tiền (`nghiệt ngã, rúng động, cuộc chơi, kinh hoàng, sốc`) chưa? Sức nặng có đến từ sự thật không? | ☐ |
 | 13 | **Scene Kinetics & Niên biểu Hữu cơ** | Có mở đầu bằng niên biểu hành chính chán ngắt không? Đã mở đầu bằng áp lực động chưa? | ☐ |
 | 14 | **Cân Bằng Bàn Cờ Đối Xứng** | Nếu so sánh đa chủ thể, độ sâu BCTC và mức độ bóc tách của các bên có đạt tỷ lệ 1-1 không? | ☐ |
+| 15 | **Narrative Craft (Tự soi Phiếu B)** | Bước 3b đã chạy Phiếu B theo `00_core/narrative_craft_rubric.md` để tự soi? Mọi điểm yếu (chỉ tiêu, câu lỗi) đã được viết lại thành nhịp chuyện, không chỉ xóa bớt số? | ☐ |
+
+### Bước 3b: TỰ SOI THEO `00_core/narrative_craft_rubric.md` (BẮT BUỘC, sửa 06/10/2026, đợt NARRATIVE-CRAFT)
+> Thay lượt đọc ba kết luận của đợt KE-CHUYEN sáng 06/10: một lượt đọc với ba kết luận chỉ nói được chương có phải báo cáo không, không nói được chương thiếu gì. Chất chuyện chấm theo 10 chỉ tiêu, có trích câu; không chỉ tiêu nào chấm bằng đếm (bớt số vẫn có thể đọc kết quả).
+
+1. **Đọc trọn chương một mạch, không ghi chép**, như người nghe lần đầu: không mở brief, sổ dữ kiện hay bảng nhịp.
+2. **Chạy Phiếu B** (`narrative_craft_rubric.md` §4) cho chương vừa viết: IV-a Cú lật, V Vật chứng so với tóm tắt, VI Chủ thể và xung đột, VII Giọng, VIII Nhịp, IX Câu cho tai, và cột "đẩy câu hỏi trung tâm đi bao xa". Mỗi điểm 4–5 và 1–2 trích câu (≤ 25 từ); điểm 1–2 kèm một câu viết lại. So với ngân hàng đoạn mẫu ở §7 trước khi cho điểm.
+3. **Cập nhật Phiếu A**: dòng gieo/gặt (chương này gieo hạt nào, gặt hạt nào), và ghi chú nếu chương làm lệch câu hỏi I hay vị trí cao trào IV-b.
+4. **In phiếu trong phản hồi chat**, không ghi vào `chapter_XX.md`. Phiếu được chép vào `episodes/[slug]/11_narrative_craft_scorecard.md` (phần tự soi của người viết).
+5. **Đọc và in Phiếu B để tự soi:** chương yếu ở chỉ tiêu nào, câu nào cần viết lại. Tự soi không phải điều kiện lưu và không tính vào điểm K; chương đạt hay không do chấm mù ở Pha 10 quyết (compliance_council Khóa 6). Chưa ưng ý thì quay lại Chặng 2 bước 0, viết lại đúng nhịp chứa câu lỗi theo lệnh sửa đã ghi; xóa bớt số không phải là sửa.
 
 ### Bước 4: HIỆU ĐÍNH HỮU CƠ & XUẤT BẢN THẢO SẠCH (Organic Self-Correction)
-Nếu phát hiện bất kỳ câu nào vi phạm (dài quá 150 ký tự, dính từ cấm AI, melodrama, mở màn bằng niên biểu hành chính, hoặc vi phạm tính đối xứng) ➡️ Mô hình **tự động tái cấu trúc hữu cơ cả đoạn văn** ngay trong khối suy luận ngầm. Tuyệt đối không chắp vá cơ học. Lưu `chapter_XX.md`, chạy `KB_GRAPH=kb_v2 scripts/kiem_pha.py <slug> --pha 7`, sửa tới khi ra ĐẠT, rồi nộp kèm đầu ra lệnh. Việc cho điểm thuộc người chấm.
+Nếu phát hiện bất kỳ câu nào vi phạm (dài quá 150 ký tự, dính từ cấm AI, melodrama, mở màn bằng niên biểu hành chính, hoặc vi phạm tính đối xứng) ➡️ Mô hình **tự động tái cấu trúc hữu cơ cả đoạn văn** ngay trong khối suy luận ngầm. Tuyệt đối không chắp vá cơ học. Lưu `chapter_XX.md`, chạy `scripts/kiem_pha.py <slug> --pha 7`, sửa tới khi ra ĐẠT, rồi nộp kèm đầu ra lệnh. Việc cho điểm thuộc người chấm.
 
 
 ## Kỹ thuật mở rộng an toàn (khi chương quá ngắn)
-Ưu tiên từ trên xuống:
-1. **Thêm data gốc** — con số, so sánh cross-country, trend dài hạn. ⛔ Chỉ được dùng data đã có trong research_vault hoặc research_map. KHÔNG dùng số liệu từ kiến thức phổ thông.
+Ưu tiên từ trên xuống (sửa 06/10/2026: đưa nhịp chuyện lên trước, thêm số xuống sau):
+0. **Đào sâu nhịp đang có** — câu hỏi kế tiếp mà người nghe sẽ hỏi ở nhịp này là gì? Vật chứng nào trong vault trả lời được? Có cú lật nào chưa được dàn dựng?
+1. **Thêm data gốc** (chỉ khi con số mở thêm một nhịp, không để tăng dung lượng cơ học) — con số, so sánh cross-country, trend dài hạn. ⛔ Chỉ được dùng data đã có trong research_vault hoặc research_map. KHÔNG dùng số liệu từ kiến thức phổ thông.
 2. **Thêm case study quốc tế** — ⛔ Case study phải có trong research_vault hoặc research_map. KHÔNG được thêm case study từ Nhật, Hàn, Thái, Indonesia... bằng kiến thức phổ thông. Nếu vault không có → ghi `[CẦN CASE STUDY — CHƯA CÓ TRONG NGUỒN]` và hỏi user.
 3. **Thêm phản biện (BẮT BUỘC THEO CẤU TRÚC STEELMAN 3 CÂU)**:
    - ⛔ Counter-point phải đến từ `contested_evidence_ledger` trong `02_research_map.md`, không tự nghĩ ra.
@@ -225,24 +282,39 @@ Nếu phát hiện bất kỳ câu nào vi phạm (dài quá 150 ký tự, dính
 
 > ⛔ **Đỏ cấm:** KHÔNG padding bằng câu rỗng, KHÔNG bịa số liệu, KHÔNG lặp insight bằng cách đổi chữ, KHÔNG bịa case study, KHÔNG ngụy biện bù nhìn rơm.
 
-## Quy Tắc Vàng: Writing for the Ear & Giới Hạn Câu Ngắn Dưới 150 Ký Tự
+## Quy Tắc Vàng: Viết Câu Cho Tai (bản chuẩn duy nhất)
 
-Để kịch bản đạt độ hay tự nhiên, rõ ràng (clear), dễ nghe và tương thích tối đa với các hệ thống TTS local chạy trên RunPod GPU:
-1. **Giới hạn câu dưới 150 ký tự (khoảng 20-25 từ):** Đây là giới hạn cứng bắt buộc. Câu ngắn giúp thính giả tiếp thu thông tin vĩ mô cực kỳ dễ dàng, không bị quá tải.
-2. **Cấm tuyệt đối bẻ câu què quặt về ngữ pháp:** Mỗi câu ngắn dưới 150 ký tự bắt buộc phải là một câu hoàn chỉnh về mặt cú pháp (đầy đủ Chủ ngữ - Vị ngữ) hoặc câu đặc biệt có chủ ý nghệ thuật. Tuyệt đối không ngắt trạng ngữ, bổ ngữ, hoặc mệnh đề phụ thành một câu riêng biệt cộc lốc, chắp vá.
-3. **Quy chuẩn Phân Đoạn Kịch Bản (Không ngắt dòng mỗi câu):** Kịch bản phải được nhóm thành các đoạn văn (paragraphs) trôi chảy từ 2 đến 4 câu có liên kết nội dung chặt chẽ. Tuyệt đối không được xuống dòng liên tục (double newline) sau mỗi câu đơn độc. Hãy thực hiện ngắt câu bằng dấu chấm (.) hoặc dấu chấm phẩy (;) trên cùng một dòng văn, giữ mạch liên kết logic trôi chảy. Chỉ xuống dòng khi chuyển ý chính thức.
-4. **Kỹ thuật Liên kết Logic (Semantic Linkage):** Mạch văn của câu ngắn phải liền mạch, trôi chảy. Câu sau phải kết nối chặt chẽ và tiếp nối logic trực tiếp từ câu trước thông qua các đại từ liên kết ("Điều này...", "Nước đi này...", "Nó...") hoặc các liên từ logic ngắn ("Tuy nhiên,", "Thực tế,", "Ngược lại,").
-5. **Trộn lẫn độ dài câu nghệ thuật (Rhythmic Pacing):** Tránh đơn điệu bằng cách đan xen linh hoạt câu cực ngắn khẳng định (3-5 từ) để tạo điểm nhấn, câu trung bình (8-12 từ) để cung cấp thông tin, và câu cận giới hạn (15-20 từ - vẫn tuyệt đối dưới 150 ký tự) để phân tích cơ chế sâu.
-6. **Tận dụng hơi thở (Natural Breathing):** Giữ mật độ thông tin thư thái ở tốc độ chuẩn 223–235 từ/phút (`.agents/AGENTS.md`), không dồn dập, để giọng đọc AI truyền cảm nhất.
-7. **Cấm tuyệt đối sến sẩm, tả cảnh thời tiết, không khí hay cảm giác vật lý:** Mạch văn phải đi thẳng vào số liệu, nghịch lý, cơ chế hoặc diễn biến logic thực tế.
+> Luật gốc về câu thoại; file khác chỉ trỏ về đây. Nguồn đối chiếu: `01_management/viet_cau_cho_tai_20261003.md`.
 
+**Nguyên tắc:** viết câu hay nhất cho tai, không phải câu ngắn nhất. Người nghe chỉ nghe một lần, nên mỗi câu phải hiểu ngay ở lần đầu và nghe như một người am hiểu đang nói chuyện thật: rõ ai làm gì; dữ kiện trước, nhận xét sau; câu sau nối câu trước bằng từ nối của văn nói khi quan hệ là thật; câu dài khi giải thích cơ chế, câu ngắn khi một dữ kiện cần đứng riêng. Không nhân hóa hay bình phẩm thay dữ kiện, không tả cảnh. Trần 150 ký tự và lệnh cấm `—` là giới hạn của máy TTS (hiến pháp §3), không phải mục tiêu.
+
+**Dải tham chiếu độ dài (đếm theo tiếng; nguồn `01_management/do_dai_cau_tieng_viet_20261004.md`):** câu trung bình khoảng 15–25 tiếng là vùng dễ nghe; trần 150 ký tự tương đương khoảng 30–35 tiếng; mỗi vế giữa hai chỗ ngắt (dấu phẩy, dấu chấm) nên không quá khoảng 12 tiếng, tức khoảng 3 giây đọc. Dải này để kiểm khi đọc to, không phải chỉ tiêu; không có chỉ tiêu câu ngắn.
+
+**Hai phép thử bắt buộc trước khi nộp** (cả khi chỉ sửa một đoạn):
+1. **Đọc to cả đoạn.** Chỗ nào vấp, phải đọc lại mới hiểu, hoặc người nghe sẽ hỏi "ai?", "cái gì?", "để làm gì?", "sao lại thế?" thì viết lại.
+2. **Nghe riêng đoạn này.** Người nghe không có dàn ý, sổ dữ kiện hay tài liệu nguồn trước mặt. Vì vậy:
+   - Không tự đặt nhãn rồi dùng lại ("gói Dantaxi", "giả thuyết ngựa gỗ", "cách của tập này"). Gọi sự vật bằng cái nó là.
+   - Không bắt người nghe nhớ số hay tên từ chương khác; cần thì nhắc lại ngắn tại chỗ. Tên riêng lần đầu xuất hiện phải kèm một vế giới thiệu.
+   - Nói mục đích trước hành động ("muốn biết X, họ hỏi Y"), không kể hành động rồi để người nghe tự đoán vì sao.
+   - Từ bảng số liệu hay văn bản luật, kể **ý nghĩa** theo thứ tự câu hỏi của người nghe, không chép thứ tự của tài liệu.
+   - Rào đón (mức chắc chắn, ngoại lệ pháp lý) đặt sau ý chính và không được nói ngược ý chính.
+
+Đơn vị viết là câu hỏi tiếp theo trong đầu người nghe, không phải một dòng trong sổ dữ kiện.
+
+**Ví dụ** (tập `gsm-chau-au-v4`, user chỉ ra 03/10/2026):
+- ❌ "Và chọn Hà Lan để gõ cửa lần hai thì càng ngược đời." (ai chọn? "gõ cửa lần hai" phải giải mã; phán "ngược đời" trước dữ kiện)
+- ✅ "Và nơi xe VinFast quay lại là một đất nước rất lạ để bán ô tô. Hà Lan có hơn 23 triệu chiếc xe đạp cho khoảng 18 triệu dân, nghĩa là xe đạp còn nhiều hơn người."
+- ❌ "Hà Lan đã thôi chiều người mua xe điện." ✅ "Hà Lan đang cắt dần ưu đãi cho xe điện." rồi nêu ưu đãi nào.
+- ❌ "Nền tảng muốn nói khác thì phải tự chứng minh." (chứng minh cái gì?) ✅ "Nền tảng nào cho rằng tài xế của mình không phải người làm công thì phải tự đưa ra bằng chứng."
+- ❌ (chép bảng số liệu) "Trong lúc thẩm định, cơ quan cạnh tranh đã gửi câu hỏi tới các hãng taxi… nếu một hãng như thế mua lại phần Dantaxi, anh có chuyển sang không? Với GSM, cứ mười chủ xe thì bảy, tám người trả lời là khó." (gửi để làm gì? "như thế" là gì? ai chuyển, sang đâu?)
+- ✅ "Cơ quan cạnh tranh còn muốn biết một điều nữa. Ở Đan Mạch, chính chủ xe quyết định xe mình chạy cho hãng nào. Vậy nếu một hãng khác mua lại phần Dantaxi, các chủ xe có đi theo không? Họ hỏi thẳng các chủ xe, lần lượt với từng hãng có thể đứng ra mua, trong đó có GSM." 
 
 ## Transition Bridges & Linkages (Quy luật chuyển ý)
 Khi viết cho voiceover, **KHÔNG** đọc tiêu đề chương.
 Áp dụng quy tắc **LOGIC-BASED TRANSITIONS** (Chuyển ý dựa trên logic):
 - Chuyển ý phải bằng sự di chuyển của dữ liệu/logic biện chứng. Không dùng liên từ nối kiểu điền mẫu, sáo rỗng.
 - **CẤM các liên từ sáo rỗng kiểu YouTube phong trào:** "Đây là chỗ...", "Nhưng đó mới chỉ là bề mặt", "Bạn đã thấy X, vậy Y là gì?", "Thật bất ngờ là...", "Có bao giờ bạn tự hỏi...".
-- **ĐƯỢC PHÉP và khuyến khích các từ nối logic biện chứng vĩ mô:** "Tuy nhiên", "Ở chiều ngược lại", "Hệ quả trực tiếp là", "Trái với kỳ vọng đó", "Điều này dẫn tới một hệ lụy...", "Nhìn từ lăng kính này...".
+- Từ nối theo điểm 4 của mục "Viết Câu Cho Tai": chọn theo quan hệ thật giữa hai ý, ưu tiên từ nối văn nói; không dùng danh sách từ nối cố định.
 - CẤM lộ prompt metadata ("interpretive move", "judgment", "contradiction") vào voiceover.
 - **BẮT BUỘC** áp dụng **Luật But/Therefore** và **Kỹ thuật Subconscious Loop (Câu hở tiềm thức)** của `00_core/longform_blueprint.md` §8 để nối giữa các chương. Từng chương phải được xâu chuỗi nhân quả/mâu thuẫn chặt chẽ và kéo giữ tò mò của người nghe qua các ranh giới chương.
 
@@ -252,8 +324,8 @@ Khi viết cho voiceover, **KHÔNG** đọc tiêu đề chương.
   - **BẮT BUỘC đặt CTA** (kêu gọi Subscribe/Chia sẻ) một cách mềm mỏng ở cuối Chương 2, ngay trước câu chuyển tiếp (Bridge) sang Chương 3. Ví dụ: *"Nếu bạn thấy những thông tin này hữu ích, một lượt đăng ký kênh và chia sẻ nội dung sẽ là nguồn động viên rất lớn đối với đội ngũ sản xuất."*
   - **Khoảng trống sáng tạo:** Tuyệt đối KHÔNG gò ép máy móc các cụm từ "của bạn" hay "Universal Stakes" vào chương này nếu chủ đề vĩ mô không đòi hỏi một cách tự nhiên. Tránh tạo cảm giác bị gò bó hoặc gán ghép khiên cưỡng.
   - **Tính liên hệ tự nhiên:** Chỉ liên hệ với đời sống xã hội khi nó đóng vai trò là một chất dẫn logic tự nhiên cho lập luận vĩ mô. Ưu tiên đi thẳng vào cơ chế kinh tế, phân tích sắc sảo và sự thật dữ liệu của chủ đề.
-  - **Quy mô phân tích:** Sử dụng lăng kính phân tích vĩ mô toàn cảnh, giữ vững giọng điệu lạnh lùng và kỹ trị của thể loại phim tài liệu kinh tế. Không bịa đặt ví dụ cá nhân hay sa đà vào các câu hỏi tu từ mang tính thuyết giáo.
-- **Chương giữa (3-4)**: PHẢI có re-hook + data shock mới. Đây là RETENTION DANGER ZONE. Không để quá 3 phút liên tiếp chỉ có phân tích.
+  - **Quy mô phân tích:** Sử dụng lăng kính phân tích vĩ mô toàn cảnh, giữ vững giọng điệu điềm tĩnh, có nghề, có một bộ óc đang suy nghĩ của người am hiểu bên bàn trà. Không bịa đặt ví dụ cá nhân hay sa đà vào các câu hỏi tu từ mang tính thuyết giáo.
+- **Chương giữa (3-4)**: Cần có re-hook, manh mối hoặc cú lật mới quanh các lần đổi màn để giữ nhịp tự sự. Tránh để phân tích cơ chế hoặc lý thuyết kéo dài mà không có manh mối cụ thể, vật chứng hoặc phép loại suy trực quan (chỉ tiêu VIII Nhịp).
 
 ## ⛔ CHƯƠNG KẾT — Special Rules (Quy tắc riêng biệt — KHÔNG áp dụng quy tắc chapter thông thường)
 
@@ -304,14 +376,14 @@ Khi viết các chủ đề Loại A (hoặc khi cần thiết ở Loại B/C), 
 | 12 | **Tự do lựa chọn** | "quyền được chọn", "tự do thời gian" | Bị khóa trong vòng xoáy trả nợ → mất quyền lựa chọn sống thế nào |
 
 ## Quy chuẩn ngân sách từ & thời lượng
-- Dung lượng mỗi chương tuân thủ nghiêm ngặt theo **Thông số Kỹ thuật [Floor – Target – Ceiling]** được phân bổ tại `07_outline.md` và `08_chapter_briefs.md` (dao động linh hoạt từ 450 đến 950 từ; trần sinh học tuyệt đối $W_{\max} = 1.050$ từ ≈ 4.8 phút).
+- Dung lượng mỗi chương tuân thủ nghiêm ngặt theo **Thông số Kỹ thuật [Floor – Target – Ceiling]** được phân bổ tại `07_outline.md` và `08_chapter_briefs.md` (dao động linh hoạt từ 450 đến 950 từ; trần sinh học tuyệt đối $W_{\max} = 1.050$ từ ≈ 4.8 phút). Ngoại lệ: chữ thêm vào để người nghe hiểu ngay khi nghe một lần (giải nghĩa thuật ngữ, nói thẳng kết luận, gọi tên lại đối tượng) được phép vượt Ceiling của chương, không vượt 1.050 từ (`.agents/workflows/build_outline.md` Trạm 5).
 - Tổng quy mô tập phim co giãn theo 4 Cấp độ Thời lượng (Cấp 1: 8–15m | 4–5 chương; Cấp 2: 16–25m | 6–7 chương; Cấp 3: 26–35m | 7–9 chương; Cấp 4: 36–45+m | 9–12 chương).
-- Thời lượng KHÔNG phải vấn đề gốc rễ. Vấn đề là **cấu trúc 5 phút đầu** — Stakes hoặc Relevance Anchor phải xuất hiện ngay trong Hồi 1 (phút 1:30–3:30) tùy theo phân loại chủ đề (Loại A: Personal Stakes; Loại B: Relevance Anchor bài toán chi phí/quản trị; Loại C: Mâu thuẫn dữ liệu / Tò mò trí tuệ).
-- Không để quá 3 phút liên tiếp chỉ có phân tích/framework khô khan mà không có data shock mới, phép loại suy trực quan, hoặc mỏ neo thực tế.
-- Giới hạn case study quốc tế: áp dụng `content_principles.md` §5 (tối đa 2 case study đối với Loại A/B; tối đa 3 case study đối với Loại C).
+- Thời lượng KHÔNG phải vấn đề gốc rễ. Vấn đề là **cấu trúc phần mở đầu**: Stakes hoặc Relevance Anchor phải xuất hiện ngay trong Hồi 1 / Chương 1 tùy theo phân loại chủ đề (Loại A: Personal Stakes; Loại B: Relevance Anchor bài toán chi phí/quản trị; Loại C: Mâu thuẫn dữ liệu / Tò mò trí tuệ).
+- Tránh để các đoạn văn kéo dài chỉ có lý thuyết hoặc phân tích thuần túy mà không có manh mối cụ thể, vật chứng có thật từ vault, phép loại suy trực quan hoặc cú lật mới (chỉ tiêu VIII Nhịp). Thêm số liệu không phải là cách duy nhất để giải tỏa; chuỗi số liệu dài cũng gây ngợp như lý thuyết.
+- Giới hạn case study quốc tế: theo quyết định nội dung của user (Q1, 02/10/2026), bài Loại B có tối đa 2 case study quốc tế, mỗi case ≤ 3 phút (áp dụng chung: Loại A/B tối đa 2 case; Loại C tối đa 3 case; mỗi case ≤ 3 phút, theo `content_principles.md` §5). Bắt buộc có nguồn trong vault và phục vụ đúng luận điểm. Đây là quyết định nội dung của user, không phải chỉ tiêu chất chuyện, nên không chấm bằng khung 10 chỉ tiêu.
 
 ## CTA — theo hằng số chuẩn
-Vị trí và số lượng CTA theo `.agents/AGENTS.md` mục "Chuẩn Vận Hành Kỹ Thuật" (mục 4): **đúng 1 lần duy nhất, cuối Chương 2, ngay trước Bridge sang Chương 3**. Cấm CTA ở Chương 1 và ở mọi chương sau. Giọng điệu theo `00_core/voice_dna.md` mục 7.2 (mềm mỏng, đĩnh đạc; chủ đề curiosity-driven không ép nỗi sợ mất tiền). CTA phải nối liền mạch: câu trước là insight, câu sau tiếp tục luận điểm; không đặt ngay sau khối số liệu nặng.
+Vị trí và số lượng CTA theo `.agents/AGENTS.md` §4 "Hằng số vận hành" (mục 4): **đúng 1 lần duy nhất, cuối Chương 2, ngay trước Bridge sang Chương 3**. Cấm CTA ở Chương 1 và ở mọi chương sau. Giọng điệu theo `00_core/voice_dna.md` mục 7.2 (mềm mỏng, đĩnh đạc; chủ đề curiosity-driven không ép nỗi sợ mất tiền). CTA phải nối liền mạch: câu trước là insight, câu sau tiếp tục luận điểm; không đặt ngay sau khối số liệu nặng.
 
 ## Sau khi viết xong, cập nhật
 - `09_narrative_state_tracker.md` — ý đã nói, ví dụ đã dùng, open loops
@@ -327,7 +399,7 @@ Tối thiểu:
 - `00_core/voice_dna.md`
 
 Chỉ đọc thêm khi draft thật sự cần mẫu, style, hoặc boundary cụ thể:
-- `00_core/anti_ai_isms.md` — nạp từ đầu (Rolling Context mục 6) để biết từ cấm và hạn mức §3b khi viết; đối chiếu lại lần nữa ở bước scan.
+- `00_core/anti_ai_isms.md` — nạp từ đầu (Rolling Context mục 6) để biết từ cấm và hai lớp soi/phán §3b khi viết; đối chiếu lại lần nữa ở bước scan.
 - `00_core/vietnam_macro_context.md` — Chỉ nạp khi bài viết THẬT SỰ CẦN đào sâu bối cảnh vĩ mô Việt Nam.
 - `00_core/golden_samples/` — nguyên tắc (hook, analysis, transition — principles-based, không có mẫu câu)
 - `00_core/voiceover_style_guide.md`

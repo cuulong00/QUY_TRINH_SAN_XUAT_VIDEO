@@ -42,11 +42,11 @@ Transition giữa các chương/phần là nơi script dễ "lộ AI" nhất. Đ
 
 ---
 
-## Loại 5: Chuyển bằng data point mới
+## Loại 5: Chuyển bằng manh mối hoặc vật chứng mới (mâu thuẫn/nghịch lý)
 
-> ...Cho đến khi chúng ta gặp con số PMI tháng 3.
+> ...Cho đến khi chúng ta nhìn vào đơn hàng thực tế của các nhà máy tháng 3.
 
-**Tự nhiên vì:** đoạn trước đang lạc quan → một câu chốt ngắn với data point mâu thuẫn → khán giả muốn biết PMI nói gì.
+**Tự nhiên vì:** đoạn trước đang lạc quan → một chi tiết/manh mối mới mở ra một nghịch lý → khán giả muốn biết điều gì đang xảy ra phía sau.
 
 ---
 

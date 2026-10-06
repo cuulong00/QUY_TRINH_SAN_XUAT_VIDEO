@@ -5,8 +5,105 @@ Mỗi sửa đổi DNA ghi một mục: ngày · mã việc · nội dung · lý
 ## Quyết định nền (02/10/2026, user chốt tại `01_management/WO-00_BANG_QUYET_DINH_20261002.md`)
 Q1 Loại B ≤2 case · Q2 Ch.2 theo loại đề tài · Q3 chương kết theo chế độ A/B, không CTA, không tóm tắt · Q4 trần chương 1.050 từ · Q5 <150 ký tự là giới hạn cứng, 8–15 từ là gợi ý · **Q6 cấm tả cảnh (user)** · **Q7 đọc toàn bộ chương trước (user)** · Q8 hook không kết luận · Q9 giữ `build_global_vision` · Q10 lăng kính phản biện chọn theo đề, dòng tiền không mặc định · Q11 bỏ tự chấm · **Q12 giữ ví dụ GSM, sửa đúng kho (user)** · Q13 luật cấu trúc một bản ở `script_architect` · Q14 thumbnail brief song song Pha 5 · Q15 rút gọn ≥30% · Q16 mặc định `kb_v2` (cổng 🔒) · Q17 Opus nộp patch, Fable áp.
 
+## 2026-10-06 · NARRATIVE-CRAFT · Khung chấm nghệ thuật kịch bản 10 chỉ tiêu hai cấp (chuyển theo nghĩa từ Dòng Chảy, user duyệt; làm qua 5 agent Antigravity, Claude kiểm từng phiếu)
+- Gốc rễ (giống Dòng Chảy): lượt đọc ba kết luận chỉ nói chương có phải báo cáo không, không nói thiếu gì; chất chuyện không có cổng; brief toàn hàng dữ liệu; hai chặng viết gộp một lượt; persona định nghĩa kịch bản hay là bản đồ lạnh.
+- Sửa:
+  * NC-GN-01 (lõi chấm): mới `00_core/narrative_craft_rubric.md` (10 chỉ tiêu, mốc 1/3/5, quy trình 5 bước, Phiếu A, Phiếu B, đối chiếu hai cấp, mốc ĐẠT, ngân hàng mẫu từ `gsm-chau-au-v4`, `tai-xe-grab-tat-app-vs-gsm`, `green-sm-an-do`; X Kết còn `[CHỜ USER CHỌN MẪU]`); `quality_rubric.md` thêm trụ cột K 20 điểm (D 12→8, E 10→6, F 8→5, I 15→8, J 5→3, tổng 110, Hard-Fail 11); `compliance_council` Khóa 6 chấm mù; `the_critical_auditor`; khuôn `11_narrative_craft_scorecard` (masterpiece, episode_template); `CLAUDE.md`, `AGENTS.md` một dòng.
+  * NC-GN-02 (viết chương): `chapter_writer` hai lượt riêng, bảng nhịp, Bước 3b, mở rộng ưu tiên đào nhịp trước; `rules/chapter-writing`, `editorial-quality`; `write_chapter`, `revise_chapter`; `examples/chapter_writer_examples` (Pair 6–8 lấy từ tập GN), `editorial_quality_examples`; `the_narrative_director` Mục 5, `the_industrial_economist`; thẻ `pha_07`, `pha_08`; `golden_samples`.
+  * NC-GN-03 (dàn ý, brief): bước "Cách kể của tập" ở đầu Pha 4 (định hướng tư duy, không khuôn); bản đồ nhịp chuyện thay quota DATA-XX, công thức `N × 110 + M × 120 + 80` thay `D × 35`; bỏ "lộ trình 3 trạm"; khuôn brief 20 trường (4a `cau_hoi_dieu_tra`, 4b `vat_chung`, 4c `cu_lat`, 4d `chu_the_va_dong_co`); Phiếu A trên dàn ý; `script_architect`, `hook_engine`, `hook_lab`, `build_outline`, thẻ `pha_03`–`pha_06`, `the_macro_strategist`, `longform_blueprint`, `retention_gate_checklist`.
+  * NC-GN-04 (nghiên cứu): Kho vật chứng VC-xx (bảng riêng dưới bảng M-xx, không ảnh hưởng `kiem_pha.py`) ở `deep_researcher`, `gem_scout`, `deep_research`, `build_global_vision`, thẻ `pha_01`, `pha_02`, khuôn research map và sổ dữ kiện. Không bắt buộc với tập đang chạy.
+  * NC-GN-05 (cổng riêng GN): CHQB-50 và MSB-100 thêm điều kiện cứng Phiếu B / K (không đổi thang 50 và 100); `pha_09_11`, `orchestrator`, `retention_bridge_audit`, `quality_stability_system`; "Cấm tả cảnh" thành hạn chế tả cảnh.
+  * NC-GN-08, NC-GN-11: viết lại các luật chất chuyện tính bằng đếm hoặc đồng hồ thành tham chiếu nhịp và câu hỏi đọc (re-hook, "mỗi 3–4 phút", "quá 3 phút", "N/N tiêu chí", "3–6 nhịp", luật mở chương bằng âm thanh/đồ vật). Giữ cổng kỹ thuật (150 ký tự, mã M, từ cấm, 1.050 từ, CTA).
+  * NC-AI-07 (do agent phòng dna-nc-gn-dan-y): `anti_ai_isms.md` §3b thành "soi rồi đọc" (máy soi, người đọc phán); `chapter_writer`; NC-GN-14: `compliance_council` bảng "Câu bị soi ra".
+  * NC-VOICE-13: giọng nền "điềm tĩnh, có nghề, có một bộ óc đang nghĩ"; tông lạnh và đanh là lựa chọn theo chủ đề (`voice_dna.md` mục 2.1, câu chữ khớp Dòng Chảy); bỏ "lạnh lùng kỹ trị" ở `channel_bible`, persona, `hook_engine`, v.v.
+  * NC-GN-15 (sửa lỗi của Claude): phiếu NC-GN-08 đổi nhầm trần case study sang "linh hoạt"; khôi phục quyết định Q1 (`01_management/WO-00_BANG_QUYET_DINH_20261002.md`, 02/10): Loại B tối đa 2 case, mỗi case ≤ 3 phút.
+  * NC-SELF-16: khớp Q11 (bỏ tự chấm): người viết và người dựng dàn ý chỉ TỰ SOI bằng Phiếu B / Phiếu A để viết, không làm cổng, không tính vào K; điều kiện qua cổng là chấm mù (Phiếu A dàn ý do người khác chấm); K lấy từ điểm chấm mù. Cùng câu chữ với Dòng Chảy.
+  * NC-PAR-10, NC-DC-12: rà khoảng trống hai kênh, đồng nhất.
+- Giữ riêng GN: Loại A/B/C (`content_principles.md` §2), "chúng tôi cho rằng ≤ 4", mã H-x/E-xx/M-xx, `.agents/phases/`, `kiem_pha.py`, CHQB-50, MSB-100, `orchestrator`, `gem_scout`.
+- Quyết định của user áp dụng hôm nay: V đổi "Vật chứng so với tóm tắt", hạn chế tả cảnh có định nghĩa (thay Q6 cũ "cấm tả cảnh"); không khuôn kể chung; không chỉ tiêu chất chuyện nào chấm bằng đếm; giọng nền như trên; tự soi chỉ để viết.
+- Sao lưu: `/Users/pro16/VideoProject_backup/khung_cham_nghe_thuat_20261006/GocNhinPodcast/` và các thư mục `GocNhinPodcast_ai07`, `_nc14`, `_nc15`, `_self16`, `voice13/`.
+
+## 2026-10-06 · KE-CHUYEN (chuyển từ Dòng Chảy) · Kịch bản phải kể chuyện, không đọc báo cáo
+- Gốc rễ: xem `Dong_Chay/.agents/CHANGELOG.md` mục KE-CHUYEN (đơn vị chương là điểm dữ liệu, ví dụ chỉ dạy câu số có diễn giải, kể chuyện là lời khuyên không có cổng, lệnh "làm dày bằng số liệu" và "lộ trình 3 trạm").
+- Chuyển theo nghĩa trong cùng đợt với NARRATIVE-CRAFT, các file ghi ở mục trên (chủ yếu NC-GN-02, 03, 04, 08, 11). Phần "Lượt đọc như người nghe" của đợt đó đã được viết thẳng thành Phiếu B, không còn cụm ấy trong DNA GocNhinPodcast.
+- Ngoại lệ không chuyển: công cụ đếm `kiem_chuyen.py` (đã bị gỡ ở Dòng Chảy, không hồi sinh).
+
+## 2026-10-05 · I2V-NHIP-Y · Nâng cấp DNA I2V+ theo Hợp đồng Kiến trúc Phân cảnh theo Nhịp Ý (User duyệt, phiếu I2V-WO1)
+- Gốc rễ: Quy trình phân cảnh cũ lấy câu thoại làm đơn vị cơ học (trần cơ học, Veo cờ thời lượng cũ, micro-cut, quota xoay vòng) dẫn đến video bị vụn nát, nhiều cảnh vô nghĩa; chuyển đổi 100% sang phân cảnh theo nhịp ý trọn vẹn (beat) và phân rã thành 5 loại shot chuẩn của Hợp đồng (`VIDEO_AI`, `BROLL`, `INFOGRAPHIC_TINH`, `INFOGRAPHIC_DONG`, `BAO_CHI`).
+- Trỏ về nguồn chuẩn: Hợp đồng chung `.agents/contracts/i2v_nhip_y.md` và Bàn giao `Dong_Chay/01_management/i2v_nhip_y/BAN_GIAO_I2V_NHIP_Y_20261004.md`.
+- Danh sách file đã sửa:
+  * Workflows: `workflows/generate_visual_prompts_plus.md` (viết lại 6 bước), `workflows/generate_visual_prompts.md` (bỏ trần câu cơ học, bỏ cờ thời lượng cũ), `workflows/merge_voiceover.md` (lưu ý Pha 12 đọc chapter_XX.md).
+  * Personas: `personas/the_scene_architect.md` (chuyển sang nhịp ý, bỏ bối cảnh cứng), `personas/the_visual_storyteller.md`, `personas/the_image_prompt_composer.md`, `personas/the_footage_hunter.md` (sàn B-roll 5-8s).
+  * Skills: `skills/visual_prompter_plus/SKILL.md` (chuẩn bản 2), `skills/scene_timing_builder/SKILL.md` (viết lại theo mục 4 & 6 hợp đồng), `skills/visual_prompter/SKILL.md`, `skills/chapter_writer/SKILL.md` (dòng 54), `skills/production_handoff/SKILL.md`.
+  * Phases & Rules: `phases/pha_12_14_san_xuat.md`, `rules/content-os-pipeline.md` (bảng pha, mục nhịp ý, decision tree, sàn B-roll), `rules/visual-asset-safety.md` (script chỉ kiểm & chép), `rules/final-merge.md`, `rules/video-prompt-maintenance-guide.md`.
+  * Core: `00_core/visual_style_guide.md`, `00_core/footage_hunting_standard.md` (sàn 5-8s).
+  * Templates: `02_templates/visual_storyboard_plus_template.md` (bỏ 4 bảng harvest theo CHXX_SCYYY, thêm bối cảnh địa lý), `02_templates/episode_template/README.md`, tạo mới `02_templates/chapter_XX_ban_do_nhip.md`.
+  * Scripts: Lưu trữ 4 script tự sinh cảnh vào `.agents/scripts/_archive/` (`fix_scenes.py`, `generate_scene_map.py`, `generate_aligned_scenes.py`, `generate_scenes_raw.py`).
+
+## 2026-10-04 · NGUOI-NGHE-HIEU · Chữ thêm để người nghe hiểu được vượt ngân sách chương (user duyệt, cả hai kênh)
+- Gốc rễ: rà tập GDP cho thấy nhiều câu thiếu chủ ngữ/tân ngữ và đoạn bắt người nghe tự suy; sửa cho rõ làm chương vượt Ceiling, trong khi DNA coi mọi phần vượt là padding.
+- `workflows/build_outline.md` Trạm 5: thêm ngoại lệ "người nghe hiểu" (được vượt Ceiling và W_total, ghi số mới vào outline, báo user thời lượng; trần 1.050 từ/chương giữ, chạm trần thì cắt lặp ý trước, rồi mới tách chương).
+- `rules/final-merge.md`: khi rút ngắn chỉ cắt lặp ý, không cắt phần giải thích.
+- `skills/chapter_writer/SKILL.md` mục "Quy chuẩn ngân sách từ & thời lượng" và `00_core/longform_blueprint.md`: thêm dòng ngoại lệ.
+- Trần 150 ký tự mỗi câu (Q5): chưa đổi, chờ user xác nhận giới hạn thật của máy TTS.
+
+## 2026-10-04 · DO-DAI-CAU · Dải độ dài câu theo nghiên cứu; sửa quy đổi sai (user duyệt, cả hai kênh)
+- `skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai": thêm dải tham chiếu đếm theo tiếng (trung bình 15–25 tiếng, trần 150 ký tự ≈ 30–35 tiếng, mỗi vế ≤ ~12 tiếng); nhấn không có chỉ tiêu câu ngắn.
+- Sửa quy đổi sai "150 ký tự ≈ 20–25 từ" thành "≈ 30–35 tiếng": `personas/the_narrative_director.md`, `skills/shorts_producer/SKILL.md`, `00_core/quality_rubric.md`.
+- `personas/the_viral_alchemist.md`: bỏ "đan xen câu ngắn dứt khoát", trỏ về "Viết Câu Cho Tai". `skills/retention_bridge_audit/SKILL.md`: đổi nhịp đầu chương bằng dữ kiện, không bằng câu cụt. `personas/the_short_script_writer.md`: bỏ câu cho phép dấu gạch ngang (giữ nhịp riêng của Shorts).
+- Nguồn: `01_management/do_dai_cau_tieng_viet_20261004.md`.
+
+## 2026-10-03 · BO-KG-HET · Bỏ hết KG, cả hai kênh, không còn dấu vết trong chỉ dẫn (user chốt)
+- GocNhin: lưu `persona the_knowledge_curator` và `rule post-episode-data-ingestion` vào `.agents/reference/legacy_kg/`; gỡ mọi câu nhắc KG, `kbq`, `kbaudit`, `OBS-` khỏi `orchestration-protocol`, thẻ pha 01, 07, 15–16, `gem_scout`, `strategy_council`.
+- `scripts/kiem_pha.py`: bỏ hẳn nối kho, các mã lỗi OBS-THIEU / OBS-GOM / OBS-LECH, cờ `--co-kho`; mã `OBS-…` không còn tính là nguồn (tập v4: pha 3 thêm 3 lỗi `SO-KHONG-NGUON`, pha 4 thêm 1, vì vài dòng cũ dựa vào mã OBS). Lưu ý: file thật nằm ở `Nap-Du-Lieu/scripts/kiem_pha.py` (symlink); bản trước sửa: `/Users/pro16/VideoProject_backup/bo_kg_20261003/kiem_pha.py.bak`.
+- Dong_Chay: gỡ mục "Kho tri thức dùng chung", Pha 1b, Pha 2b, bước ghi bộ nhớ tập khỏi `orchestration-protocol` (thay bằng "Nguồn tri thức của một tập": nguồn gốc → vault NotebookLM); bỏ `@import` và lưu rule nạp sau tập vào `.agents/reference/legacy_kg/`; gỡ dòng nhắc kho ở `content-os-pipeline`, `the_macro_strategist`, `deep_researcher`.
+- Gốc VideoProject: bỏ mục "Nạp dữ liệu vào kho tri thức" khỏi `CLAUDE.md`; `Nap-Du-Lieu/README.md` và `CLAUDE.md` đầu file ghi NGỪNG DÙNG.
+- Chưa xóa dữ liệu, script KG và thư mục `Nap-Du-Lieu/` vì `kiem_pha.py` và engine NotebookLM (`kg_registry/kb_research_run.py`) của GocNhin đang là symlink vào đó. Sao lưu bản trước sửa: `/Users/pro16/VideoProject_backup/bo_kg_20261003/`.
+
+## 2026-10-03 · GEM-4-BUOC-DEEP · Cả 4 bước Gem Scout đều Deep Research (user chốt)
+`skills/gem_scout/CHUOI_4_BUOC.md`: bước 3 (khía cạnh, câu hỏi, góc) và bước 4 (dàn ý tham khảo) đổi từ chat thường sang Deep Research + Tư duy mở rộng. Vì Deep Research lấn át chỉ dẫn của Gem, cấu trúc mong muốn và bản tóm kế thừa phải nằm trong câu prompt. Phiếu GDP-WO2 (Dong_Chay) cập nhật theo.
+
+## 2026-10-03 · KG-CHUYEN-VE-NAP-DU-LIEU · Chuyển mọi thứ KG ra khỏi hai kênh (user chốt)
+- Chuyển vào `Nap-Du-Lieu/` (không xóa): 16 phòng KG, 18 tập `kb-*`/`test-kb*`, script và file rải ở gốc kênh, `scratch/`, `kb_backup/`, `01b_/01c_` trong tập, chỉ dẫn di sản. Gỡ 122 symlink trong `scripts/` và `01_management/kg_research`, `skills/daily_scout`. Danh sách đầy đủ: `Nap-Du-Lieu/_tu_kenh/README.md` và `MANIFEST_CHUYEN_20261003.json`.
+- Phần pipeline cần thành file thật tại kênh: `scripts/kiem_pha.py`, `scripts/notebooklm_engine/kb_research_run.py` (thay `scripts/kg_registry/...`; kế hoạch ở `01_management/research_plans/`), `01_management/so_van_de/`. Cập nhật mọi đường dẫn trong chỉ dẫn.
+- `kiem_pha.py` bỏ nhánh bỏ qua `01b_/01c_`.
+
+## 2026-10-03 · THE-PHA-7-TONG-THE · Khôi phục quy trình viết chương của user
+Lỗi của Claude: bản thẻ Pha 7 lúc sáng ghi "không cần đọc" global vision và outline, vì các file này quá dài. Như vậy là cắt bức tranh toàn cảnh khỏi người viết, đi ngược quy trình user đã đặt, và sinh ra bài manh mún, viết đoạn nào theo dữ kiện đoạn đó. Bản `claude_viet/` của Claude cũng được viết mà không theo quy trình này. Sửa: thẻ Pha 7 theo đúng thứ tự user chốt. (A) Nạp persona, skill `chapter_writer`, `voice_dna`, `stance`. (B) Đọc bức tranh toàn cảnh: hiến chương, global vision, bảng giả thuyết, toàn bộ outline. (C) Đọc brief chương này và chương trước, sổ kèm nguồn gốc, toàn bộ các chương trước. File planning dài thì báo rút gọn, không được bỏ qua. Thêm nguyên tắc viết cả chương trong một mạch.
+
+## 2026-10-03 · NAP-DNA · Hiến pháp một thư mục, thẻ pha, nạp đúng chỗ
+Gốc rễ (đo bằng nhật ký Antigravity, `01_management/phan_tich_nap_pha7_20261003.md`):
+- `rules/content-os-pipeline.md` (`always_on`, 81.318 ký tự) bị Antigravity cắt còn khoảng 21.600 ký tự; hiến pháp kênh `.agents/AGENTS.md` (14.730 từ) bị loại hẳn vì vượt ngân sách. Kết quả là khoảng 80% luật không tới được agent.
+- Agent v4 viết 7 chương mà không mở `chapter_writer`, giọng, hay vault. Thứ nó đọc là `kiem_pha.py` và chương của tập cũ.
+- Chapter briefs v4 có 32 "câu trích" tự đặt, ví dụ "3.000 tilladelser".
+
+Sửa (user chốt 03/10: thư mục chỉ dẫn chung là `GocNhinPodcast/.agents/`):
+- `.agents/AGENTS.md` viết lại thành **hiến pháp** 6.998 bytes, gồm: một thư mục chỉ dẫn duy nhất, kênh và khán giả, ràng buộc cứng, hằng số, cách nạp theo thẻ pha, phân vai, luật sửa DNA. Bản cũ chuyển sang `.agents/reference/AGENTS_truoc_20261003.md` (tham khảo).
+- `content-os-pipeline.md` bỏ `always_on`, thành tài liệu tham khảo theo mục.
+- 12 **thẻ pha** `.agents/phases/` (tổng khoảng 2.900 từ): mỗi thẻ ghi đọc gì, đọc phần nào, không cần đọc gì.
+- `CLAUDE.md` chỉ `@import` hiến pháp và `orchestration-protocol`. `orchestration-protocol` viết gọn: từ 11.392 xuống 5.052 bytes, thêm bước kiểm đường tới agent, bỏ phần `agy -p`.
+- `CLAUDE.md` và `AGENTS.md` gốc VideoProject: thêm một dòng chung "chỉ dẫn của mỗi dự án nằm ở `<dự án>/.agents/`".
+- Mục "Viết Câu Cho Tai" rút còn nguyên tắc, phép thử và ví dụ.
+- 17 workflow, skill `chapter_writer`, 5 rule chi tiết: gắn đường vào thẻ pha.
+- 17 file đang trỏ tới các mục của hiến pháp cũ: trỏ lại về §4 hoặc về file tham khảo.
+- Skill `orchestrator`: phiếu giao trỏ thẻ pha; kiểm bằng nhật ký thay cho pre-flight log tự khai; người chấm đọc to.
+- `scripts/kiem_nap.py` (mới): đo rule được chèn, bị cắt hay bị loại, và file agent đã mở.
+- `scripts/kiem_pha.py`: thêm `TRICH-KHONG-THAY` (câu trích trong brief và sổ phải có trong `research_vault/` hoặc `research_raw/`), cảnh báo file planning dài, thêm `--pha 6`.
+- Khuôn chapter brief: cột "Vị trí nguồn" và "Câu gốc (chép nguyên văn)". Khuôn 01/02/03/07: trần độ dài.
+
+Còn chờ: user mở một hội thoại Antigravity mới, Claude chạy `kiem_nap.py --gan-nhat 1` để xác nhận hiến pháp được chèn đủ; chạy thử 2 chương; chuyển sang Dong_Chay.
+
+## 2026-10-03 · CAU-CHO-TAI · Câu hay nhất cho tai, không phải ngắn nhất
+Gốc rễ: luật câu rải ở 6 file đều đẩy về "ngắn hơn" (chỉ tiêu 3–5 từ, 8–15 từ, "gõ búa", "tách mệnh đề thành câu ngắn", ví dụ ✅ là chuỗi câu cụt); trần 150 ký tự (giới hạn TTS) bị hiểu là mục tiêu chất lượng; không có bước đọc to. Hệ quả: câu nén, chủ ngữ ẩn, ẩn dụ phải giải mã, đúng 150 ký tự nhưng khó nghe. Sửa: `chapter_writer` mục "Viết Câu Cho Tai" thành bản chuẩn duy nhất (10 điểm, đọc to bắt buộc, ví dụ thật); `voice_dna`, `voiceover_style_guide` §4, `longform_blueprint` §12, `masterpiece_quality_standard` 5.2/5.4, `chapter_quality_standard` 2.4/2.5, `anti_ai_isms` Pattern 6 trỏ về đó và bỏ chỉ tiêu ngắn. Nguồn: user 03/10; đối chiếu chuẩn phát thanh và người viết YouTube tại `01_management/viet_cau_cho_tai_20261003.md`.
+
+## 2026-10-03 · GIONG-QG · Vị trí người kể với thương hiệu Việt
+`00_core/stance_and_judgment.md` thêm §4b và một câu kiểm ở §10.3: khách quan là không tô hồng và không bôi đen, nhưng người kể là người Việt nói về doanh nghiệp nước mình. Gọi thẳng tên (VinFast, GSM), không gọi "thương hiệu này", "hãng xe đến từ Việt Nam"; không cổ vũ, không hả hê. Nguồn: user 03/10, nhận xét chương 1 tập gsm-chau-au-v4 "quá trung lập, giống bình luận thương hiệu của nước khác".
+
+## 2026-10-02 · BO-KG · Bỏ hoàn toàn kho tri thức KG khỏi DNA
+Gốc rễ (V34–V42, user 02/10): chất lượng tập GSM không đến từ kho; agent tra kho xong vẫn sót đối thủ, luật chơi; mã OBS còn bị gắn cho câu kho không đỡ (V42). Kho thành điểm nghẽn thay vì nền. Sửa: `orchestration-protocol` thay mục "Kho tri thức dùng chung" bằng "Nguồn tri thức của một tập" (vault NotebookLM là nguồn viết chính → nguồn gốc agent mở trong `research_raw/` → Gem Scout làm manh mối), bỏ Pha 1b và Pha 2b khỏi chuỗi pha; `build_global_vision` (hard gate mục 5, Bước 2a/2b, checklist), `deep_research`, `deep_researcher`, `strategy_council`, `chapter_writer`, `orchestrator`, `compliance_council`, `build_brief`, `the_macro_strategist`, `content-os-pipeline`, `gem_scout`, `masterpiece_quality_standard` Gate 6, `stance_and_judgment` (ví dụ trỏ mã M thay OBS); các template 00_hien_chuong, 00_bang_gia_thuyet, 00_so_du_kien, 01, 03, 08 (cột nguồn = vault hoặc URL + ngày; N1 đổi thành "Độ rõ bản đồ", đo bằng cây câu hỏi). Gỡ liên kết mềm `.agents/skills/kb_{auditor,entity_update,ingest,reader,update}` (bản gốc vẫn ở `Nap-Du-Lieu/.agents/skills/`). Gắn biển di sản cho `post-episode-data-ingestion.md`, `the_knowledge_curator.md`, `daily_scout`. `scripts/kiem_pha.py`: mặc định không tra kho (`--co-kho` mới bật kiểm OBS), nhận URL làm nguồn, Pha 2 nhận mã câu hỏi `[CH??]`. Các luật chữ (từ cấm, nhãn, nguồn số, hiến chương) vẫn ở DNA; cổng chỉ tự động hóa chúng.
+
 ## 2026-10-02 · WO-NLM · Một đường chạy NotebookLM chuẩn (engine Direct RPC)
-Gốc rễ (V33): DNA gọi là "Direct RPC" nhưng dạy lệnh CLI từng bước; engine chuẩn `scripts/kg_registry/kb_research_run.py` (30/09) không được file nào trỏ tới. Sửa: `AGENTS.md` mục NotebookLM thêm điều 0 (đường chạy chuẩn = engine; CLI chỉ kiểm tra lẻ); `deep_researcher` Bước 1–2 thay khối lệnh CLI bằng cách dùng engine + vì sao + tư duy viết file kế hoạch; `notebooklm_librarian` Quy tắc 1, 3, bảng lệnh (bỏ add-research/ask, bỏ chữ "NOTEBOOKLM_HOME bắt buộc" sai); `deep_research.md` Bước 4 (bỏ `mcp_notebooklm-mcp_batch_to_vault` không tồn tại); `orchestration-protocol`; `skills/notebooklm` thêm dòng ghi đây là tài liệu thư viện. Nguồn: V33, user 02/10.
+Gốc rễ (V33): DNA gọi là "Direct RPC" nhưng dạy lệnh CLI từng bước; engine chuẩn `scripts/notebooklm_engine/kb_research_run.py` (30/09) không được file nào trỏ tới. Sửa: `AGENTS.md` mục NotebookLM thêm điều 0 (đường chạy chuẩn = engine; CLI chỉ kiểm tra lẻ); `deep_researcher` Bước 1–2 thay khối lệnh CLI bằng cách dùng engine + vì sao + tư duy viết file kế hoạch; `notebooklm_librarian` Quy tắc 1, 3, bảng lệnh (bỏ add-research/ask, bỏ chữ "NOTEBOOKLM_HOME bắt buộc" sai); `deep_research.md` Bước 4 (bỏ `mcp_notebooklm-mcp_batch_to_vault` không tồn tại); `orchestration-protocol`; `skills/notebooklm` thêm dòng ghi đây là tài liệu thư viện. Nguồn: V33, user 02/10.
 
 ## 2026-10-02 · WO-06b · Skill đọc bộ nhớ `kb_reader` (tầng "agent dùng")
 Skill mới `.agents/skills/kb_reader/SKILL.md`: từ câu hỏi ra thực thể (`find`, mở rộng theo cơ chế bằng `links 2`, gồm thị trường/luật, V09); thứ tự tra bắt buộc (`evidence` → `between` → `facts <mã> <nhóm>` không gọi trần → `grep` theo khái niệm → `latest` → `kbaudit`); đọc đầu ra dài bằng ghi ra `research_raw/` và đọc theo đoạn, báo đoạn đã đọc (V06, V07); chủ động tìm dữ kiện ngược, giữ cả hai bản khi lệch số (V02, V27, V31), đọc kỳ/phạm vi/đơn vị, không tự tính (V16); tách suy luận trong câu nạp (V03); "kho chưa có" chỉ khi đã chạy lệnh và dán lệnh (V29); độ mới và ghi vết (V10). Nối vào hard gate `build_global_vision` (mục 5), Bước 2b, `orchestration-protocol`, `the_macro_strategist`, `deep_researcher`, `chapter_writer` Prerequisites. Nguồn: chẩn đoán bộ nhớ 3 tầng, câu hỏi user 02/10.
@@ -58,3 +155,24 @@ Nguồn: WO-00, R1. Patch và báo cáo: `01_management/wo_patches/WO-01*`. Opus
 ## Trước 02/10/2026
 - 2026-09-29: đợt rà DNA lớn, xem `01_management/dna_audit_20260929.md` (gộp `.claude/` về `.agents/`, tạo `stance_and_judgment.md`, thống nhất hằng số 223–235, một cổng chấm mỗi khâu, §3b anti_ai_isms).
 - 2026-10-02 (Opus, trước kế hoạch): chẩn đoán 8 bản chất R1–R8 và sổ vấn đề V01–V30 từ tập thử gsm-chau-au; chưa sửa DNA.
+
+## 2026-10-02 · Luật "Từ ma trận ra mạch kể" (mục G của form tư duy)
+Form tư duy A–F đã vào DNA ở WO-06/07; mục G (cách kể: nghịch lý mở, đáp án lộ dần, cao trào là bằng chứng quyết định) mới chỉ có một dòng ở template brief. Thêm `script_architect` §1 mục 10 (bản gốc luật cấu trúc): chính đề = giả thuyết khán giả tin sẵn, phản đề = các hàng E phân biệt được đưa ra từng cú (mạnh nhất ở Devil's Chapter), hợp đề = giả thuyết còn đứng + cái giá + điều kiện sai; ô chưa phân biệt thành câu hỏi treo hoặc chỉ số theo dõi; tự kiểm "người xem nghĩ X, bằng chứng Y, nghĩ lại thành Z"; tập chuẩn so sánh chỉ học dàn ý và nhịp chương. Trỏ từ `build_brief.md` bước 2 và `build_outline.md` Trạm 4. User duyệt 02/10/2026.
+
+## 2026-10-02 · Bản đồ nước đi (build_global_vision Bước 2a)
+User 02/10: muốn giải thích nước đi của doanh nghiệp phải dựng hệ thống quanh nó (thực thể, quan hệ, yếu tố ảnh hưởng chiến lược: hệ sinh thái, đối thủ, chính sách bản địa, phản ứng đối thủ), không giao danh sách dữ kiện. Ba lượt GSM châu Âu đều sót BYD, thuế chống trợ cấp EU, dân số nhỏ hai nước vì hiến chương/phiếu nêu sẵn tên đối thủ taxi. Thêm Bước 2a sáu vòng (chủ thể và hệ sinh thái; mỗi thị trường nước đi chạm tới; đối thủ ở từng thị trường; luật chơi bản địa và khu vực; đối tác và khâu phụ thuộc; bối cảnh lớn), lấy thực thể từ kho bằng links/evidence/between, rồi tìm mối nối giải thích nước đi; hiến chương và phiếu chỉ là điểm xuất phát.
+
+## 2026-10-02 · Gem Scout — sơ bộ diện rộng trước khi khóa hiến chương
+User phát hiện: cùng đề tài GSM, hỏi Gem Gemini chuyên dụng (CDP, Deep Research) kiểu "có phải X không" (nhét giả thuyết) ra bài nông chỉ xác nhận; hỏi "cần phân tích nội dung nào, trả lời câu hỏi nào" (không nhét giả thuyết) ra khía cạnh rộng nhất, đúng những khía cạnh hiến chương GSM ban đầu bỏ sót (BYD, thuế quan, dân số, xe đạp — xem V40). Thêm skill `.agents/skills/gem_scout/SKILL.md`: Antigravity vận hành CDP (`$VideoProject/.agents/tools/gemini_cdp/`), Claude soạn prompt mở và kiểm kết quả (chỉ lấy khía cạnh/câu hỏi, không chép số liệu — vault Gem cũng sai dữ kiện như vault NotebookLM). Thêm bước 0c vào chuỗi pha (`orchestration-protocol.md`, trước khi khóa hiến chương) và Bước 1b vào `build_global_vision.md` (tùy chọn đầu Pha 1). Thử nghiệm đầu tiên: phòng `_agent_chat/gsm-chau-au/`.
+
+## 2026-10-02 · Gem Scout: chỉ dẫn Gem mới và vòng lặp đến khi sáng tỏ
+Đánh giá chỉ dẫn cũ của Gem ("Senior Socio-Economic Research Fellow"): có phản biện, steelman, đánh đổi, YMYL; thiếu tách câu hỏi trước khi trả lời (bắt viết "Luận đề 1, 2" ngay, dễ xác nhận thiên lệch), thiếu ≥3 giả thuyết cạnh tranh, thiếu bản đồ hệ thống theo từng thị trường và đối thủ ở từng thị trường, thiếu mẫu số và quy mô thật, thiếu ngày của dữ liệu và yêu cầu dữ liệu mới nhất, thiếu thứ bậc nguồn và nhãn dữ kiện/suy luận/giả thuyết, thiếu khán giả và lane kênh, định dạng cố định cho mọi đề tài, chỉ một lượt. Viết `.agents/skills/gem_scout/GEM_INSTRUCTIONS.md` (hai chế độ KHAI MỞ và ĐÀO SÂU) để user dán vào Gem; `SKILL.md` thêm mục 3b vòng lặp khai mở → đào sâu → hội tụ với bốn tiêu chí dừng (câu hỏi xếp cao đã trả lời, giả thuyết đã có bằng chứng phân biệt, bão hòa, user không thấy thiếu) và trần 6 vòng.
+
+## 03/10/2026 — NGHE-RIENG (viết cho người nghe, không cho người cầm dàn ý)
+- Lý do: user chỉ ra hàng loạt đoạn tối nghĩa trong `gsm-chau-au-v4/claude_xuong_song` (chương 5–7): nhãn tự đặt ("gói Dantaxi", "giả thuyết ngựa gỗ", "cách của tập này"), câu nén mất tân ngữ, chép bảng số liệu và văn bản luật theo thứ tự tài liệu, thiếu mắt xích "vì sao". Nhật ký phiên cho thấy người viết (Claude) không mở lại chapter_writer/voice_dna khi viết và sửa; đồng thời DNA có luật đẩy sai hướng.
+- `chapter_writer/SKILL.md`: "Viết Câu Cho Tai" thêm phép thử 2 "Nghe riêng đoạn này" (không nhãn tự đặt, không trỏ chương khác, giới thiệu tên tại chỗ, mục đích trước hành động, kể ý nghĩa thay vì chép thứ tự tài liệu, rào đón sau ý chính); áp cả khi chỉ sửa một đoạn; thêm 2 ví dụ thật. Bỏ luật "câu cực ngắn 3-5 từ". Gỡ 150 ký tự khỏi tự kiểm của người viết (máy kiểm). Bảng tự kiểm: mục 4 thành "Hiểu ngay khi nghe"; mục 3 không cắt mắt xích/từ nối thật.
+- `personas/the_narrative_director.md` §3: bỏ "câu ngắn 3–6 từ", trỏ về "Viết Câu Cho Tai".
+- `chapter_writer/PRE_FLIGHT_GATE.md` mục 2: 150 ký tự là trần máy, không phải mục tiêu.
+- `00_core/anti_ai_isms.md` §4: thêm ranh giới, cấm câu thông báo nhưng không cấm từ nối chỉ quan hệ thật.
+- `phases/pha_07_viet_chuong.md`: tự kiểm 1 làm hai phép thử; sửa một đoạn cũng phải mở lại mục và kiểm lại.
+- Chưa sửa (người chấm, không phải người viết): `compliance_council`, `quality_rubric`, `critical_auditor` vẫn chấm "100% câu < 150 ký tự" như mục kỹ thuật; giữ vì đúng vai trò kiểm máy.

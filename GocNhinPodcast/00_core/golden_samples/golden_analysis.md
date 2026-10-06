@@ -20,7 +20,7 @@ Không bao giờ đưa con số trần. Mỗi con số cần ít nhất 1 trong 
 - **So sánh ngang:** "mức cao nhất của giai đoạn 2022-2026" → đặt trong lịch sử
 
 ### 3. Sau mỗi khối số: dịch sang ngôn ngữ người
-Không quá 3 con số liên tiếp mà không có 1 câu diễn giải. Dùng các cách dịch tự nhiên — KHÔNG lặp lại cùng một cụm:
+Không đọc số theo thứ tự bảng; mỗi con số đọc lên phải phục vụ một nhịp, số còn lại để hình nói; kiểm bằng Phiếu B (VIII Nhịp, V Vật chứng), không bằng đếm. Dùng các cách dịch tự nhiên — KHÔNG lặp lại cùng một cụm:
 - "Điều đó có nghĩa là..."
 - Đặt trực tiếp ý nghĩa sau dấu chấm, không cần cụm dẫn
 - Dùng hình ảnh đời thường để so sánh
@@ -47,7 +47,7 @@ Khi gặp 2 con số ngược chiều nhau, phân tích CẢ HAI mặt. Không c
 ```
 [ ] Câu đầu là nhận định hoặc dữ liệu, không phải mào đầu?
 [ ] Mỗi con số có bối cảnh so sánh?
-[ ] Không quá 3 con số liên tiếp mà không có câu diễn giải?
+[ ] Không đọc số theo thứ tự bảng; mỗi con số đọc lên phục vụ một nhịp, số còn lại để hình nói (kiểm bằng Phiếu B, không bằng đếm)?
 [ ] Nếu có quan điểm → đã gắn nhãn minh bạch?
 [ ] Nếu có data mâu thuẫn → đã phân tích cả hai mặt?
 [ ] Đoạn này có MỘT insight cốt lõi mà đọc xong nhớ được không?

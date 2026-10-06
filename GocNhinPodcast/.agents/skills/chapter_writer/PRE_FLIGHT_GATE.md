@@ -59,6 +59,8 @@ Trước khi viết bất kỳ đoạn thoại nào, Agent phải lập bảng p
 
 Sau khi Bảng Đối Soát trên được thiết lập, Agent tiến hành xuất kịch bản sạch vào tệp `episodes/[slug]/chapter_XX.md` thỏa mãn 100% các tiêu chuẩn:
 1. **Văn bản sạch 100%:** Không nhúng log, không nhúng bảng biểu, không chèn ghi chú hình ảnh (Visual cues).
-2. **Kỷ luật Tai nghe (Ear Constraints):** 100% câu thoại dưới 150 ký tự (khoảng 20-25 từ), cú pháp trọn vẹn chủ - vị, không dấu gạch ngang dài (`—`), không từ cấm AI (`anti_ai_isms.md`).
+2. **Kỷ luật Tai nghe (Ear Constraints):** qua hai phép thử của `SKILL.md` mục "Viết Câu Cho Tai" (đọc to; nghe riêng từng đoạn), cú pháp trọn vẹn chủ - vị, không từ cấm AI (`anti_ai_isms.md`). Trần 150 ký tự và lệnh cấm `—` do `kiem_pha.py` chặn bằng máy, không phải mục tiêu viết.
 3. **Phân đoạn văn bản (Paragraph Pacing):** Gom từ 2 đến 4 câu ngắn thành một đoạn văn hoàn chỉnh. Tuyệt đối CẤM ngắt dòng sau mỗi câu đơn độc làm nát vụn văn bản.
 4. **Văn phong Bên Tách Trà:** Điềm tĩnh, khách quan, tri thức, tự sự điện ảnh (Cinematic Editorial Noir).
+5. **Bảng nhịp chương (Chặng 2 của `SKILL.md`):** Đã in ra chat trước khi viết; mỗi nhịp có chức năng (câu hỏi / manh mối / cú lật / hệ quả), vật chứng, số chính; chương có ít nhất một cú lật được dàn dựng.
+6. **Kiểm đoạn đọc bảng & Nhịp kể:** Không có đoạn nào đọc dồn dập các con số theo thứ tự bảng kê hay văn bản; mỗi nhịp tối đa 1–2 con số được đọc, số còn lại để infographic thể hiện; không để phân tích lý thuyết hoặc cơ chế kéo dài làm rơi nhịp kể (tránh vùng chết nhận thức, chỉ tiêu VIII Nhịp).

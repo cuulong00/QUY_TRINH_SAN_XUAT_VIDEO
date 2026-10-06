@@ -1,7 +1,7 @@
 # Hướng Dẫn Thiết Kế m Thanh & Nhạc Nền (Audio & Music Style Guide) — Góc Nhìn Podcast
 
 > 🎭 **HÓA THÂN CHUYÊN GIA:** The Cinematic Sonic Alchemist (Kiến Trúc Sư Nhạc Nền Điện Ảnh)
-> 📂 **MỤC TIÊU:** Định hình bản sắc âm thanh (Sonic Identity) nhất quán cho toàn bộ kênh, thiết kế nhịp điệu tương thích với giọng đọc điềm đạm, kỹ trị của Góc Nhìn Podcast.
+> 📂 **MỤC TIÊU:** Định hình bản sắc âm thanh (Sonic Identity) nhất quán cho toàn bộ kênh, thiết kế nhịp điệu tương thích với giọng đọc điềm đạm, có nghề của Góc Nhìn Podcast.
 
 ---
 
@@ -13,7 +13,7 @@
 
 *   **Sự tiết chế tối thượng (Supreme Restraint):** Nhạc nền phải lùi lại phía sau để nhường không gian cho dữ liệu và logic. Nhạc nền thành công là khi khán giả ghi nhớ sâu sắc luận điểm mà không bị phân tâm bởi giai điệu.
 *   **Vũ khí của sự im lặng (The Power of Silence):** m nhạc chỉ thực sự có giá trị khi nó biết biến mất. Những khoảng lặng chủ ý (Drops & Silences) sau các câu chốt hạ (Golden Lines) là thời gian để thính giả xử lý và cảm nhận toàn bộ sức nặng vĩ mô của sự thật.
-*   **Nhịp điệu điện ảnh (Cinematic Pacing):** Tông giọng chủ đạo là **Lạnh lùng - Kỹ trị - Khách quan** (Cold, Analytical, Documentary-grade). Nhạc nền phải tránh xa các kho lưu trữ nhạc stock rẻ tiền, hướng tới chất lượng score điện ảnh tối giản (minimalist cinematic score).
+*   **Nhịp điệu điện ảnh (Cinematic Pacing):** Tông giọng nền chủ đạo là **Điềm tĩnh - Có nghề - Khách quan** (Calm, Professional, Documentary-grade). Với những chủ đề đòi hỏi chất liệu cứng, dòng tiền hay sụp đổ, âm nhạc có thể đẩy tông sắc nét, đanh thép tương ứng. Nhạc nền phải tránh xa các kho lưu trữ nhạc stock rẻ tiền, hướng tới chất lượng score điện ảnh tối giản (minimalist cinematic score).
 
 ---
 
@@ -50,7 +50,7 @@ graph TD
 
 ### 3.2. Chặng 2: Bản Chất Vĩ Mô & Cơ Chế (Macro & Mechanism)
 *   **Mục tiêu:** Phục vụ sự thấu hiểu thông tin nặng về số liệu, nghị định, thông tư.
-*   **Mood âm thanh:** Tập trung cao độ, lạnh lùng, minh bạch.
+*   **Mood âm thanh:** Tập trung cao độ, điềm tĩnh, minh bạch.
 *   **Mô tả:** Nhạc nền tối giản tuyệt đối. Chỉ sử dụng tiếng trầm của đàn dây kéo dài (slow string sustain) và tiếng piano gõ nốt đơn độc cách nhau 4-5 giây. Giữ tần số trung (mid-range) trống trải để giọng đọc nam trung (baritone) nổi bật nhất.
 
 ### 3.3. Chặng 3: Nghịch Lý & Bước Ngoặt (Contradiction & Deepening Turn)
@@ -98,7 +98,7 @@ Khi dựng dựng âm thanh (Audio Editing), kỹ thuật viên bắt buộc ph�
     *   **Tính Trung Tính Tối Thượng (Neutral-Dark Atmosphere):** m nhạc không mang định kiến cảm xúc vui tươi hay quá bi thảm. Nó giữ người nghe ở trạng thái tập trung sâu sắc, tò mò và khách quan.
     *   **Mật Độ m mỏng (Spacious & Sparse):** Nốt piano rải rất thưa (cách nhau 5-6 giây) phối hợp với cello trầm ấm tạo ra nhiều khoảng trống (room to breathe) cho tần số giọng đọc. Voiceover luôn rõ ràng mà không cần phải chỉnh EQ hay giảm âm lượng nhạc quá lớn.
     *   **Nhịp Tim Vĩ Mô (80 BPM Cello/Sub-bass Pulse):** Nhịp pulse nhẹ nhàng ở tần số thấp hoạt động như một máy đếm nhịp sinh học, giữ nhịp thở ổn định cho người nghe suốt phân tích dài mà không tạo cảm giác dồn dập hay gây mệt mỏi.
-    *   **Không Có Trống & Nhạc Cụ Ồn Ào (Maximum Restraint):** Việc cấm trống (drums), kèn đồng (brass), và nhạc cụ điện tử chói tai giúp nhạc nền giữ nguyên tính "kỹ trị", sang trọng của dòng phim tài liệu cao cấp (HBO/Bloomberg).
+    *   **Không Có Trống & Nhạc Cụ Ồn Ào (Maximum Restraint):** Việc cấm trống (drums), kèn đồng (brass), và nhạc cụ điện tử chói tai giúp nhạc nền giữ nguyên tính sang trọng, điềm tĩnh của dòng phim tài liệu cao cấp (HBO/Bloomberg).
 
 ---
 

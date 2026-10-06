@@ -21,13 +21,14 @@ Mỗi khi phát hiện lỗi lặp, lỗi tone, lỗi an toàn biên tập/pháp
 Hook tốt, transition tốt, case study hay, ending tốt phải được chuẩn hóa vào core files.
 
 ## 7. Human approval points
-Bạn nên duyệt tay ở 6 điểm:
+Bạn nên duyệt tay ở các điểm then chốt:
 - duyệt topic qualification
 - duyệt brief
 - duyệt hook
-- duyệt thesis + retention map + outline
+- duyệt thesis + retention map + outline (kèm duyệt Phiếu A của `00_core/narrative_craft_rubric.md` sau dàn ý)
+- duyệt từng chương độc lập (kèm duyệt Phiếu B của `00_core/narrative_craft_rubric.md` sau chương)
 - duyệt final voiceover
-- duyệt editorial QA + oral QA trước production
+- duyệt editorial QA + oral QA trước production (Khóa 6 chấm mù Trụ cột K `00_core/narrative_craft_rubric.md`)
 
 ## 8. Quality gates phải tách riêng
 Ít nhất phải có các gate sau:

@@ -24,7 +24,7 @@
   * **Hệ quả Bậc 3:** *Sau 5 năm, sự bóp méo cấu trúc này sẽ tích tụ thành rủi ro hệ thống ở đâu? Ai là người cuối cùng phải trả tiền cho khoản thâm hụt đó?*
 
 ### Mô hình 2: Hội Đồng Phản Biện Đa Diện (Multi-Lens Red Team)
-Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các lăng kính phản biện **đã chọn trong hiến chương tập** (tối thiểu 2). Danh mục 5 lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất). Kiểm toán viên không tự thêm lăng kính dòng tiền cho đề tài chiến lược, thể chế, công nghiệp chỉ vì có số tài chính (WO-00 Q10).
+Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các lăng kính phản biện **đã chọn trong hiến chương tập** (tối thiểu 2). Danh mục 5 lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất). Kiểm toán viên không tự thêm lăng kính dòng tiền cho đề tài chiến lược, thể chế, công nghiệp chỉ vì có số tài chính (WO-00 Q10).
 
 ### Mô hình 3: Thước Đo Khả Năng Bác Bỏ Của Popper (Popperian Falsification Heuristic)
 - Một luận điểm chỉ có giá trị khoa học khi nó có thể bị bác bỏ bởi dữ liệu thực chứng.
@@ -33,7 +33,7 @@ Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các l
 
 ### Mô hình 4: Kiểm Toán Điểm Rơi Giữ Chân & Khoảng Trống Nhận Thức (Retention Friction & Payoff Void Audit)
 - Quét toàn bộ kịch bản để phát hiện các "vùng chết nhận thức" (Dead Zones):
-  * Đoạn nào kéo dài quá 60 từ mà không có thông tin mới hoặc xung đột mới?
+  * Có đoạn nào người nghe sẽ tự hỏi "sao còn đoạn này" vì kéo dài mà không có thông tin mới, vật chứng mới hoặc xung đột mới không? (chỉ tiêu VIII Nhịp của narrative craft).
   * Nút thắt gieo ở Hook có đang bị lãng quên hay giải quyết hời hợt không?
   * Khi trả lời một câu hỏi, kịch bản có mở ra một nghịch lý mới sâu hơn không (The Payoff Void)?
 
@@ -41,7 +41,7 @@ Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các l
 - **Bản chất hiện tượng:** Khi người viết thiếu dữ liệu thực chứng và hời hợt về mặt tư duy, họ sẽ có xu hướng "lạm phát tính từ" (Adjective Inflation) và vay mượn các từ melodrama giật gân rẻ tiền (`nghiệt ngã, rúng động, cuộc chơi, kinh hoàng, sốc, ván cược sinh tử`) để cưỡng bức cảm xúc của khán giả.
 - **Nguyên lý kiểm toán:** 
   * Sức nặng kịch tính (Dramatic Gravitas) đích thực chỉ sinh ra từ **sự đối lập tự thân giữa các sự thật trần trụi hoặc các con số kiểm toán đối xứng**.
-  * Lời dẫn càng lạnh lùng, điềm đạm, chắc chắn và kiệm lời thì sức nén của sự thật càng trở nên khủng khiếp.
+  * Lời dẫn càng điềm tĩnh, có nghề, chắc chắn và kiệm lời thì sức nén của sự thật càng trở nên khủng khiếp.
   * *Bộ câu hỏi tự chất vấn:* "Đoạn văn này đang làm khán giả rùng mình vì sự thật và quy luật khách quan, hay người viết đang phải gồng mình dùng tính từ để diễn kịch?"
   * Mọi tính từ lên gân phải bị tước bỏ ngay lập tức để trả lại không gian cho các cơ chế kinh tế - kỹ thuật thực tế.
 
@@ -70,7 +70,7 @@ Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các l
 
 ---
 
-## 4. Năm Khóa Kiểm Toán Tối Thượng (The 5 Imperative Audit Gates)
+### 4. Sáu Khóa Kiểm Toán Tối Thượng (The 6 Imperative Audit Gates)
 
 1. **Khóa 1: Zero-Ungrounded-Inference (ZUI — Khóa Chân Lý Thực Chứng):**
    - **Level 1 (Fact):** 100% số liệu, tên văn bản, trích dẫn phải có trong Vault.
@@ -84,7 +84,7 @@ Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các l
    - Kiểm theo `.agents/skills/script_architect/SKILL.md` §1 mục 3 (Therefore/But) và Single Spine; cấm niên biểu hành chính mở màn.
 
 4. **Khóa 4: Anti-Burying-The-Lede & Organic Climax (Khóa Vị Trí Cao Trào & Hữu Cơ):**
-   - Kiểm theo `.agents/skills/script_architect/SKILL.md` §1 mục 5 (Anti-Burying-The-Lede) và hằng số Devil's Chapter (`.agents/AGENTS.md` mục 5).
+   - Kiểm theo `.agents/skills/script_architect/SKILL.md` §1 mục 5 (Anti-Burying-The-Lede) và hằng số Devil's Chapter (`.agents/AGENTS.md` §4 "Hằng số vận hành").
    - Chống sửa đổi chắp vá: Mọi hiệu đính phải được tái cấu trúc hữu cơ vào nhịp thở toàn bài.
 
 5. **Khóa 5: Oral Voice, Authentic Gravitas & Zero-Scaffolding (Khóa Khẩu Ngữ, Sự Thật Trần Trụi & Sạch Rác Khung Sườn):**
@@ -92,11 +92,16 @@ Trước khi phê duyệt luận điểm, Kiểm toán viên kích hoạt các l
    - Sạch bóng từ ngữ melodrama giật gân rẻ tiền; kịch tính hóa bằng số liệu và quy luật khách quan.
    - Tuyệt đối không còn nhãn template `[BLOCK X]`, `[HOOK MÔ TẢ]` trong văn bản thành phẩm.
 
+6. **Khóa 6: Chấm mù Narrative Craft (thêm 06/10/2026):**
+   - Chấm Phiếu A (cấp bài) và Phiếu B (cấp chương) theo `00_core/narrative_craft_rubric.md`: đọc trọn cả tập không ghi chép, rồi chấm cấp bài, rồi cấp chương, rồi đối chiếu hai cấp. Mọi điểm 4–5 và 1–2 trích câu; không chấm bằng đếm.
+   - **Cấm xem bản tự soi của người viết trước khi nộp phiếu của mình.** Điểm chính thức qua cổng là của người chấm mù (hoặc điểm thống nhất sau đối chiếu), bản tự soi chỉ để đối chiếu khi lệch > 1.
+   - Kết luận chỉ đích danh: chương, chỉ tiêu, câu lỗi, một câu viết lại mẫu; và chuyển về Pha 4 (lỗi dàn ý) hay Pha 7 (lỗi viết chương) theo bảng đối chiếu §5.
+
 ---
 
-## 5. Quyền Phủ Quyết & Mười Cờ Đỏ Tử Huyệt (Veto Power & The 10 Red Flags)
+## 5. Quyền Phủ Quyết & Mười Hai Cờ Đỏ Tử Huyệt (Veto Power & The 12 Red Flags)
 
-Nếu kịch bản vi phạm dù chỉ 1 trong 10 Cờ Đỏ sau, Kiểm toán viên có **Quyền Phủ Quyết Ngay Lập Tức** mà không cần chấm điểm tiếp:
+Nếu kịch bản vi phạm dù chỉ 1 trong 12 Cờ Đỏ sau, Kiểm toán viên có **Quyền Phủ Quyết Ngay Lập Tức** mà không cần chấm điểm tiếp:
 1. 🚩 Xuất hiện số liệu hoặc văn bản pháp lý bịa đặt, không có trong Vault.
 2. 🚩 Dùng ngụy biện bù nhìn rơm (Strawman) để dìm hàng phe phản biện.
 3. 🚩 Giọng điệu thuyết giáo đạo lý, dạy đời hoặc bưng bô PR cho một bên.
@@ -108,3 +113,4 @@ Nếu kịch bản vi phạm dù chỉ 1 trong 10 Cờ Đỏ sau, Kiểm toán v
 9. 🚩 Cấu trúc liệt kê ngăn tủ "And Then" không có động lực nhân quả Therefore/But.
 10. 🚩 Rò rỉ nhãn khung sườn template (`[BLOCK X]`) vào kịch bản xuất bản.
 11. 🚩 Kết lửng lơ: không chốt lập trường (chế độ A) mà cũng không trao khung kết mở có cấu trúc (chế độ B, `00_core/stance_and_judgment.md` §1b); lập trường "kiểu gì cũng đúng" không nêu được điều kiện bác bỏ (Mô hình 3); hoặc nhãn phán xét thay cho dữ kiện, phán xét động cơ/đạo đức (§3–§4).
+12. 🚩 Dính Hard-Fail 11: Gãy chất chuyện (K, `00_core/narrative_craft_rubric.md` §6) khi cấp bài có I hoặc X dưới 3; hoặc cấp chương có chương nào mà IV-a và V cùng ≤ 2; hoặc không đạt mốc ĐẠT (có chỉ tiêu < 3, trung bình một cấp < 4,0, hoặc I/IV/V < 4).

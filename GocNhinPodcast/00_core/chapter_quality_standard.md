@@ -1,7 +1,7 @@
 # chapter_quality_standard.md — Góc Nhìn Podcast
 
-> 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
-> File này là **cổng chính thức cấp chương** (CHQB-50). Người chấm khác agent viết; cổng máy `scripts/kiem_pha.py --pha 7` chạy trước và đầu ra dán vào báo cáo (Q11).
+> 🧭 **Phân vai cổng chấm (29/09/2026, cập nhật 06/10/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL: Dàn ý (`00_core/retention_gate_checklist.md` Gate 1 / Gate D1; kèm Phiếu A của `00_core/narrative_craft_rubric.md` do người khác chấm) · Từng chương (`00_core/chapter_quality_standard.md` CHQB-50; người viết tự soi bằng Phiếu B trước khi nộp, Phiếu B chính thức được chấm mù ở Pha 10) · Cả kịch bản (Pha 10–11: `.agents/skills/compliance_council/SKILL.md`, ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5, Trụ cột K đạt mốc ĐẠT từ chấm mù chính thức).
+> File này là **cổng chính thức cấp chương** (CHQB-50, thang 50 điểm). Người chấm khác agent viết; cổng máy `scripts/kiem_pha.py --pha 7` chạy trước và đầu ra dán vào báo cáo (Q11). Người viết tự soi bằng Phiếu B để sửa câu yếu trước khi nộp; Phiếu B chính thức được Critical Auditor chấm mù ở Pha 10 để tính điểm Trụ cột K.
 # BỘ QUY CHUẨN ĐÁNH GIÁ CHẤT LƯỢNG TỪNG CHƯƠNG TRONG TỔNG THỂ BỨC TRANH TOÀN CẢNH
 ## (THE CHAPTER HOLISTIC QUALITY BENCHMARK — CHQB-50)
 *Thước đo kiểm toán từng chương đơn lẻ trong mối quan hệ hữu cơ với toàn bộ kịch bản*
@@ -29,7 +29,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 3. **Thuyết Dòng Chảy Nhận Thức Liên Tục (Cognitive Continuum & Narrative State Tracking):**
    Mỗi chương phải tương tác với Bộ theo dõi trạng thái tự sự (`09_narrative_state_tracker.md`), thực hiện chính xác hai thao tác: **Gặt hạt giống (Harvest)** và **Gieo hạt giống (Seed)**.
 4. **Mỹ Học Điện Ảnh, Hùng Biện Thính Giác & Ngôn Ngữ Học (Cinematic Aesthetics & Orality - Walter J. Ong, Aristotle):**
-   100% câu thoại viết cho tai nghe, ngắt nghỉ dưới 150 ký tự, giàu nhạc điệu nói, không tả cảnh, không từ cấm AI.
+   100% câu thoại viết cho tai nghe, ngắt nghỉ dưới 150 ký tự, giàu nhạc điệu nói, hạn chế tả cảnh theo định nghĩa chuẩn, không từ cấm AI.
 
 ---
 
@@ -70,7 +70,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 ### KHÔNG GIAN 2: ĐỘ TINH XẢO CỤC BỘ, CƠ CHẾ & CHẤT NGHỆ THUẬT (25 ĐIỂM)
 
 *   **Tiêu chuẩn 2.1: Độ Chuẩn Xác & Phủ Kín Dữ Liệu Nguồn (Data Vault Precision) — 6 điểm:**
-    *   100% các mỏ neo dữ liệu bắt buộc (`DATA-XX`) được chỉ định trong `08_chapter_briefs.md` phải xuất hiện chính xác, có bối cảnh đối chiếu và ý nghĩa vĩ mô rõ ràng.
+    *   Mỗi dữ kiện của brief (`08_chapter_briefs.md`) có chỗ: đọc trong một nhịp hoặc lên hình, có bối cảnh đối chiếu và ý nghĩa vĩ mô rõ ràng.
     *   Cơ chế kinh tế, dòng tiền, nghĩa vụ pháp lý, kỹ thuật phải đúng 100% bản chất thực tế.
     *   Phép loại suy (Metaphor) chỉ dùng để làm sáng tỏ cơ chế, tuyệt đối không bóp méo logic vận hành thực tế.
 *   **Tiêu chuẩn 2.2: Vị Thế Nhà Điều Tra Độc Lập & Chống Bào Chữa (Third-Party Investigator) — 5 điểm:**
@@ -78,21 +78,21 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
     *   Tuyệt đối không dùng văn phong PR phòng thủ, thanh minh hay đối đầu với truyền thông (*"tiêu đề giật gân vội vã quy chụp", "đập tan đồn đoán"*).
     *   Giải thích mọi hiện tượng bằng động lực lợi ích, chi phí cơ hội và đánh đổi, không phán xét đạo đức cảm tính.
 *   **Tiêu chuẩn 2.3: Cụ Thể Bằng Dữ Kiện & Sức Căng Đối Nghịch (Concreteness & Contrast) — 6 điểm:**
-    *   Khái niệm được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật). Cấm tả cảnh, không khí, ánh sáng, cảm giác vật lý và chi tiết minh họa không nguồn (WO-00 Q6).
+    *   Khái niệm được neo bằng dữ kiện cụ thể có nguồn (con số, văn bản, quyết định, đối tượng có thật). Hạn chế tả cảnh: không viết câu dựng không khí, thời tiết, âm thanh, cảm giác không mang dữ kiện (rườm rà, điệu đà, không hợp khán giả nam 35-40). Vật chứng có nguồn (văn bản, quyết định có ngày, công trình, con số đặt cạnh con số) được khuyến khích và không tính là tả cảnh (`00_core/narrative_craft_rubric.md` §2).
     *   Sức căng đến từ đặt hai dữ kiện đối nghịch cạnh nhau (thành tích và cái giá), không từ tính từ.
 *   **Tiêu chuẩn 2.4: Nhạc Tính & Tiếng Vang Ngôn Ngữ (Acoustic Cadence & Prosody) — 4 điểm:**
-    *   Tận dụng thanh điệu tiếng Việt (Bằng - Trắc) để tạo nên một bản giao hưởng âm thanh: Đan xen nhịp điệu phong phú giữa câu ngắn dồn dập (thanh trắc đanh thép) và câu phân tích dàn trải (thanh bằng êm ả).
-    *   Đọc lên bằng miệng nghe trôi chảy, không vấp váp, không trúc trắc.
+    *   Nhịp do ý quyết định: câu dài khi giải thích cơ chế, câu ngắn khi dữ kiện cần đứng riêng; câu sau nối câu trước bằng từ nối văn nói khi quan hệ là thật.
+    *   Đọc to lên nghe trôi chảy như người thật nói chuyện, hiểu ngay ở lần nghe đầu (`.agents/skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai").
 *   **Tiêu chuẩn 2.5: Kỷ Luật Tai Nghe & Câu Vàng Dồn Nén (Ear Constraints & The Golden Line) — 4 điểm:**
-    *   **100% câu thoại trong chương phải tuyệt đối dưới 150 ký tự** (20–25 từ), cú pháp trọn vẹn chủ-vị.
+    *   **100% câu thoại dưới 150 ký tự** (trần kỹ thuật TTS), cú pháp trọn vẹn chủ-vị, không chủ ngữ ẩn, không ẩn dụ bắt người nghe tự giải mã.
     *   Cấm tuyệt đối dấu gạch ngang dài (`—`). Khử sạch 100% từ cấm AI (`anti_ai_isms.md`).
     *   "Câu vàng" (nếu có) nén tối đa chân lý vào số lượng từ tối thiểu và phải mang thêm dữ kiện hoặc hệ quả mới, không chỉ nhắc lại ý vừa nói. Không ép có. Loại bỏ hoàn toàn lối ví von chợ búa, sến sẩm.
     *   Đạt ngưỡng đếm dấu hiệu cấu trúc `00_core/anti_ai_isms.md` §3b ("không phải X mà là Y" ≤ 2, câu chốt không kết hai đoạn liền nhau, 0 câu mượn uy tín không tên).
 
 ---
 
-## 4. Sáu Điều Kiện Loại Bỏ Trực Tiếp (Chapter Hard-Fail Gates)
-*Một chương dù câu chữ trôi chảy đến đâu nhưng vi phạm **bất kỳ 1 trong 6 điều sau** sẽ bị đánh giá **KHÔNG ĐẠT (FAIL)** ngay lập tức và buộc phải viết lại:*
+## 4. Bảy Điều Kiện Loại Bỏ Trực Tiếp (Chapter Hard-Fail Gates)
+*Một chương dù câu chữ trôi chảy đến đâu nhưng vi phạm **bất kỳ 1 trong 7 điều sau** sẽ bị đánh giá **KHÔNG ĐẠT (FAIL)** ngay lập tức và buộc phải viết lại:*
 
 1. **Gate 0 (Vi phạm Giao Thức ZUI — Suy Diễn Vô Căn Cứ):** Tồn tại bất kỳ chi tiết nào bịa đặt thông số máy móc (như máy ép 2.500T), tự phỏng đoán số tiền Capex chưa công bố, tự phong biên lợi nhuận dày khi không có BCTC kiểm toán, hoặc không xuất trình Bảng Đối Soát Chứng Cứ Công Khai (Claim-to-Source Ledger).
 2. **Gate 1 (Đứt gãy Mạch nối Tự sự):** Không gặt hạt giống từ chương trước hoặc không gieo hạt giống mở câu hỏi cho chương sau.
@@ -100,6 +100,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 4. **Gate 3 (Lạc trôi Luận đề):** Viết lan man, chệch khỏi chức năng giải phẫu được quy định trong `08_chapter_briefs.md` và `vault/00_Global_Vision_Synthesis.md`.
 5. **Gate 4 (Dính Bẫy PR Bào chữa):** Dùng văn phong thanh minh, bào chữa, cãi lại dư luận thay vì phân tích cơ chế khách quan.
 6. **Gate 5 (Vi phạm Giới hạn Tai nghe):** Tồn tại bất kỳ câu nào dài quá 150 ký tự hoặc chứa dấu gạch ngang dài (`—`).
+7. **Gate 6 (Gãy Chất Chuyện Cấp Chương - Hard-Fail 11 / Phiếu B `00_core/narrative_craft_rubric.md` §4, §6):** Phiếu B của chương dưới mốc ĐẠT (có chỉ tiêu < 3, trung bình cấp chương < 4.0, hoặc IV-a Cú lật và V Vật chứng cùng <= 2); hoặc có điểm 4-5 hay 1-2 mà không trích câu dẫn chứng. Áp dụng khi người kiểm toán/Critical Auditor thẩm định độc lập (người viết dùng Phiếu B tự soi trước khi nộp bản thảo); Phiếu B đạt mốc là điều kiện cứng của CHQB-50.
 
 ---
 
@@ -120,7 +121,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 ```markdown
 # 📑 BÁO CÁO KIỂM TOÁN CHẤT LƯỢNG CHƯƠNG [XX]: [TÊN CHƯƠNG]
 > **Episode:** [Slug] | **Chuyên gia kiểm toán:** The Quality Czar & Narrative Director  
-> **Thông số kỹ thuật:** [Tổng số từ] từ | [Tổng số câu] câu | [100% câu <= 150 ký tự: ĐẠT/KHÔNG]
+> **Thông số kỹ thuật:** [Tổng số từ] từ | [Tổng số câu] câu | [100% câu <= 150 ký tự: ĐẠT/KHÔNG] | [Phiếu B Narrative Craft: ĐẠT/KHÔNG, TB cấp chương: X/5.0]
 
 ---
 
@@ -142,14 +143,14 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 |---|:---:|:---:|---|
 | **2.1. Chuẩn xác & Phủ kín dữ liệu nguồn** | 6 | [X]/6 | [Đối chiếu danh mục DATA-XX từ Vault, độ chuẩn xác cơ chế kinh tế/pháp lý] |
 | **2.2. Vị thế Nhà điều tra Độc lập** | 5 | [X]/5 | [Kiểm tra tính khách quan, khử sạch văn phong PR thanh minh phòng thủ] |
-| **2.3. Cụ thể bằng dữ kiện & Sức căng đối nghịch** | 6 | [X]/6 | [Dẫn chứng dữ kiện neo khái niệm; xác nhận 0 câu tả cảnh / chi tiết không nguồn] |
+| **2.3. Cụ thể bằng dữ kiện & Sức căng đối nghịch** | 6 | [X]/6 | [Dẫn chứng dữ kiện neo khái niệm; xác nhận hạn chế tả cảnh theo định nghĩa, vật chứng có nguồn] |
 | **2.4. Nhạc tính Ngôn ngữ & Tiếng vang** | 4 | [X]/4 | [Kiểm tra nhịp điệu bằng-trắc, câu ngắn dồn dập xen kẽ câu dài dàn trải] |
 | **2.5. Kỷ luật Tai nghe & Câu Vàng Dồn Nén** | 4 | [X]/4 | [Trích dẫn Câu Vàng (The Golden Line), kiểm toán 100% câu < 150 ký tự, cấm `—`] |
 | **TỔNG ĐIỂM KHÔNG GIAN 2** | **25** | **[XX] / 25** | *[Nhận xét ngắn về độ tinh xảo và chất nghệ thuật]* |
 
 ---
 
-### 🛑 KIỂM TOÁN 6 ĐIỀU KIỆN LOẠI BỔ TRỰC TIẾP (HARD-FAIL GATES)
+### 🛑 KIỂM TOÁN 7 ĐIỀU KIỆN LOẠI BỎ TRỰC TIẾP (HARD-FAIL GATES)
 * [ ] **Đầu ra `scripts/kiem_pha.py --pha 7` (dán nguyên văn):** [ĐẠT / danh sách lỗi]
 * [ ] **Gate 0 (ZUI — suy diễn vô căn cứ, bịa chi tiết, viết vượt nhãn):** [Đạt / lỗi, kèm mã M hoặc OBS liên quan]
 * [x] **Gate 1 (Mạch nối tự sự):** ĐÃ ĐẠT — Gieo và gặt hạt giống mượt mà.
@@ -157,6 +158,7 @@ Một chương dù câu chữ bay bổng đến đâu, nhưng nếu tách rời 
 * [x] **Gate 3 (Chống lạc trôi luận đề):** ĐÃ ĐẠT — Bám sát 100% chức năng giải phẫu.
 * [x] **Gate 4 (Chống PR bào chữa):** ĐÃ ĐẠT — Độc lập, khách quan, phân tích động lực.
 * [x] **Gate 5 (Kỷ luật tai nghe):** ĐÃ ĐẠT — 100% câu dưới 150 ký tự, không có dấu `—`.
+* [ ] **Gate 6 (Phiếu B Narrative Craft):** [ĐÃ ĐẠT (TB >= 4.0, không chỉ tiêu < 3, IV-a và V không cùng <= 2) / KHÔNG ĐẠT, kèm trích câu]
 
 ---
 

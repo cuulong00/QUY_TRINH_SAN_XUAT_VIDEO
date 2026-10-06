@@ -15,7 +15,7 @@
 | **Actual words** | [...] |
 | **Loops opened** | [...] |
 | **Loops closed** | [...] |
-| **Data points used** | [...] |
+| **Nhịp chuyện & Dữ kiện phục vụ** | [...] |
 | **Physical Anchor** | [...] |
 | **Seeds gieo cho Ch.2** | SEED-1: [...] |
 
@@ -29,6 +29,6 @@
 | **Actual words** | [...] |
 | **Loops opened** | [...] |
 | **Loops closed** | [...] |
-| **Data points used** | [...] |
+| **Nhịp chuyện & Dữ kiện phục vụ** | [...] |
 | **Physical Anchor** | [...] |
 | **Seeds gieo cho Ch.3** | SEED-1: [...] |

@@ -4,9 +4,11 @@ description: >-
   Creates the objective Map of Reality across 4 Universal Tiers without script structure or chapter divisions.
 ---
 
+> 🧭 **Cổng vào: thẻ `.agents/phases/pha_01_ban_do.md`**. Thẻ nói đọc gì và không cần đọc gì; workflow này là tham khảo theo mục.
+
 # /build_global_vision — Master Systemic Topography & Global Vision Synthesis (Pha 1)
 
-> 📐 Khung đầu ra `01_global_vision_synthesis.md`: `02_templates/masterpiece_pipeline/01_global_vision_synthesis_template.md` (Phần I Hội đồng Chiến lược · Phần II Bản đồ 4 tầng · Phần III Kế hoạch nghiên cứu). Trước khi vẽ bản đồ, hỏi kho tri thức `scripts/kbq`. Final Verdict phải điền "Lời hứa đóng gói" dựa trên `01_management/demand_evidence/<slug>.md` (chưa có thì giao Antigravity lập theo `content_strategist/SKILL.md` mục "Hồ sơ bằng chứng nhu cầu", hoặc ghi rõ "chưa có bằng chứng").
+> 📐 Khung đầu ra `01_global_vision_synthesis.md`: `02_templates/masterpiece_pipeline/01_global_vision_synthesis_template.md` (Phần I Hội đồng Chiến lược · Phần II Bản đồ 4 tầng · Phần III Kế hoạch nghiên cứu). Trước khi vẽ bản đồ, đọc kết quả Gem Scout (`.agents/skills/gem_scout/SKILL.md`) và vault/`research_raw/` đã có của tập. Final Verdict phải điền "Lời hứa đóng gói" dựa trên `01_management/demand_evidence/<slug>.md` (chưa có thì giao Antigravity lập theo `content_strategist/SKILL.md` mục "Hồ sơ bằng chứng nhu cầu", hoặc ghi rõ "chưa có bằng chứng").
 
 > Slash command dùng để kiến tạo hoặc bồi đắp Bản Đồ Địa Hình Bàn Cờ & Tầm Nhìn Toàn Cảnh (Pha 1: 01_global_vision_synthesis.md).
 
@@ -18,7 +20,7 @@ Trước khi thực thi BẤT KỲ bước nào, agent PHẢI đọc lần lư�
 2. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_policy_analyst.md`
 3. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/personas/the_critical_auditor.md`
 4. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/strategy_council/SKILL.md`
-5. `/Users/pro16/Documents/VideoProject/GocNhinPodcast/.agents/skills/kb_reader/SKILL.md` (cách đọc kho khi nhận đề tài)
+5. `.agents/skills/gem_scout/SKILL.md` (cách mở đề tài thành bản đồ và cây câu hỏi trước khi nghiên cứu sâu)
 
 NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc nạp ngữ cảnh chuyên gia.
 
@@ -65,11 +67,24 @@ TRƯỚC KHI tạo tệp, Agent BẮT BUỘC in hộp log ra màn hình chat:
 > - 🛡️ **Rào Cản Kiểm Toán & Tôn Chỉ First-Principles:** The Map of Reality — Bản đồ địa hình hiện thực khách quan 4 tầng, nghiêm cấm chia chương hoặc rò rỉ thuật ngữ kịch bản.
 ```
 
-### Bước 2b: Bản Đồ Nền Từ Kho → Giả Thuyết Cạnh Tranh → Ma Trận (form tư duy, phần B–C–D)
-1. Đọc kho theo `.agents/skills/kb_reader/SKILL.md`: từ câu hỏi trung tâm ra thực thể (`find`), mở rộng theo cơ chế (`links 2`), rồi `evidence` → `between` → `facts <mã> <nhóm>` (không gọi trần), `grep` theo khái niệm; đầu ra dài ghi ra `research_raw/` và đọc theo đoạn; chủ động tìm dữ kiện ngược; chạy `kbaudit`. Điền mục 1.4 của template: mọi dòng có mã OBS; ghi dấu thời điểm tra kho; điền N1 vào hiến chương.
+### Bước 1b: Gem Scout bổ sung (tùy chọn, khi N1 thấp hoặc đề tài phức tạp)
+Nếu hiến chương vừa khóa mà bản đồ còn mờ (N1 thấp), hoặc đề tài chạm nhiều thị trường/đối thủ/luật chơi, chạy thêm một lượt `.agents/skills/gem_scout/SKILL.md` trước khi dựng Bước 2a, rẻ hơn nhiều so với phát hiện thiếu khía cạnh ở Pha 2 hay Pha 4.
+
+### Bước 2a: Bản Đồ Nước Đi (khi câu hỏi trung tâm là về chiến lược của một chủ thể)
+Muốn giải thích một nước đi, trước hết phải thấy những gì đẩy, chặn và định giá nước đi đó. Đừng bắt đầu từ danh sách dữ kiện; bắt đầu từ hệ thống quanh chủ thể, rồi tìm mối nối giữa các phần của nó. Lập bản đồ theo các vòng dưới đây. Mỗi vòng lấy thực thể và quan hệ từ báo cáo Gem Scout, vault và nguồn gốc đã mở; vòng nào còn trống hoặc chỉ có manh mối chưa kiểm thì ghi thành câu hỏi con "chưa rõ" trong cây câu hỏi:
+1. **Chủ thể và hệ sinh thái của nó:** các đơn vị cùng sở hữu hoặc cùng chuỗi (sản xuất, phân phối, dịch vụ, năng lượng, tài chính), dòng hàng, dòng tiền, dòng khách giữa chúng; lợi thế nào của hệ sinh thái đi theo chủ thể sang thị trường mới, lợi thế nào ở lại nhà.
+2. **Mỗi thị trường mà nước đi chạm tới** (một nước đi thường chạm nhiều thị trường, ví dụ thị trường dịch vụ và thị trường sản phẩm): quy mô thật (dân số, quy mô cầu, cơ cấu sản phẩm, hạ tầng, thói quen sử dụng), ai đang thắng và vì sao.
+3. **Đối thủ ở từng thị trường:** cả đối thủ trực tiếp lẫn đối thủ cùng phân khúc từ nơi khác; họ vào bằng đường nào (mua lại, đại lý, giá, nhà máy tại chỗ), đã phản ứng ra sao, lợi thế gì chủ thể không có.
+4. **Luật chơi bản địa và khu vực:** giấy phép, lao động, thuế, thuế quan và hiệp định thương mại (ai chịu thuế bao nhiêu, ai được miễn), trợ cấp, quy chế môi trường, cơ quan cạnh tranh; cái nào đang có hiệu lực, cái nào chỉ là kế hoạch.
+5. **Đối tác và khâu phụ thuộc:** hạ tầng, hậu mãi, phân phối, lao động; chủ thể tự làm hay thuê, khâu nào là điểm nghẽn.
+6. **Bối cảnh lớn:** biến số vĩ mô, chính sách, thương mại đang chi phối cả ngành ở thời điểm này (theo bảng bối cảnh của tập nếu có).
+Sau khi có bản đồ, hỏi: mối nối nào giữa các vòng giải thích được nước đi tốt hơn câu chuyện bề mặt (ví dụ một luật chơi khu vực làm đổi lợi thế giữa chủ thể và đối thủ; một lợi thế sân nhà không đi theo sang thị trường mới)? Những mối nối đó là nguyên liệu của giả thuyết ở Bước 2b. Hiến chương và phiếu giao việc chỉ là điểm xuất phát; bản đồ phải đi xa hơn chúng nếu đề tài đòi hỏi.
+
+### Bước 2b: Bản Đồ Nền → Giả Thuyết Cạnh Tranh → Ma Trận (form tư duy, phần B–C–D)
+1. Từ câu hỏi trung tâm ra các bên liên quan, rồi đi theo cơ chế nối họ (giao dịch, sở hữu, phụ thuộc, cạnh tranh, quản lý). Với mỗi mối nối, mở nguồn gốc (vault, văn bản luật, cơ quan thống kê, hồ sơ đăng ký, báo cáo doanh nghiệp) và lưu câu nguyên văn kèm URL, ngày vào `research_raw/`. Chủ động tìm dữ kiện ngược với cách giải thích đang nghiêng về. Điền mục 1.4 của template: mọi dòng có nguồn `vault/…` hoặc URL + ngày; manh mối từ Gem chưa mở được nguồn gốc thì để ở cột "chưa rõ". Điền N1 vào hiến chương.
 2. Đặt **≥ 3 giả thuyết** cho câu hỏi trung tâm (luôn có giả thuyết "nhàm"); nếu chỉ thấy một lời giải thì ép thêm hai giả thuyết đối lập (N2). Mỗi giả thuyết ghi "dữ kiện nào sẽ bác tôi".
-3. Tạo `episodes/[slug]/00_bang_gia_thuyet.md` theo `02_templates/masterpiece_pipeline/00_bang_gia_thuyet_template.md`: hàng E từ các OBS ở bước 1, chấm `+ / − / 0` cho từng giả thuyết, liệt kê ô chưa phân biệt (mục 2b) để Pha 2 nhắm vào.
-3b. Tạo `episodes/[slug]/00_so_du_kien.md` theo `02_templates/masterpiece_pipeline/00_so_du_kien_template.md`: mọi OBS ở mục 1.4 thành hàng `M-xx` nhãn `verified_data` (kèm kỳ, phạm vi, mã E); phản biện và suy luận của hội đồng thành hàng `market_analysis` / `opinion_commentary`. Điền bảng "Chân đỡ của giả thuyết dẫn đầu".
+3. Tạo `episodes/[slug]/00_bang_gia_thuyet.md` theo `02_templates/masterpiece_pipeline/00_bang_gia_thuyet_template.md`: hàng E từ các dữ kiện có nguồn ở bước 1, chấm `+ / − / 0` cho từng giả thuyết, liệt kê ô chưa phân biệt (mục 2b) để Pha 2 nhắm vào.
+3b. Tạo `episodes/[slug]/00_so_du_kien.md` theo `02_templates/masterpiece_pipeline/00_so_du_kien_template.md`: mọi dữ kiện có nguồn gốc mở được ở mục 1.4 thành hàng `M-xx` nhãn `verified_data` (kèm kỳ, phạm vi, mã E); phản biện và suy luận của hội đồng thành hàng `market_analysis` / `opinion_commentary`. Điền bảng "Chân đỡ của giả thuyết dẫn đầu".
 4. Hội đồng tranh biện (Bước 3, Phần I.2) tranh luận trên các giả thuyết, không trên một luận điểm chọn sẵn. Phản biện của mỗi lăng kính đã chọn (N5) ghi thành hàng E.
 
 ### Bước 3: Đúc Khung Tư Duy 4 Tầng Phổ Quát (The 4-Tier Blueprint)
@@ -77,7 +92,7 @@ Tạo hoặc cập nhật `episodes/[slug]/01_global_vision_synthesis.md` với 
 - **TẦNG 1: SYSTEM META-INSTRUCTIONS & COMPLIANCE GUARDRAILS** (YAML/JSON block)
 - **TẦNG 2: MACRO LANDSCAPE & SYSTEMIC FORCES** (Sơ đồ ASCII Bàn cờ định vị không gian)
 - **TẦNG 3: UNDERLYING MECHANICS & CENTRAL PARADOXES** (Chuỗi nhân quả gốc rễ và mâu thuẫn hệ thống)
-- **TẦNG 4: IMMUTABLE GROUND-TRUTH DATA VAULT** (`DATA-01` đến `DATA-XX`)
+- **TẦNG 4: IMMUTABLE GROUND-TRUTH DATA VAULT** (`DATA-01` đến `DATA-XX`, kèm định hướng vật chứng `VC-xx` ở Pha 2)
 
 ### Bước 4: Nhúng Khối Provenance Metadata
 ```markdown
@@ -96,8 +111,8 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 - [ ] Có đầy đủ 4 tầng: Meta-Instructions, Macro Landscape (ASCII), Mechanics & Paradox, Ground-Truth Data?
 - [ ] Khối Sơ đồ ASCII Bàn cờ hiển thị rõ các chủ thể, dòng chảy và điểm nghẽn?
 - [ ] **HOÀN TOÀN KHÔNG CÓ** các từ khóa chia chương (`CH01`, `CHXX`, `Chương`, `Hồi`, `Hook`...)?
-- [ ] Mọi con số trong Tầng 4 đều có mã `DATA-XX` định danh?
-- [ ] Mục 1.4 có bản đồ nền từ kho, mọi dòng có `OBS-…`, có dấu thời điểm tra kho; N1 đã điền vào hiến chương?
+- [ ] Mọi con số trong Tầng 4 đều có mã `DATA-XX` định danh, kèm dòng nhắc các câu hỏi lớn của bản đồ sẽ cần vật chứng (`VC-xx`) ở Pha 2?
+- [ ] Mục 1.4 có bản đồ nền đủ sáu vòng của Bước 2a, mọi dòng có nguồn `vault/…` hoặc URL + ngày, manh mối chưa kiểm nằm ở cột "chưa rõ"; N1 đã điền vào hiến chương?
 - [ ] `00_bang_gia_thuyet.md` có ≥ 3 giả thuyết (có giả thuyết "nhàm"), mỗi giả thuyết ghi dữ kiện bác, ma trận có ≥ 1 hàng phân biệt được (có cả `+` và `−`), mục 2b liệt kê ô chưa phân biệt?
-- [ ] Phần III: mỗi prompt và câu trích xuất ghi mã ô ma trận hoặc GAP; không có prompt cho thứ kho đã trả lời?
-- [ ] Đã chạy `KB_GRAPH=kb_v2 scripts/kbaudit --check-evidence [slug]` ngay sau Pha 1 và trả lời nhóm BÁC (V25, V26)?
+- [ ] Phần III: mỗi prompt và câu trích xuất ghi mã ô ma trận hoặc GAP; không có prompt cho câu hỏi đã có nguồn gốc mở được?
+- [ ] Mỗi giả thuyết đã được đối chiếu với dữ kiện BÁC mạnh nhất tìm được, kể cả dữ kiện nằm trong vault mà bản đồ chưa dùng (V25, V26)?

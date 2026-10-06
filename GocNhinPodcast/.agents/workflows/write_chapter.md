@@ -1,33 +1,14 @@
 ---
 description: >-
-  Chapter writing phase workflow. Relies on the specialist craft method in
-  .agents/skills/chapter_writer/SKILL.md and rules in .agents/rules/content-os-pipeline.md.
+  Chapter writing phase workflow. Entry point: .agents/phases/pha_07_viet_chuong.md
+  (reads only what the phase card points to).
 ---
 
 Chapter writing workflow only.
 
-Canonical sources for this phase:
-- `.agents/skills/chapter_writer/SKILL.md` — specialist judgment, persona, and writing craft
-- `.agents/rules/content-os-pipeline.md` — consolidated rules and pipeline controls
-- `00_core/voiceover_style_guide.md` & `00_core/voice_dna.md` — tone, style, and vocabulary DNA
+**Cổng vào duy nhất: thẻ `.agents/phases/pha_07_viet_chuong.md`** (từ 03/10/2026). Đọc đúng những gì thẻ trỏ tới, theo đúng thứ tự trong thẻ: hiến chương mục 1–3, brief của chương, các hàng sổ kèm nguồn gốc, các chương trước, các mục luật được chỉ định.
+- Chạy Chặng 1 (khung xương cơ chế) và Chặng 2 (bảng nhịp chương, rồi văn) là hai lượt riêng biệt (`chapter_writer/SKILL.md` Bước 1).
+- Trước khi nộp, tự soi theo **Phiếu B** của `00_core/narrative_craft_rubric.md` (`chapter_writer/SKILL.md` Bước 3b): mọi điểm 4–5 và 1–2 trích câu, không chấm bằng đếm; tự soi để sửa câu yếu trước khi nộp, không phải điều kiện lưu file và không tính vào điểm K (chương đạt hay không do chấm mù ở Pha 10 quyết định); chép phiếu vào `episodes/[slug]/11_narrative_craft_scorecard.md` (phần tự soi).
+- Chạy `python3 scripts/kiem_pha.py <slug> --pha 7`, báo Claude, rồi dừng chờ duyệt.
 
-Reminder:
-- Write exactly one chapter at a time.
-- **GIAO THỨC GHI LOG TIỀN KHỞI ĐỘNG (PRE-FLIGHT LOGGING):**
-  TRƯỚC KHI tạo `chapter_XX.md`, Agent BẮT BUỘC in hộp log ra màn hình chat:
-  ```markdown
-  > 🚀 **[PRE-FLIGHT LOG: TIỀN KHỞI ĐỘNG VIẾT chapter_XX.md]**
-  > - 🧠 **Chuyên Gia (Persona DNA) Kích Hoạt:** [Persona được chỉ định trong 08_chapter_briefs.md] + The Narrative Director (Khóa Khẩu Ngữ Oral Voice)
-  > - ⚙️ **Kỹ Năng (Skill) Dẫn Đường:** `/write_chapter` (`chapter_writer/SKILL.md`)
-  > - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Full Working Context):**
-  >   * `episodes/[slug]/00_hien_chuong.md` (đề bài khóa, từ khóa đã loại) và `00_bang_gia_thuyet.md` (nhãn và mã mắt xích)
-  >   * `01_global_vision_synthesis.md` (Tầm nhìn tổng thể & Mỏ neo số liệu)
-  >   * `episodes/[slug]/08_chapter_briefs.md` (Brief chi tiết của Chương XX)
-  >   * `episodes/[slug]/09_narrative_state_tracker.md` (Vòng lặp nhận thức, Hạt giống chuyển tiếp)
-  >   * `episodes/[slug]/chapter_01.md` đến `chapter_XX-1.md` (Toàn bộ kịch bản thoại sạch các chương trước để giữ nhịp, chống lặp)
-  > - 🎯 **Tài Liệu Đích Xuất Ra:** `episodes/[slug]/chapter_XX.md` (Văn bản thoại sạch 100%, câu < 150 ký tự, không nhúng log vận hành)
-  > - 🛡️ **Rào Cản Kiểm Toán:** 4 Gates ngầm trong Thinking (Data, Continuity, Oral Voice, Math < 150 ký tự).
-  ```
-- Run the Post-write compliance check by invoking the **Quality & Compliance Council** (`compliance_council/SKILL.md`) to review, debate, and polish the drafted chapter.
-- Update `09_narrative_state_tracker.md`, `10_compliance_report.md` (which replaces `financial_qa` and `oral_qa` reports), and `01_management/episode_registry.csv`.
-- Do not bypass the chapter workflow by drafting final merge prose in chat.
+Các phần cũ của workflow này (pre-flight log, gọi hội đồng chấm sau khi viết) không còn bắt buộc. Chấm do người khác làm theo thẻ Pha 9–11.

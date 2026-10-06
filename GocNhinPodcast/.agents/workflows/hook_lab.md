@@ -4,6 +4,8 @@ description: >-
   MUST be run AFTER /build_outline and BEFORE /write_chapter (Outline-First, Hook-Last Protocol).
 ---
 
+> 🧭 **Cổng vào: thẻ `.agents/phases/pha_05_hook.md`**. Thẻ nói đọc gì và không cần đọc gì; workflow này là tham khảo theo mục.
+
 > 📐 Khung đầu ra `04_hook_pack.md`: `02_templates/masterpiece_pipeline/04_hook_pack_template.md`; ví dụ yếu/mạnh: `.agents/examples/hook_engine_examples.md`.
 
 ## 🛑 HARD GATE TOÀN BỘ WORKFLOW NÀY
@@ -72,11 +74,11 @@ NGHIÊM CẤM tạo bất kỳ hook hay output nào nếu chưa hoàn thành vi�
 
    ✅ Kiểm tra CẤU TRÚC 30 GIÂY ĐẦU (hook_engine Chặng 2b):
    [ ] Câu 1–2 cùng chủ thể và điểm căng với tiêu đề/thumbnail trong hiến chương; không chào hỏi, không niên biểu
-   [ ] Có đối nghịch bằng dữ kiện có mã M; có điều được mất đúng loại A/B/C; kết bằng câu hỏi trung tâm nguyên văn + lộ trình ngắn
+   [ ] Có đối nghịch bằng dữ kiện có mã M; có điều được mất đúng loại A/B/C; kết bằng câu hỏi trung tâm nguyên văn (KHÔNG đọc mục lục hay lộ trình chặng; người xem biết mình đi đâu nhờ câu hỏi đã đặt)
    [ ] Qua phép thử tắt tiếng và đặt cạnh thumbnail
 
    ✅ Kiểm tra TRÁNH AI-ISM:
    [ ] Câu mở không dùng các cụm bị cấm trong 00_core/anti_ai_isms.md
    ```
 
-5. Thông báo cho user duyệt Pha 5 (`04_hook_pack.md`) trước khi tiếp tục **Pha 6: Chapter Briefs (16 Trường - `08_chapter_briefs.md`) & Khởi tạo NST**.
+5. Thông báo cho user duyệt Pha 5 (`04_hook_pack.md`) trước khi tiếp tục **Pha 6: Chapter Briefs (20 Trường - `08_chapter_briefs.md`) & Khởi tạo NST**.

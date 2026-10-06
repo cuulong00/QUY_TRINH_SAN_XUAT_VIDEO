@@ -41,7 +41,7 @@ Khi thực thi Skill này, Agent ĐƯỢC PHÉP và ĐƯỢC YÊU CẦU chạy c
 *(Lưu ý: Luôn chạy trong môi trường ảo `source venv/bin/activate` nếu cần)*
 
 ## Đầu ra mong đợi (Expected Output)
-- Một bản chẩn đoán chuyên sâu mang phong thái lạnh lùng, dữ liệu làm gốc.
+- Một bản chẩn đoán chuyên sâu mang phong thái điềm tĩnh, chuyên nghiệp, dữ liệu làm gốc.
 - Báo cáo kiểm toán rủi ro YMYL chi tiết cho từng video trên kênh kèm theo đoạn văn bản Mô tả sửa lỗi mẫu.
 - Không có lời an ủi sáo rỗng. Mọi phân tích phải dẫn tới một bài học hoặc một chiến lược rõ ràng cho tập video tiếp theo.
 

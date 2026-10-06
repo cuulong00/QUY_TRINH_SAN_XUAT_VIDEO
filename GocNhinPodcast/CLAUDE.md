@@ -1,58 +1,12 @@
-# GocNhinPodcast CLI & Agent Operating System
+# GocNhinPodcast: chỉ dẫn cho Claude Code
 
-## Cấu trúc làm việc bắt buộc
-1. Topic Qualification
-2. Data Mining & Verification
-3. Strategy Brief
-4. Hook Lab
-5. Thesis Map
-6. Retention Map
-7. Outline
-8. Chapter Briefs
-9. Chapter Writing
-10. Editorial & Legal QA
-11. Oral QA
-12. Visual Storyboard & I2V Prompts (Chỉ chạy khi có yêu cầu)
-13. Audio Landscape (Chỉ chạy khi có yêu cầu)
-14. Video Render (CapCut - Manual)
-15. Production Handoff
-16. Postmortem
-17. Performance Review (Thủ công)
+Mọi chỉ dẫn của dự án (cho Claude, Antigravity và mọi IDE) nằm DUY NHẤT trong `.agents/` (user chốt 03/10/2026). File này chỉ nạp hiến pháp và vai điều phối của Claude; không chứa luật riêng. `.claude/` chỉ chứa cấu hình (quyền, hook).
 
-## File bắt buộc của mỗi episode
-- `01_topic_qualification.md`
-- `02_research_map.md` & `02_research_synthesis.md`
-- `vault/00_Global_Vision_Synthesis.md` (Pha 2.5 - Mỏ neo tư duy toàn cảnh)
-- `03_brief.md`
-- `04_hook_pack.md`
-- `05_thesis_map.md`
-- `06_retention_map.md`
-- `07_outline.md`
-- `08_chapter_briefs.md`
-- `09_narrative_state_tracker.md`
-- `10_claim_ledger.md`
-- `chapter_XX.md`
-- `10_compliance_report.md` (replaces editorial_qa and oral_qa)
-- `visual_storyboard_blueprint.md`, `scene_timing_map.json` & `prompts_chapter_XX.txt` (Pha 12 — Chỉ khi có yêu cầu)
-- `production_notes.md`
-- `postmortem.md`
+@.agents/AGENTS.md
+@.agents/rules/orchestration-protocol.md
 
-## File hỗ trợ tùy chọn
-- `07_golden_lines.md`
-- `thư mục ảnh final, ví dụ `images_final/``
-- `file output render, ví dụ `video/slideshow_base.mp4``
+Khi làm một pha: mở thẻ pha `.agents/phases/<pha>.md` (bảng ở hiến pháp §5) và chỉ đọc những gì thẻ trỏ tới. Các rule khác trong `.agents/rules/` (claim-ledger, chapter-writing, editorial-quality, final-merge, operator-visibility, episodes-general, visual-asset-safety, slideshow-render) được thẻ pha gọi đúng lúc, không nạp sẵn.
 
-## Cách làm việc đúng
-- Mỗi lần chỉ làm đúng một pha.
-- Phải đảm bảo phân loại tài liệu với taxonomy: `verified_data`, `market_analysis`, và `opinion_commentary`.
-- Dòng lưu ý nội dung bắt buộc: `Nội dung chia sẻ góc nhìn khách quan, mang tính thảo luận và xây dựng`.
+Khi sửa DNA: theo hiến pháp §7, và kiểm đường tới agent bằng `python3 scripts/kiem_nap.py <conversationId>`.
 
-## Công cụ Kiểm Chứng (Fact-checking)
-- **Chạy tự động đối chiếu Google Search AI Mode (udm=50):**
-  ```bash
-  python3 scripts/google_ai_audit.py episodes/[slug] --all
-  # Hoặc cho 1 chương cụ thể
-  python3 scripts/google_ai_audit.py episodes/[slug] --chapter [số_chương]
-  ```
-  Công cụ sẽ xuất kết quả phản biện ra `google_ai_audit_results.md` và các file chương tương ứng. Sử dụng kết quả này tại **Pha 10 (Editorial QA)** để nới lỏng hoặc thắt chặt các nhận định kinh tế, xã hội trước khi voiceover.
-  - **Quy tắc thao tác trên Google AI Mode:** BẮT BUỘC sử dụng tính năng **"Thêm tệp" (Import file .md từng chương)** qua nút `+` thay vì copy-paste trực tiếp văn bản dài vào ô chat. Việc import file giúp Gemini 3.8 Flash tiếp nhận trọn vẹn ngữ cảnh tài liệu, không bị cắt bớt nội dung và trả về báo cáo phân tích chuyên sâu đầy đủ nhất.
+Tập mới: file chấm nghệ thuật kịch bản `11_narrative_craft_scorecard.md` bắt buộc từ 06/10/2026 theo `00_core/narrative_craft_rubric.md` (tập đã đăng không bổ sung).

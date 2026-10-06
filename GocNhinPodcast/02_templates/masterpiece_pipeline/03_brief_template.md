@@ -1,4 +1,7 @@
 # STRATEGY BRIEF — TÀI LIỆU ĐỊNH HƯỚNG CHIẾN LƯỢC (PHA 3)
+
+> **Trần độ dài: 2500 từ** (thẻ pha, `.agents/phases/`). File này để nghĩ và chuyển giao, không chép lại số liệu; số liệu trỏ mã M của sổ. `kiem_pha.py` cảnh báo khi vượt.
+
 ## TIÊU CHUẨN KIỆT TÁC (MASTERPIECE EDITORIAL BRIEF — PHIÊN BẢN TƯ DUY 3.0)
 
 <!--
@@ -45,7 +48,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 | **Loại chủ đề** | `[Loại A: Cá nhân / Loại B: Doanh nghiệp-Quốc gia / Loại C: Toàn cầu]` | Bắt buộc chọn 1 loại |
 | **Bản chất chủ đề** | `[Mô tả bản chất cốt lõi]` | Không nhầm lẫn giữa các loại |
 | **Chiến lược Relevance Anchor** | `[Cách kết nối với người nghe mà không bị gượng ép]` | Loại B: Zoom-in vào tính toán chi phí & bài học quản trị |
-| **Giới hạn Case Study quốc tế** | `[Tối đa 2 case đối với Loại A/B; Tối đa 3 case đối với Loại C]` | Không sa đà kể chuyện nước ngoài |
+| **Giới hạn Case Study quốc tế** | `[Tối đa 2 case đối với Loại A/B; Tối đa 3 case đối với Loại C; mỗi case ≤ 3 phút (Q1, 02/10/2026)]` | Bắt buộc có nguồn vault, không sa đà kể chuyện nước ngoài |
 
 ---
 
@@ -64,9 +67,9 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 
 ## 4. BẢNG NEO SỐ LIỆU BẤT BIẾN (DATA PASSPORT EMBEDDED)
 
-| Mã | Dữ Liệu Thực Chứng | Nguồn: `OBS-…` hoặc file `research_vault/` | Mã Footnote & Trích Dẫn Gốc (≤ 15 từ) | Kỳ, phạm vi, đơn vị | Mã M (`00_so_du_kien.md`) · nhãn (`verified_data` / `market_analysis` / `opinion_commentary`) · mã E (`00_bang_gia_thuyet.md`) | Ý Nghĩa Phân Tích |
+| Mã | Dữ Liệu Thực Chứng | Nguồn: file `research_vault/` hoặc URL + ngày | Mã Footnote & Trích Dẫn Gốc (≤ 15 từ) | Kỳ, phạm vi, đơn vị | Mã M (`00_so_du_kien.md`) · nhãn (`verified_data` / `market_analysis` / `opinion_commentary`) · mã E (`00_bang_gia_thuyet.md`) | Ý Nghĩa Phân Tích |
 |---|---|---|---|---|---|---|
-| `DATA-01` | `[Con số 1]` | `OBS-…` / `R01.md` | `[Footnote X]` - `"..."` | `[2025, hợp nhất, tỷ VND]` | `M01` · `verified_data` · `E03` | `[Ý nghĩa]` |
+| `DATA-01` | `[Con số 1]` | `R01.md` / URL | `[Footnote X]` - `"..."` | `[2025, hợp nhất, tỷ VND]` | `M01` · `verified_data` · `E03` | `[Ý nghĩa]` |
 | `DATA-02` | `[Con số 2]` | … | … | … | `M07` · `market_analysis` · `E07` | `[Ý nghĩa]` |
 
 ---

@@ -65,7 +65,7 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 | 0–3 giây: xác nhận cú bấm | `[câu 1–2: cùng chủ thể và điểm căng với tiêu đề/thumbnail trong 00_hien_chuong.md; không chào hỏi, không niên biểu]` | — |
 | Đối nghịch | `[điều người ta tưởng ≠ điều đang xảy ra]` | `M-xx` |
 | Điều được mất | `[theo loại A/B/C: ai chịu ảnh hưởng, vì sao bây giờ]` | `M-xx` |
-| Kết hook | `[câu hỏi trung tâm nguyên văn hiến chương + lộ trình ngắn, không lộ đáp án]` | — |
+| Kết hook | `[câu hỏi trung tâm nguyên văn hiến chương, không lộ đáp án; KHÔNG đọc mục lục hay lộ trình chặng]` | — |
 | Re-hook ~3:30 | `[một câu hứa giá trị chặng kế, đúng loại đề tài]` | — |
 - Phép thử: tắt tiếng `[đạt/không]` · đặt cạnh thumbnail `[đạt/không]` · tắt sau hook `[chưa đủ hiểu → đạt]`
 

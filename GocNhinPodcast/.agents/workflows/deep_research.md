@@ -1,5 +1,7 @@
 # /deep_research — Nghiên cứu sâu NotebookLM (Góc Nhìn Podcast)
 
+> 🧭 **Cổng vào: thẻ `.agents/phases/pha_02_nghien_cuu.md`**. Thẻ nói đọc gì và không cần đọc gì; workflow này là tham khảo theo mục.
+
 > Slash command độc lập cho Deep Research. Kích hoạt chuyên gia Deep Researcher để nghiên cứu đa chiều trên NotebookLM.
 
 ## Khi nào dùng
@@ -15,7 +17,7 @@
    - Nếu user chỉ định episode → dùng episode đó
    - Nếu không → hỏi user episode nào
 2. **ĐỌC file `episodes/[slug]/.notebook_url`** để lấy Master Notebook URL
-   - Một tập một notebook: engine `scripts/kg_registry/kb_research_run.py` tự tạo notebook khi chưa có và ghi `.notebook_id`; có rồi thì dùng lại.
+   - Một tập một notebook: engine `scripts/notebooklm_engine/research_run.py` tự tạo notebook khi chưa có và ghi `.notebook_id`; có rồi thì dùng lại.
    - Nếu file chưa tồn tại → HỎI user cung cấp URL notebook để lưu vào file. KHÔNG tự động tạo notebook mới.
 3. Hiển thị banner kích hoạt chuyên gia:
 
@@ -40,26 +42,28 @@ Tác nhân phải thiết lập và xuất bản tệp `episodes/[slug]/02_resea
 1. **Hiển thị Log Bắt Đầu Chạy:** In ra màn hình chat thông báo: *"Bắt đầu khởi chạy Pha 2: Data Mining & Verification cho tập [slug]"*.
 2. **Thiết Kế & Hiển Thị Bộ Prompts Nạp Nguồn Chuyên Sâu (Targeted Modular Ingestion Prompts):**
    - ⛔ **CẤM TUYỆT ĐỐI nhồi toàn bộ nội dung vào 1 query duy nhất** (làm phân tán và loãng nguồn của Deep Crawler).
-   - Đọc `episodes/[slug]/00_bang_gia_thuyet.md` mục 2b (ô chưa phân biệt) và `01b_knowledge_audit.md` (GAP). Mỗi prompt nạp nguồn nhắm một hoặc vài ô/GAP cụ thể và ghi mã `[H?↔H? | GAP-…]`. Số prompt theo nút N1 trong hiến chương (phủ cao: ít, nhắm thẳng; phủ thấp: thêm vòng gom nền). Không viết prompt cho thứ kho đã trả lời được. Prompt phản biện (khía cạnh 5) luôn bắt buộc.
+   - Đọc `episodes/[slug]/00_bang_gia_thuyet.md` mục 2b (ô chưa phân biệt) và cây câu hỏi của `01_global_vision_synthesis.md` (nhánh "chưa rõ" có ảnh hưởng cao). Mỗi prompt nạp nguồn nhắm một hoặc vài ô/câu hỏi cụ thể và ghi mã `[H?↔H?]` hoặc `[CH??]`. Số prompt theo nút N1 trong hiến chương (bản đồ rõ: ít, nhắm thẳng; bản đồ mờ: thêm vòng gom nền). Không viết prompt cho câu hỏi đã có nguồn gốc mở được trong vault hoặc `research_raw/`. Prompt phản biện (khía cạnh 5) luôn bắt buộc.
 3. **Thiết kế & Hiển thị Danh sách Câu hỏi Trích xuất tối ưu (Optimized Extraction Queries):**
-   - Thiết kế và hiển thị danh sách câu hỏi trích xuất, mỗi câu gắn mã ô ma trận hoặc GAP (`[H1↔H2 | GAP-L03]`), không gắn nhãn chương (Pha 2 chưa có chương). Số câu theo số ô chưa phân biệt.
-4. **Lưu trữ Kế hoạch:** Ghi lại toàn bộ nội dung trên vào tệp `episodes/[slug]/02_research_plan.md`. Chạy `KB_GRAPH=kb_v2 scripts/kbaudit --check-plan [slug]` phải ĐẠT trước khi nạp nguồn.
+   - Thiết kế và hiển thị danh sách câu hỏi trích xuất, mỗi câu gắn mã ô ma trận hoặc GAP (`[H?↔H? | GAP-L03]`), không gắn nhãn chương (Pha 2 chưa có chương). Số câu theo số ô chưa phân biệt.
+   - Thêm câu hỏi trích xuất nhắm vào vật chứng cho những câu hỏi lớn của Pha 1, không chỉ nhắm vào con số.
+4. **Lưu trữ Kế hoạch:** Ghi lại toàn bộ nội dung trên vào tệp `episodes/[slug]/02_research_plan.md`. Chạy `scripts/kiem_pha.py [slug] --pha 2` phải ĐẠT (mọi prompt có mã ô hoặc mã câu hỏi) trước khi nạp nguồn.
 
 *🛑 CHỐNG CHẠY HỜI HỢT:* Chỉ khi kế hoạch nghiên cứu và trích xuất dữ liệu trên đã được hiển thị đầy đủ trên màn hình chat và lưu lại trên đĩa, tác nhân mới được phép thực thi các bước gọi công cụ tiếp theo.
 
 ### Bước 4: Thực thi Tương tác NotebookLM (Nạp nguồn & Trích xuất)
-1. **NẠP NGUỒN VÀ TRÍCH XUẤT (một engine):** Nạp nguồn và trích xuất của Pha 2 chạy qua **engine Direct RPC dùng chung** `scripts/kg_registry/kb_research_run.py` (gọi `NotebookLMClient` trực tiếp). Cách dùng nằm ở docstring đầu file: viết một file kế hoạch `01_management/kg_research/kb_plans/<slug>.json` (nguồn = prompt nạp, mỗi nguồn ghi mã ô/GAP; trích xuất = câu hỏi, mỗi câu một file vault), rồi chạy engine. Vì sao không gọi CLI từng lệnh: engine dùng lại `.notebook_id`, ghi `run_state.json` nên bị ngắt thì chạy lại là làm tiếp, chờ nghiên cứu sâu không bị cắt lượt, và vault ra đúng khuôn (bảng số trích dẫn) để nạp kho sau này. CLI `notebooklm` chỉ dùng cho kiểm tra lẻ: `auth check`, `list`, `source list`. Chạy cần `BypassSandbox: true`.
+1. **NẠP NGUỒN VÀ TRÍCH XUẤT (một engine):** Nạp nguồn và trích xuất của Pha 2 chạy qua **engine Direct RPC dùng chung** `scripts/notebooklm_engine/research_run.py` (gọi `NotebookLMClient` trực tiếp). Cách dùng nằm ở docstring đầu file: viết một file kế hoạch `01_management/research_plans/<slug>.json` (nguồn = prompt nạp, mỗi nguồn ghi mã ô/GAP; trích xuất = câu hỏi, mỗi câu một file vault), rồi chạy engine. Vì sao không gọi CLI từng lệnh: engine dùng lại `.notebook_id`, ghi `run_state.json` nên bị ngắt thì chạy lại là làm tiếp, chờ nghiên cứu sâu không bị cắt lượt, và vault ra đúng khuôn (bảng số trích dẫn) để nạp kho sau này. CLI `notebooklm` chỉ dùng cho kiểm tra lẻ: `auth check`, `list`, `source list`. Chạy cần `BypassSandbox: true`.
 2. **ĐỐI CHIẾU:** tự mở lại nguồn gốc các câu then chốt trong vault (URL mở được, câu nguyên văn khớp, số đúng kỳ và phạm vi).
-3. **CẬP NHẬT MA TRẬN VÀ SỔ DỮ KIỆN (phần E của form tư duy):** mỗi dữ kiện mới từ vault thêm một hàng `M-xx` vào `00_so_du_kien.md` (nhãn `verified_data` chỉ khi có câu nguyên văn + URL + ngày; không thì `market_analysis`). mỗi dữ kiện mới từ vault thành một hàng E trong `00_bang_gia_thuyet.md` (nguồn `vault/R0X` + câu nguyên văn + kỳ, phạm vi), chấm `+ / − / 0`; giả thuyết có bằng chứng ngược thì thu hẹp hoặc loại, ghi dòng lịch sử. Không được xóa giả thuyết mà không có hàng E ngược.
-4. **SUPPLEMENT & SYNTHESIZE:** Tạo tệp `02_research_map.md` (Bản đồ tọa độ) và `02_research_synthesis.md` (Bản tóm tắt cơ chế vĩ mô). Synthesis kết bằng trạng thái ma trận: giả thuyết nào còn đứng, ô nào vẫn chưa phân biệt, bằng chứng BÁC nào còn đứng.
+3. **CẬP NHẬT MA TRẬN, SỔ DỮ KIỆN VÀ KHO VẬT CHỨNG (phần E của form tư duy):** mỗi dữ kiện mới từ vault thêm một hàng `M-xx` vào `00_so_du_kien.md` (nhãn `verified_data` chỉ khi có câu nguyên văn + URL + ngày; không thì `market_analysis`). Mỗi dữ kiện mới từ vault thành một hàng E trong `00_bang_gia_thuyet.md` (nguồn `vault/R0X` + câu nguyên văn + kỳ, phạm vi), chấm `+ / − / 0`; giả thuyết có bằng chứng ngược thì thu hẹp hoặc loại, ghi dòng lịch sử. Không được xóa giả thuyết mà không có hàng E ngược. Đồng thời, thu thập các vật chứng thực tế vào Kho vật chứng (`VC-01` đến `VC-XX`) trong `02_research_map.md` và `00_so_du_kien.md`: một quyết định, văn bản, công trình, khoảnh khắc có ngày giờ, chủ thể đứng sau và nguồn mở được; cấm cảnh dựng lại hay nhân vật bịa. Không bắt buộc với tập đang chạy trước ngày 06/10/2026.
+4. **SUPPLEMENT & SYNTHESIZE:** Tạo tệp `02_research_map.md` (Bản đồ tọa độ, gồm Thesis Data, Contested Data Ledger, Macro Mechanisms và Kho vật chứng `VC-xx`) và `02_research_synthesis.md` (Bản tóm tắt cơ chế vĩ mô). Synthesis kết bằng trạng thái ma trận: giả thuyết nào còn đứng, ô nào vẫn chưa phân biệt, bằng chứng BÁC nào còn đứng.
 
 ### Bước 5: Báo cáo kết quả
 Sau khi hoàn tất, hiển thị tóm tắt:
 - Số sources đã nạp vào notebook
 - Số file đã tạo trong research_vault/
 - Bảng data points chính (thesis + counter-thesis)
+- Kho vật chứng (VC-xx) đã thu thập (vật chứng, ngày giờ, chủ thể, nguồn mở được)
 - Data gaps còn thiếu (nếu có)
-- Trạng thái ma trận: số giả thuyết còn đứng / đã loại; ô chưa phân biệt còn lại; kết quả `kbaudit --check-evidence` sau Pha 2
+- Trạng thái ma trận: số giả thuyết còn đứng / đã loại; ô chưa phân biệt còn lại; dữ kiện trong vault đỡ hoặc bác luận điểm mà research map chưa dùng
 
 ## Human Approval Gate
 Sau khi hoàn tất Research Map → DỪNG và chờ user duyệt trước khi chuyển sang pha tiếp theo.

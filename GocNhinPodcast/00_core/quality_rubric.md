@@ -1,7 +1,7 @@
 # quality_rubric.md — Góc Nhìn Podcast (Master Quality Rubric — Chuẩn Quốc Tế)
 
 > 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
-> File này là **bộ tiêu chí tham chiếu** cho `compliance_council`: thang điểm chi tiết và 10 điều kiện Hard-Fail (§4) được áp TẠI `compliance_council`, không chấm PASS/FAIL độc lập.
+> File này là **bộ tiêu chí tham chiếu** cho `compliance_council`: thang điểm chi tiết và 11 điều kiện Hard-Fail (§4) được áp TẠI `compliance_council`, không chấm PASS/FAIL độc lập.
 
 ## 1. Mục đích của file này
 File này dùng để chấm chất lượng toàn diện của một video script trước khi đưa sang khâu sản xuất âm thanh (Voiceover / TTS) và thiết kế hình ảnh (Visual / I2V).
@@ -28,7 +28,9 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 
 ---
 
-## 3. Bảng chấm điểm 10 tiêu chí (Thang 110 điểm)
+## 3. Bảng chấm điểm 11 tiêu chí (Thang 110 điểm)
+
+> Trọng số 06/10/2026 (user duyệt): thêm trụ cột **K. Narrative Craft (20 điểm)**, lấy từ D (12→8), E (10→6), F (8→5), I (15→8), J (5→3). Tổng vẫn 110. (Kế hoạch ghi I = 12 nên thiếu 3 điểm; user chốt lấy thêm từ F vì F trùng với K III Gieo và gặt, VIII Nhịp.)
 
 ### A. Hook và mở đầu — 12 điểm
 *(Tham chiếu: The Board Game Intro Rule & The Curiosity Gap — George Blackman)*
@@ -68,7 +70,7 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 *(Tham chiếu: PBS Frontline Journalistic Audit & The Tri-Adversarial Red Team Mandate)*
 **Câu hỏi kiểm định:**
 - **The "So What?" Test (PBS Frontline):** Từng luận điểm, cơ chế hoặc con số đưa vào có trả lời được câu hỏi: *"Khán giả nghe xong điều này thì sao? Nó làm thay đổi nhận thức của họ về bản chất thể chế/kinh tế như thế nào?"* Có tránh được việc biến kịch bản thành bản tổng hợp tin tức (News Summary)?
-- **Hội Đồng Phản Biện Đa Diện:** Kịch bản có chịu thử lửa của các lăng kính đã chọn trong hiến chương tập (tối thiểu 2) không; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10).
+- **Hội Đồng Phản Biện Đa Diện:** Kịch bản có chịu thử lửa của các lăng kính đã chọn trong hiến chương tập (tối thiểu 2) không; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10).
 - **Steelmanning & Tam Đoạn Luận 3 Nhịp:** Phản đề đối lập có được xây dựng ở phiên bản mạnh nhất không? Có áp dụng cấu trúc 3 nhịp: (1) Đòn công kích Phản đề Thép $\rightarrow$ (2) Thừa nhận động lực sống còn chính đáng $\rightarrow$ (3) Hợp đề bằng quy luật khách quan và công khai thừa nhận sự đánh đổi cấu trúc (`admitted_trade_offs`)? Tuyệt đối CẤM ngụy biện bù nhìn rơm (Strawman).
 - **Anti-Moralizing (Chống phán xét đạo đức):** Hành vi của các chủ thể được giải thích bằng phân tích động lực (Incentive Analysis) và quy luật chi phí khách quan thay vì phán xét đạo đức tốt/xấu.
 
@@ -80,7 +82,7 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 
 ---
 
-### D. Originality & Authorial Voice (Giọng điệu độc bản) — 12 điểm
+### D. Originality & Authorial Voice (Giọng điệu độc bản) — 8 điểm
 *(Tham chiếu: Voice DNA & Anti-AI-Isms Protocol)*
 **Câu hỏi kiểm định:**
 - Kịch bản có góc nhìn độc bản (unique perspective) mang lại giá trị gia tăng vượt trội so với tài liệu gốc không?
@@ -90,41 +92,41 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 - Ngôn ngữ có sự sống thực tế hay nghe như đang "compile code" từ dàn ý/brief một cách máy móc?
 
 **Thang chấm:**
-- **11–12:** Dấu vân tay tác giả rất rõ nét, giọng văn điềm đạm, trí tuệ, giàu chất chiêm nghiệm, không một chút gợn AI.
-- **9–10:** Có giọng điệu riêng nhưng đôi đoạn còn hơi nặng tính học thuật hoặc an toàn.
-- **6–8:** Sạch sẽ, đúng quy trình nhưng hơi generic, thiếu tính cách riêng biệt.
-- **Dưới 6:** Giọng văn công nghiệp, rập khuôn, dịch thô, hoặc sặc mùi AI template.
+- **7–8:** Dấu vân tay tác giả rất rõ nét, giọng văn điềm đạm, trí tuệ, giàu chất chiêm nghiệm, không một chút gợn AI.
+- **5–6:** Có giọng điệu riêng nhưng đôi đoạn còn hơi nặng tính học thuật hoặc an toàn.
+- **3–4:** Sạch sẽ, đúng quy trình nhưng hơi generic, thiếu tính cách riêng biệt.
+- **Dưới 3:** Giọng văn công nghiệp, rập khuôn, dịch thô, hoặc sặc mùi AI template.
 
 ---
 
-### E. Dynamic 3-Act Structure & 120s Landscape Orientation — 10 điểm
+### E. Dynamic 3-Act Structure & 120s Landscape Orientation — 6 điểm
 *(Tham chiếu: The 120-Second Orientation Mandate & Hegelian Arc)*
 **Câu hỏi kiểm định:**
-- **La bàn nhận thức 120s:** Trong vòng 90–120 giây đầu tiên, khán giả có được trao trọn vẹn "tấm bản đồ cỗ máy" (Mental Scaffolding) với 3–4 mắt xích then chốt không? Người nghe có biết mình đang ở đâu và sắp đi qua những trạm dừng nào không?
+- **La bàn nhận thức 120s:** Trong vòng 90–120 giây đầu tiên, khán giả có được trao trọn vẹn "tấm bản đồ cỗ máy" (Mental Scaffolding) với các mắt xích then chốt định hình cỗ máy không? Người nghe có biết mình đang ở đâu và sắp đi qua những trạm dừng nào không?
 - **Cấu trúc tự sự 3 Màn động:** Màn 1 (Khởi động & Mở loop) $\rightarrow$ Màn 2 (Dồn nén & Đỉnh cao trào bản chất tại 50–70% thời lượng với `[THE DEVIL'S CHAPTER]`) $\rightarrow$ Màn 3 (Tái thiết & Grand Payoff tại chương kết).
 - **Động cơ nhân quả "Therefore / But":** Từng cảnh và từng chương có liên kết với nhau bằng quan hệ nhân quả (Vì vậy / Nhưng) không? Có triệt tiêu hoàn toàn lối kể chuyện liệt kê danh mục rời rạc ("And Then...") không?
 - Nửa sau kịch bản có giữ vững được năng lượng và gia tốc thông tin không?
 
 **Thang chấm:**
-- **9–10:** Khán giả nắm chắc bản đồ toàn cảnh ngay từ đầu, cấu trúc 3 Màn chuẩn mực, Devil's Chapter bùng nổ, nhân quả Therefore/But chặt chẽ.
-- **7–8:** Cấu trúc tốt nhưng tấm bản đồ 120s chưa thật sự trực quan hoặc cao trào Màn 2 bị nén hơi nhẹ.
-- **5–6:** Thiếu la bàn đầu video, người nghe bị ném vào ma trận số liệu vụn vặt, liên kết giữa các chương hơi lỏng.
-- **Dưới 5:** Vụn vặt, tư duy ngăn tủ ("And Then"), người xem như người mù trong mê cung số liệu.
+- **5–6:** Khán giả nắm chắc bản đồ toàn cảnh ngay từ đầu, cấu trúc 3 Màn chuẩn mực, Devil's Chapter bùng nổ, nhân quả Therefore/But chặt chẽ.
+- **4:** Cấu trúc tốt nhưng tấm bản đồ 120s chưa thật sự trực quan hoặc cao trào Màn 2 bị nén hơi nhẹ.
+- **3:** Thiếu la bàn đầu video, người nghe bị ném vào ma trận số liệu vụn vặt, liên kết giữa các chương hơi lỏng.
+- **Dưới 3:** Vụn vặt, tư duy ngăn tủ ("And Then"), người xem như người mù trong mê cung số liệu.
 
 ---
 
-### F. Continuity, Chống Lặp & The "Payoff Void" Test — 8 điểm
+### F. Continuity, Chống Lặp & The "Payoff Void" Test — 5 điểm
 *(Tham chiếu: The Payoff Void Audit — George Blackman & NST Seeding-Harvesting)*
 **Câu hỏi kiểm định:**
 - **The "Payoff Void" Test (George Blackman):** Sau khi giải tỏa một bí mật hoặc trả lời một câu hỏi lớn (Payoff), kịch bản có bị rơi vào "hố đen thỏa mãn" khiến khán giả bấm thoát video không? Kịch bản có luôn mở ra một câu hỏi nhức nhối mới (New Tension) TRƯỚC KHI đóng hoàn toàn câu hỏi cũ?
-- **Quy tắc đóng chương kiệt tác:** Cuối mỗi chương có để lại một "Vết thương mở" (Unsettling Question) hoặc khoảng lặng chiêm nghiệm (Cold Epiphany) để thúc đẩy khán giả nghe tiếp không?
+- **Quy tắc đóng chương kiệt tác:** Cuối mỗi chương có để lại một "Vết thương mở" (Unsettling Question) hoặc khoảng lặng chiêm nghiệm (Epiphany & Silence Beat) để thúc đẩy khán giả nghe tiếp không?
 - **Quy tắc gặt hạt (Harvesting):** Đầu chương sau có phản hồi trực diện vào hạt giống của chương trước không? Có tránh được việc recap dông dài hay lặp lại intro không?
 - Có lặp lại cùng một insight, ví dụ, phép ẩn dụ hoặc cụm từ khóa gây nhàm chán không?
 
 **Thang chấm:**
-- **7–8:** Liền mạch như một dòng chảy nhận thức liên tục, kiểm soát hoàn hảo hố đen thỏa mãn, mở - đóng chương điêu luyện.
-- **5–6:** Dòng chảy khá tốt nhưng có 1 điểm hơi chững lại sau khi hé lộ câu trả lời lớn.
-- **3–4:** Có đoạn bị lặp insight hoặc cuối chương bị đóng sập cửa khiến người nghe thỏa mãn sớm.
+- **5:** Liền mạch như một dòng chảy nhận thức liên tục, kiểm soát hoàn hảo hố đen thỏa mãn, mở - đóng chương điêu luyện.
+- **4:** Dòng chảy khá tốt nhưng có 1 điểm hơi chững lại sau khi hé lộ câu trả lời lớn.
+- **3:** Có đoạn bị lặp insight hoặc cuối chương bị đóng sập cửa khiến người nghe thỏa mãn sớm.
 - **Dưới 3:** Rời rạc, nhai lại số liệu cũ, các chương như các video độc lập bị ghép nối cơ học.
 
 ---
@@ -149,7 +151,7 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 *(Tham chiếu: The Term-Breath Protocol & GPU TTS Constraints)*
 **Câu hỏi kiểm định:**
 - Câu cú viết cho tai nghe (oralized) có tự nhiên, giàu nhạc điệu, ngắt nghỉ theo nhịp thở của người dẫn chuyện không?
-- **Giới hạn kỹ thuật cứng:** **100% tất cả các câu thoại trong kịch bản có dưới 150 ký tự (khoảng 20–25 từ)** để bảo đảm tương thích hoàn hảo với GPU RunPod TTS local không?
+- **Giới hạn kỹ thuật cứng:** **100% tất cả các câu thoại trong kịch bản có dưới 150 ký tự (khoảng 30–35 tiếng)** để bảo đảm tương thích hoàn hảo với GPU RunPod TTS local không?
 - **Term-Breath Protocol:** Khi ngắt câu dưới 150 ký tự, có giữ nguyên 100% hệ thuật ngữ học thuật/chính sách đắt giá bằng cách ngắt cơ học bằng dấu chấm (.) hoặc dấu chấm phẩy (;) không? Tuyệt đối CẤM hạ cấp từ vựng chuyên ngành.
 - Có loại bỏ hoàn toàn dấu gạch ngang dài (`—`), các từ viết tắt khó đọc, và phiên âm tách rời từng âm tiết các đơn vị đo lường (`ki lô mét`, `ki lô gam`, `héc ta`...) không?
 - Các đoạn văn có được nhóm gọn gàng từ 2–4 câu (không xuống dòng sau mỗi câu đơn độc) không?
@@ -162,28 +164,24 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 
 ---
 
-### I. Retention & Movement (Độ giữ chân & Gia tốc thông tin) — 15 điểm
+### I. Retention & Movement (Độ giữ chân & Gia tốc thông tin) — 8 điểm
 *(Tham chiếu: Information Velocity & Dynamic Pacing)*
 **Câu hỏi kiểm định:**
 - Khán giả có liên tục cảm nhận được gia tốc thông tin (Information Velocity) và sự chuyển động của nhận thức không? Có chỗ nào đều đều vì toàn giải thích lý thuyết chay không?
 - **Relevance Anchor / Personal Stakes:** Có xuất hiện đúng hạn trong 3 phút đầu tiên theo đúng phân loại đề tài không?
-- **Nhịp Re-hook & Data Shock:** Có được phân bổ linh hoạt theo ngân sách thời lượng 4 cấp độ không?
-  * Cấp 1 (8–15m): 2–3 nhịp Re-hook.
-  * Cấp 2 (16–25m): 4–5 nhịp Re-hook (đặc biệt tại mốc ~3:30 và ~7:00).
-  * Cấp 3 (26–35m): 6–8 nhịp Re-hook.
-  * Cấp 4 (36–45+m): 9–12 nhịp Re-hook.
-- Có tránh được việc phân tích lý thuyết/framework liên tục quá 3 phút mà không có dữ liệu thực chứng hoặc phép loại suy đời thường hỗ trợ không?
-- Số lượng case study quốc tế có được kiểm soát chặt chẽ (tối đa 2 đối với Loại A/B; tối đa 3 đối với Loại C) để không làm loãng trục truyện chính?
+- **Nhịp Re-hook & Data Shock (Tham chiếu nhịp, không phải chỉ tiêu):** Kịch bản có quay lại câu hỏi kịch tính trung tâm hoặc bổ sung dữ kiện chấn động quanh các lần đổi màn không? Chấm bằng việc đọc: người nghe có bao giờ tự hỏi "sao còn đoạn này" không? (chỉ tiêu VIII Nhịp của narrative craft).
+- Có tránh được việc phân tích lý thuyết hoặc cơ chế kéo dài mà không có dữ liệu thực tế, vật chứng, hoặc câu hỏi logic liên kết không? (người nghe có bị rơi vào vùng chết nhận thức không?).
+- Số lượng case study quốc tế có tuân thủ trần Q1 và bám sát trục truyện chính không (Loại A/B tối đa 2 case, Loại C tối đa 3 case, mỗi case ≤ 3 phút, theo quyết định nội dung của user Q1 ngày 02/10/2026 và `00_core/content_principles.md` §5; bắt buộc có nguồn trong vault và phục vụ đúng luận điểm, không chấm bằng khung 10 chỉ tiêu chất chuyện)?
 
 **Thang chấm:**
-- **13–15:** Giữ lực xuất sắc từ đầu đến cuối, gia tốc nhận thức mạnh mẽ, Re-hook đúng nhịp, không có vùng trũng retention.
-- **10–12:** Giữ chân tốt nhưng có 1 đoạn giữa hơi bị chậm nhịp do giải thích cơ chế hơi dài.
-- **7–9:** Có đoạn đều đều kéo dài > 3 phút hoặc điểm kéo tò mò quá thưa thớt, nguy cơ rớt người xem ở phút thứ 5.
-- **Dưới 7:** Nhịp điệu buồn ngủ, xả kho bài giảng, khán giả sẽ bấm thoát video chỉ sau vài phút đầu.
+- **7–8:** Giữ lực xuất sắc từ đầu đến cuối, gia tốc nhận thức mạnh mẽ, Re-hook đúng nhịp, không có vùng trũng retention.
+- **5–6:** Giữ chân tốt nhưng có 1 đoạn giữa hơi bị chậm nhịp do giải thích cơ chế hơi dài.
+- **3–4:** Có đoạn đều đều kéo dài do phân tích lý thuyết chay hoặc điểm kéo tò mò quá thưa thớt, nguy cơ rớt người xem do rơi nhịp.
+- **Dưới 3:** Nhịp điệu buồn ngủ, xả kho bài giảng, khán giả sẽ bấm thoát video chỉ sau vài phút đầu.
 
 ---
 
-### J. Visualizability & The Vox 3 Analytical Pillars — 5 điểm
+### J. Visualizability & The Vox 3 Analytical Pillars — 3 điểm
 *(Tham chiếu: The 3 Analytical Pillars of Nonfiction Visualization — Vox)*
 **Câu hỏi kiểm định:**
 - **The Vox 3 Pillars Test:** Kịch bản phân cảnh có cân bằng đủ 3 trụ cột thực chứng:
@@ -194,25 +192,38 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 - Đạo diễn thị giác và editor có dễ dàng hình dung và thiết kế các thước phim điện ảnh 2D sang trọng theo bảng màu `#1E293B / #F5F0E6` không?
 
 **Thang chấm:**
-- **5:** Hình ảnh điện ảnh rất rõ nét, cân bằng hoàn hảo cả 3 trụ cột Địa lý - Số liệu - Thời gian, gợi cảm hứng dựng phim mạnh mẽ.
-- **4:** Đủ tốt để dựng, không gian thực tế rõ ràng.
-- **3:** Hơi nhiều đoạn thuần chữ nói, thiếu chất liệu địa lý hoặc niên biểu trực quan.
-- **Dưới 3:** Quá trừu tượng, sặc mùi biểu tượng rác (bánh răng, phễu), hoặc khó hình dung phân cảnh cụ thể.
+- **3:** Hình ảnh điện ảnh rất rõ nét, cân bằng hoàn hảo cả 3 trụ cột Địa lý - Số liệu - Thời gian, gợi cảm hứng dựng phim mạnh mẽ.
+- **2:** Đủ tốt để dựng, không gian thực tế rõ ràng.
+- **1:** Hơi nhiều đoạn thuần chữ nói, thiếu chất liệu địa lý hoặc niên biểu trực quan.
+- **0:** Quá trừu tượng, sặc mùi biểu tượng rác (bánh răng, phễu), hoặc khó hình dung phân cảnh cụ thể.
 
 ---
 
-## 4. Hard-Fail Conditions (10 Điều kiện loại ngay lập tức)
+### K. Narrative Craft (Nghệ thuật kể chuyện) — 20 điểm
+*(Chuẩn chấm: `00_core/narrative_craft_rubric.md`, thêm 06/10/2026)*
+**Câu hỏi kiểm định:** 10 chỉ tiêu ở hai cấp. Cấp bài: I Câu hỏi kịch tính trung tâm, II Mức cược, III Gieo và gặt, IV-b Cao trào, X Kết và nghĩa, VII Giọng (cấp bài). Cấp chương: IV-a Cú lật, V Vật chứng so với tóm tắt, VI Chủ thể và xung đột, VII Giọng, VIII Nhịp, IX Câu cho tai, cột "đẩy câu hỏi đi bao xa".
+
+**Cách chấm:** Phiếu A (cấp bài) và Phiếu B (cấp chương) của `narrative_craft_rubric.md`, theo quy trình 5 bước (đọc trọn không ghi chép → cấp bài → cấp chương → đối chiếu hai cấp → lệnh sửa). Mọi điểm 4–5 và 1–2 phải trích câu. Không chỉ tiêu nào chấm bằng đếm. Điểm K lấy từ phiếu chấm mù chính thức của Critical Auditor (hoặc điểm thống nhất sau đối chiếu), tuyệt đối không lấy từ bản tự soi của người viết.
+
+**Quy đổi:** K = (trung bình cấp bài + trung bình cấp chương) ÷ 2 × 4.
+
+**Điều kiện cứng:** K dưới mốc ĐẠT của `narrative_craft_rubric.md` §6 (có chỉ tiêu dưới 3; trung bình một cấp dưới 4,0; hoặc I, IV, V dưới 4) thì tập KHÔNG qua Pha 10, dù tổng điểm cao.
+
+---
+
+## 4. Hard-Fail Conditions (11 Điều kiện loại ngay lập tức)
 Một kịch bản sẽ bị đánh **FAIL NGAY LẬP TỨC** và không được phép đưa sang khâu sản xuất nếu vi phạm bất kỳ điều nào sau đây:
 1. **Có bất kỳ câu voiceover nào dài quá 150 ký tự** (phá vỡ tính tương thích của hệ thống TTS local).
 2. **Có dấu gạch ngang dài (`—`) trong phần kịch bản voiceover.**
-3. **Thiếu tấm bản đồ nhận thức trong 120 giây đầu (Cognitive Map Missing):** Không có đoạn văn Zoom-Out trao la bàn cỗ máy và 3–4 mắt xích then chốt, khiến người xem bị ném vào ma trận số liệu vụn vặt như người mù trong mê cung.
+3. **Thiếu tấm bản đồ nhận thức trong 120 giây đầu (Cognitive Map Missing):** Không có đoạn văn Zoom-Out trao la bàn cỗ máy và các mắt xích then chốt, khiến người xem bị ném vào ma trận số liệu vụn vặt như người mù trong mê cung.
 4. **Không có kết nối liên hệ trong 3 phút đầu tiên** (Personal Stakes đối với Loại A; Relevance Anchor / Phân tích vĩ mô sắc sảo đối với Loại B & C).
-5. **Có đoạn phân tích lý thuyết hay framework dài liên tiếp quá 3 phút mà không có dữ liệu thực tế, phép loại suy, hoặc câu hỏi logic liên kết.**
+5. **Có đoạn phân tích lý thuyết hay cơ chế kéo dài liên tiếp mà không có dữ liệu thực tế, vật chứng, phép loại suy, hoặc câu hỏi logic liên kết** (khiến người nghe rơi vào vùng chết nhận thức, vi phạm chỉ tiêu VIII Nhịp).
 6. **Ngụy biện bù nhìn rơm (Strawman):** Né tránh phản đề thép của phe đối lập, dìm hàng đối thủ phi logic, hoặc không công khai thừa nhận sự đánh đổi cấu trúc (`admitted_trade_offs`).
 7. **Thiếu `[THE DEVIL'S CHAPTER]` tại Cao trào Màn 2:** Không có chương độc lập dồn nén toàn bộ phản đề đối kháng mạnh nhất để thử lửa Chính đề.
 8. **Bịa số liệu hoặc trích dẫn sai nguồn:** Sử dụng số liệu vĩ mô, báo cáo tài chính hoặc văn bản luật mà không có căn cứ đối chiếu trong `research_vault/`.
 9. **Sử dụng giọng văn giang hồ mạng, khẩu ngữ suồng sã hoặc giật gân rẻ tiền** (như "đè bẹp", "dọn sạch đối thủ", "mồ chôn", "ăn tươi nuốt sống") làm mất đi tầm vóc điềm đạm, uy tín của kênh.
 10. **Để sót các đơn vị đo lường viết dính liền hoặc có dấu gạch nối** (`kilômét`, `km`, `ki-lô-mét`, `kilogam`...) thay vì phiên âm tách rời từng âm tiết tiếng Việt (`ki lô mét`, `ki lô gam`...) khiến hệ thống TTS phát âm sai.
+11. **Gãy chất chuyện (K, `00_core/narrative_craft_rubric.md` §6):** cấp bài có I (Câu hỏi kịch tính trung tâm) hoặc X (Kết và nghĩa) dưới 3; hoặc cấp chương có chương nào mà IV-a (Cú lật) và V (Vật chứng so với tóm tắt) cùng ≤ 2.
 
 ---
 
@@ -229,19 +240,23 @@ Ngày thẩm định: YYYY-MM-DD
 A. Hook và Mở Đầu (Board Game Intro & Curiosity Gap):       ___ / 12 đ
 B. Audience Fit (Trúng Nỗi Đau & Relevance Anchor):         ___ / 10 đ
 C. Expert Depth & Tri-Adversarial Rigor (The "So What?"):   ___ / 15 đ
-D. Originality & Authorial Voice (Giọng Điệu Độc Bản):      ___ / 12 đ
-E. Dynamic 3-Act Structure & La Bàn 120s (Therefore/But):   ___ / 10 đ
-F. Continuity, Chống Lặp & The Payoff Void Test:            ___ / 08 đ
+D. Originality & Authorial Voice (Giọng Điệu Độc Bản):      ___ / 08 đ
+E. Dynamic 3-Act Structure & La Bàn 120s (Therefore/But):   ___ / 06 đ
+F. Continuity, Chống Lặp & The Payoff Void Test:            ___ / 05 đ
 G. Editorial, Legal & Brand Safety:                         ___ / 13 đ
 H. Voiceover Readiness & Term-Breath Protocol:              ___ / 10 đ
-I. Retention & Movement (Information Velocity & Re-hook):   ___ / 15 đ
-J. Visualizability & Vox 3 Analytical Pillars:              ___ / 05 đ
+I. Retention & Movement (Information Velocity & Re-hook):   ___ / 08 đ
+J. Visualizability & Vox 3 Analytical Pillars:              ___ / 03 đ
+K. Narrative Craft (narrative_craft_rubric.md):             ___ / 20 đ
+   K cấp bài (Phiếu A, trung bình 1–5):                     ___ / 5   [ĐẠT / KHÔNG]
+   K cấp chương (Phiếu B, trung bình 1–5):                  ___ / 5   [ĐẠT / KHÔNG]
 --------------------------------------------------------------------------------
 TỔNG ĐIỂM (TOTAL SCORE):                                    ___ / 110 đ
 
 XẾP LOẠI: [KIỆT TÁC (95-110) | ĐẠT CHUẨN (88-94) | SỬA LỖI (80-87) | LOẠI (<80)]
+(K không đạt mốc thì KHÔNG QUA, bất kể xếp loại.)
 
-SÁT HẠCH HARD-FAIL (10 ĐIỀU KIỆN LOẠI NGAY):
+SÁT HẠCH HARD-FAIL (11 ĐIỀU KIỆN LOẠI NGAY):
 [ ] Câu thoại 100% < 150 ký tự?
 [ ] Không có dấu em-dash (—)?
 [ ] Có La bàn nhận thức 120s đầu?
@@ -252,6 +267,7 @@ SÁT HẠCH HARD-FAIL (10 ĐIỀU KIỆN LOẠI NGAY):
 [ ] 100% số liệu đối chiếu trỏ về Vault?
 [ ] Giọng văn điềm đạm, uy tín, không suồng sã?
 [ ] Phiên âm đơn vị đo lường chuẩn xác cho TTS?
+[ ] Cấp bài I và X ≥ 3; không chương nào có IV-a và V cùng ≤ 2?
 
 KẾT LUẬN CỔNG HARD-FAIL: [PASS / FAIL]
 
@@ -300,23 +316,25 @@ Một kịch bản chỉ được đóng dấu phê duyệt chuyển giao sang T
 - **Điểm sàn các trụ cột then chốt:**
   * Editorial & Legal Safety: $\ge 12 / 13$ điểm.
   * Expert Depth & Tri-Adversarial Rigor: $\ge 12 / 15$ điểm.
-  * Retention & Movement: $\ge 12 / 15$ điểm.
+  * Retention & Movement: $\ge 6{,}5 / 8$ điểm (giữ tỷ lệ 80% của sàn cũ 12/15 sau khi đổi trọng số 06/10/2026).
   * Hook & Mở đầu: $\ge 10 / 12$ điểm.
   * Voiceover Readiness: $\ge 8 / 10$ điểm.
-- **Không vi phạm bất kỳ điều nào trong 10 điều kiện Hard-Fail.**
+  * Narrative Craft (K): đạt mốc ĐẠT của `00_core/narrative_craft_rubric.md` §6 ở cả cấp bài và cấp chương.
+- **Không vi phạm bất kỳ điều nào trong 11 điều kiện Hard-Fail.**
 
 ---
 
 ## 9. Retention Checkpoint (Bắt buộc trước khi duyệt Outline)
 Danh mục soát dàn ý dưới đây dùng khi chạy Gate 1 của `00_core/retention_gate_checklist.md` (cổng chính thức của dàn ý, ngưỡng theo file đó):
+- [ ] Đã chạy Phiếu A cấp bài của `00_core/narrative_craft_rubric.md` trên `07_outline.md` (do người khác ngoài người dựng dàn ý chấm, đạt mốc ĐẠT trước khi xin user duyệt; người dựng dàn ý tự soi thêm).
 - [ ] Khung mở đầu có La bàn nhận thức 120s (Mental Scaffolding) phác họa cỗ máy và các mắt xích chính?
 - [ ] Relevance Anchor / Personal Stakes xuất hiện trong 3 phút đầu tiên (phù hợp với loại đề tài A, B, hay C)?
 - [ ] Cấu trúc 3 Màn động rõ ràng, có `[THE DEVIL'S CHAPTER]` tại Cao trào Màn 2 (50–70% thời lượng)?
 - [ ] Từng bước chuyển chương tuân thủ quan hệ nhân quả Therefore / But (cấm And Then)?
 - [ ] Đã có kế hoạch kiểm soát hố đen thỏa mãn (The Payoff Void) ở cuối mỗi chương?
-- [ ] Nhịp Re-hook và Data Shock phân bổ đúng theo cấp độ ngân sách thời lượng?
-- [ ] Không có phân đoạn nào dự kiến nói lý thuyết liên tục quá 3 phút?
-- [ ] Case study quốc tế có nguồn trong vault và phục vụ đúng luận điểm (số lượng linh hoạt, `00_core/content_principles.md` §5)?
+- [ ] Nhịp Re-hook và Data Shock được bố trí tự nhiên quanh các lần đổi màn và giữ được gia tốc nhận thức?
+- [ ] Không có phân đoạn nào nói lý thuyết hoặc cơ chế kéo dài làm rơi nhịp kể?
+- [ ] Case study quốc tế có nguồn trong vault, phục vụ đúng luận điểm và đúng trần Q1 (Loại A/B tối đa 2 case, Loại C tối đa 3 case, mỗi case ≤ 3 phút; quyết định nội dung của user Q1 ngày 02/10/2026, không phải chỉ tiêu chất chuyện)?
 - [ ] Chương kết hướng về Grand Payoff theo đúng chế độ kết đã chọn (`00_core/stance_and_judgment.md` §1: A chốt lập trường kèm điều kiện có thể sai / B kết mở có cấu trúc), không kết luận nhị nguyên, không kết lửng lơ?
 - [ ] Tổng ngân sách từ nằm trong khung co giãn của Cấp độ thời lượng đã phê duyệt?
 

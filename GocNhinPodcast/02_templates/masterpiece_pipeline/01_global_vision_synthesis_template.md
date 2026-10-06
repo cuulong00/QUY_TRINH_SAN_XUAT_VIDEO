@@ -1,4 +1,7 @@
 # BẢN QUY HOẠCH TẦM NHÌN TOÀN CẢNH & BÀN CỜ HỆ THỐNG
+
+> **Trần độ dài: 3000 từ** (thẻ pha, `.agents/phases/`). File này để nghĩ và chuyển giao, không chép lại số liệu; số liệu trỏ mã M của sổ. `kiem_pha.py` cảnh báo khi vượt.
+
 ## MASTER SYSTEMIC TOPOGRAPHY & GLOBAL VISION SYNTHESIS (PHA 1)
 
 <!--
@@ -44,14 +47,14 @@ DOCUMENT PROVENANCE & EXECUTION LINEAGE:
 4. `Governing Laws & Paradoxes:` [Quy luật khách quan nào chi phối? Nghịch lý hệ thống ở đâu?]
 5. `Contested Evidence & Dissent:` [Con số ngầm, báo cáo đối lập và sự thật kiểm toán ở đâu?]
 
-### 1.4. Bản Đồ Nền Từ Kho Tri Thức (phần B của form tư duy — BẮT BUỘC trước khi tranh biện)
-*(Nguồn duy nhất: `scripts/kbq` và `kbaudit`, lệnh theo `.agents/rules/orchestration-protocol.md` mục "Kho tri thức dùng chung". Mọi dòng có mã OBS. Hiểu biết sẵn có của model KHÔNG tính là "đã biết".)*
-| Thực thể / quan hệ | Dữ kiện nền đã có (mã OBS) | Chưa biết (→ GAP) |
+### 1.4. Bản Đồ Nền (phần B của form tư duy — BẮT BUỘC trước khi tranh biện)
+*(Theo sáu vòng của Bản Đồ Nước Đi, `build_global_vision.md` Bước 2a. Nguồn: vault của tập, nguồn gốc đã mở trong `research_raw/`; báo cáo Gem Scout chỉ là manh mối. Hiểu biết sẵn có của model KHÔNG tính là "đã biết".)*
+| Vòng / thực thể / quan hệ | Dữ kiện đã có (nguồn `vault/…` hoặc URL + ngày) | Chưa rõ (→ câu hỏi `CH??`) |
 |---|---|---|
-| [thực thể trọng tâm 1] | [tóm 1 dòng + `OBS-…`] | [GAP-…] |
-| [quan hệ A ↔ B] | [`kbq evidence A B` + `OBS-…`] | |
-- Dấu thời điểm tra kho: [YYYY-MM-DD HH:MM]. Trước khi nộp Pha 1, chạy lại để lấy phần kho đổi.
-- Kết quả `kbaudit`: __% thực thể trọng tâm có dữ kiện, __ GAP P1 → điền nút N1 vào hiến chương.
+| [chủ thể và hệ sinh thái] | [tóm 1 dòng + nguồn] | [CH01 …] |
+| [quan hệ A ↔ B] | [tóm 1 dòng + nguồn] | |
+- Ngày tra cứu: [YYYY-MM-DD]. Dữ kiện thời sự ghi rõ ngày của dữ liệu.
+- Cây câu hỏi: __/__ câu hỏi con ảnh hưởng cao đã có nguồn gốc mở được → điền nút N1 vào hiến chương.
 
 ### 1.5. Giả Thuyết Cạnh Tranh (phần C) → `00_bang_gia_thuyet.md`
 - Đặt **tối thiểu 3 giả thuyết** trả lời câu hỏi trung tâm, trong đó luôn có giả thuyết "nhàm" (chủ thể làm đúng điều họ công bố). Nếu sau phần B chỉ thấy một lời giải (N2 = 1) thì bắt buộc ép thêm hai giả thuyết đối lập.
@@ -119,7 +122,7 @@ immutable_data_policy:
 
 #### 1.3. Bản Cáo Trạng Phản Đề Thép (The Strongest Opposing Thesis — Tri-Adversarial Red Team)
 *(Bắt buộc xây dựng phiên bản phản biện sắc sảo, thông minh nhất từ phe đối lập trước khi tiến hành nghiên cứu sâu)*
-- **Lăng kính đã chọn (theo nút N5 của hồ sơ đề tài, tối thiểu 2; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10)):** [Ghi tên lăng kính và lý do chọn; lăng kính dòng tiền chỉ khi đề tài là doanh nghiệp/thị trường vốn và luận điểm xoay quanh sức khỏe tài chính].
+- **Lăng kính đã chọn (theo nút N5 của hồ sơ đề tài, tối thiểu 2; danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10)):** [Ghi tên lăng kính và lý do chọn; lăng kính dòng tiền chỉ khi đề tài là doanh nghiệp/thị trường vốn và luận điểm xoay quanh sức khỏe tài chính].
 - **Phản biện theo từng lăng kính đã chọn:** [Mỗi lăng kính một luận điểm phản bác mạnh nhất, kèm dữ kiện đối kháng có mã OBS hoặc ghi GAP]. Mỗi phản biện phải trỏ tới giả thuyết nó tấn công (H?) và được ghi thành hàng E trong `00_bang_gia_thuyet.md`.
 - **Điều kiện sụp đổ của luận điểm chính (Falsification / Kill-Condition):** [Ngưỡng dữ liệu hoặc sự kiện thực tế nào nếu xảy ra sẽ chứng minh luận điểm chủ đạo của video là sai lầm?].
 
@@ -185,7 +188,8 @@ immutable_data_policy:
 
 > ⚠️ **HÓA GIẢI NGHỊCH LÝ CON GÀ & QUẢ TRỨNG (TWO-STAGE LEDGER PROTOCOL):**
 > - **Giai đoạn 1 (Ngay tại Pha 1):** Bảng này là **DANH MỤC MỎ NEO DỮ LIỆU CẦN ĐIỀU TRA (Target Evidence Checklist)**: Liệt kê các chỉ tiêu định lượng, báo cáo kiểm toán, hiệp định, thông tư cần độc lập truy lùng trong Pha 2 Deep Research. ⛔ CẤM TUYỆT ĐỐI bịa đặt số liệu chi tiết hay đoán mò khi chưa trích xuất từ Vault.
-> - **Giai đoạn 2 (Sau khi hoàn tất Pha 2):** Cập nhật chính thức bảng này thành **SỔ CÁI BẰNG CHỨNG THỰC CHỨNG BẤT BIẾN (`DATA-01` đến `DATA-XX`)** bằng 100% số liệu thật đã kiểm toán từ `research_vault/`.
+> - **Lưu ý về Vật chứng:** Các câu hỏi lớn và điểm nghẽn của bản đồ Pha 1 không chỉ cần con số mà sẽ cần vật chứng thực tế (quyết định, văn bản, công trình, khoảnh khắc có ngày giờ và chủ thể đứng sau) được thu thập vào Kho vật chứng (`VC-xx`) ở Pha 2.
+> - **Giai đoạn 2 (Sau khi hoàn tất Pha 2):** Cập nhật chính thức bảng này thành **SỔ CÁI BẰNG CHỨNG THỰC CHỨNG BẤT BIẾN (`DATA-01` đến `DATA-XX`)** bằng 100% số liệu thật đã kiểm toán từ `research_vault/`. Kho vật chứng (`VC-xx`) được ghi nhận đồng thời trong `02_research_map.md` và `00_so_du_kien.md`.
 
 #### Bảng Mỏ Neo Dữ Liệu Thực Chứng:
 | Mã Số Liệu | Chỉ Tiêu Cần Đo Đạc / Bằng Chứng Thực Tế | Cơ Chế Khách Quan Cần Chứng Minh | Nguồn Chỉ Định Truy Lùng | Trạng Thái / Vault Ref (Cập nhật sau Pha 2) |
@@ -198,7 +202,7 @@ immutable_data_policy:
 
 ## PHẦN III: KẾ HOẠCH NGHIÊN CỨU ĐI TỪ MA TRẬN BẰNG CHỨNG (TOPOGRAPHICAL RESEARCH BLUEPRINT)
 
-*(Nghiên cứu Pha 2 chỉ nhắm vào các ô "chưa phân biệt được" trong `00_bang_gia_thuyet.md` mục 2b và các GAP của `kbaudit`. Ô mà kho đã trả lời được thì không nghiên cứu lại. Mỗi prompt và mỗi câu trích xuất ghi mã ô (H?↔H?) hoặc mã GAP nó lấp. Số lượng prompt theo nút N1: độ phủ cao → ít prompt, nhắm thẳng; độ phủ thấp → thêm vòng gom nền trước. Danh mục 5 khía cạnh dưới đây là **danh sách kiểm độ phủ**, không phải khuôn để sinh prompt.)*
+*(Nghiên cứu Pha 2 chỉ nhắm vào các ô "chưa phân biệt được" trong `00_bang_gia_thuyet.md` mục 2b và các câu hỏi con "chưa rõ" của mục 1.4. Câu hỏi đã có nguồn gốc mở được thì không nghiên cứu lại. Mỗi prompt và mỗi câu trích xuất ghi mã ô [H?↔H?] hoặc mã câu hỏi [CH??]. Số lượng prompt theo nút N1: bản đồ rõ → ít prompt, nhắm thẳng; bản đồ mờ → thêm vòng gom nền trước. Danh mục 5 khía cạnh dưới đây là **danh sách kiểm độ phủ**, không phải khuôn để sinh prompt.)*
 
 ### 1. Prompts nạp nguồn cho NotebookLM (Deep Mode) — mỗi prompt ghi ô ma trận / GAP nó lấp; prompt phản biện (khía cạnh 5) luôn bắt buộc
 - **Prompt 1 (Entity Anchors & Anatomy):** "[Câu lệnh nghiên cứu chuyên sâu về thực thể trung tâm: Fact-sheet, lịch sử, văn bản pháp quy/báo cáo tài chính chính thức, quy mô và mốc sự kiện]"
@@ -213,3 +217,4 @@ immutable_data_policy:
 - [Query 3: Bóc tách sự bất đồng dữ liệu giữa Luồng ủng hộ và Luồng phản đối...]
 - [Query 4: Kiểm chứng các chỉ tiêu trong Target Evidence Checklist...]
 - [Query 5: Xác minh số liệu đối chiếu tại điểm gãy cấu trúc...]
+- [Query nhắm vào vật chứng: Thu thập vật chứng thực tế (quyết định, văn bản, công trình, khoảnh khắc có ngày giờ và chủ thể đứng sau) để trả lời các câu hỏi lớn của bản đồ; cấm cảnh dựng lại hay nhân vật bịa...]

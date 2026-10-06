@@ -5,6 +5,8 @@ description: >-
   Requires completed 04_hook_pack.md and all chapter_XX.md files.
 ---
 
+> 🧭 **Cổng vào: thẻ `.agents/phases/pha_08_merge.md`**. Thẻ nói đọc gì và không cần đọc gì; workflow này là tham khảo theo mục.
+
 # /merge_voiceover — Gộp Toàn Bộ Kịch Bản Thành Tệp Thoại Hoàn Chỉnh (Pha 8)
 
 > 🎯 Khi gộp, giữ đúng chế độ kết đã chọn (A lập trường / B kết mở có cấu trúc) theo `00_core/stance_and_judgment.md` §1; không làm mềm thành câu lửng lơ, không cộng dồn cụm "chúng tôi cho rằng" từ các chương.
@@ -15,7 +17,7 @@ description: >-
 > 2. Báo cáo Kiểm duyệt & An toàn (`10_compliance_report.md`)
 > 3. Tối ưu Thuật toán & SEO (`metadata.md`)
 > 4. Thu âm Giọng đọc (`/record_voiceover` hoặc Google TTS)
-> 5. Phân cảnh & Trực quan hóa (`scene_timing_builder` ➔ `visual_map.csv`)
+> 5. Phân cảnh & Trực quan hóa (Lưu ý: Pha 12 I2V+ đọc trực tiếp từng `chapter_XX.md` theo Hợp đồng `.agents/contracts/i2v_nhip_y.md`, không đọc `voiceover.md` gộp)
 
 ---
 
@@ -76,4 +78,5 @@ Tính toán các chỉ số kỹ thuật và in bảng nghiệm thu ra chat:
 
 ### Bước 4: Lưu Tệp
 Ghi toàn bộ văn bản thoại sạch đã thanh lọc vào `episodes/[slug]/voiceover.md`.
+Việc rà soát và chấm lại Phiếu A sau merge do người khác ngoài người merge thực hiện trước khi trình user duyệt (Q11).
 Thông báo hoàn tất và sẵn sàng chuyển giao cho **Pha 9: Retention Bridge Audit** và **Pha 10-11: Compliance Council**.

@@ -42,8 +42,8 @@ Thay vì vận hành bằng các danh sách cấm đoán cơ học (fix-code), b
 *   **Nguyên lý:** Sự kịch tính đỉnh cao của thể loại Video Essay / Podcast điều tra không bao giờ đến từ những tính từ giật gân, melodrama rẻ tiền (*"nghiệt ngã, rúng động, kinh hoàng, cuộc chơi"*). 
 *   **Cơ chế tư duy:**
     *   Kịch tính đến từ **SỰ TƯƠNG PHẢN TỰ THÂN CỦA HIỆN THỰC KHÁCH QUAN**. 
-    *   Lời dẫn càng điềm đạm, lạnh lùng, chắc chắn và kiệm lời thì sức nén của sự thật càng trở nên khủng khiếp.
-    *   Viết cho đôi tai: Cảm nhận nhịp điệu (Rhythm) và nhịp thở của người nghe. Đan xen giữa những câu ngắn dứt khoát như nhát cắt phẫu thuật với những câu mở rộng cơ chế, tạo nên một bản giao hưởng ngôn từ đĩnh đạc và sang trọng.
+    *   Lời dẫn càng điềm đạm, có nghề, chắc chắn và kiệm lời thì sức nén của sự thật càng trở nên khủng khiếp.
+    *   Viết cho đôi tai: Cảm nhận nhịp điệu (Rhythm) và nhịp thở của người nghe. Nhịp do ý quyết định: câu ngắn khi một dữ kiện cần đứng riêng, câu dài hơn khi giải thích cơ chế; không đặt chỉ tiêu câu ngắn (luật gốc `chapter_writer/SKILL.md` mục "Viết Câu Cho Tai").
 
 ---
 

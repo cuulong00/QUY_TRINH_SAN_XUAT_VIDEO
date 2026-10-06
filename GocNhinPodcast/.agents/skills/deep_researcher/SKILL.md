@@ -3,7 +3,7 @@ name: deep-researcher
 description: "Deep research protocol specialist (Direct RPC NotebookLM Engine). MUST BE USED when building research maps, verifying claims, or gathering evidence for episode briefs. Ensures deep research mode, minimum source thresholds, and cross-verification."
 ---
 
-> 📚 Kho tri thức dùng chung: làm theo mục "Kho tri thức dùng chung" trong `.agents/rules/orchestration-protocol.md` (Pha 1 hỏi kho, Pha 1b `kbaudit`, Pha 2 chỉ nghiên cứu GAP, sau Pha 2 ghi ngược vào kho). Cách đọc kho: `.agents/skills/kb_reader/SKILL.md` (trước khi viết prompt nghiên cứu, kiểm lại bằng `kbq grep`/`facts <mã> <nhóm>` rằng kho thật sự chưa trả lời được).
+> 📚 Nguồn tri thức: làm theo mục "Nguồn tri thức của một tập" trong `.agents/rules/orchestration-protocol.md`. Vault NotebookLM là nguồn viết chính; Gem Scout mở bản đồ và cây câu hỏi; Pha 2 chỉ nghiên cứu ô ma trận và câu hỏi con còn "chưa rõ" (trước khi viết prompt, kiểm vault và `research_raw/` xem đã có câu trả lời chưa). Kho KG đã bỏ từ 02/10/2026.
 
 # Deep Researcher — Nhà Nghiên Cứu Chuyên Sâu (Góc Nhìn Podcast)
 
@@ -36,9 +36,9 @@ description: "Deep research protocol specialist (Direct RPC NotebookLM Engine). 
 >      * *Prompt 3 (Incentives & Survival Drives):* Đào sâu động lực sinh tồn, mâu thuẫn lợi ích, áp lực dòng tiền/thực thi và toan tính của từng nhóm chủ thể.
 >      * *Prompt 4 (Governing Laws & Structural Paradoxes):* Giải phẫu các quy luật khách quan, cơ chế kinh tế/vật lý/pháp lý chi phối cuộc chơi và điểm nghẽn hệ thống.
 >      * *Prompt 5 (Contested Evidence, Failures & Tri-Adversarial Dissent — BẮT BUỘC):* Cào quét chuyên biệt các bài báo phản biện gay gắt, ý kiến đối lập của chuyên gia độc lập, báo cáo thanh tra/kiểm toán chỉ trích bất cập, và các case study sụp đổ/thất bại tương tự trên thế giới.
->    - Thiết kế cấu trúc nghiên cứu trong `02_research_plan.md` **đi từ ma trận bằng chứng** (`00_bang_gia_thuyet.md` mục 2b) và GAP của `kbaudit`: mỗi prompt và mỗi câu trích xuất ghi mã ô `[H?↔H?]` hoặc mã GAP nó lấp; không nghiên cứu thứ kho đã trả lời. 5 khía cạnh trên là danh sách kiểm độ phủ, không phải khuôn sinh prompt. Số prompt theo nút N1 của hiến chương, nêu lý do chọn số lượng trong kế hoạch.
+>    - Thiết kế cấu trúc nghiên cứu trong `02_research_plan.md` **đi từ ma trận bằng chứng** (`00_bang_gia_thuyet.md` mục 2b) và các nhánh "chưa rõ" của cây câu hỏi: mỗi prompt và mỗi câu trích xuất ghi mã ô `[H?↔H?]` hoặc mã câu hỏi `[CH??]` nó trả lời; không nghiên cứu lại câu hỏi đã có nguồn gốc mở được. 5 khía cạnh trên là danh sách kiểm độ phủ, không phải khuôn sinh prompt. Số prompt theo nút N1 của hiến chương, nêu lý do chọn số lượng trong kế hoạch.
 > 5. **QUY TRÌNH TUẦN TỰ BẮT BUỘC (NẠP NGUỒN TRƯỚC - TRÍCH XUẤT SAU):** Chạy nạp nguồn tuần tự từng prompt vào Master Notebook với `--mode deep --import-all`. Chờ hoàn tất toàn bộ các đợt nạp nguồn mới tiến hành Batch Extraction ra `research_vault/`.
-> 6. **MỌI KẾT LUẬN PHẢI DỰA TRÊN SỐ LIỆU & NGUỒN CHÍNH THỐNG:** Tất cả nhận định phải dựa trên số liệu định lượng, báo cáo ngành, nghị định luật pháp.
+> 6. **MỌI KẾT LUẬN PHẢI DỰA TRÊN SỐ LIỆU, VẬT CHỨNG & NGUỒN CHÍNH THỐNG:** Tất cả nhận định phải dựa trên số liệu định lượng, vật chứng thực tế có thật (quyết định, văn bản, công trình, khoảnh khắc có ngày giờ và chủ thể đứng sau), báo cáo ngành, nghị định luật pháp. Cấm cảnh dựng lại hay nhân vật bịa.
 > 7. **FRESHNESS (DỮ LIỆU MỚI NHẤT):** Ưu tiên dữ liệu mới nhất (2024, 2025, 2026). Bỏ qua số liệu cũ trước 2023 trừ khi so sánh lịch sử.
 > 8. **CRITICAL THINKING (BẮT BUỘC PHẢN BIỆN):** Nghiên cứu bắt buộc phải có ≥ 3 điểm phản biện (Counter-Thesis), phân tích rủi ro và các góc nhìn trái chiều.
 
@@ -73,15 +73,15 @@ description: "Deep research protocol specialist (Direct RPC NotebookLM Engine). 
 * **Bước 0b — Grounding Web & Strategic Alignment:** Dùng `search_web` tìm hiểu tổng quan bối cảnh mới nhất, xác định khoảng trống thông tin (Information Gap), điểm mù (Blindspots).
 * **Bước 0c — Thiết lập `02_research_plan.md`:**
   1. **Bộ 5 Prompts Nạp Nguồn Ánh Xạ 1-1 Với 5 Câu Hỏi Bản Thể Học (Targeted Modular Ingestion Prompts):** Soạn thảo 5 prompt map trực tiếp với 5 câu hỏi Scoping của Pha 1 (Entity Anchors $\to$ Arena & Circuit $\to$ Incentives $\to$ Governing Laws $\to$ Dissent & Failures).
-  2. **Danh sách Câu hỏi Trích xuất (số lượng theo độ phức tạp đề tài) (Optimized Extraction Queries):** Nhắm thẳng vào Target Evidence Checklist, các mắt xích nhân quả gốc rễ và cơ chế ngầm đã được nêu ở Pha 1.
+  2. **Danh sách Câu hỏi Trích xuất (số lượng theo độ phức tạp đề tài) (Optimized Extraction Queries):** Nhắm thẳng vào Target Evidence Checklist, các mắt xích nhân quả gốc rễ và cơ chế ngầm đã được nêu ở Pha 1. Thêm câu hỏi trích xuất nhắm vào vật chứng cho những câu hỏi lớn của Pha 1, không chỉ nhắm vào con số.
 
 ---
 
 ### Bước 1–2: NẠP NGUỒN SÂU VÀ TRÍCH XUẤT RA VAULT
 
-Nạp nguồn và trích xuất của Pha 2 chạy qua **engine Direct RPC dùng chung** `scripts/kg_registry/kb_research_run.py` (gọi `NotebookLMClient` trực tiếp). Cách dùng nằm ở docstring đầu file: viết một file kế hoạch `01_management/kg_research/kb_plans/<slug>.json` (nguồn = prompt nạp, mỗi nguồn ghi mã ô/GAP; trích xuất = câu hỏi, mỗi câu một file vault), rồi chạy engine. Vì sao không gọi CLI từng lệnh: engine dùng lại `.notebook_id`, ghi `run_state.json` nên bị ngắt thì chạy lại là làm tiếp, chờ nghiên cứu sâu không bị cắt lượt, và vault ra đúng khuôn (bảng số trích dẫn) để nạp kho sau này. CLI `notebooklm` chỉ dùng cho kiểm tra lẻ: `auth check`, `list`, `source list`. Chạy cần `BypassSandbox: true`.
+Nạp nguồn và trích xuất của Pha 2 chạy qua **engine Direct RPC dùng chung** `scripts/notebooklm_engine/research_run.py` (gọi `NotebookLMClient` trực tiếp). Cách dùng nằm ở docstring đầu file: viết một file kế hoạch `01_management/research_plans/<slug>.json` (nguồn = prompt nạp, mỗi nguồn ghi mã ô/GAP; trích xuất = câu hỏi, mỗi câu một file vault), rồi chạy engine. Vì sao không gọi CLI từng lệnh: engine dùng lại `.notebook_id`, ghi `run_state.json` nên bị ngắt thì chạy lại là làm tiếp, chờ nghiên cứu sâu không bị cắt lượt, và vault ra đúng khuôn (bảng số trích dẫn) để nạp kho sau này. CLI `notebooklm` chỉ dùng cho kiểm tra lẻ: `auth check`, `list`, `source list`. Chạy cần `BypassSandbox: true`.
 
-Tư duy khi viết file kế hoạch: mỗi nguồn nạp nhắm một ô chưa phân biệt của ma trận hoặc một GAP mà kho thật sự chưa có (đã tra bằng `kb_reader`); nguồn phản biện luôn có; mỗi câu trích xuất hỏi đúng dữ kiện sẽ phân biệt hai giả thuyết, không hỏi "hãy tóm tắt". Nguồn sơ cấp sẵn có (PDF, URL văn bản gốc) thì thêm vào notebook trước khi chạy để trích xuất đọc thẳng nguyên văn.
+Tư duy khi viết file kế hoạch: mỗi nguồn nạp nhắm một ô chưa phân biệt của ma trận hoặc một câu hỏi con mà vault và `research_raw/` thật sự chưa trả lời; nguồn phản biện luôn có; mỗi câu trích xuất hỏi đúng dữ kiện sẽ phân biệt hai giả thuyết, không hỏi "hãy tóm tắt". Nguồn sơ cấp sẵn có (PDF, URL văn bản gốc) thì thêm vào notebook trước khi chạy để trích xuất đọc thẳng nguyên văn.
 
 ---
 
@@ -101,6 +101,7 @@ Tổng hợp toàn bộ dữ liệu từ `research_vault/` thành file `02_resea
     | [Vấn đề 1] | [Nhận định + Số liệu A] | [Phản biện + Số liệu B đối kháng] | [Ai hưởng lợi vs Ai trả giá, Unintended Consequences] | `[file.md]` |
 * **Cơ chế Vĩ mô (Macro Mechanisms):** **BẮT BUỘC ≥ 5 cơ chế vận hành hệ thống**.
 * **Vault Index & Case Studies:** Bảng tọa độ trỏ trực tiếp về từng file trong vault.
+* **KHO VẬT CHỨNG (`VC-01` đến `VC-XX`, thêm 06/10/2026, user duyệt):** bên cạnh sổ dữ kiện, ghi những gì có thể cho người xem *thấy*: một cảnh, một quyết định, một văn bản, một khoảnh khắc có ngày giờ (một cuộc họp, một công trường khởi công, một tờ trình, một phát biểu, một dòng trong báo cáo đặt cạnh dòng khác). Mỗi mục gồm: vật chứng (mô tả một câu), ngày giờ, chủ thể đứng sau và điều họ muốn, nguồn (URL hoặc file `research_vault/`/`research_raw/` kèm câu nguyên văn), và câu hỏi hoặc ô của bản đồ Pha 1 mà nó trả lời. Chỉ ghi vật chứng có thật, mở được nguồn; cấm cảnh dựng lại hay nhân vật bịa. Kho này là nguyên liệu cho trường `vat_chung` và `chu_the_va_dong_co` của brief chương (Pha 6) và cho chỉ tiêu V Vật chứng của `00_core/narrative_craft_rubric.md`. Khi lập kế hoạch nghiên cứu (Bước 0), thêm câu hỏi trích xuất nhắm vào vật chứng cho những câu hỏi lớn của Pha 1, không chỉ nhắm vào con số. Không bắt buộc với tập đang chạy trước ngày 06/10/2026.
 
 ---
 
@@ -123,4 +124,5 @@ Tạo tóm tắt bản chất nghiên cứu (~1.000 – 1.500 từ) làm **la b�
 - [ ] Toàn bộ dữ liệu đều mới nhất (2024–2026), không dùng số liệu lỗi thời?
 - [ ] Bảng Đối Soát Dữ Liệu Bất Đồng & Đánh Đổi (Contested Data & Trade-Offs Ledger) đã được hoàn thành đầy đủ, không đối phó hình thức?
 - [ ] Danh mục Cơ chế vĩ mô có ≥ 5 cơ chế vận hành rõ ràng?
+- [ ] `02_research_map.md` có Kho vật chứng (`VC-XX`): mỗi câu hỏi lớn của bản đồ Pha 1 có vật chứng có thật, có ngày giờ, chủ thể và nguồn mở được (hoặc ghi rõ "chưa tìm được" để Pha 6 biết chỗ trống)?
 - [ ] File `02_research_synthesis.md` đã hoàn thành và đạt chuẩn la bàn vĩ mô?

@@ -116,6 +116,26 @@ Nó dùng để dạy **The Quality Czar** phân biệt:
 
 ---
 
+## Pair 6 — Nói tuột đáp án vs Dàn dựng cú lật nhận thức (thêm 06/10/2026)
+
+### Weak
+"VinFast mở rộng sang châu Âu không phải để xả hàng hay làm showroom vì số lượng xe quá ít và các showroom ở Hà Lan đã đóng cửa."
+
+**Vì sao yếu:**
+- Nói tuột toàn bộ đáp án và kết luận trong một câu khái quát;
+- Người nghe không được trải nghiệm sự hoài nghi hay khám phá;
+- Không có cú lật nhận thức (epiphany moment).
+
+### Stronger (trích từ `episodes/gsm-chau-au-v4/chapter_04.md`)
+"Nếu G S M là con ngựa gỗ thành Troy đưa xe VinFast vào châu Âu, thì vì sao đến giờ VinFast vẫn chưa có một cửa hàng nào ở Đan Mạch hay Hà Lan? Ở Đan Mạch, hãng chưa từng bán xe cho người dân. Ở Hà Lan, hai showroom cuối cùng đã đóng từ năm 2025. Người khách ưng chiếc xe sau một cuốc taxi chỉ có thể làm một việc: gọi thêm một cuốc nữa."
+
+**Vì sao mạnh hơn:**
+- Dựng câu hỏi trước, đưa vật chứng thực tế đập tan giả thuyết quen thuộc;
+- Tạo ra cú lật nhận thức sắc bén và sâu sắc: người xem tự nhận ra mâu thuẫn trước khi người kể đặt câu hỏi lớn tiếp theo;
+- Đối chiếu bộ mẫu chi tiết về nghệ thuật kể chuyện tại `.agents/examples/chapter_writer_examples.md` (Pair 6–8).
+
+---
+
 ## Checklist cho editorial-quality-director
 1. Đoạn nào chỉ đúng nhưng không đáng nhớ?
 2. Đoạn nào generic đến mức có thể bê sang 20 video khác?

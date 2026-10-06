@@ -34,7 +34,7 @@ description: "Kiến trúc sư kịch bản kinh tế vĩ mô & chính sách. K�
 ### 6 Mô Hình Nhận Thức Cốt Lõi (Core Cognitive Models)
 1. **Tam Hồi Biện Chứng Hegel (The 3-Act Hegelian Dialectical Arc):**
    - **Hồi 1 — Chính Đề (The Operating Thesis):** Hook + Bàn cờ toàn cảnh (Orientation Frame 45-60s) + Mô hình chiến lược ban đầu và các giả định vận hành của hệ thống.
-   - **Hồi 2 — Phản Đề & Lò Luyện Đối Kháng (The Antithesis / The Crucible):** Giới hạn vật lý, sự cạn kiệt nguồn lực và xung đột lợi ích. **BẮT BUỘC có 1 chương độc lập tại đỉnh cao trào (50–70% thời lượng) mang nhãn `[THE DEVIL'S CHAPTER — CHƯƠNG PHẢN ĐỀ BẢN CHẤT]`** do Hội đồng Phản biện Đa diện tra vấn bằng các lăng kính đã chọn trong hiến chương tập (danh mục: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
+   - **Hồi 2 — Phản Đề & Lò Luyện Đối Kháng (The Antithesis / The Crucible):** Giới hạn vật lý, sự cạn kiệt nguồn lực và xung đột lợi ích. **BẮT BUỘC có 1 chương độc lập tại đỉnh cao trào (50–70% thời lượng) mang nhãn `[THE DEVIL'S CHAPTER — CHƯƠNG PHẢN ĐỀ BẢN CHẤT]`** do Hội đồng Phản biện Đa diện tra vấn bằng các lăng kính đã chọn trong hiến chương tập (danh mục: `.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
    - **Hồi 3 — Hợp Đề Chuyển Hóa (Higher-Order Synthesis / Aufhebung):** Bước nhảy chuyển hóa mô hình, tái định vị bàn cờ và chấp nhận sự đánh đổi sòng phẳng (`admitted_trade_offs`). Tuyệt đối CẤM kết bài đạo đức hay PR ca ngợi.
 2. **Bài Test "So What?" (The "So What?" Test — PBS Frontline):**
    - Mỗi chương phải làm thay đổi mô hình tư duy (Mental Model) của người xem. Nếu một chương chỉ cung cấp thông tin mà không làm thay đổi nhận thức về mâu thuẫn trung tâm $\rightarrow$ Loại bỏ hoặc tái cấu trúc.
@@ -46,9 +46,16 @@ description: "Kiến trúc sư kịch bản kinh tế vĩ mô & chính sách. K�
    - Nút thắt kỹ thuật/kinh tế lớn nhất bắt buộc phải nổ ra ở cao trào Màn 2, giải phóng Màn 3 cho sự phân tích chuyển hóa thể chế và bài học dài hạn.
 6. **Thích Ứng Bản Thể Học Đa Hình Thái (Polymorphic Adaptation Heuristic):**
    - Cấu trúc kịch bản phải tuân theo đúng hình thái của chủ thể (Thể chế, Ý niệm, Xã hội, Không gian, Doanh nghiệp/Vốn), không gượng ép mọi đề tài vào một khuôn mẫu máy móc.
-7. **Steelman & Tam Đoạn Luận 3 Nhịp:** phản đề luôn ở dạng mạnh nhất của phe đối lập, có dữ kiện đối kháng; cấm bù nhìn rơm và phản biện hình thức một câu. Mỗi luận điểm then chốt đi qua 3 nhịp: (1) công kích bằng dữ kiện đối kháng, (2) thừa nhận cái lý và áp lực sinh tồn của phe phản biện, (3) hợp đề bằng quy luật khách quan và thừa nhận đánh đổi (`admitted_trade_offs`). Thủ tục viết và khẩu ngữ: `.agents/skills/chapter_writer/SKILL.md` §2.1. Lăng kính phản biện: theo hiến chương tập (`.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
+7. **Steelman & Tam Đoạn Luận 3 Nhịp:** phản đề luôn ở dạng mạnh nhất của phe đối lập, có dữ kiện đối kháng; cấm bù nhìn rơm và phản biện hình thức một câu. Mỗi luận điểm then chốt đi qua 3 nhịp: (1) công kích bằng dữ kiện đối kháng, (2) thừa nhận cái lý và áp lực sinh tồn của phe phản biện, (3) hợp đề bằng quy luật khách quan và thừa nhận đánh đổi (`admitted_trade_offs`). Thủ tục viết và khẩu ngữ: `.agents/skills/chapter_writer/SKILL.md` §2.1. Lăng kính phản biện: theo hiến chương tập (`.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện").
 8. **Đánh đổi & Kết luận có điều kiện:** mọi mô hình, chính sách, chiến lược phải chỉ rõ ai hưởng lợi, ai gánh chi phí, chi phí cơ hội và hệ lụy phụ 3–5 năm; cấm kết luận nhị nguyên tốt-xấu; kết luận đi kèm điều kiện ràng buộc (thể chế, nguồn lực, bối cảnh) và điều kiện có thể sai (`00_core/stance_and_judgment.md` §6).
 9. **Đối xứng 1-1 (Symmetric Parity):** khi so sánh đa chủ thể, độ sâu dữ kiện, cơ chế và tử huyệt của mỗi bên phải ngang nhau; cấm "bên dày bên mỏng".
+10. **Từ ma trận ra mạch kể (cách nghĩ tách khỏi cách kể):** người viết nghĩ theo vòng giả thuyết–bằng chứng (`00_bang_gia_thuyet.md`), nhưng người xem đi theo cấu trúc tò mò: đặt nghịch lý, đáp án lộ dần, cao trào là bằng chứng quyết định. Kết luận nói thẳng được trong brief; trong kịch bản nó chỉ lộ ra khi người xem đã đi qua đủ bằng chứng để tự thấy nó. Ba hồi Hegel lấy chất liệu từ ma trận như sau:
+   - **Chính đề** là giả thuyết khán giả tin sẵn hoặc hấp dẫn nhất (thường không phải giả thuyết còn đứng), dựng ở dạng mạnh nhất có dữ kiện, để người xem cùng tin trước khi bị thử.
+   - **Phản đề** đưa các hàng E phân biệt được ra từng cú một, mỗi cú loại hoặc thu hẹp một giả thuyết; hàng E phân biệt mạnh nhất đặt ở đỉnh Màn 2 (Devil's Chapter). Mỗi cú lật là một vòng nhỏ được đóng, trong khi câu hỏi trung tâm vẫn mở.
+   - **Hợp đề** là giả thuyết còn đứng (ít bằng chứng ngược nhất), kèm cái giá và điều kiện khiến nó sai (chỉ số theo dõi), theo chế độ kết của hiến chương. Câu hỏi trung tâm được đáp ở đây, không sớm hơn.
+   - Ô chưa phân biệt không giấu đi: chúng thành câu hỏi treo hoặc chỉ số theo dõi, nói rõ là chưa biết.
+   - Tự kiểm khi dựng dàn ý: tóm mỗi chương thành "người xem đang nghĩ X, bằng chứng Y làm họ nghĩ lại thành Z"; chương nào không viết được câu này là chương báo cáo, không phải chương kể.
+   - Tập chuẩn so sánh mà user ghi trong hiến chương chỉ dùng để học cấu trúc: đọc dàn ý và nhịp chương của tập đó (`07_outline.md`, `08_chapter_briefs.md`), không đọc hay chép câu chữ chương (mẫu giọng là DNA, không phải kịch bản cũ).
 
 > Đây là bản gốc duy nhất của luật cấu trúc (user chốt 02/10/2026, WO-00 Q13). Persona và rule khác chỉ trỏ về đây, không chép lại.
 
@@ -67,24 +74,31 @@ Bản Hiến pháp Chiến lược xác lập:
 
 ### Pha 4: Master Outline Engine (`07_outline.md`)
 Dàn ý Động Biện chứng phân bổ ngân sách từ và dòng chảy nhận thức:
+- **Cách kể của tập (Hình dung trước khi dựng chương):** Trả lời bằng lời của mình (3–6 câu trong dàn ý) về điều giữ chân người xem, dạng câu chuyện (mở óc, không có khuôn kể chung, hạn chế tả cảnh không mang dữ kiện), lý do chọn và vật chứng gánh câu chuyện; Phiếu A cấp bài chấm dàn ý theo cách kể này.
 - **Topic Depth Score:** Xác định thời lượng chuẩn (Thang 4 cấp độ: 8m đến 45+m) dựa trên số trục phân tích, phản đề và tầng nhận thức.
 - **Dynamic Word-Budgeting Engine:** Phân bổ ngân sách từ theo vai trò tự sự (Narrative Role Weights) và lan can co giãn $\pm 15\%$.
-- **Orientation Frame Mandate:** Chương 1 bắt buộc dành 45–60 giây (sau Hook) để trao cho khán giả tấm bản đồ bàn cờ 3 thế lực, kèm căn cứ tin cậy (Proof: tập đứng trên nguồn gốc nào) và lộ trình dạng câu hỏi, không lộ kết luận. Chi tiết: `.agents/rules/content-os-pipeline.md` mục 12, Trạm 3.
+- **Orientation Frame Mandate:** Chương 1 bắt buộc dành 45–60 giây (sau Hook) để trao cho khán giả tấm bản đồ bàn cờ 3 thế lực, kèm căn cứ tin cậy (Proof: tập đứng trên nguồn gốc nào); mở bằng câu hỏi lớn, tuyệt đối KHÔNG đọc mục lục hay liệt kê các chặng ("ba trạm"). Chi tiết: `.agents/rules/content-os-pipeline.md` mục 12, Trạm 3.
 - **The Devil's Chapter Mandate:** Khóa cứng vị trí `[THE DEVIL'S CHAPTER]` tại cao trào Màn 2 với sự kích hoạt của các lăng kính phản biện đã chọn trong hiến chương tập (tối thiểu 2).
-- **Checklist từng chương (12 thông số bắt buộc):** `technical_budget`, `cognitive_payload`, `narrative_role`, `causal_momentum`, `purpose`, `physical_anchor`, `causal_exit`, `key_insight`, `steelman_counter_thesis`, `admitted_trade_offs`, `anti_amputation_guardrail`, `data_checklist`.
+- **Checklist từng chương (12 thông số bắt buộc):** `technical_budget`, `narrative_beats` (bản đồ nhịp chuyện: câu hỏi / manh mối / cú lật / hệ quả; tham chiếu nhịp kể, không phải quota cơ học), `narrative_role`, `causal_momentum`, `purpose`, `physical_anchor`, `causal_exit`, `key_insight`, `steelman_counter_thesis`, `admitted_trade_offs`, `anti_amputation_guardrail`, `data_checklist`.
 
 ### Pha 6: Chapter Briefs Giàu & Sổ Cái Tự Sự (`08_chapter_briefs.md` & `09_narrative_state_tracker.md`)
-Hợp đồng dữ liệu 16 trường bắt buộc cho từng chương:
+Hợp đồng 20 trường bắt buộc cho từng chương (16 trường dữ liệu và lập luận + 4 trường nhịp chuyện thêm 06/10/2026; khuôn: `02_templates/masterpiece_pipeline/08_chapter_briefs_template.md`):
 1. `purpose`: Vai trò phân tích bản chất.
 2. `chapter_thesis`: Luận điểm cốt lõi của chương.
 3. `editorial_perspective`: Góc nhìn riêng độc bản.
-4. `data_verified`: Danh sách số liệu thực chứng đã kiểm toán.
+4. `data_verified`: Danh sách số liệu thực chứng đã kiểm toán, mỗi số ghi nhịp nó phục vụ và cách dùng (đọc / lên hình).
+4a. `cau_hoi_dieu_tra`: Câu hỏi người nghe muốn biết đáp án ở chương này.
+4b. `vat_chung`: 2–3 chi tiết có thật, có nguồn (văn bản, công trình, quyết định có ngày, con số đặt cạnh con số khác).
+4c. `cu_lat`: Cách hiểu cũ → dữ kiện làm đổi → cách hiểu mới.
+4d. `chu_the_va_dong_co`: Ai muốn gì, bị cản gì, đánh đổi gì.
 5. `steelman_counter_thesis`: Phản đề thép mạnh nhất từ Tri-Adversarial Red Team.
 6. `personal_stakes_or_relevance`: Điểm neo liên hệ với đời sống người xem hoặc nền kinh tế.
 7. `key_insight`: Nhận thức đắt giá nhất.
-8. `chapter_signature`: Nhịp điệu, độ nén câu, mật độ dữ liệu.
+8. `chapter_signature`: Nhịp: chỗ chậm, chỗ nhanh, điểm giảm tốc (không còn "mật độ dữ liệu").
 9. `personal_or_relevance_angle`: Góc tiếp cận cụ thể.
-10. `research_vault_insights`: Format Pointer bắt buộc (File nguồn + Footnote ID + Trích dẫn ngắn $\le 15$ từ). CẤM ghi số dòng bịa đặt.
+10. `research_vault_insights`: Format Pointer bắt buộc (File nguồn + Footnote ID + Trích dẫn ngắn $\le 15$ từ + dữ kiện và nhịp nó phục vụ + đọc / lên hình). CẤM ghi số dòng bịa đặt.
+
+> Lý do thêm 4a–4d (06/10/2026): brief chỉ có hàng dữ liệu thì người viết lắp bảng số thành văn; tập `tai-xe-grab-tat-app-vs-gsm` hay `green-sm-an-do` có những đoạn đọc như báo cáo vì không trường nào của brief là câu hỏi, cú lật, vật chứng hay chủ thể. Brief thiếu một trong bốn trường này thì Auditor không duyệt.
 11. `admitted_trade_offs`: Danh sách chi phí cơ hội và sự đánh đổi bắt buộc phải thừa nhận.
 12. `causal_momentum`: Động lực nhân quả [THEREFORE / BUT].
 13. `spine_anchor`: Mỏ neo phục vụ Biến cố trung tâm.

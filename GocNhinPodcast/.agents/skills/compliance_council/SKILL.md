@@ -6,7 +6,7 @@ description: "Editorial & Compliance Council. Reviews script safety, legal compl
 # Editorial & Compliance Council — Hội Đồng Thẩm Tra & Phê Duyệt Kiệt Tác (Phiên Bản Tư Duy 3.0)
 
 > 🧭 **Phân vai cổng chấm (29/09/2026):** Mỗi khâu chỉ có MỘT cổng PASS/FAIL — Dàn ý: `00_core/retention_gate_checklist.md` (Gate 1 / Gate D1) · Từng chương: `00_core/chapter_quality_standard.md` · Cả kịch bản (Pha 10–11): `.agents/skills/compliance_council/SKILL.md` (ngưỡng ≥ 8.5/10, không trụ cột nào < 7.5).
-> **Cổng loại ngay hợp nhất (áp tại đây):** 10 Hard-Fail của `00_core/quality_rubric.md` §4 + 5 Hard-Fail Gates của `00_core/masterpiece_quality_standard.md` §4 + 5 câu kiểm lập trường của `00_core/stance_and_judgment.md` §10. Điều kiện trùng nhau giữa các nguồn chỉ tính một lần. Vi phạm bất kỳ điều nào → KHÔNG ĐẠT, dù tổng điểm cao.
+> **Cổng loại ngay hợp nhất (áp tại đây):** 11 Hard-Fail của `00_core/quality_rubric.md` §4 (điều 11 là chất chuyện, `00_core/narrative_craft_rubric.md`) + 5 Hard-Fail Gates của `00_core/masterpiece_quality_standard.md` §4 + 5 câu kiểm lập trường của `00_core/stance_and_judgment.md` §10. Điều kiện trùng nhau giữa các nguồn chỉ tính một lần. Vi phạm bất kỳ điều nào → KHÔNG ĐẠT, dù tổng điểm cao.
 
 > 🎯 **Kiểm lập trường (bắt buộc):** Chấm theo 5 câu hỏi ở `00_core/stance_and_judgment.md` §10 trong trụ cột biện chứng/biên tập. Chế độ A hay B đều hợp lệ; kết lửng lơ mới là lỗi. Nhãn phán xét thay cho dữ kiện, phán xét động cơ hay đạo đức, hoặc lặp "chúng tôi cho rằng" quá 4 lần đều là lỗi phải sửa trước khi đạt ngưỡng.
 
@@ -20,13 +20,13 @@ description: "Editorial & Compliance Council. Reviews script safety, legal compl
 > 5. `the_voice_architect` & `the_quality_czar` (Giám sát Kỷ luật Tai nghe & An toàn TTS)
 >
 > Nếu chưa nạp đủ các chuyên gia này trong phiên làm việc, NGHIÊM CẤM tạo báo cáo compliance.
-> **Tách vai (Q11):** hội đồng chấm là agent hoặc phiên khác với agent đã viết. Bước 0 của mọi lần chấm: chạy `KB_GRAPH=kb_v2 scripts/kiem_pha.py <slug> --pha 8` và dán đầu ra vào báo cáo; trụ cột 4 (Data Anchoring) chấm trên đầu ra đó, không chấm lại bằng cảm nhận. Cờ đỏ 13 (bịa chi tiết / vượt nhãn) là hard-fail.
+> **Tách vai (Q11):** hội đồng chấm là agent hoặc phiên khác với agent đã viết. Bước 0 của mọi lần chấm: chạy `scripts/kiem_pha.py <slug> --pha 8` và dán đầu ra vào báo cáo; trụ cột 4 (Data Anchoring) chấm trên đầu ra đó, không chấm lại bằng cảm nhận. Cờ đỏ 13 (bịa chi tiết / vượt nhãn) là hard-fail.
 
 ---
 
-## 1. NĂM KHÓA KIỂM TOÁN TỐI THƯỢNG (THE 5 IMPERATIVE AUDIT GATES)
+## 1. SÁU KHÓA KIỂM TOÁN TỐI THƯỢNG (THE 6 IMPERATIVE AUDIT GATES)
 
-Trước khi ký duyệt bất kỳ kịch bản nào, Hội đồng thẩm tra kịch bản qua 5 khóa sinh tử:
+Trước khi ký duyệt bất kỳ kịch bản nào, Hội đồng thẩm tra kịch bản qua 6 khóa sinh tử:
 
 ### Khóa 1: Zero-Ungrounded-Inference (ZUI — Khóa Chân Lý Thực Chứng)
 - **Level 1 (Fact):** 100% số liệu, tên tập đoàn, số hiệu Nghị định, Thông tư, ngày tháng phải có Footnote ID và trích dẫn gốc trong `research_vault/`. Tuyệt đối CẤM đoán mò các chi phí chưa công bố.
@@ -36,7 +36,7 @@ Trước khi ký duyệt bất kỳ kịch bản nào, Hội đồng thẩm tra 
 
 ### Khóa 2: Steelmanning, Trade-Offs & Symmetric Parity (Khóa Đối Xứng & Sự Đánh Đổi)
 - **Triệt tiêu Bù Nhìn Rơm (Anti-Strawman):** Lập luận của phe phản biện phải được xây dựng ở phiên bản mạnh nhất, sắc bén nhất, có số liệu đối kháng thuyết phục nhất.
-- **Hội đồng Phản biện Đa diện:** tra vấn kịch bản qua các lăng kính **đã chọn trong hiến chương tập** (tối thiểu 2); kiểm thêm: lăng kính dòng tiền có bị bật cho đề tài không phải tài chính không. danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/AGENTS.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10).
+- **Hội đồng Phản biện Đa diện:** tra vấn kịch bản qua các lăng kính **đã chọn trong hiến chương tập** (tối thiểu 2); kiểm thêm: lăng kính dòng tiền có bị bật cho đề tài không phải tài chính không. danh mục lăng kính và điều kiện bật lăng kính dòng tiền: `.agents/reference/AGENTS_truoc_20261003.md` mục "Thể Chế Hóa Hội Đồng Phản Biện Đa Diện" (bản gốc duy nhất, WO-00 Q10).
 - **Bàn Cân Đối Xứng 1-1 (Symmetric Parity):** Khi đề tài so sánh hoặc đối kháng đa thực thể, kiểm toán viên bắt buộc đối soát để bảo đảm độ sâu dữ kiện, cơ chế và tử huyệt của cả hai bên đều được mổ xẻ ngang nhau (BCTC, cơ cấu nợ chỉ khi đề tài là tài chính). Cấm tình trạng một bên là nhân vật chính đa chiều, bên kia là bù nhìn hời hợt.
 - **Khóa Cứng `[THE DEVIL'S CHAPTER]`:** Bắt buộc có 1 chương phản đề độc lập tại cao trào Hồi 2 (50–70% thời lượng).
 - **Thừa Nhận Đánh Đổi (`admitted_trade_offs`):** Mọi giải pháp đều phải chỉ rõ cái giá phải trả và chi phí cơ hội; cấm tô hồng giải pháp thần thánh.
@@ -55,7 +55,16 @@ Trước khi ký duyệt bất kỳ kịch bản nào, Hội đồng thẩm tra 
 - Gom 2–4 câu thành đoạn văn trôi chảy; cấm ngắt dòng sau mỗi câu đơn lẻ.
 - **Khử Sạch Melodrama & Lạm Phát Tính Từ:** Tuyệt đối loại bỏ các tính từ giật gân rẻ tiền (`nghiệt ngã, rúng động, cuộc chơi, kinh hoàng, sốc`). Độ kịch tính phải đến từ sự thật trần trụi và quy luật kinh tế khách quan.
 - Tuyệt đối không còn nhãn template `[BLOCK X]`, `[HOOK MÔ TẢ]` trong văn bản thành phẩm.
-- **Đếm dấu hiệu cấu trúc** theo `00_core/anti_ai_isms.md` §3b trên từng chương (bảng "Đếm khi chấm"). Vượt ngưỡng ở S1, S2 hoặc có S3/S4/S6/S7 → trừ trụ cột Flow và ghi vào nhật ký sửa đổi. Khi sửa chỉ đổi cách nói, không thêm dữ kiện mới.
+- **Soi và đọc phán dấu hiệu cấu trúc** theo `00_core/anti_ai_isms.md` §3b trên từng chương (bảng "Soi rồi đọc"). Máy liệt kê câu khớp S1–S7 và nhóm yếu; đọc từng câu trong ngữ cảnh: nếu không mang dữ kiện/hệ quả mới hoặc nghe như khuôn máy → trừ trụ cột giọng/nhịp và sửa trong nhật ký sửa đổi. Khi sửa chỉ đổi cách nói, không thêm dữ kiện mới.
+
+### Khóa 6: Narrative Craft, chấm mù hai cấp (thêm 06/10/2026, đợt NARRATIVE-CRAFT)
+Chuẩn chấm: `00_core/narrative_craft_rubric.md` (10 chỉ tiêu, hai cấp, mốc ĐẠT, ngân hàng đoạn mẫu). Người chấm: `the_critical_auditor`.
+1. **Chấm mù:** Critical Auditor KHÔNG mở bản tự soi của người viết (Phiếu B trong `11_narrative_craft_scorecard.md`, hay phiếu in trong chat) trước khi nộp phiếu của mình. Khi có nhiều agent, lượt này chạy ở hội thoại khác với người viết.
+2. **Đọc trọn cả tập, không ghi chép**, rồi chấm Phiếu A (cấp bài: I, II, III, IV-b, VII cấp bài, X, bảng gieo/gặt), rồi Phiếu B (cấp chương: IV-a, V, VI, VII, VIII, IX, cột "đẩy câu hỏi đi bao xa"). Mọi điểm 4–5 và 1–2 trích câu; không dùng phép đếm (số liệu, câu hỏi, cảnh) thay cho việc đọc.
+3. **Đối chiếu với bản tự soi** sau khi đã nộp phiếu: ở chỉ tiêu nào lệch quá 1 điểm, đọc lại cùng người viết đúng đoạn đó, ghi điểm thống nhất và lý do. Điểm chính thức qua cổng là của người chấm mù (hoặc điểm thống nhất sau đối chiếu), bản tự soi chỉ để đối chiếu khi lệch > 1.
+4. **Đối chiếu hai cấp** (`narrative_craft_rubric.md` §5): cấp bài cao, cấp chương thấp → trả về Pha 7 kèm lệnh sửa từng chương; cấp chương cao, cấp bài thấp → trả về Pha 4 sửa dàn ý; cả hai thấp → Pha 4 rồi Pha 7.
+5. **Điểm K** (thang 20 của `00_core/quality_rubric.md`) = (trung bình cấp bài + trung bình cấp chương) ÷ 2 × 4, lấy từ kết quả chấm mù chính thức (hoặc điểm thống nhất sau đối chiếu), tuyệt đối không lấy từ bản tự soi của người viết; ghi vào báo cáo. K không đạt mốc ĐẠT thì KHÔNG ĐẠT dù 4 trụ cột ≥ 8,5; Hard-Fail 11 của `quality_rubric.md` §4 áp tại đây.
+6. Lưu cả hai phiếu (bản tự soi, bản chấm mù, điểm thống nhất, lệnh sửa) vào `episodes/[slug]/11_narrative_craft_scorecard.md`.
 
 ---
 
@@ -129,7 +138,8 @@ Báo cáo compliance bắt buộc phải tuân theo cấu trúc sau:
 * **Dialectical Rigor & Symmetric Parity (25%):** X/10 — [Nhận xét Steelman, các lăng kính đã chọn trong hiến chương, [THE DEVIL'S CHAPTER], trade-offs, đối xứng 1-1]
 * **Flow, Cadence & Authentic Gravitas (25%):** X/10 — [Nhận xét câu < 150 ký tự, nhịp thở TTS, sạch melodrama & AI-isms]
 * **Anchoring Density & Temporal Integrity (25%):** X/10 — [Nhận xét số liệu thực chứng, logic thời gian, Footnote ID từ Vault]
-* 🎯 **Tổng Điểm Đánh Giá:** Y.Y/10 — [ĐẠT / KHÔNG ĐẠT (Ngưỡng đạt: ≥ 8.5/10 và không có điểm thành phần nào < 7.5)]
+* **Narrative Craft (K, Khóa 6, chấm mù):** K = X/20 — Cấp bài TB A.A/5 [ĐẠT/KHÔNG] · Cấp chương TB B.B/5 [ĐẠT/KHÔNG] · Chuyển về: [không / Pha 4 / Pha 7] · Chi tiết: `11_narrative_craft_scorecard.md`
+* 🎯 **Tổng Điểm Đánh Giá:** Y.Y/10 — [ĐẠT / KHÔNG ĐẠT (Ngưỡng đạt: ≥ 8.5/10, không có điểm thành phần nào < 7.5, VÀ K đạt mốc ĐẠT của `00_core/narrative_craft_rubric.md`)]
 
 ## 1b. Đối Chiếu Hiến Chương Tập (`00_hien_chuong.md`)
 * **Tiêu đề và câu hỏi trung tâm:** [khớp nguyên văn? Đạt / Lệch ở đâu]
@@ -161,10 +171,10 @@ Báo cáo compliance bắt buộc phải tuân theo cấu trúc sau:
 | 12 | Claim thiếu nhãn / thiếu dòng lưu ý | Không | ✅ PASS |
 | 13 | Không có mã M / vượt nhãn / mất chân đỡ (hard-fail) | Không | ✅ PASS |
 
-**Đếm dấu hiệu cấu trúc (`00_core/anti_ai_isms.md` §3b):**
-| Chương | S1 không phải X mà là Y (≤2) | S2 câu chốt rỗng | S3/S4/S6/S7 | Đoạn có ≥2 dấu hiệu yếu | Trạng thái |
+**Câu bị soi ra theo `00_core/anti_ai_isms.md` §3b:**
+| Chương | Câu (trích) | Dấu hiệu | Đọc: Giữ hay Sửa | Lý do | Câu sửa (nếu sửa) |
 |---|---|---|---|---|---|
-| ... | ... | ... | ... | ... | ✅ / ❌ |
+| ... | ... | ... | ... | ... | ... |
 
 ## 4. Nhật ký Sửa Đổi Trực Tiếp Hữu Cơ (Organic Revision Log)
 | Chương | Đoạn gốc | Đoạn tái cấu trúc hữu cơ | Lý do nhận thức | Chuyên gia đề xuất |

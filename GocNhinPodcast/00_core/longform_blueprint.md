@@ -53,15 +53,15 @@ Nhưng CÁCH thực hiện phụ thuộc vào BẢN CHẤT chủ đề:
 | Bản chất chủ đề? | Tài chính cá nhân | Chiến lược doanh nghiệp/quốc gia | Xu hướng toàn cầu dài hạn |
 
 > **QUY TẮC CHUNG:**
-> - **Loại A:** Không để quá 4 phút mà không có ít nhất 1 câu kéo về đời sống chung của người xem (Zoom-In bằng lăng kính phổ quát).
-> - **Loại B:** Không để quá 4 phút mà không có ít nhất 1 điểm neo bài toán doanh nghiệp/quốc gia (ai trả giá, luật chơi đổi thế nào, đối thủ phản ứng ra sao). KHÔNG ép đời sống cá nhân.
-> - **Loại C (Documentary):** KHÔNG ÉP Zoom-In cá nhân. Thay vào đó, giữ chân khán giả bằng DATA SHOCK mới, ví dụ quốc tế đắt giá, và CONTRADICTION liên tục mỗi 3-4 phút. Khán giả ở lại vì TÒ MÒ TRÍ TUỆ, không phải vì sợ mất tiền.
+> - **Loại A:** Duy trì các câu kéo về đời sống chung của người xem (Zoom-In bằng lăng kính phổ quát; tham chiếu nhịp khoảng mỗi 3-4 phút).
+> - **Loại B:** Thường xuyên cài cắm điểm neo bài toán doanh nghiệp/quốc gia (ai trả giá, luật chơi đổi thế nào, đối thủ phản ứng ra sao; tham chiếu nhịp khoảng mỗi 3-4 phút). KHÔNG ép đời sống cá nhân.
+> - **Loại C (Documentary):** KHÔNG ÉP Zoom-In cá nhân. Thay vào đó, giữ chân khán giả bằng manh mối mới, ví dụ quốc tế đắt giá, và mâu thuẫn dữ liệu được làm mới liên tục (tham chiếu nhịp khoảng mỗi 3-4 phút). Khán giả ở lại vì TÒ MÒ TRÍ TUỆ, không phải vì sợ mất tiền.
 
 Một video mạnh thường có 4 phẩm chất:
 1. **Observation đủ đắt** — mở bằng dữ liệu, nghịch lý, hoặc cảnh huống thật.
 2. **Personal Stakes tức thì** — người xem thấy mình liên quan ngay sau Hook (qua 1 câu Zoom-In hoặc 1 chương riêng, tùy loại chủ đề).
 3. **Interpretation đủ sâu** — dữ liệu phải được dịch thành ý nghĩa.
-4. **Rhythm đủ sống** — có đoạn đẩy, đoạn hạ, đoạn mở lớp, đoạn chốt. Có re-hook mỗi 3-4 phút.
+4. **Rhythm đủ sống** — có đoạn đẩy, đoạn hạ, đoạn mở lớp, đoạn chốt; duy trì các điểm re-hook tự nhiên (tham chiếu nhịp khoảng mỗi 3-4 phút).
 
 ## 3. Cấu trúc Tự sự 3 Màn Động (Dynamic 3-Act Narrative Architecture)
 Cấu trúc phải phục vụ logic phân tích nội tại của chủ đề, không bao giờ gượng ép số chương cố định. Tùy theo Cấp độ Thời lượng (Cấp 1 đến Cấp 4), kịch bản có thể dao động linh hoạt từ 4 đến 12+ chương, nhưng BẮT BUỘC phải tuân thủ khung vận hành 3 Màn chuẩn mực:
@@ -84,12 +84,12 @@ Cấu trúc phải phục vụ logic phân tích nội tại của chủ đề, 
 >
 > **Hệ quả cho Hook:**
 > - **BẮT ĐẦU BẰNG HIỆN TẠI** — sự kiện, con số, tin tức mà khán giả VỪA THẤY trên newsfeed. KHÔNG mở bằng lịch sử xa (1954, 1986) — khán giả lạnh không đủ kiên nhẫn để chờ "À, hóa ra liên quan."
-> - **3 giây đầu = Data Shock hiện tại** — GDP vừa công bố, FDI mới nhất, chính sách vừa ban hành, con số trending trên mạng xã hội.
+> - **3 giây đầu = Manh mối / Điểm chạm hiện tại** — GDP vừa công bố, FDI mới nhất, chính sách vừa ban hành, con số hoặc nghịch lý đang được quan tâm trên mạng xã hội (tạo đối nghịch nhìn thấy được, không giật gân rẻ tiền).
 > - **Lịch sử chỉ được dùng SAU khi đã hook bằng hiện tại** — ở các chương giữa như pattern/evidence, KHÔNG phải ở hook.
 > - **Câu đầu tiên phải khiến người xem DỪNG LƯỚT** — vì nó nói về THẾ GIỚI CỦA HỌ NGAY BÂY GIỜ.
 
 Mục tiêu:
-- mở bằng data shock hoặc mâu thuẫn có calibre,
+- mở bằng nghịch lý hoặc mâu thuẫn có calibre,
 - xác lập cách đọc riêng của video,
 - mở ít nhất 1 Open Loop (câu hỏi cốt lõi chưa trả lời).
 
@@ -100,8 +100,11 @@ Mục tiêu:
 
 Cấu trúc 30 giây đầu và phần còn lại của Ch.1 (xác nhận cú bấm 0–3 giây, đối nghịch, điều được mất, câu hỏi trung tâm; mở-đóng-mở; re-hook 3:30): `.agents/skills/hook_engine/SKILL.md` Chặng 2b (bản gốc duy nhất).
 
+> ⚠️ **BẢN ĐỒ KHÔNG PHẢI MỤC LỤC:** Bản đồ nhận thức là hình thù cơ chế và bàn cờ, KHÔNG phải mục lục video: cấm liệt kê các trạm hay các chương sắp tới ("hành trình của chúng ta đi qua ba trạm"); người xem biết mình sắp đi đâu nhờ câu hỏi đã được đặt (sửa 06/10/2026).
+
 Nội dung nên có:
 - một dữ liệu hoặc contrast đủ mạnh,
+- đoạn văn Zoom-Out phác họa toàn bộ cỗ máy (hình thù cơ chế, không đọc mục lục video),
 - một câu interpretive sentence cho thấy đây không phải bản tin thời sự hời hợt,
 - một tension thật sự cần được giải đáp.
 - **NGHIÊM CẤM ĐẶT LỜI KÊU GỌI (CTA) Ở CHƯƠNG 1:** Chương 1 chỉ đóng vai trò là một chiếc "Hook" thuần túy để mở vòng lặp (Open Loop). Việc đặt CTA ở đây sẽ làm đứt gãy sự tò mò và phá hỏng nhịp điệu của sự bí ẩn.
@@ -126,8 +129,7 @@ Nội dung nên có:
 Mục tiêu:
 - Giải thích WHY — giải phẫu cơ chế kinh tế, vật lý, công nghệ hoặc rào cản thể chế đằng sau vấn đề.
 - Sử dụng phép loại suy (analogy) chuẩn xác đời thường để trực quan hóa khái niệm phức tạp mà không làm sai lệch nguyên lý.
-- Phân định rạch ròi giữa triệu chứng bề ngoài và nguyên nhân cấu trúc gốc rễ.
-- **Quy tắc Case Study:** Tối đa 1 case study đắt giá trong mỗi chương, và không quá 2 case (Loại A/B) hoặc 3 case (Loại C) trong TOÀN BỘ VIDEO. Case study phải phục vụ việc giải mã cơ chế, cấm đưa vào chỉ để "trang trí".
+- **Quy tắc Case Study:** Tuân thủ trần case study theo quyết định nội dung của user (Q1, 02/10/2026): bài Loại B có tối đa 2 case study quốc tế, mỗi case ≤ 3 phút (áp dụng chung Loại A/B tối đa 2 case; Loại C tối đa 3 case; mỗi case ≤ 3 phút, theo `content_principles.md` §5). Case study phải phục vụ trực tiếp việc giải mã cơ chế và làm sâu sắc luận điểm; chọn lọc tinh gọn, không dàn trải làm loãng mạch kể hoặc biến thành bài kể chuyện nước ngoài. Đây là quyết định nội dung của user, không phải chỉ tiêu chất chuyện, nên không chấm bằng khung 10 chỉ tiêu.
 
 #### Chương Đỉnh Cao Trào Màn 2 (Act 2 Climax — Cú Va Chạm Bản Chất)
 Mục tiêu:
@@ -150,17 +152,17 @@ Luật gốc: `00_core/stance_and_judgment.md` §1 và §8 (chế độ kết A/
 - Trả lời các open loop phụ đã gieo; câu hỏi lớn kết theo chế độ đã chọn (A: nói thẳng lập trường một lần kèm điều kiện có thể sai; B: trao khung §1b rồi đặt câu hỏi mở nhắm đúng biến số quyết định).
 - Để lại một lăng kính nhận thức có sức bám dài hạn; câu cuối làm người xem nhìn lại câu mở đầu theo cách khác.
 - Kết bằng câu mạnh nhất, không "Tóm lại...", "Cuối cùng...", không tóm tắt lại video.
-- Không CTA ở chương kết: CTA duy nhất nằm cuối Chương 2 (`.agents/AGENTS.md` mục 4).
+- Không CTA ở chương kết: CTA duy nhất nằm cuối Chương 2 (`.agents/AGENTS.md` §4 "Hằng số vận hành").
 
 ---
 
-## 4. Quy tắc Re-hook và Pattern Interrupt (CỨNG)
-Nghiên cứu cho thấy người xem mất tập trung sau mỗi 2-3 phút. Kịch bản PHẢI có cơ chế reset chú ý liên tục.
+## 4. Quy tắc Re-hook và Pattern Interrupt (Nguyên tắc nhịp)
+Người xem dễ phân tâm nếu nhịp điệu đều đều kéo dài (tham chiếu khoảng 2-3 phút). Kịch bản cần cơ chế reset chú ý liên tục theo mạch thở tự nhiên của câu chuyện; các mốc thời gian tính phút là tham chiếu nhịp cảm giác, không phải cổng đếm cơ học.
 
-### Quy tắc bắt buộc:
-- **Mỗi 3–4 phút** phải có 1 RE-HOOK (mini-hook nhắc lại lý do nên ở lại).
-- **Mỗi 4 phút** phải xuất hiện 1 DATA SHOCK MỚI (con số, dữ liệu hoặc nghịch lý gây sốc mới).
-- **KHÔNG BAO GIỜ** để quá 3 phút chỉ có "phân tích" liên tiếp mà không có: (a) data shock mới, (b) câu kéo về tương quan người xem / hệ thống, (c) phép loại suy đời thường, hoặc (d) pattern interrupt thị giác.
+### Nguyên tắc nhịp:
+- **Tham chiếu nhịp mỗi 3–4 phút** nên có 1 RE-HOOK (nhắc lại lý do hoặc góc nhìn mới khiến người xem tiếp tục theo dõi).
+- **Luôn xuất hiện manh mối hoặc dữ kiện mới** (con số, dữ kiện hoặc nghịch lý mới mở rộng tầm nhìn, không để câu chuyện bão hòa).
+- **Tránh để phân tích thuần túy kéo dài** mà không có: (a) manh mối/dữ kiện mới, (b) câu kéo về tương quan người xem / hệ thống, (c) phép loại suy đời thường, hoặc (d) pattern interrupt thị giác/câu chuyện.
 
 ### Cách đặt Re-hook:
 - Re-hook KHÔNG phải teaser rẻ tiền ("sắp tới sẽ rất hay").
@@ -168,11 +170,11 @@ Nghiên cứu cho thấy người xem mất tập trung sau mỗi 2-3 phút. K�
   * *Loại A:* "Phần tiếp theo tôi sẽ chỉ cho bạn chính xác tại sao điều này đang âm thầm ăn mòn 15% thu nhập của bạn mỗi năm."
   * *Loại B & C:* "Nhưng phần nan giải nhất chưa dừng lại ở bài toán tài chính bề mặt, mà nằm ở một điểm nghẽn kỹ thuật sắp làm đảo lộn toàn bộ chuỗi cung ứng..."
 
-### Tần suất Re-hook theo Cấp độ Thời lượng (Dynamic Pacing):
-- **Cấp 1 (8–15m):** Tối thiểu 2–3 Re-hooks (tại ranh giới Ch.2 sang Ch.3 và trước cao trào).
-- **Cấp 2 (16–25m):** Tối thiểu 4–5 Re-hooks phân bổ đều mỗi 3–4 phút.
-- **Cấp 3 (26–35m):** Tối thiểu 6–8 Re-hooks duy trì nhịp thở điều tra.
-- **Cấp 4 (36–45+m):** Tối thiểu 9–12 Re-hooks bám sát từng khúc cua chuyển màn.
+### Tham chiếu phân bổ Re-hook theo Cấp độ Thời lượng (Pacing Reference - không đếm cơ học):
+- **Cấp 1 (8–15m):** Khoảng 2–3 Re-hooks (tại ranh giới Ch.2 sang Ch.3 và trước cao trào).
+- **Cấp 2 (16–25m):** Khoảng 4–5 Re-hooks phân bổ theo các khúc chuyển màn.
+- **Cấp 3 (26–35m):** Khoảng 6–8 Re-hooks duy trì nhịp thở điều tra.
+- **Cấp 4 (36–45+m):** Khoảng 9–12 Re-hooks bám sát từng khúc cua chuyển màn.
 
 ## 5. Open loop và cách dùng
 Mỗi video nên có 2–3 open loops chính.
@@ -189,8 +191,8 @@ Quy tắc:
 Muốn sâu mà không khô, nên luân phiên 4 chất liệu:
 1. data,
 2. interpretation,
-3. case study (tối đa 1 case mỗi chương, ≤ 2–3 case trong toàn video),
-4. tính liên quan khán giả / hệ thống (Audience Relevance Anchor theo Loại A/B/C, xuất hiện mỗi 3–4 phút).
+3. case study (tuân thủ trần Q1 ngày 02/10/2026: Loại A/B tối đa 2 case, Loại C tối đa 3 case, mỗi case ≤ 3 phút; mỗi case có nguồn trong vault và phục vụ đúng luận điểm, theo `content_principles.md` §5),
+4. tính liên quan khán giả / hệ thống (Audience Relevance Anchor theo Loại A/B/C, duy trì thường xuyên theo mạch chuyện, tham chiếu nhịp khoảng mỗi 3–4 phút).
 
 Nhịp tốt thường là:
 - dữ liệu,
@@ -200,8 +202,8 @@ Nhịp tốt thường là:
 - rồi mới đi tiếp.
 
 ## 7. Cách dùng case study trong long-form
-**NGHIÊM CẤM** dàn hàng quá 2 case study quốc tế trong một video.
-Mỗi chương chỉ nên có 1 case study chính.
+Theo quyết định nội dung của user (Q1, 02/10/2026), bài Loại B có tối đa 2 case study quốc tế, mỗi case ≤ 3 phút (áp dụng chung: Loại A/B tối đa 2 case; Loại C tối đa 3 case; mỗi case ≤ 3 phút, theo `content_principles.md` §5). Đây là quyết định nội dung của user, không phải chỉ tiêu chất chuyện, nên không chấm bằng khung 10 chỉ tiêu.
+Tránh dàn hàng kể lể xa rời mạch chuyện. Mỗi chương chỉ nên có 1 case study chính.
 
 Case study tốt phải:
 - có nguồn rõ,
@@ -257,9 +259,9 @@ Phần giữa (phút 4-10) là nơi người xem rời đi nhiều nhất. Đây
 - nói toàn data mà không có interpretation,
 - giải thích framework trừu tượng quá 2 phút liên tiếp.
 
-Sau một đoạn phân tích nặng (tối đa 2-3 phút), BẮT BUỘC có:
-- data shock mới, HOẶC
-- một câu diễn giải rất rõ kéo về đời sống cá nhân, HOẶC
+Sau một đoạn phân tích nặng (tham chiếu nhịp: tránh để lý thuyết thuần kéo dài quá 2-3 phút), kịch bản cần có:
+- manh mối hoặc dữ kiện mới mở rộng vấn đề, HOẶC
+- một câu diễn giải rất rõ kéo về đời sống cá nhân hoặc vận hành doanh nghiệp, HOẶC
 - một phép loại suy đời thường dễ hình dung.
 
 ## 10. Quy tắc phần kết
@@ -277,29 +279,30 @@ KHÔNG hạ năng lượng ở phần kết. Kết bằng câu mạnh nhất, kh
 ## 11. One-theme per chapter
 Mỗi chương nên phục vụ một vai trò phân tích chính.
 Nếu một chương vừa cố giải thích cơ chế, vừa muốn kể case, vừa muốn action plan, nó sẽ rối.
-Độ dài mỗi chương theo ngân sách [Floor – Target – Ceiling] của `07_outline.md`, trần tuyệt đối 1.050 từ (≈ 4,7 phút); vượt trần thì tách chương (`.agents/workflows/build_outline.md` Trạm 5).
+Độ dài mỗi chương theo ngân sách [Floor – Target – Ceiling] của `07_outline.md`, trần tuyệt đối 1.050 từ (≈ 4,7 phút); vượt trần thì tách chương (`.agents/workflows/build_outline.md` Trạm 5). Chữ thêm để người nghe hiểu được phép vượt Ceiling của chương (Trạm 5, ngoại lệ "người nghe hiểu").
 
 ## 12. Viết cho tai, không viết cho mắt
-- Giới hạn cứng: mỗi câu dưới 150 ký tự (`.agents/skills/chapter_writer/SKILL.md` mục "Writing for the Ear"). Gợi ý nhịp (không bắt buộc): câu phân tích khoảng 8–15 từ, câu chốt 3–8 từ, trộn độ dài để tránh đơn điệu.
+- Luật câu thoại: `.agents/skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai" (bản chuẩn duy nhất). Dưới 150 ký tự là trần kỹ thuật TTS, không phải mục tiêu; câu hay nhất cho tai, không phải ngắn nhất; bắt buộc đọc to trước khi nộp.
 - Không dùng thuật ngữ hàn lâm nếu không có phép loại suy đời thường kèm theo NGAY LẬP TỨC.
 - Cấm: "Developmental State", "Meritocratic Bureaucracy", "Institutional Checks" — trừ khi NGAY SAU ĐÓ có câu: "Nói đơn giản là..."
 
-## 13. Chỉ số tự kiểm của long-form (Retention Checkpoint)
-Một outline tốt phải đạt TẤT CẢ các tiêu chí sau:
+## 13. Chỉ số tự kiểm của long-form (Retention & Narrative Checkpoint)
+Đánh giá chất lượng outline theo bảng câu hỏi đọc duyệt (tham chiếu Phiếu A `00_core/narrative_craft_rubric.md`). Người biên tập đọc toàn văn outline và trả lời các câu hỏi:
 
-### Checklist cứng:
-- [ ] Chương 2 có Personal Stakes (với Loại A) hoặc Relevance Anchor / Phân tích logic vĩ mô sắc sảo (với Loại B & C)?
-- [ ] Open Loop ở Hook phù hợp bản chất chủ đề (neo vào túi tiền với Loại A; neo vào tò mò trí tuệ / nghịch lý với Loại B/C)?
-- [ ] Có Re-hook tại mốc phút ~3:30?
-- [ ] Có Data Shock mới tại mốc phút ~7:00?
-- [ ] Tổng case study quốc tế đạt chuẩn (≤ 2 với Loại A/B; ≤ 3 với Loại C)?
-- [ ] Tổng thời lượng và ngân sách từ đạt chuẩn theo Cấp độ đã quy hoạch trong Brief (Cấp 1 đến Cấp 4)?
-- [ ] Không có đoạn "chỉ lý thuyết/framework" liên tiếp > 3 phút mà không có data, ví dụ hoặc logic liên hệ hỗ trợ?
-- [ ] Mỗi chapter có bridge tạo chuyển động logic?
+### Câu hỏi đọc duyệt:
+- [ ] Chương 2 đã thiết lập được Personal Stakes (với Loại A) hoặc Relevance Anchor / Phân tích logic vĩ mô sắc sảo (với Loại B & C) khiến người xem thấy lý do bám theo chưa?
+- [ ] Open Loop ở Hook có phù hợp bản chất chủ đề (neo vào túi tiền với Loại A; neo vào tò mò trí tuệ / nghịch lý với Loại B/C) và được định vị rõ nơi giải đáp chưa?
+- [ ] Mạch chuyện có các điểm re-hook / reset chú ý tự nhiên (tham chiếu nhịp ~3-4 phút) để người nghe không bị kiệt sức nhận thức chưa?
+- [ ] Có manh mối, dữ kiện hoặc nghịch lý mới mở ra ở các khúc chuyển màn thay vì chỉ diễn giải lại ý cũ chưa?
+- [ ] Các case study quốc tế có tuân thủ trần Q1 (Loại A/B tối đa 2 case, Loại C tối đa 3 case, mỗi case ≤ 3 phút; quyết định nội dung của user ngày 02/10/2026, `content_principles.md` §5) và gắn chặt vào bối cảnh Việt Nam chưa?
+- [ ] Tổng thời lượng và ngân sách từ đạt chuẩn theo Cấp độ đã quy hoạch trong Brief (Cấp 1 đến Cấp 4), mỗi chương có ngân sách Floor-Target-Ceiling rõ ràng chưa?
+- [ ] Toàn bộ outline có tránh được các đoạn lý thuyết suông kéo dài mà thiếu dữ kiện đối chứng hay liên hệ thực tế chưa?
+- [ ] Mỗi chapter có bridge tạo chuyển động logic nhân quả (But/Therefore) thay vì liệt kê phẳng chưa?
 - [ ] Chương kết đúng chế độ A/B đã chọn (`stance_and_judgment.md` §1), không bị hòa tan?
-- [ ] Phần kết có năng lượng cao, không tóm tắt, không CTA?
+- [ ] Phần kết có năng lượng cao, đọng lại lăng kính nhận thức dài hạn, không tóm tắt, không CTA?
 
-### Nếu outline không đạt ≥ 8/10 tiêu chí → phải sửa trước khi viết chapter.
+### Đánh giá và Cổng duyệt:
+Outline đạt khi vượt qua Phiếu A theo `00_core/narrative_craft_rubric.md` (đạt điểm tổng thể và không có tiêu chí nào dưới ngưỡng chấp nhận). Nếu có câu hỏi nào chưa thỏa mãn, phải hoàn thiện outline trước khi viết chapter.
 
 ## 14. Documentary Retention Playbook (Loại C)
 
@@ -338,13 +341,13 @@ Thay vì Re-hook bằng "túi tiền", dùng 4 loại anchor:
 | Màn 2: Dồn nén & Đỉnh cao trào | Giải mã cơ chế + Phân tích mâu thuẫn + Act 2 Climax | **Comparison Layers** — bóc tách các tầng so sánh quốc tế + Nghịch lý vĩ mô |
 | Màn 3: Tái cấu trúc & Grand Payoff | Bước nhảy chuyển hóa / Giải pháp + Kết Grand Payoff | **Implications & Future Scenarios** — hệ quả dài hạn + Lens nhận thức mới |
 
-### 14.4. Ngưỡng retention cho Documentary
+### 14.4. Định hướng nhịp cho Documentary
 
-- Không bắt buộc "túi tiền" mỗi 3 phút
-- BẮT BUỘC: Data Shock hoặc Comparison mới mỗi **4 phút max**
+- Không bắt buộc ép "túi tiền" vào mọi phân đoạn
+- Duy trì nhịp chuyện bằng manh mối, so sánh hoặc dữ kiện mới thường xuyên (tham chiếu nhịp: khoảng mỗi 4 phút)
 - BẮT BUỘC: Ít nhất 1 VN Anchor trong mỗi chương (nếu chủ đề quốc tế)
-- Cho phép đến 3 case study quốc tế (thay vì 2)
-- Ch.2 KHÔNG bắt buộc Personal Financial Stakes — nhưng PHẢI có Relevance Anchor
+- Case study quốc tế: Loại C tối đa 3 case, mỗi case ≤ 3 phút (theo `content_principles.md` §5 và quyết định nội dung Q1 ngày 02/10/2026 của user), phục vụ trực tiếp so sánh đa tầng
+- Ch.2 KHÔNG bắt buộc Personal Financial Stakes — nhưng PHẢI có Relevance Anchor mạnh
 
 ### 14.5. Checklist chạy Retention Gate cho Documentary
 

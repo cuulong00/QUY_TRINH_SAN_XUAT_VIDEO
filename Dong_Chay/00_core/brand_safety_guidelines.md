@@ -33,4 +33,4 @@ Cùng một mô tả sự kiện, nhưng cách dùng từ quyết định việc
 Trước khi xuất ra kết quả kịch bản cuối cùng (Output), Agent **BẮT BUỘC** phải chạy thuật toán rà soát nội bộ (Internal Audit) cho Brand Safety:
 1. *Có từ nào trong đoạn văn này có nguy cơ kích hoạt bộ lọc bạo lực / thảm kịch của YouTube không?*
 2. *Có thể nâng cấp từ này bằng một thuật ngữ vĩ mô/tài chính chuyên nghiệp hơn không?*
-3. *Cảm giác tổng thể của đoạn phân tích này là sự tức giận/kích động (Anger) hay là sự phân tích lạnh lùng, khách quan (Cold Analysis)?* -> Nếu là Anger, phải viết lại thành Cold Analysis.
+3. *Cảm giác tổng thể của đoạn phân tích này là sự tức giận/kích động (Anger) hay là sự phân tích điềm tĩnh, khách quan, có nghề (Objective Analysis)?* -> Nếu là Anger, phải viết lại thành phân tích khách quan.

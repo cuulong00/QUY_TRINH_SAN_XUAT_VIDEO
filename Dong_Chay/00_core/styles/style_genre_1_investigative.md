@@ -9,7 +9,7 @@
 *   **Không giới thiệu lý thuyết:** Tuyệt đối cấm đi thẳng vào định nghĩa học thuật hay giới thiệu chủ đề chung chung.
 *   **Bẫy Nghịch Lý (The Paradox Hook):** Đưa ra 2 sự thật đối lập nhau chan chát để kích thích sự tò mò của bộ não.
     *   *Mẫu tư duy:* "Hệ thống A hoạt động vô cùng chặt chẽ, NHƯNG tại địa điểm B, hàng tỷ USD vẫn biến mất không dấu vết."
-*   **Mỏ neo vật lý (Physical Anchor):** Đặt một đạo cụ trực quan (vali tiền mặt, tờ tiền có số sê-ri, tấm bản đồ cũ, chiếc điện thoại...) làm điểm tựa thị giác đầu tiên ngay trong 30 giây đầu.
+*   **Mỏ neo chứng cứ (Evidence Anchor):** Đưa ra một vật chứng có thật, văn bản có ngày, con số đối chiếu hoặc câu hỏi điều tra sắc bén làm điểm tựa nhận thức ngay từ phần mở đầu. Không bắt buộc phải là đạo cụ vật lý hay tả cảnh dựng không khí.
 
 ## 2. Viết Thoại Trực Quan Hóa Chứng Cứ (Conversational Receipts)
 Để xây dựng lòng tin tuyệt đối cho một câu chuyện điều tra, lời thoại phải biến các văn bản báo cáo khô khan thành **cuộc đối thoại khám phá trực tiếp**:
@@ -26,4 +26,4 @@
 
 ## 4. Cấu Trúc Zooming (Macro - Micro)
 *   Liên tục hoán đổi góc nhìn: Zoom cận vào một thực tế đời thường/một vụ án cụ thể ➔ Zoom xa ra bối cảnh vĩ mô/quy luật địa chính trị toàn cầu giải thích cho thực tế đó ➔ Zoom cận lại giải pháp.
-*   Không giải thích lý thuyết vĩ mô liên tục quá 2 phút mà không có một ví dụ cận cảnh hoặc câu hỏi phản biện chéo.
+*   Không giải thích lý thuyết vĩ mô kéo dài khiến người nghe hụt hơi mà luôn đan xen ví dụ cận cảnh, vật chứng thực tế hoặc câu hỏi phản biện chéo (tiêu chí VIII Nhịp).

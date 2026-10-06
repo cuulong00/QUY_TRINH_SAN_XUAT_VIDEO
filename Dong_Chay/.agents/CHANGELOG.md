@@ -1,0 +1,83 @@
+# CHANGELOG — DNA Dòng Chảy (`.agents/`, `00_core/`, `02_templates/`)
+
+Mục mới nhất ở trên. Kế hoạch chuyển các thay đổi từ GocNhinPodcast: `01_management/KE_HOACH_CHUYEN_DNA_20261003.md`.
+
+## 2026-10-06 · NARRATIVE-CRAFT · Khung chấm nghệ thuật kịch bản 10 chỉ tiêu hai cấp, thay lượt đọc ba kết luận (user duyệt)
+- Hiện tượng: lượt đọc ba kết luận của đợt KE-CHUYEN (KỂ CHUYỆN / NỬA VỜI / BÁO CÁO) nói được kịch bản có phải báo cáo không, nhưng không nói thiếu gì, thiếu ở đâu. User: chấm nghệ thuật phải tách thành từng chỉ tiêu như hội đồng kịch bản chuyên nghiệp; không chỉ tiêu nào chấm bằng đếm.
+- Gốc rễ còn sót sau KE-CHUYEN (kế hoạch mục 8): W3 brief chương 16 trường toàn hàng dữ liệu, không trường nào là câu hỏi, cú lật, vật chứng, chủ thể; W5 Chặng 2 chuyển thể vẫn chung một lượt với Chặng 1; W7 persona chủ đạo định nghĩa kịch bản hay là "tấm bản đồ sắc lạnh", Narrative Director không có bước tìm cảnh; W8 Pha 2 chỉ thu số, không thu vật chứng; W9 chất chuyện không có cổng.
+- Sửa:
+  * Mới `00_core/narrative_craft_rubric.md`: 10 chỉ tiêu (I Câu hỏi, II Mức cược, III Gieo/gặt, IV-a/IV-b Cú lật/Cao trào, V Cảnh, VI Chủ thể, VII Giọng, VIII Nhịp, IX Câu cho tai, X Kết) với mốc 1/3/5, cấp bài và cấp chương, quy trình 5 bước (đọc trọn không ghi chép → bài → chương → đối chiếu → lệnh sửa), Phiếu A, Phiếu B, bảng đối chiếu hai cấp, mốc ĐẠT (không chỉ tiêu < 3, TB ≥ 4,0, I/IV/V ≥ 4), ngân hàng đoạn mẫu (điểm thấp từ tập GDP; điểm 5 từ CH04 GDP và `_thu_dna_ke_chuyen/chapter_03.md`, còn lại mô tả kỹ thuật theo user chốt).
+  * `00_core/quality_rubric.md`: trụ cột K 20 điểm lấy từ D 12→8, E 10→6, F 8→5, I 15→8, J 5→3 (kế hoạch ghi I = 12 nên thiếu 3 điểm, user chốt lấy từ F); tổng vẫn 110; Hard-Fail 11; phiếu chấm nhanh thêm K hai cấp; sàn Retention 6,5/8; Retention Checkpoint thêm Phiếu A trên dàn ý.
+  * `skills/chapter_writer/SKILL.md`: Bước 3b thành tự chấm Phiếu B; tiêu chí 9–10 gộp thành "Narrative Craft (Phiếu B đạt mốc)"; Chặng 1 và Chặng 2 là hai lượt riêng in sản phẩm ra chat (nhiều agent: Chặng 2 do Narrative Director ở hội thoại khác); bảng nhịp thêm cột chủ thể; Tầng 3B bỏ "mọi data_checklist xuất hiện". `PRE_FLIGHT_GATE.md` trỏ Phiếu B.
+  * `skills/compliance_council/SKILL.md`: Khóa 6 viết lại thành chấm mù hai cấp, đối chiếu, chuyển Pha 4/Pha 7, điểm K vào báo cáo; 11 Hard-Fail.
+  * `workflows/build_outline.md`: chấm Phiếu A trên dàn ý ở Trạm 5 và checklist; Pha 6 thành 20 trường. `workflows/write_chapter.md`, `revise_chapter.md`: tự chấm Phiếu B, lệnh sửa nêu chỉ tiêu và câu lỗi. `workflows/hook_lab.md`, `rules/content-os-pipeline.md`, `03_playbooks/episode_workflow.md`, `CLAUDE.md`: 16 → 20 trường.
+  * `rules/chapter-writing.md`, `rules/editorial-quality.md`: trỏ Phiếu B; thêm 3 câu hỏi IV, V, VI; bỏ ngưỡng đếm trong red flag "đọc bảng số".
+  * `examples/chapter_writer_examples.md`: mục 8 thành "Phiếu B đạt mốc"; chú thích Pair 6–8 là mẫu điểm thấp/cao cho I, III, IV, V.
+  * `personas/the_critical_auditor.md`: Khóa 6 chấm mù, cấm xem bản tự chấm. `personas/the_macro_strategist.md` dòng 93: bản đồ là thứ người xem nhận ra sau câu chuyện, không phải thứ được đọc. `personas/the_narrative_director.md` Mục 5: thêm bước "tìm cảnh và vật chứng trước câu đầu". Đã rà `the_policy_analyst`, `the_macro_economist`, `the_industrial_controller`, `the_corporate_finance_analyst`, `the_editorial_strategist`, `the_dialectic_architect`: không có câu định nghĩa tương tự.
+  * Khuôn: `02_templates/masterpiece_pipeline/08_chapter_briefs_template.md` thêm 4a `cau_hoi_dieu_tra`, 4b `vat_chung`, 4c `cu_lat`, 4d `chu_the_va_dong_co`; trường 8 bỏ "mật độ dữ liệu"; bảng pointer đổi cột "Dữ kiện và nhịp nó phục vụ" + "đọc / lên hình"; sửa sót "GocNhinPodcast" ở trường 3. Mới `11_narrative_craft_scorecard_template.md` và bản rỗng trong `episode_template/`; `episode_template/README.md`, `CLAUDE.md`: file bắt buộc với tập mới (user chốt).
+  * `skills/deep_researcher/SKILL.md`: Kho vật chứng `VC-XX` trong `02_research_map.md` (mục 8.4, user duyệt), không bắt buộc với tập đang chạy.
+  * `AGENTS.md`: một dòng trỏ `narrative_craft_rubric.md` ở mục ngưỡng QA.
+- Kiểm chứng: chấm thật tập GDP ở `episodes/gdp-9-thang-2026-con-so-10-tu-dau/11_narrative_craft_scorecard.md` (cấp bài 3,5; cấp chương 3,06; K 13,1/20; Hard-Fail 11 ở CH01; chỗ hỏng V, VIII, VI, IV); chấm mù độc lập CH03 lệch ≤ 1 ở mọi chỉ tiêu; thử khuôn brief mới cho CH03 ở `_thu_dna_ke_chuyen/08_brief_ch03_khuon_moi.md`.
+- Sao lưu trước khi sửa: `/Users/pro16/VideoProject_backup/khung_cham_nghe_thuat_20261006/Dong_Chay/`.
+- **Bổ sung chiều 06/10 (user chốt: hai kênh đồng nhất; làm qua 5 agent Antigravity, Claude kiểm từng phiếu):**
+  * Chỉ tiêu V đổi tên "Vật chứng so với tóm tắt"; thêm định nghĩa "Vật chứng khác tả cảnh" (tả cảnh chỉ bị hạn chế vì rườm rà, điệu, không hợp khán giả có tuổi) và "Không có khuôn kể chung" vào `00_core/narrative_craft_rubric.md`. Ghi nhớ: không khuôn chung, DNA định hướng tư duy, không như mã lệnh.
+  * NC-DC-06: viết lại các luật chất chuyện tính bằng đếm hoặc theo đồng hồ thành tham chiếu nhịp và câu hỏi đọc trỏ khung 10 chỉ tiêu (re-hook, "mỗi 3–4 phút", "quá 3 phút", "N/N tiêu chí", "3–6 nhịp", trần case thống nhất theo `content_principles.md` §5, "mắt xích 3–4"); bỏ luật bắt mở chương bằng âm thanh/đồ vật. Giữ cổng kỹ thuật. Sao lưu `.../Dong_Chay_dem/`.
+  * NC-AI-07: `00_core/anti_ai_isms.md` §3b thành "soi rồi đọc" (máy soi mẫu câu kể cả biến thể, người đọc phán trong đoạn, ghi vào IX và VII); sửa theo ở `chapter_writer`, `compliance_council` (bảng "Câu bị soi ra"), `the_quality_czar`. Danh sách từ cấm giữ nguyên. Sao lưu `.../Dong_Chay_ai07/`.
+  * NC-DC-09: bước "Cách kể của tập" ở đầu Pha 4 (`build_outline.md`, `07_outline_template.md`); `golden_hook.md` thêm mở-đóng-mở và cấm đọc mục lục; `golden_analysis.md` trỏ Phiếu B. Sao lưu `.../Dong_Chay_dc09/`.
+  * NC-DC-12: Kho vật chứng VC-xx ở khuôn research map, `deep_research.md`, khuôn global vision; thêm Pair cú lật vào `editorial_quality_examples.md` (mẫu từ GDP CH03, CH04); `golden_transition.md` Loại 5; chấm lại Phiếu A sau merge (`final-merge.md`, `merge_voiceover.md`); khuôn `episode_template/08_chapter_briefs.md` thành 20 trường, `09_narrative_state_tracker.md` "Nhịp chuyện và dữ kiện phục vụ"; hook "Bước 2b" (`hook_engine`, `hook_lab`, `04_hook_pack_template.md`). Sao lưu `.../Dong_Chay_dc12/`.
+  * NC-VOICE-13: giọng nền "điềm tĩnh, có nghề, có một bộ óc đang nghĩ"; tông lạnh và đanh là lựa chọn theo chủ đề (đoạn mới `00_core/voice_dna.md` mục 2.2, khớp câu chữ với GocNhinPodcast); bỏ "lạnh lùng/sắc lạnh/Cold ..." như giọng mặc định ở `voice_dna`, `channel_bible`, `quality_rubric`, `voiceover_style_guide`, `anti_patterns`, `AGENTS.md`, persona narrative_director và macro_strategist, v.v.; giữ "lạnh" ở tính cách persona nghề nghiệp. Tên kỹ thuật "Cold Epiphany" đổi "Epiphany & Silence Beat". Sao lưu `.../voice13/`.
+  * NC-SELF-16: người viết và người dựng dàn ý chỉ TỰ SOI bằng Phiếu B / Phiếu A để viết, không làm cổng, không tính vào K; điều kiện qua cổng là chấm mù (Phiếu A dàn ý do người khác chấm). Lý do: quyết định Q11 của GocNhinPodcast (02/10) bỏ tự chấm vì agent tối ưu theo điểm tự chấm; user chọn 06/10 áp cho cả hai kênh. Sao lưu `.../Dong_Chay_self16/`.
+  * Rà khoảng trống hai kênh (NC-PAR-10, Claude duyệt): báo cáo ở mailbox `_agent_chat/dna-narrative-craft-gn`; bàn giao điều phối `_agent_chat/dna-narrative-craft-gn/BAN_GIAO_DIEU_PHOI.md`.
+
+## 2026-10-06 · KE-CHUYEN · Kịch bản phải kể chuyện, không đọc báo cáo (user duyệt "có sửa đi")
+- Hiện tượng: tập `gdp-9-thang-2026-con-so-10-tu-dau` đúng mọi luật dữ liệu nhưng đọc như báo cáo. Đo: chương 3 có 55 con số trong 896 tiếng (6,1/100), 5 đoạn đọc từ 5 số trở lên; chương 1 đọc mục lục "ba trạm"; chương 2 có 3 câu dẫn nguồn kèm ngày ban hành.
+- Gốc rễ (lần từ bản sớm nhất `_backup_truoc_ra_cau/`, đã báo cáo ngay từ lúc viết, không phải do các vòng sửa):
+  1. Đơn vị dựng chương là điểm dữ liệu: `build_outline` Trạm 2 cấp quota mã DATA-XX, Trạm 5 tính độ dài bằng `D × 35 từ + M × 160 + 80`, khuôn outline buộc "giải mã đủ quota Data Anchors", tự kiểm chương hỏi "tất cả data anchors đã xuất hiện?".
+  2. Định nghĩa "viết hay" là phân tích sắc: 5 cặp ví dụ trong `examples/chapter_writer_examples.md` đều dạy câu số có diễn giải; không mẫu nào dạy dẫn người nghe đi tìm hay dàn dựng cú lật.
+  3. Kể chuyện là lời khuyên, dữ liệu là cổng có đo: skill có Johnny Harris, Revelation Check, scene anchor, nhưng không công cụ nào đo; Claude tự kiểm đúng những gì có thước đo (trần từ, 150 ký tự, từ cấm, số khớp sổ).
+  4. Các lệnh "làm dày bằng số liệu", "lộ trình 3 trạm", "neo nguồn bằng câu dẫn" là lệnh cứng đẩy về lối báo cáo.
+- Sửa:
+  * **Chấm chất kể chuyện bằng Lượt đọc như người nghe** (`skills/chapter_writer/SKILL.md` Bước 3b, vai the_critical_auditor, tách khỏi lượt viết): đọc từng đoạn như người nghe lần đầu (đang mang câu hỏi gì, nhận điều gì mới, được dẫn đi tìm hay được đọc kết quả), rồi chỉ ra câu hỏi điều tra, cú lật, các đoạn báo cáo, đều có trích câu; kết luận KỂ CHUYỆN / NỬA VỜI / BÁO CÁO. Ban đầu có viết công cụ đếm số `kiem_chuyen.py`; user bác (06/10): giọng văn phải được LLM đánh giá bằng tư duy, đếm thì người viết lách được. Công cụ đã chuyển vào `/Users/pro16/Documents/VideoProject/.agents/tools/viet/_archive/`, không DNA nào trỏ tới.
+  * `workflows/build_outline.md`: Trạm 2 thành Bản đồ nhịp chuyện (câu hỏi / manh mối / cú lật / hệ quả, mỗi nhịp tối đa 1–2 số đọc, số thừa lên hình); Orientation Frame cấm đọc mục lục; Trạm 5 đổi công thức sang `N × 110 + M × 120 + 80` theo số nhịp; checklist.
+  * `02_templates/masterpiece_pipeline/07_outline_template.md`: thay 6 dòng "Cognitive Payload" bằng bản đồ nhịp, bỏ "giải mã đủ quota Data Anchors", bỏ "lộ trình 3 trạm".
+  * `skills/chapter_writer/SKILL.md`: Chặng 2 thành bước riêng có bảng nhịp chương và bước 0 "chuyển thể dữ liệu thành chuyện"; vault mining tìm manh mối thay vì làm dày; lệnh cấm "Anh Minh" chỉ cấm nhân vật bịa, cho phép chủ thể có thật có nguồn; nguồn nằm ở sổ claim, lời đọc không đọc chuỗi ngày ban hành; Chương 1 không đọc mục lục; tự kiểm "mỗi dữ kiện có chỗ (đọc hoặc lên hình)" thay "mọi data đã xuất hiện"; thêm tiêu chí 9–10 và lệnh chạy `kiem_chuyen.py`; kỹ thuật mở rộng ưu tiên đào nhịp trước, thêm số sau.
+  * `skills/chapter_writer/PRE_FLIGHT_GATE.md`: bỏ "làm DÀY luận điểm bằng số liệu"; thêm kiểm đoạn đọc bảng và bảng nhịp.
+  * `examples/chapter_writer_examples.md`: thêm Pair 6 (đọc bảng vs dẫn đi tìm), Pair 7 (nói đáp án vs dàn dựng cú lật), Pair 8 (đọc mục lục vs đặt câu hỏi), lấy từ tập GDP; "Chương mạnh" thêm mục 6–8 bắt buộc.
+  * `rules/chapter-writing.md`, `rules/editorial-quality.md`: thêm luật kể chuyện, red flag, bắt buộc Lượt đọc như người nghe.
+  * `skills/compliance_council/SKILL.md`: thêm Khóa 6, người chấm chạy lại Lượt đọc như người nghe độc lập; NỬA VỜI hoặc BÁO CÁO thì trả về Pha 7.
+  * `AGENTS.md`, `rules/content-os-pipeline.md`, `00_core/quality_rubric.md`, `00_core/longform_blueprint.md`: "tấm bản đồ 120 giây" là hình thù cơ chế, không phải mục lục video.
+- Kiểm chứng: viết lại chương 3 tập GDP theo DNA mới ở `episodes/gdp-9-thang-2026-con-so-10-tu-dau/_thu_dna_ke_chuyen/chapter_03.md` (cùng dữ kiện, 603 tiếng so với 896). Lượt đọc như người nghe: bản cũ BÁO CÁO (đoạn "Nhìn theo từng quý…" và "Vậy ai tạo ra 9,95%?…" đọc kết quả theo thứ tự bảng thống kê); bản mới KỂ CHUYỆN có câu hỏi "đi tìm dấu chân" của khoản giải ngân 62,9%, hai manh mối cho người hoài nghi, phép tách dẫn tới "quý 3 là quý của công trường"; còn một đoạn nửa vời ("Còn một phép thử cuối…" vẫn đọc chỉ báo liền nhau).
+- Sao lưu trước khi sửa: `/Users/pro16/VideoProject_backup/dna_ke_chuyen_20261006/Dong_Chay/`.
+
+## 2026-10-05 · I2V-NHIP-Y · Nâng cấp DNA I2V+ theo Hợp đồng Kiến trúc Phân cảnh theo Nhịp Ý (User duyệt, phiếu I2V-WO1)
+- Gốc rễ: Quy trình phân cảnh cũ lấy câu thoại làm đơn vị cơ học (trần cơ học, Veo cờ thời lượng cũ, micro-cut, quota xoay vòng) dẫn đến video bị vụn nát, nhiều cảnh vô nghĩa; chuyển đổi 100% sang phân cảnh theo nhịp ý trọn vẹn (beat) và phân rã thành 5 loại shot chuẩn của Hợp đồng (`VIDEO_AI`, `BROLL`, `INFOGRAPHIC_TINH`, `INFOGRAPHIC_DONG`, `BAO_CHI`).
+- Trỏ về nguồn chuẩn: Hợp đồng chung `.agents/contracts/i2v_nhip_y.md` và Bàn giao `Dong_Chay/01_management/i2v_nhip_y/BAN_GIAO_I2V_NHIP_Y_20261004.md`.
+- Danh sách file đã sửa:
+  * Hiến pháp: `.agents/AGENTS.md` (cập nhật mục I2V+ sang 5 loại shot, sàn B-roll 5s, 4 file track).
+  * Workflows: `workflows/generate_visual_prompts_plus.md` (viết lại 6 bước), `workflows/generate_visual_prompts.md` (bỏ trần câu cơ học, bỏ cờ thời lượng cũ), `workflows/merge_voiceover.md` (lưu ý Pha 12 đọc chapter_XX.md).
+  * Personas: `personas/the_scene_architect.md` (chuyển sang nhịp ý, bỏ bối cảnh cứng), `personas/the_visual_storyteller.md`, `personas/the_image_prompt_composer.md`, `personas/the_footage_hunter.md` (sàn B-roll 5-8s).
+  * Skills: `skills/visual_prompter_plus/SKILL.md` (viết lại 6 mục, mục 6 lấy ví dụ thực GDP 9 tháng 2026), `skills/scene_timing_builder/SKILL.md` (viết lại theo mục 4 & 6 hợp đồng), `skills/visual_prompter/SKILL.md`, `skills/production_handoff/SKILL.md`.
+  * Rules: `rules/content-os-pipeline.md` (bảng pha, mục nhịp ý, decision tree, sàn B-roll), `rules/visual-asset-safety.md` (script chỉ kiểm & chép), `rules/final-merge.md`.
+  * Core: `00_core/visual_style_guide.md` (kiến trúc nhịp ý, biểu đồ báo chí chuẩn mực, bỏ khối trừu tượng).
+  * Templates: `02_templates/visual_storyboard_plus_template.md` (bỏ 4 bảng harvest theo CHXX_SCYYY, thêm bối cảnh địa lý), `02_templates/episode_template/README.md`, tạo mới `02_templates/chapter_XX_ban_do_nhip.md`.
+  * Scripts: Lưu trữ 4 script tự sinh cảnh vào `.agents/scripts/_archive/` (`fix_scenes.py`, `generate_scene_map.py`, `generate_aligned_scenes.py`, `generate_scenes_raw.py`).
+
+## 2026-10-04 · NGUOI-NGHE-HIEU · Chữ thêm để người nghe hiểu được vượt ngân sách chương (user duyệt, cả hai kênh)
+- Gốc rễ: rà tập GDP cho thấy nhiều câu thiếu chủ ngữ/tân ngữ và đoạn bắt người nghe tự suy; sửa cho rõ làm chương vượt Ceiling, trong khi DNA coi mọi phần vượt là padding.
+- `workflows/build_outline.md` Trạm 5: thêm ngoại lệ "người nghe hiểu" (được vượt Ceiling và W_total, ghi số mới vào outline, báo user thời lượng; trần 1.050 từ/chương giữ, chạm trần thì cắt lặp ý trước, rồi mới tách chương).
+- `rules/final-merge.md`: khi rút ngắn chỉ cắt lặp ý, không cắt phần giải thích.
+- `skills/chapter_writer/SKILL.md` mục "Giới hạn thời lượng": thêm dòng trỏ về ngoại lệ.
+- Trần 150 ký tự mỗi câu: chưa đổi, chờ user xác nhận giới hạn thật của máy TTS.
+
+## 2026-10-04 · DO-DAI-CAU · Độ dài câu theo nghiên cứu, bỏ chỉ tiêu câu ngắn (user duyệt, cả hai kênh)
+- Gốc rễ: nhiều file đẩy về "ngắn hơn" (staccato 3–5 từ, "lý tưởng 80–120 ký tự <18 từ", câu 5–7 từ) và quy đổi sai "150 ký tự ≈ 20–25 từ" (thực tế ≈ 34 tiếng, đo trên chương 1–2 tập GDP).
+- `skills/chapter_writer/SKILL.md`: mục "Quy Tắc Vàng: Phân Đoạn Văn Khoa Học & Giới Hạn 150 Ký Tự" thay bằng "Viết Câu Cho Tai" (bản chuẩn duy nhất, chuyển theo nghĩa từ GocNhinPodcast; hai phép thử đọc to, nghe riêng; dải tham chiếu trung bình 15–25 tiếng, trần 150 ký tự ≈ 30–35 tiếng, mỗi vế ≤ ~12 tiếng; ví dụ từ tập GDP); sửa các dòng 3-layer audit, Chặng 2, Craft Tools, bảng tự kiểm.
+- Trỏ về mục đó và bỏ chỉ tiêu ngắn: `00_core/voiceover_style_guide.md` §4, `00_core/voice_dna.md` §3, `personas/the_narrative_director.md`, `personas/the_viral_alchemist.md` (kèm sửa độ dài hook 80–120 từ thành 110–165 tiếng cho khớp hook_engine), `skills/chapter_writer/PRE_FLIGHT_GATE.md` Gate 4D, `skills/shorts_producer/SKILL.md` (quy đổi), `skills/retention_bridge_audit/SKILL.md` (đổi nhịp đầu chương bằng dữ kiện, không bằng câu cụt), `personas/the_short_script_writer.md` (bỏ câu cho phép dấu gạch ngang; giữ nhịp staccato riêng của Shorts).
+- Nguồn: `01_management/do_dai_cau_tieng_viet_20261004.md`.
+
+## 2026-10-03 · BO-KG-HET · Bỏ hết KG (user chốt, cả hai kênh)
+- `rules/orchestration-protocol.md`: gỡ mục "Kho tri thức dùng chung", Pha 1b (kiểm kê hiểu biết), Pha 2b (cập nhật kho), bước ghi bộ nhớ tập; thay bằng mục "Nguồn tri thức của một tập" (nguồn gốc agent mở ở `research_raw/` → vault NotebookLM).
+- `CLAUDE.md`: bỏ `@import` rule nạp dữ liệu sau tập; rule này lưu ở `.agents/reference/legacy_kg/`.
+- `rules/content-os-pipeline.md`, `personas/the_macro_strategist.md`, `skills/deep_researcher/SKILL.md`: gỡ dòng nhắc kho.
+- Sao lưu bản trước sửa: `/Users/pro16/VideoProject_backup/bo_kg_20261003/`.
+- Rule nạp dữ liệu sau tập cũ đã chuyển sang `Nap-Du-Lieu/_tu_kenh/Dong_Chay/chi_dan_di_san/`; Dòng Chảy không còn thư mục hay liên kết KG.

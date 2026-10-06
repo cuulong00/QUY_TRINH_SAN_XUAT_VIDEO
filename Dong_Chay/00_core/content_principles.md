@@ -33,8 +33,8 @@ Tương tác phải là phần thưởng của sự thấu hiểu. Người xem 
 
 **Cách thực hiện theo bản chất 3 loại đề tài:**
 - **Loại A (Đời sống / Tiêu dùng / Tài chính cá nhân):**
-  * Personal Stakes xuất hiện ngay trong **Chương 2** (phút 1:30–3:30).
-  * Mỗi 3–4 phút có ít nhất 1 điểm chạm đời sống (thu nhập, việc làm, chi phí, tài sản, an sinh).
+  * Personal Stakes xuất hiện ngay trong **Chương 2** làm điểm neo nhận thức.
+  * Duy trì điểm chạm đời sống xuyên suốt các nấc phân tích (thu nhập, việc làm, chi phí, tài sản, an sinh), không để mạch bài xa rời thực tế.
   * Lăng kính phổ quát ("Chúng ta", "Người lao động") — KHÔNG bịa đặt nhân vật cá nhân hóa gượng gạo.
 - **Loại B (Doanh nghiệp / Thể chế / Công nghiệp & Chiến lược):**
   * Relevance Anchor nằm ở bài toán tối ưu chi phí, rủi ro quản trị, tác động dây chuyền chuỗi giá trị và bài học sinh tồn của doanh nghiệp/quốc gia.

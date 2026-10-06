@@ -1,0 +1,85 @@
+# Phiếu chấm nghệ thuật kịch bản · __EPISODE_SLUG__
+
+> Chuẩn chấm: `00_core/narrative_craft_rubric.md`. Bắt buộc với mọi tập mới (user chốt 06/10/2026); lưu ở `episodes/[slug]/11_narrative_craft_scorecard.md`.
+> Quy trình: đọc trọn không ghi chép → chấm cấp bài → chấm cấp chương → đối chiếu hai cấp → kết luận và lệnh sửa.
+> Mọi điểm 4–5 và 1–2 phải trích câu (≤ 25 từ); điểm 1–2 kèm một câu viết lại. Không chỉ tiêu nào chấm bằng đếm.
+> Mốc ĐẠT (từng cấp): không chỉ tiêu nào dưới 3; trung bình ≥ 4,0; I, IV, V ≥ 4.
+
+## 0. Chấm dàn ý (Pha 4, trên `07_outline.md`)
+
+### 0a. Tự soi dàn ý của người dựng (không tính điểm)
+Người tự soi: [người dựng dàn ý] · Ngày: YYYY-MM-DD
+
+| Chỉ tiêu | Điểm | Trích câu từ dàn ý | Tự nhận xét / chỗ cần gia cố |
+|---|---|---|---|
+| I Câu hỏi kịch tính trung tâm | | | |
+| II Mức cược | | | |
+| III Gieo và gặt | | | |
+| IV-b Cao trào (vị trí: …%) | | | |
+| VII Giọng cấp bài (chế độ kết: A/B) | | | |
+| X Kết và nghĩa | | | |
+| **Trung bình** | | | [Tự soi] |
+
+### 0b. Chấm dàn ý bởi người khác (điểm chính thức trước khi xin user duyệt)
+Người chấm: [Auditor / Claude / agent khác] · Ngày: YYYY-MM-DD
+
+| Chỉ tiêu | Điểm | Trích câu từ dàn ý | Nhận xét / lệnh sửa |
+|---|---|---|---|
+| I Câu hỏi kịch tính trung tâm | | | |
+| II Mức cược | | | |
+| III Gieo và gặt | | | |
+| IV-b Cao trào (vị trí: …%) | | | |
+| VII Giọng cấp bài (chế độ kết: A/B) | | | |
+| X Kết và nghĩa | | | |
+| **Trung bình** | | | ĐẠT / KHÔNG |
+
+## 1. Tự soi của người viết (không tính điểm, Pha 7, mỗi chương một dòng khi viết xong để rà soát câu yếu trước khi nộp)
+
+### Phiếu B · Cấp chương (Tự soi)
+Mỗi ô: `điểm · "trích câu"`.
+
+| Chương | IV-a Cú lật | V Vật chứng | VI Chủ thể | VII Giọng | VIII Nhịp | IX Câu cho tai | Trung bình | Đẩy câu hỏi đi bao xa (1–5) |
+|---|---|---|---|---|---|---|---|---|
+| CH01 | | | | | | | | |
+
+### Bảng gieo/gặt (cập nhật sau mỗi chương)
+| Hạt gieo | Chương gieo | Chương gặt | Trạng thái |
+|---|---|---|---|
+| | | | |
+
+## 2. Chấm mù của Critical Auditor (Pha 10, điểm chính thức, không xem mục 1 trước khi nộp)
+Người chấm: the_critical_auditor · Ngày: YYYY-MM-DD
+
+### Phiếu A · Cấp bài
+| Chỉ tiêu | Điểm | Trích câu | Nhận xét / lệnh sửa |
+|---|---|---|---|
+| I Câu hỏi kịch tính trung tâm | | | |
+| II Mức cược | | | |
+| III Gieo và gặt | | | |
+| IV-b Cao trào (vị trí: …%) | | | |
+| VII Giọng cấp bài (chế độ kết: A/B) | | | |
+| X Kết và nghĩa | | | |
+| **Trung bình cấp bài** | | | ĐẠT / KHÔNG |
+
+### Phiếu B · Cấp chương
+| Chương | IV-a Cú lật | V Vật chứng | VI Chủ thể | VII Giọng | VIII Nhịp | IX Câu cho tai | Trung bình | Đẩy câu hỏi đi bao xa (1–5) |
+|---|---|---|---|---|---|---|---|---|
+| CH01 | | | | | | | | |
+| **Trung bình cấp chương** | | | | | | | | ĐẠT / KHÔNG |
+
+## 3. Đối chiếu
+| Chỉ tiêu / chương | Tự soi | Chấm mù | Lệch | Điểm thống nhất và lý do (khi lệch > 1) |
+|---|---|---|---|---|
+| | | | | |
+
+Hai cấp: [bài cao, chương thấp → Pha 7 / chương cao, bài thấp → Pha 4 / cả hai thấp → Pha 4 rồi Pha 7 / cả hai đạt]
+
+## 4. Kết luận
+- Điểm K (thang 20) = (TB cấp bài + TB cấp chương) ÷ 2 × 4 (tính từ phiếu chấm mù sau khi đối chiếu thống nhất khi lệch > 1, không từ bản tự soi) = …
+- Hard-Fail 11 (`quality_rubric.md` §4): cấp bài I hoặc X dưới 3? chương nào có IV-a và V cùng ≤ 2? → Có / Không
+- Kết luận: ĐẠT / KHÔNG ĐẠT · Chuyển về: không / Pha 4 / Pha 7
+
+### Lệnh sửa
+| Chương | Chỉ tiêu | Câu lỗi (trích nguyên) | Vì sao | Một câu viết lại mẫu |
+|---|---|---|---|---|
+| | | | | |

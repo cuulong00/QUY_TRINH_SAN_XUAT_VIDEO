@@ -53,9 +53,9 @@ Lỗi cụ thể:
 | # | Quy tắc | Đạt? |
 |---|---|---|
 | 1 | MACRO LOOP mở Ch1, đóng chương cuối? | ☐ |
-| 2 | Mọi thời điểm ≥1 loop đang mở? | ☐ |
+| 2 | Duy trì câu hỏi/bí ẩn dẫn dắt người nghe qua các phân đoạn? | ☐ |
 | 3 | Đóng 1 loop → mở ngay 1 loop mới? | ☐ |
-| 4 | ≥2 cấp loop song song? | ☐ |
+| 4 | Có câu hỏi bao trùm song song với câu hỏi điều tra cục bộ? | ☐ |
 | 5 | Chương cuối đóng sạch? | ☐ |
 
 ---

@@ -1,17 +1,76 @@
 ---
 description: >-
-  DEPRECATED — Bước Final Merge đã bị loại khỏi pipeline.
-  Oral polish thực hiện trực tiếp trên từng chapter_XX.md.
-  Khi thu âm, đọc tuần tự từ chapter_01 → chapter cuối.
-  Không cần file final_voiceover.md.
+  Merge and compile all written chapters into a single master clean script (Phase 8: voiceover.md).
+  Integrates the selected Master Hook and all chapter_XX.md files into a 100% clean voiceover text.
+  Requires completed 04_hook_pack.md and all chapter_XX.md files.
 ---
 
-## ⚠️ DEPRECATED
+# /merge_voiceover — Gộp Toàn Bộ Kịch Bản Thành Tệp Thoại Hoàn Chỉnh (Pha 8)
 
-Bước này đã bị loại bỏ khỏi pipeline sản xuất kể từ 2026-04-09.
+> 🎯 Khi gộp, giữ đúng chế độ kết đã chọn (A lập trường / B kết mở có cấu trúc) theo `00_core/stance_and_judgment.md` §1; không làm mềm thành câu lửng lơ, không cộng dồn cụm "chúng tôi cho rằng" từ các chương.
 
-**Lý do:** Merge là bước cơ học thuần túy (concatenation) không mang lại giá trị. Oral polish thực hiện trực tiếp trên từng `chapter_XX.md`. Thu âm đọc tuần tự từ chapter_01 → chapter cuối.
+> 🛑 **CREATOR PERSONA:** `the_quality_czar` + `the_voice_architect`  
+> 🛑 **MỤC TIÊU PHA 8:** Tạo ra tệp `episodes/[slug]/voiceover.md` duy nhất, chứa 100% văn bản thoại sạch hoàn chỉnh của toàn bộ tập phim (từ Hook mở đầu đến Outro kết thúc) để làm đầu vào chuẩn cho:
+> 1. Kiểm toán Giữ chân Toàn bài (`retention_bridge_audit`)
+> 2. Báo cáo Kiểm duyệt & An toàn (`10_compliance_report.md`)
+> 3. Tối ưu Thuật toán & SEO (`metadata.md`)
+> 4. Thu âm Giọng đọc (`/record_voiceover` hoặc Google TTS)
+> 5. Phân cảnh & Trực quan hóa (Lưu ý: Pha 12 I2V+ đọc trực tiếp từng `chapter_XX.md` theo Hợp đồng `.agents/contracts/i2v_nhip_y.md`, không đọc `voiceover.md` gộp)
 
-**Thay thế bằng:**
-- Oral Polish: `.agents/skills/oral_polisher/SKILL.md` — chạy trực tiếp trên từng chapter
-- QA: `.agents/skills/financial_qa/SKILL.md` — chạy trên tập hợp chapters
+---
+
+## 🛑 HARD GATE ĐẦU VÀO BẮT BUỘC
+
+Trước khi chạy Pha 8, Agent PHẢI xác nhận sự tồn tại của:
+- `episodes/[slug]/04_hook_pack.md` (chứa Master Hook được chọn) ✅
+- `episodes/[slug]/07_outline.md` (chứa tổng ngân sách từ $W_{\text{target}}$) ✅
+- Tất cả các tệp `episodes/[slug]/chapter_01.md` đến `chapter_XX.md` theo danh sách chương trong outline ✅
+
+Nếu thiếu bất kỳ chương nào ➔ **DỪNG LẠI**, yêu cầu hoàn thành Pha 7 (`/write_chapter`) trước.
+
+---
+
+## CÁC BƯỚC THỰC THI
+
+### Bước 1: Giao Thức Ghi Log Tiền Khởi Động (Pre-Flight Logging)
+TRƯỚC KHI tạo `voiceover.md`, Agent BẮT BUỘC in hộp log ra màn hình chat:
+```markdown
+> 🚀 **[PRE-FLIGHT LOG: TIỀN KHỞI ĐỘNG PHA 8 — MERGE VOICEOVER]**
+> - 🧠 **Chuyên Gia (Persona DNA) Kích Hoạt:** The Quality Czar + The Voice Architect
+> - ⚙️ **Kỹ Năng (Skill) Dẫn Đường:** `/merge_voiceover` (`chapter_writer/SKILL.md`)
+> - 📚 **Tài Liệu Nguồn Đã Đọc & Nạp (Input References):**
+>   * `episodes/[slug]/04_hook_pack.md` (Master Hook)
+>   * `episodes/[slug]/chapter_01.md` đến `chapter_XX.md` (Toàn bộ kịch bản các chương)
+>   * `episodes/[slug]/07_outline.md` (Ngân sách từ và nhịp điệu)
+> - 🎯 **Tài Liệu Đích Xuất Ra:** `episodes/[slug]/voiceover.md`
+> - 🛡️ **Rào Cản Kiểm Toán:** 100% văn bản thoại sạch, khử sạch tiêu đề rác, kiểm đếm tổng số từ và thời lượng thực tế so với mục tiêu.
+```
+
+### Bước 2: Tích Hợp & Thanh Lọc Văn Bản Thoại (Prose Sanitization)
+1. **Lấy Master Hook:** Trích xuất đoạn văn bản thoại của Master Hook đã được phê duyệt từ `04_hook_pack.md`.
+2. **Gộp Tuần Tự:**
+   - Đặt Master Hook ở đầu (hoặc tích hợp mượt mà vào đầu Chương 1 nếu Chương 1 chưa có Hook).
+   - Nối tiếp lần lượt toàn bộ nội dung thoại từ `chapter_01.md`, `chapter_02.md`, ..., `chapter_XX.md`.
+3. **Thanh Lọc Kỹ Thuật (Sanitization Gate):**
+   - Xóa bỏ 100% các tiêu đề markdown kỹ thuật (`# chapter_01.md`, `## Chương 1: ...`, `[CH01_SC001]`).
+   - Xóa bỏ mọi ghi chú hình ảnh, visual cues, timestamps thô hoặc metadata vận hành.
+   - Giữ lại phân cách giữa các chương bằng 1 dòng kẻ ngang `---` hoặc 1 khoảng trống đoạn văn rõ ràng.
+   - Đảm bảo 100% câu thoại sạch, tự nhiên, không chứa dấu gạch ngang dài (`—`) và không chứa từ cấm AI (`anti_ai_isms.md`).
+
+### Bước 3: Kiểm Kê Ngân Sách & Thống Kê Thông Số Thực Tế
+Tính toán các chỉ số kỹ thuật và in bảng nghiệm thu ra chat:
+- **Tổng số từ thực tế ($W_{\text{actual}}$):** Đếm chính xác số từ của `voiceover.md`.
+- **Tổng số từ mục tiêu ($W_{\text{target}}$):** So sánh với ngân sách từ trong `07_outline.md`.
+- **Độ lệch ngân sách ($\Delta W$):** Đảm bảo nằm trong dung sai cho phép $\pm 10\%$.
+- **Thời lượng ước tính (tốc độ chuẩn 223–235 từ/phút, `.agents/AGENTS.md`):**
+  $$\text{Thời lượng (phút)} \approx \frac{W_{\text{actual}}}{223} \text{ đến } \frac{W_{\text{actual}}}{235}$$
+
+### Bước 3b: Chấm Lại Phiếu A Cấp Bài Sau Merge (Narrative Craft Audit)
+Chấm lại cấp bài sau merge bằng **Phiếu A** của `00_core/narrative_craft_rubric.md` do người khác ngoài người merge (Auditor / Claude / agent khác) chấm:
+- Người merge có thể tự soi lại mạch chuyện; nhưng việc đánh giá qua cổng Phiếu A sau merge phải do người khác chấm để rà soát khách quan toàn bộ tác phẩm sau gộp: Câu hỏi kịch tính trung tâm I, Mức cược II, Gieo và gặt III, Cao trào IV-b, Kết và nghĩa X, Giọng VII cấp bài.
+- Đảm bảo mạch tự sự liền mạch từ Hook mở đầu đến Payoff kết thúc; các cú lật của từng chương kết nối nhân quả chặt chẽ.
+- Ghi nhận kết quả vào `episodes/[slug]/11_narrative_craft_scorecard.md`. Chỉ chuyển giao sang khâu tiếp theo khi Phiếu A đạt chuẩn.
+
+### Bước 4: Lưu Tệp
+Ghi toàn bộ văn bản thoại sạch đã thanh lọc vào `episodes/[slug]/voiceover.md`.
+Thông báo hoàn tất và sẵn sàng chuyển giao cho **Pha 9: Retention Bridge Audit** và **Pha 10-11: Compliance Council**.

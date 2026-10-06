@@ -20,11 +20,10 @@ File này phân loại video theo bản chất, để mỗi loại được đ�
 | Quy tắc | Áp dụng |
 |---|---|
 | Personal Stakes ở Chương 2 | ✅ BẮT BUỘC |
-| CTA Subscribe | 🔄 LINH HOẠT — cuối Chương 1 hoặc đỉnh cảm xúc |
-| CTA Comment | ✅ KHUYẾN KHÍCH |
+| CTA | Đúng 1 khối CTA cuối Chương 2 (`.agents/AGENTS.md`, Chuẩn Vận Hành Kỹ Thuật mục 4); lời mời bình luận nằm trong khối đó |
 | Action Plan cụ thể cuối video | ✅ BẮT BUỘC |
-| Tối đa 2 case study quốc tế | ✅ ÁP DỤNG |
-| Re-hook mỗi 3 phút | ✅ ÁP DỤNG |
+| Case study quốc tế | Linh hoạt theo lập luận (`00_core/content_principles.md` §5), thường 1–2 vì đề tài gần đời sống |
+| Nhịp Re-hook | 🔄 DUY TRÌ THEO NHỊP — quay lại câu hỏi trung tâm quanh các lần đổi màn (khung chấm I, III, VIII) |
 
 ---
 
@@ -35,12 +34,11 @@ File này phân loại video theo bản chất, để mỗi loại được đ�
 | Quy tắc | Áp dụng |
 |---|---|
 | Personal Stakes ở Chương 2 | ❌ KHÔNG ÉP — liên hệ đời sống nên chảy tự nhiên ở nửa sau video khi cơ chế đã rõ |
-| CTA Subscribe cuối Chương 1 | ✅ GIỮ nhưng linh hoạt vị trí |
-| CTA Comment/Like | 🔄 ĐẶT Ở ĐỈNH CẢM XÚC tự nhiên, không theo lịch cố định |
+| CTA | Đúng 1 khối CTA cuối Chương 2 (`.agents/AGENTS.md`, Chuẩn Vận Hành Kỹ Thuật mục 4), như mọi loại đề tài |
 | Action Plan cuối video | ❌ KHÔNG CẦN — thay bằng câu hỏi mở hoặc framework tư duy |
-| Tối đa case study quốc tế | 🔄 LINH HOẠT — tùy chủ đề, có thể 3-4 nếu chúng phục vụ cơ chế trung tâm |
-| Re-hook mỗi 3 phút | 🔄 THEO NHỊP PHIM — mỗi lớp mới của cơ chế tự tạo re-hook |
-| Chương kết | Để lại câu hỏi chưa trả lời, không kết luận hộ khán giả |
+| Tối đa case study quốc tế | 🔄 LINH HOẠT — tùy chủ đề, có nguồn trong vault và phục vụ cơ chế trung tâm (`00_core/content_principles.md` §5) |
+| Nhịp Re-hook | 🔄 THEO NHỊP TỰ SỰ — mỗi tầng phân tích hoặc lớp mới của cơ chế tự mở ra câu hỏi cuốn hút |
+| Chương kết | Theo chế độ kết trong `03_brief.md` (`00_core/stance_and_judgment.md` §1): A chốt lập trường kèm điều kiện có thể sai, hoặc B kết mở có cấu trúc (các cách đọc, biến số quyết định, câu hỏi mở). Không kết lửng lơ |
 
 **Nguyên tắc cốt lõi Loại B:** 
 > Video hay không phải vì ép khán giả thấy mình trong đó từ phút 2, mà vì CƠ CHẾ được giải mã hay đến mức khán giả TỰ LIÊN HỆ ở cuối video.
@@ -54,8 +52,8 @@ File này phân loại video theo bản chất, để mỗi loại được đ�
 | Quy tắc | Áp dụng |
 |---|---|
 | Personal Stakes | ✅ SỚM — vì sự kiện thời sự ảnh hưởng trực tiếp |
-| CTA | 🔄 LINH HOẠT — 1-2 điểm tự nhiên |
-| Case study quốc tế | 🔄 1-2, chỉ nếu tăng chiều sâu phân tích |
+| CTA | Đúng 1 khối CTA cuối Chương 2 (`.agents/AGENTS.md`), như mọi loại đề tài |
+| Case study quốc tế | 🔄 Linh hoạt theo lập luận (`00_core/content_principles.md` §5), chỉ khi tăng chiều sâu phân tích |
 | Tốc độ ra video | ⚡ ƯU TIÊN — có thể rút gọn pipeline |
 
 ---

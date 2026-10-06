@@ -39,5 +39,5 @@ Khi thực thi Skill này, Agent ĐƯỢC PHÉP và ĐƯỢC YÊU CẦU chạy c
 *(Lưu ý: Luôn chạy trong môi trường ảo `source venv/bin/activate`)*
 
 ## Đầu ra mong đợi (Expected Output)
-- Một bản chẩn đoán chuyên sâu mang phong thái lạnh lùng, dữ liệu làm gốc.
+- Một bản chẩn đoán chuyên sâu mang phong thái điềm tĩnh, chuyên nghiệp, dữ liệu làm gốc.
 - Không có lời an ủi sáo rỗng. Mọi phân tích phải dẫn tới một bài học hoặc một chiến lược rõ ràng cho tập video tiếp theo.

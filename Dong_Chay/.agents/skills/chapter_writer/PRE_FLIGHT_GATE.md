@@ -16,17 +16,17 @@ Trước khi viết bất kỳ chữ nào, Agent tự khóa vai trong khối suy
 ## GATE 0B — ⛔ TARGETED VAULT RECALL (BẢO CHỨNG TRÍCH LỤC VAULT & GVS)
 
 Thực hiện đầy đủ quy trình Dual-Layer Data trong `chapter_writer/SKILL.md` §Kiến Trúc Dual-Layer:
-- **Bước 0.1:** Nạp Tầm Nhìn Vĩ Mô & Mỏ Neo Số Liệu Toàn Cảnh từ `vault/00_Global_Vision_Synthesis.md` (GVS) và cẩm nang phong cách chuyên biệt.
+- **Bước 0.1:** Nạp Tầm Nhìn Vĩ Mô & Mỏ Neo Số Liệu Toàn Cảnh từ `01_global_vision_synthesis.md` và cẩm nang phong cách chuyên biệt.
 - **Bước 0.2:** Nạp Dữ Liệu Vi Mô cho CHƯƠNG ĐANG VIẾT (vault files theo trường 11 hoặc mã `DATA-01` đến `DATA-XX` trong GVS Tầng 4).
 
 **BẮT BUỘC BẢO CHỨNG TRÍCH LỤC:** 
 Agent phải trích dẫn nguyên văn ít nhất 1-2 câu quan trọng chứa dữ liệu thực tế từ file vault hoặc GVS đã mở đọc cho chương này, ghi rõ:
-1. Tên file vault hoặc mã GVS (`vault/00_Global_Vision_Synthesis.md` hoặc `research_vault/xxx.md`)
+1. Tên file vault hoặc mã GVS (`01_global_vision_synthesis.md` hoặc `research_vault/xxx.md`)
 2. Số dòng bắt đầu và kết thúc (`LXX-LXX`) hoặc Mã số liệu (`DATA-XX`)
 3. Nội dung nguyên văn (Raw quote)
 
 Tự kiểm tra:
-- [ ] Đã đọc `vault/00_Global_Vision_Synthesis.md` (Bước 0.1)
+- [ ] Đã đọc `01_global_vision_synthesis.md` (Bước 0.1)
 - [ ] Đã đọc vault files cho chương này theo trường 11 (Bước 0.2)
 - [ ] Đã ghi ra BẢO CHỨNG TRÍCH LỤC nguyên văn + số dòng/mã DATA ở trên
 - [ ] Hiểu rõ chương này nằm ở đâu trong arc tổng thể
@@ -43,7 +43,7 @@ Tự kiểm tra:
 - [ ] Mọi **CƠ CHẾ KINH TẾ/PHÁP LÝ/VẬN HÀNH** phải tuân thủ chuẩn mực chân lý của Chuyên gia Thống trị và dữ liệu thực chứng từ `research_vault/` / `02_research_map.md`.
 - [ ] Tôi **TUYỆT ĐỐI KHÔNG** dùng ngụy biện bù nhìn rơm (Strawman), không bịa ra tiền đề ngô nghê của dân ngoại đạo. Tôi phản biện phiên bản mạnh nhất của đối thủ (Steel-manning).
 - [ ] Mọi **LUẬN ĐIỂM** cốt lõi phải bám sát `chapter_briefs.md`. Nếu phát hiện lỗ hổng cơ chế → DÙNG CHUYÊN GIA để củng cố bằng Vault Mining, không sáng tác bừa bãi.
-- [ ] Mọi **DỮ LIỆU BỔ SUNG** (số liệu, case study, cơ chế) từ `research_vault/` để làm DÀY luận điểm đã chốt → ĐƯỢC PHÉP và khuyến khích (đánh dấu `[BỔ SUNG TỪ VAULT]`).
+- [ ] Mọi **DỮ LIỆU BỔ SUNG** (manh mối, vật chứng, case study, cơ chế) từ `research_vault/` làm sáng một nhịp chuyện đã chốt → ĐƯỢC PHÉP và khuyến khích (đánh dấu `[BỔ SUNG TỪ VAULT]`). Số liệu thêm chỉ để làm dày chương thì KHÔNG thêm (sửa 06/10/2026).
 
 **Tự kiểm tra:** Nếu tôi đang nghĩ "mình sẽ thêm LUẬN ĐIỂM MỚI vì nó hay" → **DỪNG LẠI. Đó là lỗi vai trò.** Nhưng nếu Chuyên gia đào sâu DỮ LIỆU và CƠ CHẾ từ vault để làm rõ luận điểm đã chốt → đó là Vault Mining, ĐƯỢC PHÉP.
 
@@ -91,9 +91,9 @@ Trước khi viết, xác nhận ĐÃ ĐỌC (không được giả định đã
 
 Trước khi gõ câu đầu tiên, tự hỏi:
 
-- **Pain-first:** Câu mở chapter này có bắt đầu từ nỗi đau / cú lệch của người xem không? Hay bắt đầu bằng luận đề trừu tượng?
-- **Personal Stakes (PHỔ QUÁT):** Chapter 2 đặc biệt — đã nối vấn đề vĩ mô với đời sống chung của xã hội/người dân chưa? Dùng lăng kính PHỔ QUÁT ("Chúng ta", "Xã hội hiện đại", "Tầng lớp lao động") + ít nhất 3 cụm từ từ Bảng Universal Stakes. **NGHIÊM CẤM** Zoom-In cá nhân hóa cực đoan (VD: "Anh Minh 35 tuổi...").
-- **Re-hook:** Nếu là chapter 3-4 — đã có data shock mới hoặc câu kéo về áp lực đời sống phổ quát trong 3 phút đầu của chapter chưa?
+- **Pain-first:** Câu mở chapter này có bắt đầu từ một cú lệch cụ thể (Loại A: nỗi đau của người xem; Loại B/C: nghịch lý, con số gây bất ngờ) không? Hay bắt đầu bằng luận đề trừu tượng?
+- **Điểm tựa liên quan (theo loại đề tài, `00_core/content_principles.md` §3):** Chapter 2 đặc biệt. Loại A: đã nối vấn đề vĩ mô với đời sống chung của xã hội/người dân bằng lăng kính PHỔ QUÁT ("Chúng ta", "Xã hội hiện đại", "Tầng lớp lao động") chưa? Loại B: đã nối vào bài toán chi phí, quản trị, chuỗi giá trị chưa? Loại C: đã nối vào quy luật lớn, nghịch lý lịch sử chưa, không ép túi tiền? **NGHIÊM CẤM** Zoom-In cá nhân hóa cực đoan (VD: "Anh Minh 35 tuổi...").
+- **Re-hook:** Nếu là chapter 3-4 — đã có data shock mới hoặc câu kéo về điểm tựa đúng loại đề tài để giữ hướng tự sự (khung chấm I, III, VIII) chưa?
 
 ---
 
@@ -103,7 +103,7 @@ Trước khi viết, bạn BẮT BUỘC phải áp dụng nguyên tắc từ `00
 Tự hỏi:
 - Tôi có đang dùng từ bạo lực, thảm kịch (tàn bạo, khốc liệt, đẫm máu, sụp đổ) không?
 - Nếu có, PHẢI chuyển sang ngôn ngữ Business/Finance (thần tốc, bứt phá, thách thức, tái cấu trúc, rủi ro tập trung) để tối ưu hóa CPM và tránh cờ vàng (Limited Ads).
-- Giọng văn phải là Cold Analysis (phân tích lạnh lùng, chuyên nghiệp), KHÔNG PHẢI Anger (kích động, mạt sát cảm tính).
+- Giọng văn phải là phân tích điềm tĩnh, có nghề, có người đang nghĩ, không phải giận dữ (kích động, mạt sát cảm tính).
 
 ---
 
@@ -129,17 +129,17 @@ Tự hỏi:
 | Có ANSWER HOOK từ chương trước trong 1-3 câu đầu? | ☐ |
 | Đáp án có đến TRỰC TIẾP? (Không giải thích vòng vo, không bắt đầu bằng bối cảnh xa lạ?) | ☐ |
 | Khán giả có cảm giác được "thưởng" vì đã ở lại? (Đáp án cụ thể, bất ngờ, xứng đáng chờ đợi?) | ☐ |
-| **3-WORD TEST:** Tóm tắt câu mở chương trong ≤3 từ. Nếu không tóm được → mở quá dài/vòng vo, viết lại. (VD: "Sacombank.", "Keiretsu.", "439 tỷ.") | ☐ |
+| **MỞ ĐẦU SÚC TÍCH:** Câu mở chương có vào thẳng trọng tâm, gọn gàng, tránh dông dài vòng vo không? (VD: nêu ngay chủ thể, vật chứng hoặc con số then chốt). | ☐ |
 
 ### Kiểm tra STACKING LOOPS (áp dụng cho toàn bộ kịch bản):
 
-> **Nguyên lý Zeigarnik:** Tại MỌI thời điểm trong video, khán giả phải có ÍT NHẤT 1 câu hỏi chưa được trả lời trong đầu. Không bao giờ đóng tất cả loop trước chương cuối.
+> **Nguyên lý Zeigarnik:** Mạch tự sự luôn duy trì câu hỏi tò mò chưa được trả lời trong đầu người nghe (khung chấm III Gieo và gặt). Không bao giờ đóng tất cả loop trước chương cuối.
 
 | Câu hỏi | Đạt? |
 |---|---|
 | MACRO LOOP (câu hỏi lớn xuyên suốt video) có được mở từ Ch1 và chỉ đóng ở chương cuối? | ☐ |
 | Mỗi mối nối: khi đóng 1 loop → có mở ngay 1 loop MỚI? (Không để khoảng trống "đã trả lời hết") | ☐ |
-| Có ít nhất 2 cấp loop hoạt động song song? (Macro + Meso, hoặc Macro + Micro) | ☐ |
+| Có các tầng loop phối hợp chặt chẽ (câu hỏi xuyên suốt toàn bài và câu hỏi điều tra riêng của từng chặng)? | ☐ |
 
 ### Bảng từ/cụm CẤM dùng để nối chương:
 - "Đó chính xác là lý do..." — tường thuật phẳng
@@ -164,13 +164,15 @@ Tự hỏi:
 
 ### Bộ lọc Chuyển ngữ Khái niệm (Conceptual Translation Check):
 - [ ] Không chép nguyên văn các điều khoản luật khô khan kiểu "Khoản X Điều Y". Đã chuyển ngữ thành bản chất động lực: "Đạo luật mới buộc...", "Hàng rào pháp lý dựng lên...".
-- [ ] Không nhồi nhét quá 2 số liệu/tỷ lệ phần trăm trong cùng một câu đơn.
+- [ ] Không nhồi nhét số liệu dồn dập trong cùng một câu đơn; mỗi con số đọc lên phục vụ một nhịp.
+- [ ] Không đoạn nào đọc liền nhiều con số như đọc bảng; số thừa để infographic nói (sửa 06/10/2026). Kiểm bằng Phiếu B của `00_core/narrative_craft_rubric.md` (`SKILL.md` Bước 3b), không bằng đếm.
+- [ ] Bảng nhịp chương (Chặng 2 của `SKILL.md`) đã in ra chat: mỗi nhịp có chức năng, vật chứng, số chính; chương có cú lật nhận thức được dàn dựng.
 - [ ] Mọi số liệu chuyên ngành phức tạp (NIM, CIR, nợ xấu nhóm 3, trần tín dụng...) đều được giải thích đi kèm một phép ẩn dụ trực quan hoặc câu làm rõ ý nghĩa đời thường.
 
 ### Bộ lọc Nhịp nghỉ & Giải nén (Tension Release Check):
 - [ ] Đoạn văn được tổ chức từ 2 đến 4 câu rõ ràng, không viết kiểu "mỗi dòng một câu".
-- [ ] Độ dài mỗi câu đơn tối đa dưới 150 ký tự (khoảng 20-25 từ).
-- [ ] Không có quá 3 phút liên tiếp (khoảng 500 từ) toàn lý thuyết nặng mà không có phép loại suy đời thường hoặc data shock mới để giải tỏa căng thẳng cho não bộ người nghe.
+- [ ] Độ dài mỗi câu đơn dưới 150 ký tự (khoảng 30–35 tiếng); mỗi vế giữa hai chỗ ngắt không quá khoảng 12 tiếng (`chapter_writer/SKILL.md` mục "Viết Câu Cho Tai").
+- [ ] Không để phân tích lý thuyết thuần túy kéo dài khiến người nghe tự hỏi "sao còn đoạn này?" (tiêu chí VIII Nhịp); luôn làm mới bằng manh mối cụ thể, vật chứng thực tế có nguồn trong vault, phép loại suy đời thường hoặc data shock mới. Thêm số liệu không phải cách duy nhất để giải tỏa; một chuỗi số liệu dài cũng gây ngợp như lý thuyết.
 
 **Nếu bất kỳ mục nào chưa tick -> Quay lại chỉnh sửa văn phong.**
 

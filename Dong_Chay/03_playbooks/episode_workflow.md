@@ -1,9 +1,10 @@
 # episode_workflow.md
 
 Đây là quy trình chuẩn để tạo một video tài chính xuất sắc theo mô hình state-first và one-phase-at-a-time.
+Danh sách Pha dưới đây đồng bộ nguyên văn với "Cấu trúc làm việc bắt buộc (16 Pha)" trong `CLAUDE.md` — không định nghĩa lại số pha khác ở đây.
 
-## Pha 1 — Topic Qualification
-Mục tiêu: biến raw topic thành một góc đủ mạnh để đáng làm video.
+## Pha 0 (tùy chọn) — Qualify Topic
+Mục tiêu: biến raw topic thành một góc đủ mạnh để đáng làm video, trước khi dựng Global Vision.
 Output: `01_topic_qualification.md`
 
 Tiêu chí qua pha:
@@ -12,9 +13,13 @@ Tiêu chí qua pha:
 - có ít nhất vài hướng case study / data khả thi
 - không cần clickbait hoặc buy/sell advice để hấp dẫn
 
-## Pha 2 — Data Mining & Verification
-Mục tiêu: khóa backbone dữ liệu và case study trước khi khóa luận điểm.
-Output: `02_research_map.md`, khởi tạo `10_claim_ledger.md`
+## Pha 1 — Master Systemic Topography & Global Vision
+Mục tiêu: dựng Bàn cờ 4 Tầng + Ma trận 4 Lăng kính + Prompt 5 Phản biện cho toàn tập.
+Output: `01_global_vision_synthesis.md`
+
+## Pha 2 — Topographical Deep Research
+Mục tiêu: khóa backbone dữ liệu, case study và Contested Data & Trade-offs Ledger trước khi khóa luận điểm.
+Output: `02_research_map.md`, `02_research_plan.md`, `02_research_synthesis.md`
 
 Tiêu chí qua pha:
 - có verified data đủ dùng
@@ -32,7 +37,17 @@ Tiêu chí qua pha:
 - tone đúng kênh (sắc, logic, có data)
 - biết rõ video này không nên drift sang đâu
 
-## Pha 4 — Hook Lab
+## Pha 4 — Master Outline Engine
+Mục tiêu: khóa xương sống biện chứng Hegel (Thesis → Antithesis [The Devil's Chapter] → Synthesis), nhịp giữ chân và cấu trúc long-form trước khi viết prose.
+Output: `07_outline.md`
+
+Tiêu chí qua pha:
+- thesis rõ, anti-thesis đủ mạnh, có synthesis
+- mỗi chapter có nhiệm vụ phân tích khác nhau, có case study hoặc số liệu phải dùng
+- có cao trào phân tích (analytical peaks) và re-hooks tại các điểm chuyển màn kịch bản
+- bridge đủ rõ; action plan không bị hòa tan vào các chapter khác
+
+## Pha 5 — Hook Lab
 Mục tiêu: chọn một góc khai thác và một hook đủ mạnh.
 Output: `04_hook_pack.md`
 
@@ -42,89 +57,59 @@ Tiêu chí qua pha:
 - có mini re-hooks đủ dùng cho phần giữa
 - title và hook nói cùng một lời hứa
 
-## Pha 5 — Thesis Map
-Mục tiêu: khóa xương sống phân tích trước khi dựng retention và outline.
-Output: `05_thesis_map.md`
-
-Tiêu chí qua pha:
-- thesis rõ
-- anti-thesis đủ mạnh
-- 3 open loops rõ
-- sub-claims map được sang data / case / framework
-
-## Pha 6 — Retention Map
-Mục tiêu: thiết kế nhịp giữ người xem trước khi viết prose.
-Output: `06_retention_map.md`
-
-Tiêu chí qua pha:
-- có ít nhất 2 analytical peaks
-- có các re-hooks ở vùng dễ tụt retention
-- biết đoạn nào cần tăng nhịp và đoạn nào cần nghỉ
-
-## Pha 7 — Outline
-Mục tiêu: khóa cấu trúc long-form trước khi viết.
-Output: `07_outline.md`
-
-Tiêu chí qua pha:
-- mỗi chapter có nhiệm vụ phân tích khác nhau
-- mỗi chapter có case study hoặc số liệu phải dùng
-- bridge đủ rõ
-- action plan không bị hòa tan vào các chapter khác
-
-## Pha 8 — Chapter Briefs
-Mục tiêu: biến outline thành brief cụ thể cho từng chapter.
-Output: `08_chapter_briefs.md` đồng thời cập nhật `09_continuity_packet.md`
+## Pha 6 — Chapter Briefs & Narrative State Tracker
+Mục tiêu: biến outline thành brief cụ thể cho từng chapter (20 Trường: dữ liệu + nhịp chuyện + Steelman & Trade-offs) và khởi tạo sổ cái tự sự.
+Output: `08_chapter_briefs.md`, `09_narrative_state_tracker.md`
 
 Tiêu chí qua pha:
 - mỗi chapter biết rõ role trong toàn video
 - biết phải dùng case/data nào
 - biết phải tránh lặp gì
 
-## Pha 9 — Chapter Writing
-Mục tiêu: viết chương theo state, không drift.
-Output: `chapter_XX.md`, cập nhật `09_continuity_packet.md`, `10_claim_ledger.md`
+## Pha 7 — Chapter Writing
+Mục tiêu: viết chương theo state, không drift. Anti-Token Syntax Ban, Steelman 3 nhịp.
+Output: `chapter_XX.md`, cập nhật `09_narrative_state_tracker.md`
 
 Sau mỗi chapter phải kiểm:
 - có lặp case study cũ không
 - có lặp số liệu cũ không
 - có advance lập luận không
 - bridge có kéo được sang chapter sau không
-- có vi phạm financial safety không
-- có ít nhất 1 case study hoặc số liệu thực tế không
+- có vi phạm financial safety (`00_core/financial_boundaries.md`) không
+- có vật chứng, case study hoặc số liệu thực tế làm điểm tựa nhận thức không
 
-## Pha 10 — Financial QA
-Mục tiêu: khóa an toàn tài chính và độ trung thực của claim.
-Output: `financial_qa.md`
+## Pha 8 — Merge Voiceover
+Mục tiêu: gộp toàn bộ chapter thành một bản voiceover liền mạch.
+Output: `voiceover.md`
 
-Kiểm:
-- disclaimer
-- no buy/sell advice
-- no profit promises
-- no fabricated stats
-- claim taxonomy đúng
+## Pha 9 — Retention Bridge Audit
+Mục tiêu: soi giữ chân, kiểm tra các mốc re-hook và nhịp tụt retention trên bản voiceover hoàn chỉnh.
+Output: `retention_bridge_audit.md`
 
-## Pha 11 — Oral QA
-Mục tiêu: đảm bảo script nghe được và có lực qua voice over.
-Output: `oral_qa.md`
+## Pha 10 & 11 — Editorial, Compliance & Dialectical Audit
+Mục tiêu: khóa an toàn tài chính/pháp lý, phân loại taxonomy claim, và kiểm định Oral QA + Dialectical Rigor & Bias Audit (25%).
+Output: `10_compliance_report.md`
 
 Kiểm:
-- câu có dễ đọc không
-- nhịp thở có ổn không
-- số liệu có dễ nghe không
-- phần giữa có đều đều quá không
-- ending có đủ lực không
+- disclaimer bắt buộc: "Nội dung chia sẻ góc nhìn khách quan, mang tính thảo luận và xây dựng"
+- no buy/sell advice, no profit promises, no fabricated stats
+- taxonomy đúng 3 lớp: `verified_data` / `market_analysis` / `opinion_commentary`
+- câu có dễ đọc, nhịp thở ổn, số liệu dễ nghe qua voiceover
+- dialectical rigor: The Devil's Chapter đủ sắc, không thiên vị 1 chiều
 
-## Pha 12 — Visual Map
+## Pha 12 — Visual Storyboard & I2V Prompts / I2V+ Multimodal (chỉ khi có yêu cầu)
 Mục tiêu: tạo visual logic theo từng khúc nghĩa của audio.
-Output: `visual_map.csv`
+Output (nhánh Classic I2V): `visual_storyboard_blueprint.md`, `chapter_XX_visual.md`, `prompts_chapter_XX.txt`
+Output (nhánh I2V+ Flagship, đang dùng cho các episode gần nhất): `visual_storyboard_blueprint_plus.md`, `chapter_XX_visual_plus.md`, `broll_manifest_chapter_XX.json`, `infographics_manifest_chapter_XX.json`, `prompts_chapter_XX_veo.txt`, `prompts_chapter_XX_infographics.txt`
 
 Nguyên tắc:
 - không dùng random footage
 - ưu tiên biểu đồ, screen data, case study visuals
 - hỗ trợ các đoạn hook và re-hook quan trọng
 - đây là bước map logic hình ảnh, chưa phải render video cuối
+- TUYỆT ĐỐI CẤM dùng code/script ghép từ khóa tự động để sinh prompt — phải qua suy luận nghệ thuật của LLM (xem `.agents/rules/visual-asset-safety.md`)
 
-## Pha 13 — Audio Landscape
+## Pha 13 — Audio Landscape (chỉ khi có yêu cầu)
 Mục tiêu: thiết kế âm thanh và nhạc nền.
 Output: audio direction trong kịch bản và ghi chú sản xuất.
 
@@ -132,13 +117,13 @@ Tiêu chí:
 - Nhịp điệu âm nhạc phù hợp từng phân đoạn kể chuyện
 - Phân định rõ các điểm drop, khoảng lặng đắt giá
 
-## Pha 14 — Video Render (CapCut Stitching - Manual)
+## Pha 14 — Batch Video Production / Slideshow Render (CapCut - Manual, chỉ khi có yêu cầu)
 Mục tiêu: Dựng hậu kỳ và ghép nối các video clip thủ công trong phần mềm CapCut theo voiceover.
-Input khuyến nghị: `episodes/[slug]/videos_final/`
+Input khuyến nghị: `episodes/[slug]/videos/` (thư mục di sản `videos_final/` cho episode cũ)
 Output khuyến nghị: `episodes/[slug]/video/slideshow_base.mp4`
 
 Cách thực hiện:
-- Nhập (import) toàn bộ video clip `.mp4` từ thư mục `videos_final/` vào CapCut.
+- Nhập (import) toàn bộ video clip `.mp4` từ thư mục `videos/` vào CapCut.
 - Cắt ghép, căn chỉnh thời lượng từng phân cảnh khớp hoàn hảo với nhịp điệu của file voiceover đã thu âm.
 - Lồng nhạc nền theo sơ đồ Audio Landscape đã thiết lập ở Pha 13.
 - Xuất video base hoàn chỉnh với định dạng 1080p, 30fps, codec H.264, tỷ lệ 16:9 và lưu vào đường dẫn `video/slideshow_base.mp4` để phục vụ các bước kiểm tra tiếp theo.
@@ -160,7 +145,7 @@ Nội dung nên có:
 - asset requests
 - packaging notes
 - legal / caution notes
-- đường dẫn thư mục ảnh final và file slideshow render nếu đã có
+- đường dẫn thư mục video final và file slideshow render nếu đã có
 
 ## Pha 16 — Postmortem
 Mục tiêu: biến episode thành dữ liệu học cho repo.
@@ -168,9 +153,9 @@ Output: `postmortem.md`
 
 Sau khi hoàn tất:
 - cập nhật `01_management/episode_registry.csv`
-- ghi bài học vào `01_management/lessons_learned.md`
+- ghi bài học vào `01_management/lessons_learned.md` nếu tồn tại
 - nếu pattern đủ mạnh, cập nhật file lõi tương ứng
 
-## Pha 17 — Performance Review
+## Pha 17 (tùy chọn) — Performance Review
 Mục tiêu: Đánh giá chỉ số thực tế sau khi video lên sóng để tối ưu hóa kịch bản tiếp theo.
-Output: Cập nhật `01_management/performance_benchmarks.md`
+Output: Cập nhật `01_management/performance_benchmarks.md` nếu tồn tại

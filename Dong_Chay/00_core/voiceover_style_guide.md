@@ -38,15 +38,15 @@ Không phải:
 ## 3b. Tiêu Chuẩn Biên Kịch Quái Kiệt & Độ Chín Của Chuyên Gia (Master Screenwriter & Guru DNA)
 Kịch bản của Dòng Chảy phải toát lên tầm vóc của một **nhà biên kịch kiệt xuất và một chuyên gia kỳ cựu (Industry Guru)** thông qua các nguyên lý tư duy cốt lõi:
 - **Độ chín & Uy quyền tri thức (Epistemic Authority):** Từng câu chữ phải có sức nặng như chì, phản ánh sự từng trải và cái nhìn thấu thị về cấu trúc dòng vốn, địa chính trị và quy luật cơ khí/kinh tế. Tránh mọi lối diễn đạt suồng sã, nông nổi hoặc cảm tính bề mặt.
-- **Nói câu nào chết câu đó (Spine-Chilling Gravitas):** Khán giả nghe đến đâu phải "nổi da gà" đến đó vì độ sắc sảo, tính quy luật tàn khốc và sự thật trần trụi được phơi bày. Lột trần ảo ảnh bề mặt để chỉ thẳng vào cỗ máy vận hành lạnh lùng của dòng tiền và quy luật vật lý.
+- **Nói câu nào chết câu đó (Spine-Chilling Gravitas):** Khán giả nghe đến đâu phải "nổi da gà" đến đó vì độ sắc sảo, tính quy luật tàn khốc và sự thật trần trụi được phơi bày. Lột trần ảo ảnh bề mặt để chỉ thẳng vào cơ chế vận hành khách quan, nghiệt ngã của dòng tiền và quy luật vật lý.
 - **Điện ảnh hóa hiện thực (Cinematic Realism):** Không dùng ẩn dụ sáo rỗng hay biểu tượng đồ họa trôi nổi; thay vào đó, dùng các lát cắt thực chứng và dữ liệu kiểm toán đắt giá để tái hiện không gian sống động và sức ép khốc liệt của thương trường.
 - **Tiêu chuẩn ngắt câu < 150 ký tự:** Duy trì nghiêm ngặt độ dài câu ngắn dưới 150 ký tự cho hệ thống TTS, nhưng mỗi câu đơn phải là một lát cắt tư duy hoàn chỉnh, sắc như dao cạo và đan xen nhịp thở tự nhiên.
 
 ## 4. Quy tắc câu văn
 ### Nên làm
-- ưu tiên câu ngắn đến trung bình, **BẮT BUỘC giữ độ dài từ 80 đến dưới 100 – 120 ký tự (khoảng 12-18 từ)** cho mỗi câu để tai người nghe tiếp nhận tức thì và hệ thống TTS local phát âm trôi chảy, tự nhiên.
+- độ dài câu theo `.agents/skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai": trung bình khoảng 15–25 tiếng, trần cứng dưới 150 ký tự (giới hạn máy TTS), mỗi vế giữa hai chỗ ngắt không quá khoảng 12 tiếng. Dải này là tham chiếu, không phải chỉ tiêu.
 - một câu mang một ý chính duy nhất: cấu trúc câu đơn [Chủ ngữ] + [Động từ] + [Tân ngữ/Hệ quả].
-- dùng câu cực ngắn (3-5 từ) để đóng đinh nhận định sau một đoạn phân tích.
+- câu ngắn đứng riêng chỉ khi nó mang một dữ kiện hoặc hệ quả mới (`00_core/anti_ai_isms.md` §3b, S2); không dùng câu cụt để "đóng đinh" lại ý vừa nói.
 - đan xen câu có độ dài không đều nhau (câu 4 từ kết hợp câu 12-15 từ) để tạo nhịp thở tự nhiên của con người, tránh đều đều gây buồn ngủ.
 - chủ động ngắt câu bằng dấu chấm (.) dưới 120 ký tự. Cắt đôi câu phức thành 2 câu đơn độc lập.
 - sau dữ liệu bắt buộc phải có một câu “so what?” để giải thích ý nghĩa.
@@ -54,7 +54,7 @@ Kịch bản của Dòng Chảy phải toát lên tầm vóc của một **nhà 
 ### Tránh
 - câu dài quá 120 ký tự, câu nhiều tầng mệnh đề phụ gây attention drift (trôi bộ nhớ) và nghe mệt tai.
 - lạm dụng đại từ quan hệ lủng củng ("mà", "những cái mà", "nhằm mục đích để").
-- liệt kê quá nhiều số liệu liên tiếp trong một câu (tối đa 1 con số/câu).
+- đọc số theo thứ tự bảng hoặc dồn nhiều con số chưa diễn giải vào một câu; mỗi con số đọc lên phải phục vụ một nhịp, số còn lại để hình nói (khung chấm V và VIII).
 - câu quá cân đối, quá “đẹp công nghiệp”,
 - câu nghe như văn bản hành chính hoặc dịch máy từ tiếng Anh/tiếng Hán.
 - câu announce-importance kiểu “đây là phần quan trọng nhất”.
@@ -270,18 +270,18 @@ Ranh giới giữa các chương không phải là sự bàn giao ca trực hàn
 ### 1. Đóng chương bằng "Cú Đóng Đinh Cảm Xúc & Khoảng Lặng" (The Climax Landing)
 Mỗi chương (trừ chương kết video) bắt buộc phải đóng bằng 3 nhịp:
 - **Nhịp 1 — Đỉnh cao phân tích (Hard Forensic Punch):** Nêu rõ hệ quả trần trụi nhất của cơ chế vừa phân tích.
-- **Nhịp 2 — Đóng đinh cảm xúc & Khoảng lặng nhận thức (Cold Epiphany & Silence Beat):** Một câu chiêm nghiệm lạnh lùng, để lại khoảng lặng âm thanh 2-3 giây cho người nghe kịp thở và ngấm sức nặng của bi kịch.
+- **Nhịp 2: Đóng đinh cảm xúc & Khoảng lặng nhận thức (Epiphany & Silence Beat):** Một câu chiêm nghiệm đanh thép, sâu sắc, để lại khoảng lặng âm thanh 2-3 giây cho người nghe kịp thở và ngấm sức nặng của bi kịch.
 - **Nhịp 3 — Cánh cửa khép hờ / Vết thương mở (The Unsettling Question / Open Wound):** Để lại một câu hỏi đau đớn hoặc một nghịch lý chưa có lời giải. **TUYỆT ĐỐI CẤM** báo trước tên gọi của giải pháp/chương sau (`"Đó là..."`, `"Câu trả lời nằm ở..."`).
 
-### 2. Mở đầu chương sau bằng "Cú Đập Hiện Trường" (In Media Res Cold-Open)
-Chương tiếp theo bắt buộc phải mở bằng sự va đập của hiện thực:
+### 2. Mở đầu chương sau trực diện (In Media Res Cold-Open)
+Chương tiếp theo bắt buộc phải mở trực diện vào vấn đề mới:
 - **TUYỆT ĐỐI CẤM** mở đầu bằng câu dẫn giải hành chính hoặc lặp lại từ khóa chương trước (`"Để hiểu được..."`, `"Như đã thấy ở trên..."`, `"Khi [Chủ đề X] diễn ra..."`).
-- **Đập thẳng vào hiện trường (In Media Res):** Bắt đầu ngay bằng một âm thanh vật lý (tiếng máy tiện im bặt), một đồ vật/chứng cứ cụ thể (tờ thông báo Điều 75 dán trước cổng, két sắt chất đầy tiền), hoặc một con số gây sốc hoàn toàn mới.
+- **Mở trực diện (In Media Res):** Mở bằng một dữ kiện, vật chứng hay câu hỏi mới khiến người nghe muốn đi tiếp; không bắt buộc mở bằng âm thanh, đồ vật hay cảnh; tả không khí bị hạn chế (`00_core/narrative_craft_rubric.md` mục 2).
 - **Trọng lực nhân quả vô hình:** Khán giả tự xâu chuỗi sự liên kết giữa hai chương trong tâm trí nhờ tính tất yếu của các sự kiện kinh tế.
 
 ## 16. Checklist cuối trước khi đưa sang TTS
 1. Có câu nào quá dài khiến TTS hụt hơi không?
-2. Có đoạn nào liệt kê hơn 3 con số mà không giải nghĩa không?
+2. Có con số nào đọc lên mà không phục vụ một nhịp hoặc thiếu câu diễn giải ý nghĩa không?
 3. Có thuật ngữ nào chưa được giải thích không?
 4. Có câu nào nghe như template AI không?
 5. Có đoạn nào announce-importance thay vì để content tự nói không?

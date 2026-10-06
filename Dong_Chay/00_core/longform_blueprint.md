@@ -13,11 +13,11 @@ Một long-form tốt phải khiến người nghe cảm thấy:
 - và đến cuối video, người xem nhận được một Grand Payoff xứng đáng: một framework nhận thức sắc sảo hoặc bài học thực tế để tự áp dụng vào việc quản trị tài sản, doanh nghiệp hoặc hiểu sâu nền kinh tế.
 
 ### Quy tắc ngân sách thời lượng (4 Cấp độ Động)
-Thời lượng được quy hoạch chủ động ngay từ khâu Brief và Master Outline theo tốc độ đọc chuẩn ($V = 220\text{ từ/phút}$):
-- **Cấp 1 — Focus Long-form (8–15 phút / 1.760–3.300 từ):** 4–5 chương. Dành cho sự kiện điểm tin phân tích, bóc tách nhanh 1 cơ chế hoặc 1 nghịch lý đơn tuyến.
-- **Cấp 2 — Standard Long-form (16–25 phút / 3.520–5.500 từ) [Sweet Spot Kênh]:** 5–8 chương. Dành cho chuyên đề phân tích kinh tế vĩ mô, chiến lược công nghiệp, bóc tách chính sách hoặc bài toán doanh nghiệp.
-- **Cấp 3 — Deep Investigation (26–35 phút / 5.720–7.700 từ):** 7–10 chương. Dành cho phim tài liệu điều tra đa chủ thể, hồ sơ chuỗi cung ứng, đại án kinh tế hoặc khảo sát thể chế sâu.
-- **Cấp 4 — Macro Documentary Epic (36–45+ phút / 7.920–10.000+ từ):** 9–12+ chương. Dành cho các tác phẩm tài liệu toàn cảnh, đại tự sự lịch sử kinh tế, địa chính trị hoặc so sánh đa quốc gia.
+Thời lượng được quy hoạch chủ động ngay từ khâu Brief và Master Outline theo tốc độ đọc chuẩn 223–235 từ/phút (ngân sách tính theo mốc dưới $V = 223\text{ từ/phút}$):
+- **Cấp 1 — Focus Long-form (8–15 phút / 1.784–3.345 từ):** 4–5 chương. Dành cho sự kiện điểm tin phân tích, bóc tách nhanh 1 cơ chế hoặc 1 nghịch lý đơn tuyến.
+- **Cấp 2 — Standard Long-form (16–25 phút / 3.568–5.575 từ) [Sweet Spot Kênh]:** 5–8 chương. Dành cho chuyên đề phân tích kinh tế vĩ mô, chiến lược công nghiệp, bóc tách chính sách hoặc bài toán doanh nghiệp.
+- **Cấp 3 — Deep Investigation (26–35 phút / 5.798–7.805 từ):** 7–10 chương. Dành cho phim tài liệu điều tra đa chủ thể, hồ sơ chuỗi cung ứng, đại án kinh tế hoặc khảo sát thể chế sâu.
+- **Cấp 4 — Macro Documentary Epic (36–45+ phút / 8.028–10.035+ từ):** 9–12+ chương. Dành cho các tác phẩm tài liệu toàn cảnh, đại tự sự lịch sử kinh tế, địa chính trị hoặc so sánh đa quốc gia.
 
 Thời lượng KHÔNG phải giới hạn cứng ngắc. Điều cốt lõi là **5 phút đầu** có neo được sự chú ý và **từng phút tiếp theo** có cung cấp đủ giá trị nhận thức hay không.
 
@@ -53,14 +53,14 @@ Nhưng CÁCH thực hiện phụ thuộc vào BẢN CHẤT chủ đề:
 | Bản chất chủ đề? | Tài chính cá nhân | Chiến lược doanh nghiệp/quốc gia | Xu hướng toàn cầu dài hạn |
 
 > **QUY TẮC CHUNG:**
-> - **Loại A và B:** Không bao giờ để quá 4 phút video mà không có ít nhất 1 câu kéo về đời sống cá nhân người xem (Zoom-In). Personal Stakes là nhịp thở xuyên suốt, không phải hộp cứng.
-> - **Loại C (Documentary):** KHÔNG ÉP Zoom-In cá nhân. Thay vào đó, giữ chân khán giả bằng DATA SHOCK mới, ví dụ quốc tế đắt giá, và CONTRADICTION liên tục mỗi 3-4 phút. Khán giả ở lại vì TÒ MÒ TRÍ TUỆ, không phải vì sợ mất tiền.
+> - **Loại A và B:** Duy trì nhịp kéo về đời sống cá nhân người xem hoặc bài học thực tế (Zoom-In) xuyên suốt, không để mạch phân tích tách rời người nghe. Personal Stakes là nhịp thở tự nhiên, không phải hộp cứng.
+> - **Loại C (Documentary):** KHÔNG ÉP Zoom-In cá nhân. Thay vào đó, giữ chân khán giả bằng dữ liệu đắt giá, ví dụ quốc tế xác đáng và sự đối nghịch nhận thức (Contradiction) được làm mới qua từng nấc phân tích. Khán giả ở lại vì tò mò trí tuệ, không phải vì sợ mất tiền.
 
 Một video mạnh thường có 4 phẩm chất:
 1. **Observation đủ đắt** — mở bằng dữ liệu, nghịch lý, hoặc cảnh huống thật.
 2. **Personal Stakes tức thì** — người xem thấy mình liên quan ngay sau Hook (qua 1 câu Zoom-In hoặc 1 chương riêng, tùy loại chủ đề).
 3. **Interpretation đủ sâu** — dữ liệu phải được dịch thành ý nghĩa.
-4. **Rhythm đủ sống** — có đoạn đẩy, đoạn hạ, đoạn mở lớp, đoạn chốt. Có re-hook mỗi 3-4 phút.
+4. **Rhythm đủ sống** — có đoạn đẩy, đoạn hạ, đoạn mở lớp, đoạn chốt; biết quay lại câu hỏi trung tâm quanh các lần đổi màn (khung chấm I, III, VIII).
 
 ## 3. Cấu trúc Tự sự 3 Màn Động (Dynamic 3-Act Narrative Architecture)
 Cấu trúc phải phục vụ logic phân tích nội tại của chủ đề, không bao giờ gượng ép số chương cố định. Tùy theo Cấp độ Thời lượng (Cấp 1 đến Cấp 4), kịch bản có thể dao động linh hoạt từ 4 đến 12+ chương, nhưng BẮT BUỘC phải tuân thủ khung vận hành 3 Màn chuẩn mực:
@@ -83,25 +83,30 @@ Cấu trúc phải phục vụ logic phân tích nội tại của chủ đề, 
 >
 > **Hệ quả cho Hook:**
 > - **BẮT ĐẦU BẰNG HIỆN TẠI** — sự kiện, con số, tin tức mà khán giả VỪA THẤY trên newsfeed. KHÔNG mở bằng lịch sử xa (1954, 1986) — khán giả lạnh không đủ kiên nhẫn để chờ "À, hóa ra liên quan."
-> - **3 giây đầu = Data Shock hiện tại** — GDP vừa công bố, FDI mới nhất, chính sách vừa ban hành, con số trending trên mạng xã hội.
+> - **Mở đầu bằng Data Shock hiện tại** — GDP vừa công bố, FDI mới nhất, chính sách vừa ban hành, con số trending trên mạng xã hội.
 > - **Lịch sử chỉ được dùng SAU khi đã hook bằng hiện tại** — ở các chương giữa như pattern/evidence, KHÔNG phải ở hook.
 > - **Câu đầu tiên phải khiến người xem DỪNG LƯỚT** — vì nó nói về THẾ GIỚI CỦA HỌ NGAY BÂY GIỜ.
 
+> 🧭 **NGUYÊN TẮC LA BÀN NHẬN THỨC (THE COGNITIVE COMPASS MANDATE — BẮT BUỘC):**
+> **Chống căn bệnh "Người mù trong mê cung dữ liệu":** Người xem không thể tiếp thu nhiều con số rời rạc nếu không có một khung nhận thức (Mental Scaffolding) từ đầu. Kịch bản xuất sắc không dội bom số liệu vụn vặt, mà trao cho khán giả một chiếc la bàn nhìn thấu toàn cảnh cỗ máy.
+> 
+> **Cấu trúc nhịp mở màn:**
+> 1. **The Spark / Data Shock (Khởi động):** Tung biến cố thời sự, con số chấn động hoặc nghịch lý kịch tính để chặn đứng hành vi lướt qua của khán giả lạnh.
+> 2. **The Landscape Orientation (Trao Tấm Bản Đồ Toàn Cảnh):** Lùi lại một bước (Zoom-Out Landscape), phác họa toàn bộ hình thù cỗ máy vĩ mô và chỉ rõ các mắt xích then chốt mà video sẽ giải phẫu. Cho khán giả thấy bức tranh lớn từ trên cao. Bản đồ là hình thù cơ chế và bàn cờ, KHÔNG phải mục lục video: cấm liệt kê các trạm hay các chương sắp tới ("hành trình của chúng ta đi qua ba trạm"); người xem biết mình sắp đi đâu nhờ câu hỏi đã được đặt (sửa 06/10/2026).
+> 3. **Relevance & The Master Open Loop (Neo Giữ & Mở Loop):** Neo sự can dự nhận thức của người xem (Personal Stakes với Loại A, hoặc Intellectual Stakes với Loại B/C) và mở ra câu hỏi lớn chưa giải quyết để kéo khán giả bước vào Màn 2.
+
 Mục tiêu:
 - mở bằng data shock hoặc mâu thuẫn có calibre,
+- trao tấm bản đồ nhận thức các mắt xích then chốt ở phần mở màn,
 - xác lập cách đọc riêng của video,
-- mở ít nhất 1 Open Loop (câu hỏi cốt lõi chưa trả lời).
-
-> ⚠️ **PHÂN LOẠI OPEN LOOP THEO BẢN CHẤT CHỦ ĐỀ:**
-> - **Chủ đề Loại A (fear-driven / đời sống):** Open Loop neo vào TÚI TIỀN/ĐỜI SỐNG người xem. VD: "Khoản vay và việc làm của bạn sẽ bị ảnh hưởng thế nào?"
-> - **Chủ đề Loại B & C (curiosity-driven / thể chế / toàn cầu):** Open Loop neo vào SỰ TÒ MÒ TRÍ TUỆ / NGHỊCH LÝ CỐT LÕI. VD: "Dòng tiền đó thực chất đang chảy về đâu?" / "Vì sao một cường quốc công nghiệp lại rơi vào bẫy chi phí này?"
-> - **NGHIÊM CẤM** ép nỗi sợ mất tiền vào chủ đề curiosity-driven. Nếu bản chất chủ đề là tò mò trí tuệ thì Open Loop phải dẫn bằng tò mò và nghịch lý, KHÔNG PHẢI bằng sợ hãi.
+- mở Open Loop (câu hỏi cốt lõi chưa trả lời).
 
 Nội dung nên có:
 - một dữ liệu hoặc contrast đủ mạnh,
+- đoạn văn Zoom-Out phác họa toàn bộ cỗ máy (không đọc mục lục video),
 - một câu interpretive sentence cho thấy đây không phải bản tin thời sự hời hợt,
 - một tension thật sự cần được giải đáp.
-- **LỜI KÊU GỌI (CTA) LINH HOẠT VÀ TRAO ĐỔI GIÁ TRỊ (VALUE-EXCHANGE):** Kêu gọi khán giả Subscribe tại thời điểm sự tò mò đạt đỉnh điểm hoặc sau khi trao đi giá trị lớn (thường là ở cuối Chương 1 ngay sau khi tung ra Open Loop lớn nhất, hoặc ở cuối Chương 2 sau khi kéo về Audience Relevance). CTA phải nghe như đồng nghiệp trao đổi ý kiến, sử dụng ngôn ngữ tự nhiên đồng bộ với ngôi xưng của toàn kịch bản, và luôn đi kèm một lý do giá trị thực chất (Purpose-driven) để đăng ký kênh.
+- **LỜI KÊU GỌI (CTA) SUBSCRIBE CHUẨN MỰC (SSOT):** Đúng **1 lần duy nhất**, đặt ở cuối Chương 2 ngay trước Bridge chuyển sang Chương 3 (khi khán giả vừa nhận được giá trị nhận thức lớn). TUYỆT ĐỐI CẤM CTA ở Chương 1 hoặc lặp lại ở các chương sau. CTA phải nghe đĩnh đạc, tự nhiên như đồng nghiệp trao đổi ý kiến, sử dụng ngôi xưng đồng bộ với toàn kịch bản, và luôn đi kèm một lý do giá trị thực chất (Purpose-driven).
 
 KHÔNG làm:
 - "Hey các bạn, chào mừng đến với kênh..."
@@ -125,7 +130,7 @@ Mục tiêu:
 - Giải thích WHY — giải phẫu cơ chế kinh tế, dòng tiền, công nghệ hoặc rào cản thể chế đằng sau vấn đề.
 - Sử dụng phép loại suy (analogy) chuẩn xác đời thường để trực quan hóa khái niệm tài chính phức tạp mà không làm sai lệch nguyên lý.
 - Phân định rạch ròi giữa triệu chứng bề ngoài và nguyên nhân cấu trúc gốc rễ.
-- **Quy tắc Case Study:** Tối đa 1 case study đắt giá trong mỗi chương, và không quá 2 case (Loại A/B) hoặc 3 case (Loại C) trong TOÀN BỘ VIDEO. Case study phải phục vụ việc giải mã cơ chế, cấm đưa vào chỉ để "trang trí". Tuyệt đối cấm bịa đặt bối cảnh hoặc bịa chuyện để tạo kịch tính.
+- **Quy tắc Case Study:** Số lượng case study linh hoạt theo `00_core/content_principles.md` §5; mỗi case study bắt buộc có nguồn kiểm chứng trong vault, phục vụ trực tiếp việc giải mã cơ chế luận điểm, cấm đưa vào chỉ để "trang trí". Tuyệt đối cấm bịa đặt bối cảnh hoặc bịa chuyện để tạo kịch tính.
 
 #### Chương Đỉnh Cao Trào Màn 2 (Act 2 Climax — Cú Va Chạm Bản Chất)
 Mục tiêu:
@@ -157,19 +162,20 @@ Khán giả sẽ mất tập trung nếu mạch phân tích đi ngang hoặc qu�
 
 ### Quy tắc hành động:
 - **Tương tác động (Cognitive Value Alignment):** Thiết lập Re-hook hoặc chèn CTA tại các **Revelation Points** (điểm mở khóa nhận thức) ngay sau khi vừa làm sáng tỏ một vấn đề phức tạp.
-- **Pattern Interrupt:** Không bao giờ viết quá 3 phút phân tích lý thuyết liên tiếp mà không có: (a) một cú sốc dữ liệu mới, (b) câu liên hệ đời sống phổ quát của người nghe, hoặc (c) phép loại suy trực quan sinh động.
+- **Nhịp chuyển và ngắt mạch (Pattern Interrupt):** Không để mạch phân tích lý thuyết kéo dài khiến người nghe tự hỏi "sao còn đoạn này?" (tiêu chí VIII Nhịp); luôn làm mới bằng dữ liệu thực chứng, câu liên hệ đời sống phổ quát hoặc phép loại suy trực quan sinh động.
 
 ### Cách đặt Re-hook:
 - Re-hook là lời hứa cụ thể về giá trị sắp tới, kích thích sự tò mò trí tuệ: *"Nhưng đằng sau những con số lợi nhuận khổng lồ đó, lại là một cái bẫy kế toán chéo mà nếu không bóc tách kỹ, chúng ta sẽ bỏ sót..."*
 
-### Tần suất Re-hook theo Cấp độ Thời lượng (Dynamic Pacing):
-- **Cấp 1 (8–15m):** Tối thiểu 2–3 Re-hooks (tại ranh giới Ch.2 sang Ch.3 và trước cao trào).
-- **Cấp 2 (16–25m):** Tối thiểu 4–5 Re-hooks phân bổ đều mỗi 3–4 phút.
-- **Cấp 3 (26–35m):** Tối thiểu 6–8 Re-hooks duy trì nhịp thở phân tích.
-- **Cấp 4 (36–45+m):** Tối thiểu 9–12 Re-hooks bám sát từng khúc cua chuyển màn.
+### Tham chiếu nhịp theo Cấp độ Thời lượng (Dynamic Pacing - Tham chiếu, không phải chỉ tiêu):
+Các gợi ý dưới đây là tham chiếu nhịp cảm nhận, không phải chỉ tiêu đếm để chấm đạt/không đạt. Chấm bằng việc đọc: ở mỗi khúc quanh hay lần đổi màn, người nghe có được nhắc mình đang đi tìm gì không (khung chấm I, III, VIII):
+- **Cấp 1 (8–15m):** Thường quay lại câu hỏi trung tâm tại ranh giới chuyển màn và trước cao trào.
+- **Cấp 2 (16–25m):** Thường cần quay lại câu hỏi trung tâm quanh các lần đổi màn để giữ hướng.
+- **Cấp 3 (26–35m):** Cần làm mới sự tò mò và mở tiếp các tầng phân tích theo từng chặng.
+- **Cấp 4 (36–45+m):** Duy trì sợi dây xuyên suốt bám sát từng khúc cua chuyển màn.
 
 ## 5. Open loop và cách dùng
-Mỗi video nên có 2–3 open loops chính.
+Mỗi video cần có các open loop dẫn đường mạch tự sự (khung chấm III Gieo và gặt).
 Chúng không phải teaser rẻ.
 Chúng là những câu hỏi thực sự sẽ được trả lời bằng nội dung.
 
@@ -248,11 +254,11 @@ Phần giữa (phút 4-10) là nơi người xem rời đi nhiều nhất. Đây
 - lặp insight bằng cách đổi từ,
 - dùng case study như vật trang trí,
 - nói toàn data mà không có interpretation,
-- giải thích framework trừu tượng quá 2 phút liên tiếp.
+- giải thích framework trừu tượng kéo dài khiến người nghe tự hỏi "sao còn đoạn này?" (tiêu chí VIII Nhịp).
 
-Sau một đoạn phân tích nặng (tối đa 2-3 phút), BẮT BUỘC có:
-- data shock mới, HOẶC
-- một câu diễn giải rất rõ kéo về đời sống cá nhân, HOẶC
+Sau một đoạn phân tích nặng, cần giải tỏa nhịp nhận thức bằng:
+- dữ liệu thực chứng mới, HOẶC
+- một câu diễn giải kéo về đời sống cá nhân hoặc bài học quản trị, HOẶC
 - một phép loại suy đời thường dễ hình dung.
 
 ## 10. Quy tắc phần kết
@@ -283,8 +289,8 @@ Một outline tốt phải đạt TẤT CẢ các tiêu chí sau:
 ### Checklist linh hoạt:
 - [ ] Chương 2 giải quyết lớp phân tích tiếp theo hoặc tạo liên hệ thực tế một cách logic?
 - [ ] Open Loop ở Hook kích thích sự tò mò mạnh mẽ của người xem?
-- [ ] Có Re-hook tại mốc phút ~3:30?
-- [ ] Có Data Shock mới tại mốc phút ~7:00?
+- [ ] Có điểm neo lại câu hỏi trung tâm trước khi chuyển sang các tầng phân tích sâu (khung chấm I, III, VIII)?
+- [ ] Có dữ liệu hoặc mâu thuẫn mới thúc đẩy mạch điều tra khi bước vào cao trào?
 - [ ] Số lượng và thời lượng các case study được tối ưu hóa cho lập luận?
 - [ ] Tổng thời lượng phù hợp với độ sâu chủ đề?
 - [ ] Tránh các phân đoạn giải thích lý thuyết quá khô khan và kéo dài mà không có dẫn chứng thực tế?
@@ -327,16 +333,16 @@ Thay vì Re-hook bằng "túi tiền", dùng 4 loại anchor:
 
 | Chương | Loại A/B (standard) | Loại C (documentary) |
 |--------|---------------------|---------------------|
-| Ch.1 | Hook + CTA | Hook + CTA (giữ nguyên) |
-| Ch.2 | Personal Stakes (bắt buộc) | **Relevance Anchor** — tại sao VN nên quan tâm / điều này liên quan đến ta thế nào |
+| Ch.1 | Hook + Open Loop | Hook + Open Loop (mở câu hỏi lớn) |
+| Ch.2 | Personal Stakes + CTA cuối chương | **Relevance Anchor** + CTA cuối chương |
 | Ch.3-5 | Phân tích + Re-hook | **Comparison Layers** — mỗi chương 1 tầng so sánh mới |
 | Ch.6 | Action Plan | **Implication** — hệ quả + framework đánh giá |
 
 ### 14.4. Ngưỡng retention cho Documentary
 
-- Không bắt buộc "túi tiền" mỗi 3 phút
-- BẮT BUỘC: Data Shock hoặc Comparison mới một cách hợp lý
-- BẮT BUỘC: Ít nhất 1 VN Anchor trong mỗi chương (nếu chủ đề quốc tế)
+- Không bắt buộc "túi tiền" theo đồng hồ; neo bằng sự tò mò trí tuệ
+- BẮT BUỘC: Dữ liệu thực chứng hoặc so sánh đối chiếu được làm mới qua từng tầng phân tích
+- BẮT BUỘC: Có điểm neo liên hệ Việt Nam (VN Anchor) phù hợp khi phân tích chủ đề quốc tế
 - Số lượng case study linh hoạt và tập trung phân tích sâu để làm nổi bật luận đề vĩ mô
 - Ch.2 KHÔNG bắt buộc Personal Financial Stakes — nhưng PHẢI có Relevance Anchor
 

@@ -8,10 +8,10 @@ description: >-
 
 Trước khi thực thi BẤT KỲ bước nào, agent PHẢI dùng tool `view_file` để đọc lần lượt các file sau. NGHIÊM CẤM tạo bất kỳ output nào nếu chưa hoàn thành việc đọc:
 
-1. `/Users/pro16/Documents/VideoProject/Dòng Chảy/.agents/personas/the_viral_alchemist.md`
-2. `/Users/pro16/Documents/VideoProject/Dòng Chảy/.agents/personas/the_macro_analyst.md`
-3. `/Users/pro16/Documents/VideoProject/Dòng Chảy/.agents/personas/the_critical_auditor.md`
-4. `/Users/pro16/Documents/VideoProject/Dòng Chảy/.agents/skills/strategy_council/SKILL.md`
+1. `/Users/pro16/Documents/VideoProject/Dong_Chay/.agents/personas/the_viral_alchemist.md`
+2. `/Users/pro16/Documents/VideoProject/Dong_Chay/.agents/personas/the_macro_analyst.md`
+3. `/Users/pro16/Documents/VideoProject/Dong_Chay/.agents/personas/the_critical_auditor.md`
+4. `/Users/pro16/Documents/VideoProject/Dong_Chay/.agents/skills/strategy_council/SKILL.md`
 
 Chỉ sau khi đọc xong cả bốn file trên mới được tiếp tục các bước bên dưới.
 
@@ -35,6 +35,7 @@ Chỉ sau khi đọc xong cả bốn file trên mới được tiếp tục các
    - **Bước 1.2:** Chạy Vòng Tranh luận & Phản biện chéo để chỉ ra điểm mù, rủi ro, và gạt bỏ clichés.
    - **Bước 1.3:** Dung hợp các phản biện để chọn ra **Champion Angle** tối ưu nhất.
    - **Bước 1.4:** Xuất đề án thảo luận và Champion Angle dưới dạng tệp `episodes/[slug]/01_topic_qualification.md`.
+   - **Lưu ý định hướng vật chứng:** Các câu hỏi lớn và điểm nghẽn của đề tài cần chuẩn bị sẵn định hướng truy lùng vật chứng thực tế (VC-xx) ở Pha 2, không chỉ dừng ở số liệu.
 
    Tệp `01_topic_qualification.md` **BẮT BUỘC** chứa đủ cấu trúc 6 mục quy định tại tệp kỹ năng của Hội đồng.
 

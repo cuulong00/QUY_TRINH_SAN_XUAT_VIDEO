@@ -19,9 +19,9 @@ Dòng Chảy không bao giờ vận hành như một AI tổng hợp thông tin 
 - **Tư duy bề mặt:** Lạm dụng tính từ làm quá, giật gân rẻ tiền ("kinh hoàng", "sốc", "khủng khiếp").
 - **Tư duy Quái Kiệt:** Dùng chi tiết kỹ thuật và dữ liệu thực chứng làm đạn: Tỷ lệ lợi nhuận bảo dưỡng 49.6% của đại lý truyền thống, hiện tượng sụt áp pin khi kéo tải nặng trên dốc 15 độ, khoản nợ $272 tỷ USD đè lên các tập đoàn di sản. Chi tiết chân thực tự nó tạo ra kịch tính áp đảo.
 
-### 🧠 KHUNG 4: MẬT ĐỘ NHẬN THỨC NÉN & SỰ ĐIỀM TĨNH TÀN NHẪN (Cognitive Density & Cold Inevitability)
+### 🧠 KHUNG 4: MẬT ĐỘ NHẬN THỨC NÉN & SỰ ĐIỀM TĨNH CÓ NGHỀ (Cognitive Density & Restrained Depth)
 - **Tư duy bề mặt:** Nói nhiều, văn hoa sáo rỗng, dùng khẩu ngữ suồng sã để cố tỏ ra "đời".
-- **Tư duy Quái Kiệt:** Điềm đạm như một bác sĩ giải phẫu pháp y. Không phán xét đạo đức, không lên gân. Mỗi câu văn là một lát cắt tư duy sắc lạnh, nén tối đa sự thật vào số lượng từ ít nhất. "Nói câu nào chết câu đó" vì không ai có thể bẻ gãy được logic của sự thật trần trụi.
+- **Tư duy Quái Kiệt:** Điềm đạm như một bác sĩ giải phẫu pháp y. Không phán xét đạo đức, không lên gân. Mỗi câu văn là một lát cắt tư duy sắc bén, đanh thép khi chất liệu đòi hỏi, nén tối đa sự thật vào số lượng từ ít nhất. "Nói câu nào chết câu đó" vì không ai có thể bẻ gãy được logic của sự thật trần trụi.
 
 ### 🧠 KHUNG 5: TẦM NHÌN LỊCH SỬ & QUY LUẬT PHÁT TRIỂN (Institutional & Historical Foresight)
 - **Tư duy bề mặt:** Nhìn sự kiện như một tin tức giật gân trong 24 giờ.
@@ -37,12 +37,17 @@ Khán giả của kênh là những người thông minh, có tư duy phản bi�
    - **Xương thép (Substance):** Do Chuyên gia chuyên ngành quyết định. Cơ chế kinh tế, dòng tiền, pháp lý, kỹ thuật phải chuẩn xác 100%.
    - **Da thịt (Acoustic Delivery):** Do Voice Architect chuyển tải thành lời nói thong thả, tự nhiên bên bàn trà (< 150 ký tự), nhưng tuyệt đối không làm cong vênh hay suy suyển cấu trúc của khung xương thép.
 
+## 2.2 GIỌNG NỀN VÀ TÔNG CHỌN THEO CHỦ ĐỀ (BASE VOICE & THEMATIC TONE SELECTION)
+
+Giọng nền của kênh là điềm tĩnh, có nghề, có một bộ óc đang nghĩ. Có chủ đề cần tông lạnh và đanh (một cuộc mổ dòng tiền, một sụp đổ thể chế, một chương phản đề, một khoảnh khắc cú lật); có chủ đề cần ấm hơn hoặc tò mò hơn. Trước khi viết, hỏi: chủ đề này nên nghe thế nào để khán giả muốn nghe tiếp? Tông lạnh hỏng khi người nghe thấy một tờ báo cáo đang được đọc, không thấy ai đang nghĩ.
+
 ## 3. Nhịp câu (Rhythm DNA)
 
 ### Khuyến nghị về nhịp điệu (Flexible Rhythm)
-- **Câu phân tích:** Nên đan xen các câu có độ dài linh hoạt (thường từ 15-30 từ) để dẫn dắt logic đầy đủ.
-- **Câu chốt:** Sử dụng câu ngắn (5-12 từ) đứng độc lập để tạo điểm nhấn có lực và dứt khoát.
-- **Phân đoạn văn:** Gom các câu có liên kết logic chặt chẽ thành từng đoạn văn (paragraphs) rõ ràng (thường từ 2-5 câu), kết thúc bằng câu chốt hoặc câu hỏi gợi mở để người nghe có nhịp thở tự nhiên.
+- **Luật gốc:** `.agents/skills/chapter_writer/SKILL.md` mục "Viết Câu Cho Tai" (đếm theo tiếng: trung bình khoảng 15–25 tiếng, trần 150 ký tự, mỗi vế không quá khoảng 12 tiếng; nguồn `01_management/do_dai_cau_tieng_viet_20261004.md`).
+- **Câu phân tích:** độ dài linh hoạt theo ý, đủ để dẫn dắt logic trọn vẹn.
+- **Câu chốt:** Câu ngắn (5-12 từ) đứng độc lập để tạo điểm nhấn. Chỉ dùng khi câu đó mang thêm một dữ kiện hoặc hệ quả mới; câu chỉ nén lại ý vừa nói là dấu hiệu văn máy (`00_core/anti_ai_isms.md` §3b, S2).
+- **Phân đoạn văn:** Gom các câu có liên kết logic chặt chẽ thành từng đoạn văn (paragraphs) rõ ràng (thường từ 2-5 câu). Đoạn có thể kết bằng câu chốt, câu hỏi gợi mở, hoặc đơn giản bằng dữ kiện dẫn sang đoạn sau. Không kết hai đoạn liền nhau bằng câu chốt.
 - **Diễn giải số liệu:** Sau mỗi khối số liệu dày đặc, bắt buộc phải có câu diễn giải ý nghĩa thực tế bằng ngôn ngữ đại chúng dễ hiểu.
 
 ### ✅ Hook ĐƯỢC PHÉP DÀI — Không giới hạn độ dài hook
@@ -100,6 +105,8 @@ Kịch bản viết cho máy đọc hoặc người nói thoại nên đi theo l
 - **Nguyên lý Phản Đề & Bóc Tách Ảo Ảnh (Thesis-Antithesis-Synthesis):** Tiếp cận vấn đề bằng cách chỉ ra sự đối lập sâu sắc giữa quan niệm phổ thông trên bề mặt và cơ chế kinh tế/vật lý thực tế đang vận hành ngầm. Luận điểm mạnh nhất là luận điểm chứng minh được các quy luật khách quan đang chi phối và ép buộc hành vi của các chủ thể như thế nào.
 - **Nguyên lý Diễn Giải Dữ Liệu Thành Ý Nghĩa Cấu Trúc (Data-to-Meaning Translation):** Không bao giờ để số liệu đứng trơ trọi. Mỗi con số phải được giải mã về ý nghĩa cấu trúc: Nó làm thay đổi cán cân dòng tiền ra sao, tạo áp lực gì lên các bên liên quan, và đâu là điểm uốn tiếp theo của thị trường?
 - **Nguyên lý Phản Biện Khách Quan (Dialectical Rigor):** Khi phân tích các hiện tượng gây tranh cãi, luôn mổ xẻ đầy đủ logic và động lực của bên ủng hộ trước khi chỉ ra các giới hạn và rủi ro cấu trúc. Sự công tâm, thấu đáo và tôn trọng sự thật này tạo ra uy tín học thuật tối cao cho kịch bản.
+- **Nguyên lý Lập Trường Có Trọng Lượng (xem `00_core/stance_and_judgment.md`):** Nhận định đến sau bằng chứng, để con số mang sức nặng thay cho tính từ, phán xét cơ chế chứ không phán xét động cơ hay đạo đức, nói rõ mức chắc chắn qua ba tầng giọng (dữ kiện, suy luận, đặt cược). Chương kết đi theo một trong hai chế độ: A chốt lập trường kèm điều kiện có thể sai, hoặc B kết mở có cấu trúc. Không kết lửng lơ.
+- **Tương phản "không phải X, mà là Y":** mạnh nhất khi dùng ít. Chỉ dùng khi vế "không phải" là cách hiểu khán giả thật sự đang có và cả hai vế đều mang thông tin; tối đa 2 lần mỗi chương, không ở hai đoạn liền nhau (`00_core/anti_ai_isms.md` §3b, S1).
 - **Nguyên lý Neo Tựa Căn Cứ & Bối Cảnh Lịch Sử (Evidentiary & Historical Depth):** Mọi luận điểm bước ngoặt phải bắt nguồn từ dữ liệu kiểm toán công khai, văn bản quy phạm chính thức hoặc đối sánh với quy luật tiến hóa của các mô hình kinh tế thế giới trong lịch sử. Tránh mọi nhận định suy diễn vô căn cứ.
 
 ## 5. Nguyên Lý Tuyển Chọn Ngôn Từ (Lexical Precision & Tone Architecture)
@@ -117,8 +124,8 @@ Kịch bản viết cho máy đọc hoặc người nói thoại nên đi theo l
 ## 7. Ngôi xưng & Quan hệ với khán giả
 
 - Dùng **"chúng ta"** khi phân tích chung: "Nếu chúng ta nhìn vào cấu trúc tăng trưởng..."
-- Dùng **câu không chủ ngữ** khi chốt sắc: "Nói gọn: tăng trưởng thật, nhưng chưa bền."
-- Dùng **"bạn"** khi kết nối với đời sống khán giả: "Điều này ảnh hưởng thế nào đến bạn?"
+- Dùng **câu không chủ ngữ** khi chốt sắc: "Nói gọn: tăng trưởng thật, nhưng chưa bền." ("Nói gọn" / "Nói cách khác" tối đa 1 lần mỗi tập, `00_core/anti_ai_isms.md` §4.)
+- Gọi khán giả là **"bạn"** trong MỌI lời thoại (video dài, chương, shorts, CTA) khi nói trực tiếp với người xem: "Điều này ảnh hưởng thế nào đến bạn?" Không dùng "quý vị" (user chốt 29/09/2026).
 - **KHÔNG** dùng giọng ban phát: "tôi sẽ dạy bạn", "bạn phải hiểu"
 - **KHÔNG** self-aggrandize: "video này sẽ thay đổi cách bạn nghĩ"
 
@@ -129,7 +136,9 @@ Kịch bản viết cho máy đọc hoặc người nói thoại nên đi theo l
 
 ### 7.2 Khung Tương Tác Cao Cấp & Tự Nhiên (Premium Engagement CTA Framework)
 
-Để kêu gọi Like, Comment, Subscribe đạt tỉ lệ chuyển đổi cao mà vẫn giữ được vị thế chuyên gia của kênh, áp dụng các kỹ thuật sau:
+Để kêu gọi Like, Comment, Subscribe đạt tỉ lệ chuyển đổi cao mà vẫn giữ được vị thế chuyên gia của kênh, áp dụng các kỹ thuật sau.
+
+**Vị trí (BẤT BIẾN, nguồn: `.agents/AGENTS.md` mục "Chuẩn Vận Hành Kỹ Thuật"):** đúng **1 khối CTA duy nhất**, cuối Chương 2, ngay trước Bridge sang Chương 3. Ba kỹ thuật dưới đây là cách viết câu trong khối đó (chọn 1–2, không dùng cả ba), không phải ba vị trí CTA khác nhau. Cấm CTA ở Chương 1 và các chương sau.
 
 > 🛑 **MỤC CẤM TUYỆT ĐỐI (ANTI-CHEAP CTA BANNED PATTERNS)**
 > - **CẤM giới thiệu trực tiếp tên kênh bằng các câu cửa miệng rập khuôn (Ví dụ: "Đây là Dòng Chảy.") trong phần dẫn nhập để giữ tính tự nhiên, tránh cảm giác AI.**
@@ -139,7 +148,7 @@ Kịch bản viết cho máy đọc hoặc người nói thoại nên đi theo l
 > - **CẤM gieo CTA một cách vội vàng khi chưa xây dựng đủ căng thẳng kịch tính (tension) hoặc chưa trao đi giá trị ở đầu video.**
 > 
 > > 💡 **NGUYÊN TẮC THAY THẾ (POLITE & ELEGANT CTA PRINCIPLES):**
-> > - Sử dụng ngôi xưng **đồng bộ với toàn kịch bản** (ví dụ: nếu toàn kịch bản dùng "bạn", thì CTA dùng "bạn"; nếu dùng "quý vị", thì CTA dùng "quý vị"). Tuyệt đối cấm đổi ngôi xưng đột ngột từ "bạn" sang "quý vị" chỉ để kêu gọi tương tác.
+> > - CTA gọi khán giả là **"bạn"**, đồng bộ với toàn kịch bản (§7). Không dùng "quý vị".
 > > - Diễn đạt nhẹ nhàng dưới dạng **lời mời hợp tác, chia sẻ cơ hội hoặc bày tỏ sự khích lệ**.
 > > - Ví dụ thay thế:
 > >   - ❌ "Hãy nhấn nút Đăng ký kênh và Like ngay để ủng hộ chúng tôi."
@@ -158,7 +167,7 @@ Kịch bản viết cho máy đọc hoặc người nói thoại nên đi theo l
    - *Ví dụ:* "Nếu đứng trước lựa chọn: tự xây dựng hạ tầng tốn hàng triệu đô hay đi thuê để tối ưu chi phí nhưng chịu rủi ro bị khóa API, bạn sẽ chọn con đường nào? Hãy chia sẻ nhận định của bạn ở phần bình luận."
  
 3. **Subscribe Giá Trị (The Value-Promise Subscribe):**
-   - Đặt linh hoạt (ở cuối chương 1 sau Lời hứa video, hoặc ở đỉnh cảm xúc cao trào giữa/cuối video).
+   - Vị trí: cùng khối CTA duy nhất ở cuối Chương 2 (xem đầu mục 7.2).
    - Luôn đi kèm lời hứa về một chuỗi giá trị / chủ đề sâu sắc tiếp theo mà họ không muốn bỏ lỡ.
    - *Công thức:* **[Lợi ích của việc hiểu bản chất / Lời hứa chủ đề tiếp theo] + [Lời mời đồng hành qua nút đăng ký kênh]**.
    - *Ví dụ:* "Những phân tích về góc tối của các thương vụ công nghệ vĩ mô sẽ liên tục được cập nhật. Sự đồng hành của bạn qua nút đăng ký kênh sẽ giúp chúng ta cùng đi sâu hơn vào bản chất câu chuyện ở các tập tiếp theo."
@@ -193,6 +202,8 @@ Kịch bản viết cho máy đọc hoặc người nói thoại nên đi theo l
   - `Vinasun` (thương hiệu đọc theo âm Việt) $\rightarrow$ **`Vi Na Săn`**.
   - `VPBank` (thói quen gọi ngân hàng) $\rightarrow$ **`vi pi banh`**.
   - `EBITDA` $\rightarrow$ **`E bit đa`**.
+  - `GSM` $\rightarrow$ **`GI ét EM`**.
+  - `FGF` $\rightarrow$ **`F G F`**.
   - `GDP` $\rightarrow$ **`gi đi pi`**.
   - `Q&Me` $\rightarrow$ **`Q and Me`**.
 

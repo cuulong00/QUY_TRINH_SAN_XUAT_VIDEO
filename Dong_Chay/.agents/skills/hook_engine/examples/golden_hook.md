@@ -4,7 +4,7 @@
 
 ## Cách dùng
 - Hook engine skill sẽ đọc file này để hiểu "hook đạt chuẩn kênh" trông như thế nào
-- Bao gồm: hook chính thức + 2–3 mini re-hooks hay nhất
+- Bao gồm: hook chính thức + các mini re-hooks hay nhất
 
 ## Template
 ```markdown

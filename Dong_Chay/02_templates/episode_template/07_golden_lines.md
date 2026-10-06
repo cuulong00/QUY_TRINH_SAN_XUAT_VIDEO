@@ -40,6 +40,6 @@ Lưu lại những câu đắt giá nhất trong kịch bản. Những câu này
 3.
 
 ## Ghi chú
-- Mỗi chương ghi tối đa 2–3 câu
+- Ghi nhận các câu đắt giá nhất của chương, không ép số lượng
 - Tiêu chí: câu nào khiến người nghe dừng lại, cảm thấy "đúng quá"
 - Oral polisher KHÔNG ĐƯỢC sửa câu nằm trong danh sách này trừ khi có lý do rõ ràng

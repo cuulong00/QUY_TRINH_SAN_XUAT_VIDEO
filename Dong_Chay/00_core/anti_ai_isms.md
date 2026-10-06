@@ -89,6 +89,62 @@ AI transition cliché.
 ✅ "Đồng tiền không biến mất. Nó chuyển chỗ. Từ tài khoản tiết kiệm sang quán ăn ven biển Nha Trang."
 ```
 
+## 3b. Dấu hiệu cấu trúc (chuyển thể từ blader/humanizer, giấy phép MIT)
+
+Văn máy nghe giả không phải vì từng câu sai, mà vì nó luôn chọn phương án "an toàn cho mọi người nghe": câu nào cũng cân, đoạn nào cũng có câu chốt, ý nào cũng được nối bằng một cụm nghe sâu. Người viết thật chọn cho một người nghe cụ thể, nên lựa chọn không đều và cụ thể. Mục này bắt các dấu hiệu ở cấp cấu trúc mà danh sách từ cấm (§2) không bắt được.
+
+Hai nhóm. **Nhóm mạnh:** thấy một lần là xét sửa. **Nhóm yếu:** đứng một mình thì bình thường, chỉ sửa khi hai dấu hiệu trở lên dồn vào cùng một đoạn hoặc cùng một dấu hiệu lặp dày trong chương.
+
+### Nhóm mạnh
+| # | Dấu hiệu | Ví dụ lỗi | Giữ khi | Sửa thế nào |
+|---|---|---|---|---|
+| S1 | "Không phải X, mà là Y" | "Vấn đề không nằm ở giá xe, mà ở niềm tin." | Vế "không phải" sửa một niềm tin mà khán giả THẬT SỰ đang có (đã có trong nguồn, báo chí, số đông), và cả hai vế đều mang thông tin | Nói thẳng Y kèm bằng chứng. Tránh dùng lặp lại làm người nghe thấy khuôn |
+| S2 | Câu chốt đứng riêng, chuỗi câu cụt | "Đó là cái giá." · "Không lối thoát. Không đường lui." | Câu ngắn mang thêm một dữ kiện hoặc một hệ quả mới ("Mỗi ngày, lãi vay là 113 tỷ đồng.") | Nếu câu chỉ nén lại ý đoạn vừa nói thì bỏ. Không kết hai đoạn liền nhau bằng câu chốt |
+| S3 | Câu nghe sâu sắc | "Cốt lõi của vấn đề là…" · "Suy cho cùng…" · "Bài học ở đây là…" · "X là ngôn ngữ của Y" | Không có | Nói thẳng nội dung. Nếu bỏ câu đi mà đoạn không mất thông tin, bỏ |
+| S4 | Rào đón trước khi vào ý | "Hãy cùng nhìn vào…" · "Điều bạn cần biết là…" · "Để hiểu điều này, chúng ta cần quay lại…" | Không có | Bắt đầu bằng chính dữ kiện hoặc câu hỏi |
+| S5 | Cãi với người không tồn tại | "Nhiều người lầm tưởng rằng…" | Có nguồn cho thấy niềm tin đó có thật | Xem `00_core/voice_dna.md` §2.1 (chống bù nhìn rơm) |
+| S6 | Mượn uy tín không tên | "Giới chuyên gia nhận định…" · "Nhiều ý kiến cho rằng…" · "Theo giới phân tích…" | Không có | Nêu tên nguồn có trong vault, hoặc chuyển thành nhận định của kênh (tầng đặt cược, `00_core/stance_and_judgment.md` §5) |
+| S7 | Đuôi câu gắn thêm cho sâu | "…, cho thấy tầm nhìn chiến lược dài hạn." · "…, góp phần khẳng định vị thế." · "…, mở ra một chương mới." | Không có | Cắt đuôi. Nếu thật sự cho thấy điều gì, viết thành câu riêng kèm bằng chứng |
+
+### Nhóm yếu
+| # | Dấu hiệu | Ví dụ | Ghi chú |
+|---|---|---|---|
+| W1 | Bộ ba gượng ép | ba tính từ, ba hành động song song đều nhịp | Xem Pattern 6. Giữ khi nội dung thật sự có ba ý |
+| W2 | Lặp cách mở câu | ba câu liền mở bằng "Nó…", "Đó là…", "Và…" | Đổi chủ ngữ hoặc gộp câu |
+| W3 | Chồng lớp rào đón | "có thể phần nào", "dường như có lẽ", "ở một mức độ nào đó" | Một mức chắc chắn cho một câu, theo ba tầng giọng |
+| W4 | Phóng đại tầm quan trọng | "bước ngoặt lịch sử", "kỷ nguyên mới", "đóng vai trò then chốt", "là minh chứng rõ nét" | Thay bằng con số cho thấy quy mô |
+| W5 | Liên hệ mơ hồ | "gắn liền với", "liên quan mật thiết đến", "có tác động đến", "điều đó phản ánh…" | Nói rõ tác động gì, theo chiều nào, bao nhiêu |
+| W6 | Né động từ "là", "có" | "đóng vai trò là", "được xem như là", "đóng vai trò như một" | Viết "là" |
+| W7 | Giải thích lại điều khán giả vừa nghe | nhắc lại bối cảnh đã nói ở chương trước | Xem `.agents/rules/final-merge.md` |
+
+### Khi nào KHÔNG sửa (đặc thù lời thoại)
+Hai tài liệu gốc viết cho văn đọc bằng mắt. Lời nói cần thêm một ít chỗ tựa cho tai:
+- Nhắc lại con số chính một lần khi chuyển sang movement mới, để người nghe bám lại.
+- Câu ngắn nhấn nhịp có mang số hoặc tên.
+- Nhận định và sự phân vân thật của kênh ở tầng đặt cược. Không làm phẳng thành giọng trung tính.
+- Câu hỏi mở cuối tập theo chế độ B (`00_core/stance_and_judgment.md` §1b).
+
+**Kỷ luật dữ kiện khi sửa:** chỉ đổi cách nói. Không thêm số, tên, ngày, trích dẫn nào không có sẵn trong chương gốc hoặc `research_vault/`.
+
+### Soi rồi đọc (chapter và Pha 10–11)
+Bảng chuyển từ cổng đếm sang hai lớp (user duyệt 06/10/2026):
+1. **Lớp soi:** Liệt kê mọi câu khớp dấu hiệu S1–S7 và nhóm yếu. Lớp này là đèn báo, không có ngưỡng đạt/trượt. Dùng máy (grep, script) để soi nhanh và đủ.
+2. **Lớp phán:** Đọc từng câu bị soi ra trong đoạn của nó: câu có mang dữ kiện hoặc hệ quả mới không, và có nghe như người có nghề đang nói không?
+   - Không: sửa, kể cả khi chỉ xuất hiện 1 lần.
+   - Có: giữ, kể cả khi xuất hiện nhiều lần.
+   - Kết luận ghi vào chỉ tiêu IX Câu cho tai và VII Giọng của `00_core/narrative_craft_rubric.md`, có trích câu.
+
+| Dấu hiệu | Lớp soi (máy hoặc quét) | Lớp phán (đọc trong đoạn) |
+|---|---|---|
+| S1 "không phải X mà là Y" và biến thể ("chứ không phải", "chứ chẳng phải"…) | Liệt kê mọi câu khớp | Câu có mang dữ kiện mới không? Hai câu cùng dạng ở gần nhau có làm người nghe thấy khuôn không? Sửa khi đọc thấy khuôn. |
+| S2 câu chốt đứng riêng | Liệt kê câu ngắn kết đoạn | Câu mang dữ kiện hay hệ quả mới, hay chỉ nén lại ý vừa nói? |
+| S3 câu nghe sâu sắc | Liệt kê câu chứa từ khóa "cốt lõi là", "suy cho cùng", "bài học là", "X là ngôn ngữ của Y" | Bỏ nếu không mất thông tin. Nếu có ý thật, viết thẳng vào dữ kiện. |
+| S4 rào đón trước khi vào ý | Liệt kê các câu mở đầu kiểu "hãy cùng nhìn vào", "điều bạn cần biết là" | Bỏ phần rào đón, bắt đầu ngay bằng dữ kiện hoặc câu hỏi. |
+| S5 cãi với người không tồn tại | Liệt kê các câu "nhiều người lầm tưởng rằng..." | Có nguồn thực chứng trong vault chứng minh niềm tin sai lệch đó có thật không? Nếu không, bỏ vế gán ghép. |
+| S6 mượn uy tín không tên | Liệt kê "giới chuyên gia nhận định", "theo giới phân tích" | Có tên nguồn cụ thể trong vault không? Nếu không, chuyển thành nhận định có trách nhiệm của kênh (đặt cược). |
+| S7 đuôi câu gắn thêm cho sâu | Liệt kê các đuôi "cho thấy tầm nhìn...", "khẳng định vị thế...", "mở ra chương mới..." | Cắt đuôi sáo rỗng. Nếu thật sự có hệ quả, viết thành câu độc lập có bằng chứng. |
+| Nhóm yếu W1–W7 | Quét bộ ba gượng ép, lặp cách mở câu, chồng lớp rào đón, phóng đại, liên hệ mơ hồ, né động từ là/có, giải thích lại | Đoạn văn có bị vướng vào thói quen văn máy làm loãng ý không? Sửa để câu văn gọn, chắc và có người đang nghĩ. |
+
 ## 4. Transition bị cấm
 
 | ❌ Cấm | ✅ Thay thế |
@@ -120,7 +176,8 @@ Không có lý do gì chủ đề GDP phải có cùng cấu trúc hook với ch
 "Và đây là phần quan trọng nhất" = bạn đang nói với khán giả rằng những gì trước đó KHÔNG quan trọng. Thay vào đó: viết phần quan trọng cho hay, khán giả tự biết.
 
 ## 6. Cách dùng file này trong pipeline
-- **chapter_writer**: scan mỗi chapter sau khi viết nháp
+- **chapter_writer**: scan mỗi chapter sau khi viết nháp theo hai lớp soi và phán của §3b
+- **compliance_council**: soi và đọc từng câu ở §3b trên từng chương khi chấm Pha 10–11
 - **hook_engine**: đối chiếu mỗi hook trước khi chốt
 - **oral_polisher**: check round cuối trước merge
 - **quality_director**: dùng làm checklist phê bình

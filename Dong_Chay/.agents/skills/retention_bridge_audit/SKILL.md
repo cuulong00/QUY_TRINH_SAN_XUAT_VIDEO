@@ -1,179 +1,102 @@
-# Retention Bridge Audit — Kiểm Toán Mạch Nối Chương
+# Retention Bridge Audit — Kiểm Toán Mạch Nối & Áp Lực Giữ Chân Dòng Chảy (Phiên Bản Tư Duy 3.0)
 
-> **Chuyên gia:** The Quality Czar (Giám Đốc Chất Lượng)
-> **Persona:** `.agents/personas/the_quality_czar.md`
-> **Chức năng:** Kiểm toán TOÀN BỘ chuỗi liên kết giữa các chương SAU khi tất cả chapter đã viết xong.
-> **Khi nào dùng:** Sau Phase 9 (viết xong chapter cuối) và TRƯỚC Phase 10 (Financial QA).
+> **Chuyên gia chủ trì:** The Critical Auditor (`.agents/personas/the_critical_auditor.md`) kết hợp cùng The Quality Czar (`.agents/personas/the_quality_czar.md`)
+> **Chức năng:** Kiểm toán TOÀN BỘ chuỗi liên kết nhân quả giữa các chương, phát hiện vùng chết nhận thức (Dead Zones) và bảo đảm áp lực chú ý không bị sụt giảm sau khi tất cả chapter đã viết xong.
+> **Khi nào dùng:** Sau Pha 8 (Merge Voiceover) và TRƯỚC Pha 10 (Compliance Council Audit).
 > **Tần suất:** MỘT LẦN DUY NHẤT cho mỗi episode — không chạy từng chương riêng lẻ.
 
 ---
 
-## Tại sao bước này tồn tại
+## 1. NGUYÊN LÝ GIỮ CHÂN KIỆT TÁC (RETENTION PRINCIPLES)
 
-Episode LPBank (23/06/2026): toàn bộ 6 chương được viết tuần tự, mỗi chương vượt qua Quality Czar scan cá nhân.
-Nhưng khi ghép lại, chuỗi mối nối giữa các chương bộc lộ 5 lỗi cấu trúc:
-- Không có MACRO LOOP xuyên suốt video
-- Template transition bị cấm tại mối nối chương
-- Recap không cần thiết tại mối nối
-- Stacking loops không được thiết kế — Ch6 mất lực kéo
-- Typos xuyên chương không ai bắt
-
-**Quality Czar scan từng chương → bắt lỗi MỨC CHƯƠNG.**
-**Retention Bridge Audit scan mối nối → bắt lỗi MỨC VIDEO.**
+> *"Khán giả không rời bỏ video vì chủ đề quá phức tạp; họ rời bỏ vì **SỰ MẤT MÁT ĐỘNG LỰC NHÂN QUẢ** hoặc rơi vào một **KHOẢNG TRỐNG NHẬN THỨC VÔ NGHĨA**. Mỗi mối nối giữa hai chương không chỉ là một cái bắt tay cơ học, mà là một cú chuyền đuốc nhận thức: Vừa dập tắt ngọn lửa tò mò cục bộ của chương trước, lập tức phải làm bùng lên một đám cháy nghịch lý dữ dội hơn ở chương sau."*
 
 ---
 
-## Input bắt buộc
+## 2. BA MÔ HÌNH KIỂM TOÁN GIỮ CHÂN CỐT LÕI (CORE RETENTION MODELS)
 
-- TẤT CẢ file `chapter_XX.md` trong `episodes/[slug]/`
-- `06_retention_map.md` (nếu có phần Stacking Loops Map)
-- `00_core/anti_patterns.md` §Anti-pattern 12 (Dead Transition Trap)
-- `PRE_FLIGHT_GATE.md` §Gate 4C (Transition Quality Check)
+### Mô hình 1: Quy Tắc Khoảng Trống Nhận Thức Kế Tiếp (The Payoff Void Rule — George Blackman)
+- **Bản chất:** Khi một câu hỏi hoặc mâu thuẫn ở Chương $N$ được giải mã (Payoff), tâm lý người nghe sẽ thỏa mãn và có xu hướng muốn tắt video. Để triệt tiêu nguy cơ này, kịch bản BẮT BUỘC phải mở ra một khoảng trống nhận thức mới (New Cognitive Void) ngay tại thời điểm trao payoff.
+- **Tiêu chuẩn kiểm toán:** Tại mỗi mối nối Ch$[X] \rightarrow$ Ch$[X+1]$:
+  * *Close:* Chương $X$ đã chốt hạ giá trị insight thực chứng chưa?
+  * *Void:* Câu chốt của Chương $X$ hoặc câu mở của Chương $X+1$ có lập tức phơi bày một nghịch lý mới sâu hơn không?
 
----
+### Mô hình 2: Động Lực Nhân Quả "THEREFORE / BUT" (0% "And Then")
+- Kiểm tra toàn bộ chuỗi mắt xích từ đầu đến cuối video:
+  * Hai chương nối với nhau bằng quan hệ nhân quả: **"VÌ VẬY..."** (Therefore — hệ quả không thể tránh khỏi) hoặc **"NHƯNG..."** (But — cú lật ngược tình thế đầy bất ngờ).
+  * Nếu một mối nối chỉ có thể liên kết bằng **"VÀ RỒI..."** (And Then — liệt kê ngăn tủ độc lập) $\rightarrow$ **ĐÁNH TRƯỢT (FAIL)**, yêu cầu viết lại câu nối.
 
-## Quy trình — 4 Lượt Kiểm Toán
-
-### Lượt 1: CHAIN READ (Đọc chuỗi mối nối)
-
-**Cách thực hiện:** Đọc LIÊN TỤC chỉ 3 dòng cuối mỗi chương + 3 dòng đầu chương sau. Bỏ qua phần thân chương.
-
-Ghi ra bảng sau cho MỖI mối nối:
-
-```
-## Mối nối: Ch[X] → Ch[X+1]
-
-### Kết Ch[X] (trích nguyên văn 2-3 câu cuối):
-> "..."
-
-### Mở Ch[X+1] (trích nguyên văn 1-3 câu đầu):
-> "..."
-
-### Checklist:
-| # | Test | Đạt? |
-|---|---|---|
-| 1 | VALUE CLOSE: Khán giả biết chương vừa rồi cho họ insight gì cụ thể? | |
-| 2 | OPEN LOOP: Có chi tiết cụ thể (con số/nhân vật/sự kiện) gây tò mò, CHƯA giải đáp? | |
-| 3 | ANSWER HOOK: Chương sau trả lời hook trong 1-3 câu đầu? | |
-| 4 | 3-WORD TEST: Tóm câu mở chương sau trong ≤3 từ được không? | |
-| 5 | BUT/THEREFORE: Chèn "NHƯNG" hoặc "DO ĐÓ" giữa 2 chương. Nếu chỉ chèn được "VÀ SAU ĐÓ" → FAIL. | |
-| 6 | SPOILER TEST: Kết chương có tiết lộ nội dung chương sau không? | |
-| 7 | DEAD AIR TEST: Mở chương có mini-intro ("Trong phần này...", "Để hiểu rõ hơn...")? | |
-| 8 | PATTERN INTERRUPT: Có thay đổi nhịp câu tại mối nối? (Câu ngắn đột ngột sau chuỗi dài?) | |
-| 9 | BANNED PHRASES: Có dùng cụm từ trong bảng CẤM (Gate 4C)? | |
-
-### Verdict mối nối: [PASS / CẦN SỬA]
-### Lỗi cụ thể (nếu có):
-```
+### Mô hình 3: Quét Ma Sát Nhận Thức & Vùng Chết (Retention Friction & Dead Air Scan)
+- Quét các đoạn văn bản trong kịch bản để phát hiện:
+  * **Dead Air (Vùng chết):** Có đoạn nào người nghe sẽ hỏi "sao còn đoạn này?" vì chỉ toàn giải thích lý thuyết chung chung hoặc thuật ngữ học thuật mà không có dữ liệu thực tế, vật chứng hay mâu thuẫn mới không (tiêu chí VIII Nhịp)?
+  * **Didactic Lecture Trap:** Có đoạn nào narrator lên giọng giảng bài hoặc thuyết giáo đạo đức không?
+  * **Mini-Intro rườm rà:** Các câu mở đầu chương sáo mòn như: *"Trong phần tiếp theo này...", "Để hiểu rõ hơn về vấn đề này...", "Chúng ta hãy cùng nhìn vào..."* $\rightarrow$ Bắt buộc xóa bỏ, đi thẳng vào động lực sự kiện.
 
 ---
 
-### Lượt 2: STACKING LOOPS MAP (Bản đồ vòng mở)
+## 3. QUY TRÌNH THỰC THI 4 LƯỢT KIỂM TOÁN
 
-Vẽ bản đồ loop cho TOÀN BỘ video:
+### Lượt 1: Chain Read (Đọc Chuỗi Mối Nối Cắt Kép)
+Đọc liên tục 3 câu cuối của Chương $X$ và 3 câu đầu của Chương $X+1$. Kiểm tra 9 tiêu chí vàng:
+1. **Value Close:** Khán giả có nhận được insight cụ thể của chương vừa rồi không?
+2. **Open Loop:** Có chi tiết mâu thuẫn cụ thể gieo lại chưa giải đáp không?
+3. **Answer Hook:** Chương sau có tiếp nhận lực kéo của chương trước trong 1–3 câu đầu không?
+4. **Mở đầu súc tích:** Câu mở chương sau có đi thẳng vào trọng tâm, gọn gàng, tránh dông dài vòng vo không?
+5. **Therefore/But:** Có kết nối bằng "Vì vậy" hoặc "Nhưng" không?
+6. **Spoiler Test:** Kết chương có lỡ miệng kể hết nội dung chương sau không?
+7. **Dead Air Test:** Có dính mini-intro hay lời rào đón hành chính không?
+8. **Pattern Interrupt:** Có sự thay đổi nhịp câu (câu ngắn đột ngột sau chuỗi câu dài) để đánh thức sự chú ý không?
+9. **Banned Phrases:** Sạch 100% các từ nối sáo rỗng ("Mặt khác", "Đồng thời", "Bên cạnh đó", "Và rồi").
 
-```
-## Stacking Loops Map
+### Lượt 2: Stacking Loops Map (Bản Đồ Vòng Mở Toàn Bài)
+- Vẽ bản đồ vòng lặp:
+  * Macro Loop (Vòng lặp lớn gieo ở Hook): Bắt buộc mở ở Ch1 và chỉ đóng ở chương kết.
+  * Meso Loops (Vòng lặp chương): Mở ở cuối Ch$[X]$, đóng ở giữa Ch$[X+1]$.
+  * Luôn đảm bảo mạch tự sự duy trì câu hỏi tò mò chưa giải đáp dẫn đường người nghe (khung chấm III Gieo và gặt).
 
-| Chương | Loops MỞ | Loops ĐÓNG | Tổng loops đang mở |
-|---|---|---|---|
-| Ch1 | MACRO: "..." / MESO-1: "..." | (không) | 2 |
-| Ch2 | MESO-2: "..." | MESO-1 | 2 |
-| Ch3 | MESO-3: "..." | MESO-2 | 2 |
-| ... | ... | ... | ... |
+### Lượt 3: But/Therefore Causal Momentum
+- Lập bảng thẩm định chuỗi quan hệ nhân quả của toàn bộ các chương.
 
-### Kiểm tra:
-| # | Quy tắc | Đạt? |
-|---|---|---|
-| 1 | MACRO LOOP mở từ Ch1, chỉ đóng ở chương cuối? | |
-| 2 | Tại MỌI thời điểm có ≥1 loop đang mở? | |
-| 3 | Khi đóng 1 loop → mở ngay 1 loop mới? (không để khoảng trống) | |
-| 4 | Có ≥2 cấp loop hoạt động song song? (Macro + Meso) | |
-| 5 | Chương cuối đóng sạch mọi loop? | |
-```
-
----
-
-### Lượt 3: BUT/THEREFORE CHAIN (Chuỗi nhân quả)
-
-Test nhanh toàn bộ chuỗi:
-
-```
-## But/Therefore Chain
-
-| Mối nối | Nối bằng gì? | Đạt? |
-|---|---|---|
-| Ch1 → Ch2 | (NHƯNG / DO ĐÓ / VÀ SAU ĐÓ) + giải thích | |
-| Ch2 → Ch3 | ... | |
-| Ch3 → Ch4 | ... | |
-| ... | ... | |
-
-### Verdict: Nếu có bất kỳ mối nối nào chỉ nối được bằng "VÀ SAU ĐÓ" → CẦN SỬA.
-```
+### Lượt 4: Momentum & Pacing Profile (Hồ Sơ Nhịp Thở Thính Giác)
+- Kiểm tra sự đối xứng nhịp điệu:
+  * Nếu cuối chương là câu dài phân tích $\rightarrow$ đầu chương sau nên mở bằng một dữ kiện cụ thể, ngắn gọn (đổi nhịp), không bằng câu cụt không có thông tin.
+  * Tránh cấu trúc Dài $\rightarrow$ Dài (gây mệt tai) hoặc Ngắn $\rightarrow$ Dài lê thê (mất gia tốc chú ý).
 
 ---
 
-### Lượt 4: MOMENTUM PROFILE (Hồ sơ nhịp chương)
+## 4. QUY CHUẨN ĐẦU RA (`retention_bridge_audit.md`)
 
-Đánh giá nhịp năng lượng tại mỗi mối nối:
-
-```
-## Momentum Profile
-
-| Mối nối | Nhịp cuối Ch[X] | Nhịp đầu Ch[X+1] | Đánh giá |
-|---|---|---|---|
-| Ch1→2 | (dài/ngắn/trung bình) | (dài/ngắn/trung bình) | |
-| Ch2→3 | ... | ... | |
-| ... | ... | ... | |
-
-### Quy tắc:
-- Nếu cuối chương = câu DÀI phân tích → đầu chương sau PHẢI là câu NGẮN (pattern interrupt)
-- Nếu cuối chương = câu NGẮN hook → đầu chương sau PHẢI là đáp án NGẮN (slippery slope)
-- TRÁNH: Dài → Dài (mệt), Ngắn → Dài (mất momentum)
-```
-
----
-
-## Output
-
-Sau khi chạy xong 4 lượt, tạo file `retention_bridge_audit.md` trong `episodes/[slug]/` với format:
+Xuất tệp báo cáo chi tiết:
 
 ```markdown
-# Retention Bridge Audit — [Episode Name]
+# Retention Bridge Audit — [Episode Slug]
 Ngày audit: [YYYY-MM-DD]
+Kiểm toán viên: The Critical Auditor
 
-## Tổng quan
-- Số mối nối: [X]
-- Mối nối PASS: [X]
-- Mối nối CẦN SỬA: [X]
+## 1. Tổng quan chuỗi giữ chân
+- Số mối nối kiểm tra: [N]
+- Mối nối ĐẠT (PASS): [X]
+- Mối nối CẦN SỬA: [Y]
+- Điểm trung bình mối nối: [Z/9]
 
-## Điểm trung bình: [X/9] (theo checklist Lượt 1)
+## 2. Bản đồ Vòng lặp Nhận thức (Stacking Loops Map)
+| Chương | Loop Mở | Loop Đóng | Số Loop Đang Mở | Đánh Giá Payoff Void |
+|---|---|---|---|---|
+| Ch1 | Macro: "..." | (Chưa) | 1 | Mở màn |
+| Ch2 | Meso-1: "..." | (Tiếp tục) | 2 | Đạt |
+| ... | ... | ... | ... | ... |
 
-## Stacking Loops: [PASS / CẦN SỬA]
-## But/Therefore Chain: [PASS / CẦN SỬA]
-## Momentum Profile: [PASS / CẦN SỬA]
+## 3. Thẩm Định Chuỗi Nhân Quả (Therefore / But Chain)
+| Mối Nối | Loại Động Lực (THEREFORE / BUT) | Đánh Giá Mạch Logic |
+|---|---|---|
+| Ch1 → Ch2 | [THEREFORE / BUT] | [Hợp lý / Rời rạc] |
+| Ch2 → Ch3 | [THEREFORE / BUT] | [Hợp lý / Rời rạc] |
+| ... | ... | ... |
 
-## Chi tiết từng mối nối
-(Kết quả Lượt 1 cho mỗi mối nối)
+## 4. Danh Sách Điểm Ma Sát Cần Sửa (Friction Points to Fix)
+1. Mối nối Ch[A] → Ch[B]: [Mô tả lỗi cụ thể và câu đề xuất thay thế]
+2. Đoạn văn Dead Air tại Ch[C]: [Vị trí và giải pháp cắt tỉa]
 
-## Các lỗi cần sửa (ưu tiên cao → thấp)
-1. ...
-2. ...
-
-## Verdict: [DUYỆT / SỬA LẠI]
+## 5. Kết Luận Chung Cuộc
+- **Trạng thái:** [DUYỆT (PASS) / YÊU CẦU SỬA TRỰC TIẾP]
 ```
-
-Nếu Verdict = SỬA LẠI → Chapter Writer nhận danh sách lỗi cụ thể và sửa ĐÚNG các đoạn kết/mở bị đánh dấu. KHÔNG viết lại toàn bộ chương.
-
----
-
-## Lưu ý quan trọng
-
-1. **Retention Bridge Audit KHÔNG scan nội dung chương.** Đó là việc của Quality Czar scan (Phase 9.5). Audit này CHỈ scan các mối nối.
-2. **Audit này chạy MỘT LẦN sau khi TẤT CẢ chương đã viết xong.** Không chạy từng chương riêng lẻ — vì mối nối cần 2 chương mới kiểm tra được.
-3. **Nếu Chapter Writer sửa mối nối → chạy lại audit cho các mối nối bị ảnh hưởng.**
-4. **Tuyệt đối chống kịch tính hóa máy móc (Context-aware Pacing):** Khi đánh giá mối nối ở Lượt 1, kiểm toán viên phải đánh giá theo ngữ cảnh của kịch bản. Không ép buộc mọi chương phải có Open Loop gay cấn dạng giật gân (Sensationalism). Phải phân loại rõ mối nối:
-   - **Hard Loop (Vòng mở mạnh):** Dành cho các nút chuyển hướng vĩ mô lớn. Phải dựa trên nghịch lý dữ liệu hoặc con số kinh tế cụ thể chưa được giải thích.
-   - **Soft Loop (Vòng mở nhẹ):** Dành cho các chương mang tính kế thừa, phân tích sâu thêm. Chỉ cần dùng liên từ nghịch chuyển logic (Tuy nhiên, Nhưng, Do đó) và đặt câu hỏi định hướng nhẹ nhàng.
-   - **Chương Kết (Chương cuối):** TUYỆT ĐỐI KHÔNG dùng Open Loop. Chỉ dùng **Value Close tổng hợp** và **Action Plan (Kêu gọi tự vệ tài sản)**.
-

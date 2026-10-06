@@ -149,7 +149,7 @@ Kết bằng action plan + chốt sự thật.
 Ví dụ:
 - "100 triệu hôm nay. 10 năm sau chỉ mua được hàng 50 triệu. Đó là sự thật không ai thay đổi được. Câu hỏi là: bạn sẽ để tiền chết trong tài khoản tiết kiệm, hay bắt đầu tìm cách bảo vệ nó?"
 
-> **Phạm vi áp dụng:** Anti-pattern này áp dụng cho video tài chính cá nhân (Loại A — Personal Finance). Với video documentary vĩ mô (Loại B/C), chương kết tuân theo quy tắc riêng trong `chapter_writer/SKILL.md` §CHƯƠNG KẾT: để lại câu hỏi chưa trả lời, không kết luận hộ khán giả.
+> **Phạm vi áp dụng:** Anti-pattern này áp dụng cho video tài chính cá nhân (Loại A — Personal Finance). Với video documentary vĩ mô (Loại B/C), chương kết tuân theo chế độ kết trong `03_brief.md` (`00_core/stance_and_judgment.md` §1): A chốt lập trường kèm điều kiện có thể sai, hoặc B kết mở có cấu trúc.
 
 ## 10. Anti-pattern 9 — Toàn bài chỉ một màu logic
 ### Dấu hiệu
@@ -358,7 +358,7 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Mỗi lớp mới của cơ chế tự tạo re-hook — không cần ép re-hook theo đồng hồ.
 
 **Cả hai loại:**
-- Không để quá 3 phút liên tiếp chỉ có lý thuyết thuần túy mà không có data shock hoặc scene anchor.
+- Không để phân tích lý thuyết thuần túy kéo dài khiến người nghe tự hỏi "sao còn đoạn này?" (tiêu chí VIII Nhịp); luôn làm mới bằng dữ liệu thực chứng hoặc liên hệ thực tế.
 
 > **Xem thêm:** `00_core/content_principles.md` §2 (Personal Stakes Early).
 
@@ -373,22 +373,22 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Quá nhiều thông tin phụ làm phân tán sự chú ý, dẫn đến tỷ lệ giữ chân người xem giảm.
 
 ### Cách sửa
-- Linh hoạt sử dụng số lượng và thời lượng các case study quốc tế dựa trên chiều sâu chủ đề, ưu tiên chất lượng hơn số lượng.
+- Linh hoạt sử dụng số lượng và thời lượng các case study quốc tế dựa trên chiều sâu chủ đề (`00_core/content_principles.md` §5), ưu tiên chất lượng hơn số lượng.
 - Mỗi case study đưa vào bắt buộc phải làm rõ một cơ chế hoặc mở ra một lớp lập luận mới có tính liên quan trực tiếp đến Việt Nam hoặc bối cảnh phân tích.
 
-## 23. Anti-pattern 22 — Framework/phân tích liên tiếp > 3 phút
+## 23. Anti-pattern 22 — Giải thích lý thuyết/framework kéo dài làm trũng nhịp
 ### Dấu hiệu
-- Quá 3 phút liên tiếp chỉ có giải thích cơ chế, framework, thuật ngữ.
-- Không có data shock mới, không có câu kéo về đời sống cá nhân, không có phép loại suy.
+- Mạch bài sa đà vào giải thích cơ chế, framework, thuật ngữ kéo dài mà không có dữ liệu thực tế hay vật chứng mới, khiến người nghe tự hỏi "sao còn đoạn này?" (tiêu chí VIII Nhịp).
+- Không có data shock mới, không có câu kéo về đời sống hoặc bài học quản trị, không có phép loại suy.
 - Giọng điệu biến thành "bài giảng đại học".
 
 ### Vì sao tệ
 - Không ai đến YouTube để nghe bài giảng.
-- Não bộ mất tập trung sau 2-3 phút cùng một nhịp.
+- Não bộ mất tập trung khi nghe một mạch phân tích đều đều thiếu điểm tựa thực chứng.
 - Đây chính xác là nguyên nhân retention rơi ở phút 5.
 
 ### Cách sửa
-- Sau mỗi 2-3 phút phân tích, BẮT BUỘC có 1 trong: (a) data shock mới, (b) câu kéo về đời sống cá nhân, (c) phép loại suy đời thường, (d) re-hook cụ thể.
+- Khi phân tích cơ chế nặng, cần giải tỏa nhịp nhận thức bằng một trong các điểm tựa: (a) dữ liệu thực chứng mới, (b) câu liên hệ đời sống thực tế hoặc bài học thể chế, (c) phép loại suy đời thường dễ hiểu, (d) điểm neo lại câu hỏi trung tâm (khung chấm I, III, VIII).
 
 ## 24. Anti-pattern 23 — Thumbnail quá phức tạp
 ### Dấu hiệu
@@ -433,7 +433,7 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Khán giả trưởng thành của Dòng Chảy sẽ bị dị ứng bởi kiểu giật gân sáo rỗng này.
 
 ### Cách sửa
-- **Tư duy Tiêu đề Báo chí Sắc lạnh (Journalistic Minimalism):** Tiêu đề phải cực kỳ ngắn gọn, trực diện và điềm tĩnh. Sử dụng các câu đơn sắc nét, khơi gợi tò mò bằng khoảng trống thông tin thay vì gào thét bằng tính từ.
+- **Tư duy Tiêu đề Báo chí Sắc nét (Journalistic Minimalism):** Tiêu đề phải cực kỳ ngắn gọn, trực diện và điềm tĩnh. Sử dụng các câu đơn sắc nét, khơi gợi tò mò bằng khoảng trống thông tin thay vì gào thét bằng tính từ.
 - Bảng thay thế phong cách:
 
 | ❌ Cấu trúc Tệ (AI Cliché) | ✅ Cấu trúc Tốt (Premium & Trực diện) |
@@ -498,7 +498,7 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Chuyên gia thật sẽ bật cười vì thấy thiếu chiều sâu.
 
 ### Cách sửa
-- **Scenario Analysis bắt buộc:** Không kết luận đúng/sai. Phân tích: "Trong điều kiện X thì thắng, trong điều kiện Y thì thua."
+- **Scenario Analysis bắt buộc:** Không phán quyết đúng/sai về động cơ hay đạo đức. Phân tích: "Trong điều kiện X thì thắng, trong điều kiện Y thì thua." Khi bằng chứng đủ, kênh vẫn nêu cách đọc mình đặt cược (chế độ A, `00_core/stance_and_judgment.md`).
 - Mọi phân tích doanh nghiệp/quốc gia phải chỉ ra **Trade-off:** "Chọn A thì hy sinh B."
 - **Có số liệu trước, phân tích kịch bản sau.** NGHIÊM CẤM có kết luận trước rồi tìm số liệu chứng minh.
 - Tự hỏi: "Mình đang bày bàn cờ cho khán giả tự đánh giá, hay đang chọn phe hộ họ?"
@@ -602,7 +602,7 @@ Nếu phải có persona phụ, cũng không được để persona phụ làm l
 - Làm yếu đi mối liên hệ với Universal Stakes (đời sống thực tế của tài xế và người dùng cuối).
 
 ### Cách sửa
-- **Ground Reality Anchor:** Khi viết câu mở đầu hoặc các mô tả thực tế ngoài đường (Scene Anchors), bắt buộc phải dùng các dòng sản phẩm, phương tiện chạy đại trà chiếm đa số trong dữ liệu nguồn.
+- **Ground Reality Anchor:** Khi viết câu mở đầu hoặc đưa dẫn chứng thực tế đời thường, bắt buộc phải dùng các dòng sản phẩm, phương tiện chạy đại trà chiếm đa số trong dữ liệu nguồn; tránh tả cảnh sáo rỗng hoặc phóng đại hình ảnh phi thực tế.
 - Chỉ sử dụng các dòng xe cao cấp (VF8, VF9, BYD Seal) khi đang phân tích cụ thể về phân khúc Luxury/Plus hoặc dải dịch vụ cao cấp có trả phí thêm.
 
 ## 34. Anti-pattern 33 — Bẫy học thuật hành chính (The Bureaucratic Academic Trap)
@@ -685,11 +685,11 @@ Mọi số liệu, chỉ số kinh tế hoặc điều khoản luật pháp khi 
 ### Cách sửa: Áp dụng Quy trình 3 Nhịp Đóng Chương Kiệt Tác & Mở Đầu Hiện Trường
 1. **Đoạn kết chương (The Climax Landing):**
    - Đóng lại bằng sự thật trần trụi nhất (Hard Forensic Punch).
-   - Buông một câu chiêm nghiệm lạnh lùng, tạo khoảng lặng âm thanh 2-3 giây (Cold Epiphany & Silence Beat).
+   - Buông một câu chiêm nghiệm đanh thép, sâu sắc, tạo khoảng lặng âm thanh 2-3 giây (Epiphany & Silence Beat).
    - Để ngỏ một nghịch lý hoặc vết thương nhức nhối (Open Wound), tuyệt đối KHÔNG nói ra tên của giải pháp tiếp theo.
 2. **Đoạn mở đầu chương (In Media Res Cold-Open):**
    - Tuyệt đối CẤM mở đầu bằng: *"Để hiểu...", "Như đã thấy...", "Khi [X] diễn ra..."*.
-   - Đập thẳng tai người nghe vào một cú va chạm hiện trường: một âm thanh mới, một hình ảnh vật lý cụ thể, hoặc một con số gây sốc hoàn toàn mới.
+   - Mở bằng một dữ kiện, vật chứng hay câu hỏi mới khiến người nghe muốn đi tiếp; không mở bằng lời dẫn hành chính hay nhắc lại chương trước. Không bắt buộc mở bằng âm thanh, đồ vật hay cảnh; tả không khí bị hạn chế (`00_core/narrative_craft_rubric.md` mục 2).
    - Để khán giả tự xâu chuỗi nhân quả trong tâm trí.
 
 ---

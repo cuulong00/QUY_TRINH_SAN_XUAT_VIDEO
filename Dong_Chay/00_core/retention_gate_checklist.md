@@ -25,7 +25,7 @@ Outline cần soát kỹ các tiêu chí dưới đây (bắt buộc đạt 1b) 
 - [ ] **9. Kết đúng chế độ (`00_core/stance_and_judgment.md` §1):** Chế độ A nói thẳng lập trường kèm điều kiện có thể sai; chế độ B trao các cách đọc cạnh tranh, biến số quyết định rồi đặt câu hỏi mở nhắm đúng biến số đó. Câu hỏi mở là một phần lập luận, không phải lời xin bình luận (CTA duy nhất nằm cuối Chương 2).
 
 ### Điều kiện PASS:
-- Hoàn thành danh mục soát dàn ý, bắt buộc đạt tiêu chí 1b (Bản đồ nhận thức) và Phiếu A (dàn ý) được người khác chấm mù đạt mốc chất chuyện (người dựng dàn ý đã tự soi) (`00_core/narrative_craft_rubric.md`), cùng các cổng kỹ thuật → PASS → Tiếp tục tạo Chapter Briefs.
+- Hoàn thành danh mục soát dàn ý, bắt buộc đạt tiêu chí 1b (Bản đồ nhận thức) và Phiếu A (dàn ý) được người khác chấm mù đạt mốc chất chuyện (người dựng dàn ý đã tự soi rà soát câu yếu, không tính điểm) (`00_core/narrative_craft_rubric.md`), cùng các cổng kỹ thuật → PASS → Tiếp tục tạo Chapter Briefs.
 - Không đạt bản đồ nhận thức 1b hoặc chưa đạt mốc chất chuyện → FAIL → Điều chỉnh outline để đảm bảo tính giữ chân tốt hơn.
 
 ---

@@ -215,7 +215,7 @@ Mỗi tiêu chí có mô tả chi tiết và thang điểm cụ thể. Sau khi c
 
 **Cách chấm:** Phiếu A (cấp bài) và Phiếu B (cấp chương) của `narrative_craft_rubric.md`, theo quy trình 5 bước (đọc trọn không ghi chép → cấp bài → cấp chương → đối chiếu hai cấp → lệnh sửa). Mọi điểm 4–5 và 1–2 phải trích câu. Không chỉ tiêu nào chấm bằng đếm.
 
-**Quy đổi:** K = (trung bình cấp bài + trung bình cấp chương) ÷ 2 × 4 (lấy từ phiếu chấm mù sau khi đối chiếu và thống nhất khi lệch > 1, không lấy từ bản tự soi).
+**Quy đổi:** K = (trung bình cấp bài + trung bình cấp chương) ÷ 2 × 4 (lấy từ phiếu chấm mù chính thức sau khi đối chiếu thống nhất, không lấy từ bản tự soi của người viết).
 
 **Điều kiện cứng:** K dưới mốc ĐẠT của `narrative_craft_rubric.md` §6 (có chỉ tiêu dưới 3; trung bình một cấp dưới 4,0; hoặc I, IV, V dưới 4) thì tập KHÔNG qua Pha 10, dù tổng điểm cao.
 
@@ -336,7 +336,7 @@ Một kịch bản chỉ được đóng dấu phê duyệt chuyển giao sang T
 
 ## 9. Retention Checkpoint (BẮT BUỘC trước khi duyệt Outline)
 Trước khi bước vào Pha 7 (Viết Kịch Bản Chi Tiết), Dàn ý kịch bản (`07_outline.md`) BẮT BUỘC phải hoàn thành danh mục kiểm định và đạt chuẩn chất lượng:
-- [ ] Đã chạy Phiếu A cấp bài của `00_core/narrative_craft_rubric.md` trên `07_outline.md` (I, II, III, IV-b, X, VII cấp bài): người khác chấm mù đạt mốc ĐẠT (người dựng dàn ý đã tự soi); không đạt thì sửa dàn ý trước khi xin duyệt.
+- [ ] Đã chạy Phiếu A cấp bài của `00_core/narrative_craft_rubric.md` trên `07_outline.md` (I, II, III, IV-b, X, VII cấp bài): người khác chấm mù đạt mốc ĐẠT (người dựng dàn ý đã tự soi rà soát câu yếu, không tính điểm); không đạt thì sửa dàn ý trước khi xin duyệt.
 - [ ] Khung mở đầu có La bàn nhận thức (Mental Scaffolding) phác họa cỗ máy và các mắt xích chính?
 - [ ] Relevance Anchor / Personal Stakes xuất hiện ở phần mở đầu (phù hợp với loại đề tài A, B, hay C)?
 - [ ] Cấu trúc 3 Màn động rõ ràng, có `[THE DEVIL'S CHAPTER]` tại Cao trào Màn 2 (50–70% thời lượng)?

@@ -101,7 +101,7 @@ Sau khi viết xong chapter, in ra **1 bảng tổng hợp ngắn gọn 5 dòng*
 | Hạng mục | Kiểm tra | Đạt? |
 |---|---|---|
 | **Data từ Brief & GVS** | Mỗi dữ kiện của brief đã có chỗ: đọc trong một nhịp chuyện, hoặc ghi "lên hình" để Pha 12 đưa vào infographic. KHÔNG bắt mọi dữ kiện phải được đọc (sửa 06/10/2026: luật cũ "tất cả data anchors đã xuất hiện" đẩy chương thành chuỗi số). | ✅/❌ |
-| **Kể chuyện** | Bảng nhịp chương (Chặng 2) đã đi đủ; đã tự soi Phiếu B cấp chương (Bước 3b, `00_core/narrative_craft_rubric.md`) để rà soát câu yếu trước khi nộp, mọi điểm 4–5 và 1–2 có trích câu? | ✅/❌ |
+| **Kể chuyện** | Bảng nhịp chương (Chặng 2) đã đi đủ; đã tự soi Phiếu B cấp chương (Bước 3b, `00_core/narrative_craft_rubric.md`) để rà soát câu yếu, trích câu và câu sửa trước khi nộp? | ✅/❌ |
 | **Lịch sử kịch bản** | Không trùng lặp từ ngữ, ẩn dụ hoặc cấu trúc câu với các chương trước? | ✅/❌ |
 | **Ngôn ngữ & Nhịp thở** | Qua hai phép thử của mục "Viết Câu Cho Tai"; 100% câu dưới 150 ký tự; không từ cấm AI, không dấu `—`? | ✅/❌ |
 | **Cầu nối chuyển tiếp** | Đã gặt hạt (Harvest) đầu chương và gieo hạt (Seed) cuối chương sang chương sau? | ✅/❌ |
@@ -256,10 +256,10 @@ Sau khi có bản nháp hoàn chỉnh, CHUYỂN SANG vai Quality Czar.
 > Thay lượt đọc ba kết luận của đợt KE-CHUYEN sáng 06/10: một lượt đọc với ba kết luận chỉ nói được chương có phải báo cáo không, không nói được chương thiếu gì. Chất chuyện chấm theo 10 chỉ tiêu, có trích câu; không chỉ tiêu nào chấm bằng đếm (bớt số vẫn có thể đọc kết quả).
 
 1. **Đọc trọn chương một mạch, không ghi chép**, như người nghe lần đầu: không mở brief, sổ dữ kiện hay bảng nhịp.
-2. **Chạy Phiếu B** (`narrative_craft_rubric.md` §4) cho chương vừa viết: IV-a Cú lật, V Vật chứng so với tóm tắt, VI Chủ thể và xung đột, VII Giọng, VIII Nhịp, IX Câu cho tai, và cột "đẩy câu hỏi trung tâm đi bao xa". Mỗi điểm 4–5 và 1–2 trích câu (≤ 25 từ); điểm 1–2 kèm một câu viết lại. So với ngân hàng đoạn mẫu ở §7 trước khi cho điểm.
+2. **Đọc chương theo Phiếu B để tự soi**: ghi chỉ tiêu nào yếu trong 6 chỉ tiêu cấp chương (IV-a Cú lật, V Vật chứng, VI Chủ thể, VII Giọng, VIII Nhịp, IX Câu cho tai), trích câu (≤ 25 từ), vì sao yếu, và câu sửa. Không cho điểm, không ghi ĐẠT. Điểm và kết luận chỉ do người chấm mù ở Pha 10.
 3. **Cập nhật Phiếu A**: dòng gieo/gặt (chương này gieo hạt nào, gặt hạt nào), và ghi chú nếu chương làm lệch câu hỏi I hay vị trí cao trào IV-b.
-4. **In phiếu trong phản hồi chat**, không ghi vào `chapter_XX.md`. Phiếu được chép vào `episodes/[slug]/11_narrative_craft_scorecard.md` (phần tự soi của người viết).
-5. **Tự soi để sửa trước khi lưu:** Đọc và in Phiếu B để tự soi: chương yếu ở chỉ tiêu nào, câu nào cần viết lại. Tự soi không phải điều kiện lưu và không tính vào điểm K; chương đạt hay không do chấm mù ở Pha 10 quyết (`compliance_council` Khóa 6). Nếu tự thấy chưa ổn thì quay lại Chặng 2 bước 0, viết lại đúng nhịp chứa câu lỗi theo lệnh sửa đã ghi; xóa bớt số không phải là sửa.
+4. **In bảng tự soi trong phản hồi chat**, không ghi vào `chapter_XX.md`. Bảng được chép vào `episodes/[slug]/11_narrative_craft_scorecard.md` (phần tự soi của người viết).
+5. **Tự soi để sửa trước khi lưu:** dựa vào các chỉ tiêu yếu và câu sửa đã soi ra để viết lại đúng nhịp chứa câu lỗi; xóa bớt số không phải là sửa. Tự soi không phải điều kiện lưu và không tính vào điểm K; chương đạt hay không do chấm mù ở Pha 10 quyết (`compliance_council` Khóa 6).
 
 ### Bước 4: TỰ CRITIC (BẮT BUỘC — trước khi lưu)
 Đọc lại bản nháp và chấm 9 tiêu chí:

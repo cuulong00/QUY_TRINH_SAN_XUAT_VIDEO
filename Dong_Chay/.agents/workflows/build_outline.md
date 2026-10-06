@@ -137,7 +137,7 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
    - **Kích hoạt Quy tắc Phân hạch Chương (Narrative Fission Protocol):**
      * Ngưỡng trần sinh học thính giác: Bất kể video ở cấp độ nào, không một chương đơn lẻ nào được phép vượt quá **$1.050\text{ từ}$** (~$4.8\text{ phút}$).
      * Nếu tải trọng dữ liệu vượt quá $1.050\text{ từ}$ ➔ **CẤM CẮT XÉN Ý**, bắt buộc **TÁCH ĐÔI CHƯƠNG ĐÓ (Split/Fission)** thành 2 chương độc lập ngay trong Dàn ý (Phần 1: Bế tắc thể chế/chi phí; Phần 2: Cú va chạm cơ khí lõi).
-   - **Chấm Phiếu A cấp bài trên `07_outline.md` (thêm 06/10/2026, đợt NARRATIVE-CRAFT):** Người dựng dàn ý tự soi bằng Phiếu A để rà soát cấu trúc trước khi nộp. Phiếu A chính thức do người khác ngoài người dựng dàn ý (Auditor / Claude / agent khác) chấm mù trước khi xin User duyệt: đọc trọn dàn ý không ghi chép, rồi chấm dàn ý theo đúng cách kể đã chọn này qua các tiêu chí: I Câu hỏi kịch tính trung tâm, II Mức cược, III Gieo và gặt (điền bảng gieo/gặt dự kiến), IV-b Cao trào (vị trí theo % thời lượng), VII Giọng cấp bài (chế độ kết), X Kết và nghĩa, theo `00_core/narrative_craft_rubric.md` §4. Mọi điểm 4–5 và 1–2 trích câu từ dàn ý. Nếu bản chấm mù không đạt mốc ĐẠT (§6) thì sửa dàn ý trước khi xin duyệt; không viết chương trên một dàn ý chưa đạt. Bản tự soi lưu vào mục "Tự soi", bản chấm mù lưu vào mục "Chấm dàn ý bởi người khác" của `episodes/[slug]/11_narrative_craft_scorecard.md`.
+   - **Chấm Phiếu A cấp bài trên `07_outline.md` (thêm 06/10/2026, đợt NARRATIVE-CRAFT):** Người dựng dàn ý tự soi bằng Phiếu A để rà soát câu yếu, không tự cho điểm. Phiếu A chính thức do người khác ngoài người dựng dàn ý (Auditor / Claude / agent khác) chấm mù trước khi xin User duyệt: đọc trọn dàn ý không ghi chép, rồi chấm dàn ý theo đúng cách kể đã chọn này qua các tiêu chí: I Câu hỏi kịch tính trung tâm, II Mức cược, III Gieo và gặt (điền bảng gieo/gặt dự kiến), IV-b Cao trào (vị trí theo % thời lượng), VII Giọng cấp bài (chế độ kết), X Kết và nghĩa, theo `00_core/narrative_craft_rubric.md` §4. Mọi điểm 4–5 và 1–2 trích câu từ dàn ý. Nếu bản chấm mù không đạt mốc ĐẠT (§6) thì sửa dàn ý trước khi xin duyệt; không viết chương trên một dàn ý chưa đạt. Bản tự soi lưu vào mục 0a "Tự soi dàn ý của người dựng", bản chấm mù lưu vào mục 0b "Chấm dàn ý bởi người khác" của `episodes/[slug]/11_narrative_craft_scorecard.md`.
 
    **⛔ KIỂM TRA PHÂN LOẠI CHỦ ĐỀ (HARD GATE TỪ `03_brief.md`):**
    - Mở `episodes/[slug]/03_brief.md` và áp dụng đúng kết quả phân loại (Loại A / B / C):
@@ -159,7 +159,7 @@ Nếu thiếu bất kỳ file nào → DỪNG, thông báo cho user chạy workf
    [ ] Mỗi chương có câu hỏi điều tra và bản đồ nhịp chuyện (câu hỏi / manh mối / cú lật / hệ quả), có cú lật nhận thức; không đọc dồn số, số liệu phục vụ nhịp chuyện và số còn lại ghi "lên hình"
    [ ] Mã dữ kiện chia độc quyền cho từng chương và gắn vào nhịp cụ thể; mã không gắn được vào nhịp thì bỏ khỏi chương
    [ ] Chương 1 không đọc mục lục video
-   [ ] Phiếu A cấp bài (`00_core/narrative_craft_rubric.md`) đã được người khác chấm mù đạt mốc ĐẠT (người dựng dàn ý đã tự soi); đã lưu vào `11_narrative_craft_scorecard.md`
+   [ ] Phiếu A cấp bài (`00_core/narrative_craft_rubric.md`) đã được người khác chấm mù đạt mốc ĐẠT (người dựng dàn ý đã tự soi rà soát câu yếu, không tính điểm); đã lưu vào `11_narrative_craft_scorecard.md`
    [ ] Tuân thủ Quy tắc Phân hạch (Narrative Fission): Không chương nào vượt trần 1.050 từ
    ```
 

@@ -9,8 +9,8 @@ Chất chuyện được chấm bằng tư duy của người đọc, có trích
 ## 1. Phạm vi áp dụng
 | Sản phẩm | Cấp chấm | Khi nào | Ai chấm |
 |---|---|---|---|
-| `07_outline.md` | Cấp bài (Phiếu A) | Pha 4, trước khi xin user duyệt dàn ý | Người dựng dàn ý tự soi (không tính điểm); người khác chấm mù trước khi xin duyệt |
-| `chapter_XX.md` | Cấp chương (Phiếu B, một dòng cho chương vừa viết) + cập nhật bảng gieo/gặt của Phiếu A | Pha 7, `chapter_writer/SKILL.md` Bước 3b | Người viết tự soi (không tính điểm, để sửa trước khi nộp) |
+| `07_outline.md` | Cấp bài (Phiếu A) | Pha 4, trước khi xin user duyệt dàn ý | Người khác ngoài người dựng dàn ý chấm mù trước khi xin duyệt (người dựng dàn ý tự soi rà soát câu yếu, không tính điểm) |
+| `chapter_XX.md` | Cấp chương (Phiếu B, tự soi chỗ yếu) + cập nhật bảng gieo/gặt của Phiếu A | Pha 7, `chapter_writer/SKILL.md` Bước 3b | Người viết tự soi để sửa trước khi nộp (không tính điểm, không làm cổng) |
 | Toàn bộ `chapter_XX.md` | Cả hai cấp, đầy đủ | Pha 10–11, `compliance_council/SKILL.md` Khóa 6 | Critical Auditor chấm mù (điểm chính thức cho K) |
 | `voiceover.md` | Chấm lại cấp bài | Sau Pha 8 (merge) | Người khác ngoài người merge chấm mù |
 
@@ -51,10 +51,10 @@ Quy định bằng chứng:
 - Điểm 1–2 phải ghi câu lỗi và một câu đề xuất viết lại.
 - Người chấm so với ngân hàng đoạn mẫu ở mục 7, không chấm theo cảm giác chung.
 
-Tự soi và chấm mù (sửa 06/10/2026 theo Q11):
-- Người viết (hoặc người dựng dàn ý) đọc và in Phiếu B (Phiếu A) ra chat như công cụ tự soi: biết chương yếu ở đâu để sửa trước khi nộp. Việc tự soi này KHÔNG phải điều kiện qua cổng và điểm tự soi KHÔNG tính vào điểm K.
-- Critical Auditor (hoặc agent khác ngoài người viết) chấm mù: không xem bản tự soi trước khi nộp phiếu của mình. Dàn ý: Phiếu A do người khác ngoài người dựng dàn ý chấm trước khi xin user duyệt. Chương: chấm mù ở Pha 10 là điều kiện qua cổng và là nguồn tính điểm K.
-- Sau khi đã nộp phiếu chấm mù, hai bên đối chiếu: ở chỉ tiêu nào hai bản lệch quá 1 điểm, đọc lại cùng nhau đúng đoạn đó, ghi điểm thống nhất và lý do vào phiếu. Điểm K lấy từ phiếu chấm mù (hoặc điểm thống nhất sau đối chiếu khi lệch > 1).
+Tự soi và chấm mù (sửa 06/10/2026, NC-SOI-17):
+- Người viết (hoặc người dựng dàn ý) tự soi để rà soát: chỉ tiêu nào yếu, trích câu, vì sao, câu sửa. Tuyệt đối không tự cho điểm, không tính trung bình, không ghi ĐẠT/KHÔNG/PASS. Việc tự soi này không phải điều kiện qua cổng và không tính vào điểm K.
+- Điều kiện qua cổng và điểm số chỉ đến từ chấm mù: Critical Auditor (hoặc agent khác ngoài người viết) chấm mù Phiếu B từng chương và Phiếu A cả bài mà không xem bản tự soi trước khi nộp phiếu của mình. Khi có nhiều agent, giao lượt này cho agent hoặc phiên khác với người viết. Dàn ý: Phiếu A do người khác ngoài người dựng dàn ý chấm trước khi xin user duyệt. Chương: chấm mù ở Pha 10 là điều kiện qua cổng và là nguồn tính điểm K. Sau merge: Phiếu A do người khác ngoài người merge chấm.
+- Sau khi đã nộp phiếu chấm mù, hai bên đối chiếu: người chấm mù đọc danh sách chỗ yếu của người viết; chỗ nào người viết thấy yếu mà người chấm mù cho 4–5, hoặc ngược lại (người viết không thấy yếu mà chấm mù cho 1–2), thì hai bên đọc lại đúng đoạn đó, ghi điểm thống nhất và lý do vào phiếu. Điểm K lấy từ phiếu chấm mù chính thức (hoặc điểm thống nhất sau đối chiếu).
 
 ## 4. Hai phiếu mẫu
 
@@ -91,14 +91,14 @@ Mỗi ô ghi `điểm · "trích câu ≤ 25 từ"`. Ô điểm 3 được để
 | Cột "đẩy câu hỏi" thấp ở một chương dù chỉ tiêu cấp chương cao | Chương lạc đề hoặc là chương thừa | Pha 4: gộp, cắt hoặc đổi nhiệm vụ chương |
 
 ## 6. Mốc ĐẠT và lệnh sửa
-Mốc ĐẠT (user chốt 06/10/2026), áp riêng cho từng cấp:
+Mốc ĐẠT (user chốt 06/10/2026), áp riêng cho từng cấp theo kết quả chấm mù chính thức (hoặc điểm thống nhất sau đối chiếu):
 - Không chỉ tiêu nào dưới 3 (cấp chương: không ô nào của chương nào dưới 3).
 - Trung bình ≥ 4,0 (cấp bài: trung bình Phiếu A; cấp chương: trung bình mọi ô của Phiếu B).
 - Ba chỉ tiêu quyết định "chuyện hay báo cáo" ≥ 4: I (cấp bài), IV (IV-b ở cấp bài, IV-a ở từng chương), V (từng chương). Chương kết theo chế độ B được tính cú lật là phép đặt hai cách đọc cạnh nhau.
 
 Loại ngay (Hard-Fail, nằm trong `quality_rubric.md` §4): cấp bài có I hoặc X dưới 3; hoặc có chương mà IV-a và V cùng ≤ 2.
 
-Điểm K quy về thang 20 của `quality_rubric.md`: K = (trung bình cấp bài + trung bình cấp chương) ÷ 2 × 4, lấy từ kết quả chấm mù (hoặc điểm thống nhất sau đối chiếu khi lệch > 1), tuyệt đối không lấy từ bản tự soi. Đây là phép quy đổi điểm đã chấm, không phải phép đếm trên văn bản.
+Điểm K quy về thang 20 của `quality_rubric.md`: K = (trung bình cấp bài + trung bình cấp chương) ÷ 2 × 4, lấy từ kết quả chấm mù chính thức (hoặc điểm thống nhất sau đối chiếu), tuyệt đối không lấy từ bản tự soi của người viết. Đây là phép quy đổi điểm đã chấm, không phải phép đếm trên văn bản.
 
 Mẫu lệnh sửa (mỗi lệnh một dòng):
 | Chương | Chỉ tiêu | Câu lỗi (trích nguyên) | Vì sao | Một câu viết lại mẫu |

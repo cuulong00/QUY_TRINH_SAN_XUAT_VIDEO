@@ -7,21 +7,15 @@
 
 ## 0. Chấm dàn ý (Pha 4, trên `07_outline.md`)
 
-### 0a. Tự soi dàn ý của người dựng (không tính điểm)
+### 0a. Tự soi dàn ý của người dựng (tự rà soát câu yếu trước khi nộp, không ghi điểm)
 Người tự soi: [người dựng dàn ý] · Ngày: YYYY-MM-DD
 
-| Chỉ tiêu | Điểm | Trích câu từ dàn ý | Tự nhận xét / chỗ cần gia cố |
+| Chỉ tiêu yếu | Câu (trích từ dàn ý) | Vì sao | Câu sửa |
 |---|---|---|---|
-| I Câu hỏi kịch tính trung tâm | | | |
-| II Mức cược | | | |
-| III Gieo và gặt | | | |
-| IV-b Cao trào (vị trí: …%) | | | |
-| VII Giọng cấp bài (chế độ kết: A/B) | | | |
-| X Kết và nghĩa | | | |
-| **Trung bình** | | | [Tự soi] |
+| | | | |
 
 ### 0b. Chấm dàn ý bởi người khác (điểm chính thức trước khi xin user duyệt)
-Người chấm: [Auditor / Claude / agent khác] · Ngày: YYYY-MM-DD
+Người chấm: [người khác ngoài người dựng dàn ý] · Ngày: YYYY-MM-DD
 
 | Chỉ tiêu | Điểm | Trích câu từ dàn ý | Nhận xét / lệnh sửa |
 |---|---|---|---|
@@ -33,14 +27,12 @@ Người chấm: [Auditor / Claude / agent khác] · Ngày: YYYY-MM-DD
 | X Kết và nghĩa | | | |
 | **Trung bình** | | | ĐẠT / KHÔNG |
 
-## 1. Tự soi của người viết (không tính điểm, Pha 7, mỗi chương một dòng khi viết xong để rà soát câu yếu trước khi nộp)
+## 1. Tự soi của người viết (Pha 7, mỗi chương khi viết xong để rà soát câu yếu trước khi nộp, không ghi điểm)
 
 ### Phiếu B · Cấp chương (Tự soi)
-Mỗi ô: `điểm · "trích câu"`.
-
-| Chương | IV-a Cú lật | V Vật chứng | VI Chủ thể | VII Giọng | VIII Nhịp | IX Câu cho tai | Trung bình | Đẩy câu hỏi đi bao xa (1–5) |
-|---|---|---|---|---|---|---|---|---|
-| CH01 | | | | | | | | |
+| Chương | Chỉ tiêu yếu | Câu (trích) | Vì sao | Câu sửa |
+|---|---|---|---|---|
+| CH01 | | | | |
 
 ### Bảng gieo/gặt (cập nhật sau mỗi chương)
 | Hạt gieo | Chương gieo | Chương gặt | Trạng thái |
@@ -68,14 +60,16 @@ Người chấm: the_critical_auditor · Ngày: YYYY-MM-DD
 | **Trung bình cấp chương** | | | | | | | | ĐẠT / KHÔNG |
 
 ## 3. Đối chiếu
-| Chỉ tiêu / chương | Tự soi | Chấm mù | Lệch | Điểm thống nhất và lý do (khi lệch > 1) |
+(Sau khi nộp phiếu chấm mù: đối chiếu chỗ người viết thấy yếu với điểm 4–5 của chấm mù, hoặc chỗ chấm mù cho 1–2 mà người viết không thấy; hai bên đọc lại đúng đoạn đó và ghi kết luận)
+
+| Chương / Chỉ tiêu | Tự soi (chỗ yếu) | Chấm mù (điểm) | Lệch nhận định | Điểm thống nhất và lý do |
 |---|---|---|---|---|
 | | | | | |
 
 Hai cấp: [bài cao, chương thấp → Pha 7 / chương cao, bài thấp → Pha 4 / cả hai thấp → Pha 4 rồi Pha 7 / cả hai đạt]
 
 ## 4. Kết luận
-- Điểm K (thang 20) = (TB cấp bài + TB cấp chương) ÷ 2 × 4 (tính từ phiếu chấm mù sau khi đối chiếu thống nhất khi lệch > 1, không từ bản tự soi) = …
+- Điểm K (thang 20) = (TB cấp bài + TB cấp chương) ÷ 2 × 4 (tính từ phiếu chấm mù chính thức sau khi đối chiếu thống nhất, không từ bản tự soi) = …
 - Hard-Fail 11 (`quality_rubric.md` §4): cấp bài I hoặc X dưới 3? chương nào có IV-a và V cùng ≤ 2? → Có / Không
 - Kết luận: ĐẠT / KHÔNG ĐẠT · Chuyển về: không / Pha 4 / Pha 7
 

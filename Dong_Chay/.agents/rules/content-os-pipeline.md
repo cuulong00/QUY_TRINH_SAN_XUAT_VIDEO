@@ -1,6 +1,5 @@
----
-trigger: always_on
----
+> 📎 **TÀI LIỆU THAM KHẢO, KHÔNG TỰ NẠP (từ 06/10/2026).** Luật hiện hành: hiến pháp `.agents/AGENTS.md` và thẻ pha `.agents/phases/`. File này chỉ được đọc theo **đúng mục** mà một thẻ pha trỏ tới. Lý do gỡ tự nạp: file 46.000 ký tự bị Antigravity cắt còn khoảng 21.600 ký tự, nên hơn một nửa luật không tới được agent. Chỗ nào mâu thuẫn với hiến pháp hay thẻ pha thì hiến pháp và thẻ pha thắng.
+
 
 # Dòng Chảy Content OS — Pipeline Bắt Buộc
 

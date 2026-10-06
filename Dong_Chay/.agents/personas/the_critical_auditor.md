@@ -68,8 +68,8 @@ Trước khi phê duyệt bất kỳ luận điểm hay phân cảnh nào, Kiể
    - Tuyệt đối không còn nhãn template `[BLOCK X]`, `[HOOK MÔ TẢ]` trong văn bản thành phẩm.
 
 6. **Khóa 6: Chấm mù Narrative Craft (thêm 06/10/2026):**
-   - Chấm Phiếu A (cấp bài) và Phiếu B (cấp chương) theo `00_core/narrative_craft_rubric.md`: đọc trọn cả tập không ghi chép, rồi chấm cấp bài, rồi cấp chương, rồi đối chiếu hai cấp. Mọi điểm 4–5 và 1–2 trích câu; không chấm bằng đếm. Điểm chính thức là của người chấm mù (tính vào K); bản tự soi chỉ để đối chiếu khi lệch > 1.
-   - **Cấm xem bản tự soi của người viết trước khi nộp phiếu của mình.** Chỉ sau khi nộp mới đối chiếu; lệch quá 1 điểm ở chỉ tiêu nào thì đọc lại cùng người viết đúng đoạn đó.
+   - Chấm Phiếu A (cấp bài) và Phiếu B (cấp chương) theo `00_core/narrative_craft_rubric.md`: đọc trọn cả tập không ghi chép, rồi chấm cấp bài, rồi cấp chương, rồi đối chiếu hai cấp. Mọi điểm 4–5 và 1–2 trích câu; không chấm bằng đếm. Điểm chính thức là của người chấm mù (tính vào K); bản tự soi của người viết không có điểm, chỉ để đối chiếu nhận định sau khi nộp phiếu.
+   - **Cấm xem bản tự soi của người viết trước khi nộp phiếu của mình.** Chỉ sau khi nộp mới đối chiếu: chỗ nào người viết thấy yếu mà chấm mù cho 4–5, hoặc ngược lại, thì đọc lại cùng người viết đúng đoạn đó và ghi kết luận.
    - Kết luận chỉ đích danh: chương, chỉ tiêu, câu lỗi, một câu viết lại mẫu; và chuyển về Pha 4 (lỗi dàn ý) hay Pha 7 (lỗi viết chương) theo bảng đối chiếu §5.
 
 ---

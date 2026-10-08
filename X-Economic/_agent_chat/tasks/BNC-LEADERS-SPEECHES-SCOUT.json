@@ -1,0 +1,12 @@
+{
+  "taskId": "BNC-LEADERS-SPEECHES-SCOUT",
+  "contextId": "x-economy-master",
+  "state": "completed",
+  "assignedTo": "antigravity",
+  "createdBy": "claude",
+  "summary": "Nghiên cứu kênh YouTube BNC Tiếng Việt, liệt kê 15 bài phát biểu/phát ngôn của lãnh đạo các nước trong năm 2026 có quan điểm sắc/tranh luận gay gắt (không lấy loại chung chung), tạo project riêng và tải 15 video gốc về.",
+  "artifacts": [
+    "01_management/bnc_leaders_speeches_scout.md",
+    "01_management/research_raw/bnc_leaders_speeches_2026/"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "agent-collaboration-bus": {
+    "Stop": [
+      {
+        "type": "command",
+        "command": "python3 /Users/pro16/Documents/VideoProject/.agents/hooks/agent_bus_stop_hook.py",
+        "timeout": 3300
+      }
+    ]
+  }
+}

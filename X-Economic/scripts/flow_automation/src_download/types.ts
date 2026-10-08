@@ -1,0 +1,4 @@
+1export type PromptStatus = 'Pending' | 'Waiting' | 'Active' | 'Completed' | 'Error';2
+3export interface StoryboardPrompt {4  id: string;5  chapter: string;6  scene: string;7  text: string;8  status: PromptStatus;9  progress: number;10  timeLeft: number;11  duration: number; // Total processing time expected12  startTime?: number;13}14
+15export interface TrackState {16  id: number;17  promptId: string | null;18  status: 'Idle' | 'Processing' | 'Ready';19}20
+21export interface CampaignData {22  name: string;23  prompts: StoryboardPrompt[];24  tracksCount: number;25  interval: number;26  exportedAt: string;27  videoModel: string;28  imageModel: string;29}

@@ -1,0 +1,13 @@
+{
+  "contextId": "x-economy-master",
+  "project": "X-Economic",
+  "claude": {
+    "sessionNote": "Chờ Claude Code kết nối điều phối",
+    "updatedAt": "2026-09-28T05:58:25.422161+00:00"
+  },
+  "antigravity": {
+    "conversationId": "ead42b0d-1b45-4f31-bf36-7f175416ffb5",
+    "updatedAt": "2026-09-28T05:58:25.422161+00:00"
+  },
+  "status": "active"
+}

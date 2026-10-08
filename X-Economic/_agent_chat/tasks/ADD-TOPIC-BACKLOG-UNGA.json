@@ -1,0 +1,11 @@
+{
+  "taskId": "ADD-TOPIC-BACKLOG-UNGA",
+  "contextId": "x-economy-master",
+  "state": "completed",
+  "assignedTo": "antigravity",
+  "createdBy": "claude",
+  "summary": "Append entry mới vào 01_management/topic_backlog.md theo đúng nội dung Claude đã soạn (slug khung-hoang-lhq-ai-huong-loi), không tự viết lại/diễn giải thêm.",
+  "artifacts": [
+    "01_management/topic_backlog.md"
+  ]
+}

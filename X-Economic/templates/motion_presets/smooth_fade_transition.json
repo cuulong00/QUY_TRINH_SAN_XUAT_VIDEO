@@ -1,0 +1,9 @@
+{
+  "id": "smooth_fade_transition",
+  "name": "Cinematic Black Fade Transition",
+  "type": "transition",
+  "slug": "black-fade",
+  "duration_s": 0.4,
+  "duration_us": 400000,
+  "description": "Hiệu ứng chuyển cảnh Mờ đen nhẹ 0.4s giữa các phân cảnh, tạo nhịp nghỉ điện ảnh êm ái."
+}

@@ -101,6 +101,13 @@ package-lock.json
 **/Chrome-Canary-Automation/
 **/.playwright/
 
+# --- KNOWLEDGE BASE DATA (FalkorDB volume) ---
+.kb_data/
+
+# --- AGENT BUS RUNTIME ---
+.agents/hooks/agent_bus_stop_hook.log
+**/_agent_chat/**/.antigravity_last_seq
+
 # --- SECRETS & CREDENTIALS ---
 .env
 .env.*
@@ -135,8 +142,6 @@ temp/
 **/temp/
 **/tmp_download/
 
-# Deprecated Archive (Bản cũ tháng 5-7, đã thay bằng X-Economics)
-X-Economic/
 
 # Heavy 4K Thumbnail Renders & Working Design Files
 **/thumbnail/
@@ -146,3 +151,10 @@ X-Economic/
 *.key
 *.psd
 *.ai
+
+# X-Economic: bí mật và môi trường cục bộ
+X-Economic/.agents/credentials/
+X-Economic/.notebooklm_home/
+X-Economic/.venv_notebooklm/
+X-Economic/scripts/generate_all_assets.py
+X-Economic/scripts/tts/ai_dubbing.py

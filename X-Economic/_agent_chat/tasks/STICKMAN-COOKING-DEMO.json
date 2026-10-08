@@ -1,0 +1,9 @@
+{
+  "taskId": "STICKMAN-COOKING-DEMO",
+  "contextId": "x-economy-master",
+  "state": "completed",
+  "assignedTo": "antigravity",
+  "createdBy": "claude",
+  "summary": "Tạo video demo người que (stick figure) đang nấu ăn, render bằng code, ~15-20 giây MP4 1080p. Chỉ ghi file trong X-Economic/_sandbox/stickman_cooking/.",
+  "artifacts": ["_sandbox/stickman_cooking/stickman_cooking.mp4", "_sandbox/stickman_cooking/README.md"]
+}

@@ -1,0 +1,9 @@
+{
+  "taskId": "FOOTAGE-HUNTER-DEEPDIVE",
+  "contextId": "x-economy-master",
+  "state": "completed",
+  "assignedTo": "antigravity",
+  "createdBy": "claude",
+  "summary": "Đào sâu cơ chế thật của khâu săn B-roll: cách sinh search query từ nội dung cảnh, và cách (nếu có) audit/verify clip tìm được trước khi chấp nhận.",
+  "artifacts": ["01_management/footage_hunter_deepdive.md"]
+}

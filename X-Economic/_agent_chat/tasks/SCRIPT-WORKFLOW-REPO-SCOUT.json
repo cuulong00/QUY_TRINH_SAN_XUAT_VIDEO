@@ -1,0 +1,9 @@
+{
+  "taskId": "SCRIPT-WORKFLOW-REPO-SCOUT",
+  "contextId": "x-economy-master",
+  "state": "completed",
+  "assignedTo": "antigravity",
+  "createdBy": "claude",
+  "summary": "Tìm trên web (GitHub là chính) các repo có quy trình viết kịch bản/bài dài bằng AI chặt chẽ hơn pipeline 16 pha hiện tại của X-Economic; so sánh cơ chế cụ thể, không sửa gì trong dự án.",
+  "artifacts": ["01_management/script_workflow_repo_scout.md"]
+}

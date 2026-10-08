@@ -1,0 +1,29 @@
+{
+  "name": "gemini-gems-mcp",
+  "version": "1.0.0",
+  "description": "MCP Server for Gemini Gems automation using Patchright",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "gemini-gems-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx watch src/index.ts",
+    "auth": "tsx src/automation.ts --auth"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "patchright": "^1.48.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

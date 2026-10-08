@@ -1,0 +1,223 @@
+# 08_chapter_briefs.md
+
+episode_slug: __EPISODE_SLUG__
+
+chapter_01:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_02:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_03:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_04:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_05:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_06:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_07:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_08:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_09:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:
+
+chapter_10:
+  purpose:
+  chapter_thesis:
+  editorial_perspective:
+  data_verified:
+  cau_hoi_dieu_tra:
+  vat_chung:
+  cu_lat:
+  chu_the_va_dong_co:
+  steelman_counter_thesis:
+  personal_stakes_or_relevance:
+  key_insight:
+  chapter_signature:
+  personal_or_relevance_angle:
+  research_vault_insights:
+  admitted_trade_offs:
+  causal_momentum:
+  spine_anchor:
+  russian_doll_revelation:
+  forbidden_echoes:
+  perspective_shift_anchor:

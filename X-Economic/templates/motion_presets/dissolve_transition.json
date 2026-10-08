@@ -1,0 +1,9 @@
+{
+  "id": "dissolve_transition",
+  "name": "Cinematic Dissolve Transition",
+  "type": "transition",
+  "slug": "dissolve",
+  "duration_s": 0.4,
+  "duration_us": 400000,
+  "description": "Hiệu ứng chuyển cảnh hòa tan chéo hình ảnh, tạo tính liên tục cho các chuỗi phân cảnh cùng chủ đề."
+}

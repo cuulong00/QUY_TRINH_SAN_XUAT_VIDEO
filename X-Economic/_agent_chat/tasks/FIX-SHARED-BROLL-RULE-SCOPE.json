@@ -1,0 +1,13 @@
+{
+  "taskId": "FIX-SHARED-BROLL-RULE-SCOPE",
+  "contextId": "x-economy-master",
+  "state": "completed",
+  "assignedTo": "antigravity",
+  "createdBy": "claude",
+  "summary": "Khôi phục lại /Users/pro16/Documents/VideoProject/.agents/rules/broll-production-standard.md (file DÙNG CHUNG cho Dòng Chảy, Góc Nhìn Podcast, X-Economics, FootageHunter) về đúng nội dung gốc trước khi bị VISUAL-PIPELINE-REDESIGN-V1 ghi đè nhầm; chuyển bản 3-trụ-cột mới (bỏ VEO_AI) thành bản CỤC BỘ chỉ áp dụng cho X-Economic.",
+  "artifacts": [
+    "/Users/pro16/Documents/VideoProject/.agents/rules/broll-production-standard.md",
+    "X-Economic/.agents/rules/broll-production-standard.md",
+    "01_management/fix_shared_broll_rule_scope.md"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cinematic_title",
+  "name": "Cinematic Title Overlay",
+  "category": "title_intro",
+  "description": "Tiêu đề mở đầu chương hoặc phần mới: Chữ vàng/trắng cỡ lớn 22pt, xuất hiện mờ dần (Fade-in 0.6s) và tan biến êm dịu.",
+  "source_reference": "cutcli-cookbook/templates/captions/cinematic-title.json",
+  "typography": {
+    "font_size": 22.0,
+    "color": "#FFD700",
+    "bold": true,
+    "alignment": 1,
+    "x": 0.0,
+    "y": 0.2
+  },
+  "animation": {
+    "intro": "fade-in",
+    "intro_duration_s": 0.6,
+    "outro": "fade-out",
+    "outro_duration_s": 0.5
+  },
+  "styling": {
+    "has_border": true,
+    "border_width": 0.08,
+    "border_color": "#000000",
+    "border_alpha": 1.0,
+    "has_shadow": true,
+    "shadow_alpha": 0.8,
+    "shadow_angle": -45.0,
+    "shadow_distance": 6.0,
+    "shadow_color": "#000000"
+  }
+}

@@ -7,7 +7,7 @@ Strictly follows the 4-Tier AI-Actionable Blueprint mandated by Content OS and A
 import os
 from pathlib import Path
 
-WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/GocNhinPodcast")
+WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/X-Economic")
 EPISODE_DIR = WORKSPACE_ROOT / "episodes" / "thai-lan-no-ngap-dau-vet-xe-do-nhat-ban"
 VAULT_DIR = EPISODE_DIR / "vault"
 VAULT_DIR.mkdir(parents=True, exist_ok=True)

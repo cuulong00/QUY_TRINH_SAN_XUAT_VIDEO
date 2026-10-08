@@ -39,7 +39,7 @@ def crop_center_16_9(image_path, output_path=None):
         return False
 
 def main():
-    target_dir = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/showbiz_drugs_economics/images"
+    target_dir = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/showbiz_drugs_economics/images"
     
     # 6 core generated images to crop
     target_filenames = [

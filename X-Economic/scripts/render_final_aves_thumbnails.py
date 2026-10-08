@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 BASE_IMAGE = "/Users/pro16/.gemini/antigravity/brain/3b74c390-c043-4563-8882-01f2d464d8f8/aves_vinfast_thumb_1790005047121.jpg"
 FONT_PATH = "/System/Library/Fonts/Supplemental/Tahoma Bold.ttf"
-OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/aves-khoi-nghiep-xe-dien/thumbnails"
+OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/aves-khoi-nghiep-xe-dien/thumbnails"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def create_gradient(width, height, top_color, bottom_color):

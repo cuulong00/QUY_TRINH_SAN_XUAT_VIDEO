@@ -4,7 +4,7 @@
 - **Official Channel Name:** X-Economy
 - **YouTube Official Channel URL Handle:** `https://www.youtube.com/@X-Economy`
 - **Editorial DNA:** Investigative Global Macroeconomics, Geopolitics, Supply Chains & Industrial Strategy.
-- **Thematic Scope:** Applying the signature *Góc Nhìn* investigative & systemic lens to the **United States, the United Kingdom, and Global Geoeconomics** (Housing market distortions, private equity financialization, infrastructure decay, semiconductor chokepoints, productivity traps).
+- **Thematic Scope:** Applying the signature investigative & systemic lens to the **United States, the United Kingdom, and Global Geoeconomics** (Housing market distortions, private equity financialization, infrastructure decay, semiconductor chokepoints, productivity traps).
 - **Primary Language (Sản phẩm cuối):** English (US English Accent / Documentarian Voice).
 - **QUY TRÌNH NGÔN NGỮ 2 GIAI ĐOẠN (DUAL-STAGE LANGUAGE PROTOCOL — BẮT BUỘC 100%):**
   1. **Giai đoạn 1 (Tư duy, Phân tích, Dàn ý, Hook & Kịch bản gốc): 100% BẰNG TIẾNG VIỆT.**
@@ -193,7 +193,7 @@ Kênh X-Economy định vị là kênh phóng sự điều tra kinh tế vĩ mô
 - Kịch bản viết cho khán giả toàn cầu nghe hiểu qua video tài liệu, do đó việc sử dụng hình tượng đời thường và phép loại suy (Metaphor) là bắt buộc.
 - **Tuy nhiên, hình tượng hóa chỉ để LÀM SÁNG TỎ CƠ CHẾ, không được BÓP MÉO BẢN CHẤT:** Một phép ẩn dụ xuất sắc phải phản ánh đúng logic vận hành thực tế. Nếu một phép so sánh làm khán giả hiểu sai về cách thức hoạt động của thị trường vốn, địa chính trị hay công nghệ, đó là một phép so sánh tồi và phá hủy uy tín của kênh.
 
-### 3. Hợp Đồng Nhận Thức & Dòng Chảy Tuyến Tính (Narrative Contract & Cognitive Flow)
+### 3. Hợp Đồng Nhận Thức & Mạch Dẫn Tuyến Tính (Narrative Contract & Cognitive Flow)
 - Người xem tiếp nhận video theo trục thời gian một chiều (Linear Time). Phần mở đầu (Hook) chính là một **Hợp đồng nhận thức (Cognitive Contract)** ký kết với khán giả: Mọi xung đột kịch tính, câu hỏi lớn, bí ẩn hay nghịch lý được gieo ở Hook là lời hứa mà người viết bắt buộc phải giải tỏa ngay trong các phân đoạn tiếp theo.
 - Tuyệt đối không được "bỏ rơi" câu hỏi của khán giả để nói sang các chủ đề lan man khác. Mạch phim phải giải quyết từng nút thắt theo đúng dòng tâm lý tự nhiên của người nghe: *Nêu nghịch lý ➔ Giải mã nguyên nhân trực tiếp ➔ Đào sâu cơ chế cốt lõi ➔ Mở rộng tác động hệ thống ➔ Đúc kết bài học.*
 

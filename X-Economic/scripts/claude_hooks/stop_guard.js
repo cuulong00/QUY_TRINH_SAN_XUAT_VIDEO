@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const STATE_FILE = '/tmp/gocnhinpodcast-claude-hook-state.json';
+const STATE_FILE = '/tmp/xeconomic-claude-hook-state.json';
 
 function readStdin() {
   return new Promise(resolve => {

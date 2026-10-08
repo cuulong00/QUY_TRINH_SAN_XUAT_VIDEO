@@ -75,7 +75,7 @@ def clean_google_ai_text(raw_text):
 
 def main():
     print("🚀 Khởi chạy Google AI Search Mode Audit (Chrome CDP 9222)...")
-    episode_dir = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/vinh-thai-lan-song-ngam-ngoai-giao"
+    episode_dir = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/vinh-thai-lan-song-ngam-ngoai-giao"
     out_dir = os.path.join(episode_dir, "google_ai_audit")
     os.makedirs(out_dir, exist_ok=True)
     

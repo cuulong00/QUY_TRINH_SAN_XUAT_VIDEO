@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Phase Gatekeeper Verification Script for Dong_Chay Production Pipeline.
+Phase Gatekeeper Verification Script for X-Economic Production Pipeline.
 Enforces hard barriers between phases to prevent LLM agents from skipping
 NotebookLM Deep Research, faking vaults, or bypassing data verification.
 

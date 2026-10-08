@@ -3,9 +3,9 @@ import shutil
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-BASE_IMAGE = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/aves-khoi-nghiep-xe-dien/thumbnails/clean_plate_pnv_thanh.jpg"
+BASE_IMAGE = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/aves-khoi-nghiep-xe-dien/thumbnails/clean_plate_pnv_thanh.jpg"
 FONT_PATH = "/System/Library/Fonts/Supplemental/Tahoma Bold.ttf"
-OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/aves-khoi-nghiep-xe-dien/thumbnails"
+OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/aves-khoi-nghiep-xe-dien/thumbnails"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def create_gradient(width, height, top_color, bottom_color):

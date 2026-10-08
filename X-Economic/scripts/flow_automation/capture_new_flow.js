@@ -22,7 +22,7 @@ async function main() {
         }
 
         console.log('Capturing new flow state...');
-        const scratchDir = '/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch';
+        const scratchDir = '/Users/pro16/Documents/VideoProject/X-Economic/scratch';
         await page.screenshot({ path: `${scratchDir}/new_flow_state.png` });
         console.log('Screenshot saved to new_flow_state.png');
 

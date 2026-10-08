@@ -54,7 +54,7 @@ async function main() {
             };
         });
 
-        fs.writeFileSync('/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch/dialog_debug.json', JSON.stringify(dialogInfo, null, 2));
+        fs.writeFileSync('/Users/pro16/Documents/VideoProject/X-Economic/scratch/dialog_debug.json', JSON.stringify(dialogInfo, null, 2));
         console.log('Dialog debug info saved to dialog_debug.json');
 
         // Click first option to see if dialog closes

@@ -302,7 +302,7 @@ async function main() {
             return;
         }
 
-        const scratchDir = '/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch';
+        const scratchDir = '/Users/pro16/Documents/VideoProject/X-Economic/scratch';
         
         console.log('1. Setting model to Veo 3.1...');
         await setModel(page, 'Veo 3.1 - Lite [Lower Priority]');

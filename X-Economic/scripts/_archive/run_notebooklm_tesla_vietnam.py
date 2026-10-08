@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Dedicated Deep Research & Extraction Pipeline for Episode: Tesla Motors Việt Nam.
-Workspace: /Users/pro16/Documents/VideoProject/GocNhinPodcast
+Workspace: /Users/pro16/Documents/VideoProject/X-Economic
 Account: duongtt84@gmail.com
 Enforces `--mode deep --import-all` and extracts verified data anchors into research_vault.
 """
@@ -13,7 +13,7 @@ import time
 import subprocess
 from pathlib import Path
 
-WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/GocNhinPodcast")
+WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/X-Economic")
 NOTEBOOKLM_HOME = WORKSPACE_ROOT / ".notebooklm_home"
 CLI_PATH = WORKSPACE_ROOT / ".venv_notebooklm" / "bin" / "notebooklm"
 

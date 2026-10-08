@@ -26,7 +26,7 @@ async function main() {
         console.log('Found open Flow page:', page.url());
         await page.bringToFront();
 
-        const scratchDir = '/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch';
+        const scratchDir = '/Users/pro16/Documents/VideoProject/X-Economic/scratch';
         if (!fs.existsSync(scratchDir)) fs.mkdirSync(scratchDir, { recursive: true });
         
         const screenshotPath = path.join(scratchDir, 'flow_state.png');

@@ -2,12 +2,12 @@ import os
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-THUMBNAILS_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/hoa-phat-thaco-nghich-ly-cong-nong/thumbnails"
+THUMBNAILS_DIR = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/hoa-phat-thaco-nghich-ly-cong-nong/thumbnails"
 PLATE_V1 = os.path.join(THUMBNAILS_DIR, "clean_plate_v1_cinematic.jpg")
 PLATE_V2 = os.path.join(THUMBNAILS_DIR, "clean_plate_v2_balanced.jpg")
 
-HOA_PHAT_LOGO = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/seu-dau-dan/references/logos/hoa_phat_logo.png"
-THACO_LOGO = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/seu-dau-dan/references/logos/thaco_logo.png"
+HOA_PHAT_LOGO = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/seu-dau-dan/references/logos/hoa_phat_logo.png"
+THACO_LOGO = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/seu-dau-dan/references/logos/thaco_logo.png"
 
 FONT_TAHOMA_BOLD = "/System/Library/Fonts/Supplemental/Tahoma Bold.ttf"
 

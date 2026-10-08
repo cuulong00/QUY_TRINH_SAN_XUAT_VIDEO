@@ -72,7 +72,7 @@ def clean_google_ai_text(raw_text):
 
 def main():
     print("🚀 Bắt đầu Audit Hook qua Google Search AI Mode (Chrome CDP 9222)...")
-    out_dir = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/bay-mat-ngot-kinh-te-nen-tang/google_ai_audit"
+    out_dir = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/bay-mat-ngot-kinh-te-nen-tang/google_ai_audit"
     os.makedirs(out_dir, exist_ok=True)
     
     with sync_playwright() as p:

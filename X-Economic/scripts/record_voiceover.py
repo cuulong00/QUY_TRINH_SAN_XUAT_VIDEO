@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Bridge Caller for Production Voiceover (TTS) in GocNhinPodcast.
+Bridge Caller for Production Voiceover (TTS) in X-Economic.
 Calls the centralized engine at /Users/pro16/Documents/Code/TTS/run_production.py
-without duplicating TTS dependencies or phonetic libraries in GocNhinPodcast.
+without duplicating TTS dependencies or phonetic libraries in X-Economic.
 """
 
 import os
@@ -12,10 +12,10 @@ import argparse
 
 # Path to centralized TTS project
 TTS_ENGINE_PATH = "/Users/pro16/Documents/Code/TTS/run_production.py"
-GOCNHIN_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+XE_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def resolve_episode_dir(episode_arg):
-    """Resolve episode input to absolute path within GocNhinPodcast."""
+    """Resolve episode input to absolute path within X-Economic."""
     if os.path.isabs(episode_arg) and os.path.isdir(episode_arg):
         return episode_arg
     
@@ -24,12 +24,12 @@ def resolve_episode_dir(episode_arg):
         return os.path.abspath(episode_arg)
         
     # Check episodes/<slug>
-    ep_path = os.path.join(GOCNHIN_ROOT, "episodes", episode_arg)
+    ep_path = os.path.join(XE_ROOT, "episodes", episode_arg)
     if os.path.isdir(ep_path):
         return ep_path
         
     # Check if slug given as 'episodes/slug'
-    ep_path2 = os.path.join(GOCNHIN_ROOT, episode_arg)
+    ep_path2 = os.path.join(XE_ROOT, episode_arg)
     if os.path.isdir(ep_path2):
         return ep_path2
         
@@ -42,7 +42,7 @@ def main():
         sys.exit(1)
 
     parser = argparse.ArgumentParser(
-        description="GocNhinPodcast Production TTS Caller (delegates to Code/TTS)",
+        description="X-Economic Production TTS Caller (delegates to Code/TTS)",
         formatter_class=argparse.RawTextHelpFormatter
     )
     parser.add_argument("episode", type=str,
@@ -72,7 +72,7 @@ def main():
     episode_dir = resolve_episode_dir(args.episode)
     if not episode_dir:
         print(f"❌ Episode directory not found: '{args.episode}'")
-        print(f"Searched under: {os.path.join(GOCNHIN_ROOT, 'episodes')}")
+        print(f"Searched under: {os.path.join(XE_ROOT, 'episodes')}")
         sys.exit(1)
 
     # Build command to delegate to Code/TTS/run_production.py
@@ -101,7 +101,7 @@ def main():
     if unknown_args:
         cmd.extend(unknown_args)
 
-    print(f"🎙️ [GocNhinPodcast Bridge] Calling Code/TTS Engine...")
+    print(f"🎙️ [X-Economic Bridge] Calling Code/TTS Engine...")
     print(f"📂 Target Episode: {episode_dir}")
     print(f"🚀 Command: {' '.join(cmd)}\n")
 

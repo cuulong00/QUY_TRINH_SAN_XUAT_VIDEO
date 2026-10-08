@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const episodeDir = '/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kim-cuong-gia';
+const episodeDir = '/Users/pro16/Documents/VideoProject/X-Economic/episodes/kim-cuong-gia';
 
 const LAB_DIRECTOR_DESC = 'a Vietnamese man in his late 40s with Asian features, thin face, short neat graying hair, wearing a white laboratory lab coat, wire-rimmed glasses, intense focused expression';
 const WEALTHY_BUYER_DESC = 'a Vietnamese woman in her late 30s with Asian features, elegant features, long black hair tied up in a bun, wearing a loose flowing silk dark blouse, worried expression';

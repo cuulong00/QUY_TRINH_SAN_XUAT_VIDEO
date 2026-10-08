@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Deep Research Ingestion Script for GocNhinPodcast
+Deep Research Ingestion Script for X-Economic
 Episode: cuoc-chien-phan-cuc-ai
 Master Notebook: 5dd7498c-d258-4d37-b626-eb5c0f70b917
 Runs 6 modular deep research queries sequentially on Google NotebookLM,

@@ -2,8 +2,8 @@
   "id": "lower_third_callout",
   "name": "Documentary Lower-Third Callout",
   "category": "graphic_callout",
-  "description": "Thanh chú thích góc dưới bên trái cách đáy 25% (theo chuẩn GocNhinPodcast Lower-Left 25% Rule) cho chuyên gia, địa danh, đạo luật.",
-  "source_reference": "GocNhinPodcast/00_core/visual_style_guide.md",
+  "description": "Thanh chú thích góc dưới bên trái cách đáy 25% (theo chuẩn X-Economy Lower-Left 25% Rule) cho chuyên gia, địa danh, đạo luật.",
+  "source_reference": "00_core/visual_style_guide.md",
   "typography": {
     "font_size": 10.0,
     "color": "#26A69A",

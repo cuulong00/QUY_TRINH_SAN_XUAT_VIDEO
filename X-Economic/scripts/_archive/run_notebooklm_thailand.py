@@ -11,7 +11,7 @@ import time
 import subprocess
 from pathlib import Path
 
-WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/GocNhinPodcast")
+WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/X-Economic")
 NOTEBOOKLM_HOME = WORKSPACE_ROOT / ".notebooklm_home"
 CLI_PATH = WORKSPACE_ROOT / ".venv_notebooklm" / "bin" / "notebooklm"
 

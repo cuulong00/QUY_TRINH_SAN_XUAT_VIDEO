@@ -3,8 +3,8 @@ import shutil
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-OUTPUT_DIR_I2V = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/cuoc-chien-phan-cuc-ai-i2vplus/thumbnail"
-OUTPUT_DIR_CLASSIC = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/cuoc-chien-phan-cuc-ai/thumbnail"
+OUTPUT_DIR_I2V = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/cuoc-chien-phan-cuc-ai-i2vplus/thumbnail"
+OUTPUT_DIR_CLASSIC = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/cuoc-chien-phan-cuc-ai/thumbnail"
 os.makedirs(OUTPUT_DIR_I2V, exist_ok=True)
 os.makedirs(OUTPUT_DIR_CLASSIC, exist_ok=True)
 

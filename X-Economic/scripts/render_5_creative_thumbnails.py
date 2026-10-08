@@ -3,8 +3,8 @@ import shutil
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-OUTPUT_DIR_I2V = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/cuoc-chien-phan-cuc-ai-i2vplus/thumbnail"
-OUTPUT_DIR_CLASSIC = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/cuoc-chien-phan-cuc-ai/thumbnail"
+OUTPUT_DIR_I2V = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/cuoc-chien-phan-cuc-ai-i2vplus/thumbnail"
+OUTPUT_DIR_CLASSIC = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/cuoc-chien-phan-cuc-ai/thumbnail"
 os.makedirs(OUTPUT_DIR_I2V, exist_ok=True)
 os.makedirs(OUTPUT_DIR_CLASSIC, exist_ok=True)
 
@@ -155,8 +155,8 @@ def add_brand_badge(base_img, logo_path, center_x, center_y, target_h=70, border
 # =============================================================================
 # ASSETS & CONFIG
 # =============================================================================
-LOGO_OPENAI = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch/openai_logo_white.png"
-LOGO_ANTHROPIC = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch/anthropic_flawless_white.png"
+LOGO_OPENAI = "/Users/pro16/Documents/VideoProject/X-Economic/scratch/openai_logo_white.png"
+LOGO_ANTHROPIC = "/Users/pro16/Documents/VideoProject/X-Economic/scratch/anthropic_flawless_white.png"
 
 # Plates
 PLATES = {

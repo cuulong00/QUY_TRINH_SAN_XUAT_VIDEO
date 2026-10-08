@@ -2,8 +2,8 @@
 import os
 
 def main():
-    video_prompts_path = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/showbiz_drugs_economics/video_prompts.txt"
-    master_prompts_path = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/showbiz_drugs_economics/prompts_master.txt"
+    video_prompts_path = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/showbiz_drugs_economics/video_prompts.txt"
+    master_prompts_path = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/showbiz_drugs_economics/prompts_master.txt"
     
     # 1. Read existing video prompts
     if not os.path.exists(video_prompts_path):
@@ -13,9 +13,9 @@ def main():
     with open(video_prompts_path, "r", encoding="utf-8") as f:
         video_prompts_content = f.read()
         
-    # 2. Define high-quality image prompts (5-layer GocNhinPodcast Comic style)
+    # 2. Define high-quality image prompts (5-layer X-Economic Comic style)
     image_prompts_header = """================================================================================
-🎨 GOCNHINPODCAST IMAGE PROMPTS (PROMPT TẠO ẢNH TĨNH - INFOGRAPHICS & METAPHORS)
+🎨 X-ECONOMY IMAGE PROMPTS (PROMPT TẠO ẢNH TĨNH - INFOGRAPHICS & METAPHORS)
 ================================================================================
 Sử dụng các prompt dưới đây trên Midjourney, Grok, Imagen 4 hoặc DALL-E 3 để tạo ảnh tĩnh 16:9.
 Mọi prompt đã được tối ưu hóa theo Phong cách Hoạt hình 2D Hiện đại / Editorial Cartoon của kênh.
@@ -118,7 +118,7 @@ A SYMMETRICAL COMPOSITION showing a modern balance scale with two hands. On the 
 
 
 ================================================================================
-🎬 GOCNHINPODCAST VIDEO PROMPTS (PROMPT TẠO VIDEO CLIPS - 16:9)
+🎬 X-ECONOMY VIDEO PROMPTS (PROMPT TẠO VIDEO CLIPS - 16:9)
 ================================================================================
 Sử dụng các prompt dưới đây trên Runway Gen-2/Gen-3, Luma Dream Machine, Kling AI, Pika, hoặc Veo.
 Các prompt mô tả chuyển động camera và các hành động động của cảnh.

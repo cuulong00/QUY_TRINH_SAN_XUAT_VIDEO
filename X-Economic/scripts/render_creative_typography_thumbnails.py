@@ -2,7 +2,7 @@ import os
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/aves-khoi-nghiep-xe-dien/thumbnails"
+OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/aves-khoi-nghiep-xe-dien/thumbnails"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Available high quality fonts on macOS

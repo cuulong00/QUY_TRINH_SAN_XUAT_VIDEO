@@ -8,7 +8,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
 
-OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/tesla-vao-viet-nam/ref_images"
+OUTPUT_DIR = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/tesla-vao-viet-nam/ref_images"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 DIRECT_URLS = {

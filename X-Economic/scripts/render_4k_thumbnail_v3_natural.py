@@ -3,8 +3,8 @@ import shutil
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-OUTPUT_DIR_I2V = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/cuoc-chien-phan-cuc-ai-i2vplus/thumbnail"
-OUTPUT_DIR_CLASSIC = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/cuoc-chien-phan-cuc-ai/thumbnail"
+OUTPUT_DIR_I2V = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/cuoc-chien-phan-cuc-ai-i2vplus/thumbnail"
+OUTPUT_DIR_CLASSIC = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/cuoc-chien-phan-cuc-ai/thumbnail"
 os.makedirs(OUTPUT_DIR_I2V, exist_ok=True)
 os.makedirs(OUTPUT_DIR_CLASSIC, exist_ok=True)
 
@@ -142,8 +142,8 @@ def add_brand_badge(base_img, logo_path, center_x, center_y, target_h=75, border
 PLATE_STORM_CLOSEUP = "/Users/pro16/.gemini/antigravity/brain/7ab0dbd3-29ef-4a68-85fe-92e8fe846dd5/thumb_storm_scare_v3_1789862323733.jpg"
 PLATE_STORM_TERRACE = "/Users/pro16/.gemini/antigravity/brain/7ab0dbd3-29ef-4a68-85fe-92e8fe846dd5/thumb_storm_scare_v1_1789862260921.jpg"
 
-LOGO_OPENAI = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch/openai_logo_white.png"
-LOGO_ANTHROPIC = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch/anthropic_flawless_white.png"
+LOGO_OPENAI = "/Users/pro16/Documents/VideoProject/X-Economic/scratch/openai_logo_white.png"
+LOGO_ANTHROPIC = "/Users/pro16/Documents/VideoProject/X-Economic/scratch/anthropic_flawless_white.png"
 
 font_title = ImageFont.truetype(FONT_PATH, 420)
 font_sub = ImageFont.truetype(FONT_PATH, 96)

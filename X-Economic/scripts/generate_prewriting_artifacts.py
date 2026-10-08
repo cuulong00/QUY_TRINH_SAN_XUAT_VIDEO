@@ -16,7 +16,7 @@ Includes:
 import os
 from pathlib import Path
 
-WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/GocNhinPodcast")
+WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/X-Economic")
 EPISODE_DIR = WORKSPACE_ROOT / "episodes" / "thai-lan-no-ngap-dau-vet-xe-do-nhat-ban"
 
 brief_content = """# 03_brief.md: Strategy Brief
@@ -78,7 +78,7 @@ hook_pack_content = """# 04_hook_pack.md: Hook Lab
 * **0:15 – 0:35 (Vạch trần bóng tối phía sau):**  
   *"Tại sao một nền kinh tế từng được ca ngợi là 'con hổ thứ năm của châu Á', là thủ phủ ô tô của cả khu vực, hôm nay lại rơi vào một cơn sốt lạnh kỳ dị: Tăng trưởng rơi tự do xuống 1,3%, lạm phát đóng băng, và cứ 10 người dân bước ra đường thì có tới gần 9 người đang gánh trên lưng những khoản nợ ngập đầu?"*
 * **0:35 – 0:60 (Lời hứa video & Cầu nối giữ chân):**  
-  *"Thái Lan đang bước vào vết xe đổ 30 năm mất mát của Nhật Bản, nhưng theo một kịch bản tàn nhẫn hơn gấp ngàn lần: Đó là bi kịch của một quốc gia 'chưa kịp giàu đã già'. Và điều đáng sợ nhất là: Những mầm mống căn bệnh nợ nần mà người Thái đang gánh chịu, lại đang âm thầm xuất hiện ngay tại các đô thị của Việt Nam. Chào mừng quý vị đến với Góc Nhìn Podcast..."*
+  *"Thái Lan đang bước vào vết xe đổ 30 năm mất mát của Nhật Bản, nhưng theo một kịch bản tàn nhẫn hơn gấp ngàn lần: Đó là bi kịch của một quốc gia 'chưa kịp giàu đã già'. Và điều đáng sợ nhất là: Những mầm mống căn bệnh nợ nần mà người Thái đang gánh chịu, lại đang âm thầm xuất hiện ngay tại các đô thị của Việt Nam. Chào mừng quý vị đến với X-Economy..."*
 
 ---
 

@@ -4,10 +4,10 @@ import subprocess
 import time
 
 env = os.environ.copy()
-env["NOTEBOOKLM_HOME"] = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/.notebooklm_home"
-bin_path = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm"
+env["NOTEBOOKLM_HOME"] = "/Users/pro16/Documents/VideoProject/X-Economic/.notebooklm_home"
+bin_path = "/Users/pro16/Documents/VideoProject/X-Economic/.venv_notebooklm/bin/notebooklm"
 notebook_id = "d5c3d243-fab4-4376-8a53-418e43d11c36"
-vault_dir = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kbc-donald-trump-ban-khong-khi/research_vault"
+vault_dir = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/kbc-donald-trump-ban-khong-khi/research_vault"
 
 os.makedirs(vault_dir, exist_ok=True)
 

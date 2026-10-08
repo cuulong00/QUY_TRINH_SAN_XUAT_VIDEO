@@ -7,12 +7,12 @@ import httpx
 API_KEY = "AQ.Ab8RN6IEVMCQ9JKi9S12-Ev-Q79kYcjRiCrhEGz-qxZ9dEGG9A"
 MODEL_NAME = "gemini-2.5-flash"
 
-BASE_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast"
+BASE_DIR = "/Users/pro16/Documents/VideoProject/X-Economic"
 EPISODE_SLUG = "musk-tien-te-tuong-lai"
 
 def generate_visual_prompt_via_llm(api_key: str, scene_id: str, sentences: str, base_prompt: str, prev_prompt: str = "") -> str:
     system_instruction = """
-    You are the S-Grade Visual Director for GocNhinPodcast, a prestigious social and macro-economic analysis channel.
+    You are the S-Grade Visual Director for X-Economic, a prestigious social and macro-economic analysis channel.
     Your mission is to translate a Vietnamese voiceover sentence and its core visual idea into a single, high-quality English video prompt (for models like Runway Gen-3, Luma, or Veo 3.1).
     
     You must choose between exactly two brand styles depending on the scene content to ensure visual consistency and minimize video generation errors:

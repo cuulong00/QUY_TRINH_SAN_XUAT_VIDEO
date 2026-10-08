@@ -14,7 +14,7 @@ import datetime
 import time
 
 NOTEBOOK_ID = "4f6b0f44-fa82-4afb-91ba-b3f7b751c51d"
-EPISODE_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/tu-chu-duong-sat-cao-toc-bac-nam"
+EPISODE_DIR = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/tu-chu-duong-sat-cao-toc-bac-nam"
 VAULT_DIR = os.path.join(EPISODE_DIR, "research_vault")
 RAW_DIR = os.path.join(VAULT_DIR, "_extraction_raw")
 LOG_FILE = os.path.join(VAULT_DIR, "_extraction_log.txt")

@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..', '..');
-const STATE_FILE = '/tmp/gocnhinpodcast-claude-hook-state.json';
-const DISCLAIMER = 'Nội dung chia sẻ góc nhìn khách quan, mang tính thảo luận và xây dựng';
+const STATE_FILE = '/tmp/xeconomic-claude-hook-state.json';
+const DISCLAIMER = 'Nội dung chia sẻ luận điểm khách quan, mang tính thảo luận và xây dựng';
 
 function readStdin() {
   return new Promise((resolve, reject) => {

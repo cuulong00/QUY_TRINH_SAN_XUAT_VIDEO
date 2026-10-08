@@ -10,7 +10,7 @@ import os
 import sys
 import time
 
-os.environ["NOTEBOOKLM_HOME"] = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/.notebooklm_home"
+os.environ["NOTEBOOKLM_HOME"] = "/Users/pro16/Documents/VideoProject/X-Economic/.notebooklm_home"
 
 from notebooklm.client import NotebookLMClient
 

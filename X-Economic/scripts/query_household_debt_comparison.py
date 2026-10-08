@@ -4,7 +4,7 @@ import json
 import subprocess
 from pathlib import Path
 
-WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/GocNhinPodcast")
+WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/X-Economic")
 NOTEBOOKLM_HOME = WORKSPACE_ROOT / ".notebooklm_home"
 CLI_PATH = WORKSPACE_ROOT / ".venv_notebooklm" / "bin" / "notebooklm"
 EPISODE_DIR = WORKSPACE_ROOT / "episodes" / "thai-lan-no-ngap-dau-vet-xe-do-nhat-ban"

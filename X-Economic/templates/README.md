@@ -1,6 +1,6 @@
-# Thư Viện Template Chuẩn Hóa CapCut — Góc Nhìn Podcast
+# Thư Viện Template Chuẩn Hóa CapCut — X-Economy
 
-Hệ thống template chuẩn hóa dành riêng cho CapCut Desktop, kế thừa và tối ưu từ các dự án mã nguồn mở hàng đầu thế giới (**cutcli-cookbook**, **pyJianYingDraft**) và hệ quy chuẩn thị giác **Góc Nhìn Podcast DNA (v3.0)**.
+Hệ thống template chuẩn hóa dành riêng cho CapCut Desktop, kế thừa và tối ưu từ các dự án mã nguồn mở hàng đầu thế giới (**cutcli-cookbook**, **pyJianYingDraft**) và hệ quy chuẩn thị giác **X-Economy DNA**.
 
 ---
 

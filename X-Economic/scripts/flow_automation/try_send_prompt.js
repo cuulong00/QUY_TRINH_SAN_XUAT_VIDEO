@@ -36,7 +36,7 @@ async function main() {
         console.log('Submit button found. HTML:', await page.evaluate(b => b.outerHTML, el));
         
         // Take screenshot before click
-        const scratchDir = '/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch';
+        const scratchDir = '/Users/pro16/Documents/VideoProject/X-Economic/scratch';
         await page.screenshot({ path: `${scratchDir}/before_send_prompt.png` });
         console.log('Screenshot before click saved.');
 

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const episodeDir = '/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/kim-cuong-gia';
+const episodeDir = '/Users/pro16/Documents/VideoProject/X-Economic/episodes/kim-cuong-gia';
 
 function parsePrompts(filePath) {
     const content = fs.readFileSync(filePath, 'utf-8');

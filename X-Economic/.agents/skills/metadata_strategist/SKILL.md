@@ -13,7 +13,7 @@ description: YouTube SEO and Metadata specialist. MUST BE USED before publishing
 
 ## 📐 Tài liệu Tham Chiếu Bắt Buộc
 Trước khi viết bất kỳ metadata nào, BẮT BUỘC đọc:
-- `00_core/channel_profile_metadata.md` — Thông tin thương hiệu kênh chính thức (`@dong-chay-kinh-te-chinh-tri`).
+- `00_core/channel_profile_metadata.md` — Thông tin thương hiệu kênh chính thức (`@X-Economy`).
 - `00_core/youtube_seo_guide.md` — Quy chuẩn tiêu đề, mô tả, YMYL disclaimer và hashtag.
 - `00_core/thumbnail_style_guide.md` — Đảm bảo Title VIDEO bổ sung cho Headline THUMBNAIL, không lặp từ.
 
@@ -44,11 +44,11 @@ Mô tả video PHẢI bao gồm đầy đủ các khối sau:
 *   **Block 4 — CTA & Link Kênh X-Economy:**
     ```text
     💰 Nếu video này giúp bạn có cái nhìn rõ nét hơn về [chủ đề/chiến lược], hãy để lại ý kiến ở phần bình luận.
-    👉 Đăng ký kênh X-Economy để không bỏ lỡ các bài phân tích vĩ mô chuyên sâu: https://www.youtube.com/@dong-chay-kinh-te-chinh-tri
+    👉 Đăng ký kênh X-Economy để không bỏ lỡ các bài phân tích vĩ mô chuyên sâu: https://www.youtube.com/@X-Economy
     🔔 Bật chuông thông báo — Mỗi tuần 1 bài phân tích chuyên sâu.
     ```
 *   **Block 5 — Dòng Hashtag dính liền:**
-    `#DongChay #KinhTeChinhTri #PhanTichViMo #KinhTeVietNam #[Hashtags_Chủ_Đề]` (Viết liền 1 dòng, 8-13 tags).
+    `#XEconomy #KinhTeViMo #DiaKinhTe #TaiChinhToanCau #[Hashtags_Chủ_Đề]` (Viết liền 1 dòng, 8-13 tags).
 *   **Block 6 — YMYL Disclaimer (TRÁCH NHIỆM PHÁP LÝ & AN TOÀN YOUTUBE - BẮT BUỘC):**
     ```text
     --------------------------------------------------
@@ -69,7 +69,7 @@ Mô tả video PHẢI bao gồm đầy đủ các khối sau:
 
 ### 3. Hashtag
 Danh sách hashtag viết dính liền 1 dòng để copy nhanh:
-`#DongChay #KinhTeChinhTri #[Hashtag_Chiến_Lược_1] #[Hashtag_Chiến_Lược_2] ...`
+`#XEconomy #KinhTeViMo #DiaKinhTe #[Hashtag_Chiến_Lược_1] #[Hashtag_Chiến_Lược_2] ...`
 
 ### 4. Tags bổ sung (cho YouTube Studio)
 15-20 từ khóa tìm kiếm dài (long-tail keywords), phân cách bằng dấu phẩy, quét đầy đủ các ngách tìm kiếm từ rộng đến chuyên sâu (không quá 500 ký tự).
@@ -82,7 +82,7 @@ Danh sách hashtag viết dính liền 1 dòng để copy nhanh:
 ---
 
 ## ⚠️ Quy Tắc Tuyệt Đối Tránh Máy Móc
-1. **LUÔN DÙNG THƯƠNG HIỆU CHÍNH THỨC CỦA KÊNH:** Tuyệt đối KHÔNG nhầm lẫn hoặc copy-paste tên kênh khác (như X-Economic hay kênh cá nhân). Link kênh luôn là `https://www.youtube.com/@dong-chay-kinh-te-chinh-tri`.
+1. **LUÔN DÙNG THƯƠNG HIỆU CHÍNH THỨC CỦA KÊNH:** Tuyệt đối KHÔNG nhầm lẫn hoặc copy-paste tên kênh khác. Link kênh luôn là `https://www.youtube.com/@X-Economy`.
 2. **TRÁNH VẬN DỤNG MÁY MÓC:** Mọi tiêu đề, mô tả, câu hỏi comment ghim phải linh hoạt điều chỉnh theo đúng nội dung và bản chất của từng tập phim (doanh nghiệp, vĩ mô, địa chính trị, công nghệ, hay chính sách).
 3. **TUÂN THỦ YMYL & FINANCIAL BOUNDARIES:** Không hứa hẹn lợi nhuận, không lùa gà, không khuyến nghị mua bán cụ thể. Khối Disclaimer YMYL là bắt buộc 100% ở mọi video.
 

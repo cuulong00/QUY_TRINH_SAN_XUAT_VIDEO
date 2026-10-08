@@ -7,14 +7,14 @@ for episode: thai-lan-no-ngap-dau-vet-xe-do-nhat-ban.
 import os
 from pathlib import Path
 
-WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/GocNhinPodcast")
+WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/X-Economic")
 EPISODE_DIR = WORKSPACE_ROOT / "episodes" / "thai-lan-no-ngap-dau-vet-xe-do-nhat-ban"
 
 topic_qualification_content = """# Pha 1: Topic Qualification & Strategic Angle Review
 ## Đề tài: Khủng hoảng Kinh tế Thái Lan — Nợ ngập đầu & Vết xe đổ của Nhật Bản
 
 ### 1. Thẩm định Tiềm năng Nội dung (Socio-Political Strategy Council)
-- **Tên Kênh:** GocNhinPodcast (YouTube Handle: `@GocNhin_Podcast`)
+- **Tên Kênh:** X-Economic (YouTube Handle: `@XEconomic_Podcast`)
 - **Định vị Chủ đề:** Phân tích vĩ mô, kinh tế chính trị so sánh (Comparative Macroeconomics & Development Economics).
 - **Core Hook:** Thái Lan từng là "con hổ kinh tế" đi trước cả Đông Nam Á, là hình mẫu công nghiệp hóa và du lịch mà cả khu vực ngưỡng mộ. Nhưng hôm nay, Thái Lan đang rơi vào một thảm kịch kinh tế chưa từng có: **Lãi suất chính sách chỉ 1% (thấp kỷ lục, sắp thấp hơn cả Nhật Bản), nhưng không ai thèm vay tiền; nợ hộ gia đình cán mốc 86-90% GDP bóp nghẹt toàn bộ sức mua; dân số già hóa siêu tốc với tỷ lệ sinh sụp đổ; thủ phủ ô tô "Detroit Đông Nam Á" lung lay trước làn sóng xe điện Trung Quốc; và nguy cơ "Nhật Bản hóa" biến Thái Lan thành quốc gia "chưa kịp giàu đã già" đầu tiên tại châu Á.**
 

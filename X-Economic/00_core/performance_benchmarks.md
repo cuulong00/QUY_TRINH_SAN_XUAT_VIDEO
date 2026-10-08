@@ -9,19 +9,19 @@
 
 | Chỉ số | Baseline hiện tại | Mục tiêu | Ghi chú |
 |--------|-------------------|----------|---------|
-| CTR trung bình | ~4.5% | > 5% | Kênh mới: CTR 4-6% là đạt chuẩn |
-| AVD trung bình | 5 phút 18 giây | > 6 phút | Tính trên video dài |
-| AVD % trung bình (Long) | ~45% | > 40% | Video dài giữ chân tối ưu từ 40% - 55% |
-| Views/48h trung bình | ~3,500 views | > 5,000 views | |
-| Subscriber conversion | ~1.5% | > 2% per video | |
-| Comment rate | ~0.8% | > 1% of views | Tối ưu bằng Comment Hook cuối tập |
+| CTR trung bình | [CHỜ USER CUNG CẤP TỪ YOUTUBE STUDIO] | [CHỜ USER XÁC ĐỊNH] | Cập nhật từ YouTube Studio |
+| AVD trung bình | [CHỜ USER CUNG CẤP TỪ YOUTUBE STUDIO] | [CHỜ USER XÁC ĐỊNH] | Tính trên video dài |
+| AVD % trung bình (Long) | [CHỜ USER CUNG CẤP TỪ YOUTUBE STUDIO] | [CHỜ USER XÁC ĐỊNH] | Tỷ lệ giữ chân thực tế |
+| Views/48h trung bình | [CHỜ USER CUNG CẤP TỪ YOUTUBE STUDIO] | [CHỜ USER XÁC ĐỊNH] | |
+| Subscriber conversion | [CHỜ USER CUNG CẤP TỪ YOUTUBE STUDIO] | [CHỜ USER XÁC ĐỊNH] | |
+| Comment rate | [CHỜ USER CUNG CẤP TỪ YOUTUBE STUDIO] | [CHỜ USER XÁC ĐỊNH] | Tối ưu bằng Comment Hook cuối tập |
 
 ---
 
 ## 2. Retention Curve Patterns
 
 ### Pattern đã xác nhận
-- **Độ dài ngọt ngào (Length Sweet Spot):** Các video dài từ **8 - 15 phút** đạt tỷ lệ giữ chân xuất sắc từ **45% - 55%**. Các video dài hơn 20 phút dễ bị hụt hơi trừ khi có kịch tính đối đầu và cơ chế dữ liệu đa tầng cao.
+- **Độ dài ngọt ngào (Length Sweet Spot):** [CHỜ USER CUNG CẤP TỪ YOUTUBE STUDIO]. Các video dài hơn 20 phút dễ bị hụt hơi trừ khi có kịch tính đối đầu và cơ chế dữ liệu đa tầng cao.
 - **Drop phút 5 (Lỗi Data Dumping):** Xảy ra khi Chương 2 không có điểm chạm liên quan (Relevance Anchor), nhồi nhét lý thuyết thuần túy. Khán giả rời đi vì không thấy mâu thuẫn hay cơ chế thiết thực.
 - **Giữ chân cao (Personal Stakes / Relevance Hook):** Chuyển dịch một vấn đề vĩ mô thành áp lực tài chính, chi phí, hoặc bài toán đánh đổi trực tiếp đè lên đời sống và hoạt động kinh doanh của người xem.
 - **Lỗi Đề tài Trừu tượng:** Các chủ đề thiếu dữ liệu thực chứng và cơ chế thị trường cụ thể dễ bị người xem bỏ qua hoặc rơi rớt giữ chân nghiêm trọng.

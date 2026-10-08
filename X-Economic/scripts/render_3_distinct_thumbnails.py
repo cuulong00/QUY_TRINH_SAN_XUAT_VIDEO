@@ -2,7 +2,7 @@ import os
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
-THUMBNAILS_DIR = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/episodes/hoa-phat-thaco-nghich-ly-cong-nong/thumbnails"
+THUMBNAILS_DIR = "/Users/pro16/Documents/VideoProject/X-Economic/episodes/hoa-phat-thaco-nghich-ly-cong-nong/thumbnails"
 PLATE_H1 = os.path.join(THUMBNAILS_DIR, "plate_huong_1_investigative.jpg")
 PLATE_H2 = os.path.join(THUMBNAILS_DIR, "plate_huong_2_metaphor.jpg")
 PLATE_H3 = os.path.join(THUMBNAILS_DIR, "plate_huong_3_dualtitan.jpg")

@@ -350,7 +350,7 @@ async function main() {
             return;
         }
 
-        const scratchDir = '/Users/pro16/Documents/VideoProject/GocNhinPodcast/scratch';
+        const scratchDir = '/Users/pro16/Documents/VideoProject/X-Economic/scratch';
         
         console.log('=== PART 1: TESTING IMAGE CREATION ===');
         console.log('1. Setting model to 🍌 Nano Banana 2 Lite...');

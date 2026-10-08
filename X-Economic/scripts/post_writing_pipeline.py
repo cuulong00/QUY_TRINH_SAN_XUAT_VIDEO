@@ -7,7 +7,7 @@ and finalize Narrative State Tracker for episode: thai-lan-no-ngap-dau-vet-xe-do
 import os
 from pathlib import Path
 
-WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/GocNhinPodcast")
+WORKSPACE_ROOT = Path("/Users/pro16/Documents/VideoProject/X-Economic")
 EPISODE_DIR = WORKSPACE_ROOT / "episodes" / "thai-lan-no-ngap-dau-vet-xe-do-nhat-ban"
 
 # 1. Merge all chapters into final_voiceover.md

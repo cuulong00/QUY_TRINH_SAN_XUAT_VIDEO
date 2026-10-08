@@ -1,8 +1,8 @@
 import os, json, subprocess
 
 env = os.environ.copy()
-env["NOTEBOOKLM_HOME"] = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/.notebooklm_home"
-bin_path = "/Users/pro16/Documents/VideoProject/GocNhinPodcast/.venv_notebooklm/bin/notebooklm"
+env["NOTEBOOKLM_HOME"] = "/Users/pro16/Documents/VideoProject/X-Economic/.notebooklm_home"
+bin_path = "/Users/pro16/Documents/VideoProject/X-Economic/.venv_notebooklm/bin/notebooklm"
 notebook_id = "7069c72d-fe15-436c-9c21-57ac114117ec"
 
 queries = [
